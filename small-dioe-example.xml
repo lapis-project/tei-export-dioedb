@@ -189,4 +189,39 @@ von token zu tags?
           </f>
         </fs>
       </f>
+
+<fvLib>
+<fs xml:id="eineid" name="namegleichid" feats="#KONJ #KLAUT"> kette </fs>
+</fvLib>
+
+<fLib>
+
+</fLib>
 -->
+<w xml:id="t1159523" lemma="Jahr" type="NOUN" ana="#NN #eineid">viele</w>
+<w xml:id="t1159524" lemma="Jahr" type="NOUN" ana="#NN #eineid">jahre</w>
+<spanGrp type="event" desc="">
+  <span target="#t1159523 #t1159524" ana="#NN #taggrp2"></span>
+</spanGrp>
+
+<fvLib xml:id="chain_">
+  <fs xml:id="eineid" name="namegleichid" feats="#KONJ #KLAUT #stdL-"> kette </fs>
+  <!-- weitere Tagketten -->
+</fvLib>
+
+<fLib>
+
+  <f name="KONJ" xml:id="tag-203_10">
+    <string>Konjunktiv</string>
+    <fs type="tag">
+      <f name="KLaut" xml:id="tag-233">
+        <string>Konjunktivlautung</string>
+        <fs type="tag">
+          <f name="stdL-" xml:id="tag-248_92" sameAs="">
+            <string>standardferne Lautung</string>
+          </f>
+        </fs>
+      </f>
+    </fs>
+  </f>
+</fLib>
