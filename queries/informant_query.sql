@@ -17,4 +17,4 @@ left join "PersonenDB_tbl_informantinnen_gruppe" pdtig on
 left join "OrteDB_tbl_orte" odto on
 	odto.id = pdti.geburtsort_id
 where
-	pdti.id ANY(%s)
+	pdti.id = ANY(%s)
