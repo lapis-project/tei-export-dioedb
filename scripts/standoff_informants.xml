@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Standoff Personography for Project</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Not for publication.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Data derived from project's informant database.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <standOff>
+    <listPerson xml:id="project_informants">
+      <person xml:id="spk_6">
+        <persName>Informant 0025</persName>
+        <sex value="male"/>
+        <age>jung (18-35) +matura</age>
+      </person>
+      <person xml:id="spk_5">
+        <persName>Informant 0024</persName>
+        <sex value="male"/>
+        <age>jung (18-35) +matura</age>
+      </person>
+      <person xml:id="spk_621">
+        <persName>Informant EXP6</persName>
+        <sex value="not provided"/>
+      </person>
+    </listPerson>
+  </standOff>
+</TEI>
