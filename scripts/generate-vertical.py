@@ -54,6 +54,22 @@ def get_standoff_definitions(root):
     return mapping
 
 
+def get_timeline_definitions(root):
+    """
+    Parses <timeline> to create a map: 'TL_1' -> '0:00:00.273'
+    """
+    timeline = {}
+    # Look for the timeline tag
+    for when in root.xpath("//tei:standOff//tei:timeline//tei:when", namespaces=NS):
+        w_id = when.get(f"{{{NS['xml']}}}id")
+        # You can choose 'absolute' (00:00:00) or 'interval' depending on your XML
+        w_time = when.get("absolute")
+
+        if w_id and w_time:
+            timeline[w_id] = w_time
+    return timeline
+
+
 def convert_to_vertical(tei_dir, standoff_file, output_file):
     # 1. Load Global Speaker DB
     speaker_db = load_speaker_data(standoff_file)
@@ -84,6 +100,8 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
 
                 # Token Standoff Map
                 token_map = get_standoff_definitions(root)
+                # Timeline map
+                timeline_map = get_timeline_definitions(root)
 
                 f_out.write(
                     f'<file id="{os.path.basename(file_path)}" title="{title}">\n'
@@ -93,8 +111,11 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                 for u in root.xpath("//tei:text//tei:u", namespaces=NS):
                     # IDs
                     who_ref = u.get("who", "").replace("#", "")
-                    start = u.get("start", "").replace("#", "")
-                    end = u.get("end", "").replace("#", "")
+                    start_ref = u.get("start", "").replace("#", "")
+                    end_ref = u.get("end", "").replace("#", "")
+
+                    u_start = timeline_map.get(start_ref, start_ref)
+                    u_end = timeline_map.get(end_ref, end_ref)
 
                     # --- ENRICHMENT LOOKUP ---
                     spk_info = speaker_db.get(
@@ -108,7 +129,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
 
                     # Write enriched structural tag
                     f_out.write(
-                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" start="{start}" end="{end}">\n'
+                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" start="{u_start}" end="{u_end}">\n'
                     )
 
                     # Process Tokens (w, pc, pause)
@@ -121,11 +142,20 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                                 continue
 
                             lemma = node.get("lemma", "-")
+                            if lemma == " ":
+                                lemma = "-"
                             pos = node.get("type", "-")
                             ana = node.get("ana", "").replace("#", "")
                             feats = token_map.get(ana, "-")
 
-                            f_out.write(f"{word}\t{lemma}\t{pos}\t{feats}\n")
+                            t_start_ref = node.get("start", "").replace("#", "")
+                            t_end_ref = node.get("end", "").replace("#", "")
+                            t_start = timeline_map.get(t_start_ref, "-")
+                            t_end = timeline_map.get(t_end_ref, "-")
+
+                            f_out.write(
+                                f"{word}\t{lemma}\t{pos}\t{feats}\t{t_start}\t{t_end}\n"
+                            )
 
                         elif tag_name == "pause":
                             dur = node.get("duration", "")
