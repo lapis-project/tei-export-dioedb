@@ -1,0 +1,46 @@
+NAME "dioedbcorpus"
+PATH "/var/lib/manatee/data/dioedbcorpus"
+VERTICAL "/var/lib/manatee/verticals/dioedb_corpus_vertical.vert"
+MAINTAINER "Jakob.Bal@oeaw.ac.at"
+LANGUAGE "Transcribed German"
+ENCODING "utf-8"
+
+# --- POSITIONAL ATTRIBUTES (Columns) ---
+ATTRIBUTE word
+ATTRIBUTE lemma
+ATTRIBUTE pos
+ATTRIBUTE feats
+ATTRIBUTE tm_start
+ATTRIBUTE tm_end
+
+ATTRIBUTE lc {
+    LABEL "word (lowercase)"
+    DYNAMIC utf8lowercase
+    DYNLIB internal
+    ARG1 "C"
+    FUNTYPE s
+    FROMATTR word
+    TYPE index
+    TRANSQUERY yes
+}
+
+# --- STRUCTURES (Hierarchical Tags) ---
+STRUCTURE doc {
+    ATTRIBUTE id
+}
+STRUCTURE file {
+    ATTRIBUTE id
+    ATTRIBUTE title
+}
+# Updated Utterance Structure
+STRUCTURE u {
+    ATTRIBUTE who
+    ATTRIBUTE sex
+    ATTRIBUTE age
+    ATTRIBUTE name
+    ATTRIBUTE start
+    ATTRIBUTE end
+}
+STRUCTURE pause {
+    ATTRIBUTE duration
+}
