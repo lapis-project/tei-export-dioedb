@@ -16,17 +16,17 @@
   <standOff>
     <listPerson xml:id="project_informants">
       <person xml:id="spk_6">
-        <persName>Informant 0025</persName>
+        <persName>0025</persName>
         <sex value="male"/>
         <age>jung (18-35) +matura</age>
       </person>
       <person xml:id="spk_5">
-        <persName>Informant 0024</persName>
+        <persName>0024</persName>
         <sex value="male"/>
         <age>jung (18-35) +matura</age>
       </person>
       <person xml:id="spk_621">
-        <persName>Informant EXP6</persName>
+        <persName>EXP6</persName>
         <sex value="not provided"/>
       </person>
     </listPerson>
