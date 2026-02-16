@@ -6,10 +6,6 @@ on:
   workflow_dispatch: {}
 jobs:
   generate_workflow_vars:
-    needs:
-      - setup_workflow_env
-    environment:
-      name: '${{ needs.setup_workflow_env.outputs.environment }}'
     runs-on: ubuntu-latest
     steps:
       - name: Generate PUBLIC_URL if not set
@@ -21,8 +17,7 @@ jobs:
 
           if [ "${public_url}x" == 'x' ]
 
-          then public_url=https://${{ needs.setup_workflow_env.outputs.environment_short
-          }}.${kube_ingress_base_domain}
+          then public_url=https://corpus-noske.${kube_ingress_base_domain}
 
           fi
 
@@ -69,7 +64,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           push: true
   _3:
-    needs: [build]
+    needs: [build,generate_workflow_vars]
     uses: lapis-project/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
