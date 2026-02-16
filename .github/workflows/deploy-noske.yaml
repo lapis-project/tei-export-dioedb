@@ -1,8 +1,5 @@
 name: Deploy dioedbcorpus NoSke Engine to Cluster
 on:
-  push:
-    branches:
-      - 'main'
   workflow_dispatch: {}
 jobs:
   generate_workflow_vars:
