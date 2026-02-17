@@ -164,24 +164,16 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                             # 2. Buckets for our columns
                             # Define which standoff 'name' goes into which column
                             morph_tags = []  # For 'dioe_tokenset_tags'
-                            syntax_tags = []  # For your new 'bundled' tagset
 
                             for ref in ana_refs:
                                 definition = token_map.get(ref)
                                 if definition:
                                     if definition["type"] == "dioe_tokenset_tags":
                                         morph_tags.append(definition["value"])
-                                    elif (
-                                        definition["type"] == "dioe_tags"
-                                    ):  # <--- ADAPT THIS
-                                        syntax_tags.append(definition["value"])
-                                        # Optional: Add the ID itself if you want to group by ID
-                                        # syntax_tags.append(ref)
 
                             # 3. Join multiple values (if a word has multiple tags of same type)
                             str_morph = "|".join(morph_tags) if morph_tags else "-"
-                            str_syntax = "|".join(syntax_tags) if syntax_tags else "-"
-                            ana = node.get("ana", "").replace("#", "")
+                            # ana = node.get("ana", "").replace("#", "")
                             # feats = token_map.get(ana, "-")
 
                             t_start_ref = node.get("start", "").replace("#", "")
@@ -190,7 +182,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                             t_end = timeline_map.get(t_end_ref, "-")
 
                             f_out.write(
-                                f"{word}\t{lemma}\t{pos}\t{str_morph}\t{str_syntax}\t{t_start}\t{t_end}\n"
+                                f"{word}\t{lemma}\t{pos}\t{str_morph}\t{t_start}\t{t_end}\n"
                             )
 
                         elif tag_name == "pause":
