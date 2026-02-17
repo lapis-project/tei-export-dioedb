@@ -2,7 +2,7 @@ FROM ghcr.io/acdh-oeaw/noske-ubi9/noske:latest
 
 ENV CORPLIST=dioedbcorpus \
     LANG=C.UTF8
-COPY verticals/ /var/lib/manatee/data/verticals/dioedbcorpus-corpus-data/
+COPY verticals/ /var/lib/manatee/data/verticals/
 COPY nosketchengine/dioedbcorpus /var/lib/manatee/registry/dioedbcorpus
 # Build will not save anything in /var/lib/manatee/data/ as this is defined as VOLUME
 USER root
