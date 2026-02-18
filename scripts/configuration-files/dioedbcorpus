@@ -9,6 +9,7 @@ ENCODING "utf-8"
 ATTRIBUTE word
 ATTRIBUTE lemma
 ATTRIBUTE pos
+ATTRIBUTE tagset
 ATTRIBUTE feats
 ATTRIBUTE tm_start
 ATTRIBUTE tm_end

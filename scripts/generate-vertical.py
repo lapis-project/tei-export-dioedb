@@ -162,17 +162,23 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                             ana_refs = node.get("ana", "").replace("#", "").split()
 
                             # 2. Buckets for our columns
-                            # Define which standoff 'name' goes into which column
                             morph_tags = []  # For 'dioe_tokenset_tags'
+                            syntax_tags = []  # For 'dioe_tags' tagset
 
                             for ref in ana_refs:
                                 definition = token_map.get(ref)
                                 if definition:
                                     if definition["type"] == "dioe_tokenset_tags":
+                                        # Append the content of the tag
                                         morph_tags.append(definition["value"])
+                                    elif definition["type"] == "dioe_tags":
+                                        # Append content of tag
+                                        syntax_tags.append(definition["value"])
+                                        # syntax_tags.append(ref)
 
                             # 3. Join multiple values (if a word has multiple tags of same type)
                             str_morph = "|".join(morph_tags) if morph_tags else "-"
+                            str_syntax = "|".join(syntax_tags) if syntax_tags else "-"
                             # ana = node.get("ana", "").replace("#", "")
                             # feats = token_map.get(ana, "-")
 
@@ -182,7 +188,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                             t_end = timeline_map.get(t_end_ref, "-")
 
                             f_out.write(
-                                f"{word}\t{lemma}\t{pos}\t{str_morph}\t{t_start}\t{t_end}\n"
+                                f"{word}\t{lemma}\t{pos}\t{str_morph}\t{str_syntax}\t{t_start}\t{t_end}\n"
                             )
 
                         elif tag_name == "pause":
