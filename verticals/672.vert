@@ -1,0 +1,1117 @@
+<doc id="transcript_672">
+<file id="672.xml" title="Transcript: Transcript_672">
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:00:00" end="0:03:35.219000">
+</u>
+<u who="spk_805" sex="female" age="jung (20-30) weiblich" name="Informant 4112" start="0:00:00" end="0:03:35.219000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:00:00" end="0:03:35.219000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:03:35.219000" end="0:03:39.626000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:03:39.626000" end="0:03:41.520000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:03:39.626000" end="0:03:42.933000">
+GERne	-	-	-	-	0:03:39.626000	0:03:41.520000
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:03:42.933000" end="0:03:52.420000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:03:52.420000" end="0:03:53.493000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:03:53.493000" end="0:03:59.566000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:03:59.566000" end="0:04:04.400000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:03.146000" end="0:04:04.400000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:04.400000" end="0:04:05.600000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:05.106000" end="0:04:05.600000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:05.600000" end="0:04:05.913000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:05.826000" end="0:04:06.046000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:06.046000" end="0:04:06.566000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:06.046000" end="0:04:14.413000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:14.413000" end="0:04:14.886000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:14.413000" end="0:04:21.920000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:21.920000" end="0:04:22.220000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:21.920000" end="0:04:25.006000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:25.006000" end="0:04:25.193000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:25.006000" end="0:04:25.193000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:25.200000" end="0:04:25.332000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:25.200000" end="0:04:29.180000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:29.180000" end="0:04:31.486000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:31.153000" end="0:04:32.206000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:32.206000" end="0:04:32.560000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:32.206000" end="0:04:32.560000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:32.560000" end="0:04:33.213000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:32.766000" end="0:04:37.006000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:37.006000" end="0:04:37.326000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:37.006000" end="0:04:37.326000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:37.326000" end="0:04:37.960000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:37.960000" end="0:04:42.633000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:42.633000" end="0:04:43.060000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:43.060000" end="0:04:47.006000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:04:47.006000" end="0:04:54.846000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:04:54.846000" end="0:05:02.806000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:02.813000" end="0:05:05.960000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:05.500000" end="0:05:05.960000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:05.960000" end="0:05:06.486000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:05.960000" end="0:05:06.486000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:06.486000" end="0:05:07.253000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:06.486000" end="0:05:07.253000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:07.253000" end="0:05:07.520000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:07.253000" end="0:05:07.520000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:07.520000" end="0:05:08.033000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:07.520000" end="0:05:08.033000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:08.033000" end="0:05:08.893000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:08.033000" end="0:05:21.360000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:21.360000" end="0:05:22.146000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:22.146000" end="0:05:28.320000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:28.320000" end="0:05:32.886000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:32.106000" end="0:05:32.886000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:32.886000" end="0:05:33.366000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:32.886000" end="0:05:33.366000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:33.366000" end="0:05:33.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:33.966000" end="0:05:37.546000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:37.546000" end="0:05:41.413000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:41.093000" end="0:05:41.413000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:41.413000" end="0:05:41.766000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:41.413000" end="0:05:41.766000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:41.766000" end="0:05:42.720000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:41.766000" end="0:05:43.066000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:43.066000" end="0:05:43.426000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:43.066000" end="0:05:43.426000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:43.426000" end="0:05:43.500000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:43.426000" end="0:05:43.933000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:43.933000" end="0:05:44.460000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:43.933000" end="0:05:45.946000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:45.946000" end="0:05:48.313000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:47.453000" end="0:05:50.046000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:50.046000" end="0:05:50.206000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:05:50.046000" end="0:05:50.206000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:05:50.206000" end="0:06:02.926000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:02.926000" end="0:06:10.920000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:10.920000" end="0:06:11.326000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:11.326000" end="0:06:14.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:14.906000" end="0:06:15.206000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:15.206000" end="0:06:24.700000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:24.706000" end="0:06:25.106000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:25.106000" end="0:06:29.866000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:29.866000" end="0:06:33.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:33.560000" end="0:06:33.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:33.966000" end="0:06:34.606000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:34.386000" end="0:06:35.940000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:35.940000" end="0:06:36.266000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:35.940000" end="0:06:40.940000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:40.940000" end="0:06:41.300000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:41.300000" end="0:06:46.486000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:46.486000" end="0:06:47.166000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:46.486000" end="0:06:47.166000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:47.166000" end="0:06:49">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:49" end="0:06:51.186000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:51.186000" end="0:06:51.286000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:51.186000" end="0:06:51.286000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:51.286000" end="0:06:51.626000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:51.626000" end="0:06:55.693000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:55.693000" end="0:06:56.766000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:56.393000" end="0:06:56.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:56.966000" end="0:06:57.200000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:06:56.966000" end="0:06:59.286000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:06:59.286000" end="0:07:01.460000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:00.813000" end="0:07:01.460000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:01.460000" end="0:07:03.246000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:02.080000" end="0:07:03.246000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:03.246000" end="0:07:05.133000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:04.833000" end="0:07:05.133000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:05.133000" end="0:07:05.386000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:05.133000" end="0:07:05.386000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:05.386000" end="0:07:16.306000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:15.033000" end="0:07:16.306000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:16.306000" end="0:07:18.580000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:18.580000" end="0:07:19.660000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:19.660000" end="0:07:22.846000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:22.846000" end="0:07:25.620000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:25.620000" end="0:07:30.493000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:30.493000" end="0:07:45.106000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:45.106000" end="0:07:45.700000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:45.700000" end="0:07:48.633000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:07:48.633000" end="0:07:55.040000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:07:55.040000" end="0:08:01.893000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:08:01.893000" end="0:08:03.206000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:08:01.893000" end="0:08:04.980000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:08:04.980000" end="0:08:05.340000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:08:05.340000" end="0:08:06.333000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:08:06.333000" end="0:08:19.353000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:08:19.353000" end="0:08:41.080000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:08:41.080000" end="0:08:45.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:08:45.966000" end="0:09:04.513000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:04.513000" end="0:09:05.513000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:05.513000" end="0:09:13.200000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:13.200000" end="0:09:13.826000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:13.826000" end="0:09:21.200000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:21.200000" end="0:09:22.493000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:21.626000" end="0:09:22.493000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:22.493000" end="0:09:26">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:26" end="0:09:33.266000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:33.266000" end="0:09:33.400000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:33.266000" end="0:09:33.400000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:33.400000" end="0:09:42.180000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:42.180000" end="0:09:57.293000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:57.293000" end="0:09:58.020000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:58.020000" end="0:09:58.665000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:58.665000" end="0:09:59.453000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:09:58.665000" end="0:09:59.773000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:09:59.773000" end="0:10:01.240000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:00.820000" end="0:10:01.406000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:01.406000" end="0:10:01.780000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:01.780000" end="0:10:03.613000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:03.620000" end="0:10:04.533000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:04.533000" end="0:10:04.713000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:04.713000" end="0:10:05.020000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:04.713000" end="0:10:15.706000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:15.706000" end="0:10:16.300000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:16.300000" end="0:10:21.466000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:21.466000" end="0:10:21.833000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:21.466000" end="0:10:27.933000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:27.933000" end="0:10:33.586000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:33.273000" end="0:10:33.586000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:33.586000" end="0:10:33.873000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:33.586000" end="0:10:34.113000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:34.113000" end="0:10:34.493000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:34.113000" end="0:10:37.653000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:10:37.653000" end="0:10:49.453000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:10:49.453000" end="0:11:03.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:11:03.826000" end="0:11:04.506000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:11:04.506000" end="0:11:10.446000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:11:10.446000" end="0:11:21.213000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:11:21.213000" end="0:11:52.540000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:11:52.540000" end="0:11:56.913000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:11:56.286000" end="0:11:56.913000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:11:56.913000" end="0:11:57.580000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:11:57.160000" end="0:11:57.580000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:11:57.580000" end="0:11:58.026000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:11:57.580000" end="0:12:05.713000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:12:05.713000" end="0:12:19.013000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:12:19.013000" end="0:12:32.993000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:12:32.993000" end="0:12:33.373000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:12:33.373000" end="0:12:41.786000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:12:41.786000" end="0:12:56.513000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:12:56.513000" end="0:13:34.920000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:13:34.920000" end="0:13:38.900000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:13:38.900000" end="0:13:46.840000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:13:46.840000" end="0:13:47.460000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:13:47.460000" end="0:14:20.926000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:14:20.926000" end="0:14:24.726000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:14:24.726000" end="0:14:27.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:14:27.826000" end="0:14:28.206000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:14:27.986000" end="0:14:29.053000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:14:29.053000" end="0:14:29.666000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:14:29.666000" end="0:14:49.880000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:14:49.880000" end="0:14:50.833000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:14:50.833000" end="0:14:54.220000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:14:54.220000" end="0:15:01.066000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:15:01.066000" end="0:15:18.926000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:15:18.926000" end="0:15:23.193000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:15:23.193000" end="0:15:29.186000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:15:29.186000" end="0:15:29.560000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:15:29.186000" end="0:15:30.326000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:15:30.326000" end="0:15:30.833000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:15:30.833000" end="0:15:31.106000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:15:31.106000" end="0:15:48.665000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:15:48.665000" end="0:16:04.100000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:16:04.100000" end="0:16:04.353000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:16:04.100000" end="0:16:18.326000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:16:18.326000" end="0:16:25.126000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:16:25.126000" end="0:16:33.480000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:16:33.480000" end="0:16:45.346000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:16:45.346000" end="0:16:53.306000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:16:53.306000" end="0:16:54.273000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:16:54.273000" end="0:16:57.686000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:16:57.686000" end="0:17:02.120000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:02.120000" end="0:17:20.506000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:17:20.506000" end="0:17:21.280000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:21.280000" end="0:17:23.646000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:17:23.646000" end="0:17:24.665000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:24.665000" end="0:17:26.240000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:17:26.240000" end="0:17:36.413000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:36.413000" end="0:17:40.806000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:17:40.806000" end="0:17:41.200000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:40.806000" end="0:17:49.933000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:17:49.933000" end="0:17:57.953000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:17:57.960000" end="0:18:04.180000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:18:04.180000" end="0:18:04.720000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:18:04.720000" end="0:18:07.706000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:18:07.706000" end="0:18:10.673000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:18:10.673000" end="0:18:12.286000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:18:12.286000" end="0:18:19.846000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:18:19.846000" end="0:18:22.013000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:18:22.013000" end="0:18:34.086000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:18:34.093000" end="0:18:38.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:18:38.826000" end="0:18:39.240000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:18:38.826000" end="0:19:11.193000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:19:11.193000" end="0:19:19.166000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:19:19.166000" end="0:19:29.860000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:19:29.860000" end="0:19:37.660000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:19:37.660000" end="0:19:42.306000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:19:42.306000" end="0:19:42.766000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:19:42.606000" end="0:19:43.846000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:19:43.846000" end="0:19:54.840000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:19:54.840000" end="0:20:02.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:20:02.826000" end="0:20:15.380000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:20:15.380000" end="0:20:25.113000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:20:25.113000" end="0:20:26.640000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:20:26.640000" end="0:20:37.953000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:20:37.953000" end="0:20:45.806000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:20:45.806000" end="0:20:50.566000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:20:50.566000" end="0:20:50.860000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:20:50.860000" end="0:21:08.380000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:21:08.380000" end="0:21:14.840000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:21:14.840000" end="0:21:29.133000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:21:29.133000" end="0:21:37.213000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:21:37.213000" end="0:21:53.873000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:21:53.873000" end="0:21:58.466000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:21:58.473000" end="0:22:05.213000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:05.213000" end="0:22:06.753000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:05.213000" end="0:22:08.373000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:08.373000" end="0:22:11.346000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:10.953000" end="0:22:11.346000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:11.346000" end="0:22:11.926000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:11.813000" end="0:22:11.926000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:11.926000" end="0:22:12.480000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:11.926000" end="0:22:14.540000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:14.540000" end="0:22:14.826000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:14.540000" end="0:22:14.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:14.826000" end="0:22:15.346000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:14.826000" end="0:22:15.346000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:15.346000" end="0:22:15.533000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:15.346000" end="0:22:15.533000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:15.533000" end="0:22:15.873000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:15.873000" end="0:22:21.373000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:21.373000" end="0:22:22.653000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:21.780000" end="0:22:22.653000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:22.653000" end="0:22:23.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:23.186000" end="0:22:23.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:23.966000" end="0:22:34.533000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:34.533000" end="0:22:43.400000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:43.400000" end="0:22:47.566000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:47.566000" end="0:22:49.513000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:49.513000" end="0:22:50.166000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:49.513000" end="0:22:50.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:50.913000" end="0:22:56.160000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:22:56.160000" end="0:22:57.033000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:22:57.033000" end="0:23:00.173000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:00.173000" end="0:23:03.693000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:03.693000" end="0:23:04.300000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:03.693000" end="0:23:04.540000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:04.540000" end="0:23:05.840000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:05.080000" end="0:23:05.840000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:05.840000" end="0:23:06.026000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:05.840000" end="0:23:06.026000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:06.026000" end="0:23:06.600000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:06.300000" end="0:23:06.600000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:06.600000" end="0:23:06.826000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:06.600000" end="0:23:06.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:06.826000" end="0:23:07">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:06.826000" end="0:23:07.486000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:07.486000" end="0:23:15.420000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:15.433000" end="0:23:32.353000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:32.353000" end="0:23:36.400000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:36.400000" end="0:23:45.513000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:45.513000" end="0:23:46.033000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:46.033000" end="0:23:48.786000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:23:48.786000" end="0:23:53.613000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:23:53.613000" end="0:24:02.486000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:02.486000" end="0:24:08.020000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:08.020000" end="0:24:14.940000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:14.940000" end="0:24:15.313000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:14.940000" end="0:24:21.346000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:21.346000" end="0:24:22.020000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:22.020000" end="0:24:23.553000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:23.553000" end="0:24:27.986000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:27.226000" end="0:24:27.986000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:27.986000" end="0:24:28.606000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:27.986000" end="0:24:28.606000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:28.606000" end="0:24:44.980000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:44.980000" end="0:24:47.660000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:47.660000" end="0:24:53.600000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:24:53.600000" end="0:24:54.813000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:24:54.813000" end="0:25:04.980000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:25:04.980000" end="0:25:10.400000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:25:10.400000" end="0:25:18.566000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:25:18.566000" end="0:25:25.726000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:25:25.726000" end="0:25:30.793000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:25:30.809000" end="0:25:53.160000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:25:53.160000" end="0:25:54.073000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:25:54.073000" end="0:25:58.866000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:25:58.866000" end="0:26:00.706000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:26:00.706000" end="0:26:04.040000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:26:04.046000" end="0:26:12.226000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:26:12.226000" end="0:26:15.126000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:26:15.126000" end="0:26:15.600000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:26:15.600000" end="0:26:18.880000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:26:18.880000" end="0:26:29.133000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:26:29.133000" end="0:26:55.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:26:55.906000" end="0:27:09.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:09.966000" end="0:27:17.006000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:17.006000" end="0:27:18.233000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:18.233000" end="0:27:28.346000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:28.346000" end="0:27:28.653000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:28.346000" end="0:27:34.780000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:34.780000" end="0:27:36.666000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:35.993000" end="0:27:36.666000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:36.666000" end="0:27:39.373000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:39.173000" end="0:27:41.646000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:41.646000" end="0:27:42.153000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:41.646000" end="0:27:42.733000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:42.733000" end="0:27:43.180000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:43.180000" end="0:27:45.960000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:27:45.960000" end="0:27:56.060000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:27:56.060000" end="0:28:02.013000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:02.013000" end="0:28:06.026000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:06.026000" end="0:28:17.660000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:17.660000" end="0:28:19.373000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:19.233000" end="0:28:20.186000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:20.186000" end="0:28:20.320000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:20.186000" end="0:28:20.320000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:20.320000" end="0:28:20.413000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:20.320000" end="0:28:20.573000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:20.573000" end="0:28:23.533000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:23.533000" end="0:28:28.166000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:28.166000" end="0:28:28.480000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:28.480000" end="0:28:29.593000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:29.593000" end="0:28:30.533000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:30.533000" end="0:28:31.580000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:31.580000" end="0:28:41.066000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:41.066000" end="0:28:42.253000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:28:42.253000" end="0:28:56.506000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:28:56.506000" end="0:29:08.166000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:08.166000" end="0:29:08.333000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:08.166000" end="0:29:11.820000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:11.820000" end="0:29:12.180000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:11.820000" end="0:29:21.226000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:21.226000" end="0:29:22.426000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:21.906000" end="0:29:22.426000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:22.426000" end="0:29:23.833000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:23.466000" end="0:29:23.833000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:23.833000" end="0:29:24.080000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:23.833000" end="0:29:24.080000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:24.080000" end="0:29:48.066000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:48.066000" end="0:29:57.686000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:29:57.686000" end="0:29:58.546000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:29:58.546000" end="0:30:11.426000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:30:11.426000" end="0:30:11.986000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:30:11.986000" end="0:30:22.546000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:30:22.546000" end="0:30:29.060000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:30:29.060000" end="0:30:35.146000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:30:35.146000" end="0:30:46.366000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:30:46.366000" end="0:31:03.560000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:03.560000" end="0:31:04.073000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:04.073000" end="0:31:13.046000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:13.046000" end="0:31:13.153000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:13.046000" end="0:31:13.153000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:13.153000" end="0:31:13.353000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:13.153000" end="0:31:14.653000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:14.653000" end="0:31:16.513000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:16.213000" end="0:31:16.873000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:16.873000" end="0:31:17.273000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:16.873000" end="0:31:17.273000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:17.273000" end="0:31:18.020000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:17.273000" end="0:31:19.920000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:19.920000" end="0:31:23.200000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:22.166000" end="0:31:23.200000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:23.200000" end="0:31:30.933000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:30.933000" end="0:31:49.653000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:49.653000" end="0:31:52.713000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:52.153000" end="0:31:52.713000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:52.713000" end="0:31:54.286000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:53.700000" end="0:31:54.286000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:31:54.286000" end="0:31:55.460000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:31:55.460000" end="0:32:04.233000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:32:04.233000" end="0:32:04.793000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:32:04.793000" end="0:32:24.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:32:24.966000" end="0:32:25.313000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:32:25.313000" end="0:32:29.766000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:32:29.766000" end="0:32:30.293000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:32:29.766000" end="0:32:30.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:32:30.906000" end="0:32:46.300000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:32:46.300000" end="0:32:57.513000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:32:57.513000" end="0:33:00.513000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:00.513000" end="0:33:06.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:06.966000" end="0:33:07.446000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:07.446000" end="0:33:11.553000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:11.553000" end="0:33:13.246000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:13.246000" end="0:33:15.246000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:15.246000" end="0:33:20.266000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:20.266000" end="0:33:27.573000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:27.573000" end="0:33:27.940000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:27.573000" end="0:33:30.453000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:30.453000" end="0:33:30.980000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:30.980000" end="0:33:37.886000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:37.886000" end="0:33:38.360000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:38.360000" end="0:33:46.686000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:33:46.686000" end="0:33:59.560000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:33:59.560000" end="0:34:09.753000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:09.753000" end="0:34:10.112000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:10.112000" end="0:34:13.060000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:13.060000" end="0:34:13.333000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:13.060000" end="0:34:14.106000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:14.106000" end="0:34:25.239000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:25.239000" end="0:34:30.092000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:30.092000" end="0:34:37.500000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:37.500000" end="0:34:49.239000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:49.239000" end="0:34:55.112000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:54.826000" end="0:34:55.386000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:34:55.386000" end="0:34:55.866000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:34:55.866000" end="0:35:01.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:35:01.906000" end="0:35:12.873000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:35:12.873000" end="0:35:28.606000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:35:28.606000" end="0:35:28.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:35:28.606000" end="0:35:28.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:35:28.966000" end="0:35:29.400000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:35:29.400000" end="0:35:36.280000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:35:36.280000" end="0:35:48.360000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:35:48.360000" end="0:35:55.480000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:35:55.486000" end="0:35:56.053000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:35:56.053000" end="0:36:03.426000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:03.426000" end="0:36:03.906000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:03.906000" end="0:36:08.880000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:08.880000" end="0:36:09.893000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:09.893000" end="0:36:11.973000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:11.986000" end="0:36:15.626000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:15.260000" end="0:36:15.626000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:15.626000" end="0:36:16.740000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:15.626000" end="0:36:16.740000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:16.740000" end="0:36:17.526000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:17.526000" end="0:36:17.806000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:17.806000" end="0:36:18.766000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:18.480000" end="0:36:18.766000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:18.766000" end="0:36:19.866000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:19.866000" end="0:36:20.560000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:20.560000" end="0:36:21.186000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:21.186000" end="0:36:35.320000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:35.320000" end="0:36:39.800000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:39.266000" end="0:36:39.800000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:39.800000" end="0:36:41.886000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:41.580000" end="0:36:41.886000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:41.886000" end="0:36:42.073000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:41.886000" end="0:36:42.073000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:42.073000" end="0:36:43.040000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:42.726000" end="0:36:43.466000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:43.466000" end="0:36:51.326000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:36:51.326000" end="0:36:52.733000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:36:52.733000" end="0:37:00.613000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:37:00.613000" end="0:37:24.186000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:37:24.186000" end="0:37:24.526000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:37:24.526000" end="0:37:51.746000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:37:51.746000" end="0:37:57.720000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:37:57.720000" end="0:37:59.826000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:37:59.826000" end="0:38:01.033000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:37:59.826000" end="0:38:01.580000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:01.580000" end="0:38:01.966000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:01.580000" end="0:38:01.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:01.966000" end="0:38:03.246000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:01.966000" end="0:38:08.686000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:08.686000" end="0:38:25.186000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:25.186000" end="0:38:28.926000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:28.926000" end="0:38:30.220000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:28.926000" end="0:38:42.360000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:42.360000" end="0:38:56.920000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:56.920000" end="0:38:58.366000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:38:58.366000" end="0:38:59.566000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:38:59.566000" end="0:39:04.460000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:04.460000" end="0:39:11.540000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:11.540000" end="0:39:22.193000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:22.193000" end="0:39:22.580000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:22.193000" end="0:39:32.100000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:32.100000" end="0:39:32.420000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:32.100000" end="0:39:35.886000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:35.886000" end="0:39:36.340000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:36.200000" end="0:39:38.420000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:38.420000" end="0:39:38.846000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:38.420000" end="0:39:38.846000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:38.846000" end="0:39:42.853000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:42.853000" end="0:39:43.713000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:39:43.713000" end="0:39:59.613000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:39:59.613000" end="0:40:13.606000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:40:13.606000" end="0:40:14.273000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:40:14.273000" end="0:40:38.966000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:40:38.966000" end="0:40:39.440000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:40:39.326000" end="0:40:43.960000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:40:43.960000" end="0:40:44.960000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:40:44.960000" end="0:40:51.413000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:40:51.413000" end="0:41:04.573000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:41:04.573000" end="0:41:34.680000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:41:34.680000" end="0:41:34.953000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:41:34.680000" end="0:41:37.193000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:41:37.193000" end="0:41:39.913000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:41:39.913000" end="0:41:44.633000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:41:44.633000" end="0:41:45.053000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:41:45.053000" end="0:41:58.080000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:41:58.080000" end="0:41:58.926000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:41:58.926000" end="0:42:01.906000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:42:01.906000" end="0:42:02.666000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:42:01.906000" end="0:42:06.633000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:42:06.633000" end="0:42:20.800000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:42:20.800000" end="0:42:38.920000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:42:38.920000" end="0:42:39.413000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:42:38.920000" end="0:43:09.493000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:09.493000" end="0:43:10.253000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:09.493000" end="0:43:10.253000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:10.253000" end="0:43:10.340000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:10.253000" end="0:43:11.626000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:11.626000" end="0:43:14.266000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:14.013000" end="0:43:14.680000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:14.680000" end="0:43:16.420000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:14.680000" end="0:43:16.420000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:16.420000" end="0:43:16.893000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:16.893000" end="0:43:19.020000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:19.020000" end="0:43:23.500000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:23.500000" end="0:43:25.500000">
+</u>
+<u who="spk_805" sex="female" age="jung (20-30) weiblich" name="Informant 4112" start="0:43:25.500000" end="0:43:27.500000">
+</u>
+<u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:43:25.500000" end="0:43:27.500000">
+</u>
+<u who="spk_806" sex="male" age="jung (20-30) männlich" name="Informant 4113" start="0:43:25.500000" end="0:43:27.500000">
+</u>
+</file>
+</doc>

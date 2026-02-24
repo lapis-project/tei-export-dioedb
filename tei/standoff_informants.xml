@@ -15,15 +15,10 @@
   </teiHeader>
   <standOff>
     <listPerson xml:id="project_informants">
-      <person xml:id="spk_6">
-        <persName>Informant 0025</persName>
-        <sex value="male"/>
-        <age>jung (18-35) +matura</age>
-      </person>
-      <person xml:id="spk_5">
-        <persName>Informant 0024</persName>
-        <sex value="male"/>
-        <age>jung (18-35) +matura</age>
+      <person xml:id="spk_11">
+        <persName>Informant 0030</persName>
+        <sex value="female"/>
+        <age>Alt (65+)</age>
       </person>
       <person xml:id="spk_621">
         <persName>Informant EXP6</persName>
@@ -37,20 +32,6 @@
       <person xml:id="spk_618">
         <persName>Informant EXP3</persName>
         <sex value="male"/>
-      </person>
-      <person xml:id="spk_35">
-        <persName>Informant 0300 </persName>
-        <sex value="male"/>
-        <age>jung (18-35) +matura</age>
-      </person>
-      <person xml:id="spk_619">
-        <persName>Informant EXP4</persName>
-        <sex value="female"/>
-      </person>
-      <person xml:id="spk_11">
-        <persName>Informant 0030</persName>
-        <sex value="female"/>
-        <age>Alt (65+)</age>
       </person>
       <person xml:id="spk_9">
         <persName>Informant 0028</persName>
@@ -80,6 +61,15 @@
         <persName>Informant 0071</persName>
         <sex value="male"/>
         <age>jung (18-35) -matura</age>
+      </person>
+      <person xml:id="spk_619">
+        <persName>Informant EXP4</persName>
+        <sex value="female"/>
+      </person>
+      <person xml:id="spk_35">
+        <persName>Informant 0300 </persName>
+        <sex value="male"/>
+        <age>jung (18-35) +matura</age>
       </person>
       <person xml:id="spk_81">
         <persName>Informant 0051</persName>
@@ -641,6 +631,16 @@
         <persName>Informant 0325</persName>
         <sex value="male"/>
         <age>jung (18-35) -matura</age>
+      </person>
+      <person xml:id="spk_6">
+        <persName>Informant 0025</persName>
+        <sex value="male"/>
+        <age>jung (18-35) +matura</age>
+      </person>
+      <person xml:id="spk_5">
+        <persName>Informant 0024</persName>
+        <sex value="male"/>
+        <age>jung (18-35) +matura</age>
       </person>
       <person xml:id="spk_8">
         <persName>Informant 0027</persName>

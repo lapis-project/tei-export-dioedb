@@ -1,0 +1,528 @@
+<doc id="transcript_493">
+<file id="493.xml" title="Transcript: Transcript_493">
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:00:00" end="0:03:28.446000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:00:00" end="0:03:28.446000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:03:28.446000" end="0:03:34.046000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:03:34.046000" end="0:03:48.861000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:03:48.861000" end="0:03:58.276000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:03:57.761000" end="0:03:58.276000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:03:58.276000" end="0:04:03.038000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:04:03.038000" end="0:04:07.492000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:04:07.492000" end="0:04:08.100000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:04:08.100000" end="0:04:26.623000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:04:26.623000" end="0:04:33.307000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:04:33.307000" end="0:05:09.592000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:09.592000" end="0:05:10.253000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:09.592000" end="0:05:11.600000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:11.600000" end="0:05:12.930000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:12.746000" end="0:05:12.930000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:12.930000" end="0:05:13.123000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:12.930000" end="0:05:13.123000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:13.123000" end="0:05:13.784000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:13.123000" end="0:05:15.546000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:15.546000" end="0:05:28.869000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:28.869000" end="0:05:30.453000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:30.453000" end="0:05:30.960000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:30.453000" end="0:05:38.553000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:38.553000" end="0:05:39.400000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:38.553000" end="0:05:39.400000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:39.400000" end="0:05:43.561000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:43.561000" end="0:05:52.284000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:52.284000" end="0:05:53.161000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:05:53.161000" end="0:06:00.030000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:00.030000" end="0:06:00.461000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:06:00.030000" end="0:06:22.515000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:22.515000" end="0:06:39.446000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:06:39.446000" end="0:06:53.469000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:53.469000" end="0:06:54.630000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:06:53.469000" end="0:06:55.407000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:55.407000" end="0:06:56.169000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:06:55.407000" end="0:06:56.492000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:56.492000" end="0:06:57.046000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:06:56.492000" end="0:06:57.046000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:06:57.046000" end="0:07:03.076000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:07:03.076000" end="0:07:14.100000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:07:14.100000" end="0:07:14.876000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:07:14.876000" end="0:08:09.446000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:08:09.446000" end="0:08:10.092000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:08:10.092000" end="0:08:56.884000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:08:56.884000" end="0:09:09.407000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:09:09.407000" end="0:09:14.938000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:09:14.938000" end="0:09:15.707000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:09:14.938000" end="0:10:01.430000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:10:01.430000" end="0:10:04.053000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:10:04.053000" end="0:10:46.384000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:10:46.384000" end="0:10:46.892000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:10:46.384000" end="0:10:49.700000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:10:49.700000" end="0:10:53.592000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:10:53.315000" end="0:11:03.315000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:11:03.315000" end="0:11:06.415000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:11:06.415000" end="0:11:25.869000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:11:25.869000" end="0:11:33.392000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:11:32.438000" end="0:12:02.615000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:12:02.615000" end="0:12:03.392000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:12:03.284000" end="0:12:32.238000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:12:32.238000" end="0:12:44.423000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:12:44.423000" end="0:12:48.830000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:12:48.830000" end="0:12:49.638000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:12:49.638000" end="0:12:58.469000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:12:58.469000" end="0:13:12.138000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:13:12.138000" end="0:13:23.476000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:13:23.476000" end="0:13:24.084000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:13:24.084000" end="0:13:49.953000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:13:49.953000" end="0:13:50.615000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:13:50.615000" end="0:13:51.884000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:13:51.884000" end="0:13:52.861000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:13:52.861000" end="0:13:53.515000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:13:53.515000" end="0:14:07.284000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:14:07.284000" end="0:14:13.715000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:14:13.715000" end="0:14:14.723000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:14:14.553000" end="0:14:25.984000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:14:25.984000" end="0:14:26.292000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:14:25.984000" end="0:14:27">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:14:27" end="0:14:27.430000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:14:27" end="0:14:47.846000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:14:47.846000" end="0:14:49.376000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:14:49.376000" end="0:14:50.107000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:14:50.107000" end="0:15:05.853000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:15:05.853000" end="0:15:15.023000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:15:15.023000" end="0:15:17.207000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:15:15.923000" end="0:15:17.861000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:15:17.861000" end="0:15:46.584000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:15:46.584000" end="0:16:06.753000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:16:06.753000" end="0:16:07.630000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:16:07.630000" end="0:17:19.046000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:19.046000" end="0:17:19.938000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:17:19.938000" end="0:17:41.007000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:41.007000" end="0:17:41.923000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:17:41.923000" end="0:17:43.415000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:43.415000" end="0:17:53.476000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:17:53.476000" end="0:17:58.376000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:58.376000" end="0:17:58.784000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:17:58.784000" end="0:18:10.523000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:18:10.523000" end="0:18:11.176000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:18:10.523000" end="0:19:15.930000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:19:15.930000" end="0:19:16.423000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:19:16.423000" end="0:19:35.707000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:19:35.707000" end="0:19:39.323000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:19:38.430000" end="0:19:39.876000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:19:39.876000" end="0:19:49.369000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:19:49.184000" end="0:19:49.669000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:19:49.669000" end="0:20:07.323000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:20:07.323000" end="0:20:13.561000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:20:13.561000" end="0:20:14.100000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:20:14.100000" end="0:20:16.053000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:20:16.053000" end="0:20:16.315000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:20:16.053000" end="0:21:25.738000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:21:25.738000" end="0:21:41.592000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:21:41.592000" end="0:21:51.776000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:21:51.776000" end="0:21:52.469000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:21:51.776000" end="0:21:54.807000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:21:54.807000" end="0:22:05.200000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:05.200000" end="0:22:15.561000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:15.561000" end="0:22:15.969000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:15.561000" end="0:22:15.969000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:15.969000" end="0:22:16.853000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:15.969000" end="0:22:16.853000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:16.853000" end="0:22:17.186000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:16.853000" end="0:22:27.138000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:27.138000" end="0:22:28.230000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:27.138000" end="0:22:40.238000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:40.238000" end="0:22:40.792000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:40.238000" end="0:22:41.123000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:22:41.123000" end="0:22:48.446000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:22:47.692000" end="0:23:02.646000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:02.646000" end="0:23:03.100000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:23:03.100000" end="0:23:15.030000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:15.030000" end="0:23:15.261000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:23:15.030000" end="0:23:15.261000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:15.260000" end="0:23:16.380000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:23:15.260000" end="0:23:16.380000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:16.380000" end="0:23:22.384000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:23:22.384000" end="0:23:24.823000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:24.823000" end="0:23:26.676000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:23:26.676000" end="0:24:37.992000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:24:37.992000" end="0:24:50.276000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:24:50.007000" end="0:24:54.030000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:24:54.030000" end="0:24:54.515000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:24:54.515000" end="0:25:12.653000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:25:12.653000" end="0:25:13.500000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:25:13.246000" end="0:25:47.769000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:25:47.769000" end="0:26:02.507000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:26:02.507000" end="0:26:17.238000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:26:17.238000" end="0:26:18.553000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:26:18.553000" end="0:26:27.853000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:26:27.853000" end="0:26:28.392000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:26:28.392000" end="0:26:35.946000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:26:35.946000" end="0:26:36.230000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:26:36.230000" end="0:26:41.600000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:26:41.600000" end="0:26:42.700000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:26:42.700000" end="0:26:56.607000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:26:56.607000" end="0:27:23.723000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:27:23.723000" end="0:27:33.138000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:27:33.138000" end="0:27:33.415000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:27:33.138000" end="0:27:34.115000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:27:34.115000" end="0:27:34.500000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:27:34.500000" end="0:27:48.623000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:27:48.623000" end="0:27:49.484000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:27:49.484000" end="0:28:53.484000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:28:53.484000" end="0:28:54.353000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:28:54.353000" end="0:28:56.669000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:28:56.669000" end="0:28:57.030000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:28:56.669000" end="0:28:57.630000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:28:57.630000" end="0:28:58.661000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:28:57.630000" end="0:29:08.115000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:08.115000" end="0:29:08.407000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:08.115000" end="0:29:11.438000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:11.438000" end="0:29:11.723000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:11.438000" end="0:29:12.453000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:12.453000" end="0:29:16.969000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:16.200000" end="0:29:16.969000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:16.969000" end="0:29:26.523000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:26.523000" end="0:29:41.746000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:41.746000" end="0:29:42.407000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:41.746000" end="0:29:42.407000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:42.407000" end="0:29:43.269000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:42.407000" end="0:29:43.269000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:43.269000" end="0:29:44.361000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:29:44.030000" end="0:30:28.938000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:30:28.938000" end="0:30:29.500000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:30:29.500000" end="0:30:42.969000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:30:42.969000" end="0:30:43.707000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:30:43.707000" end="0:31:09.084000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:31:09.084000" end="0:31:46.892000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:31:46.892000" end="0:32:11.161000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:11.161000" end="0:32:12.961000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:12.961000" end="0:32:16.792000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:16.792000" end="0:32:17.600000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:17.600000" end="0:32:32.776000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:32.776000" end="0:32:35.438000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:35.438000" end="0:32:41.738000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:41.738000" end="0:32:42.261000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:41.738000" end="0:32:42.261000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:42.261000" end="0:32:45.284000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:44.923000" end="0:32:45.284000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:45.284000" end="0:32:45.769000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:45.284000" end="0:32:45.769000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:45.769000" end="0:32:46.215000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:46.215000" end="0:32:47.669000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:47.669000" end="0:32:48.061000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:47.669000" end="0:32:59.676000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:59.676000" end="0:33:00.207000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:32:59.938000" end="0:33:00.438000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:33:00.438000" end="0:33:00.953000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:33:00.953000" end="0:33:08.169000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:33:08.169000" end="0:33:08.830000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:33:08.830000" end="0:33:55.969000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:33:55.969000" end="0:33:57.100000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:33:57.100000" end="0:34:00.192000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:34:00.192000" end="0:34:03.561000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:34:03.561000" end="0:34:05.907000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:34:05.907000" end="0:34:06.261000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:34:05.907000" end="0:34:07.276000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:34:07.276000" end="0:34:10.014000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:34:07.930000" end="0:34:19.045000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:34:19.045000" end="0:34:19.907000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:34:19.907000" end="0:35:03.761000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:35:03.761000" end="0:35:04.607000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:35:04.607000" end="0:35:11.584000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:35:11.584000" end="0:35:12.376000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:35:11.584000" end="0:35:13.738000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:35:13.738000" end="0:35:25.415000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:35:25.415000" end="0:35:31.369000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:35:31.369000" end="0:35:32.153000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:35:31.369000" end="0:36:37.992000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:36:37.992000" end="0:36:39.292000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:36:37.992000" end="0:36:39.830000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:36:39.830000" end="0:36:41.453000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:36:41.453000" end="0:36:53.123000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:36:53.123000" end="0:36:53.676000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:36:53.676000" end="0:36:55.046000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:36:55.046000" end="0:36:55.792000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:36:55.046000" end="0:37:03.523000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:03.523000" end="0:37:04.261000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:04.261000" end="0:37:09.969000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:09.969000" end="0:37:10.453000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:09.969000" end="0:37:10.453000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:10.453000" end="0:37:13.161000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:12.284000" end="0:37:13.161000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:13.161000" end="0:37:13.361000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:13.161000" end="0:37:13.361000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:13.361000" end="0:37:14.084000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:13.361000" end="0:37:15.030000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:15.030000" end="0:37:16.707000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:15.030000" end="0:37:16.707000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:16.707000" end="0:37:18.123000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:16.707000" end="0:37:41.015000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:37:41.015000" end="0:37:42.600000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:37:41.015000" end="0:38:33.653000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:38:33.653000" end="0:38:34.446000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:38:33.653000" end="0:38:41.592000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:38:41.592000" end="0:38:46.630000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:38:45.561000" end="0:38:46.630000">
+</u>
+<u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:38:46.630000" end="0:38:48.976000">
+</u>
+<u who="spk_794" sex="male" age="UNK" name="Informant BKMS411" start="0:38:46.976000" end="0:38:48.976000">
+</u>
+</file>
+</doc>

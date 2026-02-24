@@ -1,0 +1,18861 @@
+<doc id="transcript_147">
+<file id="147.xml" title="Transcript: Transcript_147">
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:00" end="0:00:02.979000">
+ja	ja	ADV	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:02.979000">
+a/	-	-	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:00" end="0:00:02.979000">
+okay	okay	VERB	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:02.979000">
+so	so	ADV	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:00" end="0:00:02.979000">
+gut	gut	ADJ	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:02.979000">
+jetzt	jetzt	ADV	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:00" end="0:00:02.979000">
+.	-	-	-	-	0:00:00	0:00:02.979000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:05.193000">
+würde	werden	AUX	-	-	0:00:00	0:00:02.979000
+die	der	DET	-	-	0:00:00	0:00:02.979000
+Aufnahme	Aufnahme	NOUN	-	-	0:00:00	0:00:02.979000
+laufen	laufen	VERB	-	-	0:00:00	0:00:02.979000
+.	-	-	-	-	0:00:00	0:00:02.979000
+<pause duration="0,9s"/>
+viel	viel	DET	#Abschied #Anrede_Form #Anrede_Name #Appo #Appo- #Dimin #Dimin- #Exprkomp #GrammForm #Gruß #GrußFunk #Lautung #Name- #OrgFunk #Pro- #Redupl #Wunsch #Zeitgeb #attrAdj #attrAdj- #exprkomp- #kurzF #kurzF- #redupl- #sonstForm #sonstForm- #stdL+ #zeitgeb-	-	0:00:02.979000	0:00:05.193000
+Spaß	Spaß	NOUN	#Abschied #Anrede_Form #Anrede_Name #Appo #Appo- #Dimin #Dimin- #Exprkomp #GrammForm #Gruß #GrußFunk #Lautung #Name- #OrgFunk #Pro- #Redupl #Wunsch #Zeitgeb #attrAdj #attrAdj- #exprkomp- #kurzF #kurzF- #redupl- #sonstForm #sonstForm- #stdL+ #zeitgeb-	-	0:00:02.979000	0:00:05.193000
+.	-	-	-	-	0:00:02.979000	0:00:05.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:05.193000" end="0:00:07.333000">
+danke	danke	PART	-	-	0:00:05.193000	0:00:07.333000
+.	-	-	-	-	0:00:05.193000	0:00:07.333000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:07.333000" end="0:00:09.679000">
+danke	danke	PART	-	-	0:00:07.333000	0:00:09.679000
+,	-	-	-	-	0:00:07.333000	0:00:09.679000
+wir	ich	PRON	-	-	0:00:07.333000	0:00:09.679000
+werden	werden	AUX	-	-	0:00:07.333000	0:00:09.679000
+uns	sich	PRON	-	#0gen #1 #AnaForm #AnaFunk #Anapher #Antezedens #AntForm #formRefl #FunkRefl #Ge #Kas #No #Num #Pers #pl #Präp #Präp- #PronP #unm	0:00:07.333000	0:00:09.679000
+bemühen	bemühen	VERB	-	-	0:00:07.333000	0:00:09.679000
+,	-	-	-	-	0:00:07.333000	0:00:09.679000
+ja	ja	PART	-	-	0:00:07.333000	0:00:09.679000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:07.333000" end="0:00:09.679000">
+ja	ja	PART	-	-	0:00:07.333000	0:00:09.679000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:07.333000" end="0:00:09.679000">
+?	-	-	-	-	0:00:07.333000	0:00:09.679000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:07.333000" end="0:00:09.679000">
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:07.333000" end="0:00:09.679000">
+genau	genau	ADJ	-	-	0:00:07.333000	0:00:09.679000
+(ich	ich	PRON	-	-	0:00:07.333000	0:00:09.679000
+bin)	sein	AUX	-	-	0:00:07.333000	0:00:09.679000
+in	in	ADP	-	-	0:00:07.333000	0:00:09.679000
+einer	einer	DET	-	-	0:00:07.333000	0:00:09.679000
+Stunde	Stunde	NOUN	-	-	0:00:07.333000	0:00:09.679000
+zurück	zurück	ADP	-	-	0:00:07.333000	0:00:09.679000
+.	-	-	-	-	0:00:07.333000	0:00:09.679000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:09.679000" end="0:00:11.613000">
+suchst	suchen	VERB	-	-	0:00:09.679000	0:00:11.613000
+du	du	PRON	-	-	0:00:09.679000	0:00:11.613000
+einmal	einmal	ADV	-	-	0:00:09.679000	0:00:11.613000
+was	was	PRON	-	-	0:00:09.679000	0:00:11.613000
+aus	aus	ADP	-	-	0:00:09.679000	0:00:11.613000
+oder	oder	CCONJ	-	-	0:00:09.679000	0:00:11.613000
+soll	soll	VERB	-	-	0:00:09.679000	0:00:11.613000
+ich	ich	PRON	-	-	0:00:09.679000	0:00:11.613000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:11.613000" end="0:00:12.139000">
+na	na	X	-	-	0:00:11.613000	0:00:12.139000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:11.613000" end="0:00:12.139000">
+schauen	schauen	VERB	-	-	0:00:11.613000	0:00:12.139000
+?	-	-	-	-	0:00:11.613000	0:00:12.139000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:12.139000" end="0:00:15.193000">
+s/	-	-	-	-	0:00:12.139000	0:00:13.066000
+bist	sein	AUX	-	-	0:00:12.139000	0:00:13.066000
+du	du	PRON	-	-	0:00:12.139000	0:00:13.066000
+der	der	DET	-	-	0:00:12.139000	0:00:13.066000
+Erste	Erster	NOUN	-	#LautNach #LautVor #Ons #Ons- #P #sPal #sPal+ #sPal-t #Vvel	0:00:12.139000	0:00:13.066000
+.	-	-	-	-	0:00:12.139000	0:00:13.066000
+suche	suche	VERB	-	-	0:00:13.066000	0:00:15.193000
+einmal	einmal	ADV	-	-	0:00:13.066000	0:00:15.193000
+du	du	PRON	-	-	0:00:13.066000	0:00:15.193000
+was	was	PRON	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:13.066000" end="0:00:15.193000">
+besonders	besonders	ADV	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:13.066000" end="0:00:15.193000">
+aus	aus	ADP	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:13.066000" end="0:00:15.193000">
+ärgerliches	ärgerlich	ADJ	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:13.066000" end="0:00:15.193000">
+irgendwas	irgendwas	PRON	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:13.066000" end="0:00:15.193000">
+Er/	-	-	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:13.066000" end="0:00:15.193000">
+.	-	-	-	-	0:00:13.066000	0:00:15.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:13.066000" end="0:00:33.574000">
+ähm	ähm	NOUN	-	-	0:00:13.066000	0:00:15.193000
+ein	einen	DET	-	-	0:00:13.066000	0:00:15.193000
+besonders	besonders	ADV	-	-	0:00:13.066000	0:00:15.193000
+ärgerliches	ärgerlich	ADJ	-	-	0:00:15.193000	0:00:23.374000
+Erlebnis	Erlebnis	NOUN	-	-	0:00:15.193000	0:00:23.374000
+,	-	-	-	-	0:00:15.193000	0:00:23.374000
+besonders	besonders	ADV	-	-	0:00:15.193000	0:00:23.374000
+schönes	schön	ADJ	-	-	0:00:15.193000	0:00:23.374000
+Erlebnis	Erlebnis	NOUN	-	-	0:00:15.193000	0:00:23.374000
+,	-	-	-	-	0:00:15.193000	0:00:23.374000
+Dorffeste	Dorffeste	NOUN	-	-	0:00:15.193000	0:00:23.374000
+früher	früh	ADJ	-	-	0:00:15.193000	0:00:23.374000
+,	-	-	-	-	0:00:15.193000	0:00:23.374000
+<pause duration="1,0s"/>
+über	über	ADP	-	-	0:00:15.193000	0:00:23.374000
+die	der	DET	-	-	0:00:15.193000	0:00:23.374000
+Kindheit	Kindheit	NOUN	-	-	0:00:15.193000	0:00:23.374000
+gibt	geben	VERB	-	-	0:00:15.193000	0:00:23.374000
+es	ich	PRON	-	-	0:00:15.193000	0:00:23.374000
+was	was	PRON	-	-	0:00:15.193000	0:00:23.374000
+,	-	-	-	-	0:00:15.193000	0:00:23.374000
+<pause duration="0,8s"/>
+Dialekt	Dialekt	NOUN	-	-	0:00:23.374000	0:00:25.956000
+der	der	DET	-	-	0:00:23.374000	0:00:25.956000
+Eltern	Eltern	NOUN	-	-	0:00:23.374000	0:00:25.956000
+,	-	-	-	-	0:00:23.374000	0:00:25.956000
+<pause duration="1,6s"/>
+besonderem	besonder	ADJ	-	-	0:00:25.956000	0:00:33.574000
+Schulerlebnis	Schulerlebnis	NOUN	-	-	0:00:25.956000	0:00:33.574000
+,	-	-	-	-	0:00:25.956000	0:00:33.574000
+also	also	ADV	-	-	0:00:25.956000	0:00:33.574000
+erzähle	erzählen	VERB	-	-	0:00:25.956000	0:00:33.574000
+von	von	ADP	-	-	0:00:25.956000	0:00:33.574000
+einem	einer	DET	-	-	0:00:25.956000	0:00:33.574000
+besonderen	besonder	ADJ	-	-	0:00:25.956000	0:00:33.574000
+Schulerlebnis	Schulerlebnis	NOUN	-	-	0:00:25.956000	0:00:33.574000
+.	-	-	-	-	0:00:25.956000	0:00:33.574000
+<pause duration="1,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:33.574000" end="0:00:36.387000">
+da	da	ADV	-	-	0:00:33.574000	0:00:34.649000
+habe	habe	AUX	-	-	0:00:33.574000	0:00:34.649000
+ich	ich	PRON	-	-	0:00:33.574000	0:00:34.649000
+eigentlich	eigentlich	ADV	-	-	0:00:33.574000	0:00:34.649000
+wenige	wenig	PRON	-	#igReal #igVar #LautNach #P #Vpal	0:00:33.574000	0:00:34.649000
+,	-	-	-	-	0:00:33.574000	0:00:34.649000
+muss	muss	VERB	-	-	0:00:34.649000	0:00:36.387000
+ich	ich	PRON	-	-	0:00:34.649000	0:00:36.387000
+sagen	sagen	VERB	-	-	0:00:34.649000	0:00:36.387000
+.	-	-	-	-	0:00:34.649000	0:00:36.387000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:34.649000" end="0:00:45.518000">
+erzähle	erzählen	NOUN	-	-	0:00:34.649000	0:00:36.387000
+von	von	ADP	-	-	0:00:34.649000	0:00:36.387000
+Vereinen	Verein	NOUN	-	-	0:00:34.649000	0:00:36.387000
+im	im	ADP	-	-	0:00:36.387000	0:00:41.043000
+am	am	ADP	-	-	0:00:36.387000	0:00:41.043000
+Ort	Ort	NOUN	-	-	0:00:36.387000	0:00:41.043000
+früher	früh	ADJ	-	-	0:00:36.387000	0:00:41.043000
+,	-	-	-	-	0:00:36.387000	0:00:41.043000
+erzähle	erzählen	NOUN	-	-	0:00:36.387000	0:00:41.043000
+von	von	ADP	-	-	0:00:36.387000	0:00:41.043000
+einem	einer	DET	-	-	0:00:36.387000	0:00:41.043000
+guten	gut	ADJ	-	-	0:00:36.387000	0:00:41.043000
+Buch	Buch	NOUN	-	-	0:00:36.387000	0:00:41.043000
+oder	oder	CCONJ	-	-	0:00:36.387000	0:00:41.043000
+einem	einer	DET	-	-	0:00:36.387000	0:00:41.043000
+Film	Film	NOUN	-	-	0:00:36.387000	0:00:41.043000
+<pause duration="3,7s"/>
+hm	hm	ADP	-	-	0:00:41.043000	0:00:45.518000
+.	-	-	-	-	0:00:41.043000	0:00:45.518000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:45.518000" end="0:00:48.843000">
+was	was	PRON	-	-	0:00:45.518000	0:00:46.999000
+haben	haben	AUX	-	-	0:00:45.518000	0:00:46.999000
+wir	ich	PRON	-	-	0:00:45.518000	0:00:46.999000
+da	da	ADV	-	-	0:00:45.518000	0:00:46.999000
+noch	noch	ADV	-	-	0:00:45.518000	0:00:46.999000
+?	-	-	-	-	0:00:45.518000	0:00:46.999000
+(dann)	dann	ADV	-	-	0:00:46.999000	0:00:48.843000
+rede	rede	VERB	-	-	0:00:46.999000	0:00:48.843000
+über	über	ADP	-	-	0:00:46.999000	0:00:48.843000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:46.999000" end="0:00:48.843000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:48.843000" end="0:00:53.712000">
+<pause duration="1,6s"/>
+da	da	ADV	-	-	0:00:48.843000	0:00:53.712000
+haben	haben	AUX	-	-	0:00:48.843000	0:00:53.712000
+wir	ich	PRON	-	-	0:00:48.843000	0:00:53.712000
+<pause duration="0,6s"/>
+Sprache	Sprache	NOUN	-	-	0:00:48.843000	0:00:53.712000
+von	von	ADP	-	-	0:00:48.843000	0:00:53.712000
+Nachrichtensprechern	Nachrichtensprechern	NOUN	-	-	0:00:48.843000	0:00:53.712000
+,	-	-	-	-	0:00:48.843000	0:00:53.712000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:53.712000" end="0:00:55.537000">
+<pause duration="0,8s"/>
+mhm	mhm	PROPN	-	-	0:00:53.712000	0:00:55.537000
+.	-	-	-	-	0:00:53.712000	0:00:55.537000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:00:55.537000" end="0:01:02.674000">
+Dialekt	Dialekt	NOUN	-	-	0:00:55.537000	0:00:58.374000
+im	im	ADP	-	-	0:00:55.537000	0:00:58.374000
+Nachbarort	Nachbarort	NOUN	-	-	0:00:55.537000	0:00:58.374000
+,	-	-	-	-	0:00:55.537000	0:00:58.374000
+<pause duration="0,9s"/>
+haben	haben	AUX	-	-	0:00:58.374000	0:01:02.674000
+wir	ich	PRON	-	-	0:00:58.374000	0:01:02.674000
+alles	alle	PRON	-	-	0:00:58.374000	0:01:02.674000
+haben	haben	AUX	-	-	0:00:58.374000	0:01:02.674000
+wir	ich	PRON	-	-	0:00:58.374000	0:01:02.674000
+eigentlich	eigentlich	ADV	-	-	0:00:58.374000	0:01:02.674000
+alles	alle	PRON	-	-	0:00:58.374000	0:01:02.674000
+heute	heute	ADV	-	-	0:00:58.374000	0:01:02.674000
+schon	schon	ADV	-	-	0:00:58.374000	0:01:02.674000
+ein	einen	DET	-	-	0:00:58.374000	0:01:02.674000
+bissel	bissel	NOUN	-	#DIM #-(e)l #Interf #Interf- #IRR #sd- #SDent #Suff #U- #Uml	0:00:58.374000	0:01:02.674000
+geredet	reden	VERB	-	-	0:00:58.374000	0:01:02.674000
+ja	ja	PART	-	-	0:00:58.374000	0:01:02.674000
+.	-	-	-	-	0:00:58.374000	0:01:02.674000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:00:58.374000" end="0:01:02.674000">
+müssen	müssen	VERB	-	-	0:00:58.374000	0:01:02.674000
+wir	ich	PRON	-	-	0:00:58.374000	0:01:02.674000
+Klaus	Klaus	PROPN	-	-	0:00:58.374000	0:01:02.674000
+Klaus	Klaus	PROPN	-	-	0:00:58.374000	0:01:02.674000
+die	der	DET	-	-	0:00:58.374000	0:01:02.674000
+Klauser	Klauser	NOUN	-	-	0:00:58.374000	0:01:02.674000
+hernehmen	hernehmen	VERB	-	-	0:00:58.374000	0:01:02.674000
+,	-	-	-	-	0:00:58.374000	0:01:02.674000
+ja	ja	ADV	-	-	0:00:58.374000	0:01:02.674000
+ja	ja	ADV	-	-	0:00:58.374000	0:01:02.674000
+habt	haben	AUX	-	-	0:00:58.374000	0:01:02.674000
+ihr	mein	PRON	-	-	0:00:58.374000	0:01:02.674000
+schon	schon	ADV	-	-	0:00:58.374000	0:01:02.674000
+durchge(schwommen)	durchschwimmen	VERB	-	-	0:00:58.374000	0:01:02.674000
+.	-	-	-	-	0:00:58.374000	0:01:02.674000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:02.674000" end="0:01:12.074000">
+Freizeit	Freizeit	NOUN	-	-	0:01:02.674000	0:01:08.993000
+und	und	CCONJ	-	-	0:01:02.674000	0:01:08.993000
+Hobby	Hobby	NOUN	-	-	0:01:02.674000	0:01:08.993000
+,	-	-	-	-	0:01:02.674000	0:01:08.993000
+<pause duration="2,2s"/>
+Wienerisch	Wienerisch	ADJ	-	-	0:01:02.674000	0:01:08.993000
+,	-	-	-	-	0:01:02.674000	0:01:08.993000
+<pause duration="1,9s"/>
+Heimat	Heimat	NOUN	-	-	0:01:08.993000	0:01:09.943000
+,	-	-	-	-	0:01:08.993000	0:01:09.943000
+ja	ja	ADV	-	-	0:01:09.943000	0:01:12.074000
+da	da	ADV	-	-	0:01:09.943000	0:01:12.074000
+meine	meinen	VERB	-	-	0:01:09.943000	0:01:12.074000
+ich	ich	PRON	-	-	0:01:09.943000	0:01:12.074000
+haben	haben	AUX	-	-	0:01:09.943000	0:01:12.074000
+wir	ich	PRON	-	-	0:01:09.943000	0:01:12.074000
+bissel	bissel	NOUN	-	#DIM #-(e)l #Interf #Interf- #IRR #sd- #SDent #Suff #U- #Uml	0:01:09.943000	0:01:12.074000
+mehr	mehr	ADV	-	-	0:01:09.943000	0:01:12.074000
+,	-	-	-	-	0:01:09.943000	0:01:12.074000
+hm	hm	X	-	-	0:01:09.943000	0:01:12.074000
+?	-	-	-	-	0:01:09.943000	0:01:12.074000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:09.943000" end="0:01:13.443000">
+Frei/	-	-	-	-	0:01:09.943000	0:01:12.074000
+Freizeit	Freizeit	NOUN	-	-	0:01:09.943000	0:01:12.074000
+und	und	CCONJ	-	-	0:01:09.943000	0:01:12.074000
+Hobby	Hobby	NOUN	-	-	0:01:12.074000	0:01:13.443000
+wäre	sein	AUX	-	-	0:01:12.074000	0:01:13.443000
+nicht	nicht	PART	-	-	0:01:12.074000	0:01:13.443000
+schlecht	schlecht	ADJ	-	-	0:01:12.074000	0:01:13.443000
+.	-	-	-	-	0:01:12.074000	0:01:13.443000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:13.443000" end="0:01:22.062000">
+besondere	besonder	ADJ	-	-	0:01:13.443000	0:01:15.443000
+Wörter	Wort	NOUN	-	-	0:01:13.443000	0:01:15.443000
+im	im	ADP	-	-	0:01:13.443000	0:01:15.443000
+Dialekt	Dialekt	NOUN	-	-	0:01:13.443000	0:01:15.443000
+.	-	-	-	-	0:01:13.443000	0:01:15.443000
+<pause duration="2,3s"/>
+habe	habe	AUX	-	-	0:01:15.443000	0:01:20.449000
+ich	ich	PRON	-	-	0:01:15.443000	0:01:20.449000
+habe	habe	AUX	-	-	0:01:15.443000	0:01:20.449000
+ich	ich	PRON	-	-	0:01:15.443000	0:01:20.449000
+heute	heute	ADV	-	-	0:01:15.443000	0:01:20.449000
+gesagt	sagen	VERB	-	-	0:01:15.443000	0:01:20.449000
+zu	zu	ADP	-	-	0:01:15.443000	0:01:20.449000
+ihr	mein	PRON	-	-	0:01:15.443000	0:01:20.449000
+,	-	-	-	-	0:01:15.443000	0:01:20.449000
+ob	ob	SCONJ	-	-	0:01:20.449000	0:01:22.062000
+sie	ich	PRON	-	-	0:01:20.449000	0:01:22.062000
+de/	-	-	-	-	0:01:20.449000	0:01:22.062000
+das	der	PRON	-	-	0:01:20.449000	0:01:22.062000
+kennt	kennen	VERB	-	-	0:01:20.449000	0:01:22.062000
+.	-	-	-	-	0:01:20.449000	0:01:22.062000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:22.062000" end="0:01:24.062000">
+*hast*	-	-	-	-	0:01:22.062000	0:01:24.062000
+einen	-	-	-	-	0:01:22.062000	0:01:24.062000
+gescheiten	-	-	-	-	0:01:22.062000	0:01:24.062000
+Dialektausdruck	-	-	-	-	0:01:22.062000	0:01:24.062000
+gehabt	-	-	-	-	0:01:22.062000	0:01:24.062000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:22.062000" end="0:01:24.062000">
+ja	ja	ADV	-	-	0:01:22.062000	0:01:24.062000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:22.062000" end="0:01:24.062000">
+?	-	-	-	-	0:01:22.062000	0:01:24.062000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:22.062000" end="0:01:24.062000">
+nein	nein	PART	-	-	0:01:22.062000	0:01:24.062000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:24.062000" end="0:01:24.593000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:24.593000" end="0:01:26.724000">
+nein	nein	ADV	-	-	0:01:24.593000	0:01:26.724000
+so	so	ADV	-	-	0:01:24.593000	0:01:26.724000
+wie	wie	CCONJ	-	-	0:01:24.593000	0:01:26.724000
+wir	ich	PRON	-	-	0:01:24.593000	0:01:26.724000
+früher	früh	ADJ	-	-	0:01:24.593000	0:01:26.724000
+immer	immer	ADV	-	-	0:01:24.593000	0:01:26.724000
+gesagt	sagen	VERB	-	-	0:01:24.593000	0:01:26.724000
+haben	haben	AUX	-	-	0:01:24.593000	0:01:26.724000
+,	-	-	-	-	0:01:24.593000	0:01:26.724000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:26.724000" end="0:01:27.337000">
+hm	hm	X	-	-	0:01:26.724000	0:01:27.337000
+?	-	-	-	-	0:01:26.724000	0:01:27.337000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:26.724000" end="0:01:28.649000">
+besondere	besonder	ADJ	-	-	0:01:26.724000	0:01:27.337000
+Wörter	Wort	NOUN	-	-	0:01:27.337000	0:01:28.649000
+im	im	ADP	-	-	0:01:27.337000	0:01:28.649000
+im	im	ADP	-	-	0:01:27.337000	0:01:28.649000
+Dialekt	Dialekt	NOUN	-	-	0:01:27.337000	0:01:28.649000
+,	-	-	-	-	0:01:27.337000	0:01:28.649000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:28.649000" end="0:01:29.043000">
+ja	ja	PART	-	-	0:01:28.649000	0:01:29.043000
+.	-	-	-	-	0:01:28.649000	0:01:29.043000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:29.043000" end="0:01:31.043000">
+ob	-	-	-	-	0:01:29.043000	0:01:31.043000
+sie	-	-	-	-	0:01:29.043000	0:01:31.043000
+das	-	-	-	-	0:01:29.043000	0:01:31.043000
+_Spitzeis_	-	-	-	-	0:01:29.043000	0:01:31.043000
+kennt	-	-	-	-	0:01:29.043000	0:01:31.043000
+.	-	-	-	-	0:01:29.043000	0:01:31.043000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:31.043000" end="0:01:31.743000">
+_Spitzeis_	-	-	-	-	0:01:31.043000	0:01:31.743000
+nein	-	-	-	-	0:01:31.043000	0:01:31.743000
+,	-	-	-	-	0:01:31.043000	0:01:31.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:31.743000" end="0:01:32.293000">
+_Spitzeis_	-	-	-	-	0:01:31.743000	0:01:32.293000
+,	-	-	-	-	0:01:31.743000	0:01:32.293000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:32.293000" end="0:01:32.924000">
+na	na	X	-	-	0:01:32.293000	0:01:32.924000
+was	was	PRON	-	-	0:01:32.293000	0:01:32.924000
+ist	sein	AUX	-	-	0:01:32.293000	0:01:32.924000
+das	der	PRON	-	-	0:01:32.293000	0:01:32.924000
+?	-	-	-	-	0:01:32.293000	0:01:32.924000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:32.293000" end="0:01:34.924000">
+hast	haben	AUX	-	-	0:01:32.293000	0:01:32.924000
+du	du	PRON	-	-	0:01:32.924000	0:01:34.924000
+das	der	PRON	-	-	0:01:32.924000	0:01:34.924000
+schon	schon	ADV	-	-	0:01:32.924000	0:01:34.924000
+einmal	einmal	ADV	-	-	0:01:32.924000	0:01:34.924000
+gehört	hören	VERB	-	-	0:01:32.924000	0:01:34.924000
+?	-	-	-	-	0:01:32.924000	0:01:34.924000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:34.924000" end="0:01:37.231000">
+warte	warten	VERB	-	-	0:01:34.924000	0:01:36.274000
+wer	wer	PRON	-	-	0:01:34.924000	0:01:36.274000
+hat	haben	AUX	-	-	0:01:34.924000	0:01:36.274000
+das	der	DET	-	-	0:01:34.924000	0:01:36.274000
+gesagt	sagen	VERB	-	-	0:01:34.924000	0:01:36.274000
+einmal	einmal	ADV	-	-	0:01:34.924000	0:01:36.274000
+?	-	-	-	-	0:01:34.924000	0:01:36.274000
+_Spitzeis_	-	-	-	-	0:01:36.274000	0:01:37.231000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:36.274000" end="0:01:38.862000">
+_Spitzeis_	-	-	-	-	0:01:36.274000	0:01:37.231000
+da	-	-	-	-	0:01:37.231000	0:01:38.862000
+haben	-	-	-	-	0:01:37.231000	0:01:38.862000
+wir	-	-	-	-	0:01:37.231000	0:01:38.862000
+eine	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:01:37.231000	0:01:38.862000
+so	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:01:37.231000	0:01:38.862000
+eine	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:01:37.231000	0:01:38.862000
+_Gaudi_	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	#?? #DIM #-i #Interf #Interf- #IRR #sd- #SDent #Suff #U- #Uml	0:01:37.231000	0:01:38.862000
+gehabt	-	-	-	-	0:01:37.231000	0:01:38.862000
+mit	-	-	-	-	0:01:37.231000	0:01:38.862000
+,	-	-	-	-	0:01:37.231000	0:01:38.862000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:38.862000" end="0:01:40.537000">
+ja	-	-	-	-	0:01:38.862000	0:01:40.537000
+.	-	-	-	-	0:01:38.862000	0:01:40.537000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:38.862000" end="0:01:40.537000">
+aber	aber	CCONJ	-	-	0:01:38.862000	0:01:40.537000
+es	ich	PRON	-	-	0:01:38.862000	0:01:40.537000
+war	sein	AUX	-	-	0:01:38.862000	0:01:40.537000
+früher	früh	ADJ	-	-	0:01:38.862000	0:01:40.537000
+alleweile	alleweile	ADJ	-	-	0:01:38.862000	0:01:40.537000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:40.537000" end="0:01:40.799000">
+ja	ja	PART	-	-	0:01:40.537000	0:01:40.799000
+.	-	-	-	-	0:01:40.537000	0:01:40.799000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:40.799000" end="0:01:47.412000">
+gang	gang	NOUN	-	-	0:01:40.799000	0:01:43.681000
+und	und	CCONJ	-	-	0:01:40.799000	0:01:43.681000
+gäbe	geben	VERB	-	-	0:01:40.799000	0:01:43.681000
+,	-	-	-	-	0:01:40.799000	0:01:43.681000
+also	also	ADV	-	-	0:01:40.799000	0:01:43.681000
+wenn	wenn	SCONJ	-	-	0:01:40.799000	0:01:43.681000
+wir	ich	PRON	-	-	0:01:40.799000	0:01:43.681000
+gewesen	sein	AUX	-	-	0:01:40.799000	0:01:43.681000
+sind	sein	AUX	-	-	0:01:40.799000	0:01:43.681000
+Kinder	Kind	NOUN	-	-	0:01:40.799000	0:01:43.681000
+beim	beim	ADP	-	-	0:01:43.681000	0:01:47.412000
+<pause duration="0,7s"/>
+i/	-	-	-	-	0:01:43.681000	0:01:47.412000
+irgendwo	irgendwo	ADV	-	-	0:01:43.681000	0:01:47.412000
+in	in	ADP	-	-	0:01:43.681000	0:01:47.412000
+einem	einer	DET	-	-	0:01:43.681000	0:01:47.412000
+Gasthaus	Gasthaus	NOUN	-	#LautNach #LautVor #Ons #Ons- #P #sPal #sPal- #sPal-t #Vvel	0:01:43.681000	0:01:47.412000
+,	-	-	-	-	0:01:43.681000	0:01:47.412000
+wenn	wenn	SCONJ	-	-	0:01:43.681000	0:01:47.412000
+du	du	PRON	-	-	0:01:43.681000	0:01:47.412000
+hingekommen	hinkommen	VERB	-	-	0:01:43.681000	0:01:47.412000
+bist	sein	AUX	-	-	0:01:43.681000	0:01:47.412000
+,	-	-	-	-	0:01:43.681000	0:01:47.412000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:47.412000" end="0:01:49.348000">
+ein	-	-	-	-	0:01:47.412000	0:01:49.348000
+_Spitzeis_	-	-	-	-	0:01:47.412000	0:01:49.348000
+ja	-	-	-	-	0:01:47.412000	0:01:49.348000
+ja	-	-	-	-	0:01:47.412000	0:01:49.348000
+.	-	-	-	-	0:01:47.412000	0:01:49.348000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:47.412000" end="0:01:49.924000">
+ein	-	-	-	-	0:01:47.412000	0:01:49.348000
+_Spitzeis_	-	-	-	-	0:01:47.412000	0:01:49.348000
+ja	-	-	-	-	0:01:47.412000	0:01:49.348000
+.	-	-	-	-	0:01:47.412000	0:01:49.348000
+(was)	was	PRON	-	-	0:01:49.348000	0:01:49.924000
+ist	sein	AUX	-	-	0:01:49.348000	0:01:49.924000
+das	der	DET	-	-	0:01:49.348000	0:01:49.924000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:49.924000" end="0:01:50.743000">
+wer	wer	PRON	-	-	0:01:49.924000	0:01:50.743000
+hat	haben	AUX	-	-	0:01:49.924000	0:01:50.743000
+das	der	DET	-	-	0:01:49.924000	0:01:50.743000
+gesagt	sagen	VERB	-	-	0:01:49.924000	0:01:50.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:49.924000" end="0:01:50.743000">
+Tüteneis	Tüteneis	NOUN	-	-	0:01:49.924000	0:01:50.743000
+.	-	-	-	-	0:01:49.924000	0:01:50.743000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:50.743000" end="0:01:53.793000">
+vor	vor	ADP	-	-	0:01:50.743000	0:01:52.981000
+Kurzem	Kurzem	NOUN	-	-	0:01:50.743000	0:01:52.981000
+,	-	-	-	-	0:01:50.743000	0:01:52.981000
+das	-	-	-	-	0:01:50.743000	0:01:52.981000
+hat	-	-	-	-	0:01:50.743000	0:01:52.981000
+das	-	-	-	-	0:01:50.743000	0:01:52.981000
+hat	-	-	-	-	0:01:50.743000	0:01:52.981000
+niemand	-	-	-	-	0:01:50.743000	0:01:52.981000
+gekannt	-	-	-	-	0:01:50.743000	0:01:52.981000
+ein	-	-	-	-	0:01:50.743000	0:01:52.981000
+_Spitzeis_	-	-	-	-	0:01:52.981000	0:01:53.793000
+.	-	-	-	-	0:01:52.981000	0:01:53.793000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:52.981000" end="0:01:56.462000">
+das	der	PRON	-	-	0:01:52.981000	0:01:53.793000
+haben	haben	AUX	-	-	0:01:52.981000	0:01:53.793000
+wir	ich	PRON	-	-	0:01:52.981000	0:01:53.793000
+in	in	ADP	-	-	0:01:53.793000	0:01:56.462000
+[Raggersburg]O	Raggersburg	PROPN	-	-	0:01:53.793000	0:01:56.462000
+wie	wie	CCONJ	-	-	0:01:53.793000	0:01:56.462000
+wir	ich	PRON	-	-	0:01:53.793000	0:01:56.462000
+waren	sein	AUX	-	-	0:01:53.793000	0:01:56.462000
+,	-	-	-	-	0:01:53.793000	0:01:56.462000
+<pause duration="0,5s"/>
+haben	haben	AUX	-	-	0:01:53.793000	0:01:56.462000
+wir	ich	PRON	-	-	0:01:53.793000	0:01:56.462000
+das	der	PRON	-	-	0:01:53.793000	0:01:56.462000
+gehabt	haben	AUX	-	-	0:01:53.793000	0:01:56.462000
+,	-	-	-	-	0:01:53.793000	0:01:56.462000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:56.462000" end="0:01:57.831000">
+ah	ah	X	-	-	0:01:56.462000	0:01:57.831000
+der	der	DET	-	-	0:01:56.462000	0:01:57.831000
+[Rudel]N	Rudel	NOUN	-	-	0:01:56.462000	0:01:57.831000
+hat	haben	AUX	-	-	0:01:56.462000	0:01:57.831000
+geredet	reden	VERB	-	-	0:01:56.462000	0:01:57.831000
+davon	davon	ADV	-	-	0:01:56.462000	0:01:57.831000
+,	-	-	-	-	0:01:56.462000	0:01:57.831000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:56.462000" end="0:01:57.831000">
+aber	aber	CCONJ	-	-	0:01:56.462000	0:01:57.831000
+mal	mal	ADV	-	-	0:01:56.462000	0:01:57.831000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:57.831000" end="0:01:59.287000">
+der	-	-	-	-	0:01:57.831000	0:01:59.287000
+[Rudel]N	-	-	-	-	0:01:57.831000	0:01:59.287000
+hat	-	-	-	-	0:01:57.831000	0:01:59.287000
+vom	-	-	-	-	0:01:57.831000	0:01:59.287000
+_Spitzeis_	-	-	-	-	0:01:57.831000	0:01:59.287000
+geredet	-	-	-	-	0:01:57.831000	0:01:59.287000
+,	-	-	-	-	0:01:57.831000	0:01:59.287000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:01:57.831000" end="0:01:59.287000">
+ja	ja	ADV	-	-	0:01:57.831000	0:01:59.287000
+ja	ja	ADV	-	-	0:01:57.831000	0:01:59.287000
+irgendwer	irgendwer	ADJ	-	-	0:01:57.831000	0:01:59.287000
+.	-	-	-	-	0:01:57.831000	0:01:59.287000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:01:59.287000" end="0:02:00.124000">
+genau	genau	ADJ	-	-	0:01:59.287000	0:02:00.124000
+das	der	PRON	-	-	0:01:59.287000	0:02:00.124000
+war	sein	AUX	-	-	0:01:59.287000	0:02:00.124000
+es	ich	PRON	-	-	0:01:59.287000	0:02:00.124000
+ja	ja	ADV	-	-	0:01:59.287000	0:02:00.124000
+.	-	-	-	-	0:01:59.287000	0:02:00.124000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:00.124000" end="0:02:01.274000">
+wir	-	-	-	-	0:02:00.124000	0:02:01.274000
+haben	-	-	-	-	0:02:00.124000	0:02:01.274000
+eine	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:02:00.124000	0:02:01.274000
+so	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:02:00.124000	0:02:01.274000
+eine	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:02:00.124000	0:02:01.274000
+_Gaudi_	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	#?? #DIM #-i #Interf #Interf- #IRR #sd- #SDent #Suff #U- #Uml	0:02:00.124000	0:02:01.274000
+gehabt	-	-	-	-	0:02:00.124000	0:02:01.274000
+.	-	-	-	-	0:02:00.124000	0:02:01.274000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:01.274000" end="0:02:03.893000">
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:02:01.274000	0:02:03.893000
+wäre	sein	AUX	-	-	0:02:01.274000	0:02:03.893000
+nicht	nicht	PART	-	-	0:02:01.274000	0:02:03.893000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:01.274000" end="0:02:03.893000">
+du	du	PRON	-	-	0:02:01.274000	0:02:03.893000
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:02:01.274000	0:02:03.893000
+na	na	PROPN	-	-	0:02:01.274000	0:02:03.893000
+schau	schau	PROPN	-	-	0:02:01.274000	0:02:03.893000
+da	da	ADV	-	-	0:02:01.274000	0:02:03.893000
+haben	haben	AUX	-	-	0:02:01.274000	0:02:03.893000
+wir	ich	PRON	-	-	0:02:01.274000	0:02:03.893000
+auch	auch	ADV	-	-	0:02:01.274000	0:02:03.893000
+noch	noch	ADV	-	-	0:02:01.274000	0:02:03.893000
+was	was	PRON	-	-	0:02:01.274000	0:02:03.893000
+von	von	ADP	-	-	0:02:01.274000	0:02:03.893000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:03.893000" end="0:02:06.362000">
+schlecht	schlecht	ADJ	-	-	0:02:03.893000	0:02:04.524000
+ja	ja	ADV	-	-	0:02:03.893000	0:02:04.524000
+da	da	ADV	-	-	0:02:03.893000	0:02:04.524000
+das	der	PRON	-	-	0:02:04.524000	0:02:06.362000
+tun	tun	VERB	-	-	0:02:04.524000	0:02:06.362000
+wir	ich	PRON	-	-	0:02:04.524000	0:02:06.362000
+das	der	PRON	-	-	0:02:04.524000	0:02:06.362000
+mal	mal	ADV	-	-	0:02:04.524000	0:02:06.362000
+auf	auf	ADP	-	-	0:02:04.524000	0:02:06.362000
+die	der	DET	-	-	0:02:04.524000	0:02:06.362000
+Seite	Seite	NOUN	-	-	0:02:04.524000	0:02:06.362000
+,	-	-	-	-	0:02:04.524000	0:02:06.362000
+nicht	nicht	PART	-	-	0:02:04.524000	0:02:06.362000
+?	-	-	-	-	0:02:04.524000	0:02:06.362000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:04.524000" end="0:02:06.362000">
+Vorarlbergerisch	Vorarlbergerisch	NOUN	-	-	0:02:04.524000	0:02:06.362000
+das	der	PRON	-	-	0:02:04.524000	0:02:06.362000
+können	können	VERB	-	-	0:02:04.524000	0:02:06.362000
+wir	ich	PRON	-	-	0:02:04.524000	0:02:06.362000
+nicht	nicht	PART	-	-	0:02:04.524000	0:02:06.362000
+(nehmen)	nehmen	VERB	-	-	0:02:04.524000	0:02:06.362000
+,	-	-	-	-	0:02:04.524000	0:02:06.362000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:06.362000" end="0:02:07.631000">
+nein	nein	PART	-	-	0:02:06.362000	0:02:07.631000
+das	der	PRON	-	-	0:02:06.362000	0:02:07.631000
+geht	gehen	VERB	-	-	0:02:06.362000	0:02:07.631000
+nicht	nicht	PART	-	-	0:02:06.362000	0:02:07.631000
+.	-	-	-	-	0:02:06.362000	0:02:07.631000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:06.362000" end="0:02:07.631000">
+ja	ja	ADV	-	-	0:02:06.362000	0:02:07.631000
+das	der	PRON	-	-	0:02:06.362000	0:02:07.631000
+können	können	VERB	-	-	0:02:06.362000	0:02:07.631000
+wir	ich	PRON	-	-	0:02:06.362000	0:02:07.631000
+nicht	nicht	PART	-	-	0:02:06.362000	0:02:07.631000
+.	-	-	-	-	0:02:06.362000	0:02:07.631000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:07.631000" end="0:02:08.106000">
+mhm	mhm	PROPN	-	-	0:02:07.631000	0:02:08.106000
+.	-	-	-	-	0:02:07.631000	0:02:08.106000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:08.106000" end="0:02:09.256000">
+Arbeit	Arbeit	NOUN	-	-	0:02:08.106000	0:02:09.256000
+.	-	-	-	-	0:02:08.106000	0:02:09.256000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:09.256000" end="0:02:10.787000">
+Arbeit	Arbeit	NOUN	-	-	0:02:09.256000	0:02:10.787000
+ja	ja	ADV	-	-	0:02:09.256000	0:02:10.787000
+von	von	ADP	-	-	0:02:09.256000	0:02:10.787000
+mir	sich	PRON	-	-	0:02:09.256000	0:02:10.787000
+aus	aus	ADP	-	-	0:02:09.256000	0:02:10.787000
+auch	auch	ADV	-	-	0:02:09.256000	0:02:10.787000
+.	-	-	-	-	0:02:09.256000	0:02:10.787000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:10.787000" end="0:02:11.799000">
+können	können	VERB	-	-	0:02:10.787000	0:02:11.799000
+wir	ich	PRON	-	-	0:02:10.787000	0:02:11.799000
+auch	auch	ADV	-	-	0:02:10.787000	0:02:11.799000
+was	was	PRON	-	-	0:02:10.787000	0:02:11.799000
+nehmen	nehmen	VERB	-	-	0:02:10.787000	0:02:11.799000
+.	-	-	-	-	0:02:10.787000	0:02:11.799000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:11.799000" end="0:02:13.156000">
+ja	ja	PART	-	-	0:02:11.799000	0:02:13.156000
+.	-	-	-	-	0:02:11.799000	0:02:13.156000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:13.156000" end="0:02:14.412000">
+besondere	besonder	ADJ	-	-	0:02:13.156000	0:02:14.412000
+Wörter	Wort	NOUN	-	-	0:02:13.156000	0:02:14.412000
+im	im	ADP	-	-	0:02:13.156000	0:02:14.412000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:14.412000" end="0:02:15.393000">
+mhm	mhm	PROPN	-	-	0:02:14.412000	0:02:15.393000
+.	-	-	-	-	0:02:14.412000	0:02:15.393000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:14.412000" end="0:02:16.987000">
+Dialekt	Dialekt	NOUN	-	-	0:02:14.412000	0:02:15.393000
+.	-	-	-	-	0:02:14.412000	0:02:15.393000
+<pause duration="1,0s"/>
+hm	hm	X	-	-	0:02:15.393000	0:02:16.987000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:16.987000" end="0:02:18.624000">
+ah	ah	X	-	-	0:02:16.987000	0:02:18.624000
+ja	ja	ADV	-	-	0:02:16.987000	0:02:18.624000
+.	-	-	-	-	0:02:16.987000	0:02:18.624000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:18.624000" end="0:02:20.137000">
+schönster	schön	ADJ	-	#LautNach #LautVor #Nas #Ons #Ons- #P #sPal #sPal- #sPal-t	0:02:18.624000	0:02:20.137000
+Ort	Ort	NOUN	-	-	0:02:18.624000	0:02:20.137000
+der	der	DET	-	-	0:02:18.624000	0:02:20.137000
+Welt	Welt	NOUN	-	-	0:02:18.624000	0:02:20.137000
+,	-	-	-	-	0:02:18.624000	0:02:20.137000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:20.137000" end="0:02:20.487000">
+ja	ja	PART	-	-	0:02:20.137000	0:02:20.487000
+.	-	-	-	-	0:02:20.137000	0:02:20.487000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:20.137000" end="0:02:21.218000">
+das	der	PRON	-	-	0:02:20.137000	0:02:20.487000
+können	können	VERB	-	-	0:02:20.487000	0:02:21.218000
+wir	ich	PRON	-	-	0:02:20.487000	0:02:21.218000
+auch	auch	ADV	-	-	0:02:20.487000	0:02:21.218000
+nehmen	nehmen	VERB	-	-	0:02:20.487000	0:02:21.218000
+.	-	-	-	-	0:02:20.487000	0:02:21.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:21.218000" end="0:02:21.618000">
+das/	-	-	-	-	0:02:21.218000	0:02:21.618000
+.	-	-	-	-	0:02:21.218000	0:02:21.618000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:21.618000" end="0:02:22.218000">
+[Steyerling]O	Steyrling	PROPN	-	-	0:02:21.618000	0:02:22.218000
+.	-	-	-	-	0:02:21.618000	0:02:22.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:22.218000" end="0:02:26.324000">
+ja	ja	ADV	-	-	0:02:22.218000	0:02:24.112000
+ja	ja	ADV	-	-	0:02:22.218000	0:02:24.112000
+tu	tu	VERB	-	-	0:02:22.218000	0:02:24.112000
+es	ich	PRON	-	-	0:02:22.218000	0:02:24.112000
+einmal	einmal	ADV	-	-	0:02:22.218000	0:02:24.112000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:24.112000" end="0:02:28.206000">
+tu	tu	PROPN	-	-	0:02:24.112000	0:02:26.324000
+tu	tu	X	-	-	0:02:24.112000	0:02:26.324000
+na	na	X	-	-	0:02:24.112000	0:02:26.324000
+tu	tu	X	-	-	0:02:24.112000	0:02:26.324000
+es	ich	PRON	-	-	0:02:24.112000	0:02:26.324000
+darauf	darauf	ADV	-	-	0:02:24.112000	0:02:26.324000
+ja	ja	ADV	-	-	0:02:24.112000	0:02:26.324000
+ja	ja	ADV	-	-	0:02:24.112000	0:02:26.324000
+diese	dies	PRON	-	-	0:02:24.112000	0:02:26.324000
+.	-	-	-	-	0:02:24.112000	0:02:26.324000
+du	du	PRON	-	-	0:02:26.324000	0:02:28.206000
+die	der	DET	-	-	0:02:26.324000	0:02:28.206000
+Tage	Tag	NOUN	-	-	0:02:26.324000	0:02:28.206000
+war	sein	AUX	-	-	0:02:26.324000	0:02:28.206000
+ich	ich	PRON	-	-	0:02:26.324000	0:02:28.206000
+wieder	wieder	ADV	-	-	0:02:26.324000	0:02:28.206000
+oben	oben	ADV	-	-	0:02:26.324000	0:02:28.206000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:28.206000" end="0:02:28.881000">
+mhm	mhm	PROPN	-	-	0:02:28.206000	0:02:28.881000
+.	-	-	-	-	0:02:28.206000	0:02:28.881000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:28.206000" end="0:02:29.337000">
+[Franz]N	franzen	PROPN	-	-	0:02:28.206000	0:02:28.881000
+,	-	-	-	-	0:02:28.206000	0:02:28.881000
+habe	habe	AUX	-	-	0:02:28.881000	0:02:29.337000
+ich/	-	-	-	-	0:02:28.881000	0:02:29.337000
+.	-	-	-	-	0:02:28.881000	0:02:29.337000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:29.337000" end="0:02:29.899000">
+wo	wo	ADV	-	-	0:02:29.337000	0:02:29.899000
+?	-	-	-	-	0:02:29.337000	0:02:29.899000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:29.899000" end="0:02:31.456000">
+Lieblingssendung	Lieblingssendung	NOUN	-	-	0:02:29.899000	0:02:31.456000
+könnten	können	VERB	-	-	0:02:29.899000	0:02:31.456000
+wir	ich	PRON	-	-	0:02:29.899000	0:02:31.456000
+auch	auch	ADV	-	-	0:02:29.899000	0:02:31.456000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:31.456000" end="0:02:33.087000">
+mhm	mhm	PROPN	-	-	0:02:31.456000	0:02:33.087000
+mhm	mhm	PROPN	-	-	0:02:31.456000	0:02:33.087000
+ja	ja	ADV	-	-	0:02:31.456000	0:02:33.087000
+.	-	-	-	-	0:02:31.456000	0:02:33.087000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:31.456000" end="0:02:33.087000">
+vielleicht	vielleicht	ADV	-	-	0:02:31.456000	0:02:33.087000
+,	-	-	-	-	0:02:31.456000	0:02:33.087000
+wenn	wenn	SCONJ	-	-	0:02:31.456000	0:02:33.087000
+es	ich	PRON	-	-	0:02:31.456000	0:02:33.087000
+wäre	sein	AUX	-	-	0:02:31.456000	0:02:33.087000
+.	-	-	-	-	0:02:31.456000	0:02:33.087000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:33.087000" end="0:02:34.474000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:33.087000" end="0:02:36.356000">
+Fremdsprachen	Fremdsprachen	NOUN	-	-	0:02:33.087000	0:02:34.474000
+in	in	ADP	-	-	0:02:33.087000	0:02:34.474000
+Österreich	Österreich	PROPN	-	#LautNach #LautVor #Ons #Ons- #P #sPal #sPal- #sPal-t #Vpal	0:02:33.087000	0:02:34.474000
+,	-	-	-	-	0:02:33.087000	0:02:34.474000
+Lieblingsbuch	Lieblingsbuch	NOUN	-	-	0:02:34.474000	0:02:36.356000
+Zeitung	Zeitung	NOUN	-	-	0:02:34.474000	0:02:36.356000
+,	-	-	-	-	0:02:34.474000	0:02:36.356000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:36.356000" end="0:02:38.324000">
+Deutsch	Deutsch	ADJ	-	-	0:02:36.356000	0:02:38.324000
+in	in	ADP	-	-	0:02:36.356000	0:02:38.324000
+Österreich	Österreich	PROPN	-	-	0:02:36.356000	0:02:38.324000
+.	-	-	-	-	0:02:36.356000	0:02:38.324000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:36.356000" end="0:02:39.699000">
+habe	habe	AUX	-	-	0:02:36.356000	0:02:38.324000
+ich	ich	PRON	-	-	0:02:36.356000	0:02:38.324000
+eigentlich	eigentlich	ADV	-	-	0:02:36.356000	0:02:38.324000
+weniger	wenig	ADV	-	#igReal #igVar #LautNach #P #Vvel	0:02:36.356000	0:02:38.324000
+,	-	-	-	-	0:02:36.356000	0:02:38.324000
+Zeitung/	-	-	-	-	0:02:36.356000	0:02:38.324000
+.	-	-	-	-	0:02:36.356000	0:02:38.324000
+Deutsch	Deutsch	ADJ	-	-	0:02:38.324000	0:02:39.699000
+in	in	ADP	-	-	0:02:38.324000	0:02:39.699000
+Österreich	Österreich	PROPN	-	#LautNach #LautVor #Ons #Ons- #P #sPal #sPal- #sPal-t #Vpal	0:02:38.324000	0:02:39.699000
+.	-	-	-	-	0:02:38.324000	0:02:39.699000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:39.699000" end="0:02:42.499000">
+na	na	X	-	-	0:02:39.699000	0:02:42.499000
+ja	ja	PART	-	-	0:02:39.699000	0:02:42.499000
+.	-	-	-	-	0:02:39.699000	0:02:42.499000
+<pause duration="2,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:42.499000" end="0:02:48.843000">
+wissen	wissen	VERB	-	-	0:02:42.499000	0:02:44.662000
+wir	ich	PRON	-	-	0:02:42.499000	0:02:44.662000
+da	da	ADV	-	-	0:02:42.499000	0:02:44.662000
+was	was	PRON	-	-	0:02:42.499000	0:02:44.662000
+?	-	-	-	-	0:02:42.499000	0:02:44.662000
+<pause duration="1,2s"/>
+Fremdsprachen	Fremdsprachen	NOUN	-	-	0:02:44.662000	0:02:48.843000
+in	in	ADP	-	-	0:02:44.662000	0:02:48.843000
+Österreich	Österreich	PROPN	-	-	0:02:44.662000	0:02:48.843000
+?	-	-	-	-	0:02:44.662000	0:02:48.843000
+<pause duration="2,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:48.843000" end="0:02:50.612000">
+na	na	X	-	-	0:02:48.843000	0:02:50.612000
+(ich	ich	PRON	-	-	0:02:48.843000	0:02:50.612000
+meine)	meinen	DET	-	-	0:02:48.843000	0:02:50.612000
+na	na	NOUN	-	-	0:02:48.843000	0:02:50.612000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:48.843000" end="0:02:50.612000">
+Lieblingsbuch	Lieblingsbuch	NOUN	-	-	0:02:48.843000	0:02:50.612000
+und	und	CCONJ	-	-	0:02:48.843000	0:02:50.612000
+Zeitung	Zeitung	NOUN	-	-	0:02:48.843000	0:02:50.612000
+.	-	-	-	-	0:02:48.843000	0:02:50.612000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:50.612000" end="0:02:51.849000">
+nehmen	nehmen	VERB	-	-	0:02:50.612000	0:02:51.849000
+wir	ich	PRON	-	-	0:02:50.612000	0:02:51.849000
+die	der	PRON	-	-	0:02:50.612000	0:02:51.849000
+,	-	-	-	-	0:02:50.612000	0:02:51.849000
+haben	haben	AUX	-	-	0:02:50.612000	0:02:51.849000
+wir	ich	PRON	-	-	0:02:50.612000	0:02:51.849000
+eh	eh	ADV	-	-	0:02:50.612000	0:02:51.849000
+schon	schon	ADV	-	-	0:02:50.612000	0:02:51.849000
+genug	genug	ADV	-	-	0:02:50.612000	0:02:51.849000
+,	-	-	-	-	0:02:50.612000	0:02:51.849000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:50.612000" end="0:02:51.849000">
+könnten	können	VERB	-	#IRR	0:02:50.612000	0:02:51.849000
+wir	ich	PRON	-	-	0:02:50.612000	0:02:51.849000
+vielleicht/	-	-	-	-	0:02:50.612000	0:02:51.849000
+.	-	-	-	-	0:02:50.612000	0:02:51.849000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:51.849000" end="0:02:53.437000">
+ja	ja	ADV	-	-	0:02:51.849000	0:02:53.437000
+da	da	ADV	-	-	0:02:51.849000	0:02:53.437000
+haben	haben	AUX	-	-	0:02:51.849000	0:02:53.437000
+wir	ich	PRON	-	-	0:02:51.849000	0:02:53.437000
+jetzt	jetzt	ADV	-	-	0:02:51.849000	0:02:53.437000
+vier	vier	NUM	-	-	0:02:51.849000	0:02:53.437000
+Sachen	Sache	NOUN	-	-	0:02:51.849000	0:02:53.437000
+.	-	-	-	-	0:02:51.849000	0:02:53.437000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:51.849000" end="0:02:53.899000">
+was	was	PRON	-	-	0:02:53.437000	0:02:53.899000
+?	-	-	-	-	0:02:53.437000	0:02:53.899000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:53.899000" end="0:02:56.381000">
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:02:53.899000	0:02:56.381000
+haben	haben	AUX	-	-	0:02:53.899000	0:02:56.381000
+wir	ich	PRON	-	-	0:02:53.899000	0:02:56.381000
+jetzt	jetzt	ADV	-	-	0:02:53.899000	0:02:56.381000
+einmal	einmal	ADV	-	-	0:02:53.899000	0:02:56.381000
+,	-	-	-	-	0:02:53.899000	0:02:56.381000
+schönster	schön	ADJ	-	-	0:02:53.899000	0:02:56.381000
+Ort	Ort	NOUN	-	-	0:02:53.899000	0:02:56.381000
+der	der	DET	-	-	0:02:53.899000	0:02:56.381000
+Welt	Welt	NOUN	-	-	0:02:53.899000	0:02:56.381000
+,	-	-	-	-	0:02:53.899000	0:02:56.381000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:56.381000" end="0:02:57.093000">
+mhm	mhm	PROPN	-	-	0:02:56.381000	0:02:57.093000
+.	-	-	-	-	0:02:56.381000	0:02:57.093000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:57.093000" end="0:02:58.406000">
+dann	dann	ADV	-	-	0:02:57.093000	0:02:58.406000
+Lieblingssendung	Lieblingssendung	NOUN	-	-	0:02:57.093000	0:02:58.406000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:02:57.093000" end="0:02:58.406000">
+Heimat	Heimat	NOUN	-	-	0:02:57.093000	0:02:58.406000
+.	-	-	-	-	0:02:57.093000	0:02:58.406000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:02:58.406000" end="0:03:02.699000">
+und	und	CCONJ	-	-	0:02:58.406000	0:03:01.412000
+Arbeit	Arbeit	NOUN	-	-	0:02:58.406000	0:03:01.412000
+,	-	-	-	-	0:02:58.406000	0:03:01.412000
+Heimat	Heimat	NOUN	-	-	0:02:58.406000	0:03:01.412000
+ja	ja	PART	-	-	0:02:58.406000	0:03:01.412000
+.	-	-	-	-	0:02:58.406000	0:03:01.412000
+<pause duration="0,8s"/>
+tun	tun	VERB	-	-	0:03:01.412000	0:03:02.699000
+wir	ich	PRON	-	-	0:03:01.412000	0:03:02.699000
+es	ich	PRON	-	-	0:03:01.412000	0:03:02.699000
+einmal	einmal	ADV	-	-	0:03:01.412000	0:03:02.699000
+so	so	ADV	-	-	0:03:01.412000	0:03:02.699000
+reihen	reihen	VERB	-	-	0:03:01.412000	0:03:02.699000
+,	-	-	-	-	0:03:01.412000	0:03:02.699000
+nicht	nicht	PART	-	-	0:03:01.412000	0:03:02.699000
+?	-	-	-	-	0:03:01.412000	0:03:02.699000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:02.699000" end="0:03:03.824000">
+Freizeit	Freizeit	NOUN	-	-	0:03:02.699000	0:03:03.824000
+und	und	CCONJ	-	-	0:03:02.699000	0:03:03.824000
+Hobby	Hobby	NOUN	-	-	0:03:02.699000	0:03:03.824000
+.	-	-	-	-	0:03:02.699000	0:03:03.824000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:03.824000" end="0:03:10.749000">
+ja	ja	PART	-	-	0:03:03.824000	0:03:07.731000
+geht	gehen	VERB	-	-	0:03:03.824000	0:03:07.731000
+auch	auch	ADV	-	-	0:03:03.824000	0:03:07.731000
+.	-	-	-	-	0:03:03.824000	0:03:07.731000
+<pause duration="2,9s"/>
+ja	ja	ADV	-	-	0:03:07.731000	0:03:10.749000
+da	da	ADV	-	-	0:03:07.731000	0:03:10.749000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:07.731000" end="0:03:10.749000">
+Sprache	Sprache	NOUN	-	-	0:03:07.731000	0:03:10.749000
+von	von	ADP	-	-	0:03:07.731000	0:03:10.749000
+Nachrichtensprechern	Nachrichtensprechern	NOUN	-	-	0:03:07.731000	0:03:10.749000
+,	-	-	-	-	0:03:07.731000	0:03:10.749000
+das	der	PRON	-	-	0:03:07.731000	0:03:10.749000
+habe	habe	AUX	-	-	0:03:07.731000	0:03:10.749000
+ich	ich	PRON	-	-	0:03:07.731000	0:03:10.749000
+zuerst	zuerst	ADV	-	#LautNach #LautVor #Ons #Ons- #P #sPal #sPal- #sPal-t #Vvel	0:03:07.731000	0:03:10.749000
+gehabt	haben	AUX	-	-	0:03:07.731000	0:03:10.749000
+auch	auch	ADV	-	-	0:03:07.731000	0:03:10.749000
+.	-	-	-	-	0:03:07.731000	0:03:10.749000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:10.749000" end="0:03:11.324000">
+wirklich	wirklich	ADJ	-	-	0:03:10.749000	0:03:11.324000
+?	-	-	-	-	0:03:10.749000	0:03:11.324000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:11.324000" end="0:03:12.249000">
+also	also	ADV	-	-	0:03:11.324000	0:03:12.249000
+wie	wie	CCONJ	-	-	0:03:11.324000	0:03:12.249000
+ja	ja	ADV	-	-	0:03:11.324000	0:03:12.249000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:12.249000" end="0:03:15.031000">
+da	da	SCONJ	-	-	0:03:12.249000	0:03:15.031000
+bei	bei	ADP	-	-	0:03:12.249000	0:03:15.031000
+den	der	DET	-	-	0:03:12.249000	0:03:15.031000
+aha	aha	PROPN	-	-	0:03:12.249000	0:03:15.031000
+Hochdeutsch	Hochdeutsch	ADJ	-	-	0:03:12.249000	0:03:15.031000
+reden	reden	VERB	-	-	0:03:12.249000	0:03:15.031000
+ja	ja	ADV	-	-	0:03:12.249000	0:03:15.031000
+ja	ja	ADV	-	-	0:03:12.249000	0:03:15.031000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:12.249000" end="0:03:15.031000">
+dass	dass	SCONJ	-	-	0:03:12.249000	0:03:15.031000
+die	der	DET	-	-	0:03:12.249000	0:03:15.031000
+alle	all	DET	-	-	0:03:12.249000	0:03:15.031000
+Hoch/	-	-	-	-	0:03:12.249000	0:03:15.031000
+Hochdeutsch	Hochdeutsch	NOUN	-	-	0:03:12.249000	0:03:15.031000
+reden	reden	VERB	-	-	0:03:12.249000	0:03:15.031000
+ja	ja	ADV	-	-	0:03:12.249000	0:03:15.031000
+ja	ja	PART	-	-	0:03:12.249000	0:03:15.031000
+.	-	-	-	-	0:03:12.249000	0:03:15.031000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:15.031000" end="0:03:17.031000">
+ja	ja	ADV	-	-	0:03:15.031000	0:03:17.031000
+ist	sein	AUX	-	-	0:03:15.031000	0:03:17.031000
+eh	eh	ADV	-	-	0:03:15.031000	0:03:17.031000
+klar	klaren	ADJ	-	-	0:03:15.031000	0:03:17.031000
+.	-	-	-	-	0:03:15.031000	0:03:17.031000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:17.031000" end="0:03:17.539000">
+und	und	CCONJ	-	-	0:03:17.031000	0:03:17.539000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:17.539000" end="0:03:18.133000">
+mhm	mhm	PROPN	-	-	0:03:17.539000	0:03:18.133000
+.	-	-	-	-	0:03:17.539000	0:03:18.133000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:17.539000" end="0:03:18.133000">
+und	und	CCONJ	-	-	0:03:17.539000	0:03:18.133000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:18.133000" end="0:03:20.519000">
+<pause duration="2,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:18.133000" end="0:03:20.519000">
+<pause duration="2,4s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:20.519000" end="0:03:21.259000">
+ja	ja	PART	-	-	0:03:20.519000	0:03:21.259000
+.	-	-	-	-	0:03:20.519000	0:03:21.259000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:20.519000" end="0:03:24.273000">
+eigentlich	eigentlich	ADV	-	-	0:03:20.519000	0:03:21.259000
+ja	ja	ADV	-	-	0:03:21.259000	0:03:24.273000
+die	der	DET	-	-	0:03:21.259000	0:03:24.273000
+reden	reden	VERB	-	-	0:03:21.259000	0:03:24.273000
+alle	all	DET	-	-	0:03:21.259000	0:03:24.273000
+Hochdeutsch	Hochdeutsch	NOUN	-	-	0:03:21.259000	0:03:24.273000
+.	-	-	-	-	0:03:21.259000	0:03:24.273000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:24.273000" end="0:03:28.299000">
+na	na	X	-	-	0:03:24.273000	0:03:26.299000
+ja	ja	ADV	-	-	0:03:24.273000	0:03:26.299000
+<pause duration="0,7s"/>
+es	ich	PRON	-	-	0:03:24.273000	0:03:26.299000
+ist	sein	AUX	-	-	0:03:24.273000	0:03:26.299000
+schon	schon	ADV	-	-	0:03:26.299000	0:03:28.299000
+ein	einen	DET	-	-	0:03:26.299000	0:03:28.299000
+Unter/	-	-	-	-	0:03:26.299000	0:03:28.299000
+es	ich	PRON	-	-	0:03:26.299000	0:03:28.299000
+ist	sein	AUX	-	-	0:03:26.299000	0:03:28.299000
+glaube	glauben	VERB	-	-	0:03:26.299000	0:03:28.299000
+ich	ich	PRON	-	-	0:03:26.299000	0:03:28.299000
+ein	einen	DET	-	-	0:03:26.299000	0:03:28.299000
+Unterschied	Unterschied	NOUN	-	-	0:03:26.299000	0:03:28.299000
+,	-	-	-	-	0:03:26.299000	0:03:28.299000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:26.299000" end="0:03:28.299000">
+mit	mit	ADP	-	-	0:03:26.299000	0:03:28.299000
+mit	mit	ADP	-	-	0:03:26.299000	0:03:28.299000
+einem	einer	DET	-	-	0:03:26.299000	0:03:28.299000
+(Bissen)	Bissen	NOUN	-	#IRR	0:03:26.299000	0:03:28.299000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:28.299000" end="0:03:35.913000">
+zwischen	zwischen	ADP	-	-	0:03:28.299000	0:03:32.593000
+die	der	DET	-	-	0:03:28.299000	0:03:32.593000
+ähm	ähm	ADJ	-	-	0:03:28.299000	0:03:32.593000
+österreichischen	österreichisch	ADJ	-	-	0:03:28.299000	0:03:32.593000
+Nachrichtensprecher	Nachrichtensprecher	NOUN	-	-	0:03:28.299000	0:03:32.593000
+und	und	CCONJ	-	-	0:03:28.299000	0:03:32.593000
+halt	halt	ADV	-	-	0:03:28.299000	0:03:32.593000
+den	der	DET	-	-	0:03:28.299000	0:03:32.593000
+deutschen	deutsch	NOUN	-	-	0:03:28.299000	0:03:32.593000
+auch	auch	ADV	-	-	0:03:28.299000	0:03:32.593000
+,	-	-	-	-	0:03:28.299000	0:03:32.593000
+ganz	ganz	ADV	-	-	0:03:32.593000	0:03:35.913000
+gleich	gleichen	ADV	-	-	0:03:32.593000	0:03:35.913000
+,	-	-	-	-	0:03:32.593000	0:03:35.913000
+ob	ob	SCONJ	-	-	0:03:32.593000	0:03:35.913000
+das	der	PRON	-	-	0:03:32.593000	0:03:35.913000
+jetzt	jetzt	ADV	-	-	0:03:32.593000	0:03:35.913000
+,	-	-	-	-	0:03:32.593000	0:03:35.913000
+weiß	weiß	VERB	-	-	0:03:32.593000	0:03:35.913000
+ich	ich	PRON	-	-	0:03:32.593000	0:03:35.913000
+,	-	-	-	-	0:03:32.593000	0:03:35.913000
+ARD	ARD	PROPN	-	-	0:03:32.593000	0:03:35.913000
+oder	oder	CCONJ	-	-	0:03:32.593000	0:03:35.913000
+DTF	DTF	PROPN	-	-	0:03:32.593000	0:03:35.913000
+ist	sein	AUX	-	-	0:03:32.593000	0:03:35.913000
+,	-	-	-	-	0:03:32.593000	0:03:35.913000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:35.913000" end="0:03:36.319000">
+ja	ja	ADV	-	-	0:03:35.913000	0:03:36.319000
+ja	ja	PART	-	-	0:03:35.913000	0:03:36.319000
+.	-	-	-	-	0:03:35.913000	0:03:36.319000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:36.319000" end="0:03:39.126000">
+das	der	PRON	-	-	0:03:36.319000	0:03:37.126000
+ist	sein	AUX	-	-	0:03:36.319000	0:03:37.126000
+sch/	-	-	-	-	0:03:36.319000	0:03:37.126000
+auf	auf	ADP	-	-	0:03:37.126000	0:03:39.126000
+alle	all	DET	-	-	0:03:37.126000	0:03:39.126000
+Fälle	Fall	NOUN	-	-	0:03:37.126000	0:03:39.126000
+anders	anders	ADV	-	-	0:03:37.126000	0:03:39.126000
+irgendwie	irgendwie	ADV	-	-	0:03:37.126000	0:03:39.126000
+,	-	-	-	-	0:03:37.126000	0:03:39.126000
+nicht	nicht	PART	-	-	0:03:37.126000	0:03:39.126000
+?	-	-	-	-	0:03:37.126000	0:03:39.126000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:37.126000" end="0:03:39.126000">
+ja	ja	ADV	-	-	0:03:37.126000	0:03:39.126000
+i/	-	-	-	-	0:03:37.126000	0:03:39.126000
+irgendwie	irgendwie	ADV	-	-	0:03:37.126000	0:03:39.126000
+.	-	-	-	-	0:03:37.126000	0:03:39.126000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:39.126000" end="0:03:41.126000">
+das	der	PRON	-	-	0:03:39.126000	0:03:41.126000
+ist	sein	AUX	-	-	0:03:39.126000	0:03:41.126000
+das	der	DET	-	-	0:03:39.126000	0:03:41.126000
+Hoch(zent)	Hochzent	NOUN	-	-	0:03:39.126000	0:03:41.126000
+.	-	-	-	-	0:03:39.126000	0:03:41.126000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:39.126000" end="0:03:41.126000">
+einen	ein	DET	-	-	0:03:39.126000	0:03:41.126000
+gewissen	gewiß	ADJ	-	-	0:03:39.126000	0:03:41.126000
+Ak/	-	-	-	-	0:03:39.126000	0:03:41.126000
+Akzent	Akzent	NOUN	-	-	0:03:39.126000	0:03:41.126000
+,	-	-	-	-	0:03:39.126000	0:03:41.126000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:41.126000" end="0:03:43.013000">
+man	man	PRON	-	-	0:03:41.126000	0:03:43.013000
+man	man	PRON	-	-	0:03:41.126000	0:03:43.013000
+kennt	kennen	VERB	-	-	0:03:41.126000	0:03:43.013000
+das	der	PRON	-	-	0:03:41.126000	0:03:43.013000
+sofort	sofort	ADV	-	-	0:03:41.126000	0:03:43.013000
+heraus	heraus	ADP	-	-	0:03:41.126000	0:03:43.013000
+,	-	-	-	-	0:03:41.126000	0:03:43.013000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:41.126000" end="0:03:43.013000">
+was	was	PRON	-	-	0:03:41.126000	0:03:43.013000
+alle	all	PRON	-	-	0:03:41.126000	0:03:43.013000
+haben	haben	AUX	-	-	0:03:41.126000	0:03:43.013000
+,	-	-	-	-	0:03:41.126000	0:03:43.013000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:43.013000" end="0:03:45.879000">
+ob	ob	SCONJ	-	-	0:03:43.013000	0:03:44.393000
+das	der	PRON	-	-	0:03:43.013000	0:03:44.393000
+jetzt	jetzt	ADV	-	-	0:03:43.013000	0:03:44.393000
+ein	einen	DET	-	-	0:03:43.013000	0:03:44.393000
+Österreicher	Österreicher	NOUN	-	-	0:03:43.013000	0:03:44.393000
+ist	sein	AUX	-	-	0:03:43.013000	0:03:44.393000
+oder	oder	CCONJ	-	-	0:03:44.393000	0:03:45.879000
+ob	ob	SCONJ	-	-	0:03:44.393000	0:03:45.879000
+es	ich	PRON	-	-	0:03:44.393000	0:03:45.879000
+ein	einen	DET	-	-	0:03:44.393000	0:03:45.879000
+Deutscher	Deutscher	NOUN	-	-	0:03:44.393000	0:03:45.879000
+spricht	sprechen	VERB	-	-	0:03:44.393000	0:03:45.879000
+,	-	-	-	-	0:03:44.393000	0:03:45.879000
+nicht	nicht	PART	-	-	0:03:44.393000	0:03:45.879000
+,	-	-	-	-	0:03:44.393000	0:03:45.879000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:44.393000" end="0:03:45.879000">
+ja	ja	ADV	-	-	0:03:44.393000	0:03:45.879000
+ja	ja	ADV	-	-	0:03:44.393000	0:03:45.879000
+ja	ja	ADV	-	-	0:03:44.393000	0:03:45.879000
+das	der	PRON	-	-	0:03:44.393000	0:03:45.879000
+schon	schon	ADV	-	-	0:03:44.393000	0:03:45.879000
+.	-	-	-	-	0:03:44.393000	0:03:45.879000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:45.879000" end="0:03:46.526000">
+also	also	ADV	-	-	0:03:45.879000	0:03:46.526000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:45.879000" end="0:03:47.646000">
+aber	aber	CCONJ	-	-	0:03:45.879000	0:03:46.526000
+nur	nur	ADV	-	-	0:03:45.879000	0:03:46.526000
+haben	haben	AUX	-	-	0:03:46.526000	0:03:47.646000
+sie	ich	PRON	-	-	0:03:46.526000	0:03:47.646000
+schon	schon	ADV	-	-	0:03:46.526000	0:03:47.646000
+Hochdeutsch	Hochdeutsch	NOUN	-	-	0:03:46.526000	0:03:47.646000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:47.646000" end="0:03:48.805000">
+Hochdeutsch	Hochdeutsch	ADJ	-	-	0:03:47.646000	0:03:48.805000
+ist	sein	AUX	-	-	0:03:47.646000	0:03:48.805000
+es	ich	PRON	-	-	0:03:47.646000	0:03:48.805000
+,	-	-	-	-	0:03:47.646000	0:03:48.805000
+aber	aber	CCONJ	-	-	0:03:47.646000	0:03:48.805000
+aber	aber	ADV	-	-	0:03:47.646000	0:03:48.805000
+man	man	PRON	-	-	0:03:47.646000	0:03:48.805000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:47.646000" end="0:03:48.805000">
+all/	-	-	-	-	0:03:47.646000	0:03:48.805000
+alle	all	PRON	-	-	0:03:47.646000	0:03:48.805000
+.	-	-	-	-	0:03:47.646000	0:03:48.805000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:48.805000" end="0:03:50.346000">
+merkt	merken	VERB	-	-	0:03:48.805000	0:03:49.666000
+das	der	PRON	-	-	0:03:48.805000	0:03:49.666000
+sicherlich	sicherlich	ADV	-	-	0:03:49.666000	0:03:50.346000
+an	an	ADP	-	-	0:03:49.666000	0:03:50.346000
+der	der	DET	-	-	0:03:49.666000	0:03:50.346000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:49.666000" end="0:03:50.346000">
+mhm	mhm	PROPN	-	-	0:03:49.666000	0:03:50.346000
+.	-	-	-	-	0:03:49.666000	0:03:50.346000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:50.346000" end="0:03:51.913000">
+Aussprache	Aussprache	NOUN	-	-	0:03:50.346000	0:03:51.913000
+,	-	-	-	-	0:03:50.346000	0:03:51.913000
+(hat)	haben	AUX	-	-	0:03:50.346000	0:03:51.913000
+man	man	PRON	-	-	0:03:50.346000	0:03:51.913000
+gewisse	gewiß	ADJ	-	-	0:03:50.346000	0:03:51.913000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:51.913000" end="0:03:52.453000">
+mhm	mhm	PROPN	-	-	0:03:51.913000	0:03:52.453000
+.	-	-	-	-	0:03:51.913000	0:03:52.453000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:52.453000" end="0:03:57.959000">
+Wörter	Wort	NOUN	-	-	0:03:52.453000	0:03:57.959000
+<pause duration="2,5s"/>
+andere	ander	ADJ	-	-	0:03:52.453000	0:03:57.959000
+Redewendungen	Redewendungen	NOUN	-	-	0:03:52.453000	0:03:57.959000
+haben	haben	AUX	-	-	0:03:52.453000	0:03:57.959000
+sie	ich	PRON	-	-	0:03:52.453000	0:03:57.959000
+oft	oft	ADV	-	-	0:03:52.453000	0:03:57.959000
+auch	auch	ADV	-	-	0:03:52.453000	0:03:57.959000
+ganz	ganz	ADV	-	-	0:03:52.453000	0:03:57.959000
+andere	ander	PRON	-	-	0:03:52.453000	0:03:57.959000
+,	-	-	-	-	0:03:52.453000	0:03:57.959000
+nicht	nicht	PART	-	-	0:03:52.453000	0:03:57.959000
+,	-	-	-	-	0:03:52.453000	0:03:57.959000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:03:57.959000" end="0:03:58.939000">
+mhm	mhm	PROPN	-	-	0:03:57.959000	0:03:58.939000
+.	-	-	-	-	0:03:57.959000	0:03:58.939000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:03:57.959000" end="0:04:06.199000">
+wie	wie	ADV	-	-	0:03:57.959000	0:03:58.939000
+wir	ich	PRON	-	-	0:03:57.959000	0:03:58.939000
+.	-	-	-	-	0:03:57.959000	0:03:58.939000
+<pause duration="1,5s"/>
+ja	ja	PART	-	-	0:03:58.939000	0:04:04.346000
+[Gerhard]N	Gerhard	PROPN	-	-	0:03:58.939000	0:04:04.346000
+<pause duration="2,3s"/>
+wenn	wenn	SCONJ	-	-	0:04:04.346000	0:04:05.533000
+wir	ich	PRON	-	-	0:04:04.346000	0:04:05.533000
+das	der	PRON	-	-	0:04:04.346000	0:04:05.533000
+alles	alle	PRON	-	-	0:04:04.346000	0:04:05.533000
+durchgehen	durchgehen	VERB	-	-	0:04:04.346000	0:04:05.533000
+,	-	-	-	-	0:04:04.346000	0:04:05.533000
+haben	haben	AUX	-	-	0:04:05.533000	0:04:06.199000
+wir	ich	PRON	-	-	0:04:05.533000	0:04:06.199000
+eh	eh	ADV	-	-	0:04:05.533000	0:04:06.199000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:06.199000" end="0:04:08.266000">
+schon	schon	ADV	-	-	0:04:06.199000	0:04:08.266000
+ja	ja	ADV	-	-	0:04:06.199000	0:04:08.266000
+ja	ja	PART	-	-	0:04:06.199000	0:04:08.266000
+.	-	-	-	-	0:04:06.199000	0:04:08.266000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:06.199000" end="0:04:08.266000">
+mehr	mehr	PRON	-	-	0:04:06.199000	0:04:08.266000
+wie	wie	CCONJ	-	-	0:04:06.199000	0:04:08.266000
+eine	einen	DET	-	-	0:04:06.199000	0:04:08.266000
+Stunde	Stunde	NOUN	-	-	0:04:06.199000	0:04:08.266000
+.	-	-	-	-	0:04:06.199000	0:04:08.266000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:08.266000" end="0:04:12.946000">
+(wollen)	wollen	VERB	-	-	0:04:08.266000	0:04:10.359000
+wir	ich	PRON	-	-	0:04:08.266000	0:04:10.359000
+das	der	PRON	-	-	0:04:08.266000	0:04:10.359000
+einmal	einmal	ADV	-	-	0:04:08.266000	0:04:10.359000
+<pause duration="0,6s"/>
+schauen	schauen	VERB	-	-	0:04:08.266000	0:04:10.359000
+wir	ich	PRON	-	-	0:04:08.266000	0:04:10.359000
+das	der	PRON	-	-	0:04:08.266000	0:04:10.359000
+auch	auch	ADV	-	-	0:04:10.359000	0:04:12.946000
+noch	noch	ADV	-	-	0:04:10.359000	0:04:12.946000
+an	an	ADP	-	-	0:04:10.359000	0:04:12.946000
+oder	oder	CCONJ	-	-	0:04:10.359000	0:04:12.946000
+gehen	gehen	VERB	-	-	0:04:10.359000	0:04:12.946000
+wir	ich	PRON	-	-	0:04:10.359000	0:04:12.946000
+mal	mal	ADV	-	-	0:04:10.359000	0:04:12.946000
+gleich	gleichen	ADV	-	-	0:04:10.359000	0:04:12.946000
+einmal	einmal	ADV	-	-	0:04:10.359000	0:04:12.946000
+fangen	fangen	VERB	-	-	0:04:10.359000	0:04:12.946000
+wir	ich	PRON	-	-	0:04:10.359000	0:04:12.946000
+mal	mal	ADV	-	-	0:04:10.359000	0:04:12.946000
+den	der	PRON	-	-	0:04:10.359000	0:04:12.946000
+an	an	ADP	-	-	0:04:10.359000	0:04:12.946000
+,	-	-	-	-	0:04:10.359000	0:04:12.946000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:10.359000" end="0:04:12.946000">
+ja	ja	ADV	-	-	0:04:10.359000	0:04:12.946000
+ja	ja	ADV	-	-	0:04:10.359000	0:04:12.946000
+ja	ja	ADV	-	-	0:04:10.359000	0:04:12.946000
+o/	-	-	-	-	0:04:10.359000	0:04:12.946000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:12.946000" end="0:04:15.199000">
+oder	oder	CCONJ	-	-	0:04:12.946000	0:04:15.199000
+das	der	PRON	-	-	0:04:12.946000	0:04:15.199000
+ist/	-	-	-	-	0:04:12.946000	0:04:15.199000
+.	-	-	-	-	0:04:12.946000	0:04:15.199000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:12.946000" end="0:04:15.199000">
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:04:12.946000	0:04:15.199000
+(ich	ich	PRON	-	-	0:04:12.946000	0:04:15.199000
+meine)	meinen	DET	-	-	0:04:12.946000	0:04:15.199000
+fangen	fangen	VERB	-	-	0:04:12.946000	0:04:15.199000
+wir	ich	PRON	-	-	0:04:12.946000	0:04:15.199000
+bei	bei	ADP	-	-	0:04:12.946000	0:04:15.199000
+schönerem	schön	ADJ	-	-	0:04:12.946000	0:04:15.199000
+einmal	einmal	ADV	-	-	0:04:12.946000	0:04:15.199000
+an	an	ADP	-	-	0:04:12.946000	0:04:15.199000
+,	-	-	-	-	0:04:12.946000	0:04:15.199000
+nicht	nicht	PART	-	-	0:04:12.946000	0:04:15.199000
+?	-	-	-	-	0:04:12.946000	0:04:15.199000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:15.199000" end="0:04:16.399000">
+ja	ja	ADV	-	-	0:04:15.199000	0:04:16.399000
+ja	ja	PART	-	-	0:04:15.199000	0:04:16.399000
+ich/	-	-	-	-	0:04:15.199000	0:04:16.399000
+.	-	-	-	-	0:04:15.199000	0:04:16.399000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:16.399000" end="0:04:18.059000">
+habt	haben	AUX	-	-	0:04:16.399000	0:04:18.059000
+ihr	mein	PRON	-	-	0:04:16.399000	0:04:18.059000
+schon	schon	ADV	-	-	0:04:16.399000	0:04:18.059000
+einen	ein	DET	-	-	0:04:16.399000	0:04:18.059000
+Urlaub	Urlaub	NOUN	-	-	0:04:16.399000	0:04:18.059000
+geplant	planen	VERB	-	-	0:04:16.399000	0:04:18.059000
+heuer	heuer	ADV	-	-	0:04:16.399000	0:04:18.059000
+?	-	-	-	-	0:04:16.399000	0:04:18.059000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:18.059000" end="0:04:21.939000">
+rede	rede	NOUN	-	-	0:04:18.059000	0:04:19.786000
+über	über	ADP	-	-	0:04:18.059000	0:04:19.786000
+jawohl	jawohl	PROPN	-	-	0:04:19.786000	0:04:21.939000
+dann	dann	ADV	-	-	0:04:19.786000	0:04:21.939000
+nehmen	nehmen	VERB	-	-	0:04:19.786000	0:04:21.939000
+wir	ich	PRON	-	-	0:04:19.786000	0:04:21.939000
+das	der	PRON	-	-	0:04:19.786000	0:04:21.939000
+gleich	gleichen	ADV	-	-	0:04:19.786000	0:04:21.939000
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:04:19.786000	0:04:21.939000
+.	-	-	-	-	0:04:19.786000	0:04:21.939000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:19.786000" end="0:04:27.359000">
+ja	ja	ADV	-	-	0:04:19.786000	0:04:21.939000
+ja	ja	ADV	-	-	0:04:19.786000	0:04:21.939000
+ja	ja	PART	-	-	0:04:19.786000	0:04:21.939000
+.	-	-	-	-	0:04:19.786000	0:04:21.939000
+mhm	mhm	PROPN	-	-	0:04:21.939000	0:04:26.359000
+<pause duration="0,7s"/>
+rede	rede	VERB	-	-	0:04:21.939000	0:04:26.359000
+über	über	ADP	-	-	0:04:21.939000	0:04:26.359000
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:04:21.939000	0:04:26.359000
+.	-	-	-	-	0:04:21.939000	0:04:26.359000
+<pause duration="2,1s"/>
+habt	haben	AUX	-	-	0:04:26.359000	0:04:27.359000
+ihr	mein	PRON	-	-	0:04:26.359000	0:04:27.359000
+was	was	PRON	-	-	0:04:26.359000	0:04:27.359000
+vor	vor	ADP	-	-	0:04:26.359000	0:04:27.359000
+heuer	heuer	ADV	-	-	0:04:26.359000	0:04:27.359000
+?	-	-	-	-	0:04:26.359000	0:04:27.359000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:27.359000" end="0:04:34.766000">
+eigentlich	eigentlich	ADV	-	-	0:04:27.359000	0:04:31.106000
+sind	sein	AUX	-	-	0:04:27.359000	0:04:31.106000
+die	der	DET	-	-	0:04:27.359000	0:04:31.106000
+Sachen	Sache	NOUN	-	-	0:04:27.359000	0:04:31.106000
+schon	schon	ADV	-	-	0:04:27.359000	0:04:31.106000
+alle	all	PRON	-	-	0:04:27.359000	0:04:31.106000
+schon	schon	ADV	-	-	0:04:27.359000	0:04:31.106000
+vorbei	vorbei	ADV	-	-	0:04:27.359000	0:04:31.106000
+,	-	-	-	-	0:04:27.359000	0:04:31.106000
+<pause duration="0,7s"/>
+muss	muss	PROPN	-	-	0:04:31.106000	0:04:33.893000
+man	man	PRON	-	-	0:04:31.106000	0:04:33.893000
+sagen	sagen	VERB	-	-	0:04:31.106000	0:04:33.893000
+,	-	-	-	-	0:04:31.106000	0:04:33.893000
+<pause duration="0,6s"/>
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:04:31.106000	0:04:33.893000
+.	-	-	-	-	0:04:31.106000	0:04:33.893000
+<pause duration="0,8s"/>
+wir	ich	PRON	-	-	0:04:33.893000	0:04:34.766000
+haben	haben	AUX	-	-	0:04:33.893000	0:04:34.766000
+sie	ich	PRON	-	-	0:04:33.893000	0:04:34.766000
+ja	ja	ADV	-	-	0:04:33.893000	0:04:34.766000
+gehabt	haben	AUX	-	-	0:04:33.893000	0:04:34.766000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:33.893000" end="0:04:34.766000">
+na	na	X	-	-	0:04:33.893000	0:04:34.766000
+na	na	X	-	-	0:04:33.893000	0:04:34.766000
+aber	aber	ADV	-	-	0:04:33.893000	0:04:34.766000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:34.766000" end="0:04:35.953000">
+wir	ich	PRON	-	-	0:04:34.766000	0:04:35.953000
+haben	haben	AUX	-	-	0:04:34.766000	0:04:35.953000
+sie	ich	PRON	-	-	0:04:34.766000	0:04:35.953000
+ja	ja	ADV	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:34.766000" end="0:04:35.953000">
+aber	aber	ADV	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:34.766000" end="0:04:35.953000">
+schon	schon	ADV	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:34.766000" end="0:04:35.953000">
+ü/	-	-	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:34.766000" end="0:04:35.953000">
+gehabt	haben	AUX	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:34.766000" end="0:04:35.953000">
+ü/	-	-	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:34.766000" end="0:04:35.953000">
+heuer	heuer	ADV	-	-	0:04:34.766000	0:04:35.953000
+.	-	-	-	-	0:04:34.766000	0:04:35.953000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:35.953000" end="0:04:37.113000">
+na	na	INTJ	-	-	0:04:35.953000	0:04:37.113000
+über	über	ADP	-	-	0:04:35.953000	0:04:37.113000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:35.953000" end="0:04:37.113000">
+es	ich	PRON	-	-	0:04:35.953000	0:04:37.113000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:35.953000" end="0:04:37.113000">
+über	über	ADP	-	-	0:04:35.953000	0:04:37.113000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:35.953000" end="0:04:37.113000">
+ist	sein	AUX	-	-	0:04:35.953000	0:04:37.113000
+ja	ja	ADV	-	-	0:04:35.953000	0:04:37.113000
+schon/	-	-	-	-	0:04:35.953000	0:04:37.113000
+.	-	-	-	-	0:04:35.953000	0:04:37.113000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:37.113000" end="0:04:42.226000">
+wa/	-	-	-	-	0:04:37.113000	0:04:38.946000
+ich	ich	PRON	-	-	0:04:37.113000	0:04:38.946000
+ich	ich	PRON	-	-	0:04:37.113000	0:04:38.946000
+sch/	-	-	-	-	0:04:37.113000	0:04:38.946000
+ich	ich	PRON	-	-	0:04:37.113000	0:04:38.946000
+fasse	fasse	VERB	-	-	0:04:37.113000	0:04:38.946000
+das	der	PRON	-	-	0:04:37.113000	0:04:38.946000
+so	so	ADV	-	-	0:04:37.113000	0:04:38.946000
+auf	auf	ADP	-	-	0:04:37.113000	0:04:38.946000
+,	-	-	-	-	0:04:37.113000	0:04:38.946000
+dass	dass	SCONJ	-	-	0:04:38.946000	0:04:42.226000
+du	du	PRON	-	-	0:04:38.946000	0:04:42.226000
+halt	halt	ADV	-	-	0:04:38.946000	0:04:42.226000
+was	was	PRON	-	-	0:04:38.946000	0:04:42.226000
+du	du	PRON	-	-	0:04:38.946000	0:04:42.226000
+planst	planen	VERB	-	-	0:04:38.946000	0:04:42.226000
+oder	oder	CCONJ	-	-	0:04:38.946000	0:04:42.226000
+was	was	PRON	-	-	0:04:38.946000	0:04:42.226000
+oder	oder	CCONJ	-	-	0:04:38.946000	0:04:42.226000
+was/	-	-	-	-	0:04:38.946000	0:04:42.226000
+.	-	-	-	-	0:04:38.946000	0:04:42.226000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:42.226000" end="0:04:44.753000">
+ja	ja	ADV	-	-	0:04:42.226000	0:04:42.753000
+ja	ja	ADV	-	-	0:04:42.226000	0:04:42.753000
+ist	sein	AUX	-	-	0:04:42.753000	0:04:44.753000
+eh	eh	ADV	-	-	0:04:42.753000	0:04:44.753000
+so	so	ADV	-	-	0:04:42.753000	0:04:44.753000
+ist	sein	AUX	-	-	0:04:42.753000	0:04:44.753000
+eh	eh	ADV	-	-	0:04:42.753000	0:04:44.753000
+so	so	ADV	-	-	0:04:42.753000	0:04:44.753000
+.	-	-	-	-	0:04:42.753000	0:04:44.753000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:42.753000" end="0:04:46.166000">
+oder	oder	CCONJ	-	-	0:04:42.753000	0:04:44.753000
+wo/	-	-	-	-	0:04:42.753000	0:04:44.753000
+ja	ja	ADV	-	-	0:04:42.753000	0:04:44.753000
+man	man	PRON	-	-	0:04:42.753000	0:04:44.753000
+kann	können	VERB	-	-	0:04:42.753000	0:04:44.753000
+über	über	ADP	-	-	0:04:42.753000	0:04:44.753000
+Urlaube	Urlaube	NOUN	-	-	0:04:44.753000	0:04:46.166000
+auch	auch	ADV	-	-	0:04:44.753000	0:04:46.166000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:46.166000" end="0:04:47.599000">
+gewesener	gewesener	ADJ	-	-	0:04:46.166000	0:04:47.599000
+Urlaube	Urlaube	NOUN	-	-	0:04:46.166000	0:04:47.599000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:46.166000" end="0:04:48.406000">
+reden	reden	VERB	-	-	0:04:46.166000	0:04:47.599000
+,	-	-	-	-	0:04:46.166000	0:04:47.599000
+gewesener	gewesener	ADJ	-	-	0:04:46.166000	0:04:47.599000
+Urlaub	Urlaub	NOUN	-	-	0:04:46.166000	0:04:47.599000
+ja	ja	ADV	-	-	0:04:46.166000	0:04:47.599000
+.	-	-	-	-	0:04:46.166000	0:04:47.599000
+freilich	freilich	ADV	-	-	0:04:47.599000	0:04:48.406000
+ja	ja	ADV	-	-	0:04:47.599000	0:04:48.406000
+ja	ja	PART	-	-	0:04:47.599000	0:04:48.406000
+.	-	-	-	-	0:04:47.599000	0:04:48.406000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:48.406000" end="0:04:49.346000">
+da	da	ADV	-	-	0:04:48.406000	0:04:48.846000
+da	da	ADV	#IRR	-	0:04:48.846000	0:04:49.346000
+könnten	können	VERB	#IRR	-	0:04:48.846000	0:04:49.346000
+wir	ich	PRON	#IRR	-	0:04:48.846000	0:04:49.346000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:48.846000" end="0:04:49.346000">
+mhm	mhm	PROPN	-	-	0:04:48.846000	0:04:49.346000
+.	-	-	-	-	0:04:48.846000	0:04:49.346000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:49.346000" end="0:04:50.673000">
+schon	schon	ADV	#IRR	-	0:04:49.346000	0:04:50.226000
+sicher	sichern	ADJ	#IRR	-	0:04:49.346000	0:04:50.226000
+,	-	-	-	-	0:04:49.346000	0:04:50.226000
+also	also	ADV	-	-	0:04:50.226000	0:04:50.673000
+da	da	ADV	-	-	0:04:50.226000	0:04:50.673000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:50.226000" end="0:04:50.673000">
+ja	ja	PART	-	-	0:04:50.226000	0:04:50.673000
+.	-	-	-	-	0:04:50.226000	0:04:50.673000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:50.673000" end="0:04:51.693000">
+können	können	VERB	-	-	0:04:50.673000	0:04:51.693000
+wir	ich	PRON	-	-	0:04:50.673000	0:04:51.693000
+sicher	sichern	ADJ	-	-	0:04:50.673000	0:04:51.693000
+erzählen	erzählen	VERB	-	-	0:04:50.673000	0:04:51.693000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:51.693000" end="0:04:52.166000">
+mhm	mhm	PROPN	-	-	0:04:51.693000	0:04:52.166000
+mhm	mhm	PROPN	-	-	0:04:51.693000	0:04:52.166000
+.	-	-	-	-	0:04:51.693000	0:04:52.166000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:52.166000" end="0:04:53.986000">
+von	von	ADP	-	-	0:04:52.166000	0:04:53.986000
+einem	einer	DET	-	-	0:04:52.166000	0:04:53.986000
+Musikausflug	Musikausflug	NOUN	-	-	0:04:52.166000	0:04:53.986000
+zum	zum	ADP	-	-	0:04:52.166000	0:04:53.986000
+Beispiel	Beispiel	NOUN	-	-	0:04:52.166000	0:04:53.986000
+,	-	-	-	-	0:04:52.166000	0:04:53.986000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:53.986000" end="0:04:54.946000">
+ja	ja	PART	-	-	0:04:53.986000	0:04:54.946000
+.	-	-	-	-	0:04:53.986000	0:04:54.946000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:54.946000" end="0:04:56.139000">
+dass	dass	SCONJ	-	-	0:04:54.946000	0:04:56.139000
+wir	ich	PRON	-	-	0:04:54.946000	0:04:56.139000
+waren	sein	AUX	-	-	0:04:54.946000	0:04:56.139000
+.	-	-	-	-	0:04:54.946000	0:04:56.139000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:54.946000" end="0:04:57.053000">
+war	sein	AUX	-	-	0:04:54.946000	0:04:56.139000
+im	im	ADP	-	-	0:04:54.946000	0:04:56.139000
+wann	wann	NOUN	-	-	0:04:56.139000	0:04:57.053000
+war	sein	AUX	-	-	0:04:56.139000	0:04:57.053000
+der	der	DET	-	-	0:04:56.139000	0:04:57.053000
+im	im	ADP	-	-	0:04:56.139000	0:04:57.053000
+Mai	Mai	NOUN	-	-	0:04:56.139000	0:04:57.053000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:57.053000" end="0:04:57.686000">
+in	in	ADP	-	-	0:04:57.053000	0:04:57.686000
+Rovinj	Rovinj	NOUN	-	-	0:04:57.053000	0:04:57.686000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:57.053000" end="0:04:58.579000">
+in	in	ADP	-	-	0:04:57.686000	0:04:58.579000
+Rovinj	Rovinj	NOUN	-	-	0:04:57.686000	0:04:58.579000
+ja	ja	ADV	-	-	0:04:57.686000	0:04:58.579000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:04:58.579000" end="0:05:00.086000">
+in	in	ADP	-	-	0:04:58.579000	0:05:00.086000
+Rovinj	Rovinj	NOUN	-	-	0:04:58.579000	0:05:00.086000
+waren	sein	AUX	-	-	0:04:58.579000	0:05:00.086000
+wir	ich	PRON	-	-	0:04:58.579000	0:05:00.086000
+heuer	heuer	ADV	-	-	0:04:58.579000	0:05:00.086000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:04:58.579000" end="0:05:00.086000">
+mhm	mhm	PROPN	-	-	0:04:58.579000	0:05:00.086000
+ja	ja	ADV	-	-	0:04:58.579000	0:05:00.086000
+ja	ja	PART	-	-	0:04:58.579000	0:05:00.086000
+.	-	-	-	-	0:04:58.579000	0:05:00.086000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:00.086000" end="0:05:01.159000">
+vier	vier	NUM	-	-	0:05:00.086000	0:05:01.159000
+Tage	Tag	NOUN	-	-	0:05:00.086000	0:05:01.159000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:01.159000" end="0:05:02.733000">
+na	na	X	-	-	0:05:01.159000	0:05:02.733000
+das	der	PRON	-	-	0:05:01.159000	0:05:02.733000
+war	sein	AUX	-	-	0:05:01.159000	0:05:02.733000
+sicher/	-	-	-	-	0:05:01.159000	0:05:02.733000
+.	-	-	-	-	0:05:01.159000	0:05:02.733000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:02.733000" end="0:05:03.833000">
+das	der	PRON	-	-	0:05:02.733000	0:05:03.833000
+war/	-	-	-	-	0:05:02.733000	0:05:03.833000
+.	-	-	-	-	0:05:02.733000	0:05:03.833000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:02.733000" end="0:05:06.466000">
+mit	mit	ADP	-	-	0:05:02.733000	0:05:03.833000
+einem	einer	DET	-	-	0:05:02.733000	0:05:03.833000
+Bus	Bus	NOUN	-	-	0:05:02.733000	0:05:03.833000
+von	von	ADP	-	-	0:05:03.833000	0:05:06.466000
+eh	eh	ADV	-	-	0:05:03.833000	0:05:06.466000
+von	von	ADP	-	-	0:05:03.833000	0:05:06.466000
+(Rina)	Rina	PROPN	-	-	0:05:03.833000	0:05:06.466000
+Reiseunternehmen	Reiseunternehmen	NOUN	-	-	0:05:03.833000	0:05:06.466000
+in	in	ADP	-	-	0:05:03.833000	0:05:06.466000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:06.466000" end="0:05:07.899000">
+ja	ja	ADV	-	-	0:05:06.466000	0:05:07.899000
+ja	ja	ADV	-	-	0:05:06.466000	0:05:07.899000
+ja	ja	PART	-	-	0:05:06.466000	0:05:07.899000
+.	-	-	-	-	0:05:06.466000	0:05:07.899000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:06.466000" end="0:05:09.666000">
+[Steyrling]O	Steyrling	PROPN	-	-	0:05:06.466000	0:05:07.899000
+,	-	-	-	-	0:05:06.466000	0:05:07.899000
+nicht	nicht	PART	-	-	0:05:06.466000	0:05:07.899000
+,	-	-	-	-	0:05:06.466000	0:05:07.899000
+sind	sein	AUX	-	-	0:05:06.466000	0:05:07.899000
+wir	ich	PRON	-	-	0:05:06.466000	0:05:07.899000
+gefahren	gefahren	VERB	-	-	0:05:06.466000	0:05:07.899000
+da	da	ADV	-	-	0:05:06.466000	0:05:07.899000
+<pause duration="0,8s"/>
+und	und	CCONJ	-	-	0:05:07.899000	0:05:09.666000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:09.666000" end="0:05:10.306000">
+mhm	mhm	PROPN	-	-	0:05:09.666000	0:05:10.306000
+.	-	-	-	-	0:05:09.666000	0:05:10.306000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:09.666000" end="0:05:12.866000">
+und	und	CCONJ	-	-	0:05:09.666000	0:05:10.306000
+war	sein	AUX	-	-	0:05:10.306000	0:05:11.959000
+der	der	DET	-	-	0:05:10.306000	0:05:11.959000
+Bus	Bus	NOUN	-	-	0:05:10.306000	0:05:11.959000
+war	sein	AUX	-	-	0:05:10.306000	0:05:11.959000
+ganz	ganz	ADV	-	-	0:05:10.306000	0:05:11.959000
+voll	voll	ADJ	-	-	0:05:10.306000	0:05:11.959000
+,	-	-	-	-	0:05:10.306000	0:05:11.959000
+glaube	glauben	VERB	-	-	0:05:10.306000	0:05:11.959000
+ich	ich	PRON	-	-	0:05:10.306000	0:05:11.959000
+,	-	-	-	-	0:05:10.306000	0:05:11.959000
+fünfzig	fünfzig	NUM	-	-	0:05:11.959000	0:05:12.866000
+Leute	Leute	NOUN	-	-	0:05:11.959000	0:05:12.866000
+,	-	-	-	-	0:05:11.959000	0:05:12.866000
+gell	gell	ADJ	-	-	0:05:11.959000	0:05:12.866000
+?	-	-	-	-	0:05:11.959000	0:05:12.866000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:12.866000" end="0:05:14.606000">
+wir	ich	PRON	-	-	0:05:12.866000	0:05:14.606000
+waren	sein	AUX	-	-	0:05:12.866000	0:05:14.606000
+fünfzig	fünfzig	NUM	-	-	0:05:12.866000	0:05:14.606000
+Leute	Leute	NOUN	-	-	0:05:12.866000	0:05:14.606000
+ja	ja	PART	-	-	0:05:12.866000	0:05:14.606000
+,	-	-	-	-	0:05:12.866000	0:05:14.606000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:12.866000" end="0:05:16.486000">
+ja	ja	PART	-	-	0:05:12.866000	0:05:14.606000
+.	-	-	-	-	0:05:12.866000	0:05:14.606000
+also	also	ADV	-	-	0:05:14.606000	0:05:16.486000
+k/	-	-	-	-	0:05:14.606000	0:05:16.486000
+Musiker	Musiker	NOUN	-	-	0:05:14.606000	0:05:16.486000
+mit	mit	ADP	-	-	0:05:14.606000	0:05:16.486000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:16.486000" end="0:05:17.173000">
+haben/	-	-	-	-	0:05:16.486000	0:05:17.173000
+.	-	-	-	-	0:05:16.486000	0:05:17.173000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:17.173000" end="0:05:19.839000">
+Anhang	Anhang	NOUN	-	-	0:05:17.173000	0:05:19.839000
+halt	halt	ADP	-	-	0:05:17.173000	0:05:19.839000
+,	-	-	-	-	0:05:17.173000	0:05:19.839000
+nicht	nicht	PART	-	-	0:05:17.173000	0:05:19.839000
+,	-	-	-	-	0:05:17.173000	0:05:19.839000
+mit	mit	ADP	-	-	0:05:17.173000	0:05:19.839000
+Frauen	Frau	NOUN	-	-	0:05:17.173000	0:05:19.839000
+und	und	CCONJ	-	-	0:05:17.173000	0:05:19.839000
+Freundinnen	Freundin	NOUN	-	-	0:05:17.173000	0:05:19.839000
+.	-	-	-	-	0:05:17.173000	0:05:19.839000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:19.839000" end="0:05:21.359000">
+genau	genau	ADJ	-	-	0:05:19.839000	0:05:21.359000
+ja	ja	PART	-	-	0:05:19.839000	0:05:21.359000
+.	-	-	-	-	0:05:19.839000	0:05:21.359000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:21.359000" end="0:05:21.993000">
+gell	gell	ADJ	-	-	0:05:21.359000	0:05:21.993000
+?	-	-	-	-	0:05:21.359000	0:05:21.993000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:21.993000" end="0:05:24.026000">
+und	-	-	-	-	0:05:21.993000	0:05:23.506000
+*war*	-	-	-	-	0:05:21.993000	0:05:23.506000
+wunderschön	-	-	-	-	0:05:21.993000	0:05:23.506000
+.	-	-	-	-	0:05:21.993000	0:05:23.506000
+wir	ich	PRON	-	-	0:05:23.506000	0:05:24.026000
+haben	haben	AUX	-	-	0:05:23.506000	0:05:24.026000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:23.506000" end="0:05:24.026000">
+ja	ja	PART	-	-	0:05:23.506000	0:05:24.026000
+.	-	-	-	-	0:05:23.506000	0:05:24.026000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:24.026000" end="0:05:27.513000">
+drei	drei	NUM	-	-	0:05:24.026000	0:05:25.832000
+,	-	-	-	-	0:05:24.026000	0:05:25.832000
+vier	vier	NUM	-	-	0:05:24.026000	0:05:25.832000
+vier	vier	NUM	-	-	0:05:24.026000	0:05:25.832000
+Tage	Tag	NOUN	-	-	0:05:24.026000	0:05:25.832000
+gehabt	haben	AUX	-	-	0:05:24.026000	0:05:25.832000
+,	-	-	-	-	0:05:24.026000	0:05:25.832000
+und	und	CCONJ	-	-	0:05:25.832000	0:05:26.726000
+haben	haben	AUX	-	-	0:05:25.832000	0:05:26.726000
+eine	einen	DET	-	-	0:05:25.832000	0:05:26.726000
+wunderschöne	wunderschön	ADJ	-	-	0:05:25.832000	0:05:26.726000
+Tage	Tag	NOUN	-	-	0:05:26.726000	0:05:27.513000
+,	-	-	-	-	0:05:26.726000	0:05:27.513000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:26.726000" end="0:05:28.099000">
+ja	ja	PART	-	-	0:05:26.726000	0:05:27.513000
+.	-	-	-	-	0:05:26.726000	0:05:27.513000
+ja	ja	ADV	-	-	0:05:27.513000	0:05:28.099000
+eh	eh	X	-	-	0:05:27.513000	0:05:28.099000
+.	-	-	-	-	0:05:27.513000	0:05:28.099000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:28.099000" end="0:05:29.866000">
+haben	haben	AUX	-	-	0:05:28.099000	0:05:29.866000
+ein	einen	DET	-	-	0:05:28.099000	0:05:29.866000
+Konzert	Konzert	NOUN	-	-	0:05:28.099000	0:05:29.866000
+gespielt	spielen	VERB	-	-	0:05:28.099000	0:05:29.866000
+unten	unten	ADV	-	-	0:05:28.099000	0:05:29.866000
+,	-	-	-	-	0:05:28.099000	0:05:29.866000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:29.866000" end="0:05:31.346000">
+am	am	ADP	-	-	0:05:29.866000	0:05:31.346000
+Abend	Abend	NOUN	-	-	0:05:29.866000	0:05:31.346000
+am	am	ADP	-	-	0:05:29.866000	0:05:31.346000
+ersten	erst	ADJ	-	-	0:05:29.866000	0:05:31.346000
+Tag	Tag	NOUN	-	-	0:05:29.866000	0:05:31.346000
+gleich	gleichen	ADV	-	-	0:05:29.866000	0:05:31.346000
+,	-	-	-	-	0:05:29.866000	0:05:31.346000
+gell	gell	ADJ	-	-	0:05:29.866000	0:05:31.346000
+?	-	-	-	-	0:05:29.866000	0:05:31.346000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:31.346000" end="0:05:32.086000">
+ja	ja	PART	-	-	0:05:31.346000	0:05:32.086000
+,	-	-	-	-	0:05:31.346000	0:05:32.086000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:31.346000" end="0:05:32.086000">
+ja	ja	PART	-	-	0:05:31.346000	0:05:32.086000
+mhm	mhm	PROPN	-	-	0:05:31.346000	0:05:32.086000
+.	-	-	-	-	0:05:31.346000	0:05:32.086000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:32.086000" end="0:05:37.193000">
+was	was	PRON	-	-	0:05:32.086000	0:05:36.573000
+eigentlich	eigentlich	ADV	-	-	0:05:32.086000	0:05:36.573000
+,	-	-	-	-	0:05:32.086000	0:05:36.573000
+muss	muss	PROPN	-	-	0:05:32.086000	0:05:36.573000
+man	man	PRON	-	-	0:05:32.086000	0:05:36.573000
+sagen	sagen	VERB	-	-	0:05:32.086000	0:05:36.573000
+,	-	-	-	-	0:05:32.086000	0:05:36.573000
+gut	gut	ADJ	-	-	0:05:32.086000	0:05:36.573000
+angekommen	ankommen	VERB	-	-	0:05:32.086000	0:05:36.573000
+ist	sein	AUX	-	-	0:05:32.086000	0:05:36.573000
+da	da	ADV	-	-	0:05:32.086000	0:05:36.573000
+unten	unten	ADV	-	-	0:05:32.086000	0:05:36.573000
+bei	bei	ADP	-	-	0:05:32.086000	0:05:36.573000
+den	der	DET	-	-	0:05:32.086000	0:05:36.573000
+Leuten	Leute	NOUN	-	-	0:05:36.573000	0:05:37.193000
+auch	auch	ADV	-	-	0:05:36.573000	0:05:37.193000
+.	-	-	-	-	0:05:36.573000	0:05:37.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:36.573000" end="0:05:37.946000">
+ich	ich	PRON	-	-	0:05:36.573000	0:05:37.193000
+glaube	glauben	VERB	-	-	0:05:36.573000	0:05:37.193000
+schon	schon	ADV	-	-	0:05:36.573000	0:05:37.193000
+,	-	-	-	-	0:05:36.573000	0:05:37.193000
+ja	ja	ADV	-	-	0:05:37.193000	0:05:37.946000
+ja	ja	ADV	-	-	0:05:37.193000	0:05:37.946000
+freilich	freilich	ADV	-	-	0:05:37.193000	0:05:37.946000
+,	-	-	-	-	0:05:37.193000	0:05:37.946000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:37.946000" end="0:05:38.679000">
+alle	all	PRON	-	-	0:05:37.946000	0:05:38.679000
+sind	sein	AUX	-	-	0:05:37.946000	0:05:38.679000
+froh	froh	ADJ	-	-	0:05:37.946000	0:05:38.679000
+,	-	-	-	-	0:05:37.946000	0:05:38.679000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:37.946000" end="0:05:38.679000">
+hm	hm	X	-	-	0:05:37.946000	0:05:38.679000
+hm	hm	X	-	-	0:05:37.946000	0:05:38.679000
+hm	hm	X	-	-	0:05:37.946000	0:05:38.679000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:38.679000" end="0:05:40.606000">
+dass	dass	SCONJ	-	-	0:05:38.679000	0:05:40.606000
+sich	sich	PRON	-	-	0:05:38.679000	0:05:40.606000
+ein	einen	DET	-	-	0:05:38.679000	0:05:40.606000
+wenig	wenig	PRON	-	-	0:05:38.679000	0:05:40.606000
+was	was	PRON	-	-	0:05:38.679000	0:05:40.606000
+gerührt	rühren	VERB	-	-	0:05:38.679000	0:05:40.606000
+hat	haben	AUX	-	-	0:05:38.679000	0:05:40.606000
+.	-	-	-	-	0:05:38.679000	0:05:40.606000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:38.679000" end="0:05:42.499000">
+ja	ja	ADV	-	-	0:05:38.679000	0:05:40.606000
+na	na	PROPN	-	-	0:05:38.679000	0:05:40.606000
+sicher	sichern	ADJ	-	-	0:05:38.679000	0:05:40.606000
+ja	ja	PART	-	-	0:05:38.679000	0:05:40.606000
+.	-	-	-	-	0:05:38.679000	0:05:40.606000
+war	sein	AUX	-	-	0:05:40.606000	0:05:42.499000
+ein	einen	DET	-	-	0:05:40.606000	0:05:42.499000
+wunderbar	wunderbar	ADJ	-	-	0:05:40.606000	0:05:42.499000
+schönes	schön	ADJ	-	-	0:05:40.606000	0:05:42.499000
+Hotel	Hotel	NOUN	-	-	0:05:40.606000	0:05:42.499000
+,	-	-	-	-	0:05:40.606000	0:05:42.499000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:42.499000" end="0:05:45.046000">
+war	sein	AUX	-	-	0:05:42.499000	0:05:45.046000
+wunder/	-	-	-	-	0:05:42.499000	0:05:45.046000
+ja	ja	ADV	-	-	0:05:42.499000	0:05:45.046000
+ja	ja	ADV	-	-	0:05:42.499000	0:05:45.046000
+ja	ja	PART	-	-	0:05:42.499000	0:05:45.046000
+.	-	-	-	-	0:05:42.499000	0:05:45.046000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:42.499000" end="0:05:49.626000">
+und	und	CCONJ	-	-	0:05:42.499000	0:05:45.046000
+eine	einen	DET	-	-	0:05:42.499000	0:05:45.046000
+schöne	schöne	NOUN	-	-	0:05:42.499000	0:05:45.046000
+auf	auf	ADP	-	-	0:05:42.499000	0:05:45.046000
+der	der	DET	-	-	0:05:42.499000	0:05:45.046000
+Terrasse	Terrasse	NOUN	-	-	0:05:42.499000	0:05:45.046000
+gesessen	sitzen	ADJ	-	-	0:05:42.499000	0:05:45.046000
+in	in	ADP	-	-	0:05:42.499000	0:05:45.046000
+der	der	DET	-	-	0:05:42.499000	0:05:45.046000
+Sonne	sonnen	NOUN	-	-	0:05:42.499000	0:05:45.046000
+und	und	CCONJ	-	-	0:05:45.046000	0:05:47.399000
+haben	haben	AUX	-	-	0:05:45.046000	0:05:47.399000
+ein	einen	DET	-	-	0:05:45.046000	0:05:47.399000
+Konzert	Konzert	NOUN	-	-	0:05:45.046000	0:05:47.399000
+gespielt	spielen	VERB	-	-	0:05:45.046000	0:05:47.399000
+,	-	-	-	-	0:05:45.046000	0:05:47.399000
+nicht	nicht	PART	-	-	0:05:45.046000	0:05:47.399000
+?	-	-	-	-	0:05:45.046000	0:05:47.399000
+<pause duration="1,2s"/>
+war	sein	AUX	-	-	0:05:47.399000	0:05:48.513000
+ganz	ganz	ADV	-	-	0:05:47.399000	0:05:48.513000
+klasse	klasse	NOUN	-	-	0:05:47.399000	0:05:48.513000
+und	und	CCONJ	-	-	0:05:48.513000	0:05:49.626000
+dann/	-	-	-	-	0:05:48.513000	0:05:49.626000
+.	-	-	-	-	0:05:48.513000	0:05:49.626000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:49.626000" end="0:05:52.619000">
+und	und	CCONJ	-	-	0:05:49.626000	0:05:51.446000
+dann	dann	ADV	-	-	0:05:49.626000	0:05:51.446000
+haben	haben	AUX	-	-	0:05:49.626000	0:05:51.446000
+wir	ich	PRON	-	-	0:05:49.626000	0:05:51.446000
+unten	unten	ADV	-	-	0:05:49.626000	0:05:51.446000
+noch	noch	ADV	-	-	0:05:49.626000	0:05:51.446000
+gehabt	haben	AUX	-	-	0:05:49.626000	0:05:51.446000
+dann	dann	ADV	-	-	0:05:49.626000	0:05:51.446000
+den	der	PRON	-	-	0:05:49.626000	0:05:51.446000
+,	-	-	-	-	0:05:49.626000	0:05:51.446000
+wie	wie	ADV	-	-	0:05:51.446000	0:05:52.619000
+soll	soll	VERB	-	-	0:05:51.446000	0:05:52.619000
+ich	ich	PRON	-	-	0:05:51.446000	0:05:52.619000
+denn	denn	ADV	-	-	0:05:51.446000	0:05:52.619000
+sagen	sagen	VERB	-	-	0:05:51.446000	0:05:52.619000
+?	-	-	-	-	0:05:51.446000	0:05:52.619000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:51.446000" end="0:05:54.046000">
+den	der	DET	-	-	0:05:51.446000	0:05:52.619000
+Ausflug	Ausflug	NOUN	-	-	0:05:51.446000	0:05:52.619000
+Limski	Limski	PROPN	-	-	0:05:52.619000	0:05:54.046000
+Fjord	Fjord	PROPN	-	-	0:05:52.619000	0:05:54.046000
+Fjord	Fjord	PROPN	-	-	0:05:52.619000	0:05:54.046000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:54.046000" end="0:05:55.793000">
+Limski	Limski	PROPN	-	-	0:05:54.046000	0:05:55.793000
+ja	ja	ADV	-	-	0:05:54.046000	0:05:55.793000
+ja	ja	ADV	-	-	0:05:54.046000	0:05:55.793000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:54.046000" end="0:05:55.793000">
+Limski	Limski	PROPN	-	-	0:05:54.046000	0:05:55.793000
+Fjord	Fjord	PROPN	-	-	0:05:54.046000	0:05:55.793000
+sind	sein	AUX	-	-	0:05:54.046000	0:05:55.793000
+wir	ich	PRON	-	-	0:05:54.046000	0:05:55.793000
+gefahren	gefahren	VERB	-	-	0:05:54.046000	0:05:55.793000
+.	-	-	-	-	0:05:54.046000	0:05:55.793000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:55.793000" end="0:05:56.699000">
+genau	genau	ADJ	-	-	0:05:55.793000	0:05:56.699000
+ja	ja	ADV	-	-	0:05:55.793000	0:05:56.699000
+ja	ja	PART	-	-	0:05:55.793000	0:05:56.699000
+.	-	-	-	-	0:05:55.793000	0:05:56.699000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:56.699000" end="0:05:58.186000">
+*war*	-	-	-	-	0:05:56.699000	0:05:58.186000
+auch	-	-	-	-	0:05:56.699000	0:05:58.186000
+klasse	-	-	-	-	0:05:56.699000	0:05:58.186000
+da	-	-	-	-	0:05:56.699000	0:05:58.186000
+,	-	-	-	-	0:05:56.699000	0:05:58.186000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:05:58.186000" end="0:06:00.839000">
+war	sein	AUX	-	-	0:05:58.186000	0:06:00.839000
+ein	einen	DET	-	-	0:05:58.186000	0:06:00.839000
+Erlebnis	Erlebnis	NOUN	-	-	0:05:58.186000	0:06:00.839000
+auch	auch	ADV	-	-	0:05:58.186000	0:06:00.839000
+mit	mit	ADP	-	-	0:05:58.186000	0:06:00.839000
+dem	der	DET	-	-	0:05:58.186000	0:06:00.839000
+Schiff	Schiff	NOUN	-	-	0:05:58.186000	0:06:00.839000
+hinein	hinein	ADP	-	-	0:05:58.186000	0:06:00.839000
+.	-	-	-	-	0:05:58.186000	0:06:00.839000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:05:58.186000" end="0:06:06.633000">
+war	sein	AUX	-	-	0:05:58.186000	0:06:00.839000
+intereessant	intereessant	ADJ	-	-	0:05:58.186000	0:06:00.839000
+.	-	-	-	-	0:05:58.186000	0:06:00.839000
+ja	ja	ADV	-	-	0:06:00.839000	0:06:06.633000
+ja	ja	ADV	-	-	0:06:00.839000	0:06:06.633000
+<pause duration="1,2s"/>
+na	na	X	-	-	0:06:00.839000	0:06:06.633000
+ja	ja	PART	-	-	0:06:00.839000	0:06:06.633000
+und	und	CCONJ	-	-	0:06:00.839000	0:06:06.633000
+<pause duration="1,3s"/>
+hat	haben	AUX	-	-	0:06:00.839000	0:06:06.633000
+eigentlich	eigentlich	ADV	-	-	0:06:00.839000	0:06:06.633000
+alles	alle	PRON	-	-	0:06:00.839000	0:06:06.633000
+gepasst	gepasst	VERB	-	-	0:06:00.839000	0:06:06.633000
+,	-	-	-	-	0:06:00.839000	0:06:06.633000
+gell	gell	ADJ	-	-	0:06:00.839000	0:06:06.633000
+?	-	-	-	-	0:06:00.839000	0:06:06.633000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:06.633000" end="0:06:08.839000">
+mhm	mhm	PROPN	-	-	0:06:06.633000	0:06:08.839000
+.	-	-	-	-	0:06:06.633000	0:06:08.839000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:08.839000" end="0:06:10.126000">
+ja	ja	PART	-	-	0:06:08.839000	0:06:10.126000
+und/	-	-	-	-	0:06:08.839000	0:06:10.126000
+.	-	-	-	-	0:06:08.839000	0:06:10.126000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:10.126000" end="0:06:12.833000">
+ohne	ohne	ADP	-	-	0:06:10.126000	0:06:12.326000
+re/	-	-	-	-	0:06:10.126000	0:06:12.326000
+ohne	ohne	ADP	-	-	0:06:10.126000	0:06:12.326000
+besondere	besonder	ADJ	-	-	0:06:10.126000	0:06:12.326000
+Vorkommnisse	Vorkommnis	NOUN	-	-	0:06:10.126000	0:06:12.326000
+kann	können	VERB	-	-	0:06:12.326000	0:06:12.833000
+man	man	PRON	-	-	0:06:12.326000	0:06:12.833000
+sagen	sagen	VERB	-	-	0:06:12.326000	0:06:12.833000
+,	-	-	-	-	0:06:12.326000	0:06:12.833000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:12.326000" end="0:06:12.833000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:12.833000" end="0:06:14.266000">
+sind	sein	AUX	-	-	0:06:12.833000	0:06:14.266000
+wir	ich	PRON	-	-	0:06:12.833000	0:06:14.266000
+wieder	wieder	ADV	-	-	0:06:12.833000	0:06:14.266000
+heim	heim	ADJ	-	-	0:06:12.833000	0:06:14.266000
+gekommen	kommen	VERB	-	-	0:06:12.833000	0:06:14.266000
+,	-	-	-	-	0:06:12.833000	0:06:14.266000
+oder	oder	CCONJ	-	-	0:06:12.833000	0:06:14.266000
+?	-	-	-	-	0:06:12.833000	0:06:14.266000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:12.833000" end="0:06:14.266000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:14.266000" end="0:06:15.533000">
+ohne	ohne	ADP	-	-	0:06:14.266000	0:06:15.533000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:14.266000" end="0:06:15.533000">
+ohne	ohne	ADP	-	-	0:06:14.266000	0:06:15.533000
+Aus/	-	-	-	-	0:06:14.266000	0:06:15.533000
+ohne	ohne	ADP	-	-	0:06:14.266000	0:06:15.533000
+Ausfälle	Ausfall	NOUN	-	-	0:06:14.266000	0:06:15.533000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:15.533000" end="0:06:17.039000">
+Ausfälle	Ausfall	NOUN	-	-	0:06:15.533000	0:06:17.039000
+ja	ja	ADV	-	-	0:06:15.533000	0:06:17.039000
+ja	ja	PART	-	-	0:06:15.533000	0:06:17.039000
+.	-	-	-	-	0:06:15.533000	0:06:17.039000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:15.533000" end="0:06:29.506000">
+nur	nur	ADV	-	-	0:06:17.039000	0:06:19.939000
+bei	bei	ADP	-	-	0:06:17.039000	0:06:19.939000
+der	der	DET	-	-	0:06:17.039000	0:06:19.939000
+Grenze	Grenze	NOUN	-	-	0:06:17.039000	0:06:19.939000
+war	sein	AUX	-	-	0:06:17.039000	0:06:19.939000
+es	ich	PRON	-	-	0:06:17.039000	0:06:19.939000
+ein	einen	DET	-	-	0:06:17.039000	0:06:19.939000
+wenig	wenig	PRON	-	-	0:06:17.039000	0:06:19.939000
+ein	einen	DET	-	-	0:06:17.039000	0:06:19.939000
+Problem	Problem	NOUN	-	-	0:06:17.039000	0:06:19.939000
+alleweile	alleweile	VERB	-	-	0:06:17.039000	0:06:19.939000
+,	-	-	-	-	0:06:17.039000	0:06:19.939000
+gell	gell	ADJ	-	-	0:06:17.039000	0:06:19.939000
+?	-	-	-	-	0:06:17.039000	0:06:19.939000
+das	der	PRON	-	-	0:06:19.939000	0:06:22.646000
+war	sein	AUX	-	-	0:06:19.939000	0:06:22.646000
+e/	-	-	-	-	0:06:19.939000	0:06:22.646000
+ha/	-	-	-	-	0:06:19.939000	0:06:22.646000
+me/	-	-	-	-	0:06:19.939000	0:06:22.646000
+das	der	PRON	-	-	0:06:19.939000	0:06:22.646000
+hat	haben	AUX	-	-	0:06:19.939000	0:06:22.646000
+mich	sich	PRON	-	-	0:06:19.939000	0:06:22.646000
+gewundert	wundern	VERB	-	-	0:06:19.939000	0:06:22.646000
+,	-	-	-	-	0:06:19.939000	0:06:22.646000
+<pause duration="0,6s"/>
+dass	dass	SCONJ	-	-	0:06:22.646000	0:06:29.506000
+wir	ich	PRON	-	-	0:06:22.646000	0:06:29.506000
+da	da	ADV	-	-	0:06:22.646000	0:06:29.506000
+ähm	ähm	ADV	-	-	0:06:22.646000	0:06:29.506000
+die	der	DET	-	-	0:06:22.646000	0:06:29.506000
+Grenze	Grenze	NOUN	-	-	0:06:22.646000	0:06:29.506000
+zwischen	zwischen	ADP	-	-	0:06:22.646000	0:06:29.506000
+Slowenien	Slowenien	PROPN	-	-	0:06:22.646000	0:06:29.506000
+und	und	CCONJ	-	-	0:06:22.646000	0:06:29.506000
+Kroatien	Kroatien	PROPN	-	-	0:06:22.646000	0:06:29.506000
+,	-	-	-	-	0:06:22.646000	0:06:29.506000
+*dass*	-	-	-	-	0:06:22.646000	0:06:29.506000
+da	-	-	-	-	0:06:22.646000	0:06:29.506000
+so	-	-	-	-	0:06:22.646000	0:06:29.506000
+starke	-	-	-	-	0:06:22.646000	0:06:29.506000
+Kontrollen	-	-	-	-	0:06:22.646000	0:06:29.506000
+strenge	-	-	-	-	0:06:22.646000	0:06:29.506000
+Kontrollen	-	-	-	-	0:06:22.646000	0:06:29.506000
+gemacht	-	-	-	-	0:06:22.646000	0:06:29.506000
+haben	-	-	-	-	0:06:22.646000	0:06:29.506000
+,	-	-	-	-	0:06:22.646000	0:06:29.506000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:29.506000" end="0:06:30.306000">
+eigentlich	eigentlich	ADV	-	-	0:06:29.506000	0:06:30.306000
+schon	schon	ADV	-	-	0:06:29.506000	0:06:30.306000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:29.506000" end="0:06:30.832000">
+nicht	nicht	PART	-	-	0:06:29.506000	0:06:30.306000
+?	-	-	-	-	0:06:29.506000	0:06:30.306000
+gell	gell	ADJ	-	-	0:06:30.306000	0:06:30.832000
+?	-	-	-	-	0:06:30.306000	0:06:30.832000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:30.832000" end="0:06:32.079000">
+und	und	CCONJ	-	-	0:06:30.832000	0:06:32.079000
+habe	habe	AUX	-	-	0:06:30.832000	0:06:32.079000
+ich	ich	PRON	-	-	0:06:30.832000	0:06:32.079000
+überhaupt	überhaupt	ADV	-	-	0:06:30.832000	0:06:32.079000
+noch	noch	ADV	-	-	0:06:30.832000	0:06:32.079000
+nie	nie	ADV	-	-	0:06:30.832000	0:06:32.079000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:30.832000" end="0:06:33.126000">
+(das	der	PRON	-	-	0:06:30.832000	0:06:32.079000
+wäre	sein	AUX	-	-	0:06:30.832000	0:06:32.079000
+doch/	-	-	-	-	0:06:30.832000	0:06:32.079000
+.)	-	-	-	-	0:06:30.832000	0:06:32.079000
+ja	ja	PART	-	-	0:06:32.079000	0:06:33.126000
+.	-	-	-	-	0:06:32.079000	0:06:33.126000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:33.126000" end="0:06:34.866000">
+gesehen	sehen	VERB	-	-	0:06:33.126000	0:06:34.366000
+oder	oder	CCONJ	-	-	0:06:33.126000	0:06:34.366000
+oder	oder	CCONJ	-	-	0:06:33.126000	0:06:34.366000
+müssen	müssen	VERB	-	-	0:06:33.126000	0:06:34.366000
+,	-	-	-	-	0:06:33.126000	0:06:34.366000
+dass	dass	SCONJ	-	-	0:06:34.366000	0:06:34.866000
+m/	-	-	-	-	0:06:34.366000	0:06:34.866000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:34.366000" end="0:06:34.866000">
+nein	nein	PART	-	-	0:06:34.366000	0:06:34.866000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:34.866000" end="0:06:36.739000">
+dass	dass	SCONJ	-	-	0:06:34.866000	0:06:36.739000
+wir	ich	PRON	-	-	0:06:34.866000	0:06:36.739000
+aussteigen	aussteigen	VERB	-	-	0:06:34.866000	0:06:36.739000
+haben	haben	AUX	-	-	0:06:34.866000	0:06:36.739000
+müssen	müssen	VERB	-	-	0:06:34.866000	0:06:36.739000
+alle	all	PRON	-	-	0:06:34.866000	0:06:36.739000
+,	-	-	-	-	0:06:34.866000	0:06:36.739000
+alle	all	PRON	-	-	0:06:34.866000	0:06:36.739000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:34.866000" end="0:06:36.739000">
+ja	ja	ADV	-	-	0:06:34.866000	0:06:36.739000
+ja	ja	ADV	-	-	0:06:34.866000	0:06:36.739000
+ja	ja	ADV	-	-	0:06:34.866000	0:06:36.739000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:36.739000" end="0:06:39.846000">
+aussteigen	aussteigen	VERB	-	-	0:06:36.739000	0:06:39.846000
+alle	all	PRON	-	-	0:06:36.739000	0:06:39.846000
+hinaus	hinaus	ADV	-	-	0:06:36.739000	0:06:39.846000
+und	und	CCONJ	-	-	0:06:36.739000	0:06:39.846000
+hinüber	hinüber	ADV	-	-	0:06:36.739000	0:06:39.846000
+gehen	gehen	VERB	-	-	0:06:36.739000	0:06:39.846000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:36.739000" end="0:06:39.846000">
+alle	all	PRON	-	-	0:06:36.739000	0:06:39.846000
+aussteigen	aussteigen	VERB	-	-	0:06:36.739000	0:06:39.846000
+,	-	-	-	-	0:06:36.739000	0:06:39.846000
+Pässe	Paß	NOUN	-	-	0:06:36.739000	0:06:39.846000
+und	und	CCONJ	-	-	0:06:36.739000	0:06:39.846000
+und	und	CCONJ	-	-	0:06:36.739000	0:06:39.846000
+da	da	ADV	-	-	0:06:36.739000	0:06:39.846000
+ist	sein	AUX	-	-	0:06:36.739000	0:06:39.846000
+jeder	jed	PRON	-	-	0:06:36.739000	0:06:39.846000
+kontrolliert	kontrollieren	VERB	-	-	0:06:36.739000	0:06:39.846000
+worden	werden	AUX	-	-	0:06:36.739000	0:06:39.846000
+,	-	-	-	-	0:06:36.739000	0:06:39.846000
+nicht	nicht	PART	-	-	0:06:36.739000	0:06:39.846000
+,	-	-	-	-	0:06:36.739000	0:06:39.846000
+ja	ja	ADV	-	-	0:06:36.739000	0:06:39.846000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:39.846000" end="0:06:42.992000">
+und	und	CCONJ	-	-	0:06:39.846000	0:06:42.992000
+dann	dann	ADV	-	-	0:06:39.846000	0:06:42.992000
+ja	ja	ADV	-	-	0:06:39.846000	0:06:42.992000
+das	der	PRON	-	-	0:06:39.846000	0:06:42.992000
+ist	sein	AUX	-	-	0:06:39.846000	0:06:42.992000
+ein	einen	DET	-	-	0:06:39.846000	0:06:42.992000
+eigentlich	eigentlich	ADV	-	-	0:06:39.846000	0:06:42.992000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #postpon #spe+ #spe-	-	0:06:39.846000	0:06:42.992000
+wenig	wenig	PRON	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #postpon #spe+ #spe-	-	0:06:39.846000	0:06:42.992000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #postpon #spe+ #spe-	-	0:06:39.846000	0:06:42.992000
+Wahnsinn	Wahnsinn	NOUN	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #postpon #spe+ #spe-	-	0:06:39.846000	0:06:42.992000
+gewesen	sein	AUX	-	-	0:06:39.846000	0:06:42.992000
+,	-	-	-	-	0:06:39.846000	0:06:42.992000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:39.846000" end="0:06:43.512000">
+ja	ja	ADV	-	-	0:06:39.846000	0:06:42.992000
+ja	ja	ADV	-	-	0:06:39.846000	0:06:42.992000
+das	der	PRON	-	-	0:06:39.846000	0:06:42.992000
+das	der	PRON	-	-	0:06:39.846000	0:06:42.992000
+war	sein	AUX	-	-	0:06:39.846000	0:06:42.992000
+arg	arg	PROPN	-	-	0:06:39.846000	0:06:42.992000
+also	also	ADV	-	-	0:06:39.846000	0:06:42.992000
+dass	dass	VERB	-	-	0:06:42.992000	0:06:43.512000
+das/	-	-	-	-	0:06:42.992000	0:06:43.512000
+.	-	-	-	-	0:06:42.992000	0:06:43.512000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:43.512000" end="0:06:47.152000">
+wo	wo	ADV	-	-	0:06:43.512000	0:06:45.572000
+sie	ich	PRON	-	-	0:06:43.512000	0:06:45.572000
+uns	sich	PRON	-	-	0:06:43.512000	0:06:45.572000
+eh	eh	ADV	-	-	0:06:43.512000	0:06:45.572000
+brauchen	brauchen	VERB	-	-	0:06:43.512000	0:06:45.572000
+da	da	ADV	-	-	0:06:43.512000	0:06:45.572000
+unten	unten	ADV	-	-	0:06:43.512000	0:06:45.572000
+oder	oder	CCONJ	-	-	0:06:43.512000	0:06:45.572000
+?	-	-	-	-	0:06:43.512000	0:06:45.572000
+das	der	PRON	-	-	0:06:45.572000	0:06:47.152000
+ist	sein	AUX	-	-	0:06:45.572000	0:06:47.152000
+ja	ja	ADV	-	-	0:06:45.572000	0:06:47.152000
+das	der	PRON	-	-	0:06:45.572000	0:06:47.152000
+.	-	-	-	-	0:06:45.572000	0:06:47.152000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:45.572000" end="0:06:50.739000">
+ja	ja	ADV	-	-	0:06:45.572000	0:06:47.152000
+sicher	sichern	ADJ	-	-	0:06:45.572000	0:06:47.152000
+,	-	-	-	-	0:06:45.572000	0:06:47.152000
+ich	ich	PRON	-	-	0:06:45.572000	0:06:47.152000
+meine	meinen	VERB	-	-	0:06:45.572000	0:06:47.152000
+,	-	-	-	-	0:06:45.572000	0:06:47.152000
+dass	dass	SCONJ	-	-	0:06:45.572000	0:06:47.152000
+<pause duration="0,7s"/>
+obwohl	obwohl	SCONJ	-	-	0:06:47.152000	0:06:50.739000
+wir	ich	PRON	-	-	0:06:47.152000	0:06:50.739000
+alles	alle	DET	-	-	0:06:47.152000	0:06:50.739000
+Europa	Europa	PROPN	-	-	0:06:47.152000	0:06:50.739000
+sind	sein	AUX	-	-	0:06:47.152000	0:06:50.739000
+und	und	CCONJ	-	-	0:06:47.152000	0:06:50.739000
+dann	dann	ADV	-	-	0:06:47.152000	0:06:50.739000
+s/	-	-	-	-	0:06:47.152000	0:06:50.739000
+in	in	ADP	-	-	0:06:47.152000	0:06:50.739000
+Europa	Europa	PROPN	-	-	0:06:47.152000	0:06:50.739000
+solche	solche	DET	-	-	0:06:47.152000	0:06:50.739000
+Kontrollen	Kontrolle	NOUN	-	-	0:06:47.152000	0:06:50.739000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:50.739000" end="0:06:51.972000">
+ja	ja	ADV	-	-	0:06:50.739000	0:06:51.972000
+ja	ja	ADV	-	-	0:06:50.739000	0:06:51.972000
+ja	ja	PART	-	-	0:06:50.739000	0:06:51.972000
+.	-	-	-	-	0:06:50.739000	0:06:51.972000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:50.739000" end="0:06:56.106000">
+sind	sein	AUX	-	-	0:06:50.739000	0:06:51.972000
+,	-	-	-	-	0:06:50.739000	0:06:51.972000
+hm	hm	X	-	-	0:06:50.739000	0:06:51.972000
+hm	hm	X	-	-	0:06:50.739000	0:06:51.972000
+hm	hm	X	-	-	0:06:50.739000	0:06:51.972000
+.	-	-	-	-	0:06:50.739000	0:06:51.972000
+<pause duration="0,8s"/>
+*ist*	-	-	-	-	0:06:51.972000	0:06:54.712000
+interessant	-	-	-	-	0:06:51.972000	0:06:54.712000
+,	-	-	-	-	0:06:51.972000	0:06:54.712000
+<pause duration="1,3s"/>
+aber	aber	CCONJ	-	-	0:06:54.712000	0:06:56.106000
+wir	ich	PRON	-	-	0:06:54.712000	0:06:56.106000
+haben	haben	AUX	-	-	0:06:54.712000	0:06:56.106000
+es	ich	PRON	-	-	0:06:54.712000	0:06:56.106000
+auch	auch	ADV	-	-	0:06:54.712000	0:06:56.106000
+überstanden	überstehen	VERB	-	-	0:06:54.712000	0:06:56.106000
+,	-	-	-	-	0:06:54.712000	0:06:56.106000
+gell	gell	ADJ	-	-	0:06:54.712000	0:06:56.106000
+?	-	-	-	-	0:06:54.712000	0:06:56.106000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:56.106000" end="0:06:59.512000">
+mhm	mhm	PROPN	-	-	0:06:56.106000	0:06:58.672000
+so	so	ADV	-	-	0:06:56.106000	0:06:58.672000
+<pause duration="0,8s"/>
+war	sein	AUX	-	-	0:06:56.106000	0:06:58.672000
+super	super	PROPN	-	-	0:06:56.106000	0:06:58.672000
+ja	ja	PART	-	-	0:06:56.106000	0:06:58.672000
+,	-	-	-	-	0:06:56.106000	0:06:58.672000
+muss	muss	PROPN	-	-	0:06:58.672000	0:06:59.512000
+man	man	PRON	-	-	0:06:58.672000	0:06:59.512000
+sagen	sagen	VERB	-	-	0:06:58.672000	0:06:59.512000
+.	-	-	-	-	0:06:58.672000	0:06:59.512000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:58.672000" end="0:06:59.512000">
+ja	ja	PART	-	-	0:06:58.672000	0:06:59.512000
+.	-	-	-	-	0:06:58.672000	0:06:59.512000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:06:59.512000" end="0:07:02.806000">
+(ja)	ja	ADV	-	-	0:06:59.512000	0:07:02.806000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:06:59.512000" end="0:07:14.852000">
+<pause duration="1,0s"/>
+ja	ja	PART	-	-	0:06:59.512000	0:07:02.806000
+und	und	CCONJ	-	-	0:06:59.512000	0:07:02.806000
+ich	ich	PRON	-	-	0:06:59.512000	0:07:02.806000
+glaube	glauben	VERB	-	-	0:06:59.512000	0:07:02.806000
+(an)	an	ADP	-	-	0:06:59.512000	0:07:02.806000
+neue	neue	ADJ	-	-	0:06:59.512000	0:07:02.806000
+Ziele	Ziel	NOUN	-	-	0:06:59.512000	0:07:02.806000
+,	-	-	-	-	0:06:59.512000	0:07:02.806000
+also	also	ADV	-	-	0:07:02.806000	0:07:10.332000
+wir	ich	PRON	-	-	0:07:02.806000	0:07:10.332000
+haben	haben	AUX	-	-	0:07:02.806000	0:07:10.332000
+jetzt	jetzt	ADV	-	-	0:07:02.806000	0:07:10.332000
+<pause duration="1,1s"/>
+ich	ich	PRON	-	-	0:07:02.806000	0:07:10.332000
+glaube	glauben	VERB	-	-	0:07:02.806000	0:07:10.332000
+,	-	-	-	-	0:07:02.806000	0:07:10.332000
+ihr	mein	PRON	-	-	0:07:02.806000	0:07:10.332000
+fährt	fahren	VERB	-	-	0:07:02.806000	0:07:10.332000
+ja/	-	-	-	-	0:07:02.806000	0:07:10.332000
+.	-	-	-	-	0:07:02.806000	0:07:10.332000
+wir	ich	PRON	-	-	0:07:02.806000	0:07:10.332000
+wollen	wollen	VERB	-	-	0:07:02.806000	0:07:10.332000
+diesmal	diesmal	ADV	-	-	0:07:02.806000	0:07:10.332000
+mit	mit	ADP	-	-	0:07:02.806000	0:07:10.332000
+den	der	DET	-	-	0:07:02.806000	0:07:10.332000
+Pensionisten	Pensionisten	NOUN	-	-	0:07:02.806000	0:07:10.332000
+wieder	wieder	ADV	-	-	0:07:02.806000	0:07:10.332000
+nach	nach	ADP	-	-	0:07:02.806000	0:07:10.332000
+<pause duration="0,6s"/>
+Zypern	Zypern	PROPN	-	-	0:07:02.806000	0:07:10.332000
+fahren	fahren	VERB	-	-	0:07:02.806000	0:07:10.332000
+.	-	-	-	-	0:07:02.806000	0:07:10.332000
+nächstes	nächst	ADJ	-	-	0:07:10.332000	0:07:12.679000
+Jahr	Jahr	NOUN	-	-	0:07:10.332000	0:07:12.679000
+ist	sein	AUX	-	-	0:07:10.332000	0:07:12.679000
+das	der	PRON	-	-	0:07:10.332000	0:07:12.679000
+.	-	-	-	-	0:07:10.332000	0:07:12.679000
+<pause duration="0,8s"/>
+seid	sein	AUX	-	-	0:07:12.679000	0:07:13.451000
+ihr	mein	PRON	-	-	0:07:12.679000	0:07:13.451000
+da	da	ADV	-	-	0:07:12.679000	0:07:13.451000
+dabei	dabei	ADV	-	-	0:07:12.679000	0:07:13.451000
+oder	oder	CCONJ	-	-	0:07:13.451000	0:07:14.852000
+das	der	PRON	-	-	0:07:13.451000	0:07:14.852000
+wollte	wollen	VERB	-	-	0:07:13.451000	0:07:14.852000
+ich	ich	PRON	-	-	0:07:13.451000	0:07:14.852000
+dich	sich	PRON	-	-	0:07:13.451000	0:07:14.852000
+eh	eh	ADV	-	-	0:07:13.451000	0:07:14.852000
+schon	schon	ADV	-	-	0:07:13.451000	0:07:14.852000
+fragen	fragen	VERB	-	-	0:07:13.451000	0:07:14.852000
+.	-	-	-	-	0:07:13.451000	0:07:14.852000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:14.852000" end="0:07:17.819000">
+da	da	ADV	-	-	0:07:14.852000	0:07:16.286000
+waren	sein	AUX	-	-	0:07:14.852000	0:07:16.286000
+wir	ich	PRON	-	-	0:07:14.852000	0:07:16.286000
+noch	noch	ADV	-	-	0:07:16.286000	0:07:17.819000
+nicht	nicht	PART	-	-	0:07:16.286000	0:07:17.819000
+dabei	dabei	ADV	-	-	0:07:16.286000	0:07:17.819000
+.	-	-	-	-	0:07:16.286000	0:07:17.819000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:16.286000" end="0:07:17.819000">
+Zy/	-	-	-	-	0:07:16.286000	0:07:17.819000
+Zypern	Zypern	PROPN	-	-	0:07:16.286000	0:07:17.819000
+.	-	-	-	-	0:07:16.286000	0:07:17.819000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:17.819000" end="0:07:19.886000">
+mit	mit	ADP	-	-	0:07:17.819000	0:07:19.886000
+(die)	der	PRON	-	-	0:07:17.819000	0:07:19.886000
+nicht	nicht	PART	-	-	0:07:17.819000	0:07:19.886000
+.	-	-	-	-	0:07:17.819000	0:07:19.886000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:17.819000" end="0:07:19.886000">
+na	na	X	-	-	0:07:17.819000	0:07:19.886000
+nein	nein	PART	-	-	0:07:17.819000	0:07:19.886000
+w/	-	-	-	-	0:07:17.819000	0:07:19.886000
+ähm	ähm	PROPN	-	-	0:07:17.819000	0:07:19.886000
+in	in	ADP	-	-	0:07:17.819000	0:07:19.886000
+Rhodos	Rhodos	PROPN	-	-	0:07:17.819000	0:07:19.886000
+waren	sein	AUX	-	-	0:07:17.819000	0:07:19.886000
+wir	ich	PRON	-	-	0:07:17.819000	0:07:19.886000
+ja	ja	ADV	-	-	0:07:17.819000	0:07:19.886000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:19.886000" end="0:07:22.352000">
+ja	ja	ADV	-	-	0:07:19.886000	0:07:22.352000
+ja	ja	ADV	-	-	0:07:19.886000	0:07:22.352000
+ihr	mein	PRON	-	-	0:07:19.886000	0:07:22.352000
+wart	sein	VERB	-	-	0:07:19.886000	0:07:22.352000
+dort	dort	ADV	-	-	0:07:19.886000	0:07:22.352000
+ja	ja	ADV	-	-	0:07:19.886000	0:07:22.352000
+nein	nein	ADV	-	-	0:07:19.886000	0:07:22.352000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:19.886000" end="0:07:22.352000">
+nicht	nicht	PART	-	-	0:07:19.886000	0:07:22.352000
+also	also	ADV	-	-	0:07:19.886000	0:07:22.352000
+voriges	vorig	ADJ	-	-	0:07:19.886000	0:07:22.352000
+Jahr	Jahr	NOUN	-	-	0:07:19.886000	0:07:22.352000
+waren	sein	AUX	-	-	0:07:19.886000	0:07:22.352000
+wir	ich	PRON	-	-	0:07:19.886000	0:07:22.352000
+in	in	ADP	-	-	0:07:19.886000	0:07:22.352000
+Rhodos	Rhodos	PROPN	-	-	0:07:19.886000	0:07:22.352000
+,	-	-	-	-	0:07:19.886000	0:07:22.352000
+nicht	nicht	PART	-	-	0:07:19.886000	0:07:22.352000
+?	-	-	-	-	0:07:19.886000	0:07:22.352000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:22.352000" end="0:07:23.172000">
+da	da	ADV	-	-	0:07:22.352000	0:07:23.172000
+waren	sein	AUX	-	-	0:07:22.352000	0:07:23.172000
+wir	ich	PRON	-	-	0:07:22.352000	0:07:23.172000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:22.352000" end="0:07:23.172000">
+das	der	PRON	-	-	0:07:22.352000	0:07:23.172000
+war/	-	-	-	-	0:07:22.352000	0:07:23.172000
+.	-	-	-	-	0:07:22.352000	0:07:23.172000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:23.172000" end="0:07:24.892000">
+noch	noch	ADV	-	-	0:07:23.172000	0:07:24.892000
+nie	nie	ADV	-	-	0:07:23.172000	0:07:24.892000
+dabei	dabei	ADV	-	-	0:07:23.172000	0:07:24.892000
+.	-	-	-	-	0:07:23.172000	0:07:24.892000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:23.172000" end="0:07:26.759000">
+a/	-	-	-	-	0:07:23.172000	0:07:24.892000
+un/	-	-	-	-	0:07:23.172000	0:07:24.892000
+und	und	CCONJ	-	-	0:07:23.172000	0:07:24.892000
+jetzt	jetzt	ADV	-	-	0:07:23.172000	0:07:24.892000
+fahren	fahren	VERB	-	-	0:07:23.172000	0:07:24.892000
+wir/	-	-	-	-	0:07:23.172000	0:07:24.892000
+.	-	-	-	-	0:07:23.172000	0:07:24.892000
+also	also	ADV	-	-	0:07:24.892000	0:07:26.759000
+vor	vor	ADP	-	-	0:07:24.892000	0:07:26.759000
+zwei	zwei	NUM	-	-	0:07:24.892000	0:07:26.759000
+Jahren	Jahr	NOUN	-	-	0:07:24.892000	0:07:26.759000
+war	sein	AUX	-	-	0:07:24.892000	0:07:26.759000
+Rhodos	Rhodos	PROPN	-	-	0:07:24.892000	0:07:26.759000
+,	-	-	-	-	0:07:24.892000	0:07:26.759000
+glaube	glauben	VERB	-	-	0:07:24.892000	0:07:26.759000
+ich	ich	PRON	-	-	0:07:24.892000	0:07:26.759000
+.	-	-	-	-	0:07:24.892000	0:07:26.759000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:26.759000" end="0:07:27.259000">
+mhm	mhm	PROPN	-	-	0:07:26.759000	0:07:27.259000
+.	-	-	-	-	0:07:26.759000	0:07:27.259000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:27.259000" end="0:07:30.192000">
+ja	ja	PART	-	-	0:07:27.259000	0:07:30.192000
+<pause duration="0,9s"/>
+und	und	CCONJ	-	-	0:07:27.259000	0:07:30.192000
+nächstes	nächst	ADJ	-	-	0:07:27.259000	0:07:30.192000
+Jahr	Jahr	NOUN	-	-	0:07:27.259000	0:07:30.192000
+geht	gehen	VERB	-	-	0:07:27.259000	0:07:30.192000
+es	ich	PRON	-	-	0:07:27.259000	0:07:30.192000
+nach	nach	ADP	-	-	0:07:27.259000	0:07:30.192000
+Zypern	Zypern	PROPN	-	-	0:07:27.259000	0:07:30.192000
+.	-	-	-	-	0:07:27.259000	0:07:30.192000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:30.192000" end="0:07:31.072000">
+das	der	DET	-	-	0:07:30.192000	0:07:31.072000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:30.192000" end="0:07:31.072000">
+fährt	fahren	VERB	-	-	0:07:30.192000	0:07:31.072000
+ihr	mein	PRON	-	-	0:07:30.192000	0:07:31.072000
+da	da	ADV	-	-	0:07:30.192000	0:07:31.072000
+nicht	nicht	PART	-	-	0:07:30.192000	0:07:31.072000
+mit	mit	ADP	-	-	0:07:30.192000	0:07:31.072000
+?	-	-	-	-	0:07:30.192000	0:07:31.072000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:31.072000" end="0:07:33.666000">
+wi/	-	-	-	-	0:07:31.072000	0:07:33.666000
+das	der	PRON	-	-	0:07:31.072000	0:07:33.666000
+wird	werden	AUX	-	-	0:07:31.072000	0:07:33.666000
+wa/	-	-	-	-	0:07:31.072000	0:07:33.666000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:07:31.072000	0:07:33.666000
+sind	sein	AUX	-	-	0:07:31.072000	0:07:33.666000
+wir	ich	PRON	-	-	0:07:31.072000	0:07:33.666000
+da	da	ADV	-	-	0:07:31.072000	0:07:33.666000
+dabei	dabei	ADV	-	-	0:07:31.072000	0:07:33.666000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:31.072000" end="0:07:34.139000">
+(ja)	ja	ADV	-	-	0:07:31.072000	0:07:33.666000
+ja	ja	PART	-	-	0:07:33.666000	0:07:34.139000
+?	-	-	-	-	0:07:33.666000	0:07:34.139000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:34.139000" end="0:07:36.426000">
+wir	ich	PRON	-	-	0:07:34.139000	0:07:36.426000
+sind	sein	AUX	-	-	0:07:34.139000	0:07:36.426000
+nämlich	nämlich	ADV	-	-	0:07:34.139000	0:07:36.426000
+immer	immer	ADV	-	-	0:07:34.139000	0:07:36.426000
+schon	schon	ADV	-	-	0:07:34.139000	0:07:36.426000
+mit	mit	ADP	-	-	0:07:34.139000	0:07:36.426000
+Pensionisten	Pensionisten	NOUN	-	-	0:07:34.139000	0:07:36.426000
+gefahren	gefahren	VERB	-	-	0:07:34.139000	0:07:36.426000
+,	-	-	-	-	0:07:34.139000	0:07:36.426000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:36.426000" end="0:07:36.752000">
+ja	ja	PART	-	-	0:07:36.426000	0:07:36.752000
+.	-	-	-	-	0:07:36.426000	0:07:36.752000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:36.752000" end="0:07:38.472000">
+aber	aber	CCONJ	-	-	0:07:36.752000	0:07:38.472000
+wir	ich	PRON	-	-	0:07:36.752000	0:07:38.472000
+sind	sein	AUX	-	-	0:07:36.752000	0:07:38.472000
+alleweile	alleweile	ADJ	-	-	0:07:36.752000	0:07:38.472000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:36.752000" end="0:07:39.412000">
+aber	aber	CCONJ	-	-	0:07:36.752000	0:07:38.472000
+Kegelscheiben	Kegelscheiben	NOUN	-	-	0:07:38.472000	0:07:39.412000
+fährt	fahren	VERB	-	-	0:07:38.472000	0:07:39.412000
+ihr	mein	PRON	-	-	0:07:38.472000	0:07:39.412000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:39.412000" end="0:07:40.806000">
+Kegelscheiben	Kegelscheiben	NOUN	-	-	0:07:39.412000	0:07:40.806000
+eine	einen	DET	-	-	0:07:39.412000	0:07:40.806000
+Woche	Woche	NOUN	-	-	0:07:39.412000	0:07:40.806000
+,	-	-	-	-	0:07:39.412000	0:07:40.806000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:39.412000" end="0:07:41.478000">
+ja	ja	ADV	-	-	0:07:39.412000	0:07:40.806000
+ich	ich	PRON	-	-	0:07:39.412000	0:07:40.806000
+weiß	weiß	VERB	-	-	0:07:39.412000	0:07:40.806000
+,	-	-	-	-	0:07:39.412000	0:07:40.806000
+das	der	PRON	-	-	0:07:39.412000	0:07:40.806000
+weiß	weiß	VERB	-	-	0:07:39.412000	0:07:40.806000
+ich	ich	PRON	-	-	0:07:39.412000	0:07:40.806000
+eh	eh	ADV	-	-	0:07:40.806000	0:07:41.478000
+ja	ja	ADV	-	-	0:07:40.806000	0:07:41.478000
+ja	ja	PART	-	-	0:07:40.806000	0:07:41.478000
+.	-	-	-	-	0:07:40.806000	0:07:41.478000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:41.478000" end="0:07:46.006000">
+also	also	ADV	-	-	0:07:41.478000	0:07:44.085000
+Aktivurlaub	Aktivurlaub	NOUN	-	-	0:07:41.478000	0:07:44.085000
+kann	können	VERB	-	-	0:07:41.478000	0:07:44.085000
+man	man	PRON	-	-	0:07:41.478000	0:07:44.085000
+eigentlich	eigentlich	ADV	-	-	0:07:41.478000	0:07:44.085000
+sagen	sagen	VERB	-	-	0:07:41.478000	0:07:44.085000
+,	-	-	-	-	0:07:41.478000	0:07:44.085000
+Kegelurlaub	Kegelurlaub	NOUN	-	-	0:07:44.085000	0:07:46.006000
+eine	einen	DET	-	-	0:07:44.085000	0:07:46.006000
+Woche	Woche	NOUN	-	-	0:07:44.085000	0:07:46.006000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:44.085000" end="0:07:46.006000">
+mhm	mhm	PROPN	-	-	0:07:44.085000	0:07:46.006000
+mhm	mhm	PROPN	-	-	0:07:44.085000	0:07:46.006000
+mhm	mhm	PROPN	-	-	0:07:44.085000	0:07:46.006000
+mhm	mhm	PROPN	-	-	0:07:44.085000	0:07:46.006000
+.	-	-	-	-	0:07:44.085000	0:07:46.006000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:46.006000" end="0:07:49.578000">
+und	und	CCONJ	-	-	0:07:46.006000	0:07:49.578000
+jetzt	jetzt	ADV	-	-	0:07:46.006000	0:07:49.578000
+waren	sein	AUX	-	-	0:07:46.006000	0:07:49.578000
+wir	ich	PRON	-	-	0:07:46.006000	0:07:49.578000
+eh	eh	ADV	-	-	0:07:46.006000	0:07:49.578000
+auch	auch	ADV	-	-	0:07:46.006000	0:07:49.578000
+in	in	ADP	-	-	0:07:46.006000	0:07:49.578000
+Rovinj	Rovinj	NOUN	-	-	0:07:46.006000	0:07:49.578000
+.	-	-	-	-	0:07:46.006000	0:07:49.578000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:49.578000" end="0:07:50.649000">
+wart	sein	VERB	-	-	0:07:49.578000	0:07:50.649000
+ihr	mein	PRON	-	-	0:07:49.578000	0:07:50.649000
+heuer	heuer	ADV	-	-	0:07:49.578000	0:07:50.649000
+schon	schon	ADV	-	-	0:07:49.578000	0:07:50.649000
+unten	unten	ADV	-	-	0:07:49.578000	0:07:50.649000
+?	-	-	-	-	0:07:49.578000	0:07:50.649000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:50.649000" end="0:07:52.121000">
+wa/	-	-	-	-	0:07:50.649000	0:07:51.606000
+wir	ich	PRON	-	-	0:07:50.649000	0:07:51.606000
+waren	sein	AUX	-	-	0:07:50.649000	0:07:51.606000
+heuer	heuer	ADV	-	-	0:07:50.649000	0:07:51.606000
+schon	schon	ADV	-	-	0:07:50.649000	0:07:51.606000
+unten	unten	ADV	-	-	0:07:51.606000	0:07:52.121000
+,	-	-	-	-	0:07:51.606000	0:07:52.121000
+das	der	PRON	-	-	0:07:51.606000	0:07:52.121000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:51.606000" end="0:07:52.121000">
+ach	ach	X	-	-	0:07:51.606000	0:07:52.121000
+so	so	ADV	-	-	0:07:51.606000	0:07:52.121000
+.	-	-	-	-	0:07:51.606000	0:07:52.121000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:52.121000" end="0:07:55.371000">
+war	sein	AUX	-	-	0:07:52.121000	0:07:55.371000
+in	in	ADP	-	-	0:07:52.121000	0:07:55.371000
+heuer	heuer	ADV	-	-	0:07:52.121000	0:07:55.371000
+waren	sein	AUX	-	-	0:07:52.121000	0:07:55.371000
+wir	ich	PRON	-	-	0:07:52.121000	0:07:55.371000
+im	im	ADP	-	-	0:07:52.121000	0:07:55.371000
+Juni	Juni	NOUN	-	-	0:07:52.121000	0:07:55.371000
+unten	unten	ADV	-	-	0:07:52.121000	0:07:55.371000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:55.371000" end="0:07:55.863000">
+mhm	mhm	PROPN	-	-	0:07:55.371000	0:07:55.863000
+.	-	-	-	-	0:07:55.371000	0:07:55.863000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:55.863000" end="0:07:59.971000">
+und	und	CCONJ	-	-	0:07:55.863000	0:07:58.421000
+sind	sein	AUX	-	-	0:07:55.863000	0:07:58.421000
+wieder	wieder	ADV	-	-	0:07:55.863000	0:07:58.421000
+<pause duration="0,7s"/>
+beim	beim	ADP	-	-	0:07:55.863000	0:07:58.421000
+Kegelscheiben	Kegelscheiben	NOUN	-	-	0:07:55.863000	0:07:58.421000
+von	von	ADP	-	-	0:07:58.421000	0:07:59.971000
+ganz	ganz	ADV	-	-	0:07:58.421000	0:07:59.971000
+Österreich	Österreich	PROPN	-	-	0:07:58.421000	0:07:59.971000
+,	-	-	-	-	0:07:58.421000	0:07:59.971000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:07:58.421000" end="0:07:59.971000">
+eh	eh	X	-	-	0:07:58.421000	0:07:59.971000
+gleich	gleichen	ADV	-	-	0:07:58.421000	0:07:59.971000
+nach	nach	ADP	-	-	0:07:58.421000	0:07:59.971000
+nach	nach	ADV	-	-	0:07:58.421000	0:07:59.971000
+de/	-	-	-	-	0:07:58.421000	0:07:59.971000
+nach	nach	ADV	-	-	0:07:58.421000	0:07:59.971000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:07:59.971000" end="0:08:02.663000">
+daweil	daweil	SCONJ	-	-	0:07:59.971000	0:08:00.963000
+wir	ich	PRON	-	-	0:07:59.971000	0:08:00.963000
+unten	unten	ADV	-	-	0:07:59.971000	0:08:00.963000
+waren	sein	AUX	-	-	0:08:00.963000	0:08:02.663000
+waren	sein	AUX	-	-	0:08:00.963000	0:08:02.663000
+nachher	nachher	ADV	-	-	0:08:00.963000	0:08:02.663000
+,	-	-	-	-	0:08:00.963000	0:08:02.663000
+ja	ja	PART	-	-	0:08:00.963000	0:08:02.663000
+,	-	-	-	-	0:08:00.963000	0:08:02.663000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:00.963000" end="0:08:02.663000">
+ja	ja	ADV	-	-	0:08:00.963000	0:08:02.663000
+nachher	nachher	ADV	-	-	0:08:00.963000	0:08:02.663000
+seid	sein	AUX	-	-	0:08:00.963000	0:08:02.663000
+ihr	mein	PRON	-	-	0:08:00.963000	0:08:02.663000
+gleich	gleichen	ADV	-	-	0:08:00.963000	0:08:02.663000
+wieder	wieder	ADV	-	-	0:08:00.963000	0:08:02.663000
+gefahren	gefahren	VERB	-	-	0:08:00.963000	0:08:02.663000
+?	-	-	-	-	0:08:00.963000	0:08:02.663000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:02.663000" end="0:08:03.399000">
+und	-	-	-	-	0:08:02.663000	0:08:03.399000
+sind	-	-	-	-	0:08:02.663000	0:08:03.399000
+wir	-	-	-	-	0:08:02.663000	0:08:03.399000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:02.663000" end="0:08:03.399000">
+mhm	mhm	PROPN	-	-	0:08:02.663000	0:08:03.399000
+.	-	-	-	-	0:08:02.663000	0:08:03.399000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:03.399000" end="0:08:06.563000">
+in	-	-	-	-	0:08:03.399000	0:08:05.328000
+in	-	-	-	-	0:08:03.399000	0:08:05.328000
+der	-	-	-	-	0:08:03.399000	0:08:05.328000
+Grup/	-	-	-	-	0:08:03.399000	0:08:05.328000
+unser	-	-	-	-	0:08:03.399000	0:08:05.328000
+unser	-	-	-	-	0:08:03.399000	0:08:05.328000
+_dings_	-	-	-	-	0:08:03.399000	0:08:05.328000
+Zweite	-	-	-	-	0:08:05.328000	0:08:06.563000
+geworden	-	-	-	-	0:08:05.328000	0:08:06.563000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:05.328000" end="0:08:06.563000">
+mhm	mhm	PROPN	-	-	0:08:05.328000	0:08:06.563000
+mhm	mhm	PROPN	-	-	0:08:05.328000	0:08:06.563000
+.	-	-	-	-	0:08:05.328000	0:08:06.563000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:06.563000" end="0:08:08.085000">
+von	-	-	-	-	0:08:06.563000	0:08:08.085000
+ganz	-	-	-	-	0:08:06.563000	0:08:08.085000
+Österreich	-	-	-	-	0:08:06.563000	0:08:08.085000
+.	-	-	-	-	0:08:06.563000	0:08:08.085000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:06.563000" end="0:08:08.592000">
+beim	-	-	-	-	0:08:06.563000	0:08:08.085000
+Kegel(?)	-	-	-	-	0:08:06.563000	0:08:08.085000
+ja	-	-	-	-	0:08:06.563000	0:08:08.085000
+ja	-	-	-	-	0:08:06.563000	0:08:08.085000
+.	-	-	-	-	0:08:06.563000	0:08:08.085000
+echt	echt	ADJ	-	-	0:08:08.085000	0:08:08.592000
+ja	ja	PART	-	-	0:08:08.085000	0:08:08.592000
+?	-	-	-	-	0:08:08.085000	0:08:08.592000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:08.592000" end="0:08:10.878000">
+da	da	SCONJ	-	-	0:08:08.592000	0:08:10.878000
+fahr/	-	-	-	-	0:08:08.592000	0:08:10.878000
+da	da	ADV	-	-	0:08:08.592000	0:08:10.878000
+fahren	fahren	VERB	-	-	0:08:08.592000	0:08:10.878000
+alle	all	DET	-	-	0:08:08.592000	0:08:10.878000
+Wochen	Woche	NOUN	-	-	0:08:08.592000	0:08:10.878000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:08.592000" end="0:08:10.878000">
+ist	sein	AUX	-	-	0:08:08.592000	0:08:10.878000
+das	der	PRON	-	-	0:08:08.592000	0:08:10.878000
+auch	auch	ADV	-	-	0:08:08.592000	0:08:10.878000
+von	von	ADP	-	-	0:08:08.592000	0:08:10.878000
+die	der	DET	-	-	0:08:08.592000	0:08:10.878000
+von	von	PROPN	-	-	0:08:08.592000	0:08:10.878000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:10.878000" end="0:08:12.249000">
+fährt	fahren	VERB	-	-	0:08:10.878000	0:08:12.249000
+da	da	ADV	-	-	0:08:10.878000	0:08:12.249000
+ein	einen	DET	-	-	0:08:10.878000	0:08:12.249000
+Bus	Bus	NOUN	-	-	0:08:10.878000	0:08:12.249000
+hinunter	hinunter	ADJ	-	-	0:08:10.878000	0:08:12.249000
+.	-	-	-	-	0:08:10.878000	0:08:12.249000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:12.249000" end="0:08:13.428000">
+ist	sein	AUX	-	-	0:08:12.249000	0:08:13.428000
+das	der	PRON	-	-	0:08:12.249000	0:08:13.428000
+auch	auch	ADV	-	-	0:08:12.249000	0:08:13.428000
+von	von	ADP	-	-	0:08:12.249000	0:08:13.428000
+den	der	DET	-	-	0:08:12.249000	0:08:13.428000
+Pensionisten	Pensionisten	NOUN	-	-	0:08:12.249000	0:08:13.428000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:13.428000" end="0:08:17.285000">
+Pensionisten	Pensionisten	NOUN	-	-	0:08:13.428000	0:08:17.285000
+aus	aus	ADP	-	-	0:08:13.428000	0:08:17.285000
+geht	gehen	VERB	-	-	0:08:13.428000	0:08:17.285000
+das	der	PRON	-	-	0:08:13.428000	0:08:17.285000
+Land/	-	-	-	-	0:08:13.428000	0:08:17.285000
+Landespensionisten	Landespensionisten	NOUN	-	-	0:08:13.428000	0:08:17.285000
+Oberösterreich	Oberösterreich	PROPN	-	-	0:08:13.428000	0:08:17.285000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:13.428000" end="0:08:17.285000">
+aus	aus	ADP	-	-	0:08:13.428000	0:08:17.285000
+?	-	-	-	-	0:08:13.428000	0:08:17.285000
+aha	aha	X	-	-	0:08:13.428000	0:08:17.285000
+ja	ja	ADV	-	-	0:08:13.428000	0:08:17.285000
+ja	ja	ADV	-	-	0:08:13.428000	0:08:17.285000
+ja	ja	ADV	-	-	0:08:13.428000	0:08:17.285000
+mhm	mhm	PROPN	-	-	0:08:13.428000	0:08:17.285000
+.	-	-	-	-	0:08:13.428000	0:08:17.285000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:17.285000" end="0:08:17.685000">
+und	und	CCONJ	-	-	0:08:17.285000	0:08:17.685000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:17.285000" end="0:08:17.685000">
+mhm	mhm	PROPN	-	-	0:08:17.285000	0:08:17.685000
+.	-	-	-	-	0:08:17.285000	0:08:17.685000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:17.685000" end="0:08:19.413000">
+da	da	ADV	-	-	0:08:17.685000	0:08:18.492000
+sind	sein	AUX	-	-	0:08:17.685000	0:08:18.492000
+wir	ich	PRON	-	-	0:08:17.685000	0:08:18.492000
+dabei	dabei	ADV	-	-	0:08:17.685000	0:08:18.492000
+und	und	CCONJ	-	-	0:08:18.492000	0:08:19.413000
+diesmal	diesmal	ADV	-	-	0:08:18.492000	0:08:19.413000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:18.492000" end="0:08:19.413000">
+mhm	mhm	PROPN	-	-	0:08:18.492000	0:08:19.413000
+.	-	-	-	-	0:08:18.492000	0:08:19.413000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:19.413000" end="0:08:22.085000">
+und	und	CCONJ	-	-	0:08:19.413000	0:08:22.085000
+wie	wie	ADV	-	-	0:08:19.413000	0:08:22.085000
+soll	soll	VERB	-	-	0:08:19.413000	0:08:22.085000
+ich	ich	PRON	-	-	0:08:19.413000	0:08:22.085000
+denn	denn	ADV	-	-	0:08:19.413000	0:08:22.085000
+sagen	sagen	VERB	-	-	0:08:19.413000	0:08:22.085000
+,	-	-	-	-	0:08:19.413000	0:08:22.085000
+vorgestern	vorgestern	ADV	-	-	0:08:19.413000	0:08:22.085000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:22.085000" end="0:08:22.671000">
+ja	ja	PART	-	-	0:08:22.085000	0:08:22.671000
+.	-	-	-	-	0:08:22.085000	0:08:22.671000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:22.671000" end="0:08:25.385000">
+waren	sein	AUX	-	-	0:08:22.671000	0:08:24.799000
+wir	ich	PRON	-	-	0:08:22.671000	0:08:24.799000
+in	in	ADP	-	-	0:08:22.671000	0:08:24.799000
+Inzersdorf	Inzersdorf	PROPN	-	-	0:08:22.671000	0:08:24.799000
+.	-	-	-	-	0:08:22.671000	0:08:24.799000
+<pause duration="0,8s"/>
+da	da	ADV	-	-	0:08:24.799000	0:08:25.385000
+haben	haben	AUX	-	-	0:08:24.799000	0:08:25.385000
+sie	ich	PRON	-	-	0:08:24.799000	0:08:25.385000
+dann	dann	ADV	-	-	0:08:24.799000	0:08:25.385000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:24.799000" end="0:08:25.385000">
+mhm	mhm	PROPN	-	-	0:08:24.799000	0:08:25.385000
+.	-	-	-	-	0:08:24.799000	0:08:25.385000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:25.385000" end="0:08:27.092000">
+die	der	DET	-	-	0:08:25.385000	0:08:27.092000
+Abschlussfeier	Abschlussfeier	NOUN	-	-	0:08:25.385000	0:08:27.092000
+gemacht	machen	VERB	-	-	0:08:25.385000	0:08:27.092000
+,	-	-	-	-	0:08:25.385000	0:08:27.092000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:27.092000" end="0:08:27.685000">
+ach	ach	X	-	-	0:08:27.092000	0:08:27.685000
+so	so	ADV	-	-	0:08:27.092000	0:08:27.685000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:27.685000" end="0:08:29.085000">
+und	und	CCONJ	-	-	0:08:27.685000	0:08:29.085000
+haben	haben	AUX	-	-	0:08:27.685000	0:08:29.085000
+wir	ich	PRON	-	-	0:08:27.685000	0:08:29.085000
+erst	erst	ADV	-	-	0:08:27.685000	0:08:29.085000
+da	da	ADV	-	-	0:08:27.685000	0:08:29.085000
+haben/	-	-	-	-	0:08:27.685000	0:08:29.085000
+.	-	-	-	-	0:08:27.685000	0:08:29.085000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:27.685000" end="0:08:29.085000">
+von	von	ADP	-	-	0:08:27.685000	0:08:29.085000
+Oberösterreich	Oberösterreich	PROPN	-	-	0:08:27.685000	0:08:29.085000
+halt	halt	ADV	-	-	0:08:27.685000	0:08:29.085000
+,	-	-	-	-	0:08:27.685000	0:08:29.085000
+nicht	nicht	PART	-	-	0:08:27.685000	0:08:29.085000
+?	-	-	-	-	0:08:27.685000	0:08:29.085000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:29.085000" end="0:08:30.171000">
+von	von	ADP	-	-	0:08:29.085000	0:08:30.171000
+Oberösterreich	Oberösterreich	PROPN	-	-	0:08:29.085000	0:08:30.171000
+.	-	-	-	-	0:08:29.085000	0:08:30.171000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:29.085000" end="0:08:30.171000">
+ja	ja	ADV	-	-	0:08:29.085000	0:08:30.171000
+ja	ja	PART	-	-	0:08:29.085000	0:08:30.171000
+.	-	-	-	-	0:08:29.085000	0:08:30.171000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:30.171000" end="0:08:33.328000">
+da	da	ADV	-	-	0:08:30.171000	0:08:31.835000
+haben	haben	AUX	-	-	0:08:30.171000	0:08:31.835000
+wir	ich	PRON	-	-	0:08:30.171000	0:08:31.835000
+erst	erst	ADV	-	-	0:08:30.171000	0:08:31.835000
+erfahren	erfahren	VERB	-	-	0:08:30.171000	0:08:31.835000
+,	-	-	-	-	0:08:30.171000	0:08:31.835000
+dass	dass	SCONJ	-	-	0:08:31.835000	0:08:33.328000
+wir	ich	PRON	-	-	0:08:31.835000	0:08:33.328000
+Zweiter	Zweiter	NOUN	-	-	0:08:31.835000	0:08:33.328000
+geblieben	bleiben	VERB	-	-	0:08:31.835000	0:08:33.328000
+sind	sein	AUX	-	-	0:08:31.835000	0:08:33.328000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:33.328000" end="0:08:34.128000">
+ja	ja	ADV	-	-	0:08:33.328000	0:08:34.128000
+ja	ja	PART	-	-	0:08:33.328000	0:08:34.128000
+.	-	-	-	-	0:08:33.328000	0:08:34.128000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:34.128000" end="0:08:36.506000">
+mit	mit	ADP	-	-	0:08:34.128000	0:08:36.506000
+um	um	ADP	-	-	0:08:34.128000	0:08:36.506000
+sechs	sechs	NUM	-	-	0:08:34.128000	0:08:36.506000
+Kegeln	Kegel	NOUN	-	-	0:08:34.128000	0:08:36.506000
+hat	haben	AUX	-	-	0:08:34.128000	0:08:36.506000
+es	ich	PRON	-	-	0:08:34.128000	0:08:36.506000
+sich	sich	PRON	-	-	0:08:34.128000	0:08:36.506000
+gerissen	reißen	VERB	-	-	0:08:34.128000	0:08:36.506000
+,	-	-	-	-	0:08:34.128000	0:08:36.506000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:36.506000" end="0:08:36.878000">
+geh	geh	X	-	-	0:08:36.506000	0:08:36.878000
+!	-	-	-	-	0:08:36.506000	0:08:36.878000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:36.878000" end="0:08:38.556000">
+dass	dass	SCONJ	-	-	0:08:36.878000	0:08:38.556000
+wir	ich	PRON	-	-	0:08:36.878000	0:08:38.556000
+nicht	nicht	PART	-	-	0:08:36.878000	0:08:38.556000
+Erster	Erster	PRON	-	-	0:08:36.878000	0:08:38.556000
+waren	sein	AUX	-	-	0:08:36.878000	0:08:38.556000
+gewesen	sein	AUX	-	-	0:08:36.878000	0:08:38.556000
+sind	sein	AUX	-	-	0:08:36.878000	0:08:38.556000
+.	-	-	-	-	0:08:36.878000	0:08:38.556000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:36.878000" end="0:08:38.556000">
+ja	ja	ADV	-	-	0:08:36.878000	0:08:38.556000
+ja	ja	ADV	-	-	0:08:36.878000	0:08:38.556000
+ja	ja	PART	-	-	0:08:36.878000	0:08:38.556000
+.	-	-	-	-	0:08:36.878000	0:08:38.556000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:38.556000" end="0:08:42.628000">
+ja	ja	PART	-	-	0:08:38.556000	0:08:39.821000
+aber	aber	ADV	-	-	0:08:38.556000	0:08:39.821000
+ist	sein	AUX	-	-	0:08:39.821000	0:08:42.628000
+eh	eh	ADV	-	-	0:08:39.821000	0:08:42.628000
+gut	gut	ADJ	-	-	0:08:39.821000	0:08:42.628000
+,	-	-	-	-	0:08:39.821000	0:08:42.628000
+ist	sein	AUX	-	-	0:08:39.821000	0:08:42.628000
+ist	sein	AUX	-	-	0:08:39.821000	0:08:42.628000
+eh	eh	ADV	-	-	0:08:39.821000	0:08:42.628000
+einmal	einmal	ADV	-	-	0:08:39.821000	0:08:42.628000
+ja/	-	-	-	-	0:08:39.821000	0:08:42.628000
+.	-	-	-	-	0:08:39.821000	0:08:42.628000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:39.821000" end="0:08:47.292000">
+mit	mit	ADP	-	-	0:08:39.821000	0:08:42.628000
+Urkunden	Urkunde	NOUN	-	-	0:08:39.821000	0:08:42.628000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:08:39.821000	0:08:42.628000
+mit	mit	ADP	-	-	0:08:39.821000	0:08:42.628000
+darum	darum	ADV	-	-	0:08:39.821000	0:08:42.628000
+und	und	CCONJ	-	-	0:08:39.821000	0:08:42.628000
+daran	daran	ADV	-	-	0:08:39.821000	0:08:42.628000
+,	-	-	-	-	0:08:39.821000	0:08:42.628000
+nicht	nicht	PART	-	-	0:08:39.821000	0:08:42.628000
+,	-	-	-	-	0:08:39.821000	0:08:42.628000
+ja	ja	ADV	-	-	0:08:39.821000	0:08:42.628000
+ja	ja	ADV	-	-	0:08:39.821000	0:08:42.628000
+ist	sein	AUX	-	-	0:08:42.628000	0:08:43.828000
+eh	eh	ADV	-	-	0:08:42.628000	0:08:43.828000
+klar	klaren	ADJ	-	-	0:08:42.628000	0:08:43.828000
+mhm	mhm	PROPN	-	-	0:08:42.628000	0:08:43.828000
+.	-	-	-	-	0:08:42.628000	0:08:43.828000
+na	na	INTJ	-	-	0:08:43.828000	0:08:47.292000
+aber	aber	ADV	-	-	0:08:43.828000	0:08:47.292000
+uns	sich	PRON	-	-	0:08:43.828000	0:08:47.292000
+hat	haben	AUX	-	-	0:08:43.828000	0:08:47.292000
+das	der	DET	-	-	0:08:43.828000	0:08:47.292000
+letztes	letzt	ADJ	-	-	0:08:43.828000	0:08:47.292000
+Mal	Mal	NOUN	-	-	0:08:43.828000	0:08:47.292000
+da	da	ADV	-	-	0:08:43.828000	0:08:47.292000
+,	-	-	-	-	0:08:43.828000	0:08:47.292000
+Rhodos	Rhodos	PROPN	-	-	0:08:43.828000	0:08:47.292000
+war	sein	AUX	-	-	0:08:43.828000	0:08:47.292000
+wirklich	wirklich	ADJ	-	-	0:08:43.828000	0:08:47.292000
+auch	auch	ADV	-	-	0:08:43.828000	0:08:47.292000
+wunderschön	wunderschön	ADJ	-	-	0:08:43.828000	0:08:47.292000
+auch	auch	ADV	-	-	0:08:43.828000	0:08:47.292000
+unten	unten	ADV	-	-	0:08:43.828000	0:08:47.292000
+.	-	-	-	-	0:08:43.828000	0:08:47.292000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:47.292000" end="0:08:48.021000">
+hm	hm	X	-	-	0:08:47.292000	0:08:48.021000
+.	-	-	-	-	0:08:47.292000	0:08:48.021000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:47.292000" end="0:08:53.713000">
+das	der	PRON	-	-	0:08:47.292000	0:08:48.021000
+war	sein	AUX	-	-	0:08:48.021000	0:08:50.842000
+<pause duration="0,7s"/>
+und	und	CCONJ	-	-	0:08:48.021000	0:08:50.842000
+so	so	ADV	-	-	0:08:48.021000	0:08:50.842000
+klasse	klasse	NOUN	-	-	0:08:48.021000	0:08:50.842000
+organisiert	organisieren	VERB	-	-	0:08:48.021000	0:08:50.842000
+ist	sein	AUX	-	-	0:08:48.021000	0:08:50.842000
+(nämlich)	nämlich	ADV	-	-	0:08:48.021000	0:08:50.842000
+das	der	PRON	-	-	0:08:48.021000	0:08:50.842000
+alles	alle	PRON	-	-	0:08:48.021000	0:08:50.842000
+,	-	-	-	-	0:08:48.021000	0:08:50.842000
+obwohl	obwohl	SCONJ	-	-	0:08:50.842000	0:08:53.713000
+da	da	ADV	-	-	0:08:50.842000	0:08:53.713000
+an	an	ADP	-	-	0:08:50.842000	0:08:53.713000
+die	der	DET	-	-	0:08:50.842000	0:08:53.713000
+tausend	tausend	NUM	-	-	0:08:50.842000	0:08:53.713000
+Teilnehmer	Teilnehmer	NOUN	-	-	0:08:50.842000	0:08:53.713000
+unten	unten	ADV	-	-	0:08:50.842000	0:08:53.713000
+sind	sein	AUX	-	-	0:08:50.842000	0:08:53.713000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:53.713000" end="0:08:55.535000">
+das	der	PRON	-	-	0:08:53.713000	0:08:54.449000
+ist	sein	AUX	-	-	0:08:53.713000	0:08:54.449000
+gew/	-	-	-	-	0:08:53.713000	0:08:54.449000
+das	der	PRON	-	-	0:08:54.449000	0:08:55.535000
+ist	sein	AUX	-	-	0:08:54.449000	0:08:55.535000
+gewaltig	gewaltig	ADJ	-	-	0:08:54.449000	0:08:55.535000
+.	-	-	-	-	0:08:54.449000	0:08:55.535000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:54.449000" end="0:08:56.906000">
+von	von	ADP	-	-	0:08:54.449000	0:08:55.535000
+ganz	ganz	ADV	-	-	0:08:54.449000	0:08:55.535000
+von	von	ADP	-	-	0:08:54.449000	0:08:55.535000
+ganz	ganz	ADV	-	-	0:08:54.449000	0:08:55.535000
+Österreich	Österreich	PROPN	-	-	0:08:55.535000	0:08:56.906000
+fahren	fahren	VERB	-	-	0:08:55.535000	0:08:56.906000
+sie	ich	PRON	-	-	0:08:55.535000	0:08:56.906000
+da	da	ADV	-	-	0:08:55.535000	0:08:56.906000
+,	-	-	-	-	0:08:55.535000	0:08:56.906000
+ja	ja	PART	-	-	0:08:55.535000	0:08:56.906000
+.	-	-	-	-	0:08:55.535000	0:08:56.906000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:08:56.906000" end="0:08:57.271000">
+ja	ja	PART	-	-	0:08:56.906000	0:08:57.271000
+.	-	-	-	-	0:08:56.906000	0:08:57.271000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:08:57.271000" end="0:09:07.113000">
+ähm	ähm	PROPN	-	-	0:08:57.271000	0:08:59.856000
+und	und	CCONJ	-	-	0:08:57.271000	0:08:59.856000
+das	der	PRON	-	-	0:08:57.271000	0:08:59.856000
+gibt	geben	VERB	-	-	0:08:57.271000	0:08:59.856000
+es	ich	PRON	-	-	0:08:57.271000	0:08:59.856000
+aber	aber	ADV	-	-	0:08:57.271000	0:08:59.856000
+vier	vier	NUM	-	-	0:08:57.271000	0:08:59.856000
+Termine	Termin	NOUN	-	-	0:08:57.271000	0:08:59.856000
+.	-	-	-	-	0:08:57.271000	0:08:59.856000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:08:59.856000	0:09:00.506000
+ist	sein	AUX	-	-	0:08:59.856000	0:09:00.506000
+ein	einen	DET	-	-	0:08:59.856000	0:09:00.506000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:08:59.856000	0:09:00.506000
+,	-	-	-	-	0:08:59.856000	0:09:00.506000
+was	was	PRON	-	-	0:09:00.506000	0:09:01.671000
+da	da	ADV	-	-	0:09:00.506000	0:09:01.671000
+Leute	Leute	NOUN	-	-	0:09:00.506000	0:09:01.671000
+zusammen	zusammen	ADV	-	-	0:09:00.506000	0:09:01.671000
+kommen	kommen	VERB	-	-	0:09:00.506000	0:09:01.671000
+.	-	-	-	-	0:09:00.506000	0:09:01.671000
+<pause duration="0,8s"/>
+(und)	und	CCONJ	-	-	0:09:01.671000	0:09:05.363000
+ja	ja	ADV	-	-	0:09:01.671000	0:09:05.363000
+wa/	-	-	-	-	0:09:01.671000	0:09:05.363000
+haben	haben	AUX	-	-	0:09:01.671000	0:09:05.363000
+wir	ich	PRON	-	-	0:09:01.671000	0:09:05.363000
+auch	auch	ADV	-	-	0:09:01.671000	0:09:05.363000
+eine	einen	DET	-	-	0:09:01.671000	0:09:05.363000
+schöne	schöne	ADJ	-	-	0:09:01.671000	0:09:05.363000
+Woche	Woche	NOUN	-	-	0:09:01.671000	0:09:05.363000
+gehabt	haben	AUX	-	-	0:09:01.671000	0:09:05.363000
+da	da	ADV	-	-	0:09:01.671000	0:09:05.363000
+.	-	-	-	-	0:09:01.671000	0:09:05.363000
+war	sein	AUX	-	-	0:09:05.363000	0:09:07.113000
+es	ich	PRON	-	-	0:09:05.363000	0:09:07.113000
+auch	auch	ADV	-	-	0:09:05.363000	0:09:07.113000
+zum	zum	ADP	-	-	0:09:05.363000	0:09:07.113000
+Baden	Baden	NOUN	-	-	0:09:05.363000	0:09:07.113000
+auch	auch	ADV	-	-	0:09:05.363000	0:09:07.113000
+(warm)	warm	ADJ	-	-	0:09:05.363000	0:09:07.113000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:07.113000" end="0:09:08.413000">
+ja	ja	ADV	-	-	0:09:07.113000	0:09:08.413000
+das	der	PRON	-	-	0:09:07.113000	0:09:08.413000
+ist	sein	AUX	-	-	0:09:07.113000	0:09:08.413000
+ja	ja	ADV	-	-	0:09:07.113000	0:09:08.413000
+das	der	PRON	-	-	0:09:07.113000	0:09:08.413000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:07.113000" end="0:09:08.413000">
+auch	auch	ADV	-	-	0:09:07.113000	0:09:08.413000
+im	im	ADP	-	-	0:09:07.113000	0:09:08.413000
+Mai	Mai	NOUN	-	-	0:09:07.113000	0:09:08.413000
+.	-	-	-	-	0:09:07.113000	0:09:08.413000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:08.413000" end="0:09:10.449000">
+und	und	CCONJ	-	-	0:09:08.413000	0:09:10.449000
+organisiert	organisieren	VERB	-	-	0:09:08.413000	0:09:10.449000
+so	so	ADV	-	-	0:09:08.413000	0:09:10.449000
+gut	gut	ADJ	-	-	0:09:08.413000	0:09:10.449000
+,	-	-	-	-	0:09:08.413000	0:09:10.449000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:08.413000" end="0:09:10.449000">
+*ist*	-	-	-	-	0:09:08.413000	0:09:10.449000
+schon	-	-	-	-	0:09:08.413000	0:09:10.449000
+super	-	-	-	-	0:09:08.413000	0:09:10.449000
+.	-	-	-	-	0:09:08.413000	0:09:10.449000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:10.449000" end="0:09:12.049000">
+muss	muss	PROPN	-	-	0:09:10.449000	0:09:12.049000
+man	man	PRON	-	-	0:09:10.449000	0:09:12.049000
+sagen	sagen	VERB	-	-	0:09:10.449000	0:09:12.049000
+,	-	-	-	-	0:09:10.449000	0:09:12.049000
+gell	gell	ADJ	-	-	0:09:10.449000	0:09:12.049000
+?	-	-	-	-	0:09:10.449000	0:09:12.049000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:10.449000" end="0:09:12.049000">
+ja	ja	ADV	-	-	0:09:10.449000	0:09:12.049000
+das	der	PRON	-	-	0:09:10.449000	0:09:12.049000
+hat	haben	AUX	-	-	0:09:10.449000	0:09:12.049000
+mich	sich	PRON	-	-	0:09:10.449000	0:09:12.049000
+auch	auch	ADV	-	-	0:09:10.449000	0:09:12.049000
+gewundert	wundern	VERB	-	-	0:09:10.449000	0:09:12.049000
+da	da	ADV	-	-	0:09:10.449000	0:09:12.049000
+ja	ja	ADV	-	-	0:09:10.449000	0:09:12.049000
+.	-	-	-	-	0:09:10.449000	0:09:12.049000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:12.049000" end="0:09:14.049000">
+ähm	ähm	PROPN	-	-	0:09:12.049000	0:09:14.049000
+ist	sein	AUX	-	-	0:09:12.049000	0:09:14.049000
+ein	einen	DET	-	-	0:09:12.049000	0:09:14.049000
+Arzt	Arzt	NOUN	-	-	0:09:12.049000	0:09:14.049000
+dabei	dabei	ADV	-	-	0:09:12.049000	0:09:14.049000
+,	-	-	-	-	0:09:12.049000	0:09:14.049000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:12.049000" end="0:09:14.049000">
+das	der	PRON	-	-	0:09:12.049000	0:09:14.049000
+ist	sein	AUX	-	-	0:09:12.049000	0:09:14.049000
+ist/	-	-	-	-	0:09:12.049000	0:09:14.049000
+.	-	-	-	-	0:09:12.049000	0:09:14.049000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:14.049000" end="0:09:17.306000">
+ist	-	-	-	-	0:09:14.049000	0:09:15.571000
+ein	-	-	-	-	0:09:14.049000	0:09:15.571000
+_dings_	-	-	-	-	0:09:14.049000	0:09:15.571000
+da	-	-	-	-	0:09:14.049000	0:09:15.571000
+gibt	-	-	-	-	0:09:14.049000	0:09:15.571000
+es	-	-	-	-	0:09:14.049000	0:09:15.571000
+nichts	-	-	-	-	0:09:14.049000	0:09:15.571000
+.	-	-	-	-	0:09:14.049000	0:09:15.571000
+da	-	-	-	-	0:09:15.571000	0:09:17.306000
+da	-	-	-	-	0:09:15.571000	0:09:17.306000
+*hast*	-	-	-	-	0:09:15.571000	0:09:17.306000
+alleweile	-	-	-	-	0:09:15.571000	0:09:17.306000
+irgendwen	-	-	-	-	0:09:15.571000	0:09:17.306000
+auch	-	-	-	-	0:09:15.571000	0:09:17.306000
+.	-	-	-	-	0:09:15.571000	0:09:17.306000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:15.571000" end="0:09:17.306000">
+ja	ja	ADV	-	-	0:09:15.571000	0:09:17.306000
+ja	ja	PART	-	-	0:09:15.571000	0:09:17.306000
+.	-	-	-	-	0:09:15.571000	0:09:17.306000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:17.306000" end="0:09:20.956000">
+also	also	ADV	-	-	0:09:17.306000	0:09:18.728000
+wenn	wenn	SCONJ	-	-	0:09:17.306000	0:09:18.728000
+du	du	PRON	-	-	0:09:17.306000	0:09:18.728000
+eine	einen	DET	-	-	0:09:17.306000	0:09:18.728000
+Hilfe	Hilfe	NOUN	-	-	0:09:17.306000	0:09:18.728000
+brauchst	brauchen	VERB	-	-	0:09:17.306000	0:09:18.728000
+,	-	-	-	-	0:09:17.306000	0:09:18.728000
+*hast*	-	-	-	-	0:09:18.728000	0:09:19.892000
+da	-	-	-	-	0:09:18.728000	0:09:19.892000
+eine	-	-	-	-	0:09:18.728000	0:09:19.892000
+und	-	-	-	-	0:09:19.892000	0:09:20.956000
+das	-	-	-	-	0:09:19.892000	0:09:20.956000
+ist/	-	-	-	-	0:09:19.892000	0:09:20.956000
+.	-	-	-	-	0:09:19.892000	0:09:20.956000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:19.892000" end="0:09:20.956000">
+und	und	CCONJ	-	-	0:09:19.892000	0:09:20.956000
+kein	kein	DET	-	-	0:09:19.892000	0:09:20.956000
+Stress	Stress	NOUN	-	-	0:09:19.892000	0:09:20.956000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:20.956000" end="0:09:21.435000">
+wa/	-	-	-	-	0:09:20.956000	0:09:21.435000
+.	-	-	-	-	0:09:20.956000	0:09:21.435000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:20.956000" end="0:09:22.449000">
+ja	ja	ADV	-	-	0:09:20.956000	0:09:21.435000
+kein	kein	DET	-	-	0:09:21.435000	0:09:22.449000
+Stress	Stress	NOUN	-	-	0:09:21.435000	0:09:22.449000
+,	-	-	-	-	0:09:21.435000	0:09:22.449000
+da	-	-	-	-	0:09:21.435000	0:09:22.449000
+gru/	-	-	-	-	0:09:21.435000	0:09:22.449000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:22.449000" end="0:09:24.606000">
+nichts	nichts	PRON	-	-	0:09:22.449000	0:09:24.606000
+ka/	-	-	-	-	0:09:22.449000	0:09:24.606000
+ist	sein	AUX	-	-	0:09:22.449000	0:09:24.606000
+eh	eh	ADV	-	-	0:09:22.449000	0:09:24.606000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:22.449000" end="0:09:24.606000">
+da	-	-	-	-	0:09:22.449000	0:09:24.606000
+*wirst*	-	-	-	-	0:09:22.449000	0:09:24.606000
+abgeholt	-	-	-	-	0:09:22.449000	0:09:24.606000
+mit	-	-	-	-	0:09:22.449000	0:09:24.606000
+dem	-	-	-	-	0:09:22.449000	0:09:24.606000
+Bus	-	-	-	-	0:09:22.449000	0:09:24.606000
+*kommst*	-	-	-	-	0:09:22.449000	0:09:24.606000
+.	-	-	-	-	0:09:22.449000	0:09:24.606000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:24.606000" end="0:09:26.492000">
+das	der	PRON	-	-	0:09:24.606000	0:09:26.492000
+ist	sein	AUX	-	-	0:09:24.606000	0:09:26.492000
+ja	ja	ADV	-	-	0:09:24.606000	0:09:26.492000
+das	der	DET	-	-	0:09:24.606000	0:09:26.492000
+Schöne	Schönes	NOUN	-	-	0:09:24.606000	0:09:26.492000
+ja	ja	ADV	-	-	0:09:24.606000	0:09:26.492000
+ja	ja	PART	-	-	0:09:24.606000	0:09:26.492000
+.	-	-	-	-	0:09:24.606000	0:09:26.492000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:26.492000" end="0:09:27.963000">
+Hotel	Hotel	NOUN	-	-	0:09:26.492000	0:09:27.963000
+dann	dann	ADV	-	-	0:09:26.492000	0:09:27.963000
+genauso	genauso	ADV	-	-	0:09:26.492000	0:09:27.963000
+ja	ja	ADV	-	-	0:09:26.492000	0:09:27.963000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:27.963000" end="0:09:28.649000">
+mhm	mhm	PROPN	-	-	0:09:27.963000	0:09:28.649000
+.	-	-	-	-	0:09:27.963000	0:09:28.649000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:27.963000" end="0:09:33.692000">
+ja	ja	PART	-	-	0:09:27.963000	0:09:28.649000
+.	-	-	-	-	0:09:27.963000	0:09:28.649000
+<pause duration="0,7s"/>
+ja	ja	PART	-	-	0:09:28.649000	0:09:31.692000
+und	und	CCONJ	-	-	0:09:28.649000	0:09:31.692000
+da	da	ADV	-	-	0:09:28.649000	0:09:31.692000
+haben	haben	AUX	-	-	0:09:28.649000	0:09:31.692000
+wir	ich	PRON	-	-	0:09:28.649000	0:09:31.692000
+gesagt	sagen	VERB	-	-	0:09:28.649000	0:09:31.692000
+und	und	CCONJ	-	-	0:09:28.649000	0:09:31.692000
+Zypern	Zypern	PROPN	-	-	0:09:28.649000	0:09:31.692000
+kennen	kennen	VERB	-	-	0:09:28.649000	0:09:31.692000
+wir	ich	PRON	-	-	0:09:28.649000	0:09:31.692000
+noch	noch	ADV	-	-	0:09:28.649000	0:09:31.692000
+nicht	nicht	PART	-	-	0:09:28.649000	0:09:31.692000
+,	-	-	-	-	0:09:28.649000	0:09:31.692000
+jetzt	jetzt	ADV	-	-	0:09:31.692000	0:09:33.692000
+fahren	fahren	VERB	-	-	0:09:31.692000	0:09:33.692000
+wir	ich	PRON	-	-	0:09:31.692000	0:09:33.692000
+heuer	heuer	ADV	-	-	0:09:31.692000	0:09:33.692000
+dann	dann	ADV	-	-	0:09:31.692000	0:09:33.692000
+also	also	ADV	-	-	0:09:31.692000	0:09:33.692000
+nächstes	nächst	ADJ	-	-	0:09:31.692000	0:09:33.692000
+Jahr	Jahr	NOUN	-	-	0:09:31.692000	0:09:33.692000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:33.692000" end="0:09:35.692000">
+Zypern	Zypern	PROPN	-	-	0:09:33.692000	0:09:35.692000
+waren	sein	AUX	-	-	0:09:33.692000	0:09:35.692000
+wir	ich	PRON	-	-	0:09:33.692000	0:09:35.692000
+wi/	-	-	-	-	0:09:33.692000	0:09:35.692000
+(auch)	auch	ADV	-	-	0:09:33.692000	0:09:35.692000
+nicht	nicht	PART	-	-	0:09:33.692000	0:09:35.692000
+nur	nur	ADV	-	-	0:09:33.692000	0:09:35.692000
+.	-	-	-	-	0:09:33.692000	0:09:35.692000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:35.692000" end="0:09:37.449000">
+da	da	ADV	-	-	0:09:35.692000	0:09:37.449000
+fahren	fahren	VERB	-	-	0:09:35.692000	0:09:37.449000
+wir	ich	PRON	-	-	0:09:35.692000	0:09:37.449000
+hinunter	hinunter	ADJ	-	-	0:09:35.692000	0:09:37.449000
+dann	dann	ADV	-	-	0:09:35.692000	0:09:37.449000
+,	-	-	-	-	0:09:35.692000	0:09:37.449000
+(na	na	X	-	-	0:09:35.692000	0:09:37.449000
+das	der	PRON	-	-	0:09:35.692000	0:09:37.449000
+ist	sein	AUX	-	-	0:09:35.692000	0:09:37.449000
+jetzt/	-	-	-	-	0:09:35.692000	0:09:37.449000
+.)	-	-	-	-	0:09:35.692000	0:09:37.449000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:37.449000" end="0:09:37.956000">
+mhm	mhm	PROPN	-	-	0:09:37.449000	0:09:37.956000
+.	-	-	-	-	0:09:37.449000	0:09:37.956000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:37.956000" end="0:09:43.763000">
+du	du	PRON	-	-	0:09:37.956000	0:09:39.113000
+kannst	können	VERB	-	-	0:09:37.956000	0:09:39.113000
+dich	sich	PRON	-	-	0:09:37.956000	0:09:39.113000
+noch	noch	ADV	-	-	0:09:37.956000	0:09:39.113000
+anmelden	anmelden	VERB	-	-	0:09:37.956000	0:09:39.113000
+.	-	-	-	-	0:09:37.956000	0:09:39.113000
+habt	haben	AUX	-	-	0:09:39.113000	0:09:42.478000
+ihr	mein	PRON	-	-	0:09:39.113000	0:09:42.478000
+euch	sich	PRON	-	-	0:09:39.113000	0:09:42.478000
+eh	eh	ADV	-	-	0:09:39.113000	0:09:42.478000
+schon	schon	ADV	-	-	0:09:39.113000	0:09:42.478000
+angemeldet	anmelden	VERB	-	-	0:09:39.113000	0:09:42.478000
+.	-	-	-	-	0:09:39.113000	0:09:42.478000
+<pause duration="1,4s"/>
+[Baumschlager]N	Baumschlager	NOUN	-	-	0:09:42.478000	0:09:43.763000
+fahren	fahren	VERB	-	-	0:09:42.478000	0:09:43.763000
+auch	auch	ADV	-	-	0:09:42.478000	0:09:43.763000
+.	-	-	-	-	0:09:42.478000	0:09:43.763000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:43.763000" end="0:09:45.385000">
+ah	ah	X	-	-	0:09:43.763000	0:09:45.385000
+fahren	fahren	VERB	-	-	0:09:43.763000	0:09:45.385000
+[Baumschlager]N	Baumschlager	NOUN	-	-	0:09:43.763000	0:09:45.385000
+wieder	wieder	ADP	-	-	0:09:43.763000	0:09:45.385000
+,	-	-	-	-	0:09:43.763000	0:09:45.385000
+[Taubinger]N	Taubinger	ADJ	-	-	0:09:43.763000	0:09:45.385000
+auch	auch	ADV	-	-	0:09:43.763000	0:09:45.385000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:43.763000" end="0:09:45.385000">
+[Baumschlager]N	Baumschlager	NOUN	-	-	0:09:43.763000	0:09:45.385000
+fahren	fahren	VERB	-	-	0:09:43.763000	0:09:45.385000
+,	-	-	-	-	0:09:43.763000	0:09:45.385000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:45.385000" end="0:09:46.356000">
+normal	normal	ADJ	-	-	0:09:45.385000	0:09:46.356000
+?	-	-	-	-	0:09:45.385000	0:09:46.356000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:45.385000" end="0:09:47.978000">
+[Taubinger]N	Taubinger	PROPN	-	-	0:09:45.385000	0:09:46.356000
+nein	nein	PART	-	-	0:09:45.385000	0:09:46.356000
+,	-	-	-	-	0:09:45.385000	0:09:46.356000
+der	der	DET	-	-	0:09:46.356000	0:09:47.978000
+[Rudel]N	Rudel	NOUN	-	-	0:09:46.356000	0:09:47.978000
+meine	meinen	VERB	-	-	0:09:46.356000	0:09:47.978000
+ich	ich	PRON	-	-	0:09:46.356000	0:09:47.978000
+,	-	-	-	-	0:09:46.356000	0:09:47.978000
+glaube	glauben	VERB	-	-	0:09:46.356000	0:09:47.978000
+ich	ich	PRON	-	-	0:09:46.356000	0:09:47.978000
+nicht	nicht	PART	-	-	0:09:46.356000	0:09:47.978000
+,	-	-	-	-	0:09:46.356000	0:09:47.978000
+hat	haben	AUX	-	-	0:09:46.356000	0:09:47.978000
+nichts	nichts	PRON	-	-	0:09:46.356000	0:09:47.978000
+gesagt	sagen	VERB	-	-	0:09:46.356000	0:09:47.978000
+.	-	-	-	-	0:09:46.356000	0:09:47.978000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:47.978000" end="0:09:48.885000">
+mhm	mhm	PROPN	-	-	0:09:47.978000	0:09:48.885000
+.	-	-	-	-	0:09:47.978000	0:09:48.885000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:47.978000" end="0:09:52.635000">
+dann	dann	ADV	-	-	0:09:47.978000	0:09:48.885000
+die	der	PRON	-	-	0:09:47.978000	0:09:48.885000
+die	der	DET	-	-	0:09:48.885000	0:09:50.078000
+[Brenninger]N	Brenninger	NOUN	-	-	0:09:48.885000	0:09:50.078000
+fahren	fahren	VERB	-	-	0:09:48.885000	0:09:50.078000
+,	-	-	-	-	0:09:48.885000	0:09:50.078000
+die	-	-	-	-	0:09:50.078000	0:09:52.635000
+[(Krei)]N	-	-	-	-	0:09:50.078000	0:09:52.635000
+fahren	-	-	-	-	0:09:50.078000	0:09:52.635000
+wieder	-	-	-	-	0:09:50.078000	0:09:52.635000
+<pause duration="0,7s"/>
+und	-	-	-	-	0:09:50.078000	0:09:52.635000
+von	-	-	-	-	0:09:50.078000	0:09:52.635000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:52.635000" end="0:09:55.578000">
+na	na	X	-	-	0:09:52.635000	0:09:55.578000
+ja	ja	ADV	-	-	0:09:52.635000	0:09:55.578000
+das	der	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #circum #seinVV #std #stdL-	-	0:09:52.635000	0:09:55.578000
+wäre	sein	AUX	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #circum #seinVV #std #stdL-	-	0:09:52.635000	0:09:55.578000
+eh	eh	ADV	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #circum #seinVV #std #stdL-	-	0:09:52.635000	0:09:55.578000
+was	was	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #circum #seinVV #std #stdL-	-	0:09:52.635000	0:09:55.578000
+,	-	-	-	-	0:09:52.635000	0:09:55.578000
+müssen	müssen	VERB	-	-	0:09:52.635000	0:09:55.578000
+wir	ich	PRON	-	-	0:09:52.635000	0:09:55.578000
+mal	mal	ADV	-	-	0:09:52.635000	0:09:55.578000
+reden	reden	VERB	-	-	0:09:52.635000	0:09:55.578000
+noch	noch	ADV	-	-	0:09:52.635000	0:09:55.578000
+darüber	darüber	ADV	-	-	0:09:52.635000	0:09:55.578000
+ja	ja	ADV	-	-	0:09:52.635000	0:09:55.578000
+ja	ja	ADV	-	-	0:09:52.635000	0:09:55.578000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:52.635000" end="0:09:55.578000">
+_dings_	-	-	-	-	0:09:52.635000	0:09:55.578000
+draußen	-	-	-	-	0:09:52.635000	0:09:55.578000
+die	-	-	-	-	0:09:52.635000	0:09:55.578000
+der	-	-	-	-	0:09:52.635000	0:09:55.578000
+[Schweizer	-	-	-	-	0:09:52.635000	0:09:55.578000
+Edi]N	-	-	-	-	0:09:52.635000	0:09:55.578000
+und	-	-	-	-	0:09:52.635000	0:09:55.578000
+die	-	-	-	-	0:09:52.635000	0:09:55.578000
+[Sigil]N	-	-	-	-	0:09:52.635000	0:09:55.578000
+.	-	-	-	-	0:09:52.635000	0:09:55.578000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:55.578000" end="0:09:56.356000">
+ja	ja	ADV	-	-	0:09:55.578000	0:09:56.356000
+ja	ja	PART	-	-	0:09:55.578000	0:09:56.356000
+.	-	-	-	-	0:09:55.578000	0:09:56.356000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:55.578000" end="0:09:56.356000">
+ja	ja	PART	-	-	0:09:55.578000	0:09:56.356000
+.	-	-	-	-	0:09:55.578000	0:09:56.356000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:09:56.356000" end="0:09:58.856000">
+geht	gehen	VERB	-	-	0:09:56.356000	0:09:58.856000
+das	der	PRON	-	-	0:09:56.356000	0:09:58.856000
+nicht	nicht	PART	-	-	0:09:56.356000	0:09:58.856000
+von	von	ADP	-	-	0:09:56.356000	0:09:58.856000
+den	der	DET	-	-	0:09:56.356000	0:09:58.856000
+[Micheldorfer]O	Micheldorfer	NOUN	-	-	0:09:56.356000	0:09:58.856000
+aus	aus	ADP	-	-	0:09:56.356000	0:09:58.856000
+?	-	-	-	-	0:09:56.356000	0:09:58.856000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:09:58.856000" end="0:10:06.299000">
+das	der	PRON	-	-	0:09:58.856000	0:10:02.263000
+ist	sein	AUX	-	-	0:09:58.856000	0:10:02.263000
+ein	einen	DET	-	-	0:09:58.856000	0:10:02.263000
+ein	einen	DET	-	-	0:09:58.856000	0:10:02.263000
+<pause duration="1,1s"/>
+Bezirk	Bezirk	NOUN	-	-	0:09:58.856000	0:10:02.263000
+glaube	glauben	VERB	-	-	0:09:58.856000	0:10:02.263000
+ich	ich	PRON	-	-	0:09:58.856000	0:10:02.263000
+,	-	-	-	-	0:09:58.856000	0:10:02.263000
+nicht	nicht	PART	-	-	0:09:58.856000	0:10:02.263000
+,	-	-	-	-	0:09:58.856000	0:10:02.263000
+also	also	ADV	-	-	0:10:02.263000	0:10:04.813000
+jetzt	jetzt	ADV	-	-	0:10:02.263000	0:10:04.813000
+ist	sein	AUX	-	-	0:10:02.263000	0:10:04.813000
+es	ich	PRON	-	-	0:10:02.263000	0:10:04.813000
+d/	-	-	-	-	0:10:02.263000	0:10:04.813000
+aber	aber	ADV	-	-	0:10:02.263000	0:10:04.813000
+früher	früh	ADJ	-	-	0:10:02.263000	0:10:04.813000
+war	sein	AUX	-	-	0:10:02.263000	0:10:04.813000
+es	ich	PRON	-	-	0:10:02.263000	0:10:04.813000
+die	der	PRON	-	-	0:10:02.263000	0:10:04.813000
+[(?)]N	-	-	-	-	0:10:02.263000	0:10:04.813000
+draußen	draußen	ADV	-	-	0:10:02.263000	0:10:04.813000
+,	-	-	-	-	0:10:02.263000	0:10:04.813000
+was	was	PRON	-	-	0:10:04.813000	0:10:06.299000
+das	der	PRON	-	-	0:10:04.813000	0:10:06.299000
+organisiert	organisieren	VERB	-	-	0:10:04.813000	0:10:06.299000
+hat	haben	AUX	-	-	0:10:04.813000	0:10:06.299000
+in	in	ADP	-	-	0:10:04.813000	0:10:06.299000
+[Micheldorf]O	Micheldorf	PROPN	-	-	0:10:04.813000	0:10:06.299000
+,	-	-	-	-	0:10:04.813000	0:10:06.299000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:06.299000" end="0:10:07.235000">
+ja	ja	ADV	-	-	0:10:06.299000	0:10:07.235000
+ja	ja	ADV	-	-	0:10:06.299000	0:10:07.235000
+ja	ja	PART	-	-	0:10:06.299000	0:10:07.235000
+.	-	-	-	-	0:10:06.299000	0:10:07.235000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:07.235000" end="0:10:09.670000">
+und	und	CCONJ	-	-	0:10:07.235000	0:10:09.670000
+jetzt	jetzt	ADV	-	-	0:10:07.235000	0:10:09.670000
+ist	sein	AUX	-	-	0:10:07.235000	0:10:09.670000
+es	ich	PRON	-	-	0:10:07.235000	0:10:09.670000
+aber	aber	ADV	-	-	0:10:07.235000	0:10:09.670000
+von	von	ADP	-	-	0:10:07.235000	0:10:09.670000
+[Ried	Ried	NOUN	-	-	0:10:07.235000	0:10:09.670000
+im	im	ADP	-	-	0:10:07.235000	0:10:09.670000
+Traunkreis]O	Traunkreis	NOUN	-	-	0:10:07.235000	0:10:09.670000
+eine	einen	DET	-	-	0:10:07.235000	0:10:09.670000
+,	-	-	-	-	0:10:07.235000	0:10:09.670000
+die	der	PRON	-	-	0:10:07.235000	0:10:09.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:09.670000" end="0:10:11.149000">
+ach	ach	X	-	-	0:10:09.670000	0:10:11.149000
+so	so	ADV	-	-	0:10:09.670000	0:10:11.149000
+mhm	mhm	PROPN	-	-	0:10:09.670000	0:10:11.149000
+.	-	-	-	-	0:10:09.670000	0:10:11.149000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:09.670000" end="0:10:12.413000">
+weiß	weiß	VERB	-	-	0:10:09.670000	0:10:11.149000
+man	man	PRON	-	-	0:10:09.670000	0:10:11.149000
+nicht	nicht	PART	-	-	0:10:09.670000	0:10:11.149000
+,	-	-	-	-	0:10:09.670000	0:10:11.149000
+wie	wie	ADV	-	-	0:10:09.670000	0:10:11.149000
+sie	ich	PRON	-	-	0:10:09.670000	0:10:11.149000
+heißt	heißen	VERB	-	-	0:10:09.670000	0:10:11.149000
+,	-	-	-	-	0:10:09.670000	0:10:11.149000
+macht	machen	VERB	-	-	0:10:11.149000	0:10:12.413000
+das	der	PRON	-	-	0:10:11.149000	0:10:12.413000
+.	-	-	-	-	0:10:11.149000	0:10:12.413000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:12.413000" end="0:10:13.506000">
+weil	weil	SCONJ	-	-	0:10:12.413000	0:10:13.506000
+die	der	DET	-	-	0:10:12.413000	0:10:13.506000
+fahren	fahren	NOUN	-	-	0:10:12.413000	0:10:13.506000
+ja	ja	ADV	-	-	0:10:12.413000	0:10:13.506000
+überall	überall	ADV	-	-	0:10:12.413000	0:10:13.506000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:12.413000" end="0:10:13.506000">
+aber/	-	-	-	-	0:10:12.413000	0:10:13.506000
+.	-	-	-	-	0:10:12.413000	0:10:13.506000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:13.506000" end="0:10:16.863000">
+d/	-	-	-	-	0:10:13.506000	0:10:15.192000
+einmal	einmal	ADV	-	-	0:10:13.506000	0:10:15.192000
+fahren	fahren	VERB	-	-	0:10:13.506000	0:10:15.192000
+sie	ich	PRON	-	-	0:10:13.506000	0:10:15.192000
+nach	nach	ADP	-	-	0:10:13.506000	0:10:15.192000
+Spanien	Spanien	PROPN	-	-	0:10:13.506000	0:10:15.192000
+,	-	-	-	-	0:10:13.506000	0:10:15.192000
+dann	dann	ADV	-	-	0:10:15.192000	0:10:16.863000
+waren	sein	AUX	-	-	0:10:15.192000	0:10:16.863000
+sie	ich	PRON	-	-	0:10:15.192000	0:10:16.863000
+in	in	ADP	-	-	0:10:15.192000	0:10:16.863000
+Süditalien	Süditalien	NOUN	-	-	0:10:15.192000	0:10:16.863000
+,	-	-	-	-	0:10:15.192000	0:10:16.863000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:16.863000" end="0:10:17.285000">
+ja	ja	ADV	-	-	0:10:16.863000	0:10:17.285000
+ja	ja	PART	-	-	0:10:16.863000	0:10:17.285000
+.	-	-	-	-	0:10:16.863000	0:10:17.285000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:17.285000" end="0:10:18.820000">
+v/	-	-	-	-	0:10:17.285000	0:10:18.820000
+voriges	vorig	ADJ	-	-	0:10:17.285000	0:10:18.820000
+Jahr	Jahr	NOUN	-	-	0:10:17.285000	0:10:18.820000
+oder	oder	CCONJ	-	-	0:10:17.285000	0:10:18.820000
+vor	vor	ADP	-	-	0:10:17.285000	0:10:18.820000
+zwei	zwei	NUM	-	-	0:10:17.285000	0:10:18.820000
+Jahren	Jahr	NOUN	-	-	0:10:17.285000	0:10:18.820000
+.	-	-	-	-	0:10:17.285000	0:10:18.820000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:18.820000" end="0:10:20.370000">
+wir	ich	PRON	-	-	0:10:18.820000	0:10:20.370000
+waren	sein	AUX	-	-	0:10:18.820000	0:10:20.370000
+das	der	DET	-	-	0:10:18.820000	0:10:20.370000
+erste	erste	ADJ	-	-	0:10:18.820000	0:10:20.370000
+Mal	Mal	NOUN	-	-	0:10:18.820000	0:10:20.370000
+dabei	dabei	ADV	-	-	0:10:18.820000	0:10:20.370000
+,	-	-	-	-	0:10:18.820000	0:10:20.370000
+aber	aber	CCONJ	-	-	0:10:18.820000	0:10:20.370000
+aber	aber	ADV	-	-	0:10:18.820000	0:10:20.370000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:20.370000" end="0:10:22.370000">
+und	und	CCONJ	-	-	0:10:20.370000	0:10:22.370000
+dann	dann	ADV	-	-	0:10:20.370000	0:10:22.370000
+in	in	ADP	-	-	0:10:20.370000	0:10:22.370000
+Bulgarien	Bulgarien	PROPN	-	-	0:10:20.370000	0:10:22.370000
+waren	sein	AUX	-	-	0:10:20.370000	0:10:22.370000
+sie	ich	PRON	-	-	0:10:20.370000	0:10:22.370000
+auch	auch	ADV	-	-	0:10:20.370000	0:10:22.370000
+schon	schon	ADV	-	-	0:10:20.370000	0:10:22.370000
+oder	oder	CCONJ	-	-	0:10:20.370000	0:10:22.370000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:20.370000" end="0:10:22.370000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:22.370000" end="0:10:23.478000">
+was	was	PRON	-	-	0:10:22.370000	0:10:23.478000
+,	-	-	-	-	0:10:22.370000	0:10:23.478000
+gell	gell	ADJ	-	-	0:10:22.370000	0:10:23.478000
+,	-	-	-	-	0:10:22.370000	0:10:23.478000
+ja	ja	PART	-	-	0:10:22.370000	0:10:23.478000
+.	-	-	-	-	0:10:22.370000	0:10:23.478000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:22.370000" end="0:10:24.506000">
+Bulgarien	Bulgarien	PROPN	-	-	0:10:22.370000	0:10:23.478000
+war	sein	AUX	-	-	0:10:22.370000	0:10:23.478000
+war	sein	AUX	-	-	0:10:22.370000	0:10:23.478000
+vorher	vorher	ADV	-	-	0:10:22.370000	0:10:23.478000
+noch	noch	ADV	-	-	0:10:22.370000	0:10:23.478000
+ja	ja	ADV	-	-	0:10:23.478000	0:10:24.506000
+ja	ja	PART	-	-	0:10:23.478000	0:10:24.506000
+.	-	-	-	-	0:10:23.478000	0:10:24.506000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:24.506000" end="0:10:25.492000">
+wart	sein	VERB	-	-	0:10:24.506000	0:10:25.492000
+ihr	mein	PRON	-	-	0:10:24.506000	0:10:25.492000
+da	da	ADV	-	-	0:10:24.506000	0:10:25.492000
+auch	auch	ADV	-	-	0:10:24.506000	0:10:25.492000
+schon	schon	ADV	-	-	0:10:24.506000	0:10:25.492000
+mit	mit	ADP	-	-	0:10:24.506000	0:10:25.492000
+.	-	-	-	-	0:10:24.506000	0:10:25.492000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:25.492000" end="0:10:26.128000">
+nein	nein	PART	-	-	0:10:25.492000	0:10:26.128000
+ich	ich	PRON	-	-	0:10:25.492000	0:10:26.128000
+nicht	nicht	PART	-	-	0:10:25.492000	0:10:26.128000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:26.126000" end="0:10:26.863000">
+aha	aha	X	-	-	0:10:26.126000	0:10:26.863000
+.	-	-	-	-	0:10:26.126000	0:10:26.863000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:26.126000" end="0:10:28.578000">
+und	und	CCONJ	-	-	0:10:26.126000	0:10:26.863000
+da	da	ADV	-	-	0:10:26.126000	0:10:26.863000
+hat	haben	AUX	-	-	0:10:26.126000	0:10:26.863000
+eben	eben	ADV	-	-	0:10:26.126000	0:10:26.863000
+die	der	DET	-	-	0:10:26.863000	0:10:28.578000
+[Frieda]N	Frieda	NOUN	-	-	0:10:26.863000	0:10:28.578000
+gesagt	sagen	VERB	-	-	0:10:26.863000	0:10:28.578000
+,	-	-	-	-	0:10:26.863000	0:10:28.578000
+dass	dass	SCONJ	-	-	0:10:26.863000	0:10:28.578000
+es	ich	PRON	-	-	0:10:26.863000	0:10:28.578000
+so	so	ADV	-	-	0:10:26.863000	0:10:28.578000
+so	so	ADV	-	-	0:10:26.863000	0:10:28.578000
+super	super	PROPN	-	-	0:10:26.863000	0:10:28.578000
+ist	sein	AUX	-	-	0:10:26.863000	0:10:28.578000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:28.578000" end="0:10:28.992000">
+mhm	mhm	PROPN	-	-	0:10:28.578000	0:10:28.992000
+.	-	-	-	-	0:10:28.578000	0:10:28.992000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:28.578000" end="0:10:31.656000">
+und	und	CCONJ	-	-	0:10:28.578000	0:10:28.992000
+dann	dann	ADV	-	-	0:10:28.578000	0:10:28.992000
+na	na	INTJ	-	-	0:10:28.992000	0:10:31.656000
+ja	-	-	-	-	0:10:28.992000	0:10:31.656000
+haben	haben	AUX	-	-	0:10:28.992000	0:10:31.656000
+wir	ich	PRON	-	-	0:10:28.992000	0:10:31.656000
+uns	sich	PRON	-	-	0:10:28.992000	0:10:31.656000
+auch	auch	ADV	-	-	0:10:28.992000	0:10:31.656000
+einmal	einmal	ADV	-	-	0:10:28.992000	0:10:31.656000
+angemeldet	anmelden	ADJ	-	-	0:10:28.992000	0:10:31.656000
+dafür	dazu	ADV	-	-	0:10:28.992000	0:10:31.656000
+.	-	-	-	-	0:10:28.992000	0:10:31.656000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:31.656000" end="0:10:33.070000">
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:10:31.656000	0:10:33.070000
+ja	ja	ADV	-	-	0:10:31.656000	0:10:33.070000
+ja	ja	PART	-	-	0:10:31.656000	0:10:33.070000
+.	-	-	-	-	0:10:31.656000	0:10:33.070000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:31.656000" end="0:10:35.285000">
+machen	machen	VERB	-	-	0:10:31.656000	0:10:33.070000
+wir	ich	PRON	-	-	0:10:31.656000	0:10:33.070000
+heuer	heuer	ADV	-	-	0:10:31.656000	0:10:33.070000
+<pause duration="0,7s"/>
+und	und	CCONJ	-	-	0:10:33.070000	0:10:35.285000
+wieder	wieder	ADV	-	-	0:10:33.070000	0:10:35.285000
+Griechenland	Griechenland	PROPN	-	-	0:10:33.070000	0:10:35.285000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:10:33.070000	0:10:35.285000
+wieder	wieder	ADV	-	-	0:10:33.070000	0:10:35.285000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:35.285000" end="0:10:36.270000">
+und	und	CCONJ	-	-	0:10:35.285000	0:10:36.270000
+wir	ich	PRON	-	-	0:10:35.285000	0:10:36.270000
+fahren	fahren	VERB	-	-	0:10:35.285000	0:10:36.270000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:35.285000" end="0:10:36.270000">
+Arbeitsurlaub	Arbeitsurlaub	NOUN	-	-	0:10:35.285000	0:10:36.270000
+.	-	-	-	-	0:10:35.285000	0:10:36.270000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:36.270000" end="0:10:43.113000">
+ja	ja	ADV	-	-	0:10:36.270000	0:10:41.763000
+heuer	heuer	ADV	-	-	0:10:36.270000	0:10:41.763000
+noch	noch	ADV	-	-	0:10:36.270000	0:10:41.763000
+<pause duration="0,5s"/>
+heuer	heuer	ADV	-	-	0:10:36.270000	0:10:41.763000
+noch	noch	ADV	-	-	0:10:36.270000	0:10:41.763000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:10:36.270000	0:10:41.763000
+ist	sein	AUX	-	-	0:10:36.270000	0:10:41.763000
+dann	dann	ADV	-	-	0:10:36.270000	0:10:41.763000
+in/	-	-	-	-	0:10:36.270000	0:10:41.763000
+.	-	-	-	-	0:10:36.270000	0:10:41.763000
+nein	nein	PART	-	-	0:10:36.270000	0:10:41.763000
+heuer	heuer	ADV	-	-	0:10:36.270000	0:10:41.763000
+ist	sein	AUX	-	-	0:10:36.270000	0:10:41.763000
+ein	einen	DET	-	-	0:10:36.270000	0:10:41.763000
+Blödsinn	Blödsinn	NOUN	-	-	0:10:36.270000	0:10:41.763000
+,	-	-	-	-	0:10:36.270000	0:10:41.763000
+Anfang	Anfang	NOUN	-	-	0:10:41.763000	0:10:43.113000
+nächstes	nächst	ADJ	-	-	0:10:41.763000	0:10:43.113000
+Jahr	Jahr	NOUN	-	-	0:10:41.763000	0:10:43.113000
+gleich	gleichen	ADV	-	-	0:10:41.763000	0:10:43.113000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:43.113000" end="0:10:44.049000">
+ja	ja	PART	-	-	0:10:43.113000	0:10:44.049000
+.	-	-	-	-	0:10:43.113000	0:10:44.049000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:44.049000" end="0:10:51.106000">
+fahren	fahren	VERB	-	-	0:10:44.049000	0:10:48.420000
+wir	ich	PRON	-	-	0:10:44.049000	0:10:48.420000
+wieder	wieder	ADV	-	-	0:10:44.049000	0:10:48.420000
+mit	mit	ADP	-	-	0:10:44.049000	0:10:48.420000
+den	der	DET	-	-	0:10:44.049000	0:10:48.420000
+Pensionisten	Pensionisten	NOUN	-	-	0:10:44.049000	0:10:48.420000
+,	-	-	-	-	0:10:44.049000	0:10:48.420000
+aber	-	-	-	-	0:10:44.049000	0:10:48.420000
+Langlauf	-	-	-	-	0:10:44.049000	0:10:48.420000
+und	-	-	-	-	0:10:44.049000	0:10:48.420000
+Skifahren	-	-	-	-	0:10:44.049000	0:10:48.420000
+<pause duration="0,7s"/>
+und	-	-	-	-	0:10:48.420000	0:10:51.106000
+da	-	-	-	-	0:10:48.420000	0:10:51.106000
+ist	-	-	-	-	0:10:48.420000	0:10:51.106000
+zuerst	-	-	-	-	0:10:48.420000	0:10:51.106000
+ist	-	-	-	-	0:10:48.420000	0:10:51.106000
+Landesmeisterschaft	-	-	-	-	0:10:48.420000	0:10:51.106000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:51.106000" end="0:10:51.528000">
+mhm	mhm	PROPN	-	-	0:10:51.106000	0:10:51.528000
+.	-	-	-	-	0:10:51.106000	0:10:51.528000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:51.528000" end="0:10:54.420000">
+in	-	-	-	-	0:10:51.528000	0:10:53.528000
+in	-	-	-	-	0:10:51.528000	0:10:53.528000
+Gosau	-	-	-	-	0:10:51.528000	0:10:53.528000
+<pause duration="0,5s"/>
+da	-	-	-	-	0:10:53.528000	0:10:54.420000
+ist	-	-	-	-	0:10:53.528000	0:10:54.420000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:53.528000" end="0:10:54.420000">
+ach	ach	X	-	-	0:10:53.528000	0:10:54.420000
+so	so	ADV	-	-	0:10:53.528000	0:10:54.420000
+mhm	mhm	PROPN	-	-	0:10:53.528000	0:10:54.420000
+.	-	-	-	-	0:10:53.528000	0:10:54.420000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:54.420000" end="0:10:56.292000">
+die	-	-	-	-	0:10:54.420000	0:10:55.213000
+Langlauf	-	-	-	-	0:10:54.420000	0:10:55.213000
+Loipe	-	-	-	-	0:10:55.213000	0:10:56.292000
+und	-	-	-	-	0:10:55.213000	0:10:56.292000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:10:55.213000" end="0:10:56.292000">
+ja	ja	ADV	-	-	0:10:55.213000	0:10:56.292000
+ja	ja	PART	-	-	0:10:55.213000	0:10:56.292000
+.	-	-	-	-	0:10:55.213000	0:10:56.292000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:10:56.292000" end="0:11:02.356000">
+und	-	-	-	-	0:10:56.292000	0:11:00.020000
+am	-	-	-	-	0:10:56.292000	0:11:00.020000
+am	-	-	-	-	0:10:56.292000	0:11:00.020000
+Hornspitz	-	-	-	-	0:10:56.292000	0:11:00.020000
+fahren	-	-	-	-	0:10:56.292000	0:11:00.020000
+sie	-	-	-	-	0:10:56.292000	0:11:00.020000
+einen	-	-	-	-	0:10:56.292000	0:11:00.020000
+Riesentorlauf	-	-	-	-	0:10:56.292000	0:11:00.020000
+und	-	-	-	-	0:11:00.020000	0:11:01.035000
+da	-	-	-	-	0:11:00.020000	0:11:01.035000
+*musst*	-	-	-	-	0:11:00.020000	0:11:01.035000
+dich	-	-	-	-	0:11:00.020000	0:11:01.035000
+aber	-	-	-	-	0:11:00.020000	0:11:01.035000
+erst	-	-	-	-	0:11:00.020000	0:11:01.035000
+qualifizieren	-	-	-	-	0:11:01.035000	0:11:02.356000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:01.035000" end="0:11:04.970000">
+der	der	PRON	-	-	0:11:01.035000	0:11:02.356000
+der	der	DET	-	-	0:11:01.035000	0:11:02.356000
+Hornspitz	Hornspitz	NOUN	-	-	0:11:01.035000	0:11:02.356000
+ist	sein	AUX	-	-	0:11:02.356000	0:11:04.970000
+der	der	PRON	-	-	0:11:02.356000	0:11:04.970000
+nicht	nicht	PART	-	-	0:11:02.356000	0:11:04.970000
+am	am	PART	-	-	0:11:02.356000	0:11:04.970000
+am	am	ADP	-	-	0:11:02.356000	0:11:04.970000
+so	so	ADV	-	-	0:11:02.356000	0:11:04.970000
+am	am	ADP	-	-	0:11:02.356000	0:11:04.970000
+Strobel	Strobel	NOUN	-	-	0:11:02.356000	0:11:04.970000
+am	am	ADP	-	-	0:11:02.356000	0:11:04.970000
+Wolfgangsee	Wolfgangsee	PROPN	-	-	0:11:02.356000	0:11:04.970000
+irgendwo	irgendwo	ADV	-	-	0:11:02.356000	0:11:04.970000
+?	-	-	-	-	0:11:02.356000	0:11:04.970000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:04.970000" end="0:11:05.999000">
+Hornspitz	-	-	-	-	0:11:04.970000	0:11:05.999000
+nein	-	-	-	-	0:11:04.970000	0:11:05.999000
+,	-	-	-	-	0:11:04.970000	0:11:05.999000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:04.970000" end="0:11:05.999000">
+Hornspitz	Hornspitz	NOUN	-	-	0:11:04.970000	0:11:05.999000
+?	-	-	-	-	0:11:04.970000	0:11:05.999000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:05.999000" end="0:11:07.178000">
+das	der	PRON	-	-	0:11:05.999000	0:11:07.178000
+ist	sein	AUX	-	-	0:11:05.999000	0:11:07.178000
+in	in	ADP	-	-	0:11:05.999000	0:11:07.178000
+Gosau	Gosau	PROPN	-	-	0:11:05.999000	0:11:07.178000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:05.999000" end="0:11:07.178000">
+ah	ah	X	-	-	0:11:05.999000	0:11:07.178000
+nicht	nicht	PART	-	-	0:11:05.999000	0:11:07.178000
+?	-	-	-	-	0:11:05.999000	0:11:07.178000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:07.178000" end="0:11:08.663000">
+drinnen	drinnen	ADV	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+sicher	sichern	ADJ	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+.	-	-	-	-	0:11:07.178000	0:11:08.663000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:07.178000" end="0:11:09.220000">
+ja	ja	PART	-	-	0:11:07.178000	0:11:08.663000
+in	in	ADP	-	-	0:11:07.178000	0:11:08.663000
+Gosau	Gosau	PROPN	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+ja	ja	ADV	-	-	0:11:07.178000	0:11:08.663000
+mhm	mhm	PROPN	-	-	0:11:08.663000	0:11:09.220000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:09.220000" end="0:11:11.585000">
+und	und	CCONJ	-	-	0:11:09.220000	0:11:09.970000
+wenn	wenn	SCONJ	-	-	0:11:09.970000	0:11:11.585000
+du	du	PRON	-	-	0:11:09.970000	0:11:11.585000
+dich	sich	PRON	-	-	0:11:09.970000	0:11:11.585000
+da	da	ADV	-	-	0:11:09.970000	0:11:11.585000
+qualifizierst	qualifizieren	ADV	-	-	0:11:09.970000	0:11:11.585000
+,	-	-	-	-	0:11:09.970000	0:11:11.585000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:09.970000" end="0:11:11.585000">
+mhm	mhm	PROPN	-	-	0:11:09.970000	0:11:11.585000
+.	-	-	-	-	0:11:09.970000	0:11:11.585000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:11.585000" end="0:11:12.642000">
+dann	-	-	-	-	0:11:11.585000	0:11:12.642000
+*fährst*	-	-	-	-	0:11:11.585000	0:11:12.642000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:11.585000" end="0:11:12.642000">
+ja	ja	PART	-	-	0:11:11.585000	0:11:12.642000
+.	-	-	-	-	0:11:11.585000	0:11:12.642000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:12.642000" end="0:11:21.478000">
+*kannst*	-	-	-	-	0:11:12.642000	0:11:19.592000
+mitfahren	-	-	-	-	0:11:12.642000	0:11:19.592000
+zu	-	-	-	-	0:11:12.642000	0:11:19.592000
+der	-	-	-	-	0:11:12.642000	0:11:19.592000
+im	-	-	-	-	0:11:12.642000	0:11:19.592000
+Jänner	-	-	-	-	0:11:12.642000	0:11:19.592000
+dann	-	-	-	-	0:11:12.642000	0:11:19.592000
+oder	-	-	-	-	0:11:12.642000	0:11:19.592000
+ja	-	-	-	-	0:11:12.642000	0:11:19.592000
+Ende	-	-	-	-	0:11:12.642000	0:11:19.592000
+Jänner	-	-	-	-	0:11:12.642000	0:11:19.592000
+<pause duration="0,7s"/>
+ist	-	-	-	-	0:11:12.642000	0:11:19.592000
+dann	-	-	-	-	0:11:12.642000	0:11:19.592000
+noch	-	-	-	-	0:11:12.642000	0:11:19.592000
+in	-	-	-	-	0:11:12.642000	0:11:19.592000
+Vorarlberg	-	-	-	-	0:11:12.642000	0:11:19.592000
+Bundesmeisterschaften	-	-	-	-	0:11:19.592000	0:11:21.478000
+.	-	-	-	-	0:11:19.592000	0:11:21.478000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:19.592000" end="0:11:21.478000">
+eine	einen	DET	-	-	0:11:19.592000	0:11:21.478000
+Bundes/	-	-	-	-	0:11:19.592000	0:11:21.478000
+Bundesmeisterschaft	Bundesmeisterschaft	NOUN	-	-	0:11:19.592000	0:11:21.478000
+ja	ja	ADV	-	-	0:11:19.592000	0:11:21.478000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:21.478000" end="0:11:22.220000">
+ja	ja	PART	-	-	0:11:21.478000	0:11:22.220000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:21.478000" end="0:11:22.899000">
+echt	echt	ADJ	-	-	0:11:21.478000	0:11:22.220000
+ja	ja	ADV	-	-	0:11:21.478000	0:11:22.220000
+ja	ja	ADV	-	-	0:11:21.478000	0:11:22.220000
+na	na	PROPN	-	-	0:11:22.220000	0:11:22.899000
+super	super	PROPN	-	-	0:11:22.220000	0:11:22.899000
+!	-	-	-	-	0:11:22.220000	0:11:22.899000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:22.899000" end="0:11:27.078000">
+und	und	CCONJ	-	-	0:11:22.899000	0:11:26.120000
+ich	ich	PRON	-	-	0:11:22.899000	0:11:26.120000
+habe	habe	AUX	-	-	0:11:22.899000	0:11:26.120000
+mich	sich	PRON	-	-	0:11:22.899000	0:11:26.120000
+voriges	vorig	ADJ	-	-	0:11:22.899000	0:11:26.120000
+Jahr	Jahr	NOUN	-	-	0:11:22.899000	0:11:26.120000
+also	also	ADV	-	-	0:11:22.899000	0:11:26.120000
+ist	sein	AUX	-	-	0:11:22.899000	0:11:26.120000
+es	ich	PRON	-	-	0:11:22.899000	0:11:26.120000
+ger/	-	-	-	-	0:11:22.899000	0:11:26.120000
+ist	sein	AUX	-	-	0:11:22.899000	0:11:26.120000
+es	ich	PRON	-	-	0:11:22.899000	0:11:26.120000
+gut	gut	ADJ	-	-	0:11:22.899000	0:11:26.120000
+gerannt	rennen	VERB	-	-	0:11:22.899000	0:11:26.120000
+beim	beim	ADP	-	-	0:11:26.120000	0:11:27.078000
+Langlaufen	Langlaufen	NOUN	-	-	0:11:26.120000	0:11:27.078000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:26.120000" end="0:11:27.078000">
+ja	ja	ADV	-	-	0:11:26.120000	0:11:27.078000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:27.078000" end="0:11:28.670000">
+ist	sein	AUX	-	-	0:11:27.078000	0:11:28.670000
+dort/	-	-	-	-	0:11:27.078000	0:11:28.670000
+.	-	-	-	-	0:11:27.078000	0:11:28.670000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:27.078000" end="0:11:28.670000">
+ja	ja	ADV	-	-	0:11:27.078000	0:11:28.670000
+tust	tun	VERB	-	-	0:11:27.078000	0:11:28.670000
+du	du	PRON	-	-	0:11:27.078000	0:11:28.670000
+auch	auch	ADV	-	-	0:11:27.078000	0:11:28.670000
+Langlaufen	Langlaufen	NOUN	-	-	0:11:27.078000	0:11:28.670000
+?	-	-	-	-	0:11:27.078000	0:11:28.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:28.670000" end="0:11:32.842000">
+i/	-	-	-	-	0:11:28.670000	0:11:30.192000
+i/	-	-	-	-	0:11:28.670000	0:11:30.192000
+ich	ich	PRON	-	-	0:11:28.670000	0:11:30.192000
+habe	habe	AUX	-	-	0:11:28.670000	0:11:30.192000
+gesagt	sagen	VERB	-	-	0:11:28.670000	0:11:30.192000
+,	-	-	-	-	0:11:28.670000	0:11:30.192000
+ich	ich	PRON	-	-	0:11:30.192000	0:11:32.842000
+renne	rennen	VERB	-	-	0:11:30.192000	0:11:32.842000
+auch	auch	ADV	-	-	0:11:30.192000	0:11:32.842000
+mit	mit	ADP	-	-	0:11:30.192000	0:11:32.842000
+,	-	-	-	-	0:11:30.192000	0:11:32.842000
+aber	aber	CCONJ	-	-	0:11:30.192000	0:11:32.842000
+ich	ich	PRON	-	-	0:11:30.192000	0:11:32.842000
+bin	sein	AUX	-	-	0:11:30.192000	0:11:32.842000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:30.192000" end="0:11:32.842000">
+du	du	PRON	-	-	0:11:30.192000	0:11:32.842000
+du	du	PRON	-	-	0:11:30.192000	0:11:32.842000
+du	du	PRON	-	-	0:11:30.192000	0:11:32.842000
+bi/	-	-	-	-	0:11:30.192000	0:11:32.842000
+du	du	PRON	-	-	0:11:30.192000	0:11:32.842000
+bist	sein	AUX	-	-	0:11:30.192000	0:11:32.842000
+nur	nur	ADV	-	-	0:11:30.192000	0:11:32.842000
+der	der	PRON	-	-	0:11:30.192000	0:11:32.842000
+der	der	DET	-	-	0:11:30.192000	0:11:32.842000
+der	der	PRON	-	-	0:11:30.192000	0:11:32.842000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:32.842000" end="0:11:36.628000">
+ich	ich	PRON	-	-	0:11:32.842000	0:11:36.628000
+renen	renne	VERB	-	-	0:11:32.842000	0:11:36.628000
+nur	nur	ADV	-	-	0:11:32.842000	0:11:36.628000
+langs/	-	-	-	-	0:11:32.842000	0:11:36.628000
+ich	ich	PRON	-	-	0:11:32.842000	0:11:36.628000
+renne	rennen	VERB	-	-	0:11:32.842000	0:11:36.628000
+nur	nur	ADV	-	-	0:11:32.842000	0:11:36.628000
+langsam	langsam	ADJ	-	-	0:11:32.842000	0:11:36.628000
+.	-	-	-	-	0:11:32.842000	0:11:36.628000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:32.842000" end="0:11:36.628000">
+Tr/	-	-	-	-	0:11:32.842000	0:11:36.628000
+der	der	DET	-	-	0:11:32.842000	0:11:36.628000
+Trainer	Trainer	NOUN	-	-	0:11:32.842000	0:11:36.628000
+.	-	-	-	-	0:11:32.842000	0:11:36.628000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:36.628000" end="0:11:38.628000">
+ja	ja	ADV	-	-	0:11:36.628000	0:11:38.628000
+ja	ja	ADV	-	-	0:11:36.628000	0:11:38.628000
+aber	aber	ADV	-	-	0:11:36.628000	0:11:38.628000
+das	der	PRON	-	-	0:11:36.628000	0:11:38.628000
+ist	sein	AUX	-	-	0:11:36.628000	0:11:38.628000
+,	-	-	-	-	0:11:36.628000	0:11:38.628000
+nein	nein	PART	-	-	0:11:36.628000	0:11:38.628000
+aber	aber	ADV	-	-	0:11:36.628000	0:11:38.628000
+das	der	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #ad+ #circum #stdL+ #swV	-	0:11:36.628000	0:11:38.628000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:36.628000" end="0:11:38.628000">
+ja	ja	ADV	-	-	0:11:36.628000	0:11:38.628000
+ja	ja	ADV	-	-	0:11:36.628000	0:11:38.628000
+ja	ja	ADV	-	-	0:11:36.628000	0:11:38.628000
+ja	ja	PART	-	-	0:11:36.628000	0:11:38.628000
+.	-	-	-	-	0:11:36.628000	0:11:38.628000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:38.628000" end="0:11:39.456000">
+taugte	taugen	VERB	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #ad+ #circum #stdL+ #swV	-	0:11:38.628000	0:11:39.456000
+mir	sich	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #VV #ad+ #circum #stdL+ #swV	-	0:11:38.628000	0:11:39.456000
+(und)	und	CCONJ	-	-	0:11:38.628000	0:11:39.456000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:39.456000" end="0:11:39.742000">
+ja	ja	ADV	-	-	0:11:39.456000	0:11:39.742000
+eh	eh	X	-	-	0:11:39.456000	0:11:39.742000
+.	-	-	-	-	0:11:39.456000	0:11:39.742000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:39.742000" end="0:11:42.299000">
+ich	ich	PRON	-	-	0:11:39.742000	0:11:42.299000
+fahre	fahren	VERB	-	-	0:11:39.742000	0:11:42.299000
+halt	halt	ADV	-	-	0:11:39.742000	0:11:42.299000
+auch	auch	ADV	-	-	0:11:39.742000	0:11:42.299000
+gerne	gerne	ADV	-	-	0:11:39.742000	0:11:42.299000
+mit	mit	ADP	-	-	0:11:39.742000	0:11:42.299000
+nach	nach	ADP	-	-	0:11:39.742000	0:11:42.299000
+Vorarlberg	Vorarlberg	PROPN	-	-	0:11:39.742000	0:11:42.299000
+.	-	-	-	-	0:11:39.742000	0:11:42.299000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:42.299000" end="0:11:42.856000">
+ja	ja	ADV	-	-	0:11:42.299000	0:11:42.856000
+ist	sein	AUX	-	-	0:11:42.299000	0:11:42.856000
+eh	eh	ADV	-	-	0:11:42.299000	0:11:42.856000
+klar	klaren	ADJ	-	-	0:11:42.299000	0:11:42.856000
+,	-	-	-	-	0:11:42.299000	0:11:42.856000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:42.856000" end="0:11:43.349000">
+das	der	PRON	-	-	0:11:42.856000	0:11:43.349000
+ist	sein	AUX	-	-	0:11:42.856000	0:11:43.349000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:42.856000" end="0:11:43.349000">
+freilich	freilich	ADV	-	-	0:11:42.856000	0:11:43.349000
+.	-	-	-	-	0:11:42.856000	0:11:43.349000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:43.349000" end="0:11:44.056000">
+vier	vier	NUM	-	-	0:11:43.349000	0:11:44.056000
+Tage	Tag	NOUN	-	-	0:11:43.349000	0:11:44.056000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:44.056000" end="0:11:44.449000">
+ja	ja	ADV	-	-	0:11:44.056000	0:11:44.449000
+ja	ja	PART	-	-	0:11:44.056000	0:11:44.449000
+.	-	-	-	-	0:11:44.056000	0:11:44.449000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:44.449000" end="0:11:46.663000">
+wieder	wieder	ADV	-	-	0:11:44.449000	0:11:45.599000
+auch	auch	ADV	-	-	0:11:44.449000	0:11:45.599000
+mit	mit	ADP	-	-	0:11:44.449000	0:11:45.599000
+einem	einer	DET	-	-	0:11:44.449000	0:11:45.599000
+Bus	Bus	NOUN	-	-	0:11:44.449000	0:11:45.599000
+hinaus	hinaus	ADP	-	-	0:11:44.449000	0:11:45.599000
+und	und	CCONJ	-	-	0:11:45.599000	0:11:46.663000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:45.599000" end="0:11:46.663000">
+mhm	mhm	PROPN	-	-	0:11:45.599000	0:11:46.663000
+mhm	mhm	PROPN	-	-	0:11:45.599000	0:11:46.663000
+.	-	-	-	-	0:11:45.599000	0:11:46.663000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:46.663000" end="0:11:49.120000">
+sind	sein	AUX	-	-	0:11:46.663000	0:11:48.399000
+eh	eh	ADV	-	-	0:11:46.663000	0:11:48.399000
+[Steyrlinger]O	Steyrlinger	PROPN	-	-	0:11:46.663000	0:11:48.399000
+sind	sein	AUX	-	-	0:11:46.663000	0:11:48.399000
+noch	noch	ADV	-	-	0:11:46.663000	0:11:48.399000
+paar	paar	PRON	-	-	0:11:46.663000	0:11:48.399000
+,	-	-	-	-	0:11:46.663000	0:11:48.399000
+(also)	also	ADV	-	-	0:11:48.399000	0:11:49.120000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:48.399000" end="0:11:49.120000">
+wirklich	wirklich	ADJ	-	-	0:11:48.399000	0:11:49.120000
+?	-	-	-	-	0:11:48.399000	0:11:49.120000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:49.120000" end="0:11:50.749000">
+der	der	DET	-	-	0:11:49.120000	0:11:50.749000
+[Leander]N	Leander	NOUN	-	-	0:11:49.120000	0:11:50.749000
+und	und	CCONJ	-	-	0:11:49.120000	0:11:50.749000
+die	der	DET	-	-	0:11:49.120000	0:11:50.749000
+[Rudi]N	Rudi	PROPN	-	-	0:11:49.120000	0:11:50.749000
+,	-	-	-	-	0:11:49.120000	0:11:50.749000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:49.120000" end="0:11:50.749000">
+ja	ja	ADV	-	-	0:11:49.120000	0:11:50.749000
+na	na	ADV	-	-	0:11:49.120000	0:11:50.749000
+ja	ja	ADV	-	-	0:11:49.120000	0:11:50.749000
+klar	klaren	ADJ	-	-	0:11:49.120000	0:11:50.749000
+.	-	-	-	-	0:11:49.120000	0:11:50.749000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:50.749000" end="0:11:53.235000">
+die	der	DET	-	-	0:11:50.749000	0:11:53.235000
+[Rudi]N	Rudi	PROPN	-	-	0:11:50.749000	0:11:53.235000
+fährt	fahren	VERB	-	-	0:11:50.749000	0:11:53.235000
+die	der	DET	-	-	0:11:50.749000	0:11:53.235000
+fährt	fahren	VERB	-	-	0:11:50.749000	0:11:53.235000
+ja	ja	ADV	-	-	0:11:50.749000	0:11:53.235000
+gut	gut	ADJ	-	-	0:11:50.749000	0:11:53.235000
+Ski	Ski	NOUN	-	-	0:11:50.749000	0:11:53.235000
+,	-	-	-	-	0:11:50.749000	0:11:53.235000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:50.749000" end="0:11:53.706000">
+die	der	DET	-	-	0:11:50.749000	0:11:53.235000
+[Rudi]N	Rudi	PROPN	-	-	0:11:50.749000	0:11:53.235000
+fährt	fahren	VERB	-	-	0:11:50.749000	0:11:53.235000
+sicher	sichern	ADP	-	-	0:11:50.749000	0:11:53.235000
+,	-	-	-	-	0:11:50.749000	0:11:53.235000
+nicht	nicht	PART	-	-	0:11:50.749000	0:11:53.235000
+,	-	-	-	-	0:11:50.749000	0:11:53.235000
+ja	ja	ADV	-	-	0:11:50.749000	0:11:53.235000
+ist	sein	AUX	-	-	0:11:50.749000	0:11:53.235000
+eh	eh	ADV	-	-	0:11:50.749000	0:11:53.235000
+klar	klaren	ADJ	-	-	0:11:50.749000	0:11:53.235000
+ja	ja	ADV	-	-	0:11:53.235000	0:11:53.706000
+ja	ja	PART	-	-	0:11:53.235000	0:11:53.706000
+.	-	-	-	-	0:11:53.235000	0:11:53.706000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:53.706000" end="0:11:56.628000">
+voriges	vorig	ADJ	-	-	0:11:53.706000	0:11:54.870000
+Jahr	Jahr	NOUN	-	-	0:11:53.706000	0:11:54.870000
+hat	haben	AUX	-	-	0:11:53.706000	0:11:54.870000
+sie	ich	PRON	-	-	0:11:53.706000	0:11:54.870000
+ja	ja	ADV	-	-	0:11:53.706000	0:11:54.870000
+nicht	nicht	PART	-	-	0:11:53.706000	0:11:54.870000
+können	können	VERB	-	-	0:11:53.706000	0:11:54.870000
+,	-	-	-	-	0:11:53.706000	0:11:54.870000
+voriges	vorig	ADJ	-	-	0:11:54.870000	0:11:56.628000
+Jahr	Jahr	NOUN	-	-	0:11:54.870000	0:11:56.628000
+,	-	-	-	-	0:11:54.870000	0:11:56.628000
+*weißt*	-	-	-	-	0:11:54.870000	0:11:56.628000
+eh	-	-	-	-	0:11:54.870000	0:11:56.628000
+,	-	-	-	-	0:11:54.870000	0:11:56.628000
+hat	haben	AUX	-	-	0:11:54.870000	0:11:56.628000
+sie	ich	PRON	-	-	0:11:54.870000	0:11:56.628000
+sich	sich	PRON	-	-	0:11:54.870000	0:11:56.628000
+weh	weh	ADJ	-	-	0:11:54.870000	0:11:56.628000
+getan	tun	VERB	-	-	0:11:54.870000	0:11:56.628000
+.	-	-	-	-	0:11:54.870000	0:11:56.628000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:56.628000" end="0:11:58.628000">
+mhm	mhm	PROPN	-	-	0:11:56.628000	0:11:58.628000
+mhm	mhm	PROPN	-	-	0:11:56.628000	0:11:58.628000
+.	-	-	-	-	0:11:56.628000	0:11:58.628000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:58.628000" end="0:11:59.935000">
+nein	nein	PART	-	-	0:11:58.628000	0:11:59.935000
+das	der	PRON	-	-	0:11:58.628000	0:11:59.935000
+ist	sein	AUX	-	-	0:11:58.628000	0:11:59.935000
+das	der	DET	-	-	0:11:58.628000	0:11:59.935000
+nächste	nächst	ADJ	-	-	0:11:58.628000	0:11:59.935000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:58.628000" end="0:11:59.935000">
+ja	ja	PART	-	-	0:11:58.628000	0:11:59.935000
+.	-	-	-	-	0:11:58.628000	0:11:59.935000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:11:59.935000" end="0:12:00.520000">
+ja	ja	NOUN	-	-	0:11:59.935000	0:12:00.520000
+.	-	-	-	-	0:11:59.935000	0:12:00.520000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:11:59.935000" end="0:12:08.728000">
+mhm	mhm	PROPN	-	-	0:11:59.935000	0:12:00.520000
+.	-	-	-	-	0:11:59.935000	0:12:00.520000
+<pause duration="1,2s"/>
+nein	nein	PART	-	-	0:12:00.520000	0:12:03.170000
+wir	ich	PRON	-	-	0:12:00.520000	0:12:03.170000
+werden	werden	AUX	-	-	0:12:00.520000	0:12:03.170000
+wieder	wieder	ADV	-	-	0:12:00.520000	0:12:03.170000
+wie	wie	CCONJ	-	-	0:12:00.520000	0:12:03.170000
+gesagt	sagen	VERB	-	-	0:12:00.520000	0:12:03.170000
+,	-	-	-	-	0:12:00.520000	0:12:03.170000
+das	der	DET	-	-	0:12:03.170000	0:12:08.728000
+<pause duration="1,4s"/>
+Zypern	Zypern	PROPN	-	-	0:12:03.170000	0:12:08.728000
+haben	haben	AUX	-	-	0:12:03.170000	0:12:08.728000
+wir	ich	PRON	-	-	0:12:03.170000	0:12:08.728000
+uns	sich	PRON	-	-	0:12:03.170000	0:12:08.728000
+jetzt	jetzt	ADV	-	-	0:12:03.170000	0:12:08.728000
+angemeldet	anmelden	VERB	-	-	0:12:03.170000	0:12:08.728000
+für	für	ADP	-	-	0:12:03.170000	0:12:08.728000
+nächstes	nächst	ADJ	-	-	0:12:03.170000	0:12:08.728000
+Jahr	Jahr	NOUN	-	-	0:12:03.170000	0:12:08.728000
+und	und	CCONJ	-	-	0:12:03.170000	0:12:08.728000
+dann	dann	ADV	-	-	0:12:03.170000	0:12:08.728000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:08.728000" end="0:12:09.520000">
+mhm	mhm	PROPN	-	-	0:12:08.728000	0:12:09.520000
+.	-	-	-	-	0:12:08.728000	0:12:09.520000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:09.520000" end="0:12:16.456000">
+was	was	PRON	-	-	0:12:09.520000	0:12:10.663000
+mir	sich	PRON	-	-	0:12:09.520000	0:12:10.663000
+noch	noch	ADV	-	-	0:12:09.520000	0:12:10.663000
+gefiele	gefallen	VERB	-	-	0:12:09.520000	0:12:10.663000
+auch	auch	ADV	-	-	0:12:09.520000	0:12:10.663000
+,	-	-	-	-	0:12:09.520000	0:12:10.663000
+wir	ich	PRON	-	-	0:12:10.663000	0:12:16.456000
+haben	haben	AUX	-	-	0:12:10.663000	0:12:16.456000
+jetzt	jetzt	ADV	-	-	0:12:10.663000	0:12:16.456000
+auch	auch	ADV	-	-	0:12:10.663000	0:12:16.456000
+so	so	ADV	-	-	0:12:10.663000	0:12:16.456000
+ähm	ähm	ADJ	-	-	0:12:10.663000	0:12:16.456000
+v/	-	-	-	-	0:12:10.663000	0:12:16.456000
+von	von	ADP	-	-	0:12:10.663000	0:12:16.456000
+RSD	RSD	PROPN	-	-	0:12:10.663000	0:12:16.456000
+Reisen	Reise	NOUN	-	-	0:12:10.663000	0:12:16.456000
+gekriegt	kriegen	VERB	-	-	0:12:10.663000	0:12:16.456000
+<pause duration="0,6s"/>
+ähm	ähm	X	-	-	0:12:10.663000	0:12:16.456000
+Südafrika	Südafrika	PROPN	-	-	0:12:10.663000	0:12:16.456000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:16.456000" end="0:12:19.042000">
+da	da	ADV	-	-	0:12:16.456000	0:12:19.042000
+habe	habe	AUX	-	-	0:12:16.456000	0:12:19.042000
+ich	ich	PRON	-	-	0:12:16.456000	0:12:19.042000
+erst/	-	-	-	-	0:12:16.456000	0:12:19.042000
+.	-	-	-	-	0:12:16.456000	0:12:19.042000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:16.456000" end="0:12:19.042000">
+eine	einen	DET	-	-	0:12:16.456000	0:12:19.042000
+so	so	ADV	-	-	0:12:16.456000	0:12:19.042000
+eine	einen	PRON	-	-	0:12:16.456000	0:12:19.042000
+zehntages/	-	-	-	-	0:12:16.456000	0:12:19.042000
+eine	einen	DET	-	-	0:12:16.456000	0:12:19.042000
+St/	-	-	-	-	0:12:16.456000	0:12:19.042000
+eine	einen	DET	-	-	0:12:16.456000	0:12:19.042000
+Studienreise	Studienreise	NOUN	-	-	0:12:16.456000	0:12:19.042000
+.	-	-	-	-	0:12:16.456000	0:12:19.042000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:19.042000" end="0:12:19.635000">
+mhm	mhm	PROPN	-	-	0:12:19.042000	0:12:19.635000
+.	-	-	-	-	0:12:19.042000	0:12:19.635000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:19.635000" end="0:12:20.756000">
+das	der	PRON	-	-	0:12:19.635000	0:12:20.756000
+wäre	sein	AUX	-	-	0:12:19.635000	0:12:20.756000
+auch	auch	ADV	-	-	0:12:19.635000	0:12:20.756000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:20.756000" end="0:12:23.092000">
+das	der	PRON	-	-	0:12:20.756000	0:12:23.092000
+wäre	sein	AUX	-	-	0:12:20.756000	0:12:23.092000
+sicher	sichern	ADJ	-	-	0:12:20.756000	0:12:23.092000
+was	was	PRON	-	-	0:12:20.756000	0:12:23.092000
+Schönes	Schönes	NOUN	-	-	0:12:20.756000	0:12:23.092000
+mhm	mhm	PROPN	-	-	0:12:20.756000	0:12:23.092000
+.	-	-	-	-	0:12:20.756000	0:12:23.092000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:20.756000" end="0:12:23.092000">
+wäre	sein	AUX	-	-	0:12:20.756000	0:12:23.092000
+sicher	sichern	ADV	-	-	0:12:20.756000	0:12:23.092000
+interessant	interessant	ADJ	-	-	0:12:20.756000	0:12:23.092000
+ja	ja	ADV	-	-	0:12:20.756000	0:12:23.092000
+ja	ja	ADV	-	-	0:12:20.756000	0:12:23.092000
+ja	ja	PART	-	-	0:12:20.756000	0:12:23.092000
+.	-	-	-	-	0:12:20.756000	0:12:23.092000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:23.092000" end="0:12:27.135000">
+<pause duration="0,8s"/>
+ich	ich	PRON	-	-	0:12:23.092000	0:12:25.342000
+weiß	weiß	VERB	-	-	0:12:23.092000	0:12:25.342000
+,	-	-	-	-	0:12:23.092000	0:12:25.342000
+der	-	-	-	-	0:12:23.092000	0:12:25.342000
+_dings_	-	-	-	-	0:12:23.092000	0:12:25.342000
+war	-	-	-	-	0:12:23.092000	0:12:25.342000
+einmal	-	-	-	-	0:12:23.092000	0:12:25.342000
+drüben	-	-	-	-	0:12:23.092000	0:12:25.342000
+,	-	-	-	-	0:12:23.092000	0:12:25.342000
+der	der	PRON	-	-	0:12:25.342000	0:12:27.135000
+der	der	DET	-	-	0:12:25.342000	0:12:27.135000
+Nachbar	Nachbar	NOUN	-	-	0:12:25.342000	0:12:27.135000
+,	-	-	-	-	0:12:25.342000	0:12:27.135000
+der	der	DET	-	-	0:12:25.342000	0:12:27.135000
+[Bauernschmied]N	Bauernschmied	NOUN	-	-	0:12:25.342000	0:12:27.135000
+.	-	-	-	-	0:12:25.342000	0:12:27.135000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:27.135000" end="0:12:27.549000">
+ja	ja	PART	-	-	0:12:27.135000	0:12:27.549000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:27.549000" end="0:12:28.328000">
+der	der	PRON	-	-	0:12:27.549000	0:12:28.328000
+war	sein	AUX	-	-	0:12:27.549000	0:12:28.328000
+einmal	einmal	ADV	-	-	0:12:27.549000	0:12:28.328000
+unten	unten	ADV	-	-	0:12:27.549000	0:12:28.328000
+.	-	-	-	-	0:12:27.549000	0:12:28.328000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:27.549000" end="0:12:28.328000">
+mhm	mhm	PROPN	-	-	0:12:27.549000	0:12:28.328000
+.	-	-	-	-	0:12:27.549000	0:12:28.328000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:28.328000" end="0:12:33.913000">
+irgendwie	irgendwie	ADV	-	-	0:12:28.328000	0:12:29.563000
+ich	ich	PRON	-	-	0:12:28.328000	0:12:29.563000
+weiß	weiß	VERB	-	-	0:12:28.328000	0:12:29.563000
+nicht	nicht	PART	-	-	0:12:28.328000	0:12:29.563000
+,	-	-	-	-	0:12:28.328000	0:12:29.563000
+durch	durch	ADP	-	-	0:12:28.328000	0:12:29.563000
+was	was	PRON	-	-	0:12:28.328000	0:12:29.563000
+der	der	PRON	-	-	0:12:29.563000	0:12:33.913000
+kommen	kommen	VERB	-	-	0:12:29.563000	0:12:33.913000
+ist	sein	AUX	-	-	0:12:29.563000	0:12:33.913000
+,	-	-	-	-	0:12:29.563000	0:12:33.913000
+der	der	PRON	-	-	0:12:29.563000	0:12:33.913000
+ist	sein	AUX	-	-	0:12:29.563000	0:12:33.913000
+d/	-	-	-	-	0:12:29.563000	0:12:33.913000
+.	-	-	-	-	0:12:29.563000	0:12:33.913000
+ja	ja	ADV	-	-	0:12:29.563000	0:12:33.913000
+ja	ja	ADV	-	-	0:12:29.563000	0:12:33.913000
+ja	ja	ADV	-	-	0:12:29.563000	0:12:33.913000
+ja	ja	ADV	-	-	0:12:29.563000	0:12:33.913000
+ja	ja	PART	-	-	0:12:29.563000	0:12:33.913000
+.	-	-	-	-	0:12:29.563000	0:12:33.913000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:29.563000" end="0:12:33.913000">
+ja	ja	ADV	-	-	0:12:29.563000	0:12:33.913000
+der	der	PRON	-	-	0:12:29.563000	0:12:33.913000
+ist	sein	AUX	-	-	0:12:29.563000	0:12:33.913000
+auf	auf	ADP	-	-	0:12:29.563000	0:12:33.913000
+s/	-	-	-	-	0:12:29.563000	0:12:33.913000
+a/	-	-	-	-	0:12:29.563000	0:12:33.913000
+auf	auf	ADP	-	-	0:12:29.563000	0:12:33.913000
+Safaria	Safaria	PROPN	-	-	0:12:29.563000	0:12:33.913000
+gegangen	gehen	VERB	-	-	0:12:29.563000	0:12:33.913000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:12:29.563000	0:12:33.913000
+auf	auf	ADP	-	-	0:12:29.563000	0:12:33.913000
+einen	ein	DET	-	-	0:12:29.563000	0:12:33.913000
+Löwen	Löwe	NOUN	-	-	0:12:29.563000	0:12:33.913000
+.	-	-	-	-	0:12:29.563000	0:12:33.913000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:33.913000" end="0:12:35.263000">
+ja	ja	PART	-	-	0:12:33.913000	0:12:35.263000
+weiß	weiß	VERB	-	-	0:12:33.913000	0:12:35.263000
+ich	ich	PRON	-	-	0:12:33.913000	0:12:35.263000
+nicht	nicht	PART	-	-	0:12:33.913000	0:12:35.263000
+ähm	ähm	ADJ	-	-	0:12:33.913000	0:12:35.263000
+,	-	-	-	-	0:12:33.913000	0:12:35.263000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:33.913000" end="0:12:35.263000">
+na	na	X	-	-	0:12:33.913000	0:12:35.263000
+ja	ja	ADV	-	-	0:12:33.913000	0:12:35.263000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:35.263000" end="0:12:37.263000">
+aber	aber	CCONJ	-	-	0:12:35.263000	0:12:37.263000
+auf	auf	ADP	-	-	0:12:35.263000	0:12:37.263000
+Safari	Safari	PROPN	-	-	0:12:35.263000	0:12:37.263000
+sind	sein	AUX	-	-	0:12:35.263000	0:12:37.263000
+sie	ich	PRON	-	-	0:12:35.263000	0:12:37.263000
+gefahren	gefahren	VERB	-	-	0:12:35.263000	0:12:37.263000
+ja	ja	ADV	-	-	0:12:35.263000	0:12:37.263000
+ja	ja	PART	-	-	0:12:35.263000	0:12:37.263000
+.	-	-	-	-	0:12:35.263000	0:12:37.263000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:35.263000" end="0:12:38.535000">
+ja	ja	ADV	-	-	0:12:35.263000	0:12:37.263000
+ja	ja	ADV	-	-	0:12:35.263000	0:12:37.263000
+ja	ja	ADV	-	-	0:12:35.263000	0:12:37.263000
+na	na	X	-	-	0:12:35.263000	0:12:37.263000
+die	der	DET	-	-	0:12:35.263000	0:12:37.263000
+Kruger	Kruger	ADJ	-	-	0:12:35.263000	0:12:37.263000
+Nationalpark	Nationalpark	NOUN	-	-	0:12:37.263000	0:12:38.535000
+ist	sein	AUX	-	-	0:12:37.263000	0:12:38.535000
+da	da	ADV	-	-	0:12:37.263000	0:12:38.535000
+unten	unten	ADV	-	-	0:12:37.263000	0:12:38.535000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:38.535000" end="0:12:39.163000">
+mhm	mhm	X	-	-	0:12:38.535000	0:12:39.163000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:38.535000" end="0:12:39.163000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:39.163000" end="0:12:40.485000">
+das	der	PRON	-	-	0:12:39.163000	0:12:40.485000
+wäre	sein	AUX	-	-	0:12:39.163000	0:12:40.485000
+sicher	sichern	ADV	-	-	0:12:39.163000	0:12:40.485000
+schön	schön	ADJ	-	-	0:12:39.163000	0:12:40.485000
+.	-	-	-	-	0:12:39.163000	0:12:40.485000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:39.163000" end="0:12:45.278000">
+das	der	PRON	-	-	0:12:39.163000	0:12:40.485000
+ist	sein	AUX	-	-	0:12:39.163000	0:12:40.485000
+sicher	sichern	ADJ	-	-	0:12:40.485000	0:12:42.956000
+wäre	sein	AUX	-	-	0:12:40.485000	0:12:42.956000
+es	ich	PRON	-	-	0:12:40.485000	0:12:42.956000
+ein	einen	DET	-	-	0:12:40.485000	0:12:42.956000
+Erlebnis	Erlebnis	NOUN	-	-	0:12:40.485000	0:12:42.956000
+,	-	-	-	-	0:12:40.485000	0:12:42.956000
+aber	aber	CCONJ	-	-	0:12:40.485000	0:12:42.956000
+na	na	PROPN	-	-	0:12:40.485000	0:12:42.956000
+ja	ja	PART	-	-	0:12:40.485000	0:12:42.956000
+,	-	-	-	-	0:12:40.485000	0:12:42.956000
+<pause duration="0,9s"/>
+ist	sein	AUX	-	-	0:12:42.956000	0:12:45.278000
+halt	halt	ADV	-	-	0:12:42.956000	0:12:45.278000
+auch	auch	ADV	-	-	0:12:42.956000	0:12:45.278000
+eine	einen	DET	-	-	0:12:42.956000	0:12:45.278000
+Kostenfrage	Kostenfrage	NOUN	-	-	0:12:42.956000	0:12:45.278000
+.	-	-	-	-	0:12:42.956000	0:12:45.278000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:45.278000" end="0:12:47.206000">
+ja	ja	ADV	-	-	0:12:45.278000	0:12:47.206000
+das	der	PRON	-	-	0:12:45.278000	0:12:47.206000
+ist	sein	AUX	-	-	0:12:45.278000	0:12:47.206000
+(nicht)/	nicht	PART	-	-	0:12:45.278000	0:12:47.206000
+.	-	-	-	-	0:12:45.278000	0:12:47.206000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:45.278000" end="0:12:49.035000">
+es	ich	PRON	-	-	0:12:45.278000	0:12:47.206000
+ist	sein	AUX	-	-	0:12:45.278000	0:12:47.206000
+zwar	zwar	ADV	-	-	0:12:45.278000	0:12:47.206000
+da	da	ADV	-	-	0:12:45.278000	0:12:47.206000
+gibt	geben	VERB	-	-	0:12:45.278000	0:12:47.206000
+es	ich	PRON	-	-	0:12:45.278000	0:12:47.206000
+was	was	PRON	-	-	0:12:47.206000	0:12:49.035000
+a/	-	-	-	-	0:12:47.206000	0:12:49.035000
+Abpreise	Abpreise	NOUN	-	-	0:12:47.206000	0:12:49.035000
+,	-	-	-	-	0:12:47.206000	0:12:49.035000
+wenn	wenn	SCONJ	-	-	0:12:47.206000	0:12:49.035000
+du	du	PRON	-	-	0:12:47.206000	0:12:49.035000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:49.035000" end="0:12:50.092000">
+ja	ja	ADV	-	-	0:12:49.035000	0:12:50.092000
+ja	ja	PART	-	-	0:12:49.035000	0:12:50.092000
+.	-	-	-	-	0:12:49.035000	0:12:50.092000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:49.035000" end="0:12:54.049000">
+w/	-	-	-	-	0:12:49.035000	0:12:50.092000
+wenn	wenn	SCONJ	-	-	0:12:49.035000	0:12:50.092000
+du	du	PRON	-	-	0:12:49.035000	0:12:50.092000
+im	im	ADP	-	-	0:12:49.035000	0:12:50.092000
+im	im	ADP	-	-	0:12:50.092000	0:12:51.842000
+Juni	Juni	NOUN	-	-	0:12:50.092000	0:12:51.842000
+oder	oder	CCONJ	-	-	0:12:50.092000	0:12:51.842000
+Juli	Juli	NOUN	-	-	0:12:50.092000	0:12:51.842000
+fährst	fahren	VERB	-	-	0:12:50.092000	0:12:51.842000
+,	-	-	-	-	0:12:50.092000	0:12:51.842000
+kostet	kosten	VERB	-	-	0:12:51.842000	0:12:54.049000
+es	ich	PRON	-	-	0:12:51.842000	0:12:54.049000
+,	-	-	-	-	0:12:51.842000	0:12:54.049000
+weiß	weiß	VERB	-	-	0:12:51.842000	0:12:54.049000
+ich	ich	PRON	-	-	0:12:51.842000	0:12:54.049000
+,	-	-	-	-	0:12:51.842000	0:12:54.049000
+tausend(ein)hundert	tausendeinhundert	PROPN	-	-	0:12:51.842000	0:12:54.049000
+Euro	Euro	NOUN	-	-	0:12:51.842000	0:12:54.049000
+nur	nur	ADV	-	-	0:12:51.842000	0:12:54.049000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:12:54.049000" end="0:12:55.063000">
+mhm	mhm	PROPN	-	-	0:12:54.049000	0:12:55.063000
+.	-	-	-	-	0:12:54.049000	0:12:55.063000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:12:54.049000" end="0:13:02.535000">
+zehn	zehn	NUM	-	-	0:12:54.049000	0:12:55.063000
+Tage	Tag	NOUN	-	-	0:12:54.049000	0:12:55.063000
+,	-	-	-	-	0:12:54.049000	0:12:55.063000
+aber	aber	CCONJ	-	-	0:12:55.063000	0:12:56.942000
+schon	schon	ADV	-	-	0:12:55.063000	0:12:56.942000
+wieder	wieder	ADV	-	-	0:12:55.063000	0:12:56.942000
+mit	mit	ADP	-	-	0:12:55.063000	0:12:56.942000
+Aufschlägen	Aufschlag	NOUN	-	-	0:12:55.063000	0:12:56.942000
+dann	dann	ADV	-	-	0:12:55.063000	0:12:56.942000
+,	-	-	-	-	0:12:55.063000	0:12:56.942000
+nicht	nicht	PART	-	-	0:12:55.063000	0:12:56.942000
+,	-	-	-	-	0:12:55.063000	0:12:56.942000
+und	und	CCONJ	-	-	0:12:56.942000	0:12:59.320000
+dann	dann	ADV	-	-	0:12:56.942000	0:12:59.320000
+wenn	wenn	SCONJ	-	-	0:12:56.942000	0:12:59.320000
+du	du	PRON	-	-	0:12:56.942000	0:12:59.320000
+aber	aber	ADV	-	-	0:12:56.942000	0:12:59.320000
+dann	dann	ADV	-	-	0:12:56.942000	0:12:59.320000
+einen	ein	DET	-	-	0:12:56.942000	0:12:59.320000
+Saisonzuschlag	Saisonzuschlag	NOUN	-	-	0:12:56.942000	0:12:59.320000
+hast	haben	AUX	-	-	0:12:56.942000	0:12:59.320000
+,	-	-	-	-	0:12:56.942000	0:12:59.320000
+da	da	ADV	-	-	0:12:59.320000	0:13:02.535000
+wird	werden	AUX	-	-	0:12:59.320000	0:13:02.535000
+es	ich	PRON	-	-	0:12:59.320000	0:13:02.535000
+dann	dann	ADV	-	-	0:12:59.320000	0:13:02.535000
+bis	bis	ADP	-	-	0:12:59.320000	0:13:02.535000
+zu	zu	ADP	-	-	0:12:59.320000	0:13:02.535000
+<pause duration="0,6s"/>
+tausendfünfhundert	tausendfünfhundert	VERB	-	-	0:12:59.320000	0:13:02.535000
+kosten	kosten	VERB	-	-	0:12:59.320000	0:13:02.535000
+,	-	-	-	-	0:12:59.320000	0:13:02.535000
+nicht	nicht	PART	-	-	0:12:59.320000	0:13:02.535000
+,	-	-	-	-	0:12:59.320000	0:13:02.535000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:02.535000" end="0:13:04.056000">
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:13:02.535000	0:13:04.056000
+ja	ja	ADV	-	-	0:13:02.535000	0:13:04.056000
+ja	ja	ADV	-	-	0:13:02.535000	0:13:04.056000
+ja	ja	PART	-	-	0:13:02.535000	0:13:04.056000
+.	-	-	-	-	0:13:02.535000	0:13:04.056000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:02.535000" end="0:13:05.706000">
+*musst*	-	-	-	-	0:13:02.535000	0:13:04.056000
+mal	-	-	-	-	0:13:02.535000	0:13:04.056000
+zwei	-	-	-	-	0:13:02.535000	0:13:04.056000
+rechnen	-	-	-	-	0:13:02.535000	0:13:04.056000
+und	-	-	-	-	0:13:04.056000	0:13:05.706000
+dann	-	-	-	-	0:13:04.056000	0:13:05.706000
+noch	-	-	-	-	0:13:04.056000	0:13:05.706000
+einige	-	-	-	-	0:13:04.056000	0:13:05.706000
+ähm	-	-	-	-	0:13:04.056000	0:13:05.706000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:05.706000" end="0:13:06.749000">
+kommt	kommen	VERB	-	-	0:13:05.706000	0:13:06.749000
+was	was	PRON	-	-	0:13:05.706000	0:13:06.749000
+dazu	dazu	ADV	-	-	0:13:05.706000	0:13:06.749000
+noch	noch	ADV	-	-	0:13:05.706000	0:13:06.749000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:05.706000" end="0:13:06.749000">
+(so)	-	-	-	-	0:13:05.706000	0:13:06.749000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:06.749000" end="0:13:10.392000">
+einiges	einig	PRON	-	-	0:13:06.749000	0:13:10.392000
+dort	dort	ADV	-	-	0:13:06.749000	0:13:10.392000
+unten	unten	ADV	-	-	0:13:06.749000	0:13:10.392000
+,	-	-	-	-	0:13:06.749000	0:13:10.392000
+gell	gell	ADJ	-	-	0:13:06.749000	0:13:10.392000
+,	-	-	-	-	0:13:06.749000	0:13:10.392000
+ja	ja	ADV	-	-	0:13:06.749000	0:13:10.392000
+ja	ja	ADV	-	-	0:13:06.749000	0:13:10.392000
+aus	aus	ADP	-	-	0:13:06.749000	0:13:10.392000
+ja	ja	ADV	-	-	0:13:06.749000	0:13:10.392000
+ja	ja	PART	-	-	0:13:06.749000	0:13:10.392000
+.	-	-	-	-	0:13:06.749000	0:13:10.392000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:06.749000" end="0:13:14.270000">
+einig/	-	-	-	-	0:13:06.749000	0:13:10.392000
+was	-	-	-	-	0:13:06.749000	0:13:10.392000
+du	-	-	-	-	0:13:06.749000	0:13:10.392000
+optional	-	-	-	-	0:13:06.749000	0:13:10.392000
+buchen	-	-	-	-	0:13:06.749000	0:13:10.392000
+kannst	-	-	-	-	0:13:06.749000	0:13:10.392000
+noch	-	-	-	-	0:13:06.749000	0:13:10.392000
+ja	-	-	-	-	0:13:06.749000	0:13:10.392000
+ja	-	-	-	-	0:13:06.749000	0:13:10.392000
+ja	-	-	-	-	0:13:06.749000	0:13:10.392000
+,	-	-	-	-	0:13:06.749000	0:13:10.392000
+was	-	-	-	-	0:13:10.392000	0:13:14.270000
+also	-	-	-	-	0:13:10.392000	0:13:14.270000
+mit	-	-	-	-	0:13:10.392000	0:13:14.270000
+viertausend	-	-	-	-	0:13:10.392000	0:13:14.270000
+Euro	-	-	-	-	0:13:10.392000	0:13:14.270000
+*musst*	-	-	-	-	0:13:10.392000	0:13:14.270000
+da	-	-	-	-	0:13:10.392000	0:13:14.270000
+*musst*	-	-	-	-	0:13:10.392000	0:13:14.270000
+rechnen	-	-	-	-	0:13:10.392000	0:13:14.270000
+.	-	-	-	-	0:13:10.392000	0:13:14.270000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:14.270000" end="0:13:15.163000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:14.270000" end="0:13:16.820000">
+nicht	nicht	PART	-	-	0:13:14.270000	0:13:15.163000
+?	-	-	-	-	0:13:14.270000	0:13:15.163000
+gell	gell	ADJ	-	-	0:13:15.163000	0:13:16.820000
+?	-	-	-	-	0:13:15.163000	0:13:16.820000
+trinke	trinken	VERB	-	-	0:13:15.163000	0:13:16.820000
+ich	ich	PRON	-	-	0:13:15.163000	0:13:16.820000
+einmal	einmal	ADV	-	-	0:13:15.163000	0:13:16.820000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:16.820000" end="0:13:17.899000">
+ja	ja	ADV	-	-	0:13:16.820000	0:13:17.899000
+genau	genau	ADJ	-	-	0:13:16.820000	0:13:17.899000
+.	-	-	-	-	0:13:16.820000	0:13:17.899000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:16.820000" end="0:13:19.049000">
+[Gerhard]N	Gerhard	PROPN	-	-	0:13:16.820000	0:13:17.899000
+,	-	-	-	-	0:13:16.820000	0:13:17.899000
+<pause duration="0,7s"/>
+prost	prost	PROPN	-	-	0:13:17.899000	0:13:19.049000
+!	-	-	-	-	0:13:17.899000	0:13:19.049000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:19.049000" end="0:13:22.363000">
+heute	heute	ADV	-	-	0:13:19.049000	0:13:22.363000
+haben	haben	AUX	-	-	0:13:19.049000	0:13:22.363000
+wir	ich	PRON	-	-	0:13:19.049000	0:13:22.363000
+kein	kein	DET	-	-	0:13:19.049000	0:13:22.363000
+Bier	Bier	NOUN	-	-	0:13:19.049000	0:13:22.363000
+nicht	nicht	PART	-	-	0:13:19.049000	0:13:22.363000
+.	-	-	-	-	0:13:19.049000	0:13:22.363000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:19.049000" end="0:13:22.363000">
+si/	-	-	-	-	0:13:19.049000	0:13:22.363000
+sind	sein	AUX	-	-	0:13:19.049000	0:13:22.363000
+wir	ich	PRON	-	-	0:13:19.049000	0:13:22.363000
+gar	gar	ADV	-	-	0:13:19.049000	0:13:22.363000
+nicht	nicht	PART	-	-	0:13:19.049000	0:13:22.363000
+gewohnt	wohnen	VERB	-	-	0:13:19.049000	0:13:22.363000
+,	-	-	-	-	0:13:19.049000	0:13:22.363000
+Wasser	Wasser	NOUN	-	-	0:13:19.049000	0:13:22.363000
+trinken	trinken	VERB	-	-	0:13:19.049000	0:13:22.363000
+.	-	-	-	-	0:13:19.049000	0:13:22.363000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:22.363000" end="0:13:26.035000">
+hätten	haben	AUX	-	-	0:13:22.363000	0:13:24.078000
+wir	ich	PRON	-	-	0:13:22.363000	0:13:24.078000
+eh	eh	ADV	-	-	0:13:22.363000	0:13:24.078000
+ein	einen	DET	-	-	0:13:22.363000	0:13:24.078000
+Bier	Bier	NOUN	-	-	0:13:22.363000	0:13:24.078000
+anzapfen	anzapfen	VERB	-	-	0:13:22.363000	0:13:24.078000
+sollen	sollen	VERB	-	-	0:13:22.363000	0:13:24.078000
+,	-	-	-	-	0:13:22.363000	0:13:24.078000
+wäre	sein	AUX	-	-	0:13:24.078000	0:13:26.035000
+eh	eh	ADV	-	-	0:13:24.078000	0:13:26.035000
+gescheiter	gescheit	ADJ	-	-	0:13:24.078000	0:13:26.035000
+gewesen	sein	AUX	-	-	0:13:24.078000	0:13:26.035000
+.	-	-	-	-	0:13:24.078000	0:13:26.035000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:26.035000" end="0:13:29.163000">
+können	können	VERB	-	-	0:13:26.035000	0:13:29.163000
+wir	ich	PRON	-	-	0:13:26.035000	0:13:29.163000
+eh	eh	ADV	-	-	0:13:26.035000	0:13:29.163000
+noch	noch	ADV	-	-	0:13:26.035000	0:13:29.163000
+holen	holen	VERB	-	-	0:13:26.035000	0:13:29.163000
+.	-	-	-	-	0:13:26.035000	0:13:29.163000
+<pause duration="1,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:29.163000" end="0:13:30.106000">
+na	na	X	-	-	0:13:29.163000	0:13:30.106000
+ja	ja	PART	-	-	0:13:29.163000	0:13:30.106000
+.	-	-	-	-	0:13:29.163000	0:13:30.106000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:29.163000" end="0:13:40.163000">
+nein	nein	PART	-	-	0:13:29.163000	0:13:30.106000
+.	-	-	-	-	0:13:29.163000	0:13:30.106000
+ja	ja	ADV	-	-	0:13:30.106000	0:13:33.027000
+<pause duration="0,9s"/>
+das	der	PRON	-	-	0:13:30.106000	0:13:33.027000
+wären	sein	AUX	-	-	0:13:30.106000	0:13:33.027000
+unsere	mein	DET	-	-	0:13:30.106000	0:13:33.027000
+Pläne	Plan	NOUN	-	-	0:13:30.106000	0:13:33.027000
+halt	halt	ADV	-	-	0:13:30.106000	0:13:33.027000
+,	-	-	-	-	0:13:30.106000	0:13:33.027000
+aber	aber	CCONJ	-	-	0:13:33.027000	0:13:34.113000
+werden	werden	AUX	-	-	0:13:33.027000	0:13:34.113000
+wir	ich	PRON	-	-	0:13:33.027000	0:13:34.113000
+sehen	sehen	VERB	-	-	0:13:33.027000	0:13:34.113000
+,	-	-	-	-	0:13:33.027000	0:13:34.113000
+wie	wie	ADV	-	-	0:13:34.113000	0:13:36.113000
+weit	weit	ADJ	-	-	0:13:34.113000	0:13:36.113000
+wir	ich	PRON	-	-	0:13:34.113000	0:13:36.113000
+kommen	kommen	VERB	-	-	0:13:34.113000	0:13:36.113000
+.	-	-	-	-	0:13:34.113000	0:13:36.113000
+<pause duration="0,9s"/>
+wenn	wenn	SCONJ	-	-	0:13:36.113000	0:13:37.499000
+es	ich	PRON	-	-	0:13:36.113000	0:13:37.499000
+mit	mit	ADP	-	-	0:13:36.113000	0:13:37.499000
+meinen	mein	DET	-	-	0:13:36.113000	0:13:37.499000
+Augen	Auge	NOUN	-	-	0:13:36.113000	0:13:37.499000
+wieder	wieder	ADV	-	-	0:13:36.113000	0:13:37.499000
+gehend	gehen	ADJ	-	-	0:13:36.113000	0:13:37.499000
+wird	werden	AUX	-	-	0:13:36.113000	0:13:37.499000
+,	-	-	-	-	0:13:36.113000	0:13:37.499000
+dass	dass	SCONJ	-	-	0:13:37.499000	0:13:40.163000
+ich	ich	PRON	-	-	0:13:37.499000	0:13:40.163000
+wieder	wieder	ADV	-	-	0:13:37.499000	0:13:40.163000
+sehe	sehen	VERB	-	-	0:13:37.499000	0:13:40.163000
+halbwegs	halbwegs	ADV	-	-	0:13:37.499000	0:13:40.163000
+.	-	-	-	-	0:13:37.499000	0:13:40.163000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:40.163000" end="0:13:42.620000">
+was	-	-	-	-	0:13:40.163000	0:13:42.620000
+*siehst*	-	-	-	-	0:13:40.163000	0:13:42.620000
+jetzt	-	-	-	-	0:13:40.163000	0:13:42.620000
+ein	-	-	-	-	0:13:40.163000	0:13:42.620000
+wenig	-	-	-	-	0:13:40.163000	0:13:42.620000
+schlecht	-	-	-	-	0:13:40.163000	0:13:42.620000
+oder	-	-	-	-	0:13:40.163000	0:13:42.620000
+was	-	-	-	-	0:13:40.163000	0:13:42.620000
+,	-	-	-	-	0:13:40.163000	0:13:42.620000
+[Frank]N	Frank	PROPN	-	-	0:13:40.163000	0:13:42.620000
+,	-	-	-	-	0:13:40.163000	0:13:42.620000
+wirklich	wirklich	ADJ	-	-	0:13:40.163000	0:13:42.620000
+?	-	-	-	-	0:13:40.163000	0:13:42.620000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:40.163000" end="0:13:44.799000">
+na	na	X	-	-	0:13:40.163000	0:13:42.620000
+ja	ja	ADV	-	-	0:13:40.163000	0:13:42.620000
+am	am	ADP	-	-	0:13:40.163000	0:13:42.620000
+rechten	recht	ADJ	-	-	0:13:42.620000	0:13:44.799000
+Auge	Auge	NOUN	-	-	0:13:42.620000	0:13:44.799000
+ist	sein	AUX	-	-	0:13:42.620000	0:13:44.799000
+alles	alle	PRON	-	-	0:13:42.620000	0:13:44.799000
+verzerrt	verzerren	VERB	-	-	0:13:42.620000	0:13:44.799000
+und	und	CCONJ	-	-	0:13:42.620000	0:13:44.799000
+und	und	CCONJ	-	-	0:13:42.620000	0:13:44.799000
+und/	-	-	-	-	0:13:42.620000	0:13:44.799000
+.	-	-	-	-	0:13:42.620000	0:13:44.799000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:44.799000" end="0:13:45.170000">
+wirklich	wirklich	ADJ	-	-	0:13:44.799000	0:13:45.170000
+?	-	-	-	-	0:13:44.799000	0:13:45.170000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:45.170000" end="0:13:46.006000">
+ja	ja	ADV	-	-	0:13:45.170000	0:13:46.006000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:46.006000" end="0:13:47.177000">
+ah	ah	ADJ	-	-	0:13:46.006000	0:13:47.177000
+so	so	ADV	-	-	0:13:46.006000	0:13:47.177000
+was	was	PRON	-	-	0:13:46.006000	0:13:47.177000
+habe	habe	AUX	-	-	0:13:46.006000	0:13:47.177000
+ich/	-	-	-	-	0:13:46.006000	0:13:47.177000
+.	-	-	-	-	0:13:46.006000	0:13:47.177000
+weiß	weiß	VERB	-	-	0:13:46.006000	0:13:47.177000
+ich/	-	-	-	-	0:13:46.006000	0:13:47.177000
+.	-	-	-	-	0:13:46.006000	0:13:47.177000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:46.006000" end="0:13:48.799000">
+am	am	ADP	-	-	0:13:46.006000	0:13:47.177000
+rechten	recht	ADJ	-	-	0:13:46.006000	0:13:47.177000
+Auge	Auge	NOUN	-	-	0:13:46.006000	0:13:47.177000
+sehe	sehen	VERB	-	-	0:13:46.006000	0:13:47.177000
+ich	ich	PRON	-	-	0:13:46.006000	0:13:47.177000
+nur	nur	ADV	-	-	0:13:46.006000	0:13:47.177000
+die	der	DET	-	-	0:13:47.177000	0:13:48.799000
+Hälfte	Hälfte	NOUN	-	-	0:13:47.177000	0:13:48.799000
+,	-	-	-	-	0:13:47.177000	0:13:48.799000
+den	der	DET	-	-	0:13:47.177000	0:13:48.799000
+unteren	unter	ADJ	-	-	0:13:47.177000	0:13:48.799000
+Teil	Teil	NOUN	-	-	0:13:47.177000	0:13:48.799000
+,	-	-	-	-	0:13:47.177000	0:13:48.799000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:48.799000" end="0:13:49.499000">
+geh	geh	X	-	-	0:13:48.799000	0:13:49.499000
+!	-	-	-	-	0:13:48.799000	0:13:49.499000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:48.799000" end="0:13:52.627000">
+und	und	CCONJ	-	-	0:13:48.799000	0:13:49.499000
+wenn	wenn	SCONJ	-	-	0:13:48.799000	0:13:49.499000
+ich	ich	PRON	-	-	0:13:48.799000	0:13:49.499000
+nach	nach	ADP	-	-	0:13:48.799000	0:13:49.499000
+rechts	rechts	ADV	-	-	0:13:49.499000	0:13:51.220000
+schaue	schauen	VERB	-	-	0:13:49.499000	0:13:51.220000
+,	-	-	-	-	0:13:49.499000	0:13:51.220000
+sehe	sehen	VERB	-	-	0:13:49.499000	0:13:51.220000
+ich	ich	PRON	-	-	0:13:49.499000	0:13:51.220000
+nichts	nichts	PRON	-	-	0:13:49.499000	0:13:51.220000
+,	-	-	-	-	0:13:49.499000	0:13:51.220000
+<pause duration="0,7s"/>
+also	also	ADV	-	-	0:13:51.220000	0:13:52.627000
+rech/	-	-	-	-	0:13:51.220000	0:13:52.627000
+nach	nach	ADP	-	-	0:13:51.220000	0:13:52.627000
+rechts	rechts	ADV	-	-	0:13:51.220000	0:13:52.627000
+oben	oben	ADV	-	-	0:13:51.220000	0:13:52.627000
+.	-	-	-	-	0:13:51.220000	0:13:52.627000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:52.627000" end="0:13:54.427000">
+w/	-	-	-	-	0:13:52.627000	0:13:54.427000
+w/	-	-	-	-	0:13:52.627000	0:13:54.427000
+wie	-	-	-	-	0:13:52.627000	0:13:54.427000
+lange	-	-	-	-	0:13:52.627000	0:13:54.427000
+*hast*	-	-	-	-	0:13:52.627000	0:13:54.427000
+das	-	-	-	-	0:13:52.627000	0:13:54.427000
+schon	-	-	-	-	0:13:52.627000	0:13:54.427000
+?	-	-	-	-	0:13:52.627000	0:13:54.427000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:54.427000" end="0:13:57.506000">
+seit	seit	ADP	-	-	0:13:54.427000	0:13:57.506000
+einem	einer	DET	-	-	0:13:54.427000	0:13:57.506000
+halben	halb	ADJ	-	-	0:13:54.427000	0:13:57.506000
+Jahr	Jahr	NOUN	-	-	0:13:54.427000	0:13:57.506000
+ungefähr	ungefähr	ADJ	-	-	0:13:54.427000	0:13:57.506000
+<pause duration="1,3s"/>
+hat	haben	AUX	-	-	0:13:54.427000	0:13:57.506000
+es	ich	PRON	-	-	0:13:54.427000	0:13:57.506000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:13:57.506000" end="0:14:00.899000">
+und	-	-	-	-	0:13:57.506000	0:14:00.899000
+ist	-	-	-	-	0:13:57.506000	0:14:00.899000
+das	-	-	-	-	0:13:57.506000	0:14:00.899000
+langsam	-	-	-	-	0:13:57.506000	0:14:00.899000
+gekommen	-	-	-	-	0:13:57.506000	0:14:00.899000
+oder	-	-	-	-	0:13:57.506000	0:14:00.899000
+langs/	-	-	-	-	0:13:57.506000	0:14:00.899000
+_gach_	-	-	-	-	0:13:57.506000	0:14:00.899000
+?	-	-	-	-	0:13:57.506000	0:14:00.899000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:13:57.506000" end="0:14:01.892000">
+angefangen	anfangen	VERB	-	-	0:13:57.506000	0:14:00.899000
+nein	nein	PART	-	-	0:13:57.506000	0:14:00.899000
+das	der	PRON	-	-	0:13:57.506000	0:14:00.899000
+hat	haben	AUX	-	-	0:13:57.506000	0:14:00.899000
+langsam	langsam	ADJ	-	-	0:13:57.506000	0:14:00.899000
+angefangen	anfangen	VERB	-	-	0:13:57.506000	0:14:00.899000
+,	-	-	-	-	0:13:57.506000	0:14:00.899000
+d/	-	-	-	-	0:14:00.899000	0:14:01.892000
+na	na	X	-	-	0:14:00.899000	0:14:01.892000
+ja	ja	ADV	-	-	0:14:00.899000	0:14:01.892000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:01.892000" end="0:14:02.542000">
+ja	ja	ADV	-	-	0:14:01.892000	0:14:02.542000
+ja	ja	PART	-	-	0:14:01.892000	0:14:02.542000
+.	-	-	-	-	0:14:01.892000	0:14:02.542000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:02.542000" end="0:14:06.085000">
+ähm	ähm	VERB	-	-	0:14:02.542000	0:14:03.285000
+ich	ich	PRON	-	-	0:14:02.542000	0:14:03.285000
+habe	habe	AUX	-	-	0:14:02.542000	0:14:03.285000
+ja	ja	ADV	-	-	0:14:02.542000	0:14:03.285000
+geglaubt	glauben	VERB	-	-	0:14:02.542000	0:14:03.285000
+,	-	-	-	-	0:14:02.542000	0:14:03.285000
+dass	dass	SCONJ	-	-	0:14:03.285000	0:14:05.285000
+das	der	PRON	-	-	0:14:03.285000	0:14:05.285000
+mit	mit	ADP	-	-	0:14:03.285000	0:14:05.285000
+dem	der	DET	-	-	0:14:03.285000	0:14:05.285000
+mit	mit	ADP	-	-	0:14:03.285000	0:14:05.285000
+dem	der	DET	-	-	0:14:03.285000	0:14:05.285000
+Star	Star	NOUN	-	-	0:14:03.285000	0:14:05.285000
+zusammen	zusammen	ADV	-	-	0:14:03.285000	0:14:05.285000
+hängt	hängen	VERB	-	-	0:14:03.285000	0:14:05.285000
+,	-	-	-	-	0:14:03.285000	0:14:05.285000
+das	der	PRON	-	-	0:14:05.285000	0:14:06.085000
+hat	haben	AUX	-	-	0:14:05.285000	0:14:06.085000
+ja	ja	ADV	-	-	0:14:05.285000	0:14:06.085000
+mir	sich	PRON	-	-	0:14:05.285000	0:14:06.085000
+der	der	PRON	-	-	0:14:05.285000	0:14:06.085000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:06.085000" end="0:14:06.670000">
+ja	ja	ADV	-	-	0:14:06.085000	0:14:06.670000
+ja	ja	PART	-	-	0:14:06.085000	0:14:06.670000
+.	-	-	-	-	0:14:06.085000	0:14:06.670000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:06.085000" end="0:14:11.320000">
+der	der	DET	-	-	0:14:06.085000	0:14:06.670000
+Augenarzt	Augenarzt	NOUN	-	-	0:14:06.085000	0:14:06.670000
+vor	vor	ADP	-	-	0:14:06.085000	0:14:06.670000
+zwei	zwei	NUM	-	-	0:14:06.670000	0:14:07.392000
+Jahren	Jahr	NOUN	-	-	0:14:06.670000	0:14:07.392000
+schon	schon	ADV	-	-	0:14:06.670000	0:14:07.392000
+gesagt	sagen	VERB	-	-	0:14:06.670000	0:14:07.392000
+,	-	-	-	-	0:14:06.670000	0:14:07.392000
+dass	dass	SCONJ	-	-	0:14:07.392000	0:14:09.270000
+ich	ich	PRON	-	-	0:14:07.392000	0:14:09.270000
+operieren	operieren	VERB	-	-	0:14:07.392000	0:14:09.270000
+gehen	gehen	VERB	-	-	0:14:07.392000	0:14:09.270000
+muss	muss	VERB	-	-	0:14:07.392000	0:14:09.270000
+da	da	ADP	-	-	0:14:07.392000	0:14:09.270000
+,	-	-	-	-	0:14:07.392000	0:14:09.270000
+und	und	CCONJ	-	-	0:14:09.270000	0:14:09.763000
+denke	denken	VERB	-	-	0:14:09.270000	0:14:09.763000
+ich	ich	PRON	-	-	0:14:09.270000	0:14:09.763000
+mir	sich	PRON	-	-	0:14:09.270000	0:14:09.763000
+,	-	-	-	-	0:14:09.270000	0:14:09.763000
+na	na	X	-	-	0:14:09.763000	0:14:10.559000
+jetzt	jetzt	ADV	-	-	0:14:09.763000	0:14:10.559000
+wird	werden	AUX	-	-	0:14:09.763000	0:14:10.559000
+es	ich	PRON	-	-	0:14:09.763000	0:14:10.559000
+Zeit	Zeit	NOUN	-	-	0:14:09.763000	0:14:10.559000
+,	-	-	-	-	0:14:09.763000	0:14:10.559000
+dass	dass	SCONJ	-	-	0:14:10.559000	0:14:11.320000
+ich	ich	PRON	-	-	0:14:10.559000	0:14:11.320000
+gehe	gehen	VERB	-	-	0:14:10.559000	0:14:11.320000
+,	-	-	-	-	0:14:10.559000	0:14:11.320000
+nicht	nicht	PART	-	-	0:14:10.559000	0:14:11.320000
+?	-	-	-	-	0:14:10.559000	0:14:11.320000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:11.320000" end="0:14:13.456000">
+*warst*	-	-	-	-	0:14:11.320000	0:14:12.827000
+beim	-	-	-	-	0:14:11.320000	0:14:12.827000
+beim	-	-	-	-	0:14:11.320000	0:14:12.827000
+[(Großpölzel)]N	-	-	-	-	0:14:11.320000	0:14:12.827000
+oder	-	-	-	-	0:14:11.320000	0:14:12.827000
+wo	-	-	-	-	0:14:11.320000	0:14:12.827000
+*warst*	-	-	-	-	0:14:12.827000	0:14:13.456000
+denn	-	-	-	-	0:14:12.827000	0:14:13.456000
+da	-	-	-	-	0:14:12.827000	0:14:13.456000
+?	-	-	-	-	0:14:12.827000	0:14:13.456000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:12.827000" end="0:14:14.256000">
+nein	nein	PART	-	-	0:14:12.827000	0:14:13.456000
+in	in	ADP	-	-	0:14:13.456000	0:14:14.256000
+[Liezen]O	Liezen	NOUN	-	-	0:14:13.456000	0:14:14.256000
+drüben	drüben	ADV	-	-	0:14:13.456000	0:14:14.256000
+beim	beim	ADP	-	-	0:14:13.456000	0:14:14.256000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:14.256000" end="0:14:15.592000">
+ah	ah	ADJ	-	-	0:14:14.256000	0:14:15.592000
+ach	ach	VERB	-	-	0:14:14.256000	0:14:15.592000
+so	so	ADV	-	-	0:14:14.256000	0:14:15.592000
+.	-	-	-	-	0:14:14.256000	0:14:15.592000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:14.256000" end="0:14:16.492000">
+Doktor	Doktor	NOUN	-	-	0:14:14.256000	0:14:15.592000
+[(Etzel)]N	Etzel	PROPN	-	-	0:14:14.256000	0:14:15.592000
+.	-	-	-	-	0:14:14.256000	0:14:15.592000
+der	der	PRON	-	-	0:14:15.592000	0:14:16.492000
+ist	sein	AUX	-	-	0:14:15.592000	0:14:16.492000
+recht	recht	ADV	-	-	0:14:15.592000	0:14:16.492000
+gut	gut	ADJ	-	-	0:14:15.592000	0:14:16.492000
+.	-	-	-	-	0:14:15.592000	0:14:16.492000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:16.492000" end="0:14:20.449000">
+ich	ich	PRON	-	-	0:14:16.492000	0:14:18.677000
+habe	habe	AUX	-	-	0:14:16.492000	0:14:18.677000
+ja	ja	ADV	-	-	0:14:16.492000	0:14:18.677000
+das	der	PRON	-	-	0:14:16.492000	0:14:18.677000
+auch	auch	ADV	-	-	0:14:16.492000	0:14:18.677000
+einmal	einmal	ADV	-	-	0:14:16.492000	0:14:18.677000
+gehabt	haben	AUX	-	-	0:14:16.492000	0:14:18.677000
+,	-	-	-	-	0:14:16.492000	0:14:18.677000
+so	-	-	-	-	0:14:16.492000	0:14:18.677000
+schwarzes	-	-	-	-	0:14:16.492000	0:14:18.677000
+_dings_	-	-	-	-	0:14:16.492000	0:14:18.677000
+gewesen	-	-	-	-	0:14:16.492000	0:14:18.677000
+im	-	-	-	-	0:14:18.677000	0:14:20.449000
+Auge	-	-	-	-	0:14:18.677000	0:14:20.449000
+.	-	-	-	-	0:14:18.677000	0:14:20.449000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:18.677000" end="0:14:23.456000">
+schwarz	schwarz	ADJ	-	-	0:14:18.677000	0:14:20.449000
+und	und	CCONJ	-	-	0:14:18.677000	0:14:20.449000
+und	und	CCONJ	-	-	0:14:18.677000	0:14:20.449000
+alles	alle	PRON	-	-	0:14:18.677000	0:14:20.449000
+verzerrt	verzerren	VERB	-	-	0:14:18.677000	0:14:20.449000
+.	-	-	-	-	0:14:18.677000	0:14:20.449000
+also	also	ADV	-	-	0:14:20.449000	0:14:23.456000
+wenn	wenn	SCONJ	-	-	0:14:20.449000	0:14:23.456000
+ich	ich	PRON	-	-	0:14:20.449000	0:14:23.456000
+das	der	PRON	-	-	0:14:20.449000	0:14:23.456000
+ist	sein	AUX	-	-	0:14:20.449000	0:14:23.456000
+alles	alle	PRON	-	-	0:14:20.449000	0:14:23.456000
+<pause duration="0,5s"/>
+so	so	ADV	-	-	0:14:20.449000	0:14:23.456000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:23.456000" end="0:14:23.999000">
+ah	ah	X	-	-	0:14:23.456000	0:14:23.999000
+!	-	-	-	-	0:14:23.456000	0:14:23.999000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:23.999000" end="0:14:32.042000">
+verzerrt	verzerren	VERB	-	-	0:14:23.999000	0:14:26.242000
+und	und	CCONJ	-	-	0:14:23.999000	0:14:26.242000
+kleiner	klein	ADJ	-	-	0:14:23.999000	0:14:26.242000
+.	-	-	-	-	0:14:23.999000	0:14:26.242000
+<pause duration="0,8s"/>
+ich	ich	PRON	-	-	0:14:26.242000	0:14:28.492000
+sehe	sehen	VERB	-	-	0:14:26.242000	0:14:28.492000
+das	der	PRON	-	-	0:14:26.242000	0:14:28.492000
+,	-	-	-	-	0:14:26.242000	0:14:28.492000
+wie	wie	ADV	-	-	0:14:26.242000	0:14:28.492000
+wenn	wenn	SCONJ	-	-	0:14:26.242000	0:14:28.492000
+es	ich	PRON	-	-	0:14:26.242000	0:14:28.492000
+wenn	wenn	SCONJ	-	-	0:14:26.242000	0:14:28.492000
+du	du	PRON	-	-	0:14:26.242000	0:14:28.492000
+es	ich	PRON	-	-	0:14:26.242000	0:14:28.492000
+verkleinerst	verkleinern	VERB	-	-	0:14:26.242000	0:14:28.492000
+,	-	-	-	-	0:14:26.242000	0:14:28.492000
+nicht	nicht	PART	-	-	0:14:26.242000	0:14:28.492000
+,	-	-	-	-	0:14:26.242000	0:14:28.492000
+rechten	recht	ADJ	-	-	0:14:28.492000	0:14:29.527000
+Auge	Auge	NOUN	-	-	0:14:28.492000	0:14:29.527000
+sehe	sehen	VERB	-	-	0:14:28.492000	0:14:29.527000
+ich	ich	PRON	-	-	0:14:28.492000	0:14:29.527000
+normal	normal	ADJ	-	-	0:14:28.492000	0:14:29.527000
+und	und	CCONJ	-	-	0:14:29.527000	0:14:32.042000
+das	der	DET	-	-	0:14:29.527000	0:14:32.042000
+linke	link	NOUN	-	-	0:14:29.527000	0:14:32.042000
+<pause duration="0,6s"/>
+das	der	DET	-	-	0:14:29.527000	0:14:32.042000
+passt	passt	PROPN	-	-	0:14:29.527000	0:14:32.042000
+natürlich	natürlich	ADV	-	-	0:14:29.527000	0:14:32.042000
+überhaupt	überhaupt	ADV	-	-	0:14:29.527000	0:14:32.042000
+nicht	nicht	PART	-	-	0:14:29.527000	0:14:32.042000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:32.042000" end="0:14:32.706000">
+ist	sein	AUX	-	-	0:14:32.042000	0:14:32.706000
+eh	eh	ADV	-	-	0:14:32.042000	0:14:32.706000
+klar	klaren	ADJ	-	-	0:14:32.042000	0:14:32.706000
+.	-	-	-	-	0:14:32.042000	0:14:32.706000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:32.042000" end="0:14:32.706000">
+zusammen	zusammen	ADP	-	-	0:14:32.042000	0:14:32.706000
+,	-	-	-	-	0:14:32.042000	0:14:32.706000
+gell	gell	ADJ	-	-	0:14:32.042000	0:14:32.706000
+?	-	-	-	-	0:14:32.042000	0:14:32.706000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:32.706000" end="0:14:34.563000">
+<pause duration="0,9s"/>
+das	der	PRON	-	-	0:14:32.706000	0:14:34.563000
+ist	sein	AUX	-	-	0:14:32.706000	0:14:34.563000
+ganz	ganz	ADV	-	-	0:14:32.706000	0:14:34.563000
+was/	-	-	-	-	0:14:32.706000	0:14:34.563000
+.	-	-	-	-	0:14:32.706000	0:14:34.563000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:32.706000" end="0:14:39.627000">
+<pause duration="0,9s"/>
+(ich	ich	PRON	-	-	0:14:32.706000	0:14:34.563000
+kann)	können	VERB	-	-	0:14:32.706000	0:14:34.563000
+beim	beim	ADP	-	-	0:14:34.563000	0:14:37.313000
+Lesen	Lese	NOUN	-	-	0:14:34.563000	0:14:37.313000
+ja	ja	ADV	-	-	0:14:34.563000	0:14:37.313000
+mit	mit	ADP	-	-	0:14:34.563000	0:14:37.313000
+einem	einer	DET	-	-	0:14:34.563000	0:14:37.313000
+Auge	Auge	NOUN	-	-	0:14:34.563000	0:14:37.313000
+geht	gehen	VERB	-	-	0:14:34.563000	0:14:37.313000
+es	ich	PRON	-	-	0:14:34.563000	0:14:37.313000
+,	-	-	-	-	0:14:34.563000	0:14:37.313000
+<pause duration="0,7s"/>
+aber	aber	CCONJ	-	-	0:14:37.313000	0:14:38.685000
+es	ich	PRON	-	-	0:14:37.313000	0:14:38.685000
+ist	sein	AUX	-	-	0:14:37.313000	0:14:38.685000
+auch	auch	ADV	-	-	0:14:37.313000	0:14:38.685000
+anstrengend	anstrengen	ADJ	-	-	0:14:37.313000	0:14:38.685000
+,	-	-	-	-	0:14:37.313000	0:14:38.685000
+*musst*	-	-	-	-	0:14:38.685000	0:14:39.627000
+dich	-	-	-	-	0:14:38.685000	0:14:39.627000
+auch	-	-	-	-	0:14:38.685000	0:14:39.627000
+gewöhnen	-	-	-	-	0:14:38.685000	0:14:39.627000
+,	-	-	-	-	0:14:38.685000	0:14:39.627000
+nicht	nicht	PART	-	-	0:14:38.685000	0:14:39.627000
+?	-	-	-	-	0:14:38.685000	0:14:39.627000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:39.627000" end="0:14:42.227000">
+das	der	DET	-	-	0:14:39.627000	0:14:41.370000
+das	der	PRON	-	-	0:14:39.627000	0:14:41.370000
+ist	sein	AUX	-	-	0:14:39.627000	0:14:41.370000
+ja	ja	ADV	-	-	0:14:39.627000	0:14:41.370000
+fürchterlich	fürchterlich	ADJ	-	-	0:14:39.627000	0:14:41.370000
+ist	sein	AUX	-	-	0:14:39.627000	0:14:41.370000
+so	so	ADV	-	-	0:14:41.370000	0:14:42.227000
+was	was	PRON	-	-	0:14:41.370000	0:14:42.227000
+.	-	-	-	-	0:14:41.370000	0:14:42.227000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:41.370000" end="0:14:42.227000">
+ja	ja	PART	-	-	0:14:41.370000	0:14:42.227000
+.	-	-	-	-	0:14:41.370000	0:14:42.227000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:42.227000" end="0:14:43.649000">
+nein	nein	PART	-	-	0:14:42.227000	0:14:43.649000
+da	da	ADV	-	-	0:14:42.227000	0:14:43.649000
+muss	muss	VERB	-	-	0:14:42.227000	0:14:43.649000
+man/	-	-	-	-	0:14:42.227000	0:14:43.649000
+.	-	-	-	-	0:14:42.227000	0:14:43.649000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:42.227000" end="0:14:44.820000">
+aber	aber	CCONJ	-	-	0:14:42.227000	0:14:43.649000
+es	ich	PRON	-	-	0:14:42.227000	0:14:43.649000
+wird	werden	AUX	-	-	0:14:42.227000	0:14:43.649000
+schon	schon	ADV	-	-	0:14:42.227000	0:14:43.649000
+werden	werden	AUX	-	-	0:14:42.227000	0:14:43.649000
+.	-	-	-	-	0:14:42.227000	0:14:43.649000
+mhm	mhm	PROPN	-	-	0:14:43.649000	0:14:44.820000
+.	-	-	-	-	0:14:43.649000	0:14:44.820000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:44.820000" end="0:14:48.092000">
+ganz	ganz	ADV	-	-	0:14:44.820000	0:14:46.820000
+<pause duration="1,6s"/>
+blöd	blöd	ADJ	-	-	0:14:46.820000	0:14:48.092000
+ist	sein	AUX	-	-	0:14:46.820000	0:14:48.092000
+(da)	da	ADV	-	-	0:14:46.820000	0:14:48.092000
+so	so	ADV	-	-	0:14:46.820000	0:14:48.092000
+was	was	PRON	-	-	0:14:46.820000	0:14:48.092000
+.	-	-	-	-	0:14:46.820000	0:14:48.092000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:46.820000" end="0:14:48.092000">
+ja	ja	PART	-	-	0:14:46.820000	0:14:48.092000
+!	-	-	-	-	0:14:46.820000	0:14:48.092000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:48.092000" end="0:14:50.342000">
+<pause duration="2,2s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:48.092000" end="0:14:50.342000">
+<pause duration="2,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:50.342000" end="0:14:52.677000">
+das	der	PRON	-	-	0:14:50.342000	0:14:51.892000
+brauchen	brauchen	VERB	-	-	0:14:50.342000	0:14:51.892000
+wir	ich	PRON	-	-	0:14:50.342000	0:14:51.892000
+nicht	nicht	PART	-	-	0:14:50.342000	0:14:51.892000
+nehmen	nehmen	VERB	-	-	0:14:50.342000	0:14:51.892000
+,	-	-	-	-	0:14:50.342000	0:14:51.892000
+meine	meinen	DET	-	-	0:14:50.342000	0:14:51.892000
+ich	ich	PRON	-	-	0:14:50.342000	0:14:51.892000
+,	-	-	-	-	0:14:50.342000	0:14:51.892000
+da	da	SCONJ	-	-	0:14:50.342000	0:14:51.892000
+hm	hm	ADV	-	-	0:14:51.892000	0:14:52.677000
+das	der	PRON	-	-	0:14:51.892000	0:14:52.677000
+?	-	-	-	-	0:14:51.892000	0:14:52.677000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:51.892000" end="0:14:52.677000">
+ha/	-	-	-	-	0:14:51.892000	0:14:52.677000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:52.677000" end="0:14:54.835000">
+bes/	-	-	-	-	0:14:52.677000	0:14:54.835000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:52.677000" end="0:14:54.835000">
+ha/	-	-	-	-	0:14:52.677000	0:14:54.835000
+haben	haben	AUX	-	-	0:14:52.677000	0:14:54.835000
+eh	eh	ADV	-	-	0:14:52.677000	0:14:54.835000
+da	da	ADV	-	-	0:14:52.677000	0:14:54.835000
+das	der	DET	-	-	0:14:52.677000	0:14:54.835000
+schönsten	schön	ADJ	-	-	0:14:52.677000	0:14:54.835000
+Ort	Ort	NOUN	-	-	0:14:52.677000	0:14:54.835000
+der	der	DET	-	-	0:14:52.677000	0:14:54.835000
+Welt	Welt	NOUN	-	-	0:14:52.677000	0:14:54.835000
+.	-	-	-	-	0:14:52.677000	0:14:54.835000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:54.835000" end="0:14:57.335000">
+besondere	besonder	ADJ	-	-	0:14:54.835000	0:14:56.363000
+Wörter	Wort	NOUN	-	-	0:14:54.835000	0:14:56.363000
+im	im	ADP	-	-	0:14:54.835000	0:14:56.363000
+Dialekt	Dialekt	NOUN	-	-	0:14:54.835000	0:14:56.363000
+brauchen	brauchen	VERB	-	-	0:14:56.363000	0:14:57.335000
+wir	ich	PRON	-	-	0:14:56.363000	0:14:57.335000
+nicht	nicht	PART	-	-	0:14:56.363000	0:14:57.335000
+nehmen	nehmen	VERB	-	-	0:14:56.363000	0:14:57.335000
+,	-	-	-	-	0:14:56.363000	0:14:57.335000
+hm	hm	X	-	-	0:14:56.363000	0:14:57.335000
+?	-	-	-	-	0:14:56.363000	0:14:57.335000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:56.363000" end="0:14:57.335000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:57.335000" end="0:14:59.035000">
+und	und	CCONJ	-	-	0:14:57.335000	0:14:59.035000
+das	der	PRON	-	-	0:14:57.335000	0:14:59.035000
+na	na	PROPN	-	-	0:14:57.335000	0:14:59.035000
+haben	haben	AUX	-	-	0:14:57.335000	0:14:59.035000
+wir	ich	PRON	-	-	0:14:57.335000	0:14:59.035000
+eh	eh	ADV	-	-	0:14:57.335000	0:14:59.035000
+.	-	-	-	-	0:14:57.335000	0:14:59.035000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:14:57.335000" end="0:14:59.035000">
+die	der	PRON	-	-	0:14:57.335000	0:14:59.035000
+haben	haben	AUX	-	-	0:14:57.335000	0:14:59.035000
+wir	ich	PRON	-	-	0:14:57.335000	0:14:59.035000
+eh	eh	ADV	-	-	0:14:57.335000	0:14:59.035000
+schon	schon	ADV	-	-	0:14:57.335000	0:14:59.035000
+gehabt	haben	AUX	-	-	0:14:57.335000	0:14:59.035000
+.	-	-	-	-	0:14:57.335000	0:14:59.035000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:14:59.035000" end="0:15:01.735000">
+aber	aber	CCONJ	-	-	0:14:59.035000	0:15:00.735000
+das	der	PRON	-	-	0:14:59.035000	0:15:00.735000
+könnten	können	VERB	-	-	0:14:59.035000	0:15:00.735000
+wir	ich	PRON	-	-	0:14:59.035000	0:15:00.735000
+ja	ja	ADV	-	-	0:14:59.035000	0:15:00.735000
+schon	schon	ADV	-	-	0:14:59.035000	0:15:00.735000
+von	von	ADP	-	-	0:15:00.735000	0:15:01.735000
+z/	-	-	-	-	0:15:00.735000	0:15:01.735000
+hog/	-	-	-	-	0:15:00.735000	0:15:01.735000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:00.735000" end="0:15:02.477000">
+schöns/	-	-	-	-	0:15:00.735000	0:15:01.735000
+das	der	PRON	-	-	0:15:01.735000	0:15:02.477000
+haben	haben	AUX	-	-	0:15:01.735000	0:15:02.477000
+wir	ich	PRON	-	-	0:15:01.735000	0:15:02.477000
+eh	eh	ADV	-	-	0:15:01.735000	0:15:02.477000
+alles	alle	PRON	-	-	0:15:01.735000	0:15:02.477000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:02.477000" end="0:15:03.999000">
+hacken	hacken	NOUN	-	-	0:15:02.477000	0:15:03.999000
+wir	ich	PRON	-	-	0:15:02.477000	0:15:03.999000
+das	der	PRON	-	-	0:15:02.477000	0:15:03.999000
+ab	ab	ADP	-	-	0:15:02.477000	0:15:03.999000
+?	-	-	-	-	0:15:02.477000	0:15:03.999000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:02.477000" end="0:15:03.999000">
+glaube	glauben	VERB	-	-	0:15:02.477000	0:15:03.999000
+ich	ich	PRON	-	-	0:15:02.477000	0:15:03.999000
+,	-	-	-	-	0:15:02.477000	0:15:03.999000
+hm	hm	X	-	-	0:15:02.477000	0:15:03.999000
+?	-	-	-	-	0:15:02.477000	0:15:03.999000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:03.999000" end="0:15:05.999000">
+Urlaubsziele	Urlaubsziele	NOUN	-	-	0:15:03.999000	0:15:05.999000
+geben	geben	VERB	-	-	0:15:03.999000	0:15:05.999000
+wir/	-	-	-	-	0:15:03.999000	0:15:05.999000
+.	-	-	-	-	0:15:03.999000	0:15:05.999000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:03.999000" end="0:15:06.785000">
+oder	oder	CCONJ	-	-	0:15:03.999000	0:15:05.999000
+ja	ja	ADV	-	-	0:15:03.999000	0:15:05.999000
+(was)	was	PRON	-	-	0:15:03.999000	0:15:05.999000
+na	na	INTJ	-	-	0:15:03.999000	0:15:05.999000
+du	du	PRON	-	-	0:15:05.999000	0:15:06.785000
+hast	haben	AUX	-	-	0:15:05.999000	0:15:06.785000
+noch	noch	ADV	-	-	0:15:05.999000	0:15:06.785000
+nicht	nicht	PART	-	-	0:15:05.999000	0:15:06.785000
+gesagt	sagen	VERB	-	-	0:15:05.999000	0:15:06.785000
+,	-	-	-	-	0:15:05.999000	0:15:06.785000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:06.785000" end="0:15:07.749000">
+wir	ich	PRON	-	-	0:15:06.785000	0:15:07.749000
+f/	-	-	-	-	0:15:06.785000	0:15:07.749000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:06.785000" end="0:15:07.749000">
+was	was	PRON	-	-	0:15:06.785000	0:15:07.749000
+ihr	mein	PRON	-	-	0:15:06.785000	0:15:07.749000
+vorhabt	vorhabt	VERB	-	-	0:15:06.785000	0:15:07.749000
+,	-	-	-	-	0:15:06.785000	0:15:07.749000
+also	also	ADV	-	-	0:15:06.785000	0:15:07.749000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:07.749000" end="0:15:09.120000">
+ja	ja	ADV	-	-	0:15:07.749000	0:15:09.120000
+wir	ich	PRON	-	-	0:15:07.749000	0:15:09.120000
+fahren	fahren	VERB	-	-	0:15:07.749000	0:15:09.120000
+in	in	ADP	-	-	0:15:07.749000	0:15:09.120000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:07.749000" end="0:15:09.599000">
+mhm	mhm	PROPN	-	-	0:15:09.120000	0:15:09.599000
+.	-	-	-	-	0:15:09.120000	0:15:09.599000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:09.599000" end="0:15:17.835000">
+diesmal	diesmal	ADV	-	-	0:15:09.599000	0:15:14.620000
+sind	sein	AUX	-	-	0:15:09.599000	0:15:14.620000
+wir	ich	PRON	-	-	0:15:09.599000	0:15:14.620000
+wieder	wieder	ADV	-	-	0:15:09.599000	0:15:14.620000
+in	in	ADP	-	-	0:15:09.599000	0:15:14.620000
+Juni	Juni	NOUN	-	-	0:15:09.599000	0:15:14.620000
+,	-	-	-	-	0:15:09.599000	0:15:14.620000
+anfangs	anfangs	ADV	-	-	0:15:09.599000	0:15:14.620000
+Juni	Juni	NOUN	-	-	0:15:09.599000	0:15:14.620000
+<pause duration="2,1s"/>
+nein	nein	PART	-	-	0:15:14.620000	0:15:17.835000
+Mitte	Mitte	NOUN	-	-	0:15:14.620000	0:15:17.835000
+Juni	Juni	NOUN	-	-	0:15:14.620000	0:15:17.835000
+,	-	-	-	-	0:15:14.620000	0:15:17.835000
+Blödsinn	Blödsinn	PROPN	-	-	0:15:14.620000	0:15:17.835000
+,	-	-	-	-	0:15:14.620000	0:15:17.835000
+dass	dass	SCONJ	-	-	0:15:14.620000	0:15:17.835000
+ich	ich	PRON	-	-	0:15:14.620000	0:15:17.835000
+keinen	kein	DET	-	-	0:15:14.620000	0:15:17.835000
+Blödsinn	Blödsinn	NOUN	-	-	0:15:14.620000	0:15:17.835000
+rede	rede	VERB	-	-	0:15:14.620000	0:15:17.835000
+,	-	-	-	-	0:15:14.620000	0:15:17.835000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:17.835000" end="0:15:18.142000">
+mhm	mhm	PROPN	-	-	0:15:17.835000	0:15:18.142000
+.	-	-	-	-	0:15:17.835000	0:15:18.142000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:18.142000" end="0:15:23.849000">
+weil	weil	SCONJ	-	-	0:15:18.142000	0:15:22.842000
+wir	ich	PRON	-	-	0:15:18.142000	0:15:22.842000
+haben	haben	AUX	-	-	0:15:18.142000	0:15:22.842000
+ja	ja	ADV	-	-	0:15:18.142000	0:15:22.842000
+<pause duration="0,6s"/>
+unser	sich	DET	-	-	0:15:18.142000	0:15:22.842000
+neunzigjähriges	neunzigjähriges	ADJ	-	-	0:15:18.142000	0:15:22.842000
+<pause duration="0,6s"/>
+vom	vom	ADP	-	-	0:15:18.142000	0:15:22.842000
+Musikverein	Musikverein	NOUN	-	-	0:15:18.142000	0:15:22.842000
+nächstes	nächst	ADJ	-	-	0:15:22.842000	0:15:23.849000
+Jahr	Jahr	NOUN	-	-	0:15:22.842000	0:15:23.849000
+.	-	-	-	-	0:15:22.842000	0:15:23.849000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:22.842000" end="0:15:23.849000">
+nächstes	nächst	ADJ	-	-	0:15:22.842000	0:15:23.849000
+Jahr	Jahr	NOUN	-	-	0:15:22.842000	0:15:23.849000
+ja	ja	ADV	-	-	0:15:22.842000	0:15:23.849000
+ja	ja	ADV	-	-	0:15:22.842000	0:15:23.849000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:23.849000" end="0:15:25.470000">
+und	und	CCONJ	-	-	0:15:23.849000	0:15:25.470000
+das	der	PRON	-	-	0:15:23.849000	0:15:25.470000
+ist	sein	AUX	-	-	0:15:23.849000	0:15:25.470000
+Anfang	Anfang	NOUN	-	-	0:15:23.849000	0:15:25.470000
+Juni	Juni	NOUN	-	-	0:15:23.849000	0:15:25.470000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:23.849000" end="0:15:25.470000">
+das	der	PRON	-	-	0:15:23.849000	0:15:25.470000
+ist	sein	AUX	-	-	0:15:23.849000	0:15:25.470000
+im	im	ADP	-	-	0:15:23.849000	0:15:25.470000
+Juni	Juni	NOUN	-	-	0:15:23.849000	0:15:25.470000
+Anfang	Anfang	NOUN	-	-	0:15:23.849000	0:15:25.470000
+Anfang	Anfang	NOUN	-	-	0:15:23.849000	0:15:25.470000
+Juni	Juni	NOUN	-	-	0:15:23.849000	0:15:25.470000
+,	-	-	-	-	0:15:23.849000	0:15:25.470000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:25.470000" end="0:15:26.927000">
+und	und	CCONJ	-	-	0:15:25.470000	0:15:26.927000
+darum	darum	ADV	-	-	0:15:25.470000	0:15:26.927000
+habe	habe	AUX	-	-	0:15:25.470000	0:15:26.927000
+ich	ich	PRON	-	-	0:15:25.470000	0:15:26.927000
+schon	schon	ADV	-	-	0:15:25.470000	0:15:26.927000
+geschaut	schauen	VERB	-	-	0:15:25.470000	0:15:26.927000
+,	-	-	-	-	0:15:25.470000	0:15:26.927000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:25.470000" end="0:15:26.927000">
+am	am	ADP	-	-	0:15:25.470000	0:15:26.927000
+achten	achten	NOUN	-	-	0:15:25.470000	0:15:26.927000
+,	-	-	-	-	0:15:25.470000	0:15:26.927000
+neunten	neunten	ADJ	-	-	0:15:25.470000	0:15:26.927000
+Juni	Juni	NOUN	-	-	0:15:25.470000	0:15:26.927000
+.	-	-	-	-	0:15:25.470000	0:15:26.927000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:26.927000" end="0:15:28.792000">
+dass	dass	SCONJ	-	-	0:15:26.927000	0:15:28.792000
+ich	ich	PRON	-	-	0:15:26.927000	0:15:28.792000
+dass	dass	VERB	-	-	0:15:26.927000	0:15:28.792000
+da	da	ADV	-	-	0:15:26.927000	0:15:28.792000
+das	der	PRON	-	-	0:15:26.927000	0:15:28.792000
+nicht	nicht	PART	-	-	0:15:26.927000	0:15:28.792000
+ist	sein	AUX	-	-	0:15:26.927000	0:15:28.792000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:26.927000" end="0:15:28.792000">
+mhm	mhm	PROPN	-	-	0:15:26.927000	0:15:28.792000
+ja	ja	ADV	-	-	0:15:26.927000	0:15:28.792000
+.	-	-	-	-	0:15:26.927000	0:15:28.792000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:28.792000" end="0:15:30.463000">
+und	und	CCONJ	-	-	0:15:28.792000	0:15:30.463000
+das	der	PRON	-	-	0:15:28.792000	0:15:30.463000
+ist	sein	AUX	-	-	0:15:28.792000	0:15:30.463000
+eh	eh	ADV	-	-	0:15:28.792000	0:15:30.463000
+nicht	nicht	PART	-	-	0:15:28.792000	0:15:30.463000
+,	-	-	-	-	0:15:28.792000	0:15:30.463000
+wir	ich	PRON	-	-	0:15:28.792000	0:15:30.463000
+sind	sein	AUX	-	-	0:15:28.792000	0:15:30.463000
+später	spät	ADJ	-	-	0:15:28.792000	0:15:30.463000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:30.463000" end="0:15:30.827000">
+mhm	mhm	PROPN	-	-	0:15:30.463000	0:15:30.827000
+.	-	-	-	-	0:15:30.463000	0:15:30.827000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:30.827000" end="0:15:32.677000">
+fahren	fahren	VERB	-	-	0:15:30.827000	0:15:32.677000
+wir	ich	PRON	-	-	0:15:30.827000	0:15:32.677000
+wieder	wieder	ADV	-	-	0:15:30.827000	0:15:32.677000
+nach	nach	ADP	-	-	0:15:30.827000	0:15:32.677000
+Rovinj	Rovinj	NOUN	-	-	0:15:30.827000	0:15:32.677000
+fahren	fahren	VERB	-	-	0:15:30.827000	0:15:32.677000
+wir	ich	PRON	-	-	0:15:30.827000	0:15:32.677000
+diesmal	diesmal	ADV	-	-	0:15:30.827000	0:15:32.677000
+.	-	-	-	-	0:15:30.827000	0:15:32.677000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:32.677000" end="0:15:33.170000">
+mhm	mhm	PROPN	-	-	0:15:32.677000	0:15:33.170000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:33.170000" end="0:15:33.692000">
+eine	einen	DET	-	-	0:15:33.170000	0:15:33.692000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:33.170000" end="0:15:33.692000">
+mhm	mhm	PROPN	-	-	0:15:33.170000	0:15:33.692000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:33.692000" end="0:15:35.642000">
+Woche	Woche	NOUN	-	-	0:15:33.692000	0:15:35.642000
+kegeln	kegeln	VERB	-	-	0:15:33.692000	0:15:35.642000
+wieder	wieder	ADV	-	-	0:15:33.692000	0:15:35.642000
+ja	ja	ADV	-	-	0:15:33.692000	0:15:35.642000
+ja	ja	ADV	-	-	0:15:33.692000	0:15:35.642000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:33.692000" end="0:15:37.113000">
+(eh	eh	ADV	-	-	0:15:33.692000	0:15:35.642000
+schon	schon	ADV	-	-	0:15:33.692000	0:15:35.642000
+wieder)	wieder	ADV	-	-	0:15:33.692000	0:15:35.642000
+ja	ja	ADV	-	-	0:15:33.692000	0:15:35.642000
+ja	ja	PART	-	-	0:15:33.692000	0:15:35.642000
+.	-	-	-	-	0:15:33.692000	0:15:35.642000
+mhm	mhm	PROPN	-	-	0:15:35.642000	0:15:37.113000
+.	-	-	-	-	0:15:35.642000	0:15:37.113000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:37.113000" end="0:15:39.763000">
+na	na	X	-	-	0:15:37.113000	0:15:38.756000
+gut	gut	ADJ	-	-	0:15:37.113000	0:15:38.756000
+,	-	-	-	-	0:15:37.113000	0:15:38.756000
+dann	dann	ADV	-	-	0:15:37.113000	0:15:38.756000
+haben	haben	AUX	-	-	0:15:37.113000	0:15:38.756000
+wir	ich	PRON	-	-	0:15:37.113000	0:15:38.756000
+den	der	DET	-	-	0:15:38.756000	0:15:39.763000
+nächsten	nächst	ADJ	-	-	0:15:38.756000	0:15:39.763000
+Punkt	Punkt	NOUN	-	-	0:15:38.756000	0:15:39.763000
+.	-	-	-	-	0:15:38.756000	0:15:39.763000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:38.756000" end="0:15:42.070000">
+ja	-	-	-	-	0:15:38.756000	0:15:39.763000
+den	-	-	-	-	0:15:38.756000	0:15:39.763000
+schönsten	-	-	-	-	0:15:38.756000	0:15:39.763000
+Ort	-	-	-	-	0:15:39.763000	0:15:42.070000
+der	-	-	-	-	0:15:39.763000	0:15:42.070000
+Welt	-	-	-	-	0:15:39.763000	0:15:42.070000
+*hast*	-	-	-	-	0:15:39.763000	0:15:42.070000
+gesagt	-	-	-	-	0:15:39.763000	0:15:42.070000
+letztes	-	-	-	-	0:15:39.763000	0:15:42.070000
+Mal	-	-	-	-	0:15:39.763000	0:15:42.070000
+ist	-	-	-	-	0:15:39.763000	0:15:42.070000
+[Steyrling]O	-	-	-	-	0:15:39.763000	0:15:42.070000
+.	-	-	-	-	0:15:39.763000	0:15:42.070000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:42.070000" end="0:15:42.506000">
+ja	ja	PART	-	-	0:15:42.070000	0:15:42.506000
+.	-	-	-	-	0:15:42.070000	0:15:42.506000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:42.506000" end="0:15:44.906000">
+ja	ja	ADV	-	-	0:15:42.506000	0:15:44.906000
+müssen	müssen	VERB	-	-	0:15:42.506000	0:15:44.906000
+wir	ich	PRON	-	-	0:15:42.506000	0:15:44.906000
+eigentlich	eigentlich	ADV	-	-	0:15:42.506000	0:15:44.906000
+über	über	ADP	-	-	0:15:42.506000	0:15:44.906000
+den	der	DET	-	-	0:15:42.506000	0:15:44.906000
+zweitschönsten	zweitschönsten	NOUN	-	-	0:15:42.506000	0:15:44.906000
+reden	reden	VERB	-	-	0:15:42.506000	0:15:44.906000
+dann	dann	ADV	-	-	0:15:42.506000	0:15:44.906000
+,	-	-	-	-	0:15:42.506000	0:15:44.906000
+nicht	nicht	PART	-	-	0:15:42.506000	0:15:44.906000
+?	-	-	-	-	0:15:42.506000	0:15:44.906000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:44.906000" end="0:15:46.356000">
+dann/	-	-	-	-	0:15:44.906000	0:15:46.356000
+.	-	-	-	-	0:15:44.906000	0:15:46.356000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:44.906000" end="0:15:46.356000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:46.356000" end="0:15:50.365000">
+ja	ja	ADV	-	-	0:15:46.356000	0:15:48.999000
+<pause duration="0,7s"/>
+eigentlich	eigentlich	ADV	-	-	0:15:46.356000	0:15:48.999000
+habe	habe	AUX	-	-	0:15:46.356000	0:15:48.999000
+ich	ich	PRON	-	-	0:15:46.356000	0:15:48.999000
+einmal	einmal	ADV	-	-	0:15:46.356000	0:15:48.999000
+habe	habe	AUX	-	-	0:15:46.356000	0:15:48.999000
+ich	ich	PRON	-	-	0:15:46.356000	0:15:48.999000
+heute	heute	ADV	-	-	0:15:46.356000	0:15:48.999000
+gesagt	sagen	VERB	-	-	0:15:48.999000	0:15:50.365000
+zu	zu	ADP	-	-	0:15:48.999000	0:15:50.365000
+der	der	DET	-	-	0:15:48.999000	0:15:50.365000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:48.999000" end="0:15:50.365000">
+ja	ja	PART	-	-	0:15:48.999000	0:15:50.365000
+.	-	-	-	-	0:15:48.999000	0:15:50.365000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:50.365000" end="0:15:51.485000">
+dem	der	DET	-	-	0:15:50.365000	0:15:51.485000
+(Fräulein)	Fräulein	NOUN	-	-	0:15:50.365000	0:15:51.485000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:50.365000" end="0:15:51.485000">
+zur	zur	ADP	-	-	0:15:50.365000	0:15:51.485000
+[Anja]N	Anja	NOUN	-	-	0:15:50.365000	0:15:51.485000
+.	-	-	-	-	0:15:50.365000	0:15:51.485000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:15:51.485000" end="0:16:00.952000">
+zu	zu	ADP	-	-	0:15:51.485000	0:15:56.992000
+der	der	DET	-	-	0:15:51.485000	0:15:56.992000
+[Anja]N	Anja	NOUN	-	-	0:15:51.485000	0:15:56.992000
+,	-	-	-	-	0:15:51.485000	0:15:56.992000
+<pause duration="0,5s"/>
+also	also	ADV	-	-	0:15:51.485000	0:15:56.992000
+das	der	PRON	-	-	0:15:51.485000	0:15:56.992000
+gehörte	gehören	VERB	-	-	0:15:51.485000	0:15:56.992000
+eigentlich	eigentlich	ADV	-	-	0:15:51.485000	0:15:56.992000
+hinein	hinein	ADV	-	-	0:15:51.485000	0:15:56.992000
+<pause duration="1,4s"/>
+sieben	sieben	NUM	-	-	0:15:51.485000	0:15:56.992000
+Schätze	Schatz	NOUN	-	-	0:15:51.485000	0:15:56.992000
+,	-	-	-	-	0:15:51.485000	0:15:56.992000
+u/	-	-	-	-	0:15:56.992000	0:16:00.952000
+und	und	CCONJ	-	-	0:15:56.992000	0:16:00.952000
+wie	wie	ADV	-	-	0:15:56.992000	0:16:00.952000
+heißt	heißen	VERB	-	-	0:15:56.992000	0:16:00.952000
+es	ich	PRON	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+z/	-	-	-	-	0:15:56.992000	0:16:00.952000
+n/	-	-	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+Plätze	Platz	NOUN	-	-	0:15:56.992000	0:16:00.952000
+,	-	-	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+Schätze	Schatz	NOUN	-	-	0:15:56.992000	0:16:00.952000
+,	-	-	-	-	0:15:56.992000	0:16:00.952000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:15:56.992000" end="0:16:01.459000">
+ähm	ähm	X	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+Plätze	Platz	NOUN	-	-	0:15:56.992000	0:16:00.952000
+neun	neun	NUM	-	-	0:15:56.992000	0:16:00.952000
+Schätze	Schatz	NOUN	-	-	0:15:56.992000	0:16:00.952000
+ähm	ähm	ADJ	-	-	0:15:56.992000	0:16:00.952000
+ganz	ganz	ADV	-	-	0:15:56.992000	0:16:00.952000
+Österreich	Österreich	PROPN	-	-	0:15:56.992000	0:16:00.952000
+.	-	-	-	-	0:15:56.992000	0:16:00.952000
+ja	ja	ADV	-	-	0:16:00.952000	0:16:01.459000
+ja	ja	ADV	-	-	0:16:00.952000	0:16:01.459000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:01.459000" end="0:16:02.439000">
+ich	ich	PRON	-	-	0:16:01.459000	0:16:02.439000
+war	sein	AUX	-	-	0:16:01.459000	0:16:02.439000
+am	am	ADP	-	-	0:16:01.459000	0:16:02.439000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:01.459000" end="0:16:02.439000">
+ja	ja	PART	-	-	0:16:01.459000	0:16:02.439000
+.	-	-	-	-	0:16:01.459000	0:16:02.439000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:02.439000" end="0:16:04.439000">
+[(Imbisselstein)]O	Imbisselstein	NOUN	-	-	0:16:02.439000	0:16:04.439000
+.	-	-	-	-	0:16:02.439000	0:16:04.439000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:04.439000" end="0:16:06.225000">
+wo	wo	ADV	-	-	0:16:04.439000	0:16:06.225000
+das	der	DET	-	-	0:16:04.439000	0:16:06.225000
+Kreuz	Kreuz	NOUN	-	-	0:16:04.439000	0:16:06.225000
+oben	oben	ADV	-	-	0:16:04.439000	0:16:06.225000
+ist	sein	AUX	-	-	0:16:04.439000	0:16:06.225000
+vom	vom	ADP	-	-	0:16:04.439000	0:16:06.225000
+vom/	-	-	-	-	0:16:04.439000	0:16:06.225000
+.	-	-	-	-	0:16:04.439000	0:16:06.225000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:06.225000" end="0:16:09.712000">
+am	am	ADP	-	-	0:16:06.225000	0:16:07.305000
+Freitag	Freitag	NOUN	-	-	0:16:06.225000	0:16:07.305000
+war	sein	AUX	-	-	0:16:06.225000	0:16:07.305000
+es	ich	PRON	-	-	0:16:06.225000	0:16:07.305000
+so	so	ADV	-	-	0:16:06.225000	0:16:07.305000
+schön	schön	ADJ	-	-	0:16:06.225000	0:16:07.305000
+,	-	-	-	-	0:16:06.225000	0:16:07.305000
+wie	wie	ADV	-	-	0:16:07.305000	0:16:09.712000
+es	ich	PRON	-	-	0:16:07.305000	0:16:09.712000
+noch	noch	ADV	-	-	0:16:07.305000	0:16:09.712000
+so	so	ADV	-	-	0:16:07.305000	0:16:09.712000
+schön	schön	ADJ	-	-	0:16:07.305000	0:16:09.712000
+war	sein	AUX	-	-	0:16:07.305000	0:16:09.712000
+,	-	-	-	-	0:16:07.305000	0:16:09.712000
+ja	ja	ADV	-	-	0:16:07.305000	0:16:09.712000
+vom	vom	ADP	-	-	0:16:07.305000	0:16:09.712000
+[Mandelbauer]N	Mandelbauer	NOUN	-	-	0:16:07.305000	0:16:09.712000
+.	-	-	-	-	0:16:07.305000	0:16:09.712000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:07.305000" end="0:16:09.712000">
+vom	vom	ADP	-	-	0:16:07.305000	0:16:09.712000
+[Mandelbauer]N	Mandelbauer	NOUN	-	-	0:16:07.305000	0:16:09.712000
+ja	ja	ADV	-	-	0:16:07.305000	0:16:09.712000
+ja	ja	ADV	-	-	0:16:07.305000	0:16:09.712000
+ja	ja	ADV	-	-	0:16:07.305000	0:16:09.712000
+gell	gell	ADJ	-	-	0:16:07.305000	0:16:09.712000
+,	-	-	-	-	0:16:07.305000	0:16:09.712000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:09.712000" end="0:16:11.819000">
+und	und	CCONJ	-	-	0:16:09.712000	0:16:11.819000
+da	da	ADV	-	-	0:16:09.712000	0:16:11.819000
+war	sein	AUX	-	-	0:16:09.712000	0:16:11.819000
+ich	ich	PRON	-	-	0:16:09.712000	0:16:11.819000
+oben	oben	ADV	-	-	0:16:09.712000	0:16:11.819000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:09.712000" end="0:16:11.819000">
+*siehst*	-	-	-	-	0:16:09.712000	0:16:11.819000
+schön	-	-	-	-	0:16:09.712000	0:16:11.819000
+auf	-	-	-	-	0:16:09.712000	0:16:11.819000
+uns	-	-	-	-	0:16:09.712000	0:16:11.819000
+hinunter	-	-	-	-	0:16:09.712000	0:16:11.819000
+da	-	-	-	-	0:16:09.712000	0:16:11.819000
+mhm	-	-	-	-	0:16:09.712000	0:16:11.819000
+.	-	-	-	-	0:16:09.712000	0:16:11.819000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:11.819000" end="0:16:14.925000">
+(und)	und	CCONJ	-	-	0:16:11.819000	0:16:13.132000
+wenn	wenn	SCONJ	-	-	0:16:11.819000	0:16:13.132000
+ich	ich	PRON	-	-	0:16:11.819000	0:16:13.132000
+dir	sich	PRON	-	-	0:16:11.819000	0:16:13.132000
+sage	sage	VERB	-	-	0:16:11.819000	0:16:13.132000
+[Franz]N	franzen	PROPN	-	-	0:16:11.819000	0:16:13.132000
+,	-	-	-	-	0:16:11.819000	0:16:13.132000
+das	der	PRON	-	-	0:16:13.132000	0:16:14.925000
+war	sein	AUX	-	-	0:16:13.132000	0:16:14.925000
+ein	einen	DET	-	-	0:16:13.132000	0:16:14.925000
+Ausblick	Ausblick	NOUN	-	-	0:16:13.132000	0:16:14.925000
+,	-	-	-	-	0:16:13.132000	0:16:14.925000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:14.925000" end="0:16:15.465000">
+mhm	mhm	PROPN	-	-	0:16:14.925000	0:16:15.465000
+.	-	-	-	-	0:16:14.925000	0:16:15.465000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:15.465000" end="0:16:16.865000">
+das	der	DET	-	-	0:16:15.465000	0:16:16.865000
+tote	tot	ADJ	-	-	0:16:15.465000	0:16:16.865000
+Gebirge	Gebirge	NOUN	-	-	0:16:15.465000	0:16:16.865000
+,	-	-	-	-	0:16:15.465000	0:16:16.865000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:16.865000" end="0:16:17.259000">
+ja	-	-	-	-	0:16:16.865000	0:16:17.259000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:17.259000" end="0:16:17.939000">
+wie	wie	ADV	-	-	0:16:17.259000	0:16:17.939000
+das	der	PRON	-	-	0:16:17.259000	0:16:17.939000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:17.259000" end="0:16:17.939000">
+*weiß*	-	-	-	-	0:16:17.259000	0:16:17.939000
+eh	-	-	-	-	0:16:17.259000	0:16:17.939000
+.	-	-	-	-	0:16:17.259000	0:16:17.939000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:17.939000" end="0:16:19.145000">
+dagestanden	dastehen	PRON	-	-	0:16:17.939000	0:16:18.685000
+ist	sein	AUX	-	-	0:16:17.939000	0:16:18.685000
+,	-	-	-	-	0:16:17.939000	0:16:18.685000
+(und	und	CCONJ	-	-	0:16:18.685000	0:16:19.145000
+wie	wie	ADV	-	-	0:16:18.685000	0:16:19.145000
+jetzt)	jetzt	ADV	-	-	0:16:18.685000	0:16:19.145000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:18.685000" end="0:16:19.145000">
+mhm	mhm	PROPN	-	-	0:16:18.685000	0:16:19.145000
+.	-	-	-	-	0:16:18.685000	0:16:19.145000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:19.145000" end="0:16:20.005000">
+so	so	ADV	-	-	0:16:19.145000	0:16:20.005000
+rein	rein	ADJ	-	-	0:16:19.145000	0:16:20.005000
+,	-	-	-	-	0:16:19.145000	0:16:20.005000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:20.005000" end="0:16:20.425000">
+mhm	mhm	PROPN	-	-	0:16:20.005000	0:16:20.425000
+.	-	-	-	-	0:16:20.005000	0:16:20.425000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:20.425000" end="0:16:22.732000">
+so	so	ADV	-	-	0:16:20.425000	0:16:22.732000
+d/	-	-	-	-	0:16:20.425000	0:16:22.732000
+habe	habe	AUX	-	-	0:16:20.425000	0:16:22.732000
+ich	ich	PRON	-	-	0:16:20.425000	0:16:22.732000
+es	ich	PRON	-	-	0:16:20.425000	0:16:22.732000
+so	so	ADV	-	-	0:16:20.425000	0:16:22.732000
+habe	habe	AUX	-	-	0:16:20.425000	0:16:22.732000
+ich	ich	PRON	-	-	0:16:20.425000	0:16:22.732000
+es	ich	PRON	-	-	0:16:20.425000	0:16:22.732000
+schon	schon	ADV	-	-	0:16:20.425000	0:16:22.732000
+lange	lang	ADV	-	-	0:16:20.425000	0:16:22.732000
+nicht	nicht	PART	-	-	0:16:20.425000	0:16:22.732000
+mehr	mehr	ADV	-	-	0:16:20.425000	0:16:22.732000
+gesehen	sehen	VERB	-	-	0:16:20.425000	0:16:22.732000
+,	-	-	-	-	0:16:20.425000	0:16:22.732000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:22.732000" end="0:16:23.192000">
+ja	ja	ADV	-	-	0:16:22.732000	0:16:23.192000
+ja	ja	PART	-	-	0:16:22.732000	0:16:23.192000
+.	-	-	-	-	0:16:22.732000	0:16:23.192000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:23.192000" end="0:16:28.072000">
+und	und	CCONJ	-	-	0:16:23.192000	0:16:24.159000
+da	da	ADV	-	-	0:16:23.192000	0:16:24.159000
+habe	habe	AUX	-	-	0:16:23.192000	0:16:24.159000
+ich	ich	PRON	-	-	0:16:23.192000	0:16:24.159000
+mir	sich	PRON	-	-	0:16:23.192000	0:16:24.159000
+gedacht	gedenken	VERB	-	-	0:16:23.192000	0:16:24.159000
+von	von	ADP	-	-	0:16:24.159000	0:16:26.865000
+da	da	ADV	-	-	0:16:24.159000	0:16:26.865000
+aus	aus	ADP	-	-	0:16:24.159000	0:16:26.865000
+den	der	DET	-	-	0:16:24.159000	0:16:26.865000
+[Kasberg]O	Kasberg	PROPN	-	-	0:16:24.159000	0:16:26.865000
+[(Volkemauer)]O	Volkemauer	NOUN	-	-	0:16:26.865000	0:16:28.072000
+.	-	-	-	-	0:16:26.865000	0:16:28.072000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:26.865000" end="0:16:29.119000">
+ja	-	-	-	-	0:16:26.865000	0:16:28.072000
+da	-	-	-	-	0:16:26.865000	0:16:28.072000
+*siehst*	-	-	-	-	0:16:26.865000	0:16:28.072000
+wirklich	-	-	-	-	0:16:28.072000	0:16:29.119000
+super	-	-	-	-	0:16:28.072000	0:16:29.119000
+ja	-	-	-	-	0:16:28.072000	0:16:29.119000
+ja	-	-	-	-	0:16:28.072000	0:16:29.119000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:29.119000" end="0:16:31.119000">
+da	-	-	-	-	0:16:29.119000	0:16:31.119000
+*siehst*	-	-	-	-	0:16:29.119000	0:16:31.119000
+hinüber	-	-	-	-	0:16:29.119000	0:16:31.119000
+auf	-	-	-	-	0:16:29.119000	0:16:31.119000
+_dings_	-	-	-	-	0:16:29.119000	0:16:31.119000
+noch	-	-	-	-	0:16:29.119000	0:16:31.119000
+ähm	-	-	-	-	0:16:29.119000	0:16:31.119000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:29.119000" end="0:16:31.119000">
+Aussicht	-	-	-	-	0:16:29.119000	0:16:31.119000
+ist	-	-	-	-	0:16:29.119000	0:16:31.119000
+gell	-	-	-	-	0:16:29.119000	0:16:31.119000
+ja	-	-	-	-	0:16:29.119000	0:16:31.119000
+(ist	-	-	-	-	0:16:29.119000	0:16:31.119000
+eh)	-	-	-	-	0:16:29.119000	0:16:31.119000
+ja	-	-	-	-	0:16:29.119000	0:16:31.119000
+.	-	-	-	-	0:16:29.119000	0:16:31.119000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:31.119000" end="0:16:32.479000">
+auf	-	-	-	-	0:16:31.119000	0:16:32.479000
+auf	-	-	-	-	0:16:31.119000	0:16:32.479000
+die	-	-	-	-	0:16:31.119000	0:16:32.479000
+[Kremsmauer]O	-	-	-	-	0:16:31.119000	0:16:32.479000
+.	-	-	-	-	0:16:31.119000	0:16:32.479000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:32.479000" end="0:16:34.885000">
+wir	ich	PRON	-	-	0:16:32.479000	0:16:34.885000
+gehen	gehen	VERB	-	-	0:16:32.479000	0:16:34.885000
+auch	auch	ADV	-	-	0:16:32.479000	0:16:34.885000
+gerne	gerne	ADV	-	-	0:16:32.479000	0:16:34.885000
+wir	ich	PRON	-	-	0:16:32.479000	0:16:34.885000
+gehen	gehen	VERB	-	-	0:16:32.479000	0:16:34.885000
+den	der	DET	-	-	0:16:32.479000	0:16:34.885000
+[Pastorensteig]O	Pastorensteig	NOUN	-	-	0:16:32.479000	0:16:34.885000
+hinauf	hinauf	ADP	-	-	0:16:32.479000	0:16:34.885000
+,	-	-	-	-	0:16:32.479000	0:16:34.885000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:34.885000" end="0:16:37.372000">
+ja	ja	ADV	-	-	0:16:34.885000	0:16:37.372000
+bin	sein	AUX	-	-	0:16:34.885000	0:16:37.372000
+ich	ich	PRON	-	-	0:16:34.885000	0:16:37.372000
+eh	eh	ADV	-	-	0:16:34.885000	0:16:37.372000
+wir	ich	PRON	-	-	0:16:34.885000	0:16:37.372000
+sind	sein	AUX	-	-	0:16:34.885000	0:16:37.372000
+eh	eh	ADV	-	-	0:16:34.885000	0:16:37.372000
+ja	ja	ADV	-	-	0:16:34.885000	0:16:37.372000
+.	-	-	-	-	0:16:34.885000	0:16:37.372000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:34.885000" end="0:16:39.372000">
+v/	-	-	-	-	0:16:34.885000	0:16:37.372000
+vom	-	-	-	-	0:16:34.885000	0:16:37.372000
+[(Tragel)]O	-	-	-	-	0:16:34.885000	0:16:37.372000
+hinauf	-	-	-	-	0:16:34.885000	0:16:37.372000
+gehen	-	-	-	-	0:16:34.885000	0:16:37.372000
+ähm	-	-	-	-	0:16:34.885000	0:16:37.372000
+und	-	-	-	-	0:16:34.885000	0:16:37.372000
+dann	-	-	-	-	0:16:34.885000	0:16:37.372000
+*gehst*	-	-	-	-	0:16:34.885000	0:16:37.372000
+hinüber	-	-	-	-	0:16:37.372000	0:16:39.372000
+und	-	-	-	-	0:16:37.372000	0:16:39.372000
+dann	-	-	-	-	0:16:37.372000	0:16:39.372000
+am	-	-	-	-	0:16:37.372000	0:16:39.372000
+am	-	-	-	-	0:16:37.372000	0:16:39.372000
+im	-	-	-	-	0:16:37.372000	0:16:39.372000
+[Wieselstein]O	-	-	-	-	0:16:37.372000	0:16:39.372000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:39.372000" end="0:16:41.372000">
+genau	genau	ADJ	-	-	0:16:39.372000	0:16:41.372000
+,	-	-	-	-	0:16:39.372000	0:16:41.372000
+das	der	PRON	-	-	0:16:39.372000	0:16:41.372000
+war	sein	AUX	-	-	0:16:39.372000	0:16:41.372000
+eh	eh	ADV	-	-	0:16:39.372000	0:16:41.372000
+wir	ich	PRON	-	-	0:16:39.372000	0:16:41.372000
+sind	sein	AUX	-	-	0:16:39.372000	0:16:41.372000
+eh	eh	ADV	-	-	0:16:39.372000	0:16:41.372000
+so	so	ADV	-	-	0:16:39.372000	0:16:41.372000
+gegangen	gehen	VERB	-	-	0:16:39.372000	0:16:41.372000
+auch	auch	ADV	-	-	0:16:39.372000	0:16:41.372000
+,	-	-	-	-	0:16:39.372000	0:16:41.372000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:39.372000" end="0:16:42.159000">
+hinaus	-	-	-	-	0:16:39.372000	0:16:41.372000
+nicht	-	-	-	-	0:16:39.372000	0:16:41.372000
+,	-	-	-	-	0:16:39.372000	0:16:41.372000
+da	da	ADV	-	-	0:16:39.372000	0:16:41.372000
+ist	sein	AUX	-	-	0:16:39.372000	0:16:41.372000
+das	der	DET	-	-	0:16:39.372000	0:16:41.372000
+Kreuz	Kreuz	NOUN	-	-	0:16:39.372000	0:16:41.372000
+oben	oben	ADV	-	-	0:16:39.372000	0:16:41.372000
+vom	vom	ADP	-	-	0:16:39.372000	0:16:41.372000
+vom	vom	ADP	-	-	0:16:41.372000	0:16:42.159000
+[Mandelbauer]N	Mandelbauer	NOUN	-	-	0:16:41.372000	0:16:42.159000
+,	-	-	-	-	0:16:41.372000	0:16:42.159000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:42.159000" end="0:16:42.719000">
+ja	ja	ADV	-	-	0:16:42.159000	0:16:42.719000
+ja	ja	PART	-	-	0:16:42.159000	0:16:42.719000
+.	-	-	-	-	0:16:42.159000	0:16:42.719000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:42.719000" end="0:16:44.165000">
+d/	-	-	-	-	0:16:42.719000	0:16:44.165000
+der	der	DET	-	-	0:16:42.719000	0:16:44.165000
+[Peter]N	Peter	PROPN	-	-	0:16:42.719000	0:16:44.165000
+hat	haben	AUX	-	-	0:16:42.719000	0:16:44.165000
+das	der	PRON	-	-	0:16:42.719000	0:16:44.165000
+gemacht	machen	VERB	-	-	0:16:42.719000	0:16:44.165000
+,	-	-	-	-	0:16:42.719000	0:16:44.165000
+nicht	nicht	PART	-	-	0:16:42.719000	0:16:44.165000
+?	-	-	-	-	0:16:42.719000	0:16:44.165000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:44.165000" end="0:16:49.812000">
+dann	-	-	-	-	0:16:44.165000	0:16:47.812000
+ist	-	-	-	-	0:16:44.165000	0:16:47.812000
+ein	-	-	-	-	0:16:44.165000	0:16:47.812000
+_dings_	-	-	-	-	0:16:44.165000	0:16:47.812000
+drinnen	-	-	-	-	0:16:44.165000	0:16:47.812000
+gewesen	-	-	-	-	0:16:44.165000	0:16:47.812000
+,	-	-	-	-	0:16:44.165000	0:16:47.812000
+ist	sein	AUX	-	-	0:16:44.165000	0:16:47.812000
+ja	ja	ADV	-	-	0:16:44.165000	0:16:47.812000
+der	der	DET	-	-	0:16:44.165000	0:16:47.812000
+Kasten	Kaste	NOUN	-	-	0:16:44.165000	0:16:47.812000
+,	-	-	-	-	0:16:44.165000	0:16:47.812000
+*weißt*	-	-	-	-	0:16:44.165000	0:16:47.812000
+eh	-	-	-	-	0:16:44.165000	0:16:47.812000
+,	-	-	-	-	0:16:44.165000	0:16:47.812000
+mit	mit	ADP	-	-	0:16:44.165000	0:16:47.812000
+einem	einer	DET	-	-	0:16:44.165000	0:16:47.812000
+Buch	Buch	NOUN	-	-	0:16:44.165000	0:16:47.812000
+,	-	-	-	-	0:16:44.165000	0:16:47.812000
+zum	zum	ADP	-	-	0:16:47.812000	0:16:49.812000
+Einschreiben	Einschreiben	NOUN	-	-	0:16:47.812000	0:16:49.812000
+d/	-	-	-	-	0:16:47.812000	0:16:49.812000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:47.812000" end="0:16:49.812000">
+ja	ja	ADV	-	-	0:16:47.812000	0:16:49.812000
+ja	ja	ADV	-	-	0:16:47.812000	0:16:49.812000
+G/	-	-	-	-	0:16:47.812000	0:16:49.812000
+Gipfelbuch	Gipfelbuch	NOUN	-	-	0:16:47.812000	0:16:49.812000
+alles	alle	PRON	-	-	0:16:47.812000	0:16:49.812000
+da	da	ADP	-	-	0:16:47.812000	0:16:49.812000
+.	-	-	-	-	0:16:47.812000	0:16:49.812000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:49.812000" end="0:16:52.825000">
+d/	-	-	-	-	0:16:49.812000	0:16:52.825000
+ja	ja	ADV	-	-	0:16:49.812000	0:16:52.825000
+aber	aber	ADV	-	-	0:16:49.812000	0:16:52.825000
+der	der	DET	-	-	0:16:49.812000	0:16:52.825000
+Tisch	Tisch	NOUN	-	-	0:16:49.812000	0:16:52.825000
+war	sein	AUX	-	-	0:16:49.812000	0:16:52.825000
+kaputt	kaputt	ADJ	-	-	0:16:49.812000	0:16:52.825000
+.	-	-	-	-	0:16:49.812000	0:16:52.825000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:49.812000" end="0:16:52.825000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:52.825000" end="0:16:54.132000">
+der	der	DET	-	-	0:16:52.825000	0:16:54.132000
+Schreiber	Schreiber	PROPN	-	-	0:16:52.825000	0:16:54.132000
+,	-	-	-	-	0:16:52.825000	0:16:54.132000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:52.825000" end="0:16:54.132000">
+der	der	DET	-	-	0:16:52.825000	0:16:54.132000
+Schreiber	Schreiber	PROPN	-	-	0:16:52.825000	0:16:54.132000
+,	-	-	-	-	0:16:52.825000	0:16:54.132000
+Kugelschreiber	Kugelschreiber	NOUN	-	-	0:16:52.825000	0:16:54.132000
+.	-	-	-	-	0:16:52.825000	0:16:54.132000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:54.132000" end="0:16:55.659000">
+jetzt	-	-	-	-	0:16:54.132000	0:16:55.659000
+habe	-	-	-	-	0:16:54.132000	0:16:55.659000
+ich	-	-	-	-	0:16:54.132000	0:16:55.659000
+_a_	-	-	-	-	0:16:54.132000	0:16:55.659000
+so	-	-	-	-	0:16:54.132000	0:16:55.659000
+schreiben	-	-	-	-	0:16:54.132000	0:16:55.659000
+müssen	-	-	-	-	0:16:54.132000	0:16:55.659000
+,	-	-	-	-	0:16:54.132000	0:16:55.659000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:54.132000" end="0:16:55.659000">
+ja	ja	PART	-	-	0:16:54.132000	0:16:55.659000
+.	-	-	-	-	0:16:54.132000	0:16:55.659000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:55.659000" end="0:16:58.019000">
+*weißt*	-	-	-	-	0:16:55.659000	0:16:56.259000
+es	-	-	-	-	0:16:55.659000	0:16:56.259000
+eh	-	-	-	-	0:16:55.659000	0:16:56.259000
+,	-	-	-	-	0:16:55.659000	0:16:56.259000
+halten	halten	VERB	-	-	0:16:56.259000	0:16:58.019000
+der	der	PRON	-	-	0:16:56.259000	0:16:58.019000
+hat	haben	AUX	-	-	0:16:56.259000	0:16:58.019000
+nicht	nicht	PART	-	-	0:16:56.259000	0:16:58.019000
+mehr	mehr	ADV	-	-	0:16:56.259000	0:16:58.019000
+gedrückt	drücken	VERB	-	-	0:16:56.259000	0:16:58.019000
+,	-	-	-	-	0:16:56.259000	0:16:58.019000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:56.259000" end="0:16:58.019000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:16:58.019000" end="0:17:00.292000">
+habe	habe	AUX	-	-	0:16:58.019000	0:17:00.292000
+ich	ich	PRON	-	-	0:16:58.019000	0:17:00.292000
+fürchterliche	fürchterliche	ADJ	-	-	0:16:58.019000	0:17:00.292000
+Schrift	Schrift	NOUN	-	-	0:16:58.019000	0:17:00.292000
+,	-	-	-	-	0:16:58.019000	0:17:00.292000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:16:58.019000" end="0:17:00.292000">
+ach	-	-	-	-	0:16:58.019000	0:17:00.292000
+so	-	-	-	-	0:16:58.019000	0:17:00.292000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:00.292000" end="0:17:01.965000">
+ich	ich	PRON	-	-	0:17:00.292000	0:17:01.965000
+sage	sage	VERB	-	-	0:17:00.292000	0:17:01.965000
+dir	sich	PRON	-	-	0:17:00.292000	0:17:01.965000
+was	was	PRON	-	-	0:17:00.292000	0:17:01.965000
+z/	-	-	-	-	0:17:00.292000	0:17:01.965000
+was	was	PRON	-	-	0:17:00.292000	0:17:01.965000
+?	-	-	-	-	0:17:00.292000	0:17:01.965000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:00.292000" end="0:17:01.965000">
+*hättest*	-	-	-	-	0:17:00.292000	0:17:01.965000
+*hättest*	-	-	-	-	0:17:00.292000	0:17:01.965000
+die	-	-	-	-	0:17:00.292000	0:17:01.965000
+Miene	-	-	-	-	0:17:00.292000	0:17:01.965000
+heraus	-	-	-	-	0:17:00.292000	0:17:01.965000
+getan	-	-	-	-	0:17:00.292000	0:17:01.965000
+.	-	-	-	-	0:17:00.292000	0:17:01.965000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:01.965000" end="0:17:04.912000">
+ja	ja	PART	-	-	0:17:01.965000	0:17:04.912000
+nein	nein	PART	-	-	0:17:01.965000	0:17:04.912000
+ist	sein	AUX	-	-	0:17:01.965000	0:17:04.912000
+einfach	einfach	ADV	-	-	0:17:01.965000	0:17:04.912000
+nicht	nicht	PART	-	-	0:17:01.965000	0:17:04.912000
+gescheit	gescheit	ADJ	-	-	0:17:01.965000	0:17:04.912000
+gegangen	gehen	VERB	-	-	0:17:01.965000	0:17:04.912000
+.	-	-	-	-	0:17:01.965000	0:17:04.912000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:01.965000" end="0:17:04.912000">
+zerlegen	zerlegen	VERB	-	-	0:17:01.965000	0:17:04.912000
+.	-	-	-	-	0:17:01.965000	0:17:04.912000
+ja	ja	ADV	-	-	0:17:01.965000	0:17:04.912000
+ja	ja	PART	-	-	0:17:01.965000	0:17:04.912000
+.	-	-	-	-	0:17:01.965000	0:17:04.912000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:04.912000" end="0:17:08.444000">
+und	und	CCONJ	-	-	0:17:04.912000	0:17:08.444000
+aber	aber	ADV	-	-	0:17:04.912000	0:17:08.444000
+da	da	ADV	-	-	0:17:04.912000	0:17:08.444000
+habe	habe	AUX	-	-	0:17:04.912000	0:17:08.444000
+ich	ich	PRON	-	-	0:17:04.912000	0:17:08.444000
+mir	sich	PRON	-	-	0:17:04.912000	0:17:08.444000
+wirklich/	-	-	-	-	0:17:04.912000	0:17:08.444000
+.	-	-	-	-	0:17:04.912000	0:17:08.444000
+und	und	CCONJ	-	-	0:17:04.912000	0:17:08.444000
+der	der	DET	-	-	0:17:04.912000	0:17:08.444000
+Ort	Ort	NOUN	-	-	0:17:04.912000	0:17:08.444000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:04.912000" end="0:17:08.444000">
+ja	ja	PART	-	-	0:17:04.912000	0:17:08.444000
+nein	nein	PART	-	-	0:17:04.912000	0:17:08.444000
+ist	sein	AUX	-	-	0:17:04.912000	0:17:08.444000
+ein	einen	DET	-	-	0:17:04.912000	0:17:08.444000
+schönes	schön	ADJ	-	-	0:17:04.912000	0:17:08.444000
+Platzel	Platzel	NOUN	-	-	0:17:04.912000	0:17:08.444000
+da	da	ADV	-	-	0:17:04.912000	0:17:08.444000
+oben	oben	ADV	-	-	0:17:04.912000	0:17:08.444000
+.	-	-	-	-	0:17:04.912000	0:17:08.444000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:08.444000" end="0:17:10.365000">
+am	am	ADP	-	-	0:17:08.444000	0:17:09.679000
+Ort	Ort	NOUN	-	-	0:17:08.444000	0:17:09.679000
+hinunter	hinunter	ADJ	-	-	0:17:08.444000	0:17:09.679000
+also	also	ADV	-	-	0:17:09.679000	0:17:10.365000
+wenn	wenn	SCONJ	-	-	0:17:09.679000	0:17:10.365000
+du	du	PRON	-	-	0:17:09.679000	0:17:10.365000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:09.679000" end="0:17:10.365000">
+mhm	mhm	PROPN	-	-	0:17:09.679000	0:17:10.365000
+.	-	-	-	-	0:17:09.679000	0:17:10.365000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:10.365000" end="0:17:13.569000">
+da	da	ADV	-	-	0:17:10.365000	0:17:12.365000
+ein	einen	DET	-	-	0:17:10.365000	0:17:12.365000
+Foto	Foto	NOUN	-	-	0:17:10.365000	0:17:12.365000
+einschickst	einschickst	VERB	-	-	0:17:10.365000	0:17:12.365000
+,	-	-	-	-	0:17:10.365000	0:17:12.365000
+normalerweise	normalerweise	ADV	-	-	0:17:12.365000	0:17:13.569000
+müssen	müssen	VERB	-	-	0:17:12.365000	0:17:13.569000
+sie	ich	PRON	-	-	0:17:12.365000	0:17:13.569000
+so	so	ADV	-	-	0:17:12.365000	0:17:13.569000
+was	was	PRON	-	-	0:17:12.365000	0:17:13.569000
+,	-	-	-	-	0:17:12.365000	0:17:13.569000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:12.365000" end="0:17:13.569000">
+ja	ja	ADV	-	-	0:17:12.365000	0:17:13.569000
+ja	ja	PART	-	-	0:17:12.365000	0:17:13.569000
+.	-	-	-	-	0:17:12.365000	0:17:13.569000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:13.569000" end="0:17:17.185000">
+so	so	ADV	-	-	0:17:13.569000	0:17:15.598000
+was	was	PRON	-	-	0:17:13.569000	0:17:15.598000
+<pause duration="0,5s"/>
+müsste	müsste	VERB	-	-	0:17:13.569000	0:17:15.598000
+zumindest	zumindest	ADV	-	-	0:17:13.569000	0:17:15.598000
+wer	wer	PRON	-	-	0:17:13.569000	0:17:15.598000
+kommen	kommen	VERB	-	-	0:17:15.598000	0:17:17.185000
+und	und	CCONJ	-	-	0:17:15.598000	0:17:17.185000
+das	der	PRON	-	-	0:17:15.598000	0:17:17.185000
+anschauen	anschauen	VERB	-	-	0:17:15.598000	0:17:17.185000
+.	-	-	-	-	0:17:15.598000	0:17:17.185000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:15.598000" end="0:17:18.223000">
+mhm	mhm	PROPN	-	-	0:17:15.598000	0:17:17.185000
+mhm	mhm	PROPN	-	-	0:17:15.598000	0:17:17.185000
+mhm	mhm	PROPN	-	-	0:17:15.598000	0:17:17.185000
+.	-	-	-	-	0:17:15.598000	0:17:17.185000
+na	na	X	-	-	0:17:17.185000	0:17:18.223000
+jetzt	jetzt	ADV	-	-	0:17:17.185000	0:17:18.223000
+im	im	ADP	-	-	0:17:17.185000	0:17:18.223000
+Herbst	Herbst	NOUN	-	-	0:17:17.185000	0:17:18.223000
+überhaupt	überhaupt	ADV	-	-	0:17:17.185000	0:17:18.223000
+,	-	-	-	-	0:17:17.185000	0:17:18.223000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:18.223000" end="0:17:20.499000">
+das	der	PRON	-	-	0:17:18.223000	0:17:20.499000
+ist	sein	AUX	-	-	0:17:18.223000	0:17:20.499000
+ein	einen	DET	-	-	0:17:18.223000	0:17:20.499000
+Traum	Traum	NOUN	-	-	0:17:18.223000	0:17:20.499000
+wirklich	wirklich	ADJ	-	-	0:17:18.223000	0:17:20.499000
+gewesen	sein	AUX	-	-	0:17:18.223000	0:17:20.499000
+,	-	-	-	-	0:17:18.223000	0:17:20.499000
+ja	ja	ADV	-	-	0:17:18.223000	0:17:20.499000
+das	der	PRON	-	-	0:17:18.223000	0:17:20.499000
+war	sein	AUX	-	-	0:17:18.223000	0:17:20.499000
+ein/	-	-	-	-	0:17:18.223000	0:17:20.499000
+.	-	-	-	-	0:17:18.223000	0:17:20.499000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:18.223000" end="0:17:20.499000">
+(wenn)	wenn	SCONJ	-	-	0:17:18.223000	0:17:20.499000
+wenn	wenn	SCONJ	-	-	0:17:18.223000	0:17:20.499000
+jetzt	jetzt	ADV	-	-	0:17:18.223000	0:17:20.499000
+da	da	ADV	-	-	0:17:18.223000	0:17:20.499000
+der	der	PRON	-	-	0:17:18.223000	0:17:20.499000
+der	der	DET	-	-	0:17:18.223000	0:17:20.499000
+Wald	Wald	NOUN	-	-	0:17:18.223000	0:17:20.499000
+so	so	ADV	-	-	0:17:18.223000	0:17:20.499000
+schön	schön	ADJ	-	-	0:17:18.223000	0:17:20.499000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:20.499000" end="0:17:21.332000">
+ja	ja	PART	-	-	0:17:20.499000	0:17:21.332000
+.	-	-	-	-	0:17:20.499000	0:17:21.332000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:20.499000" end="0:17:23.742000">
+braun	braun	VERB	-	-	0:17:20.499000	0:17:21.332000
+ist	sein	AUX	-	-	0:17:20.499000	0:17:21.332000
+,	-	-	-	-	0:17:20.499000	0:17:21.332000
+gell	gell	ADJ	-	-	0:17:20.499000	0:17:21.332000
+,	-	-	-	-	0:17:20.499000	0:17:21.332000
+also	also	ADV	-	-	0:17:20.499000	0:17:21.332000
+das	der	PRON	-	-	0:17:21.332000	0:17:23.742000
+verfärbt	verfärben	VERB	-	-	0:17:21.332000	0:17:23.742000
+sich	sich	PRON	-	-	0:17:21.332000	0:17:23.742000
+,	-	-	-	-	0:17:21.332000	0:17:23.742000
+<pause duration="0,7s"/>
+das	der	PRON	-	-	0:17:21.332000	0:17:23.742000
+ist	sein	AUX	-	-	0:17:21.332000	0:17:23.742000
+super	super	PROPN	-	-	0:17:21.332000	0:17:23.742000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:23.742000" end="0:17:26.742000">
+dann	-	-	-	-	0:17:23.742000	0:17:26.742000
+sind	-	-	-	-	0:17:23.742000	0:17:26.742000
+wir	-	-	-	-	0:17:23.742000	0:17:26.742000
+hinunter	-	-	-	-	0:17:23.742000	0:17:26.742000
+auf	-	-	-	-	0:17:23.742000	0:17:26.742000
+_dings_	-	-	-	-	0:17:23.742000	0:17:26.742000
+auf	-	-	-	-	0:17:23.742000	0:17:26.742000
+*weißt*	-	-	-	-	0:17:23.742000	0:17:26.742000
+eh	-	-	-	-	0:17:23.742000	0:17:26.742000
+auf	-	-	-	-	0:17:23.742000	0:17:26.742000
+auf	-	-	-	-	0:17:23.742000	0:17:26.742000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:26.742000" end="0:17:27.865000">
+auf	auf	ADP	-	-	0:17:26.742000	0:17:27.865000
+(Schlagbahn)	Schlagbahn	NOUN	-	-	0:17:26.742000	0:17:27.865000
+hinüber	hinüber	ADV	-	-	0:17:26.742000	0:17:27.865000
+da	da	ADP	-	-	0:17:26.742000	0:17:27.865000
+?	-	-	-	-	0:17:26.742000	0:17:27.865000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:27.865000" end="0:17:31.779000">
+ja	-	-	-	-	0:17:27.865000	0:17:28.325000
+da	-	-	-	-	0:17:28.325000	0:17:31.779000
+hinunter	-	-	-	-	0:17:28.325000	0:17:31.779000
+ja	-	-	-	-	0:17:28.325000	0:17:31.779000
+ja	-	-	-	-	0:17:28.325000	0:17:31.779000
+[Pastorensteig]O	-	-	-	-	0:17:28.325000	0:17:31.779000
+weiter	-	-	-	-	0:17:28.325000	0:17:31.779000
+hinunter	-	-	-	-	0:17:28.325000	0:17:31.779000
+.	-	-	-	-	0:17:28.325000	0:17:31.779000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:28.325000" end="0:17:42.345000">
+den	der	DET	-	-	0:17:28.325000	0:17:31.779000
+[Pastorensteig]O	Pastorensteig	NOUN	-	-	0:17:28.325000	0:17:31.779000
+noch	noch	ADV	-	-	0:17:28.325000	0:17:31.779000
+weiter	weit	ADV	-	-	0:17:28.325000	0:17:31.779000
+gegangen	gehen	VERB	-	-	0:17:28.325000	0:17:31.779000
+ja	ja	ADV	-	-	0:17:28.325000	0:17:31.779000
+mhm	mhm	PROPN	-	-	0:17:28.325000	0:17:31.779000
+mhm	mhm	PROPN	-	-	0:17:28.325000	0:17:31.779000
+.	-	-	-	-	0:17:28.325000	0:17:31.779000
+wir	ich	PRON	-	-	0:17:31.779000	0:17:33.292000
+sind	sein	AUX	-	-	0:17:31.779000	0:17:33.292000
+einmal	einmal	ADV	-	-	0:17:31.779000	0:17:33.292000
+wild	wild	ADJ	-	-	0:17:31.779000	0:17:33.292000
+gegangen	gehen	VERB	-	-	0:17:31.779000	0:17:33.292000
+,	-	-	-	-	0:17:31.779000	0:17:33.292000
+sind	sein	AUX	-	-	0:17:33.292000	0:17:36.125000
+wir	ich	PRON	-	-	0:17:33.292000	0:17:36.125000
+da	da	ADV	-	-	0:17:33.292000	0:17:36.125000
+auch	auch	ADV	-	-	0:17:33.292000	0:17:36.125000
+hinunter	hinunter	ADJ	-	-	0:17:33.292000	0:17:36.125000
+gegangen	gehen	VERB	-	-	0:17:33.292000	0:17:36.125000
+Schlag/	-	-	-	-	0:17:33.292000	0:17:36.125000
+also	also	ADV	-	-	0:17:33.292000	0:17:36.125000
+Richtung	Richtung	NOUN	-	-	0:17:33.292000	0:17:36.125000
+(Schlagbahn)	Schlagbahn	NOUN	-	-	0:17:33.292000	0:17:36.125000
+,	-	-	-	-	0:17:33.292000	0:17:36.125000
+aber	aber	CCONJ	-	-	0:17:36.125000	0:17:38.325000
+dann	dann	ADV	-	-	0:17:36.125000	0:17:38.325000
+sind	sein	AUX	-	-	0:17:36.125000	0:17:38.325000
+wir	ich	PRON	-	-	0:17:36.125000	0:17:38.325000
+gleich	gleichen	ADV	-	-	0:17:36.125000	0:17:38.325000
+nicht	nicht	PART	-	-	0:17:36.125000	0:17:38.325000
+mehr	mehr	ADV	-	-	0:17:36.125000	0:17:38.325000
+ganz	ganz	ADV	-	-	0:17:36.125000	0:17:38.325000
+hinunter	hinunter	ADJ	-	-	0:17:36.125000	0:17:38.325000
+gegangen	gehen	VERB	-	-	0:17:36.125000	0:17:38.325000
+,	-	-	-	-	0:17:36.125000	0:17:38.325000
+sondern	sondern	CCONJ	-	-	0:17:38.325000	0:17:42.345000
+sind	sein	AUX	-	-	0:17:38.325000	0:17:42.345000
+hinüber	hinüber	ADV	-	-	0:17:38.325000	0:17:42.345000
+gegangen	gehen	VERB	-	-	0:17:38.325000	0:17:42.345000
+auf	auf	ADP	-	-	0:17:38.325000	0:17:42.345000
+Bisel/	-	-	-	-	0:17:38.325000	0:17:42.345000
+[(Bislinger	Bislinger	ADJ	-	-	0:17:38.325000	0:17:42.345000
+Leiden)]O	Leid	NOUN	-	-	0:17:38.325000	0:17:42.345000
+,	-	-	-	-	0:17:38.325000	0:17:42.345000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:42.345000" end="0:17:43.485000">
+a/	-	-	-	-	0:17:42.345000	0:17:43.485000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:42.345000" end="0:17:43.485000">
+*kannst*	-	-	-	-	0:17:42.345000	0:17:43.485000
+nämlich	-	-	-	-	0:17:42.345000	0:17:43.485000
+hinüber	-	-	-	-	0:17:42.345000	0:17:43.485000
+,	-	-	-	-	0:17:42.345000	0:17:43.485000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:43.485000" end="0:17:43.865000">
+freilich	freilich	ADV	-	-	0:17:43.485000	0:17:43.865000
+.	-	-	-	-	0:17:43.485000	0:17:43.865000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:43.865000" end="0:17:45.279000">
+aber	aber	CCONJ	-	-	0:17:43.865000	0:17:45.279000
+da	da	ADV	-	-	0:17:43.865000	0:17:45.279000
+ist	sein	AUX	-	-	0:17:43.865000	0:17:45.279000
+ein	einen	DET	-	-	0:17:43.865000	0:17:45.279000
+Stückel	Stückel	NOUN	-	-	0:17:43.865000	0:17:45.279000
+drinnen	drinnen	ADV	-	-	0:17:43.865000	0:17:45.279000
+,	-	-	-	-	0:17:43.865000	0:17:45.279000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:45.279000" end="0:17:45.772000">
+ja	ja	ADV	-	-	0:17:45.279000	0:17:45.772000
+ja	ja	PART	-	-	0:17:45.279000	0:17:45.772000
+.	-	-	-	-	0:17:45.279000	0:17:45.772000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:45.279000" end="0:17:49.456000">
+da	-	-	-	-	0:17:45.279000	0:17:45.772000
+*ist*	-	-	-	-	0:17:45.279000	0:17:45.772000
+echt	-	-	-	-	0:17:45.772000	0:17:49.456000
+gefährlich	-	-	-	-	0:17:45.772000	0:17:49.456000
+,	-	-	-	-	0:17:45.772000	0:17:49.456000
+da	-	-	-	-	0:17:45.772000	0:17:49.456000
+*ist*	-	-	-	-	0:17:45.772000	0:17:49.456000
+so	-	-	-	-	0:17:45.772000	0:17:49.456000
+steil	-	-	-	-	0:17:45.772000	0:17:49.456000
+und	-	-	-	-	0:17:45.772000	0:17:49.456000
+und	-	-	-	-	0:17:45.772000	0:17:49.456000
+es	-	-	-	-	0:17:45.772000	0:17:49.456000
+ist	-	-	-	-	0:17:45.772000	0:17:49.456000
+lauter/	-	-	-	-	0:17:45.772000	0:17:49.456000
+.	-	-	-	-	0:17:45.772000	0:17:49.456000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:49.456000" end="0:17:50.168000">
+ober	ober	NOUN	-	-	0:17:49.456000	0:17:50.168000
+dem	der	PRON	-	-	0:17:49.456000	0:17:50.168000
+?	-	-	-	-	0:17:49.456000	0:17:50.168000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:50.168000" end="0:17:50.663000">
+ober	ober	NOUN	-	-	0:17:50.168000	0:17:50.663000
+dem	der	PRON	-	-	0:17:50.168000	0:17:50.663000
+,	-	-	-	-	0:17:50.168000	0:17:50.663000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:50.663000" end="0:17:51.918000">
+ober	ober	NOUN	-	-	0:17:50.663000	0:17:51.918000
+den	der	PRON	-	-	0:17:50.663000	0:17:51.918000
+hinüber	hinüber	NOUN	-	-	0:17:50.663000	0:17:51.918000
+,	-	-	-	-	0:17:50.663000	0:17:51.918000
+ich	ich	PRON	-	-	0:17:50.663000	0:17:51.918000
+weiß	weiß	VERB	-	-	0:17:50.663000	0:17:51.918000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:50.663000" end="0:17:51.918000">
+genau	genau	ADJ	-	-	0:17:50.663000	0:17:51.918000
+ober	ober	ADJ	-	-	0:17:50.663000	0:17:51.918000
+dem	der	PRON	-	-	0:17:50.663000	0:17:51.918000
+.	-	-	-	-	0:17:50.663000	0:17:51.918000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:51.918000" end="0:17:53.468000">
+das	der	PRON	-	-	0:17:51.918000	0:17:53.468000
+weiß	weiß	VERB	-	-	0:17:51.918000	0:17:53.468000
+ich	ich	PRON	-	-	0:17:51.918000	0:17:53.468000
+eh	eh	ADV	-	-	0:17:51.918000	0:17:53.468000
+!	-	-	-	-	0:17:51.918000	0:17:53.468000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:51.918000" end="0:17:53.468000">
+puh	puh	X	-	-	0:17:51.918000	0:17:53.468000
+!	-	-	-	-	0:17:51.918000	0:17:53.468000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:53.468000" end="0:17:55.733000">
+du	du	PRON	-	-	0:17:53.468000	0:17:55.733000
+könntest	können	VERB	-	-	0:17:53.468000	0:17:55.733000
+auch	auch	ADV	-	-	0:17:53.468000	0:17:55.733000
+vom	vom	ADP	-	-	0:17:53.468000	0:17:55.733000
+[(Imbisel)stein]O	Imbiselstein	NOUN	-	-	0:17:53.468000	0:17:55.733000
+hinüber	hinüber	ADV	-	-	0:17:53.468000	0:17:55.733000
+gehen	gehen	VERB	-	-	0:17:53.468000	0:17:55.733000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:53.468000" end="0:17:56.553000">
+da	da	ADV	-	-	0:17:53.468000	0:17:55.733000
+d/	-	-	-	-	0:17:53.468000	0:17:55.733000
+.	-	-	-	-	0:17:53.468000	0:17:55.733000
+da	da	ADV	-	-	0:17:55.733000	0:17:56.553000
+ist	sein	AUX	-	-	0:17:55.733000	0:17:56.553000
+so	so	ADV	-	-	0:17:55.733000	0:17:56.553000
+viel	viel	DET	-	-	0:17:55.733000	0:17:56.553000
+Laub	Laub	NOUN	-	-	0:17:55.733000	0:17:56.553000
+,	-	-	-	-	0:17:55.733000	0:17:56.553000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:56.553000" end="0:17:57.043000">
+hinüber	hinüber	ADP	-	-	0:17:56.553000	0:17:57.043000
+.	-	-	-	-	0:17:56.553000	0:17:57.043000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:57.043000" end="0:17:57.708000">
+da	da	ADV	-	-	0:17:57.043000	0:17:57.708000
+ist	sein	AUX	-	-	0:17:57.043000	0:17:57.708000
+so	so	ADV	-	-	0:17:57.043000	0:17:57.708000
+viel	viel	DET	-	-	0:17:57.043000	0:17:57.708000
+Laub	Laub	NOUN	-	-	0:17:57.043000	0:17:57.708000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:17:57.708000" end="0:17:58.703000">
+ja	ja	ADV	-	-	0:17:57.708000	0:17:58.703000
+ja	ja	ADV	-	-	0:17:57.708000	0:17:58.703000
+ja	ja	ADV	-	-	0:17:57.708000	0:17:58.703000
+ja	ja	PART	-	-	0:17:57.708000	0:17:58.703000
+.	-	-	-	-	0:17:57.708000	0:17:58.703000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:17:57.708000" end="0:18:00.633000">
+gewesen	sein	AUX	-	-	0:17:57.708000	0:17:58.703000
+,	-	-	-	-	0:17:57.708000	0:17:58.703000
+da	da	ADV	-	-	0:17:57.708000	0:17:58.703000
+haben	haben	AUX	-	-	0:17:57.708000	0:17:58.703000
+wir	ich	PRON	-	-	0:17:57.708000	0:17:58.703000
+nicht	nicht	PART	-	-	0:17:57.708000	0:17:58.703000
+gewusst	gewusst	VERB	-	-	0:17:57.708000	0:17:58.703000
+,	-	-	-	-	0:17:57.708000	0:17:58.703000
+wie	-	-	-	-	0:17:58.703000	0:18:00.633000
+wir	-	-	-	-	0:17:58.703000	0:18:00.633000
+da	-	-	-	-	0:17:58.703000	0:18:00.633000
+*weißt*	-	-	-	-	0:17:58.703000	0:18:00.633000
+eh	-	-	-	-	0:17:58.703000	0:18:00.633000
+ein	-	-	-	-	0:17:58.703000	0:18:00.633000
+kleiner	-	-	-	-	0:17:58.703000	0:18:00.633000
+,	-	-	-	-	0:17:58.703000	0:18:00.633000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:00.633000" end="0:18:01.743000">
+ja	-	-	-	-	0:18:00.633000	0:18:01.743000
+ja	-	-	-	-	0:18:00.633000	0:18:01.743000
+na	-	-	-	-	0:18:00.633000	0:18:01.743000
+da	-	-	-	-	0:18:00.633000	0:18:01.743000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:00.633000" end="0:18:01.743000">
+wenn	wenn	SCONJ	-	-	0:18:00.633000	0:18:01.743000
+du	du	PRON	-	-	0:18:00.633000	0:18:01.743000
+ausgerutscht	ausrutschen	VERB	-	-	0:18:00.633000	0:18:01.743000
+bist	sein	AUX	-	-	0:18:00.633000	0:18:01.743000
+,	-	-	-	-	0:18:00.633000	0:18:01.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:01.743000" end="0:18:02.533000">
+*brauchst*	-	-	-	-	0:18:01.743000	0:18:02.533000
+dich	-	-	-	-	0:18:01.743000	0:18:02.533000
+nicht	-	-	-	-	0:18:01.743000	0:18:02.533000
+spielen	-	-	-	-	0:18:01.743000	0:18:02.533000
+,	-	-	-	-	0:18:01.743000	0:18:02.533000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:01.743000" end="0:18:02.533000">
+*liegst*	-	-	-	-	0:18:01.743000	0:18:02.533000
+auf	-	-	-	-	0:18:01.743000	0:18:02.533000
+der	-	-	-	-	0:18:01.743000	0:18:02.533000
+Straße	-	-	-	-	0:18:01.743000	0:18:02.533000
+,	-	-	-	-	0:18:01.743000	0:18:02.533000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:02.533000" end="0:18:03.588000">
+nein	nein	PART	-	-	0:18:02.533000	0:18:03.588000
+eh	eh	ADV	-	-	0:18:02.533000	0:18:03.588000
+nicht	nicht	PART	-	-	0:18:02.533000	0:18:03.588000
+.	-	-	-	-	0:18:02.533000	0:18:03.588000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:02.533000" end="0:18:09.503000">
+a/	-	-	-	-	0:18:02.533000	0:18:03.588000
+aber	-	-	-	-	0:18:02.533000	0:18:03.588000
+da	-	-	-	-	0:18:02.533000	0:18:03.588000
+*fliegst*	-	-	-	-	0:18:02.533000	0:18:03.588000
+hundert	-	-	-	-	0:18:02.533000	0:18:03.588000
+hundertfünfzig	-	-	-	-	0:18:03.588000	0:18:05.843000
+Meter	-	-	-	-	0:18:03.588000	0:18:05.843000
+hinunter	-	-	-	-	0:18:03.588000	0:18:05.843000
+,	-	-	-	-	0:18:03.588000	0:18:05.843000
+nicht	nicht	PART	-	-	0:18:03.588000	0:18:05.843000
+,	-	-	-	-	0:18:03.588000	0:18:05.843000
+<pause duration="0,8s"/>
+wo	wo	ADV	-	-	0:18:05.843000	0:18:09.503000
+sie	ich	PRON	-	-	0:18:05.843000	0:18:09.503000
+jetzt	jetzt	ADV	-	-	0:18:05.843000	0:18:09.503000
+die	der	PRON	-	-	0:18:05.843000	0:18:09.503000
+die	der	DET	-	-	0:18:05.843000	0:18:09.503000
+Steinmauer	Steinmauer	NOUN	-	-	0:18:05.843000	0:18:09.503000
+machen	machen	VERB	-	-	0:18:05.843000	0:18:09.503000
+,	-	-	-	-	0:18:05.843000	0:18:09.503000
+also	also	ADV	-	-	0:18:05.843000	0:18:09.503000
+die	der	DET	-	-	0:18:05.843000	0:18:09.503000
+Mauer	Mauer	NOUN	-	-	0:18:05.843000	0:18:09.503000
+renovieren	renovieren	VERB	-	-	0:18:05.843000	0:18:09.503000
+da	da	ADV	-	-	0:18:05.843000	0:18:09.503000
+,	-	-	-	-	0:18:05.843000	0:18:09.503000
+nicht	nicht	PART	-	-	0:18:05.843000	0:18:09.503000
+?	-	-	-	-	0:18:05.843000	0:18:09.503000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:09.503000" end="0:18:09.988000">
+aha	aha	X	-	-	0:18:09.503000	0:18:09.988000
+.	-	-	-	-	0:18:09.503000	0:18:09.988000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:09.988000" end="0:18:13.388000">
+*hast*	-	-	-	-	0:18:09.988000	0:18:11.553000
+eh	-	-	-	-	0:18:09.988000	0:18:11.553000
+gesehen	-	-	-	-	0:18:09.988000	0:18:11.553000
+da	-	-	-	-	0:18:09.988000	0:18:11.553000
+heute	-	-	-	-	0:18:09.988000	0:18:11.553000
+schon	-	-	-	-	0:18:09.988000	0:18:11.553000
+,	-	-	-	-	0:18:09.988000	0:18:11.553000
+<pause duration="0,7s"/>
+arbeitet	arbeiten	VERB	-	-	0:18:11.553000	0:18:13.388000
+draußen	draußen	ADV	-	-	0:18:11.553000	0:18:13.388000
+da	da	ADP	-	-	0:18:11.553000	0:18:13.388000
+,	-	-	-	-	0:18:11.553000	0:18:13.388000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:13.388000" end="0:18:15.843000">
+heute	heute	ADV	-	-	0:18:13.388000	0:18:14.678000
+habe	habe	AUX	-	-	0:18:13.388000	0:18:14.678000
+ich	ich	PRON	-	-	0:18:13.388000	0:18:14.678000
+nein	nein	PART	-	-	0:18:13.388000	0:18:14.678000
+habe	habe	AUX	-	-	0:18:13.388000	0:18:14.678000
+ich	ich	PRON	-	-	0:18:13.388000	0:18:14.678000
+nicht	nicht	PART	-	-	0:18:13.388000	0:18:14.678000
+gesehen	sehen	VERB	-	-	0:18:13.388000	0:18:14.678000
+noch	noch	ADV	-	-	0:18:14.678000	0:18:15.843000
+,	-	-	-	-	0:18:14.678000	0:18:15.843000
+nein	nein	PART	-	-	0:18:14.678000	0:18:15.843000
+.	-	-	-	-	0:18:14.678000	0:18:15.843000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:14.678000" end="0:18:18.133000">
+ja	ja	ADV	-	-	0:18:14.678000	0:18:15.843000
+haben	haben	AUX	-	-	0:18:14.678000	0:18:15.843000
+sie	ich	PRON	-	-	0:18:14.678000	0:18:15.843000
+eh	eh	ADV	-	-	0:18:14.678000	0:18:15.843000
+schon	schon	ADV	-	-	0:18:14.678000	0:18:15.843000
+vorige	vorige	ADJ	-	-	0:18:15.843000	0:18:18.133000
+Woche	Woche	NOUN	-	-	0:18:15.843000	0:18:18.133000
+schon	schon	ADV	-	-	0:18:15.843000	0:18:18.133000
+angefangen	anfangen	VERB	-	-	0:18:15.843000	0:18:18.133000
+.	-	-	-	-	0:18:15.843000	0:18:18.133000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:18.133000" end="0:18:18.538000">
+ach	ach	X	-	-	0:18:18.133000	0:18:18.538000
+so	so	ADV	-	-	0:18:18.133000	0:18:18.538000
+?	-	-	-	-	0:18:18.133000	0:18:18.538000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:18.133000" end="0:18:21.938000">
+tun	tun	VERB	-	-	0:18:18.133000	0:18:18.538000
+sie	ich	PRON	-	-	0:18:18.133000	0:18:18.538000
+die	der	DET	-	-	0:18:18.133000	0:18:18.538000
+Betonmauer	Betonmauer	NOUN	-	-	0:18:18.538000	0:18:20.538000
+sanieren	sanieren	VERB	-	-	0:18:18.538000	0:18:20.538000
+da	da	ADP	-	-	0:18:18.538000	0:18:20.538000
+.	-	-	-	-	0:18:18.538000	0:18:20.538000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:21.938000" end="0:18:23.468000">
+ja	ja	ADV	-	-	0:18:21.938000	0:18:23.468000
+na	na	X	-	-	0:18:21.938000	0:18:23.468000
+ja	ja	PART	-	-	0:18:21.938000	0:18:23.468000
+da/	-	-	-	-	0:18:21.938000	0:18:23.468000
+.	-	-	-	-	0:18:21.938000	0:18:23.468000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:21.938000" end="0:18:23.468000">
+ja	ja	ADV	-	-	0:18:21.938000	0:18:23.468000
+ja	ja	ADV	-	-	0:18:21.938000	0:18:23.468000
+das	der	PRON	-	-	0:18:21.938000	0:18:23.468000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:23.468000" end="0:18:24.943000">
+ach	ach	X	-	-	0:18:23.468000	0:18:24.943000
+so	so	ADV	-	-	0:18:23.468000	0:18:24.943000
+dort	dort	ADV	-	-	0:18:23.468000	0:18:24.943000
+bei	bei	ADP	-	-	0:18:23.468000	0:18:24.943000
+bei	bei	ADP	-	-	0:18:23.468000	0:18:24.943000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:23.468000" end="0:18:24.943000">
+ja	ja	ADV	-	-	0:18:23.468000	0:18:24.943000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:24.943000" end="0:18:27.013000">
+eh	eh	ADV	-	-	0:18:24.943000	0:18:25.918000
+unten	unten	ADV	-	-	0:18:24.943000	0:18:25.918000
+beim	beim	ADP	-	-	0:18:24.943000	0:18:25.918000
+herüber	herüber	PROPN	-	-	0:18:24.943000	0:18:25.918000
+,	-	-	-	-	0:18:24.943000	0:18:25.918000
+da	da	ADV	-	-	0:18:25.918000	0:18:27.013000
+vor	vor	ADP	-	-	0:18:25.918000	0:18:27.013000
+?	-	-	-	-	0:18:25.918000	0:18:27.013000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:25.918000" end="0:18:27.383000">
+genau	genau	ADJ	-	-	0:18:25.918000	0:18:27.013000
+ja	ja	ADV	-	-	0:18:25.918000	0:18:27.013000
+ja	ja	ADV	-	-	0:18:25.918000	0:18:27.013000
+genau	genau	ADJ	-	-	0:18:25.918000	0:18:27.013000
+.	-	-	-	-	0:18:25.918000	0:18:27.013000
+mhm	mhm	PROPN	-	-	0:18:27.013000	0:18:27.383000
+.	-	-	-	-	0:18:27.013000	0:18:27.383000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:27.383000" end="0:18:31.548000">
+ah	ah	X	-	-	0:18:27.383000	0:18:28.408000
+ja	ja	ADV	-	-	0:18:27.383000	0:18:28.408000
+habe	habe	AUX	-	-	0:18:27.383000	0:18:28.408000
+ich	ich	PRON	-	-	0:18:27.383000	0:18:28.408000
+eh	eh	ADV	-	-	0:18:27.383000	0:18:28.408000
+die	der	DET	-	-	0:18:27.383000	0:18:28.408000
+Geschwindigkeitsbeschränkungen	Geschwindigkeitsbeschränkungen	NOUN	-	-	0:18:28.408000	0:18:31.548000
+sind	sein	AUX	-	-	0:18:28.408000	0:18:31.548000
+dort	dort	ADV	-	-	0:18:28.408000	0:18:31.548000
+und	und	CCONJ	-	-	0:18:28.408000	0:18:31.548000
+so	so	ADV	-	-	0:18:28.408000	0:18:31.548000
+,	-	-	-	-	0:18:28.408000	0:18:31.548000
+gell	gell	ADJ	-	-	0:18:28.408000	0:18:31.548000
+?	-	-	-	-	0:18:28.408000	0:18:31.548000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:28.408000" end="0:18:31.548000">
+na	na	X	-	-	0:18:28.408000	0:18:31.548000
+das	der	PRON	-	-	0:18:28.408000	0:18:31.548000
+war	sein	AUX	-	-	0:18:28.408000	0:18:31.548000
+das	der	PRON	-	-	0:18:28.408000	0:18:31.548000
+war	sein	AUX	-	-	0:18:28.408000	0:18:31.548000
+genau	genau	ADJ	-	-	0:18:28.408000	0:18:31.548000
+das	der	PRON	-	-	0:18:28.408000	0:18:31.548000
+ist	sein	AUX	-	-	0:18:28.408000	0:18:31.548000
+das	der	PRON	-	-	0:18:28.408000	0:18:31.548000
+,	-	-	-	-	0:18:28.408000	0:18:31.548000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:31.548000" end="0:18:33.193000">
+ja	ja	ADV	-	-	0:18:31.548000	0:18:33.193000
+ja	ja	PART	-	-	0:18:31.548000	0:18:33.193000
+.	-	-	-	-	0:18:31.548000	0:18:33.193000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:31.548000" end="0:18:33.193000">
+da	da	SCONJ	-	-	0:18:31.548000	0:18:33.193000
+werke/	-	-	-	-	0:18:31.548000	0:18:33.193000
+da	da	ADV	-	-	0:18:31.548000	0:18:33.193000
+werken	werken	VERB	-	-	0:18:31.548000	0:18:33.193000
+sie	ich	PRON	-	-	0:18:31.548000	0:18:33.193000
+jetzt	jetzt	ADV	-	-	0:18:31.548000	0:18:33.193000
+fest	fest	ADP	-	-	0:18:31.548000	0:18:33.193000
+,	-	-	-	-	0:18:31.548000	0:18:33.193000
+nicht	nicht	PART	-	-	0:18:31.548000	0:18:33.193000
+?	-	-	-	-	0:18:31.548000	0:18:33.193000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:33.193000" end="0:18:36.493000">
+wir	ich	PRON	-	-	0:18:33.193000	0:18:36.493000
+sind	sein	AUX	-	-	0:18:33.193000	0:18:36.493000
+in	in	ADP	-	-	0:18:33.193000	0:18:36.493000
+wir	ich	PRON	-	-	0:18:33.193000	0:18:36.493000
+sind	sein	AUX	-	-	0:18:33.193000	0:18:36.493000
+hinunter	hinunter	ADJ	-	-	0:18:33.193000	0:18:36.493000
+auf	auf	ADP	-	-	0:18:33.193000	0:18:36.493000
+.	-	-	-	-	0:18:33.193000	0:18:36.493000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:36.493000" end="0:18:37.393000">
+ja	ja	PART	-	-	0:18:36.493000	0:18:37.393000
+.	-	-	-	-	0:18:36.493000	0:18:37.393000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:37.393000" end="0:18:42.178000">
+auf	auf	ADP	-	-	0:18:37.393000	0:18:38.363000
+wenn	wenn	SCONJ	-	-	0:18:37.393000	0:18:38.363000
+da	da	ADV	-	-	0:18:38.363000	0:18:42.178000
+auf	auf	ADP	-	-	0:18:38.363000	0:18:42.178000
+die	der	DET	-	-	0:18:38.363000	0:18:42.178000
+Stiege	Stiege	NOUN	-	-	0:18:38.363000	0:18:42.178000
+,	-	-	-	-	0:18:38.363000	0:18:42.178000
+du	du	PRON	-	-	0:18:38.363000	0:18:42.178000
+da	da	ADV	-	-	0:18:38.363000	0:18:42.178000
+war	sein	AUX	-	-	0:18:38.363000	0:18:42.178000
+es	ich	PRON	-	-	0:18:38.363000	0:18:42.178000
+warm	warm	ADJ	-	-	0:18:38.363000	0:18:42.178000
+,	-	-	-	-	0:18:38.363000	0:18:42.178000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:38.363000" end="0:18:42.178000">
+das	der	PRON	-	-	0:18:38.363000	0:18:42.178000
+ist	sein	AUX	-	-	0:18:38.363000	0:18:42.178000
+schön	schön	ADJ	-	-	0:18:38.363000	0:18:42.178000
+gewesen	sein	AUX	-	-	0:18:38.363000	0:18:42.178000
+ja	ja	ADV	-	-	0:18:38.363000	0:18:42.178000
+freilich	freilich	ADV	-	-	0:18:38.363000	0:18:42.178000
+ja	ja	ADV	-	-	0:18:38.363000	0:18:42.178000
+ja	ja	ADV	-	-	0:18:38.363000	0:18:42.178000
+mhm	mhm	PROPN	-	-	0:18:38.363000	0:18:42.178000
+mhm	mhm	PROPN	-	-	0:18:38.363000	0:18:42.178000
+mhm	mhm	PROPN	-	-	0:18:38.363000	0:18:42.178000
+.	-	-	-	-	0:18:38.363000	0:18:42.178000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:42.178000" end="0:18:44.958000">
+das	der	PRON	-	-	0:18:42.178000	0:18:44.958000
+ist	sein	AUX	-	-	0:18:42.178000	0:18:44.958000
+ein	einen	DET	-	-	0:18:42.178000	0:18:44.958000
+ein	einen	DET	-	-	0:18:42.178000	0:18:44.958000
+Wahsninn	Wahnsinn	NOUN	-	-	0:18:42.178000	0:18:44.958000
+gewesen	sein	AUX	-	-	0:18:42.178000	0:18:44.958000
+auf	auf	ADP	-	-	0:18:42.178000	0:18:44.958000
+den	der	DET	-	-	0:18:42.178000	0:18:44.958000
+Tag	Tag	NOUN	-	-	0:18:42.178000	0:18:44.958000
+.	-	-	-	-	0:18:42.178000	0:18:44.958000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:42.178000" end="0:18:44.958000">
+ja	ja	ADV	-	-	0:18:42.178000	0:18:44.958000
+ja	ja	ADV	-	-	0:18:42.178000	0:18:44.958000
+m/	-	-	-	-	0:18:42.178000	0:18:44.958000
+mhm	mhm	PROPN	-	-	0:18:42.178000	0:18:44.958000
+.	-	-	-	-	0:18:42.178000	0:18:44.958000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:44.958000" end="0:18:47.403000">
+ja	ja	ADV	-	-	0:18:44.958000	0:18:47.403000
+da	da	ADV	-	-	0:18:44.958000	0:18:47.403000
+hat	haben	AUX	-	-	0:18:44.958000	0:18:47.403000
+es	ich	PRON	-	-	0:18:44.958000	0:18:47.403000
+fünfundzwanzig	fünfundzwanzig	ADJ	-	-	0:18:44.958000	0:18:47.403000
+Grad	Grad	NOUN	-	-	0:18:44.958000	0:18:47.403000
+gehabt	haben	AUX	-	-	0:18:44.958000	0:18:47.403000
+sicher	sichern	ADJ	-	-	0:18:44.958000	0:18:47.403000
+.	-	-	-	-	0:18:44.958000	0:18:47.403000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:47.403000" end="0:18:49.693000">
+wir	ich	PRON	-	-	0:18:47.403000	0:18:49.693000
+sind	sein	AUX	-	-	0:18:47.403000	0:18:49.693000
+da	da	ADV	-	-	0:18:47.403000	0:18:49.693000
+im	im	ADP	-	-	0:18:47.403000	0:18:49.693000
+Herbst	Herbst	NOUN	-	-	0:18:47.403000	0:18:49.693000
+einmal	einmal	ADV	-	-	0:18:47.403000	0:18:49.693000
+hinauf	hinauf	ADV	-	-	0:18:47.403000	0:18:49.693000
+gegangen	gehen	VERB	-	-	0:18:47.403000	0:18:49.693000
+.	-	-	-	-	0:18:47.403000	0:18:49.693000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:18:49.693000" end="0:18:50.848000">
+mhm	mhm	PROPN	-	-	0:18:49.693000	0:18:50.848000
+.	-	-	-	-	0:18:49.693000	0:18:50.848000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:18:50.848000" end="0:19:02.913000">
+da	da	ADV	-	-	0:18:50.848000	0:18:51.623000
+war	sein	AUX	-	-	0:18:50.848000	0:18:51.623000
+es	ich	PRON	-	-	0:18:50.848000	0:18:51.623000
+auch	auch	ADV	-	-	0:18:50.848000	0:18:51.623000
+schön	schön	ADJ	-	-	0:18:50.848000	0:18:51.623000
+,	-	-	-	-	0:18:50.848000	0:18:51.623000
+auf	-	-	-	-	0:18:51.623000	0:18:56.783000
+der	-	-	-	-	0:18:51.623000	0:18:56.783000
+(anderen)	-	-	-	-	0:18:51.623000	0:18:56.783000
+Seite	-	-	-	-	0:18:51.623000	0:18:56.783000
+eben	-	-	-	-	0:18:51.623000	0:18:56.783000
+hinauf	-	-	-	-	0:18:51.623000	0:18:56.783000
+und	-	-	-	-	0:18:51.623000	0:18:56.783000
+dann	-	-	-	-	0:18:51.623000	0:18:56.783000
+aber	-	-	-	-	0:18:51.623000	0:18:56.783000
+nach	-	-	-	-	0:18:51.623000	0:18:56.783000
+der	-	-	-	-	0:18:51.623000	0:18:56.783000
+(?)straße	-	-	-	-	0:18:51.623000	0:18:56.783000
+weiter	-	-	-	-	0:18:51.623000	0:18:56.783000
+bis	-	-	-	-	0:18:51.623000	0:18:56.783000
+auf	-	-	-	-	0:18:51.623000	0:18:56.783000
+siebensiebzig	-	-	-	-	0:18:51.623000	0:18:56.783000
+<pause duration="0,7s"/>
+nach	-	-	-	-	0:18:56.783000	0:18:59.683000
+siebensiebzig	-	-	-	-	0:18:56.783000	0:18:59.683000
+noch	-	-	-	-	0:18:56.783000	0:18:59.683000
+ei/	-	-	-	-	0:18:56.783000	0:18:59.683000
+weiß	-	-	-	-	0:18:56.783000	0:18:59.683000
+ich	-	-	-	-	0:18:56.783000	0:18:59.683000
+noch	-	-	-	-	0:18:56.783000	0:18:59.683000
+ein	-	-	-	-	0:18:56.783000	0:18:59.683000
+Stückel	-	-	-	-	0:18:56.783000	0:18:59.683000
+hinauf	-	-	-	-	0:18:56.783000	0:18:59.683000
+dann	-	-	-	-	0:18:56.783000	0:18:59.683000
+<pause duration="0,5s"/>
+und	-	-	-	-	0:18:59.683000	0:19:02.913000
+dann	-	-	-	-	0:18:59.683000	0:19:02.913000
+geht	-	-	-	-	0:18:59.683000	0:19:02.913000
+links	-	-	-	-	0:18:59.683000	0:19:02.913000
+eine	-	-	-	-	0:18:59.683000	0:19:02.913000
+neue	-	-	-	-	0:18:59.683000	0:19:02.913000
+Straße	-	-	-	-	0:18:59.683000	0:19:02.913000
+_dauni_	-	-	-	-	0:18:59.683000	0:19:02.913000
+.	-	-	-	-	0:18:59.683000	0:19:02.913000
+<pause duration="1,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:02.913000" end="0:19:03.478000">
+ja	ja	PART	-	-	0:19:02.913000	0:19:03.478000
+.	-	-	-	-	0:19:02.913000	0:19:03.478000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:03.478000" end="0:19:07.893000">
+du	-	-	-	-	0:19:03.478000	0:19:07.893000
+da	-	-	-	-	0:19:03.478000	0:19:07.893000
+*kannst*	-	-	-	-	0:19:03.478000	0:19:07.893000
+da	-	-	-	-	0:19:03.478000	0:19:07.893000
+*kannst*	-	-	-	-	0:19:03.478000	0:19:07.893000
+fast	-	-	-	-	0:19:03.478000	0:19:07.893000
+hinübergehen	-	-	-	-	0:19:03.478000	0:19:07.893000
+bis	-	-	-	-	0:19:03.478000	0:19:07.893000
+zu	-	-	-	-	0:19:03.478000	0:19:07.893000
+den	-	-	-	-	0:19:03.478000	0:19:07.893000
+(Brennertmeier	-	-	-	-	0:19:03.478000	0:19:07.893000
+?)	-	-	-	-	0:19:03.478000	0:19:07.893000
+,	-	-	-	-	0:19:03.478000	0:19:07.893000
+nicht	nicht	PART	-	-	0:19:03.478000	0:19:07.893000
+?	-	-	-	-	0:19:03.478000	0:19:07.893000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:07.893000" end="0:19:08.898000">
+die	der	PRON	-	-	0:19:07.893000	0:19:08.898000
+gehen	gehen	VERB	-	-	0:19:07.893000	0:19:08.898000
+eh	eh	ADV	-	-	0:19:07.893000	0:19:08.898000
+dort	dort	ADV	-	-	0:19:07.893000	0:19:08.898000
+hinauf	hinauf	ADP	-	-	0:19:07.893000	0:19:08.898000
+,	-	-	-	-	0:19:07.893000	0:19:08.898000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:07.893000" end="0:19:08.898000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:08.898000" end="0:19:09.428000">
+die	der	PRON	-	-	0:19:08.898000	0:19:09.428000
+habe	habe	AUX	-	-	0:19:08.898000	0:19:09.428000
+ich/	-	-	-	-	0:19:08.898000	0:19:09.428000
+.	-	-	-	-	0:19:08.898000	0:19:09.428000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:08.898000" end="0:19:09.428000">
+ja	ja	PART	-	-	0:19:08.898000	0:19:09.428000
+.	-	-	-	-	0:19:08.898000	0:19:09.428000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:09.428000" end="0:19:10.723000">
+da	da	ADV	-	-	0:19:09.428000	0:19:10.723000
+sind	sein	AUX	-	-	0:19:09.428000	0:19:10.723000
+wir	ich	PRON	-	-	0:19:09.428000	0:19:10.723000
+eh	eh	ADV	-	-	0:19:09.428000	0:19:10.723000
+auch	auch	ADV	-	-	0:19:09.428000	0:19:10.723000
+schon	schon	ADV	-	-	0:19:09.428000	0:19:10.723000
+hinauf	hinauf	ADV	-	-	0:19:09.428000	0:19:10.723000
+gegangen	gehen	VERB	-	-	0:19:09.428000	0:19:10.723000
+,	-	-	-	-	0:19:09.428000	0:19:10.723000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:09.428000" end="0:19:10.723000">
+wart	sein	VERB	-	-	0:19:09.428000	0:19:10.723000
+ihr	mein	PRON	-	-	0:19:09.428000	0:19:10.723000
+oben	oben	ADV	-	-	0:19:09.428000	0:19:10.723000
+?	-	-	-	-	0:19:09.428000	0:19:10.723000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:10.723000" end="0:19:12.548000">
+freilich	freilich	ADV	-	-	0:19:10.723000	0:19:12.548000
+,	-	-	-	-	0:19:10.723000	0:19:12.548000
+die	der	DET	-	-	0:19:10.723000	0:19:12.548000
+neue	neue	ADJ	-	-	0:19:10.723000	0:19:12.548000
+Straße	Straße	NOUN	-	-	0:19:10.723000	0:19:12.548000
+hinauf	hinauf	ADP	-	-	0:19:10.723000	0:19:12.548000
+,	-	-	-	-	0:19:10.723000	0:19:12.548000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:10.723000" end="0:19:14.078000">
+ist	sein	AUX	-	-	0:19:10.723000	0:19:12.548000
+auch	auch	ADV	-	-	0:19:10.723000	0:19:12.548000
+schön	schön	ADJ	-	-	0:19:10.723000	0:19:12.548000
+gewesen	sein	AUX	-	-	0:19:10.723000	0:19:12.548000
+,	-	-	-	-	0:19:10.723000	0:19:12.548000
+das	der	PRON	-	-	0:19:10.723000	0:19:12.548000
+ist	sein	AUX	-	-	0:19:10.723000	0:19:12.548000
+auch	auch	ADV	-	-	0:19:10.723000	0:19:12.548000
+d/	-	-	-	-	0:19:10.723000	0:19:12.548000
+na	na	PROPN	-	-	0:19:12.548000	0:19:14.078000
+ja	ja	ADV	-	-	0:19:12.548000	0:19:14.078000
+neu	neu	ADJ	-	-	0:19:12.548000	0:19:14.078000
+,	-	-	-	-	0:19:12.548000	0:19:14.078000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:14.078000" end="0:19:16.273000">
+ziemlich	ziemlich	ADV	-	-	0:19:14.078000	0:19:16.273000
+neu	neu	ADJ	-	-	0:19:14.078000	0:19:16.273000
+ja	ja	PART	-	-	0:19:14.078000	0:19:16.273000
+.	-	-	-	-	0:19:14.078000	0:19:16.273000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:14.078000" end="0:19:16.273000">
+nicht	nicht	PART	-	-	0:19:14.078000	0:19:16.273000
+nicht	nicht	PART	-	-	0:19:14.078000	0:19:16.273000
+ganz	ganz	ADV	-	-	0:19:14.078000	0:19:16.273000
+auf	auf	ADP	-	-	0:19:14.078000	0:19:16.273000
+neunhundert	neunhundert	ADJ	-	-	0:19:14.078000	0:19:16.273000
+hinauf	hinauf	ADP	-	-	0:19:14.078000	0:19:16.273000
+,	-	-	-	-	0:19:14.078000	0:19:16.273000
+nicht	nicht	PART	-	-	0:19:14.078000	0:19:16.273000
+?	-	-	-	-	0:19:14.078000	0:19:16.273000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:16.273000" end="0:19:18.983000">
+aber	aber	CCONJ	-	-	0:19:16.273000	0:19:18.983000
+die	der	DET	-	-	0:19:16.273000	0:19:18.983000
+oberhalb	oberhalb	ADP	-	-	0:19:16.273000	0:19:18.983000
+hinauf	hinauf	ADP	-	-	0:19:16.273000	0:19:18.983000
+,	-	-	-	-	0:19:16.273000	0:19:18.983000
+nicht	nicht	PART	-	-	0:19:16.273000	0:19:18.983000
+,	-	-	-	-	0:19:16.273000	0:19:18.983000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:16.273000" end="0:19:21.568000">
+sondern	-	-	-	-	0:19:16.273000	0:19:18.983000
+oh	-	-	-	-	0:19:16.273000	0:19:18.983000
+ja	-	-	-	-	0:19:16.273000	0:19:18.983000
+links	-	-	-	-	0:19:16.273000	0:19:18.983000
+_dauni_	-	-	-	-	0:19:16.273000	0:19:18.983000
+,	-	-	-	-	0:19:16.273000	0:19:18.983000
+das	der	PRON	-	-	0:19:16.273000	0:19:18.983000
+hat/	-	-	-	-	0:19:16.273000	0:19:18.983000
+.	-	-	-	-	0:19:16.273000	0:19:18.983000
+ja	ja	ADV	-	-	0:19:18.983000	0:19:21.568000
+ja	ja	ADV	-	-	0:19:18.983000	0:19:21.568000
+oberhalb	oberhalb	ADP	-	-	0:19:18.983000	0:19:21.568000
+noch	noch	ADV	-	-	0:19:18.983000	0:19:21.568000
+mhm	mhm	PROPN	-	-	0:19:18.983000	0:19:21.568000
+,	-	-	-	-	0:19:18.983000	0:19:21.568000
+<pause duration="0,5s"/>
+geht	gehen	VERB	-	-	0:19:18.983000	0:19:21.568000
+weit	weit	ADJ	-	-	0:19:18.983000	0:19:21.568000
+hinüber	hinüber	ADV	-	-	0:19:18.983000	0:19:21.568000
+.	-	-	-	-	0:19:18.983000	0:19:21.568000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:21.568000" end="0:19:23.568000">
+(dann)	dann	ADV	-	-	0:19:21.568000	0:19:23.568000
+wie	wie	CCONJ	-	-	0:19:21.568000	0:19:23.568000
+der	der	DET	-	-	0:19:21.568000	0:19:23.568000
+Tag	Tag	NOUN	-	-	0:19:21.568000	0:19:23.568000
+der	der	DET	-	-	0:19:21.568000	0:19:23.568000
+offenen	offen	ADJ	-	-	0:19:21.568000	0:19:23.568000
+Tür	Tür	NOUN	-	-	0:19:21.568000	0:19:23.568000
+war	sein	AUX	-	-	0:19:21.568000	0:19:23.568000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:21.568000" end="0:19:24.218000">
+mhm	mhm	PROPN	-	-	0:19:21.568000	0:19:23.568000
+.	-	-	-	-	0:19:21.568000	0:19:23.568000
+mhm	mhm	PROPN	-	-	0:19:23.568000	0:19:24.218000
+.	-	-	-	-	0:19:23.568000	0:19:24.218000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:24.218000" end="0:19:28.698000">
+beim	beim	ADP	-	-	0:19:24.218000	0:19:26.468000
+<pause duration="0,7s"/>
+in	in	ADP	-	-	0:19:24.218000	0:19:26.468000
+der	der	DET	-	-	0:19:24.218000	0:19:26.468000
+draußen	draußen	ADV	-	-	0:19:24.218000	0:19:26.468000
+,	-	-	-	-	0:19:24.218000	0:19:26.468000
+da	da	ADV	-	-	0:19:26.468000	0:19:28.698000
+haben	haben	AUX	-	-	0:19:26.468000	0:19:28.698000
+sie	ich	PRON	-	-	0:19:26.468000	0:19:28.698000
+da	da	ADV	-	-	0:19:26.468000	0:19:28.698000
+da	da	ADV	-	-	0:19:26.468000	0:19:28.698000
+haben	haben	AUX	-	-	0:19:26.468000	0:19:28.698000
+sie	ich	PRON	-	-	0:19:26.468000	0:19:28.698000
+ja	ja	ADV	-	-	0:19:26.468000	0:19:28.698000
+zuerst	zuerst	ADV	-	-	0:19:26.468000	0:19:28.698000
+gesagt	sagen	VERB	-	-	0:19:26.468000	0:19:28.698000
+,	-	-	-	-	0:19:26.468000	0:19:28.698000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:26.468000" end="0:19:28.698000">
+ja	ja	ADV	-	-	0:19:26.468000	0:19:28.698000
+wa/	-	-	-	-	0:19:26.468000	0:19:28.698000
+war	sein	AUX	-	-	0:19:26.468000	0:19:28.698000
+mal	mal	ADV	-	-	0:19:26.468000	0:19:28.698000
+war	sein	AUX	-	-	0:19:26.468000	0:19:28.698000
+mal/	-	-	-	-	0:19:26.468000	0:19:28.698000
+.	-	-	-	-	0:19:26.468000	0:19:28.698000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:28.698000" end="0:19:32.533000">
+da	da	ADV	-	-	0:19:28.698000	0:19:30.073000
+fahren	fahren	VERB	-	-	0:19:28.698000	0:19:30.073000
+wir	ich	PRON	-	-	0:19:28.698000	0:19:30.073000
+hinauf	hinauf	ADP	-	-	0:19:28.698000	0:19:30.073000
+,	-	-	-	-	0:19:28.698000	0:19:30.073000
+<pause duration="0,5s"/>
+aber	aber	CCONJ	-	-	0:19:30.073000	0:19:31.378000
+da	da	ADV	-	-	0:19:30.073000	0:19:31.378000
+war	sein	AUX	-	-	0:19:30.073000	0:19:31.378000
+es	ich	PRON	-	-	0:19:30.073000	0:19:31.378000
+noch	noch	ADV	-	-	0:19:30.073000	0:19:31.378000
+nicht	nicht	PART	-	-	0:19:30.073000	0:19:31.378000
+fertig	fertigen	ADJ	-	-	0:19:30.073000	0:19:31.378000
+,	-	-	-	-	0:19:30.073000	0:19:31.378000
+da	da	ADV	-	-	0:19:31.378000	0:19:32.533000
+haben	haben	AUX	-	-	0:19:31.378000	0:19:32.533000
+wir	ich	PRON	-	-	0:19:31.378000	0:19:32.533000
+nicht	nicht	PART	-	-	0:19:31.378000	0:19:32.533000
+hinauffahren	hinauffahren	VERB	-	-	0:19:31.378000	0:19:32.533000
+können	können	VERB	-	-	0:19:31.378000	0:19:32.533000
+.	-	-	-	-	0:19:31.378000	0:19:32.533000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:32.533000" end="0:19:38.578000">
+na	na	X	-	-	0:19:32.533000	0:19:35.503000
+ja	ja	ADV	-	-	0:19:32.533000	0:19:35.503000
+das	der	PRON	-	-	0:19:32.533000	0:19:35.503000
+ist	sein	AUX	-	-	0:19:32.533000	0:19:35.503000
+aber	aber	ADV	-	-	0:19:32.533000	0:19:35.503000
+zu	zu	ADP	-	-	0:19:32.533000	0:19:35.503000
+su/	-	-	-	-	0:19:32.533000	0:19:35.503000
+na	na	INTJ	-	-	0:19:32.533000	0:19:35.503000
+ganz	ganz	ADV	-	-	0:19:32.533000	0:19:35.503000
+neu	neu	ADJ	-	-	0:19:32.533000	0:19:35.503000
+ist	sein	AUX	-	-	0:19:32.533000	0:19:35.503000
+die	der	DET	-	-	0:19:32.533000	0:19:35.503000
+Straße	Straße	NOUN	-	-	0:19:32.533000	0:19:35.503000
+nicht	nicht	PART	-	-	0:19:32.533000	0:19:35.503000
+,	-	-	-	-	0:19:32.533000	0:19:35.503000
+dann	dann	ADV	-	-	0:19:35.503000	0:19:38.578000
+du	du	PRON	-	-	0:19:35.503000	0:19:38.578000
+mei/	-	-	-	-	0:19:35.503000	0:19:38.578000
+das	der	DET	-	-	0:19:35.503000	0:19:38.578000
+meinst	meinen	NOUN	-	-	0:19:35.503000	0:19:38.578000
+eine	einen	DET	-	-	0:19:35.503000	0:19:38.578000
+andere	ander	ADJ	-	-	0:19:35.503000	0:19:38.578000
+.	-	-	-	-	0:19:35.503000	0:19:38.578000
+<pause duration="1,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:38.578000" end="0:19:40.063000">
+die	der	DET	-	-	0:19:38.578000	0:19:40.063000
+wie	wie	ADV	-	-	0:19:38.578000	0:19:40.063000
+soll	soll	VERB	-	-	0:19:38.578000	0:19:40.063000
+ich	ich	PRON	-	-	0:19:38.578000	0:19:40.063000
+denn	denn	ADV	-	-	0:19:38.578000	0:19:40.063000
+sagen	sagen	VERB	-	-	0:19:38.578000	0:19:40.063000
+?	-	-	-	-	0:19:38.578000	0:19:40.063000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:40.063000" end="0:19:40.528000">
+das	der	PRON	-	-	0:19:40.063000	0:19:40.528000
+ist	sein	AUX	-	-	0:19:40.063000	0:19:40.528000
+da	da	ADV	-	-	0:19:40.063000	0:19:40.528000
+,	-	-	-	-	0:19:40.063000	0:19:40.528000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:40.528000" end="0:19:42.238000">
+wo	wo	ADV	-	-	0:19:40.528000	0:19:42.238000
+sie	ich	PRON	-	-	0:19:40.528000	0:19:42.238000
+ungefähr	ungefähr	ADJ	-	-	0:19:40.528000	0:19:42.238000
+wo	wo	ADV	-	-	0:19:40.528000	0:19:42.238000
+du	du	PRON	-	-	0:19:40.528000	0:19:42.238000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:40.528000" end="0:19:42.238000">
+wo	wo	ADV	-	-	0:19:40.528000	0:19:42.238000
+wo	wo	ADV	-	-	0:19:40.528000	0:19:42.238000
+wo	wo	ADV	-	-	0:19:40.528000	0:19:42.238000
+sie	ich	PRON	-	-	0:19:40.528000	0:19:42.238000
+das	der	DET	-	-	0:19:40.528000	0:19:42.238000
+Holz	Holz	NOUN	-	-	0:19:40.528000	0:19:42.238000
+hinunter	hinunter	ADJ	-	-	0:19:40.528000	0:19:42.238000
+geführt	führen	VERB	-	-	0:19:40.528000	0:19:42.238000
+haben	haben	AUX	-	-	0:19:40.528000	0:19:42.238000
+,	-	-	-	-	0:19:40.528000	0:19:42.238000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:42.238000" end="0:19:44.538000">
+am	am	ADP	-	-	0:19:42.238000	0:19:43.953000
+[(Imbiselstein)]O	Imbiselstein	NOUN	-	-	0:19:42.238000	0:19:43.953000
+gehst	gehen	VERB	-	-	0:19:42.238000	0:19:43.953000
+.	-	-	-	-	0:19:42.238000	0:19:43.953000
+ein	einen	DET	-	-	0:19:43.953000	0:19:44.538000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:43.953000" end="0:19:44.538000">
+da	-	-	-	-	0:19:43.953000	0:19:44.538000
+*siehst*	-	-	-	-	0:19:43.953000	0:19:44.538000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:44.538000" end="0:19:46.918000">
+ein	einen	DET	-	-	0:19:44.538000	0:19:46.918000
+Stückerl	Stückerl	NOUN	-	-	0:19:44.538000	0:19:46.918000
+weiter	weit	ADV	-	-	0:19:44.538000	0:19:46.918000
+oben	oben	ADV	-	-	0:19:44.538000	0:19:46.918000
+geht	gehen	VERB	-	-	0:19:44.538000	0:19:46.918000
+die	der	DET	-	-	0:19:44.538000	0:19:46.918000
+Straße	Straße	NOUN	-	-	0:19:44.538000	0:19:46.918000
+vorbei	vorbei	ADP	-	-	0:19:44.538000	0:19:46.918000
+,	-	-	-	-	0:19:44.538000	0:19:46.918000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:44.538000" end="0:19:47.273000">
+oben	-	-	-	-	0:19:44.538000	0:19:46.918000
+da	-	-	-	-	0:19:44.538000	0:19:46.918000
+da	-	-	-	-	0:19:44.538000	0:19:46.918000
+genau	-	-	-	-	0:19:46.918000	0:19:47.273000
+,	-	-	-	-	0:19:46.918000	0:19:47.273000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:47.273000" end="0:19:48.238000">
+das	der	PRON	-	-	0:19:47.273000	0:19:48.238000
+ist	sein	AUX	-	-	0:19:47.273000	0:19:48.238000
+die	der	PRON	-	-	0:19:47.273000	0:19:48.238000
+!	-	-	-	-	0:19:47.273000	0:19:48.238000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:47.273000" end="0:19:48.913000">
+da	-	-	-	-	0:19:47.273000	0:19:48.238000
+*siehst*	-	-	-	-	0:19:47.273000	0:19:48.238000
+da	-	-	-	-	0:19:47.273000	0:19:48.238000
+*siehst*	-	-	-	-	0:19:47.273000	0:19:48.238000
+so	-	-	-	-	0:19:48.238000	0:19:48.913000
+schön	-	-	-	-	0:19:48.238000	0:19:48.913000
+hinüber	-	-	-	-	0:19:48.238000	0:19:48.913000
+.	-	-	-	-	0:19:48.238000	0:19:48.913000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:48.913000" end="0:19:49.233000">
+ja	ja	ADV	-	-	0:19:48.913000	0:19:49.233000
+ja	ja	PART	-	-	0:19:48.913000	0:19:49.233000
+.	-	-	-	-	0:19:48.913000	0:19:49.233000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:49.233000" end="0:19:54.543000">
+das	der	PRON	-	-	0:19:49.233000	0:19:50.108000
+ist	sein	AUX	-	-	0:19:49.233000	0:19:50.108000
+doch	doch	ADV	-	-	0:19:49.233000	0:19:50.108000
+schon	schon	ADV	-	-	0:19:49.233000	0:19:50.108000
+länger	lang	ADJ	-	-	0:19:49.233000	0:19:50.108000
+,	-	-	-	-	0:19:49.233000	0:19:50.108000
+die	der	DET	-	-	0:19:50.108000	0:19:54.543000
+d/	-	-	-	-	0:19:50.108000	0:19:54.543000
+die	der	PRON	-	-	0:19:50.108000	0:19:54.543000
+ist	sein	AUX	-	-	0:19:50.108000	0:19:54.543000
+schon	schon	ADV	-	-	0:19:50.108000	0:19:54.543000
+sicher	sichern	ADJ	-	-	0:19:50.108000	0:19:54.543000
+,	-	-	-	-	0:19:50.108000	0:19:54.543000
+meine	meinen	DET	-	-	0:19:50.108000	0:19:54.543000
+ich	ich	PRON	-	-	0:19:50.108000	0:19:54.543000
+,	-	-	-	-	0:19:50.108000	0:19:54.543000
+sieben	sieben	NUM	-	-	0:19:50.108000	0:19:54.543000
+acht	acht	NUM	-	-	0:19:50.108000	0:19:54.543000
+Jahre	Jahr	NOUN	-	-	0:19:50.108000	0:19:54.543000
+die	der	DET	-	-	0:19:50.108000	0:19:54.543000
+Straße	Straße	NOUN	-	-	0:19:50.108000	0:19:54.543000
+.	-	-	-	-	0:19:50.108000	0:19:54.543000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:54.543000" end="0:19:56.438000">
+aber	aber	CCONJ	-	-	0:19:54.543000	0:19:55.793000
+nicht	nicht	PART	-	-	0:19:54.543000	0:19:55.793000
+fertig	fertigen	ADJ	-	-	0:19:54.543000	0:19:55.793000
+gemacht	machen	VERB	-	-	0:19:54.543000	0:19:55.793000
+bis	bis	ADP	-	-	0:19:55.793000	0:19:56.438000
+hinauf	hinauf	ADV	-	-	0:19:55.793000	0:19:56.438000
+.	-	-	-	-	0:19:55.793000	0:19:56.438000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:55.793000" end="0:19:58.438000">
+hm	hm	X	-	-	0:19:55.793000	0:19:56.438000
+na	na	X	-	-	0:19:56.438000	0:19:58.438000
+ich	ich	PRON	-	-	0:19:56.438000	0:19:58.438000
+weiß	weiß	VERB	-	-	0:19:56.438000	0:19:58.438000
+nicht	nicht	PART	-	-	0:19:56.438000	0:19:58.438000
+.	-	-	-	-	0:19:56.438000	0:19:58.438000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:19:58.438000" end="0:19:59.773000">
+*weißt*	-	-	-	-	0:19:58.438000	0:19:59.773000
+eh	-	-	-	-	0:19:58.438000	0:19:59.773000
+,	-	-	-	-	0:19:58.438000	0:19:59.773000
+da	da	ADV	-	-	0:19:58.438000	0:19:59.773000
+haben	haben	AUX	-	-	0:19:58.438000	0:19:59.773000
+sie	ich	PRON	-	-	0:19:58.438000	0:19:59.773000
+den	der	PRON	-	-	0:19:58.438000	0:19:59.773000
+Hang/	-	-	-	-	0:19:58.438000	0:19:59.773000
+.	-	-	-	-	0:19:58.438000	0:19:59.773000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:19:58.438000" end="0:20:04.418000">
+na	na	X	-	-	0:19:58.438000	0:19:59.773000
+da	da	ADV	-	-	0:19:58.438000	0:19:59.773000
+,	-	-	-	-	0:19:58.438000	0:19:59.773000
+wo	wo	ADV	-	-	0:19:58.438000	0:19:59.773000
+wir	ich	PRON	-	-	0:19:58.438000	0:19:59.773000
+gefahren	gefahren	VERB	-	-	0:19:58.438000	0:19:59.773000
+wo	wo	ADV	-	-	0:19:59.773000	0:20:04.418000
+der	der	PRON	-	-	0:19:59.773000	0:20:04.418000
+da	da	ADV	-	-	0:19:59.773000	0:20:04.418000
+die	der	DET	-	-	0:19:59.773000	0:20:04.418000
+die	der	DET	-	-	0:19:59.773000	0:20:04.418000
+Baufirma	Baufirma	NOUN	-	-	0:19:59.773000	0:20:04.418000
+,	-	-	-	-	0:19:59.773000	0:20:04.418000
+ich	ich	PRON	-	-	0:19:59.773000	0:20:04.418000
+weiß	weiß	VERB	-	-	0:19:59.773000	0:20:04.418000
+nicht	nicht	PART	-	-	0:19:59.773000	0:20:04.418000
+,	-	-	-	-	0:19:59.773000	0:20:04.418000
+d/	-	-	-	-	0:19:59.773000	0:20:04.418000
+war	sein	AUX	-	-	0:19:59.773000	0:20:04.418000
+das	der	PRON	-	-	0:19:59.773000	0:20:04.418000
+der	der	DET	-	-	0:19:59.773000	0:20:04.418000
+[Haider]N	Haider	PROPN	-	-	0:19:59.773000	0:20:04.418000
+oder	oder	CCONJ	-	-	0:19:59.773000	0:20:04.418000
+wer	wer	PRON	-	-	0:19:59.773000	0:20:04.418000
+da	da	ADV	-	-	0:19:59.773000	0:20:04.418000
+oben	oben	ADV	-	-	0:19:59.773000	0:20:04.418000
+g/	-	-	-	-	0:19:59.773000	0:20:04.418000
+gearbeitet	arbeiten	VERB	-	-	0:19:59.773000	0:20:04.418000
+hat	haben	AUX	-	-	0:19:59.773000	0:20:04.418000
+drüben	drüben	ADV	-	-	0:19:59.773000	0:20:04.418000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:04.418000" end="0:20:05.643000">
+ja	ja	ADV	-	-	0:20:04.418000	0:20:05.643000
+ja	ja	ADV	-	-	0:20:04.418000	0:20:05.643000
+ja	ja	ADV	-	-	0:20:04.418000	0:20:05.643000
+ja	ja	PART	-	-	0:20:04.418000	0:20:05.643000
+.	-	-	-	-	0:20:04.418000	0:20:05.643000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:04.418000" end="0:20:08.788000">
+hinauf	hinauf	ADV	-	-	0:20:04.418000	0:20:05.643000
+gefahren	gefahren	VERB	-	-	0:20:04.418000	0:20:05.643000
+sind	sein	AUX	-	-	0:20:04.418000	0:20:05.643000
+,	-	-	-	-	0:20:04.418000	0:20:05.643000
+das	der	PRON	-	-	0:20:05.643000	0:20:08.788000
+ist	sein	AUX	-	-	0:20:05.643000	0:20:08.788000
+auf	auf	ADP	-	-	0:20:05.643000	0:20:08.788000
+alle	all	DET	-	-	0:20:05.643000	0:20:08.788000
+Fälle	Fall	NOUN	-	-	0:20:05.643000	0:20:08.788000
+auf	auf	ADP	-	-	0:20:05.643000	0:20:08.788000
+neunneunzig	neunneunzig	PROPN	-	-	0:20:05.643000	0:20:08.788000
+hinauf	hinauf	ADP	-	-	0:20:05.643000	0:20:08.788000
+,	-	-	-	-	0:20:05.643000	0:20:08.788000
+nicht	nicht	PART	-	-	0:20:05.643000	0:20:08.788000
+,	-	-	-	-	0:20:05.643000	0:20:08.788000
+oder	oder	CCONJ	-	-	0:20:05.643000	0:20:08.788000
+neunhundert	neunhundert	ADJ	-	-	0:20:05.643000	0:20:08.788000
+,	-	-	-	-	0:20:05.643000	0:20:08.788000
+nicht	nicht	PART	-	-	0:20:05.643000	0:20:08.788000
+?	-	-	-	-	0:20:05.643000	0:20:08.788000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:08.788000" end="0:20:10.208000">
+mhm	mhm	PROPN	-	-	0:20:08.788000	0:20:10.208000
+.	-	-	-	-	0:20:08.788000	0:20:10.208000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:10.208000" end="0:20:10.673000">
+ja	ja	PART	-	-	0:20:10.208000	0:20:10.673000
+.	-	-	-	-	0:20:10.208000	0:20:10.673000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:10.673000" end="0:20:13.983000">
+na	na	X	-	-	0:20:10.673000	0:20:13.983000
+wunderbar	wunderbar	ADJ	-	-	0:20:10.673000	0:20:13.983000
+,	-	-	-	-	0:20:10.673000	0:20:13.983000
+d/	-	-	-	-	0:20:10.673000	0:20:13.983000
+da	-	-	-	-	0:20:10.673000	0:20:13.983000
+*ist*	-	-	-	-	0:20:10.673000	0:20:13.983000
+einfach	-	-	-	-	0:20:10.673000	0:20:13.983000
+wunderbar	-	-	-	-	0:20:10.673000	0:20:13.983000
+schön	-	-	-	-	0:20:10.673000	0:20:13.983000
+oben	-	-	-	-	0:20:10.673000	0:20:13.983000
+.	-	-	-	-	0:20:10.673000	0:20:13.983000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:10.673000" end="0:20:13.983000">
+aber	aber	CCONJ	-	-	0:20:10.673000	0:20:13.983000
+das	der	PRON	-	-	0:20:10.673000	0:20:13.983000
+war	sein	AUX	-	-	0:20:10.673000	0:20:13.983000
+war	sein	AUX	-	-	0:20:10.673000	0:20:13.983000
+schö/	-	-	-	-	0:20:10.673000	0:20:13.983000
+so	so	ADV	-	-	0:20:10.673000	0:20:13.983000
+einen	ein	DET	-	-	0:20:10.673000	0:20:13.983000
+schönen	schön	ADJ	-	-	0:20:10.673000	0:20:13.983000
+Tag	Tag	NOUN	-	-	0:20:10.673000	0:20:13.983000
+gehabt	haben	AUX	-	-	0:20:10.673000	0:20:13.983000
+da	da	ADV	-	-	0:20:10.673000	0:20:13.983000
+ja	ja	ADV	-	-	0:20:10.673000	0:20:13.983000
+.	-	-	-	-	0:20:10.673000	0:20:13.983000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:13.983000" end="0:20:20.528000">
+<pause duration="1,1s"/>
+wenn	wenn	SCONJ	-	-	0:20:13.983000	0:20:17.083000
+du	du	PRON	-	-	0:20:13.983000	0:20:17.083000
+von	von	ADP	-	-	0:20:13.983000	0:20:17.083000
+oben	oben	ADV	-	-	0:20:13.983000	0:20:17.083000
+hinunter	hinunter	ADJ	-	-	0:20:13.983000	0:20:17.083000
+schaust	schauen	NOUN	-	-	0:20:13.983000	0:20:17.083000
+von	von	ADP	-	-	0:20:13.983000	0:20:17.083000
+der	der	DET	-	-	0:20:13.983000	0:20:17.083000
+von	von	ADP	-	-	0:20:13.983000	0:20:17.083000
+von	von	ADP	-	-	0:20:17.083000	0:20:20.528000
+der	der	PRON	-	-	0:20:17.083000	0:20:20.528000
+das	der	PRON	-	-	0:20:17.083000	0:20:20.528000
+ist	sein	AUX	-	-	0:20:17.083000	0:20:20.528000
+auch	auch	ADV	-	-	0:20:17.083000	0:20:20.528000
+traumhaft	traumhaft	ADJ	-	-	0:20:17.083000	0:20:20.528000
+,	-	-	-	-	0:20:17.083000	0:20:20.528000
+ja	ja	ADV	-	-	0:20:17.083000	0:20:20.528000
+wirklich	wirklich	ADJ	-	-	0:20:17.083000	0:20:20.528000
+.	-	-	-	-	0:20:17.083000	0:20:20.528000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:17.083000" end="0:20:20.828000">
+mhm	-	-	-	-	0:20:17.083000	0:20:20.528000
+da	-	-	-	-	0:20:17.083000	0:20:20.528000
+*ist*	-	-	-	-	0:20:17.083000	0:20:20.528000
+auch	-	-	-	-	0:20:17.083000	0:20:20.528000
+schön	-	-	-	-	0:20:17.083000	0:20:20.528000
+,	-	-	-	-	0:20:17.083000	0:20:20.528000
+da	-	-	-	-	0:20:17.083000	0:20:20.528000
+*siehst*	-	-	-	-	0:20:17.083000	0:20:20.528000
+ja	-	-	-	-	0:20:17.083000	0:20:20.528000
+ja	-	-	-	-	0:20:17.083000	0:20:20.528000
+.	-	-	-	-	0:20:17.083000	0:20:20.528000
+mhm	mhm	PROPN	-	-	0:20:20.528000	0:20:20.828000
+.	-	-	-	-	0:20:20.528000	0:20:20.828000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:20.828000" end="0:20:23.728000">
+der	der	DET	-	-	0:20:20.828000	0:20:23.728000
+Stausee	Stausee	NOUN	-	-	0:20:20.828000	0:20:23.728000
+und	und	CCONJ	-	-	0:20:20.828000	0:20:23.728000
+so	so	ADV	-	-	0:20:20.828000	0:20:23.728000
+,	-	-	-	-	0:20:20.828000	0:20:23.728000
+na	na	INTJ	-	-	0:20:20.828000	0:20:23.728000
+ist	sein	AUX	-	-	0:20:20.828000	0:20:23.728000
+so	so	ADV	-	-	0:20:20.828000	0:20:23.728000
+gehören	gehören	VERB	-	-	0:20:20.828000	0:20:23.728000
+einfach/	-	-	-	-	0:20:20.828000	0:20:23.728000
+.	-	-	-	-	0:20:20.828000	0:20:23.728000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:20.828000" end="0:20:29.038000">
+ja	ja	ADV	-	-	0:20:20.828000	0:20:23.728000
+ja	ja	ADV	-	-	0:20:20.828000	0:20:23.728000
+mhm	mhm	PROPN	-	-	0:20:20.828000	0:20:23.728000
+mhm	mhm	PROPN	-	-	0:20:20.828000	0:20:23.728000
+.	-	-	-	-	0:20:20.828000	0:20:23.728000
+<pause duration="0,9s"/>
+na	na	X	-	-	0:20:23.728000	0:20:26.978000
+ja	ja	PART	-	-	0:20:23.728000	0:20:26.978000
+.	-	-	-	-	0:20:23.728000	0:20:26.978000
+<pause duration="1,7s"/>
+jetzt	jetzt	ADV	-	-	0:20:26.978000	0:20:29.038000
+haben	haben	AUX	-	-	0:20:26.978000	0:20:29.038000
+wir	ich	PRON	-	-	0:20:26.978000	0:20:29.038000
+unser	sich	DET	-	-	0:20:26.978000	0:20:29.038000
+[Steyerling]O	Steyerling	NOUN	-	-	0:20:26.978000	0:20:29.038000
+gelobt	loben	VERB	-	-	0:20:26.978000	0:20:29.038000
+genug	genug	ADV	-	-	0:20:26.978000	0:20:29.038000
+,	-	-	-	-	0:20:26.978000	0:20:29.038000
+gell	gell	ADJ	-	-	0:20:26.978000	0:20:29.038000
+?	-	-	-	-	0:20:26.978000	0:20:29.038000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:29.038000" end="0:20:31.858000">
+ja	ja	ADV	-	-	0:20:29.038000	0:20:30.298000
+kann	können	VERB	-	-	0:20:29.038000	0:20:30.298000
+man	man	PRON	-	-	0:20:29.038000	0:20:30.298000
+sagen	sagen	VERB	-	-	0:20:29.038000	0:20:30.298000
+.	-	-	-	-	0:20:29.038000	0:20:30.298000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:30.298000" end="0:20:31.858000">
+haben	haben	AUX	-	-	0:20:30.298000	0:20:31.858000
+wir	ich	PRON	-	-	0:20:30.298000	0:20:31.858000
+da	da	ADV	-	-	0:20:30.298000	0:20:31.858000
+jetzt	jetzt	ADV	-	-	0:20:30.298000	0:20:31.858000
+zwei	zwei	NUM	-	-	0:20:30.298000	0:20:31.858000
+beieinander	beieinander	NOUN	-	-	0:20:30.298000	0:20:31.858000
+?	-	-	-	-	0:20:30.298000	0:20:31.858000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:31.858000" end="0:20:33.648000">
+nein	nein	PART	-	-	0:20:31.858000	0:20:33.648000
+ist	sein	AUX	-	-	0:20:31.858000	0:20:33.648000
+nichts	nichts	PRON	-	-	0:20:31.858000	0:20:33.648000
+mehr	mehr	ADV	-	-	0:20:31.858000	0:20:33.648000
+drinnen	drinnen	ADV	-	-	0:20:31.858000	0:20:33.648000
+,	-	-	-	-	0:20:31.858000	0:20:33.648000
+nein	nein	PART	-	-	0:20:31.858000	0:20:33.648000
+.	-	-	-	-	0:20:31.858000	0:20:33.648000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:31.858000" end="0:20:35.788000">
+nein	nein	PART	-	-	0:20:31.858000	0:20:33.648000
+ist	sein	AUX	-	-	0:20:31.858000	0:20:33.648000
+eh	eh	ADV	-	-	0:20:31.858000	0:20:33.648000
+nur	nur	ADV	-	-	0:20:31.858000	0:20:33.648000
+eines	ein	PRON	-	-	0:20:31.858000	0:20:33.648000
+.	-	-	-	-	0:20:31.858000	0:20:33.648000
+<pause duration="0,9s"/>
+Urlaubs/	-	-	-	-	0:20:33.648000	0:20:35.788000
+ah	ah	X	-	-	0:20:33.648000	0:20:35.788000
+das	der	PRON	-	-	0:20:33.648000	0:20:35.788000
+haben	haben	AUX	-	-	0:20:33.648000	0:20:35.788000
+wir	ich	PRON	-	-	0:20:33.648000	0:20:35.788000
+eh	eh	ADV	-	-	0:20:33.648000	0:20:35.788000
+schon	schon	ADV	-	-	0:20:33.648000	0:20:35.788000
+gehabt	haben	AUX	-	-	0:20:33.648000	0:20:35.788000
+.	-	-	-	-	0:20:33.648000	0:20:35.788000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:35.788000" end="0:20:36.488000">
+mhm	mhm	PROPN	-	-	0:20:35.788000	0:20:36.488000
+.	-	-	-	-	0:20:35.788000	0:20:36.488000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:35.788000" end="0:20:42.068000">
+Freizeit	Freizeit	NOUN	-	-	0:20:35.788000	0:20:36.488000
+und	und	CCONJ	-	-	0:20:36.488000	0:20:39.553000
+Hobby	Hobby	NOUN	-	-	0:20:36.488000	0:20:39.553000
+na	na	PROPN	-	-	0:20:36.488000	0:20:39.553000
+ja	ja	ADV	-	-	0:20:36.488000	0:20:39.553000
+.	-	-	-	-	0:20:36.488000	0:20:39.553000
+<pause duration="1,9s"/>
+da	da	ADV	-	-	0:20:39.553000	0:20:42.068000
+haben	haben	AUX	-	-	0:20:39.553000	0:20:42.068000
+wir	ich	PRON	-	-	0:20:39.553000	0:20:42.068000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:20:39.553000	0:20:42.068000
+n/	-	-	-	-	0:20:39.553000	0:20:42.068000
+(hübsch)	hübsch	ADJ	-	-	0:20:39.553000	0:20:42.068000
+dasselbe	derselbe	PRON	-	-	0:20:39.553000	0:20:42.068000
+,	-	-	-	-	0:20:39.553000	0:20:42.068000
+gell	gell	ADJ	-	-	0:20:39.553000	0:20:42.068000
+?	-	-	-	-	0:20:39.553000	0:20:42.068000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:42.068000" end="0:20:43.558000">
+Freizeit	Freizeit	NOUN	-	-	0:20:42.068000	0:20:43.558000
+und	und	CCONJ	-	-	0:20:42.068000	0:20:43.558000
+Hobby	Hobby	NOUN	-	-	0:20:42.068000	0:20:43.558000
+,	-	-	-	-	0:20:42.068000	0:20:43.558000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:42.068000" end="0:20:43.558000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:43.558000" end="0:20:45.558000">
+ja	ja	ADV	-	-	0:20:43.558000	0:20:45.558000
+das	der	PRON	-	-	0:20:43.558000	0:20:45.558000
+ist	sein	AUX	-	-	0:20:43.558000	0:20:45.558000
+unser/	-	-	-	-	0:20:43.558000	0:20:45.558000
+.	-	-	-	-	0:20:43.558000	0:20:45.558000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:45.558000" end="0:20:46.048000">
+Musik	Musik	NOUN	-	-	0:20:45.558000	0:20:46.048000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:46.048000" end="0:20:46.608000">
+also	also	ADV	-	-	0:20:46.048000	0:20:46.608000
+Hobby	Hobby	NOUN	-	-	0:20:46.048000	0:20:46.608000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:46.048000" end="0:20:46.608000">
+(halt	halt	ADV	-	-	0:20:46.048000	0:20:46.608000
+nicht)	nicht	PART	-	-	0:20:46.048000	0:20:46.608000
+?	-	-	-	-	0:20:46.048000	0:20:46.608000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:46.608000" end="0:20:47.823000">
+haben	haben	AUX	-	-	0:20:46.608000	0:20:47.823000
+wir	ich	PRON	-	-	0:20:46.608000	0:20:47.823000
+genug	genug	ADV	-	-	0:20:46.608000	0:20:47.823000
+,	-	-	-	-	0:20:46.608000	0:20:47.823000
+Musik	Musik	NOUN	-	-	0:20:46.608000	0:20:47.823000
+.	-	-	-	-	0:20:46.608000	0:20:47.823000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:47.823000" end="0:20:49.018000">
+du	du	PRON	-	-	0:20:47.823000	0:20:49.018000
+hast	haben	AUX	-	-	0:20:47.823000	0:20:49.018000
+mehr	mehr	PRON	-	-	0:20:47.823000	0:20:49.018000
+wie	wie	CCONJ	-	-	0:20:47.823000	0:20:49.018000
+ich	ich	PRON	-	-	0:20:47.823000	0:20:49.018000
+.	-	-	-	-	0:20:47.823000	0:20:49.018000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:49.018000" end="0:20:51.363000">
+ja	ja	PART	-	-	0:20:49.018000	0:20:49.973000
+ich	ich	PRON	-	-	0:20:49.018000	0:20:49.973000
+habe	habe	AUX	-	-	0:20:49.018000	0:20:49.973000
+eh	eh	ADV	-	-	0:20:49.018000	0:20:49.973000
+ein	einen	DET	-	-	0:20:49.973000	0:20:51.363000
+wenig	wenig	PRON	-	-	0:20:49.973000	0:20:51.363000
+erzählt	erzählen	VERB	-	-	0:20:49.973000	0:20:51.363000
+schon	schon	ADV	-	-	0:20:49.973000	0:20:51.363000
+da	da	ADV	-	-	0:20:49.973000	0:20:51.363000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:51.363000" end="0:20:51.803000">
+mhm	mhm	PROPN	-	-	0:20:51.363000	0:20:51.803000
+.	-	-	-	-	0:20:51.363000	0:20:51.803000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:51.803000" end="0:20:53.363000">
+mit	mit	ADP	-	-	0:20:51.803000	0:20:53.363000
+den	der	DET	-	-	0:20:51.803000	0:20:53.363000
+Oldies	Oldie	NOUN	-	-	0:20:51.803000	0:20:53.363000
+,	-	-	-	-	0:20:51.803000	0:20:53.363000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:53.363000" end="0:20:53.803000">
+ja	ja	PART	-	-	0:20:53.363000	0:20:53.803000
+.	-	-	-	-	0:20:53.363000	0:20:53.803000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:20:53.803000" end="0:20:59.328000">
+dass	dass	SCONJ	-	-	0:20:53.803000	0:20:55.393000
+da	da	ADV	-	-	0:20:53.803000	0:20:55.393000
+so	so	ADV	-	-	0:20:53.803000	0:20:55.393000
+viele	viel	PRON	-	-	0:20:53.803000	0:20:55.393000
+dabei	dabei	ADV	-	-	0:20:53.803000	0:20:55.393000
+sind	sein	AUX	-	-	0:20:53.803000	0:20:55.393000
+,	-	-	-	-	0:20:53.803000	0:20:55.393000
+also	also	ADV	-	-	0:20:55.393000	0:20:59.328000
+lauter	laut	ADJ	-	-	0:20:55.393000	0:20:59.328000
+,	-	-	-	-	0:20:55.393000	0:20:59.328000
+<pause duration="1,0s"/>
+die	der	DET	-	-	0:20:55.393000	0:20:59.328000
+was	was	PRON	-	-	0:20:55.393000	0:20:59.328000
+vierzig	vierzig	NUM	-	-	0:20:55.393000	0:20:59.328000
+Jahre	Jahr	NOUN	-	-	0:20:55.393000	0:20:59.328000
+bei	bei	ADP	-	-	0:20:55.393000	0:20:59.328000
+der	der	DET	-	-	0:20:55.393000	0:20:59.328000
+Musik	Musik	NOUN	-	-	0:20:55.393000	0:20:59.328000
+sind	sein	AUX	-	-	0:20:55.393000	0:20:59.328000
+.	-	-	-	-	0:20:55.393000	0:20:59.328000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:20:59.328000" end="0:21:04.783000">
+ja	ja	ADV	-	-	0:20:59.328000	0:21:03.243000
+ja	ja	ADV	-	-	0:20:59.328000	0:21:03.243000
+ja	ja	PART	-	-	0:20:59.328000	0:21:03.243000
+,	-	-	-	-	0:20:59.328000	0:21:03.243000
+<pause duration="1,3s"/>
+ja	ja	ADV	-	-	0:20:59.328000	0:21:03.243000
+das	der	PRON	-	-	0:20:59.328000	0:21:03.243000
+wäre	sein	AUX	-	-	0:20:59.328000	0:21:03.243000
+ich	ich	PRON	-	-	0:20:59.328000	0:21:03.243000
+auch	auch	ADV	-	-	0:20:59.328000	0:21:03.243000
+schon	schon	ADV	-	-	0:20:59.328000	0:21:03.243000
+(bald)	bald	ADV	-	-	0:20:59.328000	0:21:03.243000
+,	-	-	-	-	0:20:59.328000	0:21:03.243000
+<pause duration="0,8s"/>
+vierzig	vierzig	NUM	-	-	0:21:03.243000	0:21:04.783000
+Jahre	Jahr	NOUN	-	-	0:21:03.243000	0:21:04.783000
+ma/	-	-	-	-	0:21:03.243000	0:21:04.783000
+bringe	bringen	VERB	-	-	0:21:03.243000	0:21:04.783000
+ich	ich	PRON	-	-	0:21:03.243000	0:21:04.783000
+auch	auch	ADV	-	-	0:21:03.243000	0:21:04.783000
+schon	schon	ADV	-	-	0:21:03.243000	0:21:04.783000
+bald	bald	ADV	-	-	0:21:03.243000	0:21:04.783000
+zusammen	zusammen	ADV	-	-	0:21:03.243000	0:21:04.783000
+jetzt	jetzt	ADV	-	-	0:21:03.243000	0:21:04.783000
+,	-	-	-	-	0:21:03.243000	0:21:04.783000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:04.783000" end="0:21:06.273000">
+na	na	X	-	-	0:21:04.783000	0:21:06.273000
+ja	ja	ADV	-	-	0:21:04.783000	0:21:06.273000
+du	du	PRON	-	-	0:21:04.783000	0:21:06.273000
+kannst	können	VERB	-	-	0:21:04.783000	0:21:06.273000
+eh	eh	ADV	-	-	0:21:04.783000	0:21:06.273000
+schon	schon	ADV	-	-	0:21:04.783000	0:21:06.273000
+mitspielen	mitspielen	VERB	-	-	0:21:04.783000	0:21:06.273000
+.	-	-	-	-	0:21:04.783000	0:21:06.273000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:04.783000" end="0:21:08.188000">
+ja	ja	PART	-	-	0:21:04.783000	0:21:06.273000
+.	-	-	-	-	0:21:04.783000	0:21:06.273000
+<pause duration="0,6s"/>
+ihr	mein	PRON	-	-	0:21:06.273000	0:21:08.188000
+habt	haben	AUX	-	-	0:21:06.273000	0:21:08.188000
+ja	ja	ADV	-	-	0:21:06.273000	0:21:08.188000
+so	so	ADV	-	-	0:21:06.273000	0:21:08.188000
+viele	viel	DET	-	-	0:21:06.273000	0:21:08.188000
+Bässe	Baß	NOUN	-	-	0:21:06.273000	0:21:08.188000
+,	-	-	-	-	0:21:06.273000	0:21:08.188000
+hat	haben	AUX	-	-	0:21:06.273000	0:21:08.188000
+er	ich	PRON	-	-	0:21:06.273000	0:21:08.188000
+gesagt	sagen	VERB	-	-	0:21:06.273000	0:21:08.188000
+,	-	-	-	-	0:21:06.273000	0:21:08.188000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:08.188000" end="0:21:09.513000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:08.188000" end="0:21:09.513000">
+d/	-	-	-	-	0:21:08.188000	0:21:09.513000
+ja	ja	ADV	-	-	0:21:08.188000	0:21:09.513000
+der	der	DET	-	-	0:21:08.188000	0:21:09.513000
+[Rudel]N	Rudel	NOUN	-	-	0:21:08.188000	0:21:09.513000
+hat	haben	AUX	-	-	0:21:08.188000	0:21:09.513000
+gesagt	sagen	VERB	-	-	0:21:08.188000	0:21:09.513000
+,	-	-	-	-	0:21:08.188000	0:21:09.513000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:09.513000" end="0:21:12.733000">
+obwohl	obwohl	SCONJ	-	-	0:21:09.513000	0:21:12.733000
+auch	auch	ADV	-	-	0:21:09.513000	0:21:12.733000
+nicht	nicht	PART	-	-	0:21:09.513000	0:21:12.733000
+alleweile	alleweile	VERB	-	-	0:21:09.513000	0:21:12.733000
+,	-	-	-	-	0:21:09.513000	0:21:12.733000
+alleweile	alleweile	NOUN	-	-	0:21:09.513000	0:21:12.733000
+auch	auch	ADV	-	-	0:21:09.513000	0:21:12.733000
+nicht	nicht	PART	-	-	0:21:09.513000	0:21:12.733000
+,	-	-	-	-	0:21:09.513000	0:21:12.733000
+ja	ja	ADV	-	-	0:21:09.513000	0:21:12.733000
+nein	nein	PART	-	-	0:21:09.513000	0:21:12.733000
+nein	nein	PART	-	-	0:21:09.513000	0:21:12.733000
+ja	ja	PART	-	-	0:21:09.513000	0:21:12.733000
+.	-	-	-	-	0:21:09.513000	0:21:12.733000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:09.513000" end="0:21:14.413000">
+dass	dass	SCONJ	-	-	0:21:09.513000	0:21:12.733000
+es	ich	PRON	-	-	0:21:09.513000	0:21:12.733000
+dasss	dasss	PROPN	-	-	0:21:09.513000	0:21:12.733000
+ihr	mein	DET	-	-	0:21:09.513000	0:21:12.733000
+drei	drei	NUM	-	-	0:21:09.513000	0:21:12.733000
+dass	dass	SCONJ	-	-	0:21:09.513000	0:21:12.733000
+ihr	mein	PRON	-	-	0:21:09.513000	0:21:12.733000
+drei	drei	NUM	-	-	0:21:09.513000	0:21:12.733000
+Bässe	Baß	NOUN	-	-	0:21:09.513000	0:21:12.733000
+habt	haben	AUX	-	-	0:21:09.513000	0:21:12.733000
+braucht	brauchen	VERB	-	-	0:21:12.733000	0:21:14.413000
+ihr	mein	PRON	-	-	0:21:12.733000	0:21:14.413000
+keinen	kein	DET	-	-	0:21:12.733000	0:21:14.413000
+mehr	mehr	PRON	-	-	0:21:12.733000	0:21:14.413000
+.	-	-	-	-	0:21:12.733000	0:21:14.413000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:14.413000" end="0:21:17.078000">
+na	na	INTJ	-	-	0:21:14.413000	0:21:15.688000
+aber	aber	ADV	-	-	0:21:14.413000	0:21:15.688000
+ist	sein	AUX	-	-	0:21:14.413000	0:21:15.688000
+sicher	sichern	ADV	-	-	0:21:14.413000	0:21:15.688000
+schön	schön	ADJ	-	-	0:21:14.413000	0:21:15.688000
+,	-	-	-	-	0:21:14.413000	0:21:15.688000
+und	und	CCONJ	-	-	0:21:15.688000	0:21:17.078000
+alleweile	alleweile	NOUN	-	-	0:21:15.688000	0:21:17.078000
+alleweile	alleweile	NOUN	-	-	0:21:15.688000	0:21:17.078000
+interessant	interessant	ADJ	-	-	0:21:15.688000	0:21:17.078000
+.	-	-	-	-	0:21:15.688000	0:21:17.078000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:15.688000" end="0:21:19.043000">
+ja	ja	ADV	-	-	0:21:15.688000	0:21:17.078000
+ja	ja	ADV	-	-	0:21:15.688000	0:21:17.078000
+na	na	X	-	-	0:21:15.688000	0:21:17.078000
+ja	ja	ADV	-	-	0:21:15.688000	0:21:17.078000
+das	der	PRON	-	-	0:21:15.688000	0:21:17.078000
+glaube	glauben	VERB	-	-	0:21:17.078000	0:21:19.043000
+ich	ich	PRON	-	-	0:21:17.078000	0:21:19.043000
+eh	eh	ADV	-	-	0:21:17.078000	0:21:19.043000
+,	-	-	-	-	0:21:17.078000	0:21:19.043000
+ja	ja	ADV	-	-	0:21:17.078000	0:21:19.043000
+ja	ja	ADV	-	-	0:21:17.078000	0:21:19.043000
+freilich	freilich	ADV	-	-	0:21:17.078000	0:21:19.043000
+.	-	-	-	-	0:21:17.078000	0:21:19.043000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:19.043000" end="0:21:24.693000">
+und	-	-	-	-	0:21:19.043000	0:21:22.633000
+wir	-	-	-	-	0:21:19.043000	0:21:22.633000
+spielen	-	-	-	-	0:21:19.043000	0:21:22.633000
+(mit	-	-	-	-	0:21:19.043000	0:21:22.633000
+dem)	-	-	-	-	0:21:19.043000	0:21:22.633000
+Programm	-	-	-	-	0:21:19.043000	0:21:22.633000
+her	-	-	-	-	0:21:19.043000	0:21:22.633000
+schon	-	-	-	-	0:21:19.043000	0:21:22.633000
+*musst*	-	-	-	-	0:21:19.043000	0:21:22.633000
+sagen	-	-	-	-	0:21:19.043000	0:21:22.633000
+,	-	-	-	-	0:21:19.043000	0:21:22.633000
+<pause duration="0,8s"/>
+d/	-	-	-	-	0:21:22.633000	0:21:24.693000
+wir	ich	PRON	-	-	0:21:22.633000	0:21:24.693000
+spielen	spielen	VERB	-	-	0:21:22.633000	0:21:24.693000
+halt	halt	ADV	-	-	0:21:22.633000	0:21:24.693000
+was	was	PRON	-	-	0:21:22.633000	0:21:24.693000
+für	für	ADP	-	-	0:21:22.633000	0:21:24.693000
+uns	sich	PRON	-	-	0:21:22.633000	0:21:24.693000
+.	-	-	-	-	0:21:22.633000	0:21:24.693000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:24.693000" end="0:21:26.323000">
+ja	ja	ADV	-	-	0:21:24.693000	0:21:26.323000
+na	na	ADV	-	-	0:21:24.693000	0:21:26.323000
+ja	ja	ADV	-	-	0:21:24.693000	0:21:26.323000
+sicher	sichern	ADJ	-	-	0:21:24.693000	0:21:26.323000
+,	-	-	-	-	0:21:24.693000	0:21:26.323000
+we/	-	-	-	-	0:21:24.693000	0:21:26.323000
+ma/	-	-	-	-	0:21:24.693000	0:21:26.323000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:26.323000" end="0:21:30.873000">
+Polka	Polka	PROPN	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+Walzer	Walzer	NOUN	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+Marsch	Marsch	NOUN	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+solche	solche	DET	-	-	0:21:26.323000	0:21:30.873000
+Sachen	Sache	NOUN	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+ein	einen	DET	-	-	0:21:26.323000	0:21:30.873000
+paar	paar	DET	-	-	0:21:26.323000	0:21:30.873000
+(Poperin)	Poperin	NOUN	-	-	0:21:26.323000	0:21:30.873000
+.	-	-	-	-	0:21:26.323000	0:21:30.873000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:26.323000" end="0:21:31.233000">
+nicht	nicht	PART	-	-	0:21:26.323000	0:21:30.873000
+so	so	ADV	-	-	0:21:26.323000	0:21:30.873000
+moderne	modern	ADJ	-	-	0:21:26.323000	0:21:30.873000
+Sachen	Sache	NOUN	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+so	so	ADV	-	-	0:21:26.323000	0:21:30.873000
+wie	wie	CCONJ	-	-	0:21:26.323000	0:21:30.873000
+wir	ich	PRON	-	-	0:21:26.323000	0:21:30.873000
+haben	haben	AUX	-	-	0:21:26.323000	0:21:30.873000
+,	-	-	-	-	0:21:26.323000	0:21:30.873000
+da	da	SCONJ	-	-	0:21:26.323000	0:21:30.873000
+das	der	PRON	-	-	0:21:26.323000	0:21:30.873000
+ja	ja	ADV	-	-	0:21:26.323000	0:21:30.873000
+mhm	mhm	PROPN	-	-	0:21:26.323000	0:21:30.873000
+ja	ja	ADV	-	-	0:21:26.323000	0:21:30.873000
+.	-	-	-	-	0:21:26.323000	0:21:30.873000
+ja	ja	ADV	-	-	0:21:30.873000	0:21:31.233000
+eh	eh	X	-	-	0:21:30.873000	0:21:31.233000
+.	-	-	-	-	0:21:30.873000	0:21:31.233000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:31.233000" end="0:21:32.208000">
+das	der	PRON	-	-	0:21:31.233000	0:21:32.208000
+ist	sein	AUX	-	-	0:21:31.233000	0:21:32.208000
+halt	halt	ADV	-	-	0:21:31.233000	0:21:32.208000
+einfach	einfach	ADJ	-	-	0:21:31.233000	0:21:32.208000
+nicht/	-	-	-	-	0:21:31.233000	0:21:32.208000
+.	-	-	-	-	0:21:31.233000	0:21:32.208000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:32.208000" end="0:21:33.193000">
+das	der	PRON	-	-	0:21:32.208000	0:21:33.193000
+ist	sein	AUX	-	-	0:21:32.208000	0:21:33.193000
+eh	eh	ADV	-	-	0:21:32.208000	0:21:33.193000
+super	super	PROPN	-	-	0:21:32.208000	0:21:33.193000
+ja	ja	ADV	-	-	0:21:32.208000	0:21:33.193000
+.	-	-	-	-	0:21:32.208000	0:21:33.193000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:33.193000" end="0:21:34.128000">
+na	na	X	-	-	0:21:33.193000	0:21:34.128000
+das	der	PRON	-	-	0:21:33.193000	0:21:34.128000
+ist/	-	-	-	-	0:21:33.193000	0:21:34.128000
+.	-	-	-	-	0:21:33.193000	0:21:34.128000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:33.193000" end="0:21:35.008000">
+das	der	PRON	-	-	0:21:33.193000	0:21:34.128000
+gefiele	gefallen	VERB	-	-	0:21:33.193000	0:21:34.128000
+mir	sich	PRON	-	-	0:21:33.193000	0:21:34.128000
+auch	auch	ADV	-	-	0:21:33.193000	0:21:34.128000
+(da)	da	ADV	-	-	0:21:34.128000	0:21:35.008000
+sicher	sichern	ADJ	-	-	0:21:34.128000	0:21:35.008000
+.	-	-	-	-	0:21:34.128000	0:21:35.008000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:35.008000" end="0:21:39.608000">
+und	und	CCONJ	-	-	0:21:35.008000	0:21:38.308000
+einen	ein	DET	-	-	0:21:35.008000	0:21:38.308000
+guten	gut	ADJ	-	-	0:21:35.008000	0:21:38.308000
+Ansager	Ansager	NOUN	-	-	0:21:35.008000	0:21:38.308000
+haben	haben	AUX	-	-	0:21:35.008000	0:21:38.308000
+wir	ich	PRON	-	-	0:21:35.008000	0:21:38.308000
+dabei	dabei	ADV	-	-	0:21:35.008000	0:21:38.308000
+.	-	-	-	-	0:21:35.008000	0:21:38.308000
+<pause duration="1,5s"/>
+[(Boldt)]N	Boldt	PROPN	-	-	0:21:38.308000	0:21:39.608000
+.	-	-	-	-	0:21:38.308000	0:21:39.608000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:38.308000" end="0:21:40.393000">
+ähm	ähm	X	-	-	0:21:38.308000	0:21:39.608000
+einen	ein	DET	-	-	0:21:38.308000	0:21:39.608000
+mu/	-	-	-	-	0:21:38.308000	0:21:39.608000
+einen	ein	PRON	-	-	0:21:38.308000	0:21:39.608000
+Musi/	-	-	-	-	0:21:38.308000	0:21:39.608000
+.	-	-	-	-	0:21:38.308000	0:21:39.608000
+der	der	DET	-	-	0:21:39.608000	0:21:40.393000
+der	der	DET	-	-	0:21:39.608000	0:21:40.393000
+[(Boldt)]N	Boldt	PROPN	-	-	0:21:39.608000	0:21:40.393000
+macht	machen	VERB	-	-	0:21:39.608000	0:21:40.393000
+das	der	PRON	-	-	0:21:39.608000	0:21:40.393000
+?	-	-	-	-	0:21:39.608000	0:21:40.393000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:40.393000" end="0:21:42.273000">
+der	der	DET	-	-	0:21:40.393000	0:21:42.273000
+[(Boldt)]N	Boldt	PROPN	-	-	0:21:40.393000	0:21:42.273000
+macht	machen	VERB	-	-	0:21:40.393000	0:21:42.273000
+das	der	PRON	-	-	0:21:40.393000	0:21:42.273000
+,	-	-	-	-	0:21:40.393000	0:21:42.273000
+der	der	DET	-	-	0:21:40.393000	0:21:42.273000
+ja	ja	ADV	-	-	0:21:40.393000	0:21:42.273000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:40.393000" end="0:21:42.273000">
+e/	-	-	-	-	0:21:40.393000	0:21:42.273000
+ja	ja	ADV	-	-	0:21:40.393000	0:21:42.273000
+ja	ja	PART	-	-	0:21:40.393000	0:21:42.273000
+.	-	-	-	-	0:21:40.393000	0:21:42.273000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:42.273000" end="0:21:43.618000">
+mit	mit	ADP	-	-	0:21:42.273000	0:21:43.618000
+dem	der	DET	-	-	0:21:42.273000	0:21:43.618000
+Akkordeon	Akkordeon	PROPN	-	-	0:21:42.273000	0:21:43.618000
+spielt	spielen	VERB	-	-	0:21:42.273000	0:21:43.618000
+der	der	DET	-	-	0:21:42.273000	0:21:43.618000
+mit	mit	ADV	-	-	0:21:42.273000	0:21:43.618000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:42.273000" end="0:21:43.618000">
+ja	ja	PART	-	-	0:21:42.273000	0:21:43.618000
+.	-	-	-	-	0:21:42.273000	0:21:43.618000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:43.618000" end="0:21:44.808000">
+und	und	CCONJ	-	-	0:21:43.618000	0:21:44.808000
+nebenbei	nebenbei	ADV	-	-	0:21:43.618000	0:21:44.808000
+ansagen	ansagen	VERB	-	-	0:21:43.618000	0:21:44.808000
+.	-	-	-	-	0:21:43.618000	0:21:44.808000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:43.618000" end="0:21:45.878000">
+aha	aha	X	-	-	0:21:43.618000	0:21:44.808000
+echt	echt	ADJ	-	-	0:21:44.808000	0:21:45.878000
+ja	ja	ADV	-	-	0:21:44.808000	0:21:45.878000
+ja	ja	ADV	-	-	0:21:44.808000	0:21:45.878000
+ja	ja	ADV	-	-	0:21:44.808000	0:21:45.878000
+den	der	DET	-	-	0:21:44.808000	0:21:45.878000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:45.878000" end="0:21:46.483000">
+also	also	ADV	-	-	0:21:45.878000	0:21:46.483000
+heuer	heuer	ADV	-	-	0:21:45.878000	0:21:46.483000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:45.878000" end="0:21:46.483000">
+[(Boldt)]N	Boldt	PROPN	-	-	0:21:45.878000	0:21:46.483000
+kenne	kennen	VERB	-	-	0:21:45.878000	0:21:46.483000
+ich	ich	PRON	-	-	0:21:45.878000	0:21:46.483000
+.	-	-	-	-	0:21:45.878000	0:21:46.483000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:46.483000" end="0:21:53.773000">
+waren	sein	AUX	-	-	0:21:46.483000	0:21:52.143000
+wir	ich	PRON	-	-	0:21:46.483000	0:21:52.143000
+wieder	wieder	ADV	-	-	0:21:46.483000	0:21:52.143000
+da	da	ADV	-	-	0:21:46.483000	0:21:52.143000
+unten	unten	ADV	-	-	0:21:46.483000	0:21:52.143000
+in	in	ADV	-	-	0:21:46.483000	0:21:52.143000
+in	in	ADV	-	-	0:21:46.483000	0:21:52.143000
+in	in	ADP	-	-	0:21:46.483000	0:21:52.143000
+in	in	ADP	-	-	0:21:46.483000	0:21:52.143000
+<pause duration="1,5s"/>
+[Axbach]O	Axbach	PROPN	-	-	0:21:46.483000	0:21:52.143000
+[Axbach]O	Axbach	PROPN	-	-	0:21:46.483000	0:21:52.143000
+heißt	heißen	VERB	-	-	0:21:46.483000	0:21:52.143000
+es	ich	PRON	-	-	0:21:46.483000	0:21:52.143000
+unter	unter	ADP	-	-	0:21:52.143000	0:21:53.773000
+[Melk]O	Melk	NOUN	-	-	0:21:52.143000	0:21:53.773000
+ja	ja	ADV	-	-	0:21:52.143000	0:21:53.773000
+ja	ja	PART	-	-	0:21:52.143000	0:21:53.773000
+,	-	-	-	-	0:21:52.143000	0:21:53.773000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:52.143000" end="0:21:53.773000">
+an	an	ADP	-	-	0:21:52.143000	0:21:53.773000
+der	der	DET	-	-	0:21:52.143000	0:21:53.773000
+Donau	Donau	PROPN	-	-	0:21:52.143000	0:21:53.773000
+da	da	ADV	-	-	0:21:52.143000	0:21:53.773000
+ja	ja	ADV	-	-	0:21:52.143000	0:21:53.773000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:53.773000" end="0:21:56.108000">
+unter	unter	ADP	-	-	0:21:53.773000	0:21:56.108000
+unter	unter	ADP	-	-	0:21:53.773000	0:21:56.108000
+[Melk]O	Melk	NOUN	-	-	0:21:53.773000	0:21:56.108000
+gleich	gleichen	ADV	-	-	0:21:53.773000	0:21:56.108000
+.	-	-	-	-	0:21:53.773000	0:21:56.108000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:53.773000" end="0:21:56.108000">
+m/	-	-	-	-	0:21:53.773000	0:21:56.108000
+seid	sein	AUX	-	-	0:21:53.773000	0:21:56.108000
+ihr	mein	PRON	-	-	0:21:53.773000	0:21:56.108000
+zum	zum	ADP	-	-	0:21:53.773000	0:21:56.108000
+Heurigen	Heurigen	NOUN	-	-	0:21:53.773000	0:21:56.108000
+gegangen	gehen	VERB	-	-	0:21:53.773000	0:21:56.108000
+?	-	-	-	-	0:21:53.773000	0:21:56.108000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:56.108000" end="0:21:58.008000">
+<pause duration="0,5s"/>
+ja	ja	ADV	-	-	0:21:56.108000	0:21:57.218000
+nein	nein	PART	-	-	0:21:56.108000	0:21:57.218000
+und	und	CCONJ	-	-	0:21:57.218000	0:21:58.008000
+da	da	ADV	-	-	0:21:57.218000	0:21:58.008000
+haben	haben	AUX	-	-	0:21:57.218000	0:21:58.008000
+wir/	-	-	-	-	0:21:57.218000	0:21:58.008000
+.	-	-	-	-	0:21:57.218000	0:21:58.008000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:21:57.218000" end="0:21:58.008000">
+mhm	mhm	PROPN	-	-	0:21:57.218000	0:21:58.008000
+.	-	-	-	-	0:21:57.218000	0:21:58.008000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:21:58.008000" end="0:22:03.648000">
+<pause duration="0,6s"/>
+jetzt	jetzt	ADV	-	-	0:21:58.008000	0:22:00.998000
+waren	sein	AUX	-	-	0:21:58.008000	0:22:00.998000
+wir	ich	PRON	-	-	0:21:58.008000	0:22:00.998000
+schon	schon	ADV	-	-	0:21:58.008000	0:22:00.998000
+das	der	DET	-	-	0:21:58.008000	0:22:00.998000
+dritte	dritt	ADJ	-	-	0:21:58.008000	0:22:00.998000
+Mal	Mal	NOUN	-	-	0:21:58.008000	0:22:00.998000
+unten	unten	ADV	-	-	0:21:58.008000	0:22:00.998000
+,	-	-	-	-	0:21:58.008000	0:22:00.998000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:22:00.998000	0:22:03.648000
+ist	sein	AUX	-	-	0:22:00.998000	0:22:03.648000
+über	über	ADP	-	-	0:22:00.998000	0:22:03.648000
+den	der	DET	-	-	0:22:00.998000	0:22:03.648000
+ü/	-	-	-	-	0:22:00.998000	0:22:03.648000
+über	über	ADP	-	-	0:22:00.998000	0:22:03.648000
+den	der	DET	-	-	0:22:00.998000	0:22:03.648000
+Bürgermeister	Bürgermeister	NOUN	-	-	0:22:00.998000	0:22:03.648000
+ist	sein	AUX	-	-	0:22:00.998000	0:22:03.648000
+das	der	PRON	-	-	0:22:00.998000	0:22:03.648000
+gegangen	gehen	VERB	-	-	0:22:00.998000	0:22:03.648000
+,	-	-	-	-	0:22:00.998000	0:22:03.648000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:00.998000" end="0:22:03.648000">
+ah	ah	ADJ	-	-	0:22:00.998000	0:22:03.648000
+spielt	spielen	VERB	-	-	0:22:00.998000	0:22:03.648000
+ihr	mein	PRON	-	-	0:22:00.998000	0:22:03.648000
+da	da	ADV	-	-	0:22:00.998000	0:22:03.648000
+auch	auch	ADV	-	-	0:22:00.998000	0:22:03.648000
+oder	oder	CCONJ	-	-	0:22:00.998000	0:22:03.648000
+ja	ja	ADV	-	-	0:22:00.998000	0:22:03.648000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:03.648000" end="0:22:04.503000">
+es	-	-	-	-	0:22:03.648000	0:22:04.503000
+ist	-	-	-	-	0:22:03.648000	0:22:04.503000
+ein	-	-	-	-	0:22:03.648000	0:22:04.503000
+Weinfest	-	-	-	-	0:22:03.648000	0:22:04.503000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:03.648000" end="0:22:04.993000">
+mhm	mhm	PROPN	-	-	0:22:03.648000	0:22:04.503000
+.	-	-	-	-	0:22:03.648000	0:22:04.503000
+mhm	mhm	PROPN	-	-	0:22:04.503000	0:22:04.993000
+.	-	-	-	-	0:22:04.503000	0:22:04.993000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:04.993000" end="0:22:07.703000">
+und	-	-	-	-	0:22:04.993000	0:22:07.703000
+da	-	-	-	-	0:22:04.993000	0:22:07.703000
+laden	-	-	-	-	0:22:04.993000	0:22:07.703000
+sie	-	-	-	-	0:22:04.993000	0:22:07.703000
+uns	-	-	-	-	0:22:04.993000	0:22:07.703000
+alleweile	-	-	-	-	0:22:04.993000	0:22:07.703000
+an	-	-	-	-	0:22:04.993000	0:22:07.703000
+al/	-	-	-	-	0:22:04.993000	0:22:07.703000
+jedes	-	-	-	-	0:22:04.993000	0:22:07.703000
+zweite	-	-	-	-	0:22:04.993000	0:22:07.703000
+Jahr	-	-	-	-	0:22:04.993000	0:22:07.703000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:07.703000" end="0:22:08.043000">
+aha	aha	PROPN	-	-	0:22:07.703000	0:22:08.043000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:08.043000" end="0:22:09.343000">
+sind	-	-	-	-	0:22:08.043000	0:22:09.343000
+wir	-	-	-	-	0:22:08.043000	0:22:09.343000
+unten	-	-	-	-	0:22:08.043000	0:22:09.343000
+gewesen	-	-	-	-	0:22:08.043000	0:22:09.343000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:08.043000" end="0:22:09.733000">
+kommt	kommen	VERB	-	-	0:22:08.043000	0:22:09.343000
+ihr	mein	PRON	-	-	0:22:08.043000	0:22:09.343000
+da	da	ADV	-	-	0:22:08.043000	0:22:09.343000
+hinunter	hinunter	ADJ	-	-	0:22:08.043000	0:22:09.343000
+ja	ja	ADV	-	-	0:22:08.043000	0:22:09.343000
+mhm	mhm	PROPN	-	-	0:22:09.343000	0:22:09.733000
+.	-	-	-	-	0:22:09.343000	0:22:09.733000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:09.733000" end="0:22:15.858000">
+und	-	-	-	-	0:22:09.733000	0:22:15.858000
+diesmal	-	-	-	-	0:22:09.733000	0:22:15.858000
+ist	-	-	-	-	0:22:09.733000	0:22:15.858000
+der	-	-	-	-	0:22:09.733000	0:22:15.858000
+_dingsda_	-	-	-	-	0:22:09.733000	0:22:15.858000
+da	-	-	-	-	0:22:09.733000	0:22:15.858000
+gewesen	-	-	-	-	0:22:09.733000	0:22:15.858000
+,	-	-	-	-	0:22:09.733000	0:22:15.858000
+der	der	DET	-	-	0:22:09.733000	0:22:15.858000
+<pause duration="0,6s"/>
+ehemalige	ehemalig	ADJ	-	-	0:22:09.733000	0:22:15.858000
+Landeshauptmann	Landeshauptmann	NOUN	-	-	0:22:09.733000	0:22:15.858000
+von	von	ADP	-	-	0:22:09.733000	0:22:15.858000
+Niederösterreich	Niederösterreich	PROPN	-	-	0:22:09.733000	0:22:15.858000
+,	-	-	-	-	0:22:09.733000	0:22:15.858000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:15.858000" end="0:22:16.138000">
+der	der	PRON	-	-	0:22:15.858000	0:22:16.138000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:16.138000" end="0:22:16.748000">
+der	der	DET	-	-	0:22:16.138000	0:22:16.748000
+Pröll	Pröll	NOUN	-	-	0:22:16.138000	0:22:16.748000
+,	-	-	-	-	0:22:16.138000	0:22:16.748000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:16.748000" end="0:22:17.368000">
+der	der	DET	-	-	0:22:16.748000	0:22:17.368000
+Pröll	Pröll	NOUN	-	-	0:22:16.748000	0:22:17.368000
+?	-	-	-	-	0:22:16.748000	0:22:17.368000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:17.368000" end="0:22:19.158000">
+der	der	DET	-	-	0:22:17.368000	0:22:19.158000
+Pröll	Pröll	NOUN	-	-	0:22:17.368000	0:22:19.158000
+war	sein	AUX	-	-	0:22:17.368000	0:22:19.158000
+da	da	ADV	-	-	0:22:17.368000	0:22:19.158000
+auch	auch	ADV	-	-	0:22:17.368000	0:22:19.158000
+ja	ja	ADV	-	-	0:22:17.368000	0:22:19.158000
+ja	ja	PART	-	-	0:22:17.368000	0:22:19.158000
+.	-	-	-	-	0:22:17.368000	0:22:19.158000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:17.368000" end="0:22:19.158000">
+hey	hey	X	-	-	0:22:17.368000	0:22:19.158000
+geh	geh	X	-	-	0:22:17.368000	0:22:19.158000
+hör	hör	X	-	-	0:22:17.368000	0:22:19.158000
+auf	auf	ADP	-	-	0:22:17.368000	0:22:19.158000
+!	-	-	-	-	0:22:17.368000	0:22:19.158000
+wirklich	wirklich	ADJ	-	-	0:22:17.368000	0:22:19.158000
+?	-	-	-	-	0:22:17.368000	0:22:19.158000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:19.158000" end="0:22:19.688000">
+die	der	PRON	-	-	0:22:19.158000	0:22:19.688000
+haben	haben	AUX	-	-	0:22:19.158000	0:22:19.688000
+irgendeine	irgendeine	DET	-	-	0:22:19.158000	0:22:19.688000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:19.158000" end="0:22:19.688000">
+ähm	ähm	X	-	-	0:22:19.158000	0:22:19.688000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:19.688000" end="0:22:21.708000">
+Feier	Feier	NOUN	-	-	0:22:19.688000	0:22:20.283000
+gehabt	haben	AUX	-	-	0:22:19.688000	0:22:20.283000
+,	-	-	-	-	0:22:19.688000	0:22:20.283000
+da	da	ADV	-	-	0:22:20.283000	0:22:21.708000
+war	sein	AUX	-	-	0:22:20.283000	0:22:21.708000
+noch	noch	ADV	-	-	0:22:20.283000	0:22:21.708000
+was	was	PRON	-	-	0:22:20.283000	0:22:21.708000
+anderes	ander	PRON	-	-	0:22:20.283000	0:22:21.708000
+auch	auch	ADV	-	-	0:22:20.283000	0:22:21.708000
+,	-	-	-	-	0:22:20.283000	0:22:21.708000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:20.283000" end="0:22:21.708000">
+ja	ja	ADV	-	-	0:22:20.283000	0:22:21.708000
+ja	ja	ADV	-	-	0:22:20.283000	0:22:21.708000
+mhm	mhm	PROPN	-	-	0:22:20.283000	0:22:21.708000
+.	-	-	-	-	0:22:20.283000	0:22:21.708000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:21.708000" end="0:22:23.358000">
+<pause duration="0,6s"/>
+und	und	CCONJ	-	-	0:22:21.708000	0:22:23.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:21.708000" end="0:22:23.358000">
+<pause duration="0,6s"/>
+und	und	CCONJ	-	-	0:22:21.708000	0:22:23.358000
+ihr	mein	PRON	-	-	0:22:21.708000	0:22:23.358000
+habt	haben	AUX	-	-	0:22:21.708000	0:22:23.358000
+gespiel	gespiel	NOUN	-	-	0:22:21.708000	0:22:23.358000
+da	da	ADP	-	-	0:22:21.708000	0:22:23.358000
+?	-	-	-	-	0:22:21.708000	0:22:23.358000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:23.358000" end="0:22:24.558000">
+und	und	CCONJ	-	-	0:22:23.358000	0:22:24.558000
+da	da	ADV	-	-	0:22:23.358000	0:22:24.558000
+haben	haben	AUX	-	-	0:22:23.358000	0:22:24.558000
+wir	ich	PRON	-	-	0:22:23.358000	0:22:24.558000
+gespielt	spielen	VERB	-	-	0:22:23.358000	0:22:24.558000
+,	-	-	-	-	0:22:23.358000	0:22:24.558000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:24.558000" end="0:22:24.848000">
+mhm	mhm	PROPN	-	-	0:22:24.558000	0:22:24.848000
+.	-	-	-	-	0:22:24.558000	0:22:24.848000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:24.848000" end="0:22:27.448000">
+drei	drei	NUM	-	-	0:22:24.848000	0:22:26.143000
+Stunden	Stunde	NOUN	-	-	0:22:24.848000	0:22:26.143000
+haben	haben	AUX	-	-	0:22:24.848000	0:22:26.143000
+wir	ich	PRON	-	-	0:22:24.848000	0:22:26.143000
+gespielt	spielen	VERB	-	-	0:22:24.848000	0:22:26.143000
+,	-	-	-	-	0:22:24.848000	0:22:26.143000
+und	und	CCONJ	-	-	0:22:26.143000	0:22:27.448000
+er	ich	PRON	-	-	0:22:26.143000	0:22:27.448000
+hat	haben	AUX	-	-	0:22:26.143000	0:22:27.448000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:26.143000" end="0:22:27.448000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:27.448000" end="0:22:30.583000">
+und	und	CCONJ	-	-	0:22:27.448000	0:22:30.583000
+(ich	ich	PRON	-	-	0:22:27.448000	0:22:30.583000
+war)	sein	AUX	-	-	0:22:27.448000	0:22:30.583000
+drei	drei	NUM	-	-	0:22:27.448000	0:22:30.583000
+Mal	Mal	NOUN	-	-	0:22:27.448000	0:22:30.583000
+hintereinander	hintereinander	ADV	-	-	0:22:27.448000	0:22:30.583000
+(habe	habe	AUX	-	-	0:22:27.448000	0:22:30.583000
+ich)	ich	PRON	-	-	0:22:27.448000	0:22:30.583000
+dirigiert	dirigieren	VERB	-	-	0:22:27.448000	0:22:30.583000
+.	-	-	-	-	0:22:27.448000	0:22:30.583000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:27.448000" end="0:22:30.583000">
+a/	-	-	-	-	0:22:27.448000	0:22:30.583000
+a/	-	-	-	-	0:22:27.448000	0:22:30.583000
+dirigiert	dirigieren	VERB	-	-	0:22:27.448000	0:22:30.583000
+?	-	-	-	-	0:22:27.448000	0:22:30.583000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:30.583000" end="0:22:31.778000">
+ja	ja	ADV	-	-	0:22:30.583000	0:22:31.778000
+ja	ja	ADV	-	-	0:22:30.583000	0:22:31.778000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:30.583000" end="0:22:31.778000">
+ha/	-	-	-	-	0:22:30.583000	0:22:31.778000
+hat	haben	AUX	-	-	0:22:30.583000	0:22:31.778000
+er	ich	PRON	-	-	0:22:30.583000	0:22:31.778000
+eh	eh	ADV	-	-	0:22:30.583000	0:22:31.778000
+was	was	PRON	-	-	0:22:30.583000	0:22:31.778000
+gezahlt	zahlen	VERB	-	-	0:22:30.583000	0:22:31.778000
+auch	auch	ADV	-	-	0:22:30.583000	0:22:31.778000
+?	-	-	-	-	0:22:30.583000	0:22:31.778000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:31.778000" end="0:22:33.498000">
+hat	haben	AUX	-	-	0:22:31.778000	0:22:33.498000
+eh	eh	ADV	-	-	0:22:31.778000	0:22:33.498000
+gezahlt	zahlen	VERB	-	-	0:22:31.778000	0:22:33.498000
+.	-	-	-	-	0:22:31.778000	0:22:33.498000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:31.778000" end="0:22:33.498000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:33.498000" end="0:22:34.648000">
+hat	haben	AUX	-	-	0:22:33.498000	0:22:34.648000
+er	ich	PRON	-	-	0:22:33.498000	0:22:34.648000
+gezahlt	zahlen	VERB	-	-	0:22:33.498000	0:22:34.648000
+,	-	-	-	-	0:22:33.498000	0:22:34.648000
+freilich	freilich	ADV	-	-	0:22:33.498000	0:22:34.648000
+,	-	-	-	-	0:22:33.498000	0:22:34.648000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:33.498000" end="0:22:34.648000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:34.648000" end="0:22:35.663000">
+aber	aber	CCONJ	-	-	0:22:34.648000	0:22:35.663000
+hat	haben	AUX	-	-	0:22:34.648000	0:22:35.663000
+ihm	ich	PRON	-	-	0:22:34.648000	0:22:35.663000
+getaugt	taugen	VERB	-	-	0:22:34.648000	0:22:35.663000
+.	-	-	-	-	0:22:34.648000	0:22:35.663000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:34.648000" end="0:22:36.438000">
+ja	ja	ADV	-	-	0:22:35.663000	0:22:36.438000
+das	der	PRON	-	-	0:22:35.663000	0:22:36.438000
+glaube	glauben	VERB	-	-	0:22:35.663000	0:22:36.438000
+ich	ich	PRON	-	-	0:22:35.663000	0:22:36.438000
+eh	eh	ADV	-	-	0:22:35.663000	0:22:36.438000
+,	-	-	-	-	0:22:35.663000	0:22:36.438000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:36.438000" end="0:22:37.298000">
+nur	nur	ADV	-	-	0:22:36.438000	0:22:37.298000
+hat	haben	AUX	-	-	0:22:36.438000	0:22:37.298000
+er	ich	PRON	-	-	0:22:36.438000	0:22:37.298000
+gesagt	sagen	VERB	-	-	0:22:36.438000	0:22:37.298000
+,	-	-	-	-	0:22:36.438000	0:22:37.298000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:36.438000" end="0:22:37.298000">
+freilich	freilich	ADV	-	-	0:22:36.438000	0:22:37.298000
+.	-	-	-	-	0:22:36.438000	0:22:37.298000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:37.298000" end="0:22:41.518000">
+<pause duration="0,9s"/>
+"das	der	PRON	-	-	0:22:37.298000	0:22:39.078000
+habe	habe	AUX	-	-	0:22:37.298000	0:22:39.078000
+ich	ich	PRON	-	-	0:22:37.298000	0:22:39.078000
+mir	sich	PRON	-	-	0:22:37.298000	0:22:39.078000
+gleich	gleichen	ADV	-	-	0:22:37.298000	0:22:39.078000
+gedacht	gedenken	VERB	-	-	0:22:37.298000	0:22:39.078000
+,"	-	-	-	-	0:22:37.298000	0:22:39.078000
+hat	haben	AUX	-	-	0:22:39.078000	0:22:39.518000
+er	ich	PRON	-	-	0:22:39.078000	0:22:39.518000
+gesagt	sagen	VERB	-	-	0:22:39.078000	0:22:39.518000
+,	-	-	-	-	0:22:39.078000	0:22:39.518000
+"dass	dass	SCONJ	-	-	0:22:39.518000	0:22:41.518000
+ihr	mein	PRON	-	-	0:22:39.518000	0:22:41.518000
+nicht	nicht	PART	-	-	0:22:39.518000	0:22:41.518000
+von	von	ADP	-	-	0:22:39.518000	0:22:41.518000
+Niederösterreich	Niederösterreich	PROPN	-	-	0:22:39.518000	0:22:41.518000
+seid	sein	AUX	-	-	0:22:39.518000	0:22:41.518000
+!"	-	-	-	-	0:22:39.518000	0:22:41.518000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:41.518000" end="0:22:42.053000">
+wieso	wieso	ADV	-	-	0:22:41.518000	0:22:42.053000
+?	-	-	-	-	0:22:41.518000	0:22:42.053000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:42.053000" end="0:22:49.288000">
+"weil"	-	-	-	-	0:22:42.053000	0:22:43.013000
+,	-	-	-	-	0:22:42.053000	0:22:43.013000
+hat	haben	AUX	-	-	0:22:42.053000	0:22:43.013000
+er	ich	PRON	-	-	0:22:42.053000	0:22:43.013000
+gesagt	sagen	VERB	-	-	0:22:42.053000	0:22:43.013000
+,	-	-	-	-	0:22:42.053000	0:22:43.013000
+"schaut	schauen	VERB	-	-	0:22:43.013000	0:22:45.628000
+mich	sich	PRON	-	-	0:22:43.013000	0:22:45.628000
+an	an	ADP	-	-	0:22:43.013000	0:22:45.628000
+,	-	-	-	-	0:22:43.013000	0:22:45.628000
+Niederösterreicher	Niederösterreicher	ADV	-	-	0:22:43.013000	0:22:45.628000
+die	der	PRON	-	-	0:22:43.013000	0:22:45.628000
+haben	haben	AUX	-	-	0:22:43.013000	0:22:45.628000
+alle	all	PRON	-	-	0:22:43.013000	0:22:45.628000
+eine	einen	DET	-	-	0:22:43.013000	0:22:45.628000
+Glatze	Glatze	NOUN	-	-	0:22:43.013000	0:22:45.628000
+und	und	CCONJ	-	-	0:22:45.628000	0:22:49.288000
+ihr	mein	PRON	-	-	0:22:45.628000	0:22:49.288000
+habt	haben	AUX	-	-	0:22:45.628000	0:22:49.288000
+alle	all	PRON	-	-	0:22:45.628000	0:22:49.288000
+einen	ein	DET	-	-	0:22:45.628000	0:22:49.288000
+Haufen	Haufen	NOUN	-	-	0:22:45.628000	0:22:49.288000
+Haar	Haar	NOUN	-	-	0:22:45.628000	0:22:49.288000
+!"	-	-	-	-	0:22:45.628000	0:22:49.288000
+ja	ja	ADV	-	-	0:22:45.628000	0:22:49.288000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:45.628000" end="0:22:49.288000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:49.288000" end="0:22:52.723000">
+das	der	PRON	-	-	0:22:49.288000	0:22:52.723000
+war	sein	AUX	-	-	0:22:49.288000	0:22:52.723000
+aber	aber	ADV	-	-	0:22:49.288000	0:22:52.723000
+nein	nein	PART	-	-	0:22:49.288000	0:22:52.723000
+,	-	-	-	-	0:22:49.288000	0:22:52.723000
+das	der	PRON	-	-	0:22:49.288000	0:22:52.723000
+war	sein	AUX	-	-	0:22:49.288000	0:22:52.723000
+ganz	ganz	ADV	-	-	0:22:49.288000	0:22:52.723000
+gemütlich	gemütlich	ADJ	-	-	0:22:49.288000	0:22:52.723000
+.	-	-	-	-	0:22:49.288000	0:22:52.723000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:49.288000" end="0:22:52.723000">
+ja	-	-	-	-	0:22:49.288000	0:22:52.723000
+aber	-	-	-	-	0:22:49.288000	0:22:52.723000
+haben	-	-	-	-	0:22:49.288000	0:22:52.723000
+eh	-	-	-	-	0:22:49.288000	0:22:52.723000
+wir	-	-	-	-	0:22:49.288000	0:22:52.723000
+auch	-	-	-	-	0:22:49.288000	0:22:52.723000
+_Glatzerte_	-	-	-	-	0:22:49.288000	0:22:52.723000
+dabei	-	-	-	-	0:22:49.288000	0:22:52.723000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:52.723000" end="0:22:54.723000">
+sind	sein	AUX	-	-	0:22:52.723000	0:22:54.723000
+ja	ja	ADV	-	-	0:22:52.723000	0:22:54.723000
+sind	sein	AUX	-	-	0:22:52.723000	0:22:54.723000
+eh	eh	ADV	-	-	0:22:52.723000	0:22:54.723000
+ein	einen	DET	-	-	0:22:52.723000	0:22:54.723000
+paar	paar	NOUN	-	-	0:22:52.723000	0:22:54.723000
+gewesen	sein	AUX	-	-	0:22:52.723000	0:22:54.723000
+,	-	-	-	-	0:22:52.723000	0:22:54.723000
+aber/	-	-	-	-	0:22:52.723000	0:22:54.723000
+.	-	-	-	-	0:22:52.723000	0:22:54.723000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:52.723000" end="0:22:55.813000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:22:55.813000" end="0:22:59.863000">
+und	-	-	-	-	0:22:55.813000	0:22:58.963000
+der	-	-	-	-	0:22:55.813000	0:22:58.963000
+_dings_	-	-	-	-	0:22:55.813000	0:22:58.963000
+hat	-	-	-	-	0:22:55.813000	0:22:58.963000
+mit	-	-	-	-	0:22:55.813000	0:22:58.963000
+einer	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #dopp #spe+ #spe-	-	0:22:55.813000	0:22:58.963000
+so	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #dopp #spe+ #spe-	-	0:22:55.813000	0:22:58.963000
+einer	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #dopp #spe+ #spe-	-	0:22:55.813000	0:22:58.963000
+feinen	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #dopp #spe+ #spe-	-	0:22:55.813000	0:22:58.963000
+(Klinge)	-	-	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #dopp #spe+ #spe-	-	0:22:55.813000	0:22:58.963000
+*musst*	-	-	-	-	0:22:58.963000	0:22:59.863000
+sagen	-	-	-	-	0:22:58.963000	0:22:59.863000
+der	-	-	-	-	0:22:58.963000	0:22:59.863000
+[Boldt]N	-	-	-	-	0:22:58.963000	0:22:59.863000
+,	-	-	-	-	0:22:58.963000	0:22:59.863000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:22:59.863000" end="0:23:00.393000">
+der	-	-	-	-	0:22:59.863000	0:23:00.393000
+[Boldt]N	-	-	-	-	0:22:59.863000	0:23:00.393000
+.	-	-	-	-	0:22:59.863000	0:23:00.393000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:00.393000" end="0:23:02.023000">
+der	der	DET	-	-	0:23:00.393000	0:23:02.023000
+[Boldt]N	Boldt	PROPN	-	-	0:23:00.393000	0:23:02.023000
+hat	haben	AUX	-	-	0:23:00.393000	0:23:02.023000
+ihn	ich	PRON	-	-	0:23:00.393000	0:23:02.023000
+ein	einen	DET	-	-	0:23:00.393000	0:23:02.023000
+paar	paar	DET	-	-	0:23:00.393000	0:23:02.023000
+Mal	Mal	NOUN	-	-	0:23:00.393000	0:23:02.023000
+genommen	nehmen	VERB	-	-	0:23:00.393000	0:23:02.023000
+,	-	-	-	-	0:23:00.393000	0:23:02.023000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:00.393000" end="0:23:02.023000">
+ja	ja	ADV	-	-	0:23:00.393000	0:23:02.023000
+ja	ja	PART	-	-	0:23:00.393000	0:23:02.023000
+.	-	-	-	-	0:23:00.393000	0:23:02.023000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:02.023000" end="0:23:03.083000">
+aber	aber	CCONJ	-	-	0:23:02.023000	0:23:02.483000
+so	so	ADV	-	-	0:23:02.023000	0:23:02.483000
+aber	aber	ADV	-	-	0:23:02.483000	0:23:03.083000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:02.483000" end="0:23:03.083000">
+eh	eh	X	-	-	0:23:02.483000	0:23:03.083000
+klar	klaren	ADJ	-	-	0:23:02.483000	0:23:03.083000
+.	-	-	-	-	0:23:02.483000	0:23:03.083000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:03.083000" end="0:23:04.543000">
+nur	nur	ADV	-	-	0:23:03.083000	0:23:03.748000
+kann	können	VERB	-	-	0:23:03.083000	0:23:03.748000
+er	ich	PRON	-	-	0:23:03.083000	0:23:03.748000
+es	ich	PRON	-	-	0:23:03.083000	0:23:03.748000
+,	-	-	-	-	0:23:03.083000	0:23:03.748000
+dass	dass	SCONJ	-	-	0:23:03.748000	0:23:04.543000
+so	so	ADV	-	-	0:23:03.748000	0:23:04.543000
+ein	einen	DET	-	-	0:23:03.748000	0:23:04.543000
+Mann	Mann	NOUN	-	-	0:23:03.748000	0:23:04.543000
+,	-	-	-	-	0:23:03.748000	0:23:04.543000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:04.543000" end="0:23:04.963000">
+ja	ja	ADV	-	-	0:23:04.543000	0:23:04.963000
+ja	ja	PART	-	-	0:23:04.543000	0:23:04.963000
+.	-	-	-	-	0:23:04.543000	0:23:04.963000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:04.963000" end="0:23:07.368000">
+der	der	DET	-	-	0:23:04.963000	0:23:06.123000
+der	der	PRON	-	-	0:23:04.963000	0:23:06.123000
+weiß	weiß	VERB	-	-	0:23:04.963000	0:23:06.123000
+immer	immer	ADV	-	-	0:23:04.963000	0:23:06.123000
+was	was	PRON	-	-	0:23:06.123000	0:23:07.368000
+darauf	darauf	ADV	-	-	0:23:06.123000	0:23:07.368000
+,	-	-	-	-	0:23:06.123000	0:23:07.368000
+der	-	-	-	-	0:23:06.123000	0:23:07.368000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:06.123000" end="0:23:07.368000">
+ist	sein	AUX	-	-	0:23:06.123000	0:23:07.368000
+eh	eh	ADV	-	-	0:23:06.123000	0:23:07.368000
+klar	klaren	ADJ	-	-	0:23:06.123000	0:23:07.368000
+,	-	-	-	-	0:23:06.123000	0:23:07.368000
+der/	-	-	-	-	0:23:06.123000	0:23:07.368000
+.	-	-	-	-	0:23:06.123000	0:23:07.368000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:07.368000" end="0:23:09.383000">
+den	-	-	-	-	0:23:07.368000	0:23:09.383000
+den	-	-	-	-	0:23:07.368000	0:23:09.383000
+*bringst*	-	-	-	-	0:23:07.368000	0:23:09.383000
+nicht	-	-	-	-	0:23:07.368000	0:23:09.383000
+in	-	-	-	-	0:23:07.368000	0:23:09.383000
+Verlegenheit	-	-	-	-	0:23:07.368000	0:23:09.383000
+,	-	-	-	-	0:23:07.368000	0:23:09.383000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:07.368000" end="0:23:09.383000">
+na	na	X	-	-	0:23:07.368000	0:23:09.383000
+das	der	PRON	-	-	0:23:07.368000	0:23:09.383000
+ist	sein	AUX	-	-	0:23:07.368000	0:23:09.383000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:09.383000" end="0:23:10.173000">
+das	der	PRON	-	-	0:23:09.383000	0:23:10.173000
+gibt	geben	VERB	-	-	0:23:09.383000	0:23:10.173000
+es	ich	PRON	-	-	0:23:09.383000	0:23:10.173000
+nicht	nicht	PART	-	-	0:23:09.383000	0:23:10.173000
+.	-	-	-	-	0:23:09.383000	0:23:10.173000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:09.383000" end="0:23:10.873000">
+klar	klaren	ADJ	-	-	0:23:09.383000	0:23:10.173000
+.	-	-	-	-	0:23:09.383000	0:23:10.173000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:10.873000" end="0:23:11.933000">
+nein	nein	PART	-	-	0:23:10.873000	0:23:11.933000
+aber	aber	ADV	-	-	0:23:10.873000	0:23:11.933000
+war	sein	AUX	-	-	0:23:10.873000	0:23:11.933000
+schön	schön	ADJ	-	-	0:23:10.873000	0:23:11.933000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:11.933000" end="0:23:15.068000">
+mhm	mhm	PROPN	-	-	0:23:11.933000	0:23:15.068000
+<pause duration="1,2s"/>
+ja	ja	ADV	-	-	0:23:11.933000	0:23:15.068000
+.	-	-	-	-	0:23:11.933000	0:23:15.068000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:15.068000" end="0:23:16.968000">
+und	und	CCONJ	-	-	0:23:15.068000	0:23:16.968000
+unser	sich	DET	-	-	0:23:15.068000	0:23:16.968000
+Hobby	Hobby	NOUN	-	-	0:23:15.068000	0:23:16.968000
+ist	sein	AUX	-	-	0:23:15.068000	0:23:16.968000
+dann	dann	ADV	-	-	0:23:15.068000	0:23:16.968000
+noch	noch	ADV	-	-	0:23:15.068000	0:23:16.968000
+die	der	DET	-	-	0:23:15.068000	0:23:16.968000
+Musik	Musik	NOUN	-	-	0:23:15.068000	0:23:16.968000
+,	-	-	-	-	0:23:15.068000	0:23:16.968000
+gell	gell	ADJ	-	-	0:23:15.068000	0:23:16.968000
+?	-	-	-	-	0:23:15.068000	0:23:16.968000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:16.968000" end="0:23:19.428000">
+Musik	Musik	NOUN	-	-	0:23:16.968000	0:23:19.428000
+ja	ja	ADV	-	-	0:23:16.968000	0:23:19.428000
+<pause duration="0,5s"/>
+gemeinsames	gemeinsam	VERB	-	-	0:23:16.968000	0:23:19.428000
+.	-	-	-	-	0:23:16.968000	0:23:19.428000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:19.428000" end="0:23:20.578000">
+[Steyerlinger]O	Steyerlinger	ADJ	-	-	0:23:19.428000	0:23:20.578000
+Musik	Musik	NOUN	-	-	0:23:19.428000	0:23:20.578000
+.	-	-	-	-	0:23:19.428000	0:23:20.578000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:19.428000" end="0:23:20.578000">
+mhm	mhm	PROPN	-	-	0:23:19.428000	0:23:20.578000
+.	-	-	-	-	0:23:19.428000	0:23:20.578000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:20.578000" end="0:23:22.733000">
+<pause duration="2,2s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:20.578000" end="0:23:22.733000">
+<pause duration="2,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:22.733000" end="0:23:23.808000">
+kurz	kurz	ADJ	-	-	0:23:22.733000	0:23:23.808000
+vor	vor	ADP	-	-	0:23:22.733000	0:23:23.808000
+dem	der	DET	-	-	0:23:22.733000	0:23:23.808000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:22.733000" end="0:23:24.868000">
+als/	-	-	-	-	0:23:22.733000	0:23:23.808000
+.	-	-	-	-	0:23:22.733000	0:23:23.808000
+sind	sein	AUX	-	-	0:23:23.808000	0:23:24.868000
+wir	ich	PRON	-	-	0:23:23.808000	0:23:24.868000
+eh	eh	ADV	-	-	0:23:23.808000	0:23:24.868000
+genug	genug	ADV	-	-	0:23:23.808000	0:23:24.868000
+.	-	-	-	-	0:23:23.808000	0:23:24.868000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:24.868000" end="0:23:26.253000">
+vor	vor	ADP	-	-	0:23:24.868000	0:23:26.253000
+dem	der	DET	-	-	0:23:24.868000	0:23:26.253000
+Wunschkonzert	Wunschkonzert	NOUN	-	-	0:23:24.868000	0:23:26.253000
+.	-	-	-	-	0:23:24.868000	0:23:26.253000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:24.868000" end="0:23:27.978000">
+ja	ja	PART	-	-	0:23:24.868000	0:23:26.253000
+.	-	-	-	-	0:23:24.868000	0:23:26.253000
+ja	ja	PART	-	-	0:23:26.253000	0:23:27.978000
+.	-	-	-	-	0:23:26.253000	0:23:27.978000
+<pause duration="1,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:27.978000" end="0:23:32.568000">
+das	-	-	-	-	0:23:27.978000	0:23:30.598000
+geht	-	-	-	-	0:23:27.978000	0:23:30.598000
+eh	-	-	-	-	0:23:27.978000	0:23:30.598000
+noch	-	-	-	-	0:23:27.978000	0:23:30.598000
+sauber	-	-	-	-	0:23:27.978000	0:23:30.598000
+_zach_	-	-	-	-	0:23:27.978000	0:23:30.598000
+,	-	-	-	-	0:23:27.978000	0:23:30.598000
+<pause duration="0,8s"/>
+aber	aber	CCONJ	-	-	0:23:30.598000	0:23:32.568000
+es	ich	PRON	-	-	0:23:30.598000	0:23:32.568000
+wird	werden	AUX	-	-	0:23:30.598000	0:23:32.568000
+es	ich	PRON	-	-	0:23:30.598000	0:23:32.568000
+wird	werden	AUX	-	-	0:23:30.598000	0:23:32.568000
+wieder	wieder	ADV	-	-	0:23:30.598000	0:23:32.568000
+.	-	-	-	-	0:23:30.598000	0:23:32.568000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:30.598000" end="0:23:32.568000">
+ja	ja	PART	-	-	0:23:30.598000	0:23:32.568000
+sind	sein	AUX	-	-	0:23:30.598000	0:23:32.568000
+z/	-	-	-	-	0:23:30.598000	0:23:32.568000
+d/	-	-	-	-	0:23:30.598000	0:23:32.568000
+al/	-	-	-	-	0:23:30.598000	0:23:32.568000
+ist	sein	AUX	-	-	0:23:30.598000	0:23:32.568000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:32.568000" end="0:23:33.498000">
+ma/	-	-	-	-	0:23:32.568000	0:23:33.498000
+ma/	-	-	-	-	0:23:32.568000	0:23:33.498000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:32.568000" end="0:23:33.498000">
+noch	noch	ADV	-	-	0:23:32.568000	0:23:33.498000
+viel	viel	PRON	-	-	0:23:32.568000	0:23:33.498000
+zum	zum	ADP	-	-	0:23:32.568000	0:23:33.498000
+Tun	Tun	NOUN	-	-	0:23:32.568000	0:23:33.498000
+.	-	-	-	-	0:23:32.568000	0:23:33.498000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:33.498000" end="0:23:35.248000">
+man	man	PRON	-	-	0:23:33.498000	0:23:34.128000
+kennt	kennen	VERB	-	-	0:23:33.498000	0:23:34.128000
+schon	schon	ADV	-	-	0:23:33.498000	0:23:34.128000
+,	-	-	-	-	0:23:33.498000	0:23:34.128000
+*dass*	-	-	-	-	0:23:34.128000	0:23:35.248000
+*dass*	-	-	-	-	0:23:34.128000	0:23:35.248000
+wieder	-	-	-	-	0:23:34.128000	0:23:35.248000
+wird	-	-	-	-	0:23:34.128000	0:23:35.248000
+.	-	-	-	-	0:23:34.128000	0:23:35.248000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:34.128000" end="0:23:35.248000">
+ja	ja	ADV	-	-	0:23:34.128000	0:23:35.248000
+ja	ja	PART	-	-	0:23:34.128000	0:23:35.248000
+.	-	-	-	-	0:23:34.128000	0:23:35.248000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:35.248000" end="0:23:36.118000">
+<pause duration="0,9s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:35.248000" end="0:23:36.118000">
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:36.118000" end="0:23:37.968000">
+aber	aber	CCONJ	-	-	0:23:36.118000	0:23:37.968000
+keine	kein	DET	-	-	0:23:36.118000	0:23:37.968000
+leichten	leicht	ADJ	-	-	0:23:36.118000	0:23:37.968000
+Stückel	Stückel	NOUN	-	-	0:23:36.118000	0:23:37.968000
+,	-	-	-	-	0:23:36.118000	0:23:37.968000
+gell	gell	ADJ	-	-	0:23:36.118000	0:23:37.968000
+?	-	-	-	-	0:23:36.118000	0:23:37.968000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:36.118000" end="0:23:40.838000">
+ja	ja	PART	-	-	0:23:36.118000	0:23:37.968000
+b/	-	-	-	-	0:23:36.118000	0:23:37.968000
+ich	ich	PRON	-	-	0:23:36.118000	0:23:37.968000
+bin	sein	AUX	-	-	0:23:36.118000	0:23:37.968000
+halt	halt	ADV	-	-	0:23:36.118000	0:23:37.968000
+bei	bei	ADP	-	-	0:23:36.118000	0:23:37.968000
+den	der	DET	-	-	0:23:36.118000	0:23:37.968000
+Proben	Probe	NOUN	-	-	0:23:36.118000	0:23:37.968000
+dabei	dabei	ADV	-	-	0:23:37.968000	0:23:40.838000
+,	-	-	-	-	0:23:37.968000	0:23:40.838000
+aber	aber	CCONJ	-	-	0:23:37.968000	0:23:40.838000
+<pause duration="0,4s"/>
+dann	dann	ADV	-	-	0:23:37.968000	0:23:40.838000
+beim	beim	ADP	-	-	0:23:37.968000	0:23:40.838000
+Konzert	Konzert	NOUN	-	-	0:23:37.968000	0:23:40.838000
+selber	selber	ADV	-	-	0:23:37.968000	0:23:40.838000
+wird	werden	AUX	-	-	0:23:37.968000	0:23:40.838000
+es	ich	PRON	-	-	0:23:37.968000	0:23:40.838000
+nicht	nicht	PART	-	-	0:23:37.968000	0:23:40.838000
+,	-	-	-	-	0:23:37.968000	0:23:40.838000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:40.838000" end="0:23:43.218000">
+hm	hm	X	-	-	0:23:40.838000	0:23:43.218000
+nein	nein	PART	-	-	0:23:40.838000	0:23:43.218000
+da	da	ADV	-	-	0:23:40.838000	0:23:43.218000
+wird	werden	AUX	-	-	0:23:40.838000	0:23:43.218000
+es	ich	PRON	-	-	0:23:40.838000	0:23:43.218000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:23:40.838000	0:23:43.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:40.838000" end="0:23:44.768000">
+geht	gehen	VERB	-	-	0:23:40.838000	0:23:43.218000
+es	ich	PRON	-	-	0:23:40.838000	0:23:43.218000
+bei	bei	ADP	-	-	0:23:40.838000	0:23:43.218000
+mir	sich	PRON	-	-	0:23:40.838000	0:23:43.218000
+nicht	nicht	PART	-	-	0:23:40.838000	0:23:43.218000
+,	-	-	-	-	0:23:40.838000	0:23:43.218000
+nein	nein	PART	-	-	0:23:40.838000	0:23:43.218000
+nein	nein	PART	-	-	0:23:40.838000	0:23:43.218000
+.	-	-	-	-	0:23:40.838000	0:23:43.218000
+na	na	INTJ	-	-	0:23:43.218000	0:23:44.768000
+also	also	ADV	-	-	0:23:43.218000	0:23:44.768000
+wenn	wenn	SCONJ	-	-	0:23:43.218000	0:23:44.768000
+ich	ich	PRON	-	-	0:23:43.218000	0:23:44.768000
+am	am	ADP	-	-	0:23:43.218000	0:23:44.768000
+Vortag	Vortag	NOUN	-	-	0:23:43.218000	0:23:44.768000
+die	der	DET	-	-	0:23:43.218000	0:23:44.768000
+Spritze	Spritze	NOUN	-	-	0:23:43.218000	0:23:44.768000
+kriege	kriege	VERB	-	-	0:23:43.218000	0:23:44.768000
+,	-	-	-	-	0:23:43.218000	0:23:44.768000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:44.768000" end="0:23:45.963000">
+nein	nein	PART	-	-	0:23:44.768000	0:23:45.963000
+das	der	PRON	-	-	0:23:44.768000	0:23:45.963000
+das	der	PRON	-	-	0:23:44.768000	0:23:45.963000
+geht/	-	-	-	-	0:23:44.768000	0:23:45.963000
+.	-	-	-	-	0:23:44.768000	0:23:45.963000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:44.768000" end="0:23:45.963000">
+für	für	ADP	-	-	0:23:44.768000	0:23:45.963000
+das	der	DET	-	-	0:23:44.768000	0:23:45.963000
+Auge	Auge	NOUN	-	-	0:23:44.768000	0:23:45.963000
+da	da	ADP	-	-	0:23:44.768000	0:23:45.963000
+,	-	-	-	-	0:23:44.768000	0:23:45.963000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:45.963000" end="0:23:47.733000">
+das	-	-	-	-	0:23:45.963000	0:23:47.733000
+*kannst*	-	-	-	-	0:23:45.963000	0:23:47.733000
+vergessen	-	-	-	-	0:23:45.963000	0:23:47.733000
+da	-	-	-	-	0:23:45.963000	0:23:47.733000
+.	-	-	-	-	0:23:45.963000	0:23:47.733000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:45.963000" end="0:23:55.633000">
+das	der	PRON	-	-	0:23:45.963000	0:23:47.733000
+ist	sein	AUX	-	-	0:23:45.963000	0:23:47.733000
+unmöglich	unmöglich	ADJ	-	-	0:23:45.963000	0:23:47.733000
+!	-	-	-	-	0:23:45.963000	0:23:47.733000
+i/	-	-	-	-	0:23:47.733000	0:23:53.513000
+ich	ich	PRON	-	-	0:23:47.733000	0:23:53.513000
+habe	habe	AUX	-	-	0:23:47.733000	0:23:53.513000
+ja	ja	ADV	-	-	0:23:47.733000	0:23:53.513000
+jetzt	jetzt	ADV	-	-	0:23:47.733000	0:23:53.513000
+am	am	ADP	-	-	0:23:47.733000	0:23:53.513000
+Sonntag	Sonntag	NOUN	-	-	0:23:47.733000	0:23:53.513000
+bei	bei	ADP	-	-	0:23:47.733000	0:23:53.513000
+der	der	DET	-	-	0:23:47.733000	0:23:53.513000
+Probe	Probe	NOUN	-	-	0:23:47.733000	0:23:53.513000
+,	-	-	-	-	0:23:47.733000	0:23:53.513000
+also	also	ADV	-	-	0:23:47.733000	0:23:53.513000
+gestern	gestern	ADV	-	-	0:23:47.733000	0:23:53.513000
+,	-	-	-	-	0:23:47.733000	0:23:53.513000
+<pause duration="0,5s"/>
+auf	auf	ADP	-	-	0:23:47.733000	0:23:53.513000
+einmal	einmal	ADV	-	-	0:23:47.733000	0:23:53.513000
+fängt	fangen	VERB	-	-	0:23:47.733000	0:23:53.513000
+das	der	DET	-	-	0:23:47.733000	0:23:53.513000
+Auge	Auge	NOUN	-	-	0:23:47.733000	0:23:53.513000
+zum	zum	ADP	-	-	0:23:47.733000	0:23:53.513000
+Rinnen	Rinne	NOUN	-	-	0:23:47.733000	0:23:53.513000
+an	an	ADP	-	-	0:23:47.733000	0:23:53.513000
+,	-	-	-	-	0:23:47.733000	0:23:53.513000
+*weißt*	-	-	-	-	0:23:53.513000	0:23:55.633000
+eh	-	-	-	-	0:23:53.513000	0:23:55.633000
+und	-	-	-	-	0:23:53.513000	0:23:55.633000
+dann	-	-	-	-	0:23:53.513000	0:23:55.633000
+hm	-	-	-	-	0:23:53.513000	0:23:55.633000
+.	-	-	-	-	0:23:53.513000	0:23:55.633000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:55.633000" end="0:23:56.303000">
+ja	ja	ADV	-	-	0:23:55.633000	0:23:56.303000
+ja	ja	PART	-	-	0:23:55.633000	0:23:56.303000
+.	-	-	-	-	0:23:55.633000	0:23:56.303000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:56.303000" end="0:23:59.983000">
+ist	-	-	-	-	0:23:56.303000	0:23:59.983000
+(gar)	-	-	-	-	0:23:56.303000	0:23:59.983000
+und	-	-	-	-	0:23:56.303000	0:23:59.983000
+dann	-	-	-	-	0:23:56.303000	0:23:59.983000
+*fängst*	-	-	-	-	0:23:56.303000	0:23:59.983000
+zum	-	-	-	-	0:23:56.303000	0:23:59.983000
+Wischen	-	-	-	-	0:23:56.303000	0:23:59.983000
+und	-	-	-	-	0:23:56.303000	0:23:59.983000
+dann	-	-	-	-	0:23:56.303000	0:23:59.983000
+*siehst*	-	-	-	-	0:23:56.303000	0:23:59.983000
+nicht	-	-	-	-	0:23:56.303000	0:23:59.983000
+mehr	-	-	-	-	0:23:56.303000	0:23:59.983000
+gescheit	-	-	-	-	0:23:56.303000	0:23:59.983000
+,	-	-	-	-	0:23:56.303000	0:23:59.983000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:23:59.983000" end="0:24:00.523000">
+mhm	mhm	PROPN	-	-	0:23:59.983000	0:24:00.523000
+.	-	-	-	-	0:23:59.983000	0:24:00.523000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:23:59.983000" end="0:24:03.248000">
+das	der	PRON	-	-	0:23:59.983000	0:24:00.523000
+ist	sein	AUX	-	-	0:23:59.983000	0:24:00.523000
+das	der	PRON	-	-	0:24:00.523000	0:24:03.248000
+sieht	sehen	VERB	-	-	0:24:00.523000	0:24:03.248000
+nicht	nicht	PART	-	-	0:24:00.523000	0:24:03.248000
+viel	viel	ADV	-	-	0:24:00.523000	0:24:03.248000
+gleich	gleichen	ADJ	-	-	0:24:00.523000	0:24:03.248000
+.	-	-	-	-	0:24:00.523000	0:24:03.248000
+<pause duration="1,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:03.248000" end="0:24:05.088000">
+haben	-	-	-	-	0:24:03.248000	0:24:05.088000
+wir	-	-	-	-	0:24:03.248000	0:24:05.088000
+(wieder)	-	-	-	-	0:24:03.248000	0:24:05.088000
+am	-	-	-	-	0:24:03.248000	0:24:05.088000
+_dings_	-	-	-	-	0:24:03.248000	0:24:05.088000
+so	-	-	-	-	0:24:03.248000	0:24:05.088000
+geredet	-	-	-	-	0:24:03.248000	0:24:05.088000
+haben	-	-	-	-	0:24:03.248000	0:24:05.088000
+,	-	-	-	-	0:24:03.248000	0:24:05.088000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:05.088000" end="0:24:06.263000">
+hm	hm	X	-	-	0:24:05.088000	0:24:06.263000
+?	-	-	-	-	0:24:05.088000	0:24:06.263000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:06.263000" end="0:24:09.283000">
+gestern	gestern	ADV	-	-	0:24:06.263000	0:24:08.903000
+am	am	ADP	-	-	0:24:06.263000	0:24:08.903000
+am	am	ADP	-	-	0:24:06.263000	0:24:08.903000
+Sonntag	Sonntag	NOUN	-	-	0:24:06.263000	0:24:08.903000
+beim	beim	ADP	-	-	0:24:06.263000	0:24:08.903000
+Brunch	Brunch	NOUN	-	-	0:24:06.263000	0:24:08.903000
+,	-	-	-	-	0:24:06.263000	0:24:08.903000
+<pause duration="0,6s"/>
+also	also	ADV	-	-	0:24:08.903000	0:24:09.283000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:08.903000" end="0:24:09.283000">
+ja	ja	PART	-	-	0:24:08.903000	0:24:09.283000
+.	-	-	-	-	0:24:08.903000	0:24:09.283000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:09.283000" end="0:24:21.493000">
+weil	weil	SCONJ	-	-	0:24:09.283000	0:24:11.998000
+ma/	-	-	-	-	0:24:09.283000	0:24:11.998000
+es	ich	PRON	-	-	0:24:09.283000	0:24:11.998000
+ist	sein	AUX	-	-	0:24:09.283000	0:24:11.998000
+traurig	traurig	ADJ	-	-	0:24:09.283000	0:24:11.998000
+bei	bei	ADP	-	-	0:24:09.283000	0:24:11.998000
+uns	sich	PRON	-	-	0:24:09.283000	0:24:11.998000
+in	in	ADP	-	-	0:24:09.283000	0:24:11.998000
+[Steyerling]O	Steyrling	PROPN	-	-	0:24:09.283000	0:24:11.998000
+,	-	-	-	-	0:24:09.283000	0:24:11.998000
+weil	weil	SCONJ	-	-	0:24:11.998000	0:24:14.053000
+wir	ich	PRON	-	-	0:24:11.998000	0:24:14.053000
+nicht	nicht	PART	-	-	0:24:11.998000	0:24:14.053000
+mehr	mehr	ADV	-	-	0:24:11.998000	0:24:14.053000
+keinen	kein	DET	-	-	0:24:11.998000	0:24:14.053000
+Saal	Saal	NOUN	-	-	0:24:11.998000	0:24:14.053000
+haben	haben	AUX	-	-	0:24:11.998000	0:24:14.053000
+.	-	-	-	-	0:24:11.998000	0:24:14.053000
+<pause duration="0,7s"/>
+der	der	DET	-	-	0:24:14.053000	0:24:16.243000
+[Kerschbaumer]N	Kerschbaumer	NOUN	-	-	0:24:14.053000	0:24:16.243000
+Saal	Saal	NOUN	-	-	0:24:14.053000	0:24:16.243000
+,	-	-	-	-	0:24:14.053000	0:24:16.243000
+der	-	-	-	-	0:24:14.053000	0:24:16.243000
+geht	-	-	-	-	0:24:14.053000	0:24:16.243000
+_a_	-	-	-	-	0:24:14.053000	0:24:16.243000
+so	-	-	-	-	0:24:14.053000	0:24:16.243000
+ab	-	-	-	-	0:24:14.053000	0:24:16.243000
+.	-	-	-	-	0:24:14.053000	0:24:16.243000
+<pause duration="0,5s"/>
+wir	ich	PRON	-	-	0:24:16.243000	0:24:17.773000
+haben	haben	AUX	-	-	0:24:16.243000	0:24:17.773000
+wir	ich	PRON	-	-	0:24:16.243000	0:24:17.773000
+haben	haben	AUX	-	-	0:24:16.243000	0:24:17.773000
+keine	kein	DET	-	-	0:24:16.243000	0:24:17.773000
+Lokalität	Lokalität	NOUN	-	-	0:24:16.243000	0:24:17.773000
+,	-	-	-	-	0:24:16.243000	0:24:17.773000
+wo	wo	ADV	-	-	0:24:17.773000	0:24:19.243000
+du	du	PRON	-	-	0:24:17.773000	0:24:19.243000
+spielen	spielen	VERB	-	-	0:24:17.773000	0:24:19.243000
+kannst	können	NOUN	-	-	0:24:17.773000	0:24:19.243000
+.	-	-	-	-	0:24:17.773000	0:24:19.243000
+oben	oben	ADV	-	-	0:24:19.243000	0:24:21.493000
+auch	auch	ADV	-	-	0:24:19.243000	0:24:21.493000
+nicht	nicht	PART	-	-	0:24:19.243000	0:24:21.493000
+,	-	-	-	-	0:24:19.243000	0:24:21.493000
+oben	oben	ADV	-	-	0:24:19.243000	0:24:21.493000
+ist	sein	AUX	-	-	0:24:19.243000	0:24:21.493000
+das	der	PRON	-	-	0:24:19.243000	0:24:21.493000
+ist	sein	AUX	-	-	0:24:19.243000	0:24:21.493000
+das	der	PRON	-	-	0:24:19.243000	0:24:21.493000
+ist	sein	AUX	-	-	0:24:19.243000	0:24:21.493000
+nichts	nichts	PRON	-	-	0:24:19.243000	0:24:21.493000
+.	-	-	-	-	0:24:19.243000	0:24:21.493000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:19.243000" end="0:24:23.223000">
+eh	eh	X	-	-	0:24:19.243000	0:24:21.493000
+na	na	X	-	-	0:24:19.243000	0:24:21.493000
+sicher	sichern	ADJ	-	-	0:24:19.243000	0:24:21.493000
+ja	ja	ADV	-	-	0:24:19.243000	0:24:21.493000
+das	der	PRON	-	-	0:24:19.243000	0:24:21.493000
+ist	sein	AUX	-	-	0:24:19.243000	0:24:21.493000
+das	der	PRON	-	-	0:24:19.243000	0:24:21.493000
+ist	sein	AUX	-	-	0:24:19.243000	0:24:21.493000
+zu	zu	PART	-	-	0:24:21.493000	0:24:23.223000
+klein	klein	ADJ	-	-	0:24:21.493000	0:24:23.223000
+oben	oben	ADV	-	-	0:24:21.493000	0:24:23.223000
+,	-	-	-	-	0:24:21.493000	0:24:23.223000
+*ist*	-	-	-	-	0:24:21.493000	0:24:23.223000
+eh	-	-	-	-	0:24:21.493000	0:24:23.223000
+klar	-	-	-	-	0:24:21.493000	0:24:23.223000
+.	-	-	-	-	0:24:21.493000	0:24:23.223000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:23.223000" end="0:24:24.523000">
+ist	sein	AUX	-	-	0:24:23.223000	0:24:24.523000
+eh	eh	ADV	-	-	0:24:23.223000	0:24:24.523000
+die	der	DET	-	-	0:24:23.223000	0:24:24.523000
+[Andrea]N	Andrea	PROPN	-	-	0:24:23.223000	0:24:24.523000
+da	da	ADV	-	-	0:24:23.223000	0:24:24.523000
+gesessen	sitzen	VERB	-	-	0:24:23.223000	0:24:24.523000
+,	-	-	-	-	0:24:23.223000	0:24:24.523000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:23.223000" end="0:24:24.523000">
+das/	-	-	-	-	0:24:23.223000	0:24:24.523000
+.	-	-	-	-	0:24:23.223000	0:24:24.523000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:24.523000" end="0:24:26.658000">
+von	von	ADP	-	-	0:24:24.523000	0:24:25.718000
+der	der	DET	-	-	0:24:24.523000	0:24:25.718000
+Gemeinde	Gemeinde	NOUN	-	-	0:24:24.523000	0:24:25.718000
+waren	sein	AUX	-	-	0:24:24.523000	0:24:25.718000
+ein	einen	DET	-	-	0:24:24.523000	0:24:25.718000
+paar	paar	PRON	-	-	0:24:24.523000	0:24:25.718000
+da	da	ADP	-	-	0:24:24.523000	0:24:25.718000
+,	-	-	-	-	0:24:24.523000	0:24:25.718000
+der	der	DET	-	-	0:24:25.718000	0:24:26.658000
+Bürgermeister	Bürgermeister	NOUN	-	-	0:24:25.718000	0:24:26.658000
+war	sein	AUX	-	-	0:24:25.718000	0:24:26.658000
+auch	auch	ADV	-	-	0:24:25.718000	0:24:26.658000
+da	da	ADV	-	-	0:24:25.718000	0:24:26.658000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:26.658000" end="0:24:27.743000">
+ja	ja	ADV	-	-	0:24:26.658000	0:24:27.743000
+kann	können	VERB	-	-	0:24:26.658000	0:24:27.743000
+ja	ja	ADV	-	-	0:24:26.658000	0:24:27.743000
+auch	auch	ADV	-	-	0:24:26.658000	0:24:27.743000
+nichts	nichts	PRON	-	-	0:24:26.658000	0:24:27.743000
+machen	machen	VERB	-	-	0:24:26.658000	0:24:27.743000
+,	-	-	-	-	0:24:26.658000	0:24:27.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:27.743000" end="0:24:28.408000">
+da	da	ADV	-	-	0:24:27.743000	0:24:28.408000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:27.743000" end="0:24:28.408000">
+was	was	PRON	-	-	0:24:27.743000	0:24:28.408000
+sollen	sollen	VERB	-	-	0:24:27.743000	0:24:28.408000
+sie	ich	PRON	-	-	0:24:27.743000	0:24:28.408000
+tun	tun	VERB	-	-	0:24:27.743000	0:24:28.408000
+?	-	-	-	-	0:24:27.743000	0:24:28.408000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:28.408000" end="0:24:30.788000">
+du	du	PRON	-	-	0:24:28.408000	0:24:30.788000
+du	du	PRON	-	-	0:24:28.408000	0:24:30.788000
+k/	-	-	-	-	0:24:28.408000	0:24:30.788000
+du	du	PRON	-	-	0:24:28.408000	0:24:30.788000
+kannst	können	ADV	-	-	0:24:28.408000	0:24:30.788000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:28.408000" end="0:24:30.788000">
+nicht	nicht	PART	-	-	0:24:28.408000	0:24:30.788000
+aber/	-	-	-	-	0:24:28.408000	0:24:30.788000
+.	-	-	-	-	0:24:28.408000	0:24:30.788000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:30.788000" end="0:24:40.487000">
+nur	nur	ADV	-	-	0:24:30.788000	0:24:31.848000
+eines	ein	PRON	-	-	0:24:30.788000	0:24:31.848000
+einmal	einmal	ADV	-	-	0:24:30.788000	0:24:31.848000
+tun	tun	VERB	-	-	0:24:30.788000	0:24:31.848000
+,	-	-	-	-	0:24:30.788000	0:24:31.848000
+*dass*	-	-	-	-	0:24:31.848000	0:24:37.472000
+*dass*	-	-	-	-	0:24:31.848000	0:24:37.472000
+den	-	-	-	-	0:24:31.848000	0:24:37.472000
+Saal	-	-	-	-	0:24:31.848000	0:24:37.472000
+,	-	-	-	-	0:24:31.848000	0:24:37.472000
+<pause duration="1,3s"/>
+*weißt*	-	-	-	-	0:24:31.848000	0:24:37.472000
+eh	-	-	-	-	0:24:31.848000	0:24:37.472000
+,	-	-	-	-	0:24:31.848000	0:24:37.472000
+<pause duration="0,6s"/>
+in	in	ADP	-	-	0:24:31.848000	0:24:37.472000
+der	der	DET	-	-	0:24:31.848000	0:24:37.472000
+längs	längs	NOUN	-	-	0:24:31.848000	0:24:37.472000
+nach	nach	ADP	-	-	0:24:31.848000	0:24:37.472000
+<pause duration="0,5s"/>
+verlängern	verlängern	NOUN	-	-	0:24:31.848000	0:24:37.472000
+.	-	-	-	-	0:24:31.848000	0:24:37.472000
+einmal	einmal	ADV	-	-	0:24:37.472000	0:24:40.487000
+Richtung	Richtung	NOUN	-	-	0:24:37.472000	0:24:40.487000
+Berg	Berg	NOUN	-	-	0:24:37.472000	0:24:40.487000
+hin	hin	ADP	-	-	0:24:37.472000	0:24:40.487000
+,	-	-	-	-	0:24:37.472000	0:24:40.487000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:37.472000" end="0:24:40.487000">
+na	na	X	-	-	0:24:37.472000	0:24:40.487000
+ja	ja	ADV	-	-	0:24:37.472000	0:24:40.487000
+das	der	PRON	-	-	0:24:37.472000	0:24:40.487000
+ist	sein	AUX	-	-	0:24:37.472000	0:24:40.487000
+schwierig	schwierig	ADJ	-	-	0:24:37.472000	0:24:40.487000
+,	-	-	-	-	0:24:37.472000	0:24:40.487000
+das	der	PRON	-	-	0:24:37.472000	0:24:40.487000
+ist	sein	AUX	-	-	0:24:37.472000	0:24:40.487000
+im	im	ADP	-	-	0:24:37.472000	0:24:40.487000
+ersten	erst	ADJ	-	-	0:24:37.472000	0:24:40.487000
+Stock	Stock	NOUN	-	-	0:24:37.472000	0:24:40.487000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:40.487000" end="0:24:41.897000">
+ja	ja	PART	-	-	0:24:40.487000	0:24:41.897000
+.	-	-	-	-	0:24:40.487000	0:24:41.897000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:40.487000" end="0:24:43.487000">
+das	der	PRON	-	-	0:24:40.487000	0:24:41.897000
+(können	können	VERB	-	-	0:24:40.487000	0:24:41.897000
+sie	ich	PRON	-	-	0:24:40.487000	0:24:41.897000
+ja)	ja	ADV	-	-	0:24:40.487000	0:24:41.897000
+leicht	leicht	ADJ	-	-	0:24:40.487000	0:24:41.897000
+(tun)	tun	VERB	-	-	0:24:40.487000	0:24:41.897000
+,	-	-	-	-	0:24:40.487000	0:24:41.897000
+nicht	nicht	PART	-	-	0:24:40.487000	0:24:41.897000
+,	-	-	-	-	0:24:40.487000	0:24:41.897000
+<pause duration="0,6s"/>
+wenn	wenn	SCONJ	-	-	0:24:41.897000	0:24:43.487000
+du	du	PRON	-	-	0:24:41.897000	0:24:43.487000
+eine	einen	DET	-	-	0:24:41.897000	0:24:43.487000
+Bühne	Bühne	NOUN	-	-	0:24:41.897000	0:24:43.487000
+machst	machen	VERB	-	-	0:24:41.897000	0:24:43.487000
+oder	oder	CCONJ	-	-	0:24:41.897000	0:24:43.487000
+was	was	PRON	-	-	0:24:41.897000	0:24:43.487000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:43.487000" end="0:24:45.602000">
+eine	einen	DET	-	-	0:24:43.487000	0:24:45.602000
+Bühne	Bühne	NOUN	-	-	0:24:43.487000	0:24:45.602000
+hinaus	hinaus	ADP	-	-	0:24:43.487000	0:24:45.602000
+vier	vier	NUM	-	-	0:24:43.487000	0:24:45.602000
+,	-	-	-	-	0:24:43.487000	0:24:45.602000
+fünf	fünf	NUM	-	-	0:24:43.487000	0:24:45.602000
+Meter	Meter	NOUN	-	-	0:24:43.487000	0:24:45.602000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:43.487000" end="0:24:45.957000">
+hinaus	hinaus	ADP	-	-	0:24:43.487000	0:24:45.602000
+,	-	-	-	-	0:24:43.487000	0:24:45.602000
+nicht	nicht	PART	-	-	0:24:43.487000	0:24:45.602000
+,	-	-	-	-	0:24:43.487000	0:24:45.602000
+ja	ja	ADV	-	-	0:24:43.487000	0:24:45.602000
+ja	ja	ADV	-	-	0:24:43.487000	0:24:45.602000
+sicher	sichern	ADJ	-	-	0:24:43.487000	0:24:45.602000
+ja	ja	PART	-	-	0:24:43.487000	0:24:45.602000
+.	-	-	-	-	0:24:43.487000	0:24:45.602000
+ja	ja	ADV	-	-	0:24:45.602000	0:24:45.957000
+ja	ja	PART	-	-	0:24:45.602000	0:24:45.957000
+.	-	-	-	-	0:24:45.602000	0:24:45.957000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:45.957000" end="0:24:47.327000">
+müssten	müssten	VERB	-	-	0:24:45.957000	0:24:46.837000
+sie	ich	PRON	-	-	0:24:45.957000	0:24:46.837000
+da	da	ADV	-	-	0:24:45.957000	0:24:46.837000
+hinaus	hinaus	ADP	-	-	0:24:45.957000	0:24:46.837000
+(vorne)	vorne	ADV	-	-	0:24:46.837000	0:24:47.327000
+.	-	-	-	-	0:24:46.837000	0:24:47.327000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:46.837000" end="0:24:47.327000">
+sicher	sichern	ADJ	-	-	0:24:46.837000	0:24:47.327000
+ja	ja	PART	-	-	0:24:46.837000	0:24:47.327000
+.	-	-	-	-	0:24:46.837000	0:24:47.327000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:47.327000" end="0:24:50.157000">
+und	-	-	-	-	0:24:47.327000	0:24:48.607000
+eigene	-	-	-	-	0:24:47.327000	0:24:48.607000
+_dings_	-	-	-	-	0:24:47.327000	0:24:48.607000
+.	-	-	-	-	0:24:47.327000	0:24:48.607000
+wo	wo	ADV	-	-	0:24:48.607000	0:24:50.157000
+eine	einen	DET	-	-	0:24:48.607000	0:24:50.157000
+Musik	Musik	NOUN	-	-	0:24:48.607000	0:24:50.157000
+sitzt	sitzen	VERB	-	-	0:24:48.607000	0:24:50.157000
+,	-	-	-	-	0:24:48.607000	0:24:50.157000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:48.607000" end="0:24:50.157000">
+ja	ja	PART	-	-	0:24:48.607000	0:24:50.157000
+aber/	-	-	-	-	0:24:48.607000	0:24:50.157000
+.	-	-	-	-	0:24:48.607000	0:24:50.157000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:50.157000" end="0:24:52.157000">
+wo	wo	ADV	-	-	0:24:50.157000	0:24:52.157000
+du	du	PRON	-	-	0:24:50.157000	0:24:52.157000
+ein	einen	DET	-	-	0:24:50.157000	0:24:52.157000
+Theater	Theater	NOUN	-	-	0:24:50.157000	0:24:52.157000
+spielen	spielen	VERB	-	-	0:24:50.157000	0:24:52.157000
+kannst	können	ADV	-	-	0:24:50.157000	0:24:52.157000
+,	-	-	-	-	0:24:50.157000	0:24:52.157000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:52.157000" end="0:24:52.942000">
+mhm	mhm	PROPN	-	-	0:24:52.157000	0:24:52.942000
+mhm	mhm	PROPN	-	-	0:24:52.157000	0:24:52.942000
+.	-	-	-	-	0:24:52.157000	0:24:52.942000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:52.942000" end="0:24:54.047000">
+od/	-	-	-	-	0:24:52.942000	0:24:54.047000
+ganz	-	-	-	-	0:24:52.942000	0:24:54.047000
+_wurscht_	-	-	-	-	0:24:52.942000	0:24:54.047000
+was	-	-	-	-	0:24:52.942000	0:24:54.047000
+.	-	-	-	-	0:24:52.942000	0:24:54.047000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:54.047000" end="0:24:55.017000">
+mhm	mhm	PROPN	-	-	0:24:54.047000	0:24:55.017000
+mhm	mhm	PROPN	-	-	0:24:54.047000	0:24:55.017000
+.	-	-	-	-	0:24:54.047000	0:24:55.017000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:24:55.017000" end="0:24:58.127000">
+dann	dann	ADV	-	-	0:24:55.017000	0:24:57.107000
+wäre	sein	AUX	-	-	0:24:55.017000	0:24:57.107000
+er	ich	PRON	-	-	0:24:55.017000	0:24:57.107000
+groß	groß	ADJ	-	-	0:24:55.017000	0:24:57.107000
+genug	genug	ADV	-	-	0:24:55.017000	0:24:57.107000
+bei	bei	ADP	-	-	0:24:55.017000	0:24:57.107000
+bei	bei	ADP	-	-	0:24:55.017000	0:24:57.107000
+bei	bei	ADV	-	-	0:24:57.107000	0:24:58.127000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:24:57.107000" end="0:25:01.687000">
+aber	aber	CCONJ	-	-	0:24:57.107000	0:24:58.127000
+d/	-	-	-	-	0:24:57.107000	0:24:58.127000
+da	da	ADV	-	-	0:24:57.107000	0:24:58.127000
+fehlt	fehlen	VERB	-	-	0:24:58.127000	0:25:01.177000
+ja	ja	ADV	-	-	0:24:58.127000	0:25:01.177000
+so	so	ADV	-	-	0:24:58.127000	0:25:01.177000
+viel	viel	PRON	-	-	0:24:58.127000	0:25:01.177000
+,	-	-	-	-	0:24:58.127000	0:25:01.177000
+da	da	ADV	-	-	0:24:58.127000	0:25:01.177000
+fehlen	fehlen	VERB	-	-	0:24:58.127000	0:25:01.177000
+die	der	DET	-	-	0:24:58.127000	0:25:01.177000
+die	der	DET	-	-	0:24:58.127000	0:25:01.177000
+ganzen	ganz	ADJ	-	-	0:24:58.127000	0:25:01.177000
+Sanitäreinrichtungen	Sanitäreinrichtungen	NOUN	-	-	0:24:58.127000	0:25:01.177000
+,	-	-	-	-	0:24:58.127000	0:25:01.177000
+da	-	-	-	-	0:25:01.177000	0:25:01.687000
+fehlt	-	-	-	-	0:25:01.177000	0:25:01.687000
+ja	-	-	-	-	0:25:01.177000	0:25:01.687000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:01.687000" end="0:25:02.452000">
+na	na	X	-	-	0:25:01.687000	0:25:02.452000
+ja	ja	PART	-	-	0:25:01.687000	0:25:02.452000
+.	-	-	-	-	0:25:01.687000	0:25:02.452000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:01.687000" end="0:25:05.377000">
+da	-	-	-	-	0:25:01.687000	0:25:02.452000
+*musst*	-	-	-	-	0:25:01.687000	0:25:02.452000
+_ding_	-	-	-	-	0:25:01.687000	0:25:02.452000
+da	-	-	-	-	0:25:01.687000	0:25:02.452000
+*musst*	-	-	-	-	0:25:01.687000	0:25:02.452000
+ja	-	-	-	-	0:25:01.687000	0:25:02.452000
+bewirten	-	-	-	-	0:25:02.452000	0:25:03.737000
+auch	-	-	-	-	0:25:02.452000	0:25:03.737000
+können	-	-	-	-	0:25:02.452000	0:25:03.737000
+was	-	-	-	-	0:25:02.452000	0:25:03.737000
+,	-	-	-	-	0:25:02.452000	0:25:03.737000
+ist	sein	AUX	-	-	0:25:03.737000	0:25:05.377000
+keine	kein	DET	-	-	0:25:03.737000	0:25:05.377000
+Küche	Küche	NOUN	-	-	0:25:03.737000	0:25:05.377000
+da	da	ADV	-	-	0:25:03.737000	0:25:05.377000
+und	und	CCONJ	-	-	0:25:03.737000	0:25:05.377000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:05.377000" end="0:25:07.377000">
+na	na	X	-	-	0:25:05.377000	0:25:07.377000
+ja	ja	ADV	-	-	0:25:05.377000	0:25:07.377000
+das	der	PRON	-	-	0:25:05.377000	0:25:07.377000
+ist	sein	AUX	-	-	0:25:05.377000	0:25:07.377000
+so	so	ADV	-	-	0:25:05.377000	0:25:07.377000
+traurig	traurig	ADJ	-	-	0:25:05.377000	0:25:07.377000
+,	-	-	-	-	0:25:05.377000	0:25:07.377000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:05.377000" end="0:25:11.052000">
+nichts	nichts	PRON	-	-	0:25:05.377000	0:25:07.377000
+,	-	-	-	-	0:25:05.377000	0:25:07.377000
+nicht	nicht	PART	-	-	0:25:05.377000	0:25:07.377000
+,	-	-	-	-	0:25:05.377000	0:25:07.377000
+das	der	PRON	-	-	0:25:05.377000	0:25:07.377000
+ist/	-	-	-	-	0:25:05.377000	0:25:07.377000
+.	-	-	-	-	0:25:05.377000	0:25:07.377000
+<pause duration="1,3s"/>
+für	für	ADP	-	-	0:25:07.377000	0:25:11.052000
+kleinere	klein	ADJ	-	-	0:25:07.377000	0:25:11.052000
+Veranstaltungen	Veranstaltung	NOUN	-	-	0:25:07.377000	0:25:11.052000
+ja	ja	PART	-	-	0:25:07.377000	0:25:11.052000
+,	-	-	-	-	0:25:07.377000	0:25:11.052000
+aber	aber	CCONJ	-	-	0:25:07.377000	0:25:11.052000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:11.052000" end="0:25:11.772000">
+ja	ja	PART	-	-	0:25:11.052000	0:25:11.772000
+.	-	-	-	-	0:25:11.052000	0:25:11.772000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:11.052000" end="0:25:15.632000">
+größer	groß	ADJ	-	-	0:25:11.052000	0:25:11.772000
+,	-	-	-	-	0:25:11.052000	0:25:11.772000
+wenn	wenn	SCONJ	-	-	0:25:11.052000	0:25:11.772000
+(du	du	PRON	-	-	0:25:11.052000	0:25:11.772000
+dann)	dann	ADV	-	-	0:25:11.052000	0:25:11.772000
+einmal	einmal	ADV	-	-	0:25:11.052000	0:25:11.772000
+über	über	ADP	-	-	0:25:11.772000	0:25:15.632000
+hundert	hundert	NUM	-	-	0:25:11.772000	0:25:15.632000
+Leute	Leute	NOUN	-	-	0:25:11.772000	0:25:15.632000
+,	-	-	-	-	0:25:11.772000	0:25:15.632000
+hundertzwanzig	hundertzwanzig	NUM	-	-	0:25:11.772000	0:25:15.632000
+Leute	Leute	NOUN	-	-	0:25:11.772000	0:25:15.632000
+,	-	-	-	-	0:25:11.772000	0:25:15.632000
+hunderfünfzig	hunderfünfzig	NUM	-	-	0:25:11.772000	0:25:15.632000
+hast	haben	AUX	-	-	0:25:11.772000	0:25:15.632000
+,	-	-	-	-	0:25:11.772000	0:25:15.632000
+ist	sein	AUX	-	-	0:25:11.772000	0:25:15.632000
+das	der	PRON	-	-	0:25:11.772000	0:25:15.632000
+einfach	einfach	ADV	-	-	0:25:11.772000	0:25:15.632000
+zu	zu	PART	-	-	0:25:11.772000	0:25:15.632000
+wenig	wenig	PRON	-	-	0:25:11.772000	0:25:15.632000
+,	-	-	-	-	0:25:11.772000	0:25:15.632000
+nicht	nicht	PART	-	-	0:25:11.772000	0:25:15.632000
+?	-	-	-	-	0:25:11.772000	0:25:15.632000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:15.632000" end="0:25:17.012000">
+ja	ja	ADV	-	-	0:25:15.632000	0:25:17.012000
+gibt	geben	VERB	-	-	0:25:15.632000	0:25:17.012000
+es	ich	PRON	-	-	0:25:15.632000	0:25:17.012000
+eh	eh	ADV	-	-	0:25:15.632000	0:25:17.012000
+nichts	nichts	PRON	-	-	0:25:15.632000	0:25:17.012000
+.	-	-	-	-	0:25:15.632000	0:25:17.012000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:17.012000" end="0:25:23.437000">
+das	-	-	-	-	0:25:17.012000	0:25:19.642000
+*kannst*	-	-	-	-	0:25:17.012000	0:25:19.642000
+nur/	-	-	-	-	0:25:17.012000	0:25:19.642000
+.	-	-	-	-	0:25:17.012000	0:25:19.642000
+<pause duration="0,5s"/>
+bei	-	-	-	-	0:25:17.012000	0:25:19.642000
+Tisch	-	-	-	-	0:25:17.012000	0:25:19.642000
+*kannst*	-	-	-	-	0:25:17.012000	0:25:19.642000
+es	-	-	-	-	0:25:17.012000	0:25:19.642000
+sowieso	-	-	-	-	0:25:17.012000	0:25:19.642000
+nicht	-	-	-	-	0:25:17.012000	0:25:19.642000
+machen	-	-	-	-	0:25:17.012000	0:25:19.642000
+,	-	-	-	-	0:25:17.012000	0:25:19.642000
+weil	-	-	-	-	0:25:19.642000	0:25:22.357000
+da	-	-	-	-	0:25:19.642000	0:25:22.357000
+*bringst*	-	-	-	-	0:25:19.642000	0:25:22.357000
+nur	-	-	-	-	0:25:19.642000	0:25:22.357000
+die	-	-	-	-	0:25:19.642000	0:25:22.357000
+Hälfte	-	-	-	-	0:25:19.642000	0:25:22.357000
+Leute	-	-	-	-	0:25:19.642000	0:25:22.357000
+hinein	-	-	-	-	0:25:19.642000	0:25:22.357000
+,	-	-	-	-	0:25:19.642000	0:25:22.357000
+nicht	nicht	PART	-	-	0:25:19.642000	0:25:22.357000
+?	-	-	-	-	0:25:19.642000	0:25:22.357000
+<pause duration="1,2s"/>
+*ist*	-	-	-	-	0:25:22.357000	0:25:23.437000
+auch	-	-	-	-	0:25:22.357000	0:25:23.437000
+zu	-	-	-	-	0:25:22.357000	0:25:23.437000
+wenig	-	-	-	-	0:25:22.357000	0:25:23.437000
+.	-	-	-	-	0:25:22.357000	0:25:23.437000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:23.437000" end="0:25:24.732000">
+nein	nein	PART	-	-	0:25:23.437000	0:25:24.392000
+das	der	PRON	-	-	0:25:23.437000	0:25:24.392000
+ginge	gehen	VERB	-	-	0:25:23.437000	0:25:24.392000
+nur	nur	ADV	-	-	0:25:23.437000	0:25:24.392000
+bei	bei	ADP	-	-	0:25:24.392000	0:25:24.732000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:24.392000" end="0:25:24.732000">
+nein	nein	PART	-	-	0:25:24.392000	0:25:24.732000
+.	-	-	-	-	0:25:24.392000	0:25:24.732000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:24.732000" end="0:25:26.542000">
+nur	nur	ADV	-	-	0:25:24.732000	0:25:25.132000
+bei	bei	ADP	-	-	0:25:24.732000	0:25:25.132000
+Sesselreihen	Sesselreihen	NOUN	-	-	0:25:25.132000	0:25:26.542000
+,	-	-	-	-	0:25:25.132000	0:25:26.542000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:25.132000" end="0:25:26.542000">
+bei	bei	ADP	-	-	0:25:25.132000	0:25:26.542000
+Sesselreihen	Sesselreihen	NOUN	-	-	0:25:25.132000	0:25:26.542000
+ja	ja	ADV	-	-	0:25:25.132000	0:25:26.542000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:26.542000" end="0:25:27.127000">
+aber	-	-	-	-	0:25:26.542000	0:25:27.127000
+dann	-	-	-	-	0:25:26.542000	0:25:27.127000
+*musst*	-	-	-	-	0:25:26.542000	0:25:27.127000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:26.542000" end="0:25:27.127000">
+ja	ja	PART	-	-	0:25:26.542000	0:25:27.127000
+.	-	-	-	-	0:25:26.542000	0:25:27.127000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:27.127000" end="0:25:29.782000">
+eine	-	-	-	-	0:25:27.127000	0:25:28.292000
+Pause	-	-	-	-	0:25:27.127000	0:25:28.292000
+machen	-	-	-	-	0:25:27.127000	0:25:28.292000
+und	-	-	-	-	0:25:28.292000	0:25:29.782000
+dann	-	-	-	-	0:25:28.292000	0:25:29.782000
+*musst*	-	-	-	-	0:25:28.292000	0:25:29.782000
+sie	-	-	-	-	0:25:28.292000	0:25:29.782000
+wo	-	-	-	-	0:25:28.292000	0:25:29.782000
+unterbringen	-	-	-	-	0:25:28.292000	0:25:29.782000
+.	-	-	-	-	0:25:28.292000	0:25:29.782000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:29.782000" end="0:25:30.422000">
+ja	ja	ADV	-	-	0:25:29.782000	0:25:30.422000
+ist	sein	AUX	-	-	0:25:29.782000	0:25:30.422000
+eh	eh	ADV	-	-	0:25:29.782000	0:25:30.422000
+klar	klaren	ADJ	-	-	0:25:29.782000	0:25:30.422000
+.	-	-	-	-	0:25:29.782000	0:25:30.422000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:30.422000" end="0:25:31.267000">
+es	-	-	-	-	0:25:30.422000	0:25:31.267000
+will	-	-	-	-	0:25:30.422000	0:25:31.267000
+ein	-	-	-	-	0:25:30.422000	0:25:31.267000
+jeder	-	-	-	-	0:25:30.422000	0:25:31.267000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:30.422000" end="0:25:31.267000">
+freilich	freilich	ADV	-	-	0:25:30.422000	0:25:31.267000
+.	-	-	-	-	0:25:30.422000	0:25:31.267000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:31.267000" end="0:25:34.227000">
+ein	-	-	-	-	0:25:31.267000	0:25:34.227000
+bissel	-	-	-	-	0:25:31.267000	0:25:34.227000
+Weckerl	-	-	-	-	0:25:31.267000	0:25:34.227000
+oder	-	-	-	-	0:25:31.267000	0:25:34.227000
+irgendwas	-	-	-	-	0:25:31.267000	0:25:34.227000
+*brauchst*	-	-	-	-	0:25:31.267000	0:25:34.227000
+da	-	-	-	-	0:25:31.267000	0:25:34.227000
+ein	-	-	-	-	0:25:31.267000	0:25:34.227000
+_wengerl_	-	-	-	-	0:25:31.267000	0:25:34.227000
+.	-	-	-	-	0:25:31.267000	0:25:34.227000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:31.267000" end="0:25:34.227000">
+na	na	X	-	-	0:25:31.267000	0:25:34.227000
+klar	klaren	ADJ	-	-	0:25:31.267000	0:25:34.227000
+ja	ja	ADV	-	-	0:25:31.267000	0:25:34.227000
+ja	ja	ADV	-	-	0:25:31.267000	0:25:34.227000
+das	der	PRON	-	-	0:25:31.267000	0:25:34.227000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:34.227000" end="0:25:37.652000">
+*sieht*	-	-	-	-	0:25:34.227000	0:25:37.652000
+man	-	-	-	-	0:25:34.227000	0:25:37.652000
+eh	-	-	-	-	0:25:34.227000	0:25:37.652000
+bei	-	-	-	-	0:25:34.227000	0:25:37.652000
+den	-	-	-	-	0:25:34.227000	0:25:37.652000
+anderen	-	-	-	-	0:25:34.227000	0:25:37.652000
+,	-	-	-	-	0:25:34.227000	0:25:37.652000
+gell	gell	ADJ	-	-	0:25:34.227000	0:25:37.652000
+,	-	-	-	-	0:25:34.227000	0:25:37.652000
+bei	bei	ADP	-	-	0:25:34.227000	0:25:37.652000
+den	der	DET	-	-	0:25:34.227000	0:25:37.652000
+anderen	ander	ADJ	-	-	0:25:34.227000	0:25:37.652000
+Veranstaltungen	Veranstaltung	NOUN	-	-	0:25:34.227000	0:25:37.652000
+.	-	-	-	-	0:25:34.227000	0:25:37.652000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:34.227000" end="0:25:37.652000">
+das	der	PRON	-	-	0:25:34.227000	0:25:37.652000
+geht	gehen	VERB	-	-	0:25:34.227000	0:25:37.652000
+das	der	PRON	-	-	0:25:34.227000	0:25:37.652000
+das	der	PRON	-	-	0:25:34.227000	0:25:37.652000
+ist	sein	AUX	-	-	0:25:34.227000	0:25:37.652000
+zu	zu	PART	-	-	0:25:34.227000	0:25:37.652000
+klein	klein	ADJ	-	-	0:25:34.227000	0:25:37.652000
+,	-	-	-	-	0:25:34.227000	0:25:37.652000
+nicht	nicht	PART	-	-	0:25:34.227000	0:25:37.652000
+,	-	-	-	-	0:25:34.227000	0:25:37.652000
+ja	ja	ADV	-	-	0:25:34.227000	0:25:37.652000
+ja	ja	PART	-	-	0:25:34.227000	0:25:37.652000
+.	-	-	-	-	0:25:34.227000	0:25:37.652000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:37.652000" end="0:25:39.147000">
+<pause duration="1,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:37.652000" end="0:25:39.147000">
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:39.147000" end="0:25:40.022000">
+na	na	X	-	-	0:25:39.147000	0:25:40.022000
+ja	ja	PART	-	-	0:25:39.147000	0:25:40.022000
+.	-	-	-	-	0:25:39.147000	0:25:40.022000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:39.147000" end="0:25:44.332000">
+na	na	X	-	-	0:25:39.147000	0:25:40.022000
+es	ich	PRON	-	-	0:25:39.147000	0:25:40.022000
+wird	werden	AUX	-	-	0:25:39.147000	0:25:40.022000
+nichts	nichts	DET	-	-	0:25:39.147000	0:25:40.022000
+anderes	ander	PRON	-	-	0:25:40.022000	0:25:44.332000
+übrig	übrig	ADJ	-	-	0:25:40.022000	0:25:44.332000
+bleiben	bleiben	VERB	-	-	0:25:40.022000	0:25:44.332000
+,	-	-	-	-	0:25:40.022000	0:25:44.332000
+dass	dass	SCONJ	-	-	0:25:40.022000	0:25:44.332000
+wir	ich	PRON	-	-	0:25:40.022000	0:25:44.332000
+beim	beim	ADP	-	-	0:25:40.022000	0:25:44.332000
+[Schinagel]N	Schinagel	NOUN	-	-	0:25:40.022000	0:25:44.332000
+bleiben	bleiben	VERB	-	-	0:25:40.022000	0:25:44.332000
+draußen	draußen	ADV	-	-	0:25:40.022000	0:25:44.332000
+in	in	ADP	-	-	0:25:40.022000	0:25:44.332000
+[Klaus]O	Klaus	PROPN	-	-	0:25:40.022000	0:25:44.332000
+mit	mit	ADP	-	-	0:25:40.022000	0:25:44.332000
+unserem	mein	DET	-	-	0:25:40.022000	0:25:44.332000
+kompletten	komplett	ADJ	-	-	0:25:40.022000	0:25:44.332000
+Konzert	Konzert	NOUN	-	-	0:25:40.022000	0:25:44.332000
+,	-	-	-	-	0:25:40.022000	0:25:44.332000
+nicht	nicht	PART	-	-	0:25:40.022000	0:25:44.332000
+?	-	-	-	-	0:25:40.022000	0:25:44.332000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:44.332000" end="0:25:45.697000">
+na	na	X	-	-	0:25:44.332000	0:25:45.697000
+erst	erst	ADV	-	-	0:25:44.332000	0:25:45.697000
+einmal	einmal	ADV	-	-	0:25:44.332000	0:25:45.697000
+sowieso	sowieso	ADV	-	-	0:25:44.332000	0:25:45.697000
+noch	noch	ADV	-	-	0:25:44.332000	0:25:45.697000
+.	-	-	-	-	0:25:44.332000	0:25:45.697000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:45.697000" end="0:25:46.517000">
+mhm	mhm	PROPN	-	-	0:25:45.697000	0:25:46.517000
+.	-	-	-	-	0:25:45.697000	0:25:46.517000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:46.517000" end="0:25:51.377000">
+dann	dann	ADV	-	-	0:25:46.517000	0:25:50.672000
+sieht	sehen	VERB	-	-	0:25:46.517000	0:25:50.672000
+man	man	PRON	-	-	0:25:46.517000	0:25:50.672000
+eh/	-	-	-	-	0:25:46.517000	0:25:50.672000
+.	-	-	-	-	0:25:46.517000	0:25:50.672000
+<pause duration="3,3s"/>
+dann/	-	-	-	-	0:25:50.672000	0:25:51.377000
+.	-	-	-	-	0:25:50.672000	0:25:51.377000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:50.672000" end="0:25:53.327000">
+wann	wann	ADV	-	-	0:25:50.672000	0:25:51.377000
+ist	sein	AUX	-	-	0:25:50.672000	0:25:51.377000
+es	ich	PRON	-	-	0:25:50.672000	0:25:51.377000
+genau	genau	ADJ	-	-	0:25:50.672000	0:25:51.377000
+?	-	-	-	-	0:25:50.672000	0:25:51.377000
+am	am	ADP	-	-	0:25:51.377000	0:25:53.327000
+achtzehnten	achtzehnten	NOUN	-	-	0:25:51.377000	0:25:53.327000
+,	-	-	-	-	0:25:51.377000	0:25:53.327000
+glaube	glauben	VERB	-	-	0:25:51.377000	0:25:53.327000
+ich	ich	PRON	-	-	0:25:51.377000	0:25:53.327000
+,	-	-	-	-	0:25:51.377000	0:25:53.327000
+oder	oder	CCONJ	-	-	0:25:51.377000	0:25:53.327000
+neunzehnten	neunzehnten	NOUN	-	-	0:25:51.377000	0:25:53.327000
+,	-	-	-	-	0:25:51.377000	0:25:53.327000
+nicht	nicht	PART	-	-	0:25:51.377000	0:25:53.327000
+?	-	-	-	-	0:25:51.377000	0:25:53.327000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:53.327000" end="0:25:55.107000">
+am	am	ADP	-	-	0:25:53.327000	0:25:55.107000
+achtzehnten	achtzehnten	ADJ	-	-	0:25:53.327000	0:25:55.107000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:53.327000" end="0:25:55.107000">
+achtzehnten	achtzehnten	NOUN	-	-	0:25:53.327000	0:25:55.107000
+ist/	-	-	-	-	0:25:53.327000	0:25:55.107000
+.	-	-	-	-	0:25:53.327000	0:25:55.107000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:55.107000" end="0:25:56.777000">
+November	November	NOUN	-	-	0:25:55.107000	0:25:56.777000
+haben	haben	AUX	-	-	0:25:55.107000	0:25:56.777000
+wir	ich	PRON	-	-	0:25:55.107000	0:25:56.777000
+es	ich	PRON	-	-	0:25:55.107000	0:25:56.777000
+.	-	-	-	-	0:25:55.107000	0:25:56.777000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:55.107000" end="0:25:56.777000">
+ja	ja	PART	-	-	0:25:55.107000	0:25:56.777000
+mhm	mhm	PROPN	-	-	0:25:55.107000	0:25:56.777000
+ja	ja	ADV	-	-	0:25:55.107000	0:25:56.777000
+.	-	-	-	-	0:25:55.107000	0:25:56.777000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:56.777000" end="0:25:57.312000">
+Samstag	Samstag	NOUN	-	-	0:25:56.777000	0:25:57.312000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:56.777000" end="0:25:57.312000">
+mhm	mhm	PROPN	-	-	0:25:56.777000	0:25:57.312000
+.	-	-	-	-	0:25:56.777000	0:25:57.312000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:57.312000" end="0:25:58.302000">
+den	der	DET	-	-	0:25:57.312000	0:25:58.302000
+achtzehnten	achtzehnten	NOUN	-	-	0:25:57.312000	0:25:58.302000
+.	-	-	-	-	0:25:57.312000	0:25:58.302000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:25:58.302000" end="0:25:59.997000">
+ja	ja	PART	-	-	0:25:58.302000	0:25:59.997000
+.	-	-	-	-	0:25:58.302000	0:25:59.997000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:25:59.997000" end="0:26:02.352000">
+sammeln	sammeln	VERB	-	-	0:25:59.997000	0:26:01.322000
+gehe	gehen	VERB	-	-	0:25:59.997000	0:26:01.322000
+ich	ich	PRON	-	-	0:25:59.997000	0:26:01.322000
+wieder	wieder	ADV	-	-	0:25:59.997000	0:26:01.322000
+,	-	-	-	-	0:25:59.997000	0:26:01.322000
+das	der	PRON	-	-	0:25:59.997000	0:26:01.322000
+ist	sein	AUX	-	-	0:25:59.997000	0:26:01.322000
+das	der	PRON	-	-	0:26:01.322000	0:26:02.352000
+,	-	-	-	-	0:26:01.322000	0:26:02.352000
+was	was	PRON	-	-	0:26:01.322000	0:26:02.352000
+mich	sich	PRON	-	-	0:26:01.322000	0:26:02.352000
+am	am	ADP	-	-	0:26:01.322000	0:26:02.352000
+meisten/	-	-	-	-	0:26:01.322000	0:26:02.352000
+.	-	-	-	-	0:26:01.322000	0:26:02.352000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:01.322000" end="0:26:02.352000">
+puh	puh	X	-	-	0:26:01.322000	0:26:02.352000
+!	-	-	-	-	0:26:01.322000	0:26:02.352000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:02.352000" end="0:26:05.902000">
+<pause duration="1,0s"/>
+das	der	DET	-	-	0:26:02.352000	0:26:04.842000
+das	der	PRON	-	-	0:26:02.352000	0:26:04.842000
+jed/	-	-	-	-	0:26:02.352000	0:26:04.842000
+mei	mei	VERB	-	-	0:26:02.352000	0:26:04.842000
+das	der	PRON	-	-	0:26:02.352000	0:26:04.842000
+wird/	-	-	-	-	0:26:04.842000	0:26:05.902000
+.	-	-	-	-	0:26:04.842000	0:26:05.902000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:04.842000" end="0:26:05.902000">
+ich	ich	PRON	-	-	0:26:04.842000	0:26:05.902000
+habe	habe	AUX	-	-	0:26:04.842000	0:26:05.902000
+erst	erst	ADV	-	-	0:26:04.842000	0:26:05.902000
+vor/	-	-	-	-	0:26:04.842000	0:26:05.902000
+.	-	-	-	-	0:26:04.842000	0:26:05.902000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:05.902000" end="0:26:07.882000">
+wenn	wenn	SCONJ	-	-	0:26:05.902000	0:26:07.177000
+man	man	PRON	-	-	0:26:05.902000	0:26:07.177000
+wieder	wieder	ADV	-	-	0:26:05.902000	0:26:07.177000
+mal	mal	ADV	-	-	0:26:05.902000	0:26:07.177000
+drinnen	drinnen	ADV	-	-	0:26:05.902000	0:26:07.177000
+ist	sein	AUX	-	-	0:26:05.902000	0:26:07.177000
+,	-	-	-	-	0:26:05.902000	0:26:07.177000
+dann	dann	ADV	-	-	0:26:07.177000	0:26:07.882000
+geht	gehen	VERB	-	-	0:26:07.177000	0:26:07.882000
+es	ich	PRON	-	-	0:26:07.177000	0:26:07.882000
+,	-	-	-	-	0:26:07.177000	0:26:07.882000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:07.177000" end="0:26:08.437000">
+ja	ja	ADV	-	-	0:26:07.177000	0:26:07.882000
+aber	aber	ADV	-	-	0:26:07.882000	0:26:08.437000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:08.437000" end="0:26:10.437000">
+aber	aber	CCONJ	-	-	0:26:08.437000	0:26:10.437000
+das	der	DET	-	-	0:26:08.437000	0:26:10.437000
+anfangen	anfangen	ADJ	-	-	0:26:08.437000	0:26:10.437000
+alleweile	alleweile	NOUN	-	-	0:26:08.437000	0:26:10.437000
+,	-	-	-	-	0:26:08.437000	0:26:10.437000
+das	der	PRON	-	-	0:26:08.437000	0:26:10.437000
+sage	sage	VERB	-	-	0:26:08.437000	0:26:10.437000
+ich	ich	PRON	-	-	0:26:08.437000	0:26:10.437000
+dir	sich	PRON	-	-	0:26:08.437000	0:26:10.437000
+,	-	-	-	-	0:26:08.437000	0:26:10.437000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:08.437000" end="0:26:10.437000">
+d/	-	-	-	-	0:26:08.437000	0:26:10.437000
+d/	-	-	-	-	0:26:08.437000	0:26:10.437000
+w/	-	-	-	-	0:26:08.437000	0:26:10.437000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:10.437000" end="0:26:12.102000">
+das	der	DET	-	-	0:26:10.437000	0:26:12.102000
+erste	erste	ADJ	-	-	0:26:10.437000	0:26:12.102000
+Mal	Mal	NOUN	-	-	0:26:10.437000	0:26:12.102000
+,	-	-	-	-	0:26:10.437000	0:26:12.102000
+wenn	wenn	SCONJ	-	-	0:26:10.437000	0:26:12.102000
+du	du	PRON	-	-	0:26:10.437000	0:26:12.102000
+hinfährst	hinfahren	VERB	-	-	0:26:10.437000	0:26:12.102000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:10.437000" end="0:26:12.102000">
+d/	-	-	-	-	0:26:10.437000	0:26:12.102000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:12.102000" end="0:26:13.857000">
+zum	zum	ADP	-	-	0:26:12.102000	0:26:13.857000
+[Berneck]N	Berneck	NOUN	-	-	0:26:12.102000	0:26:13.857000
+oder	oder	CCONJ	-	-	0:26:12.102000	0:26:13.857000
+oder	oder	CCONJ	-	-	0:26:12.102000	0:26:13.857000
+zum	zum	ADP	-	-	0:26:12.102000	0:26:13.857000
+[Pirslinger]N	Pirslinger	NOUN	-	-	0:26:12.102000	0:26:13.857000
+,	-	-	-	-	0:26:12.102000	0:26:13.857000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:13.857000" end="0:26:14.237000">
+ja	ja	ADV	-	-	0:26:13.857000	0:26:14.237000
+.	-	-	-	-	0:26:13.857000	0:26:14.237000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:14.237000" end="0:26:16.972000">
+und	und	CCONJ	-	-	0:26:14.237000	0:26:16.042000
+wenn	wenn	SCONJ	-	-	0:26:14.237000	0:26:16.042000
+du	du	PRON	-	-	0:26:14.237000	0:26:16.042000
+dann	dann	ADV	-	-	0:26:14.237000	0:26:16.042000
+eh	eh	ADV	-	-	0:26:14.237000	0:26:16.042000
+schon	schon	ADV	-	-	0:26:14.237000	0:26:16.042000
+einen	ein	DET	-	-	0:26:14.237000	0:26:16.042000
+Dämpfer	Dämpfer	NOUN	-	-	0:26:14.237000	0:26:16.042000
+kriegst	kriegen	ADV	-	-	0:26:14.237000	0:26:16.042000
+,	-	-	-	-	0:26:14.237000	0:26:16.042000
+nein	nein	PART	-	-	0:26:16.042000	0:26:16.972000
+du	du	PRON	-	-	0:26:16.042000	0:26:16.972000
+kriegst	kriegen	ADV	-	-	0:26:16.042000	0:26:16.972000
+nichts	nichts	PRON	-	-	0:26:16.042000	0:26:16.972000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:16.042000" end="0:26:17.377000">
+ja	ja	PART	-	-	0:26:16.042000	0:26:16.972000
+.	-	-	-	-	0:26:16.042000	0:26:16.972000
+ja	ja	ADV	-	-	0:26:16.972000	0:26:17.377000
+ja	ja	PART	-	-	0:26:16.972000	0:26:17.377000
+.	-	-	-	-	0:26:16.972000	0:26:17.377000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:17.377000" end="0:26:20.007000">
+oder	oder	CCONJ	-	-	0:26:17.377000	0:26:18.497000
+was	was	PRON	-	-	0:26:17.377000	0:26:18.497000
+,	-	-	-	-	0:26:17.377000	0:26:18.497000
+dann	dann	ADV	-	-	0:26:17.377000	0:26:18.497000
+dann	dann	ADV	-	-	0:26:17.377000	0:26:18.497000
+haut	haut	VERB	-	-	0:26:17.377000	0:26:18.497000
+es	ich	PRON	-	-	0:26:17.377000	0:26:18.497000
+dich	sich	PRON	-	-	0:26:18.497000	0:26:20.007000
+schon	schon	ADV	-	-	0:26:18.497000	0:26:20.007000
+ganz	ganz	ADV	-	-	0:26:18.497000	0:26:20.007000
+nieder	nieder	ADP	-	-	0:26:18.497000	0:26:20.007000
+.	-	-	-	-	0:26:18.497000	0:26:20.007000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:18.497000" end="0:26:21.002000">
+na	na	X	-	-	0:26:18.497000	0:26:20.007000
+ja	ja	ADV	-	-	0:26:18.497000	0:26:20.007000
+[Berneck]N	Berneck	PROPN	-	-	0:26:18.497000	0:26:20.007000
+und	und	CCONJ	-	-	0:26:18.497000	0:26:20.007000
+[Pirslinger]N	Pirslinger	NOUN	-	-	0:26:18.497000	0:26:20.007000
+geben	geben	VERB	-	-	0:26:18.497000	0:26:20.007000
+schon	schon	ADV	-	-	0:26:18.497000	0:26:20.007000
+was	was	PRON	-	-	0:26:20.007000	0:26:21.002000
+her	her	ADV	-	-	0:26:20.007000	0:26:21.002000
+alleweile	alleweile	VERB	-	-	0:26:20.007000	0:26:21.002000
+,	-	-	-	-	0:26:20.007000	0:26:21.002000
+nicht	nicht	PART	-	-	0:26:20.007000	0:26:21.002000
+?	-	-	-	-	0:26:20.007000	0:26:21.002000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:21.002000" end="0:26:21.957000">
+ja	ja	ADV	-	-	0:26:21.002000	0:26:21.957000
+[Pirslinger]N	Pirslinger	PROPN	-	-	0:26:21.002000	0:26:21.957000
+schon	schon	ADV	-	-	0:26:21.002000	0:26:21.957000
+.	-	-	-	-	0:26:21.002000	0:26:21.957000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:21.957000" end="0:26:22.362000">
+ja	ja	PART	-	-	0:26:21.957000	0:26:22.362000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:22.362000" end="0:26:23.442000">
+aber	aber	CCONJ	-	-	0:26:22.362000	0:26:23.442000
+[Bernecker]N	Bernecker	PROPN	-	-	0:26:22.362000	0:26:23.442000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:22.362000" end="0:26:23.442000">
+[Bernecker]N	Bernecker	PROPN	-	-	0:26:22.362000	0:26:23.442000
+nicht	nicht	PART	-	-	0:26:22.362000	0:26:23.442000
+?	-	-	-	-	0:26:22.362000	0:26:23.442000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:23.442000" end="0:26:25.157000">
+haben	haben	AUX	-	-	0:26:23.442000	0:26:25.157000
+wir	ich	PRON	-	-	0:26:23.442000	0:26:25.157000
+ne/	-	-	-	-	0:26:23.442000	0:26:25.157000
+letztes	letzt	ADJ	-	-	0:26:23.442000	0:26:25.157000
+Mal	Mal	NOUN	-	-	0:26:23.442000	0:26:25.157000
+nichts	nichts	PRON	-	-	0:26:23.442000	0:26:25.157000
+gekriegt	kriegen	VERB	-	-	0:26:23.442000	0:26:25.157000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:25.157000" end="0:26:25.912000">
+geh	geh	X	-	-	0:26:25.157000	0:26:25.912000
+hör	hör	X	-	-	0:26:25.157000	0:26:25.912000
+auf	auf	ADP	-	-	0:26:25.157000	0:26:25.912000
+!	-	-	-	-	0:26:25.157000	0:26:25.912000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:25.912000" end="0:26:30.512000">
+und	und	CCONJ	-	-	0:26:25.912000	0:26:28.027000
+der	der	PRON	-	-	0:26:25.912000	0:26:28.027000
+der	der	DET	-	-	0:26:25.912000	0:26:28.027000
+[Christian]N	Christian	PROPN	-	-	0:26:25.912000	0:26:28.027000
+,	-	-	-	-	0:26:25.912000	0:26:28.027000
+der	der	DET	-	-	0:26:25.912000	0:26:28.027000
+Obmann	Obmann	NOUN	-	-	0:26:25.912000	0:26:28.027000
+hat	haben	AUX	-	-	0:26:25.912000	0:26:28.027000
+eh	eh	ADV	-	-	0:26:25.912000	0:26:28.027000
+gesagt	sagen	VERB	-	-	0:26:25.912000	0:26:28.027000
+,	-	-	-	-	0:26:25.912000	0:26:28.027000
+er	ich	PRON	-	-	0:26:28.027000	0:26:30.512000
+<pause duration="0,5s"/>
+er	ich	PRON	-	-	0:26:28.027000	0:26:30.512000
+fragt	fragen	VERB	-	-	0:26:28.027000	0:26:30.512000
+seinen	seinen	DET	-	-	0:26:28.027000	0:26:30.512000
+Schwiegersohn	Schwiegersohn	NOUN	-	-	0:26:28.027000	0:26:30.512000
+oder	oder	CCONJ	-	-	0:26:28.027000	0:26:30.512000
+wie	wie	ADV	-	-	0:26:28.027000	0:26:30.512000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:30.512000" end="0:26:30.812000">
+ja	ja	PART	-	-	0:26:30.512000	0:26:30.812000
+.	-	-	-	-	0:26:30.512000	0:26:30.812000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:30.812000" end="0:26:33.617000">
+der	der	PRON	-	-	0:26:30.812000	0:26:32.042000
+soll	soll	VERB	-	-	0:26:30.812000	0:26:32.042000
+sich	sich	PRON	-	-	0:26:30.812000	0:26:32.042000
+erkundigen	erkundigen	VERB	-	-	0:26:30.812000	0:26:32.042000
+,	-	-	-	-	0:26:30.812000	0:26:32.042000
+nicht	nicht	PART	-	-	0:26:30.812000	0:26:32.042000
+,	-	-	-	-	0:26:30.812000	0:26:32.042000
+dass	dass	SCONJ	-	-	0:26:32.042000	0:26:33.012000
+wir	ich	PRON	-	-	0:26:32.042000	0:26:33.012000
+wieder	wieder	ADV	-	-	0:26:32.042000	0:26:33.012000
+hinfahren	hinfahren	VERB	-	-	0:26:32.042000	0:26:33.012000
+und	und	CCONJ	-	-	0:26:33.012000	0:26:33.617000
+wieder	wieder	ADV	-	-	0:26:33.012000	0:26:33.617000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:33.012000" end="0:26:33.617000">
+ja	ja	ADV	-	-	0:26:33.012000	0:26:33.617000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:33.617000" end="0:26:34.672000">
+und	und	CCONJ	-	-	0:26:33.617000	0:26:34.672000
+dann	dann	ADV	-	-	0:26:33.617000	0:26:34.672000
+kriegen	kriegen	VERB	-	-	0:26:33.617000	0:26:34.672000
+wir	ich	PRON	-	-	0:26:33.617000	0:26:34.672000
+wieder	wieder	ADV	-	-	0:26:33.617000	0:26:34.672000
+nichts	nichts	PRON	-	-	0:26:33.617000	0:26:34.672000
+.	-	-	-	-	0:26:33.617000	0:26:34.672000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:33.617000" end="0:26:34.672000">
+ja	ja	ADV	-	-	0:26:33.617000	0:26:34.672000
+ja	ja	PART	-	-	0:26:33.617000	0:26:34.672000
+.	-	-	-	-	0:26:33.617000	0:26:34.672000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:34.672000" end="0:26:35.347000">
+also	also	ADV	-	-	0:26:34.672000	0:26:35.347000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:34.672000" end="0:26:35.347000">
+na	na	INTJ	-	-	0:26:34.672000	0:26:35.347000
+ist	sein	AUX	-	-	0:26:34.672000	0:26:35.347000
+eh	eh	ADV	-	-	0:26:34.672000	0:26:35.347000
+klar	klaren	ADJ	-	-	0:26:34.672000	0:26:35.347000
+.	-	-	-	-	0:26:34.672000	0:26:35.347000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:35.347000" end="0:26:36.507000">
+d/	-	-	-	-	0:26:35.347000	0:26:36.507000
+da	da	ADV	-	-	0:26:35.347000	0:26:36.507000
+fahre	fahren	VERB	-	-	0:26:35.347000	0:26:36.507000
+ich	ich	PRON	-	-	0:26:35.347000	0:26:36.507000
+nicht	nicht	PART	-	-	0:26:35.347000	0:26:36.507000
+mehr	mehr	ADV	-	-	0:26:35.347000	0:26:36.507000
+hin	hin	ADP	-	-	0:26:35.347000	0:26:36.507000
+.	-	-	-	-	0:26:35.347000	0:26:36.507000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:36.507000" end="0:26:38.507000">
+na	na	X	-	-	0:26:36.507000	0:26:38.507000
+ja	ja	ADV	-	-	0:26:36.507000	0:26:38.507000
+dann	dann	ADV	-	-	0:26:36.507000	0:26:38.507000
+kaufen	kaufen	VERB	-	-	0:26:36.507000	0:26:38.507000
+wir	ich	PRON	-	-	0:26:36.507000	0:26:38.507000
+ihm	ich	PRON	-	-	0:26:36.507000	0:26:38.507000
+auch	auch	ADV	-	-	0:26:36.507000	0:26:38.507000
+nichts	nichts	PRON	-	-	0:26:36.507000	0:26:38.507000
+mehr	mehr	ADV	-	-	0:26:36.507000	0:26:38.507000
+ab	ab	ADP	-	-	0:26:36.507000	0:26:38.507000
+.	-	-	-	-	0:26:36.507000	0:26:38.507000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:38.507000" end="0:26:39.907000">
+na	na	X	-	-	0:26:38.507000	0:26:39.907000
+ja	ja	PART	-	-	0:26:38.507000	0:26:39.907000
+.	-	-	-	-	0:26:38.507000	0:26:39.907000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:38.507000" end="0:26:39.907000">
+ja	ja	PART	-	-	0:26:38.507000	0:26:39.907000
+.	-	-	-	-	0:26:38.507000	0:26:39.907000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:39.907000" end="0:26:40.562000">
+es	-	-	-	-	0:26:39.907000	0:26:40.562000
+ist	-	-	-	-	0:26:39.907000	0:26:40.562000
+_a_	-	-	-	-	0:26:39.907000	0:26:40.562000
+so	-	-	-	-	0:26:39.907000	0:26:40.562000
+.	-	-	-	-	0:26:39.907000	0:26:40.562000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:40.562000" end="0:26:42.562000">
+ja	ja	PART	-	-	0:26:40.562000	0:26:42.562000
+er	ich	PRON	-	-	0:26:40.562000	0:26:42.562000
+macht	machen	VERB	-	-	0:26:40.562000	0:26:42.562000
+auch	auch	ADV	-	-	0:26:40.562000	0:26:42.562000
+ein	einen	DET	-	-	0:26:40.562000	0:26:42.562000
+Geschäft	Geschäft	NOUN	-	-	0:26:40.562000	0:26:42.562000
+bei	bei	ADP	-	-	0:26:40.562000	0:26:42.562000
+uns	sich	PRON	-	-	0:26:40.562000	0:26:42.562000
+herinnen	herinnen	VERB	-	-	0:26:40.562000	0:26:42.562000
+,	-	-	-	-	0:26:40.562000	0:26:42.562000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:42.562000" end="0:26:45.787000">
+seinen	seinen	DET	-	-	0:26:42.562000	0:26:45.787000
+Beton	Beton	NOUN	-	-	0:26:42.562000	0:26:45.787000
+und	und	CCONJ	-	-	0:26:42.562000	0:26:45.787000
+alles	alle	PRON	-	-	0:26:42.562000	0:26:45.787000
+überall	überall	ADV	-	-	0:26:42.562000	0:26:45.787000
+ja	ja	ADV	-	-	0:26:42.562000	0:26:45.787000
+ja	ja	PART	-	-	0:26:42.562000	0:26:45.787000
+.	-	-	-	-	0:26:42.562000	0:26:45.787000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:42.562000" end="0:26:47.077000">
+nicht	nicht	PART	-	-	0:26:42.562000	0:26:45.787000
+,	-	-	-	-	0:26:42.562000	0:26:45.787000
+was	was	PRON	-	-	0:26:42.562000	0:26:45.787000
+er	ich	PRON	-	-	0:26:42.562000	0:26:45.787000
+Fertigbeton	Fertigbeton	PROPN	-	-	0:26:42.562000	0:26:45.787000
+hineinliefert	hineinliefert	VERB	-	-	0:26:42.562000	0:26:45.787000
+da	da	ADV	-	-	0:26:42.562000	0:26:45.787000
+und	und	CCONJ	-	-	0:26:42.562000	0:26:45.787000
+alles	alle	DET	-	-	0:26:42.562000	0:26:45.787000
+mögliche	möglich	ADJ	-	-	0:26:42.562000	0:26:45.787000
+u/	-	-	-	-	0:26:45.787000	0:26:47.077000
+und	und	CCONJ	-	-	0:26:45.787000	0:26:47.077000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:47.077000" end="0:26:47.507000">
+mhm	mhm	PROPN	-	-	0:26:47.077000	0:26:47.507000
+.	-	-	-	-	0:26:47.077000	0:26:47.507000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:47.507000" end="0:26:50.012000">
+ich	ich	PRON	-	-	0:26:47.507000	0:26:50.012000
+habe	habe	AUX	-	-	0:26:47.507000	0:26:50.012000
+auch	auch	ADV	-	-	0:26:47.507000	0:26:50.012000
+jetzt	jetzt	ADV	-	-	0:26:47.507000	0:26:50.012000
+bei	bei	ADP	-	-	0:26:47.507000	0:26:50.012000
+meiner	sich	DET	-	-	0:26:47.507000	0:26:50.012000
+Bauerei	Bauerei	NOUN	-	-	0:26:47.507000	0:26:50.012000
+wieder	wieder	ADV	-	-	0:26:47.507000	0:26:50.012000
+alles	alle	PRON	-	-	0:26:47.507000	0:26:50.012000
+vom	vom	ADP	-	-	0:26:47.507000	0:26:50.012000
+[Bernecker]N	Bernecker	NOUN	-	-	0:26:47.507000	0:26:50.012000
+gehabt	haben	AUX	-	-	0:26:47.507000	0:26:50.012000
+.	-	-	-	-	0:26:47.507000	0:26:50.012000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:50.012000" end="0:26:51.447000">
+alles	alle	PRON	-	-	0:26:50.012000	0:26:51.447000
+na	na	PROPN	-	-	0:26:50.012000	0:26:51.447000
+d/	-	-	-	-	0:26:50.012000	0:26:51.447000
+ja	ja	ADV	-	-	0:26:50.012000	0:26:51.447000
+ja	ja	PART	-	-	0:26:50.012000	0:26:51.447000
+.	-	-	-	-	0:26:50.012000	0:26:51.447000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:50.012000" end="0:26:51.447000">
+na	na	X	-	-	0:26:50.012000	0:26:51.447000
+sicher	sichern	ADV	-	-	0:26:50.012000	0:26:51.447000
+ja	ja	ADV	-	-	0:26:50.012000	0:26:51.447000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:51.447000" end="0:26:51.972000">
+ja	ja	ADV	-	-	0:26:51.447000	0:26:51.972000
+ja	ja	PART	-	-	0:26:51.447000	0:26:51.972000
+.	-	-	-	-	0:26:51.447000	0:26:51.972000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:51.972000" end="0:26:54.312000">
+ist	sein	AUX	-	-	0:26:51.972000	0:26:54.312000
+zwar	zwar	ADV	-	-	0:26:51.972000	0:26:54.312000
+über	über	ADP	-	-	0:26:51.972000	0:26:54.312000
+den	der	DET	-	-	0:26:51.972000	0:26:54.312000
+[Langeneder]N	Langeneder	NOUN	-	-	0:26:51.972000	0:26:54.312000
+gerannt	rennen	VERB	-	-	0:26:51.972000	0:26:54.312000
+,	-	-	-	-	0:26:51.972000	0:26:54.312000
+über	über	ADP	-	-	0:26:51.972000	0:26:54.312000
+den	der	DET	-	-	0:26:51.972000	0:26:54.312000
+Baumeister	Baumeister	NOUN	-	-	0:26:51.972000	0:26:54.312000
+,	-	-	-	-	0:26:51.972000	0:26:54.312000
+nicht	nicht	PART	-	-	0:26:51.972000	0:26:54.312000
+,	-	-	-	-	0:26:51.972000	0:26:54.312000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:54.312000" end="0:26:54.857000">
+ja	ja	PART	-	-	0:26:54.312000	0:26:54.857000
+.	-	-	-	-	0:26:54.312000	0:26:54.857000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:54.857000" end="0:26:56.247000">
+aber	aber	CCONJ	-	-	0:26:54.857000	0:26:56.247000
+geliefert	liefern	VERB	-	-	0:26:54.857000	0:26:56.247000
+hat	haben	AUX	-	-	0:26:54.857000	0:26:56.247000
+es	ich	PRON	-	-	0:26:54.857000	0:26:56.247000
+er	ich	PRON	-	-	0:26:54.857000	0:26:56.247000
+,	-	-	-	-	0:26:54.857000	0:26:56.247000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:56.247000" end="0:26:57.902000">
+na	na	X	-	-	0:26:56.247000	0:26:57.902000
+f/	-	-	-	-	0:26:56.247000	0:26:57.902000
+sicher	sichern	ADJ	-	-	0:26:56.247000	0:26:57.902000
+ja	ja	PART	-	-	0:26:56.247000	0:26:57.902000
+.	-	-	-	-	0:26:56.247000	0:26:57.902000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:56.247000" end="0:26:57.902000">
+n/	-	-	-	-	0:26:56.247000	0:26:57.902000
+d/	-	-	-	-	0:26:56.247000	0:26:57.902000
+d/	-	-	-	-	0:26:56.247000	0:26:57.902000
+n/	-	-	-	-	0:26:56.247000	0:26:57.902000
+ja	ja	PART	-	-	0:26:56.247000	0:26:57.902000
+.	-	-	-	-	0:26:56.247000	0:26:57.902000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:57.902000" end="0:26:59.977000">
+<pause duration="2,1s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:26:57.902000" end="0:26:59.977000">
+<pause duration="2,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:26:59.977000" end="0:27:04.887000">
+und	und	CCONJ	-	-	0:26:59.977000	0:27:00.812000
+die	der	DET	-	-	0:26:59.977000	0:27:00.812000
+sagen	sagen	ADJ	-	-	0:26:59.977000	0:27:00.812000
+alleweile	alleweile	NOUN	-	-	0:26:59.977000	0:27:00.812000
+,	-	-	-	-	0:26:59.977000	0:27:00.812000
+dass	dass	SCONJ	-	-	0:27:00.812000	0:27:04.887000
+er	ich	PRON	-	-	0:27:00.812000	0:27:04.887000
+angeblich	angeblich	ADJ	-	-	0:27:00.812000	0:27:04.887000
+<pause duration="0,5s"/>
+so	so	ADV	-	-	0:27:00.812000	0:27:04.887000
+viel	viel	PRON	-	-	0:27:00.812000	0:27:04.887000
+für	für	ADP	-	-	0:27:00.812000	0:27:04.887000
+Licht	Licht	NOUN	-	-	0:27:00.812000	0:27:04.887000
+ins	ins	ADP	-	-	0:27:00.812000	0:27:04.887000
+Dunkel	Dunkel	NOUN	-	-	0:27:00.812000	0:27:04.887000
+spendet	spenden	VERB	-	-	0:27:00.812000	0:27:04.887000
+,	-	-	-	-	0:27:00.812000	0:27:04.887000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:04.887000" end="0:27:05.782000">
+ja	ja	ADV	-	-	0:27:04.887000	0:27:05.782000
+ist	sein	AUX	-	-	0:27:04.887000	0:27:05.782000
+eh	eh	ADV	-	-	0:27:04.887000	0:27:05.782000
+okay	okay	ADJ	-	-	0:27:04.887000	0:27:05.782000
+,	-	-	-	-	0:27:04.887000	0:27:05.782000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:05.782000" end="0:27:08.567000">
+das	der	PRON	-	-	0:27:05.782000	0:27:08.567000
+kann	können	VERB	-	-	0:27:05.782000	0:27:08.567000
+er	ich	PRON	-	-	0:27:05.782000	0:27:08.567000
+tun	tun	VERB	-	-	0:27:05.782000	0:27:08.567000
+,	-	-	-	-	0:27:05.782000	0:27:08.567000
+aber	aber	CCONJ	-	-	0:27:05.782000	0:27:08.567000
+das	der	PRON	-	-	0:27:05.782000	0:27:08.567000
+sage	sage	VERB	-	-	0:27:05.782000	0:27:08.567000
+ich	ich	PRON	-	-	0:27:05.782000	0:27:08.567000
+auch	auch	ADV	-	-	0:27:05.782000	0:27:08.567000
+,	-	-	-	-	0:27:05.782000	0:27:08.567000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:05.782000" end="0:27:08.567000">
+aber	aber	CCONJ	-	-	0:27:05.782000	0:27:08.567000
+we/	-	-	-	-	0:27:05.782000	0:27:08.567000
+wenn	wenn	SCONJ	-	-	0:27:05.782000	0:27:08.567000
+die	der	DET	-	-	0:27:05.782000	0:27:08.567000
+örtlichen	örtlich	ADJ	-	-	0:27:05.782000	0:27:08.567000
+Vereine	Verein	NOUN	-	-	0:27:05.782000	0:27:08.567000
+(gehören)	gehören	VERB	-	-	0:27:05.782000	0:27:08.567000
+halt	halt	ADV	-	-	0:27:05.782000	0:27:08.567000
+auch	auch	ADV	-	-	0:27:05.782000	0:27:08.567000
+,	-	-	-	-	0:27:05.782000	0:27:08.567000
+nicht	nicht	PART	-	-	0:27:05.782000	0:27:08.567000
+,	-	-	-	-	0:27:05.782000	0:27:08.567000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:08.567000" end="0:27:11.087000">
+also	also	ADV	-	-	0:27:08.567000	0:27:11.087000
+das	der	DET	-	-	0:27:08.567000	0:27:11.087000
+muss	muss	NOUN	-	-	0:27:08.567000	0:27:11.087000
+das	der	PRON	-	-	0:27:08.567000	0:27:11.087000
+das	der	PRON	-	-	0:27:08.567000	0:27:11.087000
+sehe	sehen	VERB	-	-	0:27:08.567000	0:27:11.087000
+ich	ich	PRON	-	-	0:27:08.567000	0:27:11.087000
+gar	gar	ADV	-	-	0:27:08.567000	0:27:11.087000
+nicht	nicht	PART	-	-	0:27:08.567000	0:27:11.087000
+ein	einen	ADP	-	-	0:27:08.567000	0:27:11.087000
+.	-	-	-	-	0:27:08.567000	0:27:11.087000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:08.567000" end="0:27:11.802000">
+u/	-	-	-	-	0:27:08.567000	0:27:11.087000
+und	und	CCONJ	-	-	0:27:08.567000	0:27:11.087000
+sei/	-	-	-	-	0:27:08.567000	0:27:11.087000
+und	und	CCONJ	-	-	0:27:08.567000	0:27:11.087000
+seine	mein	DET	-	-	0:27:08.567000	0:27:11.087000
+Kundschaften	Kundschaft	NOUN	-	-	0:27:11.087000	0:27:11.802000
+,	-	-	-	-	0:27:11.087000	0:27:11.802000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:11.802000" end="0:27:12.082000">
+ja	ja	PART	-	-	0:27:11.802000	0:27:12.082000
+.	-	-	-	-	0:27:11.802000	0:27:12.082000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:12.082000" end="0:27:15.442000">
+sind	sein	AUX	-	-	0:27:12.082000	0:27:15.442000
+ja	ja	ADV	-	-	0:27:12.082000	0:27:15.442000
+(werden)	werden	AUX	-	-	0:27:12.082000	0:27:15.442000
+ja	ja	ADV	-	-	0:27:12.082000	0:27:15.442000
+das	der	PRON	-	-	0:27:12.082000	0:27:15.442000
+sind	sein	AUX	-	-	0:27:12.082000	0:27:15.442000
+ja	ja	ADV	-	-	0:27:12.082000	0:27:15.442000
+Kundschaften	Kundschaft	NOUN	-	-	0:27:12.082000	0:27:15.442000
+da	da	ADV	-	-	0:27:12.082000	0:27:15.442000
+im	im	ADP	-	-	0:27:12.082000	0:27:15.442000
+Ort	Ort	NOUN	-	-	0:27:12.082000	0:27:15.442000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:15.442000" end="0:27:17.587000">
+ja	ja	ADV	-	-	0:27:15.442000	0:27:17.587000
+es	ich	PRON	-	-	0:27:15.442000	0:27:17.587000
+gehört	hören	VERB	-	-	0:27:15.442000	0:27:17.587000
+mit	mit	ADP	-	-	0:27:15.442000	0:27:17.587000
+ihm	ich	PRON	-	-	0:27:15.442000	0:27:17.587000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:27:15.442000	0:27:17.587000
+einmal	einmal	ADV	-	-	0:27:15.442000	0:27:17.587000
+geredet	reden	VERB	-	-	0:27:15.442000	0:27:17.587000
+.	-	-	-	-	0:27:15.442000	0:27:17.587000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:15.442000" end="0:27:19.507000">
+und	und	CCONJ	-	-	0:27:15.442000	0:27:17.587000
+in	in	ADP	-	-	0:27:15.442000	0:27:17.587000
+der	der	DET	-	-	0:27:15.442000	0:27:17.587000
+Umgebung	Umgebung	NOUN	-	-	0:27:15.442000	0:27:17.587000
+,	-	-	-	-	0:27:15.442000	0:27:17.587000
+nicht	nicht	PART	-	-	0:27:15.442000	0:27:17.587000
+?	-	-	-	-	0:27:15.442000	0:27:17.587000
+na	na	X	-	-	0:27:17.587000	0:27:19.507000
+sicher	sichern	ADJ	-	-	0:27:17.587000	0:27:19.507000
+ja	ja	ADV	-	-	0:27:17.587000	0:27:19.507000
+mhm	mhm	PROPN	-	-	0:27:17.587000	0:27:19.507000
+.	-	-	-	-	0:27:17.587000	0:27:19.507000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:19.507000" end="0:27:22.277000">
+er	ich	PRON	-	-	0:27:19.507000	0:27:22.277000
+muss	muss	VERB	-	-	0:27:19.507000	0:27:22.277000
+auch	auch	ADV	-	-	0:27:19.507000	0:27:22.277000
+angeblich	angeblich	ADJ	-	-	0:27:19.507000	0:27:22.277000
+die	der	DET	-	-	0:27:19.507000	0:27:22.277000
+[Mollner]O	Mollner	ADJ	-	-	0:27:19.507000	0:27:22.277000
+Vereine	Verein	NOUN	-	-	0:27:19.507000	0:27:22.277000
+auch	auch	ADV	-	-	0:27:19.507000	0:27:22.277000
+genauso	genauso	ADV	-	-	0:27:19.507000	0:27:22.277000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:22.277000" end="0:27:22.687000">
+geh	geh	X	-	-	0:27:22.277000	0:27:22.687000
+!	-	-	-	-	0:27:22.277000	0:27:22.687000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:22.687000" end="0:27:24.612000">
+ja	ja	ADV	-	-	0:27:22.687000	0:27:24.612000
+gekürzt	kürzen	VERB	-	-	0:27:22.687000	0:27:24.612000
+haben	haben	AUX	-	-	0:27:22.687000	0:27:24.612000
+sauber	sauber	ADJ	-	-	0:27:22.687000	0:27:24.612000
+.	-	-	-	-	0:27:22.687000	0:27:24.612000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:24.612000" end="0:27:26.302000">
+also/	-	-	-	-	0:27:24.612000	0:27:26.302000
+.	-	-	-	-	0:27:24.612000	0:27:26.302000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:26.302000" end="0:27:29.862000">
+so	so	ADV	-	-	0:27:26.302000	0:27:29.862000
+wir	ich	PRON	-	-	0:27:26.302000	0:27:29.862000
+kommen	kommen	VERB	-	-	0:27:26.302000	0:27:29.862000
+ja	ja	ADV	-	-	0:27:26.302000	0:27:29.862000
+nicht	nicht	PART	-	-	0:27:26.302000	0:27:29.862000
+hin	hin	ADV	-	-	0:27:26.302000	0:27:29.862000
+wegen	wegen	ADP	-	-	0:27:26.302000	0:27:29.862000
+,	-	-	-	-	0:27:26.302000	0:27:29.862000
+<pause duration="0,5s"/>
+dass	dass	SCONJ	-	-	0:27:26.302000	0:27:29.862000
+wir	ich	PRON	-	-	0:27:26.302000	0:27:29.862000
+fünfhundert	fünfhundert	VERB	-	-	0:27:26.302000	0:27:29.862000
+Euro	Euro	NOUN	-	-	0:27:26.302000	0:27:29.862000
+kriegen	kriegen	VERB	-	-	0:27:26.302000	0:27:29.862000
+,	-	-	-	-	0:27:26.302000	0:27:29.862000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:29.862000" end="0:27:30.502000">
+na	na	X	-	-	0:27:29.862000	0:27:30.502000
+ja	ja	ADV	-	-	0:27:29.862000	0:27:30.502000
+sicher	sichern	ADJ	-	-	0:27:29.862000	0:27:30.502000
+,	-	-	-	-	0:27:29.862000	0:27:30.502000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:30.502000" end="0:27:33.147000">
+aber	aber	CCONJ	-	-	0:27:30.502000	0:27:33.147000
+einen	ein	DET	-	-	0:27:30.502000	0:27:33.147000
+Fünfziger	Fünfziger	NOUN	-	-	0:27:30.502000	0:27:33.147000
+,	-	-	-	-	0:27:30.502000	0:27:33.147000
+wenn	wenn	SCONJ	-	-	0:27:30.502000	0:27:33.147000
+er	ich	PRON	-	-	0:27:30.502000	0:27:33.147000
+hergibt	hergeben	VERB	-	-	0:27:30.502000	0:27:33.147000
+,	-	-	-	-	0:27:30.502000	0:27:33.147000
+oder	oder	CCONJ	-	-	0:27:30.502000	0:27:33.147000
+,	-	-	-	-	0:27:30.502000	0:27:33.147000
+sage	sage	VERB	-	-	0:27:30.502000	0:27:33.147000
+ich	ich	PRON	-	-	0:27:30.502000	0:27:33.147000
+einmal	einmal	ADV	-	-	0:27:30.502000	0:27:33.147000
+,	-	-	-	-	0:27:30.502000	0:27:33.147000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:30.502000" end="0:27:33.147000">
+wenn	wenn	SCONJ	-	-	0:27:30.502000	0:27:33.147000
+er	ich	PRON	-	-	0:27:30.502000	0:27:33.147000
+a/	-	-	-	-	0:27:30.502000	0:27:33.147000
+na	na	ADV	-	-	0:27:30.502000	0:27:33.147000
+sicher	sichern	ADJ	-	-	0:27:30.502000	0:27:33.147000
+ja	ja	ADV	-	-	0:27:30.502000	0:27:33.147000
+ja	ja	ADV	-	-	0:27:30.502000	0:27:33.147000
+klar	klaren	ADJ	-	-	0:27:30.502000	0:27:33.147000
+,	-	-	-	-	0:27:30.502000	0:27:33.147000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:33.147000" end="0:27:34.962000">
+da	da	ADV	-	-	0:27:33.147000	0:27:34.962000
+sind	sein	AUX	-	-	0:27:33.147000	0:27:34.962000
+wir	ich	PRON	-	-	0:27:33.147000	0:27:34.962000
+eh	eh	ADV	-	-	0:27:33.147000	0:27:34.962000
+zufrieden	zufrieden	ADJ	-	-	0:27:33.147000	0:27:34.962000
+.	-	-	-	-	0:27:33.147000	0:27:34.962000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:33.147000" end="0:27:34.962000">
+ja	ja	ADV	-	-	0:27:33.147000	0:27:34.962000
+ja	ja	ADV	-	-	0:27:33.147000	0:27:34.962000
+na	na	X	-	-	0:27:33.147000	0:27:34.962000
+sicher	sichern	ADJ	-	-	0:27:33.147000	0:27:34.962000
+ja	ja	PART	-	-	0:27:33.147000	0:27:34.962000
+.	-	-	-	-	0:27:33.147000	0:27:34.962000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:34.962000" end="0:27:38.272000">
+na	na	X	-	-	0:27:34.962000	0:27:38.272000
+es	ich	PRON	-	-	0:27:34.962000	0:27:38.272000
+ist	sein	AUX	-	-	0:27:34.962000	0:27:38.272000
+alleweile	alleweile	NOUN	-	-	0:27:34.962000	0:27:38.272000
+das	der	PRON	-	-	0:27:34.962000	0:27:38.272000
+,	-	-	-	-	0:27:34.962000	0:27:38.272000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:34.962000" end="0:27:38.272000">
+na	na	INTJ	-	-	0:27:34.962000	0:27:38.272000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:38.272000" end="0:27:41.332000">
+was	-	-	-	-	0:27:38.272000	0:27:39.122000
+*willst*	-	-	-	-	0:27:38.272000	0:27:39.122000
+machen	-	-	-	-	0:27:38.272000	0:27:39.122000
+?	-	-	-	-	0:27:38.272000	0:27:39.122000
+(gen/)	gen	X	-	-	0:27:39.122000	0:27:41.332000
+ja	ja	ADV	-	-	0:27:39.122000	0:27:41.332000
+ja	ja	PART	-	-	0:27:39.122000	0:27:41.332000
+.	-	-	-	-	0:27:39.122000	0:27:41.332000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:39.122000" end="0:27:41.882000">
+da	da	ADV	-	-	0:27:39.122000	0:27:41.332000
+sind	sein	AUX	-	-	0:27:39.122000	0:27:41.332000
+sie	ich	PRON	-	-	0:27:39.122000	0:27:41.332000
+ja	ja	ADV	-	-	0:27:39.122000	0:27:41.332000
+verscheiden	verscheiden	VERB	-	-	0:27:39.122000	0:27:41.332000
+,	-	-	-	-	0:27:39.122000	0:27:41.332000
+die	der	DET	-	-	0:27:39.122000	0:27:41.332000
+Herren	Herr	NOUN	-	-	0:27:39.122000	0:27:41.332000
+Unternehmer	Unternehmer	NOUN	-	-	0:27:39.122000	0:27:41.332000
+.	-	-	-	-	0:27:39.122000	0:27:41.332000
+gell	gell	ADJ	-	-	0:27:41.332000	0:27:41.882000
+?	-	-	-	-	0:27:41.332000	0:27:41.882000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:41.882000" end="0:27:44.037000">
+_dings_	-	-	-	-	0:27:41.882000	0:27:43.152000
+haben	-	-	-	-	0:27:41.882000	0:27:43.152000
+wir	-	-	-	-	0:27:41.882000	0:27:43.152000
+auch	-	-	-	-	0:27:41.882000	0:27:43.152000
+schon	-	-	-	-	0:27:41.882000	0:27:43.152000
+wieder	-	-	-	-	0:27:41.882000	0:27:43.152000
+gekriegt	-	-	-	-	0:27:41.882000	0:27:43.152000
+,	-	-	-	-	0:27:41.882000	0:27:43.152000
+gell	gell	ADJ	-	-	0:27:43.152000	0:27:44.037000
+,	-	-	-	-	0:27:43.152000	0:27:44.037000
+eine	einen	DET	-	-	0:27:43.152000	0:27:44.037000
+Einladung	Einladung	NOUN	-	-	0:27:43.152000	0:27:44.037000
+.	-	-	-	-	0:27:43.152000	0:27:44.037000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:43.152000" end="0:27:44.667000">
+hm	hm	X	-	-	0:27:43.152000	0:27:44.037000
+?	-	-	-	-	0:27:43.152000	0:27:44.037000
+für	für	ADP	-	-	0:27:44.037000	0:27:44.667000
+wa/	-	-	-	-	0:27:44.037000	0:27:44.667000
+.	-	-	-	-	0:27:44.037000	0:27:44.667000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:44.667000" end="0:27:46.667000">
+über	über	ADP	-	-	0:27:44.667000	0:27:46.667000
+Barbarafeier	Barbarafeier	NOUN	-	-	0:27:44.667000	0:27:46.667000
+.	-	-	-	-	0:27:44.667000	0:27:46.667000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:46.667000" end="0:27:48.122000">
+ah	ah	ADJ	-	-	0:27:46.667000	0:27:48.122000
+ja	ja	ADV	-	-	0:27:46.667000	0:27:48.122000
+ja	ja	ADV	-	-	0:27:46.667000	0:27:48.122000
+in	in	ADP	-	-	0:27:46.667000	0:27:48.122000
+der	der	DET	-	-	0:27:46.667000	0:27:48.122000
+(Vöst)	Vöst	NOUN	-	-	0:27:46.667000	0:27:48.122000
+draußen	draußen	ADV	-	-	0:27:46.667000	0:27:48.122000
+ja	ja	ADV	-	-	0:27:46.667000	0:27:48.122000
+.	-	-	-	-	0:27:46.667000	0:27:48.122000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:48.122000" end="0:27:48.527000">
+ist	sein	AUX	-	-	0:27:48.122000	0:27:48.527000
+die	der	DET	-	-	0:27:48.122000	0:27:48.527000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:48.122000" end="0:27:48.527000">
+mhm	mhm	PROPN	-	-	0:27:48.122000	0:27:48.527000
+.	-	-	-	-	0:27:48.122000	0:27:48.527000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:48.527000" end="0:27:49.927000">
+heuer	heuer	ADV	-	-	0:27:48.527000	0:27:49.182000
+schon	schon	ADV	-	-	0:27:48.527000	0:27:49.182000
+am	am	ADP	-	-	0:27:48.527000	0:27:49.182000
+ersten	erst	ADJ	-	-	0:27:49.182000	0:27:49.927000
+?	-	-	-	-	0:27:49.182000	0:27:49.927000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:49.182000" end="0:27:50.737000">
+(ich	ich	PRON	-	-	0:27:49.182000	0:27:49.927000
+weiß	weiß	VERB	-	-	0:27:49.182000	0:27:49.927000
+nicht)	nicht	PART	-	-	0:27:49.182000	0:27:49.927000
+so	so	ADV	-	-	0:27:49.927000	0:27:50.737000
+bald	bald	ADV	-	-	0:27:49.927000	0:27:50.737000
+gell	gell	ADJ	-	-	0:27:49.927000	0:27:50.737000
+?	-	-	-	-	0:27:49.927000	0:27:50.737000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:50.737000" end="0:27:51.912000">
+am	am	ADP	-	-	0:27:50.737000	0:27:51.912000
+ersten	erst	ADJ	-	-	0:27:50.737000	0:27:51.912000
+Dezember	Dezember	NOUN	-	-	0:27:50.737000	0:27:51.912000
+.	-	-	-	-	0:27:50.737000	0:27:51.912000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:51.912000" end="0:27:52.817000">
+na	na	X	-	-	0:27:51.912000	0:27:52.817000
+ja	ja	ADV	-	-	0:27:51.912000	0:27:52.817000
+die	der	DET	-	-	0:27:51.912000	0:27:52.817000
+Barbara	Barbara	NOUN	-	-	0:27:51.912000	0:27:52.817000
+ist	sein	AUX	-	-	0:27:51.912000	0:27:52.817000
+erst	erst	ADV	-	-	0:27:51.912000	0:27:52.817000
+am	am	ADP	-	-	0:27:51.912000	0:27:52.817000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:52.817000" end="0:27:54.007000">
+am	am	ADP	-	-	0:27:52.817000	0:27:54.007000
+vierten	viert	NOUN	-	-	0:27:52.817000	0:27:54.007000
+am	am	ADP	-	-	0:27:52.817000	0:27:54.007000
+vierten	viert	NOUN	-	-	0:27:52.817000	0:27:54.007000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:52.817000" end="0:27:54.007000">
+vierten	viert	ADJ	-	-	0:27:52.817000	0:27:54.007000
+Dezember	Dezember	NOUN	-	-	0:27:52.817000	0:27:54.007000
+,	-	-	-	-	0:27:52.817000	0:27:54.007000
+nicht	nicht	PART	-	-	0:27:52.817000	0:27:54.007000
+,	-	-	-	-	0:27:52.817000	0:27:54.007000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:54.007000" end="0:27:56.822000">
+ja	ja	ADV	-	-	0:27:54.007000	0:27:56.822000
+aber	aber	ADV	-	-	0:27:54.007000	0:27:56.822000
+aber	aber	ADV	-	-	0:27:54.007000	0:27:56.822000
+ja	ja	ADV	-	-	0:27:54.007000	0:27:56.822000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:54.007000" end="0:27:56.822000">
+normalerweise	normalerweise	ADV	-	-	0:27:54.007000	0:27:56.822000
+alleweile	alleweile	NOUN	-	-	0:27:54.007000	0:27:56.822000
+nachher	nachher	ADV	-	-	0:27:54.007000	0:27:56.822000
+gemacht	machen	VERB	-	-	0:27:54.007000	0:27:56.822000
+,	-	-	-	-	0:27:54.007000	0:27:56.822000
+nicht	nicht	PART	-	-	0:27:54.007000	0:27:56.822000
+,	-	-	-	-	0:27:54.007000	0:27:56.822000
+mhm	mhm	PROPN	-	-	0:27:54.007000	0:27:56.822000
+.	-	-	-	-	0:27:54.007000	0:27:56.822000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:56.822000" end="0:27:59.402000">
+<pause duration="0,8s"/>
+das	der	PRON	-	-	0:27:56.822000	0:27:59.402000
+ist	sein	AUX	-	-	0:27:56.822000	0:27:59.402000
+ein	einen	DET	-	-	0:27:56.822000	0:27:59.402000
+Freitag	Freitag	NOUN	-	-	0:27:56.822000	0:27:59.402000
+der	der	DET	-	-	0:27:56.822000	0:27:59.402000
+erste	erste	ADJ	-	-	0:27:56.822000	0:27:59.402000
+,	-	-	-	-	0:27:56.822000	0:27:59.402000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:27:59.402000" end="0:27:59.897000">
+mhm	mhm	PROPN	-	-	0:27:59.402000	0:27:59.897000
+.	-	-	-	-	0:27:59.402000	0:27:59.897000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:27:59.897000" end="0:28:04.092000">
+jetzt	jetzt	ADV	-	-	0:27:59.897000	0:28:01.802000
+wäre	sein	AUX	-	-	0:27:59.897000	0:28:01.802000
+der	der	DET	-	-	0:27:59.897000	0:28:01.802000
+Samstag	Samstag	NOUN	-	-	0:27:59.897000	0:28:01.802000
+der	der	DET	-	-	0:27:59.897000	0:28:01.802000
+zweite	zweite	ADJ	-	-	0:27:59.897000	0:28:01.802000
+,	-	-	-	-	0:27:59.897000	0:28:01.802000
+Sonntag	Sonntag	NOUN	-	-	0:28:01.802000	0:28:04.092000
+dritte	dritt	VERB	-	-	0:28:01.802000	0:28:04.092000
+,	-	-	-	-	0:28:01.802000	0:28:04.092000
+vierte	vierte	VERB	-	-	0:28:01.802000	0:28:04.092000
+der	der	DET	-	-	0:28:01.802000	0:28:04.092000
+Montag	Montag	NOUN	-	-	0:28:01.802000	0:28:04.092000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:01.802000" end="0:28:04.092000">
+na	na	X	-	-	0:28:01.802000	0:28:04.092000
+ja	ja	ADV	-	-	0:28:01.802000	0:28:04.092000
+mi/	-	-	-	-	0:28:01.802000	0:28:04.092000
+mi/	-	-	-	-	0:28:01.802000	0:28:04.092000
+Mittwoch	Mittwoch	NOUN	-	-	0:28:01.802000	0:28:04.092000
+der	der	DET	-	-	0:28:01.802000	0:28:04.092000
+vierte	vierte	ADJ	-	-	0:28:01.802000	0:28:04.092000
+.	-	-	-	-	0:28:01.802000	0:28:04.092000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:04.092000" end="0:28:06.567000">
+<pause duration="0,5s"/>
+und	und	CCONJ	-	-	0:28:04.092000	0:28:06.567000
+dann	dann	ADV	-	-	0:28:04.092000	0:28:06.567000
+wäre	sein	AUX	-	-	0:28:04.092000	0:28:06.567000
+es	ich	PRON	-	-	0:28:04.092000	0:28:06.567000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:28:04.092000	0:28:06.567000
+zu	zu	PART	-	-	0:28:04.092000	0:28:06.567000
+lange	lang	ADV	-	-	0:28:04.092000	0:28:06.567000
+hin	hin	ADP	-	-	0:28:04.092000	0:28:06.567000
+.	-	-	-	-	0:28:04.092000	0:28:06.567000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:06.567000" end="0:28:08.102000">
+mhm	mhm	PROPN	-	-	0:28:06.567000	0:28:08.102000
+ja	ja	ADV	-	-	0:28:06.567000	0:28:08.102000
+ja	ja	PART	-	-	0:28:06.567000	0:28:08.102000
+.	-	-	-	-	0:28:06.567000	0:28:08.102000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:08.102000" end="0:28:08.717000">
+darum	-	-	-	-	0:28:08.102000	0:28:08.717000
+werden	-	-	-	-	0:28:08.102000	0:28:08.717000
+sie	-	-	-	-	0:28:08.102000	0:28:08.717000
+es	-	-	-	-	0:28:08.102000	0:28:08.717000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:08.102000" end="0:28:08.717000">
+ja	ja	PART	-	-	0:28:08.102000	0:28:08.717000
+.	-	-	-	-	0:28:08.102000	0:28:08.717000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:08.717000" end="0:28:09.982000">
+am	-	-	-	-	0:28:08.717000	0:28:09.982000
+_dings_	-	-	-	-	0:28:08.717000	0:28:09.982000
+machen	-	-	-	-	0:28:08.717000	0:28:09.982000
+.	-	-	-	-	0:28:08.717000	0:28:09.982000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:09.982000" end="0:28:15.112000">
+mhm	mhm	PROPN	-	-	0:28:09.982000	0:28:14.312000
+<pause duration="1,1s"/>
+ja	ja	ADV	-	-	0:28:09.982000	0:28:14.312000
+wird	werden	AUX	-	-	0:28:09.982000	0:28:14.312000
+schon	schon	ADV	-	-	0:28:09.982000	0:28:14.312000
+irgendwas	irgendwas	PRON	-	-	0:28:09.982000	0:28:14.312000
+,	-	-	-	-	0:28:09.982000	0:28:14.312000
+<pause duration="0,5s"/>
+werden	werden	AUX	-	-	0:28:09.982000	0:28:14.312000
+sich	sich	PRON	-	-	0:28:09.982000	0:28:14.312000
+was	was	PRON	-	-	0:28:09.982000	0:28:14.312000
+überlegt	überlegen	VERB	-	-	0:28:09.982000	0:28:14.312000
+haben	haben	AUX	-	-	0:28:09.982000	0:28:14.312000
+dabei	dabei	ADV	-	-	0:28:09.982000	0:28:14.312000
+.	-	-	-	-	0:28:09.982000	0:28:14.312000
+*habe*	-	-	-	-	0:28:14.312000	0:28:15.112000
+mich	-	-	-	-	0:28:14.312000	0:28:15.112000
+auch	-	-	-	-	0:28:14.312000	0:28:15.112000
+gewundert	-	-	-	-	0:28:14.312000	0:28:15.112000
+,	-	-	-	-	0:28:14.312000	0:28:15.112000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:15.112000" end="0:28:15.832000">
+ja	ja	ADV	-	-	0:28:15.112000	0:28:15.832000
+weil	weil	SCONJ	-	-	0:28:15.112000	0:28:15.832000
+die	der	DET	-	-	0:28:15.112000	0:28:15.832000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:15.112000" end="0:28:15.832000">
+so	so	ADV	-	-	0:28:15.112000	0:28:15.832000
+bald	bald	ADV	-	-	0:28:15.112000	0:28:15.832000
+schon	schon	ADV	-	-	0:28:15.112000	0:28:15.832000
+?	-	-	-	-	0:28:15.112000	0:28:15.832000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:15.832000" end="0:28:20.212000">
+Gestecke	Gestecke	NOUN	-	-	0:28:15.832000	0:28:19.627000
+müssen	müssen	VERB	-	-	0:28:15.832000	0:28:19.627000
+auch	auch	ADV	-	-	0:28:15.832000	0:28:19.627000
+,	-	-	-	-	0:28:15.832000	0:28:19.627000
+*weißt*	-	-	-	-	0:28:15.832000	0:28:19.627000
+es	-	-	-	-	0:28:15.832000	0:28:19.627000
+eh	-	-	-	-	0:28:15.832000	0:28:19.627000
+,	-	-	-	-	0:28:15.832000	0:28:19.627000
+<pause duration="1,3s"/>
+die	der	DET	-	-	0:28:15.832000	0:28:19.627000
+Damen	Dame	NOUN	-	-	0:28:15.832000	0:28:19.627000
+,	-	-	-	-	0:28:15.832000	0:28:19.627000
+was	was	PRON	-	-	0:28:19.627000	0:28:20.212000
+da	da	ADV	-	-	0:28:19.627000	0:28:20.212000
+sind	sein	AUX	-	-	0:28:19.627000	0:28:20.212000
+,	-	-	-	-	0:28:19.627000	0:28:20.212000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:19.627000" end="0:28:20.212000">
+mhm	mhm	PROPN	-	-	0:28:19.627000	0:28:20.212000
+.	-	-	-	-	0:28:19.627000	0:28:20.212000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:20.212000" end="0:28:22.397000">
+wieder	wieder	ADV	-	-	0:28:20.212000	0:28:22.397000
+für	für	ADP	-	-	0:28:20.212000	0:28:22.397000
+den	der	DET	-	-	0:28:20.212000	0:28:22.397000
+für	für	ADP	-	-	0:28:20.212000	0:28:22.397000
+den	der	DET	-	-	0:28:20.212000	0:28:22.397000
+Advent	Advent	NOUN	-	-	0:28:20.212000	0:28:22.397000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:22.397000" end="0:28:23.377000">
+ach	ach	X	-	-	0:28:22.397000	0:28:23.377000
+so	so	ADV	-	-	0:28:22.397000	0:28:23.377000
+,	-	-	-	-	0:28:22.397000	0:28:23.377000
+ja	ja	ADV	-	-	0:28:22.397000	0:28:23.377000
+müssen	müssen	VERB	-	-	0:28:22.397000	0:28:23.377000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:23.377000" end="0:28:27.792000">
+ja	ja	ADV	-	-	0:28:23.377000	0:28:27.792000
+die	der	PRON	-	-	0:28:23.377000	0:28:27.792000
+müssen	müssen	VERB	-	-	0:28:23.377000	0:28:27.792000
+früher	früh	ADJ	-	-	0:28:23.377000	0:28:27.792000
+machen	machen	VERB	-	-	0:28:23.377000	0:28:27.792000
+schon	schon	ADV	-	-	0:28:23.377000	0:28:27.792000
+die	der	PRON	-	-	0:28:23.377000	0:28:27.792000
+die	der	DET	-	-	0:28:23.377000	0:28:27.792000
+Gestecke	Gestecke	NOUN	-	-	0:28:23.377000	0:28:27.792000
+,	-	-	-	-	0:28:23.377000	0:28:27.792000
+Tischschmuck	Tischschmuck	NOUN	-	-	0:28:23.377000	0:28:27.792000
+,	-	-	-	-	0:28:23.377000	0:28:27.792000
+*was*	-	-	-	-	0:28:23.377000	0:28:27.792000
+alles	-	-	-	-	0:28:23.377000	0:28:27.792000
+haben	-	-	-	-	0:28:23.377000	0:28:27.792000
+.	-	-	-	-	0:28:23.377000	0:28:27.792000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:23.377000" end="0:28:28.157000">
+(gleich	gleichen	ADV	-	-	0:28:23.377000	0:28:27.792000
+wieder)	wieder	ADV	-	-	0:28:23.377000	0:28:27.792000
+d/	-	-	-	-	0:28:23.377000	0:28:27.792000
+d/	-	-	-	-	0:28:23.377000	0:28:27.792000
+den	der	DET	-	-	0:28:23.377000	0:28:27.792000
+Tischschmuck	Tischschmuck	NOUN	-	-	0:28:23.377000	0:28:27.792000
+praktisch	praktisch	ADJ	-	-	0:28:23.377000	0:28:27.792000
+ja	ja	ADV	-	-	0:28:23.377000	0:28:27.792000
+ja	ja	ADV	-	-	0:28:23.377000	0:28:27.792000
+ist	sein	AUX	-	-	0:28:23.377000	0:28:27.792000
+eh	eh	ADV	-	-	0:28:23.377000	0:28:27.792000
+klar	klaren	ADJ	-	-	0:28:23.377000	0:28:27.792000
+ja	ja	ADV	-	-	0:28:23.377000	0:28:27.792000
+ja	ja	PART	-	-	0:28:23.377000	0:28:27.792000
+.	-	-	-	-	0:28:23.377000	0:28:27.792000
+ja	ja	ADV	-	-	0:28:27.792000	0:28:28.157000
+ja	ja	PART	-	-	0:28:27.792000	0:28:28.157000
+.	-	-	-	-	0:28:27.792000	0:28:28.157000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:28.157000" end="0:28:29.812000">
+na	-	-	-	-	0:28:28.157000	0:28:29.307000
+ja	-	-	-	-	0:28:28.157000	0:28:29.307000
+<pause duration="0,7s"/>
+na	-	-	-	-	0:28:29.307000	0:28:29.812000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:29.307000" end="0:28:29.812000">
+na	na	X	-	-	0:28:29.307000	0:28:29.812000
+ja	ja	PART	-	-	0:28:29.307000	0:28:29.812000
+.	-	-	-	-	0:28:29.307000	0:28:29.812000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:29.812000" end="0:28:36.642000">
+was	-	-	-	-	0:28:29.812000	0:28:31.457000
+*willst*	-	-	-	-	0:28:29.812000	0:28:31.457000
+denn	-	-	-	-	0:28:29.812000	0:28:31.457000
+tun	-	-	-	-	0:28:29.812000	0:28:31.457000
+?	-	-	-	-	0:28:29.812000	0:28:31.457000
+<pause duration="5,2s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:31.457000" end="0:28:36.642000">
+<pause duration="5,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:36.642000" end="0:28:37.142000">
+na	na	X	-	-	0:28:36.642000	0:28:37.142000
+ja	ja	PART	-	-	0:28:36.642000	0:28:37.142000
+.	-	-	-	-	0:28:36.642000	0:28:37.142000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:37.142000" end="0:28:39.692000">
+ja	ja	PART	-	-	0:28:37.142000	0:28:39.692000
+und	und	CCONJ	-	-	0:28:37.142000	0:28:39.692000
+was	was	PRON	-	-	0:28:37.142000	0:28:39.692000
+haben	haben	AUX	-	-	0:28:37.142000	0:28:39.692000
+wir	ich	PRON	-	-	0:28:37.142000	0:28:39.692000
+noch	noch	ADV	-	-	0:28:37.142000	0:28:39.692000
+für	für	ADP	-	-	0:28:37.142000	0:28:39.692000
+Hobbies	Hobbies	NOUN	-	-	0:28:37.142000	0:28:39.692000
+?	-	-	-	-	0:28:37.142000	0:28:39.692000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:39.692000" end="0:28:40.927000">
+_dings_	-	-	-	-	0:28:39.692000	0:28:40.927000
+haben	-	-	-	-	0:28:39.692000	0:28:40.927000
+wir	-	-	-	-	0:28:39.692000	0:28:40.927000
+noch	-	-	-	-	0:28:39.692000	0:28:40.927000
+,	-	-	-	-	0:28:39.692000	0:28:40.927000
+[Franz]N	franzen	PROPN	-	-	0:28:39.692000	0:28:40.927000
+.	-	-	-	-	0:28:39.692000	0:28:40.927000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:40.927000" end="0:28:42.307000">
+Skifahren	Skifahren	NOUN	-	-	0:28:40.927000	0:28:42.307000
+.	-	-	-	-	0:28:40.927000	0:28:42.307000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:42.307000" end="0:28:44.422000">
+Freizeit	Freizeit	NOUN	-	-	0:28:42.307000	0:28:44.422000
+,	-	-	-	-	0:28:42.307000	0:28:44.422000
+Hobby	Hobby	NOUN	-	-	0:28:42.307000	0:28:44.422000
+,	-	-	-	-	0:28:42.307000	0:28:44.422000
+unsere	mein	DET	-	-	0:28:42.307000	0:28:44.422000
+Musik	Musik	NOUN	-	-	0:28:42.307000	0:28:44.422000
+.	-	-	-	-	0:28:42.307000	0:28:44.422000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:44.422000" end="0:28:45.562000">
+ja	ja	PART	-	-	0:28:44.422000	0:28:45.562000
+.	-	-	-	-	0:28:44.422000	0:28:45.562000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:45.562000" end="0:28:46.432000">
+_dings_	-	-	-	-	0:28:45.562000	0:28:46.432000
+haben	-	-	-	-	0:28:45.562000	0:28:46.432000
+wir	-	-	-	-	0:28:45.562000	0:28:46.432000
+noch	-	-	-	-	0:28:45.562000	0:28:46.432000
+,	-	-	-	-	0:28:45.562000	0:28:46.432000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:46.432000" end="0:28:46.972000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:46.972000" end="0:28:47.962000">
+nächstes	nächst	ADJ	-	-	0:28:46.972000	0:28:47.962000
+Jahr	Jahr	NOUN	-	-	0:28:46.972000	0:28:47.962000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:46.972000" end="0:28:48.507000">
+ähm	ähm	X	-	-	0:28:46.972000	0:28:47.962000
+hm	hm	X	-	-	0:28:47.962000	0:28:48.507000
+.	-	-	-	-	0:28:47.962000	0:28:48.507000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:48.507000" end="0:28:53.487000">
+Neueinkleidung	Neueinkleidung	NOUN	-	-	0:28:48.507000	0:28:52.392000
+,	-	-	-	-	0:28:48.507000	0:28:52.392000
+<pause duration="1,4s"/>
+da	-	-	-	-	0:28:48.507000	0:28:52.392000
+*ist*	-	-	-	-	0:28:48.507000	0:28:52.392000
+auch	-	-	-	-	0:28:48.507000	0:28:52.392000
+wieder	-	-	-	-	0:28:48.507000	0:28:52.392000
+so	-	-	-	-	0:28:48.507000	0:28:52.392000
+.	-	-	-	-	0:28:48.507000	0:28:52.392000
+nächstes	nächst	ADJ	-	-	0:28:52.392000	0:28:53.487000
+Jahr	Jahr	NOUN	-	-	0:28:52.392000	0:28:53.487000
+haben	haben	AUX	-	-	0:28:52.392000	0:28:53.487000
+wir	ich	PRON	-	-	0:28:52.392000	0:28:53.487000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:52.392000" end="0:28:53.487000">
+na	na	INTJ	-	-	0:28:52.392000	0:28:53.487000
+eh	eh	X	-	-	0:28:52.392000	0:28:53.487000
+sicher	sichern	ADJ	-	-	0:28:52.392000	0:28:53.487000
+.	-	-	-	-	0:28:52.392000	0:28:53.487000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:53.487000" end="0:28:54.787000">
+neu/	-	-	-	-	0:28:53.487000	0:28:54.787000
+neunzig	neunzig	NUM	-	-	0:28:53.487000	0:28:54.787000
+Jahre	Jahr	NOUN	-	-	0:28:53.487000	0:28:54.787000
+Feier	Feier	NOUN	-	-	0:28:53.487000	0:28:54.787000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:54.787000" end="0:28:55.972000">
+heißt	heißen	VERB	-	-	0:28:54.787000	0:28:55.972000
+es	ich	PRON	-	-	0:28:54.787000	0:28:55.972000
+auch	auch	ADV	-	-	0:28:54.787000	0:28:55.972000
+wieder	wieder	ADV	-	-	0:28:54.787000	0:28:55.972000
+sammeln	sammeln	VERB	-	-	0:28:54.787000	0:28:55.972000
+gehen	gehen	VERB	-	-	0:28:54.787000	0:28:55.972000
+.	-	-	-	-	0:28:54.787000	0:28:55.972000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:55.972000" end="0:28:56.667000">
+für	für	ADP	-	-	0:28:55.972000	0:28:56.667000
+den	der	DET	-	-	0:28:55.972000	0:28:56.667000
+Verein	Verein	NOUN	-	-	0:28:55.972000	0:28:56.667000
+.	-	-	-	-	0:28:55.972000	0:28:56.667000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:56.667000" end="0:28:57.792000">
+na	na	X	-	-	0:28:56.667000	0:28:57.792000
+ja	ja	ADV	-	-	0:28:56.667000	0:28:57.792000
+sicher	sichern	ADJ	-	-	0:28:56.667000	0:28:57.792000
+ja	ja	PART	-	-	0:28:56.667000	0:28:57.792000
+.	-	-	-	-	0:28:56.667000	0:28:57.792000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:28:57.792000" end="0:29:01.385000">
+großes	groß	ADJ	-	-	0:28:57.792000	0:29:01.385000
+Zelt	Zelt	NOUN	-	-	0:28:57.792000	0:29:01.385000
+haben	haben	AUX	-	-	0:28:57.792000	0:29:01.385000
+wir	ich	PRON	-	-	0:28:57.792000	0:29:01.385000
+und	und	CCONJ	-	-	0:28:57.792000	0:29:01.385000
+so	so	ADV	-	-	0:28:57.792000	0:29:01.385000
+,	-	-	-	-	0:28:57.792000	0:29:01.385000
+neue	neue	ADJ	-	-	0:28:57.792000	0:29:01.385000
+Tracht	Tracht	NOUN	-	-	0:28:57.792000	0:29:01.385000
+.	-	-	-	-	0:28:57.792000	0:29:01.385000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:28:57.792000" end="0:29:02.611000">
+neue	neue	ADJ	-	-	0:28:57.792000	0:29:01.385000
+t/	-	-	-	-	0:28:57.792000	0:29:01.385000
+neue	neue	ADJ	-	-	0:28:57.792000	0:29:01.385000
+Tracht	Tracht	NOUN	-	-	0:28:57.792000	0:29:01.385000
+ist	sein	AUX	-	-	0:28:57.792000	0:29:01.385000
+jetzt	jetzt	ADV	-	-	0:28:57.792000	0:29:01.385000
+schon	schon	ADV	-	-	0:28:57.792000	0:29:01.385000
+was	was	PRON	-	-	0:28:57.792000	0:29:01.385000
+entschieden	entscheiden	VERB	-	-	0:28:57.792000	0:29:01.385000
+,	-	-	-	-	0:28:57.792000	0:29:01.385000
+wie	wie	ADV	-	-	0:29:01.385000	0:29:02.611000
+wer	wer	PRON	-	-	0:29:01.385000	0:29:02.611000
+sie	ich	PRON	-	-	0:29:01.385000	0:29:02.611000
+jetzt	jetzt	ADV	-	-	0:29:01.385000	0:29:02.611000
+macht	machen	VERB	-	-	0:29:01.385000	0:29:02.611000
+die	der	DET	-	-	0:29:01.385000	0:29:02.611000
+Tracht	Tracht	NOUN	-	-	0:29:01.385000	0:29:02.611000
+?	-	-	-	-	0:29:01.385000	0:29:02.611000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:02.611000" end="0:29:04.611000">
+nein	nein	PART	-	-	0:29:02.611000	0:29:04.611000
+das	der	PRON	-	-	0:29:02.611000	0:29:04.611000
+ist	sein	AUX	-	-	0:29:02.611000	0:29:04.611000
+noch	noch	ADV	-	-	0:29:02.611000	0:29:04.611000
+nicht	nicht	PART	-	-	0:29:02.611000	0:29:04.611000
+entschieden	entscheiden	VERB	-	-	0:29:02.611000	0:29:04.611000
+,	-	-	-	-	0:29:02.611000	0:29:04.611000
+nein	nein	PART	-	-	0:29:02.611000	0:29:04.611000
+.	-	-	-	-	0:29:02.611000	0:29:04.611000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:02.611000" end="0:29:05.558000">
+weißt	wissen	VERB	-	-	0:29:02.611000	0:29:04.611000
+du	du	PRON	-	-	0:29:02.611000	0:29:04.611000
+(es)	ich	PRON	-	-	0:29:02.611000	0:29:04.611000
+ja	ja	ADV	-	-	0:29:02.611000	0:29:04.611000
+zwei	zwei	NUM	-	-	0:29:04.611000	0:29:05.558000
+Angebote	Angebot	NOUN	-	-	0:29:04.611000	0:29:05.558000
+haben	haben	AUX	-	-	0:29:04.611000	0:29:05.558000
+wir	ich	PRON	-	-	0:29:04.611000	0:29:05.558000
+da	da	ADV	-	-	0:29:04.611000	0:29:05.558000
+,	-	-	-	-	0:29:04.611000	0:29:05.558000
+nicht	nicht	PART	-	-	0:29:04.611000	0:29:05.558000
+?	-	-	-	-	0:29:04.611000	0:29:05.558000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:05.558000" end="0:29:06.625000">
+zwei	zwei	NUM	-	-	0:29:05.558000	0:29:06.625000
+kommen	kommen	VERB	-	-	0:29:05.558000	0:29:06.625000
+ja	ja	ADV	-	-	0:29:05.558000	0:29:06.625000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:05.558000" end="0:29:06.625000">
+ja	ja	ADV	-	-	0:29:05.558000	0:29:06.625000
+ja	ja	PART	-	-	0:29:05.558000	0:29:06.625000
+.	-	-	-	-	0:29:05.558000	0:29:06.625000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:06.625000" end="0:29:06.945000">
+ja	ja	PART	-	-	0:29:06.625000	0:29:06.945000
+.	-	-	-	-	0:29:06.625000	0:29:06.945000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:06.945000" end="0:29:07.918000">
+haben	haben	AUX	-	-	0:29:06.945000	0:29:07.918000
+wir	ich	PRON	-	-	0:29:06.945000	0:29:07.918000
+schon	schon	ADV	-	-	0:29:06.945000	0:29:07.918000
+,	-	-	-	-	0:29:06.945000	0:29:07.918000
+glaube	glauben	VERB	-	-	0:29:06.945000	0:29:07.918000
+ich	ich	PRON	-	-	0:29:06.945000	0:29:07.918000
+,	-	-	-	-	0:29:06.945000	0:29:07.918000
+nicht	nicht	PART	-	-	0:29:06.945000	0:29:07.918000
+?	-	-	-	-	0:29:06.945000	0:29:07.918000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:07.918000" end="0:29:09.451000">
+die	der	PRON	-	-	0:29:07.918000	0:29:08.611000
+sind	sein	AUX	-	-	0:29:07.918000	0:29:08.611000
+schon/	-	-	-	-	0:29:07.918000	0:29:08.611000
+.	-	-	-	-	0:29:07.918000	0:29:08.611000
+ich	ich	PRON	-	-	0:29:08.611000	0:29:09.451000
+weiß	weiß	VERB	-	-	0:29:08.611000	0:29:09.451000
+nicht	nicht	PART	-	-	0:29:08.611000	0:29:09.451000
+,	-	-	-	-	0:29:08.611000	0:29:09.451000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:08.611000" end="0:29:09.451000">
+aber	aber	CCONJ	-	-	0:29:08.611000	0:29:09.451000
+müssen	müssen	VERB	-	-	0:29:08.611000	0:29:09.451000
+wir	ich	PRON	-	-	0:29:08.611000	0:29:09.451000
+erst/	-	-	-	-	0:29:08.611000	0:29:09.451000
+.	-	-	-	-	0:29:08.611000	0:29:09.451000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:09.451000" end="0:29:11.118000">
+ob	ob	SCONJ	-	-	0:29:09.451000	0:29:11.118000
+das	der	DET	-	-	0:29:09.451000	0:29:11.118000
+zweite	zweite	ADJ	-	-	0:29:09.451000	0:29:11.118000
+auch	auch	ADV	-	-	0:29:09.451000	0:29:11.118000
+schon	schon	ADV	-	-	0:29:09.451000	0:29:11.118000
+da	da	ADV	-	-	0:29:09.451000	0:29:11.118000
+ist	sein	AUX	-	-	0:29:09.451000	0:29:11.118000
+,	-	-	-	-	0:29:09.451000	0:29:11.118000
+aber/	-	-	-	-	0:29:09.451000	0:29:11.118000
+.	-	-	-	-	0:29:09.451000	0:29:11.118000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:11.118000" end="0:29:12.518000">
+müssen	müssen	VERB	-	-	0:29:11.118000	0:29:12.518000
+wir	ich	PRON	-	-	0:29:11.118000	0:29:12.518000
+erst	erst	ADV	-	-	0:29:11.118000	0:29:12.518000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:12.518000" end="0:29:14.398000">
+mhm	mhm	PROPN	-	-	0:29:12.518000	0:29:14.398000
+ja	ja	ADV	-	-	0:29:12.518000	0:29:14.398000
+es	ich	PRON	-	-	0:29:12.518000	0:29:14.398000
+ist	sein	AUX	-	-	0:29:12.518000	0:29:14.398000
+ja	ja	ADV	-	-	0:29:12.518000	0:29:14.398000
+ja	ja	ADV	-	-	0:29:12.518000	0:29:14.398000
+.	-	-	-	-	0:29:12.518000	0:29:14.398000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:12.518000" end="0:29:17.678000">
+entscheiden	entscheiden	VERB	-	-	0:29:12.518000	0:29:14.398000
+,	-	-	-	-	0:29:12.518000	0:29:14.398000
+wer	wer	PRON	-	-	0:29:12.518000	0:29:14.398000
+dann	dann	ADV	-	-	0:29:12.518000	0:29:14.398000
+den	der	DET	-	-	0:29:12.518000	0:29:14.398000
+Auftrag	Auftrag	NOUN	-	-	0:29:12.518000	0:29:14.398000
+kriegt	kriegen	VERB	-	-	0:29:12.518000	0:29:14.398000
+,	-	-	-	-	0:29:12.518000	0:29:14.398000
+wer	wer	PRON	-	-	0:29:14.398000	0:29:17.678000
+es	ich	PRON	-	-	0:29:14.398000	0:29:17.678000
+macht	machen	VERB	-	-	0:29:14.398000	0:29:17.678000
+dann	dann	ADV	-	-	0:29:14.398000	0:29:17.678000
+,	-	-	-	-	0:29:14.398000	0:29:17.678000
+nicht	nicht	PART	-	-	0:29:14.398000	0:29:17.678000
+,	-	-	-	-	0:29:14.398000	0:29:17.678000
+mhm	mhm	PROPN	-	-	0:29:14.398000	0:29:17.678000
+.	-	-	-	-	0:29:14.398000	0:29:17.678000
+<pause duration="1,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:17.678000" end="0:29:18.591000">
+ja	ja	ADV	-	-	0:29:17.678000	0:29:18.591000
+(immer)	immer	ADV	-	-	0:29:17.678000	0:29:18.591000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:17.678000" end="0:29:24.398000">
+ja	ja	ADV	-	-	0:29:17.678000	0:29:18.591000
+es	ich	PRON	-	-	0:29:17.678000	0:29:18.591000
+ist	sein	AUX	-	-	0:29:17.678000	0:29:18.591000
+ist	sein	AUX	-	-	0:29:17.678000	0:29:18.591000
+schwer	schwer	ADJ	-	-	0:29:18.591000	0:29:24.398000
+alleweile	alleweile	NOUN	-	-	0:29:18.591000	0:29:24.398000
+,	-	-	-	-	0:29:18.591000	0:29:24.398000
+jeder	jed	PRON	-	-	0:29:18.591000	0:29:24.398000
+natürlich	natürlich	ADV	-	-	0:29:18.591000	0:29:24.398000
+sein	mein	AUX	-	-	0:29:18.591000	0:29:24.398000
+und	und	CCONJ	-	-	0:29:18.591000	0:29:24.398000
+<pause duration="1,0s"/>
+seine	mein	DET	-	-	0:29:18.591000	0:29:24.398000
+Arbeit	Arbeit	NOUN	-	-	0:29:18.591000	0:29:24.398000
+.	-	-	-	-	0:29:18.591000	0:29:24.398000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:24.398000" end="0:29:25.945000">
+ist	sein	AUX	-	-	0:29:24.398000	0:29:25.945000
+eh	eh	ADV	-	-	0:29:24.398000	0:29:25.945000
+nie	nie	ADV	-	-	0:29:24.398000	0:29:25.945000
+ist	sein	AUX	-	-	0:29:24.398000	0:29:25.945000
+nicht	nicht	PART	-	-	0:29:24.398000	0:29:25.945000
+leicht	leicht	ADJ	-	-	0:29:24.398000	0:29:25.945000
+.	-	-	-	-	0:29:24.398000	0:29:25.945000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:25.945000" end="0:29:27.145000">
+mhm	mhm	PROPN	-	-	0:29:25.945000	0:29:27.145000
+.	-	-	-	-	0:29:25.945000	0:29:27.145000
+<pause duration="1,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:27.145000" end="0:29:34.978000">
+ich	ich	PRON	-	-	0:29:27.145000	0:29:30.298000
+weiß	weiß	VERB	-	-	0:29:27.145000	0:29:30.298000
+,	-	-	-	-	0:29:27.145000	0:29:30.298000
+ich	ich	PRON	-	-	0:29:27.145000	0:29:30.298000
+habge	habge	VERB	-	-	0:29:27.145000	0:29:30.298000
+es	ich	PRON	-	-	0:29:27.145000	0:29:30.298000
+gehabt	haben	AUX	-	-	0:29:27.145000	0:29:30.298000
+<pause duration="1,1s"/>
+ziemlich	ziemlich	ADV	-	-	0:29:27.145000	0:29:30.298000
+am	am	ADP	-	-	0:29:27.145000	0:29:30.298000
+Anfang	Anfang	NOUN	-	-	0:29:27.145000	0:29:30.298000
+,	-	-	-	-	0:29:27.145000	0:29:30.298000
+wie	wie	ADV	-	-	0:29:30.298000	0:29:32.465000
+ich	ich	PRON	-	-	0:29:30.298000	0:29:32.465000
+angefangen	anfangen	VERB	-	-	0:29:30.298000	0:29:32.465000
+habe	habe	AUX	-	-	0:29:30.298000	0:29:32.465000
+als	als	ADP	-	-	0:29:30.298000	0:29:32.465000
+Obmann	Obmann	NOUN	-	-	0:29:30.298000	0:29:32.465000
+.	-	-	-	-	0:29:30.298000	0:29:32.465000
+<pause duration="0,7s"/>
+habe	habe	AUX	-	-	0:29:32.465000	0:29:33.965000
+ich	ich	PRON	-	-	0:29:32.465000	0:29:33.965000
+das	der	PRON	-	-	0:29:32.465000	0:29:33.965000
+gekriegt	kriegen	VERB	-	-	0:29:32.465000	0:29:33.965000
+mit	mit	ADP	-	-	0:29:32.465000	0:29:33.965000
+der	der	DET	-	-	0:29:32.465000	0:29:33.965000
+mit	mit	ADP	-	-	0:29:33.965000	0:29:34.978000
+der	der	DET	-	-	0:29:33.965000	0:29:34.978000
+Tracht	Tracht	NOUN	-	-	0:29:33.965000	0:29:34.978000
+,	-	-	-	-	0:29:33.965000	0:29:34.978000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:33.965000" end="0:29:35.471000">
+mit	mit	ADP	-	-	0:29:33.965000	0:29:34.978000
+der	der	DET	-	-	0:29:33.965000	0:29:34.978000
+Tracht	Tracht	NOUN	-	-	0:29:33.965000	0:29:34.978000
+gleich	gleichen	ADV	-	-	0:29:34.978000	0:29:35.471000
+ja	ja	ADV	-	-	0:29:34.978000	0:29:35.471000
+.	-	-	-	-	0:29:34.978000	0:29:35.471000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:35.471000" end="0:29:37.231000">
+dann	dann	ADV	-	-	0:29:35.471000	0:29:37.231000
+<pause duration="0,5s"/>
+(die	der	DET	-	-	0:29:35.471000	0:29:37.231000
+Mäntel)	Mantel	NOUN	-	-	0:29:35.471000	0:29:37.231000
+dazu	dazu	ADV	-	-	0:29:35.471000	0:29:37.231000
+.	-	-	-	-	0:29:35.471000	0:29:37.231000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:37.231000" end="0:29:38.485000">
+ja	ja	ADV	-	-	0:29:37.231000	0:29:38.485000
+das	der	PRON	-	-	0:29:37.231000	0:29:38.485000
+ist	sein	AUX	-	-	0:29:37.231000	0:29:38.485000
+zwanzig	zwanzig	NUM	-	-	0:29:37.231000	0:29:38.485000
+Jahre	Jahr	NOUN	-	-	0:29:37.231000	0:29:38.485000
+aus	aus	ADP	-	-	0:29:37.231000	0:29:38.485000
+,	-	-	-	-	0:29:37.231000	0:29:38.485000
+das	der	PRON	-	-	0:29:37.231000	0:29:38.485000
+war	sein	AUX	-	-	0:29:37.231000	0:29:38.485000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:38.485000" end="0:29:39.078000">
+ja	-	-	-	-	0:29:38.485000	0:29:39.078000
+ja	-	-	-	-	0:29:38.485000	0:29:39.078000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:38.485000" end="0:29:39.078000">
+neunzehn	neunzehn	NUM	-	-	0:29:38.485000	0:29:39.078000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:39.078000" end="0:29:39.471000">
+ja	-	-	-	-	0:29:39.078000	0:29:39.471000
+ja	-	-	-	-	0:29:39.078000	0:29:39.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:39.471000" end="0:29:39.885000">
+ähm	ähm	NOUN	-	-	0:29:39.471000	0:29:39.885000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:39.885000" end="0:29:41.171000">
+*ist*	-	-	-	-	0:29:39.885000	0:29:41.171000
+schon	-	-	-	-	0:29:39.885000	0:29:41.171000
+wieder	-	-	-	-	0:29:39.885000	0:29:41.171000
+länger	-	-	-	-	0:29:39.885000	0:29:41.171000
+aus	-	-	-	-	0:29:39.885000	0:29:41.171000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:39.885000" end="0:29:41.751000">
+siebenundneunzig	siebenundneunzig	ADJ	-	-	0:29:39.885000	0:29:41.171000
+war	sein	AUX	-	-	0:29:39.885000	0:29:41.171000
+das	der	PRON	-	-	0:29:39.885000	0:29:41.171000
+,	-	-	-	-	0:29:39.885000	0:29:41.171000
+nicht	nicht	PART	-	-	0:29:39.885000	0:29:41.171000
+?	-	-	-	-	0:29:39.885000	0:29:41.171000
+ja	ja	ADV	-	-	0:29:41.171000	0:29:41.751000
+ja	ja	ADV	-	-	0:29:41.171000	0:29:41.751000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:41.751000" end="0:29:42.611000">
+fünfundzwanzig	-	-	-	-	0:29:41.751000	0:29:42.611000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:41.751000" end="0:29:42.611000">
+ja	ja	ADV	-	-	0:29:41.751000	0:29:42.611000
+ja	ja	PART	-	-	0:29:41.751000	0:29:42.611000
+.	-	-	-	-	0:29:41.751000	0:29:42.611000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:42.611000" end="0:29:43.531000">
+meine	-	-	-	-	0:29:42.611000	0:29:43.531000
+ich	-	-	-	-	0:29:42.611000	0:29:43.531000
+,	-	-	-	-	0:29:42.611000	0:29:43.531000
+*ist*	-	-	-	-	0:29:42.611000	0:29:43.531000
+schon	-	-	-	-	0:29:42.611000	0:29:43.531000
+aus	-	-	-	-	0:29:42.611000	0:29:43.531000
+.	-	-	-	-	0:29:42.611000	0:29:43.531000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:42.611000" end="0:29:48.738000">
+fünfundzwa/	-	-	-	-	0:29:42.611000	0:29:43.531000
+.	-	-	-	-	0:29:42.611000	0:29:43.531000
+na	na	X	-	-	0:29:43.531000	0:29:45.351000
+ja	ja	ADV	-	-	0:29:43.531000	0:29:45.351000
+siebenundneunzig	siebenundneunzig	ADJ	-	-	0:29:43.531000	0:29:45.351000
+hat	haben	AUX	-	-	0:29:43.531000	0:29:45.351000
+der	der	DET	-	-	0:29:43.531000	0:29:45.351000
+[Christian]N	Christian	NOUN	-	-	0:29:43.531000	0:29:45.351000
+gesagt	sagen	VERB	-	-	0:29:43.531000	0:29:45.351000
+,	-	-	-	-	0:29:43.531000	0:29:45.351000
+sind	sein	AUX	-	-	0:29:45.351000	0:29:48.738000
+wir	ich	PRON	-	-	0:29:45.351000	0:29:48.738000
+eintra/	-	-	-	-	0:29:45.351000	0:29:48.738000
+eingekleidet	einkleiden	VERB	-	-	0:29:45.351000	0:29:48.738000
+worden	werden	AUX	-	-	0:29:45.351000	0:29:48.738000
+<pause duration="0,5s"/>
+die	der	DET	-	-	0:29:45.351000	0:29:48.738000
+letzte	letzte	ADJ	-	-	0:29:45.351000	0:29:48.738000
+Tracht	Tracht	NOUN	-	-	0:29:45.351000	0:29:48.738000
+.	-	-	-	-	0:29:45.351000	0:29:48.738000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:48.738000" end="0:29:49.198000">
+ja	ja	PART	-	-	0:29:48.738000	0:29:49.198000
+.	-	-	-	-	0:29:48.738000	0:29:49.198000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:49.198000" end="0:29:50.165000">
+siebenundneunzig	-	-	-	-	0:29:49.198000	0:29:50.165000
+(gewe/.)	-	-	-	-	0:29:49.198000	0:29:50.165000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:50.165000" end="0:29:50.945000">
+na	na	X	-	-	0:29:50.165000	0:29:50.945000
+ja	ja	ADV	-	-	0:29:50.165000	0:29:50.945000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:50.165000" end="0:29:50.945000">
+genau	-	-	-	-	0:29:50.165000	0:29:50.945000
+zwanzig	-	-	-	-	0:29:50.165000	0:29:50.945000
+Jahre	-	-	-	-	0:29:50.165000	0:29:50.945000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:29:50.945000" end="0:29:51.831000">
+da	da	ADV	-	-	0:29:50.945000	0:29:51.831000
+war	sein	AUX	-	-	0:29:50.945000	0:29:51.831000
+sieb/	-	-	-	-	0:29:50.945000	0:29:51.831000
+ja	ja	ADV	-	-	0:29:50.945000	0:29:51.831000
+ja	ja	PART	-	-	0:29:50.945000	0:29:51.831000
+.	-	-	-	-	0:29:50.945000	0:29:51.831000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:29:51.831000" end="0:30:01.118000">
+mhm	-	-	-	-	0:29:51.831000	0:29:57.685000
+mhm	-	-	-	-	0:29:51.831000	0:29:57.685000
+<pause duration="2,0s"/>
+ja	-	-	-	-	0:29:51.831000	0:29:57.685000
+<pause duration="0,9s"/>
+ja	-	-	-	-	0:29:51.831000	0:29:57.685000
+es	-	-	-	-	0:29:51.831000	0:29:57.685000
+ist	-	-	-	-	0:29:51.831000	0:29:57.685000
+eh	-	-	-	-	0:29:51.831000	0:29:57.685000
+,	-	-	-	-	0:29:51.831000	0:29:57.685000
+ich	ich	PRON	-	-	0:29:51.831000	0:29:57.685000
+meine	meinen	VERB	-	-	0:29:51.831000	0:29:57.685000
+,	-	-	-	-	0:29:51.831000	0:29:57.685000
+wenn	wenn	SCONJ	-	-	0:29:57.685000	0:29:58.778000
+ich	ich	PRON	-	-	0:29:57.685000	0:29:58.778000
+meine	meinen	DET	-	-	0:29:57.685000	0:29:58.778000
+Tracht	Tracht	NOUN	-	-	0:29:57.685000	0:29:58.778000
+anschaue	anschauen	VERB	-	-	0:29:57.685000	0:29:58.778000
+,	-	-	-	-	0:29:57.685000	0:29:58.778000
+die	der	PRON	-	-	0:29:58.778000	0:30:00.091000
+könnte	können	VERB	-	-	0:29:58.778000	0:30:00.091000
+ich	ich	PRON	-	-	0:29:58.778000	0:30:00.091000
+ohne	ohne	ADP	-	-	0:29:58.778000	0:30:00.091000
+weiteres	weit	PRON	-	-	0:29:58.778000	0:30:00.091000
+noch	noch	ADV	-	-	0:29:58.778000	0:30:00.091000
+anziehen	anziehen	VERB	-	-	0:29:58.778000	0:30:00.091000
+.	-	-	-	-	0:29:58.778000	0:30:00.091000
+ich	ich	PRON	-	-	0:30:00.091000	0:30:01.118000
+bräuchte	bräuchte	VERB	-	-	0:30:00.091000	0:30:01.118000
+keine	kein	DET	-	-	0:30:00.091000	0:30:01.118000
+neue	neue	ADJ	-	-	0:30:00.091000	0:30:01.118000
+,	-	-	-	-	0:30:00.091000	0:30:01.118000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:01.118000" end="0:30:01.938000">
+meine	meinen	DET	-	-	0:30:01.118000	0:30:01.938000
+auch	auch	ADV	-	-	0:30:01.118000	0:30:01.938000
+.	-	-	-	-	0:30:01.118000	0:30:01.938000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:01.118000" end="0:30:03.371000">
+muss	muss	VERB	-	-	0:30:01.118000	0:30:01.938000
+ich	ich	PRON	-	-	0:30:01.118000	0:30:01.938000
+ehrlich	ehrlich	ADJ	-	-	0:30:01.118000	0:30:01.938000
+sagen	sagen	VERB	-	-	0:30:01.118000	0:30:01.938000
+.	-	-	-	-	0:30:01.118000	0:30:01.938000
+ja	ja	ADV	-	-	0:30:01.938000	0:30:03.371000
+die	der	PRON	-	-	0:30:01.938000	0:30:03.371000
+ist	sein	AUX	-	-	0:30:01.938000	0:30:03.371000
+so	so	ADV	-	-	0:30:01.938000	0:30:03.371000
+super	super	PROPN	-	-	0:30:01.938000	0:30:03.371000
+.	-	-	-	-	0:30:01.938000	0:30:03.371000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:03.371000" end="0:30:05.918000">
+aber	aber	CCONJ	-	-	0:30:03.371000	0:30:05.918000
+ob	ob	SCONJ	-	-	0:30:03.371000	0:30:05.918000
+es	ich	PRON	-	-	0:30:03.371000	0:30:05.918000
+halt	halt	ADV	-	-	0:30:03.371000	0:30:05.918000
+dazu	dazu	ADV	-	-	0:30:03.371000	0:30:05.918000
+passt	passt	PROPN	-	-	0:30:03.371000	0:30:05.918000
+,	-	-	-	-	0:30:03.371000	0:30:05.918000
+gell	gell	ADJ	-	-	0:30:03.371000	0:30:05.918000
+,	-	-	-	-	0:30:03.371000	0:30:05.918000
+wieder	wieder	ADV	-	-	0:30:03.371000	0:30:05.918000
+,	-	-	-	-	0:30:03.371000	0:30:05.918000
+um	um	SCONJ	-	-	0:30:03.371000	0:30:05.918000
+das	der	PRON	-	-	0:30:03.371000	0:30:05.918000
+geht	gehen	VERB	-	-	0:30:03.371000	0:30:05.918000
+es	ich	PRON	-	-	0:30:03.371000	0:30:05.918000
+.	-	-	-	-	0:30:03.371000	0:30:05.918000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:03.371000" end="0:30:09.118000">
+ähm	ähm	X	-	-	0:30:03.371000	0:30:05.918000
+aber	aber	ADV	-	-	0:30:03.371000	0:30:05.918000
+es	ich	PRON	-	-	0:30:03.371000	0:30:05.918000
+weil	weil	SCONJ	-	-	0:30:03.371000	0:30:05.918000
+wir	ich	PRON	-	-	0:30:03.371000	0:30:05.918000
+die	der	DET	-	-	0:30:03.371000	0:30:05.918000
+verschiedensten	verschieden	VERB	-	-	0:30:05.918000	0:30:09.118000
+hab/	-	-	-	-	0:30:05.918000	0:30:09.118000
+die	der	DET	-	-	0:30:05.918000	0:30:09.118000
+Jungen	Junge	NOUN	-	-	0:30:05.918000	0:30:09.118000
+haben	haben	AUX	-	-	0:30:05.918000	0:30:09.118000
+alle	all	PRON	-	-	0:30:05.918000	0:30:09.118000
+noch	noch	ADV	-	-	0:30:05.918000	0:30:09.118000
+was	was	PRON	-	-	0:30:05.918000	0:30:09.118000
+(altig)	altig	ADJ	-	-	0:30:05.918000	0:30:09.118000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:09.118000" end="0:30:09.471000">
+ja	ja	ADV	-	-	0:30:09.118000	0:30:09.471000
+ja	ja	PART	-	-	0:30:09.118000	0:30:09.471000
+.	-	-	-	-	0:30:09.118000	0:30:09.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:09.471000" end="0:30:11.185000">
+eingekleidet	einkleiden	VERB	-	-	0:30:09.471000	0:30:11.185000
+worden	werden	AUX	-	-	0:30:09.471000	0:30:11.185000
+von	von	ADP	-	-	0:30:09.471000	0:30:11.185000
+die	der	DET	-	-	0:30:09.471000	0:30:11.185000
+von	von	ADP	-	-	0:30:09.471000	0:30:11.185000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:11.185000" end="0:30:13.185000">
+also	also	ADV	-	-	0:30:11.185000	0:30:13.185000
+eine	einen	DET	-	-	0:30:11.185000	0:30:13.185000
+Hose	Hose	NOUN	-	-	0:30:11.185000	0:30:13.185000
+,	-	-	-	-	0:30:11.185000	0:30:13.185000
+meine	meinen	DET	-	-	0:30:11.185000	0:30:13.185000
+Hose	Hose	NOUN	-	-	0:30:11.185000	0:30:13.185000
+ist	sein	AUX	-	-	0:30:11.185000	0:30:13.185000
+auch	auch	ADV	-	-	0:30:11.185000	0:30:13.185000
+schon/	-	-	-	-	0:30:11.185000	0:30:13.185000
+.	-	-	-	-	0:30:11.185000	0:30:13.185000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:11.185000" end="0:30:14.885000">
+noch	noch	ADV	-	-	0:30:11.185000	0:30:13.185000
+was	was	PRON	-	-	0:30:11.185000	0:30:13.185000
+Älteres	Älteres	NOUN	-	-	0:30:11.185000	0:30:13.185000
+.	-	-	-	-	0:30:11.185000	0:30:13.185000
+<pause duration="0,7s"/>
+ja	ja	ADV	-	-	0:30:13.185000	0:30:14.885000
+eine	einen	DET	-	-	0:30:13.185000	0:30:14.885000
+Hose	Hose	NOUN	-	-	0:30:13.185000	0:30:14.885000
+ist	sein	AUX	-	-	0:30:13.185000	0:30:14.885000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:14.885000" end="0:30:15.731000">
+das	der	DET	-	-	0:30:14.885000	0:30:15.731000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:14.885000" end="0:30:15.731000">
+das	der	DET	-	-	0:30:14.885000	0:30:15.731000
+(wenige)	wenig	PRON	-	-	0:30:14.885000	0:30:15.731000
+,	-	-	-	-	0:30:14.885000	0:30:15.731000
+aber	aber	CCONJ	-	-	0:30:14.885000	0:30:15.731000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:15.731000" end="0:30:18.165000">
+das	der	PRON	-	-	0:30:15.731000	0:30:18.165000
+ja	ja	ADV	-	-	0:30:15.731000	0:30:18.165000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:15.731000" end="0:30:18.165000">
+es	ich	PRON	-	-	0:30:15.731000	0:30:18.165000
+ist	sein	AUX	-	-	0:30:15.731000	0:30:18.165000
+halt	halt	ADV	-	-	0:30:15.731000	0:30:18.165000
+das	der	DET	-	-	0:30:15.731000	0:30:18.165000
+Leibel	Leibel	NOUN	-	-	0:30:15.731000	0:30:18.165000
+und	und	CCONJ	-	-	0:30:15.731000	0:30:18.165000
+der	der	DET	-	-	0:30:15.731000	0:30:18.165000
+Rock	Rock	NOUN	-	-	0:30:15.731000	0:30:18.165000
+,	-	-	-	-	0:30:15.731000	0:30:18.165000
+ähm	ähm	X	-	-	0:30:15.731000	0:30:18.165000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:18.165000" end="0:30:21.158000">
+und	und	CCONJ	-	-	0:30:18.165000	0:30:21.158000
+das	der	DET	-	-	0:30:18.165000	0:30:21.158000
+Leibel	Leibel	NOUN	-	-	0:30:18.165000	0:30:21.158000
+ja	ja	ADV	-	-	0:30:18.165000	0:30:21.158000
+das	der	PRON	-	-	0:30:18.165000	0:30:21.158000
+gehörte	gehören	VERB	-	-	0:30:18.165000	0:30:21.158000
+eh	eh	ADV	-	-	0:30:18.165000	0:30:21.158000
+auch	auch	ADV	-	-	0:30:18.165000	0:30:21.158000
+das	der	PRON	-	-	0:30:18.165000	0:30:21.158000
+gehört	hören	VERB	-	-	0:30:18.165000	0:30:21.158000
+auch	auch	ADV	-	-	0:30:18.165000	0:30:21.158000
+mal	mal	ADV	-	-	0:30:18.165000	0:30:21.158000
+,	-	-	-	-	0:30:18.165000	0:30:21.158000
+aber	aber	CCONJ	-	-	0:30:18.165000	0:30:21.158000
+der	der	DET	-	-	0:30:18.165000	0:30:21.158000
+Rock	Rock	NOUN	-	-	0:30:18.165000	0:30:21.158000
+,	-	-	-	-	0:30:18.165000	0:30:21.158000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:18.165000" end="0:30:21.158000">
+ja	ja	ADV	-	-	0:30:18.165000	0:30:21.158000
+ja	ja	ADV	-	-	0:30:18.165000	0:30:21.158000
+Leibel	Leibel	NOUN	-	-	0:30:18.165000	0:30:21.158000
+gehört	hören	VERB	-	-	0:30:18.165000	0:30:21.158000
+auch	auch	ADV	-	-	0:30:18.165000	0:30:21.158000
+neu	neu	ADJ	-	-	0:30:18.165000	0:30:21.158000
+gemacht	machen	VERB	-	-	0:30:18.165000	0:30:21.158000
+,	-	-	-	-	0:30:18.165000	0:30:21.158000
+ja	ja	PART	-	-	0:30:18.165000	0:30:21.158000
+.	-	-	-	-	0:30:18.165000	0:30:21.158000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:21.158000" end="0:30:22.931000">
+meiner	sich	DET	-	-	0:30:21.158000	0:30:22.931000
+ist	sein	AUX	-	-	0:30:21.158000	0:30:22.931000
+(noch)	noch	ADV	-	-	0:30:21.158000	0:30:22.931000
+einwandfrei	einwandfrei	ADJ	-	-	0:30:21.158000	0:30:22.931000
+.	-	-	-	-	0:30:21.158000	0:30:22.931000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:21.158000" end="0:30:25.958000">
+meiner	sich	DET	-	-	0:30:21.158000	0:30:22.931000
+auch	auch	ADV	-	-	0:30:21.158000	0:30:22.931000
+.	-	-	-	-	0:30:21.158000	0:30:22.931000
+<pause duration="0,8s"/>
+Problem	Problem	NOUN	-	-	0:30:22.931000	0:30:25.958000
+das	der	DET	-	-	0:30:22.931000	0:30:25.958000
+größte	groß	ADJ	-	-	0:30:22.931000	0:30:25.958000
+Problem	Problem	NOUN	-	-	0:30:22.931000	0:30:25.958000
+sind	sein	AUX	-	-	0:30:22.931000	0:30:25.958000
+die	der	DET	-	-	0:30:22.931000	0:30:25.958000
+Hüte	Hut	NOUN	-	-	0:30:22.931000	0:30:25.958000
+.	-	-	-	-	0:30:22.931000	0:30:25.958000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:25.958000" end="0:30:26.645000">
+hm	hm	X	-	-	0:30:25.958000	0:30:26.645000
+?	-	-	-	-	0:30:25.958000	0:30:26.645000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:26.645000" end="0:30:29.771000">
+unsere	mein	DET	-	-	0:30:26.645000	0:30:29.771000
+Hüte	Hut	NOUN	-	-	0:30:26.645000	0:30:29.771000
+sind	sein	AUX	-	-	0:30:26.645000	0:30:29.771000
+das	der	DET	-	-	0:30:26.645000	0:30:29.771000
+ärgste	ärgste	ADJ	-	-	0:30:26.645000	0:30:29.771000
+Problem	Problem	NOUN	-	-	0:30:26.645000	0:30:29.771000
+.	-	-	-	-	0:30:26.645000	0:30:29.771000
+<pause duration="1,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:29.771000" end="0:30:30.838000">
+ja	ja	ADV	-	-	0:30:29.771000	0:30:30.838000
+ja	ja	PART	-	-	0:30:29.771000	0:30:30.838000
+.	-	-	-	-	0:30:29.771000	0:30:30.838000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:29.771000" end="0:30:33.771000">
+das	der	PRON	-	-	0:30:29.771000	0:30:30.838000
+ist	sein	AUX	-	-	0:30:29.771000	0:30:30.838000
+nicht	nicht	PART	-	-	0:30:29.771000	0:30:30.838000
+wenn	wenn	SCONJ	-	-	0:30:29.771000	0:30:30.838000
+das/	-	-	-	-	0:30:29.771000	0:30:30.838000
+.	-	-	-	-	0:30:29.771000	0:30:30.838000
+dass	dass	SCONJ	-	-	0:30:30.838000	0:30:32.131000
+man	man	PRON	-	-	0:30:30.838000	0:30:32.131000
+da	da	ADV	-	-	0:30:30.838000	0:30:32.131000
+nichts	nichts	PRON	-	-	0:30:30.838000	0:30:32.131000
+gescheites	gescheit	NOUN	-	-	0:30:30.838000	0:30:32.131000
+kriegt	kriegen	VERB	-	-	0:30:30.838000	0:30:32.131000
+,	-	-	-	-	0:30:30.838000	0:30:32.131000
+das	der	PRON	-	-	0:30:32.131000	0:30:33.771000
+verstehe	verstehen	VERB	-	-	0:30:32.131000	0:30:33.771000
+ich	ich	PRON	-	-	0:30:32.131000	0:30:33.771000
+nicht	nicht	PART	-	-	0:30:32.131000	0:30:33.771000
+.	-	-	-	-	0:30:32.131000	0:30:33.771000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:33.771000" end="0:30:37.411000">
+aber	aber	CCONJ	-	-	0:30:33.771000	0:30:35.858000
+nur	nur	ADV	-	-	0:30:33.771000	0:30:35.858000
+so	so	ADV	-	-	0:30:33.771000	0:30:35.858000
+ich	ich	PRON	-	-	0:30:33.771000	0:30:35.858000
+habe	habe	AUX	-	-	0:30:33.771000	0:30:35.858000
+m/	-	-	-	-	0:30:33.771000	0:30:35.858000
+ich	ich	PRON	-	-	0:30:33.771000	0:30:35.858000
+habe	habe	AUX	-	-	0:30:33.771000	0:30:35.858000
+zwei	zwei	NUM	-	-	0:30:33.771000	0:30:35.858000
+Hüte	Hut	NOUN	-	-	0:30:33.771000	0:30:35.858000
+und	und	CCONJ	-	-	0:30:35.858000	0:30:37.411000
+die	der	PRON	-	-	0:30:35.858000	0:30:37.411000
+sind	sein	AUX	-	-	0:30:35.858000	0:30:37.411000
+alle	all	PRON	-	-	0:30:35.858000	0:30:37.411000
+noch	noch	ADV	-	-	0:30:35.858000	0:30:37.411000
+schön	schön	ADJ	-	-	0:30:35.858000	0:30:37.411000
+.	-	-	-	-	0:30:35.858000	0:30:37.411000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:37.411000" end="0:30:45.878000">
+ja	ja	PART	-	-	0:30:37.411000	0:30:41.671000
+ich	ich	PRON	-	-	0:30:37.411000	0:30:41.671000
+auch	auch	ADV	-	-	0:30:37.411000	0:30:41.671000
+,	-	-	-	-	0:30:37.411000	0:30:41.671000
+ich	ich	PRON	-	-	0:30:37.411000	0:30:41.671000
+habe	habe	AUX	-	-	0:30:37.411000	0:30:41.671000
+mit	mit	ADP	-	-	0:30:37.411000	0:30:41.671000
+de/	-	-	-	-	0:30:37.411000	0:30:41.671000
+ich	ich	PRON	-	-	0:30:37.411000	0:30:41.671000
+habe	habe	AUX	-	-	0:30:37.411000	0:30:41.671000
+meiner	sich	DET	-	-	0:30:37.411000	0:30:41.671000
+einmal	einmal	ADV	-	-	0:30:37.411000	0:30:41.671000
+ich	ich	PRON	-	-	0:30:37.411000	0:30:41.671000
+habe	habe	AUX	-	-	0:30:37.411000	0:30:41.671000
+(ihn)	ich	PRON	-	-	0:30:37.411000	0:30:41.671000
+hinaufgebracht	hinaufgebracht	ADJ	-	-	0:30:37.411000	0:30:41.671000
+nach	nach	ADP	-	-	0:30:37.411000	0:30:41.671000
+nach	nach	ADP	-	-	0:30:37.411000	0:30:41.671000
+Bad	Bad	PROPN	-	-	0:30:37.411000	0:30:41.671000
+Ischl	Ischl	PROPN	-	-	0:30:37.411000	0:30:41.671000
+,	-	-	-	-	0:30:37.411000	0:30:41.671000
+zur	zur	ADP	-	-	0:30:41.671000	0:30:44.545000
+wie	wie	ADV	-	-	0:30:41.671000	0:30:44.545000
+heißt	heißen	VERB	-	-	0:30:41.671000	0:30:44.545000
+er	ich	PRON	-	-	0:30:41.671000	0:30:44.545000
+,	-	-	-	-	0:30:41.671000	0:30:44.545000
+der/	-	-	-	-	0:30:41.671000	0:30:44.545000
+.	-	-	-	-	0:30:41.671000	0:30:44.545000
+<pause duration="1,6s"/>
+fällt	fällen	VERB	-	-	0:30:44.545000	0:30:45.878000
+mir	sich	PRON	-	-	0:30:44.545000	0:30:45.878000
+nicht	nicht	PART	-	-	0:30:44.545000	0:30:45.878000
+ein	einen	ADP	-	-	0:30:44.545000	0:30:45.878000
+,	-	-	-	-	0:30:44.545000	0:30:45.878000
+wie	wie	ADV	-	-	0:30:44.545000	0:30:45.878000
+er	ich	PRON	-	-	0:30:44.545000	0:30:45.878000
+heißt	heißen	VERB	-	-	0:30:44.545000	0:30:45.878000
+.	-	-	-	-	0:30:44.545000	0:30:45.878000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:45.878000" end="0:30:46.651000">
+hm	hm	X	-	-	0:30:45.878000	0:30:46.651000
+.	-	-	-	-	0:30:45.878000	0:30:46.651000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:46.651000" end="0:30:47.945000">
+habe	habe	AUX	-	-	0:30:46.651000	0:30:47.945000
+ihn	ich	PRON	-	-	0:30:46.651000	0:30:47.945000
+mal	mal	ADV	-	-	0:30:46.651000	0:30:47.945000
+richten	richten	VERB	-	-	0:30:46.651000	0:30:47.945000
+lassen	lassen	VERB	-	-	0:30:46.651000	0:30:47.945000
+,	-	-	-	-	0:30:46.651000	0:30:47.945000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:47.945000" end="0:30:48.511000">
+ja	ja	PART	-	-	0:30:47.945000	0:30:48.511000
+.	-	-	-	-	0:30:47.945000	0:30:48.511000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:48.511000" end="0:30:49.885000">
+das	der	PRON	-	-	0:30:48.511000	0:30:49.885000
+hat	haben	AUX	-	-	0:30:48.511000	0:30:49.885000
+,	-	-	-	-	0:30:48.511000	0:30:49.885000
+meine	meinen	DET	-	-	0:30:48.511000	0:30:49.885000
+ich	ich	PRON	-	-	0:30:48.511000	0:30:49.885000
+,	-	-	-	-	0:30:48.511000	0:30:49.885000
+dreißig	dreißig	NUM	-	-	0:30:48.511000	0:30:49.885000
+oder	oder	CCONJ	-	-	0:30:48.511000	0:30:49.885000
+vierzig	vierzig	NUM	-	-	0:30:48.511000	0:30:49.885000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:49.885000" end="0:30:51.218000">
+der	der	DET	-	-	0:30:49.885000	0:30:51.218000
+Hutmacher	Hutmacher	NOUN	-	-	0:30:49.885000	0:30:51.218000
+ja	ja	ADV	-	-	0:30:49.885000	0:30:51.218000
+.	-	-	-	-	0:30:49.885000	0:30:51.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:49.885000" end="0:30:58.965000">
+Euro	Euro	NOUN	-	-	0:30:49.885000	0:30:51.218000
+gekostet	kosten	VERB	-	-	0:30:49.885000	0:30:51.218000
+und	und	CCONJ	-	-	0:30:51.218000	0:30:54.158000
+jetzt	jetzt	ADV	-	-	0:30:51.218000	0:30:54.158000
+ist	sein	AUX	-	-	0:30:51.218000	0:30:54.158000
+er	ich	PRON	-	-	0:30:51.218000	0:30:54.158000
+aber	aber	ADV	-	-	0:30:51.218000	0:30:54.158000
+wirklich	wirklich	ADJ	-	-	0:30:51.218000	0:30:54.158000
+super	super	NOUN	-	-	0:30:51.218000	0:30:54.158000
+in	in	ADP	-	-	0:30:51.218000	0:30:54.158000
+Ordnung	Ordnung	NOUN	-	-	0:30:51.218000	0:30:54.158000
+.	-	-	-	-	0:30:51.218000	0:30:54.158000
+dann	dann	ADV	-	-	0:30:54.158000	0:30:58.965000
+hat	haben	AUX	-	-	0:30:54.158000	0:30:58.965000
+er	ich	PRON	-	-	0:30:54.158000	0:30:58.965000
+mir	sich	PRON	-	-	0:30:54.158000	0:30:58.965000
+direkt	direkt	ADJ	-	-	0:30:54.158000	0:30:58.965000
+ein	einen	DET	-	-	0:30:54.158000	0:30:58.965000
+so	so	ADV	-	-	0:30:54.158000	0:30:58.965000
+ein	einen	DET	-	-	0:30:54.158000	0:30:58.965000
+ähm	ähm	NOUN	-	-	0:30:54.158000	0:30:58.965000
+ein	einen	DET	-	-	0:30:54.158000	0:30:58.965000
+Teil	Teil	NOUN	-	-	0:30:54.158000	0:30:58.965000
+gegeben	geben	VERB	-	-	0:30:54.158000	0:30:58.965000
+,	-	-	-	-	0:30:54.158000	0:30:58.965000
+ein	einen	DET	-	-	0:30:54.158000	0:30:58.965000
+so	so	ADV	-	-	0:30:54.158000	0:30:58.965000
+ein	einen	DET	-	-	0:30:54.158000	0:30:58.965000
+Schaumstoffteil	Schaumstoffteil	NOUN	-	-	0:30:54.158000	0:30:58.965000
+,	-	-	-	-	0:30:54.158000	0:30:58.965000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:30:58.965000" end="0:30:59.671000">
+mhm	mhm	PROPN	-	-	0:30:58.965000	0:30:59.671000
+.	-	-	-	-	0:30:58.965000	0:30:59.671000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:30:59.671000" end="0:31:08.531000">
+da	-	-	-	-	0:30:59.671000	0:31:03.725000
+*tust*	-	-	-	-	0:30:59.671000	0:31:03.725000
+ihn	-	-	-	-	0:30:59.671000	0:31:03.725000
+halt	-	-	-	-	0:30:59.671000	0:31:03.725000
+darüber	-	-	-	-	0:30:59.671000	0:31:03.725000
+,	-	-	-	-	0:30:59.671000	0:31:03.725000
+wenn	wenn	SCONJ	-	-	0:30:59.671000	0:31:03.725000
+du	du	PRON	-	-	0:30:59.671000	0:31:03.725000
+ihn	ich	PRON	-	-	0:30:59.671000	0:31:03.725000
+nicht	nicht	PART	-	-	0:30:59.671000	0:31:03.725000
+ähm	ähm	ADJ	-	-	0:30:59.671000	0:31:03.725000
+gra/	-	-	-	-	0:30:59.671000	0:31:03.725000
+bevor	bevor	SCONJ	-	-	0:30:59.671000	0:31:03.725000
+du	du	PRON	-	-	0:30:59.671000	0:31:03.725000
+ihn	ich	PRON	-	-	0:30:59.671000	0:31:03.725000
+in	in	ADP	-	-	0:30:59.671000	0:31:03.725000
+den	der	DET	-	-	0:30:59.671000	0:31:03.725000
+Kasten	Kaste	NOUN	-	-	0:30:59.671000	0:31:03.725000
+hinein	hinein	ADV	-	-	0:30:59.671000	0:31:03.725000
+gibst	geben	ADJ	-	-	0:30:59.671000	0:31:03.725000
+und	und	CCONJ	-	-	0:31:03.725000	0:31:07.731000
+noch	noch	ADV	-	-	0:31:03.725000	0:31:07.731000
+einen	ein	DET	-	-	0:31:03.725000	0:31:07.731000
+so	so	ADV	-	-	0:31:03.725000	0:31:07.731000
+einen	ein	DET	-	-	0:31:03.725000	0:31:07.731000
+Reifen	Reife	NOUN	-	-	0:31:03.725000	0:31:07.731000
+darüber	darüber	ADV	-	-	0:31:03.725000	0:31:07.731000
+,	-	-	-	-	0:31:03.725000	0:31:07.731000
+dass	dass	SCONJ	-	-	0:31:03.725000	0:31:07.731000
+er	ich	PRON	-	-	0:31:03.725000	0:31:07.731000
+die	der	DET	-	-	0:31:03.725000	0:31:07.731000
+Form	Form	NOUN	-	-	0:31:03.725000	0:31:07.731000
+behält	behalten	VERB	-	-	0:31:03.725000	0:31:07.731000
+.	-	-	-	-	0:31:03.725000	0:31:07.731000
+<pause duration="1,0s"/>
+das	der	PRON	-	-	0:31:07.731000	0:31:08.531000
+ist	sein	AUX	-	-	0:31:07.731000	0:31:08.531000
+schon	schon	ADV	-	-	0:31:07.731000	0:31:08.531000
+super	super	PROPN	-	-	0:31:07.731000	0:31:08.531000
+.	-	-	-	-	0:31:07.731000	0:31:08.531000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:08.531000" end="0:31:10.431000">
+na	na	X	-	-	0:31:08.531000	0:31:10.431000
+das	der	PRON	-	-	0:31:08.531000	0:31:10.431000
+ist	sein	AUX	-	-	0:31:08.531000	0:31:10.431000
+nur	nur	ADV	-	-	0:31:08.531000	0:31:10.431000
+,	-	-	-	-	0:31:08.531000	0:31:10.431000
+wie	wie	ADV	-	-	0:31:08.531000	0:31:10.431000
+du	du	PRON	-	-	0:31:08.531000	0:31:10.431000
+ihn	ich	PRON	-	-	0:31:08.531000	0:31:10.431000
+lagerst	lagern	VERB	-	-	0:31:08.531000	0:31:10.431000
+,	-	-	-	-	0:31:08.531000	0:31:10.431000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:10.431000" end="0:31:10.798000">
+ja	ja	PART	-	-	0:31:10.431000	0:31:10.798000
+.	-	-	-	-	0:31:10.431000	0:31:10.798000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:10.798000" end="0:31:13.271000">
+wie	wie	ADV	-	-	0:31:10.798000	0:31:11.771000
+du	du	PRON	-	-	0:31:10.798000	0:31:11.771000
+ihn	ich	PRON	-	-	0:31:10.798000	0:31:11.771000
+hin	hin	ADV	-	-	0:31:10.798000	0:31:11.771000
+tust	tun	VERB	-	-	0:31:10.798000	0:31:11.771000
+und	und	CCONJ	-	-	0:31:11.771000	0:31:13.271000
+wenn	wenn	SCONJ	-	-	0:31:11.771000	0:31:13.271000
+er	ich	PRON	-	-	0:31:11.771000	0:31:13.271000
+überhaupt	überhaupt	ADV	-	-	0:31:11.771000	0:31:13.271000
+wenn	wenn	SCONJ	-	-	0:31:11.771000	0:31:13.271000
+er	ich	PRON	-	-	0:31:11.771000	0:31:13.271000
+nass	nass	VERB	-	-	0:31:11.771000	0:31:13.271000
+ist	sein	AUX	-	-	0:31:11.771000	0:31:13.271000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:13.271000" end="0:31:13.805000">
+*ist*	-	-	-	-	0:31:13.271000	0:31:13.805000
+eh	-	-	-	-	0:31:13.271000	0:31:13.805000
+klar	-	-	-	-	0:31:13.271000	0:31:13.805000
+.	-	-	-	-	0:31:13.271000	0:31:13.805000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:13.805000" end="0:31:15.978000">
+und	und	CCONJ	-	-	0:31:13.805000	0:31:15.051000
+du	du	PRON	-	-	0:31:13.805000	0:31:15.051000
+tust	tun	VERB	-	-	0:31:13.805000	0:31:15.051000
+ihn	ich	PRON	-	-	0:31:13.805000	0:31:15.051000
+wo	wo	ADV	-	-	0:31:13.805000	0:31:15.051000
+hinein	hinein	ADP	-	-	0:31:13.805000	0:31:15.051000
+,	-	-	-	-	0:31:13.805000	0:31:15.051000
+da	da	ADV	-	-	0:31:15.051000	0:31:15.978000
+ist	sein	AUX	-	-	0:31:15.051000	0:31:15.978000
+er	ich	PRON	-	-	0:31:15.051000	0:31:15.978000
+verbogen	verbiegen	VERB	-	-	0:31:15.051000	0:31:15.978000
+,	-	-	-	-	0:31:15.051000	0:31:15.978000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:15.051000" end="0:31:15.978000">
+ist	sein	AUX	-	-	0:31:15.051000	0:31:15.978000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:15.978000" end="0:31:17.358000">
+das	-	-	-	-	0:31:15.978000	0:31:17.358000
+ist	-	-	-	-	0:31:15.978000	0:31:17.358000
+das	-	-	-	-	0:31:15.978000	0:31:17.358000
+*bringst*	-	-	-	-	0:31:15.978000	0:31:17.358000
+nicht	-	-	-	-	0:31:15.978000	0:31:17.358000
+mehr	-	-	-	-	0:31:15.978000	0:31:17.358000
+heraus	-	-	-	-	0:31:15.978000	0:31:17.358000
+.	-	-	-	-	0:31:15.978000	0:31:17.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:15.978000" end="0:31:20.225000">
+schon	schon	ADV	-	-	0:31:15.978000	0:31:17.358000
+eine	einen	DET	-	-	0:31:15.978000	0:31:17.358000
+Katastophe	Katastophe	NOUN	-	-	0:31:15.978000	0:31:17.358000
+ja	ja	ADV	-	-	0:31:15.978000	0:31:17.358000
+.	-	-	-	-	0:31:15.978000	0:31:17.358000
+ja	ja	PART	-	-	0:31:17.358000	0:31:20.225000
+.	-	-	-	-	0:31:17.358000	0:31:20.225000
+<pause duration="2,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:20.225000" end="0:31:21.311000">
+mhm	mhm	PROPN	-	-	0:31:20.225000	0:31:21.311000
+.	-	-	-	-	0:31:20.225000	0:31:21.311000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:20.225000" end="0:31:21.311000">
+ja	ja	PART	-	-	0:31:20.225000	0:31:21.311000
+.	-	-	-	-	0:31:20.225000	0:31:21.311000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:21.311000" end="0:31:23.211000">
+Hobbies	Hobbies	PROPN	-	-	0:31:21.311000	0:31:23.211000
+[Franz]N	franzen	PROPN	-	-	0:31:21.311000	0:31:23.211000
+.	-	-	-	-	0:31:21.311000	0:31:23.211000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:23.211000" end="0:31:23.711000">
+Schifahren	Schifahren	NOUN	-	-	0:31:23.211000	0:31:23.711000
+.	-	-	-	-	0:31:23.211000	0:31:23.711000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:23.711000" end="0:31:25.725000">
+haben	haben	AUX	-	-	0:31:23.711000	0:31:25.725000
+wir	ich	PRON	-	-	0:31:23.711000	0:31:25.725000
+(nur)	nur	ADV	-	-	0:31:23.711000	0:31:25.725000
+Schifahren	Schifahren	NOUN	-	-	0:31:23.711000	0:31:25.725000
+ist	sein	AUX	-	-	0:31:23.711000	0:31:25.725000
+alleweile	alleweile	VERB	-	-	0:31:23.711000	0:31:25.725000
+ein	einen	DET	-	-	0:31:23.711000	0:31:25.725000
+Hobby	Hobby	NOUN	-	-	0:31:23.711000	0:31:25.725000
+noch	noch	ADV	-	-	0:31:23.711000	0:31:25.725000
+.	-	-	-	-	0:31:23.711000	0:31:25.725000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:25.725000" end="0:31:26.091000">
+ja	ja	PART	-	-	0:31:25.725000	0:31:26.091000
+.	-	-	-	-	0:31:25.725000	0:31:26.091000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:26.091000" end="0:31:27.258000">
+Stockschießen	Stockschießen	NOUN	-	-	0:31:26.091000	0:31:27.258000
+bei	bei	ADP	-	-	0:31:26.091000	0:31:27.258000
+mir	sich	PRON	-	-	0:31:26.091000	0:31:27.258000
+.	-	-	-	-	0:31:26.091000	0:31:27.258000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:27.258000" end="0:31:28.378000">
+mhm	mhm	PROPN	-	-	0:31:27.258000	0:31:28.378000
+.	-	-	-	-	0:31:27.258000	0:31:28.378000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:28.378000" end="0:31:29.471000">
+das	der	PRON	-	-	0:31:28.378000	0:31:29.471000
+ist	sein	AUX	-	-	0:31:28.378000	0:31:29.471000
+wohl	wohl	ADV	-	-	0:31:28.378000	0:31:29.471000
+genug	genug	ADV	-	-	0:31:28.378000	0:31:29.471000
+.	-	-	-	-	0:31:28.378000	0:31:29.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:29.471000" end="0:31:31.318000">
+ja	ja	ADV	-	-	0:31:29.471000	0:31:31.318000
+ja	ja	PART	-	-	0:31:29.471000	0:31:31.318000
+.	-	-	-	-	0:31:29.471000	0:31:31.318000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:31.318000" end="0:31:33.111000">
+das	der	DET	-	-	0:31:31.318000	0:31:33.111000
+i/	-	-	-	-	0:31:31.318000	0:31:33.111000
+das	der	PRON	-	-	0:31:31.318000	0:31:33.111000
+ist	sein	AUX	-	-	0:31:31.318000	0:31:33.111000
+schon	schon	ADV	-	-	0:31:31.318000	0:31:33.111000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:31.318000" end="0:31:33.111000">
+bei	bei	ADP	-	-	0:31:31.318000	0:31:33.111000
+mir	sich	PRON	-	-	0:31:31.318000	0:31:33.111000
+das	der	DET	-	-	0:31:31.318000	0:31:33.111000
+Schifahren	Schifahren	NOUN	-	-	0:31:31.318000	0:31:33.111000
+ja	ja	PART	-	-	0:31:31.318000	0:31:33.111000
+,	-	-	-	-	0:31:31.318000	0:31:33.111000
+aber	aber	CCONJ	-	-	0:31:31.318000	0:31:33.111000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:33.111000" end="0:31:34.978000">
+ein	einen	DET	-	-	0:31:33.111000	0:31:33.885000
+Hobby	Hobby	NOUN	-	-	0:31:33.111000	0:31:33.885000
+für	für	ADP	-	-	0:31:33.885000	0:31:34.978000
+einen	ein	DET	-	-	0:31:33.885000	0:31:34.978000
+ganzen	ganz	ADJ	-	-	0:31:33.885000	0:31:34.978000
+Jahr	Jahr	NOUN	-	-	0:31:33.885000	0:31:34.978000
+.	-	-	-	-	0:31:33.885000	0:31:34.978000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:33.885000" end="0:31:37.211000">
+heuer	heuer	ADV	-	-	0:31:33.885000	0:31:34.978000
+heuer	heuer	ADV	-	-	0:31:33.885000	0:31:34.978000
+traue	trauen	VERB	-	-	0:31:33.885000	0:31:34.978000
+ich	ich	PRON	-	-	0:31:33.885000	0:31:34.978000
+mich	sich	PRON	-	-	0:31:34.978000	0:31:37.211000
+auch	auch	ADV	-	-	0:31:34.978000	0:31:37.211000
+nicht	nicht	PART	-	-	0:31:34.978000	0:31:37.211000
+Schifahren	Schifahren	NOUN	-	-	0:31:34.978000	0:31:37.211000
+,	-	-	-	-	0:31:34.978000	0:31:37.211000
+*weißt*	-	-	-	-	0:31:34.978000	0:31:37.211000
+eh	-	-	-	-	0:31:34.978000	0:31:37.211000
+,	-	-	-	-	0:31:34.978000	0:31:37.211000
+mit	mit	ADP	-	-	0:31:34.978000	0:31:37.211000
+mit	mit	ADP	-	-	0:31:34.978000	0:31:37.211000
+der	der	DET	-	-	0:31:34.978000	0:31:37.211000
+Augengeschichte	Augengeschichte	NOUN	-	-	0:31:34.978000	0:31:37.211000
+da	da	ADP	-	-	0:31:34.978000	0:31:37.211000
+.	-	-	-	-	0:31:34.978000	0:31:37.211000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:37.211000" end="0:31:39.358000">
+das	der	PRON	-	-	0:31:37.211000	0:31:37.891000
+ist	sein	AUX	-	-	0:31:37.211000	0:31:37.891000
+eh	eh	ADV	-	-	0:31:37.211000	0:31:37.891000
+klar	klaren	ADJ	-	-	0:31:37.211000	0:31:37.891000
+.	-	-	-	-	0:31:37.211000	0:31:37.891000
+nein	-	-	-	-	0:31:37.891000	0:31:39.358000
+da	-	-	-	-	0:31:37.891000	0:31:39.358000
+*darfst*	-	-	-	-	0:31:37.891000	0:31:39.358000
+eh	-	-	-	-	0:31:37.891000	0:31:39.358000
+nicht	-	-	-	-	0:31:37.891000	0:31:39.358000
+.	-	-	-	-	0:31:37.891000	0:31:39.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:37.891000" end="0:31:39.358000">
+darf	dürfen	VERB	-	-	0:31:37.891000	0:31:39.358000
+ich	ich	PRON	-	-	0:31:37.891000	0:31:39.358000
+erstens	erstens	ADV	-	-	0:31:37.891000	0:31:39.358000
+einmal	einmal	ADV	-	-	0:31:37.891000	0:31:39.358000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:39.358000" end="0:31:40.231000">
+nein	nein	PART	-	-	0:31:39.358000	0:31:40.231000
+.	-	-	-	-	0:31:39.358000	0:31:40.231000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:39.358000" end="0:31:43.411000">
+wenn	wenn	SCONJ	-	-	0:31:39.358000	0:31:40.231000
+wenn	wenn	SCONJ	-	-	0:31:39.358000	0:31:40.231000
+du	du	PRON	-	-	0:31:39.358000	0:31:40.231000
+nicht	nicht	PART	-	-	0:31:39.358000	0:31:40.231000
+gescheit	gescheit	ADJ	-	-	0:31:39.358000	0:31:40.231000
+siehst	sehen	ADV	-	-	0:31:39.358000	0:31:40.231000
+beim	beim	ADP	-	-	0:31:40.231000	0:31:43.411000
+Schifahren	Schifahren	NOUN	-	-	0:31:40.231000	0:31:43.411000
+,	-	-	-	-	0:31:40.231000	0:31:43.411000
+ist	sein	AUX	-	-	0:31:40.231000	0:31:43.411000
+das	der	PRON	-	-	0:31:40.231000	0:31:43.411000
+auch	auch	ADV	-	-	0:31:40.231000	0:31:43.411000
+sowieso	sowieso	ADV	-	-	0:31:40.231000	0:31:43.411000
+ein	einen	DET	-	-	0:31:40.231000	0:31:43.411000
+Problem	Problem	NOUN	-	-	0:31:40.231000	0:31:43.411000
+schon	schon	ADV	-	-	0:31:40.231000	0:31:43.411000
+,	-	-	-	-	0:31:40.231000	0:31:43.411000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:43.411000" end="0:31:44.018000">
+ja	ja	ADV	-	-	0:31:43.411000	0:31:44.018000
+ja	ja	PART	-	-	0:31:43.411000	0:31:44.018000
+.	-	-	-	-	0:31:43.411000	0:31:44.018000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:43.411000" end="0:31:53.525000">
+aber	aber	CCONJ	-	-	0:31:43.411000	0:31:44.018000
+<pause duration="1,1s"/>
+jetzt	jetzt	ADV	-	-	0:31:44.018000	0:31:47.798000
+sind	sein	AUX	-	-	0:31:44.018000	0:31:47.798000
+wir	ich	PRON	-	-	0:31:44.018000	0:31:47.798000
+voriges	vorig	ADJ	-	-	0:31:44.018000	0:31:47.798000
+Jahr	Jahr	NOUN	-	-	0:31:44.018000	0:31:47.798000
+schon	schon	ADV	-	-	0:31:44.018000	0:31:47.798000
+nicht	nicht	PART	-	-	0:31:44.018000	0:31:47.798000
+gefahren	gefahren	VERB	-	-	0:31:44.018000	0:31:47.798000
+,	-	-	-	-	0:31:44.018000	0:31:47.798000
+<pause duration="1,0s"/>
+heuer	heuer	ADV	-	-	0:31:47.798000	0:31:50.758000
+schaut	schauen	VERB	-	-	0:31:47.798000	0:31:50.758000
+es	ich	PRON	-	-	0:31:47.798000	0:31:50.758000
+wieder	wieder	ADV	-	-	0:31:47.798000	0:31:50.758000
+so	so	ADV	-	-	0:31:47.798000	0:31:50.758000
+aus	aus	ADP	-	-	0:31:47.798000	0:31:50.758000
+,	-	-	-	-	0:31:47.798000	0:31:50.758000
+<pause duration="1,3s"/>
+aber	aber	CCONJ	-	-	0:31:50.758000	0:31:53.525000
+ganz	ganz	ADV	-	-	0:31:50.758000	0:31:53.525000
+aufgeben	aufgeben	VERB	-	-	0:31:50.758000	0:31:53.525000
+will	wollen	VERB	-	-	0:31:50.758000	0:31:53.525000
+man	man	PRON	-	-	0:31:50.758000	0:31:53.525000
+es	ich	PRON	-	-	0:31:50.758000	0:31:53.525000
+auch	auch	ADV	-	-	0:31:50.758000	0:31:53.525000
+nicht	nicht	PART	-	-	0:31:50.758000	0:31:53.525000
+.	-	-	-	-	0:31:50.758000	0:31:53.525000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:53.525000" end="0:31:54.211000">
+das	der	PRON	-	-	0:31:53.525000	0:31:54.211000
+ist	sein	AUX	-	-	0:31:53.525000	0:31:54.211000
+das	der	PRON	-	-	0:31:53.525000	0:31:54.211000
+,	-	-	-	-	0:31:53.525000	0:31:54.211000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:54.211000" end="0:31:54.638000">
+ja	ja	ADV	-	-	0:31:54.211000	0:31:54.638000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:54.638000" end="0:31:56.431000">
+man	man	PRON	-	-	0:31:54.638000	0:31:56.431000
+muss	muss	VERB	-	-	0:31:54.638000	0:31:56.431000
+alleweile	alleweile	VERB	-	-	0:31:54.638000	0:31:56.431000
+weiter	weit	ADP	-	-	0:31:54.638000	0:31:56.431000
+,	-	-	-	-	0:31:54.638000	0:31:56.431000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:54.638000" end="0:31:56.431000">
+wenn	wenn	SCONJ	-	-	0:31:54.638000	0:31:56.431000
+du	du	PRON	-	-	0:31:54.638000	0:31:56.431000
+ja	ja	ADV	-	-	0:31:54.638000	0:31:56.431000
+ja	ja	ADV	-	-	0:31:54.638000	0:31:56.431000
+freilich	freilich	ADV	-	-	0:31:54.638000	0:31:56.431000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:56.431000" end="0:31:57.525000">
+wenn	wenn	SCONJ	-	-	0:31:56.431000	0:31:57.525000
+du	du	PRON	-	-	0:31:56.431000	0:31:57.525000
+es	ich	PRON	-	-	0:31:56.431000	0:31:57.525000
+aufgibst	aufgeben	ADV	-	-	0:31:56.431000	0:31:57.525000
+,	-	-	-	-	0:31:56.431000	0:31:57.525000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:56.431000" end="0:31:57.525000">
+mhm	mhm	PROPN	-	-	0:31:56.431000	0:31:57.525000
+.	-	-	-	-	0:31:56.431000	0:31:57.525000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:57.525000" end="0:31:58.551000">
+dann	-	-	-	-	0:31:57.525000	0:31:58.551000
+*ist*	-	-	-	-	0:31:57.525000	0:31:58.551000
+vorbei	-	-	-	-	0:31:57.525000	0:31:58.551000
+.	-	-	-	-	0:31:57.525000	0:31:58.551000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:31:57.525000" end="0:31:58.551000">
+ja	ja	ADV	-	-	0:31:57.525000	0:31:58.551000
+ja	ja	PART	-	-	0:31:57.525000	0:31:58.551000
+.	-	-	-	-	0:31:57.525000	0:31:58.551000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:31:58.551000" end="0:32:06.085000">
+<pause duration="1,7s"/>
+darum	darum	ADV	-	-	0:31:58.551000	0:32:02.805000
+sage	sage	VERB	-	-	0:31:58.551000	0:32:02.805000
+ich	ich	PRON	-	-	0:31:58.551000	0:32:02.805000
+ja	ja	ADV	-	-	0:31:58.551000	0:32:02.805000
+,	-	-	-	-	0:31:58.551000	0:32:02.805000
+<pause duration="1,6s"/>
+na	na	X	-	-	0:32:02.805000	0:32:06.085000
+ja	ja	ADV	-	-	0:32:02.805000	0:32:06.085000
+es	ich	PRON	-	-	0:32:02.805000	0:32:06.085000
+ist	sein	AUX	-	-	0:32:02.805000	0:32:06.085000
+eh	eh	ADV	-	-	0:32:02.805000	0:32:06.085000
+sonst/	-	-	-	-	0:32:02.805000	0:32:06.085000
+.	-	-	-	-	0:32:02.805000	0:32:06.085000
+<pause duration="1,6s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:06.085000" end="0:32:09.525000">
+Lieblingssendung	Lieblingssendung	NOUN	-	-	0:32:06.085000	0:32:09.525000
+im	im	ADP	-	-	0:32:06.085000	0:32:09.525000
+TV	TV	NOUN	-	-	0:32:06.085000	0:32:09.525000
+hätten	haben	AUX	-	-	0:32:06.085000	0:32:09.525000
+wir	ich	PRON	-	-	0:32:06.085000	0:32:09.525000
+da	da	ADV	-	-	0:32:06.085000	0:32:09.525000
+noch	noch	ADV	-	-	0:32:06.085000	0:32:09.525000
+.	-	-	-	-	0:32:06.085000	0:32:09.525000
+<pause duration="1,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:09.525000" end="0:32:10.265000">
+für	für	ADP	-	-	0:32:09.525000	0:32:10.265000
+mich/	-	-	-	-	0:32:09.525000	0:32:10.265000
+.	-	-	-	-	0:32:09.525000	0:32:10.265000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:09.525000" end="0:32:12.891000">
+r/	-	-	-	-	0:32:09.525000	0:32:10.265000
+rede	rede	NOUN	-	-	0:32:10.265000	0:32:12.891000
+über	über	ADP	-	-	0:32:10.265000	0:32:12.891000
+Lieblingssendungen	Lieblingssendungen	NOUN	-	-	0:32:10.265000	0:32:12.891000
+im	im	ADP	-	-	0:32:10.265000	0:32:12.891000
+TV	TV	NOUN	-	-	0:32:10.265000	0:32:12.891000
+.	-	-	-	-	0:32:10.265000	0:32:12.891000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:12.891000" end="0:32:25.218000">
+das	der	PRON	-	-	0:32:12.891000	0:32:16.678000
+ist	sein	AUX	-	-	0:32:12.891000	0:32:16.678000
+einfach/	-	-	-	-	0:32:12.891000	0:32:16.678000
+.	-	-	-	-	0:32:12.891000	0:32:16.678000
+<pause duration="1,7s"/>
+ähm	ähm	X	-	-	0:32:12.891000	0:32:16.678000
+ich	ich	PRON	-	-	0:32:12.891000	0:32:16.678000
+sage	sage	VERB	-	-	0:32:12.891000	0:32:16.678000
+einmal	einmal	ADV	-	-	0:32:12.891000	0:32:16.678000
+,	-	-	-	-	0:32:12.891000	0:32:16.678000
+ohne	ohne	ADP	-	-	0:32:16.678000	0:32:18.578000
+TV	TV	NOUN	-	-	0:32:16.678000	0:32:18.578000
+ginge	gehen	VERB	-	-	0:32:16.678000	0:32:18.578000
+es	ich	PRON	-	-	0:32:16.678000	0:32:18.578000
+fast	fast	ADV	-	-	0:32:16.678000	0:32:18.578000
+nicht	nicht	PART	-	-	0:32:16.678000	0:32:18.578000
+.	-	-	-	-	0:32:16.678000	0:32:18.578000
+ich	ich	PRON	-	-	0:32:18.578000	0:32:19.745000
+kann	können	VERB	-	-	0:32:18.578000	0:32:19.745000
+mir	sich	PRON	-	-	0:32:18.578000	0:32:19.745000
+es	ich	PRON	-	-	0:32:18.578000	0:32:19.745000
+gar	gar	ADV	-	-	0:32:18.578000	0:32:19.745000
+nicht	nicht	PART	-	-	0:32:18.578000	0:32:19.745000
+vorstellen	vorstellen	VERB	-	-	0:32:18.578000	0:32:19.745000
+,	-	-	-	-	0:32:18.578000	0:32:19.745000
+dass	dass	SCONJ	-	-	0:32:19.745000	0:32:20.798000
+das	der	PRON	-	-	0:32:19.745000	0:32:20.798000
+nicht	nicht	PART	-	-	0:32:19.745000	0:32:20.798000
+wäre	sein	AUX	-	-	0:32:19.745000	0:32:20.798000
+.	-	-	-	-	0:32:19.745000	0:32:20.798000
+also	also	ADV	-	-	0:32:20.798000	0:32:24.051000
+ich	ich	PRON	-	-	0:32:20.798000	0:32:24.051000
+kann	können	VERB	-	-	0:32:20.798000	0:32:24.051000
+mir	sich	PRON	-	-	0:32:20.798000	0:32:24.051000
+es	ich	PRON	-	-	0:32:20.798000	0:32:24.051000
+nicht	nicht	PART	-	-	0:32:20.798000	0:32:24.051000
+vorstellen	vorstellen	VERB	-	-	0:32:20.798000	0:32:24.051000
+ohne	ohne	ADP	-	-	0:32:20.798000	0:32:24.051000
+Fernseher	Fernseher	NOUN	-	-	0:32:20.798000	0:32:24.051000
+.	-	-	-	-	0:32:20.798000	0:32:24.051000
+ich	ich	PRON	-	-	0:32:24.051000	0:32:25.218000
+schaue	schauen	VERB	-	-	0:32:24.051000	0:32:25.218000
+mir	sich	PRON	-	-	0:32:24.051000	0:32:25.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:24.051000" end="0:32:25.218000">
+ja	ja	ADV	-	-	0:32:24.051000	0:32:25.218000
+sicher	sichern	ADJ	-	-	0:32:24.051000	0:32:25.218000
+.	-	-	-	-	0:32:24.051000	0:32:25.218000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:25.218000" end="0:32:29.291000">
+halt	halt	ADV	-	-	0:32:25.218000	0:32:28.345000
+gerne	gerne	ADV	-	-	0:32:25.218000	0:32:28.345000
+Sportsachen	Sportsachen	NOUN	-	-	0:32:25.218000	0:32:28.345000
+an	an	ADP	-	-	0:32:25.218000	0:32:28.345000
+,	-	-	-	-	0:32:25.218000	0:32:28.345000
+<pause duration="1,7s"/>
+_dings_	-	-	-	-	0:32:28.345000	0:32:29.291000
+sowieso	-	-	-	-	0:32:28.345000	0:32:29.291000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:29.291000" end="0:32:30.065000">
+Schifahren	Schifahren	NOUN	-	-	0:32:29.291000	0:32:30.065000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:30.065000" end="0:32:31.665000">
+ja	-	-	-	-	0:32:30.065000	0:32:31.665000
+das	-	-	-	-	0:32:30.065000	0:32:31.665000
+ist	-	-	-	-	0:32:30.065000	0:32:31.665000
+eh	-	-	-	-	0:32:30.065000	0:32:31.665000
+jetzt	-	-	-	-	0:32:30.065000	0:32:31.665000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:30.065000" end="0:32:31.665000">
+wie	wie	CCONJ	-	-	0:32:30.065000	0:32:31.665000
+das	der	PRON	-	-	0:32:30.065000	0:32:31.665000
+freue	freuen	VERB	-	-	0:32:30.065000	0:32:31.665000
+ich	ich	PRON	-	-	0:32:30.065000	0:32:31.665000
+mich	sich	PRON	-	-	0:32:30.065000	0:32:31.665000
+schon	schon	ADV	-	-	0:32:30.065000	0:32:31.665000
+wieder	wieder	ADV	-	-	0:32:30.065000	0:32:31.665000
+,	-	-	-	-	0:32:30.065000	0:32:31.665000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:31.665000" end="0:32:34.511000">
+ja	-	-	-	-	0:32:31.665000	0:32:34.511000
+ja	-	-	-	-	0:32:31.665000	0:32:34.511000
+ja	-	-	-	-	0:32:31.665000	0:32:34.511000
+soweiso	-	-	-	-	0:32:31.665000	0:32:34.511000
+.	-	-	-	-	0:32:31.665000	0:32:34.511000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:31.665000" end="0:32:34.511000">
+wenn	wenn	SCONJ	-	-	0:32:31.665000	0:32:34.511000
+die	der	DET	-	-	0:32:31.665000	0:32:34.511000
+ganzen	ganz	ADJ	-	-	0:32:31.665000	0:32:34.511000
+Rennen	Rennen	NOUN	-	-	0:32:31.665000	0:32:34.511000
+übertragen	übertragen	VERB	-	-	0:32:31.665000	0:32:34.511000
+werden	werden	AUX	-	-	0:32:31.665000	0:32:34.511000
+,	-	-	-	-	0:32:31.665000	0:32:34.511000
+nicht	nicht	PART	-	-	0:32:31.665000	0:32:34.511000
+?	-	-	-	-	0:32:31.665000	0:32:34.511000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:34.511000" end="0:32:36.498000">
+aber	aber	CCONJ	-	-	0:32:34.511000	0:32:36.498000
+alleine	alleine	ADV	-	-	0:32:34.511000	0:32:36.498000
+die	der	DET	-	-	0:32:34.511000	0:32:36.498000
+Nachrichten	Nachricht	NOUN	-	-	0:32:34.511000	0:32:36.498000
+,	-	-	-	-	0:32:34.511000	0:32:36.498000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:36.498000" end="0:32:37.391000">
+ja	ja	ADV	-	-	0:32:36.498000	0:32:37.391000
+d/	-	-	-	-	0:32:36.498000	0:32:37.391000
+das	der	PRON	-	-	0:32:36.498000	0:32:37.391000
+geht	gehen	VERB	-	-	0:32:36.498000	0:32:37.391000
+es	ich	PRON	-	-	0:32:36.498000	0:32:37.391000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:37.391000" end="0:32:39.391000">
+Nachrichten	Nachricht	NOUN	-	-	0:32:37.391000	0:32:39.391000
+und	und	CCONJ	-	-	0:32:37.391000	0:32:39.391000
+und	und	CCONJ	-	-	0:32:37.391000	0:32:39.391000
+die	der	DET	-	-	0:32:37.391000	0:32:39.391000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:37.391000" end="0:32:39.391000">
+die	der	PRON	-	-	0:32:37.391000	0:32:39.391000
+die	der	DET	-	-	0:32:37.391000	0:32:39.391000
+ganze	ganze	ADJ	-	-	0:32:37.391000	0:32:39.391000
+ja	ja	NOUN	-	-	0:32:37.391000	0:32:39.391000
+.	-	-	-	-	0:32:37.391000	0:32:39.391000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:39.391000" end="0:32:42.644000">
+regionalen	regional	ADJ	-	-	0:32:39.391000	0:32:40.731000
+Sender	Sender	NOUN	-	-	0:32:39.391000	0:32:40.731000
+,	-	-	-	-	0:32:39.391000	0:32:40.731000
+das	der	PRON	-	-	0:32:40.731000	0:32:42.644000
+ist	sein	AUX	-	-	0:32:40.731000	0:32:42.644000
+alleweile	alleweile	NOUN	-	-	0:32:40.731000	0:32:42.644000
+das	der	PRON	-	-	0:32:40.731000	0:32:42.644000
+,	-	-	-	-	0:32:40.731000	0:32:42.644000
+wenn	wenn	SCONJ	-	-	0:32:40.731000	0:32:42.644000
+ich	ich	PRON	-	-	0:32:40.731000	0:32:42.644000
+das	der	PRON	-	-	0:32:40.731000	0:32:42.644000
+nicht	nicht	PART	-	-	0:32:40.731000	0:32:42.644000
+hätte	haben	AUX	-	-	0:32:40.731000	0:32:42.644000
+,	-	-	-	-	0:32:40.731000	0:32:42.644000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:40.731000" end="0:32:42.644000">
+ja	ja	ADV	-	-	0:32:40.731000	0:32:42.644000
+ja	ja	ADV	-	-	0:32:40.731000	0:32:42.644000
+ja	ja	ADV	-	-	0:32:40.731000	0:32:42.644000
+ja	ja	ADV	-	-	0:32:40.731000	0:32:42.644000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:42.644000" end="0:32:43.324000">
+dann	dann	ADV	-	-	0:32:42.644000	0:32:43.324000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:42.644000" end="0:32:43.324000">
+ja	ja	PART	-	-	0:32:42.644000	0:32:43.324000
+.	-	-	-	-	0:32:42.644000	0:32:43.324000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:43.324000" end="0:32:44.364000">
+wäre	sein	AUX	-	-	0:32:43.324000	0:32:44.364000
+es	ich	PRON	-	-	0:32:43.324000	0:32:44.364000
+schon	schon	ADV	-	-	0:32:43.324000	0:32:44.364000
+arg	arg	ADV	-	-	0:32:43.324000	0:32:44.364000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:44.364000" end="0:32:45.284000">
+ja	ja	ADV	-	-	0:32:44.364000	0:32:45.284000
+das	der	PRON	-	-	0:32:44.364000	0:32:45.284000
+ist	sein	AUX	-	-	0:32:44.364000	0:32:45.284000
+sicher/	-	-	-	-	0:32:44.364000	0:32:45.284000
+.	-	-	-	-	0:32:44.364000	0:32:45.284000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:45.284000" end="0:32:48.318000">
+und	und	CCONJ	-	-	0:32:45.284000	0:32:48.318000
+genauso	genauso	ADV	-	-	0:32:45.284000	0:32:48.318000
+,	-	-	-	-	0:32:45.284000	0:32:48.318000
+sagen	sagen	VERB	-	-	0:32:45.284000	0:32:48.318000
+wir	ich	PRON	-	-	0:32:45.284000	0:32:48.318000
+Zeitung	Zeitung	NOUN	-	-	0:32:45.284000	0:32:48.318000
+,	-	-	-	-	0:32:45.284000	0:32:48.318000
+die	der	PRON	-	-	0:32:45.284000	0:32:48.318000
+brauche	brauche	VERB	-	-	0:32:45.284000	0:32:48.318000
+ich	ich	PRON	-	-	0:32:45.284000	0:32:48.318000
+einfach	einfach	ADV	-	-	0:32:45.284000	0:32:48.318000
+.	-	-	-	-	0:32:45.284000	0:32:48.318000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:48.318000" end="0:32:50.018000">
+und	und	CCONJ	-	-	0:32:48.318000	0:32:50.018000
+einen	ein	DET	-	-	0:32:48.318000	0:32:50.018000
+Krimi	Krimi	NOUN	-	-	0:32:48.318000	0:32:50.018000
+,	-	-	-	-	0:32:48.318000	0:32:50.018000
+auf	auf	ADP	-	-	0:32:48.318000	0:32:50.018000
+den	der	PRON	-	-	0:32:48.318000	0:32:50.018000
+halte	halte	VERB	-	-	0:32:48.318000	0:32:50.018000
+ich	ich	PRON	-	-	0:32:48.318000	0:32:50.018000
+auch	auch	ADV	-	-	0:32:48.318000	0:32:50.018000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:50.018000" end="0:32:51.944000">
+einen	ein	DET	-	-	0:32:50.018000	0:32:51.944000
+kr/	-	-	-	-	0:32:50.018000	0:32:51.944000
+einen	ein	DET	-	-	0:32:50.018000	0:32:51.944000
+Krimi	Krimi	NOUN	-	-	0:32:50.018000	0:32:51.944000
+ja	ja	ADV	-	-	0:32:50.018000	0:32:51.944000
+ja	ja	PART	-	-	0:32:50.018000	0:32:51.944000
+.	-	-	-	-	0:32:50.018000	0:32:51.944000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:50.018000" end="0:32:51.944000">
+was	was	PRON	-	-	0:32:50.018000	0:32:51.944000
+,	-	-	-	-	0:32:50.018000	0:32:51.944000
+einen	ein	DET	-	-	0:32:50.018000	0:32:51.944000
+gescheiten	gescheit	NOUN	-	-	0:32:50.018000	0:32:51.944000
+.	-	-	-	-	0:32:50.018000	0:32:51.944000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:51.944000" end="0:32:53.578000">
+einen	-	-	-	-	0:32:51.944000	0:32:53.578000
+(_Reißer_)	-	-	-	-	0:32:51.944000	0:32:53.578000
+.	-	-	-	-	0:32:51.944000	0:32:53.578000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:51.944000" end="0:32:54.924000">
+gestern	gestern	ADV	-	-	0:32:51.944000	0:32:53.578000
+gestern	gestern	ADV	-	-	0:32:51.944000	0:32:53.578000
+war	sein	AUX	-	-	0:32:51.944000	0:32:53.578000
+zwar	zwar	ADV	-	-	0:32:51.944000	0:32:53.578000
+wieder	wieder	ADV	-	-	0:32:51.944000	0:32:53.578000
+der	der	PRON	-	-	0:32:51.944000	0:32:53.578000
+der	der	DET	-	-	0:32:53.578000	0:32:54.924000
+Tatort	Tatort	NOUN	-	-	0:32:53.578000	0:32:54.924000
+war	sein	AUX	-	-	0:32:53.578000	0:32:54.924000
+wieder	wieder	ADV	-	-	0:32:53.578000	0:32:54.924000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:54.924000" end="0:32:55.638000">
+wirklich	wirklich	ADJ	-	-	0:32:54.924000	0:32:55.638000
+?	-	-	-	-	0:32:54.924000	0:32:55.638000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:54.924000" end="0:32:57.011000">
+ähm	ähm	PROPN	-	-	0:32:54.924000	0:32:55.638000
+ähm	ähm	PROPN	-	-	0:32:55.638000	0:32:57.011000
+weiß	weiß	VERB	-	-	0:32:55.638000	0:32:57.011000
+nicht	nicht	PART	-	-	0:32:55.638000	0:32:57.011000
+.	-	-	-	-	0:32:55.638000	0:32:57.011000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:32:57.011000" end="0:32:58.558000">
+na	na	X	-	-	0:32:57.011000	0:32:58.558000
+was	was	PRON	-	-	0:32:57.011000	0:32:58.558000
+habe	habe	AUX	-	-	0:32:57.011000	0:32:58.558000
+ich	ich	PRON	-	-	0:32:57.011000	0:32:58.558000
+mir	sich	PRON	-	-	0:32:57.011000	0:32:58.558000
+gestern	gestern	ADV	-	-	0:32:57.011000	0:32:58.558000
+angeschaut	anschauen	VERB	-	-	0:32:57.011000	0:32:58.558000
+?	-	-	-	-	0:32:57.011000	0:32:58.558000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:32:57.011000" end="0:33:03.611000">
+hat	haben	AUX	-	-	0:32:57.011000	0:32:58.558000
+man	man	PRON	-	-	0:32:57.011000	0:32:58.558000
+sich	sich	PRON	-	-	0:32:57.011000	0:32:58.558000
+einigermaßen	einigermaßen	ADV	-	-	0:32:57.011000	0:32:58.558000
+dass	dass	SCONJ	-	-	0:32:58.558000	0:32:59.851000
+man	man	PRON	-	-	0:32:58.558000	0:32:59.851000
+ich	ich	PRON	-	-	0:32:58.558000	0:32:59.851000
+auskennt	auskennen	VERB	-	-	0:32:58.558000	0:32:59.851000
+,	-	-	-	-	0:32:58.558000	0:32:59.851000
+aber	-	-	-	-	0:32:59.851000	0:33:01.338000
+es	-	-	-	-	0:32:59.851000	0:33:01.338000
+ist	-	-	-	-	0:32:59.851000	0:33:01.338000
+oft	-	-	-	-	0:32:59.851000	0:33:01.338000
+_a_	-	-	-	-	0:32:59.851000	0:33:01.338000
+so	-	-	-	-	0:32:59.851000	0:33:01.338000
+,	-	-	-	-	0:32:59.851000	0:33:01.338000
+dass	dass	SCONJ	-	-	0:33:01.338000	0:33:02.578000
+du	du	PRON	-	-	0:33:01.338000	0:33:02.578000
+g/	-	-	-	-	0:33:01.338000	0:33:02.578000
+zum	zum	ADP	-	-	0:33:01.338000	0:33:02.578000
+Schluss	Schluss	PROPN	-	-	0:33:01.338000	0:33:02.578000
+gar	gar	ADV	-	-	0:33:01.338000	0:33:02.578000
+nicht	nicht	PART	-	-	0:33:01.338000	0:33:02.578000
+weißt	wissen	VERB	-	-	0:33:01.338000	0:33:02.578000
+,	-	-	-	-	0:33:01.338000	0:33:02.578000
+was	-	-	-	-	0:33:02.578000	0:33:03.611000
+w/	-	-	-	-	0:33:02.578000	0:33:03.611000
+wirklich	-	-	-	-	0:33:02.578000	0:33:03.611000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:03.611000" end="0:33:06.124000">
+ja	ja	ADV	-	-	0:33:03.611000	0:33:06.124000
+ja	ja	ADV	-	-	0:33:03.611000	0:33:06.124000
+ja	ja	ADV	-	-	0:33:03.611000	0:33:06.124000
+ja	ja	PART	-	-	0:33:03.611000	0:33:06.124000
+.	-	-	-	-	0:33:03.611000	0:33:06.124000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:03.611000" end="0:33:06.124000">
+einfach	-	-	-	-	0:33:03.611000	0:33:06.124000
+*ist*	-	-	-	-	0:33:03.611000	0:33:06.124000
+aus	-	-	-	-	0:33:03.611000	0:33:06.124000
+,	-	-	-	-	0:33:03.611000	0:33:06.124000
+nicht	nicht	PART	-	-	0:33:03.611000	0:33:06.124000
+,	-	-	-	-	0:33:03.611000	0:33:06.124000
+und	-	-	-	-	0:33:03.611000	0:33:06.124000
+und	-	-	-	-	0:33:03.611000	0:33:06.124000
+dann	-	-	-	-	0:33:03.611000	0:33:06.124000
+*stehst*	-	-	-	-	0:33:03.611000	0:33:06.124000
+dann	-	-	-	-	0:33:03.611000	0:33:06.124000
+.	-	-	-	-	0:33:03.611000	0:33:06.124000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:06.124000" end="0:33:09.778000">
+<pause duration="1,3s"/>
+ähm	ähm	X	-	-	0:33:06.124000	0:33:09.778000
+ein	einen	DET	-	-	0:33:06.124000	0:33:09.778000
+b/	-	-	-	-	0:33:06.124000	0:33:09.778000
+ich	ich	PRON	-	-	0:33:06.124000	0:33:09.778000
+habe	habe	AUX	-	-	0:33:06.124000	0:33:09.778000
+einen	ein	DET	-	-	0:33:06.124000	0:33:09.778000
+Baiern	Baiern	NOUN	-	-	0:33:06.124000	0:33:09.778000
+geschaut	schauen	VERB	-	-	0:33:06.124000	0:33:09.778000
+,	-	-	-	-	0:33:06.124000	0:33:09.778000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:09.778000" end="0:33:10.244000">
+gestern	gestern	ADV	-	-	0:33:09.778000	0:33:10.244000
+?	-	-	-	-	0:33:09.778000	0:33:10.244000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:10.244000" end="0:33:12.678000">
+und	und	CCONJ	-	-	0:33:10.244000	0:33:12.678000
+zwar	zwar	ADV	-	-	0:33:10.244000	0:33:12.678000
+ja	ja	PART	-	-	0:33:10.244000	0:33:12.678000
+,	-	-	-	-	0:33:10.244000	0:33:12.678000
+da	da	ADV	-	-	0:33:10.244000	0:33:12.678000
+war	sein	AUX	-	-	0:33:10.244000	0:33:12.678000
+so	so	ADV	-	-	0:33:10.244000	0:33:12.678000
+ein	einen	DET	-	-	0:33:10.244000	0:33:12.678000
+Musikantentreffen	Musikantentreffen	NOUN	-	-	0:33:10.244000	0:33:12.678000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:12.678000" end="0:33:13.191000">
+ach	ach	X	-	-	0:33:12.678000	0:33:13.191000
+so	so	ADV	-	-	0:33:12.678000	0:33:13.191000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:13.191000" end="0:33:15.538000">
+ist	sein	AUX	-	-	0:33:13.191000	0:33:15.538000
+alleweile	alleweile	NOUN	-	-	0:33:13.191000	0:33:15.538000
+und	und	CCONJ	-	-	0:33:13.191000	0:33:15.538000
+das	der	PRON	-	-	0:33:13.191000	0:33:15.538000
+das	der	PRON	-	-	0:33:13.191000	0:33:15.538000
+taugt	taugen	VERB	-	-	0:33:13.191000	0:33:15.538000
+mir	sich	PRON	-	-	0:33:13.191000	0:33:15.538000
+alleweile	alleweile	NOUN	-	-	0:33:13.191000	0:33:15.538000
+.	-	-	-	-	0:33:13.191000	0:33:15.538000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:13.191000" end="0:33:15.538000">
+mhm	mhm	PROPN	-	-	0:33:13.191000	0:33:15.538000
+mhm	mhm	PROPN	-	-	0:33:13.191000	0:33:15.538000
+mhm	mhm	PROPN	-	-	0:33:13.191000	0:33:15.538000
+mhm	mhm	PROPN	-	-	0:33:13.191000	0:33:15.538000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:15.538000" end="0:33:16.771000">
+die	der	DET	-	-	0:33:15.538000	0:33:16.771000
+spielen	spielen	VERB	-	-	0:33:15.538000	0:33:16.771000
+live	live	ADJ	-	-	0:33:15.538000	0:33:16.771000
+,	-	-	-	-	0:33:15.538000	0:33:16.771000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:15.538000" end="0:33:17.184000">
+mhm	mhm	PROPN	-	-	0:33:15.538000	0:33:16.771000
+.	-	-	-	-	0:33:15.538000	0:33:16.771000
+ja	ja	PART	-	-	0:33:16.771000	0:33:17.184000
+.	-	-	-	-	0:33:16.771000	0:33:17.184000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:17.184000" end="0:33:18.584000">
+die	der	PRON	-	-	0:33:17.184000	0:33:18.584000
+sind	sein	AUX	-	-	0:33:17.184000	0:33:18.584000
+wirklich	wirklich	ADJ	-	-	0:33:17.184000	0:33:18.584000
+die	der	PRON	-	-	0:33:17.184000	0:33:18.584000
+sind	sein	AUX	-	-	0:33:17.184000	0:33:18.584000
+gute	gut	ADJ	-	-	0:33:17.184000	0:33:18.584000
+,	-	-	-	-	0:33:17.184000	0:33:18.584000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:18.584000" end="0:33:18.884000">
+mhm	mhm	PROPN	-	-	0:33:18.584000	0:33:18.884000
+.	-	-	-	-	0:33:18.584000	0:33:18.884000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:18.884000" end="0:33:22.858000">
+die	der	DET	-	-	0:33:18.884000	0:33:20.038000
+Musiker	Musiker	NOUN	-	-	0:33:18.884000	0:33:20.038000
+ist	sein	AUX	-	-	0:33:18.884000	0:33:20.038000
+ein	einen	DET	-	-	0:33:18.884000	0:33:20.038000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:33:18.884000	0:33:20.038000
+,	-	-	-	-	0:33:18.884000	0:33:20.038000
+die	-	-	-	-	0:33:20.038000	0:33:21.551000
+spielen	-	-	-	-	0:33:20.038000	0:33:21.551000
+einfach	-	-	-	-	0:33:20.038000	0:33:21.551000
+live	-	-	-	-	0:33:20.038000	0:33:21.551000
+und	-	-	-	-	0:33:21.551000	0:33:22.858000
+das	-	-	-	-	0:33:21.551000	0:33:22.858000
+*siehst*	-	-	-	-	0:33:21.551000	0:33:22.858000
+aber	-	-	-	-	0:33:21.551000	0:33:22.858000
+auch	-	-	-	-	0:33:21.551000	0:33:22.858000
+.	-	-	-	-	0:33:21.551000	0:33:22.858000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:22.858000" end="0:33:23.304000">
+mhm	mhm	PROPN	-	-	0:33:22.858000	0:33:23.304000
+.	-	-	-	-	0:33:22.858000	0:33:23.304000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:23.304000" end="0:33:24.844000">
+oder	oder	CCONJ	-	-	0:33:23.304000	0:33:24.844000
+beim	beim	ADP	-	-	0:33:23.304000	0:33:24.844000
+Sänger	Sänger	NOUN	-	-	0:33:23.304000	0:33:24.844000
+und	und	CCONJ	-	-	0:33:23.304000	0:33:24.844000
+da	da	ADV	-	-	0:33:23.304000	0:33:24.844000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:23.304000" end="0:33:24.844000">
+das	der	PRON	-	-	0:33:23.304000	0:33:24.844000
+ist/	-	-	-	-	0:33:23.304000	0:33:24.844000
+.	-	-	-	-	0:33:23.304000	0:33:24.844000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:24.844000" end="0:33:26.051000">
+das	der	PRON	-	-	0:33:24.844000	0:33:26.051000
+sind	sein	AUX	-	-	0:33:24.844000	0:33:26.051000
+Gruppen	Gruppe	NOUN	-	-	0:33:24.844000	0:33:26.051000
+,	-	-	-	-	0:33:24.844000	0:33:26.051000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:24.844000" end="0:33:26.051000">
+das	der	PRON	-	-	0:33:24.844000	0:33:26.051000
+ist	sein	AUX	-	-	0:33:24.844000	0:33:26.051000
+bei	bei	ADP	-	-	0:33:24.844000	0:33:26.051000
+uns	sich	PRON	-	-	0:33:24.844000	0:33:26.051000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:26.051000" end="0:33:27.398000">
+das	der	PRON	-	-	0:33:26.051000	0:33:27.398000
+ist	sein	AUX	-	-	0:33:26.051000	0:33:27.398000
+ein	einen	DET	-	-	0:33:26.051000	0:33:27.398000
+Traum	Traum	NOUN	-	-	0:33:26.051000	0:33:27.398000
+!	-	-	-	-	0:33:26.051000	0:33:27.398000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:26.051000" end="0:33:28.818000">
+der	der	PRON	-	-	0:33:26.051000	0:33:27.398000
+der	der	PRON	-	-	0:33:26.051000	0:33:27.398000
+der	der	DET	-	-	0:33:26.051000	0:33:27.398000
+Forcher	Forcher	NOUN	-	-	0:33:26.051000	0:33:27.398000
+,	-	-	-	-	0:33:26.051000	0:33:27.398000
+wenn	wenn	SCONJ	-	-	0:33:27.398000	0:33:28.818000
+der	der	PRON	-	-	0:33:27.398000	0:33:28.818000
+ist	sein	AUX	-	-	0:33:27.398000	0:33:28.818000
+mit	mit	ADP	-	-	0:33:27.398000	0:33:28.818000
+seinen	seinen	DET	-	-	0:33:27.398000	0:33:28.818000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:28.818000" end="0:33:31.371000">
+genau	genau	ADJ	-	-	0:33:28.818000	0:33:31.371000
+so	so	ADV	-	-	0:33:28.818000	0:33:31.371000
+ja	ja	ADV	-	-	0:33:28.818000	0:33:31.371000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:28.818000" end="0:33:31.371000">
+se/	-	-	-	-	0:33:28.818000	0:33:31.371000
+das	der	PRON	-	-	0:33:28.818000	0:33:31.371000
+ist	sein	AUX	-	-	0:33:28.818000	0:33:31.371000
+das	der	PRON	-	-	0:33:28.818000	0:33:31.371000
+ist	sein	AUX	-	-	0:33:28.818000	0:33:31.371000
+auch	auch	ADV	-	-	0:33:28.818000	0:33:31.371000
+ein	einen	DET	-	-	0:33:28.818000	0:33:31.371000
+Pflichttermin	Pflichttermin	NOUN	-	-	0:33:28.818000	0:33:31.371000
+alleweile	alleweile	VERB	-	-	0:33:28.818000	0:33:31.371000
+,	-	-	-	-	0:33:28.818000	0:33:31.371000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:31.371000" end="0:33:33.371000">
+aber	aber	ADV	-	-	0:33:31.371000	0:33:33.371000
+wie	wie	ADV	-	-	0:33:31.371000	0:33:33.371000
+er	ich	PRON	-	-	0:33:31.371000	0:33:33.371000
+das	der	PRON	-	-	0:33:31.371000	0:33:33.371000
+wenn	wenn	SCONJ	-	-	0:33:31.371000	0:33:33.371000
+du	du	PRON	-	-	0:33:31.371000	0:33:33.371000
+dir	sich	PRON	-	-	0:33:31.371000	0:33:33.371000
+das	der	PRON	-	-	0:33:31.371000	0:33:33.371000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:31.371000" end="0:33:33.371000">
+den	der	DET	-	-	0:33:31.371000	0:33:33.371000
+Sepp	Sepp	NOUN	-	-	0:33:31.371000	0:33:33.371000
+Forcher	Forcher	NOUN	-	-	0:33:31.371000	0:33:33.371000
+schauen	schauen	VERB	-	-	0:33:31.371000	0:33:33.371000
+wir	ich	PRON	-	-	0:33:31.371000	0:33:33.371000
+uns	sich	PRON	-	-	0:33:31.371000	0:33:33.371000
+an	an	ADP	-	-	0:33:31.371000	0:33:33.371000
+.	-	-	-	-	0:33:31.371000	0:33:33.371000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:33.371000" end="0:33:35.218000">
+am	am	ADP	-	-	0:33:33.371000	0:33:35.218000
+Samstag	Samstag	NOUN	-	-	0:33:33.371000	0:33:35.218000
+oder	oder	CCONJ	-	-	0:33:33.371000	0:33:35.218000
+was	was	PRON	-	-	0:33:33.371000	0:33:35.218000
+wieder	wieder	ADV	-	-	0:33:33.371000	0:33:35.218000
+anschaust	anschauen	VERB	-	-	0:33:33.371000	0:33:35.218000
+,	-	-	-	-	0:33:33.371000	0:33:35.218000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:33.371000" end="0:33:35.218000">
+ja	ja	ADV	-	-	0:33:33.371000	0:33:35.218000
+ja	ja	PART	-	-	0:33:33.371000	0:33:35.218000
+.	-	-	-	-	0:33:33.371000	0:33:35.218000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:35.218000" end="0:33:41.298000">
+<pause duration="0,7s"/>
+die	der	PRON	-	-	0:33:35.218000	0:33:37.804000
+machen	machen	VERB	-	-	0:33:35.218000	0:33:37.804000
+den	der	DET	-	-	0:33:35.218000	0:33:37.804000
+Mund	Mund	NOUN	-	-	0:33:35.218000	0:33:37.804000
+auf	auf	ADV	-	-	0:33:35.218000	0:33:37.804000
+und	und	CCONJ	-	-	0:33:35.218000	0:33:37.804000
+zu	zu	ADP	-	-	0:33:35.218000	0:33:37.804000
+,	-	-	-	-	0:33:35.218000	0:33:37.804000
+kein	kein	DET	-	-	0:33:37.804000	0:33:39.064000
+Mensch	Mensch	NOUN	-	-	0:33:37.804000	0:33:39.064000
+singt	singen	VERB	-	-	0:33:37.804000	0:33:39.064000
+,	-	-	-	-	0:33:37.804000	0:33:39.064000
+alles	alle	DET	-	-	0:33:39.064000	0:33:41.298000
+alles	alle	DET	-	-	0:33:39.064000	0:33:41.298000
+Playback	Playback	NOUN	-	-	0:33:39.064000	0:33:41.298000
+,	-	-	-	-	0:33:39.064000	0:33:41.298000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:39.064000" end="0:33:41.298000">
+na	na	X	-	-	0:33:39.064000	0:33:41.298000
+d/	-	-	-	-	0:33:39.064000	0:33:41.298000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:41.298000" end="0:33:43.384000">
+alles	alle	PRON	-	-	0:33:41.298000	0:33:43.384000
+,	-	-	-	-	0:33:41.298000	0:33:43.384000
+da	-	-	-	-	0:33:41.298000	0:33:43.384000
+werde	-	-	-	-	0:33:41.298000	0:33:43.384000
+ich	-	-	-	-	0:33:41.298000	0:33:43.384000
+_narrisch_!	-	-	-	-	0:33:41.298000	0:33:43.384000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:41.298000" end="0:33:47.318000">
+da	da	ADV	-	-	0:33:41.298000	0:33:43.384000
+habe	habe	AUX	-	-	0:33:41.298000	0:33:43.384000
+ich	ich	PRON	-	-	0:33:41.298000	0:33:43.384000
+da	da	ADV	-	-	0:33:41.298000	0:33:43.384000
+habe	habe	AUX	-	-	0:33:41.298000	0:33:43.384000
+ich	ich	PRON	-	-	0:33:41.298000	0:33:43.384000
+erst	erst	ADV	-	-	0:33:41.298000	0:33:43.384000
+am	am	ADP	-	-	0:33:41.298000	0:33:43.384000
+Samstag	Samstag	NOUN	-	-	0:33:41.298000	0:33:43.384000
+war	sein	AUX	-	-	0:33:41.298000	0:33:43.384000
+(sage	sage	VERB	-	-	0:33:43.384000	0:33:46.624000
+ich	ich	PRON	-	-	0:33:43.384000	0:33:46.624000
+mal)	mal	ADV	-	-	0:33:43.384000	0:33:46.624000
+eine	einen	DET	-	-	0:33:43.384000	0:33:46.624000
+Katastrophe	Katastrophe	NOUN	-	-	0:33:43.384000	0:33:46.624000
+,	-	-	-	-	0:33:43.384000	0:33:46.624000
+(einmal)	einmal	ADV	-	-	0:33:43.384000	0:33:46.624000
+den	der	DET	-	-	0:33:43.384000	0:33:46.624000
+Silbereisen	Silbereisen	NOUN	-	-	0:33:43.384000	0:33:46.624000
+,	-	-	-	-	0:33:43.384000	0:33:46.624000
+den	der	DET	-	-	0:33:43.384000	0:33:46.624000
+den	der	PRON	-	-	0:33:43.384000	0:33:46.624000
+halte	halte	VERB	-	-	0:33:43.384000	0:33:46.624000
+ich	ich	PRON	-	-	0:33:43.384000	0:33:46.624000
+sowieso	sowieso	ADV	-	-	0:33:43.384000	0:33:46.624000
+nicht	nicht	PART	-	-	0:33:43.384000	0:33:46.624000
+aus	aus	ADP	-	-	0:33:43.384000	0:33:46.624000
+,	-	-	-	-	0:33:43.384000	0:33:46.624000
+wenn	wenn	SCONJ	-	-	0:33:46.624000	0:33:47.318000
+ich	ich	PRON	-	-	0:33:46.624000	0:33:47.318000
+den	der	PRON	-	-	0:33:46.624000	0:33:47.318000
+sehe	sehen	VERB	-	-	0:33:46.624000	0:33:47.318000
+schon	schon	ADV	-	-	0:33:46.624000	0:33:47.318000
+,	-	-	-	-	0:33:46.624000	0:33:47.318000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:47.318000" end="0:33:53.104000">
+ja	-	-	-	-	0:33:47.318000	0:33:53.104000
+der	-	-	-	-	0:33:47.318000	0:33:53.104000
+ja	-	-	-	-	0:33:47.318000	0:33:53.104000
+eh	-	-	-	-	0:33:47.318000	0:33:53.104000
+ja	-	-	-	-	0:33:47.318000	0:33:53.104000
+ja	-	-	-	-	0:33:47.318000	0:33:53.104000
+.	-	-	-	-	0:33:47.318000	0:33:53.104000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:47.318000" end="0:33:53.104000">
+da	-	-	-	-	0:33:47.318000	0:33:53.104000
+da	-	-	-	-	0:33:47.318000	0:33:53.104000
+wie	-	-	-	-	0:33:47.318000	0:33:53.104000
+der	-	-	-	-	0:33:47.318000	0:33:53.104000
+Wiener	-	-	-	-	0:33:47.318000	0:33:53.104000
+sagt	-	-	-	-	0:33:47.318000	0:33:53.104000
+"da	-	-	-	-	0:33:47.318000	0:33:53.104000
+da	-	-	-	-	0:33:47.318000	0:33:53.104000
+geht	-	-	-	-	0:33:47.318000	0:33:53.104000
+mir	-	-	-	-	0:33:47.318000	0:33:53.104000
+das	-	-	-	-	0:33:47.318000	0:33:53.104000
+_Geimpfte_	-	-	-	-	0:33:47.318000	0:33:53.104000
+auf"	-	-	-	-	0:33:47.318000	0:33:53.104000
+sagt	-	-	-	-	0:33:47.318000	0:33:53.104000
+der	-	-	-	-	0:33:47.318000	0:33:53.104000
+Wiener	-	-	-	-	0:33:47.318000	0:33:53.104000
+.	-	-	-	-	0:33:47.318000	0:33:53.104000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:53.104000" end="0:33:55.358000">
+*kannst*	-	-	-	-	0:33:53.104000	0:33:55.358000
+da	-	-	-	-	0:33:53.104000	0:33:55.358000
+wirklich	-	-	-	-	0:33:53.104000	0:33:55.358000
+sagen	-	-	-	-	0:33:53.104000	0:33:55.358000
+.	-	-	-	-	0:33:53.104000	0:33:55.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:53.104000" end="0:33:57.704000">
+ja	ja	PART	-	-	0:33:53.104000	0:33:55.358000
+.	-	-	-	-	0:33:53.104000	0:33:55.358000
+und	und	CCONJ	-	-	0:33:55.358000	0:33:57.704000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:57.704000" end="0:33:58.764000">
+aber	-	-	-	-	0:33:57.704000	0:33:58.764000
+*hast*	-	-	-	-	0:33:57.704000	0:33:58.764000
+nur	-	-	-	-	0:33:57.704000	0:33:58.764000
+gesehen	-	-	-	-	0:33:57.704000	0:33:58.764000
+,	-	-	-	-	0:33:57.704000	0:33:58.764000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:33:57.704000" end="0:33:58.764000">
+anders	anders	ADV	-	-	0:33:57.704000	0:33:58.764000
+,	-	-	-	-	0:33:57.704000	0:33:58.764000
+nicht	nicht	PART	-	-	0:33:57.704000	0:33:58.764000
+?	-	-	-	-	0:33:57.704000	0:33:58.764000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:33:58.764000" end="0:34:00.231000">
+*hast*	-	-	-	-	0:33:58.764000	0:34:00.231000
+nur	-	-	-	-	0:33:58.764000	0:34:00.231000
+gesehen	-	-	-	-	0:33:58.764000	0:34:00.231000
+,	-	-	-	-	0:33:58.764000	0:34:00.231000
+wie	wie	ADV	-	-	0:33:58.764000	0:34:00.231000
+viele	viel	DET	-	-	0:33:58.764000	0:34:00.231000
+Leute	Leute	NOUN	-	-	0:33:58.764000	0:34:00.231000
+dass	dass	VERB	-	-	0:33:58.764000	0:34:00.231000
+dort	dort	ADV	-	-	0:33:58.764000	0:34:00.231000
+waren	sein	AUX	-	-	0:33:58.764000	0:34:00.231000
+?	-	-	-	-	0:33:58.764000	0:34:00.231000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:00.231000" end="0:34:01.391000">
+na	na	X	-	-	0:34:00.231000	0:34:01.391000
+geh	geh	X	-	-	0:34:00.231000	0:34:01.391000
+ist	sein	AUX	-	-	0:34:00.231000	0:34:01.391000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:34:00.231000	0:34:01.391000
+die	der	DET	-	-	0:34:00.231000	0:34:01.391000
+Halle	Halle	NOUN	-	-	0:34:00.231000	0:34:01.391000
+.	-	-	-	-	0:34:00.231000	0:34:01.391000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:01.391000" end="0:34:02.084000">
+d/	-	-	-	-	0:34:01.391000	0:34:02.084000
+.	-	-	-	-	0:34:01.391000	0:34:02.084000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:02.084000" end="0:34:03.118000">
+ich	ich	PRON	-	-	0:34:02.084000	0:34:03.118000
+weiß	weiß	VERB	-	-	0:34:02.084000	0:34:03.118000
+noch	noch	ADV	-	-	0:34:02.084000	0:34:03.118000
+nicht	nicht	PART	-	-	0:34:02.084000	0:34:03.118000
+mal	mal	ADV	-	-	0:34:02.084000	0:34:03.118000
+wo	wo	ADV	-	-	0:34:02.084000	0:34:03.118000
+,	-	-	-	-	0:34:02.084000	0:34:03.118000
+wo	wo	ADV	-	-	0:34:02.084000	0:34:03.118000
+war	sein	AUX	-	-	0:34:02.084000	0:34:03.118000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:03.118000" end="0:34:03.758000">
+Dortmund	Dortmund	PROPN	-	-	0:34:03.118000	0:34:03.758000
+.	-	-	-	-	0:34:03.118000	0:34:03.758000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:03.118000" end="0:34:03.758000">
+das	der	PRON	-	-	0:34:03.118000	0:34:03.758000
+?	-	-	-	-	0:34:03.118000	0:34:03.758000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:03.758000" end="0:34:07.351000">
+Dortmunder	-	-	-	-	0:34:03.758000	0:34:07.351000
+Westfalenhalle	-	-	-	-	0:34:03.758000	0:34:07.351000
+war	-	-	-	-	0:34:03.758000	0:34:07.351000
+das	-	-	-	-	0:34:03.758000	0:34:07.351000
+eine	-	-	-	-	0:34:03.758000	0:34:07.351000
+wahnsinnige	-	-	-	-	0:34:03.758000	0:34:07.351000
+_dings_	-	-	-	-	0:34:03.758000	0:34:07.351000
+ja	-	-	-	-	0:34:03.758000	0:34:07.351000
+.	-	-	-	-	0:34:03.758000	0:34:07.351000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:03.758000" end="0:34:09.038000">
+in	in	ADP	-	-	0:34:03.758000	0:34:07.351000
+Dortmund	Dortmund	PROPN	-	-	0:34:03.758000	0:34:07.351000
+war	sein	AUX	-	-	0:34:03.758000	0:34:07.351000
+das	der	PRON	-	-	0:34:03.758000	0:34:07.351000
+Dort/	-	-	-	-	0:34:03.758000	0:34:07.351000
+Dort/	-	-	-	-	0:34:03.758000	0:34:07.351000
+genau	genau	ADJ	-	-	0:34:03.758000	0:34:07.351000
+ja	ja	ADV	-	-	0:34:03.758000	0:34:07.351000
+ja	ja	PART	-	-	0:34:03.758000	0:34:07.351000
+.	-	-	-	-	0:34:03.758000	0:34:07.351000
+dann	dann	ADV	-	-	0:34:07.351000	0:34:09.038000
+habe	habe	AUX	-	-	0:34:07.351000	0:34:09.038000
+ich	ich	PRON	-	-	0:34:07.351000	0:34:09.038000
+mir	sich	PRON	-	-	0:34:07.351000	0:34:09.038000
+,	-	-	-	-	0:34:07.351000	0:34:09.038000
+nein	nein	PART	-	-	0:34:07.351000	0:34:09.038000
+,	-	-	-	-	0:34:07.351000	0:34:09.038000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:09.038000" end="0:34:11.143000">
+aber	aber	CCONJ	-	-	0:34:09.038000	0:34:11.143000
+das	der	PRON	-	-	0:34:09.038000	0:34:11.143000
+sa/	-	-	-	-	0:34:09.038000	0:34:11.143000
+ich	ich	PRON	-	-	0:34:09.038000	0:34:11.143000
+sage	sage	VERB	-	-	0:34:09.038000	0:34:11.143000
+auch	auch	ADV	-	-	0:34:09.038000	0:34:11.143000
+alleweile/	-	-	-	-	0:34:09.038000	0:34:11.143000
+.	-	-	-	-	0:34:09.038000	0:34:11.143000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:09.038000" end="0:34:12.757000">
+d/	-	-	-	-	0:34:09.038000	0:34:11.143000
+einen	ein	DET	-	-	0:34:09.038000	0:34:11.143000
+einen	ein	DET	-	-	0:34:09.038000	0:34:11.143000
+einen	ein	DET	-	-	0:34:09.038000	0:34:11.143000
+James	James	NOUN	-	-	0:34:09.038000	0:34:11.143000
+Bond	Bond	PROPN	-	-	0:34:09.038000	0:34:11.143000
+angeschaut	anschauen	VERB	-	-	0:34:09.038000	0:34:11.143000
+,	-	-	-	-	0:34:09.038000	0:34:11.143000
+schaue	schauen	VERB	-	-	0:34:11.143000	0:34:12.757000
+ich	ich	PRON	-	-	0:34:11.143000	0:34:12.757000
+mir	sich	PRON	-	-	0:34:11.143000	0:34:12.757000
+das	der	PRON	-	-	0:34:11.143000	0:34:12.757000
+einmal	einmal	ADV	-	-	0:34:11.143000	0:34:12.757000
+an	an	ADP	-	-	0:34:11.143000	0:34:12.757000
+.	-	-	-	-	0:34:11.143000	0:34:12.757000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:12.757000" end="0:34:14.424000">
+ja	ja	ADV	-	-	0:34:12.757000	0:34:14.424000
+das	der	PRON	-	-	0:34:12.757000	0:34:14.424000
+ist	sein	AUX	-	-	0:34:12.757000	0:34:14.424000
+ja	ja	ADV	-	-	0:34:12.757000	0:34:14.424000
+sowieso	sowieso	ADV	-	-	0:34:12.757000	0:34:14.424000
+.	-	-	-	-	0:34:12.757000	0:34:14.424000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:12.757000" end="0:34:16.071000">
+d/	-	-	-	-	0:34:12.757000	0:34:14.424000
+d/	-	-	-	-	0:34:12.757000	0:34:14.424000
+das	-	-	-	-	0:34:12.757000	0:34:14.424000
+ja	-	-	-	-	0:34:12.757000	0:34:14.424000
+da	-	-	-	-	0:34:12.757000	0:34:14.424000
+da	-	-	-	-	0:34:12.757000	0:34:14.424000
+der	-	-	-	-	0:34:14.424000	0:34:16.071000
+_überdings_	-	-	-	-	0:34:14.424000	0:34:16.071000
+na	-	-	-	-	0:34:14.424000	0:34:16.071000
+.	-	-	-	-	0:34:14.424000	0:34:16.071000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:16.071000" end="0:34:18.658000">
+ja	ja	ADV	-	-	0:34:16.071000	0:34:18.658000
+das	der	PRON	-	-	0:34:16.071000	0:34:18.658000
+ist	sein	AUX	-	-	0:34:16.071000	0:34:18.658000
+ja	ja	ADV	-	-	0:34:16.071000	0:34:18.658000
+.	-	-	-	-	0:34:16.071000	0:34:18.658000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:16.071000" end="0:34:19.318000">
+habe	habe	AUX	-	-	0:34:16.071000	0:34:18.658000
+ich	ich	PRON	-	-	0:34:16.071000	0:34:18.658000
+umgeschalten	umgeschalten	ADJ	-	-	0:34:16.071000	0:34:18.658000
+dann	dann	ADV	-	-	0:34:16.071000	0:34:18.658000
+,	-	-	-	-	0:34:16.071000	0:34:18.658000
+aber	aber	CCONJ	-	-	0:34:16.071000	0:34:18.658000
+da	da	ADV	-	-	0:34:16.071000	0:34:18.658000
+haben	haben	AUX	-	-	0:34:16.071000	0:34:18.658000
+wir	ich	PRON	-	-	0:34:16.071000	0:34:18.658000
+den	der	DET	-	-	0:34:16.071000	0:34:18.658000
+Silbereisen	Silbereisen	NOUN	-	-	0:34:16.071000	0:34:18.658000
+und	und	CCONJ	-	-	0:34:18.658000	0:34:19.318000
+dann	dann	ADV	-	-	0:34:18.658000	0:34:19.318000
+bin	sein	AUX	-	-	0:34:18.658000	0:34:19.318000
+ich	ich	PRON	-	-	0:34:18.658000	0:34:19.318000
+gegangen	gehen	VERB	-	-	0:34:18.658000	0:34:19.318000
+.	-	-	-	-	0:34:18.658000	0:34:19.318000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:19.318000" end="0:34:21.031000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:19.318000" end="0:34:28.058000">
+habe	habe	AUX	-	-	0:34:19.318000	0:34:21.031000
+ich	ich	PRON	-	-	0:34:19.318000	0:34:21.031000
+gesagt	sagen	VERB	-	-	0:34:19.318000	0:34:21.031000
+,	-	-	-	-	0:34:19.318000	0:34:21.031000
+da	da	ADV	-	-	0:34:19.318000	0:34:21.031000
+gehe	gehen	VERB	-	-	0:34:19.318000	0:34:21.031000
+ich	ich	PRON	-	-	0:34:19.318000	0:34:21.031000
+lieber	lieb	ADV	-	-	0:34:19.318000	0:34:21.031000
+da	da	ADV	-	-	0:34:21.031000	0:34:23.297000
+gehe	gehen	VERB	-	-	0:34:21.031000	0:34:23.297000
+ich	ich	PRON	-	-	0:34:21.031000	0:34:23.297000
+lieber	lieb	ADV	-	-	0:34:21.031000	0:34:23.297000
+schlafen	schlafen	VERB	-	-	0:34:21.031000	0:34:23.297000
+.	-	-	-	-	0:34:21.031000	0:34:23.297000
+ein	einen	DET	-	-	0:34:23.297000	0:34:25.804000
+so	so	ADV	-	-	0:34:23.297000	0:34:25.804000
+und	und	CCONJ	-	-	0:34:23.297000	0:34:25.804000
+das	der	PRON	-	-	0:34:23.297000	0:34:25.804000
+ist	sein	AUX	-	-	0:34:23.297000	0:34:25.804000
+ein	einen	DET	-	-	0:34:23.297000	0:34:25.804000
+Samstagabendprogramm	Samstagabendprogramm	NOUN	-	-	0:34:23.297000	0:34:25.804000
+.	-	-	-	-	0:34:23.297000	0:34:25.804000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:34:25.804000	0:34:28.058000
+ist	sein	AUX	-	-	0:34:25.804000	0:34:28.058000
+eine	einen	DET	-	-	0:34:25.804000	0:34:28.058000
+Katastrophe	Katastrophe	NOUN	-	-	0:34:25.804000	0:34:28.058000
+,	-	-	-	-	0:34:25.804000	0:34:28.058000
+nicht	nicht	PART	-	-	0:34:25.804000	0:34:28.058000
+?	-	-	-	-	0:34:25.804000	0:34:28.058000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:28.058000" end="0:34:30.271000">
+ja	ja	PART	-	-	0:34:28.058000	0:34:30.271000
+darum	darum	ADV	-	-	0:34:28.058000	0:34:30.271000
+ich	ich	PRON	-	-	0:34:28.058000	0:34:30.271000
+sage	sage	VERB	-	-	0:34:28.058000	0:34:30.271000
+es	ich	PRON	-	-	0:34:28.058000	0:34:30.271000
+ja	ja	ADV	-	-	0:34:28.058000	0:34:30.271000
+alleweile	alleweile	NOUN	-	-	0:34:28.058000	0:34:30.271000
+also	also	ADV	-	-	0:34:28.058000	0:34:30.271000
+ja	ja	PART	-	-	0:34:28.058000	0:34:30.271000
+,	-	-	-	-	0:34:28.058000	0:34:30.271000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:28.058000" end="0:34:30.271000">
+den	der	DET	-	-	0:34:28.058000	0:34:30.271000
+Samstag	Samstag	NOUN	-	-	0:34:28.058000	0:34:30.271000
+ja	ja	ADV	-	-	0:34:28.058000	0:34:30.271000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:30.271000" end="0:34:32.217000">
+dass	dass	SCONJ	-	-	0:34:30.271000	0:34:32.217000
+das	der	PRON	-	-	0:34:30.271000	0:34:32.217000
+nichts	nichts	DET	-	-	0:34:30.271000	0:34:32.217000
+Gescheites	Gescheites	NOUN	-	-	0:34:30.271000	0:34:32.217000
+nicht	nicht	PART	-	-	0:34:30.271000	0:34:32.217000
+ist	sein	AUX	-	-	0:34:30.271000	0:34:32.217000
+,	-	-	-	-	0:34:30.271000	0:34:32.217000
+gell	gell	ADJ	-	-	0:34:30.271000	0:34:32.217000
+?	-	-	-	-	0:34:30.271000	0:34:32.217000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:30.271000" end="0:34:36.643000">
+(also)	also	ADV	-	-	0:34:30.271000	0:34:32.217000
+ja	ja	ADV	-	-	0:34:30.271000	0:34:32.217000
+.	-	-	-	-	0:34:30.271000	0:34:32.217000
+und	und	CCONJ	-	-	0:34:32.217000	0:34:36.643000
+aber	aber	ADV	-	-	0:34:32.217000	0:34:36.643000
+ent/	-	-	-	-	0:34:32.217000	0:34:36.643000
+die	der	DET	-	-	0:34:32.217000	0:34:36.643000
+besseren	gut	ADJ	-	-	0:34:32.217000	0:34:36.643000
+Sendungen	Sendung	NOUN	-	-	0:34:32.217000	0:34:36.643000
+kommen	kommen	VERB	-	-	0:34:32.217000	0:34:36.643000
+alleweile	alleweile	NOUN	-	-	0:34:32.217000	0:34:36.643000
+erst	erst	ADV	-	-	0:34:32.217000	0:34:36.643000
+mei/	-	-	-	-	0:34:32.217000	0:34:36.643000
+dann	dann	ADV	-	-	0:34:32.217000	0:34:36.643000
+um	um	ADP	-	-	0:34:32.217000	0:34:36.643000
+elf	elf	NUM	-	-	0:34:32.217000	0:34:36.643000
+,	-	-	-	-	0:34:32.217000	0:34:36.643000
+also	also	ADV	-	-	0:34:32.217000	0:34:36.643000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:36.643000" end="0:34:37.018000">
+ja	ja	ADV	-	-	0:34:36.643000	0:34:37.018000
+ja	ja	PART	-	-	0:34:36.643000	0:34:37.018000
+.	-	-	-	-	0:34:36.643000	0:34:37.018000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:37.018000" end="0:34:46.051000">
+nach	nach	ADP	-	-	0:34:37.018000	0:34:40.438000
+der	der	DET	-	-	0:34:37.018000	0:34:40.438000
+ZIB	ZIB	PROPN	-	-	0:34:37.018000	0:34:40.438000
+zwei	zwei	NUM	-	-	0:34:37.018000	0:34:40.438000
+<pause duration="0,5s"/>
+kommen	kommen	VERB	-	-	0:34:37.018000	0:34:40.438000
+dann	dann	ADV	-	-	0:34:37.018000	0:34:40.438000
+die	der	DET	-	-	0:34:37.018000	0:34:40.438000
+interessanteren	interessant	ADJ	-	-	0:34:37.018000	0:34:40.438000
+Sendungen	Sendung	NOUN	-	-	0:34:37.018000	0:34:40.438000
+und	und	CCONJ	-	-	0:34:40.438000	0:34:46.051000
+da	da	ADV	-	-	0:34:40.438000	0:34:46.051000
+ja	ja	ADV	-	-	0:34:40.438000	0:34:46.051000
+da	da	ADV	-	-	0:34:40.438000	0:34:46.051000
+bi/	-	-	-	-	0:34:40.438000	0:34:46.051000
+gehe	gehen	VERB	-	-	0:34:40.438000	0:34:46.051000
+ich	ich	PRON	-	-	0:34:40.438000	0:34:46.051000
+d/	-	-	-	-	0:34:40.438000	0:34:46.051000
+lieber	lieb	ADV	-	-	0:34:40.438000	0:34:46.051000
+schlafen	schlafen	VERB	-	-	0:34:40.438000	0:34:46.051000
+wir	ich	PRON	-	-	0:34:40.438000	0:34:46.051000
+dann	dann	ADV	-	-	0:34:40.438000	0:34:46.051000
+schon	schon	ADV	-	-	0:34:40.438000	0:34:46.051000
+,	-	-	-	-	0:34:40.438000	0:34:46.051000
+nicht	nicht	PART	-	-	0:34:40.438000	0:34:46.051000
+,	-	-	-	-	0:34:40.438000	0:34:46.051000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:46.051000" end="0:34:47.744000">
+gestern	gestern	ADV	-	-	0:34:46.051000	0:34:47.744000
+auch	auch	ADV	-	-	0:34:46.051000	0:34:47.744000
+wieder	wieder	ADV	-	-	0:34:46.051000	0:34:47.744000
+so	so	ADV	-	-	0:34:46.051000	0:34:47.744000
+spät	spät	ADJ	-	-	0:34:46.051000	0:34:47.744000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:46.051000" end="0:34:48.051000">
+da	da	ADV	-	-	0:34:46.051000	0:34:47.744000
+mag	mögen	VERB	-	-	0:34:46.051000	0:34:47.744000
+ich	ich	PRON	-	-	0:34:46.051000	0:34:47.744000
+nicht	nicht	PART	-	-	0:34:46.051000	0:34:47.744000
+mehr	mehr	ADV	-	-	0:34:46.051000	0:34:47.744000
+aufbleiben	aufbleiben	VERB	-	-	0:34:46.051000	0:34:47.744000
+.	-	-	-	-	0:34:46.051000	0:34:47.744000
+ja	ja	ADV	-	-	0:34:47.744000	0:34:48.051000
+ja	ja	PART	-	-	0:34:47.744000	0:34:48.051000
+.	-	-	-	-	0:34:47.744000	0:34:48.051000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:48.051000" end="0:34:50.904000">
+ist	sein	AUX	-	-	0:34:48.051000	0:34:50.904000
+gekommen	kommen	VERB	-	-	0:34:48.051000	0:34:50.904000
+<pause duration="0,9s"/>
+von	von	ADP	-	-	0:34:48.051000	0:34:50.904000
+der	der	DET	-	-	0:34:48.051000	0:34:50.904000
+Russland	Russland	NOUN	-	-	0:34:48.051000	0:34:50.904000
+Revolution	Revolution	PROPN	-	-	0:34:48.051000	0:34:50.904000
+,	-	-	-	-	0:34:48.051000	0:34:50.904000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:50.904000" end="0:34:51.478000">
+ja	ja	ADV	-	-	0:34:50.904000	0:34:51.478000
+ja	ja	PART	-	-	0:34:50.904000	0:34:51.478000
+.	-	-	-	-	0:34:50.904000	0:34:51.478000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:51.478000" end="0:34:54.630000">
+ist	sein	AUX	-	-	0:34:51.478000	0:34:52.257000
+das	der	PRON	-	-	0:34:51.478000	0:34:52.257000
+gekommen	kommen	VERB	-	-	0:34:51.478000	0:34:52.257000
+,	-	-	-	-	0:34:51.478000	0:34:52.257000
+also	also	ADV	-	-	0:34:52.257000	0:34:54.630000
+interessanter	interessant	ADJ	-	-	0:34:52.257000	0:34:54.630000
+ge/	-	-	-	-	0:34:52.257000	0:34:54.630000
+mal	mal	ADV	-	-	0:34:52.257000	0:34:54.630000
+drei	drei	NUM	-	-	0:34:52.257000	0:34:54.630000
+,	-	-	-	-	0:34:52.257000	0:34:54.630000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:52.257000" end="0:34:54.630000">
+mhm	mhm	PROPN	-	-	0:34:52.257000	0:34:54.630000
+mhm	mhm	PROPN	-	-	0:34:52.257000	0:34:54.630000
+ja	ja	ADV	-	-	0:34:52.257000	0:34:54.630000
+.	-	-	-	-	0:34:52.257000	0:34:54.630000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:54.630000" end="0:34:56.078000">
+aber	aber	CCONJ	-	-	0:34:54.630000	0:34:56.078000
+aber	aber	ADV	-	-	0:34:54.630000	0:34:56.078000
+wann	wann	ADV	-	-	0:34:54.630000	0:34:56.078000
+?	-	-	-	-	0:34:54.630000	0:34:56.078000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:56.078000" end="0:34:57.224000">
+Universum	Universum	PROPN	-	-	0:34:56.078000	0:34:57.224000
+history	history	VERB	-	-	0:34:56.078000	0:34:57.224000
+,	-	-	-	-	0:34:56.078000	0:34:57.224000
+glaube	glauben	VERB	-	-	0:34:56.078000	0:34:57.224000
+ich	ich	PRON	-	-	0:34:56.078000	0:34:57.224000
+,	-	-	-	-	0:34:56.078000	0:34:57.224000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:57.224000" end="0:34:58.831000">
+ja	ja	ADV	-	-	0:34:57.224000	0:34:58.831000
+genau	genau	ADJ	-	-	0:34:57.224000	0:34:58.831000
+ja	ja	ADV	-	-	0:34:57.224000	0:34:58.831000
+ja	ja	ADV	-	-	0:34:57.224000	0:34:58.831000
+aber	aber	ADV	-	-	0:34:57.224000	0:34:58.831000
+so	so	ADV	-	-	0:34:57.224000	0:34:58.831000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:57.224000" end="0:34:58.831000">
+war	sein	AUX	-	-	0:34:57.224000	0:34:58.831000
+das	der	PRON	-	-	0:34:57.224000	0:34:58.831000
+,	-	-	-	-	0:34:57.224000	0:34:58.831000
+nicht	nicht	PART	-	-	0:34:57.224000	0:34:58.831000
+,	-	-	-	-	0:34:57.224000	0:34:58.831000
+ja	ja	ADV	-	-	0:34:57.224000	0:34:58.831000
+ja	ja	ADV	-	-	0:34:57.224000	0:34:58.831000
+genau	genau	ADJ	-	-	0:34:57.224000	0:34:58.831000
+.	-	-	-	-	0:34:57.224000	0:34:58.831000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:34:58.831000" end="0:34:59.638000">
+spät	spät	ADJ	-	-	0:34:58.831000	0:34:59.638000
+alleweile	alleweile	VERB	-	-	0:34:58.831000	0:34:59.638000
+,	-	-	-	-	0:34:58.831000	0:34:59.638000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:34:58.831000" end="0:35:00.918000">
+ja	ja	ADV	-	-	0:34:58.831000	0:34:59.638000
+das	der	PRON	-	-	0:34:58.831000	0:34:59.638000
+ist	sein	AUX	-	-	0:34:58.831000	0:34:59.638000
+zu	zu	PART	-	-	0:34:58.831000	0:34:59.638000
+spät	spät	ADJ	-	-	0:34:58.831000	0:34:59.638000
+,	-	-	-	-	0:34:58.831000	0:34:59.638000
+es	ich	PRON	-	-	0:34:59.638000	0:35:00.918000
+wäre	sein	AUX	-	-	0:34:59.638000	0:35:00.918000
+interessant	interessant	ADJ	-	-	0:34:59.638000	0:35:00.918000
+,	-	-	-	-	0:34:59.638000	0:35:00.918000
+aber	aber	CCONJ	-	-	0:34:59.638000	0:35:00.918000
+das	der	PRON	-	-	0:34:59.638000	0:35:00.918000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:00.918000" end="0:35:01.944000">
+ja	ja	ADV	-	-	0:35:00.918000	0:35:01.944000
+ja	ja	ADV	-	-	0:35:00.918000	0:35:01.944000
+gibt	geben	VERB	-	-	0:35:00.918000	0:35:01.944000
+eh	eh	ADV	-	-	0:35:00.918000	0:35:01.944000
+nichts	nichts	PRON	-	-	0:35:00.918000	0:35:01.944000
+.	-	-	-	-	0:35:00.918000	0:35:01.944000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:01.944000" end="0:35:02.698000">
+verstehe	verstehen	VERB	-	-	0:35:01.944000	0:35:02.698000
+ich	ich	PRON	-	-	0:35:01.944000	0:35:02.698000
+nicht	nicht	PART	-	-	0:35:01.944000	0:35:02.698000
+ganz	ganz	ADV	-	-	0:35:01.944000	0:35:02.698000
+,	-	-	-	-	0:35:01.944000	0:35:02.698000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:02.698000" end="0:35:04.091000">
+hm	hm	X	-	-	0:35:02.698000	0:35:04.091000
+.	-	-	-	-	0:35:02.698000	0:35:04.091000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:02.698000" end="0:35:05.544000">
+warum	-	-	-	-	0:35:02.698000	0:35:04.091000
+sie	-	-	-	-	0:35:02.698000	0:35:04.091000
+solche	-	-	-	-	0:35:02.698000	0:35:04.091000
+Sendungen	-	-	-	-	0:35:02.698000	0:35:04.091000
+so	-	-	-	-	0:35:02.698000	0:35:04.091000
+spät	-	-	-	-	0:35:02.698000	0:35:04.091000
+haben	-	-	-	-	0:35:02.698000	0:35:04.091000
+und	-	-	-	-	0:35:04.091000	0:35:05.544000
+und	-	-	-	-	0:35:04.091000	0:35:05.544000
+zuerst	-	-	-	-	0:35:04.091000	0:35:05.544000
+haben	-	-	-	-	0:35:04.091000	0:35:05.544000
+sie	-	-	-	-	0:35:04.091000	0:35:05.544000
+den	-	-	-	-	0:35:04.091000	0:35:05.544000
+_Schmarren_	-	-	-	-	0:35:04.091000	0:35:05.544000
+,	-	-	-	-	0:35:04.091000	0:35:05.544000
+nicht	nicht	PART	-	-	0:35:04.091000	0:35:05.544000
+?	-	-	-	-	0:35:04.091000	0:35:05.544000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:05.544000" end="0:35:06.051000">
+mhm	mhm	PROPN	-	-	0:35:05.544000	0:35:06.051000
+.	-	-	-	-	0:35:05.544000	0:35:06.051000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:05.544000" end="0:35:11.818000">
+alles	alle	PRON	-	-	0:35:05.544000	0:35:06.051000
+,	-	-	-	-	0:35:05.544000	0:35:06.051000
+was	was	PRON	-	-	0:35:05.544000	0:35:06.051000
+du	du	PRON	-	-	0:35:05.544000	0:35:06.051000
+nicht	nicht	PART	-	-	0:35:05.544000	0:35:06.051000
+anschauen	anschauen	ADJ	-	-	0:35:06.051000	0:35:09.291000
+kannst	können	NOUN	-	-	0:35:06.051000	0:35:09.291000
+dann	dann	ADV	-	-	0:35:06.051000	0:35:09.291000
+,	-	-	-	-	0:35:06.051000	0:35:09.291000
+(nicht)	nicht	PART	-	-	0:35:06.051000	0:35:09.291000
+.	-	-	-	-	0:35:06.051000	0:35:09.291000
+<pause duration="2,3s"/>
+ja	ja	ADV	-	-	0:35:09.291000	0:35:11.818000
+also	also	ADV	-	-	0:35:09.291000	0:35:11.818000
+haben	haben	AUX	-	-	0:35:09.291000	0:35:11.818000
+wir	ich	PRON	-	-	0:35:09.291000	0:35:11.818000
+nicht	nicht	PART	-	-	0:35:09.291000	0:35:11.818000
+viele	viel	DET	-	-	0:35:09.291000	0:35:11.818000
+Lieblingssendungen	Lieblingssendungen	NOUN	-	-	0:35:09.291000	0:35:11.818000
+,	-	-	-	-	0:35:09.291000	0:35:11.818000
+gell	gell	ADJ	-	-	0:35:09.291000	0:35:11.818000
+?	-	-	-	-	0:35:09.291000	0:35:11.818000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:11.818000" end="0:35:14.224000">
+nein	nein	PART	-	-	0:35:11.818000	0:35:12.718000
+,	-	-	-	-	0:35:11.818000	0:35:12.718000
+recht	recht	ADV	-	-	0:35:11.818000	0:35:12.718000
+viele	viel	PRON	-	-	0:35:11.818000	0:35:12.718000
+haben	haben	AUX	-	-	0:35:12.718000	0:35:14.224000
+wir	ich	PRON	-	-	0:35:12.718000	0:35:14.224000
+nicht	nicht	PART	-	-	0:35:12.718000	0:35:14.224000
+,	-	-	-	-	0:35:12.718000	0:35:14.224000
+ein	einen	DET	-	-	0:35:12.718000	0:35:14.224000
+paar	paar	PRON	-	-	0:35:12.718000	0:35:14.224000
+sind/	-	-	-	-	0:35:12.718000	0:35:14.224000
+.	-	-	-	-	0:35:12.718000	0:35:14.224000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:12.718000" end="0:35:14.224000">
+den	der	DET	-	-	0:35:12.718000	0:35:14.224000
+Sepp	Sepp	NOUN	-	-	0:35:12.718000	0:35:14.224000
+Forcher	Forcher	NOUN	-	-	0:35:12.718000	0:35:14.224000
+halt	halt	VERB	-	-	0:35:12.718000	0:35:14.224000
+,	-	-	-	-	0:35:12.718000	0:35:14.224000
+nicht	nicht	PART	-	-	0:35:12.718000	0:35:14.224000
+?	-	-	-	-	0:35:12.718000	0:35:14.224000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:14.224000" end="0:35:14.951000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:14.224000" end="0:35:14.951000">
+ja	ja	PART	-	-	0:35:14.224000	0:35:14.951000
+.	-	-	-	-	0:35:14.224000	0:35:14.951000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:14.951000" end="0:35:17.524000">
+einen	ein	DET	-	-	0:35:14.951000	0:35:15.991000
+Fernseher	Fernseher	NOUN	-	-	0:35:14.951000	0:35:15.991000
+haben	haben	AUX	-	-	0:35:14.951000	0:35:15.991000
+wir	ich	PRON	-	-	0:35:14.951000	0:35:15.991000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:15.991000" end="0:35:17.524000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:17.524000" end="0:35:18.918000">
+und	und	CCONJ	-	-	0:35:17.524000	0:35:18.918000
+eine	einen	DET	-	-	0:35:17.524000	0:35:18.918000
+Schüssel	Schüssel	NOUN	-	-	0:35:17.524000	0:35:18.918000
+auch	auch	ADV	-	-	0:35:17.524000	0:35:18.918000
+bald	bald	ADV	-	-	0:35:17.524000	0:35:18.918000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:18.918000" end="0:35:19.304000">
+ja	ja	PART	-	-	0:35:18.918000	0:35:19.304000
+?	-	-	-	-	0:35:18.918000	0:35:19.304000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:19.304000" end="0:35:20.364000">
+hoffentlich	hoffentlich	ADJ	-	-	0:35:19.304000	0:35:20.364000
+.	-	-	-	-	0:35:19.304000	0:35:20.364000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:20.364000" end="0:35:20.964000">
+wer	wer	PRON	-	-	0:35:20.364000	0:35:20.964000
+mach/	-	-	-	-	0:35:20.364000	0:35:20.964000
+.	-	-	-	-	0:35:20.364000	0:35:20.964000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:20.964000" end="0:35:22.958000">
+der	der	DET	-	-	0:35:20.964000	0:35:21.758000
+[Peter]N	Peter	PROPN	-	-	0:35:20.964000	0:35:21.758000
+.	-	-	-	-	0:35:20.964000	0:35:21.758000
+der	der	PRON	-	-	0:35:21.758000	0:35:22.958000
+hat	haben	AUX	-	-	0:35:21.758000	0:35:22.958000
+schon	schon	ADV	-	-	0:35:21.758000	0:35:22.958000
+alles	alle	PRON	-	-	0:35:21.758000	0:35:22.958000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:21.758000" end="0:35:22.958000">
+der	der	DET	-	-	0:35:21.758000	0:35:22.958000
+[Peter]N	Peter	PROPN	-	-	0:35:21.758000	0:35:22.958000
+macht	machen	VERB	-	-	0:35:21.758000	0:35:22.958000
+eine	einen	PRON	-	-	0:35:21.758000	0:35:22.958000
+?	-	-	-	-	0:35:21.758000	0:35:22.958000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:22.958000" end="0:35:24.711000">
+daheim	daheim	ADV	-	-	0:35:22.958000	0:35:24.711000
+,	-	-	-	-	0:35:22.958000	0:35:24.711000
+aber	aber	CCONJ	-	-	0:35:22.958000	0:35:24.711000
+der	der	PRON	-	-	0:35:22.958000	0:35:24.711000
+kommt	kommen	VERB	-	-	0:35:22.958000	0:35:24.711000
+momentan	momentan	ADJ	-	-	0:35:22.958000	0:35:24.711000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:22.958000" end="0:35:24.711000">
+ach	ach	X	-	-	0:35:22.958000	0:35:24.711000
+so	so	ADV	-	-	0:35:22.958000	0:35:24.711000
+ja	ja	ADV	-	-	0:35:22.958000	0:35:24.711000
+.	-	-	-	-	0:35:22.958000	0:35:24.711000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:24.711000" end="0:35:26.358000">
+nicht	nicht	PART	-	-	0:35:24.711000	0:35:25.618000
+dazu	dazu	ADV	-	-	0:35:24.711000	0:35:25.618000
+.	-	-	-	-	0:35:24.711000	0:35:25.618000
+der	-	-	-	-	0:35:25.618000	0:35:26.358000
+macht	-	-	-	-	0:35:25.618000	0:35:26.358000
+ja	-	-	-	-	0:35:25.618000	0:35:26.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:25.618000" end="0:35:26.358000">
+aha	aha	X	-	-	0:35:25.618000	0:35:26.358000
+.	-	-	-	-	0:35:25.618000	0:35:26.358000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:26.358000" end="0:35:30.344000">
+den	-	-	-	-	0:35:26.358000	0:35:30.344000
+_dings_	-	-	-	-	0:35:26.358000	0:35:30.344000
+jetzt	-	-	-	-	0:35:26.358000	0:35:30.344000
+,	-	-	-	-	0:35:26.358000	0:35:30.344000
+*weißt*	-	-	-	-	0:35:26.358000	0:35:30.344000
+eh	-	-	-	-	0:35:26.358000	0:35:30.344000
+,	-	-	-	-	0:35:26.358000	0:35:30.344000
+<pause duration="1,1s"/>
+das	-	-	-	-	0:35:26.358000	0:35:30.344000
+_dings_	-	-	-	-	0:35:26.358000	0:35:30.344000
+hat	-	-	-	-	0:35:26.358000	0:35:30.344000
+er	-	-	-	-	0:35:26.358000	0:35:30.344000
+schon	-	-	-	-	0:35:26.358000	0:35:30.344000
+,	-	-	-	-	0:35:26.358000	0:35:30.344000
+praktische	praktische	ADJ	-	-	0:35:26.358000	0:35:30.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:30.344000" end="0:35:31.251000">
+macht	machen	VERB	-	-	0:35:30.344000	0:35:31.251000
+er	ich	PRON	-	-	0:35:30.344000	0:35:31.251000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:31.251000" end="0:35:31.798000">
+Prüfung	Prüfung	NOUN	-	-	0:35:31.251000	0:35:31.798000
+.	-	-	-	-	0:35:31.251000	0:35:31.798000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:31.798000" end="0:35:32.611000">
+was	was	PRON	-	-	0:35:31.798000	0:35:32.611000
+für	für	ADP	-	-	0:35:31.798000	0:35:32.611000
+eine	einen	DET	-	-	0:35:31.798000	0:35:32.611000
+Prüfung	Prüfung	NOUN	-	-	0:35:31.798000	0:35:32.611000
+?	-	-	-	-	0:35:31.798000	0:35:32.611000
+ähm	ähm	PROPN	-	-	0:35:31.798000	0:35:32.611000
+.	-	-	-	-	0:35:31.798000	0:35:32.611000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:32.611000" end="0:35:36.431000">
+ja	ja	ADV	-	-	0:35:32.611000	0:35:33.678000
+seine	mein	DET	-	-	0:35:32.611000	0:35:33.678000
+Gesellenprüfung	Gesellenprüfung	NOUN	-	-	0:35:33.678000	0:35:36.431000
+ja	ja	ADV	-	-	0:35:33.678000	0:35:36.431000
+ja	ja	PART	-	-	0:35:33.678000	0:35:36.431000
+.	-	-	-	-	0:35:33.678000	0:35:36.431000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:33.678000" end="0:35:36.431000">
+ähm	ähm	X	-	-	0:35:33.678000	0:35:36.431000
+Gesellenprüfung	Gesellenprüfung	NOUN	-	-	0:35:33.678000	0:35:36.431000
+Gesellenprüfung	Gesellenprüfung	NOUN	-	-	0:35:33.678000	0:35:36.431000
+aha	aha	ADJ	-	-	0:35:33.678000	0:35:36.431000
+ja	ja	ADV	-	-	0:35:33.678000	0:35:36.431000
+.	-	-	-	-	0:35:33.678000	0:35:36.431000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:36.431000" end="0:35:37.404000">
+aber	-	-	-	-	0:35:36.431000	0:35:37.404000
+er	-	-	-	-	0:35:36.431000	0:35:37.404000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:36.431000" end="0:35:37.404000">
+hat	haben	AUX	-	-	0:35:36.431000	0:35:37.404000
+er	ich	PRON	-	-	0:35:36.431000	0:35:37.404000
+vi/	-	-	-	-	0:35:36.431000	0:35:37.404000
+.	-	-	-	-	0:35:36.431000	0:35:37.404000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:37.404000" end="0:35:44.564000">
+er	-	-	-	-	0:35:37.404000	0:35:41.958000
+hat	-	-	-	-	0:35:37.404000	0:35:41.958000
+es	-	-	-	-	0:35:37.404000	0:35:41.958000
+mit	-	-	-	-	0:35:37.404000	0:35:41.958000
+_dings_	-	-	-	-	0:35:37.404000	0:35:41.958000
+,	-	-	-	-	0:35:37.404000	0:35:41.958000
+*weißt*	-	-	-	-	0:35:37.404000	0:35:41.958000
+es	-	-	-	-	0:35:37.404000	0:35:41.958000
+eh	-	-	-	-	0:35:37.404000	0:35:41.958000
+,	-	-	-	-	0:35:37.404000	0:35:41.958000
+wie	wie	ADV	-	-	0:35:37.404000	0:35:41.958000
+wie	wie	ADV	-	-	0:35:37.404000	0:35:41.958000
+sagt	sagen	VERB	-	-	0:35:37.404000	0:35:41.958000
+man	man	PRON	-	-	0:35:37.404000	0:35:41.958000
+da	da	ADP	-	-	0:35:37.404000	0:35:41.958000
+,	-	-	-	-	0:35:37.404000	0:35:41.958000
+mit	mit	ADP	-	-	0:35:37.404000	0:35:41.958000
+dem	der	DET	-	-	0:35:37.404000	0:35:41.958000
+mit	mit	ADP	-	-	0:35:37.404000	0:35:41.958000
+dem/	-	-	-	-	0:35:37.404000	0:35:41.958000
+.	-	-	-	-	0:35:37.404000	0:35:41.958000
+<pause duration="1,0s"/>
+er	ich	PRON	-	-	0:35:41.958000	0:35:43.511000
+kann	können	VERB	-	-	0:35:41.958000	0:35:43.511000
+dann	dann	ADV	-	-	0:35:41.958000	0:35:43.511000
+weiter	weit	ADV	-	-	0:35:41.958000	0:35:43.511000
+studieren	studieren	VERB	-	-	0:35:41.958000	0:35:43.511000
+,	-	-	-	-	0:35:41.958000	0:35:43.511000
+wenn	wenn	SCONJ	-	-	0:35:43.511000	0:35:44.564000
+er	ich	PRON	-	-	0:35:43.511000	0:35:44.564000
+will	wollen	VERB	-	-	0:35:43.511000	0:35:44.564000
+.	-	-	-	-	0:35:43.511000	0:35:44.564000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:43.511000" end="0:35:46.978000">
+ach	ach	X	-	-	0:35:43.511000	0:35:44.564000
+so	so	ADV	-	-	0:35:43.511000	0:35:44.564000
+die	der	DET	-	-	0:35:44.564000	0:35:46.978000
+die	der	DET	-	-	0:35:44.564000	0:35:46.978000
+die	der	DET	-	-	0:35:44.564000	0:35:46.978000
+ähm	ähm	DET	-	-	0:35:44.564000	0:35:46.978000
+Lehre	Lehre	NOUN	-	-	0:35:44.564000	0:35:46.978000
+mit	mit	ADP	-	-	0:35:44.564000	0:35:46.978000
+Matura	Matura	NOUN	-	-	0:35:44.564000	0:35:46.978000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:46.978000" end="0:35:49.604000">
+ja	ja	ADV	-	-	0:35:46.978000	0:35:49.604000
+Lehre	Lehre	NOUN	-	-	0:35:46.978000	0:35:49.604000
+genau	genau	ADJ	-	-	0:35:46.978000	0:35:49.604000
+Lehre	Lehre	NOUN	-	-	0:35:46.978000	0:35:49.604000
+mit	mit	ADP	-	-	0:35:46.978000	0:35:49.604000
+Matura	Matura	NOUN	-	-	0:35:46.978000	0:35:49.604000
+,	-	-	-	-	0:35:46.978000	0:35:49.604000
+so	so	ADV	-	-	0:35:46.978000	0:35:49.604000
+heißt	heißen	VERB	-	-	0:35:46.978000	0:35:49.604000
+das	der	PRON	-	-	0:35:46.978000	0:35:49.604000
+.	-	-	-	-	0:35:46.978000	0:35:49.604000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:46.978000" end="0:35:50.324000">
+oder	oder	CCONJ	-	-	0:35:46.978000	0:35:49.604000
+wie	wie	CCONJ	-	-	0:35:46.978000	0:35:49.604000
+ja	ja	ADV	-	-	0:35:46.978000	0:35:49.604000
+aha	aha	X	-	-	0:35:46.978000	0:35:49.604000
+ja	ja	ADV	-	-	0:35:46.978000	0:35:49.604000
+aha	aha	X	-	-	0:35:46.978000	0:35:49.604000
+ja	ja	ADV	-	-	0:35:46.978000	0:35:49.604000
+mhm	mhm	PROPN	-	-	0:35:49.604000	0:35:50.324000
+mhm	mhm	PROPN	-	-	0:35:49.604000	0:35:50.324000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:50.324000" end="0:35:52.031000">
+das	der	PRON	-	-	0:35:50.324000	0:35:52.031000
+ist	sein	AUX	-	-	0:35:50.324000	0:35:52.031000
+aber	aber	ADV	-	-	0:35:50.324000	0:35:52.031000
+aber	aber	ADV	-	-	0:35:50.324000	0:35:52.031000
+ob	ob	SCONJ	-	-	0:35:50.324000	0:35:52.031000
+er	ich	PRON	-	-	0:35:50.324000	0:35:52.031000
+da	da	ADV	-	-	0:35:50.324000	0:35:52.031000
+durchkommt	durchkommen	VERB	-	-	0:35:50.324000	0:35:52.031000
+,	-	-	-	-	0:35:50.324000	0:35:52.031000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:50.324000" end="0:35:52.031000">
+mhm	mhm	PROPN	-	-	0:35:50.324000	0:35:52.031000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:52.031000" end="0:35:54.071000">
+das	der	PRON	-	-	0:35:52.031000	0:35:54.071000
+weiß	weiß	VERB	-	-	0:35:52.031000	0:35:54.071000
+ich	ich	PRON	-	-	0:35:52.031000	0:35:54.071000
+das	der	PRON	-	-	0:35:52.031000	0:35:54.071000
+weiß	weiß	VERB	-	-	0:35:52.031000	0:35:54.071000
+ich	ich	PRON	-	-	0:35:52.031000	0:35:54.071000
+nicht	nicht	PART	-	-	0:35:52.031000	0:35:54.071000
+.	-	-	-	-	0:35:52.031000	0:35:54.071000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:52.031000" end="0:35:54.071000">
+ja	ja	ADV	-	-	0:35:52.031000	0:35:54.071000
+ja	ja	ADV	-	-	0:35:52.031000	0:35:54.071000
+mhm	mhm	PROPN	-	-	0:35:52.031000	0:35:54.071000
+mhm	mhm	PROPN	-	-	0:35:52.031000	0:35:54.071000
+mhm	mhm	PROPN	-	-	0:35:52.031000	0:35:54.071000
+.	-	-	-	-	0:35:52.031000	0:35:54.071000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:54.071000" end="0:35:54.878000">
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:54.071000" end="0:35:54.878000">
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:54.878000" end="0:35:57.504000">
+aber	aber	CCONJ	-	-	0:35:54.878000	0:35:57.504000
+jetzt	jetzt	ADV	-	-	0:35:54.878000	0:35:57.504000
+geht	gehen	VERB	-	-	0:35:54.878000	0:35:57.504000
+jetzt	jetzt	ADV	-	-	0:35:54.878000	0:35:57.504000
+hat	haben	AUX	-	-	0:35:54.878000	0:35:57.504000
+er	ich	PRON	-	-	0:35:54.878000	0:35:57.504000
+(das)	der	DET	-	-	0:35:54.878000	0:35:57.504000
+Schriftliche	Schriftliche	NOUN	-	-	0:35:54.878000	0:35:57.504000
+noch	noch	ADV	-	-	0:35:54.878000	0:35:57.504000
+.	-	-	-	-	0:35:54.878000	0:35:57.504000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:54.878000" end="0:35:59.504000">
+wenn	wenn	SCONJ	-	-	0:35:54.878000	0:35:57.504000
+er	ich	PRON	-	-	0:35:54.878000	0:35:57.504000
+ein	einen	DET	-	-	0:35:54.878000	0:35:57.504000
+wenn	wenn	SCONJ	-	-	0:35:54.878000	0:35:57.504000
+er	ich	PRON	-	-	0:35:54.878000	0:35:57.504000
+ein	einen	DET	-	-	0:35:54.878000	0:35:57.504000
+gescheites	gescheit	ADJ	-	-	0:35:54.878000	0:35:57.504000
+Messgerät	Messgerät	NOUN	-	-	0:35:54.878000	0:35:57.504000
+braucht	brauchen	VERB	-	-	0:35:54.878000	0:35:57.504000
+,	-	-	-	-	0:35:54.878000	0:35:57.504000
+einstellen	einstellen	VERB	-	-	0:35:57.504000	0:35:59.504000
+kann	können	VERB	-	-	0:35:57.504000	0:35:59.504000
+(ihn)	ich	PRON	-	-	0:35:57.504000	0:35:59.504000
+ich	ich	PRON	-	-	0:35:57.504000	0:35:59.504000
+,	-	-	-	-	0:35:57.504000	0:35:59.504000
+gell	gell	ADJ	-	-	0:35:57.504000	0:35:59.504000
+,	-	-	-	-	0:35:57.504000	0:35:59.504000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:35:59.504000" end="0:36:00.224000">
+ja	ja	PART	-	-	0:35:59.504000	0:36:00.224000
+.	-	-	-	-	0:35:59.504000	0:36:00.224000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:35:59.504000" end="0:36:02.291000">
+die	der	DET	-	-	0:35:59.504000	0:36:00.224000
+Spiegel	Spiegel	NOUN	-	-	0:35:59.504000	0:36:00.224000
+,	-	-	-	-	0:35:59.504000	0:36:00.224000
+aber	aber	CCONJ	-	-	0:36:00.224000	0:36:02.291000
+das	der	PRON	-	-	0:36:00.224000	0:36:02.291000
+wird	werden	AUX	-	-	0:36:00.224000	0:36:02.291000
+er	ich	PRON	-	-	0:36:00.224000	0:36:02.291000
+eh	eh	ADV	-	-	0:36:00.224000	0:36:02.291000
+haben	haben	AUX	-	-	0:36:00.224000	0:36:02.291000
+auch	auch	ADV	-	-	0:36:00.224000	0:36:02.291000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:36:00.224000	0:36:02.291000
+,	-	-	-	-	0:36:00.224000	0:36:02.291000
+nicht	nicht	PART	-	-	0:36:00.224000	0:36:02.291000
+?	-	-	-	-	0:36:00.224000	0:36:02.291000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:02.291000" end="0:36:05.484000">
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:36:02.291000	0:36:05.484000
+schon	schon	ADV	-	-	0:36:02.291000	0:36:05.484000
+mehr	mehr	DET	-	-	0:36:02.291000	0:36:05.484000
+aufgemacht	aufmachen	VERB	-	-	0:36:02.291000	0:36:05.484000
+auch	auch	ADV	-	-	0:36:02.291000	0:36:05.484000
+.	-	-	-	-	0:36:02.291000	0:36:05.484000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:02.291000" end="0:36:08.851000">
+dass	dass	SCONJ	-	-	0:36:02.291000	0:36:05.484000
+er	ich	PRON	-	-	0:36:02.291000	0:36:05.484000
+es	ich	PRON	-	-	0:36:02.291000	0:36:05.484000
+messen	messen	VERB	-	-	0:36:02.291000	0:36:05.484000
+kann	können	VERB	-	-	0:36:02.291000	0:36:05.484000
+,	-	-	-	-	0:36:02.291000	0:36:05.484000
+nicht	nicht	PART	-	-	0:36:02.291000	0:36:05.484000
+ja	ja	ADV	-	-	0:36:02.291000	0:36:05.484000
+(ich	ich	PRON	-	-	0:36:02.291000	0:36:05.484000
+mache	machen	VERB	-	-	0:36:02.291000	0:36:05.484000
+am)	am	ADP	-	-	0:36:02.291000	0:36:05.484000
+am	am	ADP	-	-	0:36:05.484000	0:36:08.851000
+Montag	Montag	NOUN	-	-	0:36:05.484000	0:36:08.851000
+mes/	-	-	-	-	0:36:05.484000	0:36:08.851000
+ähm	ähm	ADJ	-	-	0:36:05.484000	0:36:08.851000
+Mittwoch	Mittwoch	NOUN	-	-	0:36:05.484000	0:36:08.851000
+messe	messe	VERB	-	-	0:36:05.484000	0:36:08.851000
+(ich)	ich	PRON	-	-	0:36:05.484000	0:36:08.851000
+beim	beim	ADP	-	-	0:36:05.484000	0:36:08.851000
+[Manfred]N	Manfred	PROPN	-	-	0:36:05.484000	0:36:08.851000
+oben	oben	ADV	-	-	0:36:05.484000	0:36:08.851000
+.	-	-	-	-	0:36:05.484000	0:36:08.851000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:08.851000" end="0:36:09.471000">
+ach	ach	X	-	-	0:36:08.851000	0:36:09.471000
+so	so	ADV	-	-	0:36:08.851000	0:36:09.471000
+?	-	-	-	-	0:36:08.851000	0:36:09.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:09.471000" end="0:36:10.798000">
+mhm	mhm	PROPN	-	-	0:36:09.471000	0:36:10.798000
+ja	ja	ADV	-	-	0:36:09.471000	0:36:10.798000
+mhm	mhm	PROPN	-	-	0:36:09.471000	0:36:10.798000
+.	-	-	-	-	0:36:09.471000	0:36:10.798000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:10.798000" end="0:36:12.471000">
+heute	heute	ADV	-	-	0:36:10.798000	0:36:12.471000
+hätte	haben	AUX	-	-	0:36:10.798000	0:36:12.471000
+ich	ich	PRON	-	-	0:36:10.798000	0:36:12.471000
+,	-	-	-	-	0:36:10.798000	0:36:12.471000
+*weißt*	-	-	-	-	0:36:10.798000	0:36:12.471000
+,	-	-	-	-	0:36:10.798000	0:36:12.471000
+was	was	PRON	-	-	0:36:10.798000	0:36:12.471000
+ich	ich	PRON	-	-	0:36:10.798000	0:36:12.471000
+heute	heute	ADV	-	-	0:36:10.798000	0:36:12.471000
+hätte	haben	AUX	-	-	0:36:10.798000	0:36:12.471000
+sollen	sollen	VERB	-	-	0:36:10.798000	0:36:12.471000
+?	-	-	-	-	0:36:10.798000	0:36:12.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:12.471000" end="0:36:12.924000">
+hm	hm	X	-	-	0:36:12.471000	0:36:12.924000
+?	-	-	-	-	0:36:12.471000	0:36:12.924000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:12.924000" end="0:36:16.571000">
+der	der	DET	-	-	0:36:12.924000	0:36:16.571000
+[Max]N	Max	PROPN	-	-	0:36:12.924000	0:36:16.571000
+hat	haben	AUX	-	-	0:36:12.924000	0:36:16.571000
+mich	sich	PRON	-	-	0:36:12.924000	0:36:16.571000
+gestern	gestern	ADV	-	-	0:36:12.924000	0:36:16.571000
+auf	auf	ADP	-	-	0:36:12.924000	0:36:16.571000
+die	der	DET	-	-	0:36:12.924000	0:36:16.571000
+Nacht	Nacht	NOUN	-	-	0:36:12.924000	0:36:16.571000
+angerufen	anrufen	VERB	-	-	0:36:12.924000	0:36:16.571000
+,	-	-	-	-	0:36:12.924000	0:36:16.571000
+<pause duration="0,6s"/>
+der	der	DET	-	-	0:36:12.924000	0:36:16.571000
+[Strasser	Strasser	NOUN	-	-	0:36:12.924000	0:36:16.571000
+Max]N	Max	PROPN	-	-	0:36:12.924000	0:36:16.571000
+.	-	-	-	-	0:36:12.924000	0:36:16.571000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:16.571000" end="0:36:17.024000">
+wa/	-	-	-	-	0:36:16.571000	0:36:17.024000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:17.024000" end="0:36:17.884000">
+heute	heute	ADV	-	-	0:36:17.024000	0:36:17.884000
+soll	soll	VERB	-	-	0:36:17.024000	0:36:17.884000
+ich	ich	PRON	-	-	0:36:17.024000	0:36:17.884000
+da	da	ADV	-	-	0:36:17.024000	0:36:17.884000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:17.024000" end="0:36:17.884000">
+hast/	-	-	-	-	0:36:17.024000	0:36:17.884000
+.	-	-	-	-	0:36:17.024000	0:36:17.884000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:17.884000" end="0:36:25.224000">
+beim	beim	ADP	-	-	0:36:17.884000	0:36:21.398000
+[Wimberger]N	Wimberger	NOUN	-	-	0:36:17.884000	0:36:21.398000
+<pause duration="0,5s"/>
+gräbt	graben	VERB	-	-	0:36:17.884000	0:36:21.398000
+einer	einer	PRON	-	-	0:36:17.884000	0:36:21.398000
+,	-	-	-	-	0:36:17.884000	0:36:21.398000
+was	was	PRON	-	-	0:36:17.884000	0:36:21.398000
+weiß	weiß	VERB	-	-	0:36:17.884000	0:36:21.398000
+ich	ich	PRON	-	-	0:36:17.884000	0:36:21.398000
+,	-	-	-	-	0:36:17.884000	0:36:21.398000
+da	da	SCONJ	-	-	0:36:17.884000	0:36:21.398000
+hinüber	hinüber	ADV	-	-	0:36:17.884000	0:36:21.398000
+,	-	-	-	-	0:36:17.884000	0:36:21.398000
+und	und	CCONJ	-	-	0:36:21.398000	0:36:24.504000
+es	ich	PRON	-	-	0:36:21.398000	0:36:24.504000
+muss	muss	VERB	-	-	0:36:21.398000	0:36:24.504000
+irgendeine	irgendeine	DET	-	-	0:36:21.398000	0:36:24.504000
+Leitung	Leitung	NOUN	-	-	0:36:21.398000	0:36:24.504000
+hinübergehen	hinübergehen	VERB	-	-	0:36:21.398000	0:36:24.504000
+zum	zum	ADP	-	-	0:36:21.398000	0:36:24.504000
+[Kerschbaumer]N	Kerschbaumer	NOUN	-	-	0:36:21.398000	0:36:24.504000
+da	da	ADV	-	-	0:36:21.398000	0:36:24.504000
+hinüber	hinüber	ADV	-	-	0:36:21.398000	0:36:24.504000
+,	-	-	-	-	0:36:21.398000	0:36:24.504000
+weil	weil	SCONJ	-	-	0:36:24.504000	0:36:25.224000
+da	da	ADV	-	-	0:36:24.504000	0:36:25.224000
+hängen	hängen	VERB	-	-	0:36:24.504000	0:36:25.224000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:24.504000" end="0:36:25.224000">
+ja	ja	ADV	-	-	0:36:24.504000	0:36:25.224000
+ja	ja	PART	-	-	0:36:24.504000	0:36:25.224000
+.	-	-	-	-	0:36:24.504000	0:36:25.224000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:25.224000" end="0:36:27.418000">
+auch	auch	ADV	-	-	0:36:25.224000	0:36:26.171000
+die	der	DET	-	-	0:36:25.224000	0:36:26.171000
+alle	all	PRON	-	-	0:36:25.224000	0:36:26.171000
+noch	noch	ADV	-	-	0:36:25.224000	0:36:26.171000
+daran	daran	ADV	-	-	0:36:25.224000	0:36:26.171000
+,	-	-	-	-	0:36:25.224000	0:36:26.171000
+sagt	sagen	VERB	-	-	0:36:26.171000	0:36:27.418000
+der	der	DET	-	-	0:36:26.171000	0:36:27.418000
+[Max]N	Max	PROPN	-	-	0:36:26.171000	0:36:27.418000
+.	-	-	-	-	0:36:26.171000	0:36:27.418000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:26.171000" end="0:36:27.418000">
+ja	ja	ADV	-	-	0:36:26.171000	0:36:27.418000
+ja	ja	ADV	-	-	0:36:26.171000	0:36:27.418000
+ja	ja	ADV	-	-	0:36:26.171000	0:36:27.418000
+ja	ja	ADV	-	-	0:36:26.171000	0:36:27.418000
+ja	ja	PART	-	-	0:36:26.171000	0:36:27.418000
+.	-	-	-	-	0:36:26.171000	0:36:27.418000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:27.418000" end="0:36:30.264000">
+zum	zum	ADP	-	-	0:36:27.418000	0:36:28.811000
+und	und	CCONJ	-	-	0:36:27.418000	0:36:28.811000
+so	so	ADV	-	-	0:36:27.418000	0:36:28.811000
+,	-	-	-	-	0:36:27.418000	0:36:28.811000
+die	der	PRON	-	-	0:36:28.811000	0:36:30.264000
+hängen	hängen	VERB	-	-	0:36:28.811000	0:36:30.264000
+da	da	ADV	-	-	0:36:28.811000	0:36:30.264000
+daran	daran	ADV	-	-	0:36:28.811000	0:36:30.264000
+,	-	-	-	-	0:36:28.811000	0:36:30.264000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:28.811000" end="0:36:30.264000">
+mhm	mhm	PROPN	-	-	0:36:28.811000	0:36:30.264000
+mhm	mhm	PROPN	-	-	0:36:28.811000	0:36:30.264000
+mhm	mhm	PROPN	-	-	0:36:28.811000	0:36:30.264000
+.	-	-	-	-	0:36:28.811000	0:36:30.264000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:30.264000" end="0:36:40.078000">
+und	und	CCONJ	-	-	0:36:30.264000	0:36:31.944000
+es	ich	PRON	-	-	0:36:30.264000	0:36:31.944000
+wird	werden	AUX	-	-	0:36:30.264000	0:36:31.944000
+eh	eh	ADV	-	-	0:36:30.264000	0:36:31.944000
+gegraben	graben	VERB	-	-	0:36:30.264000	0:36:31.944000
+,	-	-	-	-	0:36:30.264000	0:36:31.944000
+hat	haben	AUX	-	-	0:36:30.264000	0:36:31.944000
+er	ich	PRON	-	-	0:36:30.264000	0:36:31.944000
+gesagt	sagen	VERB	-	-	0:36:30.264000	0:36:31.944000
+,	-	-	-	-	0:36:30.264000	0:36:31.944000
+aber	aber	CCONJ	-	-	0:36:31.944000	0:36:33.018000
+da	da	ADV	-	-	0:36:31.944000	0:36:33.018000
+ist	sein	AUX	-	-	0:36:31.944000	0:36:33.018000
+was	was	PRON	-	-	0:36:31.944000	0:36:33.018000
+,	-	-	-	-	0:36:31.944000	0:36:33.018000
+ich	ich	PRON	-	-	0:36:33.018000	0:36:34.764000
+sollte	sollen	VERB	-	-	0:36:33.018000	0:36:34.764000
+ein	einen	DET	-	-	0:36:33.018000	0:36:34.764000
+wenig	wenig	PRON	-	-	0:36:33.018000	0:36:34.764000
+schauen	schauen	VERB	-	-	0:36:33.018000	0:36:34.764000
+,	-	-	-	-	0:36:33.018000	0:36:34.764000
+habe	habe	AUX	-	-	0:36:34.764000	0:36:35.331000
+ich	ich	PRON	-	-	0:36:34.764000	0:36:35.331000
+gesagt	sagen	VERB	-	-	0:36:34.764000	0:36:35.331000
+,	-	-	-	-	0:36:34.764000	0:36:35.331000
+ich	ich	PRON	-	-	0:36:35.331000	0:36:36.524000
+habe	habe	AUX	-	-	0:36:35.331000	0:36:36.524000
+heute	heute	ADV	-	-	0:36:35.331000	0:36:36.524000
+einen	ein	DET	-	-	0:36:35.331000	0:36:36.524000
+Termin	Termin	NOUN	-	-	0:36:35.331000	0:36:36.524000
+da	da	ADV	-	-	0:36:35.331000	0:36:36.524000
+,	-	-	-	-	0:36:35.331000	0:36:36.524000
+habe	habe	AUX	-	-	0:36:36.524000	0:36:40.078000
+ich	ich	PRON	-	-	0:36:36.524000	0:36:40.078000
+gesagt	sagen	VERB	-	-	0:36:36.524000	0:36:40.078000
+.	-	-	-	-	0:36:36.524000	0:36:40.078000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:36.524000" end="0:36:40.078000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:40.078000" end="0:36:42.098000">
+Unistudie	Unistudie	PROPN	-	-	0:36:40.078000	0:36:42.098000
+habe	habe	AUX	-	-	0:36:40.078000	0:36:42.098000
+ich	ich	PRON	-	-	0:36:40.078000	0:36:42.098000
+gesagt	sagen	VERB	-	-	0:36:40.078000	0:36:42.098000
+,	-	-	-	-	0:36:40.078000	0:36:42.098000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:40.078000" end="0:36:42.098000">
+ähm	ähm	X	-	-	0:36:40.078000	0:36:42.098000
+nur	nur	ADV	-	-	0:36:40.078000	0:36:42.098000
+nur	nur	ADV	-	-	0:36:40.078000	0:36:42.098000
+bau/	-	-	-	-	0:36:40.078000	0:36:42.098000
+.	-	-	-	-	0:36:40.078000	0:36:42.098000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:42.098000" end="0:36:46.658000">
+da	da	ADV	-	-	0:36:42.098000	0:36:42.911000
+muss	muss	VERB	-	-	0:36:42.098000	0:36:42.911000
+ich	ich	PRON	-	-	0:36:42.098000	0:36:42.911000
+sein	mein	AUX	-	-	0:36:42.098000	0:36:42.911000
+,	-	-	-	-	0:36:42.098000	0:36:42.911000
+ich	ich	PRON	-	-	0:36:42.911000	0:36:44.444000
+kann	können	VERB	-	-	0:36:42.911000	0:36:44.444000
+nicht	nicht	PART	-	-	0:36:42.911000	0:36:44.444000
+heute	heute	ADV	-	-	0:36:42.911000	0:36:44.444000
+,	-	-	-	-	0:36:42.911000	0:36:44.444000
+heute	heute	ADV	-	-	0:36:42.911000	0:36:44.444000
+kann	können	VERB	-	-	0:36:42.911000	0:36:44.444000
+ich	ich	PRON	-	-	0:36:42.911000	0:36:44.444000
+nicht	nicht	PART	-	-	0:36:42.911000	0:36:44.444000
+.	-	-	-	-	0:36:42.911000	0:36:44.444000
+ja	ja	ADV	-	-	0:36:44.444000	0:36:46.658000
+bau/	-	-	-	-	0:36:44.444000	0:36:46.658000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:36:44.444000	0:36:46.658000
+.	-	-	-	-	0:36:44.444000	0:36:46.658000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:44.444000" end="0:36:46.658000">
+Bauaufsicht	-	-	-	-	0:36:44.444000	0:36:46.658000
+*hättest*	-	-	-	-	0:36:44.444000	0:36:46.658000
+gehabt	-	-	-	-	0:36:44.444000	0:36:46.658000
+,	-	-	-	-	0:36:44.444000	0:36:46.658000
+nicht	nicht	PART	-	-	0:36:44.444000	0:36:46.658000
+?	-	-	-	-	0:36:44.444000	0:36:46.658000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:46.658000" end="0:36:49.038000">
+aber	aber	CCONJ	-	-	0:36:46.658000	0:36:49.038000
+heute	heute	ADV	-	-	0:36:46.658000	0:36:49.038000
+bei	bei	ADP	-	-	0:36:46.658000	0:36:49.038000
+dem	der	DET	-	-	0:36:46.658000	0:36:49.038000
+Wetter	Wetter	NOUN	-	-	0:36:46.658000	0:36:49.038000
+,	-	-	-	-	0:36:46.658000	0:36:49.038000
+da	da	ADV	-	-	0:36:46.658000	0:36:49.038000
+hätte	haben	AUX	-	-	0:36:46.658000	0:36:49.038000
+ich	ich	PRON	-	-	0:36:46.658000	0:36:49.038000
+mich	sich	PRON	-	-	0:36:46.658000	0:36:49.038000
+eh	eh	ADV	-	-	0:36:46.658000	0:36:49.038000
+nicht	nicht	PART	-	-	0:36:46.658000	0:36:49.038000
+hingestellt	hinstellen	VERB	-	-	0:36:46.658000	0:36:49.038000
+.	-	-	-	-	0:36:46.658000	0:36:49.038000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:46.658000" end="0:36:49.038000">
+ja	ja	ADV	-	-	0:36:46.658000	0:36:49.038000
+ja	ja	PART	-	-	0:36:46.658000	0:36:49.038000
+.	-	-	-	-	0:36:46.658000	0:36:49.038000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:49.038000" end="0:36:49.704000">
+ja	ja	PART	-	-	0:36:49.038000	0:36:49.704000
+.	-	-	-	-	0:36:49.038000	0:36:49.704000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:49.704000" end="0:36:51.564000">
+ja	ja	ADV	-	-	0:36:49.704000	0:36:51.564000
+da	da	ADV	-	-	0:36:49.704000	0:36:51.564000
+graben	graben	VERB	-	-	0:36:49.704000	0:36:51.564000
+die	der	DET	-	-	0:36:49.704000	0:36:51.564000
+ähm	ähm	ADJ	-	-	0:36:49.704000	0:36:51.564000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:51.564000" end="0:36:53.598000">
+ja	ja	ADV	-	-	0:36:51.564000	0:36:53.598000
+ja	ja	ADV	-	-	0:36:51.564000	0:36:53.598000
+[Wimberger]N	Wimberger	ADJ	-	-	0:36:51.564000	0:36:53.598000
+Haus	Haus	NOUN	-	-	0:36:51.564000	0:36:53.598000
+ja	ja	PART	-	-	0:36:51.564000	0:36:53.598000
+.	-	-	-	-	0:36:51.564000	0:36:53.598000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:51.564000" end="0:36:53.598000">
+[Wimberger]N	Wimberger	ADJ	-	-	0:36:51.564000	0:36:53.598000
+Haus	Haus	NOUN	-	-	0:36:51.564000	0:36:53.598000
+,	-	-	-	-	0:36:51.564000	0:36:53.598000
+was	was	PRON	-	-	0:36:51.564000	0:36:53.598000
+was	was	PRON	-	-	0:36:51.564000	0:36:53.598000
+sie	ich	PRON	-	-	0:36:51.564000	0:36:53.598000
+umgebaut	umbauen	VERB	-	-	0:36:51.564000	0:36:53.598000
+haben	haben	AUX	-	-	0:36:51.564000	0:36:53.598000
+,	-	-	-	-	0:36:51.564000	0:36:53.598000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:53.598000" end="0:36:54.571000">
+und	und	CCONJ	-	-	0:36:53.598000	0:36:54.571000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:53.598000" end="0:36:54.571000">
+da	da	SCONJ	-	-	0:36:53.598000	0:36:54.571000
+da	da	ADV	-	-	0:36:53.598000	0:36:54.571000
+werken	werken	VERB	-	-	0:36:53.598000	0:36:54.571000
+sie	ich	PRON	-	-	0:36:53.598000	0:36:54.571000
+fest	fest	ADP	-	-	0:36:53.598000	0:36:54.571000
+,	-	-	-	-	0:36:53.598000	0:36:54.571000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:54.571000" end="0:36:57.091000">
+der	der	PRON	-	-	0:36:54.571000	0:36:57.091000
+will	wollen	VERB	-	-	0:36:54.571000	0:36:57.091000
+auch	auch	ADV	-	-	0:36:54.571000	0:36:57.091000
+(mir	sich	PRON	-	-	0:36:54.571000	0:36:57.091000
+scheint)	scheinen	VERB	-	-	0:36:54.571000	0:36:57.091000
+einen	ein	DET	-	-	0:36:54.571000	0:36:57.091000
+Anschluss	Anschluss	NOUN	-	-	0:36:54.571000	0:36:57.091000
+noch	noch	ADV	-	-	0:36:54.571000	0:36:57.091000
+haben	haben	AUX	-	-	0:36:54.571000	0:36:57.091000
+,	-	-	-	-	0:36:54.571000	0:36:57.091000
+aber/	-	-	-	-	0:36:54.571000	0:36:57.091000
+.	-	-	-	-	0:36:54.571000	0:36:57.091000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:36:54.571000" end="0:36:59.164000">
+habe	habe	AUX	-	-	0:36:54.571000	0:36:57.091000
+ich	ich	PRON	-	-	0:36:54.571000	0:36:57.091000
+gesehen	sehen	VERB	-	-	0:36:54.571000	0:36:57.091000
+,	-	-	-	-	0:36:54.571000	0:36:57.091000
+ja	ja	PART	-	-	0:36:54.571000	0:36:57.091000
+.	-	-	-	-	0:36:54.571000	0:36:57.091000
+ah	ah	X	-	-	0:36:57.091000	0:36:59.164000
+ja	ja	ADV	-	-	0:36:57.091000	0:36:59.164000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:36:59.164000" end="0:37:01.284000">
+jetzt	jetzt	ADV	-	-	0:36:59.164000	0:37:00.451000
+ruft	rufen	VERB	-	-	0:36:59.164000	0:37:00.451000
+er	ich	PRON	-	-	0:36:59.164000	0:37:00.451000
+mich	sich	PRON	-	-	0:36:59.164000	0:37:00.451000
+heute	heute	ADV	-	-	0:36:59.164000	0:37:00.451000
+auf	auf	ADP	-	-	0:36:59.164000	0:37:00.451000
+die	der	DET	-	-	0:36:59.164000	0:37:00.451000
+Nacht	Nacht	NOUN	-	-	0:36:59.164000	0:37:00.451000
+an	an	ADP	-	-	0:36:59.164000	0:37:00.451000
+,	-	-	-	-	0:36:59.164000	0:37:00.451000
+ob	ob	SCONJ	-	-	0:37:00.451000	0:37:01.284000
+es	ich	PRON	-	-	0:37:00.451000	0:37:01.284000
+morgen	morgen	ADV	-	-	0:37:00.451000	0:37:01.284000
+was	was	PRON	-	-	0:37:00.451000	0:37:01.284000
+ist	sein	AUX	-	-	0:37:00.451000	0:37:01.284000
+.	-	-	-	-	0:37:00.451000	0:37:01.284000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:00.451000" end="0:37:02.271000">
+mhm	mhm	PROPN	-	-	0:37:00.451000	0:37:01.284000
+mhm	mhm	PROPN	-	-	0:37:01.284000	0:37:02.271000
+mhm	mhm	PROPN	-	-	0:37:01.284000	0:37:02.271000
+.	-	-	-	-	0:37:01.284000	0:37:02.271000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:02.271000" end="0:37:05.918000">
+na	na	X	-	-	0:37:02.271000	0:37:05.918000
+bei	bei	ADP	-	-	0:37:02.271000	0:37:05.918000
+dem	der	DET	-	-	0:37:02.271000	0:37:05.918000
+Wetter	Wetter	NOUN	-	-	0:37:02.271000	0:37:05.918000
+habe	habe	AUX	-	-	0:37:02.271000	0:37:05.918000
+ich	ich	PRON	-	-	0:37:02.271000	0:37:05.918000
+eh	eh	ADV	-	-	0:37:02.271000	0:37:05.918000
+keine	kein	DET	-	-	0:37:02.271000	0:37:05.918000
+Freude	Freude	NOUN	-	-	0:37:02.271000	0:37:05.918000
+.	-	-	-	-	0:37:02.271000	0:37:05.918000
+<pause duration="2,2s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:05.918000" end="0:37:07.638000">
+nein	nein	PART	-	-	0:37:05.918000	0:37:07.638000
+das	der	PRON	-	-	0:37:05.918000	0:37:07.638000
+ist	sein	AUX	-	-	0:37:05.918000	0:37:07.638000
+ja	ja	ADV	-	-	0:37:05.918000	0:37:07.638000
+nicht	nicht	PART	-	-	0:37:05.918000	0:37:07.638000
+lustig	lustig	ADJ	-	-	0:37:05.918000	0:37:07.638000
+,	-	-	-	-	0:37:05.918000	0:37:07.638000
+gell	gell	ADJ	-	-	0:37:05.918000	0:37:07.638000
+?	-	-	-	-	0:37:05.918000	0:37:07.638000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:07.638000" end="0:37:08.211000">
+so	so	ADV	-	-	0:37:07.638000	0:37:08.211000
+da	da	ADV	-	-	0:37:07.638000	0:37:08.211000
+.	-	-	-	-	0:37:07.638000	0:37:08.211000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:07.638000" end="0:37:09.384000">
+so	so	ADV	-	-	0:37:07.638000	0:37:08.211000
+jetzt	jetzt	ADV	-	-	0:37:07.638000	0:37:08.211000
+sind	sein	AUX	-	-	0:37:08.211000	0:37:09.384000
+wir	ich	PRON	-	-	0:37:08.211000	0:37:09.384000
+eh	eh	ADV	-	-	0:37:08.211000	0:37:09.384000
+schon	schon	ADV	-	-	0:37:08.211000	0:37:09.384000
+bei	bei	ADP	-	-	0:37:08.211000	0:37:09.384000
+der	der	DET	-	-	0:37:08.211000	0:37:09.384000
+Arbeit	Arbeit	NOUN	-	-	0:37:08.211000	0:37:09.384000
+auch	auch	ADV	-	-	0:37:08.211000	0:37:09.384000
+schon	schon	ADV	-	-	0:37:08.211000	0:37:09.384000
+.	-	-	-	-	0:37:08.211000	0:37:09.384000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:09.384000" end="0:37:10.671000">
+so	so	ADV	-	-	0:37:09.384000	0:37:10.671000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:09.384000" end="0:37:10.671000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:10.671000" end="0:37:12.604000">
+haben	haben	AUX	-	-	0:37:10.671000	0:37:12.604000
+wir	ich	PRON	-	-	0:37:10.671000	0:37:12.604000
+eh	eh	ADV	-	-	0:37:10.671000	0:37:12.604000
+die	der	DET	-	-	0:37:10.671000	0:37:12.604000
+Arbeit	Arbeit	NOUN	-	-	0:37:10.671000	0:37:12.604000
+auch	auch	ADV	-	-	0:37:10.671000	0:37:12.604000
+schon	schon	ADV	-	-	0:37:10.671000	0:37:12.604000
+erledigt	erledigen	VERB	-	-	0:37:10.671000	0:37:12.604000
+,	-	-	-	-	0:37:10.671000	0:37:12.604000
+oder	oder	CCONJ	-	-	0:37:10.671000	0:37:12.604000
+?	-	-	-	-	0:37:10.671000	0:37:12.604000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:10.671000" end="0:37:12.604000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:12.604000" end="0:37:14.304000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:12.604000" end="0:37:14.304000">
+ja	ja	ADV	-	-	0:37:12.604000	0:37:14.304000
+das	der	PRON	-	-	0:37:12.604000	0:37:14.304000
+geht	gehen	VERB	-	-	0:37:12.604000	0:37:14.304000
+schnell	schnellen	ADJ	-	-	0:37:12.604000	0:37:14.304000
+,	-	-	-	-	0:37:12.604000	0:37:14.304000
+gell	gell	ADJ	-	-	0:37:12.604000	0:37:14.304000
+,	-	-	-	-	0:37:12.604000	0:37:14.304000
+ja	ja	PART	-	-	0:37:12.604000	0:37:14.304000
+.	-	-	-	-	0:37:12.604000	0:37:14.304000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:14.304000" end="0:37:16.304000">
+gibt	geben	VERB	-	-	0:37:14.304000	0:37:16.304000
+es	ich	PRON	-	-	0:37:14.304000	0:37:16.304000
+ja	ja	ADV	-	-	0:37:14.304000	0:37:16.304000
+in	in	ADP	-	-	0:37:14.304000	0:37:16.304000
+der	der	DET	-	-	0:37:14.304000	0:37:16.304000
+Pension	Pension	NOUN	-	-	0:37:14.304000	0:37:16.304000
+.	-	-	-	-	0:37:14.304000	0:37:16.304000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:14.304000" end="0:37:16.304000">
+na	na	X	-	-	0:37:14.304000	0:37:16.304000
+ja	ja	PART	-	-	0:37:14.304000	0:37:16.304000
+.	-	-	-	-	0:37:14.304000	0:37:16.304000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:16.304000" end="0:37:17.464000">
+(ich	ich	PRON	-	-	0:37:16.304000	0:37:17.464000
+habe)	habe	AUX	-	-	0:37:16.304000	0:37:17.464000
+Arbeit	Arbeit	NOUN	-	-	0:37:16.304000	0:37:17.464000
+genug	genug	DET	-	-	0:37:16.304000	0:37:17.464000
+,	-	-	-	-	0:37:16.304000	0:37:17.464000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:16.304000" end="0:37:17.464000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:17.464000" end="0:37:18.504000">
+aber	aber	CCONJ	-	-	0:37:17.464000	0:37:18.504000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:17.464000" end="0:37:19.458000">
+ja	ja	ADV	-	-	0:37:17.464000	0:37:18.504000
+eh	eh	X	-	-	0:37:17.464000	0:37:18.504000
+.	-	-	-	-	0:37:17.464000	0:37:18.504000
+keine	kein	DET	-	-	0:37:18.504000	0:37:19.458000
+Zeit	Zeit	NOUN	-	-	0:37:18.504000	0:37:19.458000
+,	-	-	-	-	0:37:18.504000	0:37:19.458000
+gell	gell	ADJ	-	-	0:37:18.504000	0:37:19.458000
+?	-	-	-	-	0:37:18.504000	0:37:19.458000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:19.458000" end="0:37:22.758000">
+und	und	CCONJ	-	-	0:37:19.458000	0:37:22.758000
+keine	kein	DET	-	-	0:37:19.458000	0:37:22.758000
+Zeit	Zeit	NOUN	-	-	0:37:19.458000	0:37:22.758000
+,	-	-	-	-	0:37:19.458000	0:37:22.758000
+so	so	ADV	-	-	0:37:19.458000	0:37:22.758000
+genau	genau	ADJ	-	-	0:37:19.458000	0:37:22.758000
+so	so	ADV	-	-	0:37:19.458000	0:37:22.758000
+ist	sein	AUX	-	-	0:37:19.458000	0:37:22.758000
+das	der	DET	-	-	0:37:19.458000	0:37:22.758000
+Arbeit	Arbeit	NOUN	-	-	0:37:19.458000	0:37:22.758000
+ja	ja	ADV	-	-	0:37:19.458000	0:37:22.758000
+ja	ja	PART	-	-	0:37:19.458000	0:37:22.758000
+.	-	-	-	-	0:37:19.458000	0:37:22.758000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:19.458000" end="0:37:30.044000">
+so	so	ADV	-	-	0:37:19.458000	0:37:22.758000
+viel	viel	DET	-	-	0:37:19.458000	0:37:22.758000
+Arbeit	Arbeit	NOUN	-	-	0:37:19.458000	0:37:22.758000
+hätten	haben	AUX	-	-	0:37:19.458000	0:37:22.758000
+wir	ich	PRON	-	-	0:37:19.458000	0:37:22.758000
+alleweile	alleweile	NOUN	-	-	0:37:19.458000	0:37:22.758000
+na	na	X	-	-	0:37:19.458000	0:37:22.758000
+ja	ja	PART	-	-	0:37:19.458000	0:37:22.758000
+.	-	-	-	-	0:37:19.458000	0:37:22.758000
+<pause duration="1,0s"/>
+ja	ja	PART	-	-	0:37:22.758000	0:37:26.411000
+Arbeit	Arbeit	NOUN	-	-	0:37:22.758000	0:37:26.411000
+finden	finden	VERB	-	-	0:37:22.758000	0:37:26.411000
+wir	ich	PRON	-	-	0:37:22.758000	0:37:26.411000
+alleweile	alleweile	VERB	-	-	0:37:22.758000	0:37:26.411000
+,	-	-	-	-	0:37:22.758000	0:37:26.411000
+fad	fad	PROPN	-	-	0:37:26.411000	0:37:30.044000
+wird	werden	AUX	-	-	0:37:26.411000	0:37:30.044000
+uns	sich	PRON	-	-	0:37:26.411000	0:37:30.044000
+nicht	nicht	PART	-	-	0:37:26.411000	0:37:30.044000
+,	-	-	-	-	0:37:26.411000	0:37:30.044000
+dir	sich	PRON	-	-	0:37:26.411000	0:37:30.044000
+nicht	nicht	PART	-	-	0:37:26.411000	0:37:30.044000
+und	und	CCONJ	-	-	0:37:26.411000	0:37:30.044000
+mir	sich	PRON	-	-	0:37:26.411000	0:37:30.044000
+nicht	nicht	PART	-	-	0:37:26.411000	0:37:30.044000
+,	-	-	-	-	0:37:26.411000	0:37:30.044000
+gell	gell	ADJ	-	-	0:37:26.411000	0:37:30.044000
+?	-	-	-	-	0:37:26.411000	0:37:30.044000
+<pause duration="1,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:30.044000" end="0:37:32.491000">
+Arbeit	Arbeit	NOUN	-	-	0:37:30.044000	0:37:32.491000
+haben	haben	AUX	-	-	0:37:30.044000	0:37:32.491000
+wir	ich	PRON	-	-	0:37:30.044000	0:37:32.491000
+genug	genug	ADV	-	-	0:37:30.044000	0:37:32.491000
+immer	immer	ADV	-	-	0:37:30.044000	0:37:32.491000
+,	-	-	-	-	0:37:30.044000	0:37:32.491000
+Gott	Gott	NOUN	-	-	0:37:30.044000	0:37:32.491000
+sei	sein	AUX	-	-	0:37:30.044000	0:37:32.491000
+Dank	Dank	NOUN	-	-	0:37:30.044000	0:37:32.491000
+,	-	-	-	-	0:37:30.044000	0:37:32.491000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:30.044000" end="0:37:32.491000">
+mhm	mhm	PROPN	-	-	0:37:30.044000	0:37:32.491000
+mhm	mhm	PROPN	-	-	0:37:30.044000	0:37:32.491000
+mhm	mhm	PROPN	-	-	0:37:30.044000	0:37:32.491000
+.	-	-	-	-	0:37:30.044000	0:37:32.491000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:32.491000" end="0:37:35.711000">
+<pause duration="0,6s"/>
+wenn	wenn	SCONJ	-	-	0:37:32.491000	0:37:34.771000
+man	man	PRON	-	-	0:37:32.491000	0:37:34.771000
+noch	noch	ADV	-	-	0:37:32.491000	0:37:34.771000
+ein	einen	DET	-	-	0:37:32.491000	0:37:34.771000
+wenig	wenig	PRON	-	-	0:37:32.491000	0:37:34.771000
+was	was	PRON	-	-	0:37:32.491000	0:37:34.771000
+arbeiten	arbeiten	VERB	-	-	0:37:32.491000	0:37:34.771000
+kann	können	VERB	-	-	0:37:32.491000	0:37:34.771000
+,	-	-	-	-	0:37:32.491000	0:37:34.771000
+muss	muss	VERB	-	-	0:37:34.771000	0:37:35.711000
+man	man	PRON	-	-	0:37:34.771000	0:37:35.711000
+auch	auch	ADV	-	-	0:37:34.771000	0:37:35.711000
+sagen	sagen	VERB	-	-	0:37:34.771000	0:37:35.711000
+.	-	-	-	-	0:37:34.771000	0:37:35.711000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:35.711000" end="0:37:38.104000">
+ja	ja	ADV	-	-	0:37:35.711000	0:37:38.104000
+eh	eh	ADV	-	-	0:37:35.711000	0:37:38.104000
+<pause duration="0,8s"/>
+solange	solange	SCONJ	-	-	0:37:35.711000	0:37:38.104000
+es	ich	PRON	-	-	0:37:35.711000	0:37:38.104000
+halt	halt	ADV	-	-	0:37:35.711000	0:37:38.104000
+geht	gehen	VERB	-	-	0:37:35.711000	0:37:38.104000
+,	-	-	-	-	0:37:35.711000	0:37:38.104000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:38.104000" end="0:37:38.798000">
+ja	ja	ADV	-	-	0:37:38.104000	0:37:38.798000
+ja	ja	PART	-	-	0:37:38.104000	0:37:38.798000
+.	-	-	-	-	0:37:38.104000	0:37:38.798000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:38.104000" end="0:37:43.851000">
+werkt	werken	VERB	-	-	0:37:38.104000	0:37:38.798000
+man	man	PRON	-	-	0:37:38.798000	0:37:40.658000
+eh	eh	ADV	-	-	0:37:38.798000	0:37:40.658000
+ein	einen	DET	-	-	0:37:38.798000	0:37:40.658000
+wengerl	wengerl	NOUN	-	-	0:37:38.798000	0:37:40.658000
+,	-	-	-	-	0:37:38.798000	0:37:40.658000
+<pause duration="1,1s"/>
+und	und	CCONJ	-	-	0:37:40.658000	0:37:41.651000
+wenn	wenn	SCONJ	-	-	0:37:40.658000	0:37:41.651000
+du	du	PRON	-	-	0:37:40.658000	0:37:41.651000
+einmal	einmal	ADV	-	-	0:37:40.658000	0:37:41.651000
+aufhörst	aufhören	ADV	-	-	0:37:40.658000	0:37:41.651000
+,	-	-	-	-	0:37:40.658000	0:37:41.651000
+dann	-	-	-	-	0:37:41.651000	0:37:43.851000
+*ist*	-	-	-	-	0:37:41.651000	0:37:43.851000
+eh	-	-	-	-	0:37:41.651000	0:37:43.851000
+<pause duration="0,9s"/>
+hm	-	-	-	-	0:37:41.651000	0:37:43.851000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:43.851000" end="0:37:45.191000">
+dann	dann	ADV	-	-	0:37:43.851000	0:37:45.191000
+nein	nein	PART	-	-	0:37:43.851000	0:37:45.191000
+nein	nein	ADV	-	-	0:37:43.851000	0:37:45.191000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:43.851000" end="0:37:48.478000">
+das	-	-	-	-	0:37:43.851000	0:37:45.191000
+ist	-	-	-	-	0:37:43.851000	0:37:45.191000
+nicht	-	-	-	-	0:37:43.851000	0:37:45.191000
+gut	-	-	-	-	0:37:43.851000	0:37:45.191000
+dann	-	-	-	-	0:37:43.851000	0:37:45.191000
+,	-	-	-	-	0:37:43.851000	0:37:45.191000
+dann	-	-	-	-	0:37:45.191000	0:37:48.478000
+*ist*	-	-	-	-	0:37:45.191000	0:37:48.478000
+bald	-	-	-	-	0:37:45.191000	0:37:48.478000
+ganz	-	-	-	-	0:37:45.191000	0:37:48.478000
+_gar_	-	-	-	-	0:37:45.191000	0:37:48.478000
+dann	-	-	-	-	0:37:45.191000	0:37:48.478000
+,	-	-	-	-	0:37:45.191000	0:37:48.478000
+nicht	nicht	PART	-	-	0:37:45.191000	0:37:48.478000
+,	-	-	-	-	0:37:45.191000	0:37:48.478000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:37:45.191000	0:37:48.478000
+,	-	-	-	-	0:37:45.191000	0:37:48.478000
+gell	gell	ADJ	-	-	0:37:45.191000	0:37:48.478000
+?	-	-	-	-	0:37:45.191000	0:37:48.478000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:48.478000" end="0:37:49.671000">
+zu	zu	ADP	-	-	0:37:48.478000	0:37:49.671000
+dem	der	PRON	-	-	0:37:48.478000	0:37:49.671000
+komme	kommen	VERB	-	-	0:37:48.478000	0:37:49.671000
+ich	ich	PRON	-	-	0:37:48.478000	0:37:49.671000
+eh	eh	ADV	-	-	0:37:48.478000	0:37:49.671000
+nie	nie	ADV	-	-	0:37:48.478000	0:37:49.671000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:49.671000" end="0:37:50.804000">
+hm	hm	X	-	-	0:37:49.671000	0:37:50.804000
+Lieblingsbuch	Lieblingsbuch	NOUN	-	-	0:37:49.671000	0:37:50.804000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:50.804000" end="0:37:51.791000">
+zu	zu	ADP	-	-	0:37:50.804000	0:37:51.791000
+dem	der	DET	-	-	0:37:50.804000	0:37:51.791000
+nächsten	nächst	ADJ	-	-	0:37:50.804000	0:37:51.791000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:50.804000" end="0:37:52.138000">
+ja	ja	PART	-	-	0:37:51.791000	0:37:52.138000
+.	-	-	-	-	0:37:51.791000	0:37:52.138000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:52.138000" end="0:37:55.731000">
+Punkt	Punkt	NOUN	-	-	0:37:52.138000	0:37:55.731000
+,	-	-	-	-	0:37:52.138000	0:37:55.731000
+Lieblingsbuch	Lieblingsbuch	NOUN	-	-	0:37:52.138000	0:37:55.731000
+<pause duration="0,6s"/>
+Zeitung	Zeitung	NOUN	-	-	0:37:52.138000	0:37:55.731000
+schon	schon	ADV	-	-	0:37:52.138000	0:37:55.731000
+,	-	-	-	-	0:37:52.138000	0:37:55.731000
+weil	weil	SCONJ	-	-	0:37:52.138000	0:37:55.731000
+da	da	ADV	-	-	0:37:52.138000	0:37:55.731000
+habe	habe	AUX	-	-	0:37:52.138000	0:37:55.731000
+ich	ich	PRON	-	-	0:37:52.138000	0:37:55.731000
+eine	einen	PRON	-	-	0:37:52.138000	0:37:55.731000
+.	-	-	-	-	0:37:52.138000	0:37:55.731000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:55.731000" end="0:37:57.731000">
+Zeitung	Zeitung	NOUN	-	-	0:37:55.731000	0:37:57.731000
+haben	haben	AUX	-	-	0:37:55.731000	0:37:57.731000
+wir	ich	PRON	-	-	0:37:55.731000	0:37:57.731000
+eigentlich	eigentlich	ADV	-	-	0:37:55.731000	0:37:57.731000
+die	der	DET	-	-	0:37:55.731000	0:37:57.731000
+Nachrichten	Nachricht	NOUN	-	-	0:37:55.731000	0:37:57.731000
+alleweile	alleweile	VERB	-	-	0:37:55.731000	0:37:57.731000
+,	-	-	-	-	0:37:55.731000	0:37:57.731000
+nicht	nicht	PART	-	-	0:37:55.731000	0:37:57.731000
+?	-	-	-	-	0:37:55.731000	0:37:57.731000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:57.731000" end="0:37:59.031000">
+ja	ja	PART	-	-	0:37:57.731000	0:37:59.031000
+w/	-	-	-	-	0:37:57.731000	0:37:59.031000
+ich	ich	PRON	-	-	0:37:57.731000	0:37:59.031000
+auch	auch	ADV	-	-	0:37:57.731000	0:37:59.031000
+.	-	-	-	-	0:37:57.731000	0:37:59.031000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:57.731000" end="0:37:59.031000">
+w/	-	-	-	-	0:37:57.731000	0:37:59.031000
+was	was	PRON	-	-	0:37:57.731000	0:37:59.031000
+was	was	PRON	-	-	0:37:57.731000	0:37:59.031000
+habt	haben	AUX	-	-	0:37:57.731000	0:37:59.031000
+ihr	mein	PRON	-	-	0:37:57.731000	0:37:59.031000
+?	-	-	-	-	0:37:57.731000	0:37:59.031000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:37:59.031000" end="0:38:00.144000">
+Nachrichten	Nachricht	NOUN	-	-	0:37:59.031000	0:38:00.144000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:37:59.031000" end="0:38:00.591000">
+Nachrichten	Nachricht	NOUN	-	-	0:37:59.031000	0:38:00.144000
+ja	ja	ADV	-	-	0:37:59.031000	0:38:00.144000
+das	der	PRON	-	-	0:38:00.144000	0:38:00.591000
+ist/	-	-	-	-	0:38:00.144000	0:38:00.591000
+.	-	-	-	-	0:38:00.144000	0:38:00.591000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:00.591000" end="0:38:03.718000">
+und	und	CCONJ	-	-	0:38:00.591000	0:38:02.591000
+gerade	gerade	ADV	-	-	0:38:00.591000	0:38:02.591000
+heute	heute	ADV	-	-	0:38:00.591000	0:38:02.591000
+hat	haben	AUX	-	-	0:38:00.591000	0:38:02.591000
+sie	ich	PRON	-	-	0:38:00.591000	0:38:02.591000
+angerufen	anrufen	VERB	-	-	0:38:00.591000	0:38:02.591000
+in	in	ADP	-	-	0:38:02.591000	0:38:03.718000
+der	der	DET	-	-	0:38:02.591000	0:38:03.718000
+Früh	Früh	NOUN	-	-	0:38:02.591000	0:38:03.718000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:02.591000" end="0:38:03.718000">
+wirklich	wirklich	ADJ	-	-	0:38:02.591000	0:38:03.718000
+?	-	-	-	-	0:38:02.591000	0:38:03.718000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:03.718000" end="0:38:04.771000">
+von	von	ADP	-	-	0:38:03.718000	0:38:04.771000
+den	der	DET	-	-	0:38:03.718000	0:38:04.771000
+Nachrichten	Nachricht	NOUN	-	-	0:38:03.718000	0:38:04.771000
+,	-	-	-	-	0:38:03.718000	0:38:04.771000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:03.718000" end="0:38:05.158000">
+wergen	wergen	VERB	-	-	0:38:03.718000	0:38:04.771000
+was	was	PRON	-	-	0:38:03.718000	0:38:04.771000
+?	-	-	-	-	0:38:03.718000	0:38:04.771000
+ach	ach	X	-	-	0:38:04.771000	0:38:05.158000
+so	so	ADV	-	-	0:38:04.771000	0:38:05.158000
+?	-	-	-	-	0:38:04.771000	0:38:05.158000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:05.158000" end="0:38:08.051000">
+ob	ob	SCONJ	-	-	0:38:05.158000	0:38:06.511000
+ich	ich	PRON	-	-	0:38:05.158000	0:38:06.511000
+eh	eh	ADV	-	-	0:38:05.158000	0:38:06.511000
+zufrieden	zufrieden	ADJ	-	-	0:38:05.158000	0:38:06.511000
+bin	sein	AUX	-	-	0:38:05.158000	0:38:06.511000
+damit	damit	ADV	-	-	0:38:05.158000	0:38:06.511000
+oder	oder	CCONJ	-	-	0:38:06.511000	0:38:08.051000
+oder	oder	CCONJ	-	-	0:38:06.511000	0:38:08.051000
+ja	ja	ADV	-	-	0:38:06.511000	0:38:08.051000
+ja	ja	ADV	-	-	0:38:06.511000	0:38:08.051000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:06.511000" end="0:38:08.051000">
+echt	echt	ADJ	-	-	0:38:06.511000	0:38:08.051000
+?	-	-	-	-	0:38:06.511000	0:38:08.051000
+ja	ja	ADV	-	-	0:38:06.511000	0:38:08.051000
+ja	ja	ADV	-	-	0:38:06.511000	0:38:08.051000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:08.051000" end="0:38:09.471000">
+und	und	CCONJ	-	-	0:38:08.051000	0:38:09.471000
+ob	ob	SCONJ	-	-	0:38:08.051000	0:38:09.471000
+ich	ich	PRON	-	-	0:38:08.051000	0:38:09.471000
+nein	nein	ADV	-	-	0:38:08.051000	0:38:09.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:08.051000" end="0:38:09.471000">
+ja	ja	ADV	-	-	0:38:08.051000	0:38:09.471000
+das	der	PRON	-	-	0:38:08.051000	0:38:09.471000
+machen	machen	VERB	-	-	0:38:08.051000	0:38:09.471000
+sie	ich	PRON	-	-	0:38:08.051000	0:38:09.471000
+hie	hie	ADV	-	-	0:38:08.051000	0:38:09.471000
+und	und	CCONJ	-	-	0:38:08.051000	0:38:09.471000
+da	da	ADV	-	-	0:38:08.051000	0:38:09.471000
+.	-	-	-	-	0:38:08.051000	0:38:09.471000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:09.471000" end="0:38:12.424000">
+hauptsächlich	hauptsächlich	ADJ	-	-	0:38:09.471000	0:38:12.424000
+,	-	-	-	-	0:38:09.471000	0:38:12.424000
+ob	ob	SCONJ	-	-	0:38:09.471000	0:38:12.424000
+wir	ich	PRON	-	-	0:38:09.471000	0:38:12.424000
+sie	ich	PRON	-	-	0:38:09.471000	0:38:12.424000
+eh	eh	ADV	-	-	0:38:09.471000	0:38:12.424000
+immer	immer	ADV	-	-	0:38:09.471000	0:38:12.424000
+kriegen	kriegen	VERB	-	-	0:38:09.471000	0:38:12.424000
+.	-	-	-	-	0:38:09.471000	0:38:12.424000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:12.424000" end="0:38:12.771000">
+mhm	mhm	PROPN	-	-	0:38:12.424000	0:38:12.771000
+.	-	-	-	-	0:38:12.424000	0:38:12.771000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:12.771000" end="0:38:15.298000">
+das	der	PRON	-	-	0:38:12.771000	0:38:13.998000
+ist	sein	AUX	-	-	0:38:12.771000	0:38:13.998000
+der	der	DET	-	-	0:38:12.771000	0:38:13.998000
+Hauptpunkt	Hauptpunkt	NOUN	-	-	0:38:12.771000	0:38:13.998000
+gewesen	sein	AUX	-	-	0:38:12.771000	0:38:13.998000
+,	-	-	-	-	0:38:12.771000	0:38:13.998000
+darum	darum	ADV	-	-	0:38:13.998000	0:38:15.298000
+hat	haben	AUX	-	-	0:38:13.998000	0:38:15.298000
+sie	ich	PRON	-	-	0:38:13.998000	0:38:15.298000
+angerufen	anrufen	VERB	-	-	0:38:13.998000	0:38:15.298000
+.	-	-	-	-	0:38:13.998000	0:38:15.298000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:13.998000" end="0:38:16.011000">
+krieg/	-	-	-	-	0:38:13.998000	0:38:15.298000
+kriegt	kriegen	VERB	-	-	0:38:13.998000	0:38:15.298000
+es	ich	PRON	-	-	0:38:13.998000	0:38:15.298000
+ihr	mein	PRON	-	-	0:38:13.998000	0:38:15.298000
+mit	mit	ADP	-	-	0:38:13.998000	0:38:15.298000
+der	der	DET	-	-	0:38:13.998000	0:38:15.298000
+Post	Post	NOUN	-	-	0:38:15.298000	0:38:16.011000
+die	der	DET	-	-	0:38:15.298000	0:38:16.011000
+Zeitung	Zeitung	NOUN	-	-	0:38:15.298000	0:38:16.011000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:16.011000" end="0:38:16.438000">
+nein	-	-	-	-	0:38:16.011000	0:38:16.438000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:16.011000" end="0:38:16.964000">
+oder/	-	-	-	-	0:38:16.011000	0:38:16.438000
+.	-	-	-	-	0:38:16.011000	0:38:16.438000
+nicht	nicht	PART	-	-	0:38:16.438000	0:38:16.964000
+?	-	-	-	-	0:38:16.438000	0:38:16.964000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:16.964000" end="0:38:18.318000">
+kommt	-	-	-	-	0:38:16.964000	0:38:18.318000
+der	-	-	-	-	0:38:16.964000	0:38:18.318000
+kommt	-	-	-	-	0:38:16.964000	0:38:18.318000
+der	-	-	-	-	0:38:16.964000	0:38:18.318000
+_dings_	-	-	-	-	0:38:16.964000	0:38:18.318000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:16.964000" end="0:38:19.251000">
+nein	nein	PART	-	-	0:38:16.964000	0:38:18.318000
+ähm	ähm	PROPN	-	-	0:38:18.318000	0:38:19.251000
+eine	einen	DET	-	-	0:38:18.318000	0:38:19.251000
+Zustellung	Zustellung	NOUN	-	-	0:38:18.318000	0:38:19.251000
+?	-	-	-	-	0:38:18.318000	0:38:19.251000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:19.251000" end="0:38:21.851000">
+ähm	-	-	-	-	0:38:19.251000	0:38:19.791000
+ja	-	-	-	-	0:38:19.251000	0:38:19.791000
+um	-	-	-	-	0:38:19.791000	0:38:21.851000
+um	-	-	-	-	0:38:19.791000	0:38:21.851000
+sechs	-	-	-	-	0:38:19.791000	0:38:21.851000
+halb	-	-	-	-	0:38:19.791000	0:38:21.851000
+sieben	-	-	-	-	0:38:19.791000	0:38:21.851000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:19.791000" end="0:38:21.851000">
+ja	ja	ADV	-	-	0:38:19.791000	0:38:21.851000
+das	der	PRON	-	-	0:38:19.791000	0:38:21.851000
+ist	sein	AUX	-	-	0:38:19.791000	0:38:21.851000
+ja	ja	ADV	-	-	0:38:19.791000	0:38:21.851000
+bei	bei	ADP	-	-	0:38:19.791000	0:38:21.851000
+uns/	-	-	-	-	0:38:19.791000	0:38:21.851000
+.	-	-	-	-	0:38:19.791000	0:38:21.851000
+wir	ich	PRON	-	-	0:38:19.791000	0:38:21.851000
+kriegen	kriegen	VERB	-	-	0:38:19.791000	0:38:21.851000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:21.851000" end="0:38:22.824000">
+ist	-	-	-	-	0:38:21.851000	0:38:22.824000
+die	-	-	-	-	0:38:21.851000	0:38:22.824000
+da	-	-	-	-	0:38:21.851000	0:38:22.824000
+alleweile	-	-	-	-	0:38:21.851000	0:38:22.824000
+.	-	-	-	-	0:38:21.851000	0:38:22.824000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:21.851000" end="0:38:24.711000">
+ja	ja	ADV	-	-	0:38:21.851000	0:38:22.824000
+wir	ich	PRON	-	-	0:38:21.851000	0:38:22.824000
+wir	ich	PRON	-	-	0:38:22.824000	0:38:24.711000
+kriegen	kriegen	VERB	-	-	0:38:22.824000	0:38:24.711000
+sie	ich	PRON	-	-	0:38:22.824000	0:38:24.711000
+um	um	ADP	-	-	0:38:22.824000	0:38:24.711000
+zwei	zwei	NUM	-	-	0:38:22.824000	0:38:24.711000
+halb	halb	ADJ	-	-	0:38:22.824000	0:38:24.711000
+drei	drei	NUM	-	-	0:38:22.824000	0:38:24.711000
+Nachmittag	Nachmittag	NOUN	-	-	0:38:22.824000	0:38:24.711000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:24.711000" end="0:38:26.024000">
+na	-	-	-	-	0:38:24.711000	0:38:26.024000
+da	-	-	-	-	0:38:24.711000	0:38:26.024000
+*brauchst*	-	-	-	-	0:38:24.711000	0:38:26.024000
+nicht	-	-	-	-	0:38:24.711000	0:38:26.024000
+nein	-	-	-	-	0:38:24.711000	0:38:26.024000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:24.711000" end="0:38:36.338000">
+mit	mit	ADP	-	-	0:38:24.711000	0:38:26.024000
+der	der	DET	-	-	0:38:24.711000	0:38:26.024000
+Post	Post	NOUN	-	-	0:38:24.711000	0:38:26.024000
+.	-	-	-	-	0:38:24.711000	0:38:26.024000
+na	na	INTJ	-	-	0:38:26.024000	0:38:28.324000
+eh	eh	VERB	-	-	0:38:26.024000	0:38:28.324000
+ni/	-	-	-	-	0:38:26.024000	0:38:28.324000
+ich	ich	PRON	-	-	0:38:26.024000	0:38:28.324000
+sage	sage	VERB	-	-	0:38:26.024000	0:38:28.324000
+ja	ja	PART	-	-	0:38:26.024000	0:38:28.324000
+,	-	-	-	-	0:38:26.024000	0:38:28.324000
+wir	ich	PRON	-	-	0:38:26.024000	0:38:28.324000
+haben	haben	AUX	-	-	0:38:26.024000	0:38:28.324000
+ja	ja	ADV	-	-	0:38:26.024000	0:38:28.324000
+schon	schon	ADV	-	-	0:38:26.024000	0:38:28.324000
+mal	mal	ADV	-	-	0:38:26.024000	0:38:28.324000
+angerufen	anrufen	VERB	-	-	0:38:26.024000	0:38:28.324000
+da	da	ADP	-	-	0:38:26.024000	0:38:28.324000
+,	-	-	-	-	0:38:26.024000	0:38:28.324000
+weil	weil	SCONJ	-	-	0:38:28.324000	0:38:30.138000
+me/	-	-	-	-	0:38:28.324000	0:38:30.138000
+bei	bei	ADP	-	-	0:38:28.324000	0:38:30.138000
+den	der	DET	-	-	0:38:28.324000	0:38:30.138000
+Nachrichten	Nachricht	NOUN	-	-	0:38:28.324000	0:38:30.138000
+da	da	ADP	-	-	0:38:28.324000	0:38:30.138000
+,	-	-	-	-	0:38:28.324000	0:38:30.138000
+und	und	CCONJ	-	-	0:38:30.138000	0:38:32.104000
+nein	nein	PART	-	-	0:38:30.138000	0:38:32.104000
+,	-	-	-	-	0:38:30.138000	0:38:32.104000
+das	der	PRON	-	-	0:38:30.138000	0:38:32.104000
+geht	gehen	VERB	-	-	0:38:30.138000	0:38:32.104000
+nicht	nicht	PART	-	-	0:38:30.138000	0:38:32.104000
+anders	anders	ADV	-	-	0:38:30.138000	0:38:32.104000
+,	-	-	-	-	0:38:30.138000	0:38:32.104000
+bei	bei	ADP	-	-	0:38:32.104000	0:38:33.638000
+uns	sich	PRON	-	-	0:38:32.104000	0:38:33.638000
+fährt	fahren	VERB	-	-	0:38:32.104000	0:38:33.638000
+der	der	DET	-	-	0:38:32.104000	0:38:33.638000
+Zusteller	Zusteller	NOUN	-	-	0:38:32.104000	0:38:33.638000
+nicht	nicht	PART	-	-	0:38:32.104000	0:38:33.638000
+hinein	hinein	ADP	-	-	0:38:32.104000	0:38:33.638000
+,	-	-	-	-	0:38:32.104000	0:38:33.638000
+das	der	PRON	-	-	0:38:33.638000	0:38:36.338000
+ist	sein	AUX	-	-	0:38:33.638000	0:38:36.338000
+dem	der	DET	-	-	0:38:33.638000	0:38:36.338000
+zu	zu	PART	-	-	0:38:33.638000	0:38:36.338000
+weit	weit	ADJ	-	-	0:38:33.638000	0:38:36.338000
+weg	weg	ADV	-	-	0:38:33.638000	0:38:36.338000
+<pause duration="0,9s"/>
+und	und	CCONJ	-	-	0:38:33.638000	0:38:36.338000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:36.338000" end="0:38:37.524000">
+der	-	-	-	-	0:38:36.338000	0:38:37.524000
+ist	-	-	-	-	0:38:36.338000	0:38:37.524000
+verläss/	-	-	-	-	0:38:36.338000	0:38:37.524000
+.	-	-	-	-	0:38:36.338000	0:38:37.524000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:36.338000" end="0:38:37.524000">
+mit	mit	ADP	-	-	0:38:36.338000	0:38:37.524000
+der	der	DET	-	-	0:38:36.338000	0:38:37.524000
+Post	Post	NOUN	-	-	0:38:36.338000	0:38:37.524000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:37.524000" end="0:38:41.231000">
+jetzt	jetzt	ADV	-	-	0:38:37.524000	0:38:39.851000
+fährt	fahren	VERB	-	-	0:38:37.524000	0:38:39.851000
+einer	einer	DET	-	-	0:38:37.524000	0:38:39.851000
+schon	schon	ADV	-	-	0:38:37.524000	0:38:39.851000
+zwei	zwei	NUM	-	-	0:38:37.524000	0:38:39.851000
+Jahre	Jahr	NOUN	-	-	0:38:37.524000	0:38:39.851000
+oder	oder	CCONJ	-	-	0:38:39.851000	0:38:41.231000
+eineinhalb	eineinhalb	NUM	-	-	0:38:39.851000	0:38:41.231000
+Jahre	Jahr	NOUN	-	-	0:38:39.851000	0:38:41.231000
+sicher	sichern	ADJ	-	-	0:38:39.851000	0:38:41.231000
+,	-	-	-	-	0:38:39.851000	0:38:41.231000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:39.851000" end="0:38:43.298000">
+mhm	mhm	ADP	-	-	0:38:39.851000	0:38:41.231000
+der	der	DET	-	-	0:38:39.851000	0:38:41.231000
+hat	haben	AUX	-	-	0:38:39.851000	0:38:41.231000
+ab/	-	-	-	-	0:38:39.851000	0:38:41.231000
+hat	haben	AUX	-	-	0:38:41.231000	0:38:43.298000
+aber	aber	ADV	-	-	0:38:41.231000	0:38:43.298000
+mehr	mehr	DET	-	-	0:38:41.231000	0:38:43.298000
+Zeitungen	Zeitung	NOUN	-	-	0:38:41.231000	0:38:43.298000
+,	-	-	-	-	0:38:41.231000	0:38:43.298000
+gell	gell	ADJ	-	-	0:38:41.231000	0:38:43.298000
+,	-	-	-	-	0:38:41.231000	0:38:43.298000
+nicht	nicht	PART	-	-	0:38:41.231000	0:38:43.298000
+nur	nur	ADV	-	-	0:38:41.231000	0:38:43.298000
+die	der	DET	-	-	0:38:41.231000	0:38:43.298000
+Nachrichten	Nachricht	NOUN	-	-	0:38:41.231000	0:38:43.298000
+,	-	-	-	-	0:38:41.231000	0:38:43.298000
+glaube	glauben	VERB	-	-	0:38:41.231000	0:38:43.298000
+ich	ich	PRON	-	-	0:38:41.231000	0:38:43.298000
+.	-	-	-	-	0:38:41.231000	0:38:43.298000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:43.298000" end="0:38:45.011000">
+ang/	-	-	-	-	0:38:43.298000	0:38:44.331000
+ja	ja	PART	-	-	0:38:43.298000	0:38:44.331000
+ich	ich	PRON	-	-	0:38:43.298000	0:38:44.331000
+meine	meinen	VERB	-	-	0:38:43.298000	0:38:44.331000
+schon	schon	ADV	-	-	0:38:43.298000	0:38:44.331000
+.	-	-	-	-	0:38:43.298000	0:38:44.331000
+ich	ich	PRON	-	-	0:38:44.331000	0:38:45.011000
+meine	meinen	VERB	-	-	0:38:44.331000	0:38:45.011000
+,	-	-	-	-	0:38:44.331000	0:38:45.011000
+der	der	PRON	-	-	0:38:44.331000	0:38:45.011000
+hat	haben	AUX	-	-	0:38:44.331000	0:38:45.011000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:44.331000" end="0:38:45.704000">
+ja	ja	ADV	-	-	0:38:44.331000	0:38:45.011000
+ja	ja	ADV	-	-	0:38:45.011000	0:38:45.704000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:45.704000" end="0:38:48.358000">
+Krone	Krone	NOUN	-	-	0:38:45.704000	0:38:48.358000
+Krone	Krone	PROPN	-	-	0:38:45.704000	0:38:48.358000
+hat	haben	AUX	-	-	0:38:45.704000	0:38:48.358000
+er	ich	PRON	-	-	0:38:45.704000	0:38:48.358000
+auch	auch	ADV	-	-	0:38:45.704000	0:38:48.358000
+ja	ja	ADV	-	-	0:38:45.704000	0:38:48.358000
+ja	ja	PART	-	-	0:38:45.704000	0:38:48.358000
+.	-	-	-	-	0:38:45.704000	0:38:48.358000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:45.704000" end="0:38:48.358000">
+(wenn)	wenn	SCONJ	-	-	0:38:45.704000	0:38:48.358000
+er	ich	PRON	-	-	0:38:45.704000	0:38:48.358000
+die	der	DET	-	-	0:38:45.704000	0:38:48.358000
+Kronenzeitung	Kronenzeitung	NOUN	-	-	0:38:45.704000	0:38:48.358000
+auch	auch	ADV	-	-	0:38:45.704000	0:38:48.358000
+hat	haben	AUX	-	-	0:38:45.704000	0:38:48.358000
+ja	ja	ADV	-	-	0:38:45.704000	0:38:48.358000
+ja	ja	PART	-	-	0:38:45.704000	0:38:48.358000
+.	-	-	-	-	0:38:45.704000	0:38:48.358000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:48.358000" end="0:38:50.664000">
+der	der	PRON	-	-	0:38:48.358000	0:38:50.664000
+hat	haben	AUX	-	-	0:38:48.358000	0:38:50.664000
+uns	sich	PRON	-	-	0:38:48.358000	0:38:50.664000
+nämlich	nämlich	ADV	-	-	0:38:48.358000	0:38:50.664000
+schon	schon	ADV	-	-	0:38:48.358000	0:38:50.664000
+öfter	öfter	ADV	-	-	0:38:48.358000	0:38:50.664000
+eine	einen	DET	-	-	0:38:48.358000	0:38:50.664000
+Zeitung	Zeitung	NOUN	-	-	0:38:48.358000	0:38:50.664000
+gebracht	bringen	VERB	-	-	0:38:48.358000	0:38:50.664000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:48.358000" end="0:38:51.984000">
+ja	-	-	-	-	0:38:48.358000	0:38:50.664000
+aber	-	-	-	-	0:38:48.358000	0:38:50.664000
+er	-	-	-	-	0:38:48.358000	0:38:50.664000
+könnte	-	-	-	-	0:38:48.358000	0:38:50.664000
+ja	-	-	-	-	0:38:48.358000	0:38:50.664000
+so	-	-	-	-	0:38:50.664000	0:38:51.984000
+weit	-	-	-	-	0:38:50.664000	0:38:51.984000
+*ist*	-	-	-	-	0:38:50.664000	0:38:51.984000
+nämlich	-	-	-	-	0:38:50.664000	0:38:51.984000
+zu	-	-	-	-	0:38:50.664000	0:38:51.984000
+uns	-	-	-	-	0:38:50.664000	0:38:51.984000
+gar	-	-	-	-	0:38:50.664000	0:38:51.984000
+nicht	-	-	-	-	0:38:50.664000	0:38:51.984000
+hinein	-	-	-	-	0:38:50.664000	0:38:51.984000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:51.984000" end="0:38:52.811000">
+von/	-	-	-	-	0:38:51.984000	0:38:52.811000
+.	-	-	-	-	0:38:51.984000	0:38:52.811000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:51.984000" end="0:38:52.811000">
+da	-	-	-	-	0:38:51.984000	0:38:52.811000
+,	-	-	-	-	0:38:51.984000	0:38:52.811000
+nicht	nicht	PART	-	-	0:38:51.984000	0:38:52.811000
+?	-	-	-	-	0:38:51.984000	0:38:52.811000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:52.811000" end="0:38:54.138000">
+an	an	ADP	-	-	0:38:52.811000	0:38:54.138000
+einem	einer	DET	-	-	0:38:52.811000	0:38:54.138000
+Sonntag	Sonntag	NOUN	-	-	0:38:52.811000	0:38:54.138000
+sogar	sogar	ADV	-	-	0:38:52.811000	0:38:54.138000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:52.811000" end="0:38:54.491000">
+ja	ja	PART	-	-	0:38:54.138000	0:38:54.491000
+.	-	-	-	-	0:38:54.138000	0:38:54.491000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:54.491000" end="0:38:55.758000">
+hat	haben	AUX	-	-	0:38:54.491000	0:38:55.758000
+er	ich	PRON	-	-	0:38:54.491000	0:38:55.758000
+sie	ich	PRON	-	-	0:38:54.491000	0:38:55.758000
+her	her	ADV	-	-	0:38:54.491000	0:38:55.758000
+gebracht	bringen	VERB	-	-	0:38:54.491000	0:38:55.758000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:55.758000" end="0:38:56.171000">
+wirklich	wirklich	ADJ	-	-	0:38:55.758000	0:38:56.171000
+wahr	wahren	ADJ	-	-	0:38:55.758000	0:38:56.171000
+?	-	-	-	-	0:38:55.758000	0:38:56.171000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:56.171000" end="0:38:58.451000">
+ja	ja	ADV	-	-	0:38:56.171000	0:38:56.784000
+ja	ja	ADV	-	-	0:38:56.171000	0:38:56.784000
+der	der	PRON	-	-	0:38:56.171000	0:38:56.784000
+ist	sein	AUX	-	-	0:38:56.171000	0:38:56.784000
+wirklich	wirklich	ADJ	-	-	0:38:56.784000	0:38:58.451000
+gut	gut	ADJ	-	-	0:38:56.784000	0:38:58.451000
+.	-	-	-	-	0:38:56.784000	0:38:58.451000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:56.784000" end="0:38:58.451000">
+Sonntag	Sonntag	NOUN	-	-	0:38:56.784000	0:38:58.451000
+fährt	fahren	VERB	-	-	0:38:56.784000	0:38:58.451000
+er	ich	PRON	-	-	0:38:56.784000	0:38:58.451000
+auch	auch	ADV	-	-	0:38:56.784000	0:38:58.451000
+?	-	-	-	-	0:38:56.784000	0:38:58.451000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:38:58.451000" end="0:38:59.651000">
+der	der	PRON	-	-	0:38:58.451000	0:38:59.651000
+ist	sein	AUX	-	-	0:38:58.451000	0:38:59.651000
+,	-	-	-	-	0:38:58.451000	0:38:59.651000
+muss	muss	VERB	-	-	0:38:58.451000	0:38:59.651000
+ich	ich	PRON	-	-	0:38:58.451000	0:38:59.651000
+sagen/	-	-	-	-	0:38:58.451000	0:38:59.651000
+.	-	-	-	-	0:38:58.451000	0:38:59.651000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:38:59.651000" end="0:39:02.031000">
+von	von	ADP	-	-	0:38:59.651000	0:39:00.296000
+wo	wo	ADV	-	-	0:38:59.651000	0:39:00.296000
+ist	sein	AUX	-	-	0:38:59.651000	0:39:00.296000
+der	der	PRON	-	-	0:38:59.651000	0:39:00.296000
+?	-	-	-	-	0:38:59.651000	0:39:00.296000
+ist	sein	AUX	-	-	0:39:00.296000	0:39:02.031000
+der	der	DET	-	-	0:39:00.296000	0:39:02.031000
+irgendwo	irgendwo	ADV	-	-	0:39:00.296000	0:39:02.031000
+von	von	ADP	-	-	0:39:00.296000	0:39:02.031000
+der	der	DET	-	-	0:39:00.296000	0:39:02.031000
+Nähe	Nähe	NOUN	-	-	0:39:00.296000	0:39:02.031000
+da	da	ADV	-	-	0:39:00.296000	0:39:02.031000
+?	-	-	-	-	0:39:00.296000	0:39:02.031000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:02.031000" end="0:39:03.464000">
+es	ich	PRON	-	-	0:39:02.031000	0:39:03.464000
+ist	sein	AUX	-	-	0:39:02.031000	0:39:03.464000
+ein	einen	DET	-	-	0:39:02.031000	0:39:03.464000
+Ausländer	Ausländer	NOUN	-	-	0:39:02.031000	0:39:03.464000
+,	-	-	-	-	0:39:02.031000	0:39:03.464000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:03.464000" end="0:39:03.904000">
+mhm	mhm	PROPN	-	-	0:39:03.464000	0:39:03.904000
+.	-	-	-	-	0:39:03.464000	0:39:03.904000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:03.904000" end="0:39:07.291000">
+aber	aber	CCONJ	-	-	0:39:03.904000	0:39:05.798000
+hat	haben	AUX	-	-	0:39:03.904000	0:39:05.798000
+ein	einen	DET	-	-	0:39:03.904000	0:39:05.798000
+Dirndl	Dirndl	NOUN	-	-	0:39:03.904000	0:39:05.798000
+mit	mit	ADP	-	-	0:39:03.904000	0:39:05.798000
+oder	oder	CCONJ	-	-	0:39:03.904000	0:39:05.798000
+einen	ein	DET	-	-	0:39:03.904000	0:39:05.798000
+Buben	Bube	NOUN	-	-	0:39:03.904000	0:39:05.798000
+,	-	-	-	-	0:39:03.904000	0:39:05.798000
+und	und	CCONJ	-	-	0:39:05.798000	0:39:07.291000
+er	ich	PRON	-	-	0:39:05.798000	0:39:07.291000
+fährt/	-	-	-	-	0:39:05.798000	0:39:07.291000
+.	-	-	-	-	0:39:05.798000	0:39:07.291000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:05.798000" end="0:39:08.637000">
+früher	früh	ADJ	-	-	0:39:05.798000	0:39:07.291000
+ist	sein	AUX	-	-	0:39:05.798000	0:39:07.291000
+da	da	ADV	-	-	0:39:05.798000	0:39:07.291000
+immer	immer	ADV	-	-	0:39:05.798000	0:39:07.291000
+der	der	DET	-	-	0:39:05.798000	0:39:07.291000
+[Horner]N	Horner	NOUN	-	-	0:39:05.798000	0:39:07.291000
+gefahren	gefahren	VERB	-	-	0:39:05.798000	0:39:07.291000
+,	-	-	-	-	0:39:05.798000	0:39:07.291000
+nicht	nicht	PART	-	-	0:39:07.291000	0:39:08.637000
+,	-	-	-	-	0:39:07.291000	0:39:08.637000
+der	der	DET	-	-	0:39:07.291000	0:39:08.637000
+[Horner	Horner	NOUN	-	-	0:39:07.291000	0:39:08.637000
+Herbert]N	Herbert	PROPN	-	-	0:39:07.291000	0:39:08.637000
+,	-	-	-	-	0:39:07.291000	0:39:08.637000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:08.637000" end="0:39:09.784000">
+(ist)	sein	AUX	-	-	0:39:08.637000	0:39:09.784000
+aber	aber	ADV	-	-	0:39:08.637000	0:39:09.784000
+schon	schon	ADV	-	-	0:39:08.637000	0:39:09.784000
+lange	lang	ADV	-	-	0:39:08.637000	0:39:09.784000
+aus	aus	ADP	-	-	0:39:08.637000	0:39:09.784000
+.	-	-	-	-	0:39:08.637000	0:39:09.784000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:08.637000" end="0:39:09.784000">
+einmal	einmal	ADV	-	-	0:39:08.637000	0:39:09.784000
+ja	ja	ADV	-	-	0:39:08.637000	0:39:09.784000
+.	-	-	-	-	0:39:08.637000	0:39:09.784000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:09.784000" end="0:39:12.431000">
+*ist*	-	-	-	-	0:39:09.784000	0:39:10.511000
+schon	-	-	-	-	0:39:09.784000	0:39:10.511000
+lange	-	-	-	-	0:39:09.784000	0:39:10.511000
+aus	-	-	-	-	0:39:09.784000	0:39:10.511000
+,	-	-	-	-	0:39:09.784000	0:39:10.511000
+dass	dass	SCONJ	-	-	0:39:10.511000	0:39:12.431000
+der	der	DET	-	-	0:39:10.511000	0:39:12.431000
+nicht	nicht	PART	-	-	0:39:10.511000	0:39:12.431000
+mehr	mehr	ADV	-	-	0:39:10.511000	0:39:12.431000
+ist	sein	AUX	-	-	0:39:10.511000	0:39:12.431000
+ja	ja	ADV	-	-	0:39:10.511000	0:39:12.431000
+.	-	-	-	-	0:39:10.511000	0:39:12.431000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:10.511000" end="0:39:12.431000">
+der	der	PRON	-	-	0:39:10.511000	0:39:12.431000
+ist	sein	AUX	-	-	0:39:10.511000	0:39:12.431000
+immer	immer	ADV	-	-	0:39:10.511000	0:39:12.431000
+gefahren	gefahren	ADJ	-	-	0:39:10.511000	0:39:12.431000
+auch	auch	ADV	-	-	0:39:10.511000	0:39:12.431000
+mit	mit	ADP	-	-	0:39:10.511000	0:39:12.431000
+der	der	DET	-	-	0:39:10.511000	0:39:12.431000
+Zeitung	Zeitung	NOUN	-	-	0:39:10.511000	0:39:12.431000
+,	-	-	-	-	0:39:10.511000	0:39:12.431000
+gell	gell	ADJ	-	-	0:39:10.511000	0:39:12.431000
+,	-	-	-	-	0:39:10.511000	0:39:12.431000
+ja	ja	PART	-	-	0:39:10.511000	0:39:12.431000
+.	-	-	-	-	0:39:10.511000	0:39:12.431000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:12.431000" end="0:39:14.644000">
+aber	aber	CCONJ	-	-	0:39:12.431000	0:39:13.824000
+der	der	PRON	-	-	0:39:12.431000	0:39:13.824000
+ist	sein	AUX	-	-	0:39:12.431000	0:39:13.824000
+verlässlich	verlässlich	ADJ	-	-	0:39:12.431000	0:39:13.824000
+alleweile	alleweile	NOUN	-	-	0:39:13.824000	0:39:14.644000
+,	-	-	-	-	0:39:13.824000	0:39:14.644000
+da	da	ADV	-	-	0:39:13.824000	0:39:14.644000
+gibt	geben	VERB	-	-	0:39:13.824000	0:39:14.644000
+es	ich	PRON	-	-	0:39:13.824000	0:39:14.644000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:13.824000" end="0:39:14.644000">
+ja	ja	ADV	-	-	0:39:13.824000	0:39:14.644000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:14.644000" end="0:39:16.297000">
+gar	gar	ADV	-	-	0:39:14.644000	0:39:16.297000
+nicht	nicht	PART	-	-	0:39:14.644000	0:39:16.297000
+bei	bei	ADP	-	-	0:39:14.644000	0:39:16.297000
+ihm	ich	PRON	-	-	0:39:14.644000	0:39:16.297000
+.	-	-	-	-	0:39:14.644000	0:39:16.297000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:14.644000" end="0:39:18.384000">
+nein	nein	PART	-	-	0:39:14.644000	0:39:16.297000
+wir	ich	PRON	-	-	0:39:14.644000	0:39:16.297000
+haben	haben	AUX	-	-	0:39:14.644000	0:39:16.297000
+die	der	DET	-	-	0:39:14.644000	0:39:16.297000
+Nachrichten	Nachricht	NOUN	-	-	0:39:14.644000	0:39:16.297000
+gerne	gerne	ADV	-	-	0:39:14.644000	0:39:16.297000
+und	und	CCONJ	-	-	0:39:16.297000	0:39:18.384000
+die	der	DET	-	-	0:39:16.297000	0:39:18.384000
+[Linda]N	Linda	NOUN	-	-	0:39:16.297000	0:39:18.384000
+will	wollen	VERB	-	-	0:39:16.297000	0:39:18.384000
+es	ich	PRON	-	-	0:39:16.297000	0:39:18.384000
+sowieso	sowieso	ADV	-	-	0:39:16.297000	0:39:18.384000
+haben	haben	AUX	-	-	0:39:16.297000	0:39:18.384000
+eine	einen	DET	-	-	0:39:16.297000	0:39:18.384000
+Zeitung	Zeitung	NOUN	-	-	0:39:16.297000	0:39:18.384000
+,	-	-	-	-	0:39:16.297000	0:39:18.384000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:18.384000" end="0:39:20.497000">
+ja	ja	ADV	-	-	0:39:18.384000	0:39:20.497000
+ja	ja	ADV	-	-	0:39:18.384000	0:39:20.497000
+ja	ja	ADV	-	-	0:39:18.384000	0:39:20.497000
+ja	ja	PART	-	-	0:39:18.384000	0:39:20.497000
+.	-	-	-	-	0:39:18.384000	0:39:20.497000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:18.384000" end="0:39:22.497000">
+und	und	CCONJ	-	-	0:39:18.384000	0:39:20.497000
+(ich	ich	PRON	-	-	0:39:18.384000	0:39:20.497000
+meine)	meinen	VERB	-	-	0:39:18.384000	0:39:20.497000
+ich	ich	PRON	-	-	0:39:18.384000	0:39:20.497000
+schaue	schauen	VERB	-	-	0:39:18.384000	0:39:20.497000
+sie	ich	PRON	-	-	0:39:18.384000	0:39:20.497000
+mir	sich	PRON	-	-	0:39:18.384000	0:39:20.497000
+auch	auch	ADV	-	-	0:39:18.384000	0:39:20.497000
+gerne	gerne	ADV	-	-	0:39:18.384000	0:39:20.497000
+an	an	ADP	-	-	0:39:18.384000	0:39:20.497000
+,	-	-	-	-	0:39:18.384000	0:39:20.497000
+(also)	also	ADV	-	-	0:39:18.384000	0:39:20.497000
+Zeitung	Zeitung	NOUN	-	-	0:39:20.497000	0:39:22.497000
+habe	habe	AUX	-	-	0:39:20.497000	0:39:22.497000
+ich	ich	PRON	-	-	0:39:20.497000	0:39:22.497000
+sicher	sichern	ADJ	-	-	0:39:20.497000	0:39:22.497000
+gerne	gerne	ADV	-	-	0:39:20.497000	0:39:22.497000
+,	-	-	-	-	0:39:20.497000	0:39:22.497000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:22.497000" end="0:39:23.751000">
+weil	weil	SCONJ	-	-	0:39:22.497000	0:39:23.751000
+wenn	wenn	SCONJ	-	-	0:39:22.497000	0:39:23.751000
+sie	ich	PRON	-	-	0:39:22.497000	0:39:23.751000
+ein	einen	DET	-	-	0:39:22.497000	0:39:23.751000
+wenig	wenig	PRON	-	-	0:39:22.497000	0:39:23.751000
+kleiner	klein	ADJ	-	-	0:39:22.497000	0:39:23.751000
+wäre	sein	AUX	-	-	0:39:22.497000	0:39:23.751000
+,	-	-	-	-	0:39:22.497000	0:39:23.751000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:22.497000" end="0:39:23.751000">
+und/	-	-	-	-	0:39:22.497000	0:39:23.751000
+.	-	-	-	-	0:39:22.497000	0:39:23.751000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:23.751000" end="0:39:24.444000">
+wäre	sein	AUX	-	-	0:39:23.751000	0:39:24.444000
+es	ich	PRON	-	-	0:39:23.751000	0:39:24.444000
+mir	sich	PRON	-	-	0:39:23.751000	0:39:24.444000
+lieber	lieb	ADV	-	-	0:39:23.751000	0:39:24.444000
+.	-	-	-	-	0:39:23.751000	0:39:24.444000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:24.444000" end="0:39:26.271000">
+das	der	DET	-	-	0:39:24.444000	0:39:26.271000
+Format	Format	NOUN	-	-	0:39:24.444000	0:39:26.271000
+ist	sein	AUX	-	-	0:39:24.444000	0:39:26.271000
+sicher	sichern	ADJ	-	-	0:39:24.444000	0:39:26.271000
+bei	bei	ADP	-	-	0:39:24.444000	0:39:26.271000
+der	der	DET	-	-	0:39:24.444000	0:39:26.271000
+Krone	Krone	NOUN	-	-	0:39:24.444000	0:39:26.271000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:26.271000" end="0:39:27.564000">
+weil	weil	SCONJ	-	-	0:39:26.271000	0:39:27.564000
+da	da	ADV	-	-	0:39:26.271000	0:39:27.564000
+muss	muss	VERB	-	-	0:39:26.271000	0:39:27.564000
+ich	ich	PRON	-	-	0:39:26.271000	0:39:27.564000
+alleweile	alleweile	NOUN	-	-	0:39:26.271000	0:39:27.564000
+mit	mit	ADP	-	-	0:39:26.271000	0:39:27.564000
+dem/	-	-	-	-	0:39:26.271000	0:39:27.564000
+.	-	-	-	-	0:39:26.271000	0:39:27.564000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:26.271000" end="0:39:28.957000">
+besser	gut	ADJ	-	-	0:39:26.271000	0:39:27.564000
+,	-	-	-	-	0:39:26.271000	0:39:27.564000
+aber	aber	CCONJ	-	-	0:39:26.271000	0:39:27.564000
+nur	nur	ADV	-	-	0:39:26.271000	0:39:27.564000
+also	also	ADV	-	-	0:39:27.564000	0:39:28.957000
+d/	-	-	-	-	0:39:27.564000	0:39:28.957000
+die	der	DET	-	-	0:39:27.564000	0:39:28.957000
+Krone	Krone	NOUN	-	-	0:39:27.564000	0:39:28.957000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:28.957000" end="0:39:31.331000">
+nein	nein	PART	-	-	0:39:28.957000	0:39:31.331000
+mhm	mhm	PROPN	-	-	0:39:28.957000	0:39:31.331000
+ja	ja	ADV	-	-	0:39:28.957000	0:39:31.331000
+.	-	-	-	-	0:39:28.957000	0:39:31.331000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:28.957000" end="0:39:33.031000">
+mag	mögen	VERB	-	-	0:39:28.957000	0:39:31.331000
+ich	ich	PRON	-	-	0:39:28.957000	0:39:31.331000
+sowieso	sowieso	ADV	-	-	0:39:28.957000	0:39:31.331000
+nicht	nicht	PART	-	-	0:39:28.957000	0:39:31.331000
+lesen	lesen	VERB	-	-	0:39:28.957000	0:39:31.331000
+,	-	-	-	-	0:39:28.957000	0:39:31.331000
+das	der	PRON	-	-	0:39:28.957000	0:39:31.331000
+ist	sein	AUX	-	-	0:39:28.957000	0:39:31.331000
+(eine)	einen	DET	-	-	0:39:28.957000	0:39:31.331000
+Zeitung	Zeitung	NOUN	-	-	0:39:28.957000	0:39:31.331000
+für	für	ADP	-	-	0:39:28.957000	0:39:31.331000
+mich	sich	PRON	-	-	0:39:28.957000	0:39:31.331000
+,	-	-	-	-	0:39:28.957000	0:39:31.331000
+die	der	DET	-	-	0:39:28.957000	0:39:31.331000
+<pause duration="1,0s"/>
+das	der	PRON	-	-	0:39:31.331000	0:39:33.031000
+s/	-	-	-	-	0:39:31.331000	0:39:33.031000
+.	-	-	-	-	0:39:31.331000	0:39:33.031000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:33.031000" end="0:39:38.024000">
+aber	aber	CCONJ	-	-	0:39:33.031000	0:39:35.117000
+da	da	ADV	-	-	0:39:33.031000	0:39:35.117000
+kann	können	VERB	-	-	0:39:33.031000	0:39:35.117000
+ich	ich	PRON	-	-	0:39:33.031000	0:39:35.117000
+alleweile	alleweile	VERB	-	-	0:39:33.031000	0:39:35.117000
+nicht	nicht	PART	-	-	0:39:33.031000	0:39:35.117000
+so	so	ADV	-	-	0:39:33.031000	0:39:35.117000
+jausnen	jausnen	ADV	-	-	0:39:33.031000	0:39:35.117000
+oder	oder	CCONJ	-	-	0:39:33.031000	0:39:35.117000
+frühstücken	frühstücken	NOUN	-	-	0:39:33.031000	0:39:35.117000
+in	in	ADP	-	-	0:39:35.117000	0:39:38.024000
+der	der	DET	-	-	0:39:35.117000	0:39:38.024000
+Früh	Früh	NOUN	-	-	0:39:35.117000	0:39:38.024000
+mit	mit	ADP	-	-	0:39:35.117000	0:39:38.024000
+der	der	DET	-	-	0:39:35.117000	0:39:38.024000
+großen	groß	ADJ	-	-	0:39:35.117000	0:39:38.024000
+Zeitung	Zeitung	NOUN	-	-	0:39:35.117000	0:39:38.024000
+.	-	-	-	-	0:39:35.117000	0:39:38.024000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:35.117000" end="0:39:38.024000">
+ja	ja	PART	-	-	0:39:35.117000	0:39:38.024000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:38.024000" end="0:39:40.471000">
+da	-	-	-	-	0:39:38.024000	0:39:39.564000
+*musst*	-	-	-	-	0:39:38.024000	0:39:39.564000
+dich	-	-	-	-	0:39:38.024000	0:39:39.564000
+einschränken	-	-	-	-	0:39:38.024000	0:39:39.564000
+.	-	-	-	-	0:39:38.024000	0:39:39.564000
+das	der	PRON	-	-	0:39:39.564000	0:39:40.471000
+ist/	-	-	-	-	0:39:39.564000	0:39:40.471000
+.	-	-	-	-	0:39:39.564000	0:39:40.471000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:39.564000" end="0:39:40.471000">
+mhm	mhm	PROPN	-	-	0:39:39.564000	0:39:40.471000
+.	-	-	-	-	0:39:39.564000	0:39:40.471000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:40.471000" end="0:39:46.424000">
+<pause duration="1,1s"/>
+nein	nein	PART	-	-	0:39:40.471000	0:39:44.917000
+aber	aber	ADV	-	-	0:39:40.471000	0:39:44.917000
+so	so	ADV	-	-	0:39:40.471000	0:39:44.917000
+ist	sein	AUX	-	-	0:39:40.471000	0:39:44.917000
+objektiv	objektiv	ADJ	-	-	0:39:40.471000	0:39:44.917000
+ist	sein	AUX	-	-	0:39:40.471000	0:39:44.917000
+(sind)	sein	AUX	-	-	0:39:40.471000	0:39:44.917000
+Nachrichten	Nachricht	NOUN	-	-	0:39:40.471000	0:39:44.917000
+am	am	PART	-	-	0:39:44.917000	0:39:46.424000
+besten	gut	ADJ	-	-	0:39:44.917000	0:39:46.424000
+,	-	-	-	-	0:39:44.917000	0:39:46.424000
+muss	muss	PROPN	-	-	0:39:44.917000	0:39:46.424000
+man	man	PRON	-	-	0:39:44.917000	0:39:46.424000
+sagen	sagen	VERB	-	-	0:39:44.917000	0:39:46.424000
+.	-	-	-	-	0:39:44.917000	0:39:46.424000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:44.917000" end="0:39:49.877000">
+ja	ja	ADV	-	-	0:39:44.917000	0:39:46.424000
+aber	aber	CCONJ	-	-	0:39:44.917000	0:39:46.424000
+es	ich	PRON	-	-	0:39:44.917000	0:39:46.424000
+ist	sein	AUX	-	-	0:39:44.917000	0:39:46.424000
+aber	aber	ADV	-	-	0:39:44.917000	0:39:46.424000
+auch	auch	ADV	-	-	0:39:44.917000	0:39:46.424000
+wieder	wieder	ADV	-	-	0:39:44.917000	0:39:46.424000
+,	-	-	-	-	0:39:44.917000	0:39:46.424000
+wenn	wenn	SCONJ	-	-	0:39:46.424000	0:39:48.784000
+du	du	PRON	-	-	0:39:46.424000	0:39:48.784000
+wenn	wenn	SCONJ	-	-	0:39:46.424000	0:39:48.784000
+du	du	PRON	-	-	0:39:46.424000	0:39:48.784000
+irgendwie	irgendwie	ADV	-	-	0:39:46.424000	0:39:48.784000
+Berichte	Bericht	NOUN	-	-	0:39:46.424000	0:39:48.784000
+liest	lesen	VERB	-	-	0:39:46.424000	0:39:48.784000
+da	da	ADP	-	-	0:39:46.424000	0:39:48.784000
+,	-	-	-	-	0:39:46.424000	0:39:48.784000
+ähm	ähm	X	-	-	0:39:48.784000	0:39:49.877000
+wo	wo	ADV	-	-	0:39:48.784000	0:39:49.877000
+du	du	PRON	-	-	0:39:48.784000	0:39:49.877000
+es	ich	PRON	-	-	0:39:48.784000	0:39:49.877000
+wo	wo	ADV	-	-	0:39:48.784000	0:39:49.877000
+es	ich	PRON	-	-	0:39:48.784000	0:39:49.877000
+du	du	PRON	-	-	0:39:48.784000	0:39:49.877000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:49.877000" end="0:39:51.317000">
+das	der	PRON	-	-	0:39:49.877000	0:39:51.317000
+wird	werden	AUX	-	-	0:39:49.877000	0:39:51.317000
+immer	immer	ADV	-	-	0:39:49.877000	0:39:51.317000
+sein	mein	AUX	-	-	0:39:49.877000	0:39:51.317000
+.	-	-	-	-	0:39:49.877000	0:39:51.317000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:49.877000" end="0:39:51.317000">
+genau	genau	ADJ	-	-	0:39:49.877000	0:39:51.317000
+weißt	wissen	VERB	-	-	0:39:49.877000	0:39:51.317000
+,	-	-	-	-	0:39:49.877000	0:39:51.317000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:51.317000" end="0:39:52.431000">
+ja	ja	PART	-	-	0:39:51.317000	0:39:52.431000
+.	-	-	-	-	0:39:51.317000	0:39:52.431000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:51.317000" end="0:39:54.991000">
+(na)	na	X	-	-	0:39:51.317000	0:39:52.431000
+das	der	PRON	-	-	0:39:51.317000	0:39:52.431000
+ist	sein	AUX	-	-	0:39:51.317000	0:39:52.431000
+das	der	PRON	-	-	0:39:52.431000	0:39:53.924000
+kommt	kommen	VERB	-	-	0:39:52.431000	0:39:53.924000
+oft	oft	ADV	-	-	0:39:52.431000	0:39:53.924000
+ganz	ganz	ADV	-	-	0:39:52.431000	0:39:53.924000
+anders	anders	ADV	-	-	0:39:52.431000	0:39:53.924000
+herüber	herüber	PROPN	-	-	0:39:52.431000	0:39:53.924000
+,	-	-	-	-	0:39:52.431000	0:39:53.924000
+das	der	PRON	-	-	0:39:53.924000	0:39:54.991000
+stimmt	stimmen	VERB	-	-	0:39:53.924000	0:39:54.991000
+überhaupt	überhaupt	ADV	-	-	0:39:53.924000	0:39:54.991000
+nicht	nicht	PART	-	-	0:39:53.924000	0:39:54.991000
+,	-	-	-	-	0:39:53.924000	0:39:54.991000
+(alles	alle	PRON	-	-	0:39:53.924000	0:39:54.991000
+was/	-	-	-	-	0:39:53.924000	0:39:54.991000
+.)	-	-	-	-	0:39:53.924000	0:39:54.991000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:54.991000" end="0:39:55.811000">
+ja	-	-	-	-	0:39:54.991000	0:39:55.437000
+ja	-	-	-	-	0:39:55.437000	0:39:55.811000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:55.437000" end="0:39:55.811000">
+also	also	ADV	-	-	0:39:55.437000	0:39:55.811000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:39:55.811000" end="0:39:56.517000">
+das	-	-	-	-	0:39:55.811000	0:39:56.517000
+ist	-	-	-	-	0:39:55.811000	0:39:56.517000
+_a_	-	-	-	-	0:39:55.811000	0:39:56.517000
+so	-	-	-	-	0:39:55.811000	0:39:56.517000
+.	-	-	-	-	0:39:55.811000	0:39:56.517000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:39:56.517000" end="0:40:06.957000">
+was	was	PRON	-	-	0:39:56.517000	0:40:00.637000
+da	da	ADV	-	-	0:39:56.517000	0:40:00.637000
+schon	schon	ADV	-	-	0:39:56.517000	0:40:00.637000
+schon	schon	ADV	-	-	0:39:56.517000	0:40:00.637000
+<pause duration="0,7s"/>
+aber	aber	ADV	-	-	0:39:56.517000	0:40:00.637000
+na	na	X	-	-	0:39:56.517000	0:40:00.637000
+,	-	-	-	-	0:39:56.517000	0:40:00.637000
+mit	mit	ADP	-	-	0:39:56.517000	0:40:00.637000
+dem	der	DET	-	-	0:39:56.517000	0:40:00.637000
+muss	muss	NOUN	-	-	0:39:56.517000	0:40:00.637000
+man	man	PRON	-	-	0:39:56.517000	0:40:00.637000
+halt	halt	ADV	-	-	0:39:56.517000	0:40:00.637000
+leben	leben	VERB	-	-	0:39:56.517000	0:40:00.637000
+,	-	-	-	-	0:39:56.517000	0:40:00.637000
+gell	gell	ADJ	-	-	0:39:56.517000	0:40:00.637000
+?	-	-	-	-	0:39:56.517000	0:40:00.637000
+<pause duration="2,6s"/>
+ja	ja	PART	-	-	0:40:00.637000	0:40:04.957000
+<pause duration="0,9s"/>
+haben	haben	AUX	-	-	0:40:04.957000	0:40:06.957000
+wir	ich	PRON	-	-	0:40:04.957000	0:40:06.957000
+eh	eh	ADV	-	-	0:40:04.957000	0:40:06.957000
+nur	nur	ADV	-	-	0:40:04.957000	0:40:06.957000
+mehr	mehr	ADV	-	-	0:40:04.957000	0:40:06.957000
+ein	einen	DET	-	-	0:40:04.957000	0:40:06.957000
+Karterl	Karterl	NOUN	-	-	0:40:04.957000	0:40:06.957000
+,	-	-	-	-	0:40:04.957000	0:40:06.957000
+die	der	DET	-	-	0:40:04.957000	0:40:06.957000
+Heimat	Heimat	NOUN	-	-	0:40:04.957000	0:40:06.957000
+.	-	-	-	-	0:40:04.957000	0:40:06.957000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:06.957000" end="0:40:12.611000">
+<pause duration="3,0s"/>
+können	können	VERB	-	-	0:40:09.911000	0:40:12.611000
+wir	ich	PRON	-	-	0:40:09.911000	0:40:12.611000
+ein	einen	DET	-	-	0:40:09.911000	0:40:12.611000
+anderes	ander	PRON	-	-	0:40:09.911000	0:40:12.611000
+auch	auch	ADV	-	-	0:40:09.911000	0:40:12.611000
+Thema	Thema	NOUN	-	-	0:40:09.911000	0:40:12.611000
+auch	auch	ADV	-	-	0:40:09.911000	0:40:12.611000
+noch	noch	ADV	-	-	0:40:09.911000	0:40:12.611000
+irgendwo	irgendwo	ADV	-	-	0:40:09.911000	0:40:12.611000
+herausfinden	herausfinden	VERB	-	-	0:40:09.911000	0:40:12.611000
+.	-	-	-	-	0:40:09.911000	0:40:12.611000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:12.611000" end="0:40:13.544000">
+(mhm	mhm	PROPN	-	-	0:40:12.611000	0:40:13.544000
+kannst	können	VERB	-	-	0:40:12.611000	0:40:13.544000
+du	du	PRON	-	-	0:40:12.611000	0:40:13.544000
+auch)	auch	ADV	-	-	0:40:12.611000	0:40:13.544000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:13.544000" end="0:40:16.484000">
+Heimat	Heimat	NOUN	-	-	0:40:13.544000	0:40:15.364000
+also	also	ADV	-	-	0:40:13.544000	0:40:15.364000
+heimatverbunden	heimatverbunden	VERB	-	-	0:40:13.544000	0:40:15.364000
+sind	sein	AUX	-	-	0:40:15.364000	0:40:16.484000
+wir	ich	PRON	-	-	0:40:15.364000	0:40:16.484000
+sowieso	sowieso	ADV	-	-	0:40:15.364000	0:40:16.484000
+.	-	-	-	-	0:40:15.364000	0:40:16.484000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:15.364000" end="0:40:18.344000">
+ja	ja	ADV	-	-	0:40:15.364000	0:40:16.484000
+sind	sein	AUX	-	-	0:40:15.364000	0:40:16.484000
+wir	ich	PRON	-	-	0:40:15.364000	0:40:16.484000
+sind	sein	AUX	-	-	0:40:15.364000	0:40:16.484000
+wir	ich	PRON	-	-	0:40:15.364000	0:40:16.484000
+eh	eh	ADV	-	-	0:40:15.364000	0:40:16.484000
+.	-	-	-	-	0:40:15.364000	0:40:16.484000
+<pause duration="0,6s"/>
+Vorarlbergerisch	Vorarlbergerisch	ADJ	-	-	0:40:16.484000	0:40:18.344000
+haben	haben	AUX	-	-	0:40:16.484000	0:40:18.344000
+wir	ich	PRON	-	-	0:40:16.484000	0:40:18.344000
+gesagt	sagen	VERB	-	-	0:40:16.484000	0:40:18.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:18.344000" end="0:40:19.151000">
+*kann*	-	-	-	-	0:40:18.344000	0:40:19.151000
+mir	-	-	-	-	0:40:18.344000	0:40:19.151000
+nicht	-	-	-	-	0:40:18.344000	0:40:19.151000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:18.344000" end="0:40:20.897000">
+nicht	nicht	PART	-	-	0:40:18.344000	0:40:19.151000
+.	-	-	-	-	0:40:18.344000	0:40:19.151000
+<pause duration="0,7s"/>
+Sprache	Sprache	NOUN	-	-	0:40:19.151000	0:40:20.897000
+von	von	ADP	-	-	0:40:19.151000	0:40:20.897000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:20.897000" end="0:40:22.157000">
+*kann*	-	-	-	-	0:40:20.897000	0:40:22.157000
+mir	-	-	-	-	0:40:20.897000	0:40:22.157000
+nicht	-	-	-	-	0:40:20.897000	0:40:22.157000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:20.897000" end="0:40:22.157000">
+Nachrichtensprechern	Nachrichtensprechern	NOUN	-	-	0:40:20.897000	0:40:22.157000
+.	-	-	-	-	0:40:20.897000	0:40:22.157000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:22.157000" end="0:40:23.011000">
+vorstellen	-	-	-	-	0:40:22.157000	0:40:23.011000
+,	-	-	-	-	0:40:22.157000	0:40:23.011000
+dass	dass	SCONJ	-	-	0:40:22.157000	0:40:23.011000
+einer	einer	PRON	-	-	0:40:22.157000	0:40:23.011000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:22.157000" end="0:40:23.011000">
+ja	ja	PART	-	-	0:40:22.157000	0:40:23.011000
+.	-	-	-	-	0:40:22.157000	0:40:23.011000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:23.011000" end="0:40:23.944000">
+seine	mein	DET	-	-	0:40:23.011000	0:40:23.944000
+Heimat	Heimat	NOUN	-	-	0:40:23.011000	0:40:23.944000
+nicht	nicht	PART	-	-	0:40:23.011000	0:40:23.944000
+mag	mögen	VERB	-	-	0:40:23.011000	0:40:23.944000
+,	-	-	-	-	0:40:23.011000	0:40:23.944000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:23.944000" end="0:40:24.511000">
+ja	ja	ADV	-	-	0:40:23.944000	0:40:24.511000
+eh	eh	X	-	-	0:40:23.944000	0:40:24.511000
+,	-	-	-	-	0:40:23.944000	0:40:24.511000
+nein	nein	PART	-	-	0:40:23.944000	0:40:24.511000
+.	-	-	-	-	0:40:23.944000	0:40:24.511000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:24.511000" end="0:40:25.171000">
+oder	oder	CCONJ	-	-	0:40:24.511000	0:40:25.171000
+?	-	-	-	-	0:40:24.511000	0:40:25.171000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:25.171000" end="0:40:25.664000">
+das	der	PRON	-	-	0:40:25.171000	0:40:25.664000
+nicht	nicht	PART	-	-	0:40:25.171000	0:40:25.664000
+.	-	-	-	-	0:40:25.171000	0:40:25.664000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:25.664000" end="0:40:28.537000">
+die	-	-	-	-	0:40:25.664000	0:40:27.464000
+*musst*	-	-	-	-	0:40:25.664000	0:40:27.464000
+immer	-	-	-	-	0:40:25.664000	0:40:27.464000
+ver/	-	-	-	-	0:40:25.664000	0:40:27.464000
+alleweile	-	-	-	-	0:40:25.664000	0:40:27.464000
+verteidigen	-	-	-	-	0:40:25.664000	0:40:27.464000
+und	-	-	-	-	0:40:27.464000	0:40:28.537000
+alleweile/	-	-	-	-	0:40:27.464000	0:40:28.537000
+.	-	-	-	-	0:40:27.464000	0:40:28.537000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:27.464000" end="0:40:28.537000">
+(das)	der	PRON	-	-	0:40:27.464000	0:40:28.537000
+ist	sein	AUX	-	-	0:40:27.464000	0:40:28.537000
+eh	eh	ADV	-	-	0:40:27.464000	0:40:28.537000
+klar	klaren	ADJ	-	-	0:40:27.464000	0:40:28.537000
+.	-	-	-	-	0:40:27.464000	0:40:28.537000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:28.537000" end="0:40:30.877000">
+die	der	DET	-	-	0:40:28.537000	0:40:30.877000
+Heimat	Heimat	NOUN	-	-	0:40:28.537000	0:40:30.877000
+ist	sein	AUX	-	-	0:40:28.537000	0:40:30.877000
+einfach/	-	-	-	-	0:40:28.537000	0:40:30.877000
+.	-	-	-	-	0:40:28.537000	0:40:30.877000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:30.877000" end="0:40:34.137000">
+also	also	ADV	-	-	0:40:30.877000	0:40:34.137000
+da	da	SCONJ	-	-	0:40:30.877000	0:40:34.137000
+das	der	PRON	-	-	0:40:30.877000	0:40:34.137000
+habt	haben	AUX	-	-	0:40:30.877000	0:40:34.137000
+ihr	mein	PRON	-	-	0:40:30.877000	0:40:34.137000
+erst	erst	ADV	-	-	0:40:30.877000	0:40:34.137000
+geredet	reden	VERB	-	-	0:40:30.877000	0:40:34.137000
+,	-	-	-	-	0:40:30.877000	0:40:34.137000
+Sprache	Sprache	NOUN	-	-	0:40:30.877000	0:40:34.137000
+von	von	ADP	-	-	0:40:30.877000	0:40:34.137000
+Nachrichtensprechern	Nachrichtensprechern	NOUN	-	-	0:40:30.877000	0:40:34.137000
+,	-	-	-	-	0:40:30.877000	0:40:34.137000
+gell	gell	ADJ	-	-	0:40:30.877000	0:40:34.137000
+?	-	-	-	-	0:40:30.877000	0:40:34.137000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:34.137000" end="0:40:35.097000">
+ja	ja	ADV	-	-	0:40:34.137000	0:40:34.611000
+ja	ja	ADV	-	-	0:40:34.137000	0:40:34.611000
+das	der	PRON	-	-	0:40:34.611000	0:40:35.097000
+haben	haben	AUX	-	-	0:40:34.611000	0:40:35.097000
+wir	ich	PRON	-	-	0:40:34.611000	0:40:35.097000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:34.611000" end="0:40:35.097000">
+ja	ja	PART	-	-	0:40:34.611000	0:40:35.097000
+.	-	-	-	-	0:40:34.611000	0:40:35.097000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:35.097000" end="0:40:35.937000">
+eh	eh	ADV	-	-	0:40:35.097000	0:40:35.937000
+ein	einen	ADP	-	-	0:40:35.097000	0:40:35.937000
+wengerl/	-	-	-	-	0:40:35.097000	0:40:35.937000
+.	-	-	-	-	0:40:35.097000	0:40:35.937000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:35.937000" end="0:40:38.297000">
+Wienerisch	Wienerisch	ADJ	-	-	0:40:35.937000	0:40:38.297000
+<pause duration="1,5s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:38.297000" end="0:40:39.257000">
+rede	rede	NOUN	-	-	0:40:38.297000	0:40:39.257000
+über	über	ADP	-	-	0:40:38.297000	0:40:39.257000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:38.297000" end="0:40:39.257000">
+(reden)	reden	VERB	-	-	0:40:38.297000	0:40:39.257000
+wir	ich	PRON	-	-	0:40:38.297000	0:40:39.257000
+nicht	nicht	PART	-	-	0:40:38.297000	0:40:39.257000
+.	-	-	-	-	0:40:38.297000	0:40:39.257000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:39.257000" end="0:40:42.124000">
+das	der	PRON	-	-	0:40:39.257000	0:40:42.124000
+haben	haben	AUX	-	-	0:40:39.257000	0:40:42.124000
+wir	ich	PRON	-	-	0:40:39.257000	0:40:42.124000
+eigentlich	eigentlich	ADV	-	-	0:40:39.257000	0:40:42.124000
+rede	rede	NOUN	-	-	0:40:39.257000	0:40:42.124000
+das	der	PRON	-	-	0:40:39.257000	0:40:42.124000
+haben	haben	AUX	-	-	0:40:39.257000	0:40:42.124000
+wir	ich	PRON	-	-	0:40:39.257000	0:40:42.124000
+ziemlich	ziemlich	ADV	-	-	0:40:39.257000	0:40:42.124000
+alles	alle	PRON	-	-	0:40:39.257000	0:40:42.124000
+,	-	-	-	-	0:40:39.257000	0:40:42.124000
+was	was	PRON	-	-	0:40:39.257000	0:40:42.124000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:39.257000" end="0:40:42.124000">
+ja	ja	PART	-	-	0:40:39.257000	0:40:42.124000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:42.124000" end="0:40:43.344000">
+(oder)	oder	CCONJ	-	-	0:40:42.124000	0:40:43.344000
+müssen	müssen	VERB	-	-	0:40:42.124000	0:40:43.344000
+wir	ich	PRON	-	-	0:40:42.124000	0:40:43.344000
+das	der	DET	-	-	0:40:42.124000	0:40:43.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:42.124000" end="0:40:43.344000">
+das	der	PRON	-	-	0:40:42.124000	0:40:43.344000
+haben	haben	AUX	-	-	0:40:42.124000	0:40:43.344000
+wir	ich	PRON	-	-	0:40:42.124000	0:40:43.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:43.344000" end="0:40:45.757000">
+separat	separat	ADJ	-	-	0:40:43.344000	0:40:44.831000
+hineintun	hineintun	VERB	-	-	0:40:43.344000	0:40:44.831000
+da	da	ADP	-	-	0:40:43.344000	0:40:44.831000
+oder	oder	CCONJ	-	-	0:40:44.831000	0:40:45.757000
+wie	wie	ADV	-	-	0:40:44.831000	0:40:45.757000
+ist	sein	AUX	-	-	0:40:44.831000	0:40:45.757000
+das	der	PRON	-	-	0:40:44.831000	0:40:45.757000
+?	-	-	-	-	0:40:44.831000	0:40:45.757000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:44.831000" end="0:40:46.484000">
+nein	nein	PART	-	-	0:40:44.831000	0:40:45.757000
+nein	nein	PART	-	-	0:40:44.831000	0:40:45.757000
+das	der	PRON	-	-	0:40:44.831000	0:40:45.757000
+ist	sein	AUX	-	-	0:40:44.831000	0:40:45.757000
+ge/	-	-	-	-	0:40:44.831000	0:40:45.757000
+.	-	-	-	-	0:40:44.831000	0:40:45.757000
+nein	nein	PART	-	-	0:40:45.757000	0:40:46.484000
+das	der	DET	-	-	0:40:45.757000	0:40:46.484000
+passt	passt	PROPN	-	-	0:40:45.757000	0:40:46.484000
+eh	eh	ADV	-	-	0:40:45.757000	0:40:46.484000
+so	so	ADV	-	-	0:40:45.757000	0:40:46.484000
+.	-	-	-	-	0:40:45.757000	0:40:46.484000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:46.484000" end="0:40:46.751000">
+nicht	nicht	PART	-	-	0:40:46.484000	0:40:46.751000
+?	-	-	-	-	0:40:46.484000	0:40:46.751000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:46.751000" end="0:40:50.351000">
+das	der	PRON	-	-	0:40:46.751000	0:40:50.351000
+ist	sein	AUX	-	-	0:40:46.751000	0:40:50.351000
+das	der	DET	-	-	0:40:46.751000	0:40:50.351000
+Thema	Thema	NOUN	-	-	0:40:46.751000	0:40:50.351000
+und	und	CCONJ	-	-	0:40:46.751000	0:40:50.351000
+die/	-	-	-	-	0:40:46.751000	0:40:50.351000
+.	-	-	-	-	0:40:46.751000	0:40:50.351000
+<pause duration="2,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:50.351000" end="0:40:54.131000">
+was	was	PRON	-	-	0:40:50.351000	0:40:54.131000
+haben	haben	AUX	-	-	0:40:50.351000	0:40:54.131000
+wir	ich	PRON	-	-	0:40:50.351000	0:40:54.131000
+denn	denn	ADV	-	-	0:40:50.351000	0:40:54.131000
+die	der	DET	-	-	0:40:50.351000	0:40:54.131000
+orangenen	orangenen	ADJ	-	-	0:40:50.351000	0:40:54.131000
+Zettel	Zettel	NOUN	-	-	0:40:50.351000	0:40:54.131000
+,	-	-	-	-	0:40:50.351000	0:40:54.131000
+was	was	PRON	-	-	0:40:50.351000	0:40:54.131000
+ist	sein	AUX	-	-	0:40:50.351000	0:40:54.131000
+denn	denn	ADV	-	-	0:40:50.351000	0:40:54.131000
+da	da	ADV	-	-	0:40:50.351000	0:40:54.131000
+alles	alle	PRON	-	-	0:40:50.351000	0:40:54.131000
+drauf	drauf	ADP	-	-	0:40:50.351000	0:40:54.131000
+,	-	-	-	-	0:40:50.351000	0:40:54.131000
+schauen	schauen	VERB	-	-	0:40:50.351000	0:40:54.131000
+wir	ich	PRON	-	-	0:40:50.351000	0:40:54.131000
+da	da	ADV	-	-	0:40:50.351000	0:40:54.131000
+einmal	einmal	ADV	-	-	0:40:50.351000	0:40:54.131000
+.	-	-	-	-	0:40:50.351000	0:40:54.131000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:40:50.351000" end="0:40:58.971000">
+stell	stell	ADJ	-	-	0:40:50.351000	0:40:54.131000
+dir	sich	PRON	-	-	0:40:50.351000	0:40:54.131000
+vor	vor	ADP	-	-	0:40:50.351000	0:40:54.131000
+es	ich	PRON	-	-	0:40:50.351000	0:40:54.131000
+stell	stell	ADJ	-	-	0:40:50.351000	0:40:54.131000
+dir	sich	PRON	-	-	0:40:50.351000	0:40:54.131000
+vor	vor	ADP	-	-	0:40:50.351000	0:40:54.131000
+,	-	-	-	-	0:40:50.351000	0:40:54.131000
+es	ich	PRON	-	-	0:40:50.351000	0:40:54.131000
+geht	gehen	VERB	-	-	0:40:50.351000	0:40:54.131000
+das	der	DET	-	-	0:40:50.351000	0:40:54.131000
+Licht	Licht	NOUN	-	-	0:40:50.351000	0:40:54.131000
+aus	aus	ADP	-	-	0:40:50.351000	0:40:54.131000
+.	-	-	-	-	0:40:50.351000	0:40:54.131000
+<pause duration="1,5s"/>
+kein	kein	DET	-	-	0:40:54.131000	0:40:58.971000
+Dialekt	Dialekt	NOUN	-	-	0:40:54.131000	0:40:58.971000
+mehr	mehr	ADV	-	-	0:40:54.131000	0:40:58.971000
+in	in	ADP	-	-	0:40:54.131000	0:40:58.971000
+Österreich	Österreich	PROPN	-	-	0:40:54.131000	0:40:58.971000
+.	-	-	-	-	0:40:54.131000	0:40:58.971000
+<pause duration="0,9s"/>
+na	na	X	-	-	0:40:54.131000	0:40:58.971000
+ja	ja	ADV	-	-	0:40:54.131000	0:40:58.971000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:40:58.971000" end="0:41:00.884000">
+kein	kein	DET	-	-	0:40:58.971000	0:41:00.171000
+Di/	-	-	-	-	0:40:58.971000	0:41:00.171000
+das	der	PRON	-	-	0:40:58.971000	0:41:00.171000
+das	der	PRON	-	-	0:40:58.971000	0:41:00.171000
+stimmt	stimmen	VERB	-	-	0:41:00.171000	0:41:00.884000
+einmal	einmal	ADV	-	-	0:41:00.171000	0:41:00.884000
+nicht	nicht	PART	-	-	0:41:00.171000	0:41:00.884000
+.	-	-	-	-	0:41:00.171000	0:41:00.884000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:00.171000" end="0:41:02.397000">
+das	der	DET	-	-	0:41:00.171000	0:41:00.884000
+na	na	PROPN	-	-	0:41:00.884000	0:41:02.397000
+das	der	PRON	-	-	0:41:00.884000	0:41:02.397000
+kann	können	VERB	-	-	0:41:00.884000	0:41:02.397000
+ich	ich	PRON	-	-	0:41:00.884000	0:41:02.397000
+mir	sich	PRON	-	-	0:41:00.884000	0:41:02.397000
+nicht	nicht	PART	-	-	0:41:00.884000	0:41:02.397000
+vorstellen	vorstellen	VERB	-	-	0:41:00.884000	0:41:02.397000
+,	-	-	-	-	0:41:00.884000	0:41:02.397000
+dass	dass	SCONJ	-	-	0:41:00.884000	0:41:02.397000
+das	der	PRON	-	-	0:41:00.884000	0:41:02.397000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:02.397000" end="0:41:04.631000">
+na	na	X	-	-	0:41:02.397000	0:41:04.631000
+Dialekt	Dialekt	NOUN	-	-	0:41:02.397000	0:41:04.631000
+gibt	geben	VERB	-	-	0:41:02.397000	0:41:04.631000
+es	ich	PRON	-	-	0:41:02.397000	0:41:04.631000
+überall	überall	ADV	-	-	0:41:02.397000	0:41:04.631000
+in	in	ADP	-	-	0:41:02.397000	0:41:04.631000
+Österreich	Österreich	PROPN	-	-	0:41:02.397000	0:41:04.631000
+.	-	-	-	-	0:41:02.397000	0:41:04.631000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:02.397000" end="0:41:07.884000">
+das	der	PRON	-	-	0:41:02.397000	0:41:04.631000
+wird	werden	AUX	-	-	0:41:02.397000	0:41:04.631000
+das	der	PRON	-	-	0:41:02.397000	0:41:04.631000
+wird	werden	AUX	-	-	0:41:02.397000	0:41:04.631000
+mit	mit	ADP	-	-	0:41:02.397000	0:41:04.631000
+Sicherheit	Sicherheit	NOUN	-	-	0:41:02.397000	0:41:04.631000
+nie	nie	ADV	-	-	0:41:04.631000	0:41:05.771000
+kommen	kommen	VERB	-	-	0:41:04.631000	0:41:05.771000
+.	-	-	-	-	0:41:04.631000	0:41:05.771000
+<pause duration="0,6s"/>
+sie	ich	PRON	-	-	0:41:05.771000	0:41:07.884000
+glaubt	glauben	VERB	-	-	0:41:05.771000	0:41:07.884000
+die	der	DET	-	-	0:41:05.771000	0:41:07.884000
+glauben	glauben	NOUN	-	-	0:41:05.771000	0:41:07.884000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:41:05.771000	0:41:07.884000
+,	-	-	-	-	0:41:05.771000	0:41:07.884000
+dass	dass	SCONJ	-	-	0:41:05.771000	0:41:07.884000
+man	man	PRON	-	-	0:41:05.771000	0:41:07.884000
+den	der	DET	-	-	0:41:05.771000	0:41:07.884000
+Dialekt	Dialekt	NOUN	-	-	0:41:05.771000	0:41:07.884000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:07.884000" end="0:41:09.884000">
+dass	dass	SCONJ	-	-	0:41:07.884000	0:41:09.884000
+der	der	DET	-	-	0:41:07.884000	0:41:09.884000
+nein	nein	NOUN	-	-	0:41:07.884000	0:41:09.884000
+das	der	DET	-	-	0:41:07.884000	0:41:09.884000
+nein	nein	NOUN	-	-	0:41:07.884000	0:41:09.884000
+nein	nein	PART	-	-	0:41:07.884000	0:41:09.884000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:07.884000" end="0:41:12.731000">
+abspre/	-	-	-	-	0:41:07.884000	0:41:09.884000
+abschaffen	abschaffen	VERB	-	-	0:41:07.884000	0:41:09.884000
+müssen	müssen	VERB	-	-	0:41:07.884000	0:41:09.884000
+und	und	CCONJ	-	-	0:41:07.884000	0:41:09.884000
+nur	nur	ADV	-	-	0:41:09.884000	0:41:12.731000
+mehr	mehr	DET	-	-	0:41:09.884000	0:41:12.731000
+Hochdeutsch	Hochdeutsch	NOUN	-	-	0:41:09.884000	0:41:12.731000
+reden	reden	VERB	-	-	0:41:09.884000	0:41:12.731000
+.	-	-	-	-	0:41:09.884000	0:41:12.731000
+<pause duration="1,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:12.731000" end="0:41:14.331000">
+habe	habe	AUX	-	-	0:41:12.731000	0:41:14.331000
+ich	ich	PRON	-	-	0:41:12.731000	0:41:14.331000
+auch	auch	ADV	-	-	0:41:12.731000	0:41:14.331000
+gesagt	sagen	VERB	-	-	0:41:12.731000	0:41:14.331000
+,	-	-	-	-	0:41:12.731000	0:41:14.331000
+also	also	ADV	-	-	0:41:12.731000	0:41:14.331000
+mit	mit	ADP	-	-	0:41:12.731000	0:41:14.331000
+dem/	-	-	-	-	0:41:12.731000	0:41:14.331000
+.	-	-	-	-	0:41:12.731000	0:41:14.331000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:14.331000" end="0:41:18.151000">
+na	na	X	-	-	0:41:14.331000	0:41:18.151000
+ja	ja	ADV	-	-	0:41:14.331000	0:41:18.151000
+<pause duration="0,5s"/>
+Dialekt	Dialekt	NOUN	-	-	0:41:14.331000	0:41:18.151000
+wird	werden	AUX	-	-	0:41:14.331000	0:41:18.151000
+es	ich	PRON	-	-	0:41:14.331000	0:41:18.151000
+alleweile	alleweile	NOUN	-	-	0:41:14.331000	0:41:18.151000
+geben	geben	VERB	-	-	0:41:14.331000	0:41:18.151000
+.	-	-	-	-	0:41:14.331000	0:41:18.151000
+<pause duration="1,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:18.151000" end="0:41:22.457000">
+unheimlich	unheimlich	ADJ	-	-	0:41:18.151000	0:41:21.204000
+viel	viel	DET	-	-	0:41:18.151000	0:41:21.204000
+Dialekt	Dialekt	NOUN	-	-	0:41:18.151000	0:41:21.204000
+<pause duration="0,7s"/>
+wenn	wenn	SCONJ	-	-	0:41:21.204000	0:41:22.457000
+du	du	PRON	-	-	0:41:21.204000	0:41:22.457000
+dir	sich	PRON	-	-	0:41:21.204000	0:41:22.457000
+es	ich	PRON	-	-	0:41:21.204000	0:41:22.457000
+vorstellst	vorstellen	VERB	-	-	0:41:21.204000	0:41:22.457000
+,	-	-	-	-	0:41:21.204000	0:41:22.457000
+gell	gell	ADJ	-	-	0:41:21.204000	0:41:22.457000
+?	-	-	-	-	0:41:21.204000	0:41:22.457000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:22.457000" end="0:41:26.744000">
+ja	ja	PART	-	-	0:41:22.457000	0:41:26.744000
+und	und	CCONJ	-	-	0:41:22.457000	0:41:26.744000
+und	und	CCONJ	-	-	0:41:22.457000	0:41:26.744000
+we/	-	-	-	-	0:41:22.457000	0:41:26.744000
+gehe	gehen	VERB	-	-	0:41:22.457000	0:41:26.744000
+fahre	fahren	NOUN	-	-	0:41:22.457000	0:41:26.744000
+irgendwo	irgendwo	ADV	-	-	0:41:22.457000	0:41:26.744000
+na/	-	-	-	-	0:41:22.457000	0:41:26.744000
+i/	-	-	-	-	0:41:22.457000	0:41:26.744000
+ins	ins	ADP	-	-	0:41:22.457000	0:41:26.744000
+Innviertel	Innviertel	NOUN	-	-	0:41:22.457000	0:41:26.744000
+hinauf	hinauf	ADP	-	-	0:41:22.457000	0:41:26.744000
+,	-	-	-	-	0:41:22.457000	0:41:26.744000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:26.744000" end="0:41:28.784000">
+ist	sein	AUX	-	-	0:41:26.744000	0:41:28.784000
+ja	ja	ADV	-	-	0:41:26.744000	0:41:28.784000
+anders	anders	ADV	-	-	0:41:26.744000	0:41:28.784000
+schon	schon	ADV	-	-	0:41:26.744000	0:41:28.784000
+wieder	wieder	ADV	-	-	0:41:26.744000	0:41:28.784000
+.	-	-	-	-	0:41:26.744000	0:41:28.784000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:26.744000" end="0:41:28.784000">
+ähm	ähm	PROPN	-	-	0:41:26.744000	0:41:28.784000
+ist	sein	AUX	-	-	0:41:26.744000	0:41:28.784000
+schon	schon	ADV	-	-	0:41:26.744000	0:41:28.784000
+wieder	wieder	ADV	-	-	0:41:26.744000	0:41:28.784000
+ganz	ganz	ADV	-	-	0:41:26.744000	0:41:28.784000
+ist	sein	AUX	-	-	0:41:26.744000	0:41:28.784000
+schon	schon	ADV	-	-	0:41:26.744000	0:41:28.784000
+wieder	wieder	ADV	-	-	0:41:26.744000	0:41:28.784000
+bairischer	bairisch	ADJ	-	-	0:41:26.744000	0:41:28.784000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:28.784000" end="0:41:29.777000">
+ja	ja	ADV	-	-	0:41:28.784000	0:41:29.777000
+ja	ja	PART	-	-	0:41:28.784000	0:41:29.777000
+.	-	-	-	-	0:41:28.784000	0:41:29.777000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:28.784000" end="0:41:33.351000">
+ähm	ähm	PROPN	-	-	0:41:28.784000	0:41:29.777000
+ähm	ähm	PROPN	-	-	0:41:28.784000	0:41:29.777000
+Akzent	Akzent	NOUN	-	-	0:41:29.777000	0:41:32.191000
+da	da	ADV	-	-	0:41:29.777000	0:41:32.191000
+und	und	CCONJ	-	-	0:41:29.777000	0:41:32.191000
+so	so	ADV	-	-	0:41:29.777000	0:41:32.191000
+,	-	-	-	-	0:41:29.777000	0:41:32.191000
+nicht	nicht	PART	-	-	0:41:29.777000	0:41:32.191000
+?	-	-	-	-	0:41:29.777000	0:41:32.191000
+<pause duration="1,0s"/>
+das	der	PRON	-	-	0:41:32.191000	0:41:33.351000
+wird	werden	AUX	-	-	0:41:32.191000	0:41:33.351000
+alleweile	alleweile	NOUN	-	-	0:41:32.191000	0:41:33.351000
+sein	mein	AUX	-	-	0:41:32.191000	0:41:33.351000
+.	-	-	-	-	0:41:32.191000	0:41:33.351000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:33.351000" end="0:41:40.151000">
+und	und	CCONJ	-	-	0:41:33.351000	0:41:36.831000
+(gerissen)	reißen	VERB	-	-	0:41:33.351000	0:41:36.831000
+und	und	CCONJ	-	-	0:41:33.351000	0:41:36.831000
+wenn	wenn	SCONJ	-	-	0:41:33.351000	0:41:36.831000
+du	du	PRON	-	-	0:41:33.351000	0:41:36.831000
+irgendwo	irgendwo	ADV	-	-	0:41:33.351000	0:41:36.831000
+hin	hin	ADV	-	-	0:41:33.351000	0:41:36.831000
+kommst	kommen	VERB	-	-	0:41:33.351000	0:41:36.831000
+,	-	-	-	-	0:41:33.351000	0:41:36.831000
+<pause duration="1,1s"/>
+sagen	sagen	VERB	-	-	0:41:36.831000	0:41:38.537000
+wir	ich	PRON	-	-	0:41:36.831000	0:41:38.537000
+,	-	-	-	-	0:41:36.831000	0:41:38.537000
+du	du	PRON	-	-	0:41:36.831000	0:41:38.537000
+fährst	fahren	VERB	-	-	0:41:36.831000	0:41:38.537000
+in	in	ADP	-	-	0:41:36.831000	0:41:38.537000
+Urlaub	Urlaub	NOUN	-	-	0:41:36.831000	0:41:38.537000
+,	-	-	-	-	0:41:36.831000	0:41:38.537000
+und	und	CCONJ	-	-	0:41:38.537000	0:41:40.151000
+wirst	werden	AUX	-	-	0:41:38.537000	0:41:40.151000
+da	da	ADV	-	-	0:41:38.537000	0:41:40.151000
+wie	wie	CCONJ	-	-	0:41:38.537000	0:41:40.151000
+in	in	ADP	-	-	0:41:38.537000	0:41:40.151000
+Rovinj	Rovinj	NOUN	-	-	0:41:38.537000	0:41:40.151000
+,	-	-	-	-	0:41:38.537000	0:41:40.151000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:38.537000" end="0:41:40.151000">
+ja	ja	PART	-	-	0:41:38.537000	0:41:40.151000
+.	-	-	-	-	0:41:38.537000	0:41:40.151000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:40.151000" end="0:41:42.817000">
+und	und	CCONJ	-	-	0:41:40.151000	0:41:42.817000
+du	du	PROPN	-	-	0:41:40.151000	0:41:42.817000
+redest	reden	VERB	-	-	0:41:40.151000	0:41:42.817000
+mit	mit	ADP	-	-	0:41:40.151000	0:41:42.817000
+irgendwe/	-	-	-	-	0:41:40.151000	0:41:42.817000
+kommst	kommen	NOUN	-	-	0:41:40.151000	0:41:42.817000
+mit	mit	ADP	-	-	0:41:40.151000	0:41:42.817000
+einem	einer	DET	-	-	0:41:40.151000	0:41:42.817000
+zum	zum	ADP	-	-	0:41:40.151000	0:41:42.817000
+Reden	Rede	NOUN	-	-	0:41:40.151000	0:41:42.817000
+,	-	-	-	-	0:41:40.151000	0:41:42.817000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:42.817000" end="0:41:43.217000">
+ja	ja	PART	-	-	0:41:42.817000	0:41:43.217000
+.	-	-	-	-	0:41:42.817000	0:41:43.217000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:43.217000" end="0:41:46.344000">
+"ähm	ähm	PROPN	-	-	0:41:43.217000	0:41:45.004000
+seid	sein	AUX	-	-	0:41:43.217000	0:41:45.004000
+ihr	mein	DET	-	-	0:41:43.217000	0:41:45.004000
+Oberösterreicher	Oberösterreicher	NOUN	-	-	0:41:43.217000	0:41:45.004000
+?"	-	-	-	-	0:41:43.217000	0:41:45.004000
+ja	ja	ADV	-	-	0:41:45.004000	0:41:46.344000
+freilich	freilich	ADV	-	-	0:41:45.004000	0:41:46.344000
+,	-	-	-	-	0:41:45.004000	0:41:46.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:45.004000" end="0:41:46.344000">
+ja	ja	ADV	-	-	0:41:45.004000	0:41:46.344000
+ja	ja	ADV	-	-	0:41:45.004000	0:41:46.344000
+kennen	kennen	VERB	-	-	0:41:45.004000	0:41:46.344000
+sie	ich	PRON	-	-	0:41:45.004000	0:41:46.344000
+eh	eh	ADV	-	-	0:41:45.004000	0:41:46.344000
+schon	schon	ADV	-	-	0:41:45.004000	0:41:46.344000
+ja	ja	ADV	-	-	0:41:45.004000	0:41:46.344000
+.	-	-	-	-	0:41:45.004000	0:41:46.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:46.344000" end="0:41:49.517000">
+kennen	kennen	VERB	-	-	0:41:46.344000	0:41:47.731000
+die	der	DET	-	-	0:41:46.344000	0:41:47.731000
+kennen	kennen	NOUN	-	-	0:41:46.344000	0:41:47.731000
+einfach	einfach	ADJ	-	-	0:41:46.344000	0:41:47.731000
+,	-	-	-	-	0:41:46.344000	0:41:47.731000
+das	der	PRON	-	-	0:41:47.731000	0:41:49.517000
+kennt	kennen	VERB	-	-	0:41:47.731000	0:41:49.517000
+man	man	PRON	-	-	0:41:47.731000	0:41:49.517000
+heraus	heraus	ADP	-	-	0:41:47.731000	0:41:49.517000
+.	-	-	-	-	0:41:47.731000	0:41:49.517000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:47.731000" end="0:41:50.511000">
+ja	ja	ADV	-	-	0:41:47.731000	0:41:49.517000
+ja	ja	ADV	-	-	0:41:47.731000	0:41:49.517000
+sich/	-	-	-	-	0:41:47.731000	0:41:49.517000
+ja	ja	ADV	-	-	0:41:47.731000	0:41:49.517000
+wir	ich	PRON	-	-	0:41:47.731000	0:41:49.517000
+kennen	kennen	VERB	-	-	0:41:47.731000	0:41:49.517000
+es	ich	PRON	-	-	0:41:47.731000	0:41:49.517000
+ja	ja	ADV	-	-	0:41:47.731000	0:41:49.517000
+auch	auch	ADV	-	-	0:41:47.731000	0:41:49.517000
+,	-	-	-	-	0:41:47.731000	0:41:49.517000
+wenn	wenn	SCONJ	-	-	0:41:49.517000	0:41:50.511000
+einer	einer	DET	-	-	0:41:49.517000	0:41:50.511000
+heute	heute	ADV	-	-	0:41:49.517000	0:41:50.511000
+ähm	ähm	X	-	-	0:41:49.517000	0:41:50.511000
+ähm	ähm	PROPN	-	-	0:41:49.517000	0:41:50.511000
+ähm	ähm	PROPN	-	-	0:41:49.517000	0:41:50.511000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:50.511000" end="0:41:51.044000">
+ja	ja	PART	-	-	0:41:50.511000	0:41:51.044000
+.	-	-	-	-	0:41:50.511000	0:41:51.044000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:50.511000" end="0:41:53.317000">
+einen	ein	DET	-	-	0:41:50.511000	0:41:51.044000
+Tiroler	Tiroler	NOUN	-	-	0:41:50.511000	0:41:51.044000
+,	-	-	-	-	0:41:50.511000	0:41:51.044000
+einen	ein	DET	-	-	0:41:50.511000	0:41:51.044000
+Salzburger	Salzburger	NOUN	-	-	0:41:51.044000	0:41:53.317000
+,	-	-	-	-	0:41:51.044000	0:41:53.317000
+einen	-	-	-	-	0:41:51.044000	0:41:53.317000
+Kärntner	-	-	-	-	0:41:51.044000	0:41:53.317000
+*kennst*	-	-	-	-	0:41:51.044000	0:41:53.317000
+ja	-	-	-	-	0:41:51.044000	0:41:53.317000
+heraus	-	-	-	-	0:41:51.044000	0:41:53.317000
+,	-	-	-	-	0:41:51.044000	0:41:53.317000
+einen	ein	DET	-	-	0:41:51.044000	0:41:53.317000
+Steiermarkter	Steiermarkter	NOUN	-	-	0:41:51.044000	0:41:53.317000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:53.317000" end="0:41:55.344000">
+ja	ja	PART	-	-	0:41:53.317000	0:41:55.344000
+sowie/	-	-	-	-	0:41:53.317000	0:41:55.344000
+Steiermarkt	Steiermark	NOUN	-	-	0:41:53.317000	0:41:55.344000
+ja	ja	ADV	-	-	0:41:53.317000	0:41:55.344000
+sowieso	sowieso	ADV	-	-	0:41:53.317000	0:41:55.344000
+.	-	-	-	-	0:41:53.317000	0:41:55.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:53.317000" end="0:41:55.344000">
+genauso	genauso	ADV	-	-	0:41:53.317000	0:41:55.344000
+,	-	-	-	-	0:41:53.317000	0:41:55.344000
+wenn	wenn	SCONJ	-	-	0:41:53.317000	0:41:55.344000
+sie	ich	PRON	-	-	0:41:53.317000	0:41:55.344000
+bellen	bellen	VERB	-	-	0:41:53.317000	0:41:55.344000
+,	-	-	-	-	0:41:53.317000	0:41:55.344000
+nicht	nicht	PART	-	-	0:41:53.317000	0:41:55.344000
+?	-	-	-	-	0:41:53.317000	0:41:55.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:55.344000" end="0:41:58.557000">
+der	der	PRON	-	-	0:41:55.344000	0:41:58.557000
+bellt	bellen	VERB	-	-	0:41:55.344000	0:41:58.557000
+ja	ja	ADV	-	-	0:41:55.344000	0:41:58.557000
+ja	ja	PART	-	-	0:41:55.344000	0:41:58.557000
+.	-	-	-	-	0:41:55.344000	0:41:58.557000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:55.344000" end="0:41:58.557000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:41:58.557000" end="0:42:03.371000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:41:58.557000" end="0:42:03.371000">
+na	na	X	-	-	0:41:58.557000	0:42:03.371000
+also	also	ADV	-	-	0:41:58.557000	0:42:03.371000
+ohne	ohne	ADP	-	-	0:41:58.557000	0:42:03.371000
+Dialekt	Dialekt	NOUN	-	-	0:41:58.557000	0:42:03.371000
+wird	werden	AUX	-	-	0:41:58.557000	0:42:03.371000
+es	ich	PRON	-	-	0:41:58.557000	0:42:03.371000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:41:58.557000	0:42:03.371000
+<pause duration="0,7s"/>
+so	so	ADV	-	-	0:41:58.557000	0:42:03.371000
+schnell	schnellen	ADJ	-	-	0:41:58.557000	0:42:03.371000
+nicht	nicht	PART	-	-	0:41:58.557000	0:42:03.371000
+gehen	gehen	VERB	-	-	0:41:58.557000	0:42:03.371000
+bei	bei	ADP	-	-	0:41:58.557000	0:42:03.371000
+uns	sich	PRON	-	-	0:41:58.557000	0:42:03.371000
+in	in	ADP	-	-	0:41:58.557000	0:42:03.371000
+Österreich	Österreich	PROPN	-	-	0:41:58.557000	0:42:03.371000
+.	-	-	-	-	0:41:58.557000	0:42:03.371000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:03.371000" end="0:42:05.164000">
+Österreich	Österreich	PROPN	-	-	0:42:03.371000	0:42:05.164000
+in	in	ADP	-	-	0:42:03.371000	0:42:05.164000
+fünfzig	fünfzig	NUM	-	-	0:42:03.371000	0:42:05.164000
+Jahren	Jahr	NOUN	-	-	0:42:03.371000	0:42:05.164000
+,	-	-	-	-	0:42:03.371000	0:42:05.164000
+das	der	PRON	-	-	0:42:03.371000	0:42:05.164000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:03.371000" end="0:42:05.164000">
+fünfzig	fünfzig	NUM	-	-	0:42:03.371000	0:42:05.164000
+Jahren	Jahr	NOUN	-	-	0:42:03.371000	0:42:05.164000
+.	-	-	-	-	0:42:03.371000	0:42:05.164000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:05.164000" end="0:42:06.811000">
+können	können	VERB	-	-	0:42:05.164000	0:42:06.811000
+wir	ich	PRON	-	-	0:42:05.164000	0:42:06.811000
+noch	noch	ADV	-	-	0:42:05.164000	0:42:06.811000
+jetzt	jetzt	ADV	-	-	0:42:05.164000	0:42:06.811000
+noch	noch	ADV	-	-	0:42:05.164000	0:42:06.811000
+nicht	nicht	PART	-	-	0:42:05.164000	0:42:06.811000
+sagen	sagen	VERB	-	-	0:42:05.164000	0:42:06.811000
+.	-	-	-	-	0:42:05.164000	0:42:06.811000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:06.811000" end="0:42:07.737000">
+nein	nein	PART	-	-	0:42:06.811000	0:42:07.737000
+das	der	PRON	-	-	0:42:06.811000	0:42:07.737000
+wissen	wissen	VERB	-	-	0:42:06.811000	0:42:07.737000
+wir	ich	PRON	-	-	0:42:06.811000	0:42:07.737000
+nicht	nicht	PART	-	-	0:42:06.811000	0:42:07.737000
+,	-	-	-	-	0:42:06.811000	0:42:07.737000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:07.737000" end="0:42:09.737000">
+das	der	PRON	-	-	0:42:07.737000	0:42:09.737000
+ist	sein	AUX	-	-	0:42:07.737000	0:42:09.737000
+hm	hm	X	-	-	0:42:07.737000	0:42:09.737000
+,	-	-	-	-	0:42:07.737000	0:42:09.737000
+was	was	PRON	-	-	0:42:07.737000	0:42:09.737000
+?	-	-	-	-	0:42:07.737000	0:42:09.737000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:07.737000" end="0:42:12.824000">
+weil	weil	SCONJ	-	-	0:42:07.737000	0:42:09.737000
+so	so	ADV	-	-	0:42:07.737000	0:42:09.737000
+das	der	PRON	-	-	0:42:07.737000	0:42:09.737000
+werden	werden	AUX	-	-	0:42:07.737000	0:42:09.737000
+wir	ich	PRON	-	-	0:42:07.737000	0:42:09.737000
+nicht	nicht	PART	-	-	0:42:07.737000	0:42:09.737000
+erleben	erleben	VERB	-	-	0:42:07.737000	0:42:09.737000
+.	-	-	-	-	0:42:07.737000	0:42:09.737000
+<pause duration="1,0s"/>
+kein	kein	DET	-	-	0:42:09.737000	0:42:12.824000
+Hochdeutsch	Hochdeutsch	NOUN	-	-	0:42:09.737000	0:42:12.824000
+mehr	mehr	ADV	-	-	0:42:09.737000	0:42:12.824000
+in	in	ADP	-	-	0:42:09.737000	0:42:12.824000
+Österreich	Österreich	PROPN	-	-	0:42:09.737000	0:42:12.824000
+.	-	-	-	-	0:42:09.737000	0:42:12.824000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:12.824000" end="0:42:14.224000">
+das	der	DET	-	-	0:42:12.824000	0:42:14.224000
+das	der	PRON	-	-	0:42:12.824000	0:42:14.224000
+gibt	geben	VERB	-	-	0:42:12.824000	0:42:14.224000
+es	ich	PRON	-	-	0:42:12.824000	0:42:14.224000
+auch	auch	ADV	-	-	0:42:12.824000	0:42:14.224000
+nicht	nicht	PART	-	-	0:42:12.824000	0:42:14.224000
+,	-	-	-	-	0:42:12.824000	0:42:14.224000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:12.824000" end="0:42:14.224000">
+das	der	PRON	-	-	0:42:12.824000	0:42:14.224000
+wird	werden	AUX	-	-	0:42:12.824000	0:42:14.224000
+auch	auch	ADV	-	-	0:42:12.824000	0:42:14.224000
+nicht	nicht	PART	-	-	0:42:12.824000	0:42:14.224000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:14.224000" end="0:42:15.984000">
+das	der	PRON	-	-	0:42:14.224000	0:42:15.984000
+wird	werden	AUX	-	-	0:42:14.224000	0:42:15.984000
+immer	immer	ADV	-	-	0:42:14.224000	0:42:15.984000
+geben	geben	VERB	-	-	0:42:14.224000	0:42:15.984000
+.	-	-	-	-	0:42:14.224000	0:42:15.984000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:14.224000" end="0:42:19.531000">
+geben	geben	VERB	-	-	0:42:14.224000	0:42:15.984000
+,	-	-	-	-	0:42:14.224000	0:42:15.984000
+es	ich	PRON	-	-	0:42:14.224000	0:42:15.984000
+wird	werden	AUX	-	-	0:42:14.224000	0:42:15.984000
+immer	immer	ADV	-	-	0:42:14.224000	0:42:15.984000
+eine	einen	PRON	-	-	0:42:15.984000	0:42:17.984000
+Amtssprache/	-	-	-	-	0:42:15.984000	0:42:17.984000
+.	-	-	-	-	0:42:15.984000	0:42:17.984000
+<pause duration="1,0s"/>
+du	du	PRON	-	-	0:42:17.984000	0:42:19.531000
+als	als	ADP	-	-	0:42:17.984000	0:42:19.531000
+Bundespräsident	Bundespräsident	NOUN	-	-	0:42:17.984000	0:42:19.531000
+.	-	-	-	-	0:42:17.984000	0:42:19.531000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:19.531000" end="0:42:20.511000">
+könnte	können	VERB	-	-	0:42:19.531000	0:42:20.511000
+ich	ich	PRON	-	-	0:42:19.531000	0:42:20.511000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:19.531000" end="0:42:20.511000">
+(sind	sein	AUX	-	-	0:42:19.531000	0:42:20.511000
+wir	ich	PRON	-	-	0:42:19.531000	0:42:20.511000
+auch	auch	ADV	-	-	0:42:19.531000	0:42:20.511000
+scho/	-	-	-	-	0:42:19.531000	0:42:20.511000
+.)	-	-	-	-	0:42:19.531000	0:42:20.511000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:20.511000" end="0:42:21.611000">
+könnte	können	VERB	-	-	0:42:20.511000	0:42:21.611000
+ich	ich	PRON	-	-	0:42:20.511000	0:42:21.611000
+mir	sich	PRON	-	-	0:42:20.511000	0:42:21.611000
+vorstellen	vorstellen	VERB	-	-	0:42:20.511000	0:42:21.611000
+.	-	-	-	-	0:42:20.511000	0:42:21.611000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:21.611000" end="0:42:23.551000">
+sind	sein	AUX	-	-	0:42:21.611000	0:42:23.551000
+wi/	-	-	-	-	0:42:21.611000	0:42:23.551000
+aber	aber	ADV	-	-	0:42:21.611000	0:42:23.551000
+sind	sein	AUX	-	-	0:42:21.611000	0:42:23.551000
+wir	ich	PRON	-	-	0:42:21.611000	0:42:23.551000
+schon	schon	ADV	-	-	0:42:21.611000	0:42:23.551000
+zu	zu	PART	-	-	0:42:21.611000	0:42:23.551000
+alt	alt	ADJ	-	-	0:42:21.611000	0:42:23.551000
+,	-	-	-	-	0:42:21.611000	0:42:23.551000
+[Gerhard]N	Gerhard	PROPN	-	-	0:42:21.611000	0:42:23.551000
+.	-	-	-	-	0:42:21.611000	0:42:23.551000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:23.551000" end="0:42:27.824000">
+ja	ja	ADV	-	-	0:42:23.551000	0:42:25.077000
+aber	aber	ADV	-	-	0:42:23.551000	0:42:25.077000
+von	von	ADP	-	-	0:42:23.551000	0:42:25.077000
+der	der	DET	-	-	0:42:23.551000	0:42:25.077000
+Gage	Gage	NOUN	-	-	0:42:23.551000	0:42:25.077000
+her	her	ADP	-	-	0:42:23.551000	0:42:25.077000
+könnte	können	VERB	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #MV #ModK #circum #std #stdL-	-	0:42:25.077000	0:42:27.824000
+ich	ich	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #MV #ModK #circum #std #stdL-	-	0:42:25.077000	0:42:27.824000
+es	ich	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #MV #ModK #circum #std #stdL-	-	0:42:25.077000	0:42:27.824000
+mir	sich	PRON	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #MV #ModK #circum #std #stdL-	-	0:42:25.077000	0:42:27.824000
+vorstellen	vorstellen	VERB	#KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #MV #ModK #circum #std #stdL-	-	0:42:25.077000	0:42:27.824000
+,	-	-	-	-	0:42:25.077000	0:42:27.824000
+oder	oder	CCONJ	-	-	0:42:25.077000	0:42:27.824000
+?	-	-	-	-	0:42:25.077000	0:42:27.824000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:25.077000" end="0:42:27.824000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:27.824000" end="0:42:30.964000">
+sonst	sonst	ADV	-	-	0:42:27.824000	0:42:29.064000
+nicht	nicht	PART	-	-	0:42:27.824000	0:42:29.064000
+mehr	mehr	ADV	-	-	0:42:27.824000	0:42:29.064000
+,	-	-	-	-	0:42:27.824000	0:42:29.064000
+nein	nein	PART	-	-	0:42:27.824000	0:42:29.064000
+.	-	-	-	-	0:42:27.824000	0:42:29.064000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:29.064000" end="0:42:37.391000">
+au	au	X	-	-	0:42:30.964000	0:42:37.391000
+weh	weh	X	-	-	0:42:30.964000	0:42:37.391000
+!	-	-	-	-	0:42:30.964000	0:42:37.391000
+<pause duration="0,8s"/>
+eine	einen	DET	-	-	0:42:30.964000	0:42:37.391000
+eigene	eigene	ADJ	-	-	0:42:30.964000	0:42:37.391000
+Fernsehsendung	Fernsehsendung	NOUN	-	-	0:42:30.964000	0:42:37.391000
+für	für	ADP	-	-	0:42:30.964000	0:42:37.391000
+uns	sich	PRON	-	-	0:42:30.964000	0:42:37.391000
+<pause duration="1,2s"/>
+zahlt	zahlen	VERB	-	-	0:42:30.964000	0:42:37.391000
+sich	sich	PRON	-	-	0:42:30.964000	0:42:37.391000
+nicht	nicht	PART	-	-	0:42:30.964000	0:42:37.391000
+mehr	mehr	ADV	-	-	0:42:30.964000	0:42:37.391000
+aus	aus	ADP	-	-	0:42:30.964000	0:42:37.391000
+.	-	-	-	-	0:42:30.964000	0:42:37.391000
+<pause duration="1,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:37.391000" end="0:42:38.044000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:38.044000" end="0:42:42.564000">
+Österreich	Österreich	PROPN	-	-	0:42:38.044000	0:42:42.564000
+als	als	ADP	-	-	0:42:38.044000	0:42:42.564000
+Fußballweltmeister	Fußballweltmeister	NOUN	-	-	0:42:38.044000	0:42:42.564000
+,	-	-	-	-	0:42:38.044000	0:42:42.564000
+Themen	Thema	NOUN	-	-	0:42:38.044000	0:42:42.564000
+haben	haben	AUX	-	-	0:42:38.044000	0:42:42.564000
+sie	ich	PRON	-	-	0:42:38.044000	0:42:42.564000
+schon	schon	ADV	-	-	0:42:38.044000	0:42:42.564000
+ausgesucht	aussuchen	VERB	-	-	0:42:38.044000	0:42:42.564000
+,	-	-	-	-	0:42:38.044000	0:42:42.564000
+hm	hm	X	-	-	0:42:38.044000	0:42:42.564000
+?	-	-	-	-	0:42:38.044000	0:42:42.564000
+<pause duration="1,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:42.564000" end="0:42:42.991000">
+na	na	X	-	-	0:42:42.564000	0:42:42.991000
+ja	ja	PART	-	-	0:42:42.564000	0:42:42.991000
+in/	-	-	-	-	0:42:42.564000	0:42:42.991000
+.	-	-	-	-	0:42:42.564000	0:42:42.991000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:42.991000" end="0:42:44.491000">
+na	na	X	-	-	0:42:42.991000	0:42:44.491000
+ja	ja	ADV	-	-	0:42:42.991000	0:42:44.491000
+das	der	PRON	-	-	0:42:42.991000	0:42:44.491000
+wäre	sein	AUX	-	-	0:42:42.991000	0:42:44.491000
+schön	schön	ADJ	-	-	0:42:42.991000	0:42:44.491000
+gewesen	sein	AUX	-	-	0:42:42.991000	0:42:44.491000
+,	-	-	-	-	0:42:42.991000	0:42:44.491000
+gell	gell	ADJ	-	-	0:42:42.991000	0:42:44.491000
+?	-	-	-	-	0:42:42.991000	0:42:44.491000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:44.491000" end="0:42:48.864000">
+das	-	-	#IRR	-	0:42:44.491000	0:42:46.404000
+wäre	-	-	#IRR	-	0:42:44.491000	0:42:46.404000
+da	-	-	-	-	0:42:44.491000	0:42:46.404000
+*kannst*	-	-	-	-	0:42:44.491000	0:42:46.404000
+dazu	-	-	-	-	0:42:44.491000	0:42:46.404000
+sagen	-	-	-	-	0:42:44.491000	0:42:46.404000
+,	-	-	-	-	0:42:44.491000	0:42:46.404000
+das	der	PRON	-	-	0:42:46.404000	0:42:47.257000
+ist	sein	AUX	-	-	0:42:46.404000	0:42:47.257000
+ein	einen	DET	-	-	0:42:46.404000	0:42:47.257000
+Wunder	wund	NOUN	-	-	0:42:46.404000	0:42:47.257000
+.	-	-	-	-	0:42:46.404000	0:42:47.257000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:47.257000" end="0:42:48.864000">
+ein	einen	DET	-	-	0:42:47.257000	0:42:48.864000
+Wu/	-	-	-	-	0:42:47.257000	0:42:48.864000
+ein	einen	DET	-	-	0:42:47.257000	0:42:48.864000
+Wunschtraum	Wunschtraum	NOUN	-	-	0:42:47.257000	0:42:48.864000
+wäre	sein	AUX	-	-	0:42:47.257000	0:42:48.864000
+das	der	PRON	-	-	0:42:47.257000	0:42:48.864000
+gewesen	sein	AUX	-	-	0:42:47.257000	0:42:48.864000
+.	-	-	-	-	0:42:47.257000	0:42:48.864000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:48.864000" end="0:42:50.937000">
+das	der	PRON	-	-	0:42:48.864000	0:42:50.937000
+ist	sein	AUX	-	-	0:42:48.864000	0:42:50.937000
+ein	einen	DET	-	-	0:42:48.864000	0:42:50.937000
+Wunsch/	-	-	-	-	0:42:48.864000	0:42:50.937000
+das	der	PRON	-	-	0:42:48.864000	0:42:50.937000
+ist	sein	AUX	-	-	0:42:48.864000	0:42:50.937000
+ein	einen	DET	-	-	0:42:48.864000	0:42:50.937000
+Wunschkonzert	Wunschkonzert	NOUN	-	-	0:42:48.864000	0:42:50.937000
+,	-	-	-	-	0:42:48.864000	0:42:50.937000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:48.864000" end="0:42:50.937000">
+ja	ja	PART	-	-	0:42:48.864000	0:42:50.937000
+.	-	-	-	-	0:42:48.864000	0:42:50.937000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:50.937000" end="0:42:52.124000">
+*kannst*	-	-	-	-	0:42:50.937000	0:42:52.124000
+auch	-	-	-	-	0:42:50.937000	0:42:52.124000
+sagen	-	-	-	-	0:42:50.937000	0:42:52.124000
+,	-	-	-	-	0:42:50.937000	0:42:52.124000
+ja	ja	PART	-	-	0:42:50.937000	0:42:52.124000
+.	-	-	-	-	0:42:50.937000	0:42:52.124000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:52.124000" end="0:42:53.704000">
+ja	ja	PART	-	-	0:42:52.124000	0:42:53.704000
+.	-	-	-	-	0:42:52.124000	0:42:53.704000
+<pause duration="1,1s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:53.704000" end="0:42:56.031000">
+Umzug	Umzug	NOUN	-	-	0:42:53.704000	0:42:56.031000
+nach	nach	ADP	-	-	0:42:53.704000	0:42:56.031000
+Deutschland	Deutschland	PROPN	-	-	0:42:53.704000	0:42:56.031000
+na	na	PROPN	-	-	0:42:53.704000	0:42:56.031000
+ja	ja	ADV	-	-	0:42:53.704000	0:42:56.031000
+.	-	-	-	-	0:42:53.704000	0:42:56.031000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:53.704000" end="0:42:59.457000">
+Umzug	Umzug	NOUN	-	-	0:42:53.704000	0:42:56.031000
+nach	nach	ADP	-	-	0:42:53.704000	0:42:56.031000
+Deutschland	Deutschland	PROPN	-	-	0:42:53.704000	0:42:56.031000
+,	-	-	-	-	0:42:53.704000	0:42:56.031000
+wenn	wenn	SCONJ	-	-	0:42:53.704000	0:42:56.031000
+ich	ich	PRON	-	-	0:42:53.704000	0:42:56.031000
+wohin	wohin	ADV	-	-	0:42:53.704000	0:42:56.031000
+ziehen	ziehen	VERB	-	-	0:42:53.704000	0:42:56.031000
+möchte	mögen	VERB	-	-	0:42:53.704000	0:42:56.031000
+,	-	-	-	-	0:42:53.704000	0:42:56.031000
+wäre	sein	AUX	-	-	0:42:56.031000	0:42:59.457000
+nach	nach	ADP	-	-	0:42:56.031000	0:42:59.457000
+Griechenland	Griechenland	PROPN	-	-	0:42:56.031000	0:42:59.457000
+hinunter	hinunter	ADJ	-	-	0:42:56.031000	0:42:59.457000
+.	-	-	-	-	0:42:56.031000	0:42:59.457000
+<pause duration="2,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:42:59.457000" end="0:43:01.164000">
+ja	ja	ADV	-	-	0:42:59.457000	0:43:01.164000
+habe	habe	AUX	-	-	0:42:59.457000	0:43:01.164000
+ich	ich	PRON	-	-	0:42:59.457000	0:43:01.164000
+(ihr)	mein	PRON	-	-	0:42:59.457000	0:43:01.164000
+gesagt	sagen	VERB	-	-	0:42:59.457000	0:43:01.164000
+,	-	-	-	-	0:42:59.457000	0:43:01.164000
+ich	ich	PRON	-	-	0:42:59.457000	0:43:01.164000
+(möchte)	mögen	VERB	-	-	0:42:59.457000	0:43:01.164000
+zu	zu	ADP	-	-	0:42:59.457000	0:43:01.164000
+der/	-	-	-	-	0:42:59.457000	0:43:01.164000
+.	-	-	-	-	0:42:59.457000	0:43:01.164000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:42:59.457000" end="0:43:01.164000">
+den	der	DET	-	-	0:42:59.457000	0:43:01.164000
+Hausmeister	Hausmeister	NOUN	-	-	0:42:59.457000	0:43:01.164000
+machen	machen	VERB	-	-	0:42:59.457000	0:43:01.164000
+unten/	-	-	-	-	0:42:59.457000	0:43:01.164000
+.	-	-	-	-	0:42:59.457000	0:43:01.164000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:01.164000" end="0:43:03.291000">
+ich	ich	PRON	-	-	0:43:01.164000	0:43:02.317000
+möchte	mögen	VERB	-	-	0:43:01.164000	0:43:02.317000
+ja	ja	ADV	-	-	0:43:01.164000	0:43:02.317000
+nicht	nicht	PART	-	-	0:43:01.164000	0:43:02.317000
+woanders	woanders	ADV	-	-	0:43:01.164000	0:43:02.317000
+hin	hin	ADP	-	-	0:43:01.164000	0:43:02.317000
+,	-	-	-	-	0:43:01.164000	0:43:02.317000
+habe	habe	AUX	-	-	0:43:02.317000	0:43:03.291000
+ich	ich	PRON	-	-	0:43:02.317000	0:43:03.291000
+gesagt	sagen	VERB	-	-	0:43:02.317000	0:43:03.291000
+.	-	-	-	-	0:43:02.317000	0:43:03.291000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:02.317000" end="0:43:04.164000">
+den	der	DET	-	-	0:43:02.317000	0:43:03.291000
+Hausmeister	Hausmeister	NOUN	-	-	0:43:02.317000	0:43:03.291000
+machen	machen	VERB	-	-	0:43:02.317000	0:43:03.291000
+unten	unten	ADV	-	-	0:43:03.291000	0:43:04.164000
+bei	bei	ADP	-	-	0:43:03.291000	0:43:04.164000
+der	der	DET	-	-	0:43:03.291000	0:43:04.164000
+[Elke]N	Elke	NOUN	-	-	0:43:03.291000	0:43:04.164000
+und	und	CCONJ	-	-	0:43:03.291000	0:43:04.164000
+beim	beim	ADP	-	-	0:43:03.291000	0:43:04.164000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:04.164000" end="0:43:04.731000">
+ja	ja	PART	-	-	0:43:04.164000	0:43:04.731000
+.	-	-	-	-	0:43:04.164000	0:43:04.731000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:04.164000" end="0:43:06.991000">
+[Othmar]N	Othmar	NOUN	-	-	0:43:04.164000	0:43:04.731000
+.	-	-	-	-	0:43:04.164000	0:43:04.731000
+<pause duration="0,7s"/>
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:06.991000" end="0:43:07.497000">
+ja	ja	PART	-	-	0:43:06.991000	0:43:07.497000
+.	-	-	-	-	0:43:06.991000	0:43:07.497000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:07.497000" end="0:43:08.217000">
+unsere	mein	DET	-	-	0:43:07.497000	0:43:08.217000
+Jungen	Junge	NOUN	-	-	0:43:07.497000	0:43:08.217000
+.	-	-	-	-	0:43:07.497000	0:43:08.217000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:08.217000" end="0:43:09.491000">
+schön	-	-	-	-	0:43:08.217000	0:43:09.491000
+*ist*	-	-	-	-	0:43:08.217000	0:43:09.491000
+alleweile	-	-	-	-	0:43:08.217000	0:43:09.491000
+unten	-	-	-	-	0:43:08.217000	0:43:09.491000
+.	-	-	-	-	0:43:08.217000	0:43:09.491000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:09.491000" end="0:43:10.604000">
+ach	ach	X	-	-	0:43:09.491000	0:43:10.604000
+(schon	schon	ADV	-	-	0:43:09.491000	0:43:10.604000
+?)	-	-	-	-	0:43:09.491000	0:43:10.604000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:10.604000" end="0:43:12.017000">
+das	der	PRON	-	-	0:43:10.604000	0:43:12.017000
+ist/	-	-	-	-	0:43:10.604000	0:43:12.017000
+.	-	-	-	-	0:43:10.604000	0:43:12.017000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:10.604000" end="0:43:15.191000">
+(man)	man	PRON	-	-	0:43:10.604000	0:43:12.017000
+ist	sein	AUX	-	-	0:43:10.604000	0:43:12.017000
+da	da	ADV	-	-	0:43:10.604000	0:43:12.017000
+drei	drei	NUM	-	-	0:43:10.604000	0:43:12.017000
+Wochen	Woche	NOUN	-	-	0:43:10.604000	0:43:12.017000
+unten	unten	ADV	-	-	0:43:10.604000	0:43:12.017000
+,	-	-	-	-	0:43:10.604000	0:43:12.017000
+ich	ich	PRON	-	-	0:43:12.017000	0:43:15.191000
+sage	sage	VERB	-	-	0:43:12.017000	0:43:15.191000
+dir	sich	PRON	-	-	0:43:12.017000	0:43:15.191000
+es	ich	PRON	-	-	0:43:12.017000	0:43:15.191000
+,	-	-	-	-	0:43:12.017000	0:43:15.191000
+<pause duration="1,3s"/>
+traumhaft	traumhaft	NOUN	-	-	0:43:12.017000	0:43:15.191000
+,	-	-	-	-	0:43:12.017000	0:43:15.191000
+also	also	ADV	-	-	0:43:12.017000	0:43:15.191000
+da	da	ADV	-	-	0:43:12.017000	0:43:15.191000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:15.191000" end="0:43:15.744000">
+ja	ja	PART	-	-	0:43:15.191000	0:43:15.744000
+.	-	-	-	-	0:43:15.191000	0:43:15.744000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:15.191000" end="0:43:20.084000">
+könnte	können	VERB	-	-	0:43:15.191000	0:43:15.744000
+ich	ich	PRON	-	-	0:43:15.191000	0:43:15.744000
+mir	sich	PRON	-	-	0:43:15.191000	0:43:15.744000
+sofort	sofort	ADV	-	-	0:43:15.744000	0:43:18.937000
+vorstellen	vorstellen	VERB	-	-	0:43:15.744000	0:43:18.937000
+unten	unten	ADV	-	-	0:43:15.744000	0:43:18.937000
+bleiben	bleiben	VERB	-	-	0:43:15.744000	0:43:18.937000
+,	-	-	-	-	0:43:15.744000	0:43:18.937000
+nicht	nicht	PART	-	-	0:43:15.744000	0:43:18.937000
+,	-	-	-	-	0:43:15.744000	0:43:18.937000
+<pause duration="1,6s"/>
+aber	aber	CCONJ	-	-	0:43:18.937000	0:43:20.084000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:20.084000" end="0:43:20.957000">
+hm	hm	X	-	-	0:43:20.084000	0:43:20.957000
+.	-	-	-	-	0:43:20.084000	0:43:20.957000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:20.957000" end="0:43:25.424000">
+müsste	müsste	VERB	-	-	0:43:20.957000	0:43:25.424000
+man	man	PRON	-	-	0:43:20.957000	0:43:25.424000
+halt	halt	ADV	-	-	0:43:20.957000	0:43:25.424000
+noch	noch	ADV	-	-	0:43:20.957000	0:43:25.424000
+mehr	mehr	DET	-	-	0:43:20.957000	0:43:25.424000
+Griechisch	Griechisch	NOUN	-	-	0:43:20.957000	0:43:25.424000
+lernen	lernen	VERB	-	-	0:43:20.957000	0:43:25.424000
+,	-	-	-	-	0:43:20.957000	0:43:25.424000
+<pause duration="2,4s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:25.424000" end="0:43:27.504000">
+das	der	PRON	-	-	0:43:25.424000	0:43:27.504000
+ist	sein	AUX	-	-	0:43:25.424000	0:43:27.504000
+einmal	einmal	ADV	-	-	0:43:25.424000	0:43:27.504000
+das	der	PRON	-	-	0:43:25.424000	0:43:27.504000
+ist	sein	AUX	-	-	0:43:25.424000	0:43:27.504000
+ganz	ganz	ADV	-	-	0:43:25.424000	0:43:27.504000
+klar	klaren	ADJ	-	-	0:43:25.424000	0:43:27.504000
+.	-	-	-	-	0:43:25.424000	0:43:27.504000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:27.504000" end="0:43:28.511000">
+dass	dass	SCONJ	-	-	0:43:27.504000	0:43:28.511000
+du	du	PRON	-	-	0:43:27.504000	0:43:28.511000
+dich	sich	PRON	-	-	0:43:27.504000	0:43:28.511000
+ähm	ähm	ADJ	-	-	0:43:27.504000	0:43:28.511000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:28.511000" end="0:43:30.817000">
+die	-	-	-	-	0:43:28.511000	0:43:30.817000
+*brauchst*	-	-	-	-	0:43:28.511000	0:43:30.817000
+,	-	-	-	-	0:43:28.511000	0:43:30.817000
+wenn	wenn	SCONJ	-	-	0:43:28.511000	0:43:30.817000
+du	du	PRON	-	-	0:43:28.511000	0:43:30.817000
+wohin	wohin	ADV	-	-	0:43:28.511000	0:43:30.817000
+kommst	kommen	VERB	-	-	0:43:28.511000	0:43:30.817000
+woanders	woanders	ADV	-	-	0:43:28.511000	0:43:30.817000
+,	-	-	-	-	0:43:28.511000	0:43:30.817000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:28.511000" end="0:43:30.817000">
+verständigen	verständigen	VERB	-	-	0:43:28.511000	0:43:30.817000
+kannst	können	NOUN	-	-	0:43:28.511000	0:43:30.817000
+und	und	CCONJ	-	-	0:43:28.511000	0:43:30.817000
+so	so	ADV	-	-	0:43:28.511000	0:43:30.817000
+ja	ja	ADV	-	-	0:43:28.511000	0:43:30.817000
+ja	ja	ADV	-	-	0:43:28.511000	0:43:30.817000
+ja	ja	ADV	-	-	0:43:28.511000	0:43:30.817000
+ja	ja	ADV	-	-	0:43:28.511000	0:43:30.817000
+ja	ja	PART	-	-	0:43:28.511000	0:43:30.817000
+.	-	-	-	-	0:43:28.511000	0:43:30.817000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:30.817000" end="0:43:32.291000">
+dass	-	-	-	-	0:43:30.817000	0:43:32.291000
+*musst*/	-	-	-	-	0:43:30.817000	0:43:32.291000
+.	-	-	-	-	0:43:30.817000	0:43:32.291000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:32.291000" end="0:43:34.291000">
+nach	nach	ADP	-	-	0:43:32.291000	0:43:34.291000
+Deutschland	Deutschland	PROPN	-	-	0:43:32.291000	0:43:34.291000
+hinaus	hinaus	ADP	-	-	0:43:32.291000	0:43:34.291000
+bräuchten	bräuchten	VERB	-	-	0:43:32.291000	0:43:34.291000
+wir	ich	PRON	-	-	0:43:32.291000	0:43:34.291000
+uns	sich	PRON	-	-	0:43:32.291000	0:43:34.291000
+nicht	nicht	PART	-	-	0:43:32.291000	0:43:34.291000
+viel	viel	ADV	-	-	0:43:32.291000	0:43:34.291000
+umstellen	umstellen	VERB	-	-	0:43:32.291000	0:43:34.291000
+.	-	-	-	-	0:43:32.291000	0:43:34.291000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:34.291000" end="0:43:35.604000">
+heute	heute	ADV	-	-	0:43:34.291000	0:43:35.604000
+nein	nein	ADV	-	-	0:43:34.291000	0:43:35.604000
+da	da	ADV	-	-	0:43:34.291000	0:43:35.604000
+nicht	nicht	PART	-	-	0:43:34.291000	0:43:35.604000
+,	-	-	-	-	0:43:34.291000	0:43:35.604000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:34.291000" end="0:43:35.844000">
+mhm	mhm	PROPN	-	-	0:43:35.604000	0:43:35.844000
+.	-	-	-	-	0:43:35.604000	0:43:35.844000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:35.844000" end="0:43:45.577000">
+aber	-	-	-	-	0:43:35.844000	0:43:38.624000
+heutzutage	-	-	-	-	0:43:35.844000	0:43:38.624000
+*ist*	-	-	-	-	0:43:35.844000	0:43:38.624000
+wirklich	-	-	-	-	0:43:35.844000	0:43:38.624000
+_a_	-	-	-	-	0:43:35.844000	0:43:38.624000
+so	-	-	-	-	0:43:35.844000	0:43:38.624000
+,	-	-	-	-	0:43:35.844000	0:43:38.624000
+<pause duration="1,1s"/>
+dort	dort	ADV	-	-	0:43:38.624000	0:43:41.544000
+,	-	-	-	-	0:43:38.624000	0:43:41.544000
+wie	wie	ADV	-	-	0:43:38.624000	0:43:41.544000
+ich	ich	PRON	-	-	0:43:38.624000	0:43:41.544000
+in	in	ADP	-	-	0:43:38.624000	0:43:41.544000
+die	der	DET	-	-	0:43:38.624000	0:43:41.544000
+Schule	Schule	NOUN	-	-	0:43:38.624000	0:43:41.544000
+gegangen	gehen	VERB	-	-	0:43:38.624000	0:43:41.544000
+bin	sein	AUX	-	-	0:43:38.624000	0:43:41.544000
+,	-	-	-	-	0:43:38.624000	0:43:41.544000
+in	in	ADP	-	-	0:43:38.624000	0:43:41.544000
+die	der	DET	-	-	0:43:38.624000	0:43:41.544000
+Hauptschule	Hauptschule	NOUN	-	-	0:43:38.624000	0:43:41.544000
+,	-	-	-	-	0:43:38.624000	0:43:41.544000
+<pause duration="0,7s"/>
+da	da	ADV	-	-	0:43:41.544000	0:43:45.577000
+war	sein	AUX	-	-	0:43:41.544000	0:43:45.577000
+das	der	PRON	-	-	0:43:41.544000	0:43:45.577000
+noch	noch	ADV	-	-	0:43:41.544000	0:43:45.577000
+<pause duration="1,0s"/>
+frei	frei	ADJ	-	-	0:43:41.544000	0:43:45.577000
+gestellt	stellen	VERB	-	-	0:43:41.544000	0:43:45.577000
+<pause duration="0,5s"/>
+Englisch	Englisch	NOUN	-	-	0:43:41.544000	0:43:45.577000
+.	-	-	-	-	0:43:41.544000	0:43:45.577000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:45.577000" end="0:43:46.217000">
+na	na	X	-	-	0:43:45.577000	0:43:46.217000
+klar	klaren	ADJ	-	-	0:43:45.577000	0:43:46.217000
+.	-	-	-	-	0:43:45.577000	0:43:46.217000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:46.217000" end="0:43:48.891000">
+da	-	-	-	-	0:43:46.217000	0:43:48.197000
+*hast*	-	-	-	-	0:43:46.217000	0:43:48.197000
+es	-	-	-	-	0:43:46.217000	0:43:48.197000
+da	-	-	-	-	0:43:46.217000	0:43:48.197000
+*hast*	-	-	-	-	0:43:46.217000	0:43:48.197000
+nicht	-	-	-	-	0:43:46.217000	0:43:48.197000
+*hast*	-	-	-	-	0:43:46.217000	0:43:48.197000
+nehmen	-	-	-	-	0:43:46.217000	0:43:48.197000
+müssen	-	-	-	-	0:43:46.217000	0:43:48.197000
+,	-	-	-	-	0:43:46.217000	0:43:48.197000
+*hast*	-	-	-	-	0:43:48.197000	0:43:48.891000
+gesagt	-	-	-	-	0:43:48.197000	0:43:48.891000
+"nein	-	-	-	-	0:43:48.197000	0:43:48.891000
+,	-	-	-	-	0:43:48.197000	0:43:48.891000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:48.197000" end="0:43:49.444000">
+nicht	nicht	PART	-	-	0:43:48.197000	0:43:48.891000
+?	-	-	-	-	0:43:48.197000	0:43:48.891000
+echt	echt	ADJ	-	-	0:43:48.891000	0:43:49.444000
+?	-	-	-	-	0:43:48.891000	0:43:49.444000
+ja	ja	PART	-	-	0:43:48.891000	0:43:49.444000
+.	-	-	-	-	0:43:48.891000	0:43:49.444000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:49.444000" end="0:43:50.864000">
+das	der	PRON	-	-	0:43:49.444000	0:43:50.097000
+will	wollen	VERB	-	-	0:43:49.444000	0:43:50.097000
+ich	ich	PRON	-	-	0:43:49.444000	0:43:50.097000
+nicht"	nicht	PART	-	-	0:43:49.444000	0:43:50.097000
+oder	oder	CCONJ	-	-	0:43:50.097000	0:43:50.864000
+was	was	PRON	-	-	0:43:50.097000	0:43:50.864000
+oder	oder	CCONJ	-	-	0:43:50.097000	0:43:50.864000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:50.097000" end="0:43:50.864000">
+eh	eh	X	-	-	0:43:50.097000	0:43:50.864000
+klar	klaren	ADJ	-	-	0:43:50.097000	0:43:50.864000
+ja	ja	PART	-	-	0:43:50.097000	0:43:50.864000
+.	-	-	-	-	0:43:50.097000	0:43:50.864000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:50.864000" end="0:43:52.631000">
+gehe	gehen	VERB	-	-	0:43:50.864000	0:43:51.697000
+ich	ich	PRON	-	-	0:43:50.864000	0:43:51.697000
+nicht	nicht	PART	-	-	0:43:50.864000	0:43:51.697000
+,	-	-	-	-	0:43:50.864000	0:43:51.697000
+aber	aber	CCONJ	-	-	0:43:51.697000	0:43:52.631000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:51.697000" end="0:43:52.631000">
+ja	ja	ADV	-	-	0:43:51.697000	0:43:52.631000
+ja	ja	ADV	-	-	0:43:51.697000	0:43:52.631000
+ja	ja	PART	-	-	0:43:51.697000	0:43:52.631000
+.	-	-	-	-	0:43:51.697000	0:43:52.631000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:52.631000" end="0:43:54.217000">
+das	der	PRON	-	-	0:43:52.631000	0:43:54.217000
+bereue	bereuen	ADJ	-	-	0:43:52.631000	0:43:54.217000
+ich	ich	PRON	-	-	0:43:52.631000	0:43:54.217000
+aber	aber	ADV	-	-	0:43:52.631000	0:43:54.217000
+schon	schon	ADV	-	-	0:43:52.631000	0:43:54.217000
+lange	lang	ADV	-	-	0:43:52.631000	0:43:54.217000
+,	-	-	-	-	0:43:52.631000	0:43:54.217000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:54.217000" end="0:43:55.151000">
+ja	ja	PART	-	-	0:43:54.217000	0:43:55.151000
+.	-	-	-	-	0:43:54.217000	0:43:55.151000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:43:55.151000" end="0:43:57.431000">
+man	man	PRON	-	-	0:43:55.151000	0:43:56.657000
+hätte	haben	AUX	-	-	0:43:55.151000	0:43:56.657000
+es	ich	PRON	-	-	0:43:55.151000	0:43:56.657000
+eh	eh	ADV	-	-	0:43:55.151000	0:43:56.657000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:43:56.657000" end="0:44:02.484000">
+wir	ich	PRON	-	-	0:43:56.657000	0:43:57.431000
+haben	haben	AUX	-	-	0:43:56.657000	0:43:57.431000
+jetzt	jetzt	ADV	-	-	0:43:56.657000	0:43:57.431000
+dann	dann	ADV	-	-	0:43:56.657000	0:43:57.431000
+einen	ein	DET	-	-	0:43:57.431000	0:43:59.431000
+Engischku/	-	-	-	-	0:43:57.431000	0:43:59.431000
+einen	ein	DET	-	-	0:43:57.431000	0:43:59.431000
+Englischkurs	Englischkurs	NOUN	-	-	0:43:57.431000	0:43:59.431000
+gemacht	machen	VERB	-	-	0:43:57.431000	0:43:59.431000
+die	der	DET	-	-	0:43:57.431000	0:43:59.431000
+[(Lindi)]N	Lindi	NOUN	-	-	0:43:57.431000	0:43:59.431000
+und	und	CCONJ	-	-	0:43:57.431000	0:43:59.431000
+ich	ich	PRON	-	-	0:43:57.431000	0:43:59.431000
+,	-	-	-	-	0:43:57.431000	0:43:59.431000
+na	na	X	-	-	0:43:59.431000	0:44:02.484000
+drei	drei	NUM	-	-	0:43:59.431000	0:44:02.484000
+Mal	Mal	NOUN	-	-	0:43:59.431000	0:44:02.484000
+sind	sein	AUX	-	-	0:43:59.431000	0:44:02.484000
+wir	ich	PRON	-	-	0:43:59.431000	0:44:02.484000
+gegangen	gehen	VERB	-	-	0:43:59.431000	0:44:02.484000
+da	da	ADV	-	-	0:43:59.431000	0:44:02.484000
+von	von	ADP	-	-	0:43:59.431000	0:44:02.484000
+der	der	DET	-	-	0:43:59.431000	0:44:02.484000
+Volkshochschule	Volkshochschule	NOUN	-	-	0:43:59.431000	0:44:02.484000
+aus	aus	ADP	-	-	0:43:59.431000	0:44:02.484000
+,	-	-	-	-	0:43:59.431000	0:44:02.484000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:02.484000" end="0:44:03.011000">
+ja	ja	ADV	-	-	0:44:02.484000	0:44:03.011000
+ja	ja	PART	-	-	0:44:02.484000	0:44:03.011000
+.	-	-	-	-	0:44:02.484000	0:44:03.011000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:02.484000" end="0:44:04.137000">
+(der)	der	PRON	-	-	0:44:02.484000	0:44:03.011000
+war	sein	AUX	-	-	0:44:02.484000	0:44:03.011000
+ganz	ganz	ADV	-	-	0:44:03.011000	0:44:04.137000
+gut	gut	ADJ	-	-	0:44:03.011000	0:44:04.137000
+ja	ja	PART	-	-	0:44:03.011000	0:44:04.137000
+,	-	-	-	-	0:44:03.011000	0:44:04.137000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:04.137000" end="0:44:05.457000">
+na	na	X	-	-	0:44:04.137000	0:44:05.457000
+das	der	PRON	-	-	0:44:04.137000	0:44:05.457000
+glaube	glauben	VERB	-	-	0:44:04.137000	0:44:05.457000
+ich	ich	PRON	-	-	0:44:04.137000	0:44:05.457000
+.	-	-	-	-	0:44:04.137000	0:44:05.457000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:04.137000" end="0:44:07.457000">
+aber	-	-	-	-	0:44:04.137000	0:44:05.457000
+da	-	-	-	-	0:44:04.137000	0:44:05.457000
+*müsstest*	-	-	-	-	0:44:04.137000	0:44:05.457000
+auch	-	-	-	-	0:44:04.137000	0:44:05.457000
+viel	-	-	-	-	0:44:05.457000	0:44:07.457000
+mehr	-	-	-	-	0:44:05.457000	0:44:07.457000
+tun	-	-	-	-	0:44:05.457000	0:44:07.457000
+(alleweile)	-	-	-	-	0:44:05.457000	0:44:07.457000
+laufend	-	-	-	-	0:44:05.457000	0:44:07.457000
+und	-	-	-	-	0:44:05.457000	0:44:07.457000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:07.457000" end="0:44:08.391000">
+ja	ja	ADV	-	-	0:44:07.457000	0:44:08.391000
+ja	ja	ADV	-	-	0:44:07.457000	0:44:08.391000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:07.457000" end="0:44:08.391000">
+ähm	-	-	-	-	0:44:07.457000	0:44:08.391000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:08.391000" end="0:44:09.931000">
+ja	ja	ADV	-	-	0:44:08.391000	0:44:09.931000
+aber	aber	ADV	-	-	0:44:08.391000	0:44:09.931000
+die	der	DET	-	-	0:44:08.391000	0:44:09.931000
+Zeit	Zeit	NOUN	-	-	0:44:08.391000	0:44:09.931000
+ist	sein	AUX	-	-	0:44:08.391000	0:44:09.931000
+nicht	nicht	PART	-	-	0:44:08.391000	0:44:09.931000
+da	da	ADV	-	-	0:44:08.391000	0:44:09.931000
+,	-	-	-	-	0:44:08.391000	0:44:09.931000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:08.391000" end="0:44:09.931000">
+vergisst	-	-	-	-	0:44:08.391000	0:44:09.931000
+vergisst	-	-	-	-	0:44:08.391000	0:44:09.931000
+auch	-	-	-	-	0:44:08.391000	0:44:09.931000
+wieder	-	-	-	-	0:44:08.391000	0:44:09.931000
+viel	-	-	-	-	0:44:08.391000	0:44:09.931000
+.	-	-	-	-	0:44:08.391000	0:44:09.931000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:09.931000" end="0:44:12.091000">
+die	der	DET	-	-	0:44:09.931000	0:44:10.704000
+Zeit	Zeit	NOUN	-	-	0:44:09.931000	0:44:10.704000
+ist	sein	AUX	-	-	0:44:09.931000	0:44:10.704000
+nicht	nicht	PART	-	-	0:44:09.931000	0:44:10.704000
+da	da	ADV	-	-	0:44:09.931000	0:44:10.704000
+.	-	-	-	-	0:44:09.931000	0:44:10.704000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:10.704000" end="0:44:12.091000">
+dei	dei	PROPN	-	-	0:44:10.704000	0:44:12.091000
+[Linde]N	Linde	PROPN	-	-	0:44:10.704000	0:44:12.091000
+kann	können	VERB	-	-	0:44:10.704000	0:44:12.091000
+(wieder)	wieder	ADV	-	-	0:44:10.704000	0:44:12.091000
+gut	gut	ADJ	-	-	0:44:10.704000	0:44:12.091000
+Englisch	Englisch	NOUN	-	-	0:44:10.704000	0:44:12.091000
+,	-	-	-	-	0:44:10.704000	0:44:12.091000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:12.091000" end="0:44:13.064000">
+wirklich	wirklich	ADJ	-	-	0:44:12.091000	0:44:13.064000
+?	-	-	-	-	0:44:12.091000	0:44:13.064000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:12.091000" end="0:44:13.664000">
+die	der	DET	-	-	0:44:12.091000	0:44:13.064000
+ja	ja	ADV	-	-	0:44:12.091000	0:44:13.064000
+ja	ja	ADV	-	-	0:44:12.091000	0:44:13.064000
+die	der	PRON	-	-	0:44:13.064000	0:44:13.664000
+hat	haben	AUX	-	-	0:44:13.064000	0:44:13.664000
+das	der	DET	-	-	0:44:13.064000	0:44:13.664000
+von	von	ADP	-	-	0:44:13.064000	0:44:13.664000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:13.664000" end="0:44:16.304000">
+ja	ja	ADV	-	-	0:44:13.664000	0:44:16.304000
+die	der	PRON	-	-	0:44:13.664000	0:44:16.304000
+ist	sein	AUX	-	-	0:44:13.664000	0:44:16.304000
+vielleicht	vielleicht	ADV	-	-	0:44:13.664000	0:44:16.304000
+von	von	ADP	-	-	0:44:13.664000	0:44:16.304000
+der	der	DET	-	-	0:44:13.664000	0:44:16.304000
+Schule	Schule	NOUN	-	-	0:44:13.664000	0:44:16.304000
+noch	noch	ADV	-	-	0:44:13.664000	0:44:16.304000
+me/	-	-	-	-	0:44:13.664000	0:44:16.304000
+besser	gut	ADJ	-	-	0:44:13.664000	0:44:16.304000
+gewesen	sein	AUX	-	-	0:44:13.664000	0:44:16.304000
+ja	ja	PART	-	-	0:44:13.664000	0:44:16.304000
+.	-	-	-	-	0:44:13.664000	0:44:16.304000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:13.664000" end="0:44:19.297000">
+von	von	ADP	-	-	0:44:13.664000	0:44:16.304000
+der	der	DET	-	-	0:44:13.664000	0:44:16.304000
+Schule	Schule	NOUN	-	-	0:44:13.664000	0:44:16.304000
+her	her	ADP	-	-	0:44:13.664000	0:44:16.304000
+noch	noch	ADV	-	-	0:44:13.664000	0:44:16.304000
+ja	ja	ADV	-	-	0:44:13.664000	0:44:16.304000
+ja	ja	ADV	-	-	0:44:13.664000	0:44:16.304000
+ja	ja	ADV	-	-	0:44:13.664000	0:44:16.304000
+mhm	mhm	PROPN	-	-	0:44:13.664000	0:44:16.304000
+mhm	mhm	PROPN	-	-	0:44:13.664000	0:44:16.304000
+.	-	-	-	-	0:44:13.664000	0:44:16.304000
+aber	aber	CCONJ	-	-	0:44:16.304000	0:44:19.297000
+wenn	wenn	SCONJ	-	-	0:44:16.304000	0:44:19.297000
+du	du	PRON	-	-	0:44:16.304000	0:44:19.297000
+unsere	mein	DET	-	-	0:44:16.304000	0:44:19.297000
+Jungen	Junge	NOUN	-	-	0:44:16.304000	0:44:19.297000
+anschaust	anschauen	VERB	-	-	0:44:16.304000	0:44:19.297000
+,	-	-	-	-	0:44:16.304000	0:44:19.297000
+da	da	SCONJ	-	-	0:44:16.304000	0:44:19.297000
+<pause duration="0,8s"/>
+da	da	ADV	-	-	0:44:16.304000	0:44:19.297000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:19.297000" end="0:44:20.237000">
+na	na	X	-	-	0:44:19.297000	0:44:20.237000
+das	der	PRON	-	-	0:44:19.297000	0:44:20.237000
+ist/	-	-	-	-	0:44:19.297000	0:44:20.237000
+.	-	-	-	-	0:44:19.297000	0:44:20.237000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:19.297000" end="0:44:26.137000">
+der	der	DET	-	-	0:44:19.297000	0:44:20.237000
+[Ralf]N	Ralf	NOUN	-	-	0:44:19.297000	0:44:20.237000
+und	und	CCONJ	-	-	0:44:20.237000	0:44:24.264000
+die	der	DET	-	-	0:44:20.237000	0:44:24.264000
+[Viki]N	Viki	NOUN	-	-	0:44:20.237000	0:44:24.264000
+zum	zum	ADP	-	-	0:44:20.237000	0:44:24.264000
+Beispiel	Beispiel	NOUN	-	-	0:44:20.237000	0:44:24.264000
+,	-	-	-	-	0:44:20.237000	0:44:24.264000
+nicht	nicht	PART	-	-	0:44:20.237000	0:44:24.264000
+,	-	-	-	-	0:44:20.237000	0:44:24.264000
+ähm	ähm	X	-	-	0:44:20.237000	0:44:24.264000
+die	der	PRON	-	-	0:44:20.237000	0:44:24.264000
+haben	haben	AUX	-	-	0:44:20.237000	0:44:24.264000
+sich	sich	PRON	-	-	0:44:20.237000	0:44:24.264000
+sie	ich	PRON	-	-	0:44:20.237000	0:44:24.264000
+ist	sein	AUX	-	-	0:44:20.237000	0:44:24.264000
+Bulgarin	Bulgarin	NOUN	-	-	0:44:20.237000	0:44:24.264000
+,	-	-	-	-	0:44:20.237000	0:44:24.264000
+die	der	PRON	-	-	0:44:24.264000	0:44:26.137000
+hat	haben	AUX	-	-	0:44:24.264000	0:44:26.137000
+dort	dort	ADV	-	-	0:44:24.264000	0:44:26.137000
+ein	einen	DET	-	-	0:44:24.264000	0:44:26.137000
+Hotel	Hotel	NOUN	-	-	0:44:24.264000	0:44:26.137000
+geleitet	leiten	VERB	-	-	0:44:24.264000	0:44:26.137000
+unten	unten	ADV	-	-	0:44:24.264000	0:44:26.137000
+da	da	ADV	-	-	0:44:24.264000	0:44:26.137000
+,	-	-	-	-	0:44:24.264000	0:44:26.137000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:26.137000" end="0:44:26.904000">
+ja	ja	PART	-	-	0:44:26.137000	0:44:26.904000
+.	-	-	-	-	0:44:26.137000	0:44:26.904000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:26.137000" end="0:44:32.111000">
+in	in	ADP	-	-	0:44:26.137000	0:44:26.904000
+[Nessebar]O	Nessebar	PROPN	-	-	0:44:26.137000	0:44:26.904000
+am	am	ADP	-	-	0:44:26.904000	0:44:30.164000
+Schwarzen	Schwarze	ADJ	-	-	0:44:26.904000	0:44:30.164000
+Meer	Meer	NOUN	-	-	0:44:26.904000	0:44:30.164000
+<pause duration="0,8s"/>
+und	und	CCONJ	-	-	0:44:26.904000	0:44:30.164000
+haben	haben	AUX	-	-	0:44:26.904000	0:44:30.164000
+sich	sich	PRON	-	-	0:44:26.904000	0:44:30.164000
+dort	dort	ADV	-	-	0:44:26.904000	0:44:30.164000
+kennengelernt	kennenlernen	VERB	-	-	0:44:26.904000	0:44:30.164000
+.	-	-	-	-	0:44:26.904000	0:44:30.164000
+die	der	PRON	-	-	0:44:30.164000	0:44:32.111000
+haben	haben	AUX	-	-	0:44:30.164000	0:44:32.111000
+die	der	DET	-	-	0:44:30.164000	0:44:32.111000
+reden	reden	NOUN	-	-	0:44:30.164000	0:44:32.111000
+nur	nur	ADV	-	-	0:44:30.164000	0:44:32.111000
+Englisch	Englisch	NOUN	-	-	0:44:30.164000	0:44:32.111000
+miteinander	miteinander	ADV	-	-	0:44:30.164000	0:44:32.111000
+.	-	-	-	-	0:44:30.164000	0:44:32.111000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:32.111000" end="0:44:32.577000">
+geh	geh	X	-	-	0:44:32.111000	0:44:32.577000
+!	-	-	-	-	0:44:32.111000	0:44:32.577000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:32.577000" end="0:44:33.704000">
+ja	ja	PART	-	-	0:44:32.577000	0:44:33.704000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:33.704000" end="0:44:34.791000">
+kann	können	VERB	-	-	0:44:33.704000	0:44:34.791000
+sie	ich	PRON	-	-	0:44:33.704000	0:44:34.791000
+Deutsch	Deutsch	NOUN	-	-	0:44:33.704000	0:44:34.791000
+schon	schon	ADV	-	-	0:44:33.704000	0:44:34.791000
+?	-	-	-	-	0:44:33.704000	0:44:34.791000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:33.704000" end="0:44:37.937000">
+sie	ich	PRON	-	-	0:44:33.704000	0:44:34.791000
+kann	können	VERB	-	-	0:44:33.704000	0:44:34.791000
+sie	ich	PRON	-	-	0:44:34.791000	0:44:37.937000
+kann	können	VERB	-	-	0:44:34.791000	0:44:37.937000
+Bulgarisch	Bulgarisch	NOUN	-	-	0:44:34.791000	0:44:37.937000
+,	-	-	-	-	0:44:34.791000	0:44:37.937000
+kann	können	VERB	-	-	0:44:34.791000	0:44:37.937000
+Russisch	Russisch	ADJ	-	-	0:44:34.791000	0:44:37.937000
+,	-	-	-	-	0:44:34.791000	0:44:37.937000
+ähm	ähm	X	-	-	0:44:34.791000	0:44:37.937000
+Englisch	Englisch	NOUN	-	-	0:44:34.791000	0:44:37.937000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:37.937000" end="0:44:39.051000">
+ja	ja	ADV	-	-	0:44:37.937000	0:44:39.051000
+ja	ja	PART	-	-	0:44:37.937000	0:44:39.051000
+.	-	-	-	-	0:44:37.937000	0:44:39.051000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:37.937000" end="0:44:42.411000">
+gut	gut	ADJ	-	-	0:44:37.937000	0:44:39.051000
+,	-	-	-	-	0:44:37.937000	0:44:39.051000
+also	also	ADV	-	-	0:44:37.937000	0:44:39.051000
+in	in	ADP	-	-	0:44:37.937000	0:44:39.051000
+Wort	Wort	NOUN	-	-	0:44:39.051000	0:44:42.411000
+und	und	CCONJ	-	-	0:44:39.051000	0:44:42.411000
+Schrift	Schrift	NOUN	-	-	0:44:39.051000	0:44:42.411000
+,	-	-	-	-	0:44:39.051000	0:44:42.411000
+nicht	nicht	PART	-	-	0:44:39.051000	0:44:42.411000
+,	-	-	-	-	0:44:39.051000	0:44:42.411000
+und	und	CCONJ	-	-	0:44:39.051000	0:44:42.411000
+Deutsch	Deutsch	NOUN	-	-	0:44:39.051000	0:44:42.411000
+kann	können	VERB	-	-	0:44:39.051000	0:44:42.411000
+sie	ich	PRON	-	-	0:44:39.051000	0:44:42.411000
+inzwischen	inzwischen	ADV	-	-	0:44:39.051000	0:44:42.411000
+auch	auch	ADV	-	-	0:44:39.051000	0:44:42.411000
+schon	schon	ADV	-	-	0:44:39.051000	0:44:42.411000
+ganz	ganz	ADV	-	-	0:44:39.051000	0:44:42.411000
+gut	gut	ADJ	-	-	0:44:39.051000	0:44:42.411000
+,	-	-	-	-	0:44:39.051000	0:44:42.411000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:42.411000" end="0:44:43.584000">
+ja	ja	ADV	-	-	0:44:42.411000	0:44:43.584000
+ja	ja	PART	-	-	0:44:42.411000	0:44:43.584000
+.	-	-	-	-	0:44:42.411000	0:44:43.584000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:42.411000" end="0:44:48.844000">
+vier	vier	NUM	-	-	0:44:42.411000	0:44:43.584000
+Sprachen	Sprache	NOUN	-	-	0:44:42.411000	0:44:43.584000
+,	-	-	-	-	0:44:42.411000	0:44:43.584000
+nicht	nicht	PART	-	-	0:44:42.411000	0:44:43.584000
+?	-	-	-	-	0:44:42.411000	0:44:43.584000
+<pause duration="1,0s"/>
+d/	-	-	-	-	0:44:43.584000	0:44:46.344000
+jetzt	jetzt	ADV	-	-	0:44:43.584000	0:44:46.344000
+haben	haben	AUX	-	-	0:44:43.584000	0:44:46.344000
+sie	ich	PRON	-	-	0:44:43.584000	0:44:46.344000
+aber	aber	ADV	-	-	0:44:43.584000	0:44:46.344000
+dann	dann	ADV	-	-	0:44:43.584000	0:44:46.344000
+,	-	-	-	-	0:44:43.584000	0:44:46.344000
+wie	wie	ADV	-	-	0:44:43.584000	0:44:46.344000
+sie	ich	PRON	-	-	0:44:43.584000	0:44:46.344000
+sich	sich	PRON	-	-	0:44:43.584000	0:44:46.344000
+kennengelernt	kennenlernen	VERB	-	-	0:44:43.584000	0:44:46.344000
+,	-	-	-	-	0:44:43.584000	0:44:46.344000
+haben	haben	AUX	-	-	0:44:46.344000	0:44:47.224000
+sie	ich	PRON	-	-	0:44:46.344000	0:44:47.224000
+nur	nur	ADV	-	-	0:44:46.344000	0:44:47.224000
+Englisch	Englisch	NOUN	-	-	0:44:46.344000	0:44:47.224000
+geredet	reden	VERB	-	-	0:44:46.344000	0:44:47.224000
+,	-	-	-	-	0:44:46.344000	0:44:47.224000
+weil	weil	SCONJ	-	-	0:44:47.224000	0:44:48.844000
+da	da	SCONJ	-	-	0:44:47.224000	0:44:48.844000
+sie	ich	PRON	-	-	0:44:47.224000	0:44:48.844000
+hat	haben	AUX	-	-	0:44:47.224000	0:44:48.844000
+dort	dort	ADV	-	-	0:44:47.224000	0:44:48.844000
+noch	noch	ADV	-	-	0:44:47.224000	0:44:48.844000
+nicht	nicht	PART	-	-	0:44:47.224000	0:44:48.844000
+Deutsch	Deutsch	NOUN	-	-	0:44:47.224000	0:44:48.844000
+können	können	VERB	-	-	0:44:47.224000	0:44:48.844000
+,	-	-	-	-	0:44:47.224000	0:44:48.844000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:48.844000" end="0:44:49.731000">
+mhm	mhm	PROPN	-	-	0:44:48.844000	0:44:49.731000
+ja	ja	ADV	-	-	0:44:48.844000	0:44:49.731000
+ja	ja	PART	-	-	0:44:48.844000	0:44:49.731000
+.	-	-	-	-	0:44:48.844000	0:44:49.731000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:49.731000" end="0:44:50.991000">
+ja	ja	PART	-	-	0:44:49.731000	0:44:50.991000
+und	und	CCONJ	-	-	0:44:49.731000	0:44:50.991000
+er	ich	PRON	-	-	0:44:49.731000	0:44:50.991000
+kein	kein	DET	-	-	0:44:49.731000	0:44:50.991000
+Bulgarisch	Bulgarisch	NOUN	-	-	0:44:49.731000	0:44:50.991000
+,	-	-	-	-	0:44:49.731000	0:44:50.991000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:50.991000" end="0:44:52.344000">
+das	der	PRON	-	-	0:44:50.991000	0:44:52.344000
+ist/	-	-	-	-	0:44:50.991000	0:44:52.344000
+.	-	-	-	-	0:44:50.991000	0:44:52.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:50.991000" end="0:44:52.344000">
+kein	kein	DET	-	-	0:44:50.991000	0:44:52.344000
+Russisch	Russisch	NOUN	-	-	0:44:50.991000	0:44:52.344000
+,	-	-	-	-	0:44:50.991000	0:44:52.344000
+na	na	INTJ	-	-	0:44:50.991000	0:44:52.344000
+ist	sein	AUX	-	-	0:44:50.991000	0:44:52.344000
+eh	eh	ADV	-	-	0:44:50.991000	0:44:52.344000
+klar	klaren	ADJ	-	-	0:44:50.991000	0:44:52.344000
+,	-	-	-	-	0:44:50.991000	0:44:52.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:52.344000" end="0:44:55.257000">
+[Franz]N	franzen	PROPN	-	-	0:44:52.344000	0:44:53.177000
+,	-	-	-	-	0:44:52.344000	0:44:53.177000
+ich	ich	PRON	-	-	0:44:52.344000	0:44:53.177000
+sage	sage	VERB	-	-	0:44:52.344000	0:44:53.177000
+dir	sich	PRON	-	-	0:44:52.344000	0:44:53.177000
+es	ich	PRON	-	-	0:44:52.344000	0:44:53.177000
+,	-	-	-	-	0:44:52.344000	0:44:53.177000
+das	der	PRON	-	-	0:44:53.177000	0:44:54.351000
+ist	sein	AUX	-	-	0:44:53.177000	0:44:54.351000
+das	der	DET	-	-	0:44:53.177000	0:44:54.351000
+Beste	Beste	NOUN	-	-	0:44:53.177000	0:44:54.351000
+,	-	-	-	-	0:44:53.177000	0:44:54.351000
+*was*	-	-	-	-	0:44:54.351000	0:44:55.257000
+überhaupt	-	-	-	-	0:44:54.351000	0:44:55.257000
+gibt	-	-	-	-	0:44:54.351000	0:44:55.257000
+,	-	-	-	-	0:44:54.351000	0:44:55.257000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:54.351000" end="0:44:55.257000">
+ja	ja	PART	-	-	0:44:54.351000	0:44:55.257000
+.	-	-	-	-	0:44:54.351000	0:44:55.257000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:55.257000" end="0:44:56.764000">
+wenn	wenn	SCONJ	-	-	0:44:55.257000	0:44:56.764000
+einer	einer	PRON	-	-	0:44:55.257000	0:44:56.764000
+ein	einen	DET	-	-	0:44:55.257000	0:44:56.764000
+paar	paar	NOUN	-	-	0:44:55.257000	0:44:56.764000
+Sprachen/	-	-	-	-	0:44:55.257000	0:44:56.764000
+.	-	-	-	-	0:44:55.257000	0:44:56.764000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:55.257000" end="0:44:56.764000">
+Sprachen	Sprache	VERB	-	-	0:44:55.257000	0:44:56.764000
+das	der	PRON	-	-	0:44:55.257000	0:44:56.764000
+ist	sein	AUX	-	-	0:44:55.257000	0:44:56.764000
+so	so	ADV	-	-	0:44:55.257000	0:44:56.764000
+,	-	-	-	-	0:44:55.257000	0:44:56.764000
+das	der	PRON	-	-	0:44:55.257000	0:44:56.764000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:44:56.764000" end="0:44:58.417000">
+das	der	PRON	-	-	0:44:56.764000	0:44:58.417000
+ist	sein	AUX	-	-	0:44:56.764000	0:44:58.417000
+das	der	PRON	-	-	0:44:56.764000	0:44:58.417000
+ist	sein	AUX	-	-	0:44:56.764000	0:44:58.417000
+so	so	ADV	-	-	0:44:56.764000	0:44:58.417000
+unheimlich	unheimlich	ADJ	-	-	0:44:56.764000	0:44:58.417000
+.	-	-	-	-	0:44:56.764000	0:44:58.417000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:44:56.764000" end="0:45:03.957000">
+ist	sein	AUX	-	-	0:44:56.764000	0:44:58.417000
+so	so	ADV	-	-	0:44:56.764000	0:44:58.417000
+wichtig	wichtig	ADJ	-	-	0:44:56.764000	0:44:58.417000
+ja	ja	ADV	-	-	0:44:56.764000	0:44:58.417000
+ja	ja	ADV	-	-	0:44:56.764000	0:44:58.417000
+ja	ja	PART	-	-	0:44:56.764000	0:44:58.417000
+.	-	-	-	-	0:44:56.764000	0:44:58.417000
+na	na	INTJ	-	-	0:44:58.417000	0:45:00.251000
+aber	aber	ADV	-	-	0:44:58.417000	0:45:00.251000
+ich	ich	PRON	-	-	0:44:58.417000	0:45:00.251000
+sage	sage	VERB	-	-	0:44:58.417000	0:45:00.251000
+ja	ja	ADV	-	-	0:44:58.417000	0:45:00.251000
+nur	nur	ADV	-	-	0:44:58.417000	0:45:00.251000
+,	-	-	-	-	0:44:58.417000	0:45:00.251000
+da	da	SCONJ	-	-	0:44:58.417000	0:45:00.251000
+und	und	CCONJ	-	-	0:45:00.251000	0:45:03.957000
+unser	sich	DET	-	-	0:45:00.251000	0:45:03.957000
+Enkelbub	Enkelbub	NOUN	-	-	0:45:00.251000	0:45:03.957000
+,	-	-	-	-	0:45:00.251000	0:45:03.957000
+der	der	PRON	-	-	0:45:00.251000	0:45:03.957000
+redet	reden	VERB	-	-	0:45:00.251000	0:45:03.957000
+auch	auch	ADV	-	-	0:45:00.251000	0:45:03.957000
+schon	schon	ADV	-	-	0:45:00.251000	0:45:03.957000
+jetzt	jetzt	ADV	-	-	0:45:00.251000	0:45:03.957000
+<pause duration="0,8s"/>
+der	der	PRON	-	-	0:45:00.251000	0:45:03.957000
+redet	reden	VERB	-	-	0:45:00.251000	0:45:03.957000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:03.957000" end="0:45:06.051000">
+als	-	-	-	-	0:45:03.957000	0:45:06.051000
+ein	-	-	-	-	0:45:03.957000	0:45:06.051000
+kleiner	-	-	-	-	0:45:03.957000	0:45:06.051000
+da	-	-	-	-	0:45:03.957000	0:45:06.051000
+*lernst*	-	-	-	-	0:45:03.957000	0:45:06.051000
+es	-	-	-	-	0:45:03.957000	0:45:06.051000
+am	-	-	-	-	0:45:03.957000	0:45:06.051000
+leichteren	-	-	-	-	0:45:03.957000	0:45:06.051000
+,	-	-	-	-	0:45:03.957000	0:45:06.051000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:03.957000" end="0:45:06.051000">
+teilweise	teilweise	ADV	-	-	0:45:03.957000	0:45:06.051000
+Bul/	-	-	-	-	0:45:03.957000	0:45:06.051000
+ta/	-	-	-	-	0:45:03.957000	0:45:06.051000
+drei/	-	-	-	-	0:45:03.957000	0:45:06.051000
+ta/	-	-	-	-	0:45:03.957000	0:45:06.051000
+teilweise	teilweise	ADV	-	-	0:45:03.957000	0:45:06.051000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:06.051000" end="0:45:08.837000">
+da	da	ADV	-	-	0:45:06.051000	0:45:08.837000
+gibt	geben	VERB	-	-	0:45:06.051000	0:45:08.837000
+es	ich	PRON	-	-	0:45:06.051000	0:45:08.837000
+einmal	einmal	ADV	-	-	0:45:06.051000	0:45:08.837000
+gar	gar	ADV	-	-	0:45:06.051000	0:45:08.837000
+nichts	nichts	PRON	-	-	0:45:06.051000	0:45:08.837000
+ja	ja	ADV	-	-	0:45:06.051000	0:45:08.837000
+ja	ja	ADV	-	-	0:45:06.051000	0:45:08.837000
+ja	ja	PART	-	-	0:45:06.051000	0:45:08.837000
+.	-	-	-	-	0:45:06.051000	0:45:08.837000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:06.051000" end="0:45:10.837000">
+Bulgarisch	Bulgarisch	NOUN	-	-	0:45:06.051000	0:45:08.837000
+und	und	CCONJ	-	-	0:45:06.051000	0:45:08.837000
+und	und	CCONJ	-	-	0:45:06.051000	0:45:08.837000
+und	und	CCONJ	-	-	0:45:06.051000	0:45:08.837000
+und	und	CCONJ	-	-	0:45:06.051000	0:45:08.837000
+Deutsch	Deutsch	NOUN	-	-	0:45:06.051000	0:45:08.837000
+redet	reden	VERB	-	-	0:45:06.051000	0:45:08.837000
+er	ich	PRON	-	-	0:45:06.051000	0:45:08.837000
+.	-	-	-	-	0:45:06.051000	0:45:08.837000
+und	und	CCONJ	-	-	0:45:08.837000	0:45:10.837000
+plappert	plappern	VERB	-	-	0:45:08.837000	0:45:10.837000
+alleweile	alleweile	NOUN	-	-	0:45:08.837000	0:45:10.837000
+fort	fort	ADP	-	-	0:45:08.837000	0:45:10.837000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:10.837000" end="0:45:13.457000">
+ja	ja	ADV	-	-	0:45:10.837000	0:45:13.457000
+das	der	PRON	-	-	0:45:10.837000	0:45:13.457000
+ist	sein	AUX	-	-	0:45:10.837000	0:45:13.457000
+das	der	DET	-	-	0:45:10.837000	0:45:13.457000
+Wichtigste	wichtig	NOUN	-	-	0:45:10.837000	0:45:13.457000
+das	der	DET	-	-	0:45:10.837000	0:45:13.457000
+Wichtigste	wichtig	NOUN	-	-	0:45:10.837000	0:45:13.457000
+.	-	-	-	-	0:45:10.837000	0:45:13.457000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:10.837000" end="0:45:13.457000">
+mit	mit	ADP	-	-	0:45:10.837000	0:45:13.457000
+gut	gut	ADV	-	-	0:45:10.837000	0:45:13.457000
+zwei	zwei	NUM	-	-	0:45:10.837000	0:45:13.457000
+Jahren	Jahr	NOUN	-	-	0:45:10.837000	0:45:13.457000
+,	-	-	-	-	0:45:10.837000	0:45:13.457000
+nicht	nicht	PART	-	-	0:45:10.837000	0:45:13.457000
+,	-	-	-	-	0:45:10.837000	0:45:13.457000
+ja	ja	PART	-	-	0:45:10.837000	0:45:13.457000
+.	-	-	-	-	0:45:10.837000	0:45:13.457000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:13.457000" end="0:45:18.964000">
+ich	ich	PRON	-	-	0:45:13.457000	0:45:15.704000
+kann	können	VERB	-	-	0:45:13.457000	0:45:15.704000
+mich	sich	PRON	-	-	0:45:13.457000	0:45:15.704000
+vrinner/	-	-	-	-	0:45:13.457000	0:45:15.704000
+erinnern	erinnern	VERB	-	-	0:45:13.457000	0:45:15.704000
+an	an	ADP	-	-	0:45:13.457000	0:45:15.704000
+früher	früh	ADJ	-	-	0:45:13.457000	0:45:15.704000
+,	-	-	-	-	0:45:13.457000	0:45:15.704000
+wie	wie	ADV	-	-	0:45:15.704000	0:45:18.964000
+wie	wie	ADV	-	-	0:45:15.704000	0:45:18.964000
+wir	ich	PRON	-	-	0:45:15.704000	0:45:18.964000
+am	am	ADP	-	-	0:45:15.704000	0:45:18.964000
+Anfang	Anfang	NOUN	-	-	0:45:15.704000	0:45:18.964000
+die	der	DET	-	-	0:45:15.704000	0:45:18.964000
+Belgier	Belgier	NOUN	-	-	0:45:15.704000	0:45:18.964000
+gekommen	kommen	VERB	-	-	0:45:15.704000	0:45:18.964000
+sind	sein	AUX	-	-	0:45:15.704000	0:45:18.964000
+,	-	-	-	-	0:45:15.704000	0:45:18.964000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:18.964000" end="0:45:19.317000">
+ja	ja	PART	-	-	0:45:18.964000	0:45:19.317000
+.	-	-	-	-	0:45:18.964000	0:45:19.317000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:19.317000" end="0:45:21.037000">
+Holländer	Holländer	NOUN	-	-	0:45:19.317000	0:45:20.271000
+,	-	-	-	-	0:45:19.317000	0:45:20.271000
+Belgier	Belgier	NOUN	-	-	0:45:19.317000	0:45:20.271000
+zu	zu	ADP	-	-	0:45:20.271000	0:45:21.037000
+uns	sich	PRON	-	-	0:45:20.271000	0:45:21.037000
+,	-	-	-	-	0:45:20.271000	0:45:21.037000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:20.271000" end="0:45:21.037000">
+mhm	mhm	PROPN	-	-	0:45:20.271000	0:45:21.037000
+mhm	mhm	PROPN	-	-	0:45:20.271000	0:45:21.037000
+.	-	-	-	-	0:45:20.271000	0:45:21.037000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:21.037000" end="0:45:23.564000">
+wir	ich	PRON	-	-	0:45:21.037000	0:45:22.864000
+haben	haben	AUX	-	-	0:45:21.037000	0:45:22.864000
+sie	ich	PRON	-	-	0:45:21.037000	0:45:22.864000
+ja	ja	ADV	-	-	0:45:21.037000	0:45:22.864000
+alleweile	alleweile	NOUN	-	-	0:45:21.037000	0:45:22.864000
+im	im	ADP	-	-	0:45:21.037000	0:45:22.864000
+Winter	Winter	NOUN	-	-	0:45:21.037000	0:45:22.864000
+sind	sein	AUX	-	-	0:45:21.037000	0:45:22.864000
+sie	ich	PRON	-	-	0:45:21.037000	0:45:22.864000
+da	da	ADV	-	-	0:45:21.037000	0:45:22.864000
+gewesen	sein	AUX	-	-	0:45:21.037000	0:45:22.864000
+,	-	-	-	-	0:45:21.037000	0:45:22.864000
+im	im	ADP	-	-	0:45:22.864000	0:45:23.564000
+Sommer	Sommer	NOUN	-	-	0:45:22.864000	0:45:23.564000
+sind	sein	AUX	-	-	0:45:22.864000	0:45:23.564000
+sie	ich	PRON	-	-	0:45:22.864000	0:45:23.564000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:22.864000" end="0:45:23.564000">
+ja	ja	PART	-	-	0:45:22.864000	0:45:23.564000
+.	-	-	-	-	0:45:22.864000	0:45:23.564000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:23.564000" end="0:45:29.984000">
+da	da	ADV	-	-	0:45:23.564000	0:45:28.257000
+gewesen	sein	AUX	-	-	0:45:23.564000	0:45:28.257000
+,	-	-	-	-	0:45:23.564000	0:45:28.257000
+du	du	PRON	-	-	0:45:23.564000	0:45:28.257000
+,	-	-	-	-	0:45:23.564000	0:45:28.257000
+<pause duration="0,7s"/>
+jeder	jed	PRON	-	-	0:45:23.564000	0:45:28.257000
+von	von	ADP	-	-	0:45:23.564000	0:45:28.257000
+die	der	PRON	-	-	0:45:23.564000	0:45:28.257000
+,	-	-	-	-	0:45:23.564000	0:45:28.257000
+die	der	DET	-	-	0:45:23.564000	0:45:28.257000
+Kinder	Kind	NOUN	-	-	0:45:23.564000	0:45:28.257000
+oder	oder	CCONJ	-	-	0:45:23.564000	0:45:28.257000
+sie	ich	PRON	-	-	0:45:23.564000	0:45:28.257000
+selber	selber	ADV	-	-	0:45:23.564000	0:45:28.257000
+,	-	-	-	-	0:45:23.564000	0:45:28.257000
+ein	einen	ADP	-	-	0:45:28.257000	0:45:29.984000
+auch	auch	ADV	-	-	0:45:28.257000	0:45:29.984000
+natürlich	natürlich	ADV	-	-	0:45:28.257000	0:45:29.984000
+noch	noch	ADV	-	-	0:45:28.257000	0:45:29.984000
+.	-	-	-	-	0:45:28.257000	0:45:29.984000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:28.257000" end="0:45:29.984000">
+ja	ja	PART	-	-	0:45:28.257000	0:45:29.984000
+.	-	-	-	-	0:45:28.257000	0:45:29.984000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:29.984000" end="0:45:31.571000">
+Französisch	Französisch	ADJ	-	-	0:45:29.984000	0:45:31.571000
+,	-	-	-	-	0:45:29.984000	0:45:31.571000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:29.984000" end="0:45:31.571000">
+haben	haben	AUX	-	-	0:45:29.984000	0:45:31.571000
+Deutsch	Deutsch	NOUN	-	-	0:45:29.984000	0:45:31.571000
+können	können	VERB	-	-	0:45:29.984000	0:45:31.571000
+ja	ja	ADV	-	-	0:45:29.984000	0:45:31.571000
+ja	ja	PART	-	-	0:45:29.984000	0:45:31.571000
+.	-	-	-	-	0:45:29.984000	0:45:31.571000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:31.571000" end="0:45:33.437000">
+Deutsch	Deutsch	ADJ	-	-	0:45:31.571000	0:45:33.437000
+,	-	-	-	-	0:45:31.571000	0:45:33.437000
+Englisch	Englisch	ADJ	-	-	0:45:31.571000	0:45:33.437000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:31.571000" end="0:45:33.437000">
+ja	ja	ADV	-	-	0:45:31.571000	0:45:33.437000
+ja	ja	ADV	-	-	0:45:31.571000	0:45:33.437000
+ja	ja	PART	-	-	0:45:31.571000	0:45:33.437000
+.	-	-	-	-	0:45:31.571000	0:45:33.437000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:33.437000" end="0:45:36.004000">
+und	und	CCONJ	-	-	0:45:33.437000	0:45:34.571000
+dann	dann	ADV	-	-	0:45:33.437000	0:45:34.571000
+Flämisch	Flämisch	ADJ	-	-	0:45:33.437000	0:45:34.571000
+,	-	-	-	-	0:45:33.437000	0:45:34.571000
+Französisch	Französisch	ADJ	-	-	0:45:34.571000	0:45:36.004000
+,	-	-	-	-	0:45:34.571000	0:45:36.004000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:34.571000" end="0:45:36.004000">
+na	na	INTJ	-	-	0:45:34.571000	0:45:36.004000
+ist	sein	AUX	-	-	0:45:34.571000	0:45:36.004000
+eh	eh	ADV	-	-	0:45:34.571000	0:45:36.004000
+klar	klaren	ADJ	-	-	0:45:34.571000	0:45:36.004000
+ja	ja	ADV	-	-	0:45:34.571000	0:45:36.004000
+ja	ja	ADV	-	-	0:45:34.571000	0:45:36.004000
+mhm	mhm	PROPN	-	-	0:45:34.571000	0:45:36.004000
+.	-	-	-	-	0:45:34.571000	0:45:36.004000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:36.004000" end="0:45:38.770000">
+also	also	ADV	-	-	0:45:36.004000	0:45:37.964000
+da	da	ADV	-	-	0:45:36.004000	0:45:37.964000
+hat	haben	AUX	-	-	0:45:36.004000	0:45:37.964000
+jeder	jed	DET	-	-	0:45:36.004000	0:45:37.964000
+vier	vier	NUM	-	-	0:45:36.004000	0:45:37.964000
+,	-	-	-	-	0:45:36.004000	0:45:37.964000
+fünf	fünf	NUM	-	-	0:45:36.004000	0:45:37.964000
+Sprachen	Sprache	NOUN	-	-	0:45:36.004000	0:45:37.964000
+können	können	VERB	-	-	0:45:37.964000	0:45:38.770000
+,	-	-	-	-	0:45:37.964000	0:45:38.770000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:37.964000" end="0:45:38.770000">
+ja	ja	ADV	-	-	0:45:37.964000	0:45:38.770000
+ja	ja	ADV	-	-	0:45:37.964000	0:45:38.770000
+ja	ja	PART	-	-	0:45:37.964000	0:45:38.770000
+.	-	-	-	-	0:45:37.964000	0:45:38.770000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:38.770000" end="0:45:40.217000">
+aber	aber	CCONJ	-	-	0:45:38.770000	0:45:40.217000
+wie	wie	ADV	-	-	0:45:38.770000	0:45:40.217000
+du	du	PRON	-	-	0:45:38.770000	0:45:40.217000
+sagst	sagen	VERB	-	-	0:45:38.770000	0:45:40.217000
+,	-	-	-	-	0:45:38.770000	0:45:40.217000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:40.217000" end="0:45:41.110000">
+ja	ja	ADV	-	-	0:45:40.217000	0:45:41.110000
+die	der	PRON	-	-	0:45:40.217000	0:45:41.110000
+l/	-	-	-	-	0:45:40.217000	0:45:41.110000
+und	und	CCONJ	-	-	0:45:40.217000	0:45:41.110000
+die	der	PRON	-	-	0:45:40.217000	0:45:41.110000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:41.110000" end="0:45:43.057000">
+in	in	ADP	-	-	0:45:41.110000	0:45:43.057000
+Wort	Wort	NOUN	-	-	0:45:41.110000	0:45:43.057000
+und	und	CCONJ	-	-	0:45:41.110000	0:45:43.057000
+in	in	ADP	-	-	0:45:41.110000	0:45:43.057000
+Wort	Wort	NOUN	-	-	0:45:41.110000	0:45:43.057000
+und	und	CCONJ	-	-	0:45:41.110000	0:45:43.057000
+und	und	CCONJ	-	-	0:45:41.110000	0:45:43.057000
+Schrift	Schrift	NOUN	-	-	0:45:41.110000	0:45:43.057000
+.	-	-	-	-	0:45:41.110000	0:45:43.057000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:41.110000" end="0:45:43.970000">
+lernen	lernen	VERB	-	-	0:45:41.110000	0:45:43.057000
+es	ich	PRON	-	-	0:45:41.110000	0:45:43.057000
+auch	auch	ADV	-	-	0:45:41.110000	0:45:43.057000
+viel	viel	PRON	-	-	0:45:41.110000	0:45:43.057000
+lernen	lernen	VERB	-	-	0:45:41.110000	0:45:43.057000
+es	ich	PRON	-	-	0:45:41.110000	0:45:43.057000
+auch	auch	ADV	-	-	0:45:41.110000	0:45:43.057000
+viel	viel	ADV	-	-	0:45:41.110000	0:45:43.057000
+leichter	leicht	ADJ	-	-	0:45:41.110000	0:45:43.057000
+,	-	-	-	-	0:45:41.110000	0:45:43.057000
+nicht	nicht	PART	-	-	0:45:41.110000	0:45:43.057000
+,	-	-	-	-	0:45:41.110000	0:45:43.057000
+ja	ja	ADV	-	-	0:45:43.057000	0:45:43.970000
+ja	ja	ADV	-	-	0:45:43.057000	0:45:43.970000
+ist	sein	AUX	-	-	0:45:43.057000	0:45:43.970000
+eh	eh	ADV	-	-	0:45:43.057000	0:45:43.970000
+klar	klaren	ADJ	-	-	0:45:43.057000	0:45:43.970000
+ja	ja	PART	-	-	0:45:43.057000	0:45:43.970000
+.	-	-	-	-	0:45:43.057000	0:45:43.970000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:43.970000" end="0:45:45.597000">
+aber	aber	CCONJ	-	-	0:45:43.970000	0:45:45.597000
+das	der	PRON	-	-	0:45:43.970000	0:45:45.597000
+sind	sein	AUX	-	-	0:45:43.970000	0:45:45.597000
+alle	all	PRON	-	-	0:45:43.970000	0:45:45.597000
+,	-	-	-	-	0:45:43.970000	0:45:45.597000
+wo	wo	ADV	-	-	0:45:43.970000	0:45:45.597000
+wo	wo	ADV	-	-	0:45:43.970000	0:45:45.597000
+ich	ich	PRON	-	-	0:45:43.970000	0:45:45.597000
+mir	sich	PRON	-	-	0:45:43.970000	0:45:45.597000
+denke	denken	VERB	-	-	0:45:43.970000	0:45:45.597000
+,	-	-	-	-	0:45:43.970000	0:45:45.597000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:43.970000" end="0:45:46.230000">
+ja	ja	PART	-	-	0:45:43.970000	0:45:45.597000
+.	-	-	-	-	0:45:43.970000	0:45:45.597000
+mhm	mhm	PROPN	-	-	0:45:45.597000	0:45:46.230000
+.	-	-	-	-	0:45:45.597000	0:45:46.230000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:46.230000" end="0:45:51.390000">
+der	der	DET	-	-	0:45:46.230000	0:45:49.670000
+der	der	DET	-	-	0:45:46.230000	0:45:49.670000
+wie	wie	NOUN	-	-	0:45:46.230000	0:45:49.670000
+hat	haben	AUX	-	-	0:45:46.230000	0:45:49.670000
+der	der	DET	-	-	0:45:46.230000	0:45:49.670000
+geheißen	heißen	VERB	-	-	0:45:46.230000	0:45:49.670000
+,	-	-	-	-	0:45:46.230000	0:45:49.670000
+was	was	PRON	-	-	0:45:46.230000	0:45:49.670000
+beim	beim	ADP	-	-	0:45:46.230000	0:45:49.670000
+[Schuppner]N	Schuppner	NOUN	-	-	0:45:46.230000	0:45:49.670000
+war	sein	AUX	-	-	0:45:46.230000	0:45:49.670000
+?	-	-	-	-	0:45:46.230000	0:45:49.670000
+hm	hm	X	-	-	0:45:46.230000	0:45:49.670000
+?	-	-	-	-	0:45:46.230000	0:45:49.670000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:45:49.670000	0:45:51.390000
+war	sein	AUX	-	-	0:45:49.670000	0:45:51.390000
+überhaupt	überhaupt	ADV	-	-	0:45:49.670000	0:45:51.390000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:49.670000	0:45:51.390000
+so	so	ADV	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:49.670000	0:45:51.390000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:49.670000	0:45:51.390000
+Genie	Genie	NOUN	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:49.670000	0:45:51.390000
+.	-	-	-	-	0:45:49.670000	0:45:51.390000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:51.390000" end="0:45:51.677000">
+ja	ja	PART	-	-	0:45:51.390000	0:45:51.677000
+.	-	-	-	-	0:45:51.390000	0:45:51.677000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:51.677000" end="0:45:53.704000">
+der	der	PRON	-	-	0:45:51.677000	0:45:53.704000
+war	sein	AUX	-	-	0:45:51.677000	0:45:53.704000
+dort	dort	ADV	-	-	0:45:51.677000	0:45:53.704000
+auch	auch	ADV	-	-	0:45:51.677000	0:45:53.704000
+schon	schon	ADV	-	-	0:45:51.677000	0:45:53.704000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:51.677000	0:45:53.704000
+so	so	ADV	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:51.677000	0:45:53.704000
+ein	einen	DET	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:51.677000	0:45:53.704000
+Computerfreak	Computerfreak	NOUN	#2ArtSPE #AKon #DArt #EAdj #EPart #ESubj #IRR #dopp #spe+ #spe-	-	0:45:51.677000	0:45:53.704000
+,	-	-	-	-	0:45:51.677000	0:45:53.704000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:53.704000" end="0:45:54.017000">
+mhm	mhm	PROPN	-	-	0:45:53.704000	0:45:54.017000
+.	-	-	-	-	0:45:53.704000	0:45:54.017000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:54.017000" end="0:45:56.164000">
+also	also	ADV	-	-	0:45:54.017000	0:45:55.337000
+das	der	PRON	-	-	0:45:54.017000	0:45:55.337000
+war	sein	AUX	-	-	0:45:54.017000	0:45:55.337000
+ein	einen	DET	-	-	0:45:54.017000	0:45:55.337000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:45:54.017000	0:45:55.337000
+.	-	-	-	-	0:45:54.017000	0:45:55.337000
+gescheit	gescheit	NOUN	-	-	0:45:55.337000	0:45:56.164000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:45:55.337000" end="0:45:56.164000">
+mhm	mhm	PROPN	-	-	0:45:55.337000	0:45:56.164000
+mhm	mhm	PROPN	-	-	0:45:55.337000	0:45:56.164000
+.	-	-	-	-	0:45:55.337000	0:45:56.164000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:45:56.164000" end="0:46:01.470000">
+eigentlich	eigentlich	ADV	-	-	0:45:56.164000	0:45:58.857000
+,	-	-	-	-	0:45:56.164000	0:45:58.857000
+alleweile	alleweile	NOUN	-	-	0:45:56.164000	0:45:58.857000
+so	so	ADV	-	-	0:45:56.164000	0:45:58.857000
+gescheite	gescheit	ADJ	-	-	0:45:56.164000	0:45:58.857000
+Leute	Leute	NOUN	-	-	0:45:56.164000	0:45:58.857000
+,	-	-	-	-	0:45:56.164000	0:45:58.857000
+<pause duration="0,9s"/>
+da	da	ADV	-	-	0:45:58.857000	0:46:01.470000
+sind	sein	AUX	-	-	0:45:58.857000	0:46:01.470000
+wir/	-	-	-	-	0:45:58.857000	0:46:01.470000
+.	-	-	-	-	0:45:58.857000	0:46:01.470000
+<pause duration="1,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:01.470000" end="0:46:02.237000">
+ja	ja	PART	-	-	0:46:01.470000	0:46:02.237000
+bei	bei	ADP	-	-	0:46:01.470000	0:46:02.237000
+uns	sich	PRON	-	-	0:46:01.470000	0:46:02.237000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:02.237000" end="0:46:04.164000">
+da	da	ADV	-	-	0:46:02.237000	0:46:04.164000
+sind	sein	AUX	-	-	0:46:02.237000	0:46:04.164000
+wir	ich	PRON	-	-	0:46:02.237000	0:46:04.164000
+weit	weit	ADJ	-	-	0:46:02.237000	0:46:04.164000
+hinten	hinten	ADV	-	-	0:46:02.237000	0:46:04.164000
+gewesen	sein	AUX	-	-	0:46:02.237000	0:46:04.164000
+,	-	-	-	-	0:46:02.237000	0:46:04.164000
+ja	ja	ADV	-	-	0:46:02.237000	0:46:04.164000
+nein	nein	PART	-	-	0:46:02.237000	0:46:04.164000
+.	-	-	-	-	0:46:02.237000	0:46:04.164000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:02.237000" end="0:46:05.804000">
+hat	haben	AUX	-	-	0:46:02.237000	0:46:04.164000
+es	ich	PRON	-	-	0:46:02.237000	0:46:04.164000
+halt	halt	ADV	-	-	0:46:02.237000	0:46:04.164000
+(da)	da	ADV	-	-	0:46:02.237000	0:46:04.164000
+ja	ja	ADV	-	-	0:46:02.237000	0:46:04.164000
+ja	ja	ADV	-	-	0:46:02.237000	0:46:04.164000
+nichts	nichts	DET	-	-	0:46:04.164000	0:46:05.804000
+anderes	ander	PRON	-	-	0:46:04.164000	0:46:05.804000
+gegeben	geben	VERB	-	-	0:46:04.164000	0:46:05.804000
+da	da	ADP	-	-	0:46:04.164000	0:46:05.804000
+,	-	-	-	-	0:46:04.164000	0:46:05.804000
+nicht	nicht	PART	-	-	0:46:04.164000	0:46:05.804000
+,	-	-	-	-	0:46:04.164000	0:46:05.804000
+gell	gell	ADJ	-	-	0:46:04.164000	0:46:05.804000
+?	-	-	-	-	0:46:04.164000	0:46:05.804000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:05.804000" end="0:46:18.410000">
+und	-	-	-	-	0:46:05.804000	0:46:10.190000
+gebraucht	-	-	-	-	0:46:05.804000	0:46:10.190000
+hat	-	-	-	-	0:46:05.804000	0:46:10.190000
+man	-	-	-	-	0:46:05.804000	0:46:10.190000
+es	-	-	-	-	0:46:05.804000	0:46:10.190000
+_a_	-	-	-	-	0:46:05.804000	0:46:10.190000
+so	-	-	-	-	0:46:05.804000	0:46:10.190000
+nicht	-	-	-	-	0:46:05.804000	0:46:10.190000
+da	-	-	-	-	0:46:05.804000	0:46:10.190000
+,	-	-	-	-	0:46:05.804000	0:46:10.190000
+<pause duration="2,3s"/>
+aber	aber	CCONJ	-	-	0:46:10.190000	0:46:12.017000
+das	der	PRON	-	-	0:46:10.190000	0:46:12.017000
+ist	sein	AUX	-	-	0:46:10.190000	0:46:12.017000
+das	der	DET	-	-	0:46:10.190000	0:46:12.017000
+Einzige	Einzige	NOUN	-	-	0:46:10.190000	0:46:12.017000
+gewesen	sein	AUX	-	-	0:46:10.190000	0:46:12.017000
+,	-	-	-	-	0:46:10.190000	0:46:12.017000
+was	was	PRON	-	-	0:46:12.017000	0:46:14.864000
+m/	-	-	-	-	0:46:12.017000	0:46:14.864000
+was	was	PRON	-	-	0:46:12.017000	0:46:14.864000
+ich	ich	PRON	-	-	0:46:12.017000	0:46:14.864000
+eigentlich	eigentlich	ADV	-	-	0:46:12.017000	0:46:14.864000
+bereut	bereuen	VERB	-	-	0:46:12.017000	0:46:14.864000
+habe	habe	AUX	-	-	0:46:12.017000	0:46:14.864000
+immer	immer	ADV	-	-	0:46:12.017000	0:46:14.864000
+,	-	-	-	-	0:46:12.017000	0:46:14.864000
+dass	dass	SCONJ	-	-	0:46:14.864000	0:46:17.177000
+ich	ich	PRON	-	-	0:46:14.864000	0:46:17.177000
+das	der	PRON	-	-	0:46:14.864000	0:46:17.177000
+nicht	nicht	PART	-	-	0:46:14.864000	0:46:17.177000
+<pause duration="0,7s"/>
+gelernt	lernen	VERB	-	-	0:46:14.864000	0:46:17.177000
+habe	habe	AUX	-	-	0:46:14.864000	0:46:17.177000
+.	-	-	-	-	0:46:14.864000	0:46:17.177000
+wäre	sein	AUX	-	-	0:46:17.177000	0:46:18.410000
+eh	eh	ADV	-	-	0:46:17.177000	0:46:18.410000
+nachher	nachher	ADV	-	-	0:46:17.177000	0:46:18.410000
+noch	noch	ADV	-	-	0:46:17.177000	0:46:18.410000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:17.177000" end="0:46:18.410000">
+mhm	mhm	PROPN	-	-	0:46:17.177000	0:46:18.410000
+.	-	-	-	-	0:46:17.177000	0:46:18.410000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:18.410000" end="0:46:19.617000">
+Zeit	Zeit	NOUN	-	-	0:46:18.410000	0:46:19.617000
+genug	genug	ADV	-	-	0:46:18.410000	0:46:19.617000
+gewesen	sein	AUX	-	-	0:46:18.410000	0:46:19.617000
+,	-	-	-	-	0:46:18.410000	0:46:19.617000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:19.617000" end="0:46:20.877000">
+ja	ja	ADV	-	-	0:46:19.617000	0:46:20.877000
+ja	ja	PART	-	-	0:46:19.617000	0:46:20.877000
+.	-	-	-	-	0:46:19.617000	0:46:20.877000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:20.877000" end="0:46:23.784000">
+dass	dass	SCONJ	-	-	0:46:20.877000	0:46:22.224000
+man	man	PRON	-	-	0:46:20.877000	0:46:22.224000
+das	der	PRON	-	-	0:46:20.877000	0:46:22.224000
+wirklich	wirklich	ADJ	-	-	0:46:20.877000	0:46:22.224000
+dass	dass	SCONJ	-	-	0:46:20.877000	0:46:22.224000
+man	man	PRON	-	-	0:46:20.877000	0:46:22.224000
+in	in	ADP	-	-	0:46:22.224000	0:46:23.784000
+Kurse	Kurs	NOUN	-	-	0:46:22.224000	0:46:23.784000
+gegangen	gehen	VERB	-	-	0:46:22.224000	0:46:23.784000
+wäre	sein	AUX	-	-	0:46:22.224000	0:46:23.784000
+,	-	-	-	-	0:46:22.224000	0:46:23.784000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:22.224000" end="0:46:23.784000">
+ja	ja	ADV	-	-	0:46:22.224000	0:46:23.784000
+sicher	sichern	ADJ	-	-	0:46:22.224000	0:46:23.784000
+ja	ja	ADV	-	-	0:46:22.224000	0:46:23.784000
+ja	ja	PART	-	-	0:46:22.224000	0:46:23.784000
+.	-	-	-	-	0:46:22.224000	0:46:23.784000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:23.784000" end="0:46:25.444000">
+wie	wie	ADV	-	-	0:46:23.784000	0:46:25.444000
+[Daniel]N	Daniel	PROPN	-	-	0:46:23.784000	0:46:25.444000
+ist	sein	AUX	-	-	0:46:23.784000	0:46:25.444000
+und	und	CCONJ	-	-	0:46:23.784000	0:46:25.444000
+der	der	DET	-	-	0:46:23.784000	0:46:25.444000
+[Norbert]N	Norbert	PROPN	-	-	0:46:23.784000	0:46:25.444000
+,	-	-	-	-	0:46:23.784000	0:46:25.444000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:23.784000" end="0:46:25.444000">
+ja	ja	ADV	-	-	0:46:23.784000	0:46:25.444000
+eh	eh	X	-	-	0:46:23.784000	0:46:25.444000
+.	-	-	-	-	0:46:23.784000	0:46:25.444000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:25.444000" end="0:46:26.290000">
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:25.444000" end="0:46:26.290000">
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:26.290000" end="0:46:26.950000">
+der	der	DET	-	-	0:46:26.290000	0:46:26.950000
+[Daniel]N	Daniel	NOUN	-	-	0:46:26.290000	0:46:26.950000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:26.290000" end="0:46:26.950000">
+ja	ja	PART	-	-	0:46:26.290000	0:46:26.950000
+.	-	-	-	-	0:46:26.290000	0:46:26.950000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:26.950000" end="0:46:29.044000">
+ist	sein	AUX	-	-	0:46:26.950000	0:46:28.037000
+Italienisch	Italienisch	PROPN	-	-	0:46:26.950000	0:46:28.037000
+Kurs	Kurs	NOUN	-	-	0:46:28.037000	0:46:29.044000
+alleweile	alleweile	NOUN	-	-	0:46:28.037000	0:46:29.044000
+gegangen	gehen	VERB	-	-	0:46:28.037000	0:46:29.044000
+.	-	-	-	-	0:46:28.037000	0:46:29.044000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:28.037000" end="0:46:30.350000">
+mhm	mhm	PROPN	-	-	0:46:28.037000	0:46:29.044000
+ja	ja	ADV	-	-	0:46:28.037000	0:46:29.044000
+die	der	PRON	-	-	0:46:28.037000	0:46:29.044000
+sind	sein	AUX	-	-	0:46:29.044000	0:46:30.350000
+ja	ja	ADV	-	-	0:46:29.044000	0:46:30.350000
+viel	viel	PRON	-	-	0:46:29.044000	0:46:30.350000
+auf	auf	ADP	-	-	0:46:29.044000	0:46:30.350000
+Urlaub	Urlaub	NOUN	-	-	0:46:29.044000	0:46:30.350000
+unten	unten	ADV	-	-	0:46:29.044000	0:46:30.350000
+in	in	ADP	-	-	0:46:29.044000	0:46:30.350000
+Italien	Italien	PROPN	-	-	0:46:29.044000	0:46:30.350000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:30.350000" end="0:46:31.257000">
+ja	ja	ADV	-	-	0:46:30.350000	0:46:31.257000
+ja	ja	ADV	-	-	0:46:30.350000	0:46:31.257000
+ja	ja	PART	-	-	0:46:30.350000	0:46:31.257000
+.	-	-	-	-	0:46:30.350000	0:46:31.257000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:30.350000" end="0:46:35.290000">
+Italien	Italien	PROPN	-	-	0:46:30.350000	0:46:31.257000
+,	-	-	-	-	0:46:30.350000	0:46:31.257000
+nicht	nicht	PART	-	-	0:46:30.350000	0:46:31.257000
+?	-	-	-	-	0:46:30.350000	0:46:31.257000
+ja	ja	ADV	-	-	0:46:31.257000	0:46:35.290000
+<pause duration="1,1s"/>
+na	na	X	-	-	0:46:31.257000	0:46:35.290000
+ja	ja	ADV	-	-	0:46:31.257000	0:46:35.290000
+unsere	mein	PRON	-	-	0:46:31.257000	0:46:35.290000
+haben	haben	AUX	-	-	0:46:31.257000	0:46:35.290000
+jetzt	jetzt	ADV	-	-	0:46:31.257000	0:46:35.290000
+fest	fest	ADJ	-	-	0:46:31.257000	0:46:35.290000
+Griechisch	Griechisch	NOUN	-	-	0:46:31.257000	0:46:35.290000
+gelernt	lernen	VERB	-	-	0:46:31.257000	0:46:35.290000
+alle	all	PRON	-	-	0:46:31.257000	0:46:35.290000
+,	-	-	-	-	0:46:31.257000	0:46:35.290000
+nicht	nicht	PART	-	-	0:46:31.257000	0:46:35.290000
+?	-	-	-	-	0:46:31.257000	0:46:35.290000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:35.290000" end="0:46:38.837000">
+na	na	X	-	-	0:46:35.290000	0:46:36.124000
+ja	ja	PART	-	-	0:46:35.290000	0:46:36.124000
+,	-	-	-	-	0:46:35.290000	0:46:36.124000
+die	der	PRON	-	-	0:46:36.124000	0:46:38.837000
+sind	sein	AUX	-	-	0:46:36.124000	0:46:38.837000
+auch	auch	ADV	-	-	0:46:36.124000	0:46:38.837000
+oft	oft	ADV	-	-	0:46:36.124000	0:46:38.837000
+nach	nach	ADP	-	-	0:46:36.124000	0:46:38.837000
+Italien	Italien	PROPN	-	-	0:46:36.124000	0:46:38.837000
+gefahren	gefahren	VERB	-	-	0:46:36.124000	0:46:38.837000
+,	-	-	-	-	0:46:36.124000	0:46:38.837000
+aber/	-	-	-	-	0:46:36.124000	0:46:38.837000
+.	-	-	-	-	0:46:36.124000	0:46:38.837000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:36.124000" end="0:46:44.457000">
+der	der	DET	-	-	0:46:36.124000	0:46:38.837000
+die	der	DET	-	-	0:46:36.124000	0:46:38.837000
+[Elke]N	Elke	NOUN	-	-	0:46:36.124000	0:46:38.837000
+,	-	-	-	-	0:46:36.124000	0:46:38.837000
+[Othmar]N	Othmar	PROPN	-	-	0:46:36.124000	0:46:38.837000
+und	und	CCONJ	-	-	0:46:36.124000	0:46:38.837000
+die	der	DET	-	-	0:46:36.124000	0:46:38.837000
+[Laura]N	Laura	NOUN	-	-	0:46:36.124000	0:46:38.837000
+auch	auch	ADV	-	-	0:46:36.124000	0:46:38.837000
+.	-	-	-	-	0:46:36.124000	0:46:38.837000
+<pause duration="0,5s"/>
+die	der	DET	-	-	0:46:38.837000	0:46:42.457000
+[Laura]N	Laura	NOUN	-	-	0:46:38.837000	0:46:42.457000
+kann	können	VERB	-	-	0:46:38.837000	0:46:42.457000
+in/	-	-	-	-	0:46:38.837000	0:46:42.457000
+interessant	interessant	ADJ	-	-	0:46:38.837000	0:46:42.457000
+am	am	ADP	-	-	0:46:38.837000	0:46:42.457000
+besseren	gut	ADJ	-	-	0:46:38.837000	0:46:42.457000
+Griechisch	Griechisch	NOUN	-	-	0:46:38.837000	0:46:42.457000
+,	-	-	-	-	0:46:38.837000	0:46:42.457000
+<pause duration="0,6s"/>
+nur	nur	ADV	-	-	0:46:42.457000	0:46:44.457000
+aber	aber	ADV	-	-	0:46:42.457000	0:46:44.457000
+sie	ich	PRON	-	-	0:46:42.457000	0:46:44.457000
+traut	trauen	VERB	-	-	0:46:42.457000	0:46:44.457000
+sich	sich	PRON	-	-	0:46:42.457000	0:46:44.457000
+nicht	nicht	PART	-	-	0:46:42.457000	0:46:44.457000
+reden	reden	VERB	-	-	0:46:42.457000	0:46:44.457000
+.	-	-	-	-	0:46:42.457000	0:46:44.457000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:44.457000" end="0:46:44.944000">
+ach	ach	X	-	-	0:46:44.457000	0:46:44.944000
+so	so	ADV	-	-	0:46:44.457000	0:46:44.944000
+?	-	-	-	-	0:46:44.457000	0:46:44.944000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:44.944000" end="0:46:47.957000">
+sie	ich	PRON	-	-	0:46:44.944000	0:46:45.837000
+versteht	verstehen	VERB	-	-	0:46:44.944000	0:46:45.837000
+alles	alle	PRON	-	-	0:46:44.944000	0:46:45.837000
+und	und	CCONJ	-	-	0:46:45.837000	0:46:47.957000
+da	da	SCONJ	-	-	0:46:45.837000	0:46:47.957000
+unten	unten	ADV	-	-	0:46:45.837000	0:46:47.957000
+haben	haben	AUX	-	-	0:46:45.837000	0:46:47.957000
+sie	ich	PRON	-	-	0:46:45.837000	0:46:47.957000
+ja	ja	ADV	-	-	0:46:45.837000	0:46:47.957000
+genauso	genauso	ADV	-	-	0:46:45.837000	0:46:47.957000
+Dialekte	Dialekt	NOUN	-	-	0:46:45.837000	0:46:47.957000
+wie	wie	CCONJ	-	-	0:46:45.837000	0:46:47.957000
+wir	ich	PRON	-	-	0:46:45.837000	0:46:47.957000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:47.957000" end="0:46:49.684000">
+ist	sein	AUX	-	-	0:46:47.957000	0:46:49.684000
+eh	eh	ADV	-	-	0:46:47.957000	0:46:49.684000
+überall	überall	ADV	-	-	0:46:47.957000	0:46:49.684000
+gibt	geben	VERB	-	-	0:46:47.957000	0:46:49.684000
+es	ich	PRON	-	-	0:46:47.957000	0:46:49.684000
+das	der	PRON	-	-	0:46:47.957000	0:46:49.684000
+.	-	-	-	-	0:46:47.957000	0:46:49.684000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:47.957000" end="0:46:50.670000">
+da	da	ADV	-	-	0:46:47.957000	0:46:49.684000
+das	der	PRON	-	-	0:46:47.957000	0:46:49.684000
+ist	sein	AUX	-	-	0:46:47.957000	0:46:49.684000
+genauso	genauso	ADV	-	-	0:46:47.957000	0:46:49.684000
+gibt	geben	VERB	-	-	0:46:49.684000	0:46:50.670000
+es	ich	PRON	-	-	0:46:49.684000	0:46:50.670000
+auch	auch	ADV	-	-	0:46:49.684000	0:46:50.670000
+(genau)	genau	ADJ	-	-	0:46:49.684000	0:46:50.670000
+einen	ein	DET	-	-	0:46:49.684000	0:46:50.670000
+Dialekt	Dialekt	NOUN	-	-	0:46:49.684000	0:46:50.670000
+,	-	-	-	-	0:46:49.684000	0:46:50.670000
+nicht	nicht	PART	-	-	0:46:49.684000	0:46:50.670000
+?	-	-	-	-	0:46:49.684000	0:46:50.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:50.670000" end="0:46:51.124000">
+aha	aha	X	-	-	0:46:50.670000	0:46:51.124000
+.	-	-	-	-	0:46:50.670000	0:46:51.124000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:51.124000" end="0:46:57.044000">
+die	der	PRON	-	-	0:46:51.124000	0:46:52.050000
+versteht	verstehen	VERB	-	-	0:46:51.124000	0:46:52.050000
+das	der	PRON	-	-	0:46:51.124000	0:46:52.050000
+alles	alle	PRON	-	-	0:46:51.124000	0:46:52.050000
+und	und	CCONJ	-	-	0:46:52.050000	0:46:53.510000
+und	und	CCONJ	-	-	0:46:52.050000	0:46:53.510000
+na	na	PROPN	-	-	0:46:52.050000	0:46:53.510000
+ja	ja	ADV	-	-	0:46:52.050000	0:46:53.510000
+sie	ich	PRON	-	-	0:46:52.050000	0:46:53.510000
+redet	reden	VERB	-	-	0:46:52.050000	0:46:53.510000
+schon	schon	ADV	-	-	0:46:52.050000	0:46:53.510000
+,	-	-	-	-	0:46:52.050000	0:46:53.510000
+aber	aber	CCONJ	-	-	0:46:53.510000	0:46:55.510000
+nur	nur	ADV	-	-	0:46:53.510000	0:46:55.510000
+,	-	-	-	-	0:46:53.510000	0:46:55.510000
+was	was	PRON	-	-	0:46:53.510000	0:46:55.510000
+halt	halt	ADV	-	-	0:46:53.510000	0:46:55.510000
+wirklich	wirklich	ADJ	-	-	0:46:53.510000	0:46:55.510000
+sein	mein	AUX	-	-	0:46:53.510000	0:46:55.510000
+muss	muss	NOUN	-	-	0:46:53.510000	0:46:55.510000
+,	-	-	-	-	0:46:53.510000	0:46:55.510000
+wenn	wenn	SCONJ	-	-	0:46:55.510000	0:46:57.044000
+sie	ich	PRON	-	-	0:46:55.510000	0:46:57.044000
+irgendwas	irgendwas	PRON	-	-	0:46:55.510000	0:46:57.044000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:57.044000" end="0:46:57.870000">
+na	na	X	-	-	0:46:57.044000	0:46:57.870000
+ja	ja	PART	-	-	0:46:57.044000	0:46:57.870000
+.	-	-	-	-	0:46:57.044000	0:46:57.870000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:57.044000" end="0:46:59.850000">
+wenn	wenn	SCONJ	-	-	0:46:57.044000	0:46:57.870000
+sie	ich	PRON	-	-	0:46:57.044000	0:46:57.870000
+halt	halt	ADV	-	-	0:46:57.044000	0:46:57.870000
+beim	beim	ADP	-	-	0:46:57.870000	0:46:59.850000
+Essen	Essen	NOUN	-	-	0:46:57.870000	0:46:59.850000
+das	der	DET	-	-	0:46:57.870000	0:46:59.850000
+Bestellen	Bestellen	NOUN	-	-	0:46:57.870000	0:46:59.850000
+alles	alle	PRON	-	-	0:46:57.870000	0:46:59.850000
+,	-	-	-	-	0:46:57.870000	0:46:59.850000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:46:59.850000" end="0:47:01.384000">
+ist	sein	AUX	-	-	0:46:59.850000	0:47:01.384000
+eh	eh	ADV	-	-	0:46:59.850000	0:47:01.384000
+klar	klaren	ADJ	-	-	0:46:59.850000	0:47:01.384000
+.	-	-	-	-	0:46:59.850000	0:47:01.384000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:46:59.850000" end="0:47:01.384000">
+das	der	PRON	-	-	0:46:59.850000	0:47:01.384000
+das	der	PRON	-	-	0:46:59.850000	0:47:01.384000
+das	der	PRON	-	-	0:46:59.850000	0:47:01.384000
+haut	haut	NOUN	-	-	0:46:59.850000	0:47:01.384000
+alles	alle	PRON	-	-	0:46:59.850000	0:47:01.384000
+wunderbar	wunderbar	ADJ	-	-	0:46:59.850000	0:47:01.384000
+hin	hin	ADP	-	-	0:46:59.850000	0:47:01.384000
+,	-	-	-	-	0:46:59.850000	0:47:01.384000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:01.384000" end="0:47:02.904000">
+*musst*	-	-	-	-	0:47:01.384000	0:47:02.904000
+sie	-	-	-	-	0:47:01.384000	0:47:02.904000
+einkaufen	-	-	-	-	0:47:01.384000	0:47:02.904000
+shcicken	-	-	-	-	0:47:01.384000	0:47:02.904000
+oder	-	-	-	-	0:47:01.384000	0:47:02.904000
+was	-	-	-	-	0:47:01.384000	0:47:02.904000
+,	-	-	-	-	0:47:01.384000	0:47:02.904000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:01.384000" end="0:47:02.904000">
+wenn	wenn	SCONJ	-	-	0:47:01.384000	0:47:02.904000
+sie	ich	PRON	-	-	0:47:01.384000	0:47:02.904000
+was	was	PRON	-	-	0:47:01.384000	0:47:02.904000
+(am)	am	ADP	-	-	0:47:01.384000	0:47:02.904000
+Einkaufen	Einkaufen	NOUN	-	-	0:47:01.384000	0:47:02.904000
+ist	sein	AUX	-	-	0:47:01.384000	0:47:02.904000
+,	-	-	-	-	0:47:01.384000	0:47:02.904000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:02.904000" end="0:47:04.924000">
+da	-	-	-	-	0:47:02.904000	0:47:04.924000
+*muss*	-	-	-	-	0:47:02.904000	0:47:04.924000
+reden	-	-	-	-	0:47:02.904000	0:47:04.924000
+,	-	-	-	-	0:47:02.904000	0:47:04.924000
+oder	oder	CCONJ	-	-	0:47:02.904000	0:47:04.924000
+,	-	-	-	-	0:47:02.904000	0:47:04.924000
+ja	ja	ADV	-	-	0:47:02.904000	0:47:04.924000
+ja	ja	PART	-	-	0:47:02.904000	0:47:04.924000
+.	-	-	-	-	0:47:02.904000	0:47:04.924000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:02.904000" end="0:47:15.897000">
+das	der	DET	-	-	0:47:02.904000	0:47:04.924000
+s/	-	-	-	-	0:47:02.904000	0:47:04.924000
+nein	nein	NOUN	-	-	0:47:02.904000	0:47:04.924000
+da	da	ADV	-	-	0:47:02.904000	0:47:04.924000
+gibt	geben	VERB	-	-	0:47:02.904000	0:47:04.924000
+es	ich	PRON	-	-	0:47:02.904000	0:47:04.924000
+überhaupt	überhaupt	ADV	-	-	0:47:02.904000	0:47:04.924000
+nichts	nichts	PRON	-	-	0:47:02.904000	0:47:04.924000
+,	-	-	-	-	0:47:02.904000	0:47:04.924000
+aber	aber	CCONJ	-	-	0:47:04.924000	0:47:10.470000
+wenn	wenn	SCONJ	-	-	0:47:04.924000	0:47:10.470000
+sie	ich	PRON	-	-	0:47:04.924000	0:47:10.470000
+so	so	ADV	-	-	0:47:04.924000	0:47:10.470000
+(heute)	heute	ADV	-	-	0:47:04.924000	0:47:10.470000
+ähm	ähm	ADJ	-	-	0:47:04.924000	0:47:10.470000
+<pause duration="1,1s"/>
+einfach	einfach	ADV	-	-	0:47:04.924000	0:47:10.470000
+normal	normal	ADJ	-	-	0:47:04.924000	0:47:10.470000
+ein	einen	DET	-	-	0:47:04.924000	0:47:10.470000
+Gespräch	Gespräch	NOUN	-	-	0:47:04.924000	0:47:10.470000
+führen	fahren	VERB	-	-	0:47:04.924000	0:47:10.470000
+will	wollen	VERB	-	-	0:47:04.924000	0:47:10.470000
+,	-	-	-	-	0:47:04.924000	0:47:10.470000
+da	da	SCONJ	-	-	0:47:10.470000	0:47:11.697000
+sie	ich	PRON	-	-	0:47:10.470000	0:47:11.697000
+hört	hören	VERB	-	-	0:47:10.470000	0:47:11.697000
+zu	zu	ADP	-	-	0:47:10.470000	0:47:11.697000
+,	-	-	-	-	0:47:10.470000	0:47:11.697000
+sie	ich	PRON	-	-	0:47:11.697000	0:47:12.170000
+weiß	weiß	VERB	-	-	0:47:11.697000	0:47:12.170000
+alles	alle	PRON	-	-	0:47:11.697000	0:47:12.170000
+,	-	-	-	-	0:47:11.697000	0:47:12.170000
+aber	aber	CCONJ	-	-	0:47:12.170000	0:47:15.897000
+sie	ich	PRON	-	-	0:47:12.170000	0:47:15.897000
+redet	reden	VERB	-	-	0:47:12.170000	0:47:15.897000
+nicht	nicht	PART	-	-	0:47:12.170000	0:47:15.897000
+richtig	richtig	ADJ	-	-	0:47:12.170000	0:47:15.897000
+mit	mit	ADP	-	-	0:47:12.170000	0:47:15.897000
+da	da	ADV	-	-	0:47:12.170000	0:47:15.897000
+,	-	-	-	-	0:47:12.170000	0:47:15.897000
+nicht	nicht	PART	-	-	0:47:12.170000	0:47:15.897000
+?	-	-	-	-	0:47:12.170000	0:47:15.897000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:15.897000" end="0:47:16.524000">
+na	na	X	-	-	0:47:15.897000	0:47:16.524000
+ja	ja	PART	-	-	0:47:15.897000	0:47:16.524000
+.	-	-	-	-	0:47:15.897000	0:47:16.524000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:16.524000" end="0:47:18.524000">
+ja	ja	ADV	-	-	0:47:16.524000	0:47:18.524000
+<pause duration="1,0s"/>
+aber	aber	CCONJ	-	-	0:47:16.524000	0:47:18.524000
+sie	ich	PRON	-	-	0:47:16.524000	0:47:18.524000
+kann	können	VERB	-	-	0:47:16.524000	0:47:18.524000
+es	ich	PRON	-	-	0:47:16.524000	0:47:18.524000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:18.524000" end="0:47:20.650000">
+ja	ja	ADV	-	-	0:47:18.524000	0:47:20.650000
+das	der	PRON	-	-	0:47:18.524000	0:47:20.650000
+ist	sein	AUX	-	-	0:47:18.524000	0:47:20.650000
+das	der	PRON	-	-	0:47:18.524000	0:47:20.650000
+ist	sein	AUX	-	-	0:47:18.524000	0:47:20.650000
+wichtig	wichtig	ADJ	-	-	0:47:18.524000	0:47:20.650000
+.	-	-	-	-	0:47:18.524000	0:47:20.650000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:18.524000" end="0:47:20.650000">
+und	und	CCONJ	-	-	0:47:18.524000	0:47:20.650000
+der	der	PRON	-	-	0:47:18.524000	0:47:20.650000
+Ot/	-	-	-	-	0:47:18.524000	0:47:20.650000
+der	der	DET	-	-	0:47:18.524000	0:47:20.650000
+[Othmar]N	Othmar	NOUN	-	-	0:47:18.524000	0:47:20.650000
+redet	reden	VERB	-	-	0:47:18.524000	0:47:20.650000
+aber	aber	ADV	-	-	0:47:18.524000	0:47:20.650000
+,	-	-	-	-	0:47:18.524000	0:47:20.650000
+*weißt*	-	-	-	-	0:47:18.524000	0:47:20.650000
+eh	-	-	-	-	0:47:18.524000	0:47:20.650000
+,	-	-	-	-	0:47:18.524000	0:47:20.650000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:20.650000" end="0:47:22.170000">
+ach	ach	X	-	-	0:47:20.650000	0:47:22.170000
+so	so	ADV	-	-	0:47:20.650000	0:47:22.170000
+ja	ja	ADV	-	-	0:47:20.650000	0:47:22.170000
+?	-	-	-	-	0:47:20.650000	0:47:22.170000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:20.650000" end="0:47:27.910000">
+der	der	PRON	-	-	0:47:20.650000	0:47:22.170000
+tut	tun	VERB	-	-	0:47:20.650000	0:47:22.170000
+sich	sich	PRON	-	-	0:47:20.650000	0:47:22.170000
+nichts	nichts	PRON	-	-	0:47:20.650000	0:47:22.170000
+an	an	ADP	-	-	0:47:20.650000	0:47:22.170000
+,	-	-	-	-	0:47:20.650000	0:47:22.170000
+er	ich	PRON	-	-	0:47:22.170000	0:47:24.357000
+sagt	sagen	VERB	-	-	0:47:22.170000	0:47:24.357000
+eh	eh	ADV	-	-	0:47:22.170000	0:47:24.357000
+,	-	-	-	-	0:47:22.170000	0:47:24.357000
+w/	-	-	-	-	0:47:22.170000	0:47:24.357000
+es	ich	PRON	-	-	0:47:22.170000	0:47:24.357000
+ist	sein	AUX	-	-	0:47:22.170000	0:47:24.357000
+halt	halt	ADV	-	-	0:47:22.170000	0:47:24.357000
+,	-	-	-	-	0:47:22.170000	0:47:24.357000
+<pause duration="0,8s"/>
+ma/	-	-	-	-	0:47:24.357000	0:47:27.910000
+obwohl	obwohl	SCONJ	-	-	0:47:24.357000	0:47:27.910000
+(es)	ich	PRON	-	-	0:47:24.357000	0:47:27.910000
+genau	genau	ADJ	-	-	0:47:24.357000	0:47:27.910000
+so	so	ADV	-	-	0:47:24.357000	0:47:27.910000
+richtig	richtig	ADJ	-	-	0:47:24.357000	0:47:27.910000
+ausspricht	aussprechen	VERB	-	-	0:47:24.357000	0:47:27.910000
+,	-	-	-	-	0:47:24.357000	0:47:27.910000
+also	also	ADV	-	-	0:47:24.357000	0:47:27.910000
+wie	wie	CCONJ	-	-	0:47:24.357000	0:47:27.910000
+es	ich	PRON	-	-	0:47:24.357000	0:47:27.910000
+gehört	hören	VERB	-	-	0:47:24.357000	0:47:27.910000
+,	-	-	-	-	0:47:24.357000	0:47:27.910000
+das	der	DET	-	-	0:47:24.357000	0:47:27.910000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:27.910000" end="0:47:29.317000">
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:47:27.910000	0:47:29.317000
+ja	ja	PART	-	-	0:47:27.910000	0:47:29.317000
+.	-	-	-	-	0:47:27.910000	0:47:29.317000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:27.910000" end="0:47:29.937000">
+das	der	PRON	-	-	0:47:27.910000	0:47:29.317000
+eher	eher	ADV	-	-	0:47:27.910000	0:47:29.317000
+nicht	nicht	PART	-	-	0:47:27.910000	0:47:29.317000
+,	-	-	-	-	0:47:27.910000	0:47:29.317000
+aber	-	-	-	-	0:47:29.317000	0:47:29.937000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:29.937000" end="0:47:31.344000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:29.937000" end="0:47:31.344000">
+nur	-	-	-	-	0:47:29.937000	0:47:31.344000
+so	-	-	-	-	0:47:29.937000	0:47:31.344000
+*lernst*	-	-	-	-	0:47:29.937000	0:47:31.344000
+es	-	-	-	-	0:47:29.937000	0:47:31.344000
+halt	-	-	-	-	0:47:29.937000	0:47:31.344000
+,	-	-	-	-	0:47:29.937000	0:47:31.344000
+nicht	nicht	PART	-	-	0:47:29.937000	0:47:31.344000
+?	-	-	-	-	0:47:29.937000	0:47:31.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:31.344000" end="0:47:32.690000">
+nur	nur	ADV	-	-	0:47:31.344000	0:47:32.690000
+nur	nur	ADV	-	-	0:47:31.344000	0:47:32.690000
+.	-	-	-	-	0:47:31.344000	0:47:32.690000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:31.344000" end="0:47:32.690000">
+na	na	X	-	-	0:47:31.344000	0:47:32.690000
+freilich	freilich	ADV	-	-	0:47:31.344000	0:47:32.690000
+.	-	-	-	-	0:47:31.344000	0:47:32.690000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:32.690000" end="0:47:34.884000">
+und	-	-	-	-	0:47:32.690000	0:47:34.117000
+verdrehen	-	-	-	-	0:47:32.690000	0:47:34.117000
+*kannst*	-	-	-	-	0:47:32.690000	0:47:34.117000
+es	-	-	-	-	0:47:32.690000	0:47:34.117000
+wahrscheinlich	-	-	-	-	0:47:32.690000	0:47:34.117000
+verdrehen	-	-	-	-	0:47:34.117000	0:47:34.884000
+auch	-	-	-	-	0:47:34.117000	0:47:34.884000
+,	-	-	-	-	0:47:34.117000	0:47:34.884000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:34.117000" end="0:47:34.884000">
+ja	ja	ADV	-	-	0:47:34.117000	0:47:34.884000
+eh	eh	ADV	-	-	0:47:34.117000	0:47:34.884000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:34.884000" end="0:47:35.937000">
+wie	wie	ADV	-	-	0:47:34.884000	0:47:35.937000
+wie	wie	ADV	-	-	0:47:34.884000	0:47:35.937000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:34.884000" end="0:47:35.937000">
+und	und	CCONJ	-	-	0:47:34.884000	0:47:35.937000
+verstehen	verstehen	VERB	-	-	0:47:34.884000	0:47:35.937000
+tun	tun	VERB	-	-	0:47:34.884000	0:47:35.937000
+sie	ich	PRON	-	-	0:47:34.884000	0:47:35.937000
+alles	alle	PRON	-	-	0:47:34.884000	0:47:35.937000
+.	-	-	-	-	0:47:34.884000	0:47:35.937000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:35.937000" end="0:47:37.110000">
+wie	wie	CCONJ	-	-	0:47:35.937000	0:47:36.717000
+in	in	ADP	-	-	0:47:35.937000	0:47:36.717000
+Englisch	Englisch	NOUN	-	-	0:47:35.937000	0:47:36.717000
+oder	oder	CCONJ	-	-	0:47:36.717000	0:47:37.110000
+was	was	PRON	-	-	0:47:36.717000	0:47:37.110000
+,	-	-	-	-	0:47:36.717000	0:47:37.110000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:36.717000" end="0:47:37.110000">
+ja	ja	PART	-	-	0:47:36.717000	0:47:37.110000
+.	-	-	-	-	0:47:36.717000	0:47:37.110000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:37.110000" end="0:47:40.184000">
+da	-	-	-	-	0:47:37.110000	0:47:38.270000
+*kannst*	-	-	-	-	0:47:37.110000	0:47:38.270000
+auch	-	-	-	-	0:47:37.110000	0:47:38.270000
+alles	-	-	-	-	0:47:37.110000	0:47:38.270000
+verdrehen	-	-	-	-	0:47:37.110000	0:47:38.270000
+,	-	-	-	-	0:47:37.110000	0:47:38.270000
+verkehrt	verkehren	ADJ	-	-	0:47:38.270000	0:47:40.184000
+sagst	sagen	VERB	-	-	0:47:38.270000	0:47:40.184000
+alleweile	alleweile	VERB	-	-	0:47:38.270000	0:47:40.184000
+,	-	-	-	-	0:47:38.270000	0:47:40.184000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:38.270000" end="0:47:40.184000">
+ja	ja	ADV	-	-	0:47:38.270000	0:47:40.184000
+ja	ja	ADV	-	-	0:47:38.270000	0:47:40.184000
+wie	wie	CCONJ	-	-	0:47:38.270000	0:47:40.184000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:40.184000" end="0:47:42.117000">
+das	der	PRON	-	-	0:47:40.184000	0:47:42.117000
+ist	sein	AUX	-	-	0:47:40.184000	0:47:42.117000
+Grammatik	Grammatik	NOUN	-	-	0:47:40.184000	0:47:42.117000
+ist	sein	AUX	-	-	0:47:40.184000	0:47:42.117000
+ja	ja	ADV	-	-	0:47:40.184000	0:47:42.117000
+das	der	DET	-	-	0:47:40.184000	0:47:42.117000
+Blöde	blöd	NOUN	-	-	0:47:40.184000	0:47:42.117000
+.	-	-	-	-	0:47:40.184000	0:47:42.117000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:40.184000" end="0:47:42.870000">
+wie	wie	ADV	-	-	0:47:40.184000	0:47:42.117000
+und/	-	-	-	-	0:47:40.184000	0:47:42.117000
+.	-	-	-	-	0:47:40.184000	0:47:42.117000
+ja	ja	ADV	-	-	0:47:42.117000	0:47:42.870000
+ja	ja	ADV	-	-	0:47:42.117000	0:47:42.870000
+freilich	freilich	ADV	-	-	0:47:42.117000	0:47:42.870000
+sicher	sichern	ADJ	-	-	0:47:42.117000	0:47:42.870000
+.	-	-	-	-	0:47:42.117000	0:47:42.870000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:42.870000" end="0:47:46.190000">
+Wörter	-	-	-	-	0:47:42.870000	0:47:46.190000
+wei/	-	-	-	-	0:47:42.870000	0:47:46.190000
+*weißt*	-	-	-	-	0:47:42.870000	0:47:46.190000
+eh	-	-	-	-	0:47:42.870000	0:47:46.190000
+so	-	-	-	-	0:47:42.870000	0:47:46.190000
+viele	-	-	-	-	0:47:42.870000	0:47:46.190000
+,	-	-	-	-	0:47:42.870000	0:47:46.190000
+aber	aber	CCONJ	-	-	0:47:42.870000	0:47:46.190000
+aber	aber	ADV	-	-	0:47:42.870000	0:47:46.190000
+grammatische/	-	-	-	-	0:47:42.870000	0:47:46.190000
+.	-	-	-	-	0:47:42.870000	0:47:46.190000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:42.870000" end="0:47:49.417000">
+ja	ja	ADV	-	-	0:47:42.870000	0:47:46.190000
+ja	ja	ADV	-	-	0:47:42.870000	0:47:46.190000
+ja	ja	ADV	-	-	0:47:42.870000	0:47:46.190000
+ja	ja	ADV	-	-	0:47:42.870000	0:47:46.190000
+ja	ja	ADV	-	-	0:47:42.870000	0:47:46.190000
+eh	eh	ADV	-	-	0:47:42.870000	0:47:46.190000
+sicher	sichern	ADJ	-	-	0:47:42.870000	0:47:46.190000
+.	-	-	-	-	0:47:42.870000	0:47:46.190000
+eine	-	-	-	-	0:47:46.190000	0:47:49.417000
+_Gaudi_	-	-	-	-	0:47:46.190000	0:47:49.417000
+war	-	-	-	-	0:47:46.190000	0:47:49.417000
+es	-	-	-	-	0:47:46.190000	0:47:49.417000
+,	-	-	-	-	0:47:46.190000	0:47:49.417000
+wie	wie	ADV	-	-	0:47:46.190000	0:47:49.417000
+wie	wie	ADV	-	-	0:47:46.190000	0:47:49.417000
+ich	ich	PRON	-	-	0:47:46.190000	0:47:49.417000
+unten/	-	-	-	-	0:47:46.190000	0:47:49.417000
+.	-	-	-	-	0:47:46.190000	0:47:49.417000
+ich	ich	PRON	-	-	0:47:46.190000	0:47:49.417000
+habe	habe	AUX	-	-	0:47:46.190000	0:47:49.417000
+ja	ja	ADV	-	-	0:47:46.190000	0:47:49.417000
+das	der	DET	-	-	0:47:46.190000	0:47:49.417000
+Haus	Haus	NOUN	-	-	0:47:46.190000	0:47:49.417000
+installiert	installieren	VERB	-	-	0:47:46.190000	0:47:49.417000
+unten	unten	ADV	-	-	0:47:46.190000	0:47:49.417000
+in	in	ADP	-	-	0:47:46.190000	0:47:49.417000
+Greichenland	Greichenland	PROPN	-	-	0:47:46.190000	0:47:49.417000
+,	-	-	-	-	0:47:46.190000	0:47:49.417000
+gell	gell	ADJ	-	-	0:47:46.190000	0:47:49.417000
+,	-	-	-	-	0:47:46.190000	0:47:49.417000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:49.417000" end="0:47:49.917000">
+mhm	mhm	PROPN	-	-	0:47:49.417000	0:47:49.917000
+.	-	-	-	-	0:47:49.417000	0:47:49.917000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:49.917000" end="0:47:59.324000">
+da	da	SCONJ	-	-	0:47:49.917000	0:47:54.697000
+mit	mit	ADP	-	-	0:47:49.917000	0:47:54.697000
+die	der	PRON	-	-	0:47:49.917000	0:47:54.697000
+sind	sein	AUX	-	-	0:47:49.917000	0:47:54.697000
+die	der	DET	-	-	0:47:49.917000	0:47:54.697000
+Baufirmen	Baufirmen	NOUN	-	-	0:47:49.917000	0:47:54.697000
+da	da	ADV	-	-	0:47:49.917000	0:47:54.697000
+gewesen	sein	AUX	-	-	0:47:49.917000	0:47:54.697000
+auch	auch	ADV	-	-	0:47:49.917000	0:47:54.697000
+u/	-	-	-	-	0:47:49.917000	0:47:54.697000
+und	und	CCONJ	-	-	0:47:49.917000	0:47:54.697000
+der	der	DET	-	-	0:47:49.917000	0:47:54.697000
+Wasserinstallateur	Wasserinstallateur	NOUN	-	-	0:47:49.917000	0:47:54.697000
+,	-	-	-	-	0:47:49.917000	0:47:54.697000
+mit	mit	ADP	-	-	0:47:54.697000	0:47:58.764000
+dem	der	DET	-	-	0:47:54.697000	0:47:58.764000
+ho/	-	-	-	-	0:47:54.697000	0:47:58.764000
+natürlich	natürlich	ADV	-	-	0:47:54.697000	0:47:58.764000
+muss	muss	VERB	-	-	0:47:54.697000	0:47:58.764000
+ich	ich	PRON	-	-	0:47:54.697000	0:47:58.764000
+auch	auch	ADV	-	-	0:47:54.697000	0:47:58.764000
+viel	viel	PRON	-	-	0:47:54.697000	0:47:58.764000
+ausmachen	ausmachen	VERB	-	-	0:47:54.697000	0:47:58.764000
+und	und	CCONJ	-	-	0:47:54.697000	0:47:58.764000
+ausreden	ausreden	VERB	-	-	0:47:54.697000	0:47:58.764000
+mit	mit	ADP	-	-	0:47:54.697000	0:47:58.764000
+ihm	ich	PRON	-	-	0:47:54.697000	0:47:58.764000
+,	-	-	-	-	0:47:54.697000	0:47:58.764000
+nicht	nicht	PART	-	-	0:47:54.697000	0:47:58.764000
+?	-	-	-	-	0:47:54.697000	0:47:58.764000
+<pause duration="0,6s"/>
+er	ich	PRON	-	-	0:47:58.764000	0:47:59.324000
+hat	haben	AUX	-	-	0:47:58.764000	0:47:59.324000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:47:59.324000" end="0:48:01.057000">
+na	-	-	-	-	0:47:59.324000	0:48:01.057000
+für	-	-	-	-	0:47:59.324000	0:48:01.057000
+was	-	-	-	-	0:47:59.324000	0:48:01.057000
+(*machst*)	-	-	-	-	0:47:59.324000	0:48:01.057000
+denn	-	-	-	-	0:47:59.324000	0:48:01.057000
+das	-	-	-	-	0:47:59.324000	0:48:01.057000
+Zeug	-	-	-	-	0:47:59.324000	0:48:01.057000
+alles	-	-	-	-	0:47:59.324000	0:48:01.057000
+?	-	-	-	-	0:47:59.324000	0:48:01.057000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:47:59.324000" end="0:48:05.557000">
+ähm	ähm	PROPN	-	-	0:47:59.324000	0:48:01.057000
+er	ich	PRON	-	-	0:47:59.324000	0:48:01.057000
+er	ich	PRON	-	-	0:47:59.324000	0:48:01.057000
+er	ich	PRON	-	-	0:47:59.324000	0:48:01.057000
+hat	haben	AUX	-	-	0:47:59.324000	0:48:01.057000
+fast	fast	ADV	-	-	0:48:01.057000	0:48:04.704000
+kein	kein	DET	-	-	0:48:01.057000	0:48:04.704000
+Englisch	Englisch	NOUN	-	-	0:48:01.057000	0:48:04.704000
+können	können	VERB	-	-	0:48:01.057000	0:48:04.704000
+und	und	CCONJ	-	-	0:48:01.057000	0:48:04.704000
+ich	ich	PRON	-	-	0:48:01.057000	0:48:04.704000
+auch	auch	ADV	-	-	0:48:01.057000	0:48:04.704000
+nur	nur	ADV	-	-	0:48:01.057000	0:48:04.704000
+ein	einen	DET	-	-	0:48:01.057000	0:48:04.704000
+bissel	bissel	NOUN	-	-	0:48:01.057000	0:48:04.704000
+was	was	PRON	-	-	0:48:01.057000	0:48:04.704000
+,	-	-	-	-	0:48:01.057000	0:48:04.704000
+aber	aber	CCONJ	-	-	0:48:04.704000	0:48:05.557000
+wir	ich	PRON	-	-	0:48:04.704000	0:48:05.557000
+sind	sein	AUX	-	-	0:48:04.704000	0:48:05.557000
+zusammen	zusammen	ADV	-	-	0:48:04.704000	0:48:05.557000
+gekommen	kommen	VERB	-	-	0:48:04.704000	0:48:05.557000
+.	-	-	-	-	0:48:04.704000	0:48:05.557000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:05.557000" end="0:48:10.150000">
+ja	ja	PART	-	-	0:48:05.557000	0:48:06.697000
+.	-	-	-	-	0:48:05.557000	0:48:06.697000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:06.697000" end="0:48:10.150000">
+er	ich	PRON	-	-	0:48:06.697000	0:48:10.150000
+Griechisch	Griechisch	NOUN	-	-	0:48:06.697000	0:48:10.150000
+,	-	-	-	-	0:48:06.697000	0:48:10.150000
+ich	ich	PRON	-	-	0:48:06.697000	0:48:10.150000
+Deutsch	Deutsch	NOUN	-	-	0:48:06.697000	0:48:10.150000
+und	und	CCONJ	-	-	0:48:06.697000	0:48:10.150000
+Englisch	Englisch	NOUN	-	-	0:48:06.697000	0:48:10.150000
+und	und	CCONJ	-	-	0:48:06.697000	0:48:10.150000
+mit	mit	ADP	-	-	0:48:06.697000	0:48:10.150000
+dem	der	DET	-	-	0:48:06.697000	0:48:10.150000
+Deuten	Deuten	NOUN	-	-	0:48:06.697000	0:48:10.150000
+,	-	-	-	-	0:48:06.697000	0:48:10.150000
+das	-	-	-	-	0:48:06.697000	0:48:10.150000
+war	-	-	-	-	0:48:06.697000	0:48:10.150000
+eine	-	-	-	-	0:48:06.697000	0:48:10.150000
+_Gaudi_	-	-	-	-	0:48:06.697000	0:48:10.150000
+oft	-	-	-	-	0:48:06.697000	0:48:10.150000
+.	-	-	-	-	0:48:06.697000	0:48:10.150000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:10.150000" end="0:48:13.370000">
+*ist*	-	-	-	-	0:48:10.150000	0:48:10.970000
+eh	-	-	-	-	0:48:10.150000	0:48:10.970000
+klar	-	-	-	-	0:48:10.150000	0:48:10.970000
+.	-	-	-	-	0:48:10.150000	0:48:10.970000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:10.970000" end="0:48:13.370000">
+[Nektarius]N	Nektarius	NOUN	-	-	0:48:10.970000	0:48:13.370000
+hat	haben	AUX	-	-	0:48:10.970000	0:48:13.370000
+er	ich	PRON	-	-	0:48:10.970000	0:48:13.370000
+geheißen	heißen	VERB	-	-	0:48:10.970000	0:48:13.370000
+.	-	-	-	-	0:48:10.970000	0:48:13.370000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:13.370000" end="0:48:15.670000">
+[Nektarius]N	Nektarius	NOUN	-	-	0:48:13.370000	0:48:15.670000
+ja	ja	PART	-	-	0:48:13.370000	0:48:15.670000
+.	-	-	-	-	0:48:13.370000	0:48:15.670000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:13.370000" end="0:48:15.670000">
+gemütlicher	gemütlich	ADJ	-	-	0:48:13.370000	0:48:15.670000
+Kerl	Kerl	NOUN	-	-	0:48:13.370000	0:48:15.670000
+gewesen	sein	AUX	-	-	0:48:13.370000	0:48:15.670000
+ja	ja	PART	-	-	0:48:13.370000	0:48:15.670000
+.	-	-	-	-	0:48:13.370000	0:48:15.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:15.670000" end="0:48:16.964000">
+<pause duration="1,3s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:15.670000" end="0:48:16.964000">
+<pause duration="1,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:16.964000" end="0:48:17.550000">
+ein	-	-	-	-	0:48:16.964000	0:48:17.550000
+bissel	-	-	-	-	0:48:16.964000	0:48:17.550000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:16.964000" end="0:48:17.550000">
+ähm	ähm	X	-	-	0:48:16.964000	0:48:17.550000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:17.550000" end="0:48:19.550000">
+gemütlicher	-	-	-	-	0:48:17.550000	0:48:18.870000
+*ist*	-	-	-	-	0:48:17.550000	0:48:18.870000
+meine	-	-	-	-	0:48:17.550000	0:48:18.870000
+ich	-	-	-	-	0:48:17.550000	0:48:18.870000
+schon	-	-	-	-	0:48:17.550000	0:48:18.870000
+noch	-	-	-	-	0:48:17.550000	0:48:18.870000
+da	-	-	-	-	0:48:17.550000	0:48:18.870000
+unten	-	-	-	-	0:48:18.870000	0:48:19.550000
+.	-	-	-	-	0:48:18.870000	0:48:19.550000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:18.870000" end="0:48:26.057000">
+ja	ja	ADV	-	-	0:48:18.870000	0:48:19.550000
+auf	auf	ADP	-	-	0:48:19.550000	0:48:26.057000
+alle	all	DET	-	-	0:48:19.550000	0:48:26.057000
+Fälle	Fall	NOUN	-	-	0:48:19.550000	0:48:26.057000
+,	-	-	-	-	0:48:19.550000	0:48:26.057000
+aber	-	-	-	-	0:48:19.550000	0:48:26.057000
+*musst*	-	-	-	-	0:48:19.550000	0:48:26.057000
+dich	-	-	-	-	0:48:19.550000	0:48:26.057000
+*musst*	-	-	-	-	0:48:19.550000	0:48:26.057000
+auch	-	-	-	-	0:48:19.550000	0:48:26.057000
+gewöhnen	-	-	-	-	0:48:19.550000	0:48:26.057000
+<pause duration="0,8s"/>
+ein	-	-	-	-	0:48:19.550000	0:48:26.057000
+ein	-	-	-	-	0:48:19.550000	0:48:26.057000
+so	-	-	-	-	0:48:19.550000	0:48:26.057000
+ein	-	-	-	-	0:48:19.550000	0:48:26.057000
+_dings_	-	-	-	-	0:48:19.550000	0:48:26.057000
+ein	-	-	-	-	0:48:19.550000	0:48:26.057000
+<pause duration="0,8s"/>
+was	-	-	-	-	0:48:19.550000	0:48:26.057000
+heute	-	-	-	-	0:48:19.550000	0:48:26.057000
+nicht	-	-	-	-	0:48:19.550000	0:48:26.057000
+ist	-	-	-	-	0:48:19.550000	0:48:26.057000
+,	-	-	-	-	0:48:19.550000	0:48:26.057000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:26.057000" end="0:48:27.550000">
+ist	sein	AUX	-	-	0:48:26.057000	0:48:27.550000
+ja	ja	ADV	-	-	0:48:26.057000	0:48:27.550000
+ja	ja	PART	-	-	0:48:26.057000	0:48:27.550000
+.	-	-	-	-	0:48:26.057000	0:48:27.550000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:26.057000" end="0:48:28.637000">
+ist	sein	AUX	-	-	0:48:26.057000	0:48:27.550000
+halt	halt	ADV	-	-	0:48:26.057000	0:48:27.550000
+morgen	morgen	ADV	-	-	0:48:26.057000	0:48:27.550000
+oder	oder	CCONJ	-	-	0:48:26.057000	0:48:27.550000
+ü/	-	-	-	-	0:48:26.057000	0:48:27.550000
+übermorgen	übermorgen	VERB	-	-	0:48:26.057000	0:48:27.550000
+,	-	-	-	-	0:48:26.057000	0:48:27.550000
+da	-	-	-	-	0:48:27.550000	0:48:28.637000
+*musst*	-	-	-	-	0:48:27.550000	0:48:28.637000
+halt	-	-	-	-	0:48:27.550000	0:48:28.637000
+warten	-	-	-	-	0:48:27.550000	0:48:28.637000
+,	-	-	-	-	0:48:27.550000	0:48:28.637000
+nicht	nicht	PART	-	-	0:48:27.550000	0:48:28.637000
+?	-	-	-	-	0:48:27.550000	0:48:28.637000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:28.637000" end="0:48:29.177000">
+ja	ja	ADV	-	-	0:48:28.637000	0:48:29.177000
+ja	ja	PART	-	-	0:48:28.637000	0:48:29.177000
+.	-	-	-	-	0:48:28.637000	0:48:29.177000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:29.177000" end="0:48:36.417000">
+da	-	-	-	-	0:48:29.177000	0:48:29.844000
+*kannst*	-	-	-	-	0:48:29.177000	0:48:29.844000
+nicht	-	-	-	-	0:48:29.177000	0:48:29.844000
+sagen	-	-	-	-	0:48:29.177000	0:48:29.844000
+"du	-	-	-	-	0:48:29.844000	0:48:33.024000
+um	-	-	-	-	0:48:29.844000	0:48:33.024000
+um	-	-	-	-	0:48:29.844000	0:48:33.024000
+halb	-	-	-	-	0:48:29.844000	0:48:33.024000
+zwei	-	-	-	-	0:48:29.844000	0:48:33.024000
+*bist*	-	-	-	-	0:48:29.844000	0:48:33.024000
+da	-	-	-	-	0:48:29.844000	0:48:33.024000
+!"	-	-	-	-	0:48:29.844000	0:48:33.024000
+<pause duration="0,8s"/>
+wenn	wenn	SCONJ	-	-	0:48:33.024000	0:48:33.684000
+er	ich	PRON	-	-	0:48:33.024000	0:48:33.684000
+kommt	kommen	VERB	-	-	0:48:33.024000	0:48:33.684000
+,	-	-	-	-	0:48:33.024000	0:48:33.684000
+*hast*	-	-	-	-	0:48:33.684000	0:48:34.390000
+ein	-	-	-	-	0:48:33.684000	0:48:34.390000
+Glück	-	-	-	-	0:48:33.684000	0:48:34.390000
+gehabt	-	-	-	-	0:48:33.684000	0:48:34.390000
+,	-	-	-	-	0:48:33.684000	0:48:34.390000
+ähm	ähm	PROPN	-	-	0:48:34.390000	0:48:36.417000
+kommt	kommen	VERB	-	-	0:48:34.390000	0:48:36.417000
+er	ich	PRON	-	-	0:48:34.390000	0:48:36.417000
+halt	halt	ADV	-	-	0:48:34.390000	0:48:36.417000
+nächsten	nächst	ADJ	-	-	0:48:34.390000	0:48:36.417000
+Tag	Tag	NOUN	-	-	0:48:34.390000	0:48:36.417000
+erst	erst	ADV	-	-	0:48:34.390000	0:48:36.417000
+um	um	ADP	-	-	0:48:34.390000	0:48:36.417000
+halb	halb	ADJ	-	-	0:48:34.390000	0:48:36.417000
+zwei	zwei	NUM	-	-	0:48:34.390000	0:48:36.417000
+,	-	-	-	-	0:48:34.390000	0:48:36.417000
+nicht	nicht	PART	-	-	0:48:34.390000	0:48:36.417000
+?	-	-	-	-	0:48:34.390000	0:48:36.417000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:36.417000" end="0:48:38.177000">
+(*hast*)	-	-	-	-	0:48:36.417000	0:48:38.177000
+(ein)	-	-	-	-	0:48:36.417000	0:48:38.177000
+/.	-	-	-	-	0:48:36.417000	0:48:38.177000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:36.417000" end="0:48:39.444000">
+ja	ja	PART	-	-	0:48:36.417000	0:48:38.177000
+das/	-	-	-	-	0:48:36.417000	0:48:38.177000
+.	-	-	-	-	0:48:36.417000	0:48:38.177000
+aber	-	-	-	-	0:48:38.177000	0:48:39.444000
+auf	-	-	-	-	0:48:38.177000	0:48:39.444000
+der	-	-	-	-	0:48:38.177000	0:48:39.444000
+anderen	-	-	-	-	0:48:38.177000	0:48:39.444000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:39.444000" end="0:48:40.330000">
+ja	ja	PART	-	-	0:48:39.444000	0:48:40.330000
+.	-	-	-	-	0:48:39.444000	0:48:40.330000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:39.444000" end="0:48:44.670000">
+ja	-	-	-	-	0:48:39.444000	0:48:40.330000
+ja	-	-	-	-	0:48:39.444000	0:48:40.330000
+ja	-	-	-	-	0:48:40.330000	0:48:42.070000
+*musst*	-	-	-	-	0:48:40.330000	0:48:42.070000
+halt	-	-	-	-	0:48:40.330000	0:48:42.070000
+dann	-	-	-	-	0:48:40.330000	0:48:42.070000
+dort	-	-	-	-	0:48:40.330000	0:48:42.070000
+hinfahren	-	-	-	-	0:48:40.330000	0:48:42.070000
+und	-	-	-	-	0:48:42.070000	0:48:44.670000
+das	-	-	-	-	0:48:42.070000	0:48:44.670000
+ist	-	-	-	-	0:48:42.070000	0:48:44.670000
+das	-	-	-	-	0:48:42.070000	0:48:44.670000
+und	-	-	-	-	0:48:42.070000	0:48:44.670000
+und	-	-	-	-	0:48:42.070000	0:48:44.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:44.670000" end="0:48:45.650000">
+die	der	DET	-	-	0:48:44.670000	0:48:45.650000
+Mentalität	Mentalität	NOUN	-	-	0:48:44.670000	0:48:45.650000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:44.670000" end="0:48:45.650000">
+nicht	-	-	-	-	0:48:44.670000	0:48:45.650000
+?	-	-	-	-	0:48:44.670000	0:48:45.650000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:45.650000" end="0:48:48.037000">
+ist	sein	AUX	-	-	0:48:45.650000	0:48:46.910000
+einfach	einfach	ADV	-	-	0:48:45.650000	0:48:46.910000
+ein	einen	DET	-	-	0:48:45.650000	0:48:46.910000
+wenig	wenig	PRON	-	-	0:48:45.650000	0:48:46.910000
+anders	anders	ADV	-	-	0:48:45.650000	0:48:46.910000
+.	-	-	-	-	0:48:45.650000	0:48:46.910000
+das	der	DET	-	-	0:48:46.910000	0:48:48.037000
+sit	sit	PROPN	-	-	0:48:46.910000	0:48:48.037000
+e/	-	-	-	-	0:48:46.910000	0:48:48.037000
+.	-	-	-	-	0:48:46.910000	0:48:48.037000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:46.910000" end="0:48:54.924000">
+die	der	PRON	-	-	0:48:46.910000	0:48:48.037000
+sind	sein	AUX	-	-	0:48:46.910000	0:48:48.037000
+ganz	ganz	ADV	-	-	0:48:46.910000	0:48:48.037000
+a/	-	-	-	-	0:48:46.910000	0:48:48.037000
+ganz	ganz	ADV	-	-	0:48:48.037000	0:48:51.237000
+anders	anders	ADV	-	-	0:48:48.037000	0:48:51.237000
+,	-	-	-	-	0:48:48.037000	0:48:51.237000
+nicht	nicht	PART	-	-	0:48:48.037000	0:48:51.237000
+,	-	-	-	-	0:48:48.037000	0:48:51.237000
+nicht	nicht	PART	-	-	0:48:48.037000	0:48:51.237000
+so	so	ADV	-	-	0:48:48.037000	0:48:51.237000
+<pause duration="0,5s"/>
+weit	weit	ADJ	-	-	0:48:48.037000	0:48:51.237000
+nicht	nicht	PART	-	-	0:48:48.037000	0:48:51.237000
+so	so	ADV	-	-	0:48:48.037000	0:48:51.237000
+hektisch	hektisch	ADJ	-	-	0:48:48.037000	0:48:51.237000
+wie	wie	CCONJ	-	-	0:48:48.037000	0:48:51.237000
+wir	ich	PRON	-	-	0:48:48.037000	0:48:51.237000
+,	-	-	-	-	0:48:48.037000	0:48:51.237000
+*weißt*	-	-	-	-	0:48:51.237000	0:48:53.237000
+?	-	-	-	-	0:48:51.237000	0:48:53.237000
+<pause duration="1,6s"/>
+es/	-	-	-	-	0:48:53.237000	0:48:54.924000
+.	-	-	-	-	0:48:53.237000	0:48:54.924000
+<pause duration="0,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:54.924000" end="0:48:59.870000">
+darum	darum	ADV	-	-	0:48:54.924000	0:48:57.384000
+vertragen	vertragen	VERB	-	-	0:48:54.924000	0:48:57.384000
+sie	ich	PRON	-	-	0:48:54.924000	0:48:57.384000
+auch	auch	ADV	-	-	0:48:54.924000	0:48:57.384000
+das	der	PRON	-	-	0:48:54.924000	0:48:57.384000
+jetzt	jetzt	ADV	-	-	0:48:54.924000	0:48:57.384000
+alles	alle	PRON	-	-	0:48:54.924000	0:48:57.384000
+.	-	-	-	-	0:48:54.924000	0:48:57.384000
+<pause duration="0,7s"/>
+was	was	PRON	-	-	0:48:57.384000	0:48:59.870000
+?	-	-	-	-	0:48:57.384000	0:48:59.870000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:57.384000" end="0:48:59.870000">
+ja	ja	ADV	-	-	0:48:57.384000	0:48:59.870000
+eh	eh	ADV	-	-	0:48:57.384000	0:48:59.870000
+sonst	sonst	ADV	-	-	0:48:57.384000	0:48:59.870000
+vertr/	-	-	-	-	0:48:57.384000	0:48:59.870000
+sonst	sonst	ADV	-	-	0:48:57.384000	0:48:59.870000
+vertrügen	vertragen	VERB	-	-	0:48:57.384000	0:48:59.870000
+sie	ich	PRON	-	-	0:48:57.384000	0:48:59.870000
+eh	eh	ADV	-	-	0:48:57.384000	0:48:59.870000
+das	der	PRON	-	-	0:48:57.384000	0:48:59.870000
+nicht	nicht	PART	-	-	0:48:57.384000	0:48:59.870000
+,	-	-	-	-	0:48:57.384000	0:48:59.870000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:48:59.870000" end="0:49:01.457000">
+nein	nein	PART	-	-	0:48:59.870000	0:49:01.457000
+sonst	sonst	ADV	-	-	0:48:59.870000	0:49:01.457000
+vertrügen	vertragen	VERB	-	-	0:48:59.870000	0:49:01.457000
+sie	ich	PRON	-	-	0:48:59.870000	0:49:01.457000
+das	der	PRON	-	-	0:48:59.870000	0:49:01.457000
+nicht	nicht	PART	-	-	0:48:59.870000	0:49:01.457000
+.	-	-	-	-	0:48:59.870000	0:49:01.457000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:48:59.870000" end="0:49:02.837000">
+d/	-	-	-	-	0:48:59.870000	0:49:01.457000
+du	du	PRON	-	-	0:48:59.870000	0:49:01.457000
+die	der	DET	-	-	0:48:59.870000	0:49:01.457000
+arm	arm	NOUN	-	-	0:49:01.457000	0:49:02.837000
+sind	sein	AUX	-	-	0:49:01.457000	0:49:02.837000
+ja	ja	ADV	-	-	0:49:01.457000	0:49:02.837000
+die	der	DET	-	-	0:49:01.457000	0:49:02.837000
+Leute	Leute	NOUN	-	-	0:49:01.457000	0:49:02.837000
+unten	unten	ADV	-	-	0:49:01.457000	0:49:02.837000
+,	-	-	-	-	0:49:01.457000	0:49:02.837000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:02.837000" end="0:49:04.797000">
+ja	ja	ADV	-	-	0:49:02.837000	0:49:04.797000
+ja	ja	ADV	-	-	0:49:02.837000	0:49:04.797000
+das	der	PRON	-	-	0:49:02.837000	0:49:04.797000
+ist	sein	AUX	-	-	0:49:02.837000	0:49:04.797000
+zum	zum	ADP	-	-	0:49:02.837000	0:49:04.797000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:02.837000" end="0:49:10.537000">
+die	der	DET	-	-	0:49:02.837000	0:49:04.797000
+die	der	PRON	-	-	0:49:02.837000	0:49:04.797000
+die	der	DET	-	-	0:49:02.837000	0:49:04.797000
+die	der	DET	-	-	0:49:02.837000	0:49:04.797000
+die	der	DET	-	-	0:49:02.837000	0:49:04.797000
+<pause duration="1,1s"/>
+das	der	PRON	-	-	0:49:04.797000	0:49:08.190000
+das	der	DET	-	-	0:49:04.797000	0:49:08.190000
+Geld	Geld	NOUN	-	-	0:49:04.797000	0:49:08.190000
+,	-	-	-	-	0:49:04.797000	0:49:08.190000
+was	was	PRON	-	-	0:49:04.797000	0:49:08.190000
+da	da	ADV	-	-	0:49:04.797000	0:49:08.190000
+hinunterkommt	hinunterkommt	VERB	-	-	0:49:04.797000	0:49:08.190000
+von	von	ADP	-	-	0:49:04.797000	0:49:08.190000
+der	der	DET	-	-	0:49:04.797000	0:49:08.190000
+EU	EU	PROPN	-	-	0:49:04.797000	0:49:08.190000
+,	-	-	-	-	0:49:04.797000	0:49:08.190000
+das	der	DET	-	-	0:49:08.190000	0:49:10.537000
+bei	bei	ADP	-	-	0:49:08.190000	0:49:10.537000
+die	der	PRON	-	-	0:49:08.190000	0:49:10.537000
+die	der	DET	-	-	0:49:08.190000	0:49:10.537000
+spüren	spüren	VERB	-	-	0:49:08.190000	0:49:10.537000
+die	der	DET	-	-	0:49:08.190000	0:49:10.537000
+Kleinen	Kleine	NOUN	-	-	0:49:08.190000	0:49:10.537000
+nicht	nicht	PART	-	-	0:49:08.190000	0:49:10.537000
+viel	viel	PRON	-	-	0:49:08.190000	0:49:10.537000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:10.537000" end="0:49:11.190000">
+nein	nein	PART	-	-	0:49:10.537000	0:49:11.190000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:10.537000" end="0:49:11.190000">
+davon	davon	ADP	-	-	0:49:10.537000	0:49:11.190000
+.	-	-	-	-	0:49:10.537000	0:49:11.190000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:11.190000" end="0:49:13.090000">
+nein	nein	PART	-	-	0:49:11.190000	0:49:12.250000
+das	der	PRON	-	-	0:49:11.190000	0:49:12.250000
+ist	sein	AUX	-	-	0:49:11.190000	0:49:12.250000
+ja	ja	ADV	-	-	0:49:11.190000	0:49:12.250000
+das	der	DET	-	-	0:49:11.190000	0:49:12.250000
+Traurige	Traurige	NOUN	-	-	0:49:12.250000	0:49:13.090000
+.	-	-	-	-	0:49:12.250000	0:49:13.090000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:12.250000" end="0:49:14.984000">
+mit	mit	ADP	-	-	0:49:13.090000	0:49:14.984000
+Kassen	Kasse	NOUN	-	-	0:49:13.090000	0:49:14.984000
+und	und	CCONJ	-	-	0:49:13.090000	0:49:14.984000
+weiß	weiß	VERB	-	-	0:49:13.090000	0:49:14.984000
+ich	ich	PRON	-	-	0:49:13.090000	0:49:14.984000
+wo	wo	ADV	-	-	0:49:13.090000	0:49:14.984000
+,	-	-	-	-	0:49:13.090000	0:49:14.984000
+das	der	PRON	-	-	0:49:13.090000	0:49:14.984000
+verschwindet	verschwinden	VERB	-	-	0:49:13.090000	0:49:14.984000
+wieder	wieder	ADV	-	-	0:49:13.090000	0:49:14.984000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:14.984000" end="0:49:16.304000">
+mhm	mhm	PROPN	-	-	0:49:14.984000	0:49:16.304000
+.	-	-	-	-	0:49:14.984000	0:49:16.304000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:14.984000" end="0:49:16.304000">
+irgendwo	irgendwo	ADV	-	-	0:49:14.984000	0:49:16.304000
+das	der	DET	-	-	0:49:14.984000	0:49:16.304000
+Geld	Geld	NOUN	-	-	0:49:14.984000	0:49:16.304000
+,	-	-	-	-	0:49:14.984000	0:49:16.304000
+nicht	nicht	PART	-	-	0:49:14.984000	0:49:16.304000
+?	-	-	-	-	0:49:14.984000	0:49:16.304000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:16.304000" end="0:49:20.564000">
+<pause duration="1,3s"/>
+und	-	-	-	-	0:49:16.304000	0:49:20.564000
+jetzt	-	-	-	-	0:49:16.304000	0:49:20.564000
+*hörst*	-	-	-	-	0:49:16.304000	0:49:20.564000
+das	-	-	-	-	0:49:16.304000	0:49:20.564000
+wieder	-	-	-	-	0:49:16.304000	0:49:20.564000
+,	-	-	-	-	0:49:16.304000	0:49:20.564000
+gell	gell	ADJ	-	-	0:49:16.304000	0:49:20.564000
+,	-	-	-	-	0:49:16.304000	0:49:20.564000
+<pause duration="0,9s"/>
+Spanien	Spanien	PROPN	-	-	0:49:16.304000	0:49:20.564000
+.	-	-	-	-	0:49:16.304000	0:49:20.564000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:20.564000" end="0:49:21.144000">
+na	na	X	-	-	0:49:20.564000	0:49:21.144000
+!	-	-	-	-	0:49:20.564000	0:49:21.144000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:21.144000" end="0:49:23.850000">
+was	was	PRON	-	-	0:49:21.144000	0:49:23.850000
+?	-	-	-	-	0:49:21.144000	0:49:23.850000
+in	in	ADP	-	-	0:49:21.144000	0:49:23.850000
+Katalonien	Katalonien	NOUN	-	-	0:49:21.144000	0:49:23.850000
+ein	einen	DET	-	-	0:49:21.144000	0:49:23.850000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:49:21.144000	0:49:23.850000
+.	-	-	-	-	0:49:21.144000	0:49:23.850000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:21.144000" end="0:49:23.850000">
+(na	na	X	-	-	0:49:21.144000	0:49:23.850000
+ja	ja	ADV	-	-	0:49:21.144000	0:49:23.850000
+oben)	oben	ADV	-	-	0:49:21.144000	0:49:23.850000
+in	in	ADP	-	-	0:49:21.144000	0:49:23.850000
+Katalonien	Katalonien	NOUN	-	-	0:49:21.144000	0:49:23.850000
+,	-	-	-	-	0:49:21.144000	0:49:23.850000
+nicht	nicht	PART	-	-	0:49:21.144000	0:49:23.850000
+,	-	-	-	-	0:49:21.144000	0:49:23.850000
+ja	ja	PART	-	-	0:49:21.144000	0:49:23.850000
+.	-	-	-	-	0:49:21.144000	0:49:23.850000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:23.850000" end="0:49:27.697000">
+ja	ja	PART	-	-	0:49:23.850000	0:49:27.697000
+du	du	PRON	-	-	0:49:23.850000	0:49:27.697000
+he	he	X	-	-	0:49:23.850000	0:49:27.697000
+!	-	-	-	-	0:49:23.850000	0:49:27.697000
+das	der	PRON	-	-	0:49:23.850000	0:49:27.697000
+will	wollen	VERB	-	-	0:49:23.850000	0:49:27.697000
+ich	ich	PRON	-	-	0:49:23.850000	0:49:27.697000
+g/	-	-	-	-	0:49:23.850000	0:49:27.697000
+.	-	-	-	-	0:49:23.850000	0:49:27.697000
+na	na	X	-	-	0:49:23.850000	0:49:27.697000
+lom/	-	-	-	-	0:49:23.850000	0:49:27.697000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:23.850000" end="0:49:27.697000">
+ja	ja	ADV	-	-	0:49:23.850000	0:49:27.697000
+die	der	PRON	-	-	0:49:23.850000	0:49:27.697000
+auch	auch	ADV	-	-	0:49:23.850000	0:49:27.697000
+Lombardei	Lombardei	NOUN	-	-	0:49:23.850000	0:49:27.697000
+un/	-	-	-	-	0:49:23.850000	0:49:27.697000
+und	und	CCONJ	-	-	0:49:23.850000	0:49:27.697000
+Venezien	Venezien	NOUN	-	-	0:49:23.850000	0:49:27.697000
+,	-	-	-	-	0:49:23.850000	0:49:27.697000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:27.697000" end="0:49:29.217000">
+alles	alle	PRON	-	-	0:49:27.697000	0:49:29.217000
+da	da	ADV	-	-	0:49:27.697000	0:49:29.217000
+heroben	heroben	VERB	-	-	0:49:27.697000	0:49:29.217000
+die/	-	-	-	-	0:49:27.697000	0:49:29.217000
+.	-	-	-	-	0:49:27.697000	0:49:29.217000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:27.697000" end="0:49:29.217000">
+(nein	nein	PART	-	-	0:49:27.697000	0:49:29.217000
+nein)	nein	PART	-	-	0:49:27.697000	0:49:29.217000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:29.217000" end="0:49:38.164000">
+aber	aber	CCONJ	-	-	0:49:29.217000	0:49:32.057000
+einerseits	einerseits	ADV	-	-	0:49:29.217000	0:49:32.057000
+sehe	sehen	VERB	-	-	0:49:29.217000	0:49:32.057000
+ich	ich	PRON	-	-	0:49:29.217000	0:49:32.057000
+es	ich	PRON	-	-	0:49:29.217000	0:49:32.057000
+ein	einen	ADP	-	-	0:49:29.217000	0:49:32.057000
+,	-	-	-	-	0:49:29.217000	0:49:32.057000
+das	der	PRON	-	-	0:49:32.057000	0:49:32.937000
+ist	sein	AUX	-	-	0:49:32.057000	0:49:32.937000
+kein	kein	PRON	-	-	0:49:32.057000	0:49:32.937000
+wu/	-	-	-	-	0:49:32.057000	0:49:32.937000
+.	-	-	-	-	0:49:32.057000	0:49:32.937000
+die	der	PRON	-	-	0:49:32.937000	0:49:37.464000
+tun	tun	VERB	-	-	0:49:32.937000	0:49:37.464000
+schon	schon	ADV	-	-	0:49:32.937000	0:49:37.464000
+hundert	hundert	NUM	-	-	0:49:32.937000	0:49:37.464000
+Jahre	Jahr	NOUN	-	-	0:49:32.937000	0:49:37.464000
+<pause duration="0,8s"/>
+alleweile	alleweile	NOUN	-	-	0:49:32.937000	0:49:37.464000
+zahlen	zahlen	VERB	-	-	0:49:32.937000	0:49:37.464000
+und	und	CCONJ	-	-	0:49:32.937000	0:49:37.464000
+zahlen	zahlen	NOUN	-	-	0:49:32.937000	0:49:37.464000
+und	und	CCONJ	-	-	0:49:32.937000	0:49:37.464000
+zahlen	zahlen	VERB	-	-	0:49:32.937000	0:49:37.464000
+und	und	CCONJ	-	-	0:49:37.464000	0:49:38.164000
+da	da	SCONJ	-	-	0:49:37.464000	0:49:38.164000
+unten	unten	ADV	-	-	0:49:37.464000	0:49:38.164000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:37.464000" end="0:49:38.164000">
+ja	ja	PART	-	-	0:49:37.464000	0:49:38.164000
+.	-	-	-	-	0:49:37.464000	0:49:38.164000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:38.164000" end="0:49:39.404000">
+kommt	kommen	VERB	-	-	0:49:38.164000	0:49:39.404000
+nichts	nichts	PRON	-	-	0:49:38.164000	0:49:39.404000
+von	von	ADP	-	-	0:49:38.164000	0:49:39.404000
+denen	der	PRON	-	-	0:49:38.164000	0:49:39.404000
+.	-	-	-	-	0:49:38.164000	0:49:39.404000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:39.404000" end="0:49:40.257000">
+ja	ja	ADV	-	-	0:49:39.404000	0:49:40.257000
+sicher	sichern	ADJ	-	-	0:49:39.404000	0:49:40.257000
+,	-	-	-	-	0:49:39.404000	0:49:40.257000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:40.257000" end="0:49:41.530000">
+da	da	ADV	-	-	0:49:40.257000	0:49:41.530000
+kommt	kommen	VERB	-	-	0:49:40.257000	0:49:41.530000
+nichts	nichts	PRON	-	-	0:49:40.257000	0:49:41.530000
+.	-	-	-	-	0:49:40.257000	0:49:41.530000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:40.257000" end="0:49:50.224000">
+aber	aber	CCONJ	-	-	0:49:40.257000	0:49:41.530000
+freilg/	-	-	-	-	0:49:41.530000	0:49:44.784000
+ähm	ähm	PROPN	-	-	0:49:41.530000	0:49:44.784000
+ähm	ähm	VERB	-	-	0:49:41.530000	0:49:44.784000
+es	ich	PRON	-	-	0:49:41.530000	0:49:44.784000
+kommt	kommen	VERB	-	-	0:49:41.530000	0:49:44.784000
+halt	halt	ADV	-	-	0:49:41.530000	0:49:44.784000
+nicht	nicht	PART	-	-	0:49:41.530000	0:49:44.784000
+so	so	ADV	-	-	0:49:41.530000	0:49:44.784000
+viel	viel	ADV	-	-	0:49:41.530000	0:49:44.784000
+zurück	zurück	ADV	-	-	0:49:41.530000	0:49:44.784000
+auch	auch	ADV	-	-	0:49:41.530000	0:49:44.784000
+von	von	ADP	-	-	0:49:41.530000	0:49:44.784000
+was	was	PRON	-	-	0:49:41.530000	0:49:44.784000
+sie	ich	PRON	-	-	0:49:41.530000	0:49:44.784000
+einzahlen	einzahlen	VERB	-	-	0:49:41.530000	0:49:44.784000
+hinunter	hinunter	ADJ	-	-	0:49:41.530000	0:49:44.784000
+,	-	-	-	-	0:49:41.530000	0:49:44.784000
+nicht	nicht	PART	-	-	0:49:41.530000	0:49:44.784000
+,	-	-	-	-	0:49:41.530000	0:49:44.784000
+jetzt	jetzt	ADV	-	-	0:49:44.784000	0:49:45.584000
+wollen	wollen	VERB	-	-	0:49:44.784000	0:49:45.584000
+sie	ich	PRON	-	-	0:49:44.784000	0:49:45.584000
+natürlich	natürlich	ADV	-	-	0:49:44.784000	0:49:45.584000
+,	-	-	-	-	0:49:44.784000	0:49:45.584000
+dass	dass	SCONJ	-	-	0:49:45.584000	0:49:47.770000
+das	der	PRON	-	-	0:49:45.584000	0:49:47.770000
+mehr	mehr	ADV	-	-	0:49:45.584000	0:49:47.770000
+heroben	heroben	NOUN	-	-	0:49:45.584000	0:49:47.770000
+bleibt	bleiben	VERB	-	-	0:49:45.584000	0:49:47.770000
+das	der	DET	-	-	0:49:45.584000	0:49:47.770000
+Geld	Geld	NOUN	-	-	0:49:45.584000	0:49:47.770000
+,	-	-	-	-	0:49:45.584000	0:49:47.770000
+nicht	nicht	PART	-	-	0:49:45.584000	0:49:47.770000
+,	-	-	-	-	0:49:45.584000	0:49:47.770000
+die	der	DET	-	-	0:49:47.770000	0:49:50.224000
+Steuern	Steuer	NOUN	-	-	0:49:47.770000	0:49:50.224000
+,	-	-	-	-	0:49:47.770000	0:49:50.224000
+was	was	PRON	-	-	0:49:47.770000	0:49:50.224000
+sie	ich	PRON	-	-	0:49:47.770000	0:49:50.224000
+abliefern	abliefern	NOUN	-	-	0:49:47.770000	0:49:50.224000
+,	-	-	-	-	0:49:47.770000	0:49:50.224000
+das	der	PRON	-	-	0:49:47.770000	0:49:50.224000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:49:50.224000" end="0:49:52.384000">
+das	der	PRON	-	-	0:49:50.224000	0:49:52.384000
+ist	sein	AUX	-	-	0:49:50.224000	0:49:52.384000
+schw/	-	-	-	-	0:49:50.224000	0:49:52.384000
+ja	ja	ADV	-	-	0:49:50.224000	0:49:52.384000
+.	-	-	-	-	0:49:50.224000	0:49:52.384000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:49:50.224000" end="0:50:02.924000">
+versteht	verstehen	VERB	-	-	0:49:50.224000	0:49:52.384000
+man	man	PRON	-	-	0:49:50.224000	0:49:52.384000
+auch	auch	ADV	-	-	0:49:50.224000	0:49:52.384000
+irgendwo	irgendwo	ADV	-	-	0:49:50.224000	0:49:52.384000
+,	-	-	-	-	0:49:50.224000	0:49:52.384000
+aber	aber	CCONJ	-	-	0:49:50.224000	0:49:52.384000
+dasselbe	derselbe	PRON	-	-	0:49:52.384000	0:49:55.877000
+ist	sein	AUX	-	-	0:49:52.384000	0:49:55.877000
+ja	ja	ADV	-	-	0:49:52.384000	0:49:55.877000
+auch	auch	ADV	-	-	0:49:52.384000	0:49:55.877000
+in	in	ADP	-	-	0:49:52.384000	0:49:55.877000
+in	in	ADP	-	-	0:49:52.384000	0:49:55.877000
+in	in	ADP	-	-	0:49:52.384000	0:49:55.877000
+Spanien	Spanien	PROPN	-	-	0:49:52.384000	0:49:55.877000
+,	-	-	-	-	0:49:52.384000	0:49:55.877000
+nicht	nicht	PART	-	-	0:49:52.384000	0:49:55.877000
+?	-	-	-	-	0:49:52.384000	0:49:55.877000
+<pause duration="0,7s"/>
+geht	gehen	VERB	-	-	0:49:55.877000	0:49:56.737000
+es	ich	PRON	-	-	0:49:55.877000	0:49:56.737000
+ja	ja	ADV	-	-	0:49:55.877000	0:49:56.737000
+auch	auch	ADV	-	-	0:49:55.877000	0:49:56.737000
+um	um	ADP	-	-	0:49:55.877000	0:49:56.737000
+das	der	PRON	-	-	0:49:55.877000	0:49:56.737000
+,	-	-	-	-	0:49:55.877000	0:49:56.737000
+nicht	nicht	PART	-	-	0:49:55.877000	0:49:56.737000
+,	-	-	-	-	0:49:55.877000	0:49:56.737000
+das	der	PRON	-	-	0:49:56.737000	0:50:00.817000
+sind	sein	AUX	-	-	0:49:56.737000	0:50:00.817000
+die	der	DET	-	-	0:49:56.737000	0:50:00.817000
+besseren	gut	NOUN	-	-	0:49:56.737000	0:50:00.817000
+die	der	DET	-	-	0:49:56.737000	0:50:00.817000
+Regionen	Region	NOUN	-	-	0:49:56.737000	0:50:00.817000
+,	-	-	-	-	0:49:56.737000	0:50:00.817000
+was	was	PRON	-	-	0:49:56.737000	0:50:00.817000
+am	am	ADP	-	-	0:49:56.737000	0:50:00.817000
+besseren	gut	ADJ	-	-	0:49:56.737000	0:50:00.817000
+wirtschaftlich	wirtschaftlich	ADJ	-	-	0:49:56.737000	0:50:00.817000
+dastehen	dastehen	VERB	-	-	0:49:56.737000	0:50:00.817000
+<pause duration="1,1s"/>
+die	der	DET	-	-	0:50:00.817000	0:50:02.924000
+(wo)	wo	ADV	-	-	0:50:00.817000	0:50:02.924000
+sagen	sagen	VERB	-	-	0:50:00.817000	0:50:02.924000
+,	-	-	-	-	0:50:00.817000	0:50:02.924000
+wir	ich	PRON	-	-	0:50:00.817000	0:50:02.924000
+wollen	wollen	VERB	-	-	0:50:00.817000	0:50:02.924000
+nicht	nicht	PART	-	-	0:50:00.817000	0:50:02.924000
+die	der	DET	-	-	0:50:00.817000	0:50:02.924000
+anderen	ander	ADJ	-	-	0:50:00.817000	0:50:02.924000
+sponsern	sponsern	NOUN	-	-	0:50:00.817000	0:50:02.924000
+,	-	-	-	-	0:50:00.817000	0:50:02.924000
+nicht	nicht	PART	-	-	0:50:00.817000	0:50:02.924000
+?	-	-	-	-	0:50:00.817000	0:50:02.924000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:02.924000" end="0:50:03.344000">
+na	na	X	-	-	0:50:02.924000	0:50:03.344000
+ja	ja	PART	-	-	0:50:02.924000	0:50:03.344000
+.	-	-	-	-	0:50:02.924000	0:50:03.344000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:03.344000" end="0:50:06.110000">
+*ist*	-	-	-	-	0:50:03.344000	0:50:06.110000
+eh	-	-	-	-	0:50:03.344000	0:50:06.110000
+klar	-	-	-	-	0:50:03.344000	0:50:06.110000
+,	-	-	-	-	0:50:03.344000	0:50:06.110000
+<pause duration="2,3s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:06.110000" end="0:50:07.037000">
+weiß	weiß	VERB	-	-	0:50:06.110000	0:50:07.037000
+man	man	PRON	-	-	0:50:06.110000	0:50:07.037000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:06.110000" end="0:50:07.037000">
+aber/	-	-	-	-	0:50:06.110000	0:50:07.037000
+.	-	-	-	-	0:50:06.110000	0:50:07.037000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:07.037000" end="0:50:08.750000">
+gar	gar	ADV	-	-	0:50:07.037000	0:50:08.750000
+nicht	nicht	PART	-	-	0:50:07.037000	0:50:08.750000
+,	-	-	-	-	0:50:07.037000	0:50:08.750000
+was	was	PRON	-	-	0:50:07.037000	0:50:08.750000
+da	da	ADV	-	-	0:50:07.037000	0:50:08.750000
+herauskommt	herauskommt	VERB	-	-	0:50:07.037000	0:50:08.750000
+noch	noch	ADV	-	-	0:50:07.037000	0:50:08.750000
+.	-	-	-	-	0:50:07.037000	0:50:08.750000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:08.750000" end="0:50:14.037000">
+ja	ja	ADV	-	-	0:50:08.750000	0:50:11.104000
+aber	aber	ADV	-	-	0:50:08.750000	0:50:11.104000
+die	der	DET	-	-	0:50:08.750000	0:50:11.104000
+Autonomie	Autonomie	NOUN	-	-	0:50:08.750000	0:50:11.104000
+wollen	wollen	VERB	-	-	0:50:08.750000	0:50:11.104000
+sie	ich	PRON	-	-	0:50:08.750000	0:50:11.104000
+ja	ja	ADV	-	-	0:50:08.750000	0:50:11.104000
+eh	eh	ADV	-	-	0:50:08.750000	0:50:11.104000
+nicht	nicht	PART	-	-	0:50:08.750000	0:50:11.104000
+haben	haben	AUX	-	-	0:50:08.750000	0:50:11.104000
+unten	unten	ADV	-	-	0:50:08.750000	0:50:11.104000
+,	-	-	-	-	0:50:08.750000	0:50:11.104000
+die	der	PRON	-	-	0:50:11.104000	0:50:14.037000
+wollen	wollen	VERB	-	-	0:50:11.104000	0:50:14.037000
+nur	nur	ADV	-	-	0:50:11.104000	0:50:14.037000
+<pause duration="0,7s"/>
+Besserstellungen	Besserstellungen	NOUN	-	-	0:50:11.104000	0:50:14.037000
+haben	haben	AUX	-	-	0:50:11.104000	0:50:14.037000
+,	-	-	-	-	0:50:11.104000	0:50:14.037000
+nicht	nicht	PART	-	-	0:50:11.104000	0:50:14.037000
+?	-	-	-	-	0:50:11.104000	0:50:14.037000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:14.037000" end="0:50:14.750000">
+in	in	ADP	-	-	0:50:14.037000	0:50:14.750000
+Italien	Italien	PROPN	-	-	0:50:14.037000	0:50:14.750000
+?	-	-	-	-	0:50:14.037000	0:50:14.750000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:14.750000" end="0:50:15.197000">
+Italien	Italien	PROPN	-	-	0:50:14.750000	0:50:15.197000
+,	-	-	-	-	0:50:14.750000	0:50:15.197000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:15.197000" end="0:50:16.930000">
+ja	ja	ADV	-	-	0:50:15.197000	0:50:16.930000
+ja	ja	ADV	-	-	0:50:15.197000	0:50:16.930000
+ja	ja	ADV	-	-	0:50:15.197000	0:50:16.930000
+ja	ja	ADV	-	-	0:50:15.197000	0:50:16.930000
+ja	ja	PART	-	-	0:50:15.197000	0:50:16.930000
+.	-	-	-	-	0:50:15.197000	0:50:16.930000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:15.197000" end="0:50:19.130000">
+aber	aber	CCONJ	-	-	0:50:15.197000	0:50:16.930000
+die	der	PRON	-	-	0:50:15.197000	0:50:16.930000
+wollen	wollen	VERB	-	-	0:50:15.197000	0:50:16.930000
+ja	ja	ADV	-	-	0:50:15.197000	0:50:16.930000
+die	der	DET	-	-	0:50:16.930000	0:50:19.130000
+Autonomie	Autonomie	NOUN	-	-	0:50:16.930000	0:50:19.130000
+haben	haben	AUX	-	-	0:50:16.930000	0:50:19.130000
+die	der	DET	-	-	0:50:16.930000	0:50:19.130000
+Katalanen	Katalane	NOUN	-	-	0:50:16.930000	0:50:19.130000
+,	-	-	-	-	0:50:16.930000	0:50:19.130000
+nicht	nicht	PART	-	-	0:50:16.930000	0:50:19.130000
+?	-	-	-	-	0:50:16.930000	0:50:19.130000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:19.130000" end="0:50:25.350000">
+ja	ja	ADV	-	-	0:50:19.130000	0:50:20.530000
+haben	haben	AUX	-	-	0:50:19.130000	0:50:20.530000
+sie	ich	PRON	-	-	0:50:19.130000	0:50:20.530000
+ja	ja	ADV	-	-	0:50:19.130000	0:50:20.530000
+eh	eh	ADV	-	-	0:50:19.130000	0:50:20.530000
+einmal	einmal	ADV	-	-	0:50:19.130000	0:50:20.530000
+das	der	PRON	-	-	0:50:19.130000	0:50:20.530000
+gehabt	haben	AUX	-	-	0:50:19.130000	0:50:20.530000
+,	-	-	-	-	0:50:19.130000	0:50:20.530000
+*kannst*	-	-	-	-	0:50:20.530000	0:50:21.870000
+dich	-	-	-	-	0:50:20.530000	0:50:21.870000
+erinnern	-	-	-	-	0:50:20.530000	0:50:21.870000
+?	-	-	-	-	0:50:20.530000	0:50:21.870000
+<pause duration="0,7s"/>
+da	da	ADV	-	-	0:50:21.870000	0:50:25.350000
+hätten	haben	AUX	-	-	0:50:21.870000	0:50:25.350000
+ja	ja	ADV	-	-	0:50:21.870000	0:50:25.350000
+zu	zu	PART	-	-	0:50:21.870000	0:50:25.350000
+all/	-	-	-	-	0:50:21.870000	0:50:25.350000
+hätten	haben	AUX	-	-	0:50:21.870000	0:50:25.350000
+ja	ja	ADV	-	-	0:50:21.870000	0:50:25.350000
+zu	zu	ADP	-	-	0:50:21.870000	0:50:25.350000
+Österreich	Österreich	PROPN	-	-	0:50:21.870000	0:50:25.350000
+wollen	wollen	VERB	-	-	0:50:21.870000	0:50:25.350000
+<pause duration="0,5s"/>
+Südtirol	Südtirol	PROPN	-	-	0:50:21.870000	0:50:25.350000
+.	-	-	-	-	0:50:21.870000	0:50:25.350000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:25.350000" end="0:50:26.917000">
+ah	ah	X	-	-	0:50:25.350000	0:50:26.110000
+ich	ich	PRON	-	-	0:50:25.350000	0:50:26.110000
+weiß	weiß	VERB	-	-	0:50:25.350000	0:50:26.110000
+nicht	nicht	PART	-	-	0:50:25.350000	0:50:26.110000
+,	-	-	-	-	0:50:25.350000	0:50:26.110000
+ob	ob	SCONJ	-	-	0:50:26.110000	0:50:26.917000
+das	der	PRON	-	-	0:50:26.110000	0:50:26.917000
+nicht	nicht	PART	-	-	0:50:26.110000	0:50:26.917000
+ein	einen	DET	-	-	0:50:26.110000	0:50:26.917000
+Schmäh	Schmäh	NOUN	-	-	0:50:26.110000	0:50:26.917000
+war	sein	AUX	-	-	0:50:26.110000	0:50:26.917000
+.	-	-	-	-	0:50:26.110000	0:50:26.917000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:26.917000" end="0:50:29.244000">
+ja	ja	ADV	-	-	0:50:26.917000	0:50:29.244000
+ja	ja	ADV	-	-	0:50:26.917000	0:50:29.244000
+ja	ja	ADV	-	-	0:50:26.917000	0:50:29.244000
+ja	ja	PART	-	-	0:50:26.917000	0:50:29.244000
+wollen	wollen	VERB	-	-	0:50:26.917000	0:50:29.244000
+ich	ich	PRON	-	-	0:50:26.917000	0:50:29.244000
+meine	meinen	PRON	-	-	0:50:26.917000	0:50:29.244000
+schon	schon	ADV	-	-	0:50:26.917000	0:50:29.244000
+.	-	-	-	-	0:50:26.917000	0:50:29.244000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:26.917000" end="0:50:31.864000">
+na	na	X	-	-	0:50:26.917000	0:50:29.244000
+geh	geh	X	-	-	0:50:26.917000	0:50:29.244000
+,	-	-	-	-	0:50:26.917000	0:50:29.244000
+das	der	DET	-	-	0:50:26.917000	0:50:29.244000
+glau/	-	-	-	-	0:50:26.917000	0:50:29.244000
+das	der	PRON	-	-	0:50:26.917000	0:50:29.244000
+glaube	glauben	VERB	-	-	0:50:26.917000	0:50:29.244000
+ich	ich	PRON	-	-	0:50:26.917000	0:50:29.244000
+nicht	nicht	PART	-	-	0:50:26.917000	0:50:29.244000
+.	-	-	-	-	0:50:26.917000	0:50:29.244000
+na	na	X	-	-	0:50:29.244000	0:50:31.864000
+na	na	X	-	-	0:50:29.244000	0:50:31.864000
+das	der	PRON	-	-	0:50:29.244000	0:50:31.864000
+ähm/	-	-	-	-	0:50:29.244000	0:50:31.864000
+.	-	-	-	-	0:50:29.244000	0:50:31.864000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:31.864000" end="0:50:35.724000">
+aber	aber	CCONJ	-	-	0:50:31.864000	0:50:33.037000
+da	da	SCONJ	-	-	0:50:31.864000	0:50:33.037000
+das	der	PRON	-	-	0:50:31.864000	0:50:33.037000
+ist	sein	AUX	-	-	0:50:31.864000	0:50:33.037000
+ein	einen	DET	-	-	0:50:31.864000	0:50:33.037000
+anderes	ander	ADJ	-	-	0:50:33.037000	0:50:35.724000
+Kapitel	Kapitel	NOUN	-	-	0:50:33.037000	0:50:35.724000
+,	-	-	-	-	0:50:33.037000	0:50:35.724000
+gell	gell	ADJ	-	-	0:50:33.037000	0:50:35.724000
+?	-	-	-	-	0:50:33.037000	0:50:35.724000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:33.037000" end="0:50:35.724000">
+ja	ja	ADV	-	-	0:50:33.037000	0:50:35.724000
+glaube	glauben	VERB	-	-	0:50:33.037000	0:50:35.724000
+ich	ich	PRON	-	-	0:50:33.037000	0:50:35.724000
+auch	auch	ADV	-	-	0:50:33.037000	0:50:35.724000
+.	-	-	-	-	0:50:33.037000	0:50:35.724000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:35.724000" end="0:50:36.670000">
+haben	haben	AUX	-	-	0:50:35.724000	0:50:36.670000
+wir	ich	PRON	-	-	0:50:35.724000	0:50:36.670000
+bei	bei	ADP	-	-	0:50:35.724000	0:50:36.670000
+den	der	DET	-	-	0:50:35.724000	0:50:36.670000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:35.724000" end="0:50:36.670000">
+na	na	X	-	-	0:50:35.724000	0:50:36.670000
+die/	-	-	-	-	0:50:35.724000	0:50:36.670000
+.	-	-	-	-	0:50:35.724000	0:50:36.670000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:36.670000" end="0:50:39.384000">
+grünen	grün	NOUN	-	-	0:50:36.670000	0:50:37.717000
+noch	noch	ADV	-	-	0:50:36.670000	0:50:37.717000
+was	was	PRON	-	-	0:50:36.670000	0:50:37.717000
+,	-	-	-	-	0:50:36.670000	0:50:37.717000
+[Franz]N	franzen	PROPN	-	-	0:50:36.670000	0:50:37.717000
+,	-	-	-	-	0:50:36.670000	0:50:37.717000
+schauen	schauen	VERB	-	-	0:50:37.717000	0:50:39.384000
+wir	ich	PRON	-	-	0:50:37.717000	0:50:39.384000
+mal	mal	ADV	-	-	0:50:37.717000	0:50:39.384000
+,	-	-	-	-	0:50:37.717000	0:50:39.384000
+haben	haben	AUX	-	-	0:50:37.717000	0:50:39.384000
+wir	ich	PRON	-	-	0:50:37.717000	0:50:39.384000
+da	da	ADV	-	-	0:50:37.717000	0:50:39.384000
+noch	noch	ADV	-	-	0:50:37.717000	0:50:39.384000
+ie/	-	-	-	-	0:50:37.717000	0:50:39.384000
+.	-	-	-	-	0:50:37.717000	0:50:39.384000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:37.717000" end="0:50:39.384000">
+hm	hm	X	-	-	0:50:37.717000	0:50:39.384000
+in	in	ADP	-	-	0:50:37.717000	0:50:39.384000
+grün	grün	PROPN	-	-	0:50:37.717000	0:50:39.384000
+?	-	-	-	-	0:50:37.717000	0:50:39.384000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:39.384000" end="0:50:44.524000">
+was	was	PRON	-	-	0:50:39.384000	0:50:44.524000
+ist	sein	AUX	-	-	0:50:39.384000	0:50:44.524000
+das	der	PRON	-	-	0:50:39.384000	0:50:44.524000
+für	für	ADP	-	-	0:50:39.384000	0:50:44.524000
+ein	einen	DET	-	-	0:50:39.384000	0:50:44.524000
+besonders	besonders	ADV	-	-	0:50:39.384000	0:50:44.524000
+Erlebnis	Erlebnis	NOUN	-	-	0:50:39.384000	0:50:44.524000
+ähm	ähm	ADJ	-	-	0:50:39.384000	0:50:44.524000
+das	der	DET	-	-	0:50:39.384000	0:50:44.524000
+besonderes	besonder	ADJ	-	-	0:50:39.384000	0:50:44.524000
+Erlebnis	Erlebnis	NOUN	-	-	0:50:39.384000	0:50:44.524000
+.	-	-	-	-	0:50:39.384000	0:50:44.524000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:39.384000" end="0:50:46.477000">
+erzähle	erzählen	NOUN	-	-	0:50:39.384000	0:50:44.524000
+von	von	ADP	-	-	0:50:39.384000	0:50:44.524000
+ärgerliches	ärgerlich	ADJ	-	-	0:50:39.384000	0:50:44.524000
+ein	einen	DET	-	-	0:50:39.384000	0:50:44.524000
+ein	einen	DET	-	-	0:50:39.384000	0:50:44.524000
+also	also	ADV	-	-	0:50:39.384000	0:50:44.524000
+von	von	ADP	-	-	0:50:44.524000	0:50:46.477000
+einem	einer	DET	-	-	0:50:44.524000	0:50:46.477000
+besonders	besonders	ADV	-	-	0:50:44.524000	0:50:46.477000
+ärgerlichem	ärgerlich	ADJ	-	-	0:50:44.524000	0:50:46.477000
+Erlebnis	Erlebnis	NOUN	-	-	0:50:44.524000	0:50:46.477000
+,	-	-	-	-	0:50:44.524000	0:50:46.477000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:46.477000" end="0:50:47.964000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:46.477000" end="0:50:47.964000">
+also	also	ADV	-	-	0:50:46.477000	0:50:47.964000
+wo	wo	ADV	-	-	0:50:46.477000	0:50:47.964000
+wo	wo	ADV	-	-	0:50:46.477000	0:50:47.964000
+ärgern	ärgern	VERB	-	-	0:50:46.477000	0:50:47.964000
+wir	ich	PRON	-	-	0:50:46.477000	0:50:47.964000
+uns	sich	PRON	-	-	0:50:46.477000	0:50:47.964000
+denn	denn	ADV	-	-	0:50:46.477000	0:50:47.964000
+?	-	-	-	-	0:50:46.477000	0:50:47.964000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:47.964000" end="0:50:50.837000">
+Heirat	Heirat	NOUN	-	-	0:50:47.964000	0:50:48.430000
+.	-	-	-	-	0:50:47.964000	0:50:48.430000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:48.430000" end="0:50:50.837000">
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:50.837000" end="0:50:52.837000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:50.837000" end="0:50:52.837000">
+das	der	PRON	-	-	0:50:50.837000	0:50:52.837000
+ist	sein	AUX	-	-	0:50:50.837000	0:50:52.837000
+schon	schon	ADV	-	-	0:50:50.837000	0:50:52.837000
+so	so	ADV	-	-	0:50:50.837000	0:50:52.837000
+lange	lang	ADV	-	-	0:50:50.837000	0:50:52.837000
+aus	aus	ADP	-	-	0:50:50.837000	0:50:52.837000
+,	-	-	-	-	0:50:50.837000	0:50:52.837000
+[Gerhard]N	Gerhard	PROPN	-	-	0:50:50.837000	0:50:52.837000
+,	-	-	-	-	0:50:50.837000	0:50:52.837000
+das/	-	-	-	-	0:50:50.837000	0:50:52.837000
+.	-	-	-	-	0:50:50.837000	0:50:52.837000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:52.837000" end="0:50:56.070000">
+das	der	PRON	-	-	0:50:52.837000	0:50:56.070000
+dürfen	dürfen	VERB	-	-	0:50:52.837000	0:50:56.070000
+wir	ich	PRON	-	-	0:50:52.837000	0:50:56.070000
+nicht	nicht	PART	-	-	0:50:52.837000	0:50:56.070000
+sagen	sagen	VERB	-	-	0:50:52.837000	0:50:56.070000
+,	-	-	-	-	0:50:52.837000	0:50:56.070000
+hm	hm	X	-	-	0:50:52.837000	0:50:56.070000
+,	-	-	-	-	0:50:52.837000	0:50:56.070000
+nein	nein	PART	-	-	0:50:52.837000	0:50:56.070000
+nein	nein	PART	-	-	0:50:52.837000	0:50:56.070000
+sind	sein	AUX	-	-	0:50:52.837000	0:50:56.070000
+wir	ich	PRON	-	-	0:50:52.837000	0:50:56.070000
+froh	froh	ADJ	-	-	0:50:52.837000	0:50:56.070000
+,	-	-	-	-	0:50:52.837000	0:50:56.070000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:52.837000" end="0:50:57.837000">
+d/	-	-	-	-	0:50:52.837000	0:50:56.070000
+das	der	PRON	-	-	0:50:52.837000	0:50:56.070000
+(war)	sein	AUX	-	-	0:50:52.837000	0:50:56.070000
+besonders	besonders	ADV	-	-	0:50:52.837000	0:50:56.070000
+schönem	schön	ADJ	-	-	0:50:52.837000	0:50:56.070000
+Erlebnis	Erlebnis	NOUN	-	-	0:50:52.837000	0:50:56.070000
+,	-	-	-	-	0:50:52.837000	0:50:56.070000
+da	da	ADV	-	-	0:50:56.070000	0:50:57.837000
+können	können	VERB	-	-	0:50:56.070000	0:50:57.837000
+wir	ich	PRON	-	-	0:50:56.070000	0:50:57.837000
+auch	auch	ADV	-	-	0:50:56.070000	0:50:57.837000
+von	von	ADP	-	-	0:50:56.070000	0:50:57.837000
+der	der	DET	-	-	0:50:56.070000	0:50:57.837000
+Heirat	Heirat	NOUN	-	-	0:50:56.070000	0:50:57.837000
+reden	reden	VERB	-	-	0:50:56.070000	0:50:57.837000
+,	-	-	-	-	0:50:56.070000	0:50:57.837000
+nicht	nicht	PART	-	-	0:50:56.070000	0:50:57.837000
+?	-	-	-	-	0:50:56.070000	0:50:57.837000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:50:57.837000" end="0:50:59.070000">
+mhm	mhm	PROPN	-	-	0:50:57.837000	0:50:59.070000
+.	-	-	-	-	0:50:57.837000	0:50:59.070000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:50:59.070000" end="0:51:03.677000">
+Dorffeste	Dorffeste	NOUN	-	-	0:50:59.070000	0:51:00.650000
+früher	früh	ADJ	-	-	0:50:59.070000	0:51:00.650000
+,	-	-	-	-	0:50:59.070000	0:51:00.650000
+ja	ja	ADV	-	-	0:51:00.650000	0:51:03.677000
+<pause duration="1,3s"/>
+da	da	ADV	-	-	0:51:00.650000	0:51:03.677000
+müsstest	müsstest	VERB	-	-	0:51:00.650000	0:51:03.677000
+du	du	PRON	-	-	0:51:00.650000	0:51:03.677000
+reden	reden	VERB	-	-	0:51:00.650000	0:51:03.677000
+,	-	-	-	-	0:51:00.650000	0:51:03.677000
+weil	weil	SCONJ	-	-	0:51:00.650000	0:51:03.677000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:03.677000" end="0:51:05.510000">
+Dorffeste	Dorffeste	NOUN	-	-	0:51:03.677000	0:51:05.510000
+früher	früh	ADJ	-	-	0:51:03.677000	0:51:05.510000
+,	-	-	-	-	0:51:03.677000	0:51:05.510000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:03.677000" end="0:51:06.310000">
+Dorffeste	Dorffeste	NOUN	-	-	0:51:05.510000	0:51:06.310000
+.	-	-	-	-	0:51:05.510000	0:51:06.310000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:06.310000" end="0:51:14.430000">
+die	der	PRON	-	-	0:51:06.310000	0:51:08.110000
+haben	haben	AUX	-	-	0:51:06.310000	0:51:08.110000
+wir	ich	PRON	-	-	0:51:06.310000	0:51:08.110000
+schon	schon	ADV	-	-	0:51:06.310000	0:51:08.110000
+früher	früh	ADJ	-	-	0:51:06.310000	0:51:08.110000
+gehabt	haben	AUX	-	-	0:51:06.310000	0:51:08.110000
+<pause duration="0,6s"/>
+[Franzi]N	Franzi	PROPN	-	-	0:51:08.110000	0:51:10.477000
+,	-	-	-	-	0:51:08.110000	0:51:10.477000
+*kannst*	-	-	-	-	0:51:08.110000	0:51:10.477000
+dich	-	-	-	-	0:51:08.110000	0:51:10.477000
+auf	-	-	-	-	0:51:08.110000	0:51:10.477000
+das	-	-	-	-	0:51:08.110000	0:51:10.477000
+noch	-	-	-	-	0:51:08.110000	0:51:10.477000
+erinnern	-	-	-	-	0:51:08.110000	0:51:10.477000
+auf	-	-	-	-	0:51:08.110000	0:51:10.477000
+das	-	-	-	-	0:51:08.110000	0:51:10.477000
+Dorffest	-	-	-	-	0:51:08.110000	0:51:10.477000
+,	-	-	-	-	0:51:08.110000	0:51:10.477000
+was	was	PRON	-	-	0:51:10.477000	0:51:11.950000
+alleweile	alleweile	NOUN	-	-	0:51:10.477000	0:51:11.950000
+gewesen	sein	AUX	-	-	0:51:10.477000	0:51:11.950000
+ist	sein	AUX	-	-	0:51:10.477000	0:51:11.950000
+im	im	ADP	-	-	0:51:10.477000	0:51:11.950000
+Bad	Bad	NOUN	-	-	0:51:10.477000	0:51:11.950000
+?	-	-	-	-	0:51:10.477000	0:51:11.950000
+*kannst*	-	-	-	-	0:51:11.950000	0:51:14.430000
+dich	-	-	-	-	0:51:11.950000	0:51:14.430000
+das	-	-	-	-	0:51:11.950000	0:51:14.430000
+auf	-	-	-	-	0:51:11.950000	0:51:14.430000
+das	-	-	-	-	0:51:11.950000	0:51:14.430000
+nicht	-	-	-	-	0:51:11.950000	0:51:14.430000
+erinnern	-	-	-	-	0:51:11.950000	0:51:14.430000
+,	-	-	-	-	0:51:11.950000	0:51:14.430000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:11.950000" end="0:51:14.430000">
+hm	hm	X	-	-	0:51:11.950000	0:51:14.430000
+nein	nein	PART	-	-	0:51:11.950000	0:51:14.430000
+nein	nein	PART	-	-	0:51:11.950000	0:51:14.430000
+,	-	-	-	-	0:51:11.950000	0:51:14.430000
+da/	-	-	-	-	0:51:11.950000	0:51:14.430000
+.	-	-	-	-	0:51:11.950000	0:51:14.430000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:14.430000" end="0:51:17.744000">
+wie	wie	ADV	-	-	0:51:14.430000	0:51:16.784000
+es	ich	PRON	-	-	0:51:14.430000	0:51:16.784000
+noch	noch	ADV	-	-	0:51:14.430000	0:51:16.784000
+den	der	DET	-	-	0:51:14.430000	0:51:16.784000
+[Karl	Karl	PROPN	-	-	0:51:14.430000	0:51:16.784000
+(V)]N	V	PROPN	-	-	0:51:14.430000	0:51:16.784000
+gegeben	geben	VERB	-	-	0:51:14.430000	0:51:16.784000
+hat	haben	AUX	-	-	0:51:14.430000	0:51:16.784000
+?	-	-	-	-	0:51:14.430000	0:51:16.784000
+<pause duration="0,7s"/>
+oder	oder	CCONJ	-	-	0:51:16.784000	0:51:17.744000
+[Hablicher]N	Hablicher	NOUN	-	-	0:51:16.784000	0:51:17.744000
+,	-	-	-	-	0:51:16.784000	0:51:17.744000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:16.784000" end="0:51:17.744000">
+nein	nein	PART	-	-	0:51:16.784000	0:51:17.744000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:17.744000" end="0:51:18.950000">
+der	der	DET	-	-	0:51:17.744000	0:51:18.950000
+alte	alt	ADJ	-	-	0:51:17.744000	0:51:18.950000
+[Habichler]N	Habichler	NOUN	-	-	0:51:17.744000	0:51:18.950000
+?	-	-	-	-	0:51:17.744000	0:51:18.950000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:18.950000" end="0:51:19.630000">
+nein	nein	PART	-	-	0:51:18.950000	0:51:19.630000
+d/	-	-	-	-	0:51:18.950000	0:51:19.630000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:19.630000" end="0:51:21.204000">
+mein	meinen	DET	-	-	0:51:19.630000	0:51:21.204000
+Vater	Vater	NOUN	-	-	0:51:19.630000	0:51:21.204000
+,	-	-	-	-	0:51:19.630000	0:51:21.204000
+der	-	-	-	-	0:51:19.630000	0:51:21.204000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:19.630000" end="0:51:22.344000">
+den	der	DET	-	-	0:51:19.630000	0:51:21.204000
+a/	-	-	-	-	0:51:19.630000	0:51:21.204000
+den	der	DET	-	-	0:51:19.630000	0:51:21.204000
+den	der	DET	-	-	0:51:19.630000	0:51:21.204000
+alten	alt	ADJ	-	-	0:51:19.630000	0:51:21.204000
+Ha/	-	-	-	-	0:51:19.630000	0:51:21.204000
+den	der	DET	-	-	0:51:19.630000	0:51:21.204000
+[Habichler]N	Habichler	NOUN	-	-	0:51:21.204000	0:51:22.344000
+weiß	weiß	VERB	-	-	0:51:21.204000	0:51:22.344000
+ich	ich	PRON	-	-	0:51:21.204000	0:51:22.344000
+schon	schon	ADV	-	-	0:51:21.204000	0:51:22.344000
+noch	noch	ADV	-	-	0:51:21.204000	0:51:22.344000
+,	-	-	-	-	0:51:21.204000	0:51:22.344000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:22.344000" end="0:51:23.170000">
+den	-	-	-	-	0:51:22.344000	0:51:23.170000
+*weißt*	-	-	-	-	0:51:22.344000	0:51:23.170000
+schon	-	-	-	-	0:51:22.344000	0:51:23.170000
+?	-	-	-	-	0:51:22.344000	0:51:23.170000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:22.344000" end="0:51:23.597000">
+ja	ja	ADV	-	-	0:51:22.344000	0:51:23.170000
+aber	aber	ADV	-	-	0:51:22.344000	0:51:23.170000
+aber/	-	-	-	-	0:51:23.170000	0:51:23.597000
+.	-	-	-	-	0:51:23.170000	0:51:23.597000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:23.597000" end="0:51:26.744000">
+die	der	PRON	-	-	0:51:23.597000	0:51:25.597000
+haben/	-	-	-	-	0:51:23.597000	0:51:25.597000
+.	-	-	-	-	0:51:23.597000	0:51:25.597000
+da	da	ADV	-	-	0:51:23.597000	0:51:25.597000
+hat	haben	AUX	-	-	0:51:23.597000	0:51:25.597000
+es	ich	PRON	-	-	0:51:23.597000	0:51:25.597000
+keinen	kein	DET	-	-	0:51:23.597000	0:51:25.597000
+Strom	Strom	NOUN	-	-	0:51:23.597000	0:51:25.597000
+drinnen	drinnen	ADV	-	-	0:51:23.597000	0:51:25.597000
+gegeben	geben	VERB	-	-	0:51:23.597000	0:51:25.597000
+,	-	-	-	-	0:51:23.597000	0:51:25.597000
+*weißt*	-	-	-	-	0:51:25.597000	0:51:26.744000
+eh	-	-	-	-	0:51:25.597000	0:51:26.744000
+im	-	-	-	-	0:51:25.597000	0:51:26.744000
+Bad	-	-	-	-	0:51:25.597000	0:51:26.744000
+,	-	-	-	-	0:51:25.597000	0:51:26.744000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:25.597000" end="0:51:27.217000">
+ja	ja	PART	-	-	0:51:25.597000	0:51:26.744000
+.	-	-	-	-	0:51:25.597000	0:51:26.744000
+ja	ja	ADV	-	-	0:51:26.744000	0:51:27.217000
+ja	ja	PART	-	-	0:51:26.744000	0:51:27.217000
+.	-	-	-	-	0:51:26.744000	0:51:27.217000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:27.217000" end="0:51:28.617000">
+da	da	ADV	-	-	0:51:27.217000	0:51:28.617000
+war	sein	AUX	-	-	0:51:27.217000	0:51:28.617000
+noch	noch	ADV	-	-	0:51:27.217000	0:51:28.617000
+das	der	DET	-	-	0:51:27.217000	0:51:28.617000
+alte	alt	ADJ	-	-	0:51:27.217000	0:51:28.617000
+Bad	Bad	NOUN	-	-	0:51:27.217000	0:51:28.617000
+.	-	-	-	-	0:51:27.217000	0:51:28.617000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:28.617000" end="0:51:29.677000">
+mhm	mhm	PROPN	-	-	0:51:28.617000	0:51:29.677000
+.	-	-	-	-	0:51:28.617000	0:51:29.677000
+<pause duration="0,6s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:29.677000" end="0:51:33.430000">
+da	-	-	-	-	0:51:29.677000	0:51:32.524000
+war	-	-	-	-	0:51:29.677000	0:51:32.524000
+noch	-	-	-	-	0:51:29.677000	0:51:32.524000
+_dings_	-	-	-	-	0:51:29.677000	0:51:32.524000
+da	-	-	-	-	0:51:29.677000	0:51:32.524000
+haben	-	-	-	-	0:51:29.677000	0:51:32.524000
+sie	-	-	-	-	0:51:29.677000	0:51:32.524000
+ein	-	-	-	-	0:51:29.677000	0:51:32.524000
+bü/	-	-	-	-	0:51:29.677000	0:51:32.524000
+ein	-	-	-	-	0:51:29.677000	0:51:32.524000
+_dings_	-	-	-	-	0:51:29.677000	0:51:32.524000
+hinaufgebaut	-	-	-	-	0:51:29.677000	0:51:32.524000
+ein	-	-	-	-	0:51:32.524000	0:51:33.430000
+Floß	-	-	-	-	0:51:32.524000	0:51:33.430000
+,	-	-	-	-	0:51:32.524000	0:51:33.430000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:32.524000" end="0:51:33.430000">
+mhm	mhm	PROPN	-	-	0:51:32.524000	0:51:33.430000
+.	-	-	-	-	0:51:32.524000	0:51:33.430000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:33.430000" end="0:51:34.990000">
+mitten	mitten	ADV	-	-	0:51:33.430000	0:51:34.990000
+in	in	ADP	-	-	0:51:33.430000	0:51:34.990000
+in	in	ADP	-	-	0:51:33.430000	0:51:34.990000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:33.430000" end="0:51:34.990000">
+echt	echt	ADJ	-	-	0:51:33.430000	0:51:34.990000
+ja	ja	PART	-	-	0:51:33.430000	0:51:34.990000
+?	-	-	-	-	0:51:33.430000	0:51:34.990000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:34.990000" end="0:51:38.417000">
+ins	ins	ADP	-	-	0:51:34.990000	0:51:36.324000
+Schwimmbad	Schwimmbad	PROPN	-	-	0:51:34.990000	0:51:36.324000
+hinein	hinein	ADP	-	-	0:51:34.990000	0:51:36.324000
+und	und	CCONJ	-	-	0:51:36.324000	0:51:38.417000
+alles	alle	PRON	-	-	0:51:36.324000	0:51:38.417000
+beleuchtet	beleuchten	VERB	-	-	0:51:36.324000	0:51:38.417000
+und	und	CCONJ	-	-	0:51:36.324000	0:51:38.417000
+alles	alle	PRON	-	-	0:51:36.324000	0:51:38.417000
+.	-	-	-	-	0:51:36.324000	0:51:38.417000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:36.324000" end="0:51:39.490000">
+ja	ja	ADV	-	-	0:51:36.324000	0:51:38.417000
+aber	aber	ADV	-	-	0:51:36.324000	0:51:38.417000
+aber	aber	ADV	-	-	0:51:36.324000	0:51:38.417000
+das	der	DET	-	-	0:51:36.324000	0:51:38.417000
+Schwimmbecken	Schwimmbecken	NOUN	-	-	0:51:36.324000	0:51:38.417000
+ist	sein	AUX	-	-	0:51:36.324000	0:51:38.417000
+doch	doch	ADV	-	-	0:51:36.324000	0:51:38.417000
+schon	schon	ADV	-	-	0:51:38.417000	0:51:39.490000
+ewig	ewig	ADJ	-	-	0:51:38.417000	0:51:39.490000
+,	-	-	-	-	0:51:38.417000	0:51:39.490000
+das	der	PRON	-	-	0:51:38.417000	0:51:39.490000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:39.490000" end="0:51:41.104000">
+Sch/	-	-	-	-	0:51:39.490000	0:51:41.104000
+Schwimmbecken	Schwimmbecken	NOUN	-	-	0:51:39.490000	0:51:41.104000
+ist	sein	AUX	-	-	0:51:39.490000	0:51:41.104000
+gewesen	sein	AUX	-	-	0:51:39.490000	0:51:41.104000
+,	-	-	-	-	0:51:39.490000	0:51:41.104000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:39.490000" end="0:51:41.104000">
+da	da	ADV	-	-	0:51:39.490000	0:51:41.104000
+weiß	weiß	VERB	-	-	0:51:39.490000	0:51:41.104000
+ich	ich	PRON	-	-	0:51:39.490000	0:51:41.104000
+wie/	-	-	-	-	0:51:39.490000	0:51:41.104000
+.	-	-	-	-	0:51:39.490000	0:51:41.104000
+ja	ja	PART	-	-	0:51:39.490000	0:51:41.104000
+,	-	-	-	-	0:51:39.490000	0:51:41.104000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:41.104000" end="0:51:42.984000">
+aber	-	-	-	-	0:51:41.104000	0:51:42.984000
+das	-	-	-	-	0:51:41.104000	0:51:42.984000
+andere	-	-	-	-	0:51:41.104000	0:51:42.984000
+alles	-	-	-	-	0:51:41.104000	0:51:42.984000
+(oder	-	-	-	-	0:51:41.104000	0:51:42.984000
+die)	-	-	-	-	0:51:41.104000	0:51:42.984000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:41.104000" end="0:51:42.984000">
+aber/	-	-	-	-	0:51:41.104000	0:51:42.984000
+.	-	-	-	-	0:51:41.104000	0:51:42.984000
+mhm	mhm	PROPN	-	-	0:51:41.104000	0:51:42.984000
+.	-	-	-	-	0:51:41.104000	0:51:42.984000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:42.984000" end="0:51:44.957000">
+*was*	-	-	-	-	0:51:42.984000	0:51:43.744000
+da	-	-	-	-	0:51:42.984000	0:51:43.744000
+Hüttel	-	-	-	-	0:51:42.984000	0:51:43.744000
+gegeben	-	-	-	-	0:51:43.744000	0:51:44.957000
+hat	-	-	-	-	0:51:43.744000	0:51:44.957000
+und	-	-	-	-	0:51:43.744000	0:51:44.957000
+alles	-	-	-	-	0:51:43.744000	0:51:44.957000
+drinnen	-	-	-	-	0:51:43.744000	0:51:44.957000
+,	-	-	-	-	0:51:43.744000	0:51:44.957000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:43.744000" end="0:51:45.257000">
+ja	ja	PART	-	-	0:51:43.744000	0:51:44.957000
+mhm	mhm	PROPN	-	-	0:51:43.744000	0:51:44.957000
+mhm	mhm	PROPN	-	-	0:51:43.744000	0:51:44.957000
+.	-	-	-	-	0:51:43.744000	0:51:44.957000
+aha	aha	X	-	-	0:51:44.957000	0:51:45.257000
+.	-	-	-	-	0:51:44.957000	0:51:45.257000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:45.257000" end="0:51:46.210000">
+das	der	PRON	-	-	0:51:45.257000	0:51:46.210000
+war	sein	AUX	-	-	0:51:45.257000	0:51:46.210000
+ein	einen	DET	-	-	0:51:45.257000	0:51:46.210000
+schönes	schön	ADJ	-	-	0:51:45.257000	0:51:46.210000
+Fest	Fest	NOUN	-	-	0:51:45.257000	0:51:46.210000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:46.210000" end="0:51:46.637000">
+ja	ja	PART	-	-	0:51:46.210000	0:51:46.637000
+.	-	-	-	-	0:51:46.210000	0:51:46.637000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:46.637000" end="0:51:51.590000">
+und	und	CCONJ	-	-	0:51:46.637000	0:51:48.637000
+aber	aber	ADV	-	-	0:51:46.637000	0:51:48.637000
+ein	einen	DET	-	-	0:51:46.637000	0:51:48.637000
+Haufen	Haufen	NOUN	-	-	0:51:46.637000	0:51:48.637000
+Arbeit	Arbeit	NOUN	-	-	0:51:46.637000	0:51:48.637000
+<pause duration="0,6s"/>
+und	und	CCONJ	-	-	0:51:48.637000	0:51:49.944000
+au/	-	-	-	-	0:51:48.637000	0:51:49.944000
+die	der	PRON	-	-	0:51:48.637000	0:51:49.944000
+haben	haben	AUX	-	-	0:51:48.637000	0:51:49.944000
+wenn	wenn	SCONJ	-	-	0:51:49.944000	0:51:51.590000
+ich	ich	PRON	-	-	0:51:49.944000	0:51:51.590000
+dir	sich	PRON	-	-	0:51:49.944000	0:51:51.590000
+sage	sage	VERB	-	-	0:51:49.944000	0:51:51.590000
+,	-	-	-	-	0:51:49.944000	0:51:51.590000
+he/	-	-	-	-	0:51:49.944000	0:51:51.590000
+.	-	-	-	-	0:51:49.944000	0:51:51.590000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:49.944000" end="0:51:51.590000">
+das	der	PRON	-	-	0:51:49.944000	0:51:51.590000
+hat	haben	AUX	-	-	0:51:49.944000	0:51:51.590000
+der	der	DET	-	-	0:51:49.944000	0:51:51.590000
+(KVAU)	KVAU	PROPN	-	-	0:51:49.944000	0:51:51.590000
+gemacht	machen	VERB	-	-	0:51:49.944000	0:51:51.590000
+,	-	-	-	-	0:51:49.944000	0:51:51.590000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:51.590000" end="0:51:54.124000">
+ja	ja	PART	-	-	0:51:51.590000	0:51:54.124000
+(KVAU)	KVAU	PROPN	-	-	0:51:51.590000	0:51:54.124000
+ja	ja	ADV	-	-	0:51:51.590000	0:51:54.124000
+Kriegsopferverband	Kriegsopferverband	PROPN	-	-	0:51:51.590000	0:51:54.124000
+.	-	-	-	-	0:51:51.590000	0:51:54.124000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:51.590000" end="0:51:54.124000">
+(wer	wer	PRON	-	-	0:51:51.590000	0:51:54.124000
+hat)	haben	AUX	-	-	0:51:51.590000	0:51:54.124000
+der	der	DET	-	-	0:51:51.590000	0:51:54.124000
+Kriegsopferverband	Kriegsopferverband	NOUN	-	-	0:51:51.590000	0:51:54.124000
+ja	ja	ADV	-	-	0:51:51.590000	0:51:54.124000
+mhm	mhm	PROPN	-	-	0:51:51.590000	0:51:54.124000
+ja	ja	ADV	-	-	0:51:51.590000	0:51:54.124000
+.	-	-	-	-	0:51:51.590000	0:51:54.124000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:54.124000" end="0:51:56.010000">
+und	und	CCONJ	-	-	0:51:54.124000	0:51:56.010000
+wenn	wenn	SCONJ	-	-	0:51:54.124000	0:51:56.010000
+ich	ich	PRON	-	-	0:51:54.124000	0:51:56.010000
+mir/	-	-	-	-	0:51:54.124000	0:51:56.010000
+.	-	-	-	-	0:51:54.124000	0:51:56.010000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:54.124000" end="0:51:56.884000">
+ja	-	-	-	-	0:51:54.124000	0:51:56.010000
+da	-	-	-	-	0:51:54.124000	0:51:56.010000
+war	-	-	-	-	0:51:54.124000	0:51:56.010000
+der	-	-	-	-	0:51:54.124000	0:51:56.010000
+[(?)]	-	-	-	-	0:51:54.124000	0:51:56.010000
+[Sepp]N	-	-	-	-	0:51:54.124000	0:51:56.010000
+war	-	-	-	-	0:51:56.010000	0:51:56.884000
+da	-	-	-	-	0:51:56.010000	0:51:56.884000
+alleweile	-	-	-	-	0:51:56.010000	0:51:56.884000
+da	-	-	-	-	0:51:56.010000	0:51:56.884000
+.	-	-	-	-	0:51:56.010000	0:51:56.884000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:51:56.884000" end="0:51:58.330000">
+die	der	PRON	-	-	0:51:56.884000	0:51:57.577000
+waren	sein	AUX	-	-	0:51:56.884000	0:51:57.577000
+auch	auch	ADV	-	-	0:51:56.884000	0:51:57.577000
+,	-	-	-	-	0:51:56.884000	0:51:57.577000
+*ist*	-	-	-	-	0:51:57.577000	0:51:58.330000
+eh	-	-	-	-	0:51:57.577000	0:51:58.330000
+ganz	-	-	-	-	0:51:57.577000	0:51:58.330000
+klar	-	-	-	-	0:51:57.577000	0:51:58.330000
+.	-	-	-	-	0:51:57.577000	0:51:58.330000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:51:57.577000" end="0:52:00.430000">
+und	und	CCONJ	-	-	0:51:57.577000	0:51:58.330000
+der	der	DET	-	-	0:51:57.577000	0:51:58.330000
+[(Hurmaneder)]N	Hurmaneder	NOUN	-	-	0:51:58.330000	0:52:00.430000
+war	sein	AUX	-	-	0:51:58.330000	0:52:00.430000
+drinnen	drinnen	ADV	-	-	0:51:58.330000	0:52:00.430000
+,	-	-	-	-	0:51:58.330000	0:52:00.430000
+glaube	glauben	VERB	-	-	0:51:58.330000	0:52:00.430000
+ich	ich	PRON	-	-	0:51:58.330000	0:52:00.430000
+,	-	-	-	-	0:51:58.330000	0:52:00.430000
+nicht	nicht	PART	-	-	0:51:58.330000	0:52:00.430000
+,	-	-	-	-	0:51:58.330000	0:52:00.430000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:00.430000" end="0:52:02.197000">
+ja	ja	ADV	-	-	0:52:00.430000	0:52:02.197000
+ja	ja	PART	-	-	0:52:00.430000	0:52:02.197000
+.	-	-	-	-	0:52:00.430000	0:52:02.197000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:00.430000" end="0:52:02.597000">
+war	sein	AUX	-	-	0:52:00.430000	0:52:02.197000
+auch	auch	ADV	-	-	0:52:00.430000	0:52:02.197000
+dabei	dabei	ADV	-	-	0:52:00.430000	0:52:02.197000
+,	-	-	-	-	0:52:00.430000	0:52:02.197000
+nicht	nicht	PART	-	-	0:52:00.430000	0:52:02.197000
+,	-	-	-	-	0:52:00.430000	0:52:02.197000
+ja	ja	ADV	-	-	0:52:00.430000	0:52:02.197000
+ja	ja	PART	-	-	0:52:00.430000	0:52:02.197000
+.	-	-	-	-	0:52:00.430000	0:52:02.197000
+ach	ach	X	-	-	0:52:02.197000	0:52:02.597000
+so	so	ADV	-	-	0:52:02.197000	0:52:02.597000
+.	-	-	-	-	0:52:02.197000	0:52:02.597000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:02.597000" end="0:52:04.810000">
+[Mitterhauser]N	-	-	-	-	0:52:02.597000	0:52:03.817000
+oben	-	-	-	-	0:52:02.597000	0:52:03.817000
+und	-	-	-	-	0:52:02.597000	0:52:03.817000
+_dings_	-	-	-	-	0:52:03.817000	0:52:04.810000
+(oder)	-	-	-	-	0:52:03.817000	0:52:04.810000
+so	-	-	-	-	0:52:03.817000	0:52:04.810000
+.	-	-	-	-	0:52:03.817000	0:52:04.810000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:03.817000" end="0:52:05.157000">
+mhm	mhm	PROPN	-	-	0:52:03.817000	0:52:04.810000
+mhm	mhm	PROPN	-	-	0:52:03.817000	0:52:04.810000
+mhm	mhm	PROPN	-	-	0:52:04.810000	0:52:05.157000
+.	-	-	-	-	0:52:04.810000	0:52:05.157000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:05.157000" end="0:52:07.724000">
+der	der	DET	-	-	0:52:05.157000	0:52:06.597000
+[Eder]N	Eder	PROPN	-	-	0:52:05.157000	0:52:06.597000
+natürlich	natürlich	ADV	-	-	0:52:05.157000	0:52:06.597000
+sowieso	sowieso	ADV	-	-	0:52:05.157000	0:52:06.597000
+,	-	-	-	-	0:52:05.157000	0:52:06.597000
+der	der	DET	-	-	0:52:06.597000	0:52:07.724000
+alte	alt	ADJ	-	-	0:52:06.597000	0:52:07.724000
+.	-	-	-	-	0:52:06.597000	0:52:07.724000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:06.597000" end="0:52:08.317000">
+das	der	DET	-	-	0:52:06.597000	0:52:07.724000
+wa/	-	-	-	-	0:52:06.597000	0:52:07.724000
+das	der	PRON	-	-	0:52:06.597000	0:52:07.724000
+weiß	weiß	VERB	-	-	0:52:06.597000	0:52:07.724000
+ich	ich	PRON	-	-	0:52:06.597000	0:52:07.724000
+nicht	nicht	PART	-	-	0:52:06.597000	0:52:07.724000
+,	-	-	-	-	0:52:06.597000	0:52:07.724000
+da	da	ADV	-	-	0:52:07.724000	0:52:08.317000
+war	sein	AUX	-	-	0:52:07.724000	0:52:08.317000
+ich	ich	PRON	-	-	0:52:07.724000	0:52:08.317000
+nie	nie	ADV	-	-	0:52:07.724000	0:52:08.317000
+da	da	ADV	-	-	0:52:07.724000	0:52:08.317000
+,	-	-	-	-	0:52:07.724000	0:52:08.317000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:08.317000" end="0:52:08.937000">
+ja	ja	ADV	-	-	0:52:08.317000	0:52:08.937000
+ja	ja	PART	-	-	0:52:08.317000	0:52:08.937000
+.	-	-	-	-	0:52:08.317000	0:52:08.937000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:08.317000" end="0:52:09.930000">
+*weißt*	-	-	-	-	0:52:08.317000	0:52:08.937000
+?	-	-	-	-	0:52:08.317000	0:52:08.937000
+wie	wie	ADV	-	-	0:52:08.937000	0:52:09.930000
+lange	lang	ADV	-	-	0:52:08.937000	0:52:09.930000
+war	sein	AUX	-	-	0:52:08.937000	0:52:09.930000
+das	der	PRON	-	-	0:52:08.937000	0:52:09.930000
+?	-	-	-	-	0:52:08.937000	0:52:09.930000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:09.930000" end="0:52:13.297000">
+und	und	CCONJ	-	-	0:52:09.930000	0:52:12.850000
+die	der	PRON	-	-	0:52:09.930000	0:52:12.850000
+haben	haben	AUX	-	-	0:52:09.930000	0:52:12.850000
+sie	ich	PRON	-	-	0:52:09.930000	0:52:12.850000
+ähm	ähm	PROPN	-	-	0:52:09.930000	0:52:12.850000
+von	von	ADP	-	-	0:52:09.930000	0:52:12.850000
+herausen	herausen	NOUN	-	-	0:52:09.930000	0:52:12.850000
+hinein	hinein	ADP	-	-	0:52:09.930000	0:52:12.850000
+geleitet	leiten	VERB	-	-	0:52:09.930000	0:52:12.850000
+.	-	-	-	-	0:52:09.930000	0:52:12.850000
+<pause duration="0,5s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:12.850000" end="0:52:13.297000">
+den	der	DET	-	-	0:52:12.850000	0:52:13.297000
+Strom	Strom	NOUN	-	-	0:52:12.850000	0:52:13.297000
+?	-	-	-	-	0:52:12.850000	0:52:13.297000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:13.297000" end="0:52:16.057000">
+den	der	DET	-	-	0:52:13.297000	0:52:13.877000
+Strom	Strom	NOUN	-	-	0:52:13.297000	0:52:13.877000
+.	-	-	-	-	0:52:13.297000	0:52:13.877000
+der	der	DET	-	-	0:52:13.877000	0:52:16.057000
+[Habichler]N	Habichler	NOUN	-	-	0:52:13.877000	0:52:16.057000
+,	-	-	-	-	0:52:13.877000	0:52:16.057000
+angezapft	anzapfen	VERB	-	-	0:52:13.877000	0:52:16.057000
+,	-	-	-	-	0:52:13.877000	0:52:16.057000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:13.877000" end="0:52:16.957000">
+hat	haben	AUX	-	-	0:52:13.877000	0:52:16.057000
+er	ich	PRON	-	-	0:52:13.877000	0:52:16.057000
+Kabel	Kabel	NOUN	-	-	0:52:13.877000	0:52:16.057000
+gelegt	legen	VERB	-	-	0:52:13.877000	0:52:16.057000
+der	der	DET	-	-	0:52:13.877000	0:52:16.057000
+[Habichler]N	Habichler	NOUN	-	-	0:52:13.877000	0:52:16.057000
+,	-	-	-	-	0:52:13.877000	0:52:16.057000
+[Maria]N!	-	-	-	-	0:52:13.877000	0:52:16.057000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:16.957000" end="0:52:19.097000">
+_dings_	-	-	-	-	0:52:16.957000	0:52:17.497000
+*weißt*	-	-	-	-	0:52:17.497000	0:52:19.097000
+eh	-	-	-	-	0:52:17.497000	0:52:19.097000
+,	-	-	-	-	0:52:17.497000	0:52:19.097000
+von	von	ADP	-	-	0:52:17.497000	0:52:19.097000
+der	der	DET	-	-	0:52:17.497000	0:52:19.097000
+Leitung	Leitung	NOUN	-	-	0:52:17.497000	0:52:19.097000
+hinunter	hinunter	ADJ	-	-	0:52:17.497000	0:52:19.097000
+,	-	-	-	-	0:52:17.497000	0:52:19.097000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:17.497000" end="0:52:19.510000">
+kann	-	-	-	-	0:52:17.497000	0:52:19.097000
+ich	-	-	-	-	0:52:17.497000	0:52:19.097000
+mir	-	-	-	-	0:52:17.497000	0:52:19.097000
+vorstellen	-	-	-	-	0:52:17.497000	0:52:19.097000
+,	-	-	-	-	0:52:17.497000	0:52:19.097000
+ja	ja	ADV	-	-	0:52:17.497000	0:52:19.097000
+ja	ja	ADV	-	-	0:52:19.097000	0:52:19.510000
+ja	ja	PART	-	-	0:52:19.097000	0:52:19.510000
+.	-	-	-	-	0:52:19.097000	0:52:19.510000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:19.510000" end="0:52:22.170000">
+wild	wild	ADJ	-	-	0:52:19.510000	0:52:22.170000
+und	und	CCONJ	-	-	0:52:19.510000	0:52:22.170000
+hinein	hinein	ADP	-	-	0:52:19.510000	0:52:22.170000
+,	-	-	-	-	0:52:19.510000	0:52:22.170000
+na	na	X	-	-	0:52:19.510000	0:52:22.170000
+das	der	PRON	-	-	0:52:19.510000	0:52:22.170000
+war	sein	AUX	-	-	0:52:19.510000	0:52:22.170000
+ja	ja	ADV	-	-	0:52:19.510000	0:52:22.170000
+arg	arg	ADJ	-	-	0:52:19.510000	0:52:22.170000
+!	-	-	-	-	0:52:19.510000	0:52:22.170000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:19.510000" end="0:52:27.503000">
+na	na	X	-	-	0:52:19.510000	0:52:22.170000
+!	-	-	-	-	0:52:19.510000	0:52:22.170000
+ja	ja	ADV	-	-	0:52:19.510000	0:52:22.170000
+ja	ja	ADV	-	-	0:52:19.510000	0:52:22.170000
+ja	ja	PART	-	-	0:52:19.510000	0:52:22.170000
+.	-	-	-	-	0:52:19.510000	0:52:22.170000
+ja	ja	ADV	-	-	0:52:22.170000	0:52:27.503000
+eh	eh	ADV	-	-	0:52:22.170000	0:52:27.503000
+<pause duration="0,9s"/>
+ein	einen	DET	-	-	0:52:22.170000	0:52:27.503000
+Spezialist	Spezialist	NOUN	-	-	0:52:22.170000	0:52:27.503000
+gewesen	sein	AUX	-	-	0:52:22.170000	0:52:27.503000
+da	da	ADV	-	-	0:52:22.170000	0:52:27.503000
+,	-	-	-	-	0:52:22.170000	0:52:27.503000
+der	der	DET	-	-	0:52:22.170000	0:52:27.503000
+[Habichler]N	Habichler	NOUN	-	-	0:52:22.170000	0:52:27.503000
+ja	ja	PART	-	-	0:52:22.170000	0:52:27.503000
+.	-	-	-	-	0:52:22.170000	0:52:27.503000
+<pause duration="1,9s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:27.503000" end="0:52:29.743000">
+Dorffeste	-	-	-	-	0:52:27.503000	0:52:28.303000
+ja	-	-	-	-	0:52:28.303000	0:52:29.743000
+und	-	-	-	-	0:52:28.303000	0:52:29.743000
+_dings_	-	-	-	-	0:52:28.303000	0:52:29.743000
+hat	-	-	-	-	0:52:28.303000	0:52:29.743000
+es	-	-	-	-	0:52:28.303000	0:52:29.743000
+auch	-	-	-	-	0:52:28.303000	0:52:29.743000
+gegeben	-	-	-	-	0:52:28.303000	0:52:29.743000
+,	-	-	-	-	0:52:28.303000	0:52:29.743000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:28.303000" end="0:52:29.743000">
+(jawohl)	jawohl	SCONJ	-	-	0:52:28.303000	0:52:29.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:29.743000" end="0:52:32.197000">
+d/	-	-	-	-	0:52:29.743000	0:52:32.197000
+Theatergespielt	Theatergespielt	NOUN	-	-	0:52:29.743000	0:52:32.197000
+ist	sein	AUX	-	-	0:52:29.743000	0:52:32.197000
+alleweile	alleweile	VERB	-	-	0:52:29.743000	0:52:32.197000
+geworden	werden	AUX	-	-	0:52:29.743000	0:52:32.197000
+.	-	-	-	-	0:52:29.743000	0:52:32.197000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:32.197000" end="0:52:33.537000">
+das	der	PRON	-	-	0:52:32.197000	0:52:33.537000
+weiß	weiß	VERB	-	-	0:52:32.197000	0:52:33.537000
+ich	ich	PRON	-	-	0:52:32.197000	0:52:33.537000
+eh	eh	ADV	-	-	0:52:32.197000	0:52:33.537000
+,	-	-	-	-	0:52:32.197000	0:52:33.537000
+beim	beim	ADP	-	-	0:52:32.197000	0:52:33.537000
+[Schwartz]N	Schwartz	PROPN	-	-	0:52:32.197000	0:52:33.537000
+,	-	-	-	-	0:52:32.197000	0:52:33.537000
+nicht	nicht	PART	-	-	0:52:32.197000	0:52:33.537000
+?	-	-	-	-	0:52:32.197000	0:52:33.537000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:33.537000" end="0:52:34.723000">
+beim	beim	ADP	-	-	0:52:33.537000	0:52:34.723000
+[Schwartz]N	Schwartz	PROPN	-	-	0:52:33.537000	0:52:34.723000
+Theater	Theater	NOUN	-	-	0:52:33.537000	0:52:34.723000
+gespielt	spielen	VERB	-	-	0:52:33.537000	0:52:34.723000
+,	-	-	-	-	0:52:33.537000	0:52:34.723000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:34.723000" end="0:52:35.283000">
+un/	-	-	-	-	0:52:34.723000	0:52:35.283000
+und	und	CCONJ	-	-	0:52:34.723000	0:52:35.283000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:35.283000" end="0:52:37.203000">
+gute	gut	ADJ	-	-	0:52:35.283000	0:52:37.203000
+Sachen	Sache	NOUN	-	-	0:52:35.283000	0:52:37.203000
+haben	haben	AUX	-	-	0:52:35.283000	0:52:37.203000
+sie	ich	PRON	-	-	0:52:35.283000	0:52:37.203000
+gehabt	haben	AUX	-	-	0:52:35.283000	0:52:37.203000
+auch	auch	ADV	-	-	0:52:35.283000	0:52:37.203000
+.	-	-	-	-	0:52:35.283000	0:52:37.203000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:35.283000" end="0:52:45.083000">
+mhm	mhm	PROPN	-	-	0:52:35.283000	0:52:37.203000
+mhm	mhm	PROPN	-	-	0:52:35.283000	0:52:37.203000
+ja	ja	ADV	-	-	0:52:35.283000	0:52:37.203000
+ja	ja	PART	-	-	0:52:35.283000	0:52:37.203000
+.	-	-	-	-	0:52:35.283000	0:52:37.203000
+<pause duration="1,1s"/>
+ja	ja	ADV	-	-	0:52:37.203000	0:52:40.157000
+hat	haben	AUX	-	-	0:52:37.203000	0:52:40.157000
+sich	sich	PRON	-	-	0:52:37.203000	0:52:40.157000
+viel	viel	PRON	-	-	0:52:37.203000	0:52:40.157000
+aufgehört	aufhören	VERB	-	-	0:52:37.203000	0:52:40.157000
+,	-	-	-	-	0:52:37.203000	0:52:40.157000
+gell	gell	ADJ	-	-	0:52:37.203000	0:52:40.157000
+?	-	-	-	-	0:52:37.203000	0:52:40.157000
+<pause duration="1,7s"/>
+das	der	PRON	-	-	0:52:40.157000	0:52:44.403000
+war	sein	AUX	-	-	0:52:40.157000	0:52:44.403000
+früher	früh	ADJ	-	-	0:52:40.157000	0:52:44.403000
+wahrscheinlich	wahrscheinlich	ADJ	-	-	0:52:40.157000	0:52:44.403000
+noch	noch	ADV	-	-	0:52:40.157000	0:52:44.403000
+mehr	mehr	ADV	-	-	0:52:40.157000	0:52:44.403000
+,	-	-	-	-	0:52:40.157000	0:52:44.403000
+<pause duration="0,6s"/>
+dass	dass	SCONJ	-	-	0:52:44.403000	0:52:45.083000
+zusammen	zusammen	ADV	-	-	0:52:44.403000	0:52:45.083000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:45.083000" end="0:52:45.823000">
+war	sein	AUX	-	-	0:52:45.083000	0:52:45.823000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:45.083000" end="0:52:46.677000">
+gekommen	kommen	VERB	-	-	0:52:45.083000	0:52:45.823000
+sind	sein	AUX	-	-	0:52:45.083000	0:52:45.823000
+die	der	DET	-	-	0:52:45.083000	0:52:45.823000
+Leute	Leute	NOUN	-	-	0:52:45.083000	0:52:45.823000
+,	-	-	-	-	0:52:45.083000	0:52:45.823000
+aber	aber	CCONJ	-	-	0:52:45.823000	0:52:46.677000
+heute	heute	ADV	-	-	0:52:45.823000	0:52:46.677000
+ist	sein	AUX	-	-	0:52:45.823000	0:52:46.677000
+ja	ja	ADV	-	-	0:52:45.823000	0:52:46.677000
+das	der	DET	-	-	0:52:45.823000	0:52:46.677000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:46.677000" end="0:52:48.150000">
+war	sein	AUX	-	-	0:52:46.677000	0:52:48.150000
+seltener	selten	ADJ	-	-	0:52:46.677000	0:52:48.150000
+.	-	-	-	-	0:52:46.677000	0:52:48.150000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:46.677000" end="0:52:48.683000">
+na	na	PROPN	-	-	0:52:46.677000	0:52:48.150000
+f/	-	-	-	-	0:52:46.677000	0:52:48.150000
+jetzt/	-	-	-	-	0:52:46.677000	0:52:48.150000
+.	-	-	-	-	0:52:46.677000	0:52:48.150000
+hm	hm	X	-	-	0:52:48.150000	0:52:48.683000
+?	-	-	-	-	0:52:48.150000	0:52:48.683000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:48.683000" end="0:52:50.677000">
+war	sein	AUX	-	-	0:52:48.683000	0:52:49.830000
+alles	alle	PRON	-	-	0:52:48.683000	0:52:49.830000
+seltener	selten	ADJ	-	-	0:52:48.683000	0:52:49.830000
+.	-	-	-	-	0:52:48.683000	0:52:49.830000
+(gell?)	-	-	-	-	0:52:49.830000	0:52:50.677000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:49.830000" end="0:52:54.037000">
+ja	ja	PART	-	-	0:52:49.830000	0:52:50.677000
+war	sein	AUX	-	-	0:52:49.830000	0:52:50.677000
+al/	-	-	-	-	0:52:49.830000	0:52:50.677000
+hat	haben	AUX	-	-	0:52:49.830000	0:52:50.677000
+sich	sich	PRON	-	-	0:52:49.830000	0:52:50.677000
+alles	alle	PRON	-	-	0:52:49.830000	0:52:50.677000
+im	im	ADP	-	-	0:52:50.677000	0:52:54.037000
+Ort	Ort	NOUN	-	-	0:52:50.677000	0:52:54.037000
+abgespielt	abspielen	VERB	-	-	0:52:50.677000	0:52:54.037000
+,	-	-	-	-	0:52:50.677000	0:52:54.037000
+aber	aber	CCONJ	-	-	0:52:50.677000	0:52:54.037000
+heute	heute	ADV	-	-	0:52:50.677000	0:52:54.037000
+haben	haben	AUX	-	-	0:52:50.677000	0:52:54.037000
+alle	all	PRON	-	-	0:52:50.677000	0:52:54.037000
+sind	sein	AUX	-	-	0:52:50.677000	0:52:54.037000
+viel	viel	DET	-	-	0:52:50.677000	0:52:54.037000
+mi/	-	-	-	-	0:52:50.677000	0:52:54.037000
+mobiler	mobil	ADJ	-	-	0:52:50.677000	0:52:54.037000
+,	-	-	-	-	0:52:50.677000	0:52:54.037000
+haben	haben	AUX	-	-	0:52:50.677000	0:52:54.037000
+Autos	Auto	NOUN	-	-	0:52:50.677000	0:52:54.037000
+,	-	-	-	-	0:52:50.677000	0:52:54.037000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:54.037000" end="0:52:54.990000">
+ja	-	-	-	-	0:52:54.037000	0:52:54.990000
+.	-	-	-	-	0:52:54.037000	0:52:54.990000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:54.037000" end="0:52:58.690000">
+fahren	fahren	VERB	-	-	0:52:54.037000	0:52:54.990000
+überall	überall	ADV	-	-	0:52:54.037000	0:52:54.990000
+fort	fort	ADP	-	-	0:52:54.037000	0:52:54.990000
+,	-	-	-	-	0:52:54.037000	0:52:54.990000
+die	der	PRON	-	-	0:52:54.990000	0:52:58.690000
+fahren	fahren	VERB	-	-	0:52:54.990000	0:52:58.690000
+auch	auch	ADV	-	-	0:52:54.990000	0:52:58.690000
+zum	zum	ADP	-	-	0:52:54.990000	0:52:58.690000
+Lederhosentreffen	Lederhosentreffen	NOUN	-	-	0:52:54.990000	0:52:58.690000
+hinein	hinein	ADP	-	-	0:52:54.990000	0:52:58.690000
+oder	oder	CCONJ	-	-	0:52:54.990000	0:52:58.690000
+weiß	weiß	VERB	-	-	0:52:54.990000	0:52:58.690000
+ich	ich	PRON	-	-	0:52:54.990000	0:52:58.690000
+wohin	wohin	ADV	-	-	0:52:54.990000	0:52:58.690000
+,	-	-	-	-	0:52:54.990000	0:52:58.690000
+weit	weit	ADJ	-	-	0:52:54.990000	0:52:58.690000
+auch	auch	ADV	-	-	0:52:54.990000	0:52:58.690000
+noch	noch	ADV	-	-	0:52:54.990000	0:52:58.690000
+,	-	-	-	-	0:52:54.990000	0:52:58.690000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:52:58.690000" end="0:53:00.137000">
+keinen	kein	DET	-	-	0:52:58.690000	0:53:00.137000
+Fernseher	Fernseher	NOUN	-	-	0:52:58.690000	0:53:00.137000
+gegeben	geben	VERB	-	-	0:52:58.690000	0:53:00.137000
+.	-	-	-	-	0:52:58.690000	0:53:00.137000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:52:58.690000" end="0:53:01.457000">
+weiß	weiß	VERB	-	-	0:52:58.690000	0:53:00.137000
+Gott	Gott	NOUN	-	-	0:52:58.690000	0:53:00.137000
+wohin	wohin	ADV	-	-	0:52:58.690000	0:53:00.137000
+.	-	-	-	-	0:52:58.690000	0:53:00.137000
+noch	noch	ADV	-	-	0:53:00.137000	0:53:01.457000
+keinen	kein	DET	-	-	0:53:00.137000	0:53:01.457000
+Fernseher	Fernseher	NOUN	-	-	0:53:00.137000	0:53:01.457000
+gegeben	geben	VERB	-	-	0:53:00.137000	0:53:01.457000
+(und	und	CCONJ	-	-	0:53:00.137000	0:53:01.457000
+t/)	t	ADJ	-	-	0:53:00.137000	0:53:01.457000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:01.457000" end="0:53:03.470000">
+was	-	-	-	-	0:53:01.457000	0:53:03.470000
+*glaubst*	-	-	-	-	0:53:01.457000	0:53:03.470000
+denn	-	-	-	-	0:53:01.457000	0:53:03.470000
+,	-	-	-	-	0:53:01.457000	0:53:03.470000
+das	der	DET	-	-	0:53:01.457000	0:53:03.470000
+wa/	-	-	-	-	0:53:01.457000	0:53:03.470000
+das	der	PRON	-	-	0:53:01.457000	0:53:03.470000
+ist	sein	AUX	-	-	0:53:01.457000	0:53:03.470000
+eh	eh	ADV	-	-	0:53:01.457000	0:53:03.470000
+klar	klaren	ADJ	-	-	0:53:01.457000	0:53:03.470000
+.	-	-	-	-	0:53:01.457000	0:53:03.470000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:01.457000" end="0:53:06.370000">
+hat	haben	AUX	-	-	0:53:01.457000	0:53:03.470000
+es	ich	PRON	-	-	0:53:01.457000	0:53:03.470000
+ja	ja	ADV	-	-	0:53:01.457000	0:53:03.470000
+natürlich	natürlich	ADJ	-	-	0:53:01.457000	0:53:03.470000
+,	-	-	-	-	0:53:01.457000	0:53:03.470000
+waren	sein	AUX	-	-	0:53:01.457000	0:53:03.470000
+solche	solche	DET	-	-	0:53:01.457000	0:53:03.470000
+<pause duration="0,9s"/>
+Feste	Fest	NOUN	-	-	0:53:03.470000	0:53:06.370000
+natürlich	natürlich	ADV	-	-	0:53:03.470000	0:53:06.370000
+wichtig	wichtig	ADJ	-	-	0:53:03.470000	0:53:06.370000
+,	-	-	-	-	0:53:03.470000	0:53:06.370000
+ist	sein	AUX	-	-	0:53:03.470000	0:53:06.370000
+eh	eh	ADV	-	-	0:53:03.470000	0:53:06.370000
+klar	klaren	ADJ	-	-	0:53:03.470000	0:53:06.370000
+.	-	-	-	-	0:53:03.470000	0:53:06.370000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:06.370000" end="0:53:08.130000">
+mhm	mhm	PROPN	-	-	0:53:06.370000	0:53:08.130000
+.	-	-	-	-	0:53:06.370000	0:53:08.130000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:08.130000" end="0:53:16.743000">
+gibt	geben	VERB	-	-	0:53:08.130000	0:53:13.343000
+es	ich	PRON	-	-	0:53:08.130000	0:53:13.343000
+heuer	heuer	ADV	-	-	0:53:08.130000	0:53:13.343000
+heute	heute	ADV	-	-	0:53:08.130000	0:53:13.343000
+jetzt	jetzt	ADV	-	-	0:53:08.130000	0:53:13.343000
+eigentlich	eigentlich	ADV	-	-	0:53:08.130000	0:53:13.343000
+nicht	nicht	PART	-	-	0:53:08.130000	0:53:13.343000
+mehr	mehr	ADV	-	-	0:53:08.130000	0:53:13.343000
+so	so	ADV	-	-	0:53:08.130000	0:53:13.343000
+arg	arg	ADV	-	-	0:53:08.130000	0:53:13.343000
+so	so	ADV	-	-	0:53:08.130000	0:53:13.343000
+viele	viel	PRON	-	-	0:53:08.130000	0:53:13.343000
+,	-	-	-	-	0:53:08.130000	0:53:13.343000
+gell	gell	ADJ	-	-	0:53:08.130000	0:53:13.343000
+?	-	-	-	-	0:53:08.130000	0:53:13.343000
+<pause duration="1,7s"/>
+fehlt	fehlen	VERB	-	-	0:53:13.343000	0:53:16.743000
+vielleicht	vielleicht	ADV	-	-	0:53:13.343000	0:53:16.743000
+noch	noch	ADV	-	-	0:53:13.343000	0:53:16.743000
+<pause duration="0,6s"/>
+nehmen	nehmen	VERB	-	-	0:53:13.343000	0:53:16.743000
+von	von	ADP	-	-	0:53:13.343000	0:53:16.743000
+der	der	DET	-	-	0:53:13.343000	0:53:16.743000
+Kindheit	Kindheit	NOUN	-	-	0:53:13.343000	0:53:16.743000
+erzählen	erzählen	VERB	-	-	0:53:13.343000	0:53:16.743000
+.	-	-	-	-	0:53:13.343000	0:53:16.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:16.743000" end="0:53:21.383000">
+<pause duration="2,7s"/>
+auf	auf	ADP	-	-	0:53:16.743000	0:53:21.383000
+das	der	PRON	-	-	0:53:16.743000	0:53:21.383000
+kann	können	VERB	-	-	0:53:16.743000	0:53:21.383000
+ich	ich	PRON	-	-	0:53:16.743000	0:53:21.383000
+mich	sich	PRON	-	-	0:53:16.743000	0:53:21.383000
+nicht	nicht	PART	-	-	0:53:16.743000	0:53:21.383000
+mehr	mehr	ADV	-	-	0:53:16.743000	0:53:21.383000
+erinnern	erinnern	VERB	-	-	0:53:16.743000	0:53:21.383000
+.	-	-	-	-	0:53:16.743000	0:53:21.383000
+<pause duration="0,7s"/>
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:21.383000" end="0:53:22.097000">
+*ist*	-	-	-	-	0:53:21.383000	0:53:22.097000
+schon	-	-	-	-	0:53:21.383000	0:53:22.097000
+lange	-	-	-	-	0:53:21.383000	0:53:22.097000
+aus	-	-	-	-	0:53:21.383000	0:53:22.097000
+.	-	-	-	-	0:53:21.383000	0:53:22.097000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:22.097000" end="0:53:25.723000">
+*ist*	-	-	-	-	0:53:22.097000	0:53:22.903000
+schon	-	-	-	-	0:53:22.097000	0:53:22.903000
+lange	-	-	-	-	0:53:22.903000	0:53:25.723000
+aus	-	-	-	-	0:53:22.903000	0:53:25.723000
+ja	-	-	-	-	0:53:22.903000	0:53:25.723000
+.	-	-	-	-	0:53:22.903000	0:53:25.723000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:22.903000" end="0:53:28.137000">
+eh	eh	X	-	-	0:53:22.903000	0:53:25.723000
+bei	bei	ADP	-	-	0:53:22.903000	0:53:25.723000
+mir	sich	PRON	-	-	0:53:22.903000	0:53:25.723000
+auch	auch	ADV	-	-	0:53:22.903000	0:53:25.723000
+.	-	-	-	-	0:53:22.903000	0:53:25.723000
+ja	ja	ADV	-	-	0:53:25.723000	0:53:28.137000
+die	der	DET	-	-	0:53:25.723000	0:53:28.137000
+Gaunereien	Gaunerei	NOUN	-	-	0:53:25.723000	0:53:28.137000
+,	-	-	-	-	0:53:25.723000	0:53:28.137000
+was	was	PRON	-	-	0:53:25.723000	0:53:28.137000
+wir	ich	PRON	-	-	0:53:25.723000	0:53:28.137000
+alleweile	alleweile	NOUN	-	-	0:53:25.723000	0:53:28.137000
+getrieben	getrieben	VERB	-	-	0:53:25.723000	0:53:28.137000
+haben	haben	AUX	-	-	0:53:25.723000	0:53:28.137000
+.	-	-	-	-	0:53:25.723000	0:53:28.137000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:28.137000" end="0:53:29.603000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:28.137000" end="0:53:29.603000">
+ach	ach	X	-	-	0:53:28.137000	0:53:29.603000
+ja	ja	PART	-	-	0:53:28.137000	0:53:29.603000
+.	-	-	-	-	0:53:28.137000	0:53:29.603000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:29.603000" end="0:53:35.070000">
+haben	haben	AUX	-	-	0:53:29.603000	0:53:31.377000
+wir	ich	PRON	-	-	0:53:29.603000	0:53:31.377000
+das	der	PRON	-	-	0:53:29.603000	0:53:31.377000
+auch	auch	ADV	-	-	0:53:29.603000	0:53:31.377000
+getan	tun	VERB	-	-	0:53:29.603000	0:53:31.377000
+?	-	-	-	-	0:53:29.603000	0:53:31.377000
+<pause duration="0,9s"/>
+Gaunereien	Gaunerei	NOUN	-	-	0:53:31.377000	0:53:35.070000
+nein	nein	PART	-	-	0:53:31.377000	0:53:35.070000
+hat	haben	AUX	-	-	0:53:31.377000	0:53:35.070000
+es	ich	PRON	-	-	0:53:31.377000	0:53:35.070000
+nie	nie	ADV	-	-	0:53:31.377000	0:53:35.070000
+gegeben	geben	VERB	-	-	0:53:31.377000	0:53:35.070000
+,	-	-	-	-	0:53:31.377000	0:53:35.070000
+oder	oder	CCONJ	-	-	0:53:31.377000	0:53:35.070000
+?	-	-	-	-	0:53:31.377000	0:53:35.070000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:31.377000" end="0:53:35.070000">
+nein	nein	PART	-	-	0:53:31.377000	0:53:35.070000
+nie	nie	ADV	-	-	0:53:31.377000	0:53:35.070000
+nein	nein	ADV	-	-	0:53:31.377000	0:53:35.070000
+überhaupt	überhaupt	ADV	-	-	0:53:31.377000	0:53:35.070000
+nicht	nicht	PART	-	-	0:53:31.377000	0:53:35.070000
+,	-	-	-	-	0:53:31.377000	0:53:35.070000
+gell	gell	ADJ	-	-	0:53:31.377000	0:53:35.070000
+,	-	-	-	-	0:53:31.377000	0:53:35.070000
+nein	nein	PART	-	-	0:53:31.377000	0:53:35.070000
+ja	ja	PART	-	-	0:53:31.377000	0:53:35.070000
+.	-	-	-	-	0:53:31.377000	0:53:35.070000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:35.070000" end="0:53:35.750000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:35.750000" end="0:53:41.543000">
+(wenn	wenn	SCONJ	-	-	0:53:35.750000	0:53:40.117000
+ich	ich	PRON	-	-	0:53:35.750000	0:53:40.117000
+mir	sich	PRON	-	-	0:53:35.750000	0:53:40.117000
+denke)	denken	VERB	-	-	0:53:35.750000	0:53:40.117000
+<pause duration="2,0s"/>
+also	also	ADV	-	-	0:53:35.750000	0:53:40.117000
+man	man	PRON	-	-	0:53:35.750000	0:53:40.117000
+darf	dürfen	VERB	-	-	0:53:35.750000	0:53:40.117000
+ja	ja	ADV	-	-	0:53:35.750000	0:53:40.117000
+nicht	nicht	PART	-	-	0:53:35.750000	0:53:40.117000
+alles	alle	PRON	-	-	0:53:35.750000	0:53:40.117000
+sagen	sagen	VERB	-	-	0:53:35.750000	0:53:40.117000
+,	-	-	-	-	0:53:35.750000	0:53:40.117000
+aber	aber	CCONJ	-	-	0:53:40.117000	0:53:41.543000
+ng/	-	-	-	-	0:53:40.117000	0:53:41.543000
+ist	sein	AUX	-	-	0:53:40.117000	0:53:41.543000
+eh	eh	ADV	-	-	0:53:40.117000	0:53:41.543000
+ist	sein	AUX	-	-	0:53:40.117000	0:53:41.543000
+eh	eh	ADV	-	-	0:53:40.117000	0:53:41.543000
+schon	schon	ADV	-	-	0:53:40.117000	0:53:41.543000
+verjährt	verjähren	VERB	-	-	0:53:40.117000	0:53:41.543000
+.	-	-	-	-	0:53:40.117000	0:53:41.543000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:41.543000" end="0:53:43.257000">
+ja	ja	ADV	-	-	0:53:42.697000	0:53:43.257000
+ja	ja	ADV	-	-	0:53:42.697000	0:53:43.257000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:42.697000" end="0:53:43.257000">
+wir	ich	PRON	-	-	0:53:42.697000	0:53:43.257000
+sind	sein	AUX	-	-	0:53:42.697000	0:53:43.257000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:43.257000" end="0:53:46.150000">
+weil	weil	SCONJ	-	-	0:53:43.257000	0:53:46.150000
+das	der	PRON	-	-	0:53:43.257000	0:53:46.150000
+das	der	PRON	-	-	0:53:43.257000	0:53:46.150000
+zeichnen	zeichnen	VERB	-	-	0:53:43.257000	0:53:46.150000
+sie	ich	PRON	-	-	0:53:43.257000	0:53:46.150000
+alles	alle	PRON	-	-	0:53:43.257000	0:53:46.150000
+auf	auf	ADP	-	-	0:53:43.257000	0:53:46.150000
+,	-	-	-	-	0:53:43.257000	0:53:46.150000
+gell	gell	ADJ	-	-	0:53:43.257000	0:53:46.150000
+?	-	-	-	-	0:53:43.257000	0:53:46.150000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:43.257000" end="0:53:48.623000">
+wir	ich	PRON	-	-	0:53:43.257000	0:53:46.150000
+sind	sein	AUX	-	-	0:53:43.257000	0:53:46.150000
+wir	ich	PRON	-	-	0:53:43.257000	0:53:46.150000
+waren	sein	AUX	-	-	0:53:43.257000	0:53:46.150000
+eine	einen	DET	-	-	0:53:43.257000	0:53:46.150000
+Gruppe	Gruppe	NOUN	-	-	0:53:43.257000	0:53:46.150000
+in	in	ADP	-	-	0:53:46.150000	0:53:48.150000
+in	in	ADP	-	-	0:53:46.150000	0:53:48.150000
+[Molln]O	Molln	PROPN	-	-	0:53:46.150000	0:53:48.150000
+unten	unten	ADV	-	-	0:53:46.150000	0:53:48.150000
+,	-	-	-	-	0:53:46.150000	0:53:48.150000
+w/	-	-	-	-	0:53:46.150000	0:53:48.150000
+ich	ich	PRON	-	-	0:53:46.150000	0:53:48.150000
+bin	sein	AUX	-	-	0:53:46.150000	0:53:48.150000
+in	in	ADP	-	-	0:53:46.150000	0:53:48.150000
+[Molln]O	Molln	PROPN	-	-	0:53:46.150000	0:53:48.150000
+aufgewachsen	aufwachsen	VERB	-	-	0:53:46.150000	0:53:48.150000
+,	-	-	-	-	0:53:46.150000	0:53:48.150000
+das	-	-	-	-	0:53:48.150000	0:53:48.623000
+*weißt*	-	-	-	-	0:53:48.150000	0:53:48.623000
+eh	-	-	-	-	0:53:48.150000	0:53:48.623000
+,	-	-	-	-	0:53:48.150000	0:53:48.623000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:48.623000" end="0:53:49.143000">
+ja	ja	PART	-	-	0:53:48.623000	0:53:49.143000
+.	-	-	-	-	0:53:48.623000	0:53:49.143000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:48.623000" end="0:53:57.097000">
+nicht	nicht	PART	-	-	0:53:48.623000	0:53:49.143000
+?	-	-	-	-	0:53:48.623000	0:53:49.143000
+und	und	CCONJ	-	-	0:53:49.143000	0:53:52.137000
+da	da	ADV	-	-	0:53:49.143000	0:53:52.137000
+s/	-	-	-	-	0:53:49.143000	0:53:52.137000
+w/	-	-	-	-	0:53:49.143000	0:53:52.137000
+sind	sein	AUX	-	-	0:53:49.143000	0:53:52.137000
+wir	ich	PRON	-	-	0:53:49.143000	0:53:52.137000
+noch	noch	ADV	-	-	0:53:49.143000	0:53:52.137000
+in	in	ADP	-	-	0:53:49.143000	0:53:52.137000
+die	der	DET	-	-	0:53:49.143000	0:53:52.137000
+Schule	Schule	NOUN	-	-	0:53:49.143000	0:53:52.137000
+gegangen	gehen	VERB	-	-	0:53:49.143000	0:53:52.137000
+,	-	-	-	-	0:53:49.143000	0:53:52.137000
+sind	sein	AUX	-	-	0:53:52.137000	0:53:53.677000
+wir	ich	PRON	-	-	0:53:52.137000	0:53:53.677000
+fischen	fischen	ADJ	-	-	0:53:52.137000	0:53:53.677000
+gegangen	gehen	NOUN	-	-	0:53:52.137000	0:53:53.677000
+alleweile	alleweile	VERB	-	-	0:53:52.137000	0:53:53.677000
+,	-	-	-	-	0:53:52.137000	0:53:53.677000
+in	in	ADP	-	-	0:53:53.677000	0:53:57.097000
+der	der	DET	-	-	0:53:53.677000	0:53:57.097000
+[Steyrling]S	Steyrling	NOUN	-	-	0:53:53.677000	0:53:57.097000
+haben	haben	AUX	-	-	0:53:53.677000	0:53:57.097000
+wir	ich	PRON	-	-	0:53:53.677000	0:53:57.097000
+gefischt	fischen	VERB	-	-	0:53:53.677000	0:53:57.097000
+da	da	ADP	-	-	0:53:53.677000	0:53:57.097000
+.	-	-	-	-	0:53:53.677000	0:53:57.097000
+<pause duration="2,0s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:57.097000" end="0:53:58.743000">
+in	in	ADP	-	-	0:53:57.097000	0:53:58.743000
+der	der	DET	-	-	0:53:57.097000	0:53:58.743000
+[Krumme	Krumme	NOUN	-	-	0:53:57.097000	0:53:58.743000
+Steyrling]S	Steyrling	PROPN	-	-	0:53:57.097000	0:53:58.743000
+?	-	-	-	-	0:53:57.097000	0:53:58.743000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:57.097000" end="0:53:58.743000">
+und	und	CCONJ	-	-	0:53:57.097000	0:53:58.743000
+da	da	ADV	-	-	0:53:57.097000	0:53:58.743000
+so	so	ADV	-	-	0:53:57.097000	0:53:58.743000
+viel/	-	-	-	-	0:53:57.097000	0:53:58.743000
+.	-	-	-	-	0:53:57.097000	0:53:58.743000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:53:58.743000" end="0:54:01.950000">
+[Krumme	Krumme	ADJ	-	-	0:53:58.743000	0:54:01.950000
+St/]S	St	NOUN	-	-	0:53:58.743000	0:54:01.950000
+,	-	-	-	-	0:53:58.743000	0:54:01.950000
+nicht	nicht	PART	-	-	0:53:58.743000	0:54:01.950000
+,	-	-	-	-	0:53:58.743000	0:54:01.950000
+ja	ja	ADV	-	-	0:53:58.743000	0:54:01.950000
+ja	ja	PART	-	-	0:53:58.743000	0:54:01.950000
+.	-	-	-	-	0:53:58.743000	0:54:01.950000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:53:58.743000" end="0:54:07.330000">
+[Krumm	Krumm	ADJ	-	-	0:53:58.743000	0:54:01.950000
+Krumme	Krumme	PROPN	-	-	0:53:58.743000	0:54:01.950000
+Steyrling]S	Steyrling	PROPN	-	-	0:53:58.743000	0:54:01.950000
+ja	ja	ADV	-	-	0:53:58.743000	0:54:01.950000
+das	der	PRON	-	-	0:53:58.743000	0:54:01.950000
+wie/	-	-	-	-	0:53:58.743000	0:54:01.950000
+ja	ja	ADV	-	-	0:53:58.743000	0:54:01.950000
+nicht	nicht	PART	-	-	0:53:58.743000	0:54:01.950000
+da	da	ADV	-	-	0:53:58.743000	0:54:01.950000
+herinnen	herinnen	VERB	-	-	0:53:58.743000	0:54:01.950000
+.	-	-	-	-	0:53:58.743000	0:54:01.950000
+und	und	CCONJ	-	-	0:54:01.950000	0:54:07.330000
+<pause duration="0,8s"/>
+da	da	ADV	-	-	0:54:01.950000	0:54:07.330000
+war	sein	AUX	-	-	0:54:01.950000	0:54:07.330000
+der	der	DET	-	-	0:54:01.950000	0:54:07.330000
+v/	-	-	-	-	0:54:01.950000	0:54:07.330000
+vom	vom	ADP	-	-	0:54:01.950000	0:54:07.330000
+[Reinisch]N	Reinisch	NOUN	-	-	0:54:01.950000	0:54:07.330000
+,	-	-	-	-	0:54:01.950000	0:54:07.330000
+<pause duration="0,6s"/>
+das	der	PRON	-	-	0:54:01.950000	0:54:07.330000
+ist	sein	AUX	-	-	0:54:01.950000	0:54:07.330000
+der	der	DET	-	-	0:54:01.950000	0:54:07.330000
+jetzige	jetzige	ADJ	-	-	0:54:01.950000	0:54:07.330000
+Bürgermeister	Bürgermeister	NOUN	-	-	0:54:01.950000	0:54:07.330000
+,	-	-	-	-	0:54:01.950000	0:54:07.330000
+<pause duration="0,8s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:07.330000" end="0:54:08.477000">
+ja	ja	PART	-	-	0:54:07.330000	0:54:08.477000
+.	-	-	-	-	0:54:07.330000	0:54:08.477000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:07.330000" end="0:54:16.723000">
+das	der	DET	-	-	0:54:07.330000	0:54:08.477000
+das	der	DET	-	-	0:54:07.330000	0:54:08.477000
+müsste	müsste	ADJ	-	-	0:54:07.330000	0:54:08.477000
+ähm	ähm	NOUN	-	-	0:54:08.477000	0:54:12.457000
+der	der	DET	-	-	0:54:08.477000	0:54:12.457000
+[Reinisch	Reinisch	NOUN	-	-	0:54:08.477000	0:54:12.457000
+Hans]N	Hans	PROPN	-	-	0:54:08.477000	0:54:12.457000
+das	der	DET	-	-	0:54:08.477000	0:54:12.457000
+is/	-	-	-	-	0:54:08.477000	0:54:12.457000
+muss	muss	VERB	-	-	0:54:08.477000	0:54:12.457000
+der	der	DET	-	-	0:54:08.477000	0:54:12.457000
+Vater	Vater	NOUN	-	-	0:54:08.477000	0:54:12.457000
+sein	mein	DET	-	-	0:54:08.477000	0:54:12.457000
+vom	vom	ADP	-	-	0:54:08.477000	0:54:12.457000
+jetzigen	jetzig	ADJ	-	-	0:54:08.477000	0:54:12.457000
+Bürgermeister	Bürgermeister	NOUN	-	-	0:54:08.477000	0:54:12.457000
+.	-	-	-	-	0:54:08.477000	0:54:12.457000
+das	der	PRON	-	-	0:54:12.457000	0:54:13.403000
+weiß	weiß	VERB	-	-	0:54:12.457000	0:54:13.403000
+ich	ich	PRON	-	-	0:54:12.457000	0:54:13.403000
+nicht	nicht	PART	-	-	0:54:12.457000	0:54:13.403000
+genau	genau	ADJ	-	-	0:54:12.457000	0:54:13.403000
+,	-	-	-	-	0:54:12.457000	0:54:13.403000
+aber	aber	CCONJ	-	-	0:54:13.403000	0:54:16.197000
+jedenfa/	-	-	-	-	0:54:13.403000	0:54:16.197000
+oder	oder	CCONJ	-	-	0:54:13.403000	0:54:16.197000
+irgendwie	irgendwie	ADV	-	-	0:54:13.403000	0:54:16.197000
+verwandt	verwenden	ADJ	-	-	0:54:13.403000	0:54:16.197000
+,	-	-	-	-	0:54:13.403000	0:54:16.197000
+nicht	nicht	PART	-	-	0:54:13.403000	0:54:16.197000
+,	-	-	-	-	0:54:13.403000	0:54:16.197000
+<pause duration="0,9s"/>
+und	und	CCONJ	-	-	0:54:16.197000	0:54:16.723000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:16.723000" end="0:54:23.243000">
+ja	ja	ADV	-	-	0:54:16.723000	0:54:20.050000
+aber	aber	ADV	-	-	0:54:16.723000	0:54:20.050000
+der	der	DET	-	-	0:54:16.723000	0:54:20.050000
+[Reinisch]N	Reinisch	NOUN	-	-	0:54:16.723000	0:54:20.050000
+ist	sein	AUX	-	-	0:54:16.723000	0:54:20.050000
+ja	ja	ADV	-	-	0:54:16.723000	0:54:20.050000
+der	der	PRON	-	-	0:54:16.723000	0:54:20.050000
+der	der	DET	-	-	0:54:16.723000	0:54:20.050000
+Bürgermeister	Bürgermeister	NOUN	-	-	0:54:16.723000	0:54:20.050000
+,	-	-	-	-	0:54:16.723000	0:54:20.050000
+der	der	PRON	-	-	0:54:20.050000	0:54:21.130000
+ist	sein	AUX	-	-	0:54:20.050000	0:54:21.130000
+ja	ja	ADV	-	-	0:54:20.050000	0:54:21.130000
+noch	noch	ADV	-	-	0:54:20.050000	0:54:21.130000
+jünger	jung	ADJ	-	-	0:54:20.050000	0:54:21.130000
+ein	einen	DET	-	-	0:54:20.050000	0:54:21.130000
+wenig	wenig	PRON	-	-	0:54:20.050000	0:54:21.130000
+.	-	-	-	-	0:54:20.050000	0:54:21.130000
+(der	der	PRON	-	-	0:54:21.130000	0:54:23.243000
+ist	sein	AUX	-	-	0:54:21.130000	0:54:23.243000
+ja)	ja	ADV	-	-	0:54:21.130000	0:54:23.243000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:21.130000" end="0:54:23.243000">
+ja	ja	ADV	-	-	0:54:21.130000	0:54:23.243000
+das	der	PRON	-	-	0:54:21.130000	0:54:23.243000
+d/	-	-	-	-	0:54:21.130000	0:54:23.243000
+das	der	PRON	-	-	0:54:21.130000	0:54:23.243000
+wird	werden	AUX	-	-	0:54:21.130000	0:54:23.243000
+der	der	DET	-	-	0:54:21.130000	0:54:23.243000
+[Hans]N	Hans	NOUN	-	-	0:54:21.130000	0:54:23.243000
+wird	werden	AUX	-	-	0:54:21.130000	0:54:23.243000
+sein	mein	DET	-	-	0:54:21.130000	0:54:23.243000
+Vater	Vater	NOUN	-	-	0:54:21.130000	0:54:23.243000
+sein	mein	AUX	-	-	0:54:21.130000	0:54:23.243000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:23.243000" end="0:54:24.228000">
+ja	ja	ADV	-	-	0:54:23.243000	0:54:23.644000
+ja	ja	ADV	-	-	0:54:23.243000	0:54:23.644000
+ja	ja	PART	-	-	0:54:23.644000	0:54:24.228000
+.	-	-	-	-	0:54:23.644000	0:54:24.228000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:23.644000" end="0:54:34.313000">
+und	und	CCONJ	-	-	0:54:23.644000	0:54:24.228000
+der	der	PRON	-	-	0:54:23.644000	0:54:24.228000
+war	sein	AUX	-	-	0:54:23.644000	0:54:24.228000
+da	da	ADV	-	-	0:54:23.644000	0:54:24.228000
+auch	auch	ADV	-	-	0:54:23.644000	0:54:24.228000
+dabei	dabei	ADV	-	-	0:54:24.228000	0:54:25.059000
+bei	bei	ADP	-	-	0:54:24.228000	0:54:25.059000
+unserer	mein	DET	-	-	0:54:24.228000	0:54:25.059000
+Gruppe	Gruppe	NOUN	-	-	0:54:24.228000	0:54:25.059000
+,	-	-	-	-	0:54:24.228000	0:54:25.059000
+da	-	-	-	-	0:54:25.059000	0:54:30.598000
+haben	-	-	-	-	0:54:25.059000	0:54:30.598000
+wir	-	-	-	-	0:54:25.059000	0:54:30.598000
+ähm	-	-	-	-	0:54:25.059000	0:54:30.598000
+vom	-	-	-	-	0:54:25.059000	0:54:30.598000
+Militär	-	-	-	-	0:54:25.059000	0:54:30.598000
+(war	-	-	-	-	0:54:25.059000	0:54:30.598000
+da	-	-	-	-	0:54:25.059000	0:54:30.598000
+noch	-	-	-	-	0:54:25.059000	0:54:30.598000
+so	-	-	-	-	0:54:25.059000	0:54:30.598000
+viel)	-	-	-	-	0:54:25.059000	0:54:30.598000
+*weißt*	-	-	-	-	0:54:25.059000	0:54:30.598000
+eh	-	-	-	-	0:54:25.059000	0:54:30.598000
+,	-	-	-	-	0:54:25.059000	0:54:30.598000
+die	der	DET	-	-	0:54:25.059000	0:54:30.598000
+Munition	Munition	NOUN	-	-	0:54:25.059000	0:54:30.598000
+noch	noch	ADV	-	-	0:54:25.059000	0:54:30.598000
+und	und	CCONJ	-	-	0:54:30.598000	0:54:34.313000
+da	da	ADV	-	-	0:54:30.598000	0:54:34.313000
+haben	haben	AUX	-	-	0:54:30.598000	0:54:34.313000
+wir	ich	PRON	-	-	0:54:30.598000	0:54:34.313000
+die	der	PRON	-	-	0:54:30.598000	0:54:34.313000
+Mo/	-	-	-	-	0:54:30.598000	0:54:34.313000
+die	der	DET	-	-	0:54:30.598000	0:54:34.313000
+die	der	DET	-	-	0:54:30.598000	0:54:34.313000
+ganzen	ganz	ADJ	-	-	0:54:30.598000	0:54:34.313000
+Patronen	Patrone	NOUN	-	-	0:54:30.598000	0:54:34.313000
+aufgemacht	aufmachen	VERB	-	-	0:54:30.598000	0:54:34.313000
+,	-	-	-	-	0:54:30.598000	0:54:34.313000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:34.313000" end="0:54:35.182000">
+mhm	mhm	PROPN	-	-	0:54:34.313000	0:54:35.182000
+.	-	-	-	-	0:54:34.313000	0:54:35.182000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:34.313000" end="0:54:41.136000">
+die	der	DET	-	-	0:54:34.313000	0:54:35.182000
+g/	-	-	-	-	0:54:34.313000	0:54:35.182000
+Spitze	spitzen	NOUN	-	-	0:54:34.313000	0:54:35.182000
+,	-	-	-	-	0:54:34.313000	0:54:35.182000
+die	der	DET	-	-	0:54:35.182000	0:54:37.182000
+Kugeln	Kugel	NOUN	-	-	0:54:35.182000	0:54:37.182000
+hinaus	hinaus	ADP	-	-	0:54:35.182000	0:54:37.182000
+,	-	-	-	-	0:54:35.182000	0:54:37.182000
+haben	haben	AUX	-	-	0:54:35.182000	0:54:37.182000
+das	der	DET	-	-	0:54:35.182000	0:54:37.182000
+Pulver	Pulver	NOUN	-	-	0:54:35.182000	0:54:37.182000
+gesammelt	sammeln	VERB	-	-	0:54:35.182000	0:54:37.182000
+und	und	CCONJ	-	-	0:54:37.182000	0:54:41.136000
+dann	dann	ADV	-	-	0:54:37.182000	0:54:41.136000
+haben	haben	AUX	-	-	0:54:37.182000	0:54:41.136000
+wir	ich	PRON	-	-	0:54:37.182000	0:54:41.136000
+und	und	CCONJ	-	-	0:54:37.182000	0:54:41.136000
+kleine	kleine	ADJ	-	-	0:54:37.182000	0:54:41.136000
+ähm	ähm	NOUN	-	-	0:54:37.182000	0:54:41.136000
+so	so	ADV	-	-	0:54:37.182000	0:54:41.136000
+kleine	kleine	ADJ	-	-	0:54:37.182000	0:54:41.136000
+Bomben	Bombe	NOUN	-	-	0:54:37.182000	0:54:41.136000
+gemacht	machen	VERB	-	-	0:54:37.182000	0:54:41.136000
+mit	mit	ADP	-	-	0:54:37.182000	0:54:41.136000
+Wasser(muffen)	Wassermuffen	NOUN	-	-	0:54:37.182000	0:54:41.136000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:41.136000" end="0:54:42.021000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:42.021000" end="0:54:56.644000">
+zusammengeschraubt	zusammenschrauben	VERB	-	-	0:54:42.021000	0:54:43.452000
+,	-	-	-	-	0:54:42.021000	0:54:43.452000
+*weißt*	-	-	-	-	0:54:42.021000	0:54:43.452000
+eh	-	-	-	-	0:54:42.021000	0:54:43.452000
+,	-	-	-	-	0:54:42.021000	0:54:43.452000
+einen	ein	DET	-	-	0:54:43.452000	0:54:47.159000
+einen	ein	DET	-	-	0:54:43.452000	0:54:47.159000
+so	so	ADV	-	-	0:54:43.452000	0:54:47.159000
+einen	ein	DET	-	-	0:54:43.452000	0:54:47.159000
+Elektrozünder	Elektrozünder	NOUN	-	-	0:54:43.452000	0:54:47.159000
+hinein	hinein	ADP	-	-	0:54:43.452000	0:54:47.159000
+und	und	CCONJ	-	-	0:54:43.452000	0:54:47.159000
+mit	mit	ADP	-	-	0:54:43.452000	0:54:47.159000
+Wachs	Wachs	PROPN	-	-	0:54:43.452000	0:54:47.159000
+vergossen	vergießen	VERB	-	-	0:54:43.452000	0:54:47.159000
+und	und	CCONJ	-	-	0:54:47.159000	0:54:51.205000
+beim	beim	ADP	-	-	0:54:47.159000	0:54:51.205000
+Fischen	Fisch	NOUN	-	-	0:54:47.159000	0:54:51.205000
+dann	dann	ADV	-	-	0:54:47.159000	0:54:51.205000
+haben	haben	AUX	-	-	0:54:47.159000	0:54:51.205000
+wir	ich	PRON	-	-	0:54:47.159000	0:54:51.205000
+irgendwo	irgendwo	ADV	-	-	0:54:47.159000	0:54:51.205000
+,	-	-	-	-	0:54:47.159000	0:54:51.205000
+wo	wo	ADV	-	-	0:54:47.159000	0:54:51.205000
+so	so	ADV	-	-	0:54:47.159000	0:54:51.205000
+die	der	DET	-	-	0:54:47.159000	0:54:51.205000
+Fische	Fisch	NOUN	-	-	0:54:47.159000	0:54:51.205000
+gestanden	stehen	VERB	-	-	0:54:47.159000	0:54:51.205000
+sind	sein	AUX	-	-	0:54:47.159000	0:54:51.205000
+in	in	ADP	-	-	0:54:47.159000	0:54:51.205000
+einem	einer	DET	-	-	0:54:47.159000	0:54:51.205000
+großen	groß	ADJ	-	-	0:54:47.159000	0:54:51.205000
+(Tümpel)	Tümpel	NOUN	-	-	0:54:47.159000	0:54:51.205000
+,	-	-	-	-	0:54:47.159000	0:54:51.205000
+haben	haben	AUX	-	-	0:54:51.205000	0:54:52.552000
+wir	ich	PRON	-	-	0:54:51.205000	0:54:52.552000
+das	der	PRON	-	-	0:54:51.205000	0:54:52.552000
+hineingetaucht	hineingetaucht	VERB	-	-	0:54:51.205000	0:54:52.552000
+,	-	-	-	-	0:54:51.205000	0:54:52.552000
+nicht	nicht	PART	-	-	0:54:52.552000	0:54:54.459000
+,	-	-	-	-	0:54:52.552000	0:54:54.459000
+und	und	CCONJ	-	-	0:54:52.552000	0:54:54.459000
+hineingelegt	hineingelegt	VERB	-	-	0:54:52.552000	0:54:54.459000
+,	-	-	-	-	0:54:52.552000	0:54:54.459000
+dann	dann	ADV	-	-	0:54:52.552000	0:54:54.459000
+haben	haben	AUX	-	-	0:54:52.552000	0:54:54.459000
+wir	ich	PRON	-	-	0:54:52.552000	0:54:54.459000
+die	der	DET	-	-	0:54:52.552000	0:54:54.459000
+Fische	Fisch	NOUN	-	-	0:54:52.552000	0:54:54.459000
+hineingejagt	hineingejagt	VERB	-	-	0:54:52.552000	0:54:54.459000
+und	und	CCONJ	-	-	0:54:54.459000	0:54:56.644000
+haben	haben	AUX	-	-	0:54:54.459000	0:54:56.644000
+das	der	PRON	-	-	0:54:54.459000	0:54:56.644000
+gezündet	zünden	VERB	-	-	0:54:54.459000	0:54:56.644000
+.	-	-	-	-	0:54:54.459000	0:54:56.644000
+<pause duration="1,2s"/>
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:56.644000" end="0:54:57.990000">
+das	der	PRON	-	-	0:54:56.644000	0:54:57.990000
+war	sein	AUX	-	-	0:54:56.644000	0:54:57.990000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:54:56.644000" end="0:54:58.790000">
+dann	dann	ADV	-	-	0:54:56.644000	0:54:57.990000
+sind	sein	AUX	-	-	0:54:56.644000	0:54:57.990000
+die	der	DET	-	-	0:54:56.644000	0:54:57.990000
+Fische	Fisch	NOUN	-	-	0:54:56.644000	0:54:57.990000
+heraus	heraus	ADP	-	-	0:54:56.644000	0:54:57.990000
+und/	-	-	-	-	0:54:56.644000	0:54:57.990000
+.	-	-	-	-	0:54:56.644000	0:54:57.990000
+na	-	-	-	-	0:54:57.990000	0:54:58.790000
+*ist*	-	-	-	-	0:54:57.990000	0:54:58.790000
+eh	-	-	-	-	0:54:57.990000	0:54:58.790000
+klar	-	-	-	-	0:54:57.990000	0:54:58.790000
+.	-	-	-	-	0:54:57.990000	0:54:58.790000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:54:58.790000" end="0:55:02.405000">
+(ja	ja	ADV	-	-	0:54:58.790000	0:55:00.513000
+das	der	PRON	-	-	0:54:58.790000	0:55:00.513000
+ist	sein	AUX	-	-	0:54:58.790000	0:55:00.513000
+eh)	eh	ADV	-	-	0:54:58.790000	0:55:00.513000
+die	der	PRON	-	-	0:54:58.790000	0:55:00.513000
+hat	haben	AUX	-	-	0:54:58.790000	0:55:00.513000
+es	ich	PRON	-	-	0:54:58.790000	0:55:00.513000
+umgedreht	umdrehen	VERB	-	-	0:54:58.790000	0:55:00.513000
+,	-	-	-	-	0:54:58.790000	0:55:00.513000
+gell	gell	ADJ	-	-	0:54:58.790000	0:55:00.513000
+?	-	-	-	-	0:54:58.790000	0:55:00.513000
+*ist*	-	-	-	-	0:55:00.513000	0:55:02.405000
+eh	-	-	-	-	0:55:00.513000	0:55:02.405000
+klar	-	-	-	-	0:55:00.513000	0:55:02.405000
+ja	-	-	-	-	0:55:00.513000	0:55:02.405000
+ja	-	-	-	-	0:55:00.513000	0:55:02.405000
+.	-	-	-	-	0:55:00.513000	0:55:02.405000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:00.513000" end="0:55:02.405000">
+mit	mit	ADP	-	-	0:55:00.513000	0:55:02.405000
+dem	der	DET	-	-	0:55:00.513000	0:55:02.405000
+Bauch	Bauch	NOUN	-	-	0:55:00.513000	0:55:02.405000
+oben	oben	ADV	-	-	0:55:00.513000	0:55:02.405000
+sind	sein	AUX	-	-	0:55:00.513000	0:55:02.405000
+sie	ich	PRON	-	-	0:55:00.513000	0:55:02.405000
+heraus	heraus	ADV	-	-	0:55:00.513000	0:55:02.405000
+gekommen	kommen	VERB	-	-	0:55:00.513000	0:55:02.405000
+.	-	-	-	-	0:55:00.513000	0:55:02.405000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:02.405000" end="0:55:06.713000">
+ja	ja	ADV	-	-	0:55:02.405000	0:55:02.875000
+ja	ja	ADV	-	-	0:55:02.405000	0:55:02.875000
+na	na	X	-	-	0:55:02.875000	0:55:06.713000
+ein	einen	DET	-	-	0:55:02.875000	0:55:06.713000
+Wahnsinn	Wahnsinn	NOUN	-	-	0:55:02.875000	0:55:06.713000
+,	-	-	-	-	0:55:02.875000	0:55:06.713000
+gell	gell	ADJ	-	-	0:55:02.875000	0:55:06.713000
+?	-	-	-	-	0:55:02.875000	0:55:06.713000
+ja	ja	PART	-	-	0:55:02.875000	0:55:06.713000
+.	-	-	-	-	0:55:02.875000	0:55:06.713000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:02.875000" end="0:55:08.805000">
+na	na	X	-	-	0:55:02.875000	0:55:06.713000
+ein	einen	DET	-	-	0:55:02.875000	0:55:06.713000
+wahnsi/	-	-	-	-	0:55:02.875000	0:55:06.713000
+wenn	wenn	SCONJ	-	-	0:55:02.875000	0:55:06.713000
+s/	-	-	-	-	0:55:02.875000	0:55:06.713000
+wenn	wenn	SCONJ	-	-	0:55:02.875000	0:55:06.713000
+ich	ich	PRON	-	-	0:55:02.875000	0:55:06.713000
+mir	sich	PRON	-	-	0:55:02.875000	0:55:06.713000
+das	der	DET	-	-	0:55:02.875000	0:55:06.713000
+vorstelle	vorstellen	ADJ	-	-	0:55:02.875000	0:55:06.713000
+,	-	-	-	-	0:55:02.875000	0:55:06.713000
+dass	dass	SCONJ	-	-	0:55:02.875000	0:55:06.713000
+dass	dass	SCONJ	-	-	0:55:02.875000	0:55:06.713000
+dass	dass	SCONJ	-	-	0:55:02.875000	0:55:06.713000
+unsere	mein	DET	-	-	0:55:06.713000	0:55:08.805000
+Kinder	Kind	NOUN	-	-	0:55:06.713000	0:55:08.805000
+das	der	PRON	-	-	0:55:06.713000	0:55:08.805000
+so	so	ADV	-	-	0:55:06.713000	0:55:08.805000
+machten	machen	VERB	-	-	0:55:06.713000	0:55:08.805000
+ah	ah	ADJ	-	-	0:55:06.713000	0:55:08.805000
+!	-	-	-	-	0:55:06.713000	0:55:08.805000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:08.805000" end="0:55:10.498000">
+nein	nein	PART	-	-	0:55:08.805000	0:55:10.498000
+das	der	PRON	-	-	0:55:08.805000	0:55:10.498000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:08.805000" end="0:55:10.498000">
+nein	nein	PART	-	-	0:55:08.805000	0:55:10.498000
+ähm	ähm	PROPN	-	-	0:55:08.805000	0:55:10.498000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:10.498000" end="0:55:11.152000">
+die	der	PRON	-	-	0:55:10.498000	0:55:11.152000
+sind	sein	AUX	-	-	0:55:10.498000	0:55:11.152000
+ja	ja	ADV	-	-	0:55:10.498000	0:55:11.152000
+jetzt	jetzt	ADV	-	-	0:55:10.498000	0:55:11.152000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:10.498000" end="0:55:11.152000">
+also/	-	-	-	-	0:55:10.498000	0:55:11.152000
+.	-	-	-	-	0:55:10.498000	0:55:11.152000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:11.152000" end="0:55:13.667000">
+arm	arm	ADJ	-	-	0:55:11.152000	0:55:12.128000
+schon	schon	ADV	-	-	0:55:11.152000	0:55:12.128000
+,	-	-	-	-	0:55:11.152000	0:55:12.128000
+*musst*	-	-	-	-	0:55:11.152000	0:55:12.128000
+sagen	-	-	-	-	0:55:11.152000	0:55:12.128000
+,	-	-	-	-	0:55:11.152000	0:55:12.128000
+die	der	DET	-	-	0:55:11.152000	0:55:12.128000
+Kinder	Kind	NOUN	-	-	0:55:12.128000	0:55:13.667000
+jetzt	jetzt	ADV	-	-	0:55:12.128000	0:55:13.667000
+.	-	-	-	-	0:55:12.128000	0:55:13.667000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:12.128000" end="0:55:15.113000">
+die	der	PRON	-	-	0:55:12.128000	0:55:13.667000
+dürfen	dürfen	VERB	-	-	0:55:12.128000	0:55:13.667000
+eh	eh	ADV	-	-	0:55:12.128000	0:55:13.667000
+nichts	nichts	PRON	-	-	0:55:12.128000	0:55:13.667000
+mehr	mehr	ADV	-	-	0:55:12.128000	0:55:13.667000
+tun	tun	VERB	-	-	0:55:12.128000	0:55:13.667000
+,	-	-	-	-	0:55:12.128000	0:55:13.667000
+nicht	nicht	PART	-	-	0:55:12.128000	0:55:13.667000
+?	-	-	-	-	0:55:12.128000	0:55:13.667000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:15.113000" end="0:55:16.059000">
+oh	oh	X	-	-	0:55:15.113000	0:55:16.059000
+!	-	-	-	-	0:55:15.113000	0:55:16.059000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:16.059000" end="0:55:18.721000">
+Erlösung	Erlösung	NOUN	-	-	0:55:16.059000	0:55:18.721000
+!	-	-	-	-	0:55:16.059000	0:55:18.721000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:16.059000" end="0:55:18.721000">
+[Anja]N	Anja	PROPN	-	-	0:55:16.059000	0:55:18.721000
+bravo	bravo	PROPN	-	-	0:55:16.059000	0:55:18.721000
+ist	sein	AUX	-	-	0:55:16.059000	0:55:18.721000
+da	da	ADV	-	-	0:55:16.059000	0:55:18.721000
+,	-	-	-	-	0:55:16.059000	0:55:18.721000
+sehr	sehr	ADV	-	-	0:55:16.059000	0:55:18.721000
+gut	gut	ADJ	-	-	0:55:16.059000	0:55:18.721000
+!	-	-	-	-	0:55:16.059000	0:55:18.721000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:16.059000" end="0:55:18.721000">
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:18.721000" end="0:55:22.421000">
+so	so	ADV	-	-	0:55:18.721000	0:55:19.167000
+!	-	-	-	-	0:55:18.721000	0:55:19.167000
+ja	ja	ADV	-	-	0:55:19.167000	0:55:22.421000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:19.167000" end="0:55:22.421000">
+nein	nein	PART	#Anrede_Form #Anrede_Name #Appo #Appo- #Begrüßung #Dimin #Dimin- #Exprkomp #GrammForm #Gruß #GrußFunk #Lautung #Name- #OrgFunk #Pro- #Redupl #Zeitgeb #attrAdj #attrAdj- #exprkomp- #kurzF #kurzF- #redupl- #sonstForm #sonstForm- #sonstFunkt #stdL- #zeitgeb-	-	0:55:19.167000	0:55:22.421000
+keine	kein	DET	#Anrede_Form #Anrede_Name #Appo #Appo- #Begrüßung #Dimin #Dimin- #Exprkomp #GrammForm #Gruß #GrußFunk #Lautung #Name- #OrgFunk #Pro- #Redupl #Zeitgeb #attrAdj #attrAdj- #exprkomp- #kurzF #kurzF- #redupl- #sonstForm #sonstForm- #sonstFunkt #stdL- #zeitgeb-	-	0:55:19.167000	0:55:22.421000
+Erlösung	Erlösung	NOUN	#Anrede_Form #Anrede_Name #Appo #Appo- #Begrüßung #Dimin #Dimin- #Exprkomp #GrammForm #Gruß #GrußFunk #Lautung #Name- #OrgFunk #Pro- #Redupl #Zeitgeb #attrAdj #attrAdj- #exprkomp- #kurzF #kurzF- #redupl- #sonstForm #sonstForm- #sonstFunkt #stdL- #zeitgeb-	-	0:55:19.167000	0:55:22.421000
+,	-	-	-	-	0:55:19.167000	0:55:22.421000
+wir	ich	PRON	#Aux #KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #circum #habenAux #std #stdL+	-	0:55:19.167000	0:55:22.421000
+hätten	haben	AUX	#Aux #KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #circum #habenAux #std #stdL+	-	0:55:19.167000	0:55:22.421000
+noch	noch	ADV	#Aux #KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #circum #habenAux #std #stdL+	-	0:55:19.167000	0:55:22.421000
+viel	viel	PRON	#Aux #KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #circum #habenAux #std #stdL+	-	0:55:19.167000	0:55:22.421000
+gewusst	gewusst	VERB	#Aux #KForm #KKon #KKt #KLaut #KMark #KONJ #KPrät #KVerb #Ksynth #ModK #circum #habenAux #std #stdL+	-	0:55:19.167000	0:55:22.421000
+!	-	-	-	-	0:55:19.167000	0:55:22.421000
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:19.167000" end="0:55:22.421000">
+sind	sein	AUX	-	-	0:55:19.167000	0:55:22.421000
+wir	ich	PRON	-	-	0:55:19.167000	0:55:22.421000
+gerade	gerade	ADV	-	-	0:55:19.167000	0:55:22.421000
+bei	bei	ADP	-	-	0:55:19.167000	0:55:22.421000
+den	der	DET	-	-	0:55:19.167000	0:55:22.421000
+jetzt	jetzt	ADV	-	-	0:55:19.167000	0:55:22.421000
+sind	sein	AUX	-	-	0:55:19.167000	0:55:22.421000
+wir	ich	PRON	-	-	0:55:19.167000	0:55:22.421000
+gerade	gerade	ADV	-	-	0:55:19.167000	0:55:22.421000
+bei	bei	ADP	-	-	0:55:19.167000	0:55:22.421000
+den	der	DET	-	-	0:55:19.167000	0:55:22.421000
+Gaunereien	Gaunerei	NOUN	-	-	0:55:19.167000	0:55:22.421000
+angekommen	ankommen	VERB	-	-	0:55:19.167000	0:55:22.421000
+.	-	-	-	-	0:55:19.167000	0:55:22.421000
+</u>
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:22.421000" end="0:55:24.421000">
+super	super	PROPN	-	-	0:55:22.421000	0:55:24.421000
+.	-	-	-	-	0:55:22.421000	0:55:24.421000
+</u>
+<u who="spk_190" sex="male" age="Alt (65+)" name="Informant 0614" start="0:55:22.421000" end="0:55:24.421000">
+</u>
+<u who="spk_228" sex="male" age="Alt (65+)" name="Informant 0629" start="0:55:22.421000" end="0:55:24.421000">
+</u>
+</file>
+</doc>
