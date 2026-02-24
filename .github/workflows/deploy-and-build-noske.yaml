@@ -1,4 +1,4 @@
-name: Deploy dioedbcorpus NoSke Engine to Cluster
+name: Build the new files and deploy dioedbcorpus NoSke Engine to Cluster
 on:
   workflow_dispatch: {}
 
