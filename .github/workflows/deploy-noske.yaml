@@ -30,6 +30,36 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Generate Verticals from DB
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          PYTHONPATH: ${{ github.workspace }}/scripts
+        run: |
+          cd scripts
+          # Generate all Transcripts
+          python3 process-all-transcripts.py ./cache ./tei-files
+
+          # Generate Verticals
+          python3 generate-vertical.py ./tei-files ./standoff/standoff_informants.xml
+
+      - name: Prepare Build Context
+        run: |
+          mkdir -p verticals
+          mv scripts/verticals/*.vert verticals/ || echo "No verticals found to move"
+
       - name: login to github container registry
         uses: docker/login-action@v3
         with:
@@ -61,7 +91,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           push: true
   _3:
-    needs: [build,generate_workflow_vars]
+    needs: [build, generate_workflow_vars]
     uses: lapis-project/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
