@@ -51,7 +51,6 @@ jobs:
         run: |
           cd scripts
           # Generate all Transcripts
-          ls -la
           python3 process-all-transcripts.py ./cache ./tei-files
 
           # Generate Verticals
