@@ -2,7 +2,6 @@ select kdta.ist_tokenset_id,
     kdta2."Reihung" as "tag_reihung",
     kdtt."Tag" as "tag_name",
     kdtt.id as "tag_id",
-    kdtt."Tag" as "tag",
     kdtt."Generation" as "tag_gene",
     t3.id as "token_id"
 from
@@ -20,4 +19,4 @@ where
 	kdta.ist_tokenset_id = ANY(%s)
 order by 
     t3.id,
-    kdta2."Reihung" 
+    kdta2."Reihung"

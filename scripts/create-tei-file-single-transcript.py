@@ -50,13 +50,12 @@ def get_db_connection():
         return None
 
 
-# --- NEW: Data Fetching Function ---
 def fetch_transcript_data(transcript_id, use_cache=False, cache_dir="cache"):
     """
     Fetches and merges transcript data from the database using two queries.
     Optionally uses a file-based cache to speed up subsequent runs.
     """
-    cache_file = os.path.join(cache_dir, f"transcript_{transcript_id}_data.json")
+    cache_file = os.path.join(cache_dir, f"{transcript_id}.json")
     if use_cache:
         if os.path.exists(cache_file):
             print(f"✅ Loading transcript data from cache: {cache_file}")
@@ -143,7 +142,7 @@ def fetch_transcript_data(transcript_id, use_cache=False, cache_dir="cache"):
                 # Row: ist_tokenset_id, tag_reihung, tag_name, tag_id, tag, tag_gene, token_id
                 ts_id = row[0]
                 tag_name = row[2]
-                token_id = row[6]
+                token_id = row[5]
 
                 if ts_id not in tokenset_definitions:
                     tokenset_definitions[ts_id] = set()
@@ -299,11 +298,83 @@ def generate_standoff_informants_file(
 ):
     """
     Generates the standoff personography file from a list of informant dictionaries.
+    Checks if the file already exists; if so, appends new informants.
     """
     if not informants_data:
         print("Warning: No informant data to process for standoff file.")
         return
 
+    # Try to append to existing file
+    if os.path.exists(output_filename):
+        print(f"ℹ️  Checking existing standoff file: {output_filename}")
+        try:
+            # Use a parser that removes blank text to avoid indentation mess on append
+            parser = etree.XMLParser(remove_blank_text=True)
+            tree = etree.parse(output_filename, parser)
+            root = tree.getroot()
+
+            ns = {"tei": TEI_NS}
+            # Find listPerson with namespace
+            list_person = root.find(".//tei:listPerson", namespaces=ns)
+
+            # Fallback if not found with namespace
+            if list_person is None:
+                list_person = root.find(".//listPerson")
+
+            if list_person is not None:
+                existing_ids = set()
+                # Check existing person IDs
+                for person in list_person.findall(".//tei:person", namespaces=ns):
+                    pid = person.get(f"{{{XML_NS}}}id")
+                    if pid:
+                        existing_ids.add(pid)
+
+                added_count = 0
+                for informant in informants_data:
+                    pid = f'spk_{informant["id"]}'
+                    if pid not in existing_ids:
+                        person = etree.SubElement(list_person, "person")
+                        person.set(f"{{{XML_NS}}}id", pid)
+                        etree.SubElement(person, "persName").text = (
+                            f"Informant {informant['sigle']}"
+                        )
+                        etree.SubElement(person, "sex").set(
+                            "value", str(informant.get("gender", "unknown"))
+                        )
+                        if informant.get("age_group"):
+                            etree.SubElement(person, "age").text = informant.get(
+                                "age_group"
+                            )
+                        if informant.get("comment"):
+                            etree.SubElement(
+                                etree.SubElement(person, "note"), "p"
+                            ).text = informant.get("comment")
+                        added_count += 1
+
+                if added_count > 0:
+                    tree.write(
+                        output_filename,
+                        pretty_print=True,
+                        xml_declaration=True,
+                        encoding="UTF-8",
+                    )
+                    print(
+                        f"✅ Appended {added_count} new informants to {output_filename}"
+                    )
+                else:
+                    print(f"ℹ️  No new informants to add to {output_filename}")
+                return  # Done appending
+            else:
+                print(
+                    "⚠️  Existing file found but <listPerson> missing. creating new file."
+                )
+
+        except Exception as e:
+            print(
+                f"❌ Error parsing existing file {output_filename}: {e}. Overwriting/Creating new."
+            )
+
+    # Create new file (Original Logic)
     personography_root = etree.Element("TEI", nsmap=NS_MAP)
     tei_header = etree.SubElement(personography_root, "teiHeader")
     file_desc = etree.SubElement(tei_header, "fileDesc")
@@ -346,17 +417,8 @@ def load_dioe_tags(filepath):
     """
     try:
         tree = etree.parse(filepath)
-        ns = {"tei": TEI_NS}
 
-        # Select 'f' elements specifically within the TEI namespace
-        elements = tree.xpath("//tei:f[@name]", namespaces=ns)
-
-        # Fallback: if no namespaced elements found, try without namespace
-        if not elements:
-            print(
-                f"⚠️  No namespaced 'f' elements found in {filepath}. Trying without namespace."
-            )
-            elements = tree.xpath("//f[@name]")
+        elements = tree.xpath("//f[@name]")
 
         tag_names = {f_el.get("name").lower() for f_el in elements if f_el.get("name")}
 
@@ -412,7 +474,6 @@ def generate_transcript_file(
         f"Transcript_{transcript_data[0].get('transcript_id_id', 'Unknown')}"
     )
 
-    # --- NEW: Collect unique timestamps for timeline ---
     all_times = set()
     for token in transcript_data:
         st = token.get("start_time")
@@ -462,6 +523,7 @@ def generate_transcript_file(
                 if tag_name.lower() in dioe_tag_names:
                     validated_tags.append("#" + tag_name)
                 else:
+                    print(tag_name)
                     print(
                         f"⚠️  Tokenset Tag '{tag_name}' not found in dioe-tags.tei.xml and will be skipped."
                     )
@@ -475,7 +537,6 @@ def generate_transcript_file(
                 fs_feats_el = etree.SubElement(f_el, "fs")
                 fs_feats_el.set("feats", " ".join(validated_tags))
 
-    # NEW: StandOff for timestamps with timeline
     standoff_time_el = etree.SubElement(tei_root, "standOff")
     standoff_time_el.set("type", "timestamps")
     timeline_el = etree.SubElement(standoff_time_el, "timeline")
@@ -617,6 +678,12 @@ if __name__ == "__main__":
         default="cache",
         help="The directory to store cache files. Default: 'cache' in the script's directory.",
     )
+    parser.add_argument(
+        "--standoff-dir",
+        type=str,
+        default=None,
+        help="The directory to look for/create the standoff_informants.xml file. Defaults to current working directory.",
+    )
     args = parser.parse_args()
 
     # Make cache dir relative to script location
@@ -626,8 +693,18 @@ if __name__ == "__main__":
     # 1. DEFINE THE TRANSCRIPT ID YOU WANT to PROCESS
     TRANSCRIPT_ID_TO_PROCESS = args.transcript_id
 
-    standoff_output_file = "standoff_informants.xml"
-    transcript_output_file = f"transcript_{TRANSCRIPT_ID_TO_PROCESS}.xml"
+    # Determine standoff file path
+    if args.standoff_dir:
+        # Create dir if it doesn't exist
+        if not os.path.exists(args.standoff_dir):
+            os.makedirs(args.standoff_dir)
+        standoff_output_file = os.path.join(
+            args.standoff_dir, "standoff_informants.xml"
+        )
+    else:
+        standoff_output_file = "standoff_informants.xml"
+
+    transcript_output_file = f"{TRANSCRIPT_ID_TO_PROCESS}.xml"
 
     # 2. FETCH DATA FROM DATABASE OR CACHE
     transcript_data, unique_informant_ids, tokenset_definitions = fetch_transcript_data(

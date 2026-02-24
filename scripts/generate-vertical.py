@@ -83,41 +83,46 @@ def get_timeline_definitions(root):
     return timeline
 
 
-def convert_to_vertical(tei_dir, standoff_file, output_file):
+def convert_to_vertical(tei_dir, standoff_file, output_dir):
     # 1. Load Global Speaker DB
     speaker_db = load_speaker_data(standoff_file)
 
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
 
-    with open(output_file, "w", encoding="utf-8") as f_out:
-        f_out.write('<doc id="lapis_corpus">\n')
+    files = glob.glob(os.path.join(tei_dir, "*.xml"))
+    files.sort()
 
-        files = glob.glob(os.path.join(tei_dir, "*.xml"))
-        files.sort()
+    for file_path in files:
+        try:
+            # Skip the standoff file itself if it's in the same folder
+            if os.path.abspath(file_path) == os.path.abspath(standoff_file):
+                continue
 
-        for file_path in files:
-            try:
-                # Skip the standoff file itself if it's in the same folder
-                if os.path.abspath(file_path) == os.path.abspath(standoff_file):
-                    continue
+            print(f"Processing: {file_path}...")
+            tree = etree.parse(file_path)
+            root = tree.getroot()
 
-                print(f"Processing: {file_path}...")
-                tree = etree.parse(file_path)
-                root = tree.getroot()
+            # Metadata
+            title_node = root.xpath(
+                "//tei:teiHeader//tei:title/text()", namespaces=NS
+            )
+            title = title_node[0] if title_node else os.path.basename(file_path)
 
-                # Metadata
-                title_node = root.xpath(
-                    "//tei:teiHeader//tei:title/text()", namespaces=NS
-                )
-                title = title_node[0] if title_node else os.path.basename(file_path)
+            # Token Standoff Map
+            token_map = get_standoff_definitions(root)
+            # Timeline map
+            timeline_map = get_timeline_definitions(root)
 
-                # Token Standoff Map
-                token_map = get_standoff_definitions(root)
-                # Timeline map
-                timeline_map = get_timeline_definitions(root)
+            # Prepare output filename
+            filename = os.path.basename(file_path)
+            stem = os.path.splitext(filename)[0]
+            transcript_id = f"transcript_{stem}"
+            output_file = os.path.join(output_dir, f"{stem}.vert")
 
+            with open(output_file, "w", encoding="utf-8") as f_out:
+                f_out.write(f'<doc id="{transcript_id}">\n')
                 f_out.write(
-                    f'<file id="{os.path.basename(file_path)}" title="{title}">\n'
+                    f'<file id="{filename}" title="{title}">\n'
                 )
 
                 # Iterate Utterances
@@ -198,17 +203,16 @@ def convert_to_vertical(tei_dir, standoff_file, output_file):
                     f_out.write("</u>\n")
 
                 f_out.write("</file>\n")
+                f_out.write("</doc>\n")
 
-            except Exception as e:
-                print(f"Error {file_path}: {e}", file=sys.stderr)
-
-        f_out.write("</doc>\n")
+        except Exception as e:
+            print(f"Error {file_path}: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
         print(
-            "Usage: python generate-vertical.py <tei_dir> <standoff_file.xml> <output.vert>"
+            "Usage: python generate-vertical.py <tei_dir> <standoff_file.xml> <output_dir>"
         )
         sys.exit(1)
 

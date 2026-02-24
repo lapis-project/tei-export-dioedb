@@ -36,6 +36,8 @@ def generate_tei_from_json(json_file_path, output_xml_path):
     all_tags = all_tags[0]["tags"]
     # Map to store occurrence count for each tag_id to ensure unique xml:id
     tag_id_occurrence_map = {}
+    # Set to track which tag IDs have been added to the XML
+    processed_tag_ids = set()
 
     def create_feature_element(parent_xml_element, tag_data, all_tags_list):
         """
@@ -43,6 +45,8 @@ def generate_tei_from_json(json_file_path, output_xml_path):
         based on its tag_id and occurrence count.
         """
         current_tag_id = tag_data.get("tag_id")
+        processed_tag_ids.add(current_tag_id)
+
         if current_tag_id not in tag_id_occurrence_map:
             tag_id_occurrence_map[current_tag_id] = 1
         else:
@@ -57,7 +61,6 @@ def generate_tei_from_json(json_file_path, output_xml_path):
 
         string_element = ET.SubElement(f_element, "string")
         string_element.text = tag_data.get("tag_name", "Unnamed Tag")
-
         children_ids = parse_children_ids(tag_data.get("children_ids"))
         if children_ids:
             fs_for_children = ET.SubElement(f_element, "fs", {"type": "tag"})
@@ -65,9 +68,7 @@ def generate_tei_from_json(json_file_path, output_xml_path):
                 # Find all potential matches for the child ID
                 potential_children = find_tags_by_id(all_tags_list, child_id)
                 if not potential_children:
-                    print(
-                        f"Warning: Child tag with ID {child_id} not found for parent {tag_data.get('tag_id')}."
-                    )
+                    # It's common that some children ids don't exist in the export if they were deleted/hidden
                     continue
 
                 # Heuristic: Find the best match. Often the one with the same ebene_id.
@@ -108,12 +109,29 @@ def generate_tei_from_json(json_file_path, output_xml_path):
     )
 
     # Identify top-level tags (generation 0) and start the recursive build
+    print("Starting first pass: Processing generation 0 tags...")
     top_level_tags = [tag for tag in all_tags if tag.get("tag_gene") == 0]
     for top_level_tag in top_level_tags:
         create_feature_element(fs_root, top_level_tag, all_tags)
 
+    # --- Second Pass: Process Orphaned Tags ---
+    print("Starting second pass: Checking for orphaned tags (non-gen-0 not yet processed)...")
+    orphaned_count = 0
+    for tag in all_tags:
+        # Check if tag hasn't been processed and is not gene 0
+        if tag.get("tag_id") not in processed_tag_ids and tag.get("tag_gene") != 0:
+            # Append it to the main fs_root
+            create_feature_element(fs_root, tag, all_tags)
+            orphaned_count += 1
+    
+    if orphaned_count > 0:
+        print(f"✅ Second pass complete. Appended {orphaned_count} orphaned tags.")
+    else:
+        print("✅ Second pass complete. No orphaned tags found.")
+
     # --- Write to file ---
     xml_string = ET.tostring(root, "unicode")
+    # minidom for pretty printing
     dom = minidom.parseString(xml_string)
     pretty_xml_string = dom.toprettyxml(indent="  ")
 
