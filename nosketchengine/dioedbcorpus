@@ -1,6 +1,6 @@
 NAME "dioedbcorpus"
 PATH "/var/lib/manatee/data/dioedbcorpus"
-VERTICAL "/var/lib/manatee/verticals/dioedb_corpus_vertical.vert"
+VERTICAL "| ls /var/lib/manatee/verticals/dioedb/*.vert | xargs cat"
 MAINTAINER "Jakob.Bal@oeaw.ac.at"
 LANGUAGE "German"
 ENCODING "utf-8"
