@@ -53,8 +53,10 @@ jobs:
           # Generate all Transcripts
           python3 process-all-transcripts.py ./cache ./tei-files
 
+          mkdir -p ./verticals
+
           # Generate Verticals
-          python3 generate-vertical.py ./tei-files ./standoff/standoff_informants.xml
+          python3 generate-vertical.py ./tei-files ./standoff/standoff_informants.xml ./verticals
 
       - name: Prepare Build Context
         run: |
