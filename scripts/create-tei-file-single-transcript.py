@@ -523,7 +523,6 @@ def generate_transcript_file(
                 if tag_name.lower() in dioe_tag_names:
                     validated_tags.append("#" + tag_name)
                 else:
-                    print(tag_name)
                     print(
                         f"⚠️  Tokenset Tag '{tag_name}' not found in dioe-tags.tei.xml and will be skipped."
                     )
