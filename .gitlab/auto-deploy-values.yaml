@@ -2,6 +2,8 @@
 
 # Set the environment variables NoSkE needs to enable auth
 extraEnv:
+  - name: CORPLIST
+    value: "dioedbcorpus"
   - name: HTPASSWD_FILE
     value: "/var/lib/bonito/htpasswd"
   - name: PASSWD_REALM

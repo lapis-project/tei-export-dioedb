@@ -71,7 +71,7 @@ jobs:
     uses: lapis-project/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
-      DOCKER_TAG: ghcr.io/${{ github.repository }}-corpus-data
+      DOCKER_TAG: ghcr.io/${{ github.repository }}-corpus-data:${{ github.sha }}
       APP_NAME: 'corpus-noske'
       APP_ROOT: '/'
       POSTGRES_ENABLED: false
