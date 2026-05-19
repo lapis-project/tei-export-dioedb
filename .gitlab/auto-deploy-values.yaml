@@ -1,0 +1,20 @@
+# .gitlab/auto-deploy-values.yaml
+
+# Set the environment variables NoSkE needs to enable auth
+extraEnv:
+  - name: HTPASSWD_FILE
+    value: "/var/lib/bonito/htpasswd"
+  - name: PASSWD_REALM
+    value: "dioedb_noske_corpus"
+
+# Define the volume
+extraVolumes:
+  - name: auth-volume
+    secret:
+      secretName: noske-htpasswd
+
+# Mount the secret file into the container securely
+extraVolumeMounts:
+  - name: auth-volume
+    mountPath: "/var/lib/bonito"
+    readOnly: true
