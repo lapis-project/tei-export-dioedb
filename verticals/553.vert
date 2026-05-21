@@ -133,7 +133,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:05:07.352000" end="0:05:08.078000">
 </u>
 <u who="spk_235" sex="female" age="jung (20-30) weiblich" name="Informant 4024" start="0:05:07.352000" end="0:05:13.752000">
-(.)	-	-	-	-	0:05:10.072000	0:05:13.752000
+(.)	-	-	-	0:05:10.072000	0:05:13.752000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:05:13.752000" end="0:05:17.525000">
 </u>
@@ -546,7 +546,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:18:55.421000" end="0:18:55.968000">
 </u>
 <u who="spk_235" sex="female" age="jung (20-30) weiblich" name="Informant 4024" start="0:18:55.421000" end="0:19:05.721000">
-(1.4)	-	-	-	-	0:19:00.371000	0:19:01.488000
+(1.4)	-	-	-	0:19:00.371000	0:19:01.488000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:19:05.721000" end="0:19:13.948000">
 </u>
@@ -575,7 +575,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:19:54.455000" end="0:20:00.168000">
 </u>
 <u who="spk_235" sex="female" age="jung (20-30) weiblich" name="Informant 4024" start="0:20:00.168000" end="0:20:22.161000">
-=aiso	-	-	-	-	0:20:10.814000	0:20:15.161000
+=aiso	-	-	-	0:20:10.814000	0:20:15.161000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:20:21.934000" end="0:20:22.254000">
 </u>

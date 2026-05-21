@@ -319,7 +319,7 @@
 <u who="spk_217" sex="male" age="alt (65+) männlich" name="Informant 4003" start="0:20:01.565000" end="0:20:27.652000">
 </u>
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="0:20:27.652000" end="0:20:28.285000">
-m_	-	-	-	-	0:20:27.652000	0:20:28.285000
+m_	-	-	-	0:20:27.652000	0:20:28.285000
 </u>
 <u who="spk_217" sex="male" age="alt (65+) männlich" name="Informant 4003" start="0:20:27.652000" end="0:20:29.665000">
 </u>
@@ -1062,7 +1062,7 @@ m_	-	-	-	-	0:20:27.652000	0:20:28.285000
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="0:48:37.514000" end="0:48:38.109000">
 </u>
 <u who="spk_217" sex="male" age="alt (65+) männlich" name="Informant 4003" start="0:48:37.514000" end="0:48:57.031000">
-(-)	-	-	-	-	0:48:56.192000	0:48:57.031000
+(-)	-	-	-	0:48:56.192000	0:48:57.031000
 </u>
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="0:48:57.031000" end="0:49:09.198000">
 </u>

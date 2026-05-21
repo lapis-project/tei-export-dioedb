@@ -229,7 +229,7 @@
 <u who="spk_740" sex="male" age="jung (20-30) männlich" name="Informant BKMS402" start="0:12:34.930000" end="0:12:35.643000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:12:35.643000" end="0:12:43.770000">
-aha	-	-	-	-	0:12:43.317000	0:12:43.770000
+aha	-	-	-	0:12:43.317000	0:12:43.770000
 </u>
 <u who="spk_740" sex="male" age="jung (20-30) männlich" name="Informant BKMS402" start="0:12:43.317000" end="0:12:45.750000">
 </u>
@@ -300,7 +300,7 @@ aha	-	-	-	-	0:12:43.317000	0:12:43.770000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:15:35.842000" end="0:15:46.176000">
 </u>
 <u who="spk_740" sex="male" age="jung (20-30) männlich" name="Informant BKMS402" start="0:15:46.176000" end="0:16:07.829000">
-(.)	-	-	-	-	0:15:53.529000	0:16:04.089000
+(.)	-	-	-	0:15:53.529000	0:16:04.089000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:16:07.829000" end="0:16:08.809000">
 </u>
@@ -345,7 +345,7 @@ aha	-	-	-	-	0:12:43.317000	0:12:43.770000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:35.055000" end="0:17:36.302000">
 </u>
 <u who="spk_740" sex="male" age="jung (20-30) männlich" name="Informant BKMS402" start="0:17:35.789000" end="0:17:36.302000">
-(--)	-	-	-	-	0:17:35.789000	0:17:36.302000
+(--)	-	-	-	0:17:35.789000	0:17:36.302000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:36.302000" end="0:17:39.322000">
 </u>
@@ -362,7 +362,7 @@ aha	-	-	-	-	0:12:43.317000	0:12:43.770000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:17:54.802000" end="0:17:55.635000">
 </u>
 <u who="spk_740" sex="male" age="jung (20-30) männlich" name="Informant BKMS402" start="0:17:55.635000" end="0:18:21.022000">
-=SERbisch	-	-	#AdjKongr #AdjKongr0 #Art- #BKMSPräp #Erg #Kongr0 #PPTyp #PräpErg #PräpoArt #PräpoKas #PräpoPron #PräpoPronKongr0 #PräpoVer #Präpos+	-	0:18:15.789000	0:18:20.075000
+=SERbisch	-	-	AdjKongr AdjKongr0 Art- BKMSPräp Erg Kongr0 PPTyp PräpErg PräpoArt PräpoKas PräpoPron PräpoPronKongr0 PräpoVer Präpos+	0:18:15.789000	0:18:20.075000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:18:21.022000" end="0:18:21.795000">
 </u>

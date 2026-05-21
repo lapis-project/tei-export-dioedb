@@ -129,7 +129,7 @@
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:05:08.739000" end="0:05:09.145000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:09.145000" end="0:05:16.979000">
-llen	-	-	-	-	0:05:15.019000	0:05:16.479000
+llen	-	-	-	0:05:15.019000	0:05:16.479000
 </u>
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:05:16.479000" end="0:05:38.152000">
 </u>
@@ -138,7 +138,7 @@ llen	-	-	-	-	0:05:15.019000	0:05:16.479000
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:05:38.558000" end="0:05:52.077000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:05:52.077000" end="0:06:02.064000">
-=wohnen	-	-	-	-	0:05:58.034000	0:06:01.699000
+=wohnen	-	-	-	0:05:58.034000	0:06:01.699000
 </u>
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:06:01.699000" end="0:06:02.638000">
 </u>
@@ -311,7 +311,7 @@ llen	-	-	-	-	0:05:15.019000	0:05:16.479000
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:10:53.297000" end="0:10:55.697000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:10:55.697000" end="0:10:56.017000">
-cht	-	-	-	-	0:10:55.697000	0:10:56.017000
+cht	-	-	-	0:10:55.697000	0:10:56.017000
 </u>
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:10:55.697000" end="0:10:56.017000">
 </u>
@@ -484,7 +484,7 @@ cht	-	-	-	-	0:10:55.697000	0:10:56.017000
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:15:54.503000" end="0:15:54.843000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:15:54.843000" end="0:15:56.730000">
-T	-	-	-	-	0:15:56.370000	0:15:56.730000
+T	-	-	-	0:15:56.370000	0:15:56.730000
 </u>
 <u who="spk_746" sex="male" age="jung (20-30) männlich" name="Informant BKMS407" start="0:15:56.370000" end="0:15:56.730000">
 </u>

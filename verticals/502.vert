@@ -23,35 +23,35 @@
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:44.333000" end="0:00:44.719000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:44.333000" end="0:00:46.433000">
-undsechsziger	-	-	-	-	0:00:44.333000	0:00:44.719000
+undsechsziger	-	-	-	0:00:44.333000	0:00:44.719000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:46.433000" end="0:00:47.319000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:46.433000" end="0:00:47.319000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:47.319000" end="0:00:48.346000">
-jo	-	-	-	-	0:00:47.319000	0:00:48.346000
+jo	-	-	-	0:00:47.319000	0:00:48.346000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:47.319000" end="0:00:48.346000">
-(N):	-	-	-	-	0:00:47.319000	0:00:48.346000
+(N):	-	-	-	0:00:47.319000	0:00:48.346000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:48.346000" end="0:00:48.866000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:48.346000" end="0:00:48.866000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:48.866000" end="0:00:49.866000">
-er	-	-	-	-	0:00:48.866000	0:00:49.593000
+er	-	-	-	0:00:48.866000	0:00:49.593000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:49.593000" end="0:00:52.419000">
-dann	-	-	-	-	0:00:49.866000	0:00:52.419000
+dann	-	-	-	0:00:49.866000	0:00:52.419000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:00:52.419000" end="0:00:52.819000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:00:52.419000" end="0:01:07.172000">
-:	-	-	-	-	0:01:05.826000	0:01:07.172000
+:	-	-	-	0:01:05.826000	0:01:07.172000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:07.172000" end="0:01:07.499000">
-:	-	-	-	-	0:01:07.172000	0:01:07.499000
+:	-	-	-	0:01:07.172000	0:01:07.499000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:07.172000" end="0:01:07.499000">
 </u>
@@ -90,15 +90,15 @@ dann	-	-	-	-	0:00:49.866000	0:00:52.419000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:36.271000" end="0:01:36.963000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:36.271000" end="0:01:36.963000">
-siert	-	-	-	-	0:01:36.271000	0:01:36.963000
+siert	-	-	-	0:01:36.271000	0:01:36.963000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:36.963000" end="0:01:37.252000">
-des	-	-	-	-	0:01:36.963000	0:01:37.252000
+des	-	-	-	0:01:36.963000	0:01:37.252000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:36.963000" end="0:01:37.252000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:37.252000" end="0:01:41.076000">
-se	-	-	-	-	0:01:37.252000	0:01:40.806000
+se	-	-	-	0:01:37.252000	0:01:40.806000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:40.806000" end="0:01:41.076000">
 </u>
@@ -113,30 +113,30 @@ se	-	-	-	-	0:01:37.252000	0:01:40.806000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:43.119000" end="0:01:47.140000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:46.732000" end="0:01:47.140000">
-ll	-	-	-	-	0:01:46.732000	0:01:47.140000
+ll	-	-	-	0:01:46.732000	0:01:47.140000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:47.140000" end="0:01:47.446000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:47.140000" end="0:01:47.446000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:47.446000" end="0:01:49.562000">
-nt	-	-	-	-	0:01:48.839000	0:01:49.097000
+nt	-	-	-	0:01:48.839000	0:01:49.097000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:49.097000" end="0:01:49.562000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:49.562000" end="0:01:50.445000">
-gen	-	-	-	-	0:01:49.562000	0:01:49.975000
-nigungs	-	-	-	-	0:01:49.975000	0:01:50.445000
+gen	-	-	-	0:01:49.562000	0:01:49.975000
+nigungs	-	-	-	0:01:49.975000	0:01:50.445000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:49.975000" end="0:01:50.445000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:50.445000" end="0:01:51.566000">
-kosten	-	-	-	-	0:01:50.445000	0:01:50.781000
+kosten	-	-	-	0:01:50.445000	0:01:50.781000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:50.781000" end="0:01:52.632000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:01:52.633000" end="0:01:54.990000">
-EIße	-	-	-	-	0:01:54.426000	0:01:54.990000
+EIße	-	-	-	0:01:54.426000	0:01:54.990000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:01:54.426000" end="0:01:54.990000">
 </u>
@@ -159,7 +159,7 @@ EIße	-	-	-	-	0:01:54.426000	0:01:54.990000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:02:08.279000" end="0:02:10.544000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:02:08.279000" end="0:02:11.665000">
-s	-	-	-	-	0:02:08.279000	0:02:10.544000
+s	-	-	-	0:02:08.279000	0:02:10.544000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:02:11.665000" end="0:02:28.925000">
 </u>
@@ -186,7 +186,7 @@ s	-	-	-	-	0:02:08.279000	0:02:10.544000
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:02:53.450000" end="0:02:53.939000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:02:53.450000" end="0:02:55.978000">
-wurfsvoll	-	-	-	-	0:02:53.450000	0:02:53.939000
+wurfsvoll	-	-	-	0:02:53.450000	0:02:53.939000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:02:55.978000" end="0:02:56.719000">
 </u>
@@ -197,22 +197,22 @@ wurfsvoll	-	-	-	-	0:02:53.450000	0:02:53.939000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:02:59.605000" end="0:03:02.585000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:02.585000" end="0:03:03.192000">
-:	-	-	-	-	0:03:02.585000	0:03:03.192000
+:	-	-	-	0:03:02.585000	0:03:03.192000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:02.585000" end="0:03:03.192000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:03.192000" end="0:03:03.434000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:03.192000" end="0:03:10.885000">
-zuladen	-	-	-	-	0:03:03.192000	0:03:03.434000
-or	-	-	-	-	0:03:08.905000	0:03:10.885000
+zuladen	-	-	-	0:03:03.192000	0:03:03.434000
+or	-	-	-	0:03:08.905000	0:03:10.885000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:10.885000" end="0:03:11.152000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:10.885000" end="0:03:13.281000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:13.281000" end="0:03:15.072000">
-gresSIOnen	-	-	-	-	0:03:13.281000	0:03:15.072000
+gresSIOnen	-	-	-	0:03:13.281000	0:03:15.072000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:13.281000" end="0:03:15.072000">
 </u>
@@ -223,7 +223,7 @@ gresSIOnen	-	-	-	-	0:03:13.281000	0:03:15.072000
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:18.445000" end="0:03:21.045000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:21.045000" end="0:03:22.398000">
-t	-	-	-	-	0:03:21.045000	0:03:22.398000
+t	-	-	-	0:03:21.045000	0:03:22.398000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:22.398000" end="0:03:22.538000">
 </u>
@@ -232,10 +232,10 @@ t	-	-	-	-	0:03:21.045000	0:03:22.398000
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:22.538000" end="0:03:23.425000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:22.538000" end="0:03:23.998000">
-te	-	-	-	-	0:03:22.538000	0:03:23.425000
+te	-	-	-	0:03:22.538000	0:03:23.425000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:23.998000" end="0:03:34.525000">
-ckerl:	-	-	-	-	0:03:33.098000	0:03:34.525000
+ckerl:	-	-	-	0:03:33.098000	0:03:34.525000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:33.098000" end="0:03:34.525000">
 </u>
@@ -248,15 +248,15 @@ ckerl:	-	-	-	-	0:03:33.098000	0:03:34.525000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:35.058000" end="0:03:37.072000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:37.072000" end="0:03:40.652000">
-::	-	-	-	-	0:03:37.772000	0:03:40.025000
+::	-	-	-	0:03:37.772000	0:03:40.025000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:40.025000" end="0:03:44.738000">
-eh	-	-	-	-	0:03:40.025000	0:03:40.652000
+eh	-	-	-	0:03:40.025000	0:03:40.652000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:44.738000" end="0:03:45.332000">
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:03:44.738000" end="0:03:48.012000">
-a	-	-	-	-	0:03:45.332000	0:03:48.012000
+a	-	-	-	0:03:45.332000	0:03:48.012000
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:03:48.012000" end="0:03:48.428000">
 </u>
@@ -279,7 +279,7 @@ a	-	-	-	-	0:03:45.332000	0:03:48.012000
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:04:06.572000" end="0:04:08.484000">
 </u>
 <u who="spk_728" sex="female" age="jung (20-30) weiblich" name="Informant 4099" start="0:04:08.484000" end="0:04:09.358000">
-ETT	-	-	-	-	0:04:08.484000	0:04:09.358000
+ETT	-	-	-	0:04:08.484000	0:04:09.358000
 </u>
 <u who="spk_650" sex="male" age="Unspezifisch" name="Informant 4099_F" start="0:04:08.484000" end="0:04:09.358000">
 </u>

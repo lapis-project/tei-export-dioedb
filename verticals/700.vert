@@ -7,8 +7,8 @@
 <u who="spk_918" sex="female" age="UNK" name="Informant BKMS421_F" start="0:00:00" end="0:00:33.293000">
 </u>
 <u who="spk_917" sex="female" age="jung (20-30) weiblich" name="Informant BKMS421" start="0:00:33.293000" end="0:00:42.239000">
-(-)	-	-	-	-	0:00:33.293000	0:00:34.679000
-(.)	-	-	-	-	0:00:34.679000	0:00:36.213000
+(-)	-	-	-	0:00:33.293000	0:00:34.679000
+(.)	-	-	-	0:00:34.679000	0:00:36.213000
 </u>
 <u who="spk_918" sex="female" age="UNK" name="Informant BKMS421_F" start="0:00:42.239000" end="0:00:42.572000">
 </u>

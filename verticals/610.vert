@@ -243,7 +243,7 @@
 <u who="spk_684" sex="female" age="jung (20-30) weiblich" name="Informant 4070" start="0:04:37.092000" end="0:04:39.080000">
 </u>
 <u who="spk_685" sex="female" age="jung (20-30) weiblich" name="Informant 4071" start="0:04:37.414000" end="0:04:41.502000">
-=i	-	-	-	-	0:04:38.107000	0:04:38.303000
+=i	-	-	-	0:04:38.107000	0:04:38.303000
 </u>
 <u who="spk_684" sex="female" age="jung (20-30) weiblich" name="Informant 4070" start="0:04:41.026000" end="0:04:42.069000">
 </u>

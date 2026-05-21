@@ -1301,10 +1301,10 @@
 <u who="spk_742" sex="male" age="Unspezifisch" name="Informant BKMS403_F" start="0:18:56.565000" end="0:19:03.112000">
 </u>
 <u who="spk_741" sex="male" age="jung (20-30) männlich" name="Informant BKMS403" start="0:19:03.112000" end="0:19:03.292000">
-EL	-	-	-	-	0:19:03.112000	0:19:03.292000
+EL	-	-	-	0:19:03.112000	0:19:03.292000
 </u>
 <u who="spk_742" sex="male" age="Unspezifisch" name="Informant BKMS403_F" start="0:19:03.112000" end="0:19:03.292000">
-ge=	-	-	-	-	0:19:03.112000	0:19:03.292000
+ge=	-	-	-	0:19:03.112000	0:19:03.292000
 </u>
 <u who="spk_741" sex="male" age="jung (20-30) männlich" name="Informant BKMS403" start="0:19:03.292000" end="0:19:04.152000">
 </u>
@@ -1337,7 +1337,7 @@ ge=	-	-	-	-	0:19:03.112000	0:19:03.292000
 <u who="spk_741" sex="male" age="jung (20-30) männlich" name="Informant BKMS403" start="0:19:33.812000" end="0:19:34.418000">
 </u>
 <u who="spk_742" sex="male" age="Unspezifisch" name="Informant BKMS403_F" start="0:19:34.252000" end="0:19:35.538000">
-jo	-	-	-	-	0:19:34.252000	0:19:34.418000
+jo	-	-	-	0:19:34.252000	0:19:34.418000
 </u>
 <u who="spk_741" sex="male" age="jung (20-30) männlich" name="Informant BKMS403" start="0:19:35.538000" end="0:19:36.085000">
 </u>

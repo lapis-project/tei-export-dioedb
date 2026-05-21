@@ -7,7 +7,7 @@
 <u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:02:09.466000" end="0:02:14.886000">
 </u>
 <u who="spk_805" sex="female" age="jung (20-30) weiblich" name="Informant 4112" start="0:02:14.886000" end="0:02:19.833000">
-SEHR	-	-	-	-	0:02:14.886000	0:02:16.293000
+SEHR	-	-	-	0:02:14.886000	0:02:16.293000
 </u>
 <u who="spk_633" sex="female" age="UNK" name="Informant EXP18" start="0:02:19.833000" end="0:02:20.186000">
 </u>

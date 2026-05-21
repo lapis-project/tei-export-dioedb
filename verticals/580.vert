@@ -171,7 +171,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:12:00.173000" end="0:12:00.726000">
 </u>
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:12:00.726000" end="0:12:22.413000">
-(--)	-	-	-	-	0:12:08.926000	0:12:09.919000
+(--)	-	-	-	0:12:08.926000	0:12:09.919000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:12:22.413000" end="0:12:23.219000">
 </u>
@@ -204,7 +204,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:13:36.759000" end="0:13:37.299000">
 </u>
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:13:36.759000" end="0:13:47.426000">
-(---)	-	-	-	-	0:13:40.712000	0:13:41.626000
+(---)	-	-	-	0:13:40.712000	0:13:41.626000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:13:46.306000" end="0:13:47.426000">
 </u>
@@ -665,7 +665,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:37:50.712000" end="0:37:53.092000">
 </u>
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:37:53.092000" end="0:37:55.552000">
-JO	-	-	-	-	0:37:53.092000	0:37:55.552000
+JO	-	-	-	0:37:53.092000	0:37:55.552000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:37:55.552000" end="0:37:56.905000">
 </u>
@@ -928,7 +928,7 @@ JO	-	-	-	-	0:37:53.092000	0:37:55.552000
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:49:24.858000" end="0:49:29.652000">
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:49:29.652000" end="0:49:34.232000">
-(--)	-	-	-	-	0:49:29.652000	0:49:29.892000
+(--)	-	-	-	0:49:29.652000	0:49:29.892000
 </u>
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:49:34.232000" end="0:49:43.785000">
 </u>
@@ -1139,7 +1139,7 @@ JO	-	-	-	-	0:37:53.092000	0:37:55.552000
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:59:30.871000" end="0:59:31.311000">
 </u>
 <u who="spk_689" sex="female" age="alt (65+) weiblich" name="Informant 4046" start="0:59:32.618000" end="0:59:35.991000">
-dieses	-	-	-	-	0:59:32.618000	0:59:35.991000
+dieses	-	-	-	0:59:32.618000	0:59:35.991000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:59:35.991000" end="0:59:36.605000">
 </u>

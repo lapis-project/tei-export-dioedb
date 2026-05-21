@@ -11,7 +11,7 @@
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:02:16.333000" end="0:02:21.146000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:02:21.146000" end="0:03:00.340000">
-#und	-	-	-	-	0:02:35.653000	0:02:38.959000
+#und	-	-	-	0:02:35.653000	0:02:38.959000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:03:00.340000" end="0:03:07.646000">
 </u>
@@ -64,7 +64,7 @@
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:08:37.739000" end="0:08:50.772000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:08:50.126000" end="0:09:15.412000">
-JA::	-	-	-	-	0:08:50.126000	0:08:50.772000
+JA::	-	-	-	0:08:50.126000	0:08:50.772000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:09:15.412000" end="0:09:18.926000">
 </u>
@@ -201,8 +201,8 @@ JA::	-	-	-	-	0:08:50.126000	0:08:50.772000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:18:20.045000" end="0:18:20.525000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:18:20.045000" end="0:18:44.819000">
-(-)	-	-	-	-	0:18:22.205000	0:18:23.539000
-(--)	-	-	-	-	0:18:34.200000	0:18:36.932000
+(-)	-	-	-	0:18:22.205000	0:18:23.539000
+(--)	-	-	-	0:18:34.200000	0:18:36.932000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:18:44.819000" end="0:18:51.025000">
 </u>
@@ -225,7 +225,7 @@ JA::	-	-	-	-	0:08:50.126000	0:08:50.772000
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:20:29.964000" end="0:21:14.233000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:21:14.233000" end="0:21:39.038000">
-(1.2)	-	-	-	-	0:21:34.552000	0:21:39.038000
+(1.2)	-	-	-	0:21:34.552000	0:21:39.038000
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:21:39.038000" end="0:22:07.752000">
 </u>
@@ -280,7 +280,7 @@ JA::	-	-	-	-	0:08:50.126000	0:08:50.772000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:23:39.645000" end="0:23:43.072000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:23:43.072000" end="0:24:10.905000">
-#oder	-	-	-	-	0:23:48.798000	0:23:51.205000
+#oder	-	-	-	0:23:48.798000	0:23:51.205000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:24:10.905000" end="0:24:14.725000">
 </u>
@@ -377,14 +377,14 @@ JA::	-	-	-	-	0:08:50.126000	0:08:50.772000
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:28:59.758000" end="0:29:00.971000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:28:59.758000" end="0:29:01.698000">
-(-)	-	-	-	-	0:28:59.758000	0:29:00.971000
+(-)	-	-	-	0:28:59.758000	0:29:00.971000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:29:01.698000" end="0:29:23.405000">
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:29:23.405000" end="0:30:04.078000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:30:04.078000" end="0:30:21.351000">
-beim	-	-	-	-	0:30:20.218000	0:30:20.659000
+beim	-	-	-	0:30:20.218000	0:30:20.659000
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:30:20.659000" end="0:30:53.811000">
 </u>
@@ -401,7 +401,7 @@ beim	-	-	-	-	0:30:20.218000	0:30:20.659000
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:31:27.998000" end="0:32:17.691000">
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:32:17.691000" end="0:32:27.398000">
-#die	-	-	-	-	0:32:22.158000	0:32:25.904000
+#die	-	-	-	0:32:22.158000	0:32:25.904000
 </u>
 <u who="spk_763" sex="male" age="alt (65+) männlich" name="Informant BKMS414" start="0:32:27.398000" end="0:33:10.680000">
 </u>

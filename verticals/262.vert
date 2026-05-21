@@ -17,7 +17,7 @@
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:08:28.657000" end="0:08:33.313000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:08:33.313000" end="0:08:33.859000">
-oh	-	-	-	-	0:08:33.313000	0:08:33.859000
+oh	-	-	-	0:08:33.313000	0:08:33.859000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:08:33.859000" end="0:08:38.706000">
 </u>
@@ -42,7 +42,7 @@ oh	-	-	-	-	0:08:33.313000	0:08:33.859000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:08:47.005000" end="0:08:49.081000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:08:49.081000" end="0:08:49.799000">
-beitet	-	-	-	-	0:08:49.634000	0:08:49.799000
+beitet	-	-	-	0:08:49.634000	0:08:49.799000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:08:49.634000" end="0:08:49.799000">
 </u>
@@ -223,7 +223,7 @@ beitet	-	-	-	-	0:08:49.634000	0:08:49.799000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:12:10.004000" end="0:12:10.249000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:12:10.249000" end="0:12:14.199000">
-uni	-	-	-	-	0:12:13.171000	0:12:14.199000
+uni	-	-	-	0:12:13.171000	0:12:14.199000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:12:13.171000" end="0:12:14.199000">
 </u>
@@ -300,7 +300,7 @@ uni	-	-	-	-	0:12:13.171000	0:12:14.199000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:14:49.726000" end="0:14:50.321000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:14:49.726000" end="0:14:50.893000">
-WOche	-	-	-	-	0:14:49.726000	0:14:50.321000
+WOche	-	-	-	0:14:49.726000	0:14:50.321000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:14:50.893000" end="0:14:53.860000">
 </u>
@@ -317,7 +317,7 @@ WOche	-	-	-	-	0:14:49.726000	0:14:50.321000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:15:05.882000" end="0:15:07.876000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:15:07.876000" end="0:15:19.354000">
-STÄRker	-	-	-	-	0:15:15.565000	0:15:19.354000
+STÄRker	-	-	-	0:15:15.565000	0:15:19.354000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:15:19.354000" end="0:15:20.271000">
 </u>
@@ -1560,7 +1560,7 @@ STÄRker	-	-	-	-	0:15:15.565000	0:15:19.354000
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:43:25.099000" end="0:43:25.345000">
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:43:25.345000" end="0:43:30.892000">
-dann	-	-	-	-	0:43:29.659000	0:43:30.892000
+dann	-	-	-	0:43:29.659000	0:43:30.892000
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:43:30.892000" end="0:43:31.365000">
 </u>
@@ -1583,7 +1583,7 @@ dann	-	-	-	-	0:43:29.659000	0:43:30.892000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:43:56.872000" end="0:43:57.259000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:43:56.872000" end="0:43:57.419000">
-aiso	-	-	-	-	0:43:57.259000	0:43:57.419000
+aiso	-	-	-	0:43:57.259000	0:43:57.419000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:43:57.419000" end="0:43:58.132000">
 </u>
@@ -1896,7 +1896,7 @@ aiso	-	-	-	-	0:43:57.259000	0:43:57.419000
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:49:15.312000" end="0:49:15.625000">
 </u>
 <u who="spk_736" sex="female" age="jung (20-30) weiblich" name="Informant BKMS401" start="0:49:15.312000" end="0:49:20.232000">
-also	-	-	-	-	0:49:15.312000	0:49:15.625000
+also	-	-	-	0:49:15.312000	0:49:15.625000
 </u>
 <u who="spk_737" sex="female" age="Unspezifisch" name="Informant BKMS401_F" start="0:49:20.232000" end="0:49:21.699000">
 </u>

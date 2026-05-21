@@ -303,7 +303,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:12:17.352000" end="0:12:17.925000">
 </u>
 <u who="spk_690" sex="male" age="alt (65+) männlich" name="Informant 4050" start="0:12:17.438000" end="0:12:29.638000">
-=MEInes	-	-	-	-	0:12:17.925000	0:12:21.672000
+=MEInes	-	-	-	0:12:17.925000	0:12:21.672000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:12:29.578000" end="0:12:29.858000">
 </u>

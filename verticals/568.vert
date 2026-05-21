@@ -1797,7 +1797,7 @@
 <u who="spk_638" sex="female" age="Unspezifisch" name="Informant 4037_F" start="0:39:37.239000" end="0:39:38.012000">
 </u>
 <u who="spk_214" sex="female" age="jung (20-30) weiblich" name="Informant 4037" start="0:39:38.012000" end="0:39:40.206000">
-FIND	-	-	-	-	0:39:38.366000	0:39:38.552000
+FIND	-	-	-	0:39:38.366000	0:39:38.552000
 </u>
 <u who="spk_638" sex="female" age="Unspezifisch" name="Informant 4037_F" start="0:39:40.206000" end="0:39:41.059000">
 </u>

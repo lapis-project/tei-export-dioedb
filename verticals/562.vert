@@ -5,12 +5,12 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:00:00" end="0:02:01.199000">
 </u>
 <u who="spk_239" sex="female" age="alt (65+) weiblich" name="Informant 4033" start="0:02:01.199000" end="0:02:02.146000">
-(1.1)	-	-	-	-	0:02:01.199000	0:02:02.146000
+(1.1)	-	-	-	0:02:01.199000	0:02:02.146000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:02:02.146000" end="0:02:03.812000">
 </u>
 <u who="spk_239" sex="female" age="alt (65+) weiblich" name="Informant 4033" start="0:02:03.812000" end="0:02:14.045000">
-JA	-	-	-	-	0:02:12.666000	0:02:14.045000
+JA	-	-	-	0:02:12.666000	0:02:14.045000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:02:14.045000" end="0:02:20.312000">
 </u>

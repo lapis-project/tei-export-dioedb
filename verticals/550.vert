@@ -777,7 +777,7 @@
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="0:24:12.931000" end="0:24:13.931000">
 </u>
 <u who="spk_232" sex="male" age="alt (65+) männlich" name="Informant 4022" start="0:24:13.931000" end="0:24:15.758000">
-[WINkel]OP	-	-	-	-	0:24:13.931000	0:24:15.111000
+[WINkel]OP	-	-	-	0:24:13.931000	0:24:15.111000
 </u>
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="0:24:15.758000" end="0:24:16.351000">
 </u>
@@ -2758,7 +2758,7 @@
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="1:12:53.420000" end="1:12:54.407000">
 </u>
 <u who="spk_232" sex="male" age="alt (65+) männlich" name="Informant 4022" start="1:12:53.420000" end="1:13:02.414000">
-(--)	-	-	-	-	1:13:00.360000	1:13:02.414000
+(--)	-	-	-	1:13:00.360000	1:13:02.414000
 </u>
 <u who="spk_632" sex="female" age="UNK" name="Informant EXP17" start="1:13:02.414000" end="1:13:03.867000">
 </u>

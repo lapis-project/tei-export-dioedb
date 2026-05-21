@@ -119,7 +119,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:14:36.832000" end="0:14:37.559000">
 </u>
 <u who="spk_676" sex="male" age="alt (65+) männlich" name="Informant 4056" start="0:14:37.559000" end="0:15:06.832000">
-(--)	-	-	-	-	0:15:05.859000	0:15:06.832000
+(--)	-	-	-	0:15:05.859000	0:15:06.832000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:15:06.172000" end="0:15:06.612000">
 </u>
@@ -168,7 +168,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:23:10.719000" end="0:23:11.239000">
 </u>
 <u who="spk_676" sex="male" age="alt (65+) männlich" name="Informant 4056" start="0:23:11.239000" end="0:23:53.059000">
-möcht	-	-	-	-	0:23:51.179000	0:23:51.539000
+möcht	-	-	-	0:23:51.179000	0:23:51.539000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:23:53.059000" end="0:23:53.545000">
 </u>
@@ -197,7 +197,7 @@ möcht	-	-	-	-	0:23:51.179000	0:23:51.539000
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:26:23.972000" end="0:26:24.625000">
 </u>
 <u who="spk_676" sex="male" age="alt (65+) männlich" name="Informant 4056" start="0:26:24.625000" end="0:27:19.852000">
-ALlan	-	-	-	-	0:27:18.605000	0:27:18.845000
+ALlan	-	-	-	0:27:18.605000	0:27:18.845000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:27:18.979000" end="0:27:19.345000">
 </u>
@@ -618,7 +618,7 @@ ALlan	-	-	-	-	0:27:18.605000	0:27:18.845000
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="1:04:29.818000" end="1:04:30.238000">
 </u>
 <u who="spk_676" sex="male" age="alt (65+) männlich" name="Informant 4056" start="1:04:33.251000" end="1:05:06.631000">
-(1.5)	-	-	-	-	1:04:46.711000	1:04:47.824000
+(1.5)	-	-	-	1:04:46.711000	1:04:47.824000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="1:05:06.631000" end="1:05:07.171000">
 </u>

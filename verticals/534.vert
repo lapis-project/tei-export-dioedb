@@ -11,7 +11,7 @@
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:04:24.359000" end="0:04:27.273000">
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:04:25.239000" end="0:04:25.586000">
-(.)	-	-	-	-	0:04:25.239000	0:04:25.586000
+(.)	-	-	-	0:04:25.239000	0:04:25.586000
 </u>
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:04:27.273000" end="0:04:32.286000">
 </u>
@@ -410,7 +410,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:13:35.486000" end="0:13:36.906000">
 </u>
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:13:36.906000" end="0:13:44.719000">
-=und	-	-	-	-	0:13:39.993000	0:13:41.819000
+=und	-	-	-	0:13:39.993000	0:13:41.819000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:13:43.713000" end="0:13:44.159000">
 </u>
@@ -501,7 +501,7 @@
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:16:01.286000" end="0:16:01.699000">
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:16:01.699000" end="0:16:17.259000">
-=haben	-	-	-	-	0:16:03.953000	0:16:08.106000
+=haben	-	-	-	0:16:03.953000	0:16:08.106000
 </u>
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:16:16.819000" end="0:16:30.099000">
 </u>
@@ -710,7 +710,7 @@
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:24:21.406000" end="0:24:23.339000">
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:24:23.146000" end="0:24:23.653000">
-m_	-	-	-	-	0:24:23.146000	0:24:23.653000
+m_	-	-	-	0:24:23.146000	0:24:23.653000
 </u>
 <u who="spk_220" sex="female" age="alt (65+) weiblich" name="Informant 4009" start="0:24:23.339000" end="0:24:24.193000">
 </u>

@@ -657,7 +657,7 @@
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:26:15.165000" end="0:26:15.592000">
 </u>
 <u who="spk_234" sex="male" age="alt (65+) männlich" name="Informant 4025" start="0:26:15.239000" end="0:26:20.372000">
-(-)	-	-	-	-	0:26:15.239000	0:26:16.692000
+(-)	-	-	-	0:26:15.239000	0:26:16.692000
 </u>
 <u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:26:20.372000" end="0:26:21.085000">
 </u>

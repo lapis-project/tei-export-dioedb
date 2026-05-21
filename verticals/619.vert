@@ -579,7 +579,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:25:22.608000" end="0:25:38.321000">
 </u>
 <u who="spk_704" sex="female" age="jung (20-30) weiblich" name="Informant 4077" start="0:25:42.281000" end="0:25:49.581000">
-<<kichernd>	-	-	-	-	0:25:44.861000	0:25:48.501000
+<<kichernd>	-	-	-	0:25:44.861000	0:25:48.501000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:25:49.581000" end="0:25:56.041000">
 </u>
@@ -604,7 +604,7 @@
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:26:58.734000" end="0:26:59.214000">
 </u>
 <u who="spk_704" sex="female" age="jung (20-30) weiblich" name="Informant 4077" start="0:26:59.214000" end="0:27:11.714000">
-(---)	-	-	-	-	0:27:03.174000	0:27:07.054000
+(---)	-	-	-	0:27:03.174000	0:27:07.054000
 </u>
 <u who="spk_630" sex="female" age="UNK" name="Informant EXP15" start="0:27:11.714000" end="0:27:14.814000">
 </u>

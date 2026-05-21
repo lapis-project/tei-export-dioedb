@@ -3,7 +3,7 @@
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:00:00" end="0:01:02.306000">
 </u>
 <u who="spk_919" sex="female" age="jung (20-30) weiblich" name="Informant BKMS422" start="0:00:00" end="0:01:04.193000">
-(-)	-	-	-	-	0:01:02.306000	0:01:03.306000
+(-)	-	-	-	0:01:02.306000	0:01:03.306000
 </u>
 <u who="spk_634" sex="female" age="UNK" name="Informant EXP19" start="0:01:04.193000" end="0:01:04.553000">
 </u>
