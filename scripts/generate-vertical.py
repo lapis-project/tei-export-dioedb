@@ -83,6 +83,14 @@ def get_timeline_definitions(root):
     return timeline
 
 
+def merge_strings(a, b, default_sep="|", empty_sep="-"):
+    if not a and not b:
+        return empty_sep
+    if not a or not b:
+        return a + b  # no separator
+    return f"{a}{default_sep}{b}"
+
+
 def convert_to_vertical(tei_dir, standoff_file, output_dir):
     # 1. Load Global Speaker DB
     speaker_db = load_speaker_data(standoff_file)
@@ -103,9 +111,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
             root = tree.getroot()
 
             # Metadata
-            title_node = root.xpath(
-                "//tei:teiHeader//tei:title/text()", namespaces=NS
-            )
+            title_node = root.xpath("//tei:teiHeader//tei:title/text()", namespaces=NS)
             title = title_node[0] if title_node else os.path.basename(file_path)
 
             # Token Standoff Map
@@ -121,9 +127,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
 
             with open(output_file, "w", encoding="utf-8") as f_out:
                 f_out.write(f'<doc id="{transcript_id}">\n')
-                f_out.write(
-                    f'<file id="{filename}" title="{title}">\n'
-                )
+                f_out.write(f'<file id="{filename}" title="{title}">\n')
 
                 # Iterate Utterances
                 for u in root.xpath("//tei:text//tei:u", namespaces=NS):
@@ -175,15 +179,19 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                                 if definition:
                                     if definition["type"] == "dioe_tokenset_tags":
                                         # Append the content of the tag
-                                        morph_tags.append(definition["value"])
+                                        morph_tags.append(
+                                            definition["value"].replace("#", "")
+                                        )
                                     elif definition["type"] == "dioe_tags":
                                         # Append content of tag
-                                        syntax_tags.append(definition["value"])
+                                        syntax_tags.append(
+                                            definition["value"].replace("#", "")
+                                        )
                                         # syntax_tags.append(ref)
 
                             # 3. Join multiple values (if a word has multiple tags of same type)
-                            str_morph = "|".join(morph_tags) if morph_tags else "-"
-                            str_syntax = "|".join(syntax_tags) if syntax_tags else "-"
+                            str_morph = "|".join(morph_tags) if morph_tags else ""
+                            str_syntax = "|".join(syntax_tags) if syntax_tags else ""
                             # ana = node.get("ana", "").replace("#", "")
                             # feats = token_map.get(ana, "-")
 
@@ -193,7 +201,7 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                             t_end = timeline_map.get(t_end_ref, "-")
 
                             f_out.write(
-                                f"{word}\t{lemma}\t{pos}\t{str_morph}\t{str_syntax}\t{t_start}\t{t_end}\n"
+                                f"{word}\t{lemma}\t{pos}\t{merge_strings(str_morph, str_syntax)}\t{t_start}\t{t_end}\n"
                             )
 
                         elif tag_name == "pause":
