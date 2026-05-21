@@ -1,1 +1,1 @@
-select id, ortho from token order by transcript_id_id, token_reihung;
+select id, ortho, text, text_in_ortho from token order by "ID_Inf_id", event_id_id, token_reihung, transcript_id_id;
