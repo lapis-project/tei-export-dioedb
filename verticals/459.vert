@@ -1,12 +1,12 @@
-<doc id="transcript_459">
+<doc id="transcript_459" name="0239_TARR_jungI_f_LESN_neu" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="459.xml" title="Transcript: Transcript_459">
-<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:00:46.840000" end="0:00:48.193000">
+<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:00:46.840000" end="0:00:48.193000" persName="Informant 0239">
 Nordwind	-	-	-	0:00:46.840000	0:00:48.193000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:00:46.840000" end="0:00:48.193000">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:00:46.840000" end="0:00:48.193000" persName="Informant EXP3">
 XXX	-	-	-	0:00:46.840000	0:00:48.193000
 </u>
-<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:00:46.840000" end="0:01:30.306000">
+<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:00:46.840000" end="0:01:30.306000" persName="Informant 0239">
 und	-	-	-	0:00:46.840000	0:00:48.193000
 Sonne	-	-	-	0:00:46.840000	0:00:48.193000
 .	-	-	-	0:00:46.840000	0:00:48.193000
@@ -135,10 +135,10 @@ der	-	-	-	0:01:27.240000	0:01:30.306000
 Stärkere	-	-	kch kReal kVar L LautNach LautVor Ons Ons- Vpal	0:01:27.240000	0:01:30.306000
 war	-	-	-	0:01:27.240000	0:01:30.306000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:01:30.306000" end="0:01:32.173000">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:01:30.306000" end="0:01:32.173000" persName="Informant EXP3">
 XXX	-	-	-	0:01:30.306000	0:01:32.173000
 </u>
-<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:01:30.306000" end="0:01:32.173000">
+<u who="spk_164" sex="female" age="jung (18-35) -matura" name="Informant 0239" start="0:01:30.306000" end="0:01:32.173000" persName="Informant 0239">
 XXX	-	-	-	0:01:30.306000	0:01:32.173000
 </u>
 </file>

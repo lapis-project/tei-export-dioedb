@@ -1,6 +1,6 @@
-<doc id="transcript_253">
+<doc id="transcript_253" name="0006_PIR_alt_f_LESW" erhebung="LesenWortliste_PP03" erhebungsart="Vorlesen">
 <file id="253.xml" title="Transcript: Transcript_253">
-<u who="spk_61" sex="female" age="Alt (65+)" name="Informant 0006" start="0:00:00.554000" end="0:00:00.902000">
+<u who="spk_61" sex="female" age="Alt (65+)" name="Informant 0006" start="0:00:00.554000" end="0:00:00.902000" persName="Informant 0006">
 test	-	-	-	0:00:00.554000	0:00:00.902000
 test	-	-	-	0:00:00.554000	0:00:00.902000
 abc	-	-	-	0:00:00.554000	0:00:00.902000
@@ -10,7 +10,7 @@ cde	-	-	-	0:00:00.554000	0:00:00.902000
 fgf	-	-	-	0:00:00.554000	0:00:00.902000
 fgf	-	-	-	0:00:00.554000	0:00:00.902000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:00.902000" end="0:00:01.226000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:00.902000" end="0:00:01.226000" persName="Informant EXP11">
 abc	-	-	-	0:00:00.902000	0:00:01.226000
 abc	-	-	-	0:00:00.902000	0:00:01.226000
 def	-	-	-	0:00:00.902000	0:00:01.226000

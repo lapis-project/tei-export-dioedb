@@ -1,12 +1,12 @@
-<doc id="transcript_483">
+<doc id="transcript_483" name="0533_ALL_jungII_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="483.xml" title="Transcript: Transcript_483">
-<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:14.680000" end="0:01:16.153000">
+<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:14.680000" end="0:01:16.153000" persName="Informant 0533">
 Nordwind	-	-	-	0:01:14.680000	0:01:16.153000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:14.680000" end="0:01:16.153000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:14.680000" end="0:01:16.153000" persName="Informant EXP5">
 XXX	-	-	-	0:01:14.680000	0:01:16.153000
 </u>
-<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:14.680000" end="0:01:56.326000">
+<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:14.680000" end="0:01:56.326000" persName="Informant 0533">
 und	-	-	-	0:01:14.680000	0:01:16.153000
 Sonne	-	-	-	0:01:14.680000	0:01:16.153000
 .	-	-	-	0:01:14.680000	0:01:16.153000
@@ -138,10 +138,10 @@ der	-	-	-	0:01:53.580000	0:01:56.326000
 Stärkere	-	-	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:01:53.580000	0:01:56.326000
 war	-	-	-	0:01:53.580000	0:01:56.326000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:56.326000" end="0:01:57.446000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:56.326000" end="0:01:57.446000" persName="Informant EXP5">
 XXX	-	-	-	0:01:56.326000	0:01:57.446000
 </u>
-<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:56.326000" end="0:01:57.446000">
+<u who="spk_202" sex="female" age="jung (18-35) +matura" name="Informant 0533" start="0:01:56.326000" end="0:01:57.446000" persName="Informant 0533">
 XXX	-	-	-	0:01:56.326000	0:01:57.446000
 </u>
 </file>

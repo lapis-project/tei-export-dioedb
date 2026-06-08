@@ -1,6 +1,6 @@
-<doc id="transcript_246">
+<doc id="transcript_246" name="0506_RAGG_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="RAGG" ort_namelang="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580">
 <file id="246.xml" title="Transcript: Transcript_246">
-<u who="spk_91" sex="male" age="jung (18-35) -matura" name="Informant 0506" start="0:00:00" end="0:01:10.451000">
+<u who="spk_91" sex="male" age="jung (18-35) -matura" name="Informant 0506" start="0:00:00" end="0:01:10.451000" persName="Informant 0506">
 XXX	XXXNordwind	PROPN	-	0:00:00	0:00:17.112000
 Nordwind	-	SPACE	-	0:00:17.112000	0:00:19.112000
 und	und	CCONJ	-	0:00:17.112000	0:00:19.112000

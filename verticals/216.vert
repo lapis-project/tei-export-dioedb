@@ -1,6 +1,6 @@
-<doc id="transcript_216">
+<doc id="transcript_216" name="0025_NECK_jungII_m_LESN_Vers6" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="NECK" ort_namelang="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316">
 <file id="216.xml" title="Transcript: Transcript_216">
-<u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" start="0:00:00" end="0:00:36.977000">
+<u who="spk_6" sex="male" age="jung (18-35) +matura" name="Informant 0025" start="0:00:00" end="0:00:36.977000" persName="Informant 0025">
 Nordwind	Nordwind	NOUN	-	0:00:00	0:00:03.093000
 und	und	CCONJ	-	0:00:00	0:00:03.093000
 Sonne	sonnen	NOUN	-	0:00:00	0:00:03.093000

@@ -1,10 +1,10 @@
-<doc id="transcript_544">
+<doc id="transcript_544" name="4017_THAL_alt_m_CAF" erhebung="Freundesgespräch_PP04" erhebungsart="Gespräch ohne Explorator/in">
 <file id="544.xml" title="Transcript: Transcript_544">
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:00" end="0:00:14.666000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:00" end="0:00:14.666000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:00" end="0:00:14.666000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:00" end="0:00:14.666000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:14.666000" end="0:00:32.313000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:14.666000" end="0:00:32.313000" persName="Informant 4017">
 wir	-	-	-	0:00:14.666000	0:00:16.199000
 haben	-	-	-	0:00:14.666000	0:00:16.199000
 zwar	-	-	-	0:00:14.666000	0:00:16.199000
@@ -23,7 +23,7 @@ den	-	-	-	0:00:17.659000	0:00:21.326000
 <pause duration="0,6s"/>
 Verein	-	-	-	0:00:17.659000	0:00:21.326000
 Alkoblitz	-	-	-	0:00:17.659000	0:00:21.326000
-,	-	-	-	0:00:17.659000	0:00:21.326000
+SONSTIGE	SONSTIGE	-	-	0:00:17.659000	0:00:21.326000
 <pause duration="0,6s"/>
 der	-	-	-	0:00:21.326000	0:00:24.899000
 d/	-	-	-	0:00:21.326000	0:00:24.899000
@@ -56,7 +56,7 @@ im	-	-	-	0:00:29.373000	0:00:32.313000
 Jahr	-	-	-	0:00:29.373000	0:00:32.313000
 ?	-	-	-	0:00:29.373000	0:00:32.313000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:32.313000" end="0:00:34.379000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:32.313000" end="0:00:34.379000" persName="Informant 4017_F">
 <pause duration="0,8s"/>
 ich	-	-	-	0:00:32.313000	0:00:34.086000
 ich	-	-	-	0:00:32.313000	0:00:34.086000
@@ -67,13 +67,13 @@ schon	-	-	-	0:00:32.313000	0:00:34.086000
 ja	-	-	-	0:00:34.086000	0:00:34.379000
 .	-	-	-	0:00:34.086000	0:00:34.379000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:34.379000" end="0:00:37.899000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:34.379000" end="0:00:37.899000" persName="Informant 4017">
 ja	-	-	-	0:00:34.379000	0:00:34.719000
 .	-	-	-	0:00:34.379000	0:00:34.719000
 tust	-	-	-	0:00:36.926000	0:00:37.899000
 volleysp/	-	-	-	0:00:36.926000	0:00:37.899000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:37.359000" end="0:00:39.273000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:37.359000" end="0:00:39.273000" persName="Informant 4017_F">
 ich	-	-	-	0:00:37.359000	0:00:39.273000
 zahle	-	-	-	0:00:37.359000	0:00:39.273000
 ich	-	-	-	0:00:37.359000	0:00:39.273000
@@ -85,16 +85,16 @@ Kameraden	-	-	-	0:00:37.359000	0:00:39.273000
 auch	-	-	-	0:00:37.359000	0:00:39.273000
 .	-	-	-	0:00:37.359000	0:00:39.273000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:39.273000" end="0:00:39.813000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:39.273000" end="0:00:39.813000" persName="Informant 4017">
 aha	-	-	-	0:00:39.273000	0:00:39.813000
 .	-	-	-	0:00:39.273000	0:00:39.813000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:39.813000" end="0:00:41.159000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:39.813000" end="0:00:41.159000" persName="Informant 4017_F">
 <pause duration="0,7s"/>
 Musikverein	-	-	-	0:00:39.813000	0:00:41.159000
 .	-	-	-	0:00:39.813000	0:00:41.159000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:41.159000" end="0:00:52.593000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:41.159000" end="0:00:52.593000" persName="Informant 4017">
 <pause duration="1,1s"/>
 siehst	-	-	-	0:00:41.159000	0:00:42.686000
 ,	-	-	-	0:00:41.159000	0:00:42.686000
@@ -123,10 +123,10 @@ und	-	-	-	0:00:51.286000	0:00:52.593000
 und	-	-	-	0:00:51.286000	0:00:52.593000
 ähm	-	-	-	0:00:51.286000	0:00:52.593000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:52.593000" end="0:00:53.746000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:00:52.593000" end="0:00:53.746000" persName="Informant 4017_F">
 <pause duration="seufzen"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:52.593000" end="0:01:00.426000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:00:52.593000" end="0:01:00.426000" persName="Informant 4017">
 aber	-	-	-	0:00:53.753000	0:00:54.893000
 aber	-	-	-	0:00:53.753000	0:00:54.893000
 Musikverein	-	-	-	0:00:53.753000	0:00:54.893000
@@ -149,12 +149,12 @@ Alter	-	-	-	0:00:59.053000	0:01:00.426000
 hat	-	-	-	0:00:59.053000	0:01:00.426000
 .	-	-	-	0:00:59.053000	0:01:00.426000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:00.426000" end="0:01:00.919000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:00.426000" end="0:01:00.919000" persName="Informant 4017_F">
 ach	-	-	-	0:01:00.426000	0:01:00.919000
 so	-	-	-	0:01:00.426000	0:01:00.919000
 ,	-	-	-	0:01:00.426000	0:01:00.919000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:00.859000" end="0:01:03.679000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:00.859000" end="0:01:03.679000" persName="Informant 4017">
 und	-	-	-	0:01:00.859000	0:01:03.679000
 das	-	-	-	0:01:00.859000	0:01:03.679000
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:01:00.859000	0:01:03.679000
@@ -167,13 +167,13 @@ nicht	-	-	-	0:01:00.859000	0:01:03.679000
 angetan	-	-	-	0:01:00.859000	0:01:03.679000
 .	-	-	-	0:01:00.859000	0:01:03.679000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:00.919000" end="0:01:01.819000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:00.919000" end="0:01:01.819000" persName="Informant 4017_F">
 ja	-	-	-	0:01:00.919000	0:01:01.819000
 ,	-	-	-	0:01:00.919000	0:01:01.819000
 ja	-	-	-	0:01:00.919000	0:01:01.819000
 ,	-	-	-	0:01:00.919000	0:01:01.819000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:03.679000" end="0:01:11.159000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:03.679000" end="0:01:11.159000" persName="Informant 4017">
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:01:03.679000	0:01:04.726000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:01:03.679000	0:01:04.726000
 gesagt	-	-	-	0:01:03.679000	0:01:04.726000
@@ -195,7 +195,7 @@ relativ	-	-	-	0:01:06.666000	0:01:09.706000
 _	-	-	-	0:01:06.666000	0:01:09.706000
 _wurscht_	-	-	-	0:01:06.666000	0:01:09.706000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:11.159000" end="0:01:14.346000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:11.159000" end="0:01:14.346000" persName="Informant 4017_F">
 m/	-	-	-	0:01:12.206000	0:01:14.139000
 singe	-	-	-	0:01:12.206000	0:01:14.139000
 ich	-	-	-	0:01:12.206000	0:01:14.139000
@@ -208,7 +208,7 @@ nachher	-	-	-	0:01:12.206000	0:01:14.139000
 nicht	-	-	-	0:01:14.139000	0:01:14.346000
 ?	-	-	-	0:01:14.139000	0:01:14.346000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:14.346000" end="0:01:16.739000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:14.346000" end="0:01:16.739000" persName="Informant 4017">
 und	-	-	-	0:01:14.346000	0:01:14.966000
 /	-	-	-	0:01:14.346000	0:01:14.966000
 <pause duration="0,5s"/>
@@ -221,10 +221,10 @@ ist	-	-	-	0:01:16.113000	0:01:16.739000
 schön	-	-	-	0:01:16.113000	0:01:16.739000
 .	-	-	-	0:01:16.113000	0:01:16.739000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:16.119000" end="0:01:16.479000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:16.119000" end="0:01:16.479000" persName="Informant 4017_F">
 m/	-	-	-	0:01:16.119000	0:01:16.479000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:16.739000" end="0:01:18.026000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:16.739000" end="0:01:18.026000" persName="Informant 4017">
 ja	-	-	-	0:01:16.739000	0:01:18.026000
 was	-	-	-	0:01:16.739000	0:01:18.026000
 singst	-	-	_du KlitBasis KlitPron KlitReal prodrop PronForm V+Kl	0:01:16.739000	0:01:18.026000
@@ -233,7 +233,7 @@ zum	-	-	-	0:01:16.739000	0:01:18.026000
 Beispiel	-	-	-	0:01:16.739000	0:01:18.026000
 ?	-	-	-	0:01:16.739000	0:01:18.026000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:18.026000" end="0:01:25.233000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:18.026000" end="0:01:25.233000" persName="Informant 4017_F">
 <pause duration="1,4s"/>
 ja	-	-	-	0:01:18.026000	0:01:20.053000
 ,	-	-	-	0:01:18.026000	0:01:20.053000
@@ -254,7 +254,7 @@ Steirer	-	-	-	0:01:22.173000	0:01:25.233000
 singen	-	-	-	0:01:22.173000	0:01:25.233000
 ?	-	-	-	0:01:22.173000	0:01:25.233000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:25.233000" end="0:01:32.499000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:25.233000" end="0:01:32.499000" persName="Informant 4017">
 <pause duration="2,0s"/>
 ja	-	-	-	0:01:27.233000	0:01:27.393000
 .	-	-	-	0:01:27.233000	0:01:27.393000
@@ -265,7 +265,7 @@ dich	-	-	-	0:01:27.393000	0:01:29.326000
 gern"	-	-	-	0:01:27.393000	0:01:29.326000
 .	-	-	-	0:01:27.393000	0:01:29.326000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:34.999000" end="0:01:44.033000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:34.999000" end="0:01:44.033000" persName="Informant 4017_F">
 nein	-	-	-	0:01:34.999000	0:01:36.106000
 ,	-	-	-	0:01:34.999000	0:01:36.106000
 das	-	-	-	0:01:34.999000	0:01:36.106000
@@ -289,11 +289,11 @@ sie	-	-	-	0:01:42.853000	0:01:43.806000
 nicht	-	-	-	0:01:43.806000	0:01:44.033000
 ?	-	-	-	0:01:43.806000	0:01:44.033000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:44.033000" end="0:01:45.233000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:44.033000" end="0:01:45.233000" persName="Informant 4017">
 ja	-	-	-	0:01:44.033000	0:01:44.279000
 ?	-	-	-	0:01:44.033000	0:01:44.279000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:45.233000" end="0:01:50.393000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:45.233000" end="0:01:50.393000" persName="Informant 4017_F">
 aus	-	-	-	0:01:45.233000	0:01:46.199000
 den	-	-	-	0:01:45.233000	0:01:46.199000
 einen	-	-	-	0:01:45.233000	0:01:46.199000
@@ -322,7 +322,7 @@ hat	-	-	-	0:01:49.039000	0:01:50.246000
 nicht	-	-	-	0:01:50.246000	0:01:50.393000
 ?	-	-	-	0:01:50.246000	0:01:50.393000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:50.393000" end="0:01:57.633000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:50.393000" end="0:01:57.633000" persName="Informant 4017">
 ähm	-	-	-	0:01:50.393000	0:01:51.199000
 d/	-	-	-	0:01:50.393000	0:01:51.199000
 sicherlich	-	-	-	0:01:50.393000	0:01:51.199000
@@ -350,12 +350,12 @@ die	-	-	-	0:01:55.959000	0:01:57.633000
 die	-	-	-	0:01:55.959000	0:01:57.633000
 /	-	-	-	0:01:55.959000	0:01:57.633000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:57.633000" end="0:01:58.326000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:01:57.633000" end="0:01:58.326000" persName="Informant 4017_F">
 <pause duration="räuspern"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:58.326000" end="0:02:00.686000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:01:58.326000" end="0:02:00.686000" persName="Informant 4017">
 die	-	-	-	0:01:58.326000	0:01:58.993000
-[Wetzis]N	-	-	-	0:01:58.326000	0:01:58.993000
+NAME	NAME	-	-	0:01:58.326000	0:01:58.993000
 ,	-	-	-	0:01:58.326000	0:01:58.993000
 die	-	-	-	0:01:58.993000	0:02:00.686000
 sind	-	-	-	0:01:58.993000	0:02:00.686000
@@ -364,12 +364,12 @@ alle	-	-	-	0:01:58.993000	0:02:00.686000
 dabei	-	-	-	0:01:58.993000	0:02:00.686000
 .	-	-	-	0:01:58.993000	0:02:00.686000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:00.319000" end="0:02:00.693000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:00.319000" end="0:02:00.693000" persName="Informant 4017_F">
 <pause duration="räuspern"/>
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:00.686000" end="0:02:07.673000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:00.686000" end="0:02:07.673000" persName="Informant 4017">
 die	-	-	-	0:02:00.686000	0:02:01.939000
-[Wiesner]N	-	-	-	0:02:00.686000	0:02:01.939000
+NAME	NAME	-	-	0:02:00.686000	0:02:01.939000
 sind	-	-	-	0:02:00.686000	0:02:01.939000
 dabei	-	-	-	0:02:00.686000	0:02:01.939000
 .	-	-	-	0:02:00.686000	0:02:01.939000
@@ -389,12 +389,12 @@ ein/	-	-	-	0:02:06.386000	0:02:07.673000
 eine)	-	-	-	0:02:06.386000	0:02:07.673000
 /	-	-	-	0:02:06.386000	0:02:07.673000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:07.173000" end="0:02:07.899000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:07.173000" end="0:02:07.899000" persName="Informant 4017_F">
 keine	-	-	-	0:02:07.173000	0:02:07.899000
 Ahnung	-	-	-	0:02:07.173000	0:02:07.899000
 .	-	-	-	0:02:07.173000	0:02:07.899000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:07.673000" end="0:02:09.519000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:07.673000" end="0:02:09.519000" persName="Informant 4017">
 kriegen	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.nom.) klit+	0:02:07.673000	0:02:08.339000
 sie	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _sie(pl.nom.) klit+	0:02:07.673000	0:02:08.339000
 da	-	-	-	0:02:07.673000	0:02:08.339000
@@ -407,21 +407,21 @@ alle	-	-	-	0:02:08.339000	0:02:09.519000
 Fälle	-	-	-	0:02:08.339000	0:02:09.519000
 ,	-	-	-	0:02:08.339000	0:02:09.519000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:08.793000" end="0:02:09.193000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:08.793000" end="0:02:09.193000" persName="Informant 4017_F">
 ja	-	-	-	0:02:08.793000	0:02:09.193000
 .	-	-	-	0:02:08.793000	0:02:09.193000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:09.519000" end="0:02:10.446000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:09.519000" end="0:02:10.446000" persName="Informant 4017">
 rücken	-	-	-	0:02:09.519000	0:02:10.446000
 auch	-	-	-	0:02:09.519000	0:02:10.446000
 aus	-	-	-	0:02:09.519000	0:02:10.446000
 ,	-	-	-	0:02:09.519000	0:02:10.446000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:09.651000" end="0:02:09.865000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:09.651000" end="0:02:09.865000" persName="Informant 4017_F">
 ich	-	-	-	0:02:09.651000	0:02:09.865000
 g/	-	-	-	0:02:09.651000	0:02:09.865000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:10.446000" end="0:02:13.399000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:10.446000" end="0:02:13.399000" persName="Informant 4017">
 wie	-	-	-	0:02:10.446000	0:02:11.399000
 das	-	-	-	0:02:10.446000	0:02:11.399000
 so	-	-	-	0:02:10.446000	0:02:11.399000
@@ -429,7 +429,7 @@ schön	-	-	-	0:02:10.446000	0:02:11.399000
 heißt	-	-	-	0:02:10.446000	0:02:11.399000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:13.399000" end="0:02:16.426000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:13.399000" end="0:02:16.426000" persName="Informant 4017_F">
 <pause duration="0,6s"/>
 ich	-	-	-	0:02:13.399000	0:02:16.426000
 bin	-	-	-	0:02:13.399000	0:02:16.426000
@@ -448,11 +448,11 @@ den	-	-	-	0:02:13.399000	0:02:16.426000
 Sinn	-	-	-	0:02:13.399000	0:02:16.426000
 ,	-	-	-	0:02:13.399000	0:02:16.426000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:14.086000" end="0:02:14.399000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:14.086000" end="0:02:14.399000" persName="Informant 4017">
 aber	-	-	-	0:02:14.086000	0:02:14.399000
 /	-	-	-	0:02:14.086000	0:02:14.399000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:16.426000" end="0:02:17.126000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:16.426000" end="0:02:17.126000" persName="Informant 4017_F">
 nicht	-	-	-	0:02:16.426000	0:02:16.619000
 ?	-	-	-	0:02:16.426000	0:02:16.619000
 das	-	-	-	0:02:16.619000	0:02:17.126000
@@ -461,7 +461,7 @@ ja	-	-	-	0:02:16.619000	0:02:17.126000
 nur	-	-	-	0:02:16.619000	0:02:17.126000
 /	-	-	-	0:02:16.619000	0:02:17.126000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:16.619000" end="0:02:20.546000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:16.619000" end="0:02:20.546000" persName="Informant 4017">
 ja	-	-	-	0:02:16.619000	0:02:18.399000
 ,	-	-	-	0:02:16.619000	0:02:18.399000
 ja	-	-	-	0:02:16.619000	0:02:18.399000
@@ -471,8 +471,9 @@ gut	-	-	-	0:02:16.619000	0:02:18.399000
 ,	-	-	-	0:02:16.619000	0:02:18.399000
 okay	-	-	-	0:02:16.619000	0:02:18.399000
 ,	-	-	-	0:02:16.619000	0:02:18.399000
+NAME	NAME	-	-	0:02:18.399000	0:02:20.546000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:19.939000" end="0:02:22.053000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:19.939000" end="0:02:22.053000" persName="Informant 4017_F">
 ähm	-	-	-	0:02:19.939000	0:02:22.053000
 also	-	-	-	0:02:19.939000	0:02:22.053000
 also	-	-	-	0:02:19.939000	0:02:22.053000
@@ -481,14 +482,15 @@ mit	-	-	-	0:02:19.939000	0:02:22.053000
 mit	-	-	-	0:02:19.939000	0:02:22.053000
 f/	-	-	-	0:02:19.939000	0:02:22.053000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:20.546000" end="0:02:28.813000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:20.546000" end="0:02:28.813000" persName="Informant 4017">
+NAME	NAME	-	-	0:02:20.546000	0:02:22.466000
 <pause duration="1,2s"/>
 zwei	-	-	-	0:02:25.013000	0:02:27.013000
 die	-	-	-	0:02:25.013000	0:02:27.013000
 sind	-	-	-	0:02:25.013000	0:02:27.013000
 sehr	-	-	-	0:02:25.013000	0:02:27.013000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:28.813000" end="0:02:32.139000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:28.813000" end="0:02:32.139000" persName="Informant 4017_F">
 <pause duration="1,1s"/>
 also	-	-	-	0:02:28.813000	0:02:32.139000
 mit	-	-	-	0:02:28.813000	0:02:32.139000
@@ -501,13 +503,13 @@ sicher	-	-	-	0:02:28.813000	0:02:32.139000
 nicht	-	-	-	0:02:28.813000	0:02:32.139000
 .	-	-	-	0:02:28.813000	0:02:32.139000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:32.139000" end="0:02:34.593000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:32.139000" end="0:02:34.593000" persName="Informant 4017">
 na	-	-	-	0:02:32.139000	0:02:32.413000
 t/	-	-	-	0:02:32.139000	0:02:32.413000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:33.166000" end="0:02:33.579000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:02:33.166000" end="0:02:33.579000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:34.593000" end="0:03:17.026000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:02:34.593000" end="0:03:17.026000" persName="Informant 4017">
 <pause duration="1,0s"/>
 d/	-	-	-	0:02:34.593000	0:02:36.606000
 die	-	-	-	0:02:34.593000	0:02:36.606000
@@ -636,7 +638,7 @@ dabei	-	-	-	0:03:14.799000	0:03:16.813000
 nicht	-	-	0int final Int konsak medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:03:16.813000	0:03:17.026000
 ?	-	-	-	0:03:16.813000	0:03:17.026000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:17.026000" end="0:03:18.659000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:17.026000" end="0:03:18.659000" persName="Informant 4017_F">
 aber	-	-	-	0:03:17.026000	0:03:18.659000
 aber	-	-	-	0:03:17.026000	0:03:18.659000
 so	-	-	-	0:03:17.026000	0:03:18.659000
@@ -644,13 +646,13 @@ viele	-	-	-	0:03:17.026000	0:03:18.659000
 Leute	-	-	-	0:03:17.026000	0:03:18.659000
 ,	-	-	-	0:03:17.026000	0:03:18.659000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:17.359000" end="0:03:17.866000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:17.359000" end="0:03:17.866000" persName="Informant 4017">
 wenn	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:03:17.359000	0:03:17.866000
 ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:03:17.359000	0:03:17.866000
 denke	-	-	-	0:03:17.359000	0:03:17.866000
 /	-	-	-	0:03:17.359000	0:03:17.866000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:18.659000" end="0:03:23.172000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:18.659000" end="0:03:23.172000" persName="Informant 4017_F">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:03:18.659000	0:03:20.079000
 sage	-	-	-	0:03:18.659000	0:03:20.079000
@@ -672,7 +674,7 @@ oder	-	-	-	0:03:20.652000	0:03:23.172000
 nicht	-	-	-	0:03:20.652000	0:03:23.172000
 .	-	-	-	0:03:20.652000	0:03:23.172000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:23.172000" end="0:03:26.532000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:23.172000" end="0:03:26.532000" persName="Informant 4017">
 <pause duration="0,6s"/>
 ja	-	-	-	0:03:23.172000	0:03:24.572000
 ,	-	-	-	0:03:23.172000	0:03:24.572000
@@ -689,11 +691,11 @@ am	-	-	-	0:03:24.572000	0:03:26.532000
 Pfarrer	-	-	-	0:03:24.572000	0:03:26.532000
 ,	-	-	-	0:03:24.572000	0:03:26.532000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:25.292000" end="0:03:25.872000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:25.292000" end="0:03:25.872000" persName="Informant 4017_F">
 mein	-	-	-	0:03:25.292000	0:03:25.872000
 ,	-	-	-	0:03:25.292000	0:03:25.872000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:26.532000" end="0:03:30.232000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:26.532000" end="0:03:30.232000" persName="Informant 4017">
 nicht	-	-	0int evimark final Int medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:03:26.532000	0:03:26.706000
 ?	-	-	-	0:03:26.532000	0:03:26.706000
 in	-	-	-	0:03:26.706000	0:03:27.626000
@@ -713,11 +715,11 @@ eine	-	-	-	0:03:28.586000	0:03:30.232000
 Osterprozession	-	-	-	0:03:28.586000	0:03:30.232000
 ,	-	-	-	0:03:28.586000	0:03:30.232000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:28.706000" end="0:03:29.132000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:28.706000" end="0:03:29.132000" persName="Informant 4017_F">
 die	-	-	-	0:03:28.706000	0:03:29.132000
 pf/	-	-	-	0:03:28.706000	0:03:29.132000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:30.232000" end="0:03:34.512000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:30.232000" end="0:03:34.512000" persName="Informant 4017">
 da	-	-	-	0:03:30.232000	0:03:31.499000
 hat	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:03:30.232000	0:03:31.499000
 es	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:03:30.232000	0:03:31.499000
@@ -738,11 +740,11 @@ gegangen	-	-	-	0:03:32.666000	0:03:34.512000
 mit	-	-	-	0:03:32.666000	0:03:34.512000
 der	-	-	-	0:03:32.666000	0:03:34.512000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:33.132000" end="0:03:33.452000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:33.132000" end="0:03:33.452000" persName="Informant 4017_F">
 ja	-	-	-	0:03:33.132000	0:03:33.452000
 .	-	-	-	0:03:33.132000	0:03:33.452000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:34.512000" end="0:03:47.879000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:34.512000" end="0:03:47.879000" persName="Informant 4017">
 und	-	-	-	0:03:35.426000	0:03:39.352000
 dann	-	-	-	0:03:35.426000	0:03:39.352000
 haben	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:03:35.426000	0:03:39.352000
@@ -778,13 +780,13 @@ viel	-	-	-	0:03:45.959000	0:03:47.879000
 Arbeit	-	-	-	0:03:45.959000	0:03:47.879000
 .	-	-	-	0:03:45.959000	0:03:47.879000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:47.879000" end="0:03:48.766000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:03:47.879000" end="0:03:48.766000" persName="Informant 4017_F">
 das	-	-	-	0:03:47.879000	0:03:48.766000
 ist	-	-	-	0:03:47.879000	0:03:48.766000
 es	-	-	-	0:03:47.879000	0:03:48.766000
 .	-	-	-	0:03:47.879000	0:03:48.766000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:47.879000" end="0:04:10.892000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:03:47.879000" end="0:04:10.892000" persName="Informant 4017">
 und	-	-	-	0:03:47.879000	0:03:49.872000
 und	-	-	-	0:03:47.879000	0:03:49.872000
 und	-	-	-	0:03:47.879000	0:03:49.872000
@@ -837,24 +839,24 @@ sehr	-	-	-	0:04:05.399000	0:04:10.892000
 froh	-	-	-	0:04:05.399000	0:04:10.892000
 ,	-	-	-	0:04:05.399000	0:04:10.892000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:08.886000" end="0:04:09.699000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:08.886000" end="0:04:09.699000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:10.892000" end="0:04:11.619000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:10.892000" end="0:04:11.619000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:11.619000" end="0:04:14.612000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:11.619000" end="0:04:14.612000" persName="Informant 4017_F">
 <pause duration="0,5s"/>
 na	-	-	-	0:04:11.619000	0:04:14.612000
 ja	-	-	-	0:04:11.619000	0:04:14.612000
 ,	-	-	-	0:04:11.619000	0:04:14.612000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:11.619000" end="0:04:13.246000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:11.619000" end="0:04:13.246000" persName="Informant 4017">
 <pause duration="0,5s"/>
 in	-	-	-	0:04:11.619000	0:04:13.246000
 dem	-	-	-	0:04:11.619000	0:04:13.246000
 Bereich	-	-	-	0:04:11.619000	0:04:13.246000
 .	-	-	-	0:04:11.619000	0:04:13.246000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:14.612000" end="0:04:17.466000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:14.612000" end="0:04:17.466000" persName="Informant 4017_F">
 nicht	-	-	-	0:04:14.612000	0:04:14.792000
 ?	-	-	-	0:04:14.612000	0:04:14.792000
 <pause duration="0,9s"/>
@@ -867,20 +869,20 @@ und	-	-	-	0:04:14.792000	0:04:17.466000
 her	-	-	-	0:04:14.792000	0:04:17.466000
 .	-	-	-	0:04:14.792000	0:04:17.466000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:17.219000" end="0:04:18.659000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:17.219000" end="0:04:18.659000" persName="Informant 4017">
 <pause duration="schmatzen"/>
 ähm	-	-	-	0:04:17.219000	0:04:18.659000
 er	-	-	-	0:04:17.219000	0:04:18.659000
 so	-	-	-	0:04:17.219000	0:04:18.659000
 /	-	-	-	0:04:17.219000	0:04:18.659000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:17.466000" end="0:04:19.319000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:17.466000" end="0:04:19.319000" persName="Informant 4017_F">
 und	-	-	-	0:04:17.466000	0:04:19.319000
 in	-	-	-	0:04:17.466000	0:04:19.319000
 der	-	-	-	0:04:17.466000	0:04:19.319000
 Flüchtlingsfrage	-	-	-	0:04:17.466000	0:04:19.319000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:18.659000" end="0:04:45.092000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:18.659000" end="0:04:45.092000" persName="Informant 4017">
 er	-	-	-	0:04:18.659000	0:04:21.185000
 ist	-	-	-	0:04:18.659000	0:04:21.185000
 auch	-	-	-	0:04:18.659000	0:04:21.185000
@@ -950,16 +952,16 @@ aber	-	-	-	0:04:40.992000	0:04:42.332000
 okay	-	-	-	0:04:40.992000	0:04:42.332000
 ,	-	-	-	0:04:40.992000	0:04:42.332000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:46.992000" end="0:04:48.026000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:46.992000" end="0:04:48.026000" persName="Informant 4017_F">
 für	-	-	-	0:04:46.992000	0:04:48.026000
-[Thal]O	-	-	-	0:04:46.992000	0:04:48.026000
+ORT	ORT	-	-	0:04:46.992000	0:04:48.026000
 reicht	-	-	-	0:04:46.992000	0:04:48.026000
 es	-	-	-	0:04:46.992000	0:04:48.026000
 .	-	-	-	0:04:46.992000	0:04:48.026000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:48.026000" end="0:04:52.832000">
-für	-	-	-	0:04:48.026000	0:04:49.439000
-[Thal]O	-	-	-	0:04:48.026000	0:04:49.439000
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:48.026000" end="0:04:52.832000" persName="Informant 4017">
+ORT	ORT	-	-	0:04:48.026000	0:04:49.439000
+ORT	ORT	-	-	0:04:48.026000	0:04:49.439000
 reicht	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:04:48.026000	0:04:49.439000
 es=<<lachend>	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _es(nom.) klit+	0:04:48.026000	0:04:49.439000
 aber	-	-	-	0:04:49.439000	0:04:49.959000
@@ -974,12 +976,12 @@ Burgenländer	-	-	-	0:04:50.926000	0:04:52.832000
 nehmen	-	-	-	0:04:50.926000	0:04:52.832000
 .	-	-	-	0:04:50.926000	0:04:52.832000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:52.832000" end="0:04:53.912000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:52.832000" end="0:04:53.912000" persName="Informant 4017_F">
 <pause duration="0,8s"/>
 nein	-	-	-	0:04:52.832000	0:04:53.912000
 .	-	-	-	0:04:52.832000	0:04:53.912000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:52.832000" end="0:04:55.392000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:52.832000" end="0:04:55.392000" persName="Informant 4017">
 <pause duration="0,8s"/>
 Kärntner	-	-	-	0:04:52.832000	0:04:55.392000
 hätten	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:04:52.832000	0:04:55.392000
@@ -990,7 +992,7 @@ einen	-	-	-	0:04:52.832000	0:04:55.392000
 gekriegt	-	-	-	0:04:52.832000	0:04:55.392000
 .	-	-	-	0:04:52.832000	0:04:55.392000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:54.606000" end="0:04:55.899000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:54.606000" end="0:04:55.899000" persName="Informant 4017_F">
 man	-	-	-	0:04:54.606000	0:04:55.392000
 darf	-	-	-	0:04:54.606000	0:04:55.392000
 es	-	-	-	0:04:54.606000	0:04:55.392000
@@ -1001,9 +1003,9 @@ es	-	-	-	0:04:55.392000	0:04:55.899000
 nicht	-	-	-	0:04:55.392000	0:04:55.899000
 /	-	-	-	0:04:55.392000	0:04:55.899000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:55.392000" end="0:04:56.412000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:04:55.392000" end="0:04:56.412000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:56.226000" end="0:05:04.099000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:04:56.226000" end="0:05:04.099000" persName="Informant 4017_F">
 ich	-	-	-	0:04:56.226000	0:04:57.239000
 ich	-	-	-	0:04:56.226000	0:04:57.239000
 denke	-	-	-	0:04:56.226000	0:04:57.239000
@@ -1030,11 +1032,11 @@ katholischen	-	-	-	0:05:03.032000	0:05:04.099000
 Jugend	-	-	-	0:05:03.032000	0:05:04.099000
 .	-	-	-	0:05:03.032000	0:05:04.099000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:04.099000" end="0:05:04.532000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:04.099000" end="0:05:04.532000" persName="Informant 4017">
 ja	-	-	-	0:05:04.099000	0:05:04.532000
 .	-	-	-	0:05:04.099000	0:05:04.532000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:04.532000" end="0:05:12.792000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:04.532000" end="0:05:12.792000" persName="Informant 4017_F">
 und	-	-	-	0:05:04.532000	0:05:05.366000
 und	-	-	-	0:05:04.532000	0:05:05.366000
 das	-	-	-	0:05:04.532000	0:05:05.366000
@@ -1055,9 +1057,9 @@ ein	-	-	-	0:05:11.426000	0:05:12.792000
 Seminar	-	-	-	0:05:11.426000	0:05:12.792000
 ,	-	-	-	0:05:11.426000	0:05:12.792000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:12.792000" end="0:05:13.152000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:12.792000" end="0:05:13.152000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:13.152000" end="0:05:24.412000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:13.152000" end="0:05:24.412000" persName="Informant 4017_F">
 wenn	-	-	-	0:05:13.152000	0:05:14.599000
 dir	-	-	-	0:05:13.152000	0:05:14.599000
 das	-	-	-	0:05:13.152000	0:05:14.599000
@@ -1096,7 +1098,7 @@ sage	-	-	-	0:05:21.939000	0:05:24.412000
 ich	-	-	-	0:05:21.939000	0:05:24.412000
 ,	-	-	-	0:05:21.939000	0:05:24.412000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:24.412000" end="0:05:36.039000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:24.412000" end="0:05:36.039000" persName="Informant 4017">
 <pause duration="0,7s"/>
 okay	-	-	-	0:05:24.412000	0:05:26.579000
 ,	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _nz klit+	0:05:24.412000	0:05:26.579000
@@ -1127,14 +1129,14 @@ ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:05:35.652000	0:05
 auch	-	-	-	0:05:35.652000	0:05:36.039000
 /	-	-	-	0:05:35.652000	0:05:36.039000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:37.339000" end="0:05:38.172000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:37.339000" end="0:05:38.172000" persName="Informant 4017_F">
 meine	-	-	-	0:05:37.339000	0:05:38.172000
 ,	-	-	-	0:05:37.339000	0:05:38.172000
 oder	-	-	-	0:05:37.339000	0:05:38.172000
 (sollst	-	-	-	0:05:37.339000	0:05:38.172000
 es)	-	-	-	0:05:37.339000	0:05:38.172000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:37.532000" end="0:05:42.886000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:37.532000" end="0:05:42.886000" persName="Informant 4017">
 bin	-	-	-	0:05:37.532000	0:05:39.806000
 auch	-	-	-	0:05:37.532000	0:05:39.806000
 seinerzeit	-	-	-	0:05:37.532000	0:05:39.806000
@@ -1157,30 +1159,30 @@ alle	-	-	-	0:05:40.959000	0:05:42.886000
 heili/	-	-	-	0:05:40.959000	0:05:42.886000
 alle	-	-	-	0:05:40.959000	0:05:42.886000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:42.386000" end="0:05:43.366000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:42.386000" end="0:05:43.366000" persName="Informant 4017_F">
 früher	-	-	-	0:05:42.386000	0:05:43.366000
 hast	-	-	-	0:05:42.386000	0:05:43.366000
 hast	-	-	-	0:05:42.386000	0:05:43.366000
 gehabt	-	-	-	0:05:42.386000	0:05:43.366000
 /	-	-	-	0:05:42.386000	0:05:43.366000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:42.886000" end="0:05:44.626000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:42.886000" end="0:05:44.626000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:43.839000" end="0:05:46.892000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:43.839000" end="0:05:46.892000" persName="Informant 4017_F">
 früher	-	-	-	0:05:43.839000	0:05:44.532000
 hast	-	-	-	0:05:43.839000	0:05:44.532000
 gehabt	-	-	-	0:05:43.839000	0:05:44.532000
 Firmung	-	-	-	0:05:43.839000	0:05:44.532000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:46.246000" end="0:05:46.892000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:46.246000" end="0:05:46.892000" persName="Informant 4017">
 nein	-	-	-	0:05:46.246000	0:05:46.892000
 ,	-	-	-	0:05:46.246000	0:05:46.892000
 nein	-	-	-	0:05:46.246000	0:05:46.892000
 ,	-	-	-	0:05:46.246000	0:05:46.892000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:46.892000" end="0:05:48.232000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:46.892000" end="0:05:48.232000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:48.232000" end="0:05:56.312000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:48.232000" end="0:05:56.312000" persName="Informant 4017">
 <pause duration="0,7s"/>
 nein	-	-	-	0:05:48.232000	0:05:49.266000
 ,	-	-	-	0:05:48.232000	0:05:49.266000
@@ -1189,11 +1191,11 @@ den	-	-	-	0:05:48.232000	0:05:49.266000
 hundertprozentig	-	-	-	0:05:54.666000	0:05:56.312000
 /	-	-	-	0:05:54.666000	0:05:56.312000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:55.386000" end="0:05:55.779000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:05:55.386000" end="0:05:55.779000" persName="Informant 4017_F">
 ja	-	-	-	0:05:55.386000	0:05:55.779000
 .	-	-	-	0:05:55.386000	0:05:55.779000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:56.312000" end="0:06:08.312000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:05:56.312000" end="0:06:08.312000" persName="Informant 4017">
 <pause duration="1,5s"/>
 es	-	-	-	0:05:58.706000	0:06:04.259000
 hat	-	-	-	0:05:58.706000	0:06:04.259000
@@ -1212,11 +1214,11 @@ in	-	-	-	0:06:04.259000	0:06:06.806000
 der	-	-	-	0:06:04.259000	0:06:06.806000
 Ki/	-	-	-	0:06:04.259000	0:06:06.806000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:08.312000" end="0:06:08.786000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:08.312000" end="0:06:08.786000" persName="Informant 4017_F">
 ja	-	-	-	0:06:08.312000	0:06:08.786000
 .	-	-	-	0:06:08.312000	0:06:08.786000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:06:08.786000" end="0:06:12.139000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:06:08.786000" end="0:06:12.139000" persName="Informant 4017">
 obwohl	-	-	-	0:06:08.786000	0:06:10.526000
 ich	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:06:08.786000	0:06:10.526000
 dort	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _ich klit+	0:06:08.786000	0:06:10.526000
@@ -1234,16 +1236,16 @@ angenehm	-	-	-	0:06:10.526000	0:06:11.619000
 meine	-	-	-	0:06:11.619000	0:06:12.139000
 /	-	-	-	0:06:11.619000	0:06:12.139000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:14.039000" end="0:06:14.472000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:14.039000" end="0:06:14.472000" persName="Informant 4017_F">
 aber	-	-	-	0:06:14.039000	0:06:14.472000
 /	-	-	-	0:06:14.039000	0:06:14.472000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:06:14.039000" end="0:06:34.726000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:06:14.039000" end="0:06:34.726000" persName="Informant 4017">
 habe	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:14.039000	0:06:15.912000
 ich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:06:14.039000	0:06:15.912000
 auch	-	-	-	0:06:14.039000	0:06:15.912000
 von	-	-	-	0:06:14.039000	0:06:15.912000
-[Graz]O	-	-	-	0:06:14.039000	0:06:15.912000
+ORT	ORT	-	-	0:06:14.039000	0:06:15.912000
 aus	-	-	-	0:06:14.039000	0:06:15.912000
 mitgekriegt	-	-	-	0:06:14.039000	0:06:15.912000
 ,	-	-	-	0:06:14.039000	0:06:15.912000
@@ -1290,8 +1292,8 @@ draußen	-	-	-	0:06:25.892000	0:06:28.279000
 mit	-	-	-	0:06:28.279000	0:06:30.646000
 den	-	-	-	0:06:28.279000	0:06:30.646000
 alten	-	-	-	0:06:28.279000	0:06:30.646000
-[Kurt	-	-	-	0:06:28.279000	0:06:30.646000
-Susana]N	-	-	-	0:06:28.279000	0:06:30.646000
+NAME	NAME	-	-	0:06:28.279000	0:06:30.646000
+NAME	NAME	-	-	0:06:28.279000	0:06:30.646000
 .	-	-	-	0:06:28.279000	0:06:30.646000
 erzähl	-	-	*klit KlitBasis KlitPron KlitReal PronForm V+Kl _du	0:06:33.126000	0:06:33.846000
 du	-	-	*klit KlitBasis KlitPron KlitReal PronForm V+Kl _du	0:06:33.126000	0:06:33.846000
@@ -1300,7 +1302,7 @@ was	-	-	-	0:06:33.126000	0:06:33.846000
 immer	-	-	-	0:06:33.846000	0:06:34.726000
 ich!	-	-	-	0:06:33.846000	0:06:34.726000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:34.726000" end="0:07:02.159000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:06:34.726000" end="0:07:02.159000" persName="Informant 4017_F">
 ja	-	-	-	0:06:34.726000	0:06:35.659000
 ähm	-	-	-	0:06:34.726000	0:06:35.659000
 /	-	-	-	0:06:34.726000	0:06:35.659000
@@ -1366,6 +1368,7 @@ war	-	-	-	0:06:52.859000	0:06:55.519000
 zum	-	-	-	0:06:52.859000	0:06:55.519000
 Beispiel	-	-	-	0:06:52.859000	0:06:55.519000
 ,	-	-	-	0:06:52.859000	0:06:55.519000
+ORT	ORT	-	-	0:06:52.859000	0:06:55.519000
 <pause duration="0,5s"/>
 dort	-	-	-	0:06:55.519000	0:06:56.752000
 allein	-	-	-	0:06:55.519000	0:06:56.752000
@@ -1393,10 +1396,10 @@ nicht	-	-	-	0:07:00.785000	0:07:00.939000
 meine	-	-	-	0:07:00.939000	0:07:02.159000
 ,	-	-	-	0:07:00.939000	0:07:02.159000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:03.245000" end="0:07:04.279000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:03.245000" end="0:07:04.279000" persName="Informant 4017">
 <pause duration="schmatzen"/>
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:03.385000" end="0:07:05.872000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:03.385000" end="0:07:05.872000" persName="Informant 4017_F">
 oder	-	-	-	0:07:03.385000	0:07:05.872000
 das	-	-	-	0:07:03.385000	0:07:05.872000
 ist	-	-	-	0:07:03.385000	0:07:05.872000
@@ -1405,13 +1408,13 @@ das	-	-	-	0:07:03.385000	0:07:05.872000
 Gleiche	-	-	-	0:07:03.385000	0:07:05.872000
 ,	-	-	-	0:07:03.385000	0:07:05.872000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:04.945000" end="0:07:05.725000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:04.945000" end="0:07:05.725000" persName="Informant 4017">
 ja	-	-	-	0:07:04.945000	0:07:05.725000
 ,	-	-	-	0:07:04.945000	0:07:05.725000
 das	-	-	-	0:07:04.945000	0:07:05.725000
 ist	-	-	-	0:07:04.945000	0:07:05.725000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:05.872000" end="0:07:11.719000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:05.872000" end="0:07:11.719000" persName="Informant 4017_F">
 nicht	-	-	-	0:07:05.872000	0:07:06.039000
 ?	-	-	-	0:07:05.872000	0:07:06.039000
 wenn	-	-	-	0:07:06.039000	0:07:07.439000
@@ -1434,14 +1437,14 @@ immer	-	-	-	0:07:10.845000	0:07:11.719000
 daheim	-	-	-	0:07:10.845000	0:07:11.719000
 .	-	-	-	0:07:10.845000	0:07:11.719000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:11.719000" end="0:07:13.319000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:11.719000" end="0:07:13.319000" persName="Informant 4017">
 okay	-	-	-	0:07:11.719000	0:07:13.319000
 ,	-	-	-	0:07:11.719000	0:07:13.319000
 das	-	-	-	0:07:11.719000	0:07:13.319000
 ist	-	-	-	0:07:11.719000	0:07:13.319000
 /	-	-	-	0:07:11.719000	0:07:13.319000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:12.665000" end="0:07:14.139000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:12.665000" end="0:07:14.139000" persName="Informant 4017_F">
 wenn	-	-	-	0:07:12.665000	0:07:14.139000
 ich	-	-	-	0:07:12.665000	0:07:14.139000
 wenn	-	-	-	0:07:12.665000	0:07:14.139000
@@ -1451,7 +1454,7 @@ Burgenland	-	-	-	0:07:12.665000	0:07:14.139000
 höre	-	-	-	0:07:12.665000	0:07:14.139000
 ,	-	-	-	0:07:12.665000	0:07:14.139000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:13.319000" end="0:07:14.612000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:13.319000" end="0:07:14.612000" persName="Informant 4017">
 ähm	-	-	-	0:07:13.319000	0:07:14.612000
 (was)	-	-	-	0:07:13.319000	0:07:14.612000
 das	-	-	-	0:07:13.319000	0:07:14.612000
@@ -1459,7 +1462,7 @@ ist	-	-	-	0:07:13.319000	0:07:14.612000
 was	-	-	-	0:07:13.319000	0:07:14.612000
 .	-	-	-	0:07:13.319000	0:07:14.612000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:14.139000" end="0:07:16.725000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:14.139000" end="0:07:16.725000" persName="Informant 4017_F">
 bin	-	-	-	0:07:14.139000	0:07:15.452000
 ich	-	-	-	0:07:14.139000	0:07:15.452000
 bin	-	-	-	0:07:14.139000	0:07:15.452000
@@ -1468,9 +1471,9 @@ nicht	-	-	-	0:07:14.139000	0:07:15.452000
 daheim	-	-	-	0:07:14.139000	0:07:15.452000
 .	-	-	-	0:07:14.139000	0:07:15.452000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:15.452000" end="0:07:16.725000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:15.452000" end="0:07:16.725000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:16.725000" end="0:07:17.712000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:16.725000" end="0:07:17.712000" persName="Informant 4017_F">
 nein	-	-	-	0:07:16.725000	0:07:17.712000
 ,	-	-	-	0:07:16.725000	0:07:17.712000
 ist	-	-	-	0:07:16.725000	0:07:17.712000
@@ -1478,7 +1481,7 @@ aber	-	-	-	0:07:16.725000	0:07:17.712000
 so	-	-	-	0:07:16.725000	0:07:17.712000
 .	-	-	-	0:07:16.725000	0:07:17.712000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:17.172000" end="0:07:18.452000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:17.172000" end="0:07:18.452000" persName="Informant 4017">
 nein	-	-	-	0:07:17.172000	0:07:18.452000
 ,	-	-	-	0:07:17.172000	0:07:18.452000
 aber	-	-	-	0:07:17.172000	0:07:18.452000
@@ -1487,14 +1490,14 @@ aber	-	-	-	0:07:17.172000	0:07:18.452000
 von	-	-	-	0:07:17.172000	0:07:18.452000
 wegen	-	-	-	0:07:17.172000	0:07:18.452000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:17.939000" end="0:07:18.825000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:07:17.939000" end="0:07:18.825000" persName="Informant 4017_F">
 also	-	-	-	0:07:17.939000	0:07:18.825000
 den	-	-	-	0:07:17.939000	0:07:18.825000
 ich	-	-	-	0:07:17.939000	0:07:18.825000
 mir	-	-	-	0:07:17.939000	0:07:18.825000
 .	-	-	-	0:07:17.939000	0:07:18.825000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:18.685000" end="0:08:14.512000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:07:18.685000" end="0:08:14.512000" persName="Informant 4017">
 meine	-	-	-	0:07:18.685000	0:07:20.332000
 ,	-	-	-	0:07:18.685000	0:07:20.332000
 aber	-	-	-	0:07:20.332000	0:07:20.885000
@@ -1512,6 +1515,7 @@ in	-	-	-	0:07:23.052000	0:07:24.999000
 Amerika	-	-	-	0:07:23.052000	0:07:24.999000
 war	-	-	-	0:07:23.052000	0:07:24.999000
 beim	-	-	-	0:07:23.052000	0:07:24.999000
+NAME	NAME	-	-	0:07:24.999000	0:07:26.099000
 meine	-	-	-	0:07:26.099000	0:07:26.752000
 ,	-	-	-	0:07:26.099000	0:07:26.752000
 <pause duration="0,6s"/>
@@ -1527,6 +1531,8 @@ mit	-	-	-	0:07:28.252000	0:07:29.179000
 den	-	-	-	0:07:28.252000	0:07:29.179000
 mi/	-	-	-	0:07:28.252000	0:07:29.179000
 <pause duration="0,6s"/>
+NAME	NAME	-	-	0:07:30.525000	0:07:32.525000
+NAME	NAME	-	-	0:07:32.525000	0:07:33.525000
 <pause duration="0,7s"/>
 waren	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:33.525000	0:07:35.439000
 wir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:33.525000	0:07:35.439000
@@ -1540,6 +1546,7 @@ frag	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit+	0:07:35.439000	0:
 mich	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _mich klit+	0:07:35.439000	0:07:37.959000
 nicht	-	-	-	0:07:35.439000	0:07:37.959000
 ,	-	-	-	0:07:35.439000	0:07:37.959000
+ORT	ORT	-	-	0:07:37.959000	0:07:39.339000
 die	-	-	-	0:07:39.339000	0:07:40.512000
 große	-	-	-	0:07:39.339000	0:07:40.512000
 Kathedrale.	-	-	-	0:07:39.339000	0:07:40.512000
@@ -1569,6 +1576,7 @@ wir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:44.972000	0:07
 in	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:44.972000	0:07:47.558000
 Washington	-	-	-	0:07:44.972000	0:07:47.558000
 ,	-	-	-	0:07:44.972000	0:07:47.558000
+ORT	ORT	-	-	0:07:44.972000	0:07:47.558000
 waren	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:47.558000	0:07:49.072000
 wir	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _wir klit+	0:07:47.558000	0:07:49.072000
 auch	-	-	-	0:07:47.558000	0:07:49.072000
@@ -1614,7 +1622,7 @@ wie	-	-	-	0:08:03.292000	0:08:04.825000
 wir	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:08:03.292000	0:08:04.825000
 in	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _wir klit+	0:08:03.292000	0:08:04.825000
 Sevilla	-	-	-	0:08:03.292000	0:08:04.825000
-waren	-	-	-	0:08:03.292000	0:08:04.825000
+ORT	ORT	-	-	0:08:03.292000	0:08:04.825000
 unten	-	-	-	0:08:03.292000	0:08:04.825000
 ,	-	-	-	0:08:03.292000	0:08:04.825000
 <pause duration="1,0s"/>
@@ -1646,7 +1654,7 @@ Messe	-	-	-	0:08:11.112000	0:08:12.359000
 he/	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _nz klit+	0:08:12.359000	0:08:12.605000
 be/	-	-	-	0:08:12.359000	0:08:12.605000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:13.772000" end="0:08:15.179000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:13.772000" end="0:08:15.179000" persName="Informant 4017_F">
 ach	-	-	-	0:08:13.772000	0:08:14.179000
 so	-	-	-	0:08:13.772000	0:08:14.179000
 .	-	-	-	0:08:13.772000	0:08:14.179000
@@ -1655,21 +1663,21 @@ der	-	-	-	0:08:14.305000	0:08:15.179000
 Messe	-	-	-	0:08:14.305000	0:08:15.179000
 /	-	-	-	0:08:14.305000	0:08:15.179000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:14.512000" end="0:08:16.759000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:14.512000" end="0:08:16.759000" persName="Informant 4017">
 während	-	-	-	0:08:15.585000	0:08:16.759000
 der	-	-	-	0:08:15.585000	0:08:16.759000
 Messe	-	-	-	0:08:15.585000	0:08:16.759000
 halt	-	-	-	0:08:15.585000	0:08:16.759000
 .	-	-	-	0:08:15.585000	0:08:16.759000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:15.765000" end="0:08:17.519000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:15.765000" end="0:08:17.519000" persName="Informant 4017_F">
 außerhalb	-	-	-	0:08:15.765000	0:08:17.519000
 außerhalb	-	-	-	0:08:15.765000	0:08:17.519000
 der	-	-	-	0:08:15.765000	0:08:17.519000
 Messe	-	-	-	0:08:15.765000	0:08:17.519000
 /	-	-	-	0:08:15.765000	0:08:17.519000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:16.759000" end="0:08:49.892000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:16.759000" end="0:08:49.892000" persName="Informant 4017">
 (während	-	-	-	0:08:16.759000	0:08:17.565000
 du)	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _du klit-	0:08:16.759000	0:08:17.565000
 ,	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _du klit-	0:08:16.759000	0:08:17.565000
@@ -1737,19 +1745,21 @@ so	-	-	-	0:08:42.705000	0:08:46.059000
 anders	-	-	-	0:08:42.705000	0:08:46.059000
 reden	-	-	-	0:08:42.705000	0:08:46.059000
 ,	-	-	KlitBasis KlitPron KlitReal PronForm V+Kl _ich klit+	0:08:42.705000	0:08:46.059000
+ORT	ORT	-	-	0:08:46.599000	0:08:48.332000
+ORT	ORT	-	-	0:08:46.599000	0:08:48.332000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:49.445000" end="0:08:50.219000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:49.445000" end="0:08:50.219000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:49.892000" end="0:08:52.185000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:49.892000" end="0:08:52.185000" persName="Informant 4017">
 aber	-	-	-	0:08:49.892000	0:08:50.179000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:50.532000" end="0:08:51.045000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:50.532000" end="0:08:51.045000" persName="Informant 4017_F">
 (ja	-	-	-	0:08:50.532000	0:08:51.045000
 ,	-	-	-	0:08:50.532000	0:08:51.045000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:52.185000" end="0:08:53.525000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:08:52.185000" end="0:08:53.525000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:53.525000" end="0:09:02.065000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:08:53.525000" end="0:09:02.065000" persName="Informant 4017_F">
 <pause duration="1,1s"/>
 ja	-	-	-	0:08:53.525000	0:08:55.199000
 ,	-	-	-	0:08:53.525000	0:08:55.199000
@@ -1769,7 +1779,7 @@ gell	-	-	-	0:09:00.885000	0:09:01.045000
 _	-	-	-	0:09:01.045000	0:09:02.065000
 _ha_	-	-	-	0:09:01.045000	0:09:02.065000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:02.065000" end="0:09:13.832000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:02.065000" end="0:09:13.832000" persName="Informant 4017">
 glaube	-	-	-	0:09:02.065000	0:09:02.525000
 auch	-	-	-	0:09:02.065000	0:09:02.525000
 ,	-	-	-	0:09:02.065000	0:09:02.525000
@@ -1789,20 +1799,20 @@ Familie	-	-	-	0:09:09.972000	0:09:10.745000
 /	-	-	-	0:09:09.972000	0:09:10.745000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:15.732000" end="0:09:16.212000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:15.732000" end="0:09:16.212000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:15.905000" end="0:09:17.185000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:15.905000" end="0:09:17.185000" persName="Informant 4017">
 da	-	-	-	0:09:15.905000	0:09:17.185000
 ist	-	-	-	0:09:15.905000	0:09:17.185000
 ein	-	-	-	0:09:15.905000	0:09:17.185000
 Familienkarterl	-	-	-	0:09:15.905000	0:09:17.185000
 .	-	-	-	0:09:15.905000	0:09:17.185000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:17.185000" end="0:09:17.625000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:17.185000" end="0:09:17.625000" persName="Informant 4017_F">
 ach	-	-	-	0:09:17.185000	0:09:17.625000
 so	-	-	-	0:09:17.185000	0:09:17.625000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:17.392000" end="0:09:20.425000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:17.392000" end="0:09:20.425000" persName="Informant 4017">
 oder	-	-	-	0:09:17.392000	0:09:18.919000
 deine	-	-	-	0:09:17.392000	0:09:18.919000
 Wohnsituation	-	-	-	0:09:17.392000	0:09:18.919000
@@ -1814,11 +1824,11 @@ deine	-	-	-	0:09:18.919000	0:09:20.425000
 Wohnsituation	-	-	-	0:09:18.919000	0:09:20.425000
 .	-	-	-	0:09:18.919000	0:09:20.425000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:20.425000" end="0:09:20.805000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:20.425000" end="0:09:20.805000" persName="Informant 4017_F">
 ja	-	-	-	0:09:20.425000	0:09:20.805000
 .	-	-	-	0:09:20.425000	0:09:20.805000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:20.805000" end="0:09:22.405000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:20.805000" end="0:09:22.405000" persName="Informant 4017">
 das	-	-	-	0:09:20.805000	0:09:21.539000
 ist	-	-	-	0:09:20.805000	0:09:21.539000
 nämlich	-	-	-	0:09:20.805000	0:09:21.539000
@@ -1826,7 +1836,7 @@ nämlich	-	-	-	0:09:20.805000	0:09:21.539000
 meine	-	-	-	0:09:21.539000	0:09:22.405000
 ,	-	-	-	0:09:21.539000	0:09:22.405000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:22.405000" end="0:09:24.499000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:22.405000" end="0:09:24.499000" persName="Informant 4017_F">
 <pause duration="0,6s"/>
 ich	-	-	-	0:09:22.405000	0:09:24.499000
 bin	-	-	-	0:09:22.405000	0:09:24.499000
@@ -1835,18 +1845,19 @@ selten	-	-	-	0:09:22.405000	0:09:24.499000
 daheim	-	-	-	0:09:22.405000	0:09:24.499000
 .	-	-	-	0:09:22.405000	0:09:24.499000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:23.452000" end="0:09:24.845000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:23.452000" end="0:09:24.845000" persName="Informant 4017">
 deine	-	-	-	0:09:23.452000	0:09:24.845000
 deine	-	-	-	0:09:23.452000	0:09:24.845000
 deine	-	-	-	0:09:23.452000	0:09:24.845000
 deine	-	-	-	0:09:23.452000	0:09:24.845000
 deine	-	-	-	0:09:23.452000	0:09:24.845000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:24.499000" end="0:09:25.965000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:24.499000" end="0:09:25.965000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:24.845000" end="0:09:39.585000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:24.845000" end="0:09:39.585000" persName="Informant 4017">
 aber	-	-	-	0:09:29.079000	0:09:29.352000
 aber	-	-	-	0:09:29.079000	0:09:29.352000
+ORT	ORT	-	-	0:09:31.752000	0:09:35.059000
 <pause duration="1,1s"/>
 wie	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:09:35.059000	0:09:39.585000
 es	-	-	KlitBasis KlitPron KlitReal Kon+Kl PronForm _es(nom.) klit+	0:09:35.059000	0:09:39.585000
@@ -1856,35 +1867,35 @@ innen	-	-	-	0:09:35.059000	0:09:39.585000
 ausschaut	-	-	-	0:09:35.059000	0:09:39.585000
 ,	-	-	-	0:09:35.059000	0:09:39.585000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:36.665000" end="0:09:37.125000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:36.665000" end="0:09:37.125000" persName="Informant 4017_F">
 ja	-	-	-	0:09:36.665000	0:09:37.125000
 .	-	-	-	0:09:36.665000	0:09:37.125000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:39.585000" end="0:09:40.365000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:39.585000" end="0:09:40.365000" persName="Informant 4017">
 un/	-	-	-	0:09:39.585000	0:09:40.365000
 und	-	-	-	0:09:39.585000	0:09:40.365000
 und	-	-	-	0:09:39.585000	0:09:40.365000
 und	-	-	-	0:09:39.585000	0:09:40.365000
 /	-	-	-	0:09:39.585000	0:09:40.365000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:40.192000" end="0:09:40.979000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:40.192000" end="0:09:40.979000" persName="Informant 4017_F">
 sauber	-	-	-	0:09:40.192000	0:09:40.979000
 ist	-	-	-	0:09:40.192000	0:09:40.979000
 es	-	-	-	0:09:40.192000	0:09:40.979000
 .	-	-	-	0:09:40.192000	0:09:40.979000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:40.979000" end="0:09:42.852000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:40.979000" end="0:09:42.852000" persName="Informant 4017">
 sauber	-	-	-	0:09:40.979000	0:09:41.692000
 .	-	-	-	0:09:40.979000	0:09:41.692000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:42.465000" end="0:09:51.712000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:42.465000" end="0:09:51.712000" persName="Informant 4017_F">
 sauber	-	-	-	0:09:42.465000	0:09:43.010000
 ist	-	-	-	0:09:42.465000	0:09:43.010000
 es	-	-	-	0:09:42.465000	0:09:43.010000
 ,	-	-	-	0:09:42.465000	0:09:43.010000
 dank	-	-	-	0:09:43.010000	0:09:43.765000
 der	-	-	-	0:09:43.010000	0:09:43.765000
-[Benita]N	-	-	-	0:09:43.010000	0:09:43.765000
+NAME	NAME	-	-	0:09:43.010000	0:09:43.765000
 .	-	-	-	0:09:43.010000	0:09:43.765000
 nein	-	-	-	0:09:46.385000	0:09:47.239000
 ,	-	-	-	0:09:46.385000	0:09:47.239000
@@ -1902,7 +1913,7 @@ Ding	-	-	-	0:09:49.872000	0:09:51.519000
 nicht	-	-	-	0:09:51.519000	0:09:51.712000
 ?	-	-	-	0:09:51.519000	0:09:51.712000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:51.712000" end="0:09:53.372000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:51.712000" end="0:09:53.372000" persName="Informant 4017">
 <pause duration="0,6s"/>
 nein	-	-	-	0:09:51.712000	0:09:52.699000
 ,	-	-	-	0:09:51.712000	0:09:52.699000
@@ -1910,7 +1921,7 @@ de/	-	-	-	0:09:51.712000	0:09:52.699000
 ähm	-	-	-	0:09:52.699000	0:09:53.372000
 ähm	-	-	-	0:09:52.699000	0:09:53.372000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:53.165000" end="0:09:59.798000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:09:53.165000" end="0:09:59.798000" persName="Informant 4017_F">
 und	-	-	-	0:09:53.165000	0:09:54.705000
 und	-	-	-	0:09:53.165000	0:09:54.705000
 und	-	-	-	0:09:53.165000	0:09:54.705000
@@ -1937,7 +1948,7 @@ oder	-	-	-	0:09:58.792000	0:09:59.798000
 so	-	-	-	0:09:58.792000	0:09:59.798000
 .	-	-	-	0:09:58.792000	0:09:59.798000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:59.798000" end="0:10:02.345000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:09:59.798000" end="0:10:02.345000" persName="Informant 4017">
 nein	-	-	-	0:09:59.798000	0:10:01.858000
 ,	-	-	-	0:09:59.798000	0:10:01.858000
 es	-	-	-	0:09:59.798000	0:10:01.858000
@@ -1948,7 +1959,7 @@ auch	-	-	-	0:09:59.798000	0:10:01.858000
 meine	-	-	-	0:10:01.858000	0:10:02.345000
 /	-	-	-	0:10:01.858000	0:10:02.345000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:02.345000" end="0:10:07.892000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:02.345000" end="0:10:07.892000" persName="Informant 4017_F">
 <pause duration="1,4s"/>
 wenn	-	-	-	0:10:02.345000	0:10:05.885000
 ei/	-	-	-	0:10:02.345000	0:10:05.885000
@@ -1965,7 +1976,7 @@ bist	-	-	-	0:10:02.345000	0:10:05.885000
 ja	-	-	-	0:10:05.885000	0:10:07.892000
 .	-	-	-	0:10:05.885000	0:10:07.892000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:07.892000" end="0:10:09.178000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:07.892000" end="0:10:09.178000" persName="Informant 4017">
 ja	-	-	-	0:10:07.892000	0:10:08.945000
 ,	-	-	-	0:10:07.892000	0:10:08.945000
 bist	-	-	-	0:10:07.892000	0:10:08.945000
@@ -1975,14 +1986,14 @@ daheim	-	-	-	0:10:07.892000	0:10:08.945000
 nicht	-	-	-	0:10:08.945000	0:10:09.178000
 ?	-	-	-	0:10:08.945000	0:10:09.178000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:09.178000" end="0:10:10.278000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:09.178000" end="0:10:10.278000" persName="Informant 4017_F">
 <pause duration="0,6s"/>
 so	-	-	-	0:10:09.178000	0:10:10.278000
 ist	-	-	-	0:10:09.178000	0:10:10.278000
 es	-	-	-	0:10:09.178000	0:10:10.278000
 .	-	-	-	0:10:09.178000	0:10:10.278000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:09.932000" end="0:10:17.945000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:09.932000" end="0:10:17.945000" persName="Informant 4017">
 un/	-	-	-	0:10:09.932000	0:10:10.278000
 und	-	-	-	0:10:09.932000	0:10:10.278000
 das	-	-	-	0:10:09.932000	0:10:10.278000
@@ -2007,7 +2018,7 @@ ist	-	-	-	0:10:16.905000	0:10:17.945000
 auch	-	-	-	0:10:16.905000	0:10:17.945000
 /	-	-	-	0:10:16.905000	0:10:17.945000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:17.945000" end="0:10:19.732000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:17.945000" end="0:10:19.732000" persName="Informant 4017_F">
 <pause duration="0,5s"/>
 man	-	-	-	0:10:17.945000	0:10:19.605000
 hat	-	-	-	0:10:17.945000	0:10:19.605000
@@ -2020,12 +2031,13 @@ früher	-	-	-	0:10:17.945000	0:10:19.605000
 nicht	-	-	-	0:10:19.605000	0:10:19.732000
 ?	-	-	-	0:10:19.605000	0:10:19.732000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:19.732000" end="0:10:50.685000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:19.732000" end="0:10:50.685000" persName="Informant 4017">
 <pause duration="0,6s"/>
 n/	-	-	-	0:10:19.732000	0:10:22.485000
 ja	-	-	-	0:10:19.732000	0:10:22.485000
 gut	-	-	-	0:10:19.732000	0:10:22.485000
 ,	-	-	-	0:10:19.732000	0:10:22.485000
+SONSTIGE	SONSTIGE	-	-	0:10:19.732000	0:10:22.485000
 nicht	-	-	-	0:10:22.485000	0:10:22.678000
 ?	-	-	-	0:10:22.485000	0:10:22.678000
 <pause duration="1,0s"/>
@@ -2035,10 +2047,11 @@ sechzig	-	-	-	0:10:22.678000	0:10:25.145000
 Jahre	-	-	-	0:10:22.678000	0:10:25.145000
 in	-	-	-	0:10:22.678000	0:10:25.145000
 der	-	-	-	0:10:22.678000	0:10:25.145000
-[Annenstraße]	-	-	-	0:10:22.678000	0:10:25.145000
+SONSTIGE	SONSTIGE	-	-	0:10:22.678000	0:10:25.145000
 un/	-	-	-	0:10:25.145000	0:10:25.605000
 und	-	-	-	0:10:25.145000	0:10:25.605000
 für	-	-	-	0:10:25.145000	0:10:25.605000
+NAME	NAME	-	-	0:10:25.605000	0:10:27.598000
 auch	-	-	-	0:10:27.598000	0:10:29.758000
 t/	-	-	-	0:10:27.598000	0:10:29.758000
 auch	-	-	-	0:10:27.598000	0:10:29.758000
@@ -2074,11 +2087,11 @@ Kinder	-	-	-	0:10:32.038000	0:10:34.705000
 <pause duration="1,3s"/>
 sowohl	-	-	-	0:10:35.978000	0:10:39.372000
 die	-	-	-	0:10:35.978000	0:10:39.372000
-[Andrea]N	-	-	-	0:10:35.978000	0:10:39.372000
+NAME	NAME	-	-	0:10:35.978000	0:10:39.372000
 w/	-	-	-	0:10:35.978000	0:10:39.372000
 wie	-	-	-	0:10:35.978000	0:10:39.372000
 der	-	-	-	0:10:35.978000	0:10:39.372000
-[Hermann]N	-	-	-	0:10:35.978000	0:10:39.372000
+NAME	NAME	-	-	0:10:35.978000	0:10:39.372000
 auch	-	-	-	0:10:35.978000	0:10:39.372000
 ,	-	-	-	0:10:35.978000	0:10:39.372000
 <pause duration="1,6s"/>
@@ -2091,7 +2104,7 @@ lang	-	-	-	0:10:39.372000	0:10:44.158000
 auch	-	-	-	0:10:39.372000	0:10:44.158000
 in	-	-	-	0:10:39.372000	0:10:44.158000
 der	-	-	-	0:10:39.372000	0:10:44.158000
-[Annenstraße]O	-	-	-	0:10:39.372000	0:10:44.158000
+ORT	ORT	-	-	0:10:39.372000	0:10:44.158000
 drinnen	-	-	-	0:10:39.372000	0:10:44.158000
 gewohnt	-	-	-	0:10:39.372000	0:10:44.158000
 haben	-	-	-	0:10:39.372000	0:10:44.158000
@@ -2111,21 +2124,21 @@ heim	-	-	-	0:10:46.678000	0:10:50.685000
 gefahren	-	-	-	0:10:46.678000	0:10:50.685000
 in	-	-	-	0:10:46.678000	0:10:50.685000
 die	-	-	-	0:10:46.678000	0:10:50.685000
-[Annenstraße]O	-	-	-	0:10:46.678000	0:10:50.685000
-.	-	-	-	0:10:46.678000	0:10:50.685000
+ORT	ORT	-	-	0:10:46.678000	0:10:50.685000
+NAME	NAME	-	-	0:10:46.678000	0:10:50.685000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:50.685000" end="0:10:51.645000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:10:50.685000" end="0:10:51.645000" persName="Informant 4017_F">
 <pause duration="0,7s"/>
 m/	-	-	-	0:10:50.685000	0:10:51.645000
 ja	-	-	-	0:10:50.685000	0:10:51.645000
 .	-	-	-	0:10:50.685000	0:10:51.645000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:51.585000" end="0:11:21.805000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:10:51.585000" end="0:11:21.805000" persName="Informant 4017">
 der	-	-	-	0:10:51.585000	0:10:52.818000
 erste	-	-	-	0:10:51.585000	0:10:52.818000
 war	-	-	-	0:10:51.585000	0:10:52.818000
 der	-	-	-	0:10:51.585000	0:10:52.818000
-[Robert]N	-	-	-	0:10:51.585000	0:10:52.818000
+NAME	NAME	-	-	0:10:51.585000	0:10:52.818000
 ,	-	-	-	0:10:51.585000	0:10:52.818000
 der	-	-	-	0:10:52.818000	0:10:55.818000
 der	-	-	-	0:10:52.818000	0:10:55.818000
@@ -2162,961 +2175,1024 @@ ein	-	-	-	0:11:04.485000	0:11:06.252000
 für	-	-	-	0:11:06.252000	0:11:07.632000
 den	-	-	-	0:11:06.252000	0:11:07.632000
 war	-	-	-	0:11:06.252000	0:11:07.632000
-[Thal]O	-	-	-	0:11:06.252000	0:11:07.632000
+ORT	ORT	-	-	0:11:06.252000	0:11:07.632000
 daheim	-	-	-	0:11:06.252000	0:11:07.632000
 ,	-	-	-	0:11:06.252000	0:11:07.632000
 nicht	-	-	-	0:11:07.632000	0:11:07.872000
 ?	-	-	-	0:11:07.632000	0:11:07.872000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:21.805000" end="0:11:33.358000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:21.805000" end="0:11:33.358000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:33.358000" end="0:11:35.672000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:33.358000" end="0:11:35.672000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:35.158000" end="0:11:45.658000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:35.158000" end="0:11:45.658000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:45.285000" end="0:11:47.398000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:45.285000" end="0:11:47.398000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:46.898000" end="0:11:47.398000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:11:46.898000" end="0:11:47.398000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:47.398000" end="0:12:10.065000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:11:47.398000" end="0:12:10.065000" persName="Informant 4017">
+ORT	ORT	-	-	0:11:47.398000	0:11:50.285000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:06.445000" end="0:12:06.838000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:06.445000" end="0:12:06.838000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:10.065000" end="0:12:25.938000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:10.065000" end="0:12:25.938000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:25.158000" end="0:12:26.043000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:25.158000" end="0:12:26.043000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:25.938000" end="0:12:26.125000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:25.938000" end="0:12:26.125000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:26.043000" end="0:12:26.258000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:26.043000" end="0:12:26.258000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:26.258000" end="0:12:54.092000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:26.258000" end="0:12:54.092000" persName="Informant 4017">
+ORT	ORT	-	-	0:12:35.612000	0:12:38.445000
+SONSTIGE	SONSTIGE	-	-	0:12:44.052000	0:12:46.698000
+SONSTIGE	SONSTIGE	-	-	0:12:49.098000	0:12:52.505000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:53.358000" end="0:12:54.232000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:12:53.358000" end="0:12:54.232000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:54.232000" end="0:13:08.765000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:12:54.232000" end="0:13:08.765000" persName="Informant 4017">
+SONSTIGE	SONSTIGE	-	-	0:13:04.998000	0:13:06.558000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:07.265000" end="0:13:07.612000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:07.265000" end="0:13:07.612000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:08.765000" end="0:13:09.985000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:08.765000" end="0:13:09.985000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:09.772000" end="0:13:10.811000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:09.772000" end="0:13:10.811000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:09.985000" end="0:13:12.058000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:09.985000" end="0:13:12.058000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:10.811000" end="0:13:10.936000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:10.811000" end="0:13:10.936000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:12.058000" end="0:13:23.025000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:12.058000" end="0:13:23.025000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:20.318000" end="0:13:21.098000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:20.318000" end="0:13:21.098000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:23.025000" end="0:13:33.071000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:23.025000" end="0:13:33.071000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:32.185000" end="0:13:32.831000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:32.185000" end="0:13:32.831000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:33.071000" end="0:13:37.111000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:33.071000" end="0:13:37.111000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:37.111000" end="0:13:43.191000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:37.111000" end="0:13:43.191000" persName="Informant 4017_F">
+ORT	ORT	-	-	0:13:40.051000	0:13:41.798000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:43.191000" end="0:13:47.951000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:43.191000" end="0:13:47.951000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:47.491000" end="0:13:48.978000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:47.491000" end="0:13:48.978000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:13:47.491000	0:13:48.238000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:48.411000" end="0:13:49.165000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:48.411000" end="0:13:49.165000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:48.978000" end="0:13:49.965000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:48.978000" end="0:13:49.965000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:13:48.978000	0:13:49.965000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:49.965000" end="0:13:51.398000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:49.965000" end="0:13:51.398000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:51.200000" end="0:13:54.918000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:51.200000" end="0:13:54.918000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:53.865000" end="0:13:56.891000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:53.865000" end="0:13:56.891000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:56.085000" end="0:13:56.705000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:56.085000" end="0:13:56.705000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:56.891000" end="0:13:57.618000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:56.891000" end="0:13:57.618000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:57.125000" end="0:13:58.665000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:13:57.125000" end="0:13:58.665000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:57.771000" end="0:14:00.191000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:13:57.771000" end="0:14:00.191000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:00.191000" end="0:14:02.431000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:00.191000" end="0:14:02.431000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:02.071000" end="0:14:04.985000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:02.071000" end="0:14:04.985000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:02.431000" end="0:14:06.891000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:02.431000" end="0:14:06.891000" persName="Informant 4017_F">
+SONSTIGE	SONSTIGE	-	-	0:14:04.985000	0:14:06.891000
+SONSTIGE	SONSTIGE	-	-	0:14:04.985000	0:14:06.891000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:06.891000" end="0:14:07.685000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:06.891000" end="0:14:07.685000" persName="Informant 4017">
+SONSTIGE	SONSTIGE	-	-	0:14:06.891000	0:14:07.685000
+SONSTIGE	SONSTIGE	-	-	0:14:06.891000	0:14:07.685000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:07.685000" end="0:14:14.631000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:07.685000" end="0:14:14.631000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:13.885000" end="0:14:17.578000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:13.885000" end="0:14:17.578000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:17.578000" end="0:14:17.878000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:17.578000" end="0:14:17.878000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:17.578000" end="0:14:19.105000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:17.578000" end="0:14:19.105000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:19.105000" end="0:14:21.245000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:19.105000" end="0:14:21.245000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:21.245000" end="0:14:24.305000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:21.245000" end="0:14:24.305000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:22.305000" end="0:14:22.845000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:22.305000" end="0:14:22.845000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:24.305000" end="0:14:46.498000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:24.305000" end="0:14:46.498000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:45.991000" end="0:14:47.698000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:45.991000" end="0:14:47.698000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:46.498000" end="0:14:48.378000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:46.498000" end="0:14:48.378000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:47.698000" end="0:14:47.902000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:47.698000" end="0:14:47.902000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:48.378000" end="0:14:49.958000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:48.378000" end="0:14:49.958000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:49.958000" end="0:14:51.378000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:14:49.958000" end="0:14:51.378000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:51.378000" end="0:15:06.618000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:14:51.378000" end="0:15:06.618000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:04.325000" end="0:15:08.511000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:04.325000" end="0:15:08.511000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:08.511000" end="0:15:10.405000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:08.511000" end="0:15:10.405000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:09.371000" end="0:15:10.645000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:09.371000" end="0:15:10.645000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:10.405000" end="0:15:11.571000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:10.405000" end="0:15:11.571000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:11.118000" end="0:15:12.138000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:11.118000" end="0:15:12.138000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:12.138000" end="0:15:20.838000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:12.138000" end="0:15:20.838000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:20.838000" end="0:15:21.518000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:20.838000" end="0:15:21.518000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:22.918000" end="0:15:24.165000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:22.918000" end="0:15:24.165000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:24.165000" end="0:15:28.211000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:24.165000" end="0:15:28.211000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:28.211000" end="0:15:28.498000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:28.211000" end="0:15:28.498000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:28.498000" end="0:15:29.165000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:28.498000" end="0:15:29.165000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:31.751000" end="0:15:42.591000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:31.751000" end="0:15:42.591000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:42.405000" end="0:15:46.398000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:42.405000" end="0:15:46.398000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:15:43.545000	0:15:46.398000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:43.671000" end="0:15:46.705000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:43.671000" end="0:15:46.705000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:46.398000" end="0:15:46.518000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:46.398000" end="0:15:46.518000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:46.705000" end="0:15:54.765000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:15:46.705000" end="0:15:54.765000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:54.765000" end="0:16:01.185000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:15:54.765000" end="0:16:01.185000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:15:54.765000	0:15:56.845000
+NAME	NAME	-	-	0:15:56.845000	0:15:59.225000
+NAME	NAME	-	-	0:15:59.225000	0:16:01.025000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:01.185000" end="0:16:07.251000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:01.185000" end="0:16:07.251000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:06.725000" end="0:16:07.031000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:06.725000" end="0:16:07.031000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:07.251000" end="0:16:20.611000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:07.251000" end="0:16:20.611000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:20.611000" end="0:16:21.525000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:20.611000" end="0:16:21.525000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:20.611000" end="0:16:44.518000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:20.611000" end="0:16:44.518000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:41.698000" end="0:16:44.598000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:41.698000" end="0:16:44.598000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:44.518000" end="0:16:48.371000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:44.518000" end="0:16:48.371000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:48.191000" end="0:16:48.538000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:48.191000" end="0:16:48.538000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:48.371000" end="0:16:51.484000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:48.371000" end="0:16:51.484000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:51.484000" end="0:16:54.504000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:16:51.484000" end="0:16:54.504000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:52.124000" end="0:17:24.058000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:16:52.124000" end="0:17:24.058000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:24.058000" end="0:17:25.251000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:24.058000" end="0:17:25.251000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:24.829000" end="0:17:27.164000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:24.829000" end="0:17:27.164000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:25.424000" end="0:17:30.758000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:25.424000" end="0:17:30.758000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:30.758000" end="0:17:31.358000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:30.758000" end="0:17:31.358000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:31.358000" end="0:17:34.284000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:31.358000" end="0:17:34.284000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:34.284000" end="0:17:35.538000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:17:34.284000" end="0:17:35.538000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:34.644000" end="0:18:04.071000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:17:34.644000" end="0:18:04.071000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:04.071000" end="0:18:07.671000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:04.071000" end="0:18:07.671000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:06.218000" end="0:18:07.802000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:06.218000" end="0:18:07.802000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:07.671000" end="0:18:31.771000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:07.671000" end="0:18:31.771000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:31.771000" end="0:18:33.531000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:31.771000" end="0:18:33.531000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:32.111000" end="0:18:34.718000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:32.111000" end="0:18:34.718000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:34.144000" end="0:18:54.564000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:18:34.144000" end="0:18:54.564000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:54.564000" end="0:19:05.444000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:18:54.564000" end="0:19:05.444000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:05.444000" end="0:19:10.511000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:05.444000" end="0:19:10.511000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:10.031000" end="0:19:11.331000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:10.031000" end="0:19:11.331000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:11.018000" end="0:19:11.331000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:11.018000" end="0:19:11.331000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:11.331000" end="0:19:12.904000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:11.331000" end="0:19:12.904000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:12.904000" end="0:19:13.255000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:12.904000" end="0:19:13.255000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:13.151000" end="0:19:13.664000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:13.151000" end="0:19:13.664000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:13.255000" end="0:19:13.851000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:13.255000" end="0:19:13.851000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:13.851000" end="0:19:17.411000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:13.851000" end="0:19:17.411000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:16.918000" end="0:19:17.278000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:16.918000" end="0:19:17.278000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:17.411000" end="0:19:33.998000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:17.411000" end="0:19:33.998000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:33.998000" end="0:20:00.004000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:19:33.998000" end="0:20:00.004000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:57.584000" end="0:20:12.131000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:19:57.584000" end="0:20:12.131000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:11.697000" end="0:20:12.644000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:11.697000" end="0:20:12.644000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:20:11.697000	0:20:12.644000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:20:12.302000" end="0:20:35.071000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:20:12.302000" end="0:20:35.071000" persName="Informant 4017">
+ORT	ORT	-	-	0:20:25.604000	0:20:27.737000
+ORT	ORT	-	-	0:20:25.604000	0:20:27.737000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:35.011000" end="0:20:35.317000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:35.011000" end="0:20:35.317000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:20:35.317000" end="0:20:59.751000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:20:35.317000" end="0:20:59.751000" persName="Informant 4017">
+NAME	NAME	-	-	0:20:35.317000	0:20:37.451000
+NAME	NAME	-	-	0:20:37.451000	0:20:38.797000
+ORT	ORT	-	-	0:20:46.944000	0:20:49.791000
+ORT	ORT	-	-	0:20:46.944000	0:20:49.791000
+NAME	NAME	-	-	0:20:56.504000	0:20:58.811000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:59.751000" end="0:21:00.117000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:20:59.751000" end="0:21:00.117000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:01.917000" end="0:21:15.084000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:01.917000" end="0:21:15.084000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:21:16.291000" end="0:21:33.204000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:21:16.291000" end="0:21:33.204000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:33.204000" end="0:21:34.571000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:33.204000" end="0:21:34.571000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:21:34.048000" end="0:21:50.797000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:21:34.048000" end="0:21:50.797000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:52.831000" end="0:22:13.171000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:21:52.831000" end="0:22:13.171000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:13.091000" end="0:22:13.371000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:13.091000" end="0:22:13.371000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:13.171000" end="0:22:18.764000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:13.171000" end="0:22:18.764000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:18.217000" end="0:22:19.264000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:18.217000" end="0:22:19.264000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:19.177000" end="0:22:22.431000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:19.177000" end="0:22:22.431000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:22.024000" end="0:22:22.864000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:22.024000" end="0:22:22.864000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:22.431000" end="0:22:24.437000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:22.431000" end="0:22:24.437000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:24.437000" end="0:22:26.017000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:24.437000" end="0:22:26.017000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:25.197000" end="0:22:25.831000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:25.197000" end="0:22:25.831000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:26.017000" end="0:22:26.777000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:26.017000" end="0:22:26.777000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:26.357000" end="0:22:38.024000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:26.357000" end="0:22:38.024000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:37.751000" end="0:22:38.024000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:37.751000" end="0:22:38.024000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:38.024000" end="0:22:49.257000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:38.024000" end="0:22:49.257000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:48.037000" end="0:22:48.971000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:48.037000" end="0:22:48.971000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:49.257000" end="0:22:57.444000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:49.257000" end="0:22:57.444000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:57.397000" end="0:22:57.677000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:22:57.397000" end="0:22:57.677000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:57.444000" end="0:23:14.464000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:22:57.444000" end="0:23:14.464000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:14.464000" end="0:23:15.757000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:14.464000" end="0:23:15.757000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:15.757000" end="0:23:26.497000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:15.757000" end="0:23:26.497000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:25.677000" end="0:23:25.950000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:25.677000" end="0:23:25.950000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:26.497000" end="0:23:41.157000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:26.497000" end="0:23:41.157000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:38.664000" end="0:23:46.344000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:38.664000" end="0:23:46.344000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:23:42.477000	0:23:44.917000
+NAME	NAME	-	-	0:23:42.477000	0:23:44.917000
+NAME	NAME	-	-	0:23:44.917000	0:23:46.344000
+NAME	NAME	-	-	0:23:44.917000	0:23:46.344000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:45.304000" end="0:23:45.717000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:45.304000" end="0:23:45.717000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:46.344000" end="0:23:46.837000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:46.344000" end="0:23:46.837000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:46.344000" end="0:23:47.524000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:46.344000" end="0:23:47.524000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:46.837000" end="0:23:47.737000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:46.837000" end="0:23:47.737000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:47.524000" end="0:23:49.010000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:47.524000" end="0:23:49.010000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:48.850000" end="0:23:56.270000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:48.850000" end="0:23:56.270000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:55.237000" end="0:23:57.604000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:55.237000" end="0:23:57.604000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:57.604000" end="0:23:58.344000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:57.604000" end="0:23:58.344000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:57.604000" end="0:24:00.064000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:23:57.604000" end="0:24:00.064000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:58.650000" end="0:23:59.690000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:23:58.650000" end="0:23:59.690000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:00.064000" end="0:24:03.024000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:00.064000" end="0:24:03.024000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:00.210000" end="0:24:12.830000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:00.210000" end="0:24:12.830000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:12.097000" end="0:24:13.790000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:12.097000" end="0:24:13.790000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:13.284000" end="0:24:13.937000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:13.284000" end="0:24:13.937000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:13.790000" end="0:24:15.637000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:13.790000" end="0:24:15.637000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:14.090000" end="0:24:15.497000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:14.090000" end="0:24:15.497000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:15.637000" end="0:24:15.850000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:15.637000" end="0:24:15.850000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:15.768000" end="0:24:27.144000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:15.768000" end="0:24:27.144000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:26.257000" end="0:24:26.584000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:26.257000" end="0:24:26.584000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:27.144000" end="0:24:30.077000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:27.144000" end="0:24:30.077000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:29.877000" end="0:24:30.304000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:29.877000" end="0:24:30.304000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:30.077000" end="0:24:31.110000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:30.077000" end="0:24:31.110000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:30.304000" end="0:24:32.604000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:30.304000" end="0:24:32.604000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:32.604000" end="0:24:33.437000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:32.604000" end="0:24:33.437000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:32.604000" end="0:24:37.344000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:32.604000" end="0:24:37.344000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:33.437000" end="0:24:36.444000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:24:33.437000" end="0:24:36.444000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:37.344000" end="0:25:02.390000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:24:37.344000" end="0:25:02.390000" persName="Informant 4017">
+ORT	ORT	-	-	0:24:48.090000	0:24:49.944000
+ORT	ORT	-	-	0:24:59.130000	0:25:00.830000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:01.704000" end="0:25:02.737000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:01.704000" end="0:25:02.737000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:02.390000" end="0:25:05.137000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:02.390000" end="0:25:05.137000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:04.350000" end="0:25:06.337000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:04.350000" end="0:25:06.337000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:05.210000" end="0:25:05.824000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:05.210000" end="0:25:05.824000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:06.337000" end="0:25:06.864000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:06.337000" end="0:25:06.864000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:06.610000" end="0:25:06.864000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:06.610000" end="0:25:06.864000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:06.864000" end="0:25:09.197000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:06.864000" end="0:25:09.197000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:08.837000" end="0:25:10.410000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:08.837000" end="0:25:10.410000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:10.410000" end="0:25:11.444000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:10.410000" end="0:25:11.444000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:10.410000" end="0:25:11.090000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:10.410000" end="0:25:11.090000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:11.444000" end="0:25:12.584000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:11.444000" end="0:25:12.584000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:12.584000" end="0:25:17.610000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:12.584000" end="0:25:17.610000" persName="Informant 4017">
+ORT	ORT	-	-	0:25:12.584000	0:25:15.744000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:16.070000" end="0:25:17.750000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:16.070000" end="0:25:17.750000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:17.610000" end="0:25:20.144000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:17.610000" end="0:25:20.144000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:18.170000" end="0:25:21.384000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:18.170000" end="0:25:21.384000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:20.464000" end="0:25:23.690000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:20.464000" end="0:25:23.690000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:22.870000" end="0:25:41.597000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:22.870000" end="0:25:41.597000" persName="Informant 4017_F">
+ORT	ORT	-	-	0:25:25.304000	0:25:26.370000
+ORT	ORT	-	-	0:25:28.457000	0:25:30.724000
+NAME	NAME	-	-	0:25:34.750000	0:25:35.824000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:40.924000" end="0:25:45.704000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:40.924000" end="0:25:45.704000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:45.264000" end="0:25:47.957000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:45.264000" end="0:25:47.957000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:25:45.264000	0:25:47.957000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:45.704000" end="0:25:46.150000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:45.704000" end="0:25:46.150000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:47.957000" end="0:25:51.757000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:47.957000" end="0:25:51.757000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:51.390000" end="0:25:52.584000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:51.390000" end="0:25:52.584000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:52.584000" end="0:25:57.284000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:52.584000" end="0:25:57.284000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:56.737000" end="0:25:57.097000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:56.737000" end="0:25:57.097000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:57.284000" end="0:26:00.604000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:25:57.284000" end="0:26:00.604000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:59.037000" end="0:25:59.790000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:25:59.037000" end="0:25:59.790000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:00.604000" end="0:26:08.104000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:00.604000" end="0:26:08.104000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:07.477000" end="0:26:09.550000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:07.477000" end="0:26:09.550000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:09.550000" end="0:26:10.624000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:09.550000" end="0:26:10.624000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:10.624000" end="0:26:13.350000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:10.624000" end="0:26:13.350000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:10.930000" end="0:26:11.904000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:10.930000" end="0:26:11.904000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:13.350000" end="0:26:24.083000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:13.350000" end="0:26:24.083000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:22.790000" end="0:26:25.317000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:22.790000" end="0:26:25.317000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:24.083000" end="0:26:25.317000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:24.083000" end="0:26:25.317000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:25.317000" end="0:26:27.503000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:25.317000" end="0:26:27.503000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:25.523000" end="0:26:26.137000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:25.523000" end="0:26:26.137000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:27.503000" end="0:26:30.297000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:27.503000" end="0:26:30.297000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:28.690000" end="0:26:32.383000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:28.690000" end="0:26:32.383000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:32.383000" end="0:26:34.323000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:32.383000" end="0:26:34.323000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:33.903000" end="0:26:36.317000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:33.903000" end="0:26:36.317000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:34.323000" end="0:26:39.963000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:34.323000" end="0:26:39.963000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:38.743000" end="0:26:39.250000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:38.743000" end="0:26:39.250000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:39.963000" end="0:26:44.797000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:39.963000" end="0:26:44.797000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:44.797000" end="0:26:48.090000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:44.797000" end="0:26:48.090000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:47.350000" end="0:26:56.457000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:47.350000" end="0:26:56.457000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:56.457000" end="0:26:57.043000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:56.457000" end="0:26:57.043000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:57.043000" end="0:26:59.523000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:57.043000" end="0:26:59.523000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:58.730000" end="0:26:58.997000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:26:58.730000" end="0:26:58.997000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:59.523000" end="0:27:09.523000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:26:59.523000" end="0:27:09.523000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:08.823000" end="0:27:13.437000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:08.823000" end="0:27:13.437000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:12.943000" end="0:27:13.757000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:12.943000" end="0:27:13.757000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:13.437000" end="0:27:15.023000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:13.437000" end="0:27:15.023000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:14.437000" end="0:27:16.050000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:14.437000" end="0:27:16.050000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:15.023000" end="0:27:16.330000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:15.023000" end="0:27:16.330000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:16.050000" end="0:27:16.970000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:16.050000" end="0:27:16.970000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:16.661000" end="0:27:30.363000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:16.661000" end="0:27:30.363000" persName="Informant 4017">
+NAME	NAME	-	-	0:27:24.130000	0:27:25.630000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:29.717000" end="0:27:30.070000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:29.717000" end="0:27:30.070000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:30.363000" end="0:27:36.783000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:30.363000" end="0:27:36.783000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:36.283000" end="0:27:37.263000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:36.283000" end="0:27:37.263000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:36.783000" end="0:27:39.050000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:36.783000" end="0:27:39.050000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:37.710000" end="0:27:39.363000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:37.710000" end="0:27:39.363000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:39.050000" end="0:27:39.383000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:39.050000" end="0:27:39.383000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:39.383000" end="0:27:43.270000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:39.383000" end="0:27:43.270000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:43.270000" end="0:27:46.250000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:43.270000" end="0:27:46.250000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:45.310000" end="0:27:47.290000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:45.310000" end="0:27:47.290000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:46.877000" end="0:27:51.703000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:46.877000" end="0:27:51.703000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:47.290000" end="0:27:51.703000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:47.290000" end="0:27:51.703000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:51.703000" end="0:27:55.417000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:51.703000" end="0:27:55.417000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:53.717000" end="0:27:55.417000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:27:53.717000" end="0:27:55.417000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:57.817000" end="0:28:01.510000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:27:57.817000" end="0:28:01.510000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:02.610000" end="0:28:03.577000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:02.610000" end="0:28:03.577000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:02.983000" end="0:28:11.950000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:02.983000" end="0:28:11.950000" persName="Informant 4017">
+ORT	ORT	-	-	0:28:07.677000	0:28:09.663000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:10.837000" end="0:28:11.263000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:10.837000" end="0:28:11.263000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:11.950000" end="0:28:19.517000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:11.950000" end="0:28:19.517000" persName="Informant 4017">
+NAME	NAME	-	-	0:28:14.270000	0:28:17.277000
+NAME	NAME	-	-	0:28:14.270000	0:28:17.277000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:19.170000" end="0:28:20.637000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:19.170000" end="0:28:20.637000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:19.517000" end="0:28:19.877000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:19.517000" end="0:28:19.877000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:20.637000" end="0:28:23.090000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:20.637000" end="0:28:23.090000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:23.090000" end="0:28:25.217000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:23.090000" end="0:28:25.217000" persName="Informant 4017">
+NAME	NAME	-	-	0:28:23.090000	0:28:23.930000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:24.397000" end="0:28:25.043000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:24.397000" end="0:28:25.043000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:25.217000" end="0:28:31.137000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:25.217000" end="0:28:31.137000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:30.857000" end="0:28:31.710000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:30.857000" end="0:28:31.710000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:31.137000" end="0:28:31.457000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:31.137000" end="0:28:31.457000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:31.710000" end="0:28:34.943000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:31.710000" end="0:28:34.943000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:33.943000" end="0:28:36.857000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:33.943000" end="0:28:36.857000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:36.583000" end="0:28:36.857000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:36.583000" end="0:28:36.857000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:36.857000" end="0:28:38.977000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:36.857000" end="0:28:38.977000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:38.850000" end="0:28:40.630000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:38.850000" end="0:28:40.630000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:40.503000" end="0:28:42.650000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:40.503000" end="0:28:42.650000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:42.470000" end="0:28:47.343000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:42.470000" end="0:28:47.343000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:47.343000" end="0:28:48.397000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:47.343000" end="0:28:48.397000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:47.957000" end="0:28:50.870000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:47.957000" end="0:28:50.870000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:49.850000" end="0:28:52.103000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:49.850000" end="0:28:52.103000" persName="Informant 4017">
+NAME	NAME	-	-	0:28:50.870000	0:28:52.103000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:52.103000" end="0:28:54.130000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:52.103000" end="0:28:54.130000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:54.130000" end="0:28:57.517000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:54.130000" end="0:28:57.517000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:57.517000" end="0:28:59.203000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:28:57.517000" end="0:28:59.203000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:59.203000" end="0:29:02.410000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:28:59.203000" end="0:29:02.410000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:02.063000" end="0:29:06.783000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:02.063000" end="0:29:06.783000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:29:02.063000	0:29:06.783000
+NAME	NAME	-	-	0:29:02.063000	0:29:06.783000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:02.410000" end="0:29:11.630000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:02.410000" end="0:29:11.630000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:11.103000" end="0:29:12.977000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:11.103000" end="0:29:12.977000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:11.630000" end="0:29:13.150000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:11.630000" end="0:29:13.150000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:13.150000" end="0:29:14.563000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:13.150000" end="0:29:14.563000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:14.563000" end="0:29:15.237000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:14.563000" end="0:29:15.237000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:15.237000" end="0:29:16.697000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:15.237000" end="0:29:16.697000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:29:15.237000	0:29:16.697000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:16.697000" end="0:29:17.403000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:16.697000" end="0:29:17.403000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:17.110000" end="0:29:17.810000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:17.110000" end="0:29:17.810000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:17.810000" end="0:29:30.177000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:17.810000" end="0:29:30.177000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:30.177000" end="0:29:31.090000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:30.177000" end="0:29:31.090000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:31.090000" end="0:29:33.857000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:31.090000" end="0:29:33.857000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:33.770000" end="0:29:34.703000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:33.770000" end="0:29:34.703000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:33.857000" end="0:29:34.057000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:33.857000" end="0:29:34.057000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:34.703000" end="0:29:35.970000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:34.703000" end="0:29:35.970000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:35.970000" end="0:29:36.870000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:35.970000" end="0:29:36.870000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:36.870000" end="0:29:41.410000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:36.870000" end="0:29:41.410000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:40.630000" end="0:29:43.490000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:40.630000" end="0:29:43.490000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:41.516000" end="0:29:42.130000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:41.516000" end="0:29:42.130000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:43.490000" end="0:29:45.956000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:43.490000" end="0:29:45.956000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:43.976000" end="0:29:44.356000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:43.976000" end="0:29:44.356000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:45.956000" end="0:29:48.403000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:45.956000" end="0:29:48.403000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:46.563000" end="0:29:47.303000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:46.563000" end="0:29:47.303000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:48.403000" end="0:29:50.910000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:48.403000" end="0:29:50.910000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:49.870000" end="0:29:51.296000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:49.870000" end="0:29:51.296000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:50.910000" end="0:29:51.563000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:50.910000" end="0:29:51.563000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:51.296000" end="0:29:51.563000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:51.296000" end="0:29:51.563000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:53.030000" end="0:30:00.170000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:29:53.030000" end="0:30:00.170000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:56.696000" end="0:30:00.110000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:29:56.696000" end="0:30:00.110000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:00.170000" end="0:30:07.890000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:00.170000" end="0:30:07.890000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:06.863000" end="0:30:07.230000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:06.863000" end="0:30:07.230000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:07.890000" end="0:30:15.503000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:07.890000" end="0:30:15.503000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:14.170000" end="0:30:15.936000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:14.170000" end="0:30:15.936000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:15.936000" end="0:30:20.856000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:15.936000" end="0:30:20.856000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:23.656000" end="0:30:25.323000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:23.656000" end="0:30:25.323000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:25.323000" end="0:30:36.630000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:25.323000" end="0:30:36.630000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:37.916000" end="0:30:40.256000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:37.916000" end="0:30:40.256000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:39.894000" end="0:30:41.996000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:39.894000" end="0:30:41.996000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:40.843000" end="0:30:42.490000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:40.843000" end="0:30:42.490000" persName="Informant 4017_F">
 jo	-	-	-	0:30:40.843000	0:30:41.676000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:41.996000" end="0:30:42.203000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:41.996000" end="0:30:42.203000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:42.490000" end="0:30:43.063000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:42.490000" end="0:30:43.063000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:43.063000" end="0:30:49.810000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:43.063000" end="0:30:49.810000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:49.810000" end="0:30:57.316000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:49.810000" end="0:30:57.316000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:55.950000" end="0:30:58.116000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:55.950000" end="0:30:58.116000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:57.983000" end="0:30:59.636000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:57.983000" end="0:30:59.636000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:58.116000" end="0:30:58.763000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:30:58.116000" end="0:30:58.763000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:59.636000" end="0:31:01.603000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:30:59.636000" end="0:31:01.603000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:01.603000" end="0:31:09.610000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:01.603000" end="0:31:09.610000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:08.903000" end="0:31:13.450000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:08.903000" end="0:31:13.450000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:13.450000" end="0:31:21.290000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:13.450000" end="0:31:21.290000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:20.934000" end="0:31:22.863000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:20.934000" end="0:31:22.863000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:22.863000" end="0:31:24.596000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:22.863000" end="0:31:24.596000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:24.596000" end="0:31:28.216000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:24.596000" end="0:31:28.216000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:28.216000" end="0:31:31.363000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:28.216000" end="0:31:31.363000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:31.363000" end="0:31:34.656000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:31.363000" end="0:31:34.656000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:37.690000" end="0:31:39.563000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:37.690000" end="0:31:39.563000" persName="Informant 4017">
+NAME	NAME	-	-	0:31:37.690000	0:31:38.216000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:39.416000" end="0:31:40.636000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:39.416000" end="0:31:40.636000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:40.116000" end="0:31:41.416000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:40.116000" end="0:31:41.416000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:41.416000" end="0:31:42.670000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:41.416000" end="0:31:42.670000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:42.670000" end="0:31:43.603000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:42.670000" end="0:31:43.603000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:42.943000" end="0:31:43.436000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:42.943000" end="0:31:43.436000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:43.603000" end="0:31:49.870000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:43.603000" end="0:31:49.870000" persName="Informant 4017">
+NAME	NAME	-	-	0:31:49.443000	0:31:49.870000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:49.870000" end="0:31:55.310000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:49.870000" end="0:31:55.310000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:55.310000" end="0:31:55.690000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:55.310000" end="0:31:55.690000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:55.690000" end="0:31:57.563000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:31:55.690000" end="0:31:57.563000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:57.563000" end="0:32:06.196000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:31:57.563000" end="0:32:06.196000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:06.196000" end="0:32:08.243000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:06.196000" end="0:32:08.243000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:06.890000" end="0:32:07.043000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:06.890000" end="0:32:07.043000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:08.243000" end="0:32:09.510000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:08.243000" end="0:32:09.510000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:11.410000" end="0:32:12.256000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:11.410000" end="0:32:12.256000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:12.136000" end="0:32:13.123000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:12.136000" end="0:32:13.123000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:13.123000" end="0:32:13.890000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:13.123000" end="0:32:13.890000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:13.890000" end="0:32:15.363000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:13.890000" end="0:32:15.363000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:15.030000" end="0:32:15.543000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:15.030000" end="0:32:15.543000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:15.363000" end="0:32:15.716000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:15.363000" end="0:32:15.716000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:15.543000" end="0:32:25.056000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:15.543000" end="0:32:25.056000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:23.890000" end="0:32:26.890000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:23.890000" end="0:32:26.890000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:29.316000" end="0:32:35.770000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:29.316000" end="0:32:35.770000" persName="Informant 4017">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:35.770000" end="0:32:38.570000">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:35.770000" end="0:32:38.570000" persName="Informant 4017_G">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:38.570000" end="0:32:40.243000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:38.570000" end="0:32:40.243000" persName="Informant 4017">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:39.943000" end="0:32:40.796000">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:39.943000" end="0:32:40.796000" persName="Informant 4017_G">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:32:40.796000" end="0:32:41.690000">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:32:40.796000" end="0:32:41.690000" persName="Informant EXP12">
 </u>
-<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:41.690000" end="0:32:42.330000">
+<u who="spk_790" sex="female" age="UNK" name="Informant 4017_G" start="0:32:41.690000" end="0:32:42.330000" persName="Informant 4017_G">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:32:42.003000" end="0:32:42.903000">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" start="0:32:42.003000" end="0:32:42.903000" persName="Informant EXP12">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:42.903000" end="0:32:46.603000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:42.903000" end="0:32:46.603000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:46.576000" end="0:32:46.856000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:46.576000" end="0:32:46.856000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:46.603000" end="0:32:48.983000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:46.603000" end="0:32:48.983000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:48.983000" end="0:32:51.610000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:48.983000" end="0:32:51.610000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:51.610000" end="0:32:58.609000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:51.610000" end="0:32:58.609000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:58.609000" end="0:32:59.816000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:32:58.609000" end="0:32:59.816000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:59.816000" end="0:33:01.856000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:32:59.816000" end="0:33:01.856000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:01.856000" end="0:33:02.209000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:01.856000" end="0:33:02.209000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:02.209000" end="0:33:09.723000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:02.209000" end="0:33:09.723000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:09.723000" end="0:33:10.303000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:09.723000" end="0:33:10.303000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:10.303000" end="0:33:15.216000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:10.303000" end="0:33:15.216000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:14.256000" end="0:33:14.689000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:14.256000" end="0:33:14.689000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:15.216000" end="0:33:15.996000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:15.216000" end="0:33:15.996000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:18.396000" end="0:33:19.603000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:18.396000" end="0:33:19.603000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:18.396000" end="0:33:18.903000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:18.396000" end="0:33:18.903000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:19.603000" end="0:33:22.989000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:19.603000" end="0:33:22.989000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:19.603000" end="0:33:22.989000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:19.603000" end="0:33:22.989000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:22.989000" end="0:33:23.703000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:22.989000" end="0:33:23.703000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:23.703000" end="0:33:24.963000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:23.703000" end="0:33:24.963000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:24.476000" end="0:33:24.803000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:24.476000" end="0:33:24.803000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:24.963000" end="0:33:33.243000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:24.963000" end="0:33:33.243000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:33.243000" end="0:33:34.843000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:33.243000" end="0:33:34.843000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:34.843000" end="0:33:35.176000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:34.843000" end="0:33:35.176000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:35.176000" end="0:33:52.260000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:35.176000" end="0:33:52.260000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:52.069000" end="0:33:52.856000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:52.069000" end="0:33:52.856000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:52.856000" end="0:33:53.276000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:52.856000" end="0:33:53.276000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:53.276000" end="0:33:55.143000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:53.276000" end="0:33:55.143000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:55.143000" end="0:33:57.049000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:55.143000" end="0:33:57.049000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:57.049000" end="0:33:58.843000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:33:57.049000" end="0:33:58.843000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:58.276000" end="0:34:01.543000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:33:58.276000" end="0:34:01.543000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:01.543000" end="0:34:12.076000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:01.543000" end="0:34:12.076000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:09.976000" end="0:34:15.143000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:09.976000" end="0:34:15.143000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:15.143000" end="0:34:19.636000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:15.143000" end="0:34:19.636000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:19.636000" end="0:34:25.949000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:19.636000" end="0:34:25.949000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:25.949000" end="0:34:27.688000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:25.949000" end="0:34:27.688000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:27.688000" end="0:34:28.616000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:27.688000" end="0:34:28.616000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:28.456000" end="0:34:29.748000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:28.456000" end="0:34:29.748000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:29.748000" end="0:34:34.889000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:29.748000" end="0:34:34.889000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:34.889000" end="0:34:35.376000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:34.889000" end="0:34:35.376000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:35.376000" end="0:34:40.156000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:35.376000" end="0:34:40.156000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:40.156000" end="0:34:41.043000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:40.156000" end="0:34:41.043000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:41.043000" end="0:34:49.688000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:41.043000" end="0:34:49.688000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:49.688000" end="0:34:56.688000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:49.688000" end="0:34:56.688000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:56.422000" end="0:34:57.723000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:34:56.422000" end="0:34:57.723000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:57.723000" end="0:35:00.863000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:34:57.723000" end="0:35:00.863000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:00.663000" end="0:35:01.749000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:00.663000" end="0:35:01.749000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:03.749000" end="0:35:04.136000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:03.749000" end="0:35:04.136000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:03.863000" end="0:35:04.603000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:03.863000" end="0:35:04.603000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:07.803000" end="0:35:09.289000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:07.803000" end="0:35:09.289000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:08.916000" end="0:35:11.163000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:08.916000" end="0:35:11.163000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:11.163000" end="0:35:26.049000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:11.163000" end="0:35:26.049000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:26.049000" end="0:35:27.203000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:26.049000" end="0:35:27.203000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:27.109000" end="0:35:30.489000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:27.109000" end="0:35:30.489000" persName="Informant 4017">
+NAME	NAME	-	-	0:35:27.109000	0:35:28.963000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:30.489000" end="0:35:31.683000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:30.489000" end="0:35:31.683000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:31.576000" end="0:35:32.416000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:31.576000" end="0:35:32.416000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:32.296000" end="0:35:33.776000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:32.296000" end="0:35:33.776000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:33.663000" end="0:35:36.016000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:33.663000" end="0:35:36.016000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:34.943000" end="0:35:35.296000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:34.943000" end="0:35:35.296000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:36.016000" end="0:35:36.929000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:36.016000" end="0:35:36.929000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:36.836000" end="0:35:37.403000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:36.836000" end="0:35:37.403000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:37.229000" end="0:35:43.783000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:37.229000" end="0:35:43.783000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:43.783000" end="0:35:44.363000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:43.783000" end="0:35:44.363000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:44.363000" end="0:35:46.709000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:44.363000" end="0:35:46.709000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:45.963000" end="0:35:47.983000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:45.963000" end="0:35:47.983000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:47.496000" end="0:35:48.716000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:47.496000" end="0:35:48.716000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:48.536000" end="0:35:50.263000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:48.536000" end="0:35:50.263000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:35:48.536000	0:35:49.756000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:50.263000" end="0:35:51.289000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:50.263000" end="0:35:51.289000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:51.176000" end="0:35:51.616000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:51.176000" end="0:35:51.616000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:51.289000" end="0:35:52.956000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:51.289000" end="0:35:52.956000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:52.776000" end="0:35:54.343000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:52.776000" end="0:35:54.343000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:52.956000" end="0:35:53.216000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:52.956000" end="0:35:53.216000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:54.343000" end="0:35:56.083000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:54.343000" end="0:35:56.083000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:55.223000" end="0:35:58.943000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:35:55.223000" end="0:35:58.943000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:58.943000" end="0:36:02.703000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:35:58.943000" end="0:36:02.703000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:02.703000" end="0:36:04.656000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:02.703000" end="0:36:04.656000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:05.856000" end="0:36:12.576000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:05.856000" end="0:36:12.576000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:36:07.089000	0:36:08.549000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:12.576000" end="0:36:14.889000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:12.576000" end="0:36:14.889000" persName="Informant 4017">
+NAME	NAME	-	-	0:36:12.576000	0:36:14.889000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:14.636000" end="0:36:16.576000">
-von:	-	-	-	0:36:14.636000	0:36:15.289000
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:14.636000" end="0:36:16.576000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:36:14.636000	0:36:15.289000
+NAME	NAME	-	-	0:36:15.289000	0:36:16.576000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:16.576000" end="0:36:19.002000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:16.576000" end="0:36:19.002000" persName="Informant 4017">
+NAME	NAME	-	-	0:36:17.930000	0:36:19.002000
+NAME	NAME	-	-	0:36:17.930000	0:36:19.002000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:18.882000" end="0:36:23.316000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:18.882000" end="0:36:23.316000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:36:19.676000	0:36:21.002000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:23.122000" end="0:36:26.709000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:23.122000" end="0:36:26.709000" persName="Informant 4017">
+NAME	NAME	-	-	0:36:24.162000	0:36:24.676000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:25.696000" end="0:36:26.760000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:25.696000" end="0:36:26.760000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:36:26.156000	0:36:26.760000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:26.709000" end="0:36:27.036000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:26.709000" end="0:36:27.036000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:27.036000" end="0:36:28.176000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:27.036000" end="0:36:28.176000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:36:27.036000	0:36:27.976000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:28.176000" end="0:36:32.756000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:28.176000" end="0:36:32.756000" persName="Informant 4017">
+NAME	NAME	-	-	0:36:29.442000	0:36:29.909000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:32.756000" end="0:36:33.922000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:32.756000" end="0:36:33.922000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:33.369000" end="0:36:34.482000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:33.369000" end="0:36:34.482000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:34.249000" end="0:36:35.762000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:34.249000" end="0:36:35.762000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:34.482000" end="0:36:34.696000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:34.482000" end="0:36:34.696000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:35.762000" end="0:36:36.396000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:35.762000" end="0:36:36.396000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:35.762000" end="0:36:37.776000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:35.762000" end="0:36:37.776000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:36.396000" end="0:36:36.580000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:36.396000" end="0:36:36.580000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:37.776000" end="0:36:41.496000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:37.776000" end="0:36:41.496000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:40.769000" end="0:36:44.136000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:40.769000" end="0:36:44.136000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:44.136000" end="0:36:45.956000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:44.136000" end="0:36:45.956000" persName="Informant 4017">
+ORT	ORT	-	-	0:36:44.136000	0:36:45.709000
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:45.956000" end="0:36:47.222000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:45.956000" end="0:36:47.222000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:47.222000" end="0:36:48.782000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:47.222000" end="0:36:48.782000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:48.782000" end="0:36:59.109000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:48.782000" end="0:36:59.109000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:57.049000" end="0:36:57.356000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:36:57.049000" end="0:36:57.356000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:59.109000" end="0:37:05.436000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:36:59.109000" end="0:37:05.436000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:37:04.682000	0:37:05.242000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:05.436000" end="0:37:05.802000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:05.436000" end="0:37:05.802000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:05.802000" end="0:37:14.449000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:05.802000" end="0:37:14.449000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:37:07.862000	0:37:10.176000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:14.449000" end="0:37:16.049000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:14.449000" end="0:37:16.049000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:15.789000" end="0:37:23.936000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:15.789000" end="0:37:23.936000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:23.629000" end="0:37:25.256000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:23.629000" end="0:37:25.256000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:24.982000" end="0:37:35.616000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:24.982000" end="0:37:35.616000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:35.616000" end="0:37:38.162000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:35.616000" end="0:37:38.162000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:37.502000" end="0:37:38.316000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:37.502000" end="0:37:38.316000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:38.162000" end="0:37:38.582000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:38.162000" end="0:37:38.582000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:38.582000" end="0:37:44.856000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:38.582000" end="0:37:44.856000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:44.856000" end="0:37:45.796000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:44.856000" end="0:37:45.796000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:45.713000" end="0:37:46.342000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:45.713000" end="0:37:46.342000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:46.342000" end="0:37:48.289000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:46.342000" end="0:37:48.289000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:48.289000" end="0:37:49.116000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:48.289000" end="0:37:49.116000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:48.289000" end="0:37:48.449000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:37:48.289000" end="0:37:48.449000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:49.116000" end="0:38:13.016000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:37:49.116000" end="0:38:13.016000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:37:59.942000	0:38:01.562000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:12.269000" end="0:38:14.042000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:12.269000" end="0:38:14.042000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:13.429000" end="0:38:19.429000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:13.429000" end="0:38:19.429000" persName="Informant 4017_F">
+NAME	NAME	-	-	0:38:14.262000	0:38:15.722000
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:19.429000" end="0:38:21.962000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:19.429000" end="0:38:21.962000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:21.602000" end="0:38:23.322000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:21.602000" end="0:38:23.322000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:21.962000" end="0:38:23.469000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:21.962000" end="0:38:23.469000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:23.322000" end="0:38:23.469000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:23.322000" end="0:38:23.469000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:23.469000" end="0:38:28.856000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:23.469000" end="0:38:28.856000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:28.856000" end="0:38:30.442000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:28.856000" end="0:38:30.442000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:29.289000" end="0:38:29.509000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:29.289000" end="0:38:29.509000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:30.442000" end="0:38:32.769000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:30.442000" end="0:38:32.769000" persName="Informant 4017_F">
 </u>
-<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:32.769000" end="0:38:37.969000">
+<u who="spk_175" sex="male" age="alt (65+) männlich" name="Informant 4017" start="0:38:32.769000" end="0:38:37.969000" persName="Informant 4017">
 </u>
-<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:37.969000" end="0:38:39.189000">
+<u who="spk_636" sex="male" age="Unspezifisch" name="Informant 4017_F" start="0:38:37.969000" end="0:38:39.189000" persName="Informant 4017_F">
 </u>
 </file>
 </doc>

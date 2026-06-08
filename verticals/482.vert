@@ -1,12 +1,12 @@
-<doc id="transcript_482">
+<doc id="transcript_482" name="0612_STEY_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="482.xml" title="Transcript: Transcript_482">
-<u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" start="0:00:08.873000" end="0:00:10.873000">
+<u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" start="0:00:08.873000" end="0:00:10.873000" persName="Informant 0612">
 Nordwind	-	-	-	0:00:08.873000	0:00:10.873000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:08.873000" end="0:00:10.873000">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:08.873000" end="0:00:10.873000" persName="Informant EXP9">
 XXX	-	-	-	0:00:08.873000	0:00:10.873000
 </u>
-<u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" start="0:00:08.873000" end="0:01:02.993000">
+<u who="spk_188" sex="female" age="Alt (65+)" name="Informant 0612" start="0:00:08.873000" end="0:01:02.993000" persName="Informant 0612">
 und	-	-	-	0:00:08.873000	0:00:10.873000
 Sonne	-	-	-	0:00:08.873000	0:00:10.873000
 einst	-	-	LautNach LautVor MG Nas Ons Ons- sPal sPal- sPal-t	0:00:10.873000	0:00:13.640000

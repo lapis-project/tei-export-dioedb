@@ -1,6 +1,6 @@
-<doc id="transcript_232">
+<doc id="transcript_232" name="0443_TAUF_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="232.xml" title="Transcript: Transcript_232">
-<u who="spk_322" sex="male" age="Alt (65+)" name="Informant 0443" start="0:00:00" end="0:01:09.170000">
+<u who="spk_322" sex="male" age="Alt (65+)" name="Informant 0443" start="0:00:00" end="0:01:09.170000" persName="Informant 0443">
 XX	XX	NUM	-	0:00:00	0:00:15.052000
 Nordwind	Nordwind	NOUN	-	0:00:15.052000	0:00:17.079000
 und	und	CCONJ	-	0:00:15.052000	0:00:17.079000

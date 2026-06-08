@@ -1,6 +1,6 @@
 <doc id="transcript_327">
 <file id="327.xml" title="Transcript: Transcript_327">
-<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" start="0:00:23.600000" end="0:01:44.860000">
+<u who="spk_138" sex="male" age="jung (18-35) -matura" name="Informant 0471" start="0:00:23.600000" end="0:01:44.860000" persName="Informant 0471">
 Nordwind	Nordwind	NOUN	-	0:00:23.600000	0:00:25.260000
 und	und	CCONJ	-	0:00:23.600000	0:00:25.260000
 Sonne	sonnen	NOUN	-	0:00:23.600000	0:00:25.260000

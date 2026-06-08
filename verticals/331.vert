@@ -1,6 +1,6 @@
-<doc id="transcript_331">
+<doc id="transcript_331" name="0623_STEY_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="331.xml" title="Transcript: Transcript_331">
-<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.380000" end="0:01:00.286000">
+<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.380000" end="0:01:00.286000" persName="Informant 0623">
 Nordwind	-	-	-	0:00:10.380000	0:00:12.380000
 und	-	-	-	0:00:10.380000	0:00:12.380000
 Sonne	-	-	-	0:00:10.380000	0:00:12.380000
@@ -134,10 +134,10 @@ Stärkere	-	-	-	0:00:57.540000	0:01:00.286000
 war	-	-	-	0:00:57.540000	0:01:00.286000
 .	-	-	-	0:00:57.540000	0:01:00.286000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:00.286000" end="0:01:02.286000">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:00.286000" end="0:01:02.286000" persName="Informant EXP9">
 XXX	-	-	-	0:01:00.286000	0:01:02.286000
 </u>
-<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:01:00.286000" end="0:01:02.286000">
+<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:01:00.286000" end="0:01:02.286000" persName="Informant 0623">
 XXX	-	-	-	0:01:00.286000	0:01:02.286000
 </u>
 </file>

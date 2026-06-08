@@ -1,12 +1,12 @@
-<doc id="transcript_504">
+<doc id="transcript_504" name="0268_TUXT_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="504.xml" title="Transcript: Transcript_504">
-<u who="spk_334" sex="female" age="Alt (65+)" name="Informant 0268" start="0:00:49.986000" end="0:00:51.986000">
+<u who="spk_334" sex="female" age="Alt (65+)" name="Informant 0268" start="0:00:49.986000" end="0:00:51.986000" persName="Informant 0268">
 Nordwind	-	-	-	0:00:49.986000	0:00:51.986000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:00:49.986000" end="0:00:51.986000">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:00:49.986000" end="0:00:51.986000" persName="Informant EXP3">
 xxx	-	-	-	0:00:49.986000	0:00:51.986000
 </u>
-<u who="spk_334" sex="female" age="Alt (65+)" name="Informant 0268" start="0:00:49.986000" end="0:01:45.073000">
+<u who="spk_334" sex="female" age="Alt (65+)" name="Informant 0268" start="0:00:49.986000" end="0:01:45.073000" persName="Informant 0268">
 und	-	-	-	0:00:49.986000	0:00:51.986000
 Sonne	-	-	-	0:00:49.986000	0:00:51.986000
 .	-	-	-	0:00:49.986000	0:00:51.986000

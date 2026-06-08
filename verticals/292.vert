@@ -1,12 +1,12 @@
-<doc id="transcript_292">
+<doc id="transcript_292" name="0357_0363_PASS_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="292.xml" title="Transcript: Transcript_292">
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:00" end="0:00:01.221000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:00" end="0:00:01.221000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:00" end="0:00:01.221000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:00" end="0:00:01.221000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:00" end="0:00:03.296000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:00" end="0:00:03.296000" persName="Informant EXP5">
 <pause duration="1,2s"/>
 so	-	-	-	0:00:01.221000	0:00:02.578000
 ,	-	-	-	0:00:01.221000	0:00:02.578000
@@ -19,11 +19,11 @@ ist	-	-	-	0:00:02.578000	0:00:03.296000
 gut	-	-	-	0:00:02.578000	0:00:03.296000
 .	-	-	-	0:00:02.578000	0:00:03.296000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:03.296000" end="0:00:03.635000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:03.296000" end="0:00:03.635000" persName="Informant 0363">
 ja	-	-	-	0:00:03.296000	0:00:03.635000
 .	-	-	-	0:00:03.296000	0:00:03.635000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:03.635000" end="0:00:07.235000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:03.635000" end="0:00:07.235000" persName="Informant EXP5">
 <pause duration="1,0s"/>
 Strom	-	-	-	0:00:04.585000	0:00:06.100000
 hat	-	-	-	0:00:04.585000	0:00:06.100000
@@ -34,60 +34,60 @@ dann	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp Gramm
 wünsche	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:00:06.100000	0:00:07.235000
 ich	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:00:06.100000	0:00:07.235000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:07.235000" end="0:00:07.671000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:07.235000" end="0:00:07.671000" persName="Informant 0363">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.235000" end="0:00:08.457000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.235000" end="0:00:08.457000" persName="Informant EXP5">
 Ihnen	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:00:07.235000	0:00:07.671000
 viel	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:00:07.671000	0:00:08.457000
 Spaß	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	0:00:07.671000	0:00:08.457000
 .	-	-	-	0:00:07.671000	0:00:08.457000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:08.457000" end="0:00:09.675000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:08.457000" end="0:00:09.675000" persName="Informant 0357">
 danke	-	-	-	0:00:08.457000	0:00:09.675000
 vielmals	-	-	-	0:00:08.457000	0:00:09.675000
 .	-	-	-	0:00:08.457000	0:00:09.675000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:08.457000" end="0:00:09.675000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:08.457000" end="0:00:09.675000" persName="Informant 0363">
 (ja)	-	-	-	0:00:08.457000	0:00:09.675000
 ,	-	-	-	0:00:08.457000	0:00:09.675000
 danke	-	-	-	0:00:08.457000	0:00:09.675000
 .	-	-	-	0:00:08.457000	0:00:09.675000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:08.457000" end="0:00:09.675000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:08.457000" end="0:00:09.675000" persName="Informant EXP5">
 bis	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:08.457000	0:00:09.675000
 später	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:08.457000	0:00:09.675000
 .	-	-	-	0:00:08.457000	0:00:09.675000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:09.675000" end="0:00:10.275000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:09.675000" end="0:00:10.275000" persName="Informant 0357">
 bis	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:09.675000	0:00:10.275000
 später	-	-	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:09.675000	0:00:10.275000
 .	-	-	-	0:00:09.675000	0:00:10.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:10.275000" end="0:00:10.689000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:10.275000" end="0:00:10.689000" persName="Informant EXP5">
 ja	-	-	-	0:00:10.275000	0:00:10.689000
 ich	-	-	-	0:00:10.275000	0:00:10.689000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:10.689000" end="0:00:11.114000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:10.689000" end="0:00:11.114000" persName="Informant 0357">
 das	-	-	-	0:00:10.689000	0:00:11.114000
 wird	-	-	-	0:00:10.689000	0:00:11.114000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:10.689000" end="0:00:11.114000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:10.689000" end="0:00:11.114000" persName="Informant EXP5">
 danke	-	-	-	0:00:10.689000	0:00:11.114000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:11.110000" end="0:00:11.642000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:11.110000" end="0:00:11.642000" persName="Informant 0357">
 was	-	-	-	0:00:11.110000	0:00:11.642000
 werden	-	-	-	0:00:11.110000	0:00:11.642000
 .	-	-	-	0:00:11.110000	0:00:11.642000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:11.110000" end="0:00:11.642000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:11.110000" end="0:00:11.642000" persName="Informant EXP5">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:11.642000" end="0:00:12.946000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:11.642000" end="0:00:12.946000" persName="Informant 0357">
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:12.946000" end="0:00:13.435000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:12.946000" end="0:00:13.435000" persName="Informant 0363">
 mhm	-	-	-	0:00:12.946000	0:00:13.435000
 .	-	-	-	0:00:12.946000	0:00:13.435000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:12.946000" end="0:00:14.971000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:12.946000" end="0:00:14.971000" persName="Informant 0357">
 okay	-	-	-	0:00:12.946000	0:00:13.435000
 ,	-	-	-	0:00:12.946000	0:00:13.435000
 fangen	-	-	-	0:00:13.435000	0:00:13.946000
@@ -102,31 +102,31 @@ nicht	-	-	-	0:00:13.946000	0:00:14.971000
 fertig	-	-	-	0:00:13.946000	0:00:14.971000
 .	-	-	-	0:00:13.946000	0:00:14.971000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:14.971000" end="0:00:15.417000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:14.971000" end="0:00:15.417000" persName="Informant 0363">
 mhm	-	-	-	0:00:14.971000	0:00:15.417000
 .	-	-	-	0:00:14.971000	0:00:15.417000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:15.417000" end="0:00:16.864000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:15.417000" end="0:00:16.864000" persName="Informant 0357">
 <pause duration="0,8s"/>
 machen	-	-	-	0:00:15.417000	0:00:16.864000
 wir	-	-	-	0:00:15.417000	0:00:16.864000
 so	-	-	-	0:00:15.417000	0:00:16.864000
 ?	-	-	-	0:00:15.417000	0:00:16.864000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:16.864000" end="0:00:18.066000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:16.864000" end="0:00:18.066000" persName="Informant 0363">
 mhm	-	-	-	0:00:16.864000	0:00:17.321000
 .	-	-	-	0:00:16.864000	0:00:17.321000
 (mhm)	-	-	-	0:00:17.320000	0:00:18.066000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:17.320000" end="0:00:18.066000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:17.320000" end="0:00:18.066000" persName="Informant 0357">
 bunt	-	-	-	0:00:17.320000	0:00:18.066000
 gemischt	-	-	-	0:00:17.320000	0:00:18.066000
 ?	-	-	-	0:00:17.320000	0:00:18.066000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:18.066000" end="0:00:18.396000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:18.066000" end="0:00:18.396000" persName="Informant 0363">
 (okay)	-	-	-	0:00:18.066000	0:00:18.396000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:18.066000" end="0:00:20.667000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:18.066000" end="0:00:20.667000" persName="Informant 0357">
 okay	-	-	-	0:00:18.066000	0:00:18.396000
 ,	-	-	-	0:00:18.066000	0:00:18.396000
 "rede	-	-	-	0:00:18.396000	0:00:20.667000
@@ -135,12 +135,12 @@ Freizeit	-	-	-	0:00:18.396000	0:00:20.667000
 Hobby	-	-	-	0:00:18.396000	0:00:20.667000
 ."	-	-	-	0:00:18.396000	0:00:20.667000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:20.667000" end="0:00:21.960000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:20.667000" end="0:00:21.960000" persName="Informant 0363">
 <pause duration="0,7s"/>
 haha	-	-	-	0:00:20.667000	0:00:21.960000
 .	-	-	-	0:00:20.667000	0:00:21.960000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:21.960000" end="0:00:28.110000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:21.960000" end="0:00:28.110000" persName="Informant 0357">
 <pause duration="1,5s"/>
 na	-	-	-	0:00:23.464000	0:00:24.842000
 ja	-	-	-	0:00:23.464000	0:00:24.842000
@@ -157,11 +157,11 @@ eh	-	-	-	0:00:24.842000	0:00:26.178000
 Berglauf	-	-	-	0:00:26.178000	0:00:28.110000
 ,	-	-	-	0:00:26.178000	0:00:28.110000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:28.110000" end="0:00:28.650000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:28.110000" end="0:00:28.650000" persName="Informant 0363">
 hm	-	-	-	0:00:28.110000	0:00:28.650000
 .	-	-	-	0:00:28.110000	0:00:28.650000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:28.650000" end="0:00:30.757000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:28.650000" end="0:00:30.757000" persName="Informant 0357">
 die	-	-	-	0:00:28.650000	0:00:30.757000
 LAHÜTrophy	-	-	-	0:00:28.650000	0:00:30.757000
 im	-	-	-	0:00:28.650000	0:00:30.757000
@@ -170,12 +170,12 @@ wieder	-	-	-	0:00:28.650000	0:00:30.757000
 schaffen	-	-	-	0:00:28.650000	0:00:30.757000
 .	-	-	-	0:00:28.650000	0:00:30.757000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:30.757000" end="0:00:31.678000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:30.757000" end="0:00:31.678000" persName="Informant 0363">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:00:30.757000	0:00:31.678000
 .	-	-	-	0:00:30.757000	0:00:31.678000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:31.678000" end="0:00:35.417000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:31.678000" end="0:00:35.417000" persName="Informant 0357">
 und	-	-	-	0:00:31.678000	0:00:32.082000
 ich	-	-	-	0:00:31.678000	0:00:32.082000
 glaube	-	-	-	0:00:31.678000	0:00:32.082000
@@ -186,7 +186,7 @@ ist	-	-	-	0:00:32.082000	0:00:35.417000
 arbeiten	-	-	-	0:00:32.082000	0:00:35.417000
 .	-	-	-	0:00:32.082000	0:00:35.417000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:35.417000" end="0:00:39.275000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:35.417000" end="0:00:39.275000" persName="Informant 0363">
 ja	-	-	-	0:00:35.417000	0:00:37.332000
 ,	-	-	-	0:00:35.417000	0:00:37.332000
 genau	-	-	-	0:00:35.417000	0:00:37.332000
@@ -198,13 +198,13 @@ keine	-	-	-	0:00:38.350000	0:00:39.275000
 Hobbys	-	-	-	0:00:38.350000	0:00:39.275000
 ,	-	-	-	0:00:38.350000	0:00:39.275000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:38.350000" end="0:00:39.275000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:38.350000" end="0:00:39.275000" persName="Informant 0357">
 sonst	-	-	-	0:00:38.350000	0:00:39.275000
 noch	-	-	-	0:00:38.350000	0:00:39.275000
 (irgend/)	-	-	-	0:00:38.350000	0:00:39.275000
 /?	-	-	-	0:00:38.350000	0:00:39.275000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:39.275000" end="0:00:40.642000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:39.275000" end="0:00:40.642000" persName="Informant 0363">
 <pause duration="0,5s"/>
 mein	-	-	-	0:00:39.275000	0:00:40.642000
 Hobby	-	-	-	0:00:39.275000	0:00:40.642000
@@ -213,7 +213,7 @@ die	-	-	-	0:00:39.275000	0:00:40.642000
 Maschinen	-	-	-	0:00:39.275000	0:00:40.642000
 .	-	-	-	0:00:39.275000	0:00:40.642000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:40.642000" end="0:00:45.260000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:40.642000" end="0:00:45.260000" persName="Informant 0357">
 ähm	-	-	-	0:00:40.642000	0:00:42.007000
 ,	-	-	-	0:00:40.642000	0:00:42.007000
 <pause duration="0,8s"/>
@@ -224,38 +224,38 @@ Freunde	-	-	-	0:00:42.007000	0:00:45.260000
 treffen	-	-	-	0:00:42.007000	0:00:45.260000
 ?	-	-	-	0:00:42.007000	0:00:45.260000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:45.260000" end="0:00:50.653000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:45.260000" end="0:00:50.653000" persName="Informant 0363">
 <pause duration="3,4s"/>
 das	-	-	-	0:00:48.628000	0:00:49.435000
 passiert	-	-	-	0:00:48.628000	0:00:49.435000
 sehr	-	-	-	0:00:48.628000	0:00:49.435000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:50.653000" end="0:00:51.489000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:50.653000" end="0:00:51.489000" persName="Informant 0357">
 während	-	-	-	0:00:50.653000	0:00:51.489000
 dem	-	-	-	0:00:50.653000	0:00:51.489000
 Arbeiten	-	-	-	0:00:50.653000	0:00:51.489000
 .	-	-	-	0:00:50.653000	0:00:51.489000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:51.489000" end="0:00:52.239000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:51.489000" end="0:00:52.239000" persName="Informant 0363">
 nebenbei	-	-	-	0:00:51.489000	0:00:52.239000
 ,	-	-	-	0:00:51.489000	0:00:52.239000
 ja	-	-	-	0:00:51.489000	0:00:52.239000
 .	-	-	-	0:00:51.489000	0:00:52.239000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:52.239000" end="0:00:53.475000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:52.239000" end="0:00:53.475000" persName="Informant 0357">
 beim	-	-	-	0:00:52.239000	0:00:53.475000
-Landring	-	-	-	0:00:52.239000	0:00:53.475000
+SONSTIGE	SONSTIGE	-	-	0:00:52.239000	0:00:53.475000
 zum	-	-	-	0:00:52.239000	0:00:53.475000
 Beispiel	-	-	-	0:00:52.239000	0:00:53.475000
 .	-	-	-	0:00:52.239000	0:00:53.475000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:53.475000" end="0:00:54.075000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:00:53.475000" end="0:00:54.075000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ja	-	-	-	0:00:53.475000	0:00:54.075000
 .	-	-	-	0:00:53.475000	0:00:54.075000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:54.075000" end="0:01:00.985000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:00:54.075000" end="0:01:00.985000" persName="Informant 0357">
 okay	-	-	-	0:00:54.075000	0:00:54.442000
 .	-	-	-	0:00:54.075000	0:00:54.442000
 <pause duration="1,6s"/>
@@ -282,27 +282,27 @@ gesät	-	-	-	0:00:57.332000	0:01:00.985000
 gell	-	-	-	0:00:57.332000	0:01:00.985000
 ?	-	-	-	0:00:57.332000	0:01:00.985000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:00.985000" end="0:01:01.664000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:00.985000" end="0:01:01.664000" persName="Informant 0363">
 mhm	-	-	-	0:01:00.985000	0:01:01.664000
 .	-	-	-	0:01:00.985000	0:01:01.664000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:01.664000" end="0:01:03.064000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:01.664000" end="0:01:03.064000" persName="Informant 0357">
 <pause duration="1,0s"/>
 okay	-	-	-	0:01:02.646000	0:01:03.064000
 .	-	-	-	0:01:02.646000	0:01:03.064000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:03.064000" end="0:01:06.789000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:03.064000" end="0:01:06.789000" persName="Informant 0363">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:03.064000" end="0:01:06.789000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:03.064000" end="0:01:06.789000" persName="Informant 0357">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:06.789000" end="0:01:08.907000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:06.789000" end="0:01:08.907000" persName="Informant 0363">
 "besondere	-	-	-	0:01:06.789000	0:01:08.907000
 Schulerlebnisse"	-	-	-	0:01:06.789000	0:01:08.907000
 .	-	-	-	0:01:06.789000	0:01:08.907000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:08.907000" end="0:01:19.207000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:08.907000" end="0:01:19.207000" persName="Informant 0357">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:01:08.907000	0:01:11.703000
 .	-	-	-	0:01:08.907000	0:01:11.703000
@@ -329,9 +329,9 @@ besonderes	-	-	-	0:01:18.014000	0:01:19.207000
 Schulerlebnis	-	-	-	0:01:18.014000	0:01:19.207000
 .	-	-	-	0:01:18.014000	0:01:19.207000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:19.210000" end="0:01:19.835000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:19.210000" end="0:01:19.835000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:19.835000" end="0:01:36.078000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:19.835000" end="0:01:36.078000" persName="Informant 0357">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:01:19.835000	0:01:22.228000
 .	-	-	-	0:01:19.835000	0:01:22.228000
@@ -369,12 +369,12 @@ beim	-	-	-	0:01:33.857000	0:01:36.078000
 Stiegenhergang	-	-	-	0:01:33.857000	0:01:36.078000
 .	-	-	-	0:01:33.857000	0:01:36.078000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:36.078000" end="0:01:36.991000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:36.078000" end="0:01:36.991000" persName="Informant 0363">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:01:36.078000	0:01:36.991000
 .	-	-	-	0:01:36.078000	0:01:36.991000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:36.991000" end="0:01:37.950000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:36.991000" end="0:01:37.950000" persName="Informant 0357">
 um	-	-	-	0:01:36.991000	0:01:37.950000
 was	-	-	-	0:01:36.991000	0:01:37.950000
 *is*	-	-	-	0:01:36.991000	0:01:37.950000
@@ -382,7 +382,7 @@ da	-	-	-	0:01:36.991000	0:01:37.950000
 gegangen	-	-	-	0:01:36.991000	0:01:37.950000
 ?	-	-	-	0:01:36.991000	0:01:37.950000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:37.950000" end="0:01:42.446000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:37.950000" end="0:01:42.446000" persName="Informant 0363">
 <pause duration="1,2s"/>
 pff	-	-	-	0:01:39.192000	0:01:40.134000
 ,	-	-	-	0:01:39.192000	0:01:40.134000
@@ -390,7 +390,7 @@ pff	-	-	-	0:01:39.192000	0:01:40.134000
 Blödsinn	-	-	-	0:01:40.134000	0:01:41.485000
 ,	-	-	-	0:01:40.134000	0:01:41.485000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:41.485000" end="0:01:44.389000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:41.485000" end="0:01:44.389000" persName="Informant 0357">
 ja	-	-	-	0:01:41.485000	0:01:42.446000
 ,	-	-	-	0:01:41.485000	0:01:42.446000
 erzähl	-	-	-	0:01:42.446000	0:01:42.989000
@@ -405,7 +405,7 @@ ein	-	-	-	0:01:42.989000	0:01:44.389000
 Safterl	-	-	DIM -erl Interf Interf- IRR sd- SDent Suff U- Uml	0:01:42.989000	0:01:44.389000
 .	-	-	-	0:01:42.989000	0:01:44.389000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:44.389000" end="0:01:48.664000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:44.389000" end="0:01:48.664000" persName="Informant 0363">
 <pause duration="0,6s"/>
 die	-	-	-	0:01:44.389000	0:01:47.282000
 Matratze	-	-	-	0:01:44.389000	0:01:47.282000
@@ -418,11 +418,11 @@ damit	-	-	-	0:01:44.389000	0:01:47.282000
 <pause duration="1,2s"/>
 und	-	-	-	0:01:48.464000	0:01:48.664000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:48.464000" end="0:01:48.664000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:48.464000" end="0:01:48.664000" persName="Informant 0357">
 ja	-	-	-	0:01:48.464000	0:01:48.664000
 .	-	-	-	0:01:48.464000	0:01:48.664000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:48.664000" end="0:01:50.235000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:48.664000" end="0:01:50.235000" persName="Informant 0363">
 schauen	-	-	-	0:01:48.664000	0:01:50.235000
 wer	-	-	-	0:01:48.664000	0:01:50.235000
 am	-	-	-	0:01:48.664000	0:01:50.235000
@@ -430,7 +430,7 @@ schnellesten	-	-	-	0:01:48.664000	0:01:50.235000
 ist	-	-	-	0:01:48.664000	0:01:50.235000
 .	-	-	-	0:01:48.664000	0:01:50.235000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:50.235000" end="0:01:52.491000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:50.235000" end="0:01:52.491000" persName="Informant 0357">
 und	-	-	-	0:01:50.235000	0:01:51.170000
 warum	-	-	-	0:01:50.235000	0:01:51.170000
 /?	-	-	-	0:01:50.235000	0:01:51.170000
@@ -442,16 +442,16 @@ Idee	-	-	-	0:01:51.170000	0:01:52.491000
 gekommen	-	-	-	0:01:51.170000	0:01:52.491000
 ?	-	-	-	0:01:51.170000	0:01:52.491000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:52.491000" end="0:01:55.835000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:52.491000" end="0:01:55.835000" persName="Informant 0363">
 Langeweile	-	-	-	0:01:52.491000	0:01:53.471000
 .	-	-	-	0:01:52.491000	0:01:53.471000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:55.835000" end="0:01:56.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:01:55.835000" end="0:01:56.632000" persName="Informant 0357">
 Internat	-	-	-	0:01:55.835000	0:01:56.632000
 ?	-	-	-	0:01:55.835000	0:01:56.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:56.632000" end="0:02:03.042000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:01:56.632000" end="0:02:03.042000" persName="Informant 0363">
 <pause duration="0,6s"/>
 n/	-	-	-	0:01:56.632000	0:01:58.600000
 Internatsleben	-	-	-	0:01:56.632000	0:01:58.600000
@@ -468,7 +468,7 @@ Ideen	-	-	-	0:02:00.035000	0:02:01.107000
 .	-	-	-	0:02:00.035000	0:02:01.107000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:01.107000" end="0:02:04.942000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:01.107000" end="0:02:04.942000" persName="Informant 0357">
 <pause duration="1,9s"/>
 du	-	-	-	0:02:03.042000	0:02:04.942000
 musst	-	-	-	0:02:03.042000	0:02:04.942000
@@ -478,24 +478,24 @@ ausschweifen	-	-	-	0:02:03.042000	0:02:04.942000
 erzählen	-	-	-	0:02:03.042000	0:02:04.942000
 .	-	-	-	0:02:03.042000	0:02:04.942000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:04.942000" end="0:02:09.407000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:04.942000" end="0:02:09.407000" persName="Informant 0363">
 ja	-	-	-	0:02:04.942000	0:02:05.571000
 .	-	-	-	0:02:04.942000	0:02:05.571000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:05.571000" end="0:02:09.407000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:05.571000" end="0:02:09.407000" persName="Informant 0357">
 <pause duration="3,8s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:09.407000" end="0:02:12.582000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:09.407000" end="0:02:12.582000" persName="Informant 0363">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:09.407000" end="0:02:12.582000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:09.407000" end="0:02:12.582000" persName="Informant 0357">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:12.582000" end="0:02:15.075000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:12.582000" end="0:02:15.075000" persName="Informant 0363">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:12.582000" end="0:02:16.317000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:12.582000" end="0:02:16.317000" persName="Informant 0357">
 <pause duration="2,5s"/>
 ja	-	-	-	0:02:15.075000	0:02:16.317000
 was	-	-	-	0:02:15.075000	0:02:16.317000
@@ -504,13 +504,13 @@ genau	-	-	-	0:02:15.075000	0:02:16.317000
 passiert	-	-	-	0:02:15.075000	0:02:16.317000
 ?	-	-	-	0:02:15.075000	0:02:16.317000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:16.317000" end="0:02:18.260000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:16.317000" end="0:02:18.260000" persName="Informant 0363">
 <pause duration="1,3s"/>
 gar	-	-	-	0:02:17.621000	0:02:18.260000
 nichts	-	-	-	0:02:17.621000	0:02:18.260000
 .	-	-	-	0:02:17.621000	0:02:18.260000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:18.260000" end="0:02:20.346000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:18.260000" end="0:02:20.346000" persName="Informant 0357">
 war	-	-	-	0:02:18.260000	0:02:20.346000
 es	-	-	-	0:02:18.260000	0:02:20.346000
 vor	-	-	-	0:02:18.260000	0:02:20.346000
@@ -522,21 +522,21 @@ dem	-	-	-	0:02:18.260000	0:02:20.346000
 Schlafengehen	-	-	-	0:02:18.260000	0:02:20.346000
 ?	-	-	-	0:02:18.260000	0:02:20.346000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:20.346000" end="0:02:21.610000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:20.346000" end="0:02:21.610000" persName="Informant 0363">
 vor	-	-	-	0:02:20.346000	0:02:21.610000
 dem	-	-	-	0:02:20.346000	0:02:21.610000
 Schlafengehen	-	-	-	0:02:20.346000	0:02:21.610000
 noch	-	-	-	0:02:20.346000	0:02:21.610000
 .	-	-	-	0:02:20.346000	0:02:21.610000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:21.610000" end="0:02:22.853000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:21.610000" end="0:02:22.853000" persName="Informant 0357">
 <pause duration="0,5s"/>
 okay	-	-	-	0:02:21.610000	0:02:22.853000
 und	-	-	-	0:02:21.610000	0:02:22.853000
 dann	-	-	-	0:02:21.610000	0:02:22.853000
 ?	-	-	-	0:02:21.610000	0:02:22.853000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:22.853000" end="0:02:25.264000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:22.853000" end="0:02:25.264000" persName="Informant 0363">
 <pause duration="0,7s"/>
 sind	-	-	-	0:02:22.853000	0:02:25.264000
 wir	-	-	-	0:02:22.853000	0:02:25.264000
@@ -548,7 +548,7 @@ ist	-	-	-	0:02:22.853000	0:02:25.264000
 da	-	-	-	0:02:22.853000	0:02:25.264000
 /.	-	-	-	0:02:22.853000	0:02:25.264000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:25.264000" end="0:02:28.167000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:25.264000" end="0:02:28.167000" persName="Informant 0357">
 i/	-	-	-	0:02:25.264000	0:02:27.214000
 w/	-	-	-	0:02:25.264000	0:02:27.214000
 und	-	-	-	0:02:25.264000	0:02:27.214000
@@ -566,12 +566,12 @@ da	-	-	-	0:02:27.216000	0:02:28.167000
 runterrutscht	-	-	-	0:02:27.216000	0:02:28.167000
 ,	-	-	-	0:02:27.216000	0:02:28.167000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:28.167000" end="0:02:29.203000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:28.167000" end="0:02:29.203000" persName="Informant 0363">
 ja	-	-	-	0:02:28.167000	0:02:29.203000
 (eh)	-	-	-	0:02:28.167000	0:02:29.203000
 ,	-	-	-	0:02:28.167000	0:02:29.203000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:28.167000" end="0:02:29.203000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:28.167000" end="0:02:29.203000" persName="Informant 0357">
 ich	-	-	-	0:02:28.167000	0:02:29.203000
 meine	-	-	-	0:02:28.167000	0:02:29.203000
 *seits*	-	-	-	0:02:28.167000	0:02:29.203000
@@ -580,20 +580,20 @@ nicht	-	-	-	0:02:28.167000	0:02:29.203000
 böse	-	-	-	0:02:28.167000	0:02:29.203000
 ,	-	-	-	0:02:28.167000	0:02:29.203000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:29.203000" end="0:02:29.875000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:29.203000" end="0:02:29.875000" persName="Informant 0363">
 irgendeiner	-	-	-	0:02:29.203000	0:02:29.875000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:29.203000" end="0:02:29.875000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:29.203000" end="0:02:29.875000" persName="Informant 0357">
 aber	-	-	-	0:02:29.203000	0:02:29.875000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:29.875000" end="0:02:31.653000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:29.875000" end="0:02:31.653000" persName="Informant 0363">
 von	-	-	-	0:02:29.875000	0:02:31.653000
 die	-	-	-	0:02:29.875000	0:02:31.653000
 <pause duration="1,2s"/>
 Schüler	-	-	-	0:02:29.875000	0:02:31.653000
 .	-	-	-	0:02:29.875000	0:02:31.653000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:31.653000" end="0:02:33.739000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:31.653000" end="0:02:33.739000" persName="Informant 0357">
 okay	-	-	-	0:02:31.653000	0:02:33.739000
 und	-	-	-	0:02:31.653000	0:02:33.739000
 dann	-	-	-	0:02:31.653000	0:02:33.739000
@@ -602,7 +602,7 @@ die	-	-	-	0:02:31.653000	0:02:33.739000
 Matratze	-	-	-	0:02:31.653000	0:02:33.739000
 genommen	-	-	-	0:02:31.653000	0:02:33.739000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:33.739000" end="0:02:35.367000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:33.739000" end="0:02:35.367000" persName="Informant 0363">
 ja	-	-	-	0:02:33.739000	0:02:35.367000
 und	-	-	-	0:02:33.739000	0:02:35.367000
 dann	-	-	-	0:02:33.739000	0:02:35.367000
@@ -613,7 +613,7 @@ mit	-	-	-	0:02:33.739000	0:02:35.367000
 die	-	-	-	0:02:33.739000	0:02:35.367000
 .	-	-	-	0:02:33.739000	0:02:35.367000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:35.367000" end="0:02:37.292000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:35.367000" end="0:02:37.292000" persName="Informant 0357">
 und	-	-	-	0:02:35.367000	0:02:36.307000
 dann	-	-	-	0:02:35.367000	0:02:36.307000
 ?	-	-	-	0:02:35.367000	0:02:36.307000
@@ -623,7 +623,7 @@ keiner	-	-	-	0:02:36.307000	0:02:37.292000
 erwischt	-	-	-	0:02:36.307000	0:02:37.292000
 ?	-	-	-	0:02:36.307000	0:02:37.292000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:37.292000" end="0:02:45.721000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:37.292000" end="0:02:45.721000" persName="Informant 0363">
 <pause duration="1,2s"/>
 ähm	-	-	-	0:02:38.485000	0:02:39.971000
 ja	-	-	-	0:02:38.485000	0:02:39.971000
@@ -639,7 +639,7 @@ gesehen	-	-	-	0:02:39.971000	0:02:42.600000
 .	-	-	-	0:02:39.971000	0:02:42.600000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:42.600000" end="0:02:45.721000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:42.600000" end="0:02:45.721000" persName="Informant 0357">
 ja	-	-	-	0:02:42.600000	0:02:45.721000
 ,	-	-	-	0:02:42.600000	0:02:45.721000
 aber	-	-	-	0:02:42.600000	0:02:45.721000
@@ -657,12 +657,12 @@ wegräumen	-	-	-	0:02:42.600000	0:02:45.721000
 können	-	-	-	0:02:42.600000	0:02:45.721000
 ,	-	-	-	0:02:42.600000	0:02:45.721000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:45.721000" end="0:02:46.675000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:45.721000" end="0:02:46.675000" persName="Informant 0363">
 ja	-	-	-	0:02:45.721000	0:02:46.675000
 eh	-	-	-	0:02:45.721000	0:02:46.675000
 .	-	-	-	0:02:45.721000	0:02:46.675000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:45.721000" end="0:02:47.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:45.721000" end="0:02:47.860000" persName="Informant 0357">
 oder	-	-	-	0:02:45.721000	0:02:46.675000
 ?	-	-	-	0:02:45.721000	0:02:46.675000
 <pause duration="0,7s"/>
@@ -670,35 +670,35 @@ ach	-	-	-	0:02:46.675000	0:02:47.860000
 Gott	-	-	-	0:02:46.675000	0:02:47.860000
 ,	-	-	-	0:02:46.675000	0:02:47.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:47.860000" end="0:02:48.642000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:47.860000" end="0:02:48.642000" persName="Informant 0363">
 die	-	-	-	0:02:47.860000	0:02:48.642000
 ist	-	-	-	0:02:47.860000	0:02:48.642000
 schnell	-	-	-	0:02:47.860000	0:02:48.642000
 weg	-	-	-	0:02:47.860000	0:02:48.642000
 .	-	-	-	0:02:47.860000	0:02:48.642000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:47.860000" end="0:02:49.235000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:47.860000" end="0:02:49.235000" persName="Informant 0357">
 typisch	-	-	-	0:02:47.860000	0:02:48.642000
 /.	-	-	-	0:02:47.860000	0:02:48.642000
 hä	-	-	-	0:02:48.642000	0:02:49.235000
 ?	-	-	-	0:02:48.642000	0:02:49.235000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:49.235000" end="0:02:50.225000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:49.235000" end="0:02:50.225000" persName="Informant 0363">
 die	-	-	-	0:02:49.235000	0:02:50.225000
 ist	-	-	-	0:02:49.235000	0:02:50.225000
 schnell	-	-	-	0:02:49.235000	0:02:50.225000
 weg	-	-	-	0:02:49.235000	0:02:50.225000
 .	-	-	-	0:02:49.235000	0:02:50.225000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:50.225000" end="0:02:50.703000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:50.225000" end="0:02:50.703000" persName="Informant 0357">
 *glaubst*	-	-	-	0:02:50.225000	0:02:50.703000
 ?	-	-	-	0:02:50.225000	0:02:50.703000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:50.703000" end="0:02:51.232000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:50.703000" end="0:02:51.232000" persName="Informant 0363">
 mhm	-	-	-	0:02:50.703000	0:02:51.232000
 .	-	-	-	0:02:50.703000	0:02:51.232000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:51.232000" end="0:02:53.425000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:51.232000" end="0:02:53.425000" persName="Informant 0357">
 okay	-	-	-	0:02:51.232000	0:02:51.889000
 .	-	-	-	0:02:51.232000	0:02:51.889000
 wart	-	-	-	0:02:51.889000	0:02:53.425000
@@ -711,12 +711,12 @@ ich	-	-	-	0:02:51.889000	0:02:53.425000
 habe	-	-	-	0:02:51.889000	0:02:53.425000
 /.	-	-	-	0:02:51.889000	0:02:53.425000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:53.425000" end="0:02:55.382000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:53.425000" end="0:02:55.382000" persName="Informant 0363">
 (ja)	-	-	-	0:02:53.425000	0:02:55.382000
 erzähle	-	-	-	0:02:53.425000	0:02:55.382000
 .	-	-	-	0:02:53.425000	0:02:55.382000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:53.425000" end="0:02:55.382000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:53.425000" end="0:02:55.382000" persName="Informant 0357">
 habe	-	-	-	0:02:53.425000	0:02:55.382000
 ich	-	-	-	0:02:53.425000	0:02:55.382000
 auch	-	-	-	0:02:53.425000	0:02:55.382000
@@ -726,11 +726,11 @@ besonderes	-	-	-	0:02:53.425000	0:02:55.382000
 Schulerlebnis	-	-	-	0:02:53.425000	0:02:55.382000
 ?	-	-	-	0:02:53.425000	0:02:55.382000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:55.382000" end="0:02:55.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:55.382000" end="0:02:55.792000" persName="Informant 0363">
 ja	-	-	-	0:02:55.382000	0:02:55.792000
 .	-	-	-	0:02:55.382000	0:02:55.792000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:55.792000" end="0:02:58.439000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:55.792000" end="0:02:58.439000" persName="Informant 0357">
 <pause duration="0,5s"/>
 ich	-	-	-	0:02:55.792000	0:02:58.439000
 habe	-	-	-	0:02:55.792000	0:02:58.439000
@@ -743,16 +743,16 @@ besonderes	-	-	-	0:02:55.792000	0:02:58.439000
 Schulerlebnis	-	-	-	0:02:55.792000	0:02:58.439000
 .	-	-	-	0:02:55.792000	0:02:58.439000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:58.439000" end="0:03:01.553000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:02:58.439000" end="0:03:01.553000" persName="Informant 0363">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:58.439000" end="0:03:01.553000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:02:58.439000" end="0:03:01.553000" persName="Informant 0357">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:01.553000" end="0:03:03.303000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:01.553000" end="0:03:03.303000" persName="Informant 0363">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:01.553000" end="0:03:07.939000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:01.553000" end="0:03:07.939000" persName="Informant 0357">
 <pause duration="1,8s"/>
 nein	-	-	-	0:03:03.303000	0:03:03.650000
 .	-	-	-	0:03:03.303000	0:03:03.650000
@@ -765,11 +765,11 @@ nichts	-	-	-	0:03:06.521000	0:03:07.939000
 ein	-	-	-	0:03:06.521000	0:03:07.939000
 .	-	-	-	0:03:06.521000	0:03:07.939000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:07.939000" end="0:03:08.450000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:07.939000" end="0:03:08.450000" persName="Informant 0363">
 mhm	-	-	-	0:03:07.939000	0:03:08.450000
 .	-	-	-	0:03:07.939000	0:03:08.450000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:08.450000" end="0:03:17.496000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:08.450000" end="0:03:17.496000" persName="Informant 0357">
 <pause duration="0,5s"/>
 okay	-	-	-	0:03:08.450000	0:03:09.414000
 .	-	-	-	0:03:08.450000	0:03:09.414000
@@ -795,30 +795,30 @@ bei	-	-	-	0:03:15.496000	0:03:17.496000
 zweitausendachtundzwanzig	-	-	-	0:03:15.496000	0:03:17.496000
 .	-	-	-	0:03:15.496000	0:03:17.496000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:17.496000" end="0:03:18.864000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:17.496000" end="0:03:18.864000" persName="Informant 0363">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:17.496000" end="0:03:19.560000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:17.496000" end="0:03:19.560000" persName="Informant 0357">
 <pause duration="1,4s"/>
 ähm	-	-	-	0:03:18.864000	0:03:19.560000
 .	-	-	-	0:03:18.864000	0:03:19.560000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:19.562000" end="0:03:22.639000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:19.562000" end="0:03:22.639000" persName="Informant 0363">
 <pause duration="0,8s"/>
 achtzehn	-	-	-	0:03:19.562000	0:03:20.856000
 .	-	-	-	0:03:19.562000	0:03:20.856000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:20.856000" end="0:03:25.120000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:20.856000" end="0:03:25.120000" persName="Informant 0357">
 <pause duration="1,8s"/>
 ähm	-	-	-	0:03:22.639000	0:03:24.009000
 zweitausendachter/	-	-	-	0:03:22.639000	0:03:24.009000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:25.120000" end="0:03:26.049000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:25.120000" end="0:03:26.049000" persName="Informant 0363">
 -sechzig	-	-	-	0:03:25.120000	0:03:26.049000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:25.120000" end="0:03:28.329000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:25.120000" end="0:03:28.329000" persName="Informant 0357">
 -siebzig	-	-	-	0:03:25.120000	0:03:26.049000
 -sechzig	-	-	-	0:03:26.049000	0:03:26.770000
 ,	-	-	-	0:03:26.049000	0:03:26.770000
@@ -828,9 +828,9 @@ wahnsinnig	-	-	-	0:03:26.770000	0:03:27.624000
 ,	-	-	-	0:03:26.770000	0:03:27.624000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:28.329000" end="0:03:28.486000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:03:28.329000" end="0:03:28.486000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:28.486000" end="0:04:02.235000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:03:28.486000" end="0:04:02.235000" persName="Informant 0357">
 mein	-	-	-	0:03:28.486000	0:03:30.634000
 Hirn	-	-	-	0:03:28.486000	0:03:30.634000
 ist	-	-	-	0:03:28.486000	0:03:30.634000
@@ -913,33 +913,33 @@ du	-	-	-	0:04:00.785000	0:04:02.235000
 in	-	-	-	0:04:00.785000	0:04:02.235000
 Österreich	-	-	-	0:04:00.785000	0:04:02.235000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:02.235000" end="0:04:03.028000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:02.235000" end="0:04:03.028000" persName="Informant 0363">
 es	-	-	-	0:04:02.235000	0:04:03.028000
 wird	-	-	-	0:04:02.235000	0:04:03.028000
 sehr	-	-	-	0:04:02.235000	0:04:03.028000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:02.235000" end="0:04:03.028000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:02.235000" end="0:04:03.028000" persName="Informant 0357">
 in	-	-	-	0:04:02.235000	0:04:03.028000
 fünfzig	-	-	-	0:04:02.235000	0:04:03.028000
 /?	-	-	-	0:04:02.235000	0:04:03.028000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:03.028000" end="0:04:03.864000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:03.028000" end="0:04:03.864000" persName="Informant 0363">
 spannend	-	-	-	0:04:03.028000	0:04:03.864000
 werden	-	-	-	0:04:03.028000	0:04:03.864000
 .	-	-	-	0:04:03.028000	0:04:03.864000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:03.864000" end="0:04:04.960000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:03.864000" end="0:04:04.960000" persName="Informant 0357">
 <pause duration="0,5s"/>
 bezüglich	-	-	-	0:04:03.864000	0:04:04.960000
 ?	-	-	-	0:04:03.864000	0:04:04.960000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:04.960000" end="0:04:08.107000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:04.960000" end="0:04:08.107000" persName="Informant 0363">
 <pause duration="1,3s"/>
 ähm	-	-	-	0:04:06.210000	0:04:08.107000
 Pensionsverfahren	-	-	-	0:04:06.210000	0:04:08.107000
 .	-	-	-	0:04:06.210000	0:04:08.107000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:08.107000" end="0:04:10.750000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:08.107000" end="0:04:10.750000" persName="Informant 0357">
 <pause duration="0,7s"/>
 ach	-	-	-	0:04:08.107000	0:04:09.325000
 so	-	-	-	0:04:08.107000	0:04:09.325000
@@ -955,7 +955,7 @@ mehr	-	-	-	0:04:09.325000	0:04:10.750000
 haben	-	-	-	0:04:09.325000	0:04:10.750000
 ?	-	-	-	0:04:09.325000	0:04:10.750000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:10.750000" end="0:04:12.750000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:10.750000" end="0:04:12.750000" persName="Informant 0363">
 ob	-	-	-	0:04:10.750000	0:04:12.750000
 es	-	-	-	0:04:10.750000	0:04:12.750000
 noch	-	-	-	0:04:10.750000	0:04:12.750000
@@ -967,7 +967,7 @@ Pension	-	-	-	0:04:10.750000	0:04:12.750000
 gibt	-	-	-	0:04:10.750000	0:04:12.750000
 .	-	-	-	0:04:10.750000	0:04:12.750000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:10.750000" end="0:04:14.457000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:10.750000" end="0:04:14.457000" persName="Informant 0357">
 warte	-	-	-	0:04:10.750000	0:04:12.750000
 einmal	-	-	-	0:04:10.750000	0:04:12.750000
 ,	-	-	-	0:04:10.750000	0:04:12.750000
@@ -984,11 +984,11 @@ jetzt	-	-	-	0:04:12.750000	0:04:14.457000
 dreißig	-	-	-	0:04:12.750000	0:04:14.457000
 ,	-	-	-	0:04:12.750000	0:04:14.457000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:14.457000" end="0:04:15.228000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:14.457000" end="0:04:15.228000" persName="Informant 0363">
 achtzig	-	-	-	0:04:14.457000	0:04:15.228000
 .	-	-	-	0:04:14.457000	0:04:15.228000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:14.457000" end="0:04:16.450000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:14.457000" end="0:04:16.450000" persName="Informant 0357">
 fünfzig	-	-	-	0:04:14.457000	0:04:15.228000
 ,	-	-	-	0:04:14.457000	0:04:15.228000
 achtzig	-	-	-	0:04:14.457000	0:04:15.228000
@@ -1001,11 +1001,11 @@ aber	-	-	-	0:04:16.064000	0:04:16.450000
 wir	-	-	-	0:04:16.064000	0:04:16.450000
 haben	-	-	-	0:04:16.064000	0:04:16.450000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:16.450000" end="0:04:16.899000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:16.450000" end="0:04:16.899000" persName="Informant 0363">
 mhm	-	-	-	0:04:16.450000	0:04:16.899000
 .	-	-	-	0:04:16.450000	0:04:16.899000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:16.450000" end="0:04:18.327000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:16.450000" end="0:04:18.327000" persName="Informant 0357">
 eh	-	-	-	0:04:16.450000	0:04:16.899000
 gesagt	-	-	-	0:04:16.450000	0:04:16.899000
 einen	-	-	-	0:04:16.899000	0:04:18.327000
@@ -1014,9 +1014,9 @@ guten	-	-	-	0:04:16.899000	0:04:18.327000
 schreiben	-	-	-	0:04:16.899000	0:04:18.327000
 ,	-	-	-	0:04:16.899000	0:04:18.327000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:18.329000" end="0:04:18.745000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:18.329000" end="0:04:18.745000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:18.329000" end="0:04:21.325000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:18.329000" end="0:04:21.325000" persName="Informant 0357">
 gut	-	-	-	0:04:18.329000	0:04:18.745000
 /.	-	-	-	0:04:18.329000	0:04:18.745000
 viele	-	-	-	0:04:18.329000	0:04:18.745000
@@ -1034,21 +1034,21 @@ wir	-	-	-	0:04:20.786000	0:04:21.325000
 sterben	-	-	-	0:04:20.786000	0:04:21.325000
 .	-	-	-	0:04:20.786000	0:04:21.325000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:21.325000" end="0:04:22.427000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:21.325000" end="0:04:22.427000" persName="Informant 0363">
 ist	-	-	-	0:04:21.325000	0:04:22.427000
 auch	-	-	-	0:04:21.325000	0:04:22.427000
 nicht	-	-	-	0:04:21.325000	0:04:22.427000
 recht	-	-	-	0:04:21.325000	0:04:22.427000
 .	-	-	-	0:04:21.325000	0:04:22.427000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:22.427000" end="0:04:22.945000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:22.427000" end="0:04:22.945000" persName="Informant 0357">
 mhm	-	-	-	0:04:22.427000	0:04:22.945000
 .	-	-	-	0:04:22.427000	0:04:22.945000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:22.945000" end="0:04:24.046000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:22.945000" end="0:04:24.046000" persName="Informant 0363">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:22.945000" end="0:04:29.622000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:22.945000" end="0:04:29.622000" persName="Informant 0357">
 <pause duration="1,1s"/>
 und	-	-	-	0:04:24.046000	0:04:25.809000
 du	-	-	-	0:04:24.046000	0:04:25.809000
@@ -1078,11 +1078,11 @@ so	-	-	-	0:04:28.664000	0:04:29.622000
 wie	-	-	-	0:04:28.664000	0:04:29.622000
 damals	-	-	-	0:04:28.664000	0:04:29.622000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:29.622000" end="0:04:30.296000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:29.622000" end="0:04:30.296000" persName="Informant 0363">
 ja	-	-	-	0:04:29.622000	0:04:30.296000
 .	-	-	-	0:04:29.622000	0:04:30.296000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:30.296000" end="0:04:31.760000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:30.296000" end="0:04:31.760000" persName="Informant 0357">
 deine	-	-	-	0:04:30.296000	0:04:31.760000
 Großeltern	-	-	-	0:04:30.296000	0:04:31.760000
 das	-	-	-	0:04:30.296000	0:04:31.760000
@@ -1090,13 +1090,13 @@ gemacht	-	-	-	0:04:30.296000	0:04:31.760000
 haben	-	-	-	0:04:30.296000	0:04:31.760000
 .	-	-	-	0:04:30.296000	0:04:31.760000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:31.760000" end="0:04:35.159000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:31.760000" end="0:04:35.159000" persName="Informant 0363">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:31.760000" end="0:04:35.787000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:31.760000" end="0:04:35.787000" persName="Informant 0357">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:35.787000" end="0:04:37.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:35.787000" end="0:04:37.996000" persName="Informant 0363">
 das	-	-	-	0:04:35.787000	0:04:36.948000
 war	-	-	-	0:04:35.787000	0:04:36.948000
 so	-	-	-	0:04:35.787000	0:04:36.948000
@@ -1106,12 +1106,12 @@ Jahren	-	-	-	0:04:35.787000	0:04:36.948000
 .	-	-	-	0:04:35.787000	0:04:36.948000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:36.950000" end="0:04:37.996000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:36.950000" end="0:04:37.996000" persName="Informant 0357">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:37.996000" end="0:04:38.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:04:37.996000" end="0:04:38.792000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:37.996000" end="0:05:18.403000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:04:37.996000" end="0:05:18.403000" persName="Informant 0357">
 ja	-	-	-	0:04:37.996000	0:04:38.792000
 .	-	-	-	0:04:37.996000	0:04:38.792000
 okay	-	-	-	0:04:38.792000	0:04:39.346000
@@ -1209,12 +1209,12 @@ die	-	-	-	0:05:16.996000	0:05:18.403000
 Bank	-	-	-	0:05:16.996000	0:05:18.403000
 .	-	-	-	0:05:16.996000	0:05:18.403000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:18.403000" end="0:05:19.689000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:18.403000" end="0:05:19.689000" persName="Informant 0363">
 <pause duration="0,9s"/>
 mhm	-	-	-	0:05:18.403000	0:05:19.689000
 .	-	-	-	0:05:18.403000	0:05:19.689000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:19.689000" end="0:05:23.057000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:19.689000" end="0:05:23.057000" persName="Informant 0357">
 hast	-	-	-	0:05:19.689000	0:05:20.996000
 du	-	-	-	0:05:19.689000	0:05:20.996000
 ein	-	-	-	0:05:19.689000	0:05:20.996000
@@ -1230,11 +1230,11 @@ weiß	-	-	-	0:05:22.500000	0:05:23.057000
 ich	-	-	-	0:05:22.500000	0:05:23.057000
 .	-	-	-	0:05:22.500000	0:05:23.057000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:23.057000" end="0:05:23.357000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:23.057000" end="0:05:23.357000" persName="Informant 0363">
 nein	-	-	-	0:05:23.057000	0:05:23.357000
 .	-	-	-	0:05:23.057000	0:05:23.357000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:23.357000" end="0:05:25.457000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:23.357000" end="0:05:25.457000" persName="Informant 0357">
 eine	-	-	-	0:05:23.357000	0:05:24.750000
 Lieblingszeitung	-	-	-	0:05:23.357000	0:05:24.750000
 *hast*	-	-	-	0:05:23.357000	0:05:24.750000
@@ -1245,11 +1245,11 @@ ich	-	-	-	0:05:24.750000	0:05:25.457000
 auch	-	-	-	0:05:24.750000	0:05:25.457000
 .	-	-	-	0:05:24.750000	0:05:25.457000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:25.457000" end="0:05:27.821000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:25.457000" end="0:05:27.821000" persName="Informant 0363">
 ((0,8s))	-	-	-	0:05:25.457000	0:05:26.850000
 Zeitung	-	-	-	0:05:25.457000	0:05:26.850000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:26.850000" end="0:05:28.446000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:26.850000" end="0:05:28.446000" persName="Informant 0357">
 ja	-	-	-	0:05:26.850000	0:05:27.821000
 ,	-	-	-	0:05:26.850000	0:05:27.821000
 ich	-	-	-	0:05:26.850000	0:05:27.821000
@@ -1263,17 +1263,17 @@ dir	-	-	-	0:05:27.821000	0:05:28.446000
 sagen	-	-	-	0:05:27.821000	0:05:28.446000
 ?	-	-	-	0:05:27.821000	0:05:28.446000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:28.446000" end="0:05:29.025000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:28.446000" end="0:05:29.025000" persName="Informant 0363">
 "Landwirt"	-	-	-	0:05:28.446000	0:05:29.025000
 .	-	-	-	0:05:28.446000	0:05:29.025000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:29.025000" end="0:05:30.032000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:29.025000" end="0:05:30.032000" persName="Informant 0357">
 ja	-	-	-	0:05:29.025000	0:05:30.032000
 ,	-	-	-	0:05:29.025000	0:05:30.032000
 genau	-	-	-	0:05:29.025000	0:05:30.032000
 .	-	-	-	0:05:29.025000	0:05:30.032000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:30.032000" end="0:05:32.953000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:30.032000" end="0:05:32.953000" persName="Informant 0363">
 und	-	-	-	0:05:30.032000	0:05:32.159000
 die	-	-	-	0:05:30.032000	0:05:32.159000
 "Kronen	-	-	-	0:05:30.032000	0:05:32.159000
@@ -1290,7 +1290,7 @@ dann	-	-	-	0:05:32.159000	0:05:32.953000
 schon	-	-	-	0:05:32.159000	0:05:32.953000
 .	-	-	-	0:05:32.159000	0:05:32.953000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:32.159000" end="0:05:36.678000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:32.159000" end="0:05:36.678000" persName="Informant 0357">
 was	-	-	-	0:05:32.159000	0:05:32.953000
 ?	-	-	-	0:05:32.159000	0:05:32.953000
 ja	-	-	-	0:05:32.953000	0:05:36.678000
@@ -1310,17 +1310,17 @@ das	-	-	-	0:05:32.953000	0:05:36.678000
 Sudokurätsel	-	-	-	0:05:32.953000	0:05:36.678000
 .	-	-	-	0:05:32.953000	0:05:36.678000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:36.678000" end="0:05:37.025000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:36.678000" end="0:05:37.025000" persName="Informant 0363">
 ja	-	-	-	0:05:36.678000	0:05:37.025000
 .	-	-	-	0:05:36.678000	0:05:37.025000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:37.025000" end="0:05:37.921000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:37.025000" end="0:05:37.921000" persName="Informant 0357">
 und	-	-	-	0:05:37.025000	0:05:37.921000
 beim	-	-	-	0:05:37.025000	0:05:37.921000
 "Landwirt"	-	-	-	0:05:37.025000	0:05:37.921000
 ?	-	-	-	0:05:37.025000	0:05:37.921000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:37.922000" end="0:05:46.930000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:37.922000" end="0:05:46.930000" persName="Informant 0363">
 <pause duration="1,0s"/>
 die	-	-	-	0:05:38.930000	0:05:40.610000
 Maschinen	-	-	-	0:05:38.930000	0:05:40.610000
@@ -1340,12 +1340,12 @@ und	-	-	-	0:05:46.553000	0:05:46.930000
 ob	-	-	-	0:05:46.553000	0:05:46.930000
 es	-	-	-	0:05:46.553000	0:05:46.930000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:46.553000" end="0:05:46.930000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:46.553000" end="0:05:46.930000" persName="Informant 0357">
 ja	-	-	-	0:05:46.553000	0:05:46.930000
 und	-	-	-	0:05:46.553000	0:05:46.930000
 /?	-	-	-	0:05:46.553000	0:05:46.930000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:46.929000" end="0:05:49.933000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:46.929000" end="0:05:49.933000" persName="Informant 0363">
 Neuigkeiten	-	-	-	0:05:46.929000	0:05:48.114000
 gibt	-	-	-	0:05:46.929000	0:05:48.114000
 ,	-	-	-	0:05:46.929000	0:05:48.114000
@@ -1357,7 +1357,7 @@ aufpassen	-	-	-	0:05:48.115000	0:05:49.933000
 muss	-	-	-	0:05:48.115000	0:05:49.933000
 .	-	-	-	0:05:48.115000	0:05:49.933000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:49.935000" end="0:05:51.392000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:49.935000" end="0:05:51.392000" persName="Informant 0357">
 und	-	-	-	0:05:49.935000	0:05:51.392000
 mit	-	-	-	0:05:49.935000	0:05:51.392000
 dem	-	-	-	0:05:49.935000	0:05:51.392000
@@ -1366,27 +1366,27 @@ Bilderl	-	-	-	0:05:49.935000	0:05:51.392000
 schauen	-	-	-	0:05:49.935000	0:05:51.392000
 .	-	-	-	0:05:49.935000	0:05:51.392000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:51.392000" end="0:05:52.835000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:51.392000" end="0:05:52.835000" persName="Informant 0363">
 ja	-	-	-	0:05:51.392000	0:05:52.835000
 .	-	-	-	0:05:51.392000	0:05:52.835000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:52.835000" end="0:05:53.482000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:52.835000" end="0:05:53.482000" persName="Informant 0357">
 okay	-	-	-	0:05:52.835000	0:05:53.482000
 .	-	-	-	0:05:52.835000	0:05:53.482000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:53.482000" end="0:05:55.194000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:53.482000" end="0:05:55.194000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:53.482000" end="0:05:55.596000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:53.482000" end="0:05:55.596000" persName="Informant 0357">
 <pause duration="1,7s"/>
 ja	-	-	-	0:05:55.192000	0:05:55.596000
 ,	-	-	-	0:05:55.192000	0:05:55.596000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:55.596000" end="0:05:56.332000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:55.596000" end="0:05:56.332000" persName="Informant 0363">
 mhm	-	-	-	0:05:55.596000	0:05:56.332000
 .	-	-	-	0:05:55.596000	0:05:56.332000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:56.332000" end="0:05:57.796000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:56.332000" end="0:05:57.796000" persName="Informant 0357">
 nein	-	-	-	0:05:56.332000	0:05:57.796000
 lesen	-	-	Prog ProgKon tunP	0:05:56.332000	0:05:57.796000
 tust	-	-	Prog ProgKon tunP	0:05:56.332000	0:05:57.796000
@@ -1395,19 +1395,19 @@ gar	-	-	-	0:05:56.332000	0:05:57.796000
 nichts	-	-	-	0:05:56.332000	0:05:57.796000
 .	-	-	-	0:05:56.332000	0:05:57.796000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:57.796000" end="0:06:00.614000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:05:57.796000" end="0:06:00.614000" persName="Informant 0363">
 nein	-	-	-	0:05:57.796000	0:05:58.050000
 .	-	-	-	0:05:57.796000	0:05:58.050000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:58.050000" end="0:06:03.921000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:05:58.050000" end="0:06:03.921000" persName="Informant 0357">
 <pause duration="2,6s"/>
 "erzähle	-	-	-	0:06:00.614000	0:06:02.014000
 von"	-	-	-	0:06:00.614000	0:06:02.014000
 /.	-	-	-	0:06:00.614000	0:06:02.014000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:03.921000" end="0:06:09.182000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:03.921000" end="0:06:09.182000" persName="Informant 0363">
 "besondere	-	-	-	0:06:03.921000	0:06:07.282000
 besonders	-	-	-	0:06:03.921000	0:06:07.282000
 ärgerliche	-	-	-	0:06:03.921000	0:06:07.282000
@@ -1415,42 +1415,42 @@ Erlebnisse"	-	-	-	0:06:03.921000	0:06:07.282000
 .	-	-	-	0:06:03.921000	0:06:07.282000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:07.282000" end="0:06:09.182000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:07.282000" end="0:06:09.182000" persName="Informant 0357">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:09.182000" end="0:06:10.928000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:09.182000" end="0:06:10.928000" persName="Informant 0363">
 (hast	-	-	-	0:06:09.182000	0:06:10.928000
 du)	-	-	-	0:06:09.182000	0:06:10.928000
 besonders	-	-	-	0:06:09.182000	0:06:10.928000
 ärgerliches	-	-	-	0:06:09.182000	0:06:10.928000
 ?	-	-	-	0:06:09.182000	0:06:10.928000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:10.928000" end="0:06:14.610000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:10.928000" end="0:06:14.610000" persName="Informant 0357">
 <pause duration="1,8s"/>
 ähm	-	-	-	0:06:12.732000	0:06:14.610000
 .	-	-	-	0:06:12.732000	0:06:14.610000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:14.610000" end="0:06:16.710000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:14.610000" end="0:06:16.710000" persName="Informant 0363">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:14.610000" end="0:06:16.710000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:14.610000" end="0:06:16.710000" persName="Informant 0357">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:16.710000" end="0:06:19.714000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:16.710000" end="0:06:19.714000" persName="Informant 0363">
 von	-	-	-	0:06:16.710000	0:06:17.346000
 der	-	-	-	0:06:16.710000	0:06:17.346000
 Arbeit	-	-	-	0:06:16.710000	0:06:17.346000
 ?	-	-	-	0:06:16.710000	0:06:17.346000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:17.346000" end="0:06:19.714000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:17.346000" end="0:06:19.714000" persName="Informant 0357">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:19.714000" end="0:06:20.150000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:19.714000" end="0:06:20.150000" persName="Informant 0363">
 irgendwas	-	-	-	0:06:19.714000	0:06:20.150000
 ?	-	-	-	0:06:19.714000	0:06:20.150000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:20.150000" end="0:06:22.832000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:20.150000" end="0:06:22.832000" persName="Informant 0357">
 ähm	-	-	-	0:06:20.150000	0:06:21.728000
 von	-	-	-	0:06:20.150000	0:06:21.728000
 der	-	-	-	0:06:20.150000	0:06:21.728000
@@ -1459,12 +1459,12 @@ ein	-	-	-	0:06:20.150000	0:06:21.728000
 /?	-	-	-	0:06:20.150000	0:06:21.728000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:22.832000" end="0:06:23.489000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:06:22.832000" end="0:06:23.489000" persName="Informant 0363">
 oder	-	-	-	0:06:22.832000	0:06:23.489000
 sonst	-	-	-	0:06:22.832000	0:06:23.489000
 ?	-	-	-	0:06:22.832000	0:06:23.489000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:23.489000" end="0:07:48.335000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:06:23.489000" end="0:07:48.335000" persName="Informant 0357">
 <pause duration="1,5s"/>
 ja	-	-	-	0:06:24.992000	0:06:26.150000
 ,	-	-	-	0:06:24.992000	0:06:26.150000
@@ -1548,7 +1548,7 @@ halt	-	-	-	0:06:54.114000	0:06:58.889000
 ,	-	-	-	0:06:54.114000	0:06:58.889000
 mit	-	-	-	0:06:54.114000	0:06:58.889000
 dem	-	-	-	0:06:54.114000	0:06:58.889000
-[Mathias]N	-	-	-	0:06:54.114000	0:06:58.889000
+NAME	NAME	-	-	0:06:54.114000	0:06:58.889000
 ,	-	-	-	0:06:54.114000	0:06:58.889000
 der	-	-	-	0:06:54.114000	0:06:58.889000
 ist	-	-	-	0:06:54.114000	0:06:58.889000
@@ -1721,23 +1721,23 @@ dann	-	-	-	0:07:44.664000	0:07:47
 habe	-	-	-	0:07:44.664000	0:07:47
 ich	-	-	-	0:07:44.664000	0:07:47
 den	-	-	-	0:07:44.664000	0:07:47
-[Simon]N	-	-	-	0:07:44.664000	0:07:47
+NAME	NAME	-	-	0:07:44.664000	0:07:47
 dazugezogen	-	-	-	0:07:44.664000	0:07:47
 (nicht)	-	-	-	0:07:44.664000	0:07:47
 ,	-	-	-	0:07:44.664000	0:07:47
 der	-	-	-	0:07:47	0:07:48.335000
 ist	-	-	-	0:07:47	0:07:48.335000
 der	-	-	-	0:07:47	0:07:48.335000
-[Simon]N	-	-	-	0:07:47	0:07:48.335000
+NAME	NAME	-	-	0:07:47	0:07:48.335000
 ist	-	-	-	0:07:47	0:07:48.335000
 der	-	-	-	0:07:47	0:07:48.335000
 Chef	-	-	-	0:07:47	0:07:48.335000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:07:48.335000" end="0:07:48.729000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:07:48.335000" end="0:07:48.729000" persName="Informant 0363">
 hm	-	-	-	0:07:48.335000	0:07:48.729000
 .	-	-	-	0:07:48.335000	0:07:48.729000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:07:48.729000" end="0:08:08.512000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:07:48.729000" end="0:08:08.512000" persName="Informant 0357">
 und	-	-	-	0:07:48.729000	0:07:50.870000
 dann	-	-	-	0:07:48.729000	0:07:50.870000
 haben	-	-	-	0:07:48.729000	0:07:50.870000
@@ -1750,10 +1750,10 @@ gehabt	-	-	-	0:07:48.729000	0:07:50.870000
 ,	-	-	-	0:07:48.729000	0:07:50.870000
 der	-	-	-	0:07:50.870000	0:07:52.645000
 der	-	-	-	0:07:50.870000	0:07:52.645000
-[Mathias]N	-	-	-	0:07:50.870000	0:07:52.645000
+NAME	NAME	-	-	0:07:50.870000	0:07:52.645000
 ,	-	-	-	0:07:50.870000	0:07:52.645000
 der	-	-	-	0:07:50.870000	0:07:52.645000
-[Simon]N	-	-	-	0:07:50.870000	0:07:52.645000
+NAME	NAME	-	-	0:07:50.870000	0:07:52.645000
 und	-	-	-	0:07:50.870000	0:07:52.645000
 ich	-	-	-	0:07:50.870000	0:07:52.645000
 <pause duration="1,2s"/>
@@ -1792,7 +1792,7 @@ und	-	-	-	0:08:01.224000	0:08:03.136000
 was	-	-	-	0:08:01.224000	0:08:03.136000
 dann	-	-	-	0:08:01.224000	0:08:03.136000
 der	-	-	-	0:08:01.224000	0:08:03.136000
-[Mathias]N	-	-	-	0:08:01.224000	0:08:03.136000
+NAME	NAME	-	-	0:08:01.224000	0:08:03.136000
 gesagt	-	-	-	0:08:01.224000	0:08:03.136000
 hat	-	-	-	0:08:01.224000	0:08:03.136000
 ?	-	-	-	0:08:01.224000	0:08:03.136000
@@ -1815,12 +1815,12 @@ viel	-	-	-	0:08:06.056000	0:08:08.512000
 geärgert	-	-	-	0:08:06.056000	0:08:08.512000
 ,	-	-	-	0:08:06.056000	0:08:08.512000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:08.512000" end="0:08:09.392000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:08.512000" end="0:08:09.392000" persName="Informant 0363">
 (ist	-	-	-	0:08:08.512000	0:08:09.040000
 klar)	-	-	-	0:08:08.512000	0:08:09.040000
 .	-	-	-	0:08:09.040000	0:08:09.392000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:09.040000" end="0:08:11.084000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:09.040000" end="0:08:11.084000" persName="Informant 0357">
 weil	-	-	-	0:08:09.040000	0:08:09.392000
 das	-	-	-	0:08:09.040000	0:08:09.392000
 muss	-	-	-	0:08:09.392000	0:08:10.276000
@@ -1831,11 +1831,11 @@ sein	-	-	-	0:08:09.392000	0:08:10.276000
 weil	-	-	-	0:08:10.276000	0:08:11.084000
 das	-	-	-	0:08:10.276000	0:08:11.084000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:11.084000" end="0:08:11.572000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:11.084000" end="0:08:11.572000" persName="Informant 0363">
 mhm	-	-	-	0:08:11.084000	0:08:11.572000
 .	-	-	-	0:08:11.084000	0:08:11.572000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:11.084000" end="0:08:33.816000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:11.084000" end="0:08:33.816000" persName="Informant 0357">
 kann	-	-	-	0:08:11.084000	0:08:11.572000
 man	-	-	-	0:08:11.084000	0:08:11.572000
 sich	-	-	-	0:08:11.084000	0:08:11.572000
@@ -1925,7 +1925,7 @@ schon	-	-	-	0:08:32.919000	0:08:33.816000
 angezipft	-	-	-	0:08:32.919000	0:08:33.816000
 .	-	-	-	0:08:32.919000	0:08:33.816000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:33.816000" end="0:08:35.087000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:33.816000" end="0:08:35.087000" persName="Informant 0363">
 hat	-	-	-	0:08:33.816000	0:08:35.087000
 er	-	-	-	0:08:33.816000	0:08:35.087000
 dich	-	-	-	0:08:33.816000	0:08:35.087000
@@ -1933,7 +1933,7 @@ blöd	-	-	-	0:08:33.816000	0:08:35.087000
 hingestellt	-	-	-	0:08:33.816000	0:08:35.087000
 .	-	-	-	0:08:33.816000	0:08:35.087000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:35.087000" end="0:08:38.049000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:35.087000" end="0:08:38.049000" persName="Informant 0357">
 ja	-	-	-	0:08:35.087000	0:08:35.570000
 ,	-	-	-	0:08:35.087000	0:08:35.570000
 <pause duration="0,6s"/>
@@ -1945,7 +1945,7 @@ es	-	-	-	0:08:35.570000	0:08:38.049000
 eh	-	-	-	0:08:35.570000	0:08:38.049000
 mit	-	-	-	0:08:35.570000	0:08:38.049000
 dem	-	-	-	0:08:35.570000	0:08:38.049000
-[Simon]N	-	-	-	0:08:35.570000	0:08:38.049000
+NAME	NAME	-	-	0:08:35.570000	0:08:38.049000
 abgeklärt	-	-	-	0:08:35.570000	0:08:38.049000
 ,	-	-	-	0:08:35.570000	0:08:38.049000
 mit	-	-	-	0:08:35.570000	0:08:38.049000
@@ -1953,7 +1953,7 @@ dem	-	-	-	0:08:35.570000	0:08:38.049000
 Chef	-	-	-	0:08:35.570000	0:08:38.049000
 .	-	-	-	0:08:35.570000	0:08:38.049000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:38.049000" end="0:08:40.539000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:38.049000" end="0:08:40.539000" persName="Informant 0363">
 mhm	-	-	-	0:08:38.049000	0:08:38.292000
 .	-	-	-	0:08:38.049000	0:08:38.292000
 <pause duration="0,8s"/>
@@ -1961,12 +1961,12 @@ ja	-	-	-	0:08:38.292000	0:08:39.500000
 .	-	-	-	0:08:38.292000	0:08:39.500000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:39.500000" end="0:08:40.539000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:39.500000" end="0:08:40.539000" persName="Informant 0357">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:40.538000" end="0:08:41.082000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:08:40.538000" end="0:08:41.082000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:40.538000" end="0:09:15.040000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:08:40.538000" end="0:09:15.040000" persName="Informant 0357">
 und	-	-	-	0:08:40.538000	0:08:41.082000
 jetzt	-	-	-	0:08:40.538000	0:08:41.082000
 und	-	-	-	0:08:41.082000	0:08:42.730000
@@ -1987,6 +1987,7 @@ jetzt	-	-	-	0:08:42.731000	0:08:43.548000
 genau	-	-	-	0:08:46.526000	0:08:48.370000
 ,	-	-	-	0:08:46.526000	0:08:48.370000
 in	-	-	-	0:08:46.526000	0:08:48.370000
+SONSTIGE	SONSTIGE	-	-	0:08:46.526000	0:08:48.370000
 habe	-	-	-	0:08:46.526000	0:08:48.370000
 ich	-	-	-	0:08:46.526000	0:08:48.370000
 Schlossdienst	-	-	-	0:08:46.526000	0:08:48.370000
@@ -2024,7 +2025,7 @@ Mehlspeisköchin	-	-	-	0:08:54.946000	0:08:56.556000
 gesagt	-	-	-	0:08:54.946000	0:08:56.556000
 ,	-	-	-	0:08:54.946000	0:08:56.556000
 zur	-	-	-	0:08:56.556000	0:08:57.094000
-[Helga]N	-	-	-	0:08:56.556000	0:08:57.094000
+NAME	NAME	-	-	0:08:56.556000	0:08:57.094000
 ,	-	-	-	0:08:56.556000	0:08:57.094000
 "du	-	-	-	0:08:57.096000	0:09:00.752000
 <pause duration="1,5s"/>
@@ -2049,12 +2050,12 @@ da	-	-	-	0:09:02.400000	0:09:03.684000
 dann	-	-	-	0:09:03.684000	0:09:05.176000
 kommt	-	-	-	0:09:03.684000	0:09:05.176000
 der	-	-	-	0:09:03.684000	0:09:05.176000
-[Mathias]N	-	-	-	0:09:03.684000	0:09:05.176000
+NAME	NAME	-	-	0:09:03.684000	0:09:05.176000
 her	-	-	-	0:09:03.684000	0:09:05.176000
 ,	-	-	-	0:09:03.684000	0:09:05.176000
 sagt	-	-	-	0:09:05.176000	0:09:06.776000
 der	-	-	-	0:09:05.176000	0:09:06.776000
-[Mathias]N	-	-	-	0:09:05.176000	0:09:06.776000
+NAME	NAME	-	-	0:09:05.176000	0:09:06.776000
 zu	-	-	-	0:09:05.176000	0:09:06.776000
 mir	-	-	-	0:09:05.176000	0:09:06.776000
 ,	-	-	-	0:09:05.176000	0:09:06.776000
@@ -2070,7 +2071,7 @@ da	-	-	-	0:09:06.776000	0:09:10.248000
 nichts	-	-	-	0:09:06.776000	0:09:10.248000
 mit	-	-	-	0:09:06.776000	0:09:10.248000
 der	-	-	-	0:09:06.776000	0:09:10.248000
-[Helga]N	-	-	-	0:09:06.776000	0:09:10.248000
+NAME	NAME	-	-	0:09:06.776000	0:09:10.248000
 reden	-	-	-	0:09:06.776000	0:09:10.248000
 ,	-	-	-	0:09:06.776000	0:09:10.248000
 weil	-	-	-	0:09:10.248000	0:09:12.644000
@@ -2090,9 +2091,9 @@ der	-	-	-	0:09:12.644000	0:09:15.040000
 Küchenchef	-	-	-	0:09:12.644000	0:09:15.040000
 ."	-	-	-	0:09:12.644000	0:09:15.040000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:15.040000" end="0:09:15.784000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:15.040000" end="0:09:15.784000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:15.496000" end="0:09:21.994000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:15.496000" end="0:09:21.994000" persName="Informant 0357">
 dann	-	-	-	0:09:15.496000	0:09:15.784000
 habe	-	-	-	0:09:15.496000	0:09:15.784000
 ich	-	-	-	0:09:15.784000	0:09:16.373000
@@ -2101,7 +2102,7 @@ ihm	-	-	-	0:09:15.784000	0:09:16.373000
 gesagt	-	-	-	0:09:15.784000	0:09:16.373000
 ,	-	-	-	0:09:15.784000	0:09:16.373000
 "du	-	-	-	0:09:16.373000	0:09:17.378000
-[Mathias]N	-	-	-	0:09:16.373000	0:09:17.378000
+NAME	NAME	-	-	0:09:16.373000	0:09:17.378000
 sei	-	-	-	0:09:16.373000	0:09:17.378000
 mir	-	-	-	0:09:16.373000	0:09:17.378000
 nicht	-	-	-	0:09:16.373000	0:09:17.378000
@@ -2109,7 +2110,7 @@ böse	-	-	-	0:09:16.373000	0:09:17.378000
 ,	-	-	-	0:09:16.373000	0:09:17.378000
 aber	-	-	-	0:09:17.378000	0:09:18.680000
 die	-	-	-	0:09:17.378000	0:09:18.680000
-[Helga]N	-	-	-	0:09:17.378000	0:09:18.680000
+NAME	NAME	-	-	0:09:17.378000	0:09:18.680000
 macht	-	-	-	0:09:17.378000	0:09:18.680000
 die	-	-	-	0:09:17.378000	0:09:18.680000
 Torte	-	-	-	0:09:17.378000	0:09:18.680000
@@ -2132,11 +2133,11 @@ Torte	-	-	-	0:09:20.934000	0:09:21.994000
 macht	-	-	-	0:09:20.934000	0:09:21.994000
 ."	-	-	-	0:09:20.934000	0:09:21.994000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:21.994000" end="0:09:22.708000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:21.994000" end="0:09:22.708000" persName="Informant 0363">
 ja	-	-	-	0:09:21.994000	0:09:22.708000
 .	-	-	-	0:09:21.994000	0:09:22.708000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:22.708000" end="0:09:33.829000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:22.708000" end="0:09:33.829000" persName="Informant 0357">
 dann	-	-	-	0:09:22.708000	0:09:24.902000
 habe	-	-	-	0:09:22.708000	0:09:24.902000
 ich	-	-	-	0:09:22.708000	0:09:24.902000
@@ -2150,7 +2151,7 @@ um	-	-	-	0:09:22.708000	0:09:24.902000
 neun	-	-	-	0:09:22.708000	0:09:24.902000
 ,	-	-	-	0:09:22.708000	0:09:24.902000
 "liebe	-	-	-	0:09:24.902000	0:09:27.240000
-[Manuela]N	-	-	-	0:09:24.902000	0:09:27.240000
+NAME	NAME	-	-	0:09:24.902000	0:09:27.240000
 ,	-	-	-	0:09:24.902000	0:09:27.240000
 liebes	-	-	-	0:09:24.902000	0:09:27.240000
 Rezepetionsteam	-	-	-	0:09:24.902000	0:09:27.240000
@@ -2171,11 +2172,11 @@ blablabla	-	-	-	0:09:31.509000	0:09:32.613000
 ."	-	-	-	0:09:31.509000	0:09:32.613000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:33.829000" end="0:09:34.554000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:33.829000" end="0:09:34.554000" persName="Informant 0363">
 mhm	-	-	-	0:09:33.829000	0:09:34.554000
 .	-	-	-	0:09:33.829000	0:09:34.554000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:33.829000" end="0:09:44.036000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:33.829000" end="0:09:44.036000" persName="Informant 0357">
 Punkt	-	-	-	0:09:33.829000	0:09:34.554000
 eins	-	-	-	0:09:33.829000	0:09:34.554000
 ,	-	-	-	0:09:33.829000	0:09:34.554000
@@ -2217,11 +2218,11 @@ da	-	-	-	0:09:43.008000	0:09:44.036000
 mit	-	-	-	0:09:43.008000	0:09:44.036000
 dem	-	-	-	0:09:43.008000	0:09:44.036000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:44.036000" end="0:09:44.610000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:09:44.036000" end="0:09:44.610000" persName="Informant 0363">
 ja	-	-	-	0:09:44.036000	0:09:44.610000
 .	-	-	-	0:09:44.036000	0:09:44.610000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:44.036000" end="0:10:05.412000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:09:44.036000" end="0:10:05.412000" persName="Informant 0357">
 mit	-	-	-	0:09:44.036000	0:09:44.610000
 dem	-	-	-	0:09:44.036000	0:09:44.610000
 mit	-	-	-	0:09:44.612000	0:09:47.840000
@@ -2290,12 +2291,12 @@ tut	-	-	Prog ProgKon tunP	0:10:04.332000	0:10:05.412000
 delegieren	-	-	Prog ProgKon tunP	0:10:04.332000	0:10:05.412000
 .	-	-	-	0:10:04.332000	0:10:05.412000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:05.412000" end="0:10:06.672000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:05.412000" end="0:10:06.672000" persName="Informant 0363">
 <pause duration="0,9s"/>
 hm	-	-	-	0:10:05.412000	0:10:06.672000
 .	-	-	-	0:10:05.412000	0:10:06.672000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:06.672000" end="0:10:15.032000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:06.672000" end="0:10:15.032000" persName="Informant 0357">
 habe	-	-	-	0:10:06.672000	0:10:07.040000
 ich	-	-	-	0:10:06.672000	0:10:07.040000
 gesagt	-	-	-	0:10:06.672000	0:10:07.040000
@@ -2323,12 +2324,12 @@ in	-	-	-	0:10:10.104000	0:10:12.428000
 CC	-	-	-	0:10:10.104000	0:10:12.428000
 an	-	-	-	0:10:10.104000	0:10:12.428000
 den	-	-	-	0:10:10.104000	0:10:12.428000
-[Simon]N	-	-	-	0:10:10.104000	0:10:12.428000
+NAME	NAME	-	-	0:10:10.104000	0:10:12.428000
 ,	-	-	-	0:10:10.104000	0:10:12.428000
 das	-	-	-	0:10:12.428000	0:10:12.772000
 heißt	-	-	-	0:10:12.428000	0:10:12.772000
 der	-	-	-	0:10:12.773000	0:10:15.032000
-[Simon]N	-	-	-	0:10:12.773000	0:10:15.032000
+NAME	NAME	-	-	0:10:12.773000	0:10:15.032000
 hat	-	-	-	0:10:12.773000	0:10:15.032000
 die	-	-	-	0:10:12.773000	0:10:15.032000
 Kopie	-	-	-	0:10:12.773000	0:10:15.032000
@@ -2339,12 +2340,12 @@ scheiß	-	-	-	0:10:12.773000	0:10:15.032000
 E-Mail	-	-	-	0:10:12.773000	0:10:15.032000
 .	-	-	-	0:10:12.773000	0:10:15.032000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:15.032000" end="0:10:15.949000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:15.032000" end="0:10:15.949000" persName="Informant 0363">
 na	-	-	-	0:10:15.032000	0:10:15.949000
 super	-	-	-	0:10:15.032000	0:10:15.949000
 .	-	-	-	0:10:15.032000	0:10:15.949000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:15.949000" end="0:10:37.376000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:15.949000" end="0:10:37.376000" persName="Informant 0357">
 ja	-	-	-	0:10:15.949000	0:10:16.472000
 .	-	-	-	0:10:15.949000	0:10:16.472000
 <pause duration="0,6s"/>
@@ -2356,7 +2357,7 @@ Nacht	-	-	-	0:10:16.472000	0:10:18.752000
 habe	-	-	-	0:10:16.472000	0:10:18.752000
 ich	-	-	-	0:10:16.472000	0:10:18.752000
 den	-	-	-	0:10:16.472000	0:10:18.752000
-[Mathias]N	-	-	-	0:10:16.472000	0:10:18.752000
+NAME	NAME	-	-	0:10:16.472000	0:10:18.752000
 eh	-	-	-	0:10:16.472000	0:10:18.752000
 _zuba_geholt	-	-	-	0:10:16.472000	0:10:18.752000
 ,	-	-	-	0:10:16.472000	0:10:18.752000
@@ -2419,7 +2420,7 @@ damals	-	-	-	0:10:32.700000	0:10:35.444000
 beim	-	-	-	0:10:32.700000	0:10:35.444000
 Punsch	-	-	-	0:10:32.700000	0:10:35.444000
 den	-	-	-	0:10:32.700000	0:10:35.444000
-[Simon]N	-	-	-	0:10:32.700000	0:10:35.444000
+NAME	NAME	-	-	0:10:32.700000	0:10:35.444000
 hinzugezogen	-	-	-	0:10:32.700000	0:10:35.444000
 und	-	-	-	0:10:35.442000	0:10:37.376000
 er	-	-	-	0:10:35.442000	0:10:37.376000
@@ -2431,15 +2432,15 @@ in	-	-	-	0:10:35.442000	0:10:37.376000
 die	-	-	-	0:10:35.442000	0:10:37.376000
 Pfanne	-	-	-	0:10:35.442000	0:10:37.376000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:37.376000" end="0:10:38.026000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:37.376000" end="0:10:38.026000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:37.376000" end="0:10:38.026000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:37.376000" end="0:10:38.026000" persName="Informant 0357">
 reingehauen	-	-	-	0:10:37.376000	0:10:38.026000
 .	-	-	-	0:10:37.376000	0:10:38.026000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:38.026000" end="0:10:38.437000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:38.026000" end="0:10:38.437000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:38.436000" end="0:10:44.946000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:38.436000" end="0:10:44.946000" persName="Informant 0357">
 und	-	-	-	0:10:38.436000	0:10:40.268000
 am	-	-	-	0:10:38.436000	0:10:40.268000
 nächsten	-	-	-	0:10:38.436000	0:10:40.268000
@@ -2447,7 +2448,7 @@ Tag	-	-	-	0:10:38.436000	0:10:40.268000
 kommt	-	-	-	0:10:38.436000	0:10:40.268000
 noch	-	-	-	0:10:38.436000	0:10:40.268000
 der	-	-	-	0:10:38.436000	0:10:40.268000
-[Simon]N	-	-	-	0:10:38.436000	0:10:40.268000
+NAME	NAME	-	-	0:10:38.436000	0:10:40.268000
 zu	-	-	-	0:10:38.436000	0:10:40.268000
 mir	-	-	-	0:10:38.436000	0:10:40.268000
 und	-	-	-	0:10:40.268000	0:10:40.630000
@@ -2476,12 +2477,12 @@ schon	-	-	-	0:10:43.894000	0:10:44.946000
 geklärt	-	-	-	0:10:43.894000	0:10:44.946000
 ."	-	-	-	0:10:43.894000	0:10:44.946000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:44.948000" end="0:10:46.036000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:44.948000" end="0:10:46.036000" persName="Informant 0363">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:10:44.948000	0:10:46.036000
 .	-	-	-	0:10:44.948000	0:10:46.036000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:44.948000" end="0:10:56.280000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:44.948000" end="0:10:56.280000" persName="Informant 0357">
 <pause duration="0,6s"/>
 passt	-	-	-	0:10:44.948000	0:10:46.036000
 ,	-	-	-	0:10:44.948000	0:10:46.036000
@@ -2515,7 +2516,7 @@ nachgefragt	-	-	-	0:10:49.656000	0:10:51.420000
 ,	-	-	-	0:10:49.656000	0:10:51.420000
 mit	-	-	-	0:10:51.420000	0:10:52.740000
 dem	-	-	-	0:10:51.420000	0:10:52.740000
-[Mathias]N	-	-	-	0:10:51.420000	0:10:52.740000
+NAME	NAME	-	-	0:10:51.420000	0:10:52.740000
 hat	-	-	-	0:10:51.420000	0:10:52.740000
 er	-	-	-	0:10:51.420000	0:10:52.740000
 gar	-	-	-	0:10:51.420000	0:10:52.740000
@@ -2542,11 +2543,11 @@ gekommen	-	-	-	0:10:54.016000	0:10:56.280000
 bin	-	-	-	0:10:54.016000	0:10:56.280000
 ,	-	-	-	0:10:54.016000	0:10:56.280000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:56.280000" end="0:10:56.648000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:10:56.280000" end="0:10:56.648000" persName="Informant 0363">
 mhm	-	-	-	0:10:56.280000	0:10:56.648000
 .	-	-	-	0:10:56.280000	0:10:56.648000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:56.280000" end="0:11:05.180000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:10:56.280000" end="0:11:05.180000" persName="Informant 0357">
 gell	-	-	-	0:10:56.280000	0:10:56.648000
 .	-	-	-	0:10:56.280000	0:10:56.648000
 aber	-	-	-	0:10:56.648000	0:10:58.648000
@@ -2566,18 +2567,18 @@ Schas	-	-	-	0:10:58.648000	0:11:00.716000
 Oberkacke	-	-	-	0:11:04.484000	0:11:05.180000
 .	-	-	-	0:11:04.484000	0:11:05.180000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:05.180000" end="0:11:06.460000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:05.180000" end="0:11:06.460000" persName="Informant 0363">
 mhm	-	-	-	0:11:05.180000	0:11:06.460000
 .	-	-	-	0:11:05.180000	0:11:06.460000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:05.180000" end="0:11:06.460000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:05.180000" end="0:11:06.460000" persName="Informant 0357">
 okay	-	-	-	0:11:05.180000	0:11:06.460000
 .	-	-	-	0:11:05.180000	0:11:06.460000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:06.460000" end="0:11:07.512000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:06.460000" end="0:11:07.512000" persName="Informant 0363">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:06.460000" end="0:11:12.204000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:06.460000" end="0:11:12.204000" persName="Informant 0357">
 <pause duration="1,0s"/>
 <pause duration="seufzen"/>
 ein	-	-	-	0:11:07.512000	0:11:08.456000
@@ -2593,7 +2594,7 @@ irgendeinem	-	-	-	0:11:08.456000	0:11:12.204000
 Traktor	-	-	-	0:11:08.456000	0:11:12.204000
 ?	-	-	-	0:11:08.456000	0:11:12.204000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:12.204000" end="0:11:15.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:12.204000" end="0:11:15.308000" persName="Informant 0363">
 man	-	-	-	0:11:12.204000	0:11:15.308000
 kann	-	-	-	0:11:12.204000	0:11:15.308000
 sich	-	-	-	0:11:12.204000	0:11:15.308000
@@ -2602,35 +2603,35 @@ Tag	-	-	-	0:11:12.204000	0:11:15.308000
 ärgern	-	-	-	0:11:12.204000	0:11:15.308000
 .	-	-	-	0:11:12.204000	0:11:15.308000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:15.308000" end="0:11:16.804000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:15.308000" end="0:11:16.804000" persName="Informant 0357">
 "ein	-	-	??	0:11:15.308000	0:11:16.804000
 besonderes	-	-	??	0:11:15.308000	0:11:16.804000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:16.804000" end="0:11:17.336000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:16.804000" end="0:11:17.336000" persName="Informant 0363">
 ja	-	-	-	0:11:16.804000	0:11:17.336000
 ,	-	-	-	0:11:16.804000	0:11:17.336000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:17.336000" end="0:11:17.884000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:17.336000" end="0:11:17.884000" persName="Informant 0357">
 ärgerliches	-	-	??	0:11:17.336000	0:11:17.884000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:17.884000" end="0:11:18.684000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:17.884000" end="0:11:18.684000" persName="Informant 0363">
 besonderes	-	-	-	0:11:17.884000	0:11:18.684000
 ,	-	-	-	0:11:17.884000	0:11:18.684000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:17.884000" end="0:11:18.684000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:17.884000" end="0:11:18.684000" persName="Informant 0357">
 Erlebnis"	-	-	??	0:11:17.884000	0:11:18.684000
 steht	-	-	-	0:11:17.884000	0:11:18.684000
 da	-	-	-	0:11:17.884000	0:11:18.684000
 ,	-	-	-	0:11:17.884000	0:11:18.684000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:18.684000" end="0:11:19.748000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:18.684000" end="0:11:19.748000" persName="Informant 0363">
 besonderes	-	-	-	0:11:18.684000	0:11:19.748000
 ,	-	-	-	0:11:18.684000	0:11:19.748000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:18.684000" end="0:11:19.748000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:18.684000" end="0:11:19.748000" persName="Informant 0357">
 "besonderes"	-	-	-	0:11:18.684000	0:11:19.748000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:19.748000" end="0:11:26.292000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:19.748000" end="0:11:26.292000" persName="Informant 0363">
 besonderes	-	-	-	0:11:19.748000	0:11:20.696000
 ,	-	-	-	0:11:19.748000	0:11:20.696000
 hm	-	-	-	0:11:19.748000	0:11:20.696000
@@ -2643,7 +2644,7 @@ besonderes	-	-	-	0:11:22.448000	0:11:24.224000
 ?	-	-	-	0:11:22.448000	0:11:24.224000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:26.292000" end="0:11:27.728000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:26.292000" end="0:11:27.728000" persName="Informant 0357">
 ah	-	-	-	0:11:26.292000	0:11:27.728000
 ,	-	-	-	0:11:26.292000	0:11:27.728000
 da	-	-	-	0:11:26.292000	0:11:27.728000
@@ -2656,11 +2657,11 @@ für	-	-	-	0:11:26.292000	0:11:27.728000
 dich	-	-	-	0:11:26.292000	0:11:27.728000
 .	-	-	-	0:11:26.292000	0:11:27.728000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:27.728000" end="0:11:28.064000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:27.728000" end="0:11:28.064000" persName="Informant 0363">
 hm	-	-	-	0:11:27.728000	0:11:28.064000
 .	-	-	-	0:11:27.728000	0:11:28.064000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:28.064000" end="0:11:31.048000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:28.064000" end="0:11:31.048000" persName="Informant 0357">
 <pause duration="0,9s"/>
 damals	-	-	-	0:11:28.064000	0:11:30.768000
 *wiesd*	-	-	-	0:11:28.064000	0:11:30.768000
@@ -2674,26 +2675,26 @@ bist	-	-	-	0:11:28.064000	0:11:30.768000
 *wiesd*	-	-	-	0:11:30.768000	0:11:31.048000
 einen	-	-	-	0:11:30.768000	0:11:31.048000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:31.048000" end="0:11:32.300000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:31.048000" end="0:11:32.300000" persName="Informant 0363">
 jaja	-	-	-	0:11:31.048000	0:11:32.300000
 ja	-	-	-	0:11:31.048000	0:11:32.300000
 .	-	-	-	0:11:31.048000	0:11:32.300000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:31.048000" end="0:11:33.048000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:31.048000" end="0:11:33.048000" persName="Informant 0357">
 Reifenplatzer	-	-	-	0:11:31.048000	0:11:32.300000
 gehabt	-	-	-	0:11:31.048000	0:11:32.300000
 hast	-	-	-	0:11:31.048000	0:11:32.300000
 mit	-	-	-	0:11:32.300000	0:11:33.048000
 der	-	-	-	0:11:32.300000	0:11:33.048000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:33.048000" end="0:11:34.444000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:33.048000" end="0:11:34.444000" persName="Informant 0363">
 mitten	-	-	-	0:11:33.048000	0:11:34.444000
 in	-	-	-	0:11:33.048000	0:11:34.444000
 der	-	-	-	0:11:33.048000	0:11:34.444000
 Nacht	-	-	-	0:11:33.048000	0:11:34.444000
 .	-	-	-	0:11:33.048000	0:11:34.444000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:33.048000" end="0:11:36.432000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:33.048000" end="0:11:36.432000" persName="Informant 0357">
 mit	-	-	-	0:11:33.048000	0:11:34.444000
 dem	-	-	-	0:11:33.048000	0:11:34.444000
 Kran	-	-	-	0:11:33.048000	0:11:34.444000
@@ -2710,12 +2711,12 @@ und	-	-	-	0:11:35.764000	0:11:36.432000
 die	-	-	-	0:11:35.764000	0:11:36.432000
 f/	-	-	-	0:11:35.764000	0:11:36.432000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:36.432000" end="0:11:37.489000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:36.432000" end="0:11:37.489000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ja	-	-	-	0:11:36.432000	0:11:37.489000
 .	-	-	-	0:11:36.432000	0:11:37.489000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:36.432000" end="0:11:38.371000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:36.432000" end="0:11:38.371000" persName="Informant 0357">
 <pause duration="0,6s"/>
 eine	-	-	-	0:11:36.432000	0:11:37.489000
 volle	-	-	-	0:11:36.432000	0:11:37.489000
@@ -2725,7 +2726,7 @@ oben	-	-	-	0:11:37.489000	0:11:38.371000
 gehabt	-	-	-	0:11:37.489000	0:11:38.371000
 .	-	-	-	0:11:37.489000	0:11:38.371000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:38.368000" end="0:11:41.856000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:38.368000" end="0:11:41.856000" persName="Informant 0363">
 mhm	-	-	-	0:11:38.368000	0:11:39.240000
 ,	-	-	-	0:11:38.368000	0:11:39.240000
 <pause duration="0,8s"/>
@@ -2740,11 +2741,11 @@ fortgefahren	-	-	-	0:11:39.240000	0:11:41.856000
 (müssen)	-	-	-	0:11:39.240000	0:11:41.856000
 .	-	-	-	0:11:39.240000	0:11:41.856000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:41.856000" end="0:11:42.340000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:41.856000" end="0:11:42.340000" persName="Informant 0357">
 mhm	-	-	-	0:11:41.856000	0:11:42.340000
 .	-	-	-	0:11:41.856000	0:11:42.340000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:42.344000" end="0:11:45.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:42.344000" end="0:11:45.120000" persName="Informant 0363">
 <pause duration="0,6s"/>
 und	-	-	-	0:11:42.344000	0:11:45.120000
 das	-	-	-	0:11:42.344000	0:11:45.120000
@@ -2758,7 +2759,7 @@ der	-	-	-	0:11:42.344000	0:11:45.120000
 Nacht	-	-	-	0:11:42.344000	0:11:45.120000
 .	-	-	-	0:11:42.344000	0:11:45.120000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:45.120000" end="0:11:49.575000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:45.120000" end="0:11:49.575000" persName="Informant 0357">
 mhm	-	-	-	0:11:45.120000	0:11:46.344000
 .	-	-	-	0:11:45.120000	0:11:46.344000
 <pause duration="0,6s"/>
@@ -2780,7 +2781,7 @@ Zeit	-	-	-	0:11:48.239000	0:11:49.575000
 gell	-	-	-	0:11:48.239000	0:11:49.575000
 .	-	-	-	0:11:48.239000	0:11:49.575000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:49.575000" end="0:11:55.846000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:49.575000" end="0:11:55.846000" persName="Informant 0363">
 ja	-	-	-	0:11:49.575000	0:11:49.945000
 ,	-	-	-	0:11:49.575000	0:11:49.945000
 <pause duration="1,1s"/>
@@ -2810,7 +2811,7 @@ Werkstatt	-	-	-	0:11:54.392000	0:11:55.485000
 kommst	-	-	-	0:11:55.485000	0:11:55.846000
 .	-	-	-	0:11:55.485000	0:11:55.846000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:55.485000" end="0:11:57.298000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:11:55.485000" end="0:11:57.298000" persName="Informant 0357">
 ja	-	-	-	0:11:55.485000	0:11:55.846000
 ,	-	-	-	0:11:55.485000	0:11:55.846000
 wo	-	-	-	0:11:55.850000	0:11:57.298000
@@ -2820,7 +2821,7 @@ vorher	-	-	-	0:11:55.850000	0:11:57.298000
 eigentlich	-	-	-	0:11:55.850000	0:11:57.298000
 ?	-	-	-	0:11:55.850000	0:11:57.298000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:57.298000" end="0:12:01.625000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:11:57.298000" end="0:12:01.625000" persName="Informant 0363">
 <pause duration="1,2s"/>
 ich	-	-	-	0:11:58.478000	0:12:01.625000
 habe	-	-	-	0:11:58.478000	0:12:01.625000
@@ -2837,7 +2838,7 @@ der	-	-	-	0:11:58.478000	0:12:01.625000
 (Nacht)	-	-	-	0:11:58.478000	0:12:01.625000
 .	-	-	-	0:11:58.478000	0:12:01.625000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:01.625000" end="0:12:03.271000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:01.625000" end="0:12:03.271000" persName="Informant 0357">
 ja	-	-	-	0:12:01.625000	0:12:02.732000
 wo	-	-	-	0:12:01.625000	0:12:02.732000
 *warst*	-	-	-	0:12:01.625000	0:12:02.732000
@@ -2849,18 +2850,18 @@ wem	-	-	-	0:12:02.732000	0:12:03.271000
 bei	-	-	-	0:12:02.732000	0:12:03.271000
 welchem	-	-	-	0:12:02.732000	0:12:03.271000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:03.271000" end="0:12:04.114000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:03.271000" end="0:12:04.114000" persName="Informant 0363">
 Wöllinger	-	-	-	0:12:03.271000	0:12:04.114000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:03.271000" end="0:12:04.114000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:03.271000" end="0:12:04.114000" persName="Informant 0357">
 Bauern	-	-	-	0:12:03.271000	0:12:04.114000
 ?	-	-	-	0:12:03.271000	0:12:04.114000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:04.114000" end="0:12:04.628000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:04.114000" end="0:12:04.628000" persName="Informant 0363">
 ähm	-	-	-	0:12:04.114000	0:12:04.628000
 /.	-	-	-	0:12:04.114000	0:12:04.628000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:04.628000" end="0:12:06.507000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:04.628000" end="0:12:06.507000" persName="Informant 0357">
 <pause duration="0,8s"/>
 warst	-	-	-	0:12:04.628000	0:12:06.507000
 du	-	-	-	0:12:04.628000	0:12:06.507000
@@ -2868,31 +2869,31 @@ da	-	-	-	0:12:04.628000	0:12:06.507000
 beim	-	-	-	0:12:04.628000	0:12:06.507000
 /?	-	-	-	0:12:04.628000	0:12:06.507000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:06.507000" end="0:12:08.996000">
-[(Jostelbauer)]N	-	-	-	0:12:06.507000	0:12:07.282000
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:06.507000" end="0:12:08.996000" persName="Informant 0363">
+NAME	NAME	-	-	0:12:06.507000	0:12:07.282000
 .	-	-	-	0:12:06.507000	0:12:07.282000
 <pause duration="0,7s"/>
 ah	-	-	-	0:12:07.282000	0:12:08.996000
 !	-	-	-	0:12:07.282000	0:12:08.996000
-[(Hubauer)]N	-	-	-	0:12:07.282000	0:12:08.996000
+NAME	NAME	-	-	0:12:07.282000	0:12:08.996000
 .	-	-	-	0:12:07.282000	0:12:08.996000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:08.996000" end="0:12:10.432000">
-[(Hubauer)]N	-	-	-	0:12:08.996000	0:12:10.432000
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:08.996000" end="0:12:10.432000" persName="Informant 0357">
+NAME	NAME	-	-	0:12:08.996000	0:12:10.432000
 in	-	-	-	0:12:08.996000	0:12:10.432000
 der	-	-	-	0:12:08.996000	0:12:10.432000
 Wölling	-	-	-	0:12:08.996000	0:12:10.432000
 ?	-	-	-	0:12:08.996000	0:12:10.432000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:10.432000" end="0:12:10.914000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:10.432000" end="0:12:10.914000" persName="Informant 0363">
 mhm	-	-	-	0:12:10.432000	0:12:10.914000
 ,	-	-	-	0:12:10.432000	0:12:10.914000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:10.914000" end="0:12:11.375000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:10.914000" end="0:12:11.375000" persName="Informant 0357">
 okay	-	-	-	0:12:10.914000	0:12:11.375000
 .	-	-	-	0:12:10.914000	0:12:11.375000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:11.387000" end="0:12:24.197000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:11.387000" end="0:12:24.197000" persName="Informant 0363">
 gibt	-	-	-	0:12:11.387000	0:12:11.980000
 es	-	-	-	0:12:11.387000	0:12:11.980000
 auch	-	-	-	0:12:11.387000	0:12:11.980000
@@ -2933,24 +2934,24 @@ können	-	-	-	0:12:20.296000	0:12:22.821000
 und	-	-	-	0:12:22.819000	0:12:24.197000
 dann	-	-	-	0:12:22.819000	0:12:24.197000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:22.819000" end="0:12:24.197000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:22.819000" end="0:12:24.197000" persName="Informant 0357">
 <pause duration="0,9s"/>
 ja	-	-	-	0:12:22.819000	0:12:24.197000
 /?	-	-	-	0:12:22.819000	0:12:24.197000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:24.197000" end="0:12:24.841000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:24.197000" end="0:12:24.841000" persName="Informant 0363">
 war	-	-	-	0:12:24.197000	0:12:24.841000
 die	-	-	-	0:12:24.197000	0:12:24.841000
 Luft	-	-	-	0:12:24.197000	0:12:24.841000
 herausen	-	-	-	0:12:24.197000	0:12:24.841000
 .	-	-	-	0:12:24.197000	0:12:24.841000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:24.842000" end="0:12:25.804000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:24.842000" end="0:12:25.804000" persName="Informant 0357">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:25.803000" end="0:12:26.324000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:25.803000" end="0:12:26.324000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:25.803000" end="0:12:28.113000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:25.803000" end="0:12:28.113000" persName="Informant 0357">
 ja	-	-	-	0:12:25.803000	0:12:26.324000
 und	-	-	-	0:12:25.803000	0:12:26.324000
 dann	-	-	-	0:12:25.803000	0:12:26.324000
@@ -2963,11 +2964,11 @@ Gasthaus	-	-	-	0:12:26.324000	0:12:28.113000
 gestanden	-	-	-	0:12:26.324000	0:12:28.113000
 .	-	-	-	0:12:26.324000	0:12:28.113000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:28.112000" end="0:12:28.600000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:28.112000" end="0:12:28.600000" persName="Informant 0363">
 ja	-	-	-	0:12:28.112000	0:12:28.600000
 .	-	-	-	0:12:28.112000	0:12:28.600000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:28.600000" end="0:12:30.885000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:28.600000" end="0:12:30.885000" persName="Informant 0357">
 dann	-	-	-	0:12:28.600000	0:12:29.456000
 habe	-	-	-	0:12:28.600000	0:12:29.456000
 ich	-	-	-	0:12:28.600000	0:12:29.456000
@@ -2979,14 +2980,14 @@ ich	-	-	-	0:12:29.456000	0:12:30.885000
 runtergebracht	-	-	-	0:12:29.456000	0:12:30.885000
 ?	-	-	-	0:12:29.456000	0:12:30.885000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:30.886000" end="0:12:32.219000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:30.886000" end="0:12:32.219000" persName="Informant 0363">
 du	-	-	-	0:12:30.886000	0:12:32.219000
 hast	-	-	-	0:12:30.886000	0:12:32.219000
 (mir	-	-	-	0:12:30.886000	0:12:32.219000
 den)	-	-	-	0:12:30.886000	0:12:32.219000
 /.	-	-	-	0:12:30.886000	0:12:32.219000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:30.886000" end="0:12:33.356000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:30.886000" end="0:12:33.356000" persName="Informant 0357">
 einen	-	-	-	0:12:30.886000	0:12:32.219000
 lan/	-	-	-	0:12:30.886000	0:12:32.219000
 einen	-	-	-	0:12:30.886000	0:12:32.219000
@@ -2995,11 +2996,11 @@ habe	-	-	-	0:12:32.219000	0:12:33.356000
 ich	-	-	-	0:12:32.219000	0:12:33.356000
 geholt	-	-	-	0:12:32.219000	0:12:33.356000
 beim	-	-	-	0:12:32.219000	0:12:33.356000
-[(Osti)]N	-	-	-	0:12:32.219000	0:12:33.356000
+NAME	NAME	-	-	0:12:32.219000	0:12:33.356000
 (oben)	-	-	-	0:12:32.219000	0:12:33.356000
 .	-	-	-	0:12:32.219000	0:12:33.356000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:33.356000" end="0:12:37.360000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:33.356000" end="0:12:37.360000" persName="Informant 0363">
 ja	-	-	-	0:12:33.356000	0:12:35.084000
 ,	-	-	-	0:12:33.356000	0:12:35.084000
 den	-	-	-	0:12:33.356000	0:12:35.084000
@@ -3015,11 +3016,11 @@ Schlagschrauber	-	-	-	0:12:35.085000	0:12:37.360000
 gebracht	-	-	-	0:12:35.085000	0:12:37.360000
 ,	-	-	-	0:12:35.085000	0:12:37.360000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:37.360000" end="0:12:38.130000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:37.360000" end="0:12:38.130000" persName="Informant 0357">
 mhm	-	-	-	0:12:37.360000	0:12:38.130000
 .	-	-	-	0:12:37.360000	0:12:38.130000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:38.130000" end="0:12:44.752000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:38.130000" end="0:12:44.752000" persName="Informant 0363">
 <pause duration="0,7s"/>
 Werkzeug	-	-	-	0:12:38.130000	0:12:39.586000
 ,	-	-	-	0:12:38.130000	0:12:39.586000
@@ -3029,12 +3030,12 @@ den	-	-	-	0:12:39.588000	0:12:42.608000
 Wagenheber	-	-	-	0:12:39.588000	0:12:42.608000
 hat	-	-	-	0:12:39.588000	0:12:42.608000
 der	-	-	-	0:12:39.588000	0:12:42.608000
-[Andi]N	-	-	-	0:12:39.588000	0:12:42.608000
+NAME	NAME	-	-	0:12:39.588000	0:12:42.608000
 mitgehabt	-	-	-	0:12:39.588000	0:12:42.608000
 .	-	-	-	0:12:39.588000	0:12:42.608000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:42.608000" end="0:12:46.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:12:42.608000" end="0:12:46.752000" persName="Informant 0357">
 <pause duration="2,1s"/>
 ja	-	-	-	0:12:44.752000	0:12:46.752000
 ,	-	-	-	0:12:44.752000	0:12:46.752000
@@ -3049,7 +3050,7 @@ müssen	-	-	-	0:12:44.752000	0:12:46.752000
 oder	-	-	-	0:12:44.752000	0:12:46.752000
 ?	-	-	-	0:12:44.752000	0:12:46.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:46.752000" end="0:13:04.356000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:12:46.752000" end="0:13:04.356000" persName="Informant 0363">
 ja	-	-	-	0:12:46.752000	0:12:48.752000
 ,	-	-	-	0:12:46.752000	0:12:48.752000
 den	-	-	-	0:12:46.752000	0:12:48.752000
@@ -3102,12 +3103,12 @@ Mitternacht	-	-	-	0:13:02.956000	0:13:04.356000
 geworden	-	-	-	0:13:02.956000	0:13:04.356000
 .	-	-	-	0:13:02.956000	0:13:04.356000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:04.356000" end="0:13:05.288000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:04.356000" end="0:13:05.288000" persName="Informant 0357">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:13:04.356000	0:13:05.288000
 .	-	-	-	0:13:04.356000	0:13:05.288000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:05.288000" end="0:13:08.692000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:05.288000" end="0:13:08.692000" persName="Informant 0363">
 und	-	-	-	0:13:05.288000	0:13:08.068000
 am	-	-	-	0:13:05.288000	0:13:08.068000
 nächsten	-	-	-	0:13:05.288000	0:13:08.068000
@@ -3124,7 +3125,7 @@ in	-	-	-	0:13:05.288000	0:13:08.068000
 sein	-	-	-	0:13:08.068000	0:13:08.692000
 .	-	-	-	0:13:08.068000	0:13:08.692000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:08.068000" end="0:13:09.176000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:08.068000" end="0:13:09.176000" persName="Informant 0357">
 keine	-	-	-	0:13:08.068000	0:13:08.692000
 Ahnung	-	-	-	0:13:08.068000	0:13:08.692000
 ,	-	-	-	0:13:08.068000	0:13:08.692000
@@ -3132,21 +3133,21 @@ ich	-	-	-	0:13:08.692000	0:13:09.176000
 habe	-	-	-	0:13:08.692000	0:13:09.176000
 gut	-	-	-	0:13:08.692000	0:13:09.176000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:09.176000" end="0:13:09.536000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:09.176000" end="0:13:09.536000" persName="Informant 0363">
 ja	-	-	-	0:13:09.176000	0:13:09.536000
 .	-	-	-	0:13:09.176000	0:13:09.536000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:09.176000" end="0:13:09.896000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:09.176000" end="0:13:09.896000" persName="Informant 0357">
 geschlafen	-	-	-	0:13:09.176000	0:13:09.536000
 da	-	-	-	0:13:09.536000	0:13:09.896000
 .	-	-	-	0:13:09.536000	0:13:09.896000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:09.896000" end="0:13:15.504000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:09.896000" end="0:13:15.504000" persName="Informant 0363">
 <pause duration="1,2s"/>
 und	-	-	-	0:13:11.152000	0:13:11.632000
 <pause duration="3,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:11.632000" end="0:13:19.428000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:11.632000" end="0:13:19.428000" persName="Informant 0357">
 <pause duration="3,9s"/>
 okay	-	-	-	0:13:15.504000	0:13:16.068000
 .	-	-	-	0:13:15.504000	0:13:16.068000
@@ -3156,7 +3157,7 @@ als	-	-	-	0:13:16.068000	0:13:19.428000
 Fußballweltmeister"	-	-	-	0:13:16.068000	0:13:19.428000
 .	-	-	-	0:13:16.068000	0:13:19.428000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:19.428000" end="0:13:20.452000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:19.428000" end="0:13:20.452000" persName="Informant 0363">
 geht	-	-	-	0:13:19.428000	0:13:20.452000
 mich	-	-	-	0:13:19.428000	0:13:20.452000
 eh	-	-	-	0:13:19.428000	0:13:20.452000
@@ -3164,14 +3165,14 @@ nichts	-	-	-	0:13:19.428000	0:13:20.452000
 an	-	-	-	0:13:19.428000	0:13:20.452000
 .	-	-	-	0:13:19.428000	0:13:20.452000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:19.428000" end="0:13:20.452000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:19.428000" end="0:13:20.452000" persName="Informant 0357">
 was	-	-	-	0:13:19.428000	0:13:20.452000
 du	-	-	-	0:13:19.428000	0:13:20.452000
 /?	-	-	-	0:13:19.428000	0:13:20.452000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:20.452000" end="0:13:22.468000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:20.452000" end="0:13:22.468000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:20.452000" end="0:13:26.768000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:20.452000" end="0:13:26.768000" persName="Informant 0357">
 ähm	-	-	-	0:13:20.452000	0:13:22.468000
 nein	-	-	-	0:13:20.452000	0:13:22.468000
 ,	-	-	-	0:13:20.452000	0:13:22.468000
@@ -3193,11 +3194,11 @@ guter	-	-	-	0:13:25.300000	0:13:26.768000
 Witz	-	-	-	0:13:25.300000	0:13:26.768000
 ,	-	-	-	0:13:25.300000	0:13:26.768000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:26.768000" end="0:13:27.844000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:26.768000" end="0:13:27.844000" persName="Informant 0363">
 (kein)	-	-	-	0:13:26.768000	0:13:27.844000
 (kein)	-	-	-	0:13:26.768000	0:13:27.844000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:26.768000" end="0:13:27.844000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:26.768000" end="0:13:27.844000" persName="Informant 0357">
 das	-	-	-	0:13:26.768000	0:13:27.844000
 wird	-	-	-	0:13:26.768000	0:13:27.844000
 nie	-	-	-	0:13:26.768000	0:13:27.844000
@@ -3206,12 +3207,12 @@ Leben	-	-	-	0:13:26.768000	0:13:27.844000
 passieren	-	-	-	0:13:26.768000	0:13:27.844000
 .	-	-	-	0:13:26.768000	0:13:27.844000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:27.844000" end="0:13:29.652000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:27.844000" end="0:13:29.652000" persName="Informant 0363">
 kein	-	-	-	0:13:27.844000	0:13:29.652000
 Interesse	-	-	-	0:13:27.844000	0:13:29.652000
 .	-	-	-	0:13:27.844000	0:13:29.652000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:27.844000" end="0:13:36.952000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:27.844000" end="0:13:36.952000" persName="Informant 0357">
 na	-	-	-	0:13:29.652000	0:13:30.540000
 abgesehen	-	-	-	0:13:29.652000	0:13:30.540000
 davon	-	-	-	0:13:29.652000	0:13:30.540000
@@ -3234,11 +3235,11 @@ werden	-	-	-	0:13:32.536000	0:13:36.584000
 Punkt	-	-	-	0:13:36.584000	0:13:36.952000
 ,	-	-	-	0:13:36.584000	0:13:36.952000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:36.952000" end="0:13:37.800000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:36.952000" end="0:13:37.800000" persName="Informant 0363">
 mhm	-	-	-	0:13:36.952000	0:13:37.800000
 .	-	-	-	0:13:36.952000	0:13:37.800000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:36.952000" end="0:13:45.512000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:36.952000" end="0:13:45.512000" persName="Informant 0357">
 Rufzeichen	-	-	-	0:13:36.952000	0:13:37.800000
 .	-	-	-	0:13:36.952000	0:13:37.800000
 Thema	-	-	-	0:13:37.800000	0:13:39.272000
@@ -3255,15 +3256,15 @@ sind	-	-	-	0:13:44.084000	0:13:45.512000
 anstrengend	-	-	-	0:13:44.084000	0:13:45.512000
 ,	-	-	-	0:13:44.084000	0:13:45.512000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:45.512000" end="0:13:46.108000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:45.512000" end="0:13:46.108000" persName="Informant 0363">
 mhm	-	-	-	0:13:45.512000	0:13:46.108000
 .	-	-	-	0:13:45.512000	0:13:46.108000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:45.512000" end="0:13:46.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:45.512000" end="0:13:46.108000" persName="Informant 0357">
 Entschuldigung	-	-	-	0:13:45.512000	0:13:46.108000
 .	-	-	-	0:13:45.512000	0:13:46.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:46.108000" end="0:13:49.460000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:46.108000" end="0:13:49.460000" persName="Informant 0363">
 <pause duration="0,9s"/>
 Wiener	-	-	-	0:13:46.108000	0:13:47.900000
 sind	-	-	-	0:13:46.108000	0:13:47.900000
@@ -3271,32 +3272,32 @@ schwierig	-	-	-	0:13:46.108000	0:13:47.900000
 .	-	-	-	0:13:46.108000	0:13:47.900000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:47.900000" end="0:13:49.956000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:47.900000" end="0:13:49.956000" persName="Informant 0357">
 <pause duration="1,5s"/>
 pingelig	-	-	-	0:13:49.460000	0:13:49.956000
 .	-	-	-	0:13:49.460000	0:13:49.956000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:49.956000" end="0:13:50.540000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:49.956000" end="0:13:50.540000" persName="Informant 0363">
 mhm	-	-	-	0:13:49.956000	0:13:50.540000
 .	-	-	-	0:13:49.956000	0:13:50.540000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:50.540000" end="0:13:51.844000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:50.540000" end="0:13:51.844000" persName="Informant 0357">
 <pause duration="0,7s"/>
 Wienerisch	-	-	-	0:13:50.540000	0:13:51.844000
 .	-	-	-	0:13:50.540000	0:13:51.844000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:51.844000" end="0:13:52.848000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:51.844000" end="0:13:52.848000" persName="Informant 0363">
 die	-	-	-	0:13:51.844000	0:13:52.848000
 können	-	-	-	0:13:51.844000	0:13:52.848000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:51.844000" end="0:13:52.848000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:51.844000" end="0:13:52.848000" persName="Informant 0357">
 was	-	-	-	0:13:51.844000	0:13:52.848000
 ist	-	-	-	0:13:51.844000	0:13:52.848000
 /?	-	-	-	0:13:51.844000	0:13:52.848000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:52.848000" end="0:13:53.312000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:52.848000" end="0:13:53.312000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:52.848000" end="0:13:55.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:52.848000" end="0:13:55.752000" persName="Informant 0357">
 was	-	-	-	0:13:52.848000	0:13:53.312000
 ist	-	-	-	0:13:52.848000	0:13:53.312000
 für	-	-	-	0:13:53.312000	0:13:54.480000
@@ -3307,7 +3308,7 @@ typisch	-	-	-	0:13:54.480000	0:13:55.752000
 wienerisch	-	-	-	0:13:54.480000	0:13:55.752000
 ?	-	-	-	0:13:54.480000	0:13:55.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:55.756000" end="0:13:58.104000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:55.756000" end="0:13:58.104000" persName="Informant 0363">
 sind	-	-	-	0:13:55.756000	0:13:58.104000
 einmal	-	-	-	0:13:55.756000	0:13:58.104000
 unsere	-	-	-	0:13:55.756000	0:13:58.104000
@@ -3318,7 +3319,7 @@ der	-	-	-	0:13:55.756000	0:13:58.104000
 Nähe	-	-	-	0:13:55.756000	0:13:58.104000
 .	-	-	-	0:13:55.756000	0:13:58.104000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:58.104000" end="0:13:59.836000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:13:58.104000" end="0:13:59.836000" persName="Informant 0357">
 warum	-	-	-	0:13:58.104000	0:13:58.876000
 ?	-	-	-	0:13:58.104000	0:13:58.876000
 dich	-	-	-	0:13:58.876000	0:13:59.836000
@@ -3328,7 +3329,7 @@ eh	-	-	-	0:13:58.876000	0:13:59.836000
 nicht	-	-	-	0:13:58.876000	0:13:59.836000
 .	-	-	-	0:13:58.876000	0:13:59.836000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:59.836000" end="0:14:02.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:13:59.836000" end="0:14:02.172000" persName="Informant 0363">
 <pause duration="1,0s"/>
 schon	-	-	-	0:14:00.824000	0:14:02.172000
 ,	-	-	-	0:14:00.824000	0:14:02.172000
@@ -3338,7 +3339,7 @@ Straße	-	-	-	0:14:00.824000	0:14:02.172000
 schon	-	-	-	0:14:00.824000	0:14:02.172000
 .	-	-	-	0:14:00.824000	0:14:02.172000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:02.172000" end="0:14:05.136000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:02.172000" end="0:14:05.136000" persName="Informant 0357">
 <pause duration="0,5s"/>
 was	-	-	-	0:14:02.172000	0:14:03.060000
 ?	-	-	-	0:14:02.172000	0:14:03.060000
@@ -3353,7 +3354,7 @@ dem	-	-	-	0:14:03.060000	0:14:05.136000
 Traktor	-	-	-	0:14:03.060000	0:14:05.136000
 .	-	-	-	0:14:03.060000	0:14:05.136000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:05.136000" end="0:14:10.117000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:05.136000" end="0:14:10.117000" persName="Informant 0363">
 ja	-	-	-	0:14:05.136000	0:14:05.720000
 ,	-	-	-	0:14:05.136000	0:14:05.720000
 aber	-	-	-	0:14:05.720000	0:14:08.416000
@@ -3367,16 +3368,16 @@ Autos	-	-	-	0:14:05.720000	0:14:08.416000
 .	-	-	-	0:14:05.720000	0:14:08.416000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:10.116000" end="0:14:10.646000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:10.116000" end="0:14:10.646000" persName="Informant 0357">
 sie	-	-	-	0:14:10.116000	0:14:10.646000
 sind	-	-	-	0:14:10.116000	0:14:10.646000
 auf	-	-	-	0:14:10.116000	0:14:10.646000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:10.646000" end="0:14:10.924000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:10.646000" end="0:14:10.924000" persName="Informant 0363">
 eh	-	-	-	0:14:10.646000	0:14:10.924000
 .	-	-	-	0:14:10.646000	0:14:10.924000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:10.646000" end="0:14:12.120000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:10.646000" end="0:14:12.120000" persName="Informant 0357">
 Urlaub	-	-	-	0:14:10.646000	0:14:10.924000
 da	-	-	-	0:14:10.924000	0:14:11.076000
 ,	-	-	-	0:14:10.924000	0:14:11.076000
@@ -3385,13 +3386,13 @@ müssen	-	-	-	0:14:11.076000	0:14:12.120000
 viel	-	-	-	0:14:11.076000	0:14:12.120000
 Grafflwerk	-	-	-	0:14:11.076000	0:14:12.120000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:12.120000" end="0:14:12.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:12.120000" end="0:14:12.500000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:12.120000" end="0:14:12.500000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:12.120000" end="0:14:12.500000" persName="Informant 0357">
 mitnehmen	-	-	-	0:14:12.120000	0:14:12.500000
 .	-	-	-	0:14:12.120000	0:14:12.500000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:12.498000" end="0:14:15.085000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:12.498000" end="0:14:15.085000" persName="Informant 0363">
 nein	-	-	-	0:14:12.498000	0:14:13.085000
 ,	-	-	-	0:14:12.498000	0:14:13.085000
 sie	-	-	-	0:14:13.085000	0:14:15.085000
@@ -3401,7 +3402,7 @@ große	-	-	-	0:14:13.085000	0:14:15.085000
 Autos	-	-	-	0:14:13.085000	0:14:15.085000
 .	-	-	-	0:14:13.085000	0:14:15.085000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:15.085000" end="0:14:16.938000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:15.085000" end="0:14:16.938000" persName="Informant 0357">
 was	-	-	-	0:14:15.085000	0:14:16.357000
 *meinst*	-	-	-	0:14:15.085000	0:14:16.357000
 damit	-	-	-	0:14:15.085000	0:14:16.357000
@@ -3410,16 +3411,16 @@ das	-	-	-	0:14:16.356000	0:14:16.938000
 verstehe	-	-	-	0:14:16.356000	0:14:16.938000
 ich	-	-	-	0:14:16.356000	0:14:16.938000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:16.938000" end="0:14:17.330000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:16.938000" end="0:14:17.330000" persName="Informant 0363">
 das	-	-	-	0:14:16.938000	0:14:17.330000
 Auto	-	-	-	0:14:16.938000	0:14:17.330000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:16.938000" end="0:14:17.330000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:16.938000" end="0:14:17.330000" persName="Informant 0357">
 jetzt	-	-	-	0:14:16.938000	0:14:17.330000
 nicht	-	-	-	0:14:16.938000	0:14:17.330000
 .	-	-	-	0:14:16.938000	0:14:17.330000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:17.330000" end="0:14:20.154000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:17.330000" end="0:14:20.154000" persName="Informant 0363">
 ist	-	-	-	0:14:17.330000	0:14:18.388000
 auf	-	-	-	0:14:17.330000	0:14:18.388000
 einmal	-	-	-	0:14:17.330000	0:14:18.388000
@@ -3429,7 +3430,7 @@ breit	-	-	-	0:14:17.330000	0:14:18.388000
 .	-	-	-	0:14:17.330000	0:14:18.388000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:20.154000" end="0:14:23.196000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:20.154000" end="0:14:23.196000" persName="Informant 0357">
 hä	-	-	-	0:14:20.154000	0:14:20.562000
 ?	-	-	-	0:14:20.154000	0:14:20.562000
 <pause duration="0,7s"/>
@@ -3447,7 +3448,7 @@ das	-	-	-	0:14:22.562000	0:14:23.196000
 damit	-	-	-	0:14:22.562000	0:14:23.196000
 ?	-	-	-	0:14:22.562000	0:14:23.196000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:23.200000" end="0:14:32.164000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:23.200000" end="0:14:32.164000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:14:23.200000	0:14:26.404000
 *wennsd*	-	-	-	0:14:23.200000	0:14:26.404000
@@ -3475,7 +3476,7 @@ wenig	-	-	-	0:14:30.952000	0:14:32.164000
 ist	-	-	-	0:14:30.952000	0:14:32.164000
 .	-	-	-	0:14:30.952000	0:14:32.164000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:30.952000" end="0:14:34.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:30.952000" end="0:14:34.264000" persName="Informant 0357">
 ah	-	-	-	0:14:30.952000	0:14:32.164000
 so	-	-	-	0:14:30.952000	0:14:32.164000
 ,	-	-	-	0:14:30.952000	0:14:32.164000
@@ -3488,7 +3489,7 @@ nicht	-	-	-	0:14:32.164000	0:14:34.264000
 überholen	-	-	-	0:14:32.164000	0:14:34.264000
 .	-	-	-	0:14:32.164000	0:14:34.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:34.264000" end="0:14:39.784000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:34.264000" end="0:14:39.784000" persName="Informant 0363">
 nein	-	-	-	0:14:34.264000	0:14:36.228000
 oder	-	-	-	0:14:34.264000	0:14:36.228000
 daneben	-	-	-	0:14:34.264000	0:14:36.228000
@@ -3509,18 +3510,18 @@ Seite	-	-	-	0:14:37.844000	0:14:39.784000
 fahre	-	-	-	0:14:37.844000	0:14:39.784000
 .	-	-	-	0:14:37.844000	0:14:39.784000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:39.784000" end="0:14:40.456000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:39.784000" end="0:14:40.456000" persName="Informant 0357">
 warum	-	-	-	0:14:39.784000	0:14:40.456000
 ,	-	-	-	0:14:39.784000	0:14:40.456000
 ist	-	-	-	0:14:39.784000	0:14:40.456000
 dir	-	-	-	0:14:39.784000	0:14:40.456000
 das	-	-	-	0:14:39.784000	0:14:40.456000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:40.456000" end="0:14:41.588000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:40.456000" end="0:14:41.588000" persName="Informant 0363">
 (beim)	-	-	-	0:14:40.456000	0:14:41.588000
 Gegenverkehr	-	-	-	0:14:40.456000	0:14:41.588000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:40.456000" end="0:14:43.856000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:40.456000" end="0:14:43.856000" persName="Informant 0357">
 leicht	-	-	-	0:14:40.456000	0:14:41.588000
 schon	-	-	-	0:14:40.456000	0:14:41.588000
 einmal	-	-	-	0:14:40.456000	0:14:41.588000
@@ -3538,7 +3539,7 @@ gestanden	-	-	-	0:14:41.588000	0:14:43.856000
 bist	-	-	-	0:14:41.588000	0:14:43.856000
 ?	-	-	-	0:14:41.588000	0:14:43.856000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:43.856000" end="0:14:49.100000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:43.856000" end="0:14:49.100000" persName="Informant 0363">
 nein	-	-	-	0:14:43.856000	0:14:45.936000
 ,	-	-	-	0:14:43.856000	0:14:45.936000
 aber	-	-	-	0:14:43.856000	0:14:45.936000
@@ -3563,7 +3564,7 @@ runter	-	-	-	0:14:46.920000	0:14:47.956000
 .	-	-	-	0:14:46.920000	0:14:47.956000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:47.956000" end="0:14:50.396000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:47.956000" end="0:14:50.396000" persName="Informant 0357">
 <pause duration="1,2s"/>
 wo	-	-	-	0:14:49.100000	0:14:50.396000
 bist	-	-	-	0:14:49.100000	0:14:50.396000
@@ -3572,7 +3573,7 @@ leicht	-	-	-	0:14:49.100000	0:14:50.396000
 stehengeblieben	-	-	-	0:14:49.100000	0:14:50.396000
 ?	-	-	-	0:14:49.100000	0:14:50.396000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:50.400000" end="0:14:55.010000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:50.400000" end="0:14:55.010000" persName="Informant 0363">
 ähm	-	-	-	0:14:50.400000	0:14:53.828000
 <pause duration="0,6s"/>
 raus	-	-	-	0:14:50.400000	0:14:53.828000
@@ -3592,42 +3593,42 @@ fahren	-	-	-	0:14:53.832000	0:14:55.010000
 trauen	-	-	-	0:14:53.832000	0:14:55.010000
 .	-	-	-	0:14:53.832000	0:14:55.010000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:55.010000" end="0:14:56.303000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:55.010000" end="0:14:56.303000" persName="Informant 0357">
 <pause duration="0,8s"/>
 echt	-	-	-	0:14:55.010000	0:14:56.303000
 ?	-	-	-	0:14:55.010000	0:14:56.303000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:56.303000" end="0:14:56.775000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:56.303000" end="0:14:56.775000" persName="Informant 0363">
 ja	-	-	-	0:14:56.303000	0:14:56.775000
 .	-	-	-	0:14:56.303000	0:14:56.775000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:56.775000" end="0:14:58.028000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:56.775000" end="0:14:58.028000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ah	-	-	-	0:14:56.775000	0:14:58.028000
 so	-	-	-	0:14:56.775000	0:14:58.028000
 das	-	-	-	0:14:56.775000	0:14:58.028000
 /.	-	-	-	0:14:56.775000	0:14:58.028000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:58.028000" end="0:14:58.821000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:58.028000" end="0:14:58.821000" persName="Informant 0363">
 geht	-	-	-	0:14:58.028000	0:14:58.821000
 nicht	-	-	-	0:14:58.028000	0:14:58.821000
 anders	-	-	-	0:14:58.028000	0:14:58.821000
 .	-	-	-	0:14:58.028000	0:14:58.821000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:58.821000" end="0:14:59.757000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:14:58.821000" end="0:14:59.757000" persName="Informant 0357">
 <pause duration="0,6s"/>
 echt	-	-	-	0:14:58.821000	0:14:59.757000
 ?	-	-	-	0:14:58.821000	0:14:59.757000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:59.757000" end="0:15:00.392000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:14:59.757000" end="0:15:00.392000" persName="Informant 0363">
 ja	-	-	-	0:14:59.757000	0:15:00.392000
 .	-	-	-	0:14:59.757000	0:15:00.392000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:00.392000" end="0:15:01.153000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:00.392000" end="0:15:01.153000" persName="Informant 0357">
 aha	-	-	-	0:15:00.392000	0:15:01.153000
 .	-	-	-	0:15:00.392000	0:15:01.153000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:01.153000" end="0:15:05.510000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:01.153000" end="0:15:05.510000" persName="Informant 0363">
 hm	-	-	-	0:15:01.153000	0:15:01.660000
 .	-	-	-	0:15:01.153000	0:15:01.660000
 <pause duration="1,9s"/>
@@ -3640,7 +3641,7 @@ schmal	-	-	-	0:15:03.507000	0:15:04.407000
 .	-	-	-	0:15:03.507000	0:15:04.407000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:04.407000" end="0:15:10.257000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:04.407000" end="0:15:10.257000" persName="Informant 0357">
 <pause duration="1,1s"/>
 naja	-	-	-	0:15:05.507000	0:15:07.925000
 ,	-	-	-	0:15:05.507000	0:15:07.925000
@@ -3668,7 +3669,7 @@ weiße	-	-	-	0:15:08.717000	0:15:10.257000
 Linie	-	-	-	0:15:08.717000	0:15:10.257000
 .	-	-	-	0:15:08.717000	0:15:10.257000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:10.257000" end="0:15:11.392000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:10.257000" end="0:15:11.392000" persName="Informant 0363">
 ja	-	-	-	0:15:10.257000	0:15:11.392000
 gibt	-	-	-	0:15:10.257000	0:15:11.392000
 es	-	-	-	0:15:10.257000	0:15:11.392000
@@ -3676,15 +3677,15 @@ da	-	-	-	0:15:10.257000	0:15:11.392000
 nicht	-	-	-	0:15:10.257000	0:15:11.392000
 .	-	-	-	0:15:10.257000	0:15:11.392000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:11.392000" end="0:15:12.321000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:11.392000" end="0:15:12.321000" persName="Informant 0357">
 ah	-	-	-	0:15:11.392000	0:15:12.321000
 ja	-	-	-	0:15:11.392000	0:15:12.321000
 .	-	-	-	0:15:11.392000	0:15:12.321000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:12.321000" end="0:15:14.046000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:12.321000" end="0:15:14.046000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:12.321000" end="0:15:15.653000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:12.321000" end="0:15:15.653000" persName="Informant 0357">
 <pause duration="1,7s"/>
 das	-	-	-	0:15:14.046000	0:15:15.653000
 ist	-	-	-	0:15:14.046000	0:15:15.653000
@@ -3694,11 +3695,11 @@ typisch	-	-	-	0:15:14.046000	0:15:15.653000
 wienerisch	-	-	-	0:15:14.046000	0:15:15.653000
 ?	-	-	-	0:15:14.046000	0:15:15.653000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:15.653000" end="0:15:16.125000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:15.653000" end="0:15:16.125000" persName="Informant 0363">
 mhm	-	-	-	0:15:15.653000	0:15:16.125000
 .	-	-	-	0:15:15.653000	0:15:16.125000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:16.128000" end="0:15:20.489000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:16.128000" end="0:15:20.489000" persName="Informant 0357">
 <pause duration="0,9s"/>
 für	-	-	-	0:15:16.128000	0:15:20.489000
 mich	-	-	-	0:15:16.128000	0:15:20.489000
@@ -3711,13 +3712,13 @@ als	-	-	-	0:15:16.128000	0:15:20.489000
 Urlaubsgast	-	-	-	0:15:16.128000	0:15:20.489000
 .	-	-	-	0:15:16.128000	0:15:20.489000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:20.492000" end="0:15:24.178000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:20.492000" end="0:15:24.178000" persName="Informant 0363">
 <pause duration="0,9s"/>
 mhm	-	-	-	0:15:20.492000	0:15:21.989000
 .	-	-	-	0:15:20.492000	0:15:21.989000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:21.989000" end="0:15:25.985000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:21.989000" end="0:15:25.985000" persName="Informant 0357">
 <pause duration="2,2s"/>
 *dass*	-	-	-	0:15:24.178000	0:15:25.985000
 wohl	-	-	-	0:15:24.178000	0:15:25.985000
@@ -3725,7 +3726,7 @@ Streicheleinheiten	-	-	-	0:15:24.178000	0:15:25.985000
 brauchen	-	-	-	0:15:24.178000	0:15:25.985000
 .	-	-	-	0:15:24.178000	0:15:25.985000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:25.985000" end="0:15:27.617000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:25.985000" end="0:15:27.617000" persName="Informant 0363">
 sind	-	-	-	0:15:25.985000	0:15:27.617000
 alles	-	-	-	0:15:25.985000	0:15:27.617000
 ein	-	-	-	0:15:25.985000	0:15:27.617000
@@ -3733,19 +3734,19 @@ bissel	-	-	-	0:15:25.985000	0:15:27.617000
 Extrawürstel	-	-	-	0:15:25.985000	0:15:27.617000
 .	-	-	-	0:15:25.985000	0:15:27.617000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:27.617000" end="0:15:28.075000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:27.617000" end="0:15:28.075000" persName="Informant 0357">
 ja	-	-	-	0:15:27.617000	0:15:28.075000
 ,	-	-	-	0:15:27.617000	0:15:28.075000
 genau	-	-	-	0:15:27.617000	0:15:28.075000
 .	-	-	-	0:15:27.617000	0:15:28.075000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:28.075000" end="0:15:30.250000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:28.075000" end="0:15:30.250000" persName="Informant 0363">
 <pause duration="0,6s"/>
 hm	-	-	-	0:15:28.075000	0:15:29.085000
 .	-	-	-	0:15:28.075000	0:15:29.085000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:29.085000" end="0:15:35.332000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:29.085000" end="0:15:35.332000" persName="Informant 0357">
 <pause duration="1,2s"/>
 und	-	-	-	0:15:30.251000	0:15:32.200000
 *wennsd*	-	-	-	0:15:30.251000	0:15:32.200000
@@ -3777,9 +3778,9 @@ schon	-	-	-	0:15:34.200000	0:15:35.332000
 aus	-	-	-	0:15:34.200000	0:15:35.332000
 .	-	-	-	0:15:34.200000	0:15:35.332000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:35.332000" end="0:15:38.253000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:35.332000" end="0:15:38.253000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:35.332000" end="0:15:39.988000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:35.332000" end="0:15:39.988000" persName="Informant 0357">
 was	-	-	-	0:15:38.253000	0:15:39.988000
 ist	-	-	-	0:15:38.253000	0:15:39.988000
 das	-	-	-	0:15:38.253000	0:15:39.988000
@@ -3789,7 +3790,7 @@ grüne	-	-	-	0:15:38.253000	0:15:39.988000
 Zettel	-	-	-	0:15:38.253000	0:15:39.988000
 ?	-	-	-	0:15:38.253000	0:15:39.988000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:39.988000" end="0:15:45.624000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:15:39.988000" end="0:15:45.624000" persName="Informant 0363">
 <pause duration="1,6s"/>
 "erzähle	-	-	-	0:15:41.608000	0:15:42.928000
 von	-	-	-	0:15:41.608000	0:15:42.928000
@@ -3798,7 +3799,7 @@ Kindheit"	-	-	-	0:15:41.608000	0:15:42.928000
 .	-	-	-	0:15:41.608000	0:15:42.928000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:42.928000" end="0:16:01.280000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:15:42.928000" end="0:16:01.280000" persName="Informant 0357">
 <pause duration="2,7s"/>
 meine	-	-	-	0:15:45.624000	0:15:46.744000
 Kindheit	-	-	-	0:15:45.624000	0:15:46.744000
@@ -3807,7 +3808,7 @@ hm	-	-	-	0:15:46.744000	0:15:48.292000
 ,	-	-	-	0:15:46.744000	0:15:48.292000
 meine	-	-	-	0:15:48.296000	0:15:53.228000
 ersten	-	-	-	0:15:48.296000	0:15:53.228000
-fünf	-	-	-	0:15:48.296000	0:15:53.228000
+ZAHL	ZAHL	-	-	0:15:48.296000	0:15:53.228000
 Lebensjahre	-	-	-	0:15:48.296000	0:15:53.228000
 habe	-	-	-	0:15:48.296000	0:15:53.228000
 ich	-	-	-	0:15:48.296000	0:15:53.228000
@@ -3817,7 +3818,7 @@ Oma	-	-	-	0:15:48.296000	0:15:53.228000
 drüben	-	-	-	0:15:48.296000	0:15:53.228000
 gewohnt	-	-	-	0:15:48.296000	0:15:53.228000
 in	-	-	-	0:15:48.296000	0:15:53.228000
-[Passail]O	-	-	-	0:15:48.296000	0:15:53.228000
+ORT	ORT	-	-	0:15:48.296000	0:15:53.228000
 ,	-	-	-	0:15:48.296000	0:15:53.228000
 Marktplatz	-	-	-	0:15:48.296000	0:15:53.228000
 .	-	-	-	0:15:48.296000	0:15:53.228000
@@ -3835,31 +3836,31 @@ hat	-	-	-	0:15:55.840000	0:16:01.280000
 damals	-	-	-	0:15:55.840000	0:16:01.280000
 noch	-	-	-	0:15:55.840000	0:16:01.280000
 beim	-	-	-	0:15:55.840000	0:16:01.280000
-[Gaulhofer]S	-	-	-	0:15:55.840000	0:16:01.280000
+SONSTIGE	SONSTIGE	-	-	0:15:55.840000	0:16:01.280000
 in	-	-	-	0:15:55.840000	0:16:01.280000
 <pause duration="1,4s"/>
 ähm	-	-	-	0:15:55.840000	0:16:01.280000
-Übelbach	-	-	-	0:15:55.840000	0:16:01.280000
+ORT	ORT	-	-	0:15:55.840000	0:16:01.280000
 /.	-	-	-	0:15:55.840000	0:16:01.280000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:01.280000" end="0:16:03.788000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:01.280000" end="0:16:03.788000" persName="Informant 0363">
 Frohnleiten	-	-	-	0:16:01.280000	0:16:03.788000
 .	-	-	-	0:16:01.280000	0:16:03.788000
 <pause duration="0,9s"/>
 <pause duration="0,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:03.788000" end="0:16:04.716000">
-[Gaulhofer]S	-	-	-	0:16:03.788000	0:16:04.716000
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:03.788000" end="0:16:04.716000" persName="Informant 0357">
+SONSTIGE	SONSTIGE	-	-	0:16:03.788000	0:16:04.716000
 war	-	-	-	0:16:03.788000	0:16:04.716000
 nie	-	-	-	0:16:03.788000	0:16:04.716000
 in	-	-	-	0:16:03.788000	0:16:04.716000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:04.716000" end="0:16:05.246000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:04.716000" end="0:16:05.246000" persName="Informant 0363">
 .	-	-	-	0:16:04.716000	0:16:05.246000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:04.716000" end="0:16:20.788000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:04.716000" end="0:16:20.788000" persName="Informant 0357">
 Frohnleiten	-	-	-	0:16:04.716000	0:16:05.246000
-Übelbach	-	-	-	0:16:05.246000	0:16:06.336000
+ORT	ORT	-	-	0:16:05.246000	0:16:06.336000
 ist	-	-	-	0:16:05.246000	0:16:06.336000
 das	-	-	-	0:16:05.246000	0:16:06.336000
 drinnen	-	-	-	0:16:05.246000	0:16:06.336000
@@ -3870,7 +3871,7 @@ jeden	-	-	-	0:16:06.336000	0:16:07.552000
 /.	-	-	-	0:16:06.336000	0:16:07.552000
 ich	-	-	-	0:16:07.552000	0:16:08.448000
 glaube	-	-	-	0:16:07.552000	0:16:08.448000
-Übelbach	-	-	-	0:16:07.552000	0:16:08.448000
+ORT	ORT	-	-	0:16:07.552000	0:16:08.448000
 .	-	-	-	0:16:07.552000	0:16:08.448000
 <pause duration="0,5s"/>
 auf	-	-	-	0:16:08.448000	0:16:11.792000
@@ -3880,7 +3881,7 @@ hat	-	-	-	0:16:08.448000	0:16:11.792000
 der	-	-	-	0:16:08.448000	0:16:11.792000
 Opa	-	-	-	0:16:08.448000	0:16:11.792000
 beim	-	-	-	0:16:08.448000	0:16:11.792000
-[Gaulhofer]S	-	-	-	0:16:08.448000	0:16:11.792000
+SONSTIGE	SONSTIGE	-	-	0:16:08.448000	0:16:11.792000
 gearbeitet	-	-	-	0:16:08.448000	0:16:11.792000
 ,	-	-	-	0:16:08.448000	0:16:11.792000
 Schicht	-	-	-	0:16:11.794000	0:16:12.474000
@@ -3927,11 +3928,11 @@ was	-	-	-	0:16:19.572000	0:16:20.788000
 gebraucht	-	-	-	0:16:19.572000	0:16:20.788000
 .	-	-	-	0:16:19.572000	0:16:20.788000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:20.788000" end="0:16:21.068000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:20.788000" end="0:16:21.068000" persName="Informant 0363">
 mhm	-	-	-	0:16:20.788000	0:16:21.068000
 .	-	-	-	0:16:20.788000	0:16:21.068000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:21.068000" end="0:16:27.400000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:21.068000" end="0:16:27.400000" persName="Informant 0357">
 oder	-	-	-	0:16:21.068000	0:16:21.656000
 hat	-	-	-	0:16:21.068000	0:16:21.656000
 /?	-	-	-	0:16:21.068000	0:16:21.656000
@@ -3946,20 +3947,20 @@ wohl	-	-	-	0:16:23.560000	0:16:25.400000
 er	-	-	-	0:16:23.560000	0:16:25.400000
 war	-	-	-	0:16:23.560000	0:16:25.400000
 beim	-	-	-	0:16:23.560000	0:16:25.400000
-[(Gaulhofer)]S	-	-	-	0:16:23.560000	0:16:25.400000
+SONSTIGE	SONSTIGE	-	-	0:16:23.560000	0:16:25.400000
 drüben	-	-	-	0:16:23.560000	0:16:25.400000
 ,	-	-	-	0:16:23.560000	0:16:25.400000
 und	-	-	-	0:16:25.400000	0:16:27.400000
 beim	-	-	-	0:16:25.400000	0:16:27.400000
-[Niederl	-	-	-	0:16:25.400000	0:16:27.400000
-Sepp]N	-	-	-	0:16:25.400000	0:16:27.400000
+NAME	NAME	-	-	0:16:25.400000	0:16:27.400000
+NAME	NAME	-	-	0:16:25.400000	0:16:27.400000
 war	-	-	-	0:16:25.400000	0:16:27.400000
 er	-	-	-	0:16:25.400000	0:16:27.400000
 auch	-	-	-	0:16:25.400000	0:16:27.400000
 einmal	-	-	-	0:16:25.400000	0:16:27.400000
 .	-	-	-	0:16:25.400000	0:16:27.400000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:27.400000" end="0:16:28.968000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:27.400000" end="0:16:28.968000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ja	-	-	-	0:16:27.400000	0:16:28.968000
 ,	-	-	-	0:16:27.400000	0:16:28.968000
@@ -3970,7 +3971,7 @@ vorher	-	-	-	0:16:27.400000	0:16:28.968000
 noch	-	-	-	0:16:27.400000	0:16:28.968000
 .	-	-	-	0:16:27.400000	0:16:28.968000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:28.968000" end="0:16:55.960000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:28.968000" end="0:16:55.960000" persName="Informant 0357">
 <pause duration="0,5s"/>
 ja	-	-	-	0:16:28.968000	0:16:29.876000
 .	-	-	-	0:16:28.968000	0:16:29.876000
@@ -4005,7 +4006,7 @@ nach	-	-	-	0:16:35.096000	0:16:38.180000
 Fisch/	-	-	-	0:16:35.096000	0:16:38.180000
 also	-	-	-	0:16:35.096000	0:16:38.180000
 nach	-	-	-	0:16:35.096000	0:16:38.180000
-[Falkenstein]O	-	-	-	0:16:35.096000	0:16:38.180000
+ORT	ORT	-	-	0:16:35.096000	0:16:38.180000
 rübergezogen	-	-	-	0:16:35.096000	0:16:38.180000
 ,	-	-	-	0:16:35.096000	0:16:38.180000
 meine	-	-	-	0:16:38.180000	0:16:39.528000
@@ -4037,7 +4038,7 @@ gekommen	-	-	-	0:16:42.258000	0:16:44.058000
 ,	-	-	-	0:16:42.258000	0:16:44.058000
 <pause duration="0,6s"/>
 der	-	-	-	0:16:44.058000	0:16:45.205000
-[Thomas]N	-	-	-	0:16:44.058000	0:16:45.205000
+NAME	NAME	-	-	0:16:44.058000	0:16:45.205000
 .	-	-	-	0:16:44.058000	0:16:45.205000
 <pause duration="1,7s"/>
 ich	-	-	-	0:16:46.874000	0:16:47.722000
@@ -4060,11 +4061,11 @@ Kindergarten	-	-	-	0:16:54.472000	0:16:55.600000
 ich	-	-	-	0:16:55.600000	0:16:55.960000
 bin	-	-	-	0:16:55.600000	0:16:55.960000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:55.960000" end="0:16:56.364000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:16:55.960000" end="0:16:56.364000" persName="Informant 0363">
 mhm	-	-	-	0:16:55.960000	0:16:56.364000
 .	-	-	-	0:16:55.960000	0:16:56.364000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:55.960000" end="0:17:00.716000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:16:55.960000" end="0:17:00.716000" persName="Informant 0357">
 nur	-	-	-	0:16:55.960000	0:16:56.364000
 /.	-	-	-	0:16:55.960000	0:16:56.364000
 ich	-	-	-	0:16:56.364000	0:16:59.524000
@@ -4077,11 +4078,11 @@ gegangen	-	-	-	0:16:56.364000	0:16:59.524000
 .	-	-	-	0:16:56.364000	0:16:59.524000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:00.716000" end="0:17:01.064000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:00.716000" end="0:17:01.064000" persName="Informant 0363">
 mhm	-	-	-	0:17:00.716000	0:17:01.064000
 .	-	-	-	0:17:00.716000	0:17:01.064000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:01.064000" end="0:17:03.469000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:01.064000" end="0:17:03.469000" persName="Informant 0357">
 ja	-	-	-	0:17:01.064000	0:17:02.669000
 Schule	-	-	-	0:17:01.064000	0:17:02.669000
 bin	-	-	-	0:17:01.064000	0:17:02.669000
@@ -4098,20 +4099,20 @@ voll	-	-	-	0:17:02.669000	0:17:03.469000
 geil	-	-	-	0:17:02.669000	0:17:03.469000
 .	-	-	-	0:17:02.669000	0:17:03.469000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:03.469000" end="0:17:04.665000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:03.469000" end="0:17:04.665000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:04.665000" end="0:17:05.367000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:04.665000" end="0:17:05.367000" persName="Informant 0357">
 und	-	-	-	0:17:04.665000	0:17:05.367000
 dann	-	-	-	0:17:04.665000	0:17:05.367000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:05.367000" end="0:17:06.336000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:05.367000" end="0:17:06.336000" persName="Informant 0363">
 ist	-	-	-	0:17:05.367000	0:17:06.336000
 eh	-	-	-	0:17:05.367000	0:17:06.336000
 nicht	-	-	-	0:17:05.367000	0:17:06.336000
 weit	-	-	-	0:17:05.367000	0:17:06.336000
 .	-	-	-	0:17:05.367000	0:17:06.336000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:05.367000" end="0:17:29.666000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:05.367000" end="0:17:29.666000" persName="Informant 0357">
 /.	-	-	-	0:17:05.367000	0:17:06.336000
 ha/	-	-	-	0:17:06.336000	0:17:07.704000
 nein	-	-	-	0:17:06.336000	0:17:07.704000
@@ -4129,7 +4130,7 @@ wir	-	-	-	0:17:07.704000	0:17:10.856000
 Hauptschule	-	-	-	0:17:07.704000	0:17:10.856000
 gewesen	-	-	-	0:17:07.704000	0:17:10.856000
 in	-	-	-	0:17:07.704000	0:17:10.856000
-[Ratten]O	-	-	-	0:17:07.704000	0:17:10.856000
+ORT	ORT	-	-	0:17:07.704000	0:17:10.856000
 drinnen	-	-	-	0:17:07.704000	0:17:10.856000
 und	-	-	-	0:17:10.856000	0:17:12.214000
 im	-	-	-	0:17:10.856000	0:17:12.214000
@@ -4156,7 +4157,7 @@ und	-	-	-	0:17:16.262000	0:17:17.300000
 im	-	-	-	0:17:16.262000	0:17:17.300000
 Winter	-	-	-	0:17:16.262000	0:17:17.300000
 ,	-	-	-	0:17:16.262000	0:17:17.300000
-[Falkenstein]O	-	-	-	0:17:17.300000	0:17:19.858000
+ORT	ORT	-	-	0:17:17.300000	0:17:19.858000
 rauf	-	-	-	0:17:17.300000	0:17:19.858000
 im	-	-	-	0:17:17.300000	0:17:19.858000
 Winter	-	-	-	0:17:17.300000	0:17:19.858000
@@ -4212,9 +4213,9 @@ in	-	-	-	0:17:28.560000	0:17:29.666000
 die	-	-	-	0:17:28.560000	0:17:29.666000
 Ladefläche	-	-	-	0:17:28.560000	0:17:29.666000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:29.666000" end="0:17:30.949000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:29.666000" end="0:17:30.949000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:29.666000" end="0:17:32.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:29.666000" end="0:17:32.752000" persName="Informant 0357">
 sozusagen	-	-	-	0:17:29.666000	0:17:30.949000
 ,	-	-	-	0:17:29.666000	0:17:30.949000
 weil	-	-	-	0:17:30.949000	0:17:32.752000
@@ -4226,22 +4227,22 @@ ein	-	-	-	0:17:30.949000	0:17:32.752000
 Hinterradantrieb	-	-	-	0:17:30.949000	0:17:32.752000
 .	-	-	-	0:17:30.949000	0:17:32.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:32.752000" end="0:17:33.820000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:32.752000" end="0:17:33.820000" persName="Informant 0363">
 ((0,7s))	-	-	-	0:17:32.752000	0:17:33.820000
 hm	-	-	-	0:17:32.752000	0:17:33.820000
 .	-	-	-	0:17:32.752000	0:17:33.820000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:33.819000" end="0:17:34.084000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:33.819000" end="0:17:34.084000" persName="Informant 0357">
 keiner	-	-	-	0:17:33.819000	0:17:34.084000
 ?	-	-	-	0:17:33.819000	0:17:34.084000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:34.084000" end="0:17:36.889000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:34.084000" end="0:17:36.889000" persName="Informant 0363">
 VWBus	-	-	-	0:17:34.084000	0:17:35.497000
 eher	-	-	-	0:17:34.084000	0:17:35.497000
 nich	-	-	-	0:17:34.084000	0:17:35.497000
 .	-	-	-	0:17:34.084000	0:17:35.497000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:35.497000" end="0:17:36.889000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:35.497000" end="0:17:36.889000" persName="Informant 0357">
 nein	-	-	-	0:17:35.497000	0:17:36.889000
 ,	-	-	-	0:17:35.497000	0:17:36.889000
 das	-	-	-	0:17:35.497000	0:17:36.889000
@@ -4251,11 +4252,11 @@ ein	-	-	-	0:17:35.497000	0:17:36.889000
 Hinterrad	-	-	-	0:17:35.497000	0:17:36.889000
 ,	-	-	-	0:17:35.497000	0:17:36.889000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:36.889000" end="0:17:37.318000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:36.889000" end="0:17:37.318000" persName="Informant 0363">
 ja	-	-	-	0:17:36.889000	0:17:37.318000
 .	-	-	-	0:17:36.889000	0:17:37.318000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:36.889000" end="0:17:43.058000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:36.889000" end="0:17:43.058000" persName="Informant 0357">
 so	-	-	-	0:17:36.889000	0:17:37.318000
 wie	-	-	-	0:17:36.889000	0:17:37.318000
 beim	-	-	-	0:17:37.318000	0:17:37.884000
@@ -4284,12 +4285,12 @@ bei	-	-	-	0:17:39.781000	0:17:43.058000
 die	-	-	-	0:17:39.781000	0:17:43.058000
 /.	-	-	-	0:17:39.781000	0:17:43.058000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:43.058000" end="0:17:43.802000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:43.058000" end="0:17:43.802000" persName="Informant 0363">
 *dass*	-	-	-	0:17:43.058000	0:17:43.802000
 raufkommt	-	-	-	0:17:43.058000	0:17:43.802000
 .	-	-	-	0:17:43.058000	0:17:43.802000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:43.802000" end="0:17:45.517000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:43.802000" end="0:17:45.517000" persName="Informant 0357">
 dass	-	-	-	0:17:43.802000	0:17:44.530000
 er	-	-	-	0:17:43.802000	0:17:44.530000
 raufkommt	-	-	-	0:17:43.802000	0:17:44.530000
@@ -4301,9 +4302,9 @@ voll	-	-	-	0:17:44.530000	0:17:45.517000
 geil	-	-	-	0:17:44.530000	0:17:45.517000
 .	-	-	-	0:17:44.530000	0:17:45.517000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:45.517000" end="0:17:45.714000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:45.517000" end="0:17:45.714000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:45.517000" end="0:17:48.712000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:45.517000" end="0:17:48.712000" persName="Informant 0357">
 im	-	-	-	0:17:45.517000	0:17:45.714000
 Nachhinein	-	-	-	0:17:45.717000	0:17:46.629000
 betrachtet	-	-	-	0:17:45.717000	0:17:46.629000
@@ -4317,11 +4318,11 @@ Schuss	-	-	-	0:17:46.629000	0:17:48.712000
 gehabt	-	-	-	0:17:46.629000	0:17:48.712000
 ,	-	-	-	0:17:46.629000	0:17:48.712000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:48.712000" end="0:17:49.124000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:48.712000" end="0:17:49.124000" persName="Informant 0363">
 ja	-	-	-	0:17:48.712000	0:17:49.124000
 .	-	-	-	0:17:48.712000	0:17:49.124000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:49.125000" end="0:17:55.176000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:49.125000" end="0:17:55.176000" persName="Informant 0357">
 weil	-	-	-	0:17:49.125000	0:17:50.389000
 das	-	-	-	0:17:49.125000	0:17:50.389000
 ist	-	-	-	0:17:49.125000	0:17:50.389000
@@ -4344,7 +4345,7 @@ Halligalli	-	-	-	0:17:54.184000	0:17:55.176000
 gemacht	-	-	-	0:17:54.184000	0:17:55.176000
 .	-	-	-	0:17:54.184000	0:17:55.176000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:55.176000" end="0:17:56.548000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:55.176000" end="0:17:56.548000" persName="Informant 0363">
 (es	-	-	-	0:17:55.176000	0:17:56.548000
 waren	-	-	-	0:17:55.176000	0:17:56.548000
 früher	-	-	-	0:17:55.176000	0:17:56.548000
@@ -4353,23 +4354,23 @@ Zeiten	-	-	-	0:17:55.176000	0:17:56.548000
 so)	-	-	-	0:17:55.176000	0:17:56.548000
 .	-	-	-	0:17:55.176000	0:17:56.548000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:55.176000" end="0:17:56.548000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:55.176000" end="0:17:56.548000" persName="Informant 0357">
 und	-	-	-	0:17:55.176000	0:17:56.548000
 (mit)	-	-	-	0:17:55.176000	0:17:56.548000
 /.	-	-	-	0:17:55.176000	0:17:56.548000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:56.548000" end="0:17:57.708000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:56.548000" end="0:17:57.708000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:57.708000" end="0:17:59.788000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:57.708000" end="0:17:59.788000" persName="Informant 0357">
 <pause duration="1,2s"/>
 ja	-	-	-	0:17:58.948000	0:17:59.788000
 .	-	-	-	0:17:58.948000	0:17:59.788000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:59.788000" end="0:18:00.904000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:17:59.788000" end="0:18:00.904000" persName="Informant 0363">
 mhm	-	-	-	0:17:59.788000	0:18:00.904000
 .	-	-	-	0:17:59.788000	0:18:00.904000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:59.788000" end="0:18:02.948000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:17:59.788000" end="0:18:02.948000" persName="Informant 0357">
 dann	-	-	-	0:17:59.788000	0:18:00.904000
 bin	-	-	-	0:18:00.904000	0:18:02.948000
 ich	-	-	-	0:18:00.904000	0:18:02.948000
@@ -4377,17 +4378,17 @@ ich	-	-	-	0:18:00.904000	0:18:02.948000
 gekommen	-	-	-	0:18:00.904000	0:18:02.948000
 .	-	-	-	0:18:00.904000	0:18:02.948000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:02.948000" end="0:18:04.228000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:02.948000" end="0:18:04.228000" persName="Informant 0363">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:02.948000" end="0:18:04.228000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:02.948000" end="0:18:04.228000" persName="Informant 0357">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:04.228000" end="0:18:04.592000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:04.228000" end="0:18:04.592000" persName="Informant 0363">
 mhm	-	-	-	0:18:04.228000	0:18:04.592000
 .	-	-	-	0:18:04.228000	0:18:04.592000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:04.592000" end="0:18:08.800000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:04.592000" end="0:18:08.800000" persName="Informant 0357">
 und	-	-	-	0:18:04.592000	0:18:05.832000
 dann	-	-	-	0:18:04.592000	0:18:05.832000
 habe	-	-	-	0:18:04.592000	0:18:05.832000
@@ -4406,13 +4407,13 @@ einmal	-	-	-	0:18:05.832000	0:18:08.800000
 kennengelernt	-	-	-	0:18:05.832000	0:18:08.800000
 .	-	-	-	0:18:05.832000	0:18:08.800000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:08.800000" end="0:18:10.060000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:08.800000" end="0:18:10.060000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:08.800000" end="0:18:10.060000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:08.800000" end="0:18:10.060000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:10.060000" end="0:18:10.772000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:10.060000" end="0:18:10.772000" persName="Informant 0363">
 das	-	-	-	0:18:10.060000	0:18:10.772000
 war	-	-	-	0:18:10.060000	0:18:10.772000
 in	-	-	-	0:18:10.060000	0:18:10.772000
@@ -4421,7 +4422,7 @@ Hauptschule	-	-	-	0:18:10.060000	0:18:10.772000
 noch	-	-	-	0:18:10.060000	0:18:10.772000
 .	-	-	-	0:18:10.060000	0:18:10.772000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:10.060000" end="0:18:11.492000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:10.060000" end="0:18:11.492000" persName="Informant 0357">
 das	-	-	-	0:18:10.060000	0:18:10.772000
 war	-	-	-	0:18:10.772000	0:18:11.492000
 in	-	-	-	0:18:10.772000	0:18:11.492000
@@ -4431,19 +4432,19 @@ Hauptschule	-	-	-	0:18:10.772000	0:18:11.492000
 ja	-	-	-	0:18:10.772000	0:18:11.492000
 .	-	-	-	0:18:10.772000	0:18:11.492000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:11.492000" end="0:18:13.832000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:11.492000" end="0:18:13.832000" persName="Informant 0363">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:11.492000" end="0:18:14.124000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:11.492000" end="0:18:14.124000" persName="Informant 0357">
 <pause duration="2,3s"/>
 ja	-	-	-	0:18:13.832000	0:18:14.124000
 ,	-	-	-	0:18:13.832000	0:18:14.124000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:14.124000" end="0:18:14.724000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:14.124000" end="0:18:14.724000" persName="Informant 0363">
 mhm	-	-	-	0:18:14.124000	0:18:14.724000
 .	-	-	-	0:18:14.124000	0:18:14.724000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:14.124000" end="0:18:17.116000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:14.124000" end="0:18:17.116000" persName="Informant 0357">
 und	-	-	-	0:18:14.124000	0:18:14.724000
 jetzt	-	-	-	0:18:14.124000	0:18:14.724000
 bin	-	-	-	0:18:14.724000	0:18:15.112000
@@ -4459,7 +4460,7 @@ bist	-	-	-	0:18:16.524000	0:18:17.116000
 du	-	-	-	0:18:16.524000	0:18:17.116000
 /?	-	-	-	0:18:16.524000	0:18:17.116000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:17.116000" end="0:18:21.808000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:17.116000" end="0:18:21.808000" persName="Informant 0363">
 <pause duration="0,5s"/>
 hm	-	-	-	0:18:17.116000	0:18:17.816000
 .	-	-	-	0:18:17.116000	0:18:17.816000
@@ -4474,14 +4475,14 @@ Jahr	-	-	-	0:18:20.472000	0:18:21.808000
 Kindergarten	-	-	-	0:18:20.472000	0:18:21.808000
 /.	-	-	-	0:18:20.472000	0:18:21.808000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:21.808000" end="0:18:23.176000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:21.808000" end="0:18:23.176000" persName="Informant 0357">
 <pause duration="0,5s"/>
 nicht	-	-	-	0:18:21.808000	0:18:23.176000
 zwei	-	-	-	0:18:21.808000	0:18:23.176000
 Jahre	-	-	-	0:18:21.808000	0:18:23.176000
 ?	-	-	-	0:18:21.808000	0:18:23.176000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:23.176000" end="0:18:25.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:23.176000" end="0:18:25.740000" persName="Informant 0363">
 nein	-	-	-	0:18:23.176000	0:18:24.024000
 ,	-	-	-	0:18:23.176000	0:18:24.024000
 ein	-	-	-	0:18:23.176000	0:18:24.024000
@@ -4493,7 +4494,7 @@ Jahr	-	-	-	0:18:24.024000	0:18:25.740000
 Kindergarten	-	-	-	0:18:24.024000	0:18:25.740000
 /.	-	-	-	0:18:24.024000	0:18:25.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:25.740000" end="0:18:27.516000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:25.740000" end="0:18:27.516000" persName="Informant 0357">
 *kannst*	-	-	-	0:18:25.740000	0:18:27.516000
 dich	-	-	-	0:18:25.740000	0:18:27.516000
 von	-	-	-	0:18:25.740000	0:18:27.516000
@@ -4503,7 +4504,7 @@ irgendwas	-	-	-	0:18:25.740000	0:18:27.516000
 erinnern	-	-	-	0:18:25.740000	0:18:27.516000
 ?	-	-	-	0:18:25.740000	0:18:27.516000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:27.516000" end="0:18:37.360000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:27.516000" end="0:18:37.360000" persName="Informant 0363">
 mm	-	-	-	0:18:27.516000	0:18:28.804000
 ,	-	-	-	0:18:27.516000	0:18:28.804000
 nicht	-	-	-	0:18:27.516000	0:18:28.804000
@@ -4516,18 +4517,18 @@ die	-	-	-	0:18:30.544000	0:18:33.136000
 Volksschule	-	-	-	0:18:30.544000	0:18:33.136000
 <pause duration="0,5s"/>
 in	-	-	-	0:18:30.544000	0:18:33.136000
-[Passail]O	-	-	-	0:18:30.544000	0:18:33.136000
+ORT	ORT	-	-	0:18:30.544000	0:18:33.136000
 ,	-	-	-	0:18:30.544000	0:18:33.136000
 (dann)	-	-	-	0:18:33.136000	0:18:35.776000
 <pause duration="0,8s"/>
 die	-	-	-	0:18:33.136000	0:18:35.776000
 Hauptschule	-	-	-	0:18:33.136000	0:18:35.776000
 in	-	-	-	0:18:33.136000	0:18:35.776000
-[Passail]O	-	-	-	0:18:33.136000	0:18:35.776000
+ORT	ORT	-	-	0:18:33.136000	0:18:35.776000
 .	-	-	-	0:18:33.136000	0:18:35.776000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:35.776000" end="0:18:38.720000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:35.776000" end="0:18:38.720000" persName="Informant 0357">
 <pause duration="1,6s"/>
 *kannst*	-	-	-	0:18:37.360000	0:18:38.720000
 das	-	-	-	0:18:37.360000	0:18:38.720000
@@ -4535,13 +4536,13 @@ ein	-	-	-	0:18:37.360000	0:18:38.720000
 bissel	-	-	-	0:18:37.360000	0:18:38.720000
 ausschmücken	-	-	-	0:18:37.360000	0:18:38.720000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:38.720000" end="0:18:39.416000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:38.720000" end="0:18:39.416000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:38.720000" end="0:18:39.416000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:38.720000" end="0:18:39.416000" persName="Informant 0357">
 bitte	-	-	-	0:18:38.720000	0:18:39.416000
 ?	-	-	-	0:18:38.720000	0:18:39.416000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:39.416000" end="0:18:46.973000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:39.416000" end="0:18:46.973000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ganz	-	-	-	0:18:39.416000	0:18:41.036000
 normal	-	-	-	0:18:39.416000	0:18:41.036000
@@ -4555,11 +4556,11 @@ Jahre	-	-	-	0:18:41.036000	0:18:42.372000
 und	-	-	-	0:18:42.372000	0:18:43.940000
 dann	-	-	-	0:18:42.372000	0:18:43.940000
 nach	-	-	-	0:18:42.372000	0:18:43.940000
-[Kirchberg]O	-	-	-	0:18:42.372000	0:18:43.940000
+ORT	ORT	-	-	0:18:42.372000	0:18:43.940000
 .	-	-	-	0:18:42.372000	0:18:43.940000
 <pause duration="1,0s"/>
 in	-	-	-	0:18:44.973000	0:18:46.973000
-[Kirchberg]O	-	-	-	0:18:44.973000	0:18:46.973000
+ORT	ORT	-	-	0:18:44.973000	0:18:46.973000
 dort	-	-	-	0:18:44.973000	0:18:46.973000
 haben	-	-	-	0:18:44.973000	0:18:46.973000
 wir	-	-	-	0:18:44.973000	0:18:46.973000
@@ -4570,12 +4571,12 @@ im	-	-	-	0:18:44.973000	0:18:46.973000
 Internat	-	-	-	0:18:44.973000	0:18:46.973000
 .	-	-	-	0:18:44.973000	0:18:46.973000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:46.972000" end="0:18:47.940000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:46.972000" end="0:18:47.940000" persName="Informant 0357">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:18:46.972000	0:18:47.940000
 .	-	-	-	0:18:46.972000	0:18:47.940000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:47.940000" end="0:18:52.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:47.940000" end="0:18:52.220000" persName="Informant 0363">
 da	-	-	-	0:18:47.940000	0:18:49.420000
 *is*	-	-	-	0:18:47.940000	0:18:49.420000
 recht	-	-	-	0:18:47.940000	0:18:49.420000
@@ -4592,11 +4593,11 @@ kennengelernt	-	-	-	0:18:50.620000	0:18:52.220000
 (ja)	-	-	-	0:18:50.620000	0:18:52.220000
 .	-	-	-	0:18:50.620000	0:18:52.220000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:52.220000" end="0:18:52.756000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:18:52.220000" end="0:18:52.756000" persName="Informant 0357">
 mhm	-	-	-	0:18:52.220000	0:18:52.756000
 .	-	-	-	0:18:52.220000	0:18:52.756000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:52.756000" end="0:19:05.008000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:18:52.756000" end="0:19:05.008000" persName="Informant 0363">
 <pause duration="3,2s"/>
 und	-	-	-	0:18:55.940000	0:18:57.860000
 das	-	-	-	0:18:55.940000	0:18:57.860000
@@ -4616,16 +4617,16 @@ Gaudi	-	-	-	0:19:04.008000	0:19:05.008000
 machen	-	-	-	0:19:04.008000	0:19:05.008000
 .	-	-	-	0:19:04.008000	0:19:05.008000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:05.008000" end="0:19:06.460000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:05.008000" end="0:19:06.460000" persName="Informant 0357">
 <pause duration="1,0s"/>
 ja	-	-	-	0:19:05.976000	0:19:06.460000
 *hast*	-	-	-	0:19:05.976000	0:19:06.460000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:06.460000" end="0:19:06.978000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:06.460000" end="0:19:06.978000" persName="Informant 0363">
 (fertig)	-	-	-	0:19:06.460000	0:19:06.978000
 .	-	-	-	0:19:06.460000	0:19:06.978000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:06.460000" end="0:19:16.064000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:06.460000" end="0:19:16.064000" persName="Informant 0357">
 daheim	-	-	-	0:19:06.460000	0:19:06.978000
 <pause duration="0,6s"/>
 *hast*	-	-	-	0:19:06.980000	0:19:09.568000
@@ -4658,29 +4659,29 @@ du	-	-	-	0:19:13.576000	0:19:16.064000
 oben	-	-	-	0:19:13.576000	0:19:16.064000
 beim	-	-	-	0:19:13.576000	0:19:16.064000
 <pause duration="1,1s"/>
-[Thomas]N	-	-	-	0:19:13.576000	0:19:16.064000
+NAME	NAME	-	-	0:19:13.576000	0:19:16.064000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:16.064000" end="0:19:16.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:16.064000" end="0:19:16.792000" persName="Informant 0363">
 (wo	-	-	-	0:19:16.064000	0:19:16.792000
 jetzt	-	-	-	0:19:16.064000	0:19:16.792000
 der)	-	-	-	0:19:16.064000	0:19:16.792000
 /.	-	-	-	0:19:16.064000	0:19:16.792000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:16.064000" end="0:19:16.792000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:16.064000" end="0:19:16.792000" persName="Informant 0357">
 *hast*	-	-	-	0:19:16.064000	0:19:16.792000
 so	-	-	IRR	0:19:16.064000	0:19:16.792000
 eine	-	-	IRR	0:19:16.064000	0:19:16.792000
 Hütte	-	-	IRR	0:19:16.064000	0:19:16.792000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:16.792000" end="0:19:17.436000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:16.792000" end="0:19:17.436000" persName="Informant 0363">
 ja	-	-	-	0:19:16.792000	0:19:17.436000
 ,	-	-	-	0:19:16.792000	0:19:17.436000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:16.792000" end="0:19:17.436000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:16.792000" end="0:19:17.436000" persName="Informant 0357">
 gebaut	-	-	-	0:19:16.792000	0:19:17.436000
 .	-	-	-	0:19:16.792000	0:19:17.436000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:17.436000" end="0:19:18.484000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:17.436000" end="0:19:18.484000" persName="Informant 0363">
 wo	-	-	-	0:19:17.436000	0:19:18.484000
 jetzt	-	-	-	0:19:17.436000	0:19:18.484000
 der	-	-	-	0:19:17.436000	0:19:18.484000
@@ -4688,7 +4689,7 @@ Geisstall	-	-	-	0:19:17.436000	0:19:18.484000
 ist	-	-	-	0:19:17.436000	0:19:18.484000
 .	-	-	-	0:19:17.436000	0:19:18.484000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:18.484000" end="0:19:20.184000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:18.484000" end="0:19:20.184000" persName="Informant 0357">
 <pause duration="0,7s"/>
 ja	-	-	-	0:19:18.484000	0:19:20.184000
 was	-	-	-	0:19:18.484000	0:19:20.184000
@@ -4698,7 +4699,7 @@ genau	-	-	-	0:19:18.484000	0:19:20.184000
 gemacht	-	-	-	0:19:18.484000	0:19:20.184000
 ?	-	-	-	0:19:18.484000	0:19:20.184000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:20.184000" end="0:19:21.972000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:20.184000" end="0:19:21.972000" persName="Informant 0363">
 da	-	-	-	0:19:20.184000	0:19:21.972000
 habe	-	-	-	0:19:20.184000	0:19:21.972000
 ich	-	-	-	0:19:20.184000	0:19:21.972000
@@ -4710,16 +4711,16 @@ gebaut	-	-	-	0:19:20.184000	0:19:21.972000
 ja	-	-	-	0:19:20.184000	0:19:21.972000
 .	-	-	-	0:19:20.184000	0:19:21.972000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:21.968000" end="0:19:23.104000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:21.968000" end="0:19:23.104000" persName="Informant 0357">
 m/	-	-	-	0:19:21.968000	0:19:23.104000
 wie	-	-	-	0:19:21.968000	0:19:23.104000
 aus	-	-	-	0:19:21.968000	0:19:23.104000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:23.096000" end="0:19:23.864000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:23.096000" end="0:19:23.864000" persName="Informant 0363">
 ähm	-	-	-	0:19:23.096000	0:19:23.864000
 ,	-	-	-	0:19:23.096000	0:19:23.864000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:23.096000" end="0:19:25.286000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:23.096000" end="0:19:25.286000" persName="Informant 0357">
 Holz	-	-	-	0:19:23.096000	0:19:23.864000
 ,	-	-	-	0:19:23.096000	0:19:23.864000
 Stecken	-	-	-	0:19:23.096000	0:19:23.864000
@@ -4734,17 +4735,17 @@ genau	-	-	-	0:19:24.508000	0:19:25.286000
 gemacht	-	-	-	0:19:24.508000	0:19:25.286000
 ?	-	-	-	0:19:24.508000	0:19:25.286000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:25.286000" end="0:19:26.906000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:25.286000" end="0:19:26.906000" persName="Informant 0363">
 Betonsäulen	-	-	-	0:19:25.286000	0:19:26.114000
 ,	-	-	-	0:19:25.286000	0:19:26.114000
 betoniert	-	-	-	0:19:26.114000	0:19:26.906000
 ,	-	-	-	0:19:26.114000	0:19:26.906000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:26.114000" end="0:19:26.906000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:26.114000" end="0:19:26.906000" persName="Informant 0357">
 ja	-	-	-	0:19:26.114000	0:19:26.906000
 .	-	-	-	0:19:26.114000	0:19:26.906000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:26.906000" end="0:19:30.746000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:26.906000" end="0:19:30.746000" persName="Informant 0363">
 <pause duration="0,8s"/>
 und	-	-	-	0:19:27.722000	0:19:29.830000
 oben	-	-	-	0:19:27.722000	0:19:29.830000
@@ -4757,7 +4758,7 @@ Dach	-	-	-	0:19:29.830000	0:19:30.746000
 gedeckt	-	-	-	0:19:29.830000	0:19:30.746000
 .	-	-	-	0:19:29.830000	0:19:30.746000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:29.830000" end="0:19:31.556000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:29.830000" end="0:19:31.556000" persName="Informant 0357">
 wie	-	-	-	0:19:29.830000	0:19:30.746000
 groß	-	-	-	0:19:29.830000	0:19:30.746000
 war	-	-	-	0:19:30.746000	0:19:31.556000
@@ -4765,7 +4766,7 @@ das	-	-	-	0:19:30.746000	0:19:31.556000
 ungefähr	-	-	-	0:19:30.746000	0:19:31.556000
 ?	-	-	-	0:19:30.746000	0:19:31.556000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:31.556000" end="0:19:34.972000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:31.556000" end="0:19:34.972000" persName="Informant 0363">
 <pause duration="1,4s"/>
 hm	-	-	-	0:19:32.972000	0:19:34.972000
 ,	-	-	-	0:19:32.972000	0:19:34.972000
@@ -4773,12 +4774,12 @@ drei	-	-	-	0:19:32.972000	0:19:34.972000
 Meter	-	-	-	0:19:32.972000	0:19:34.972000
 mal	-	-	-	0:19:32.972000	0:19:34.972000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:34.972000" end="0:19:35.780000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:34.972000" end="0:19:35.780000" persName="Informant 0357">
 so	-	-	-	0:19:34.972000	0:19:35.780000
 groß	-	-	-	0:19:34.972000	0:19:35.780000
 ?	-	-	-	0:19:34.972000	0:19:35.780000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:35.780000" end="0:19:37.638000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:35.780000" end="0:19:37.638000" persName="Informant 0363">
 jaja	-	-	-	0:19:35.780000	0:19:36.190000
 ,	-	-	-	0:19:35.780000	0:19:36.190000
 mal	-	-	-	0:19:36.190000	0:19:37.638000
@@ -4786,7 +4787,7 @@ eineinhalb	-	-	-	0:19:36.190000	0:19:37.638000
 Meter	-	-	-	0:19:36.190000	0:19:37.638000
 .	-	-	-	0:19:36.190000	0:19:37.638000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:37.637000" end="0:19:41.248000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:37.637000" end="0:19:41.248000" persName="Informant 0357">
 und	-	-	-	0:19:37.637000	0:19:41.248000
 okay	-	-	-	0:19:37.637000	0:19:41.248000
 ,	-	-	-	0:19:37.637000	0:19:41.248000
@@ -4800,37 +4801,37 @@ gestellt	-	-	-	0:19:37.637000	0:19:41.248000
 oder	-	-	-	0:19:37.637000	0:19:41.248000
 was	-	-	-	0:19:37.637000	0:19:41.248000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:41.248000" end="0:19:42.008000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:41.248000" end="0:19:42.008000" persName="Informant 0363">
 ja	-	-	-	0:19:41.248000	0:19:42.008000
 alles	-	-	-	0:19:41.248000	0:19:42.008000
 ,	-	-	-	0:19:41.248000	0:19:42.008000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:41.248000" end="0:19:42.008000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:41.248000" end="0:19:42.008000" persName="Informant 0357">
 *hast*	-	-	-	0:19:41.248000	0:19:42.008000
 dort	-	-	-	0:19:41.248000	0:19:42.008000
 hineingetan	-	-	-	0:19:41.248000	0:19:42.008000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:42.008000" end="0:19:43.114000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:42.008000" end="0:19:43.114000" persName="Informant 0363">
 das	-	-	-	0:19:42.008000	0:19:43.114000
 war	-	-	-	0:19:42.008000	0:19:43.114000
 mein	-	-	-	0:19:42.008000	0:19:43.114000
 Stall	-	-	-	0:19:42.008000	0:19:43.114000
 und	-	-	-	0:19:42.008000	0:19:43.114000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:43.114000" end="0:19:43.394000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:43.114000" end="0:19:43.394000" persName="Informant 0357">
 mhm	-	-	-	0:19:43.114000	0:19:43.394000
 .	-	-	-	0:19:43.114000	0:19:43.394000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:43.394000" end="0:19:44.597000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:43.394000" end="0:19:44.597000" persName="Informant 0363">
 Zwischendecken	-	-	-	0:19:43.394000	0:19:44.597000
 drinnen	-	-	-	0:19:43.394000	0:19:44.597000
 ,	-	-	-	0:19:43.394000	0:19:44.597000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:44.597000" end="0:19:45.029000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:44.597000" end="0:19:45.029000" persName="Informant 0357">
 mhm	-	-	-	0:19:44.597000	0:19:45.029000
 .	-	-	-	0:19:44.597000	0:19:45.029000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:45.029000" end="0:19:51.480000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:45.029000" end="0:19:51.480000" persName="Informant 0363">
 <pause duration="1,1s"/>
 immer	-	-	-	0:19:46.170000	0:19:48.365000
 vom	-	-	-	0:19:46.170000	0:19:48.365000
@@ -4848,11 +4849,11 @@ die	-	-	-	0:19:49.360000	0:19:50.813000
 gedachten	-	-	-	0:19:49.360000	0:19:50.813000
 .	-	-	-	0:19:49.360000	0:19:50.813000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:50.813000" end="0:19:51.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:50.813000" end="0:19:51.480000" persName="Informant 0357">
 mhm	-	-	-	0:19:50.813000	0:19:51.480000
 .	-	-	-	0:19:50.813000	0:19:51.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:51.480000" end="0:19:56.892000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:51.480000" end="0:19:56.892000" persName="Informant 0363">
 <pause duration="1,5s"/>
 und	-	-	-	0:19:53.016000	0:19:55.293000
 <pause duration="1,2s"/>
@@ -4864,16 +4865,16 @@ dann	-	-	-	0:19:53.016000	0:19:55.293000
 .	-	-	-	0:19:53.016000	0:19:55.293000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:55.292000" end="0:19:57.210000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:55.292000" end="0:19:57.210000" persName="Informant 0357">
 <pause duration="1,6s"/>
 und	-	-	-	0:19:56.892000	0:19:57.210000
 dann	-	-	-	0:19:56.892000	0:19:57.210000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:57.210000" end="0:19:58.198000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:57.210000" end="0:19:58.198000" persName="Informant 0363">
 (mit)	-	-	-	0:19:57.210000	0:19:58.198000
 (dem)	-	-	-	0:19:57.210000	0:19:58.198000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:57.210000" end="0:19:58.852000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:19:57.210000" end="0:19:58.852000" persName="Informant 0357">
 *hast*	-	-	-	0:19:57.210000	0:19:58.198000
 einen	-	-	-	0:19:57.210000	0:19:58.198000
 Untermieter	-	-	-	0:19:57.210000	0:19:58.198000
@@ -4883,7 +4884,7 @@ gehabt	-	-	-	0:19:58.198000	0:19:58.852000
 gell	-	-	-	0:19:58.198000	0:19:58.852000
 ?	-	-	-	0:19:58.198000	0:19:58.852000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:58.852000" end="0:20:00.514000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:19:58.852000" end="0:20:00.514000" persName="Informant 0363">
 ja	-	-	-	0:19:58.852000	0:20:00.514000
 ,	-	-	-	0:19:58.852000	0:20:00.514000
 da	-	-	-	0:19:58.852000	0:20:00.514000
@@ -4895,46 +4896,46 @@ drinnen	-	-	-	0:19:58.852000	0:20:00.514000
 gehabt	-	-	-	0:19:58.852000	0:20:00.514000
 .	-	-	-	0:19:58.852000	0:20:00.514000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:00.514000" end="0:20:01.552000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:00.514000" end="0:20:01.552000" persName="Informant 0357">
 einen	-	-	-	0:20:00.514000	0:20:01.552000
 Dachs	-	-	-	0:20:00.514000	0:20:01.552000
 .	-	-	-	0:20:00.514000	0:20:01.552000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:01.552000" end="0:20:01.994000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:01.552000" end="0:20:01.994000" persName="Informant 0363">
 mhm	-	-	-	0:20:01.552000	0:20:01.994000
 .	-	-	-	0:20:01.552000	0:20:01.994000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:01.994000" end="0:20:03.448000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:01.994000" end="0:20:03.448000" persName="Informant 0357">
 der	-	-	-	0:20:01.994000	0:20:03.448000
 hat	-	-	-	0:20:01.994000	0:20:03.448000
 /.	-	-	-	0:20:01.994000	0:20:03.448000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:03.448000" end="0:20:04.530000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:03.448000" end="0:20:04.530000" persName="Informant 0363">
 er	-	-	-	0:20:03.448000	0:20:04.530000
 hat	-	-	-	0:20:03.448000	0:20:04.530000
 rausgepfaucht	-	-	-	0:20:03.448000	0:20:04.530000
 .	-	-	-	0:20:03.448000	0:20:04.530000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:04.530000" end="0:20:05.502000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:04.530000" end="0:20:05.502000" persName="Informant 0357">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:05.502000" end="0:20:06.028000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:05.502000" end="0:20:06.028000" persName="Informant 0363">
 es	-	-	-	0:20:05.502000	0:20:06.028000
 hat	-	-	-	0:20:05.502000	0:20:06.028000
 sich	-	-	-	0:20:05.502000	0:20:06.028000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:05.502000" end="0:20:06.028000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:05.502000" end="0:20:06.028000" persName="Informant 0357">
 haben	-	-	-	0:20:05.502000	0:20:06.028000
 /?	-	-	-	0:20:05.502000	0:20:06.028000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:06.028000" end="0:20:06.928000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:06.028000" end="0:20:06.928000" persName="Informant 0363">
 keiner	-	-	-	0:20:06.028000	0:20:06.928000
 mehr	-	-	-	0:20:06.028000	0:20:06.928000
 _zuwigeh_	-	-	-	0:20:06.028000	0:20:06.928000
 getraut	-	-	-	0:20:06.028000	0:20:06.928000
 .	-	-	-	0:20:06.028000	0:20:06.928000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:06.928000" end="0:20:08.676000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:06.928000" end="0:20:08.676000" persName="Informant 0357">
 und	-	-	-	0:20:06.928000	0:20:08.676000
 was	-	-	-	0:20:06.928000	0:20:08.676000
 /?	-	-	-	0:20:06.928000	0:20:08.676000
@@ -4945,7 +4946,7 @@ wer	-	-	-	0:20:06.928000	0:20:08.676000
 geschossen	-	-	-	0:20:06.928000	0:20:08.676000
 ?	-	-	-	0:20:06.928000	0:20:08.676000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:08.676000" end="0:20:15.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:08.676000" end="0:20:15.220000" persName="Informant 0363">
 Nachbar	-	-	-	0:20:08.676000	0:20:10.394000
 hat	-	-	-	0:20:08.676000	0:20:10.394000
 den	-	-	-	0:20:08.676000	0:20:10.394000
@@ -4954,11 +4955,11 @@ geschossen	-	-	-	0:20:08.676000	0:20:10.394000
 ,	-	-	-	0:20:08.676000	0:20:10.394000
 <pause duration="0,7s"/>
 der	-	-	-	0:20:10.394000	0:20:11.380000
-[Friedl]N	-	-	-	0:20:10.394000	0:20:11.380000
+NAME	NAME	-	-	0:20:10.394000	0:20:11.380000
 .	-	-	-	0:20:10.394000	0:20:11.380000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:11.380000" end="0:20:19.184000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:11.380000" end="0:20:19.184000" persName="Informant 0357">
 <pause duration="3,8s"/>
 aber	-	-	-	0:20:15.220000	0:20:16.264000
 ich	-	-	-	0:20:15.220000	0:20:16.264000
@@ -4980,7 +4981,7 @@ noch	-	-	-	0:20:17.184000	0:20:19.184000
 da	-	-	-	0:20:17.184000	0:20:19.184000
 .	-	-	-	0:20:17.184000	0:20:19.184000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:19.184000" end="0:20:20.448000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:19.184000" end="0:20:20.448000" persName="Informant 0363">
 war	-	-	-	0:20:19.184000	0:20:20.448000
 glaube	-	-	-	0:20:19.184000	0:20:20.448000
 ich	-	-	-	0:20:19.184000	0:20:20.448000
@@ -4989,17 +4990,17 @@ noch	-	-	-	0:20:19.184000	0:20:20.448000
 ja	-	-	-	0:20:19.184000	0:20:20.448000
 .	-	-	-	0:20:19.184000	0:20:20.448000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:20.448000" end="0:20:21.650000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:20.448000" end="0:20:21.650000" persName="Informant 0357">
 oder	-	-	-	0:20:20.448000	0:20:21.650000
 ein	-	-	-	0:20:20.448000	0:20:21.650000
 Teil	-	-	-	0:20:20.448000	0:20:21.650000
 davon	-	-	-	0:20:20.448000	0:20:21.650000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:21.650000" end="0:20:22.162000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:21.650000" end="0:20:22.162000" persName="Informant 0363">
 mhm	-	-	-	0:20:21.650000	0:20:22.162000
 .	-	-	-	0:20:21.650000	0:20:22.162000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:21.650000" end="0:20:23.654000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:21.650000" end="0:20:23.654000" persName="Informant 0357">
 halt	-	-	-	0:20:21.650000	0:20:22.162000
 .	-	-	-	0:20:21.650000	0:20:22.162000
 an	-	-	-	0:20:22.162000	0:20:23.654000
@@ -5011,12 +5012,12 @@ noch	-	-	-	0:20:22.162000	0:20:23.654000
 erinnern	-	-	-	0:20:22.162000	0:20:23.654000
 .	-	-	-	0:20:22.162000	0:20:23.654000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:23.654000" end="0:20:24.802000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:23.654000" end="0:20:24.802000" persName="Informant 0363">
 <pause duration="0,9s"/>
 ja	-	-	-	0:20:23.654000	0:20:24.802000
 .	-	-	-	0:20:23.654000	0:20:24.802000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:24.802000" end="0:20:27.229000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:24.802000" end="0:20:27.229000" persName="Informant 0357">
 und	-	-	-	0:20:24.802000	0:20:27.229000
 w/	-	-	-	0:20:24.802000	0:20:27.229000
 und	-	-	-	0:20:24.802000	0:20:27.229000
@@ -5028,7 +5029,7 @@ weggerissen	-	-	-	0:20:24.802000	0:20:27.229000
 komplett	-	-	-	0:20:24.802000	0:20:27.229000
 .	-	-	-	0:20:24.802000	0:20:27.229000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:27.229000" end="0:20:29.562000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:27.229000" end="0:20:29.562000" persName="Informant 0363">
 ja	-	-	-	0:20:27.229000	0:20:27.730000
 ,	-	-	-	0:20:27.229000	0:20:27.730000
 <pause duration="0,7s"/>
@@ -5037,14 +5038,14 @@ hat	-	-	-	0:20:27.730000	0:20:29.562000
 halt	-	-	-	0:20:27.730000	0:20:29.562000
 .	-	-	-	0:20:27.730000	0:20:29.562000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:29.560000" end="0:20:34.628000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:29.560000" end="0:20:34.628000" persName="Informant 0357">
 und	-	-	-	0:20:29.560000	0:20:32.076000
 *kannst*	-	-	-	0:20:29.560000	0:20:32.076000
 du	-	-	-	0:20:29.560000	0:20:32.076000
 dann	-	-	-	0:20:29.560000	0:20:32.076000
 für	-	-	-	0:20:29.560000	0:20:32.076000
 den	-	-	-	0:20:29.560000	0:20:32.076000
-[Michi]N	-	-	-	0:20:29.560000	0:20:32.076000
+NAME	NAME	-	-	0:20:29.560000	0:20:32.076000
 auch	-	-	-	0:20:29.560000	0:20:32.076000
 wieder	-	-	-	0:20:29.560000	0:20:32.076000
 sowas	-	-	-	0:20:29.560000	0:20:32.076000
@@ -5060,16 +5061,16 @@ da	-	-	-	0:20:32.852000	0:20:34.628000
 mal	-	-	-	0:20:32.852000	0:20:34.628000
 Foto	-	-	-	0:20:32.852000	0:20:34.628000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:34.628000" end="0:20:35.124000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:34.628000" end="0:20:35.124000" persName="Informant 0363">
 ja	-	-	-	0:20:34.628000	0:20:35.124000
 er	-	-	-	0:20:34.628000	0:20:35.124000
 muss	-	-	-	0:20:34.628000	0:20:35.124000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:34.628000" end="0:20:35.124000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:34.628000" end="0:20:35.124000" persName="Informant 0357">
 finden	-	-	-	0:20:34.628000	0:20:35.124000
 /.	-	-	-	0:20:34.628000	0:20:35.124000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:35.122000" end="0:20:37.186000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:35.122000" end="0:20:37.186000" persName="Informant 0363">
 sich	-	-	-	0:20:35.122000	0:20:36.333000
 es	-	-	-	0:20:35.122000	0:20:36.333000
 selber	-	-	-	0:20:35.122000	0:20:36.333000
@@ -5083,7 +5084,7 @@ selber	-	-	-	0:20:36.333000	0:20:37.186000
 gemacht	-	-	-	0:20:36.333000	0:20:37.186000
 .	-	-	-	0:20:36.333000	0:20:37.186000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:36.333000" end="0:20:38.024000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:36.333000" end="0:20:38.024000" persName="Informant 0357">
 ja	-	-	-	0:20:36.333000	0:20:37.186000
 du	-	-	-	0:20:36.333000	0:20:37.186000
 musst	-	-	-	0:20:36.333000	0:20:37.186000
@@ -5093,9 +5094,9 @@ ja	-	-	-	0:20:37.186000	0:20:38.024000
 aber	-	-	-	0:20:37.186000	0:20:38.024000
 betoniert	-	-	-	0:20:37.186000	0:20:38.024000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:38.024000" end="0:20:38.501000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:38.024000" end="0:20:38.501000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:38.024000" end="0:20:39.965000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:38.024000" end="0:20:39.965000" persName="Informant 0357">
 hast	-	-	-	0:20:38.024000	0:20:38.501000
 du	-	-	-	0:20:38.024000	0:20:38.501000
 nicht	-	-	-	0:20:38.024000	0:20:38.501000
@@ -5110,13 +5111,13 @@ Mama	-	-	-	0:20:38.770000	0:20:39.965000
 geholfen	-	-	-	0:20:38.770000	0:20:39.965000
 .	-	-	-	0:20:38.770000	0:20:39.965000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:39.965000" end="0:20:41.184000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:39.965000" end="0:20:41.184000" persName="Informant 0363">
 ja	-	-	-	0:20:39.965000	0:20:40.621000
 ,	-	-	-	0:20:39.965000	0:20:40.621000
 bissl	-	-	-	0:20:40.621000	0:20:41.184000
 .	-	-	-	0:20:40.621000	0:20:41.184000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:40.621000" end="0:20:42.546000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:40.621000" end="0:20:42.546000" persName="Informant 0357">
 ja	-	-	-	0:20:40.621000	0:20:41.184000
 .	-	-	-	0:20:40.621000	0:20:41.184000
 <pause duration="0,5s"/>
@@ -5127,11 +5128,11 @@ weil	-	-	-	0:20:42.202000	0:20:42.546000
 si/	-	-	-	0:20:42.202000	0:20:42.546000
 /.	-	-	-	0:20:42.202000	0:20:42.546000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:42.547000" end="0:20:42.782000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:42.547000" end="0:20:42.782000" persName="Informant 0363">
 mhm	-	-	-	0:20:42.547000	0:20:42.782000
 .	-	-	-	0:20:42.547000	0:20:42.782000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:42.781000" end="0:20:47.868000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:42.781000" end="0:20:47.868000" persName="Informant 0357">
 du	-	-	-	0:20:42.781000	0:20:43.717000
 weißt	-	-	-	0:20:42.781000	0:20:43.717000
 sicher	-	-	-	0:20:42.781000	0:20:43.717000
@@ -5148,20 +5149,20 @@ sechsjähriges	-	-	-	0:20:43.720000	0:20:47.868000
 Kind	-	-	-	0:20:43.720000	0:20:47.868000
 ,	-	-	-	0:20:43.720000	0:20:47.868000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:47.866000" end="0:20:48.704000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:47.866000" end="0:20:48.704000" persName="Informant 0363">
 ja	-	-	-	0:20:47.866000	0:20:48.704000
 ,	-	-	-	0:20:47.866000	0:20:48.704000
 da	-	-	-	0:20:47.866000	0:20:48.704000
 war	-	-	-	0:20:47.866000	0:20:48.704000
 ich	-	-	-	0:20:47.866000	0:20:48.704000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:47.866000" end="0:20:48.704000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:47.866000" end="0:20:48.704000" persName="Informant 0357">
 wie	-	-	-	0:20:47.866000	0:20:48.704000
 die	-	-	-	0:20:47.866000	0:20:48.704000
 die	-	-	-	0:20:47.866000	0:20:48.704000
 ,	-	-	-	0:20:47.866000	0:20:48.704000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:48.704000" end="0:20:49.381000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:48.704000" end="0:20:49.381000" persName="Informant 0363">
 eh	-	-	-	0:20:48.704000	0:20:49.381000
 schon	-	-	-	0:20:48.704000	0:20:49.381000
 ein	-	-	-	0:20:48.704000	0:20:49.381000
@@ -5169,42 +5170,42 @@ bissel	-	-	-	0:20:48.704000	0:20:49.381000
 älter	-	-	-	0:20:48.704000	0:20:49.381000
 .	-	-	-	0:20:48.704000	0:20:49.381000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:49.381000" end="0:20:51.045000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:49.381000" end="0:20:51.045000" persName="Informant 0357">
 <pause duration="0,7s"/>
 oder	-	-	-	0:20:49.381000	0:20:51.045000
 zehn	-	-	-	0:20:49.381000	0:20:51.045000
 Jahre	-	-	-	0:20:49.381000	0:20:51.045000
 ,	-	-	-	0:20:49.381000	0:20:51.045000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:51.045000" end="0:20:51.378000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:51.045000" end="0:20:51.378000" persName="Informant 0363">
 ja	-	-	-	0:20:51.045000	0:20:51.378000
 .	-	-	-	0:20:51.045000	0:20:51.378000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:51.045000" end="0:20:52.776000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:51.045000" end="0:20:52.776000" persName="Informant 0357">
 wie	-	-	-	0:20:51.045000	0:20:51.378000
 die	-	-	-	0:20:51.045000	0:20:51.378000
 Mengenverhältnisse	-	-	-	0:20:51.378000	0:20:52.776000
 sind	-	-	-	0:20:51.378000	0:20:52.776000
 ,	-	-	-	0:20:51.378000	0:20:52.776000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:52.776000" end="0:20:53.368000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:52.776000" end="0:20:53.368000" persName="Informant 0363">
 ja	-	-	-	0:20:52.776000	0:20:53.368000
 ,	-	-	-	0:20:52.776000	0:20:53.368000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:52.776000" end="0:20:53.368000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:52.776000" end="0:20:53.368000" persName="Informant 0357">
 oder	-	-	-	0:20:52.776000	0:20:53.368000
 ?	-	-	-	0:20:52.776000	0:20:53.368000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:53.368000" end="0:20:56.456000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:53.368000" end="0:20:56.456000" persName="Informant 0363">
 <pause duration="0,8s"/>
 .	-	-	-	0:20:53.368000	0:20:56.456000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:56.456000" end="0:20:57.768000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:56.456000" end="0:20:57.768000" persName="Informant 0357">
 <pause duration="0,9s"/>
 aha	-	-	-	0:20:56.456000	0:20:57.768000
 .	-	-	-	0:20:56.456000	0:20:57.768000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:57.768000" end="0:20:58.808000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:20:57.768000" end="0:20:58.808000" persName="Informant 0363">
 ich	-	-	-	0:20:57.768000	0:20:58.808000
 war	-	-	-	0:20:57.768000	0:20:58.808000
 ja	-	-	-	0:20:57.768000	0:20:58.808000
@@ -5212,17 +5213,17 @@ schon	-	-	-	0:20:57.768000	0:20:58.808000
 frühbegabt	-	-	-	0:20:57.768000	0:20:58.808000
 .	-	-	-	0:20:57.768000	0:20:58.808000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:58.808000" end="0:21:00.116000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:20:58.808000" end="0:21:00.116000" persName="Informant 0357">
 <pause duration="0,6s"/>
 jaja	-	-	-	0:20:58.808000	0:21:00.116000
 .	-	-	-	0:20:58.808000	0:21:00.116000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:00.116000" end="0:21:09.008000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:00.116000" end="0:21:09.008000" persName="Informant 0363">
 hm	-	-	-	0:21:00.116000	0:21:00.900000
 .	-	-	-	0:21:00.116000	0:21:00.900000
 <pause duration="8,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:00.904000" end="0:21:10.313000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:00.904000" end="0:21:10.313000" persName="Informant 0357">
 <pause duration="8,1s"/>
 "kein	-	-	-	0:21:09.008000	0:21:10.313000
 Dialekt	-	-	-	0:21:09.008000	0:21:10.313000
@@ -5231,23 +5232,23 @@ in	-	-	-	0:21:09.008000	0:21:10.313000
 Österreich"	-	-	-	0:21:09.008000	0:21:10.313000
 .	-	-	-	0:21:09.008000	0:21:10.313000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:10.313000" end="0:21:12.768000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:10.313000" end="0:21:12.768000" persName="Informant 0363">
 <pause duration="1,0s"/>
 gibt	-	-	-	0:21:11.336000	0:21:12.768000
 es	-	-	-	0:21:11.336000	0:21:12.768000
 nicht	-	-	-	0:21:11.336000	0:21:12.768000
 .	-	-	-	0:21:11.336000	0:21:12.768000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:12.768000" end="0:21:13.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:12.768000" end="0:21:13.480000" persName="Informant 0357">
 ähm	-	-	-	0:21:12.768000	0:21:13.480000
 ,	-	-	-	0:21:12.768000	0:21:13.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:13.480000" end="0:21:14.332000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:13.480000" end="0:21:14.332000" persName="Informant 0363">
 geht	-	-	-	0:21:13.480000	0:21:14.332000
 nicht	-	-	-	0:21:13.480000	0:21:14.332000
 .	-	-	-	0:21:13.480000	0:21:14.332000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:13.480000" end="0:21:26.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:13.480000" end="0:21:26.272000" persName="Informant 0357">
 im/	-	-	-	0:21:13.480000	0:21:14.332000
 <pause duration="0,6s"/>
 ähm	-	-	-	0:21:14.332000	0:21:16.484000
@@ -5287,11 +5288,11 @@ leer	-	-	-	0:21:19.824000	0:21:26.272000
 oder	-	-	-	0:21:19.824000	0:21:26.272000
 ?	-	-	-	0:21:19.824000	0:21:26.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:26.272000" end="0:21:26.848000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:26.272000" end="0:21:26.848000" persName="Informant 0363">
 ja	-	-	-	0:21:26.272000	0:21:26.848000
 .	-	-	-	0:21:26.272000	0:21:26.848000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:26.272000" end="0:21:27.668000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:26.272000" end="0:21:27.668000" persName="Informant 0357">
 da	-	-	-	0:21:26.272000	0:21:26.848000
 sind	-	-	-	0:21:26.272000	0:21:26.848000
 ja	-	-	-	0:21:26.848000	0:21:27.668000
@@ -5299,13 +5300,13 @@ die	-	-	-	0:21:26.848000	0:21:27.668000
 die	-	-	-	0:21:26.848000	0:21:27.668000
 /.	-	-	-	0:21:26.848000	0:21:27.668000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:27.668000" end="0:21:29.568000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:27.668000" end="0:21:29.568000" persName="Informant 0363">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:27.668000" end="0:21:29.568000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:27.668000" end="0:21:29.568000" persName="Informant 0357">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:29.568000" end="0:21:32.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:29.568000" end="0:21:32.120000" persName="Informant 0363">
 die	-	-	-	0:21:29.568000	0:21:32.120000
 Ausdrucksweise	-	-	-	0:21:29.568000	0:21:32.120000
 ist	-	-	-	0:21:29.568000	0:21:32.120000
@@ -5314,7 +5315,7 @@ das	-	-	-	0:21:29.568000	0:21:32.120000
 Ausschlaggebende	-	-	-	0:21:29.568000	0:21:32.120000
 .	-	-	-	0:21:29.568000	0:21:32.120000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:32.120000" end="0:21:40.888000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:32.120000" end="0:21:40.888000" persName="Informant 0357">
 ja	-	-	-	0:21:32.120000	0:21:33.024000
 und	-	-	-	0:21:32.120000	0:21:33.024000
 das	-	-	-	0:21:32.120000	0:21:33.024000
@@ -5355,21 +5356,21 @@ langweiliges	-	-	-	0:21:39.388000	0:21:40.888000
 Leben	-	-	-	0:21:39.388000	0:21:40.888000
 .	-	-	-	0:21:39.388000	0:21:40.888000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:40.888000" end="0:21:42.102000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:40.888000" end="0:21:42.102000" persName="Informant 0363">
 *is*	-	-	-	0:21:40.888000	0:21:42.102000
 langweilig	-	-	-	0:21:40.888000	0:21:42.102000
 ,	-	-	-	0:21:40.888000	0:21:42.102000
 ja	-	-	-	0:21:40.888000	0:21:42.102000
 .	-	-	-	0:21:40.888000	0:21:42.102000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:42.102000" end="0:21:42.790000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:42.102000" end="0:21:42.790000" persName="Informant 0357">
 ja	-	-	-	0:21:42.102000	0:21:42.790000
 .	-	-	-	0:21:42.102000	0:21:42.790000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:42.792000" end="0:21:46.492000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:42.792000" end="0:21:46.492000" persName="Informant 0363">
 <pause duration="3,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:42.792000" end="0:21:49.368000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:42.792000" end="0:21:49.368000" persName="Informant 0357">
 <pause duration="3,8s"/>
 also	-	-	-	0:21:46.492000	0:21:48.453000
 die	-	-	-	0:21:46.492000	0:21:48.453000
@@ -5386,13 +5387,13 @@ schon	-	-	-	0:21:48.456000	0:21:49.368000
 sagen	-	-	-	0:21:48.456000	0:21:49.368000
 .	-	-	-	0:21:48.456000	0:21:49.368000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:49.368000" end="0:21:50.616000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:49.368000" end="0:21:50.616000" persName="Informant 0363">
 "Deutsch	-	-	-	0:21:49.368000	0:21:50.616000
 in	-	-	-	0:21:49.368000	0:21:50.616000
 Österreich"	-	-	-	0:21:49.368000	0:21:50.616000
 .	-	-	-	0:21:49.368000	0:21:50.616000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:49.368000" end="0:21:51.592000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:21:49.368000" end="0:21:51.592000" persName="Informant 0357">
 <pause duration="seufzen"/>
 ja	-	-	-	0:21:49.368000	0:21:50.616000
 ,	-	-	-	0:21:49.368000	0:21:50.616000
@@ -5401,7 +5402,7 @@ in	-	-	-	0:21:50.616000	0:21:51.592000
 Österreich"	-	-	-	0:21:50.616000	0:21:51.592000
 .	-	-	-	0:21:50.616000	0:21:51.592000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:51.592000" end="0:22:05.376000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:21:51.592000" end="0:22:05.376000" persName="Informant 0363">
 <pause duration="1,3s"/>
 ja	-	-	-	0:21:52.876000	0:21:54.876000
 ,	-	-	-	0:21:52.876000	0:21:54.876000
@@ -5425,7 +5426,7 @@ oder	-	-	-	0:22:01.612000	0:22:02.004000
 ?	-	-	-	0:22:01.612000	0:22:02.004000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:02.004000" end="0:22:07.748000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:02.004000" end="0:22:07.748000" persName="Informant 0357">
 <pause duration="3,4s"/>
 dabei	-	-	-	0:22:05.376000	0:22:07.748000
 werden	-	-	-	0:22:05.376000	0:22:07.748000
@@ -5436,11 +5437,11 @@ Wörter	-	-	-	0:22:05.376000	0:22:07.748000
 verdeutscht	-	-	-	0:22:05.376000	0:22:07.748000
 .	-	-	-	0:22:05.376000	0:22:07.748000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:07.748000" end="0:22:08.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:07.748000" end="0:22:08.220000" persName="Informant 0363">
 ja	-	-	-	0:22:07.748000	0:22:08.220000
 .	-	-	-	0:22:07.748000	0:22:08.220000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:08.220000" end="0:22:11.316000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:08.220000" end="0:22:11.316000" persName="Informant 0357">
 <pause duration="0,8s"/>
 s/	-	-	-	0:22:08.220000	0:22:11.316000
 vorher	-	-	-	0:22:08.220000	0:22:11.316000
@@ -5450,43 +5451,43 @@ switch/	-	-	-	0:22:08.220000	0:22:11.316000
 switchen	-	-	-	0:22:08.220000	0:22:11.316000
 .	-	-	-	0:22:08.220000	0:22:11.316000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:11.316000" end="0:22:11.896000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:11.316000" end="0:22:11.896000" persName="Informant 0363">
 mhm	-	-	-	0:22:11.316000	0:22:11.896000
 .	-	-	-	0:22:11.316000	0:22:11.896000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:11.896000" end="0:22:12.672000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:11.896000" end="0:22:12.672000" persName="Informant 0357">
 mhm	-	-	-	0:22:11.896000	0:22:12.672000
 .	-	-	-	0:22:11.896000	0:22:12.672000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:12.672000" end="0:22:15.064000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:12.672000" end="0:22:15.064000" persName="Informant 0363">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:12.672000" end="0:22:16.212000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:12.672000" end="0:22:16.212000" persName="Informant 0357">
 <pause duration="2,4s"/>
 ein	-	-	-	0:22:15.064000	0:22:16.212000
 blödes	-	-	-	0:22:15.064000	0:22:16.212000
 Thema	-	-	-	0:22:15.064000	0:22:16.212000
 .	-	-	-	0:22:15.064000	0:22:16.212000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:16.212000" end="0:22:19.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:16.212000" end="0:22:19.120000" persName="Informant 0363">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:16.212000" end="0:22:19.120000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:16.212000" end="0:22:19.120000" persName="Informant 0357">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:19.120000" end="0:22:24.156000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:19.120000" end="0:22:24.156000" persName="Informant 0363">
 "Dorffest	-	-	-	0:22:19.120000	0:22:20.596000
 früher"	-	-	-	0:22:19.120000	0:22:20.596000
 .	-	-	-	0:22:19.120000	0:22:20.596000
 <pause duration="3,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:20.596000" end="0:22:24.156000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:20.596000" end="0:22:24.156000" persName="Informant 0357">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:24.156000" end="0:22:27.224000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:24.156000" end="0:22:27.224000" persName="Informant 0363">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:25.304000" end="0:22:33.460000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:25.304000" end="0:22:33.460000" persName="Informant 0357">
 <pause duration="1,9s"/>
 sollen	-	-	-	0:22:27.224000	0:22:29.604000
 wir	-	-	-	0:22:27.224000	0:22:29.604000
@@ -5514,18 +5515,18 @@ vor	-	-	-	0:22:31.020000	0:22:33.460000
 fünfzehn	-	-	-	0:22:31.020000	0:22:33.460000
 Jahren	-	-	-	0:22:31.020000	0:22:33.460000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:33.460000" end="0:22:34.344000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:33.460000" end="0:22:34.344000" persName="Informant 0363">
 mhm	-	-	-	0:22:33.460000	0:22:34.344000
 ,	-	-	-	0:22:33.460000	0:22:34.344000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:33.460000" end="0:22:34.344000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:33.460000" end="0:22:34.344000" persName="Informant 0357">
 sechzehn	-	-	-	0:22:33.460000	0:22:34.344000
 Jahren	-	-	-	0:22:33.460000	0:22:34.344000
 ?	-	-	-	0:22:33.460000	0:22:34.344000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:34.344000" end="0:22:35.208000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:34.344000" end="0:22:35.208000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:35.208000" end="0:22:39.940000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:35.208000" end="0:22:39.940000" persName="Informant 0357">
 oder	-	-	-	0:22:35.208000	0:22:36.892000
 die	-	-	-	0:22:35.208000	0:22:36.892000
 Dorffeste	-	-	-	0:22:35.208000	0:22:36.892000
@@ -5542,15 +5543,15 @@ wie	-	-	-	0:22:39.108000	0:22:39.940000
 das	-	-	-	0:22:39.108000	0:22:39.940000
 alles	-	-	-	0:22:39.108000	0:22:39.940000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:39.940000" end="0:22:40.452000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:39.940000" end="0:22:40.452000" persName="Informant 0363">
 nein	-	-	-	0:22:39.940000	0:22:40.452000
 ,	-	-	-	0:22:39.940000	0:22:40.452000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:39.940000" end="0:22:40.452000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:39.940000" end="0:22:40.452000" persName="Informant 0357">
 heißt	-	-	-	0:22:39.940000	0:22:40.452000
 ?	-	-	-	0:22:39.940000	0:22:40.452000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:40.452000" end="0:22:44.156000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:40.452000" end="0:22:44.156000" persName="Informant 0363">
 das	-	-	-	0:22:40.452000	0:22:40.912000
 nicht	-	-	-	0:22:40.452000	0:22:40.912000
 ,	-	-	-	0:22:40.452000	0:22:40.912000
@@ -5561,7 +5562,7 @@ gehen	-	-	-	0:22:40.912000	0:22:42.392000
 .	-	-	-	0:22:40.912000	0:22:42.392000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:42.392000" end="0:22:46.156000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:42.392000" end="0:22:46.156000" persName="Informant 0357">
 <pause duration="1,8s"/>
 wann	-	-	-	0:22:44.156000	0:22:46.156000
 hast	-	-	-	0:22:44.156000	0:22:46.156000
@@ -5575,17 +5576,17 @@ fortgehen	-	-	-	0:22:44.156000	0:22:46.156000
 dürfen	-	-	-	0:22:44.156000	0:22:46.156000
 ?	-	-	-	0:22:44.156000	0:22:46.156000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:46.156000" end="0:22:48.056000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:46.156000" end="0:22:48.056000" persName="Informant 0363">
 ähm	-	-	-	0:22:46.156000	0:22:47.080000
 sechzehn	-	-	-	0:22:46.156000	0:22:47.080000
 .	-	-	-	0:22:46.156000	0:22:47.080000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:47.080000" end="0:22:48.056000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:47.080000" end="0:22:48.056000" persName="Informant 0357">
 (und)	-	-	-	0:22:47.080000	0:22:48.056000
 wohin	-	-	-	0:22:47.080000	0:22:48.056000
 ?	-	-	-	0:22:47.080000	0:22:48.056000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:48.056000" end="0:22:59.576000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:22:48.056000" end="0:22:59.576000" persName="Informant 0363">
 <pause duration="1,5s"/>
 hm	-	-	-	0:22:49.512000	0:22:51.264000
 ,	-	-	-	0:22:49.512000	0:22:51.264000
@@ -5624,7 +5625,7 @@ fahren	-	-	-	0:22:58.272000	0:22:59.576000
 dürfen	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:22:58.272000	0:22:59.576000
 .	-	-	-	0:22:58.272000	0:22:59.576000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:59.576000" end="0:23:04.564000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:22:59.576000" end="0:23:04.564000" persName="Informant 0357">
 <pause duration="2,3s"/>
 ich	-	-	-	0:23:01.880000	0:23:03.328000
 habe	-	-	-	0:23:01.880000	0:23:03.328000
@@ -5642,9 +5643,9 @@ hingekommen	-	-	-	0:23:03.328000	0:23:04.564000
 bin	-	-	-	0:23:03.328000	0:23:04.564000
 .	-	-	-	0:23:03.328000	0:23:04.564000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:04.564000" end="0:23:06.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:04.564000" end="0:23:06.172000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:06.168000" end="0:23:11.092000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:06.168000" end="0:23:11.092000" persName="Informant 0357">
 außer	-	-	-	0:23:06.168000	0:23:09.704000
 in	-	-	-	0:23:06.168000	0:23:09.704000
 <pause duration="0,8s"/>
@@ -5654,7 +5655,7 @@ direkt	-	-	-	0:23:06.168000	0:23:09.704000
 daheim	-	-	-	0:23:06.168000	0:23:09.704000
 waren	-	-	-	0:23:06.168000	0:23:09.704000
 in	-	-	-	0:23:06.168000	0:23:09.704000
-[Falkenstein]O	-	-	-	0:23:06.168000	0:23:09.704000
+ORT	ORT	-	-	0:23:06.168000	0:23:09.704000
 ,	-	-	-	0:23:06.168000	0:23:09.704000
 so	-	-	-	0:23:09.704000	0:23:11.092000
 wie	-	-	-	0:23:09.704000	0:23:11.092000
@@ -5662,11 +5663,11 @@ das	-	-	-	0:23:09.704000	0:23:11.092000
 Feuerwehrfest	-	-	-	0:23:09.704000	0:23:11.092000
 ,	-	-	-	0:23:09.704000	0:23:11.092000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:11.092000" end="0:23:11.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:11.092000" end="0:23:11.792000" persName="Informant 0363">
 mhm	-	-	-	0:23:11.092000	0:23:11.792000
 .	-	-	-	0:23:11.092000	0:23:11.792000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:11.792000" end="0:23:13.624000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:11.792000" end="0:23:13.624000" persName="Informant 0357">
 da	-	-	-	0:23:11.792000	0:23:13.624000
 sind	-	-	-	0:23:11.792000	0:23:13.624000
 wir	-	-	-	0:23:11.792000	0:23:13.624000
@@ -5680,15 +5681,15 @@ abgewackelt	-	-	-	0:23:11.792000	0:23:13.624000
 dann	-	-	-	0:23:11.792000	0:23:13.624000
 .	-	-	-	0:23:11.792000	0:23:13.624000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:13.624000" end="0:23:16.700000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:13.624000" end="0:23:16.700000" persName="Informant 0363">
 ja	-	-	-	0:23:13.624000	0:23:14.384000
 .	-	-	-	0:23:13.624000	0:23:14.384000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:14.384000" end="0:23:16.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:14.384000" end="0:23:16.700000" persName="Informant 0357">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:16.700000" end="0:23:21.688000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:16.700000" end="0:23:21.688000" persName="Informant 0363">
 bin	-	-	-	0:23:16.700000	0:23:19.652000
 so	-	-	-	0:23:16.700000	0:23:19.652000
 auch	-	-	-	0:23:16.700000	0:23:19.652000
@@ -5705,7 +5706,7 @@ gefahren	-	-	-	0:23:16.700000	0:23:19.652000
 .	-	-	-	0:23:16.700000	0:23:19.652000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:19.652000" end="0:23:24.396000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:19.652000" end="0:23:24.396000" persName="Informant 0357">
 <pause duration="2,0s"/>
 und	-	-	-	0:23:21.688000	0:23:24.396000
 dann	-	-	-	0:23:21.688000	0:23:24.396000
@@ -5720,7 +5721,7 @@ dem	-	-	-	0:23:21.688000	0:23:24.396000
 gell	-	-	-	0:23:21.688000	0:23:24.396000
 ?	-	-	-	0:23:21.688000	0:23:24.396000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:24.396000" end="0:23:28.892000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:24.396000" end="0:23:28.892000" persName="Informant 0363">
 <pause duration="2,1s"/>
 Auto	-	-	-	0:23:26.508000	0:23:28.152000
 nachgetragen	-	-	-	0:23:26.508000	0:23:28.152000
@@ -5734,7 +5735,7 @@ Mal	-	-	-	0:23:26.508000	0:23:28.152000
 ja	-	-	-	0:23:26.508000	0:23:28.152000
 .	-	-	-	0:23:26.508000	0:23:28.152000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:28.164000" end="0:23:31.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:28.164000" end="0:23:31.108000" persName="Informant 0357">
 wie	-	-	-	0:23:28.164000	0:23:28.892000
 *habts*	-	-	-	0:23:28.164000	0:23:28.892000
 da	-	-	-	0:23:28.892000	0:23:29.748000
@@ -5749,7 +5750,7 @@ Traktor	-	-	-	0:23:29.748000	0:23:31.108000
 nachgefahren	-	-	-	0:23:29.748000	0:23:31.108000
 ?	-	-	-	0:23:29.748000	0:23:31.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:31.108000" end="0:23:33.540000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:31.108000" end="0:23:33.540000" persName="Informant 0363">
 nein	-	-	-	0:23:31.108000	0:23:32.960000
 ,	-	-	-	0:23:31.108000	0:23:32.960000
 <pause duration="0,5s"/>
@@ -5758,14 +5759,14 @@ selber	-	-	-	0:23:31.108000	0:23:32.960000
 zu	-	-	-	0:23:32.960000	0:23:33.540000
 viert	-	-	-	0:23:32.960000	0:23:33.540000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:32.960000" end="0:23:33.540000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:32.960000" end="0:23:33.540000" persName="Informant 0357">
 ja	-	-	-	0:23:32.960000	0:23:33.540000
 /.	-	-	-	0:23:32.960000	0:23:33.540000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:33.540000" end="0:23:34.628000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:33.540000" end="0:23:34.628000" persName="Informant 0363">
 _zubi_	-	-	-	0:23:33.540000	0:23:34.016000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:34.016000" end="0:23:36.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:34.016000" end="0:23:36.272000" persName="Informant 0357">
 ja	-	-	-	0:23:34.016000	0:23:34.628000
 aber	-	-	-	0:23:34.016000	0:23:34.628000
 das	-	-	-	0:23:34.016000	0:23:34.628000
@@ -5777,7 +5778,7 @@ gewesen	-	-	-	0:23:34.632000	0:23:36.272000
 sein	-	-	-	0:23:34.632000	0:23:36.272000
 .	-	-	-	0:23:34.632000	0:23:36.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:36.272000" end="0:23:39.544000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:36.272000" end="0:23:39.544000" persName="Informant 0363">
 nein	-	-	-	0:23:36.272000	0:23:36.844000
 eh	-	-	-	0:23:36.272000	0:23:36.844000
 nicht	-	-	-	0:23:36.272000	0:23:36.844000
@@ -5796,7 +5797,7 @@ ausparken	-	-	-	0:23:37.932000	0:23:39.544000
 können	-	-	-	0:23:37.932000	0:23:39.544000
 .	-	-	-	0:23:37.932000	0:23:39.544000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:39.544000" end="0:23:41.120000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:39.544000" end="0:23:41.120000" persName="Informant 0357">
 <pause duration="0,6s"/>
 und	-	-	-	0:23:39.544000	0:23:41.120000
 warum	-	-	-	0:23:39.544000	0:23:41.120000
@@ -5805,30 +5806,30 @@ das	-	-	-	0:23:39.544000	0:23:41.120000
 getan	-	-	-	0:23:39.544000	0:23:41.120000
 ?	-	-	-	0:23:39.544000	0:23:41.120000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:41.120000" end="0:23:42.744000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:41.120000" end="0:23:42.744000" persName="Informant 0363">
 (?)	-	-	-	0:23:41.120000	0:23:42.744000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:41.120000" end="0:23:42.744000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:41.120000" end="0:23:42.744000" persName="Informant 0357">
 *weils*	-	-	-	0:23:41.120000	0:23:42.744000
 einfach	-	-	-	0:23:41.120000	0:23:42.744000
 blöd	-	-	-	0:23:41.120000	0:23:42.744000
 *warts*	-	-	-	0:23:41.120000	0:23:42.744000
 .	-	-	-	0:23:41.120000	0:23:42.744000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:42.744000" end="0:23:43.748000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:42.744000" end="0:23:43.748000" persName="Informant 0363">
 Gaudi	-	-	-	0:23:42.744000	0:23:43.748000
 .	-	-	-	0:23:42.744000	0:23:43.748000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:43.748000" end="0:23:44.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:43.748000" end="0:23:44.752000" persName="Informant 0357">
 im	-	-	-	0:23:43.748000	0:23:44.752000
 Ernst	-	-	-	0:23:43.748000	0:23:44.752000
 ?	-	-	-	0:23:43.748000	0:23:44.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:44.752000" end="0:23:45.216000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:44.752000" end="0:23:45.216000" persName="Informant 0363">
 mhm	-	-	-	0:23:44.752000	0:23:45.216000
 .	-	-	-	0:23:44.752000	0:23:45.216000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:45.216000" end="0:23:57.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:45.216000" end="0:23:57.752000" persName="Informant 0357">
 aha	-	-	-	0:23:45.216000	0:23:45.576000
 .	-	-	-	0:23:45.216000	0:23:45.576000
 ich	-	-	-	0:23:45.576000	0:23:46.440000
@@ -5876,10 +5877,10 @@ ich	-	-	-	0:23:56.748000	0:23:57.752000
 noch	-	-	-	0:23:56.748000	0:23:57.752000
 ,	-	-	-	0:23:56.748000	0:23:57.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:57.752000" end="0:23:59.040000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:23:57.752000" end="0:23:59.040000" persName="Informant 0363">
 (Böck)	-	-	-	0:23:57.752000	0:23:59.040000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:57.752000" end="0:24:02.192000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:23:57.752000" end="0:24:02.192000" persName="Informant 0357">
 da	-	-	-	0:23:57.752000	0:23:59.040000
 war	-	-	-	0:23:57.752000	0:23:59.040000
 damals	-	-	-	0:23:57.752000	0:23:59.040000
@@ -5900,22 +5901,22 @@ lange	-	-	-	0:24:00.112000	0:24:01.864000
 Dürre	-	-	-	0:24:00.112000	0:24:01.864000
 ,	-	-	-	0:24:00.112000	0:24:01.864000
 die	-	-	-	0:24:00.112000	0:24:01.864000
-[Helga]N	-	-	-	0:24:00.112000	0:24:01.864000
+NAME	NAME	-	-	0:24:00.112000	0:24:01.864000
 damals	-	-	-	0:24:01.864000	0:24:02.192000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:02.192000" end="0:24:02.744000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:02.192000" end="0:24:02.744000" persName="Informant 0363">
 mhm	-	-	-	0:24:02.192000	0:24:02.744000
 ,	-	-	-	0:24:02.192000	0:24:02.744000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:02.192000" end="0:24:02.744000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:02.192000" end="0:24:02.744000" persName="Informant 0357">
 von	-	-	-	0:24:02.192000	0:24:02.744000
 (Fladnitz)	-	-	-	0:24:02.192000	0:24:02.744000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:02.744000" end="0:24:03.892000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:02.744000" end="0:24:03.892000" persName="Informant 0363">
 jaja	-	-	-	0:24:02.744000	0:24:03.892000
 ,	-	-	-	0:24:02.744000	0:24:03.892000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:02.744000" end="0:24:03.892000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:02.744000" end="0:24:03.892000" persName="Informant 0357">
 kannst	-	-	-	0:24:02.744000	0:24:03.892000
 dich	-	-	-	0:24:02.744000	0:24:03.892000
 an	-	-	-	0:24:02.744000	0:24:03.892000
@@ -5924,7 +5925,7 @@ noch	-	-	-	0:24:02.744000	0:24:03.892000
 erinnern	-	-	-	0:24:02.744000	0:24:03.892000
 ?	-	-	-	0:24:02.744000	0:24:03.892000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:03.892000" end="0:24:05.820000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:03.892000" end="0:24:05.820000" persName="Informant 0363">
 ja	-	-	-	0:24:03.892000	0:24:04.340000
 .	-	-	-	0:24:03.892000	0:24:04.340000
 <pause duration="0,7s"/>
@@ -5934,7 +5935,7 @@ in	-	-	-	0:24:04.340000	0:24:05.820000
 (Gutenberg)	-	-	-	0:24:04.340000	0:24:05.820000
 ?	-	-	-	0:24:04.340000	0:24:05.820000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:05.820000" end="0:24:09.408000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:05.820000" end="0:24:09.408000" persName="Informant 0357">
 ja	-	-	-	0:24:05.820000	0:24:07.556000
 ,	-	-	-	0:24:05.820000	0:24:07.556000
 da	-	-	-	0:24:05.820000	0:24:07.556000
@@ -5956,7 +5957,7 @@ wir	-	-	-	0:24:08.794000	0:24:09.408000
 es	-	-	-	0:24:08.794000	0:24:09.408000
 .	-	-	-	0:24:08.794000	0:24:09.408000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:09.408000" end="0:24:10.368000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:09.408000" end="0:24:10.368000" persName="Informant 0363">
 wo	-	-	-	0:24:09.408000	0:24:10.368000
 waren	-	-	-	0:24:09.408000	0:24:10.368000
 wir	-	-	-	0:24:09.408000	0:24:10.368000
@@ -5964,7 +5965,7 @@ denn	-	-	-	0:24:09.408000	0:24:10.368000
 da	-	-	-	0:24:09.408000	0:24:10.368000
 ?	-	-	-	0:24:09.408000	0:24:10.368000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:10.368000" end="0:24:20.148000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:10.368000" end="0:24:20.148000" persName="Informant 0357">
 <pause duration="1,7s"/>
 da	-	-	-	0:24:12.088000	0:24:12.949000
 war	-	-	-	0:24:12.088000	0:24:12.949000
@@ -6013,13 +6014,13 @@ wir	-	-	-	0:24:19.356000	0:24:20.148000
 geparkt	-	-	-	0:24:19.356000	0:24:20.148000
 ,	-	-	-	0:24:19.356000	0:24:20.148000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:20.148000" end="0:24:21.268000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:20.148000" end="0:24:21.268000" persName="Informant 0363">
 hm	-	-	-	0:24:20.148000	0:24:21.268000
 ,	-	-	-	0:24:20.148000	0:24:21.268000
 ja	-	-	-	0:24:20.148000	0:24:21.268000
 ,	-	-	-	0:24:20.148000	0:24:21.268000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:20.148000" end="0:24:21.268000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:20.148000" end="0:24:21.268000" persName="Informant 0357">
 da	-	-	-	0:24:20.148000	0:24:21.268000
 war	-	-	-	0:24:20.148000	0:24:21.268000
 gleich	-	-	-	0:24:20.148000	0:24:21.268000
@@ -6027,14 +6028,14 @@ der	-	-	-	0:24:20.148000	0:24:21.268000
 Maisacker	-	-	-	0:24:20.148000	0:24:21.268000
 und	-	-	-	0:24:20.148000	0:24:21.268000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:21.268000" end="0:24:22.140000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:21.268000" end="0:24:22.140000" persName="Informant 0363">
 kann	-	-	-	0:24:21.268000	0:24:22.140000
 sein	-	-	-	0:24:21.268000	0:24:22.140000
 ,	-	-	-	0:24:21.268000	0:24:22.140000
 ja	-	-	-	0:24:21.268000	0:24:22.140000
 .	-	-	-	0:24:21.268000	0:24:22.140000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:21.268000" end="0:24:23.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:21.268000" end="0:24:23.108000" persName="Informant 0357">
 auf	-	-	-	0:24:21.268000	0:24:22.140000
 der	-	-	-	0:24:21.268000	0:24:22.140000
 anderen	-	-	-	0:24:21.268000	0:24:22.140000
@@ -6044,7 +6045,7 @@ der	-	-	-	0:24:22.140000	0:24:23.108000
 Sportplatz	-	-	-	0:24:22.140000	0:24:23.108000
 .	-	-	-	0:24:22.140000	0:24:23.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:23.108000" end="0:24:26.604000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:23.108000" end="0:24:26.604000" persName="Informant 0363">
 ja	-	-	-	0:24:23.108000	0:24:25.584000
 ,	-	-	-	0:24:23.108000	0:24:25.584000
 der	-	-	-	0:24:23.108000	0:24:25.584000
@@ -6062,7 +6063,7 @@ was	-	-	-	0:24:23.108000	0:24:25.584000
 .	-	-	-	0:24:23.108000	0:24:25.584000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:25.584000" end="0:24:28.852000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:25.584000" end="0:24:28.852000" persName="Informant 0357">
 <pause duration="1,0s"/>
 ja	-	-	-	0:24:26.604000	0:24:28.852000
 ,	-	-	-	0:24:26.604000	0:24:28.852000
@@ -6075,25 +6076,25 @@ Striezel	-	-	-	0:24:26.604000	0:24:28.852000
 hinten	-	-	-	0:24:26.604000	0:24:28.852000
 hineingetan	-	-	-	0:24:26.604000	0:24:28.852000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:28.852000" end="0:24:29.880000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:28.852000" end="0:24:29.880000" persName="Informant 0363">
 bei	-	-	-	0:24:28.852000	0:24:29.880000
 irgendwem	-	-	-	0:24:28.852000	0:24:29.880000
 ,	-	-	-	0:24:28.852000	0:24:29.880000
 ja	-	-	-	0:24:28.852000	0:24:29.880000
 .	-	-	-	0:24:28.852000	0:24:29.880000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:29.880000" end="0:24:31.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:29.880000" end="0:24:31.108000" persName="Informant 0357">
 bei	-	-	-	0:24:29.880000	0:24:31.108000
 irgendeinem	-	-	-	0:24:29.880000	0:24:31.108000
 fremden	-	-	-	0:24:29.880000	0:24:31.108000
 Auto	-	-	-	0:24:29.880000	0:24:31.108000
 .	-	-	-	0:24:29.880000	0:24:31.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:31.108000" end="0:24:32.812000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:31.108000" end="0:24:32.812000" persName="Informant 0363">
 mhm	-	-	-	0:24:31.108000	0:24:32.812000
 .	-	-	-	0:24:31.108000	0:24:32.812000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:31.108000" end="0:24:34.476000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:31.108000" end="0:24:34.476000" persName="Informant 0357">
 na	-	-	-	0:24:31.108000	0:24:32.812000
 bitte	-	-	-	0:24:31.108000	0:24:32.812000
 gar	-	-	-	0:24:31.108000	0:24:32.812000
@@ -6110,11 +6111,11 @@ werden	-	-	-	0:24:32.812000	0:24:34.476000
 kann	-	-	-	0:24:32.812000	0:24:34.476000
 .	-	-	-	0:24:32.812000	0:24:34.476000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:34.476000" end="0:24:34.796000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:34.476000" end="0:24:34.796000" persName="Informant 0363">
 ja	-	-	-	0:24:34.476000	0:24:34.796000
 .	-	-	-	0:24:34.476000	0:24:34.796000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:34.476000" end="0:24:36.964000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:34.476000" end="0:24:36.964000" persName="Informant 0357">
 wenn	-	-	-	0:24:34.476000	0:24:34.796000
 das	-	-	-	0:24:34.476000	0:24:34.796000
 bei	-	-	-	0:24:34.796000	0:24:35.708000
@@ -6131,7 +6132,7 @@ Hals	-	-	-	0:24:35.708000	0:24:36.964000
 um	-	-	-	0:24:35.708000	0:24:36.964000
 .	-	-	-	0:24:35.708000	0:24:36.964000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:36.964000" end="0:24:38.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:36.964000" end="0:24:38.172000" persName="Informant 0363">
 nur	-	-	-	0:24:36.964000	0:24:38.172000
 Blödsinn	-	-	-	0:24:36.964000	0:24:38.172000
 im	-	-	-	0:24:36.964000	0:24:38.172000
@@ -6139,29 +6140,29 @@ Schädel	-	-	-	0:24:36.964000	0:24:38.172000
 gehabt	-	-	-	0:24:36.964000	0:24:38.172000
 .	-	-	-	0:24:36.964000	0:24:38.172000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:38.172000" end="0:24:38.936000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:38.172000" end="0:24:38.936000" persName="Informant 0357">
 ja	-	-	-	0:24:38.172000	0:24:38.936000
 .	-	-	-	0:24:38.172000	0:24:38.936000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:38.936000" end="0:24:40.448000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:38.936000" end="0:24:40.448000" persName="Informant 0363">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:38.936000" end="0:24:41.056000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:38.936000" end="0:24:41.056000" persName="Informant 0357">
 <pause duration="1,5s"/>
 na	-	-	-	0:24:40.448000	0:24:41.056000
 furchtbar	-	-	-	0:24:40.448000	0:24:41.056000
 .	-	-	-	0:24:40.448000	0:24:41.056000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:41.056000" end="0:24:44.916000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:41.056000" end="0:24:44.916000" persName="Informant 0363">
 mhm	-	-	-	0:24:41.056000	0:24:41.416000
 .	-	-	-	0:24:41.056000	0:24:41.416000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:44.916000" end="0:24:47.420000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:44.916000" end="0:24:47.420000" persName="Informant 0357">
 hast	-	-	-	0:24:44.916000	0:24:47.420000
 du	-	-	-	0:24:44.916000	0:24:47.420000
 die	-	-	-	0:24:44.916000	0:24:47.420000
-[Helga]N	-	-	-	0:24:44.916000	0:24:47.420000
+NAME	NAME	-	-	0:24:44.916000	0:24:47.420000
 seitdem	-	-	-	0:24:44.916000	0:24:47.420000
 einmal	-	-	-	0:24:44.916000	0:24:47.420000
 wieder	-	-	-	0:24:44.916000	0:24:47.420000
@@ -6169,11 +6170,11 @@ irgendwo	-	-	-	0:24:44.916000	0:24:47.420000
 gesehen	-	-	-	0:24:44.916000	0:24:47.420000
 ?	-	-	-	0:24:44.916000	0:24:47.420000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:47.420000" end="0:24:47.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:47.420000" end="0:24:47.740000" persName="Informant 0363">
 nein	-	-	-	0:24:47.420000	0:24:47.740000
 .	-	-	-	0:24:47.420000	0:24:47.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:47.420000" end="0:24:49.188000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:47.420000" end="0:24:49.188000" persName="Informant 0357">
 hast	-	-	-	0:24:47.420000	0:24:47.740000
 du	-	-	-	0:24:47.420000	0:24:47.740000
 irgendeine	-	-	-	0:24:47.740000	0:24:48.372000
@@ -6185,25 +6186,25 @@ hingekommen	-	-	-	0:24:48.372000	0:24:49.188000
 ist	-	-	-	0:24:48.372000	0:24:49.188000
 ?	-	-	-	0:24:48.372000	0:24:49.188000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:49.188000" end="0:24:49.840000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:49.188000" end="0:24:49.840000" persName="Informant 0363">
 keine	-	-	-	0:24:49.188000	0:24:49.840000
 Ahnung	-	-	-	0:24:49.188000	0:24:49.840000
 .	-	-	-	0:24:49.188000	0:24:49.840000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:49.188000" end="0:24:51.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:49.188000" end="0:24:51.108000" persName="Informant 0357">
 okay	-	-	-	0:24:49.188000	0:24:49.840000
 .	-	-	-	0:24:49.188000	0:24:49.840000
 <pause duration="0,9s"/>
 mhm	-	-	-	0:24:49.840000	0:24:51.108000
 .	-	-	-	0:24:49.840000	0:24:51.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:51.108000" end="0:24:52.984000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:51.108000" end="0:24:52.984000" persName="Informant 0363">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:51.108000" end="0:24:52.984000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:51.108000" end="0:24:52.984000" persName="Informant 0357">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:52.984000" end="0:24:54.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:52.984000" end="0:24:54.792000" persName="Informant 0363">
 aber	-	-	-	0:24:52.984000	0:24:54.792000
 da	-	-	-	0:24:52.984000	0:24:54.792000
 hat	-	-	-	0:24:52.984000	0:24:54.792000
@@ -6215,18 +6216,18 @@ gekannt	-	-	-	0:24:52.984000	0:24:54.792000
 damals	-	-	-	0:24:52.984000	0:24:54.792000
 .	-	-	-	0:24:52.984000	0:24:54.792000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:54.800000" end="0:24:56.192000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:54.800000" end="0:24:56.192000" persName="Informant 0357">
 <pause duration="0,6s"/>
 vom	-	-	-	0:24:54.800000	0:24:56.192000
 Fortgehen	-	-	-	0:24:54.800000	0:24:56.192000
 *meinst*	-	-	-	0:24:54.800000	0:24:56.192000
 ?	-	-	-	0:24:54.800000	0:24:56.192000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:56.192000" end="0:24:56.648000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:56.192000" end="0:24:56.648000" persName="Informant 0363">
 mhm	-	-	-	0:24:56.192000	0:24:56.648000
 .	-	-	-	0:24:56.192000	0:24:56.648000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:56.648000" end="0:24:58.544000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:24:56.648000" end="0:24:58.544000" persName="Informant 0357">
 <pause duration="0,6s"/>
 warum	-	-	-	0:24:56.648000	0:24:58.544000
 man	-	-	-	0:24:56.648000	0:24:58.544000
@@ -6238,7 +6239,7 @@ auch	-	-	-	0:24:56.648000	0:24:58.544000
 noch	-	-	-	0:24:56.648000	0:24:58.544000
 ?	-	-	-	0:24:56.648000	0:24:58.544000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:58.548000" end="0:25:01.888000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:24:58.548000" end="0:25:01.888000" persName="Informant 0363">
 <pause duration="2,0s"/>
 ja	-	-	-	0:25:00.504000	0:25:01.888000
 ,	-	-	-	0:25:00.504000	0:25:01.888000
@@ -6247,7 +6248,7 @@ ich	-	-	-	0:25:00.504000	0:25:01.888000
 ich	-	-	-	0:25:00.504000	0:25:01.888000
 kenne	-	-	-	0:25:00.504000	0:25:01.888000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:00.504000" end="0:25:01.888000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:00.504000" end="0:25:01.888000" persName="Informant 0357">
 ja	-	-	-	0:25:00.504000	0:25:01.888000
 wir	-	-	-	0:25:00.504000	0:25:01.888000
 gehen	-	-	-	0:25:00.504000	0:25:01.888000
@@ -6256,7 +6257,7 @@ mehr	-	-	-	0:25:00.504000	0:25:01.888000
 fort	-	-	-	0:25:00.504000	0:25:01.888000
 .	-	-	-	0:25:00.504000	0:25:01.888000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:01.892000" end="0:25:03.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:01.892000" end="0:25:03.220000" persName="Informant 0363">
 ich	-	-	-	0:25:01.892000	0:25:03.220000
 kenne	-	-	-	0:25:01.892000	0:25:03.220000
 die	-	-	-	0:25:01.892000	0:25:03.220000
@@ -6266,23 +6267,23 @@ nicht	-	-	-	0:25:01.892000	0:25:03.220000
 mehr	-	-	-	0:25:01.892000	0:25:03.220000
 .	-	-	-	0:25:01.892000	0:25:03.220000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:03.220000" end="0:25:03.952000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:03.220000" end="0:25:03.952000" persName="Informant 0357">
 ja	-	-	-	0:25:03.220000	0:25:03.952000
 ,	-	-	-	0:25:03.220000	0:25:03.952000
 weil	-	-	-	0:25:03.220000	0:25:03.952000
 /.	-	-	-	0:25:03.220000	0:25:03.952000
 <pause duration="seufzen"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:03.952000" end="0:25:04.320000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:03.952000" end="0:25:04.320000" persName="Informant 0363">
 ja	-	-	-	0:25:03.952000	0:25:04.320000
 .	-	-	-	0:25:03.952000	0:25:04.320000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:04.320000" end="0:25:05.284000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:04.320000" end="0:25:05.284000" persName="Informant 0357">
 <pause duration="0,5s"/>
-[Hansi]N	-	-	-	0:25:04.320000	0:25:05.284000
+NAME	NAME	-	-	0:25:04.320000	0:25:05.284000
 ,	-	-	-	0:25:04.320000	0:25:05.284000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:05.284000" end="0:25:06.412000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:05.284000" end="0:25:06.412000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ja	-	-	-	0:25:05.284000	0:25:06.412000
 ,	-	-	-	0:25:05.284000	0:25:06.412000
@@ -6290,7 +6291,7 @@ ich	-	-	-	0:25:05.284000	0:25:06.412000
 *weiß*	-	-	-	0:25:05.284000	0:25:06.412000
 .	-	-	-	0:25:05.284000	0:25:06.412000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:06.412000" end="0:25:10.720000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:06.412000" end="0:25:10.720000" persName="Informant 0357">
 <pause duration="1,0s"/>
 *glaubst*	-	-	-	0:25:06.412000	0:25:07.632000
 ,	-	-	-	0:25:06.412000	0:25:07.632000
@@ -6309,13 +6310,13 @@ gekannt	-	-	-	0:25:09.452000	0:25:10.720000
 haben	-	-	-	0:25:09.452000	0:25:10.720000
 ?	-	-	-	0:25:09.452000	0:25:10.720000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:10.720000" end="0:25:13.512000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:10.720000" end="0:25:13.512000" persName="Informant 0363">
 <pause duration="0,9s"/>
 mich	-	-	-	0:25:10.720000	0:25:13.512000
 schon	-	-	-	0:25:10.720000	0:25:13.512000
 .	-	-	-	0:25:10.720000	0:25:13.512000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:13.512000" end="0:25:14.972000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:13.512000" end="0:25:14.972000" persName="Informant 0357">
 und	-	-	-	0:25:13.512000	0:25:14.972000
 wir	-	-	-	0:25:13.512000	0:25:14.972000
 kommen	-	-	-	0:25:13.512000	0:25:14.972000
@@ -6324,11 +6325,11 @@ auch	-	-	-	0:25:13.512000	0:25:14.972000
 nicht	-	-	-	0:25:13.512000	0:25:14.972000
 mehr	-	-	-	0:25:13.512000	0:25:14.972000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:14.972000" end="0:25:15.668000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:14.972000" end="0:25:15.668000" persName="Informant 0363">
 ja	-	-	-	0:25:14.972000	0:25:15.668000
 .	-	-	-	0:25:14.972000	0:25:15.668000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:14.972000" end="0:25:20.528000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:14.972000" end="0:25:20.528000" persName="Informant 0357">
 fort	-	-	-	0:25:14.972000	0:25:15.668000
 .	-	-	-	0:25:14.972000	0:25:15.668000
 <pause duration="1,0s"/>
@@ -6351,11 +6352,11 @@ auch	-	-	-	0:25:17.933000	0:25:20.528000
 glücklich	-	-	-	0:25:17.933000	0:25:20.528000
 .	-	-	-	0:25:17.933000	0:25:20.528000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:20.528000" end="0:25:21.365000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:20.528000" end="0:25:21.365000" persName="Informant 0363">
 mhm	-	-	-	0:25:20.528000	0:25:21.365000
 .	-	-	-	0:25:20.528000	0:25:21.365000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:20.528000" end="0:25:23.477000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:20.528000" end="0:25:23.477000" persName="Informant 0357">
 und	-	-	-	0:25:20.528000	0:25:21.365000
 auf	-	-	-	0:25:20.528000	0:25:21.365000
 die	-	-	-	0:25:20.528000	0:25:21.365000
@@ -6373,12 +6374,12 @@ ganz	-	-	-	0:25:22.680000	0:25:23.477000
 ehrlich	-	-	-	0:25:22.680000	0:25:23.477000
 .	-	-	-	0:25:22.680000	0:25:23.477000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:23.477000" end="0:25:29.680000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:23.477000" end="0:25:29.680000" persName="Informant 0363">
 ja	-	-	-	0:25:23.477000	0:25:23.845000
 .	-	-	-	0:25:23.477000	0:25:23.845000
 <pause duration="5,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:23.848000" end="0:25:36.228000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:23.848000" end="0:25:36.228000" persName="Informant 0357">
 <pause duration="5,9s"/>
 "Umzug	-	-	-	0:25:29.683000	0:25:30.987000
 nach	-	-	-	0:25:29.683000	0:25:30.987000
@@ -6402,15 +6403,15 @@ Gottes	-	-	-	0:25:35.450000	0:25:36.228000
 willen	-	-	-	0:25:35.450000	0:25:36.228000
 .	-	-	-	0:25:35.450000	0:25:36.228000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:36.228000" end="0:25:38.264000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:36.228000" end="0:25:38.264000" persName="Informant 0363">
 nein	-	-	-	0:25:36.228000	0:25:36.507000
 .	-	-	-	0:25:36.228000	0:25:36.507000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:36.507000" end="0:25:38.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:36.507000" end="0:25:38.264000" persName="Informant 0357">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:38.264000" end="0:25:40.650000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:38.264000" end="0:25:40.650000" persName="Informant 0363">
 und	-	-	-	0:25:38.264000	0:25:40.650000
 das	-	-	-	0:25:38.264000	0:25:40.650000
 Nächste	-	-	-	0:25:38.264000	0:25:40.650000
@@ -6423,7 +6424,7 @@ nicht	-	-	-	0:25:38.264000	0:25:40.650000
 infrage	-	-	-	0:25:38.264000	0:25:40.650000
 .	-	-	-	0:25:38.264000	0:25:40.650000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:40.650000" end="0:25:43.425000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:40.650000" end="0:25:43.425000" persName="Informant 0357">
 naja	-	-	-	0:25:40.650000	0:25:42.253000
 ,	-	-	-	0:25:40.650000	0:25:42.253000
 wir	-	-	-	0:25:40.650000	0:25:42.253000
@@ -6440,11 +6441,11 @@ in	-	-	-	0:25:42.253000	0:25:43.425000
 bleiben	-	-	-	0:25:42.253000	0:25:43.425000
 .	-	-	-	0:25:42.253000	0:25:43.425000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:43.425000" end="0:25:44.046000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:43.425000" end="0:25:44.046000" persName="Informant 0363">
 mhm	-	-	-	0:25:43.425000	0:25:44.046000
 .	-	-	-	0:25:43.425000	0:25:44.046000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:43.425000" end="0:25:55.836000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:43.425000" end="0:25:55.836000" persName="Informant 0357">
 wir	-	-	-	0:25:43.425000	0:25:44.046000
 haben	-	-	-	0:25:43.425000	0:25:44.046000
 /.	-	-	-	0:25:43.425000	0:25:44.046000
@@ -6483,11 +6484,11 @@ dem	-	-	-	0:25:54.440000	0:25:55.836000
 Hartzviersystem	-	-	-	0:25:54.440000	0:25:55.836000
 ,	-	-	-	0:25:54.440000	0:25:55.836000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:55.836000" end="0:25:56.552000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:25:55.836000" end="0:25:56.552000" persName="Informant 0363">
 mhm	-	-	-	0:25:55.836000	0:25:56.552000
 .	-	-	-	0:25:55.836000	0:25:56.552000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:55.836000" end="0:26:06.532000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:25:55.836000" end="0:26:06.532000" persName="Informant 0357">
 *was*	-	-	-	0:25:55.836000	0:25:56.552000
 haben	-	-	-	0:25:55.836000	0:25:56.552000
 ,	-	-	-	0:25:55.836000	0:25:56.552000
@@ -6531,11 +6532,11 @@ halt	-	-	-	0:26:05.480000	0:26:06.532000
 extra	-	-	-	0:26:05.480000	0:26:06.532000
 die	-	-	-	0:26:05.480000	0:26:06.532000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:06.532000" end="0:26:07.640000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:06.532000" end="0:26:07.640000" persName="Informant 0363">
 okay	-	-	-	0:26:06.532000	0:26:07.640000
 .	-	-	-	0:26:06.532000	0:26:07.640000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:06.532000" end="0:26:13.317000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:06.532000" end="0:26:13.317000" persName="Informant 0357">
 schrägeren	-	-	-	0:26:06.532000	0:26:07.640000
 heraussuchen	-	-	-	0:26:06.532000	0:26:07.640000
 für	-	-	-	0:26:07.640000	0:26:08.696000
@@ -6554,20 +6555,20 @@ ein	-	-	-	0:26:12.096000	0:26:13.317000
 Thema	-	-	-	0:26:12.096000	0:26:13.317000
 da	-	-	-	0:26:12.096000	0:26:13.317000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:13.320000" end="0:26:14.320000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:13.320000" end="0:26:14.320000" persName="Informant 0363">
 nein	-	-	-	0:26:13.320000	0:26:14.320000
 .	-	-	-	0:26:13.320000	0:26:14.320000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:13.320000" end="0:26:14.320000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:13.320000" end="0:26:14.320000" persName="Informant 0357">
 nach	-	-	-	0:26:13.320000	0:26:14.320000
 Deutschland	-	-	-	0:26:13.320000	0:26:14.320000
 zum	-	-	-	0:26:13.320000	0:26:14.320000
 ziehen	-	-	-	0:26:13.320000	0:26:14.320000
 ?	-	-	-	0:26:13.320000	0:26:14.320000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:14.320000" end="0:26:15.236000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:14.320000" end="0:26:15.236000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:14.320000" end="0:26:20.080000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:14.320000" end="0:26:20.080000" persName="Informant 0357">
 oder	-	-	-	0:26:14.320000	0:26:15.236000
 wäre	-	-	-	0:26:14.320000	0:26:15.236000
 /?	-	-	-	0:26:14.320000	0:26:15.236000
@@ -6590,18 +6591,18 @@ anschauen	-	-	-	0:26:16.708000	0:26:20.080000
 Landwirtschaft	-	-	-	0:26:16.708000	0:26:20.080000
 ?	-	-	-	0:26:16.708000	0:26:20.080000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:20.080000" end="0:26:22.008000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:20.080000" end="0:26:22.008000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ja	-	-	-	0:26:20.080000	0:26:21.192000
 ,	-	-	-	0:26:20.080000	0:26:21.192000
 zum	-	-	-	0:26:21.192000	0:26:22.008000
 an/	-	-	-	0:26:21.192000	0:26:22.008000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:21.192000" end="0:26:22.008000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:21.192000" end="0:26:22.008000" persName="Informant 0357">
 Ackerbau	-	-	-	0:26:21.192000	0:26:22.008000
 ?	-	-	-	0:26:21.192000	0:26:22.008000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:22.008000" end="0:26:25.956000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:22.008000" end="0:26:25.956000" persName="Informant 0363">
 zum	-	-	-	0:26:22.008000	0:26:22.968000
 Anschauen	-	-	-	0:26:22.008000	0:26:22.968000
 schon	-	-	-	0:26:22.008000	0:26:22.968000
@@ -6617,12 +6618,12 @@ Prinzip	-	-	-	0:26:25.328000	0:26:25.956000
 nicht	-	-	-	0:26:25.328000	0:26:25.956000
 .	-	-	-	0:26:25.328000	0:26:25.956000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:25.956000" end="0:26:26.748000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:25.956000" end="0:26:26.748000" persName="Informant 0357">
 warum	-	-	-	0:26:25.956000	0:26:26.748000
 nicht	-	-	-	0:26:25.956000	0:26:26.748000
 ?	-	-	-	0:26:25.956000	0:26:26.748000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:26.748000" end="0:26:46.088000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:26.748000" end="0:26:46.088000" persName="Informant 0363">
 <pause duration="0,8s"/>
 nein	-	-	-	0:26:26.748000	0:26:28.884000
 ,	-	-	-	0:26:26.748000	0:26:28.884000
@@ -6671,15 +6672,15 @@ haben	-	-	-	0:26:42.916000	0:26:43.540000
 .	-	-	-	0:26:42.916000	0:26:43.540000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:43.540000" end="0:26:46.536000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:43.540000" end="0:26:46.536000" persName="Informant 0357">
 <pause duration="2,5s"/>
 okay	-	-	-	0:26:46.088000	0:26:46.536000
 .	-	-	-	0:26:46.088000	0:26:46.536000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:46.536000" end="0:26:48.844000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:46.536000" end="0:26:48.844000" persName="Informant 0363">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:46.536000" end="0:26:50.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:46.536000" end="0:26:50.264000" persName="Informant 0357">
 <pause duration="2,3s"/>
 da	-	-	-	0:26:48.844000	0:26:49.756000
 ,	-	-	-	0:26:48.844000	0:26:49.756000
@@ -6690,19 +6691,19 @@ weiter	-	-	-	0:26:48.844000	0:26:49.756000
 "Heimat"	-	-	-	0:26:49.756000	0:26:50.264000
 .	-	-	-	0:26:49.756000	0:26:50.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:50.264000" end="0:26:51.464000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:50.264000" end="0:26:51.464000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:51.464000" end="0:26:53.048000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:26:51.464000" end="0:26:53.048000" persName="Informant 0357">
 was	-	-	-	0:26:51.464000	0:26:53.048000
 ist	-	-	-	0:26:51.464000	0:26:53.048000
 für	-	-	-	0:26:51.464000	0:26:53.048000
 dich	-	-	-	0:26:51.464000	0:26:53.048000
 Heimat	-	-	-	0:26:51.464000	0:26:53.048000
 ,	-	-	-	0:26:51.464000	0:26:53.048000
-[Hansi]N	-	-	-	0:26:51.464000	0:26:53.048000
+NAME	NAME	-	-	0:26:51.464000	0:26:53.048000
 ?	-	-	-	0:26:51.464000	0:26:53.048000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:53.048000" end="0:27:23.848000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:26:53.048000" end="0:27:23.848000" persName="Informant 0363">
 <pause duration="0,5s"/>
 Heimat	-	-	-	0:26:53.048000	0:26:54.108000
 ,	-	-	-	0:26:53.048000	0:26:54.108000
@@ -6774,7 +6775,7 @@ kennt	-	-	-	0:27:14.764000	0:27:16.372000
 .	-	-	-	0:27:14.764000	0:27:16.372000
 <pause duration="7,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:27:16.368000" end="0:27:35.728000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:27:16.368000" end="0:27:35.728000" persName="Informant 0357">
 <pause duration="7,5s"/>
 ist	-	-	-	0:27:23.848000	0:27:31.288000
 für	-	-	-	0:27:23.848000	0:27:31.288000
@@ -6807,7 +6808,7 @@ fühlst	-	-	-	0:27:33.412000	0:27:35.728000
 gell	-	-	-	0:27:33.412000	0:27:35.728000
 ?	-	-	-	0:27:33.412000	0:27:35.728000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:27:35.728000" end="0:27:43.160000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:27:35.728000" end="0:27:43.160000" persName="Informant 0363">
 ja	-	-	-	0:27:35.728000	0:27:37.016000
 ,	-	-	-	0:27:35.728000	0:27:37.016000
 (also)	-	-	-	0:27:35.728000	0:27:37.016000
@@ -6834,7 +6835,7 @@ haben	-	-	-	0:27:40.912000	0:27:41.784000
 untereinander	-	-	-	0:27:41.784000	0:27:43.160000
 .	-	-	-	0:27:41.784000	0:27:43.160000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:27:41.784000" end="0:28:04.352000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:27:41.784000" end="0:28:04.352000" persName="Informant 0357">
 <pause duration="0,7s"/>
 beim	-	-	-	0:27:41.784000	0:27:43.160000
 beim	-	-	-	0:27:43.160000	0:27:45.316000
@@ -6842,7 +6843,7 @@ ersten	-	-	-	0:27:43.160000	0:27:45.316000
 Gespräch	-	-	-	0:27:43.160000	0:27:45.316000
 mit	-	-	-	0:27:43.160000	0:27:45.316000
 der	-	-	-	0:27:43.160000	0:27:45.316000
-[Johanna]N	-	-	-	0:27:43.160000	0:27:45.316000
+NAME	NAME	-	-	0:27:43.160000	0:27:45.316000
 <pause duration="1,6s"/>
 ähm	-	-	-	0:27:46.936000	0:27:49.532000
 sind	-	-	-	0:27:46.936000	0:27:49.532000
@@ -6914,11 +6915,11 @@ ist	-	-	-	0:28:03.736000	0:28:04.352000
 ja	-	-	-	0:28:03.736000	0:28:04.352000
 wurscht	-	-	-	0:28:03.736000	0:28:04.352000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:04.352000" end="0:28:04.712000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:04.352000" end="0:28:04.712000" persName="Informant 0363">
 mhm	-	-	-	0:28:04.352000	0:28:04.712000
 .	-	-	-	0:28:04.352000	0:28:04.712000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:04.352000" end="0:28:09.676000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:04.352000" end="0:28:09.676000" persName="Informant 0357">
 was	-	-	-	0:28:04.352000	0:28:04.712000
 ,	-	-	-	0:28:04.352000	0:28:04.712000
 ich	-	-	-	0:28:04.712000	0:28:07.676000
@@ -6939,27 +6940,27 @@ immer	-	-	-	0:28:07.676000	0:28:09.676000
 dableiben	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:28:07.676000	0:28:09.676000
 .	-	-	-	0:28:07.676000	0:28:09.676000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:09.676000" end="0:28:10.572000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:09.676000" end="0:28:10.572000" persName="Informant 0363">
 ja	-	-	-	0:28:09.676000	0:28:10.572000
 .	-	-	-	0:28:09.676000	0:28:10.572000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:09.676000" end="0:28:12.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:09.676000" end="0:28:12.860000" persName="Informant 0357">
 ich	-	-	-	0:28:09.676000	0:28:10.572000
 würde	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:28:09.676000	0:28:10.572000
 nie	-	-	-	0:28:09.676000	0:28:10.572000
 mehr	-	-	-	0:28:09.676000	0:28:10.572000
 nach	-	-	-	0:28:10.572000	0:28:12.860000
-[Falkenstein]O	-	-	-	0:28:10.572000	0:28:12.860000
+ORT	ORT	-	-	0:28:10.572000	0:28:12.860000
 heimfahren	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:28:10.572000	0:28:12.860000
 heim	-	-	-	0:28:10.572000	0:28:12.860000
 wohnen	-	-	-	0:28:10.572000	0:28:12.860000
 .	-	-	-	0:28:10.572000	0:28:12.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:12.860000" end="0:28:13.340000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:12.860000" end="0:28:13.340000" persName="Informant 0363">
 mhm	-	-	-	0:28:12.860000	0:28:13.340000
 .	-	-	-	0:28:12.860000	0:28:13.340000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:13.340000" end="0:28:16.796000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:13.340000" end="0:28:16.796000" persName="Informant 0357">
 <pause duration="1,9s"/>
 ich	-	-	-	0:28:15.156000	0:28:16.796000
 meine	-	-	-	0:28:15.156000	0:28:16.796000
@@ -6971,7 +6972,7 @@ da	-	-	-	0:28:15.156000	0:28:16.796000
 oben	-	-	-	0:28:15.156000	0:28:16.796000
 .	-	-	-	0:28:15.156000	0:28:16.796000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:16.796000" end="0:28:22.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:16.796000" end="0:28:22.500000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ja	-	-	-	0:28:16.796000	0:28:17.668000
 ,	-	-	-	0:28:16.796000	0:28:17.668000
@@ -6992,7 +6993,7 @@ schlechten	-	-	-	0:28:20.712000	0:28:22.500000
 Straßen	-	-	-	0:28:20.712000	0:28:22.500000
 .	-	-	-	0:28:20.712000	0:28:22.500000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:22.500000" end="0:28:24.840000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:22.500000" end="0:28:24.840000" persName="Informant 0357">
 wann	-	-	-	0:28:22.500000	0:28:23.744000
 *kaufst*	-	-	-	0:28:22.500000	0:28:23.744000
 denn	-	-	-	0:28:22.500000	0:28:23.744000
@@ -7006,7 +7007,7 @@ gehen	-	-	-	0:28:23.744000	0:28:24.840000
 können	-	-	-	0:28:23.744000	0:28:24.840000
 ?	-	-	-	0:28:23.744000	0:28:24.840000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:24.840000" end="0:28:26.884000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:24.840000" end="0:28:26.884000" persName="Informant 0363">
 <pause duration="0,6s"/>
 hm	-	-	-	0:28:24.840000	0:28:26.236000
 ,	-	-	-	0:28:24.840000	0:28:26.236000
@@ -7015,11 +7016,11 @@ ich	-	-	-	0:28:24.840000	0:28:26.236000
 nicht	-	-	-	0:28:24.840000	0:28:26.236000
 .	-	-	-	0:28:24.840000	0:28:26.236000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:26.236000" end="0:28:26.884000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:26.236000" end="0:28:26.884000" persName="Informant 0357">
 okay	-	-	-	0:28:26.236000	0:28:26.884000
 .	-	-	-	0:28:26.236000	0:28:26.884000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:26.884000" end="0:28:28.468000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:26.884000" end="0:28:28.468000" persName="Informant 0363">
 <pause duration="0,9s"/>
 wenn	-	-	-	0:28:26.884000	0:28:28.468000
 ich	-	-	-	0:28:26.884000	0:28:28.468000
@@ -7028,7 +7029,7 @@ Zeit	-	-	-	0:28:26.884000	0:28:28.468000
 habe	-	-	-	0:28:26.884000	0:28:28.468000
 .	-	-	-	0:28:26.884000	0:28:28.468000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:28.468000" end="0:28:31.488000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:28.468000" end="0:28:31.488000" persName="Informant 0357">
 <pause duration="0,8s"/>
 ja	-	-	-	0:28:28.468000	0:28:29.716000
 ,	-	-	-	0:28:28.468000	0:28:29.716000
@@ -7045,7 +7046,7 @@ einkaufen	-	-	-	0:28:30.584000	0:28:31.488000
 gehen	-	-	-	0:28:30.584000	0:28:31.488000
 .	-	-	-	0:28:30.584000	0:28:31.488000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:31.488000" end="0:28:33.012000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:31.488000" end="0:28:33.012000" persName="Informant 0363">
 hm	-	-	-	0:28:31.488000	0:28:33.012000
 ,	-	-	-	0:28:31.488000	0:28:33.012000
 Samstag	-	-	-	0:28:31.488000	0:28:33.012000
@@ -7055,7 +7056,7 @@ nicht	-	-	-	0:28:31.488000	0:28:33.012000
 Zeit	-	-	-	0:28:31.488000	0:28:33.012000
 .	-	-	-	0:28:31.488000	0:28:33.012000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:33.012000" end="0:28:34.556000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:33.012000" end="0:28:34.556000" persName="Informant 0357">
 okay	-	-	-	0:28:33.012000	0:28:34.556000
 ,	-	-	-	0:28:33.012000	0:28:34.556000
 dann	-	-	-	0:28:33.012000	0:28:34.556000
@@ -7063,12 +7064,12 @@ halt	-	-	-	0:28:33.012000	0:28:34.556000
 nicht	-	-	-	0:28:33.012000	0:28:34.556000
 .	-	-	-	0:28:33.012000	0:28:34.556000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:34.556000" end="0:28:39.683000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:34.556000" end="0:28:39.683000" persName="Informant 0363">
 nein	-	-	-	0:28:34.556000	0:28:34.852000
 .	-	-	-	0:28:34.556000	0:28:34.852000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:34.851000" end="0:28:46.846000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:34.851000" end="0:28:46.846000" persName="Informant 0357">
 <pause duration="4,8s"/>
 "Vereine	-	-	-	0:28:39.682000	0:28:41.250000
 am	-	-	-	0:28:39.682000	0:28:41.250000
@@ -7102,18 +7103,18 @@ fortkommen	-	-	-	0:28:45.228000	0:28:46.450000
 so	-	-	-	0:28:46.450000	0:28:46.846000
 ein	-	-	-	0:28:46.450000	0:28:46.846000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:46.846000" end="0:28:47.953000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:46.846000" end="0:28:47.953000" persName="Informant 0363">
 ja	-	-	-	0:28:46.846000	0:28:47.953000
 .	-	-	-	0:28:46.846000	0:28:47.953000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:46.846000" end="0:28:49.475000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:46.846000" end="0:28:49.475000" persName="Informant 0357">
 Sparverein	-	-	-	0:28:46.846000	0:28:47.953000
 ,	-	-	-	0:28:46.846000	0:28:47.953000
 ein	-	-	-	0:28:47.950000	0:28:49.475000
 Eisschützenverein	-	-	-	0:28:47.950000	0:28:49.475000
 ,	-	-	-	0:28:47.950000	0:28:49.475000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:49.478000" end="0:28:51.010000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:49.478000" end="0:28:51.010000" persName="Informant 0363">
 *dass*	-	-	-	0:28:49.478000	0:28:51.010000
 unter	-	-	-	0:28:49.478000	0:28:51.010000
 die	-	-	-	0:28:49.478000	0:28:51.010000
@@ -7121,7 +7122,7 @@ Leute	-	-	-	0:28:49.478000	0:28:51.010000
 kommen	-	-	-	0:28:49.478000	0:28:51.010000
 .	-	-	-	0:28:49.478000	0:28:51.010000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:49.478000" end="0:28:58.867000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:49.478000" end="0:28:58.867000" persName="Informant 0357">
 dann	-	-	-	0:28:49.478000	0:28:51.010000
 die	-	-	-	0:28:49.478000	0:28:51.010000
 ja/	-	-	-	0:28:49.478000	0:28:51.010000
@@ -7159,22 +7160,22 @@ nur	-	-	-	0:28:57.560000	0:28:58.867000
 den	-	-	-	0:28:57.560000	0:28:58.867000
 (?)	-	-	-	0:28:57.560000	0:28:58.867000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:58.867000" end="0:28:59.917000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:58.867000" end="0:28:59.917000" persName="Informant 0363">
 ja	-	-	-	0:28:58.867000	0:28:59.917000
 .	-	-	-	0:28:58.867000	0:28:59.917000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:58.867000" end="0:28:59.917000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:58.867000" end="0:28:59.917000" persName="Informant 0357">
 Sparverein	-	-	-	0:28:58.867000	0:28:59.917000
 anschauen	-	-	-	0:28:58.867000	0:28:59.917000
 .	-	-	-	0:28:58.867000	0:28:59.917000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:59.917000" end="0:29:01.085000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:28:59.917000" end="0:29:01.085000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:59.917000" end="0:29:01.085000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:28:59.917000" end="0:29:01.085000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:01.085000" end="0:29:07.035000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:01.085000" end="0:29:07.035000" persName="Informant 0363">
 ja	-	-	-	0:29:01.085000	0:29:02.646000
 ,	-	-	-	0:29:01.085000	0:29:02.646000
 es	-	-	-	0:29:01.085000	0:29:02.646000
@@ -7200,14 +7201,14 @@ beruflich	-	-	-	0:29:05.985000	0:29:07.035000
 auch	-	-	-	0:29:05.985000	0:29:07.035000
 ,	-	-	-	0:29:05.985000	0:29:07.035000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:07.035000" end="0:29:08.007000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:07.035000" end="0:29:08.007000" persName="Informant 0357">
 ja	-	-	-	0:29:07.035000	0:29:08.007000
 ,	-	-	-	0:29:07.035000	0:29:08.007000
 ich	-	-	-	0:29:07.035000	0:29:08.007000
 sage	-	-	-	0:29:07.035000	0:29:08.007000
 ja	-	-	-	0:29:07.035000	0:29:08.007000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:08.007000" end="0:29:09.446000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:08.007000" end="0:29:09.446000" persName="Informant 0363">
 haben	-	-	-	0:29:08.007000	0:29:09.446000
 wir	-	-	-	0:29:08.007000	0:29:09.446000
 das	-	-	-	0:29:08.007000	0:29:09.446000
@@ -7216,13 +7217,13 @@ so	-	-	-	0:29:08.007000	0:29:09.446000
 notwendig	-	-	-	0:29:08.007000	0:29:09.446000
 wie	-	-	-	0:29:08.007000	0:29:09.446000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:08.007000" end="0:29:09.446000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:08.007000" end="0:29:09.446000" persName="Informant 0357">
 und	-	-	-	0:29:08.007000	0:29:09.446000
 und	-	-	-	0:29:08.007000	0:29:09.446000
 früher	-	-	-	0:29:08.007000	0:29:09.446000
 /.	-	-	-	0:29:08.007000	0:29:09.446000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:09.446000" end="0:29:16.821000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:09.446000" end="0:29:16.821000" persName="Informant 0363">
 die	-	-	-	0:29:09.446000	0:29:10.196000
 anderen	-	-	-	0:29:09.446000	0:29:10.196000
 Leute	-	-	-	0:29:09.446000	0:29:10.196000
@@ -7261,7 +7262,7 @@ war	-	-	-	0:29:16.164000	0:29:16.821000
 es	-	-	-	0:29:16.164000	0:29:16.821000
 .	-	-	-	0:29:16.164000	0:29:16.821000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:16.164000" end="0:29:18.203000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:16.164000" end="0:29:18.203000" persName="Informant 0357">
 ja	-	-	-	0:29:16.164000	0:29:16.821000
 ,	-	-	-	0:29:16.164000	0:29:16.821000
 aber	-	-	-	0:29:16.164000	0:29:16.821000
@@ -7274,23 +7275,23 @@ viele	-	-	-	0:29:16.821000	0:29:18.203000
 Vereine	-	-	-	0:29:16.821000	0:29:18.203000
 .	-	-	-	0:29:16.821000	0:29:18.203000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:18.203000" end="0:29:19.203000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:18.203000" end="0:29:19.203000" persName="Informant 0363">
 naja	-	-	-	0:29:18.203000	0:29:19.203000
 .	-	-	-	0:29:18.203000	0:29:19.203000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:18.203000" end="0:29:19.203000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:18.203000" end="0:29:19.203000" persName="Informant 0357">
 ja	-	-	-	0:29:18.203000	0:29:19.203000
 okay	-	-	-	0:29:18.203000	0:29:19.203000
 Verein	-	-	-	0:29:18.203000	0:29:19.203000
 ,	-	-	-	0:29:18.203000	0:29:19.203000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:19.203000" end="0:29:20.939000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:19.203000" end="0:29:20.939000" persName="Informant 0363">
 ja	-	-	-	0:29:19.203000	0:29:20.939000
 (eben	-	-	-	0:29:19.203000	0:29:20.939000
 schon)	-	-	-	0:29:19.203000	0:29:20.939000
 .	-	-	-	0:29:19.203000	0:29:20.939000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:19.203000" end="0:29:20.939000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:19.203000" end="0:29:20.939000" persName="Informant 0357">
 es	-	-	-	0:29:19.203000	0:29:20.939000
 gibt	-	-	-	0:29:19.203000	0:29:20.939000
 schon	-	-	-	0:29:19.203000	0:29:20.939000
@@ -7298,19 +7299,19 @@ den	-	-	-	0:29:19.203000	0:29:20.939000
 ESV	-	-	-	0:29:19.203000	0:29:20.939000
 .	-	-	-	0:29:19.203000	0:29:20.939000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:20.942000" end="0:29:22.307000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:20.942000" end="0:29:22.307000" persName="Informant 0363">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:20.942000" end="0:29:22.307000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:20.942000" end="0:29:22.307000" persName="Informant 0357">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:22.307000" end="0:29:22.767000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:22.307000" end="0:29:22.767000" persName="Informant 0363">
 (wenige)	-	-	-	0:29:22.307000	0:29:22.767000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:22.307000" end="0:29:22.767000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:22.307000" end="0:29:22.767000" persName="Informant 0357">
 aber	-	-	-	0:29:22.307000	0:29:22.767000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:22.767000" end="0:29:29.032000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:22.767000" end="0:29:29.032000" persName="Informant 0363">
 sind	-	-	-	0:29:22.767000	0:29:23.782000
 nicht	-	-	-	0:29:22.767000	0:29:23.782000
 .	-	-	-	0:29:22.767000	0:29:23.782000
@@ -7340,14 +7341,14 @@ anderen	-	-	-	0:29:27.546000	0:29:29.032000
 Leuten	-	-	-	0:29:27.546000	0:29:29.032000
 sonst	-	-	-	0:29:27.546000	0:29:29.032000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:29.032000" end="0:29:30.546000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:29.032000" end="0:29:30.546000" persName="Informant 0357">
 <pause duration="0,8s"/>
 ja	-	-	-	0:29:29.032000	0:29:30.546000
 und	-	-	-	0:29:29.032000	0:29:30.546000
 früher	-	-	-	0:29:29.032000	0:29:30.546000
 ?	-	-	-	0:29:29.032000	0:29:30.546000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:30.546000" end="0:29:34.185000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:30.546000" end="0:29:34.185000" persName="Informant 0363">
 und	-	-	-	0:29:30.546000	0:29:31.446000
 die	-	-	-	0:29:30.546000	0:29:31.446000
 brauchen	-	-	-	0:29:30.546000	0:29:31.446000
@@ -7360,7 +7361,7 @@ ist	-	-	-	0:29:32.928000	0:29:34.185000
 halt	-	-	-	0:29:32.928000	0:29:34.185000
 /.	-	-	-	0:29:32.928000	0:29:34.185000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:34.185000" end="0:29:36.185000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:34.185000" end="0:29:36.185000" persName="Informant 0357">
 da	-	-	-	0:29:34.185000	0:29:36.185000
 (haben)	-	-	-	0:29:34.185000	0:29:36.185000
 sind	-	-	-	0:29:34.185000	0:29:36.185000
@@ -7370,7 +7371,7 @@ nirgends	-	-	-	0:29:34.185000	0:29:36.185000
 hingekommen	-	-	-	0:29:34.185000	0:29:36.185000
 .	-	-	-	0:29:34.185000	0:29:36.185000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:36.185000" end="0:29:42.607000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:36.185000" end="0:29:42.607000" persName="Informant 0363">
 ja	-	-	-	0:29:36.185000	0:29:38.221000
 ,	-	-	-	0:29:36.185000	0:29:38.221000
 durch	-	-	-	0:29:36.185000	0:29:38.221000
@@ -7400,12 +7401,12 @@ zum	-	-	-	0:29:40.692000	0:29:42.607000
 Beispiel	-	-	-	0:29:40.692000	0:29:42.607000
 .	-	-	-	0:29:40.692000	0:29:42.607000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:42.607000" end="0:29:43.292000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:42.607000" end="0:29:43.292000" persName="Informant 0357">
 die	-	-	-	0:29:42.607000	0:29:43.292000
 Jager	-	-	-	0:29:42.607000	0:29:43.292000
 .	-	-	-	0:29:42.607000	0:29:43.292000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:43.292000" end="0:29:46.278000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:43.292000" end="0:29:46.278000" persName="Informant 0363">
 ja	-	-	-	0:29:43.292000	0:29:45.671000
 ,	-	-	-	0:29:43.292000	0:29:45.671000
 also	-	-	-	0:29:43.292000	0:29:45.671000
@@ -7418,7 +7419,7 @@ halt	-	-	-	0:29:43.292000	0:29:45.671000
 ja	-	-	-	0:29:45.671000	0:29:46.278000
 .	-	-	-	0:29:45.671000	0:29:46.278000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:45.671000" end="0:29:50.514000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:45.671000" end="0:29:50.514000" persName="Informant 0357">
 oder	-	-	-	0:29:45.671000	0:29:46.278000
 die	-	-	-	0:29:45.671000	0:29:46.278000
 ,	-	-	-	0:29:45.671000	0:29:46.278000
@@ -7437,15 +7438,15 @@ die	-	-	-	0:29:47.685000	0:29:50.514000
 die	-	-	-	0:29:47.685000	0:29:50.514000
 Platzsteher	-	-	-	0:29:47.685000	0:29:50.514000
 von	-	-	-	0:29:47.685000	0:29:50.514000
-[Passail]O	-	-	-	0:29:47.685000	0:29:50.514000
+Passail	-	-	-	0:29:47.685000	0:29:50.514000
 drüben	-	-	-	0:29:47.685000	0:29:50.514000
 ,	-	-	-	0:29:47.685000	0:29:50.514000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:50.514000" end="0:29:51.050000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:50.514000" end="0:29:51.050000" persName="Informant 0363">
 ja	-	-	-	0:29:50.514000	0:29:51.050000
 .	-	-	-	0:29:50.514000	0:29:51.050000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:51.050000" end="0:29:54.042000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:51.050000" end="0:29:54.042000" persName="Informant 0357">
 die	-	-	-	0:29:51.050000	0:29:54.042000
 was	-	-	-	0:29:51.050000	0:29:54.042000
 immer	-	-	-	0:29:51.050000	0:29:54.042000
@@ -7454,24 +7455,24 @@ der	-	-	-	0:29:51.050000	0:29:54.042000
 Raiffeisenbank	-	-	-	0:29:51.050000	0:29:54.042000
 stehen	-	-	-	0:29:51.050000	0:29:54.042000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:54.042000" end="0:29:55.060000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:54.042000" end="0:29:55.060000" persName="Informant 0363">
 mhm	-	-	-	0:29:54.042000	0:29:55.060000
 ,	-	-	-	0:29:54.042000	0:29:55.060000
 sonntags	-	-	-	0:29:54.042000	0:29:55.060000
 .	-	-	-	0:29:54.042000	0:29:55.060000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:54.042000" end="0:29:55.782000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:54.042000" end="0:29:55.782000" persName="Informant 0357">
 da	-	-	-	0:29:54.042000	0:29:55.060000
 sonntags	-	-	-	0:29:55.060000	0:29:55.782000
 ,	-	-	-	0:29:55.060000	0:29:55.782000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:55.782000" end="0:29:56.564000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:29:55.782000" end="0:29:56.564000" persName="Informant 0363">
 nach	-	-	-	0:29:55.782000	0:29:56.564000
 der	-	-	-	0:29:55.782000	0:29:56.564000
 Kirche	-	-	-	0:29:55.782000	0:29:56.564000
 .	-	-	-	0:29:55.782000	0:29:56.564000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:55.782000" end="0:30:01.403000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:29:55.782000" end="0:30:01.403000" persName="Informant 0357">
 die	-	-	-	0:29:55.782000	0:29:56.564000
 was	-	-	-	0:29:55.782000	0:29:56.564000
 alle	-	-	-	0:29:56.564000	0:29:57.425000
@@ -7486,8 +7487,8 @@ nicht	-	-	-	0:29:57.425000	0:29:58.675000
 und	-	-	-	0:29:58.675000	0:30:00.342000
 wer	-	-	-	0:29:58.675000	0:30:00.342000
 zum	-	-	-	0:29:58.675000	0:30:00.342000
-[Hexenstumm	-	-	-	0:29:58.675000	0:30:00.342000
-Christian]N	-	-	-	0:29:58.675000	0:30:00.342000
+NAME	NAME	-	-	0:29:58.675000	0:30:00.342000
+NAME	NAME	-	-	0:29:58.675000	0:30:00.342000
 hineingeht	-	-	-	0:29:58.675000	0:30:00.342000
 ,	-	-	-	0:29:58.675000	0:30:00.342000
 ein	-	-	-	0:30:00.342000	0:30:01.403000
@@ -7496,16 +7497,16 @@ trinken	-	-	-	0:30:00.342000	0:30:01.403000
 tut	-	-	-	0:30:00.342000	0:30:01.403000
 .	-	-	-	0:30:00.342000	0:30:01.403000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:01.403000" end="0:30:02.141000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:01.403000" end="0:30:02.141000" persName="Informant 0363">
 mhm	-	-	-	0:30:01.403000	0:30:02.141000
 .	-	-	-	0:30:01.403000	0:30:02.141000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:02.141000" end="0:30:03.834000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:02.141000" end="0:30:03.834000" persName="Informant 0357">
 <pause duration="1,1s"/>
 der	-	-	-	0:30:03.237000	0:30:03.834000
 ,	-	-	-	0:30:03.237000	0:30:03.834000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:03.832000" end="0:30:05.535000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:03.832000" end="0:30:05.535000" persName="Informant 0363">
 ist	-	-	-	0:30:03.832000	0:30:04.525000
 zwar	-	-	-	0:30:03.832000	0:30:04.525000
 kein	-	-	-	0:30:03.832000	0:30:04.525000
@@ -7514,7 +7515,7 @@ Verein	-	-	-	0:30:04.525000	0:30:05.535000
 aber	-	-	-	0:30:04.525000	0:30:05.535000
 /.	-	-	-	0:30:04.525000	0:30:05.535000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:04.525000" end="0:30:09.795000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:04.525000" end="0:30:09.795000" persName="Informant 0357">
 du	-	-	-	0:30:04.525000	0:30:05.535000
 ,	-	-	-	0:30:04.525000	0:30:05.535000
 der	-	-	-	0:30:04.525000	0:30:05.535000
@@ -7528,7 +7529,7 @@ er	-	-	-	0:30:06.525000	0:30:07.795000
 ,	-	-	-	0:30:06.525000	0:30:07.795000
 draußen	-	-	-	0:30:06.525000	0:30:07.795000
 der	-	-	-	0:30:06.525000	0:30:07.795000
-[Windisch]N	-	-	-	0:30:06.525000	0:30:07.795000
+NAME	NAME	-	-	0:30:06.525000	0:30:07.795000
 ?	-	-	-	0:30:06.525000	0:30:07.795000
 der	-	-	-	0:30:07.795000	0:30:08.241000
 /.	-	-	-	0:30:07.795000	0:30:08.241000
@@ -7539,14 +7540,14 @@ Hausnamen	-	-	-	0:30:08.241000	0:30:09.795000
 schnell	-	-	-	0:30:08.241000	0:30:09.795000
 .	-	-	-	0:30:08.241000	0:30:09.795000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:09.795000" end="0:30:11.027000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:09.795000" end="0:30:11.027000" persName="Informant 0363">
 hm	-	-	-	0:30:09.795000	0:30:11.027000
 ,	-	-	-	0:30:09.795000	0:30:11.027000
 der	-	-	-	0:30:09.795000	0:30:11.027000
-[(Helf)]N	-	-	-	0:30:09.795000	0:30:11.027000
+NAME	NAME	-	-	0:30:09.795000	0:30:11.027000
 ?	-	-	-	0:30:09.795000	0:30:11.027000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:11.027000" end="0:30:15.612000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:11.027000" end="0:30:15.612000" persName="Informant 0357">
 nein	-	-	-	0:30:11.027000	0:30:12.158000
 ,	-	-	-	0:30:11.027000	0:30:12.158000
 <pause duration="0,8s"/>
@@ -7566,12 +7567,12 @@ mei	-	-	-	0:30:15.335000	0:30:15.612000
 ,	-	-	-	0:30:15.335000	0:30:15.612000
 jetzt	-	-	-	0:30:15.335000	0:30:15.612000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:15.612000" end="0:30:16.525000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:15.612000" end="0:30:16.525000" persName="Informant 0363">
 der	-	-	-	0:30:15.612000	0:30:16.525000
-[Böckelbauer]N	-	-	-	0:30:15.612000	0:30:16.525000
+NAME	NAME	-	-	0:30:15.612000	0:30:16.525000
 ?	-	-	-	0:30:15.612000	0:30:16.525000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:15.612000" end="0:30:17.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:15.612000" end="0:30:17.632000" persName="Informant 0357">
 fällt	-	-	-	0:30:15.612000	0:30:16.525000
 mir	-	-	-	0:30:15.612000	0:30:16.525000
 der	-	-	-	0:30:15.612000	0:30:16.525000
@@ -7580,18 +7581,18 @@ Name	-	-	-	0:30:15.612000	0:30:16.525000
 ja	-	-	-	0:30:15.612000	0:30:16.525000
 ,	-	-	-	0:30:15.612000	0:30:16.525000
 der	-	-	-	0:30:15.612000	0:30:16.525000
-[Böckelbauer]N	-	-	-	0:30:16.525000	0:30:17.261000
+NAME	NAME	-	-	0:30:16.525000	0:30:17.261000
 ,	-	-	-	0:30:16.525000	0:30:17.261000
 genau	-	-	-	0:30:16.525000	0:30:17.261000
 .	-	-	-	0:30:16.525000	0:30:17.261000
 jetzt	-	-	-	0:30:17.261000	0:30:17.632000
 fällt	-	-	-	0:30:17.261000	0:30:17.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:17.632000" end="0:30:18.362000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:17.632000" end="0:30:18.362000" persName="Informant 0363">
 mhm	-	-	-	0:30:17.632000	0:30:18.362000
 .	-	-	-	0:30:17.632000	0:30:18.362000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:17.632000" end="0:30:18.362000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:17.632000" end="0:30:18.362000" persName="Informant 0357">
 mir	-	-	-	0:30:17.632000	0:30:18.362000
 der	-	-	-	0:30:17.632000	0:30:18.362000
 Name	-	-	-	0:30:17.632000	0:30:18.362000
@@ -7599,9 +7600,9 @@ nicht	-	-	-	0:30:17.632000	0:30:18.362000
 ein	-	-	-	0:30:17.632000	0:30:18.362000
 .	-	-	-	0:30:17.632000	0:30:18.362000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:18.362000" end="0:30:22.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:18.362000" end="0:30:22.996000" persName="Informant 0363">
 <pause duration="0,7s"/>
-[Böckelbauer]N	-	-	-	0:30:18.362000	0:30:20.175000
+NAME	NAME	-	-	0:30:18.362000	0:30:20.175000
 ,	-	-	-	0:30:18.362000	0:30:20.175000
 (der)	-	-	-	0:30:18.362000	0:30:20.175000
 fährt	-	-	-	0:30:18.362000	0:30:20.175000
@@ -7615,14 +7616,14 @@ die	-	-	-	0:30:22.420000	0:30:22.996000
 Großbauern	-	-	-	0:30:22.420000	0:30:22.996000
 .	-	-	-	0:30:22.420000	0:30:22.996000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:22.996000" end="0:30:23.836000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:22.996000" end="0:30:23.836000" persName="Informant 0357">
 mhm	-	-	-	0:30:22.996000	0:30:23.836000
 .	-	-	-	0:30:22.996000	0:30:23.836000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:23.840000" end="0:30:25.024000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:23.840000" end="0:30:25.024000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:23.840000" end="0:30:26.776000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:23.840000" end="0:30:26.776000" persName="Informant 0357">
 <pause duration="1,2s"/>
 ach	-	-	-	0:30:25.024000	0:30:26.776000
 früher	-	-	-	0:30:25.024000	0:30:26.776000
@@ -7631,11 +7632,11 @@ das	-	-	-	0:30:25.024000	0:30:26.776000
 halt	-	-	-	0:30:25.024000	0:30:26.776000
 Verein	-	-	-	0:30:25.024000	0:30:26.776000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:26.776000" end="0:30:27.440000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:26.776000" end="0:30:27.440000" persName="Informant 0363">
 mhm	-	-	-	0:30:26.776000	0:30:27.440000
 .	-	-	-	0:30:26.776000	0:30:27.440000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:27.440000" end="0:30:29.908000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:27.440000" end="0:30:29.908000" persName="Informant 0357">
 sehr	-	-	-	0:30:27.440000	0:30:28.160000
 sinnvoll	-	-	-	0:30:27.440000	0:30:28.160000
 ,	-	-	-	0:30:27.440000	0:30:28.160000
@@ -7647,9 +7648,9 @@ halt	-	-	-	0:30:28.160000	0:30:29.908000
 immer	-	-	-	0:30:28.160000	0:30:29.908000
 .	-	-	-	0:30:28.160000	0:30:29.908000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:29.908000" end="0:30:30.284000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:29.908000" end="0:30:30.284000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:30.284000" end="0:30:38.972000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:30.284000" end="0:30:38.972000" persName="Informant 0357">
 die	-	-	-	0:30:30.284000	0:30:33.352000
 die	-	-	-	0:30:30.284000	0:30:33.352000
 Facebook	-	-	-	0:30:30.284000	0:30:33.352000
@@ -7681,11 +7682,11 @@ persönlich	-	-	-	0:30:36.524000	0:30:38.972000
 zusammenkommen	-	-	-	0:30:36.524000	0:30:38.972000
 ,	-	-	-	0:30:36.524000	0:30:38.972000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:38.972000" end="0:30:39.544000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:38.972000" end="0:30:39.544000" persName="Informant 0363">
 ja	-	-	-	0:30:38.972000	0:30:39.544000
 .	-	-	-	0:30:38.972000	0:30:39.544000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:38.972000" end="0:30:45.040000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:38.972000" end="0:30:45.040000" persName="Informant 0357">
 wenn	-	-	-	0:30:38.972000	0:30:39.544000
 wir	-	-	-	0:30:38.972000	0:30:39.544000
 eh	-	-	-	0:30:39.544000	0:30:41.096000
@@ -7710,7 +7711,7 @@ schade	-	-	-	0:30:42.352000	0:30:45.040000
 finde	-	-	-	0:30:42.352000	0:30:45.040000
 .	-	-	-	0:30:42.352000	0:30:45.040000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:45.040000" end="0:30:48.520000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:45.040000" end="0:30:48.520000" persName="Informant 0363">
 mhm	-	-	-	0:30:45.040000	0:30:45.692000
 ,	-	-	-	0:30:45.040000	0:30:45.692000
 <pause duration="0,5s"/>
@@ -7724,11 +7725,11 @@ einer	-	-	-	0:30:47.696000	0:30:48.520000
 gesagt	-	-	-	0:30:47.696000	0:30:48.520000
 .	-	-	-	0:30:47.696000	0:30:48.520000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:47.696000" end="0:30:48.520000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:47.696000" end="0:30:48.520000" persName="Informant 0357">
 genau	-	-	-	0:30:47.696000	0:30:48.520000
 .	-	-	-	0:30:47.696000	0:30:48.520000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:48.520000" end="0:30:51.332000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:48.520000" end="0:30:51.332000" persName="Informant 0363">
 <pause duration="0,8s"/>
 der	-	-	-	0:30:48.520000	0:30:50.096000
 kommt	-	-	-	0:30:48.520000	0:30:50.096000
@@ -7742,7 +7743,7 @@ das	-	-	-	0:30:50.096000	0:30:51.332000
 ein	-	-	-	0:30:50.096000	0:30:51.332000
 .	-	-	-	0:30:50.096000	0:30:51.332000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:51.332000" end="0:30:56.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:51.332000" end="0:30:56.264000" persName="Informant 0357">
 <pause duration="0,9s"/>
 es	-	-	-	0:30:51.332000	0:30:53.184000
 gibt	-	-	-	0:30:51.332000	0:30:53.184000
@@ -7764,11 +7765,11 @@ sein	-	-	-	0:30:55.096000	0:30:56.264000
 Handy	-	-	-	0:30:55.096000	0:30:56.264000
 hinein	-	-	-	0:30:55.096000	0:30:56.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:56.264000" end="0:30:56.776000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:56.264000" end="0:30:56.776000" persName="Informant 0363">
 mhm	-	-	-	0:30:56.264000	0:30:56.776000
 .	-	-	-	0:30:56.264000	0:30:56.776000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:56.776000" end="0:30:59.852000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:30:56.776000" end="0:30:59.852000" persName="Informant 0357">
 <pause duration="0,6s"/>
 und	-	-	-	0:30:56.776000	0:30:58.280000
 kein	-	-	-	0:30:56.776000	0:30:58.280000
@@ -7783,11 +7784,11 @@ man	-	-	-	0:30:58.280000	0:30:59.852000
 kommunizieren	-	-	Prog ProgKon tunP	0:30:58.280000	0:30:59.852000
 .	-	-	-	0:30:58.280000	0:30:59.852000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:59.852000" end="0:31:00.068000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:30:59.852000" end="0:31:00.068000" persName="Informant 0363">
 ja	-	-	-	0:30:59.852000	0:31:00.068000
 .	-	-	-	0:30:59.852000	0:31:00.068000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:00.068000" end="0:31:04.500000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:00.068000" end="0:31:04.500000" persName="Informant 0357">
 <pause duration="1,5s"/>
 okay	-	-	-	0:31:01.560000	0:31:01.932000
 ,	-	-	-	0:31:01.560000	0:31:01.932000
@@ -7805,7 +7806,7 @@ schönste	-	-	-	0:31:02.964000	0:31:04.500000
 deiner	-	-	-	0:31:02.964000	0:31:04.500000
 ?	-	-	-	0:31:02.964000	0:31:04.500000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:04.500000" end="0:31:13.756000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:04.500000" end="0:31:13.756000" persName="Informant 0363">
 <pause duration="1,1s"/>
 <pause duration="1,0s"/>
 schönste	-	-	-	0:31:08.792000	0:31:10.616000
@@ -7822,7 +7823,7 @@ aber	-	-	-	0:31:10.616000	0:31:11
 was	-	-	-	0:31:12.312000	0:31:13.756000
 mein	-	-	-	0:31:12.312000	0:31:13.756000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:12.312000" end="0:31:13.756000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:12.312000" end="0:31:13.756000" persName="Informant 0357">
 ich	-	-	-	0:31:12.312000	0:31:13.756000
 habe	-	-	-	0:31:12.312000	0:31:13.756000
 ihn	-	-	-	0:31:12.312000	0:31:13.756000
@@ -7830,7 +7831,7 @@ heuer	-	-	-	0:31:12.312000	0:31:13.756000
 angefunden	-	-	-	0:31:12.312000	0:31:13.756000
 .	-	-	-	0:31:12.312000	0:31:13.756000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:13.756000" end="0:31:16.856000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:13.756000" end="0:31:16.856000" persName="Informant 0363">
 mein	-	-	-	0:31:13.756000	0:31:14.924000
 persönlicher	-	-	-	0:31:13.756000	0:31:14.924000
 ist	-	-	-	0:31:13.756000	0:31:14.924000
@@ -7847,7 +7848,7 @@ unserer	-	-	-	0:31:14.924000	0:31:16.856000
 Hütte	-	-	-	0:31:14.924000	0:31:16.856000
 .	-	-	-	0:31:14.924000	0:31:16.856000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:16.856000" end="0:31:20.240000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:16.856000" end="0:31:20.240000" persName="Informant 0357">
 nein	-	-	-	0:31:16.856000	0:31:18.736000
 ,	-	-	-	0:31:16.856000	0:31:18.736000
 ich	-	-	-	0:31:16.856000	0:31:18.736000
@@ -7862,12 +7863,12 @@ der	-	-	-	0:31:18.736000	0:31:20.240000
 Hütte	-	-	-	0:31:18.736000	0:31:20.240000
 ?	-	-	-	0:31:18.736000	0:31:20.240000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:20.240000" end="0:31:21.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:20.240000" end="0:31:21.272000" persName="Informant 0363">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:31:20.240000	0:31:21.272000
 .	-	-	-	0:31:20.240000	0:31:21.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:21.272000" end="0:31:23.388000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:21.272000" end="0:31:23.388000" persName="Informant 0357">
 ah	-	-	-	0:31:21.272000	0:31:23.388000
 ,	-	-	-	0:31:21.272000	0:31:23.388000
 wo	-	-	-	0:31:21.272000	0:31:23.388000
@@ -7878,7 +7879,7 @@ gemacht	-	-	-	0:31:21.272000	0:31:23.388000
 haben	-	-	-	0:31:21.272000	0:31:23.388000
 .	-	-	-	0:31:21.272000	0:31:23.388000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:23.388000" end="0:31:27.048000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:23.388000" end="0:31:27.048000" persName="Informant 0363">
 ja	-	-	-	0:31:23.388000	0:31:23.752000
 ,	-	-	-	0:31:23.388000	0:31:23.752000
 <pause duration="0,5s"/>
@@ -7891,19 +7892,19 @@ eigentlich	-	-	-	0:31:23.752000	0:31:25.720000
 ,	-	-	-	0:31:23.752000	0:31:25.720000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:25.720000" end="0:31:27.664000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:25.720000" end="0:31:27.664000" persName="Informant 0357">
 <pause duration="1,3s"/>
 wir	-	-	-	0:31:27.048000	0:31:27.664000
 sind	-	-	-	0:31:27.048000	0:31:27.664000
 ja	-	-	-	0:31:27.048000	0:31:27.664000
 vor	-	-	-	0:31:27.048000	0:31:27.664000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:27.668000" end="0:31:28.460000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:27.668000" end="0:31:28.460000" persName="Informant 0363">
 mein	-	-	-	0:31:27.668000	0:31:28.460000
 liebster	-	-	-	0:31:27.668000	0:31:28.460000
 .	-	-	-	0:31:27.668000	0:31:28.460000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:27.668000" end="0:31:31.708000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:27.668000" end="0:31:31.708000" persName="Informant 0357">
 einem	-	-	-	0:31:27.668000	0:31:28.460000
 Monat	-	-	-	0:31:27.668000	0:31:28.460000
 wandern	-	-	-	0:31:28.460000	0:31:29.708000
@@ -7921,14 +7922,14 @@ gehabt	-	-	-	0:31:29.708000	0:31:31.708000
 hat	-	-	-	0:31:29.708000	0:31:31.708000
 ,	-	-	-	0:31:29.708000	0:31:31.708000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:31.708000" end="0:31:33.384000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:31.708000" end="0:31:33.384000" persName="Informant 0363">
 sind	-	-	-	0:31:31.708000	0:31:33.384000
 wir	-	-	-	0:31:31.708000	0:31:33.384000
 Hochlantsch	-	-	-	0:31:31.708000	0:31:33.384000
 (hin)	-	-	-	0:31:31.708000	0:31:33.384000
 .	-	-	-	0:31:31.708000	0:31:33.384000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:31.708000" end="0:31:39.664000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:31.708000" end="0:31:39.664000" persName="Informant 0357">
 sind	-	-	-	0:31:31.708000	0:31:33.384000
 wir	-	-	-	0:31:31.708000	0:31:33.384000
 ja	-	-	-	0:31:31.708000	0:31:33.384000
@@ -7949,17 +7950,17 @@ der	-	-	-	0:31:37.652000	0:31:39.664000
 Hochlantsch	-	-	-	0:31:37.652000	0:31:39.664000
 hat	-	-	-	0:31:37.652000	0:31:39.664000
 schon	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:31:37.652000	0:31:39.664000
-sowas	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:31:37.652000	0:31:39.664000
+so was	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:31:37.652000	0:31:39.664000
 Besonderes	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:31:37.652000	0:31:39.664000
 .	-	-	-	0:31:37.652000	0:31:39.664000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:39.664000" end="0:31:41.336000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:39.664000" end="0:31:41.336000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:39.664000" end="0:31:41.336000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:39.664000" end="0:31:41.336000" persName="Informant 0357">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:41.336000" end="0:31:44.364000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:41.336000" end="0:31:44.364000" persName="Informant 0363">
 kein	-	-	??	0:31:41.336000	0:31:42.236000
 Mensch	-	-	-	0:31:41.336000	0:31:42.236000
 oben	-	-	-	0:31:41.336000	0:31:42.236000
@@ -7974,12 +7975,12 @@ ist	-	-	-	0:31:42.236000	0:31:42.888000
 .	-	-	-	0:31:42.236000	0:31:42.888000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:42.888000" end="0:31:44.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:42.888000" end="0:31:44.700000" persName="Informant 0357">
 <pause duration="1,5s"/>
 hm	-	-	-	0:31:44.364000	0:31:44.700000
 ?	-	-	-	0:31:44.364000	0:31:44.700000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:44.700000" end="0:31:47.380000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:44.700000" end="0:31:47.380000" persName="Informant 0363">
 <pause duration="0,5s"/>
 kein	-	-	NegC	0:31:44.700000	0:31:46.536000
 Mensch	-	-	NegC	0:31:44.700000	0:31:46.536000
@@ -7996,7 +7997,7 @@ kalt	-	-	-	0:31:46.536000	0:31:47.380000
 ist	-	-	-	0:31:46.536000	0:31:47.380000
 .	-	-	-	0:31:46.536000	0:31:47.380000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:46.536000" end="0:31:49.712000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:46.536000" end="0:31:49.712000" persName="Informant 0357">
 nein	-	-	-	0:31:46.536000	0:31:47.380000
 ,	-	-	-	0:31:46.536000	0:31:47.380000
 aber	-	-	-	0:31:47.380000	0:31:48.696000
@@ -8011,11 +8012,11 @@ ganze	-	-	-	0:31:48.696000	0:31:49.712000
 Schnee	-	-	-	0:31:48.696000	0:31:49.712000
 ,	-	-	-	0:31:48.696000	0:31:49.712000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:49.712000" end="0:31:50.512000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:49.712000" end="0:31:50.512000" persName="Informant 0363">
 mhm	-	-	-	0:31:49.712000	0:31:50.512000
 .	-	-	-	0:31:49.712000	0:31:50.512000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:49.712000" end="0:31:59.760000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:49.712000" end="0:31:59.760000" persName="Informant 0357">
 strahlend	-	-	-	0:31:49.712000	0:31:50.512000
 blauer	-	-	-	0:31:50.512000	0:31:51.380000
 Himmel	-	-	-	0:31:50.512000	0:31:51.380000
@@ -8047,21 +8048,21 @@ Erfrierungen	-	-	-	0:31:56.840000	0:31:59.760000
 gehabt	-	-	-	0:31:56.840000	0:31:59.760000
 habe	-	-	-	0:31:56.840000	0:31:59.760000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:59.760000" end="0:32:00.848000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:31:59.760000" end="0:32:00.848000" persName="Informant 0363">
 mhm	-	-	-	0:31:59.760000	0:32:00.848000
 .	-	-	-	0:31:59.760000	0:32:00.848000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:59.760000" end="0:32:00.848000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:31:59.760000" end="0:32:00.848000" persName="Informant 0357">
 bei	-	-	-	0:31:59.760000	0:32:00.848000
 die	-	-	-	0:31:59.760000	0:32:00.848000
 Füße	-	-	-	0:31:59.760000	0:32:00.848000
 .	-	-	-	0:31:59.760000	0:32:00.848000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:00.848000" end="0:32:01.560000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:00.848000" end="0:32:01.560000" persName="Informant 0363">
 leichte	-	-	-	0:32:00.848000	0:32:01.560000
 .	-	-	-	0:32:00.848000	0:32:01.560000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:01.560000" end="0:32:05.300000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:01.560000" end="0:32:05.300000" persName="Informant 0357">
 leichte	-	-	-	0:32:01.560000	0:32:02.148000
 ,	-	-	-	0:32:01.560000	0:32:02.148000
 ja	-	-	-	0:32:02.148000	0:32:02.476000
@@ -8079,12 +8080,12 @@ aber	-	-	-	0:32:04.276000	0:32:05.300000
 wunderschön	-	-	-	0:32:04.276000	0:32:05.300000
 .	-	-	-	0:32:04.276000	0:32:05.300000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:05.300000" end="0:32:09.588000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:05.300000" end="0:32:09.588000" persName="Informant 0363">
 mhm	-	-	-	0:32:05.300000	0:32:06.184000
 .	-	-	-	0:32:05.300000	0:32:06.184000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:06.184000" end="0:32:11.336000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:06.184000" end="0:32:11.336000" persName="Informant 0357">
 <pause duration="3,4s"/>
 aber	-	-	-	0:32:09.588000	0:32:11.336000
 der	-	-	-	0:32:09.588000	0:32:11.336000
@@ -8095,11 +8096,11 @@ seinen	-	-	-	0:32:09.588000	0:32:11.336000
 Reiz	-	-	-	0:32:09.588000	0:32:11.336000
 .	-	-	-	0:32:09.588000	0:32:11.336000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:11.336000" end="0:32:12.152000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:11.336000" end="0:32:12.152000" persName="Informant 0363">
 ja	-	-	-	0:32:11.336000	0:32:12.152000
 .	-	-	-	0:32:11.336000	0:32:12.152000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:11.336000" end="0:32:14.200000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:11.336000" end="0:32:14.200000" persName="Informant 0357">
 im	-	-	-	0:32:11.336000	0:32:12.152000
 Herbst	-	-	-	0:32:11.336000	0:32:12.152000
 ,	-	-	-	0:32:11.336000	0:32:12.152000
@@ -8108,7 +8109,7 @@ neben	-	-	-	0:32:12.152000	0:32:13.080000
 die	-	-	-	0:32:12.152000	0:32:13.080000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:14.200000" end="0:32:15.368000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:14.200000" end="0:32:15.368000" persName="Informant 0363">
 wenn	-	-	-	0:32:14.200000	0:32:15.368000
 sich	-	-	-	0:32:14.200000	0:32:15.368000
 das	-	-	-	0:32:14.200000	0:32:15.368000
@@ -8116,25 +8117,25 @@ Laub	-	-	-	0:32:14.200000	0:32:15.368000
 färbt	-	-	-	0:32:14.200000	0:32:15.368000
 .	-	-	-	0:32:14.200000	0:32:15.368000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:14.200000" end="0:32:15.368000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:14.200000" end="0:32:15.368000" persName="Informant 0357">
 die	-	-	-	0:32:14.200000	0:32:15.368000
 Eschen	-	-	-	0:32:14.200000	0:32:15.368000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:15.368000" end="0:32:15.816000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:15.368000" end="0:32:15.816000" persName="Informant 0363">
 mhm	-	-	-	0:32:15.368000	0:32:15.816000
 .	-	-	-	0:32:15.368000	0:32:15.816000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:15.816000" end="0:32:16.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:15.816000" end="0:32:16.264000" persName="Informant 0357">
 wenn	-	-	-	0:32:15.816000	0:32:16.264000
 die	-	-	-	0:32:15.816000	0:32:16.264000
 /.	-	-	-	0:32:15.816000	0:32:16.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:16.264000" end="0:32:18.352000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:16.264000" end="0:32:18.352000" persName="Informant 0363">
 die	-	-	-	0:32:16.264000	0:32:18.352000
 Laubbäume	-	-	-	0:32:16.264000	0:32:18.352000
 .	-	-	-	0:32:16.264000	0:32:18.352000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:16.264000" end="0:32:18.352000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:16.264000" end="0:32:18.352000" persName="Informant 0357">
 ist	-	-	-	0:32:16.264000	0:32:18.352000
 das	-	-	-	0:32:16.264000	0:32:18.352000
 eine	-	-	-	0:32:16.264000	0:32:18.352000
@@ -8144,7 +8145,7 @@ eine	-	-	-	0:32:16.264000	0:32:18.352000
 Linde	-	-	-	0:32:16.264000	0:32:18.352000
 ?	-	-	-	0:32:16.264000	0:32:18.352000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:18.352000" end="0:32:20.048000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:18.352000" end="0:32:20.048000" persName="Informant 0363">
 das	-	-	-	0:32:18.352000	0:32:19.024000
 ist	-	-	-	0:32:18.352000	0:32:19.024000
 eine	-	-	-	0:32:18.352000	0:32:19.024000
@@ -8155,7 +8156,7 @@ eh	-	-	-	0:32:19.024000	0:32:20.048000
 die	-	-	-	0:32:19.024000	0:32:20.048000
 /.	-	-	-	0:32:19.024000	0:32:20.048000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:19.024000" end="0:32:20.868000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:19.024000" end="0:32:20.868000" persName="Informant 0357">
 oder	-	-	-	0:32:19.024000	0:32:20.048000
 Buche	-	-	-	0:32:19.024000	0:32:20.048000
 neben	-	-	-	0:32:20.048000	0:32:20.868000
@@ -8163,7 +8164,7 @@ dem	-	-	-	0:32:20.048000	0:32:20.868000
 Haus	-	-	-	0:32:20.048000	0:32:20.868000
 .	-	-	-	0:32:20.048000	0:32:20.868000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:20.868000" end="0:32:23.344000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:20.868000" end="0:32:23.344000" persName="Informant 0363">
 mhm	-	-	-	0:32:20.868000	0:32:21.424000
 <pause duration="0,7s"/>
 und	-	-	-	0:32:21.424000	0:32:23.344000
@@ -8173,7 +8174,7 @@ halt	-	-	-	0:32:21.424000	0:32:23.344000
 daneben	-	-	-	0:32:21.424000	0:32:23.344000
 .	-	-	-	0:32:21.424000	0:32:23.344000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:23.344000" end="0:32:25.312000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:23.344000" end="0:32:25.312000" persName="Informant 0357">
 <pause duration="0,6s"/>
 nein	-	-	-	0:32:23.344000	0:32:24.308000
 ,	-	-	-	0:32:23.344000	0:32:24.308000
@@ -8185,7 +8186,7 @@ drüben	-	-	-	0:32:24.308000	0:32:25.312000
 ist	-	-	-	0:32:24.308000	0:32:25.312000
 ,	-	-	-	0:32:24.308000	0:32:25.312000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:25.312000" end="0:32:26.096000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:25.312000" end="0:32:26.096000" persName="Informant 0363">
 ja	-	-	-	0:32:25.312000	0:32:26.096000
 der	-	-	-	0:32:25.312000	0:32:26.096000
 ist	-	-	-	0:32:25.312000	0:32:26.096000
@@ -8193,16 +8194,16 @@ eine	-	-	-	0:32:25.312000	0:32:26.096000
 Buche	-	-	-	0:32:25.312000	0:32:26.096000
 ,	-	-	-	0:32:25.312000	0:32:26.096000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:25.312000" end="0:32:26.096000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:25.312000" end="0:32:26.096000" persName="Informant 0357">
 der	-	-	-	0:32:25.312000	0:32:26.096000
 große	-	-	-	0:32:25.312000	0:32:26.096000
 .	-	-	-	0:32:25.312000	0:32:26.096000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:26.096000" end="0:32:26.372000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:26.096000" end="0:32:26.372000" persName="Informant 0363">
 ja	-	-	-	0:32:26.096000	0:32:26.372000
 .	-	-	-	0:32:26.096000	0:32:26.372000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:26.372000" end="0:32:28.304000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:26.372000" end="0:32:28.304000" persName="Informant 0357">
 mhm	-	-	-	0:32:26.372000	0:32:26.736000
 ,	-	-	-	0:32:26.372000	0:32:26.736000
 ist	-	-	-	0:32:26.736000	0:32:28.304000
@@ -8213,7 +8214,7 @@ Herbst	-	-	-	0:32:26.736000	0:32:28.304000
 gerade	-	-	-	0:32:26.736000	0:32:28.304000
 .	-	-	-	0:32:26.736000	0:32:28.304000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:28.304000" end="0:32:29.352000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:28.304000" end="0:32:29.352000" persName="Informant 0363">
 der	-	-	-	0:32:28.304000	0:32:29.352000
 färbt	-	-	-	0:32:28.304000	0:32:29.352000
 sich	-	-	-	0:32:28.304000	0:32:29.352000
@@ -8222,7 +8223,7 @@ schön	-	-	-	0:32:28.304000	0:32:29.352000
 ja	-	-	-	0:32:28.304000	0:32:29.352000
 .	-	-	-	0:32:28.304000	0:32:29.352000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:29.352000" end="0:32:32.252000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:29.352000" end="0:32:32.252000" persName="Informant 0357">
 mein	-	-	-	0:32:29.352000	0:32:30.252000
 Gott	-	-	-	0:32:29.352000	0:32:30.252000
 ,	-	-	-	0:32:29.352000	0:32:30.252000
@@ -8233,23 +8234,23 @@ Frühling	-	-	-	0:32:30.252000	0:32:32.252000
 endlich	-	-	-	0:32:30.252000	0:32:32.252000
 .	-	-	-	0:32:30.252000	0:32:32.252000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:32.252000" end="0:32:35.796000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:32.252000" end="0:32:35.796000" persName="Informant 0363">
 mhm	-	-	-	0:32:32.252000	0:32:32.796000
 .	-	-	-	0:32:32.252000	0:32:32.796000
 <pause duration="3,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:32.796000" end="0:32:35.796000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:32.796000" end="0:32:35.796000" persName="Informant 0357">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:35.796000" end="0:32:37.984000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:35.796000" end="0:32:37.984000" persName="Informant 0363">
 <pause duration="0,6s"/>
 .	-	-	-	0:32:35.796000	0:32:37.984000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:37.984000" end="0:32:38.468000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:37.984000" end="0:32:38.468000" persName="Informant 0357">
 was	-	-	-	0:32:37.984000	0:32:38.468000
 ?	-	-	-	0:32:37.984000	0:32:38.468000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:38.468000" end="0:32:42.868000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:38.468000" end="0:32:42.868000" persName="Informant 0363">
 <pause duration="0,8s"/>
 ja	-	-	-	0:32:38.468000	0:32:41.256000
 was	-	-	-	0:32:38.468000	0:32:41.256000
@@ -8261,7 +8262,7 @@ machen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std
 ?	-	-	-	0:32:38.468000	0:32:41.256000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:42.868000" end="0:32:44.642000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:42.868000" end="0:32:44.642000" persName="Informant 0357">
 die	-	-	-	0:32:42.868000	0:32:43.580000
 Frage	-	-	-	0:32:42.868000	0:32:43.580000
 haben	-	-	-	0:32:42.868000	0:32:43.580000
@@ -8277,14 +8278,14 @@ letzte	-	-	-	0:32:43.580000	0:32:44.642000
 Mal	-	-	-	0:32:43.580000	0:32:44.642000
 ?	-	-	-	0:32:43.580000	0:32:44.642000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:44.642000" end="0:32:47.230000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:44.642000" end="0:32:47.230000" persName="Informant 0363">
 ((unzufriedenes	-	-	-	0:32:44.642000	0:32:45.146000
 Geräusch	-	-	-	0:32:44.642000	0:32:45.146000
 oder	-	-	-	0:32:44.642000	0:32:45.146000
 Schnupfengeräusch))	-	-	-	0:32:44.642000	0:32:45.146000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:45.150000" end="0:32:49.600000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:45.150000" end="0:32:49.600000" persName="Informant 0357">
 <pause duration="2,1s"/>
 natürlich	-	-	-	0:32:47.230000	0:32:47.700000
 !	-	-	-	0:32:47.230000	0:32:47.700000
@@ -8297,7 +8298,7 @@ die	-	-	-	0:32:47.700000	0:32:49.600000
 Bauern	-	-	-	0:32:47.700000	0:32:49.600000
 .	-	-	-	0:32:47.700000	0:32:49.600000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:49.602000" end="0:32:51.632000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:49.602000" end="0:32:51.632000" persName="Informant 0363">
 ja	-	-	-	0:32:49.602000	0:32:50.637000
 schon	-	-	-	0:32:49.602000	0:32:50.637000
 und	-	-	-	0:32:50.637000	0:32:51.632000
@@ -8306,21 +8307,21 @@ die	-	-	-	0:32:50.637000	0:32:51.632000
 Kinder	-	-	-	0:32:50.637000	0:32:51.632000
 .	-	-	-	0:32:50.637000	0:32:51.632000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:51.632000" end="0:32:53.453000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:51.632000" end="0:32:53.453000" persName="Informant 0357">
 und	-	-	-	0:32:51.632000	0:32:53.453000
 und	-	-	-	0:32:51.632000	0:32:53.453000
 Nichtrauchergesetz	-	-	-	0:32:51.632000	0:32:53.453000
 endlich	-	-	-	0:32:51.632000	0:32:53.453000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:53.453000" end="0:32:54.104000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:53.453000" end="0:32:54.104000" persName="Informant 0363">
 ja	-	-	-	0:32:53.453000	0:32:54.104000
 ,	-	-	-	0:32:53.453000	0:32:54.104000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:53.453000" end="0:32:54.104000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:53.453000" end="0:32:54.104000" persName="Informant 0357">
 durchziehen	-	-	-	0:32:53.453000	0:32:54.104000
 .	-	-	-	0:32:53.453000	0:32:54.104000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:54.104000" end="0:32:56.160000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:54.104000" end="0:32:56.160000" persName="Informant 0363">
 das	-	-	-	0:32:54.104000	0:32:55.109000
 habe	-	-	-	0:32:54.104000	0:32:55.109000
 ich	-	-	-	0:32:54.104000	0:32:55.109000
@@ -8329,15 +8330,15 @@ auch	-	-	-	0:32:54.104000	0:32:55.109000
 gesagt	-	-	-	0:32:54.104000	0:32:55.109000
 .	-	-	-	0:32:54.104000	0:32:55.109000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:55.109000" end="0:32:56.160000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:55.109000" end="0:32:56.160000" persName="Informant 0357">
 wirklich	-	-	-	0:32:55.109000	0:32:56.160000
 ?	-	-	-	0:32:55.109000	0:32:56.160000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:56.160000" end="0:32:56.888000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:56.160000" end="0:32:56.888000" persName="Informant 0363">
 ja	-	-	-	0:32:56.160000	0:32:56.888000
 .	-	-	-	0:32:56.160000	0:32:56.888000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:56.888000" end="0:32:57.917000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:56.888000" end="0:32:57.917000" persName="Informant 0357">
 das	-	-	-	0:32:56.888000	0:32:57.917000
 habe	-	-	-	0:32:56.888000	0:32:57.917000
 ich	-	-	-	0:32:56.888000	0:32:57.917000
@@ -8346,11 +8347,11 @@ auch	-	-	-	0:32:56.888000	0:32:57.917000
 gesagt	-	-	-	0:32:56.888000	0:32:57.917000
 ,	-	-	-	0:32:56.888000	0:32:57.917000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:57.920000" end="0:32:59.568000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:57.920000" end="0:32:59.568000" persName="Informant 0363">
 mhm	-	-	-	0:32:57.920000	0:32:59.568000
 .	-	-	-	0:32:57.920000	0:32:59.568000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:57.920000" end="0:32:59.568000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:57.920000" end="0:32:59.568000" persName="Informant 0357">
 weil	-	-	-	0:32:57.920000	0:32:59.568000
 mir	-	-	-	0:32:57.920000	0:32:59.568000
 das	-	-	-	0:32:57.920000	0:32:59.568000
@@ -8360,26 +8361,26 @@ Arsch	-	-	-	0:32:57.920000	0:32:59.568000
 geht	-	-	-	0:32:57.920000	0:32:59.568000
 .	-	-	-	0:32:57.920000	0:32:59.568000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:59.568000" end="0:33:00.232000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:32:59.568000" end="0:33:00.232000" persName="Informant 0363">
 ja	-	-	-	0:32:59.568000	0:33:00.232000
 ,	-	-	-	0:32:59.568000	0:33:00.232000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:59.568000" end="0:33:00.645000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:32:59.568000" end="0:33:00.645000" persName="Informant 0357">
 nein	-	-	-	0:32:59.568000	0:33:00.232000
 ,	-	-	-	0:32:59.568000	0:33:00.232000
 das	-	-	-	0:32:59.568000	0:33:00.232000
 nervt	-	-	-	0:33:00.232000	0:33:00.645000
 mich	-	-	-	0:33:00.232000	0:33:00.645000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:00.645000" end="0:33:01.410000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:00.645000" end="0:33:01.410000" persName="Informant 0363">
 (ist	-	-	-	0:33:00.645000	0:33:01.410000
 auch)	-	-	-	0:33:00.645000	0:33:01.410000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:00.645000" end="0:33:01.410000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:00.645000" end="0:33:01.410000" persName="Informant 0357">
 irrsinnig	-	-	-	0:33:00.645000	0:33:01.410000
 .	-	-	-	0:33:00.645000	0:33:01.410000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:01.410000" end="0:33:02.544000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:01.410000" end="0:33:02.544000" persName="Informant 0363">
 schon	-	-	-	0:33:01.410000	0:33:02.544000
 so	-	-	-	0:33:01.410000	0:33:02.544000
 lange	-	-	-	0:33:01.410000	0:33:02.544000
@@ -8388,7 +8389,7 @@ dem	-	-	-	0:33:01.410000	0:33:02.544000
 Dreck	-	-	-	0:33:01.410000	0:33:02.544000
 .	-	-	-	0:33:01.410000	0:33:02.544000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:02.544000" end="0:33:08.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:02.544000" end="0:33:08.632000" persName="Informant 0357">
 ja	-	-	-	0:33:02.544000	0:33:03.053000
 .	-	-	-	0:33:02.544000	0:33:03.053000
 <pause duration="1,5s"/>
@@ -8408,7 +8409,7 @@ wieder	-	-	-	0:33:05.917000	0:33:08.632000
 ein	-	-	-	0:33:05.917000	0:33:08.632000
 .	-	-	-	0:33:05.917000	0:33:08.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:08.632000" end="0:33:10.789000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:08.632000" end="0:33:10.789000" persName="Informant 0363">
 und	-	-	-	0:33:08.632000	0:33:10.789000
 für	-	-	-	0:33:08.632000	0:33:10.789000
 die	-	-	-	0:33:08.632000	0:33:10.789000
@@ -8419,7 +8420,7 @@ im	-	-	-	0:33:08.632000	0:33:10.789000
 Prinzip	-	-	-	0:33:08.632000	0:33:10.789000
 ,	-	-	-	0:33:08.632000	0:33:10.789000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:10.789000" end="0:33:11.701000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:10.789000" end="0:33:11.701000" persName="Informant 0357">
 ja	-	-	-	0:33:10.789000	0:33:11.701000
 ,	-	-	-	0:33:10.789000	0:33:11.701000
 aber	-	-	-	0:33:10.789000	0:33:11.701000
@@ -8429,16 +8430,16 @@ sie	-	-	-	0:33:10.789000	0:33:11.701000
 eh	-	-	-	0:33:10.789000	0:33:11.701000
 schon	-	-	-	0:33:10.789000	0:33:11.701000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:11.701000" end="0:33:12.322000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:11.701000" end="0:33:12.322000" persName="Informant 0363">
 *dass*	-	-	-	0:33:11.701000	0:33:12.322000
 fördern	-	-	-	0:33:11.701000	0:33:12.322000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:11.701000" end="0:33:12.322000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:11.701000" end="0:33:12.322000" persName="Informant 0357">
 gut	-	-	-	0:33:11.701000	0:33:12.322000
 gelöst	-	-	-	0:33:11.701000	0:33:12.322000
 .	-	-	-	0:33:11.701000	0:33:12.322000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:12.322000" end="0:33:14.616000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:12.322000" end="0:33:14.616000" persName="Informant 0363">
 von	-	-	-	0:33:12.322000	0:33:12.826000
 dem	-	-	-	0:33:12.322000	0:33:12.826000
 her	-	-	-	0:33:12.322000	0:33:12.826000
@@ -8455,18 +8456,18 @@ noch	-	-	-	0:33:13.208000	0:33:14.616000
 teilweise	-	-	-	0:33:13.208000	0:33:14.616000
 .	-	-	-	0:33:13.208000	0:33:14.616000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:14.616000" end="0:33:15.509000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:14.616000" end="0:33:15.509000" persName="Informant 0357">
 warum	-	-	-	0:33:14.616000	0:33:15.128000
 ?	-	-	-	0:33:14.616000	0:33:15.128000
 sie	-	-	-	0:33:15.128000	0:33:15.509000
 haben	-	-	-	0:33:15.128000	0:33:15.509000
 das	-	-	-	0:33:15.128000	0:33:15.509000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:15.509000" end="0:33:16.261000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:15.509000" end="0:33:16.261000" persName="Informant 0363">
 ja	-	-	-	0:33:15.509000	0:33:16.261000
 .	-	-	-	0:33:15.509000	0:33:16.261000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:15.509000" end="0:33:17.181000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:15.509000" end="0:33:17.181000" persName="Informant 0357">
 Gesetz	-	-	-	0:33:15.509000	0:33:16.261000
 eingeführt	-	-	-	0:33:15.509000	0:33:16.261000
 ,	-	-	-	0:33:15.509000	0:33:16.261000
@@ -8475,22 +8476,22 @@ verpflichtend	-	-	-	0:33:16.261000	0:33:17.181000
 bis	-	-	-	0:33:16.261000	0:33:17.181000
 zum	-	-	-	0:33:16.261000	0:33:17.181000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:17.181000" end="0:33:18.128000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:17.181000" end="0:33:18.128000" persName="Informant 0363">
 ja	-	-	-	0:33:17.181000	0:33:18.128000
 ,	-	-	-	0:33:17.181000	0:33:18.128000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:17.181000" end="0:33:18.553000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:17.181000" end="0:33:18.553000" persName="Informant 0357">
 achtzehnten	-	-	-	0:33:17.181000	0:33:18.128000
 Lebensjahr	-	-	-	0:33:17.181000	0:33:18.128000
 machen	-	-	-	0:33:17.181000	0:33:18.128000
 müssen	-	-	-	0:33:18.128000	0:33:18.553000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:18.553000" end="0:33:18.856000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:18.553000" end="0:33:18.856000" persName="Informant 0363">
 das	-	-	-	0:33:18.553000	0:33:18.856000
 schon	-	-	-	0:33:18.553000	0:33:18.856000
 .	-	-	-	0:33:18.553000	0:33:18.856000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:18.856000" end="0:33:20.812000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:18.856000" end="0:33:20.812000" persName="Informant 0357">
 <pause duration="0,5s"/>
 entweder	-	-	-	0:33:18.856000	0:33:20.812000
 Schule	-	-	-	0:33:18.856000	0:33:20.812000
@@ -8499,7 +8500,7 @@ oder	-	-	-	0:33:18.856000	0:33:20.812000
 Lehre	-	-	-	0:33:18.856000	0:33:20.812000
 .	-	-	-	0:33:18.856000	0:33:20.812000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:20.812000" end="0:33:27.384000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:20.812000" end="0:33:27.384000" persName="Informant 0363">
 ja	-	-	-	0:33:20.812000	0:33:21.220000
 ,	-	-	-	0:33:20.812000	0:33:21.220000
 <pause duration="1,4s"/>
@@ -8525,7 +8526,7 @@ vielleicht	-	-	-	0:33:23.348000	0:33:26.344000
 .	-	-	-	0:33:23.348000	0:33:26.344000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:26.344000" end="0:33:29.788000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:26.344000" end="0:33:29.788000" persName="Informant 0357">
 <pause duration="1,1s"/>
 nein	-	-	-	0:33:27.384000	0:33:27.680000
 .	-	-	-	0:33:27.384000	0:33:27.680000
@@ -8536,7 +8537,7 @@ das	-	-	-	0:33:29.032000	0:33:29.788000
 kriegen	-	-	-	0:33:29.032000	0:33:29.788000
 ?	-	-	-	0:33:29.032000	0:33:29.788000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:29.788000" end="0:33:31.836000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:29.788000" end="0:33:31.836000" persName="Informant 0363">
 <pause duration="0,9s"/>
 die	-	-	-	0:33:29.788000	0:33:31.116000
 Kinder	-	-	-	0:33:29.788000	0:33:31.116000
@@ -8545,22 +8546,22 @@ halt	-	-	-	0:33:31.116000	0:33:31.300000
 im	-	-	-	0:33:31.300000	0:33:31.836000
 Prinzip	-	-	-	0:33:31.300000	0:33:31.836000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:31.300000" end="0:33:31.836000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:31.300000" end="0:33:31.836000" persName="Informant 0357">
 aha	-	-	-	0:33:31.300000	0:33:31.836000
 .	-	-	-	0:33:31.300000	0:33:31.836000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:31.836000" end="0:33:32.844000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:31.836000" end="0:33:32.844000" persName="Informant 0363">
 halt	-	-	-	0:33:31.836000	0:33:32.124000
 selbst	-	-	-	0:33:32.124000	0:33:32.844000
 nicht	-	-	-	0:33:32.124000	0:33:32.844000
 ,	-	-	-	0:33:32.124000	0:33:32.844000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:32.124000" end="0:33:32.844000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:32.124000" end="0:33:32.844000" persName="Informant 0357">
 Mama	-	-	-	0:33:32.124000	0:33:32.844000
 gell	-	-	-	0:33:32.124000	0:33:32.844000
 ?	-	-	-	0:33:32.124000	0:33:32.844000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:32.844000" end="0:33:34.132000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:32.844000" end="0:33:34.132000" persName="Informant 0363">
 dass	-	-	-	0:33:32.844000	0:33:33.460000
 die	-	-	-	0:33:32.844000	0:33:33.460000
 Elter	-	-	-	0:33:32.844000	0:33:33.460000
@@ -8570,21 +8571,21 @@ viel	-	-	-	0:33:33.460000	0:33:34.132000
 zahlen	-	-	-	0:33:33.460000	0:33:34.132000
 müssen	-	-	-	0:33:33.460000	0:33:34.132000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:33.460000" end="0:33:35.656000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:33.460000" end="0:33:35.656000" persName="Informant 0357">
 aha	-	-	-	0:33:33.460000	0:33:34.132000
 .	-	-	-	0:33:33.460000	0:33:34.132000
 <pause duration="1,1s"/>
 ja	-	-	-	0:33:34.132000	0:33:35.656000
 .	-	-	-	0:33:34.132000	0:33:35.656000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:35.656000" end="0:33:36.684000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:35.656000" end="0:33:36.684000" persName="Informant 0363">
 für	-	-	-	0:33:35.656000	0:33:36.684000
 die	-	-	-	0:33:35.656000	0:33:36.684000
 Schule	-	-	-	0:33:35.656000	0:33:36.684000
 teilweise	-	-	-	0:33:35.656000	0:33:36.684000
 .	-	-	-	0:33:35.656000	0:33:36.684000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:36.684000" end="0:33:40.888000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:36.684000" end="0:33:40.888000" persName="Informant 0357">
 Bundespräsident	-	-	-	0:33:36.684000	0:33:37.932000
 ,	-	-	-	0:33:36.684000	0:33:37.932000
 ganz	-	-	-	0:33:37.932000	0:33:38.500000
@@ -8604,11 +8605,11 @@ nicht	-	-	-	0:33:40.004000	0:33:40.888000
 machen	-	-	-	0:33:40.004000	0:33:40.888000
 .	-	-	-	0:33:40.004000	0:33:40.888000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:40.888000" end="0:33:41.140000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:40.888000" end="0:33:41.140000" persName="Informant 0363">
 nein	-	-	-	0:33:40.888000	0:33:41.140000
 .	-	-	-	0:33:40.888000	0:33:41.140000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:41.140000" end="0:33:50.784000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:41.140000" end="0:33:50.784000" persName="Informant 0357">
 das	-	-	-	0:33:41.140000	0:33:44.288000
 wäre	-	-	-	0:33:41.140000	0:33:44.288000
 mir	-	-	-	0:33:41.140000	0:33:44.288000
@@ -8629,17 +8630,17 @@ ist	-	-	-	0:33:48.948000	0:33:50.784000
 man	-	-	-	0:33:48.948000	0:33:50.784000
 so	-	-	-	0:33:48.948000	0:33:50.784000
 alleine	-	-	-	0:33:48.948000	0:33:50.784000
-dann	-	-	-	0:33:48.948000	0:33:50.784000
+an	-	-	-	0:33:48.948000	0:33:50.784000
 an	-	-	-	0:33:48.948000	0:33:50.784000
 der	-	-	-	0:33:48.948000	0:33:50.784000
 Macht	-	-	-	0:33:48.948000	0:33:50.784000
 .	-	-	-	0:33:48.948000	0:33:50.784000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:50.784000" end="0:33:51.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:50.784000" end="0:33:51.272000" persName="Informant 0363">
 mhm	-	-	-	0:33:50.784000	0:33:51.272000
 .	-	-	-	0:33:50.784000	0:33:51.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:51.272000" end="0:33:52.504000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:51.272000" end="0:33:52.504000" persName="Informant 0357">
 da	-	-	-	0:33:51.272000	0:33:52.140000
 hat	-	-	-	0:33:51.272000	0:33:52.140000
 man	-	-	-	0:33:51.272000	0:33:52.140000
@@ -8651,7 +8652,7 @@ ich	-	-	-	0:33:52.140000	0:33:52.504000
 mir	-	-	-	0:33:52.140000	0:33:52.504000
 .	-	-	-	0:33:52.140000	0:33:52.504000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:52.504000" end="0:33:55.956000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:52.504000" end="0:33:55.956000" persName="Informant 0363">
 ja	-	-	-	0:33:52.504000	0:33:54.428000
 der	-	-	-	0:33:52.504000	0:33:54.428000
 Präsident	-	-	-	0:33:52.504000	0:33:54.428000
@@ -8664,7 +8665,7 @@ sagen	-	-	-	0:33:52.504000	0:33:54.428000
 ((Kärtchen	-	-	-	0:33:54.428000	0:33:55.956000
 durchblättern))	-	-	-	0:33:54.428000	0:33:55.956000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:54.428000" end="0:33:55.956000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:54.428000" end="0:33:55.956000" persName="Informant 0357">
 du	-	-	-	0:33:54.428000	0:33:55.956000
 ,	-	-	-	0:33:54.428000	0:33:55.956000
 lass	-	-	-	0:33:54.428000	0:33:55.956000
@@ -8675,11 +8676,11 @@ mehr	-	-	-	0:33:54.428000	0:33:55.956000
 liegen	-	-	-	0:33:54.428000	0:33:55.956000
 ,	-	-	-	0:33:54.428000	0:33:55.956000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:55.956000" end="0:33:58.320000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:55.956000" end="0:33:58.320000" persName="Informant 0363">
 ((Kärtchen	-	-	-	0:33:55.956000	0:33:58.320000
 durchblättern))	-	-	-	0:33:55.956000	0:33:58.320000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:55.956000" end="0:33:59.616000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:55.956000" end="0:33:59.616000" persName="Informant 0357">
 weil	-	-	-	0:33:55.956000	0:33:58.320000
 die	-	-	-	0:33:55.956000	0:33:58.320000
 grünen	-	-	-	0:33:55.956000	0:33:58.320000
@@ -8702,13 +8703,13 @@ viele	-	-	-	0:33:58.320000	0:33:59.616000
 ((Kärtchen	-	-	-	0:33:58.320000	0:33:59.616000
 durchblättern))	-	-	-	0:33:58.320000	0:33:59.616000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:59.616000" end="0:34:00.088000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:33:59.616000" end="0:34:00.088000" persName="Informant 0363">
 ja	-	-	-	0:33:59.616000	0:34:00.088000
 .	-	-	-	0:33:59.616000	0:34:00.088000
 ((Kärtchen	-	-	-	0:33:59.616000	0:34:00.088000
 durchblättern))	-	-	-	0:33:59.616000	0:34:00.088000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:59.616000" end="0:34:01.400000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:33:59.616000" end="0:34:01.400000" persName="Informant 0357">
 ((Kärtchen	-	-	-	0:33:59.616000	0:34:00.088000
 durchblättern))	-	-	-	0:33:59.616000	0:34:00.088000
 <pause duration="0,5s"/>
@@ -8719,11 +8720,11 @@ viele	-	-	-	0:34:00.088000	0:34:01.400000
 ((Kärtchen	-	-	-	0:34:00.088000	0:34:01.400000
 durchblättern))	-	-	-	0:34:00.088000	0:34:01.400000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:01.400000" end="0:34:02.036000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:01.400000" end="0:34:02.036000" persName="Informant 0363">
 mhm	-	-	-	0:34:01.400000	0:34:02.036000
 .	-	-	-	0:34:01.400000	0:34:02.036000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:02.036000" end="0:34:06.464000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:02.036000" end="0:34:06.464000" persName="Informant 0357">
 "besondere	-	-	-	0:34:02.036000	0:34:03.604000
 Wörter	-	-	-	0:34:02.036000	0:34:03.604000
 im	-	-	-	0:34:02.036000	0:34:03.604000
@@ -8739,13 +8740,13 @@ drei	-	-	-	0:34:05.144000	0:34:06.464000
 grüne	-	-	-	0:34:05.144000	0:34:06.464000
 .	-	-	-	0:34:05.144000	0:34:06.464000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:06.464000" end="0:34:07.700000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:06.464000" end="0:34:07.700000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:06.464000" end="0:34:07.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:06.464000" end="0:34:07.700000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:07.700000" end="0:34:09.188000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:07.700000" end="0:34:09.188000" persName="Informant 0363">
 ja	-	-	-	0:34:07.700000	0:34:09.188000
 ,	-	-	-	0:34:07.700000	0:34:09.188000
 weil	-	-	-	0:34:07.700000	0:34:09.188000
@@ -8755,7 +8756,7 @@ weniger	-	-	-	0:34:07.700000	0:34:09.188000
 sind	-	-	-	0:34:07.700000	0:34:09.188000
 .	-	-	-	0:34:07.700000	0:34:09.188000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:09.188000" end="0:34:14.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:09.188000" end="0:34:14.860000" persName="Informant 0357">
 echt	-	-	-	0:34:09.188000	0:34:09.788000
 ?	-	-	-	0:34:09.188000	0:34:09.788000
 okay	-	-	-	0:34:09.788000	0:34:11.092000
@@ -8776,10 +8777,10 @@ Dialekt"	-	-	-	0:34:11.092000	0:34:12.532000
 <pause duration="1,2s"/>
 ähm	-	-	-	0:34:13.732000	0:34:14.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:14.860000" end="0:34:17.876000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:14.860000" end="0:34:17.876000" persName="Informant 0363">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:14.860000" end="0:34:21.960000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:14.860000" end="0:34:21.960000" persName="Informant 0357">
 <pause duration="3,0s"/>
 ABC	-	-	-	0:34:17.876000	0:34:19.876000
 ähm	-	-	-	0:34:17.876000	0:34:19.876000
@@ -8788,51 +8789,51 @@ B	-	-	-	0:34:21.456000	0:34:21.960000
 ähm	-	-	-	0:34:21.456000	0:34:21.960000
 /.	-	-	-	0:34:21.456000	0:34:21.960000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:21.960000" end="0:34:30.487000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:21.960000" end="0:34:30.487000" persName="Informant 0363">
 <pause duration="0,9s"/>
 _hialoada_	-	-	-	0:34:21.960000	0:34:23.600000
 <pause duration="2,6s"/>
 <pause duration="3,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:26.884000" end="0:34:30.947000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:26.884000" end="0:34:30.947000" persName="Informant 0357">
 <pause duration="3,6s"/>
 ja	-	-	-	0:34:30.487000	0:34:30.947000
 .	-	-	-	0:34:30.487000	0:34:30.947000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:30.947000" end="0:34:31.868000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:30.947000" end="0:34:31.868000" persName="Informant 0363">
 <pause duration="0,7s"/>
 hm	-	-	-	0:34:30.947000	0:34:31.868000
 ?	-	-	-	0:34:30.947000	0:34:31.868000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:31.868000" end="0:34:33.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:31.868000" end="0:34:33.480000" persName="Informant 0357">
 b/	-	-	-	0:34:31.868000	0:34:33.480000
 ähm	-	-	-	0:34:31.868000	0:34:33.480000
 _krumban_	-	-	-	0:34:31.868000	0:34:33.480000
 .	-	-	-	0:34:31.868000	0:34:33.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:33.480000" end="0:34:35.139000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:33.480000" end="0:34:35.139000" persName="Informant 0363">
 <pause duration="0,8s"/>
 die	-	-	-	0:34:33.480000	0:34:35.139000
 Erdäpfel	-	-	-	0:34:33.480000	0:34:35.139000
 ?	-	-	-	0:34:33.480000	0:34:35.139000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:35.139000" end="0:34:36.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:35.139000" end="0:34:36.264000" persName="Informant 0357">
 ja	-	-	-	0:34:35.139000	0:34:35.588000
 .	-	-	-	0:34:35.139000	0:34:35.588000
 _ejmpa_	-	-	-	0:34:35.588000	0:34:36.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:36.264000" end="0:34:37.100000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:36.264000" end="0:34:37.100000" persName="Informant 0363">
 Eimer	-	-	-	0:34:36.264000	0:34:37.100000
 .	-	-	-	0:34:36.264000	0:34:37.100000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:37.100000" end="0:34:37.820000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:37.100000" end="0:34:37.820000" persName="Informant 0357">
 mhm	-	-	-	0:34:37.100000	0:34:37.820000
 .	-	-	-	0:34:37.100000	0:34:37.820000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:37.820000" end="0:34:39.772000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:37.820000" end="0:34:39.772000" persName="Informant 0363">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:37.820000" end="0:34:42.792000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:37.820000" end="0:34:42.792000" persName="Informant 0357">
 <pause duration="2,0s"/>
 *kennst*	-	-	-	0:34:39.772000	0:34:41.388000
 *kennst*	-	-	-	0:34:39.772000	0:34:41.388000
@@ -8843,11 +8844,11 @@ mit	-	-	-	0:34:39.772000	0:34:41.388000
 "(_relektsi_)	-	-	-	0:34:41.388000	0:34:42.792000
 (_krabonsi_)	-	-	-	0:34:41.388000	0:34:42.792000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:42.792000" end="0:34:42.992000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:42.792000" end="0:34:42.992000" persName="Informant 0363">
 ja	-	-	-	0:34:42.792000	0:34:42.992000
 .	-	-	-	0:34:42.792000	0:34:42.992000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:42.792000" end="0:34:43.911000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:42.792000" end="0:34:43.911000" persName="Informant 0357">
 de	-	-	-	0:34:42.792000	0:34:42.992000
 (_kuarannt_)	-	-	-	0:34:42.992000	0:34:43.911000
 a	-	-	-	0:34:42.992000	0:34:43.911000
@@ -8855,11 +8856,11 @@ bissi	-	-	-	0:34:42.992000	0:34:43.911000
 vü"	-	-	-	0:34:42.992000	0:34:43.911000
 ?	-	-	-	0:34:42.992000	0:34:43.911000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:43.911000" end="0:34:44.239000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:43.911000" end="0:34:44.239000" persName="Informant 0363">
 mhm	-	-	-	0:34:43.911000	0:34:44.239000
 .	-	-	-	0:34:43.911000	0:34:44.239000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:43.911000" end="0:34:44.712000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:43.911000" end="0:34:44.712000" persName="Informant 0357">
 das	-	-	-	0:34:43.911000	0:34:44.239000
 habe	-	-	-	0:34:43.911000	0:34:44.239000
 ich	-	-	-	0:34:43.911000	0:34:44.239000
@@ -8868,11 +8869,11 @@ auch	-	-	-	0:34:44.239000	0:34:44.712000
 schon	-	-	-	0:34:44.239000	0:34:44.712000
 einmal	-	-	-	0:34:44.239000	0:34:44.712000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:44.712000" end="0:34:45.179000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:44.712000" end="0:34:45.179000" persName="Informant 0363">
 ja	-	-	-	0:34:44.712000	0:34:45.179000
 .	-	-	-	0:34:44.712000	0:34:45.179000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:44.712000" end="0:34:51.556000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:44.712000" end="0:34:51.556000" persName="Informant 0357">
 erzählt	-	-	-	0:34:44.712000	0:34:45.179000
 ,	-	-	-	0:34:44.712000	0:34:45.179000
 gell	-	-	-	0:34:44.712000	0:34:45.179000
@@ -8897,21 +8898,21 @@ badet	-	-	-	0:34:49.076000	0:34:51.556000
 sich"	-	-	-	0:34:49.076000	0:34:51.556000
 "die	-	-	-	0:34:49.076000	0:34:51.556000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:51.556000" end="0:34:52.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:51.556000" end="0:34:52.272000" persName="Informant 0363">
 "_krah_	-	-	-	0:34:51.556000	0:34:52.272000
 _bodn_	-	-	-	0:34:51.556000	0:34:52.272000
 _si_	-	-	-	0:34:51.556000	0:34:52.272000
 .	-	-	-	0:34:51.556000	0:34:52.272000
 "	-	-	-	0:34:51.556000	0:34:52.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:51.556000" end="0:34:52.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:51.556000" end="0:34:52.272000" persName="Informant 0357">
 _krah_	-	-	-	0:34:51.556000	0:34:52.272000
 _bodn_	-	-	-	0:34:51.556000	0:34:52.272000
 _si_"	-	-	-	0:34:51.556000	0:34:52.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:52.272000" end="0:34:57.976000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:34:52.272000" end="0:34:57.976000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:52.272000" end="0:35:00.292000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:34:52.272000" end="0:35:00.292000" persName="Informant 0357">
 <pause duration="0,7s"/>
 "die	-	-	-	0:34:52.272000	0:34:57.976000
 kua	-	-	-	0:34:52.272000	0:34:57.976000
@@ -8940,35 +8941,35 @@ Opa	-	-	-	0:34:57.978000	0:35:00.292000
 mal	-	-	-	0:34:57.978000	0:35:00.292000
 beigebracht	-	-	-	0:34:57.978000	0:35:00.292000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:00.292000" end="0:35:00.914000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:00.292000" end="0:35:00.914000" persName="Informant 0363">
 dein	-	-	-	0:35:00.292000	0:35:00.914000
 Papa	-	-	-	0:35:00.292000	0:35:00.914000
 .	-	-	-	0:35:00.292000	0:35:00.914000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:00.292000" end="0:35:01.621000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:00.292000" end="0:35:01.621000" persName="Informant 0357">
 vor	-	-	-	0:35:00.292000	0:35:00.914000
 /.	-	-	-	0:35:00.292000	0:35:00.914000
 hä	-	-	-	0:35:00.914000	0:35:01.621000
 ?	-	-	-	0:35:00.914000	0:35:01.621000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:01.621000" end="0:35:02.307000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:01.621000" end="0:35:02.307000" persName="Informant 0363">
 dein	-	-	-	0:35:01.621000	0:35:02.307000
 Papa	-	-	-	0:35:01.621000	0:35:02.307000
 .	-	-	-	0:35:01.621000	0:35:02.307000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:02.307000" end="0:35:04.403000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:02.307000" end="0:35:04.403000" persName="Informant 0357">
 nein	-	-	-	0:35:02.307000	0:35:03.596000
 mein	-	-	-	0:35:02.307000	0:35:03.596000
 Opa	-	-	-	0:35:02.307000	0:35:03.596000
 ,	-	-	-	0:35:02.307000	0:35:03.596000
-[Passailer]O	-	-	-	0:35:03.596000	0:35:04.403000
+ORT	ORT	-	-	0:35:03.596000	0:35:04.403000
 Opa	-	-	-	0:35:03.596000	0:35:04.403000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:04.403000" end="0:35:04.985000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:04.403000" end="0:35:04.985000" persName="Informant 0363">
 aha	-	-	-	0:35:04.403000	0:35:04.985000
 .	-	-	-	0:35:04.403000	0:35:04.985000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:04.403000" end="0:35:11.467000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:04.403000" end="0:35:11.467000" persName="Informant 0357">
 hat	-	-	-	0:35:04.403000	0:35:04.985000
 mir	-	-	-	0:35:04.403000	0:35:04.985000
 das	-	-	-	0:35:04.403000	0:35:04.985000
@@ -8993,11 +8994,11 @@ Bezirk	-	-	-	0:35:06.696000	0:35:11.467000
 Stall-Umgebung"	-	-	-	0:35:06.696000	0:35:11.467000
 .	-	-	-	0:35:06.696000	0:35:11.467000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:11.467000" end="0:35:14.850000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:11.467000" end="0:35:14.850000" persName="Informant 0363">
 mhm	-	-	-	0:35:11.467000	0:35:11.935000
 .	-	-	-	0:35:11.467000	0:35:11.935000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:11.935000" end="0:35:16.967000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:11.935000" end="0:35:16.967000" persName="Informant 0357">
 das	-	-	-	0:35:11.935000	0:35:14.850000
 das	-	-	-	0:35:14.850000	0:35:15.625000
 sind	-	-	-	0:35:14.850000	0:35:15.625000
@@ -9013,11 +9014,11 @@ immer	-	-	-	0:35:15.625000	0:35:16.967000
 beigebracht	-	-	-	0:35:15.625000	0:35:16.967000
 .	-	-	-	0:35:15.625000	0:35:16.967000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:16.967000" end="0:35:17.460000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:16.967000" end="0:35:17.460000" persName="Informant 0363">
 mhm	-	-	-	0:35:16.967000	0:35:17.460000
 .	-	-	-	0:35:16.967000	0:35:17.460000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:17.460000" end="0:35:23.271000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:17.460000" end="0:35:23.271000" persName="Informant 0357">
 <pause duration="1,6s"/>
 der	-	-	-	0:35:19.007000	0:35:23.271000
 Opa	-	-	-	0:35:19.007000	0:35:23.271000
@@ -9034,11 +9035,11 @@ auswendig	-	-	-	0:35:19.007000	0:35:23.271000
 gell	-	-	-	0:35:19.007000	0:35:23.271000
 ?	-	-	-	0:35:19.007000	0:35:23.271000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:23.271000" end="0:35:23.800000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:23.271000" end="0:35:23.800000" persName="Informant 0363">
 mhm	-	-	-	0:35:23.271000	0:35:23.800000
 .	-	-	-	0:35:23.271000	0:35:23.800000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:23.271000" end="0:35:25.992000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:23.271000" end="0:35:25.992000" persName="Informant 0357">
 "wer	-	-	-	0:35:23.271000	0:35:23.800000
 reitet	-	-	-	0:35:23.271000	0:35:23.800000
 so	-	-	-	0:35:23.800000	0:35:25.992000
@@ -9052,19 +9053,19 @@ das	-	-	-	0:35:23.800000	0:35:25.992000
 /."	-	-	-	0:35:23.800000	0:35:25.992000
 ähm	-	-	-	0:35:23.800000	0:35:25.992000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:25.992000" end="0:35:26.753000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:25.992000" end="0:35:26.753000" persName="Informant 0363">
 hm	-	-	-	0:35:25.992000	0:35:26.753000
 .	-	-	-	0:35:25.992000	0:35:26.753000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:26.753000" end="0:35:27.125000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:26.753000" end="0:35:27.125000" persName="Informant 0357">
 "das	-	-	-	0:35:26.753000	0:35:27.125000
 ist	-	-	-	0:35:26.753000	0:35:27.125000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:27.125000" end="0:35:28.046000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:27.125000" end="0:35:28.046000" persName="Informant 0363">
 "mit	-	-	-	0:35:27.125000	0:35:28.046000
 seinem"	-	-	-	0:35:27.125000	0:35:28.046000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:27.125000" end="0:35:33.057000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:27.125000" end="0:35:33.057000" persName="Informant 0357">
 der	-	-	-	0:35:27.125000	0:35:28.046000
 Vater	-	-	-	0:35:27.125000	0:35:28.046000
 mit	-	-	-	0:35:28.046000	0:35:30.046000
@@ -9087,7 +9088,7 @@ im	-	-	-	0:35:30.046000	0:35:33.057000
 Dialekt"	-	-	-	0:35:30.046000	0:35:33.057000
 .	-	-	-	0:35:30.046000	0:35:33.057000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:33.057000" end="0:35:38.664000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:33.057000" end="0:35:38.664000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ja	-	-	-	0:35:33.057000	0:35:35.910000
 ,	-	-	-	0:35:33.057000	0:35:35.910000
@@ -9106,18 +9107,18 @@ besonderes	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj dopp spe+ spe-	0:35:33.0570
 ?	-	-	-	0:35:33.057000	0:35:35.910000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:35.910000" end="0:35:39.717000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:35.910000" end="0:35:39.717000" persName="Informant 0357">
 <pause duration="2,8s"/>
 auch	-	-	-	0:35:38.664000	0:35:39.717000
 die	-	-	-	0:35:38.664000	0:35:39.717000
 "Schank"	-	-	-	0:35:38.664000	0:35:39.717000
 ,	-	-	-	0:35:38.664000	0:35:39.717000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:39.717000" end="0:35:40.228000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:39.717000" end="0:35:40.228000" persName="Informant 0363">
 mhm	-	-	-	0:35:39.717000	0:35:40.228000
 .	-	-	-	0:35:39.717000	0:35:40.228000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:39.717000" end="0:35:41.464000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:39.717000" end="0:35:41.464000" persName="Informant 0357">
 die	-	-	-	0:35:39.717000	0:35:40.228000
 Theke	-	-	-	0:35:40.228000	0:35:41.464000
 ,	-	-	-	0:35:40.228000	0:35:41.464000
@@ -9125,17 +9126,17 @@ die	-	-	-	0:35:40.228000	0:35:41.464000
 Bar	-	-	-	0:35:40.228000	0:35:41.464000
 .	-	-	-	0:35:40.228000	0:35:41.464000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:41.464000" end="0:35:44.153000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:41.464000" end="0:35:44.153000" persName="Informant 0363">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:41.464000" end="0:35:44.153000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:41.464000" end="0:35:44.153000" persName="Informant 0357">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:44.153000" end="0:35:44.546000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:44.153000" end="0:35:44.546000" persName="Informant 0363">
 oder	-	-	-	0:35:44.153000	0:35:44.546000
 /?	-	-	-	0:35:44.153000	0:35:44.546000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:44.546000" end="0:35:48.592000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:44.546000" end="0:35:48.592000" persName="Informant 0357">
 <pause duration="0,8s"/>
 ich	-	-	-	0:35:44.546000	0:35:45.714000
 *weiß*	-	-	-	0:35:44.546000	0:35:45.714000
@@ -9158,37 +9159,37 @@ Dialektwörter	-	-	-	0:35:45.964000	0:35:48.592000
 oder	-	-	-	0:35:45.964000	0:35:48.592000
 ?	-	-	-	0:35:45.964000	0:35:48.592000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:48.592000" end="0:35:50.628000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:48.592000" end="0:35:50.628000" persName="Informant 0363">
 ja	-	-	-	0:35:48.592000	0:35:49.425000
 .	-	-	-	0:35:48.592000	0:35:49.425000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:49.425000" end="0:35:50.628000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:49.425000" end="0:35:50.628000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:50.628000" end="0:35:51.346000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:50.628000" end="0:35:51.346000" persName="Informant 0363">
 gibt	-	-	-	0:35:50.628000	0:35:51.346000
 /.	-	-	-	0:35:50.628000	0:35:51.346000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:50.628000" end="0:35:51.346000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:50.628000" end="0:35:51.346000" persName="Informant 0357">
 der	-	-	-	0:35:50.628000	0:35:51.346000
 Opa	-	-	-	0:35:50.628000	0:35:51.346000
 hat	-	-	-	0:35:50.628000	0:35:51.346000
 fr/	-	-	-	0:35:50.628000	0:35:51.346000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:51.346000" end="0:35:52.071000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:51.346000" end="0:35:52.071000" persName="Informant 0363">
 es	-	-	-	0:35:51.346000	0:35:52.071000
 gibt	-	-	-	0:35:51.346000	0:35:52.071000
 schon	-	-	-	0:35:51.346000	0:35:52.071000
 ein	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj präpon spe-	0:35:51.346000	0:35:52.071000
 paar	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj präpon spe-	0:35:51.346000	0:35:52.071000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:51.346000" end="0:35:52.071000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:51.346000" end="0:35:52.071000" persName="Informant 0357">
 unser	-	-	-	0:35:51.346000	0:35:52.071000
 Vater	-	-	-	0:35:51.346000	0:35:52.071000
 /.	-	-	-	0:35:51.346000	0:35:52.071000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:52.067000" end="0:35:58.908000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:35:52.067000" end="0:35:58.908000" persName="Informant 0363">
 so	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj präpon spe-	0:35:52.067000	0:35:53.546000
 Ausschweifungen	-	-	2ArtSPE ?? AKon DArt EAdj EPart ESubj präpon spe-	0:35:52.067000	0:35:53.546000
 auch	-	-	-	0:35:52.067000	0:35:53.546000
@@ -9209,7 +9210,7 @@ auf	-	-	-	0:35:53.803000	0:35:56.436000
 .	-	-	-	0:35:53.803000	0:35:56.436000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:56.440000" end="0:36:00.052000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:35:56.440000" end="0:36:00.052000" persName="Informant 0357">
 <pause duration="2,5s"/>
 *schaust*	-	-	-	0:35:58.908000	0:36:00.052000
 du	-	-	-	0:35:58.908000	0:36:00.052000
@@ -9219,28 +9220,28 @@ der	-	-	-	0:35:58.908000	0:36:00.052000
 Katze	-	-	-	0:35:58.908000	0:36:00.052000
 ?	-	-	-	0:35:58.908000	0:36:00.052000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:00.052000" end="0:36:02.512000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:00.052000" end="0:36:02.512000" persName="Informant 0363">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:00.052000" end="0:36:03.656000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:00.052000" end="0:36:03.656000" persName="Informant 0357">
 <pause duration="2,5s"/>
 irgendeine	-	-	-	0:36:02.512000	0:36:03.656000
 Katze	-	-	-	0:36:02.512000	0:36:03.656000
 _reat_	-	-	-	0:36:02.512000	0:36:03.656000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:03.656000" end="0:36:04.052000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:03.656000" end="0:36:04.052000" persName="Informant 0363">
 ja	-	-	-	0:36:03.656000	0:36:04.052000
 .	-	-	-	0:36:03.656000	0:36:04.052000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:03.656000" end="0:36:04.052000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:03.656000" end="0:36:04.052000" persName="Informant 0357">
 da	-	-	-	0:36:03.656000	0:36:04.052000
 .	-	-	-	0:36:03.656000	0:36:04.052000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:04.052000" end="0:36:13.872000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:04.052000" end="0:36:13.872000" persName="Informant 0363">
 <pause duration="aufstehen"/>
 <pause duration="8,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:05.512000" end="0:36:24.600000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:05.512000" end="0:36:24.600000" persName="Informant 0357">
 <pause duration="8,4s"/>
 so	-	-	-	0:36:13.872000	0:36:15.872000
 ,	-	-	-	0:36:13.872000	0:36:15.872000
@@ -9256,14 +9257,14 @@ Nachrichtensprechern"	-	-	-	0:36:15.872000	0:36:17.924000
 ähm	-	-	-	0:36:17.928000	0:36:19.504000
 <pause duration="5,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:24.600000" end="0:36:27.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:24.600000" end="0:36:27.120000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:24.600000" end="0:36:34.224000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:24.600000" end="0:36:34.224000" persName="Informant 0357">
 in	-	-	-	0:36:24.600000	0:36:27.120000
 (C)	-	-	-	0:36:24.600000	0:36:27.120000
 hat	-	-	-	0:36:24.600000	0:36:27.120000
 die	-	-	-	0:36:24.600000	0:36:27.120000
-[Johanna]N	-	-	-	0:36:24.600000	0:36:27.120000
+NAME	NAME	-	-	0:36:24.600000	0:36:27.120000
 auch	-	-	-	0:36:24.600000	0:36:27.120000
 die	-	-	-	0:36:24.600000	0:36:27.120000
 Frage	-	-	-	0:36:24.600000	0:36:27.120000
@@ -9286,7 +9287,7 @@ Antwort	-	-	-	0:36:32.408000	0:36:34.224000
 gegeben	-	-	-	0:36:32.408000	0:36:34.224000
 ?	-	-	-	0:36:32.408000	0:36:34.224000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:34.224000" end="0:36:35.956000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:34.224000" end="0:36:35.956000" persName="Informant 0363">
 ja	-	-	-	0:36:34.224000	0:36:35.956000
 die	-	-	-	0:36:34.224000	0:36:35.956000
 reden	-	-	-	0:36:34.224000	0:36:35.956000
@@ -9294,7 +9295,7 @@ nach	-	-	-	0:36:34.224000	0:36:35.956000
 einem	-	-	-	0:36:34.224000	0:36:35.956000
 /.	-	-	-	0:36:34.224000	0:36:35.956000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:34.224000" end="0:36:37.036000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:34.224000" end="0:36:37.036000" persName="Informant 0357">
 we/	-	-	-	0:36:34.224000	0:36:35.956000
 welche	-	-	-	0:36:34.224000	0:36:35.956000
 wö/	-	-	-	0:36:34.224000	0:36:35.956000
@@ -9306,7 +9307,7 @@ für	-	-	-	0:36:35.956000	0:36:37.036000
 dich	-	-	-	0:36:35.956000	0:36:37.036000
 ?	-	-	-	0:36:35.956000	0:36:37.036000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:37.036000" end="0:36:39.756000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:37.036000" end="0:36:39.756000" persName="Informant 0363">
 die	-	-	-	0:36:37.036000	0:36:39.756000
 reden	-	-	-	0:36:37.036000	0:36:39.756000
 eigentlich	-	-	-	0:36:37.036000	0:36:39.756000
@@ -9320,7 +9321,7 @@ der	-	-	-	0:36:37.036000	0:36:39.756000
 Schrift	-	-	-	0:36:37.036000	0:36:39.756000
 .	-	-	-	0:36:37.036000	0:36:39.756000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:39.756000" end="0:36:45.240000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:39.756000" end="0:36:45.240000" persName="Informant 0357">
 <pause duration="1,4s"/>
 warte	-	-	-	0:36:41.096000	0:36:42.076000
 ,	-	-	-	0:36:41.096000	0:36:42.076000
@@ -9336,22 +9337,22 @@ ein	-	-	-	0:36:42.076000	0:36:45.240000
 emotionsloses	-	-	-	0:36:42.076000	0:36:45.240000
 /.	-	-	-	0:36:42.076000	0:36:45.240000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:45.240000" end="0:36:47.792000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:45.240000" end="0:36:47.792000" persName="Informant 0363">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:45.240000" end="0:36:48.488000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:45.240000" end="0:36:48.488000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ja	-	-	-	0:36:47.792000	0:36:48.488000
 wirklich	-	-	-	0:36:47.792000	0:36:48.488000
 !	-	-	-	0:36:47.792000	0:36:48.488000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:48.488000" end="0:36:50.248000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:48.488000" end="0:36:50.248000" persName="Informant 0363">
 ein	-	-	-	0:36:48.488000	0:36:50.248000
 emotionsloses	-	-	-	0:36:48.488000	0:36:50.248000
 Gespräch	-	-	-	0:36:48.488000	0:36:50.248000
 .	-	-	-	0:36:48.488000	0:36:50.248000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:50.248000" end="0:36:52.900000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:50.248000" end="0:36:52.900000" persName="Informant 0357">
 ein	-	-	-	0:36:50.248000	0:36:52.492000
 <pause duration="0,8s"/>
 leeres	-	-	-	0:36:50.248000	0:36:52.492000
@@ -9359,11 +9360,11 @@ leeres	-	-	-	0:36:50.248000	0:36:52.492000
 so	-	-	-	0:36:52.492000	0:36:52.900000
 ein	-	-	-	0:36:52.492000	0:36:52.900000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:52.900000" end="0:36:53.612000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:52.900000" end="0:36:53.612000" persName="Informant 0363">
 mhm	-	-	-	0:36:52.900000	0:36:53.612000
 .	-	-	-	0:36:52.900000	0:36:53.612000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:52.900000" end="0:36:54.746000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:52.900000" end="0:36:54.746000" persName="Informant 0357">
 einfach	-	-	-	0:36:52.900000	0:36:53.612000
 so	-	-	-	0:36:52.900000	0:36:53.612000
 ,	-	-	-	0:36:52.900000	0:36:53.612000
@@ -9375,35 +9376,35 @@ wie	-	-	-	0:36:54.034000	0:36:54.746000
 so	-	-	-	0:36:54.034000	0:36:54.746000
 ein	-	-	-	0:36:54.034000	0:36:54.746000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:54.746000" end="0:36:55.152000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:54.746000" end="0:36:55.152000" persName="Informant 0363">
 ja	-	-	-	0:36:54.746000	0:36:55.152000
 .	-	-	-	0:36:54.746000	0:36:55.152000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:55.152000" end="0:36:56.920000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:55.152000" end="0:36:56.920000" persName="Informant 0357">
 Dahinplätschern	-	-	-	0:36:55.152000	0:36:56.920000
 ,	-	-	-	0:36:55.152000	0:36:56.920000
 kein	-	-	-	0:36:55.152000	0:36:56.920000
 /.	-	-	-	0:36:55.152000	0:36:56.920000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:56.920000" end="0:36:57.388000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:56.920000" end="0:36:57.388000" persName="Informant 0363">
 monoton	-	-	-	0:36:56.920000	0:36:57.388000
 .	-	-	-	0:36:56.920000	0:36:57.388000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:57.388000" end="0:36:58.296000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:57.388000" end="0:36:58.296000" persName="Informant 0357">
 monoton	-	-	-	0:36:57.388000	0:36:58.296000
 .	-	-	-	0:36:57.388000	0:36:58.296000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:58.296000" end="0:37:00.364000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:36:58.296000" end="0:37:00.364000" persName="Informant 0363">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:58.296000" end="0:37:00.364000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:36:58.296000" end="0:37:00.364000" persName="Informant 0357">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:00.364000" end="0:37:01.012000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:00.364000" end="0:37:01.012000" persName="Informant 0363">
 mhm	-	-	-	0:37:00.364000	0:37:01.012000
 .	-	-	-	0:37:00.364000	0:37:01.012000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:01.012000" end="0:37:05.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:01.012000" end="0:37:05.480000" persName="Informant 0357">
 also	-	-	-	0:37:01.012000	0:37:03.480000
 d/	-	-	-	0:37:01.012000	0:37:03.480000
 also	-	-	-	0:37:01.012000	0:37:03.480000
@@ -9421,9 +9422,9 @@ pf/	-	-	-	0:37:03.480000	0:37:05.480000
 besser	-	-	-	0:37:03.480000	0:37:05.480000
 .	-	-	-	0:37:03.480000	0:37:05.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:05.480000" end="0:37:06.012000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:05.480000" end="0:37:06.012000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:06.012000" end="0:37:14.116000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:06.012000" end="0:37:14.116000" persName="Informant 0357">
 ähm	-	-	-	0:37:06.012000	0:37:07.740000
 was	-	-	-	0:37:06.012000	0:37:07.740000
 auch	-	-	-	0:37:06.012000	0:37:07.740000
@@ -9453,11 +9454,11 @@ sind	-	-	-	0:37:12.948000	0:37:14.116000
 schon	-	-	-	0:37:12.948000	0:37:14.116000
 jugendlicher	-	-	-	0:37:12.948000	0:37:14.116000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:14.116000" end="0:37:14.764000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:14.116000" end="0:37:14.764000" persName="Informant 0363">
 ja	-	-	-	0:37:14.116000	0:37:14.764000
 .	-	-	-	0:37:14.116000	0:37:14.764000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:14.116000" end="0:37:15.708000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:14.116000" end="0:37:15.708000" persName="Informant 0357">
 gestaltet	-	-	-	0:37:14.116000	0:37:14.764000
 ,	-	-	-	0:37:14.116000	0:37:14.764000
 <pause duration="0,6s"/>
@@ -9465,23 +9466,23 @@ finde	-	-	-	0:37:14.760000	0:37:15.708000
 ich	-	-	-	0:37:14.760000	0:37:15.708000
 .	-	-	-	0:37:14.760000	0:37:15.708000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:15.708000" end="0:37:17.412000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:15.708000" end="0:37:17.412000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:15.708000" end="0:37:17.412000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:15.708000" end="0:37:17.412000" persName="Informant 0357">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:17.412000" end="0:37:18.796000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:17.412000" end="0:37:18.796000" persName="Informant 0363">
 ORF	-	-	-	0:37:17.412000	0:37:18.796000
 "Zeit	-	-	-	0:37:17.412000	0:37:18.796000
 im	-	-	-	0:37:17.412000	0:37:18.796000
 Bild"	-	-	-	0:37:17.412000	0:37:18.796000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:17.412000" end="0:37:18.796000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:17.412000" end="0:37:18.796000" persName="Informant 0357">
 die	-	-	-	0:37:17.412000	0:37:18.796000
 /.	-	-	-	0:37:17.412000	0:37:18.796000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:18.796000" end="0:37:21.044000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:18.796000" end="0:37:21.044000" persName="Informant 0363">
 von	-	-	-	0:37:18.796000	0:37:19.496000
 dem	-	-	-	0:37:18.796000	0:37:19.496000
 her	-	-	-	0:37:18.796000	0:37:19.496000
@@ -9491,7 +9492,7 @@ eine	-	-	-	0:37:19.496000	0:37:21.044000
 schlechtere	-	-	-	0:37:19.496000	0:37:21.044000
 /.	-	-	-	0:37:19.496000	0:37:21.044000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:19.496000" end="0:37:21.848000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:19.496000" end="0:37:21.848000" persName="Informant 0357">
 und	-	-	-	0:37:19.496000	0:37:21.044000
 die	-	-	-	0:37:19.496000	0:37:21.044000
 ZDF	-	-	-	0:37:19.496000	0:37:21.044000
@@ -9502,11 +9503,11 @@ ganz	-	-	-	0:37:21.044000	0:37:21.848000
 schlimm	-	-	-	0:37:21.044000	0:37:21.848000
 .	-	-	-	0:37:21.044000	0:37:21.848000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:21.848000" end="0:37:22.592000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:21.848000" end="0:37:22.592000" persName="Informant 0363">
 mhm	-	-	-	0:37:21.848000	0:37:22.592000
 .	-	-	-	0:37:21.848000	0:37:22.592000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:22.592000" end="0:37:28.292000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:22.592000" end="0:37:28.292000" persName="Informant 0357">
 <pause duration="0,5s"/>
 also	-	-	-	0:37:22.592000	0:37:23.444000
 da	-	-	-	0:37:22.592000	0:37:23.444000
@@ -9527,7 +9528,7 @@ Haare	-	-	-	0:37:26.036000	0:37:28.292000
 rübergescheitelt	-	-	-	0:37:26.036000	0:37:28.292000
 .	-	-	-	0:37:26.036000	0:37:28.292000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:28.292000" end="0:37:32.128000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:28.292000" end="0:37:32.128000" persName="Informant 0363">
 mhm	-	-	-	0:37:28.292000	0:37:28.796000
 .	-	-	-	0:37:28.292000	0:37:28.796000
 <pause duration="0,8s"/>
@@ -9535,36 +9536,36 @@ ja	-	-	-	0:37:28.796000	0:37:29.828000
 .	-	-	-	0:37:28.796000	0:37:29.828000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:29.828000" end="0:37:32.128000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:29.828000" end="0:37:32.128000" persName="Informant 0357">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:32.128000" end="0:37:33.096000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:32.128000" end="0:37:33.096000" persName="Informant 0363">
 (ja	-	-	-	0:37:32.128000	0:37:33.096000
 ,	-	-	-	0:37:32.128000	0:37:33.096000
 wenn	-	-	-	0:37:32.128000	0:37:33.096000
 da	-	-	-	0:37:32.128000	0:37:33.096000
 heute)	-	-	-	0:37:32.128000	0:37:33.096000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:33.096000" end="0:37:35.296000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:33.096000" end="0:37:35.296000" persName="Informant 0357">
 "deine	-	-	-	0:37:33.096000	0:37:35.296000
 Lieblingssendung	-	-	-	0:37:33.096000	0:37:35.296000
 im	-	-	-	0:37:33.096000	0:37:35.296000
 TV"	-	-	-	0:37:33.096000	0:37:35.296000
 .	-	-	-	0:37:33.096000	0:37:35.296000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:35.296000" end="0:37:37.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:35.296000" end="0:37:37.120000" persName="Informant 0363">
 die	-	-	-	0:37:35.296000	0:37:36.708000
 "Simpsons"	-	-	-	0:37:35.296000	0:37:36.708000
 .	-	-	-	0:37:35.296000	0:37:36.708000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:36.708000" end="0:37:37.120000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:36.708000" end="0:37:37.120000" persName="Informant 0357">
 im	-	-	-	0:37:36.708000	0:37:37.120000
 Ernst	-	-	-	0:37:36.708000	0:37:37.120000
 ?	-	-	-	0:37:36.708000	0:37:37.120000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:37.116000" end="0:37:37.636000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:37.116000" end="0:37:37.636000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:37.116000" end="0:37:38.320000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:37.116000" end="0:37:38.320000" persName="Informant 0357">
 ich	-	-	-	0:37:37.116000	0:37:37.636000
 hätte	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:37:37.116000	0:37:37.636000
 mir	-	-	-	0:37:37.116000	0:37:37.636000
@@ -9575,18 +9576,18 @@ sagst	-	-	-	0:37:37.636000	0:37:38.320000
 jetzt	-	-	-	0:37:37.636000	0:37:38.320000
 ,	-	-	-	0:37:37.636000	0:37:38.320000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:38.316000" end="0:37:39.660000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:38.316000" end="0:37:39.660000" persName="Informant 0363">
 nein	-	-	-	0:37:38.316000	0:37:39.660000
 .	-	-	-	0:37:38.316000	0:37:39.660000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:38.316000" end="0:37:39.660000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:38.316000" end="0:37:39.660000" persName="Informant 0357">
 "Two	-	-	-	0:37:38.316000	0:37:39.660000
 and	-	-	-	0:37:38.316000	0:37:39.660000
 a	-	-	-	0:37:38.316000	0:37:39.660000
 Half	-	-	-	0:37:38.316000	0:37:39.660000
 Men"	-	-	-	0:37:38.316000	0:37:39.660000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:39.660000" end="0:37:45.296000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:39.660000" end="0:37:45.296000" persName="Informant 0363">
 ja	-	-	-	0:37:39.660000	0:37:40.252000
 ,	-	-	-	0:37:39.660000	0:37:40.252000
 das	-	-	-	0:37:39.660000	0:37:40.252000
@@ -9606,7 +9607,7 @@ die	-	-	-	0:37:43.684000	0:37:45.296000
 besseren	-	-	-	0:37:43.684000	0:37:45.296000
 .	-	-	-	0:37:43.684000	0:37:45.296000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:45.296000" end="0:37:47.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:45.296000" end="0:37:47.632000" persName="Informant 0357">
 <pause duration="0,9s"/>
 was	-	-	-	0:37:45.296000	0:37:47.632000
 taugt	-	-	-	0:37:45.296000	0:37:47.632000
@@ -9616,7 +9617,7 @@ die	-	-	-	0:37:45.296000	0:37:47.632000
 "Simpsons"	-	-	-	0:37:45.296000	0:37:47.632000
 ?	-	-	-	0:37:45.296000	0:37:47.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:47.632000" end="0:37:55.632000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:37:47.632000" end="0:37:55.632000" persName="Informant 0363">
 <pause duration="1,5s"/>
 einfach	-	-	-	0:37:49.092000	0:37:52.500000
 einmal	-	-	-	0:37:49.092000	0:37:52.500000
@@ -9633,7 +9634,7 @@ das	-	-	-	0:37:52.500000	0:37:55.632000
 Hirn	-	-	-	0:37:52.500000	0:37:55.632000
 /.	-	-	-	0:37:52.500000	0:37:55.632000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:55.632000" end="0:38:03.336000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:37:55.632000" end="0:38:03.336000" persName="Informant 0357">
 für	-	-	-	0:37:55.632000	0:37:58.696000
 mich	-	-	-	0:37:55.632000	0:37:58.696000
 wäre	-	-	-	0:37:55.632000	0:37:58.696000
@@ -9664,11 +9665,11 @@ sie	-	-	-	0:38:01.216000	0:38:03.336000
 dort	-	-	-	0:38:01.216000	0:38:03.336000
 schon	-	-	-	0:38:01.216000	0:38:03.336000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:03.336000" end="0:38:03.912000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:03.336000" end="0:38:03.912000" persName="Informant 0363">
 ja	-	-	-	0:38:03.336000	0:38:03.912000
 .	-	-	-	0:38:03.336000	0:38:03.912000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:03.336000" end="0:38:04.612000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:03.336000" end="0:38:04.612000" persName="Informant 0357">
 drinnen	-	-	-	0:38:03.336000	0:38:03.912000
 in	-	-	-	0:38:03.336000	0:38:03.912000
 dem	-	-	-	0:38:03.336000	0:38:03.912000
@@ -9680,7 +9681,7 @@ schon	-	-	-	0:38:03.912000	0:38:04.612000
 sagen	-	-	-	0:38:03.912000	0:38:04.612000
 .	-	-	-	0:38:03.912000	0:38:04.612000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:04.612000" end="0:38:10.484000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:04.612000" end="0:38:10.484000" persName="Informant 0363">
 ja	-	-	-	0:38:04.612000	0:38:05.520000
 schon	-	-	-	0:38:04.612000	0:38:05.520000
 ,	-	-	-	0:38:04.612000	0:38:05.520000
@@ -9700,19 +9701,19 @@ nicht	-	-	-	0:38:08.960000	0:38:09.552000
 ist)	-	-	-	0:38:09.552000	0:38:10.484000
 .	-	-	-	0:38:09.552000	0:38:10.484000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:10.484000" end="0:38:11.252000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:10.484000" end="0:38:11.252000" persName="Informant 0357">
 ja	-	-	-	0:38:10.484000	0:38:11.252000
 aber	-	-	-	0:38:10.484000	0:38:11.252000
 trotzdem	-	-	-	0:38:10.484000	0:38:11.252000
 .	-	-	-	0:38:10.484000	0:38:11.252000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:11.252000" end="0:38:12.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:11.252000" end="0:38:12.172000" persName="Informant 0363">
 ja	-	-	-	0:38:11.252000	0:38:12.172000
 ,	-	-	-	0:38:11.252000	0:38:12.172000
 ja	-	-	-	0:38:11.252000	0:38:12.172000
 .	-	-	-	0:38:11.252000	0:38:12.172000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:12.172000" end="0:38:22.052000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:12.172000" end="0:38:22.052000" persName="Informant 0357">
 und	-	-	-	0:38:12.172000	0:38:14.788000
 wenn	-	-	-	0:38:12.172000	0:38:14.788000
 mir	-	-	-	0:38:12.172000	0:38:14.788000
@@ -9755,7 +9756,7 @@ Handy	-	-	-	0:38:20.684000	0:38:22.052000
 raus	-	-	-	0:38:20.684000	0:38:22.052000
 ?	-	-	-	0:38:20.684000	0:38:22.052000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:22.052000" end="0:38:23.980000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:22.052000" end="0:38:23.980000" persName="Informant 0363">
 so	-	-	-	0:38:22.052000	0:38:23.980000
 ,	-	-	-	0:38:22.052000	0:38:23.980000
 den	-	-	-	0:38:22.052000	0:38:23.980000
@@ -9766,7 +9767,7 @@ dir	-	-	-	0:38:22.052000	0:38:23.980000
 vorlesen	-	-	-	0:38:22.052000	0:38:23.980000
 .	-	-	-	0:38:22.052000	0:38:23.980000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:23.976000" end="0:38:25.588000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:23.976000" end="0:38:25.588000" persName="Informant 0357">
 <pause duration="0,7s"/>
 auf	-	-	-	0:38:23.976000	0:38:25.588000
 Facebook	-	-	-	0:38:23.976000	0:38:25.588000
@@ -9774,11 +9775,11 @@ oder	-	-	-	0:38:23.976000	0:38:25.588000
 was	-	-	-	0:38:23.976000	0:38:25.588000
 ?	-	-	-	0:38:23.976000	0:38:25.588000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:25.588000" end="0:38:26.092000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:25.588000" end="0:38:26.092000" persName="Informant 0363">
 nein	-	-	-	0:38:25.588000	0:38:26.092000
 .	-	-	-	0:38:25.588000	0:38:26.092000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:26.092000" end="0:38:28.204000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:26.092000" end="0:38:28.204000" persName="Informant 0357">
 <pause duration="0,7s"/>
 *hast*	-	-	-	0:38:26.092000	0:38:28.204000
 heute	-	-	-	0:38:26.092000	0:38:28.204000
@@ -9788,19 +9789,19 @@ was	-	-	-	0:38:26.092000	0:38:28.204000
 gekriegt	-	-	-	0:38:26.092000	0:38:28.204000
 ?	-	-	-	0:38:26.092000	0:38:28.204000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:28.204000" end="0:38:29.388000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:28.204000" end="0:38:29.388000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:28.204000" end="0:38:29.388000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:28.204000" end="0:38:29.388000" persName="Informant 0357">
 hm	-	-	-	0:38:28.204000	0:38:29.388000
 .	-	-	-	0:38:28.204000	0:38:29.388000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:29.388000" end="0:38:30.964000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:29.388000" end="0:38:30.964000" persName="Informant 0363">
 <pause duration="0,5s"/>
 s/	-	-	-	0:38:29.388000	0:38:30.964000
 geschickt	-	-	-	0:38:29.388000	0:38:30.964000
 .	-	-	-	0:38:29.388000	0:38:30.964000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:30.964000" end="0:38:32.792000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:30.964000" end="0:38:32.792000" persName="Informant 0357">
 okay	-	-	-	0:38:30.964000	0:38:31.344000
 .	-	-	-	0:38:30.964000	0:38:31.344000
 <pause duration="0,7s"/>
@@ -9812,13 +9813,13 @@ es	-	-	-	0:38:31.344000	0:38:32.792000
 dann	-	-	-	0:38:31.344000	0:38:32.792000
 .	-	-	-	0:38:31.344000	0:38:32.792000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:32.792000" end="0:38:34.700000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:32.792000" end="0:38:34.700000" persName="Informant 0363">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:32.792000" end="0:38:34.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:32.792000" end="0:38:34.700000" persName="Informant 0357">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:34.700000" end="0:38:41.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:34.700000" end="0:38:41.996000" persName="Informant 0363">
 "Germany's	-	-	-	0:38:34.700000	0:38:37.860000
 next	-	-	-	0:38:34.700000	0:38:37.860000
 Topmodel"	-	-	-	0:38:34.700000	0:38:37.860000
@@ -9830,12 +9831,12 @@ gedreht	-	-	-	0:38:34.700000	0:38:37.860000
 werden	-	-	-	0:38:34.700000	0:38:37.860000
 .	-	-	-	0:38:34.700000	0:38:37.860000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:41.444000" end="0:38:41.996000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:41.444000" end="0:38:41.996000" persName="Informant 0357">
 "Germany's	-	-	-	0:38:41.444000	0:38:41.996000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:41.996000" end="0:38:44.824000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:41.996000" end="0:38:44.824000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:41.996000" end="0:38:44.824000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:41.996000" end="0:38:44.824000" persName="Informant 0357">
 next	-	-	-	0:38:41.996000	0:38:44.824000
 Topmodel	-	-	-	0:38:41.996000	0:38:44.824000
 könnte	-	-	-	0:38:41.996000	0:38:44.824000
@@ -9847,9 +9848,9 @@ gedreht	-	-	-	0:38:41.996000	0:38:44.824000
 werden	-	-	-	0:38:41.996000	0:38:44.824000
 .	-	-	-	0:38:41.996000	0:38:44.824000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:44.824000" end="0:38:48.648000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:44.824000" end="0:38:48.648000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:44.824000" end="0:38:48.648000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:44.824000" end="0:38:48.648000" persName="Informant 0357">
 niemand	-	-	-	0:38:44.824000	0:38:48.648000
 hat	-	-	-	0:38:44.824000	0:38:48.648000
 Titten	-	-	-	0:38:44.824000	0:38:48.648000
@@ -9860,26 +9861,26 @@ Laufen	-	-	-	0:38:44.824000	0:38:48.648000
 und	-	-	-	0:38:44.824000	0:38:48.648000
 ständig	-	-	-	0:38:44.824000	0:38:48.648000
 heult	-	-	-	0:38:44.824000	0:38:48.648000
-jemand	-	-	-	0:38:44.824000	0:38:48.648000
-in	-	-	-	0:38:44.824000	0:38:48.648000
+jemand .	-	-	-	0:38:44.824000	0:38:48.648000
+(ich	-	-	-	0:38:44.824000	0:38:48.648000
 ."	-	-	-	0:38:44.824000	0:38:48.648000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:48.648000" end="0:38:51.520000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:48.648000" end="0:38:51.520000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:48.648000" end="0:38:51.520000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:48.648000" end="0:38:51.520000" persName="Informant 0357">
 geh	-	-	-	0:38:48.648000	0:38:51.520000
 !	-	-	-	0:38:48.648000	0:38:51.520000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:51.520000" end="0:38:53.656000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:51.520000" end="0:38:53.656000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:51.520000" end="0:38:53.656000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:51.520000" end="0:38:53.656000" persName="Informant 0357">
 das	-	-	-	0:38:51.520000	0:38:53.656000
 ist	-	-	-	0:38:51.520000	0:38:53.656000
 echt	-	-	-	0:38:51.520000	0:38:53.656000
 (deep)	-	-	-	0:38:51.520000	0:38:53.656000
 .	-	-	-	0:38:51.520000	0:38:53.656000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:53.656000" end="0:38:54.472000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:53.656000" end="0:38:54.472000" persName="Informant 0363">
 ja	-	-	-	0:38:53.656000	0:38:54.472000
 ,	-	-	-	0:38:53.656000	0:38:54.472000
 ist	-	-	-	0:38:53.656000	0:38:54.472000
@@ -9887,7 +9888,7 @@ ja	-	-	-	0:38:53.656000	0:38:54.472000
 so	-	-	-	0:38:53.656000	0:38:54.472000
 .	-	-	-	0:38:53.656000	0:38:54.472000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:53.656000" end="0:38:58.916000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:53.656000" end="0:38:58.916000" persName="Informant 0357">
 da	-	-	-	0:38:53.656000	0:38:54.472000
 müsste	-	-	-	0:38:53.656000	0:38:54.472000
 da	-	-	-	0:38:54.472000	0:38:55.784000
@@ -9905,18 +9906,18 @@ können	-	-	-	0:38:57.488000	0:38:58.916000
 sie	-	-	-	0:38:57.488000	0:38:58.916000
 schon	-	-	-	0:38:57.488000	0:38:58.916000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:58.916000" end="0:38:59.504000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:58.916000" end="0:38:59.504000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:58.916000" end="0:38:59.504000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:38:58.916000" end="0:38:59.504000" persName="Informant 0357">
 laufen	-	-	-	0:38:58.916000	0:38:59.504000
 .	-	-	-	0:38:58.916000	0:38:59.504000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:59.504000" end="0:39:04.204000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:38:59.504000" end="0:39:04.204000" persName="Informant 0363">
 mhm	-	-	-	0:39:01.888000	0:39:02.392000
 .	-	-	-	0:39:01.888000	0:39:02.392000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:02.392000" end="0:39:08.436000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:02.392000" end="0:39:08.436000" persName="Informant 0357">
 <pause duration="1,8s"/>
 "meine	-	-	-	0:39:04.204000	0:39:04.748000
 l/	-	-	-	0:39:04.204000	0:39:04.748000
@@ -9937,10 +9938,10 @@ eigentlich	-	-	-	0:39:06.748000	0:39:08.436000
 nicht	-	-	-	0:39:06.748000	0:39:08.436000
 .	-	-	-	0:39:06.748000	0:39:08.436000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:08.436000" end="0:39:09.800000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:08.436000" end="0:39:09.800000" persName="Informant 0363">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:09.800000" end="0:39:16.100000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:09.800000" end="0:39:16.100000" persName="Informant 0357">
 ähm	-	-	-	0:39:09.800000	0:39:14.256000
 weil	-	-	-	0:39:09.800000	0:39:14.256000
 *wennsd*	-	-	-	0:39:09.800000	0:39:14.256000
@@ -9963,11 +9964,11 @@ tue	-	-	Prog ProgKon tunP	0:39:15.184000	0:39:16.100000
 buchlesen	-	-	Prog ProgKon tunP	0:39:15.184000	0:39:16.100000
 ,	-	-	-	0:39:15.184000	0:39:16.100000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:16.100000" end="0:39:16.528000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:16.100000" end="0:39:16.528000" persName="Informant 0363">
 mhm	-	-	-	0:39:16.100000	0:39:16.528000
 .	-	-	-	0:39:16.100000	0:39:16.528000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:16.100000" end="0:39:18.072000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:16.100000" end="0:39:18.072000" persName="Informant 0357">
 weil	-	-	-	0:39:16.100000	0:39:16.528000
 für	-	-	-	0:39:16.100000	0:39:16.528000
 mich	-	-	-	0:39:16.100000	0:39:16.528000
@@ -9976,30 +9977,30 @@ mehr	-	-	-	0:39:16.528000	0:39:18.072000
 Entspannung	-	-	-	0:39:16.528000	0:39:18.072000
 ist	-	-	-	0:39:16.528000	0:39:18.072000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:18.072000" end="0:39:18.632000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:18.072000" end="0:39:18.632000" persName="Informant 0363">
 ja	-	-	-	0:39:18.072000	0:39:18.632000
 ,	-	-	-	0:39:18.072000	0:39:18.632000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:18.072000" end="0:39:18.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:18.072000" end="0:39:18.632000" persName="Informant 0357">
 als	-	-	-	0:39:18.072000	0:39:18.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:18.632000" end="0:39:19.612000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:18.632000" end="0:39:19.612000" persName="Informant 0363">
 du	-	-	-	0:39:18.632000	0:39:19.612000
 tust	-	-	Prog ProgKon tunP	0:39:18.632000	0:39:19.612000
 die	-	-	-	0:39:18.632000	0:39:19.612000
 meiste	-	-	-	0:39:18.632000	0:39:19.612000
 Zeit	-	-	-	0:39:18.632000	0:39:19.612000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:18.632000" end="0:39:19.612000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:18.632000" end="0:39:19.612000" persName="Informant 0357">
 alles	-	-	-	0:39:18.632000	0:39:19.612000
 andere	-	-	-	0:39:18.632000	0:39:19.612000
 ,	-	-	-	0:39:18.632000	0:39:19.612000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:19.612000" end="0:39:20.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:19.612000" end="0:39:20.500000" persName="Informant 0363">
 buchlesen	-	-	Prog ProgKon tunP	0:39:19.612000	0:39:20.500000
 .	-	-	-	0:39:19.612000	0:39:20.500000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:19.612000" end="0:39:21.464000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:19.612000" end="0:39:21.464000" persName="Informant 0357">
 aber	-	-	-	0:39:19.612000	0:39:20.500000
 wenn	-	-	-	0:39:19.612000	0:39:20.500000
 ich	-	-	-	0:39:19.612000	0:39:20.500000
@@ -10009,7 +10010,7 @@ die	-	-	-	0:39:20.500000	0:39:21.144000
 hä	-	-	-	0:39:21.144000	0:39:21.464000
 ?	-	-	-	0:39:21.144000	0:39:21.464000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:21.464000" end="0:39:23.356000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:21.464000" end="0:39:23.356000" persName="Informant 0363">
 ja	-	-	-	0:39:21.464000	0:39:21.988000
 ,	-	-	-	0:39:21.464000	0:39:21.988000
 du	-	-	-	0:39:21.988000	0:39:22.776000
@@ -10020,7 +10021,7 @@ Zeit	-	-	-	0:39:22.776000	0:39:23.356000
 buchlesen	-	-	Prog ProgKon tunP	0:39:22.776000	0:39:23.356000
 .	-	-	-	0:39:22.776000	0:39:23.356000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:22.776000" end="0:39:25.932000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:22.776000" end="0:39:25.932000" persName="Informant 0357">
 ja	-	-	-	0:39:22.776000	0:39:23.356000
 ich	-	-	-	0:39:22.776000	0:39:23.356000
 weiß	-	-	-	0:39:22.776000	0:39:23.356000
@@ -10040,11 +10041,11 @@ gern	-	-	-	0:39:24.524000	0:39:25.932000
 an	-	-	-	0:39:24.524000	0:39:25.932000
 .	-	-	-	0:39:24.524000	0:39:25.932000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:25.932000" end="0:39:26.364000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:25.932000" end="0:39:26.364000" persName="Informant 0363">
 mhm	-	-	-	0:39:25.932000	0:39:26.364000
 .	-	-	-	0:39:25.932000	0:39:26.364000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:26.364000" end="0:39:29.868000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:26.364000" end="0:39:29.868000" persName="Informant 0357">
 gestern	-	-	-	0:39:26.364000	0:39:28.760000
 auf	-	-	-	0:39:26.364000	0:39:28.760000
 die	-	-	-	0:39:26.364000	0:39:28.760000
@@ -10062,32 +10063,32 @@ du	-	-	-	0:39:28.760000	0:39:29.868000
 schon	-	-	-	0:39:28.760000	0:39:29.868000
 geschlafen	-	-	-	0:39:28.760000	0:39:29.868000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:29.868000" end="0:39:30.420000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:29.868000" end="0:39:30.420000" persName="Informant 0363">
 mhm	-	-	-	0:39:29.868000	0:39:30.420000
 ,	-	-	-	0:39:29.868000	0:39:30.420000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:29.868000" end="0:39:30.420000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:29.868000" end="0:39:30.420000" persName="Informant 0357">
 auf	-	-	-	0:39:29.868000	0:39:30.420000
 der	-	-	-	0:39:29.868000	0:39:30.420000
 Couch	-	-	-	0:39:29.868000	0:39:30.420000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:30.420000" end="0:39:30.728000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:30.420000" end="0:39:30.728000" persName="Informant 0363">
 ja	-	-	-	0:39:30.420000	0:39:30.728000
 .	-	-	-	0:39:30.420000	0:39:30.728000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:30.728000" end="0:39:32.056000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:30.728000" end="0:39:32.056000" persName="Informant 0357">
 <pause duration="0,5s"/>
 das	-	-	-	0:39:30.728000	0:39:32.056000
 war	-	-	-	0:39:30.728000	0:39:32.056000
 so	-	-	-	0:39:30.728000	0:39:32.056000
 richtig	-	-	-	0:39:30.728000	0:39:32.056000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:32.056000" end="0:39:33.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:32.056000" end="0:39:33.220000" persName="Informant 0363">
 <pause duration="0,7s"/>
 entspannend	-	-	-	0:39:32.056000	0:39:33.220000
 ?	-	-	-	0:39:32.056000	0:39:33.220000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:33.220000" end="0:39:42.684000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:33.220000" end="0:39:42.684000" persName="Informant 0357">
 entspannend	-	-	-	0:39:33.220000	0:39:34.084000
 .	-	-	-	0:39:33.220000	0:39:34.084000
 <pause duration="0,6s"/>
@@ -10127,20 +10128,20 @@ das	-	-	-	0:39:41.300000	0:39:42.684000
 überanstrengt	-	-	-	0:39:41.300000	0:39:42.684000
 meine	-	-	-	0:39:41.300000	0:39:42.684000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:42.684000" end="0:39:43.364000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:42.684000" end="0:39:43.364000" persName="Informant 0363">
 (aha)	-	-	-	0:39:42.684000	0:39:43.364000
 .	-	-	-	0:39:42.684000	0:39:43.364000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:42.684000" end="0:39:43.868000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:42.684000" end="0:39:43.868000" persName="Informant 0357">
 Gehirnzellen	-	-	-	0:39:42.684000	0:39:43.364000
 ein	-	-	-	0:39:43.364000	0:39:43.868000
 bissel	-	-	-	0:39:43.364000	0:39:43.868000
 .	-	-	-	0:39:43.364000	0:39:43.868000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:43.868000" end="0:39:47.524000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:43.868000" end="0:39:47.524000" persName="Informant 0363">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:43.868000" end="0:39:49.324000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:43.868000" end="0:39:49.324000" persName="Informant 0357">
 <pause duration="3,7s"/>
 oje	-	-	-	0:39:47.524000	0:39:49.324000
 ,	-	-	-	0:39:47.524000	0:39:49.324000
@@ -10152,13 +10153,13 @@ ganz	-	-	-	0:39:47.524000	0:39:49.324000
 schwierig	-	-	-	0:39:47.524000	0:39:49.324000
 .	-	-	-	0:39:47.524000	0:39:49.324000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:49.320000" end="0:39:52.164000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:49.320000" end="0:39:52.164000" persName="Informant 0363">
 <pause duration="0,8s"/>
 hm	-	-	-	0:39:49.320000	0:39:50.344000
 .	-	-	-	0:39:49.320000	0:39:50.344000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:50.344000" end="0:39:53.068000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:50.344000" end="0:39:53.068000" persName="Informant 0357">
 <pause duration="1,8s"/>
 *kannst*	-	-	-	0:39:52.164000	0:39:53.068000
 du	-	-	-	0:39:52.164000	0:39:53.068000
@@ -10167,17 +10168,17 @@ es	-	-	-	0:39:52.164000	0:39:53.068000
 lesen	-	-	-	0:39:52.164000	0:39:53.068000
 ?	-	-	-	0:39:52.164000	0:39:53.068000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:53.068000" end="0:39:55.316000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:53.068000" end="0:39:55.316000" persName="Informant 0363">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:53.068000" end="0:39:55.316000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:53.068000" end="0:39:55.316000" persName="Informant 0357">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:55.316000" end="0:39:56.256000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:39:55.316000" end="0:39:56.256000" persName="Informant 0363">
 "Vorarlbergerisch"	-	-	-	0:39:55.316000	0:39:56.256000
 .	-	-	-	0:39:55.316000	0:39:56.256000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:56.256000" end="0:40:01.656000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:39:56.256000" end="0:40:01.656000" persName="Informant 0357">
 genau	-	-	-	0:39:56.256000	0:39:56.548000
 ,	-	-	-	0:39:56.256000	0:39:56.548000
 ich	-	-	-	0:39:56.548000	0:39:58.176000
@@ -10199,16 +10200,16 @@ gehört	-	-	-	0:39:58.176000	0:40:00.952000
 außer	-	-	-	0:40:00.952000	0:40:01.656000
 vielleicht	-	-	-	0:40:00.952000	0:40:01.656000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:01.656000" end="0:40:02.204000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:01.656000" end="0:40:02.204000" persName="Informant 0363">
 hm	-	-	-	0:40:01.656000	0:40:02.204000
 .	-	-	-	0:40:01.656000	0:40:02.204000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:01.656000" end="0:40:02.204000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:01.656000" end="0:40:02.204000" persName="Informant 0357">
 im	-	-	-	0:40:01.656000	0:40:02.204000
 Fernsehen	-	-	-	0:40:01.656000	0:40:02.204000
 .	-	-	-	0:40:01.656000	0:40:02.204000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:02.204000" end="0:40:09.584000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:02.204000" end="0:40:09.584000" persName="Informant 0363">
 nein	-	-	-	0:40:02.204000	0:40:03.908000
 ,	-	-	-	0:40:02.204000	0:40:03.908000
 Vorarlbergerisch	-	-	-	0:40:02.204000	0:40:03.908000
@@ -10237,7 +10238,7 @@ oben	-	-	-	0:40:07.888000	0:40:09.584000
 war	-	-	-	0:40:07.888000	0:40:09.584000
 .	-	-	-	0:40:07.888000	0:40:09.584000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:09.584000" end="0:40:11.368000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:09.584000" end="0:40:11.368000" persName="Informant 0357">
 <pause duration="0,9s"/>
 das	-	-	-	0:40:09.584000	0:40:11.008000
 weiß	-	-	-	0:40:09.584000	0:40:11.008000
@@ -10250,14 +10251,14 @@ ich	-	-	-	0:40:11.008000	0:40:11.368000
 ja	-	-	-	0:40:11.008000	0:40:11.368000
 nicht	-	-	-	0:40:11.008000	0:40:11.368000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:11.368000" end="0:40:12.260000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:11.368000" end="0:40:12.260000" persName="Informant 0363">
 ähm	-	-	-	0:40:11.368000	0:40:12.260000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:11.368000" end="0:40:12.260000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:11.368000" end="0:40:12.260000" persName="Informant 0357">
 mit	-	-	-	0:40:11.368000	0:40:12.260000
 .	-	-	-	0:40:11.368000	0:40:12.260000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:12.260000" end="0:40:17.004000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:12.260000" end="0:40:17.004000" persName="Informant 0363">
 Salzburgerisch	-	-	-	0:40:12.260000	0:40:15.940000
 <pause duration="0,6s"/>
 ist	-	-	-	0:40:12.260000	0:40:15.940000
@@ -10275,29 +10276,29 @@ nein	-	-	-	0:40:15.940000	0:40:17.004000
 Salzburg	-	-	-	0:40:15.940000	0:40:17.004000
 ,	-	-	-	0:40:15.940000	0:40:17.004000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:15.940000" end="0:40:17.004000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:15.940000" end="0:40:17.004000" persName="Informant 0357">
 Salzburg	-	-	-	0:40:15.940000	0:40:17.004000
 ?	-	-	-	0:40:15.940000	0:40:17.004000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:17.004000" end="0:40:17.652000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:17.004000" end="0:40:17.652000" persName="Informant 0363">
 nein	-	-	-	0:40:17.004000	0:40:17.652000
 ,	-	-	-	0:40:17.004000	0:40:17.652000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:17.004000" end="0:40:18.260000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:17.004000" end="0:40:18.260000" persName="Informant 0357">
 nein	-	-	-	0:40:17.004000	0:40:17.652000
 ,	-	-	-	0:40:17.004000	0:40:17.652000
 Salzburg	-	-	-	0:40:17.652000	0:40:18.260000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:18.260000" end="0:40:18.932000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:18.260000" end="0:40:18.932000" persName="Informant 0363">
 Tirol	-	-	-	0:40:18.260000	0:40:18.932000
 ,	-	-	-	0:40:18.260000	0:40:18.932000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:18.260000" end="0:40:18.932000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:18.260000" end="0:40:18.932000" persName="Informant 0357">
 ist	-	-	-	0:40:18.260000	0:40:18.932000
 nicht	-	-	-	0:40:18.260000	0:40:18.932000
 /.	-	-	-	0:40:18.260000	0:40:18.932000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:18.932000" end="0:40:25.696000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:18.932000" end="0:40:25.696000" persName="Informant 0363">
 Tirol	-	-	-	0:40:18.932000	0:40:19.436000
 ?	-	-	-	0:40:18.932000	0:40:19.436000
 <pause duration="1,6s"/>
@@ -10317,7 +10318,7 @@ zum	-	-	-	0:40:22.864000	0:40:25.696000
 Verstehen	-	-	-	0:40:22.864000	0:40:25.696000
 .	-	-	-	0:40:22.864000	0:40:25.696000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:25.696000" end="0:40:27.560000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:25.696000" end="0:40:27.560000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ja	-	-	-	0:40:25.696000	0:40:27.560000
 wenn	-	-	-	0:40:25.696000	0:40:27.560000
@@ -10327,7 +10328,7 @@ nicht	-	-	-	0:40:25.696000	0:40:27.560000
 bemüht	-	-	-	0:40:25.696000	0:40:27.560000
 .	-	-	-	0:40:25.696000	0:40:27.560000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:27.560000" end="0:40:30.712000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:27.560000" end="0:40:30.712000" persName="Informant 0363">
 nein	-	-	-	0:40:27.560000	0:40:30.712000
 das	-	-	-	0:40:27.560000	0:40:30.712000
 das	-	-	-	0:40:27.560000	0:40:30.712000
@@ -10336,7 +10337,7 @@ nur	-	-	-	0:40:27.560000	0:40:30.712000
 so	-	-	-	0:40:27.560000	0:40:30.712000
 .	-	-	-	0:40:27.560000	0:40:30.712000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:30.712000" end="0:40:32.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:30.712000" end="0:40:32.480000" persName="Informant 0357">
 ja	-	-	-	0:40:30.712000	0:40:31.136000
 ,	-	-	-	0:40:30.712000	0:40:31.136000
 <pause duration="0,8s"/>
@@ -10345,11 +10346,11 @@ ich	-	-	-	0:40:31.136000	0:40:32.480000
 nicht	-	-	-	0:40:31.136000	0:40:32.480000
 ,	-	-	-	0:40:31.136000	0:40:32.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:32.480000" end="0:40:32.984000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:32.480000" end="0:40:32.984000" persName="Informant 0363">
 hm	-	-	-	0:40:32.480000	0:40:32.984000
 .	-	-	-	0:40:32.480000	0:40:32.984000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:32.480000" end="0:40:40.172000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:32.480000" end="0:40:40.172000" persName="Informant 0357">
 ich	-	-	-	0:40:32.480000	0:40:32.984000
 ho/	-	-	-	0:40:32.480000	0:40:32.984000
 ich	-	-	-	0:40:32.984000	0:40:34.768000
@@ -10378,11 +10379,11 @@ keine	-	-	-	0:40:39.480000	0:40:40.172000
 Ahnung	-	-	-	0:40:39.480000	0:40:40.172000
 .	-	-	-	0:40:39.480000	0:40:40.172000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:40.172000" end="0:40:40.540000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:40.172000" end="0:40:40.540000" persName="Informant 0363">
 mhm	-	-	-	0:40:40.172000	0:40:40.540000
 .	-	-	-	0:40:40.172000	0:40:40.540000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:40.540000" end="0:40:48.584000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:40.540000" end="0:40:48.584000" persName="Informant 0357">
 <pause duration="0,9s"/>
 dadurch	-	-	-	0:40:40.540000	0:40:43.092000
 dass	-	-	-	0:40:40.540000	0:40:43.092000
@@ -10413,11 +10414,11 @@ war	-	-	-	0:40:47.444000	0:40:48.584000
 Salzburg-Stadt	-	-	-	0:40:47.444000	0:40:48.584000
 .	-	-	-	0:40:47.444000	0:40:48.584000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:48.584000" end="0:40:49.396000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:48.584000" end="0:40:49.396000" persName="Informant 0363">
 mhm	-	-	-	0:40:48.584000	0:40:49.396000
 .	-	-	-	0:40:48.584000	0:40:49.396000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:48.584000" end="0:40:52.340000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:48.584000" end="0:40:52.340000" persName="Informant 0357">
 weiter	-	-	-	0:40:48.584000	0:40:49.396000
 sind	-	-	-	0:40:48.584000	0:40:49.396000
 wir	-	-	-	0:40:49.396000	0:40:50.956000
@@ -10433,43 +10434,43 @@ gekommen	-	-	-	0:40:49.396000	0:40:50.956000
 puh	-	-	-	0:40:50.956000	0:40:52.340000
 .	-	-	-	0:40:50.956000	0:40:52.340000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:52.340000" end="0:40:55.392000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:52.340000" end="0:40:55.392000" persName="Informant 0363">
 (nein)	-	-	-	0:40:52.340000	0:40:53.088000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:53.088000" end="0:40:55.704000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:53.088000" end="0:40:55.704000" persName="Informant 0357">
 <pause duration="2,3s"/>
 ja	-	-	-	0:40:55.392000	0:40:55.704000
 ,	-	-	-	0:40:55.392000	0:40:55.704000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:55.704000" end="0:40:56.624000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:55.704000" end="0:40:56.624000" persName="Informant 0363">
 da	-	-	-	0:40:55.704000	0:40:56.624000
 gibt	-	-	-	0:40:55.704000	0:40:56.624000
 es	-	-	-	0:40:55.704000	0:40:56.624000
 nichts	-	-	-	0:40:55.704000	0:40:56.624000
 .	-	-	-	0:40:55.704000	0:40:56.624000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:56.624000" end="0:40:58.624000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:56.624000" end="0:40:58.624000" persName="Informant 0357">
 <pause duration="0,8s"/>
 hast	-	-	-	0:40:56.624000	0:40:58.624000
 du	-	-	-	0:40:56.624000	0:40:58.624000
 Urlaubsziele	-	-	-	0:40:56.624000	0:40:58.624000
 ?	-	-	-	0:40:56.624000	0:40:58.624000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:58.624000" end="0:41:00.972000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:40:58.624000" end="0:41:00.972000" persName="Informant 0363">
 <pause duration="0,7s"/>
 hm	-	-	-	0:40:58.624000	0:40:59.848000
 ?	-	-	-	0:40:58.624000	0:40:59.848000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:59.848000" end="0:41:01.636000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:40:59.848000" end="0:41:01.636000" persName="Informant 0357">
 <pause duration="1,1s"/>
 he/	-	-	-	0:41:00.972000	0:41:01.636000
 hast	-	-	-	0:41:00.972000	0:41:01.636000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:01.636000" end="0:41:02.408000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:01.636000" end="0:41:02.408000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:01.636000" end="0:41:03.072000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:01.636000" end="0:41:03.072000" persName="Informant 0357">
 du	-	-	-	0:41:01.636000	0:41:02.408000
 Urlaubsziele	-	-	-	0:41:01.636000	0:41:02.408000
 in	-	-	-	0:41:02.408000	0:41:03.072000
@@ -10477,20 +10478,20 @@ deinem	-	-	-	0:41:02.408000	0:41:03.072000
 Leben	-	-	-	0:41:02.408000	0:41:03.072000
 ?	-	-	-	0:41:02.408000	0:41:03.072000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:03.072000" end="0:41:04.456000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:03.072000" end="0:41:04.456000" persName="Informant 0363">
 wohin	-	-	-	0:41:03.072000	0:41:04.456000
 (?)	-	-	-	0:41:03.072000	0:41:04.456000
 ähm	-	-	-	0:41:03.072000	0:41:04.456000
 .	-	-	-	0:41:03.072000	0:41:04.456000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:04.456000" end="0:41:05.464000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:04.456000" end="0:41:05.464000" persName="Informant 0357">
 was	-	-	-	0:41:04.456000	0:41:05.464000
 täte	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV tunK	0:41:04.456000	0:41:05.464000
 dich	-	-	-	0:41:04.456000	0:41:05.464000
 interessieren	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV tunK	0:41:04.456000	0:41:05.464000
 ?	-	-	-	0:41:04.456000	0:41:05.464000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:05.464000" end="0:41:11.028000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:05.464000" end="0:41:11.028000" persName="Informant 0363">
 <pause duration="2,1s"/>
 ähm	-	-	-	0:41:07.548000	0:41:09.784000
 konkret	-	-	-	0:41:07.548000	0:41:09.784000
@@ -10503,25 +10504,25 @@ nichts	-	-	-	0:41:07.548000	0:41:09.784000
 .	-	-	-	0:41:07.548000	0:41:09.784000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:09.784000" end="0:41:11.028000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:09.784000" end="0:41:11.028000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:11.028000" end="0:41:11.448000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:11.028000" end="0:41:11.448000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:11.028000" end="0:41:11.448000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:11.028000" end="0:41:11.448000" persName="Informant 0357">
 was	-	-	-	0:41:11.028000	0:41:11.448000
 tätest	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV tunK	0:41:11.028000	0:41:11.448000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:11.448000" end="0:41:12.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:11.448000" end="0:41:12.272000" persName="Informant 0363">
 einfach	-	-	-	0:41:11.448000	0:41:12.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:11.448000" end="0:41:12.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:11.448000" end="0:41:12.272000" persName="Informant 0357">
 einmal	-	-	-	0:41:11.448000	0:41:12.272000
 gern	-	-	-	0:41:11.448000	0:41:12.272000
 anschauen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV tunK	0:41:11.448000	0:41:12.272000
 ?	-	-	-	0:41:11.448000	0:41:12.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:12.272000" end="0:41:14.356000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:12.272000" end="0:41:14.356000" persName="Informant 0363">
 einmal	-	-	-	0:41:12.272000	0:41:13.752000
 <pause duration="0,6s"/>
 fort	-	-	-	0:41:12.272000	0:41:13.752000
@@ -10531,7 +10532,7 @@ das	-	-	-	0:41:13.752000	0:41:14.356000
 ist	-	-	-	0:41:13.752000	0:41:14.356000
 /.	-	-	-	0:41:13.752000	0:41:14.356000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:13.752000" end="0:41:27.060000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:13.752000" end="0:41:27.060000" persName="Informant 0357">
 ja	-	-	-	0:41:13.752000	0:41:14.356000
 ,	-	-	-	0:41:13.752000	0:41:14.356000
 was	-	-	-	0:41:14.356000	0:41:15.032000
@@ -10578,27 +10579,27 @@ weiß	-	-	-	0:41:26.668000	0:41:27.060000
 nicht	-	-	-	0:41:26.668000	0:41:27.060000
 ,	-	-	-	0:41:26.668000	0:41:27.060000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:27.064000" end="0:41:28.196000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:27.064000" end="0:41:28.196000" persName="Informant 0363">
 ähm	-	-	-	0:41:27.064000	0:41:28.196000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:27.064000" end="0:41:28.196000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:27.064000" end="0:41:28.196000" persName="Informant 0357">
 was	-	-	-	0:41:27.064000	0:41:28.196000
 interessiert	-	-	-	0:41:27.064000	0:41:28.196000
 dich	-	-	-	0:41:27.064000	0:41:28.196000
 ?	-	-	-	0:41:27.064000	0:41:28.196000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:28.196000" end="0:41:29.344000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:28.196000" end="0:41:29.344000" persName="Informant 0363">
 puh	-	-	-	0:41:28.196000	0:41:29.344000
 ja	-	-	-	0:41:28.196000	0:41:29.344000
 ,	-	-	-	0:41:28.196000	0:41:29.344000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:28.196000" end="0:41:29.344000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:28.196000" end="0:41:29.344000" persName="Informant 0357">
 was	-	-	-	0:41:28.196000	0:41:29.344000
 *willst*	-	-	-	0:41:28.196000	0:41:29.344000
 anschauen	-	-	-	0:41:28.196000	0:41:29.344000
 ?	-	-	-	0:41:28.196000	0:41:29.344000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:29.344000" end="0:41:35.348000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:29.344000" end="0:41:35.348000" persName="Informant 0363">
 <pause duration="0,7s"/>
 im	-	-	-	0:41:29.344000	0:41:32.484000
 Prinzip	-	-	-	0:41:29.344000	0:41:32.484000
@@ -10617,14 +10618,14 @@ eventuell	-	-	-	0:41:32.484000	0:41:34.240000
 .	-	-	-	0:41:32.484000	0:41:34.240000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:34.240000" end="0:41:35.936000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:34.240000" end="0:41:35.936000" persName="Informant 0357">
 <pause duration="1,1s"/>
 ja	-	-	-	0:41:35.348000	0:41:35.936000
 ,	-	-	-	0:41:35.348000	0:41:35.936000
 weiter	-	-	-	0:41:35.348000	0:41:35.936000
 .	-	-	-	0:41:35.348000	0:41:35.936000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:35.936000" end="0:41:45.912000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:35.936000" end="0:41:45.912000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:41:35.936000	0:41:37.044000
 und	-	-	-	0:41:37.044000	0:41:40.776000
@@ -10652,17 +10653,17 @@ einmal	-	-	-	0:41:44.852000	0:41:45.912000
 entspannen	-	-	-	0:41:44.852000	0:41:45.912000
 .	-	-	-	0:41:44.852000	0:41:45.912000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:45.912000" end="0:41:47.192000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:45.912000" end="0:41:47.192000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ja	-	-	-	0:41:45.912000	0:41:47.192000
 und	-	-	-	0:41:45.912000	0:41:47.192000
 dann	-	-	-	0:41:45.912000	0:41:47.192000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:47.192000" end="0:41:47.408000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:47.192000" end="0:41:47.408000" persName="Informant 0363">
 ja	-	-	-	0:41:47.192000	0:41:47.408000
 .	-	-	-	0:41:47.192000	0:41:47.408000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:47.192000" end="0:41:51.004000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:47.192000" end="0:41:51.004000" persName="Informant 0357">
 machen	-	-	-	0:41:47.192000	0:41:47.408000
 wir	-	-	-	0:41:47.192000	0:41:47.408000
 wieder	-	-	-	0:41:47.408000	0:41:47.988000
@@ -10687,11 +10688,11 @@ bald	-	-	-	0:41:49.752000	0:41:51.004000
 aus	-	-	-	0:41:49.752000	0:41:51.004000
 ,	-	-	-	0:41:49.752000	0:41:51.004000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:51.004000" end="0:41:51.896000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:51.004000" end="0:41:51.896000" persName="Informant 0363">
 ja	-	-	-	0:41:51.004000	0:41:51.896000
 .	-	-	-	0:41:51.004000	0:41:51.896000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:51.004000" end="0:41:53.500000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:51.004000" end="0:41:53.500000" persName="Informant 0357">
 weil	-	-	-	0:41:51.004000	0:41:51.896000
 ich	-	-	-	0:41:51.004000	0:41:51.896000
 will	-	-	-	0:41:51.004000	0:41:51.896000
@@ -10707,11 +10708,11 @@ weggehst	-	-	-	0:41:52.312000	0:41:53.500000
 einfach	-	-	-	0:41:52.312000	0:41:53.500000
 .	-	-	-	0:41:52.312000	0:41:53.500000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:53.500000" end="0:41:54.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:53.500000" end="0:41:54.500000" persName="Informant 0363">
 ja	-	-	-	0:41:53.500000	0:41:54.500000
 .	-	-	-	0:41:53.500000	0:41:54.500000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:54.500000" end="0:41:57.248000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:54.500000" end="0:41:57.248000" persName="Informant 0357">
 ich	-	-	-	0:41:54.500000	0:41:54.784000
 meine	-	-	-	0:41:54.500000	0:41:54.784000
 ,	-	-	-	0:41:54.500000	0:41:54.784000
@@ -10730,17 +10731,17 @@ gut	-	-	-	0:41:56.216000	0:41:57.248000
 gelöst	-	-	-	0:41:56.216000	0:41:57.248000
 .	-	-	-	0:41:56.216000	0:41:57.248000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:57.248000" end="0:41:57.984000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:57.248000" end="0:41:57.984000" persName="Informant 0363">
 meinst	-	-	-	0:41:57.248000	0:41:57.984000
 den	-	-	-	0:41:57.248000	0:41:57.984000
 in	-	-	-	0:41:57.248000	0:41:57.984000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:57.984000" end="0:41:59">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:57.984000" end="0:41:59" persName="Informant 0357">
 <pause duration="0,7s"/>
 was	-	-	-	0:41:57.984000	0:41:59
 ?	-	-	-	0:41:57.984000	0:41:59
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:59" end="0:42:00.260000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:41:59" end="0:42:00.260000" persName="Informant 0363">
 ah	-	-	-	0:41:59	0:41:59.588000
 ,	-	-	-	0:41:59	0:41:59.588000
 da	-	-	-	0:41:59	0:41:59.588000
@@ -10750,7 +10751,7 @@ aber	-	-	-	0:41:59.588000	0:42:00.260000
 gescheit	-	-	-	0:41:59.588000	0:42:00.260000
 .	-	-	-	0:41:59.588000	0:42:00.260000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:59.588000" end="0:42:01.016000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:41:59.588000" end="0:42:01.016000" persName="Informant 0357">
 nein	-	-	-	0:41:59.588000	0:42:00.260000
 ,	-	-	-	0:41:59.588000	0:42:00.260000
 wie	-	-	-	0:41:59.588000	0:42:00.260000
@@ -10760,7 +10761,7 @@ Villach	-	-	-	0:42:00.260000	0:42:01.016000
 waren	-	-	-	0:42:00.260000	0:42:01.016000
 ,	-	-	-	0:42:00.260000	0:42:01.016000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:01.016000" end="0:42:02.204000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:01.016000" end="0:42:02.204000" persName="Informant 0363">
 ja	-	-	-	0:42:01.016000	0:42:02.204000
 das	-	-	-	0:42:01.016000	0:42:02.204000
 passt	-	-	-	0:42:01.016000	0:42:02.204000
@@ -10768,24 +10769,24 @@ eh	-	-	-	0:42:01.016000	0:42:02.204000
 aber	-	-	-	0:42:01.016000	0:42:02.204000
 .	-	-	-	0:42:01.016000	0:42:02.204000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:02.204000" end="0:42:03.260000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:02.204000" end="0:42:03.260000" persName="Informant 0357">
 das	-	-	-	0:42:02.204000	0:42:03.260000
 war	-	-	-	0:42:02.204000	0:42:03.260000
 echt	-	-	-	0:42:02.204000	0:42:03.260000
 cool	-	-	-	0:42:02.204000	0:42:03.260000
 .	-	-	-	0:42:02.204000	0:42:03.260000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:03.260000" end="0:42:05.472000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:03.260000" end="0:42:05.472000" persName="Informant 0363">
 ja	-	-	-	0:42:03.260000	0:42:04.008000
 .	-	-	-	0:42:03.260000	0:42:04.008000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:04.008000" end="0:42:06.040000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:04.008000" end="0:42:06.040000" persName="Informant 0357">
 <pause duration="1,5s"/>
 weil	-	-	-	0:42:05.472000	0:42:06.040000
 /.	-	-	-	0:42:05.472000	0:42:06.040000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:06.040000" end="0:42:08.228000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:06.040000" end="0:42:08.228000" persName="Informant 0363">
 <pause duration="0,8s"/>
 da	-	-	-	0:42:06.040000	0:42:08.228000
 haben	-	-	-	0:42:06.040000	0:42:08.228000
@@ -10796,7 +10797,7 @@ zum	-	-	-	0:42:06.040000	0:42:08.228000
 Tun	-	-	-	0:42:06.040000	0:42:08.228000
 .	-	-	-	0:42:06.040000	0:42:08.228000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:08.228000" end="0:42:11.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:08.228000" end="0:42:11.860000" persName="Informant 0357">
 du	-	-	-	0:42:08.228000	0:42:10.268000
 ich	-	-	-	0:42:08.228000	0:42:10.268000
 habe	-	-	-	0:42:08.228000	0:42:10.268000
@@ -10809,11 +10810,11 @@ mein	-	-	-	0:42:10.268000	0:42:11.860000
 Fitnessstudio	-	-	-	0:42:10.268000	0:42:11.860000
 ,	-	-	-	0:42:10.268000	0:42:11.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:11.860000" end="0:42:12.296000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:11.860000" end="0:42:12.296000" persName="Informant 0363">
 mhm	-	-	-	0:42:11.860000	0:42:12.296000
 .	-	-	-	0:42:11.860000	0:42:12.296000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:11.860000" end="0:42:15.144000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:11.860000" end="0:42:15.144000" persName="Informant 0357">
 du	-	-	-	0:42:11.860000	0:42:12.296000
 hast	-	-	-	0:42:11.860000	0:42:12.296000
 deine	-	-	-	0:42:12.296000	0:42:12.992000
@@ -10827,11 +10828,11 @@ kleines	-	-	-	0:42:12.992000	0:42:15.144000
 Plantschibecken	-	-	-	0:42:12.992000	0:42:15.144000
 .	-	-	-	0:42:12.992000	0:42:15.144000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:15.144000" end="0:42:15.788000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:15.144000" end="0:42:15.788000" persName="Informant 0363">
 mhm	-	-	-	0:42:15.144000	0:42:15.788000
 .	-	-	-	0:42:15.144000	0:42:15.788000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:15.788000" end="0:42:22.192000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:15.788000" end="0:42:22.192000" persName="Informant 0357">
 <pause duration="0,8s"/>
 wo	-	-	-	0:42:15.788000	0:42:17.688000
 ich	-	-	-	0:42:15.788000	0:42:17.688000
@@ -10852,17 +10853,17 @@ ist	-	-	-	0:42:20.284000	0:42:22.192000
 Salzburg	-	-	-	0:42:20.284000	0:42:22.192000
 .	-	-	-	0:42:20.284000	0:42:22.192000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:22.192000" end="0:42:24.164000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:22.192000" end="0:42:24.164000" persName="Informant 0363">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:22.192000" end="0:42:24.164000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:22.192000" end="0:42:24.164000" persName="Informant 0357">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:24.164000" end="0:42:24.560000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:24.164000" end="0:42:24.560000" persName="Informant 0363">
 mhm	-	-	-	0:42:24.164000	0:42:24.560000
 .	-	-	-	0:42:24.164000	0:42:24.560000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:24.560000" end="0:42:29.904000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:24.560000" end="0:42:29.904000" persName="Informant 0357">
 ja	-	-	-	0:42:24.560000	0:42:25.332000
 ,	-	-	-	0:42:24.560000	0:42:25.332000
 aber	-	-	-	0:42:25.332000	0:42:26.856000
@@ -10885,7 +10886,7 @@ eher	-	-	-	0:42:27.808000	0:42:29.904000
 nichts	-	-	-	0:42:27.808000	0:42:29.904000
 .	-	-	-	0:42:27.808000	0:42:29.904000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:29.904000" end="0:42:31.936000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:29.904000" end="0:42:31.936000" persName="Informant 0363">
 <pause duration="1,0s"/>
 mir	-	-	-	0:42:30.872000	0:42:31.936000
 *is*	-	-	-	0:42:30.872000	0:42:31.936000
@@ -10893,7 +10894,7 @@ völlig	-	-	-	0:42:30.872000	0:42:31.936000
 einerlei	-	-	-	0:42:30.872000	0:42:31.936000
 .	-	-	-	0:42:30.872000	0:42:31.936000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:31.936000" end="0:42:36.040000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:31.936000" end="0:42:36.040000" persName="Informant 0357">
 aber	-	-	-	0:42:31.936000	0:42:36.040000
 Ausland	-	-	-	0:42:31.936000	0:42:36.040000
 so	-	-	-	0:42:31.936000	0:42:36.040000
@@ -10905,21 +10906,21 @@ kein	-	-	-	0:42:31.936000	0:42:36.040000
 Bedürfnis	-	-	-	0:42:31.936000	0:42:36.040000
 ,	-	-	-	0:42:31.936000	0:42:36.040000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:36.040000" end="0:42:36.828000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:36.040000" end="0:42:36.828000" persName="Informant 0363">
 nein	-	-	-	0:42:36.040000	0:42:36.828000
 ,	-	-	-	0:42:36.040000	0:42:36.828000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:36.828000" end="0:42:37.416000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:36.828000" end="0:42:37.416000" persName="Informant 0357">
 dass	-	-	-	0:42:36.828000	0:42:37.416000
 ich	-	-	-	0:42:36.828000	0:42:37.416000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:37.416000" end="0:42:38.440000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:37.416000" end="0:42:38.440000" persName="Informant 0363">
 ich	-	-	-	0:42:37.416000	0:42:38.440000
 auch	-	-	-	0:42:37.416000	0:42:38.440000
 nicht	-	-	-	0:42:37.416000	0:42:38.440000
 .	-	-	-	0:42:37.416000	0:42:38.440000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:37.416000" end="0:42:43.992000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:37.416000" end="0:42:43.992000" persName="Informant 0357">
 irgendwo	-	-	-	0:42:37.416000	0:42:38.440000
 hin	-	-	-	0:42:38.440000	0:42:39.020000
 flöge	-	-	-	0:42:38.440000	0:42:39.020000
@@ -10939,37 +10940,37 @@ erzählt	-	-	-	0:42:39.020000	0:42:41.992000
 ,	-	-	-	0:42:39.020000	0:42:41.992000
 wie	-	-	-	0:42:41.992000	0:42:43.992000
 die	-	-	-	0:42:41.992000	0:42:43.992000
-[Elisabeth]N	-	-	-	0:42:41.992000	0:42:43.992000
+NAME	NAME	-	-	0:42:41.992000	0:42:43.992000
 Bali	-	-	-	0:42:41.992000	0:42:43.992000
 fliegen	-	-	-	0:42:41.992000	0:42:43.992000
 wollte	-	-	-	0:42:41.992000	0:42:43.992000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:43.992000" end="0:42:44.376000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:43.992000" end="0:42:44.376000" persName="Informant 0363">
 mhm	-	-	-	0:42:43.992000	0:42:44.376000
 ,	-	-	-	0:42:43.992000	0:42:44.376000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:44.376000" end="0:42:45.196000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:44.376000" end="0:42:45.196000" persName="Informant 0357">
 vor	-	-	-	0:42:44.376000	0:42:45.196000
 Weihnachten	-	-	-	0:42:44.376000	0:42:45.196000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:45.196000" end="0:42:46.376000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:45.196000" end="0:42:46.376000" persName="Informant 0363">
 dann	-	-	-	0:42:45.196000	0:42:46.376000
 ist	-	-	-	0:42:45.196000	0:42:46.376000
 die	-	-	-	0:42:45.196000	0:42:46.376000
 Reisewarnung	-	-	-	0:42:45.196000	0:42:46.376000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:45.196000" end="0:42:46.376000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:45.196000" end="0:42:46.376000" persName="Informant 0357">
 und	-	-	-	0:42:45.196000	0:42:46.376000
 dann	-	-	-	0:42:45.196000	0:42:46.376000
 war	-	-	-	0:42:45.196000	0:42:46.376000
 da	-	-	-	0:42:45.196000	0:42:46.376000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:46.376000" end="0:42:46.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:46.376000" end="0:42:46.740000" persName="Informant 0363">
 und	-	-	-	0:42:46.376000	0:42:46.740000
 da	-	-	-	0:42:46.376000	0:42:46.740000
 *is*	-	-	-	0:42:46.376000	0:42:46.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:46.376000" end="0:42:51.060000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:46.376000" end="0:42:51.060000" persName="Informant 0357">
 und	-	-	-	0:42:46.376000	0:42:46.740000
 dann	-	-	-	0:42:46.740000	0:42:48.500000
 ist	-	-	-	0:42:46.740000	0:42:48.500000
@@ -10986,7 +10987,7 @@ die	-	-	-	0:42:50.124000	0:42:51.060000
 Botschaft	-	-	-	0:42:50.124000	0:42:51.060000
 .	-	-	-	0:42:50.124000	0:42:51.060000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:51.060000" end="0:42:53.048000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:51.060000" end="0:42:53.048000" persName="Informant 0363">
 wegen	-	-	-	0:42:51.060000	0:42:51.904000
 dem	-	-	-	0:42:51.060000	0:42:51.904000
 Vulkan	-	-	-	0:42:51.904000	0:42:53.048000
@@ -10994,7 +10995,7 @@ oder	-	-	-	0:42:51.904000	0:42:53.048000
 was	-	-	-	0:42:51.904000	0:42:53.048000
 .	-	-	-	0:42:51.904000	0:42:53.048000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:51.904000" end="0:42:58.148000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:51.904000" end="0:42:58.148000" persName="Informant 0357">
 wegen	-	-	-	0:42:51.904000	0:42:53.048000
 dem	-	-	-	0:42:51.904000	0:42:53.048000
 Vulkan	-	-	-	0:42:51.904000	0:42:53.048000
@@ -11026,11 +11027,11 @@ nicht	-	-	-	0:42:57.256000	0:42:58.148000
 böse	-	-	-	0:42:57.256000	0:42:58.148000
 ,	-	-	-	0:42:57.256000	0:42:58.148000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:58.148000" end="0:42:59.408000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:58.148000" end="0:42:59.408000" persName="Informant 0363">
 mhm	-	-	-	0:42:58.148000	0:42:59.408000
 .	-	-	-	0:42:58.148000	0:42:59.408000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:58.148000" end="0:42:59.992000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:42:58.148000" end="0:42:59.992000" persName="Informant 0357">
 <pause duration="0,7s"/>
 aber	-	-	-	0:42:58.148000	0:42:59.408000
 da	-	-	-	0:42:58.148000	0:42:59.408000
@@ -11040,12 +11041,12 @@ gern	-	-	-	0:42:59.408000	0:42:59.992000
 daheim	-	-	-	0:42:59.408000	0:42:59.992000
 .	-	-	-	0:42:59.408000	0:42:59.992000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:59.992000" end="0:43:01.388000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:42:59.992000" end="0:43:01.388000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ja	-	-	-	0:42:59.992000	0:43:01.388000
 .	-	-	-	0:42:59.992000	0:43:01.388000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:01.388000" end="0:43:02.516000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:01.388000" end="0:43:02.516000" persName="Informant 0357">
 jetzt	-	-	-	0:43:01.388000	0:43:02.516000
 fliegen	-	-	-	0:43:01.388000	0:43:02.516000
 sie	-	-	-	0:43:01.388000	0:43:02.516000
@@ -11054,31 +11055,31 @@ wieder	-	-	-	0:43:01.388000	0:43:02.516000
 fort	-	-	-	0:43:01.388000	0:43:02.516000
 .	-	-	-	0:43:01.388000	0:43:02.516000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:02.516000" end="0:43:03.488000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:02.516000" end="0:43:03.488000" persName="Informant 0363">
 ach	-	-	-	0:43:02.516000	0:43:03.488000
 so	-	-	-	0:43:02.516000	0:43:03.488000
 ?	-	-	-	0:43:02.516000	0:43:03.488000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:03.488000" end="0:43:04.912000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:03.488000" end="0:43:04.912000" persName="Informant 0357">
 Mauritius	-	-	-	0:43:03.488000	0:43:04.912000
 glaube	-	-	-	0:43:03.488000	0:43:04.912000
 ich	-	-	-	0:43:03.488000	0:43:04.912000
 .	-	-	-	0:43:03.488000	0:43:04.912000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:04.912000" end="0:43:05.744000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:04.912000" end="0:43:05.744000" persName="Informant 0363">
 geh	-	-	-	0:43:04.912000	0:43:05.744000
 ?	-	-	-	0:43:04.912000	0:43:05.744000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:05.744000" end="0:43:06.708000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:05.744000" end="0:43:06.708000" persName="Informant 0357">
 über	-	-	-	0:43:05.744000	0:43:06.708000
 Ostern	-	-	-	0:43:05.744000	0:43:06.708000
 ,	-	-	-	0:43:05.744000	0:43:06.708000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:06.708000" end="0:43:07.192000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:06.708000" end="0:43:07.192000" persName="Informant 0363">
 mhm	-	-	-	0:43:06.708000	0:43:07.192000
 .	-	-	-	0:43:06.708000	0:43:07.192000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:07.192000" end="0:43:10.504000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:07.192000" end="0:43:10.504000" persName="Informant 0357">
 weil	-	-	-	0:43:07.192000	0:43:08.920000
 sie	-	-	-	0:43:07.192000	0:43:08.920000
 kr/	-	-	-	0:43:07.192000	0:43:08.920000
@@ -11096,12 +11097,12 @@ arbeiten	-	-	-	0:43:08.920000	0:43:10.504000
 gehen	-	-	-	0:43:08.920000	0:43:10.504000
 .	-	-	-	0:43:08.920000	0:43:10.504000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:10.504000" end="0:43:12.208000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:10.504000" end="0:43:12.208000" persName="Informant 0363">
 mhm	-	-	-	0:43:10.504000	0:43:11.036000
 .	-	-	-	0:43:10.504000	0:43:11.036000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:11.040000" end="0:43:13.208000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:11.040000" end="0:43:13.208000" persName="Informant 0357">
 <pause duration="1,2s"/>
 weil	-	-	-	0:43:12.208000	0:43:13.208000
 mich	-	-	-	0:43:12.208000	0:43:13.208000
@@ -11110,25 +11111,25 @@ ja	-	-	-	0:43:12.208000	0:43:13.208000
 keiner	-	-	-	0:43:12.208000	0:43:13.208000
 .	-	-	-	0:43:12.208000	0:43:13.208000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:13.208000" end="0:43:19.496000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:13.208000" end="0:43:19.496000" persName="Informant 0363">
 mhm	-	-	-	0:43:13.208000	0:43:13.736000
 .	-	-	-	0:43:13.208000	0:43:13.736000
 <pause duration="5,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:13.736000" end="0:43:21.132000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:13.736000" end="0:43:21.132000" persName="Informant 0357">
 <pause duration="5,8s"/>
 "Fremdsprachen	-	-	-	0:43:19.496000	0:43:21.132000
 in	-	-	-	0:43:19.496000	0:43:21.132000
 Österreich"	-	-	-	0:43:19.496000	0:43:21.132000
 .	-	-	-	0:43:19.496000	0:43:21.132000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:21.132000" end="0:43:22.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:21.132000" end="0:43:22.308000" persName="Informant 0363">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:21.132000" end="0:43:22.308000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:21.132000" end="0:43:22.308000" persName="Informant 0357">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:22.308000" end="0:43:28.580000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:22.308000" end="0:43:28.580000" persName="Informant 0363">
 ja	-	-	-	0:43:22.308000	0:43:22.748000
 ,	-	-	-	0:43:22.308000	0:43:22.748000
 <pause duration="1,5s"/>
@@ -11144,10 +11145,10 @@ her	-	-	-	0:43:24.228000	0:43:26.228000
 .	-	-	-	0:43:24.228000	0:43:26.228000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:26.228000" end="0:43:28.580000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:26.228000" end="0:43:28.580000" persName="Informant 0357">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:28.584000" end="0:43:40.424000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:28.584000" end="0:43:40.424000" persName="Informant 0363">
 dann	-	-	-	0:43:28.584000	0:43:37.096000
 <pause duration="1,3s"/>
 von	-	-	-	0:43:28.584000	0:43:37.096000
@@ -11164,13 +11165,13 @@ wird	-	-	-	0:43:37.096000	0:43:39.584000
 sicher	-	-	-	0:43:39.592000	0:43:40.424000
 /.	-	-	-	0:43:39.592000	0:43:40.424000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:39.592000" end="0:43:40.808000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:39.592000" end="0:43:40.808000" persName="Informant 0357">
 ja	-	-	-	0:43:39.592000	0:43:40.424000
 ,	-	-	-	0:43:39.592000	0:43:40.424000
 ich	-	-	-	0:43:40.424000	0:43:40.808000
 /.	-	-	-	0:43:40.424000	0:43:40.808000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:40.808000" end="0:43:41.800000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:40.808000" end="0:43:41.800000" persName="Informant 0363">
 bei	-	-	-	0:43:40.808000	0:43:41.800000
 uns	-	-	-	0:43:40.808000	0:43:41.800000
 zwei	-	-	-	0:43:40.808000	0:43:41.800000
@@ -11180,7 +11181,7 @@ so	-	-	-	0:43:40.808000	0:43:41.800000
 aber	-	-	-	0:43:40.808000	0:43:41.800000
 /.	-	-	-	0:43:40.808000	0:43:41.800000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:41.800000" end="0:43:43.712000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:41.800000" end="0:43:43.712000" persName="Informant 0357">
 nein	-	-	-	0:43:41.800000	0:43:43.712000
 ,	-	-	-	0:43:41.800000	0:43:43.712000
 im	-	-	-	0:43:41.800000	0:43:43.712000
@@ -11189,24 +11190,24 @@ Gebiet	-	-	-	0:43:41.800000	0:43:43.712000
 ist	-	-	-	0:43:41.800000	0:43:43.712000
 das	-	-	-	0:43:41.800000	0:43:43.712000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:43.716000" end="0:43:44.920000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:43.716000" end="0:43:44.920000" persName="Informant 0363">
 in	-	-	-	0:43:43.716000	0:43:44.920000
 die	-	-	-	0:43:43.716000	0:43:44.920000
 Städte	-	-	-	0:43:43.716000	0:43:44.920000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:43.716000" end="0:43:44.920000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:43.716000" end="0:43:44.920000" persName="Informant 0357">
 jetzt	-	-	-	0:43:43.716000	0:43:44.920000
 nicht	-	-	-	0:43:43.716000	0:43:44.920000
 so	-	-	-	0:43:43.716000	0:43:44.920000
 schlimm	-	-	-	0:43:43.716000	0:43:44.920000
 .	-	-	-	0:43:43.716000	0:43:44.920000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:44.920000" end="0:43:45.320000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:44.920000" end="0:43:45.320000" persName="Informant 0363">
 immer	-	-	-	0:43:44.920000	0:43:45.320000
 mehr	-	-	-	0:43:44.920000	0:43:45.320000
 .	-	-	-	0:43:44.920000	0:43:45.320000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:45.320000" end="0:43:47.712000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:45.320000" end="0:43:47.712000" persName="Informant 0357">
 aber	-	-	-	0:43:45.320000	0:43:46.240000
 ich	-	-	-	0:43:45.320000	0:43:46.240000
 glaube	-	-	-	0:43:45.320000	0:43:46.240000
@@ -11219,11 +11220,11 @@ schon	-	-	-	0:43:46.240000	0:43:47.712000
 ein	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:43:46.240000	0:43:47.712000
 relativ	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:43:46.240000	0:43:47.712000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:47.712000" end="0:43:48.224000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:47.712000" end="0:43:48.224000" persName="Informant 0363">
 ja	-	-	-	0:43:47.712000	0:43:48.224000
 .	-	-	-	0:43:47.712000	0:43:48.224000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:47.712000" end="0:43:49.940000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:47.712000" end="0:43:49.940000" persName="Informant 0357">
 großes	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:43:47.712000	0:43:48.224000
 Thema	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:43:48.224000	0:43:48.616000
 ,	-	-	-	0:43:48.224000	0:43:48.616000
@@ -11234,11 +11235,11 @@ in	-	-	-	0:43:48.988000	0:43:49.940000
 die	-	-	-	0:43:48.988000	0:43:49.940000
 größeren	-	-	-	0:43:48.988000	0:43:49.940000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:49.940000" end="0:43:50.708000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:49.940000" end="0:43:50.708000" persName="Informant 0363">
 ja	-	-	-	0:43:49.940000	0:43:50.708000
 .	-	-	-	0:43:49.940000	0:43:50.708000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:49.940000" end="0:43:58.124000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:49.940000" end="0:43:58.124000" persName="Informant 0357">
 Städte	-	-	-	0:43:49.940000	0:43:50.708000
 .	-	-	-	0:43:49.940000	0:43:50.708000
 wobei	-	-	-	0:43:50.708000	0:43:52.044000
@@ -11260,11 +11261,11 @@ da	-	-	-	0:43:53.668000	0:43:58.124000
 Syrien	-	-	-	0:43:53.668000	0:43:58.124000
 oder	-	-	-	0:43:53.668000	0:43:58.124000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:58.124000" end="0:43:58.724000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:58.124000" end="0:43:58.724000" persName="Informant 0363">
 ja	-	-	-	0:43:58.124000	0:43:58.724000
 .	-	-	-	0:43:58.124000	0:43:58.724000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:58.124000" end="0:43:59.564000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:43:58.124000" end="0:43:59.564000" persName="Informant 0357">
 von	-	-	-	0:43:58.124000	0:43:58.724000
 wo	-	-	-	0:43:58.124000	0:43:58.724000
 die	-	-	-	0:43:58.124000	0:43:58.724000
@@ -11273,7 +11274,7 @@ alle	-	-	-	0:43:58.724000	0:43:59.564000
 raufkommen	-	-	-	0:43:58.724000	0:43:59.564000
 /.	-	-	-	0:43:58.724000	0:43:59.564000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:59.564000" end="0:44:01.084000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:43:59.564000" end="0:44:01.084000" persName="Informant 0363">
 ja	-	-	-	0:43:59.564000	0:44:01.084000
 ,	-	-	-	0:43:59.564000	0:44:01.084000
 sie	-	-	-	0:43:59.564000	0:44:01.084000
@@ -11285,7 +11286,7 @@ dem	-	-	-	0:43:59.564000	0:44:01.084000
 her	-	-	-	0:43:59.564000	0:44:01.084000
 .	-	-	-	0:43:59.564000	0:44:01.084000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:01.084000" end="0:44:03.652000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:01.084000" end="0:44:03.652000" persName="Informant 0357">
 ja	-	-	-	0:44:01.084000	0:44:03.652000
 ,	-	-	-	0:44:01.084000	0:44:03.652000
 <pause duration="0,8s"/>
@@ -11295,12 +11296,12 @@ nicht	-	-	-	0:44:01.084000	0:44:03.652000
 ausbleiben	-	-	-	0:44:01.084000	0:44:03.652000
 .	-	-	-	0:44:01.084000	0:44:03.652000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:03.652000" end="0:44:04.804000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:03.652000" end="0:44:04.804000" persName="Informant 0363">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:44:03.652000	0:44:04.804000
 .	-	-	-	0:44:03.652000	0:44:04.804000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:04.804000" end="0:44:08.520000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:04.804000" end="0:44:08.520000" persName="Informant 0357">
 <pause duration="0,7s"/>
 aber	-	-	-	0:44:04.804000	0:44:07.040000
 das	-	-	-	0:44:04.804000	0:44:07.040000
@@ -11318,13 +11319,13 @@ nicht	-	-	-	0:44:07.040000	0:44:08.520000
 stehen	-	-	-	0:44:07.040000	0:44:08.520000
 .	-	-	-	0:44:07.040000	0:44:08.520000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:08.520000" end="0:44:11.932000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:08.520000" end="0:44:11.932000" persName="Informant 0363">
 <pause duration="0,8s"/>
 nein	-	-	-	0:44:08.520000	0:44:09.672000
 .	-	-	-	0:44:08.520000	0:44:09.672000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:09.672000" end="0:44:16.500000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:09.672000" end="0:44:16.500000" persName="Informant 0357">
 <pause duration="2,3s"/>
 und	-	-	-	0:44:11.932000	0:44:16.500000
 <pause duration="1,1s"/>
@@ -11339,17 +11340,17 @@ verändert	-	-	-	0:44:11.932000	0:44:16.500000
 sich	-	-	-	0:44:11.932000	0:44:16.500000
 einfach	-	-	-	0:44:11.932000	0:44:16.500000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:16.500000" end="0:44:17.256000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:16.500000" end="0:44:17.256000" persName="Informant 0363">
 ja	-	-	-	0:44:16.500000	0:44:17.256000
 ,	-	-	-	0:44:16.500000	0:44:17.256000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:16.500000" end="0:44:17.256000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:16.500000" end="0:44:17.256000" persName="Informant 0357">
 auch	-	-	-	0:44:16.500000	0:44:17.256000
 die	-	-	-	0:44:16.500000	0:44:17.256000
 Sprache	-	-	-	0:44:16.500000	0:44:17.256000
 .	-	-	-	0:44:16.500000	0:44:17.256000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:17.256000" end="0:44:22.188000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:17.256000" end="0:44:22.188000" persName="Informant 0363">
 und	-	-	-	0:44:17.256000	0:44:19.180000
 so	-	-	-	0:44:17.256000	0:44:19.180000
 *wiesd*	-	-	-	0:44:17.256000	0:44:19.180000
@@ -11367,7 +11368,7 @@ wird	-	-	-	0:44:19.180000	0:44:22.188000
 verdeutscht	-	-	-	0:44:19.180000	0:44:22.188000
 .	-	-	-	0:44:19.180000	0:44:22.188000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:22.188000" end="0:44:24.720000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:22.188000" end="0:44:24.720000" persName="Informant 0357">
 ja	-	-	-	0:44:22.188000	0:44:23.192000
 eh	-	-	-	0:44:22.188000	0:44:23.192000
 und	-	-	-	0:44:23.192000	0:44:24.720000
@@ -11377,15 +11378,15 @@ aber	-	-	-	0:44:23.192000	0:44:24.720000
 unbewusst	-	-	-	0:44:23.192000	0:44:24.720000
 .	-	-	-	0:44:23.192000	0:44:24.720000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:24.720000" end="0:44:27.752000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:24.720000" end="0:44:27.752000" persName="Informant 0363">
 ja	-	-	-	0:44:24.720000	0:44:25.060000
 .	-	-	-	0:44:24.720000	0:44:25.060000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:25.060000" end="0:44:27.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:25.060000" end="0:44:27.752000" persName="Informant 0357">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:27.752000" end="0:44:34.056000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:27.752000" end="0:44:34.056000" persName="Informant 0363">
 *weilsd*	-	-	-	0:44:27.752000	0:44:29.792000
 das	-	-	-	0:44:27.752000	0:44:29.792000
 eben	-	-	-	0:44:27.752000	0:44:29.792000
@@ -11402,17 +11403,17 @@ teilweise	-	-	-	0:44:31.160000	0:44:32.332000
 .	-	-	-	0:44:31.160000	0:44:32.332000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:32.332000" end="0:44:34.456000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:32.332000" end="0:44:34.456000" persName="Informant 0357">
 <pause duration="1,8s"/>
 ja	-	-	-	0:44:34.056000	0:44:34.456000
 ,	-	-	-	0:44:34.056000	0:44:34.456000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:34.456000" end="0:44:35.548000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:34.456000" end="0:44:35.548000" persName="Informant 0363">
 <pause duration="0,8s"/>
 (eben)	-	-	-	0:44:34.456000	0:44:35.548000
 .	-	-	-	0:44:34.456000	0:44:35.548000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:34.456000" end="0:44:36.436000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:34.456000" end="0:44:36.436000" persName="Informant 0357">
 <pause duration="0,8s"/>
 bleibt	-	-	-	0:44:34.456000	0:44:35.548000
 nicht	-	-	-	0:44:35.548000	0:44:35.988000
@@ -11422,11 +11423,11 @@ ich	-	-	-	0:44:35.988000	0:44:36.436000
 finde	-	-	-	0:44:35.988000	0:44:36.436000
 es	-	-	-	0:44:35.988000	0:44:36.436000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:36.436000" end="0:44:36.816000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:36.436000" end="0:44:36.816000" persName="Informant 0363">
 eh	-	-	-	0:44:36.436000	0:44:36.816000
 .	-	-	-	0:44:36.436000	0:44:36.816000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:36.436000" end="0:44:47.612000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:36.436000" end="0:44:47.612000" persName="Informant 0357">
 aber	-	-	-	0:44:36.436000	0:44:36.816000
 /.	-	-	-	0:44:36.436000	0:44:36.816000
 ich	-	-	-	0:44:36.816000	0:44:37.952000
@@ -11475,11 +11476,11 @@ und	-	-	-	0:44:46.652000	0:44:47.612000
 <pause duration="0,5s"/>
 das	-	-	-	0:44:46.652000	0:44:47.612000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:47.612000" end="0:44:48.296000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:47.612000" end="0:44:48.296000" persName="Informant 0363">
 ja	-	-	-	0:44:47.612000	0:44:48.296000
 .	-	-	-	0:44:47.612000	0:44:48.296000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:47.612000" end="0:44:49.796000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:47.612000" end="0:44:49.796000" persName="Informant 0357">
 annehmen	-	-	-	0:44:47.612000	0:44:48.296000
 ,	-	-	-	0:44:47.612000	0:44:48.296000
 <pause duration="0,5s"/>
@@ -11490,21 +11491,21 @@ eh	-	-	-	0:44:48.296000	0:44:49.796000
 nicht	-	-	-	0:44:48.296000	0:44:49.796000
 .	-	-	-	0:44:48.296000	0:44:49.796000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:49.796000" end="0:44:57.554000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:49.796000" end="0:44:57.554000" persName="Informant 0363">
 mhm	-	-	-	0:44:49.796000	0:44:50.708000
 .	-	-	-	0:44:49.796000	0:44:50.708000
 <pause duration="6,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:50.709000" end="0:44:58.982000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:50.709000" end="0:44:58.982000" persName="Informant 0357">
 <pause duration="6,8s"/>
 "Dialekt	-	-	-	0:44:57.553000	0:44:58.982000
 im	-	-	-	0:44:57.553000	0:44:58.982000
 Nachbarort"	-	-	-	0:44:57.553000	0:44:58.982000
 .	-	-	-	0:44:57.553000	0:44:58.982000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:58.982000" end="0:44:59.717000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:44:58.982000" end="0:44:59.717000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:59.717000" end="0:45:01.271000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:44:59.717000" end="0:45:01.271000" persName="Informant 0357">
 ich	-	-	-	0:44:59.717000	0:45:00.064000
 glaube	-	-	-	0:44:59.717000	0:45:00.064000
 ,	-	-	-	0:44:59.717000	0:45:00.064000
@@ -11516,24 +11517,24 @@ alle	-	-	-	0:45:00.064000	0:45:01.271000
 gleich	-	-	-	0:45:00.064000	0:45:01.271000
 .	-	-	-	0:45:00.064000	0:45:01.271000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:01.271000" end="0:45:02.092000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:01.271000" end="0:45:02.092000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ja	-	-	-	0:45:01.271000	0:45:02.092000
 .	-	-	-	0:45:01.271000	0:45:02.092000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:02.092000" end="0:45:04.678000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:02.092000" end="0:45:04.678000" persName="Informant 0357">
 <pause duration="0,6s"/>
 oder	-	-	-	0:45:02.092000	0:45:04.678000
 reden	-	-	-	0:45:02.092000	0:45:04.678000
 die	-	-	-	0:45:02.092000	0:45:04.678000
-[Dollwitzer]O	-	-	-	0:45:02.092000	0:45:04.678000
+ORT	ORT	-	-	0:45:02.092000	0:45:04.678000
 anders	-	-	-	0:45:02.092000	0:45:04.678000
 als	-	-	-	0:45:02.092000	0:45:04.678000
 die	-	-	-	0:45:02.092000	0:45:04.678000
-[Passailer]O	-	-	-	0:45:02.092000	0:45:04.678000
+ORT	ORT	-	-	0:45:02.092000	0:45:04.678000
 ?	-	-	-	0:45:02.092000	0:45:04.678000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:04.678000" end="0:45:10.928000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:04.678000" end="0:45:10.928000" persName="Informant 0363">
 <pause duration="3,7s"/>
 die	-	-	-	0:45:08.368000	0:45:09.856000
 haben	-	-	-	0:45:08.368000	0:45:09.856000
@@ -11543,18 +11544,18 @@ Wortwahl	-	-	-	0:45:08.368000	0:45:09.856000
 teilweise	-	-	-	0:45:08.368000	0:45:09.856000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:09.856000" end="0:45:10.928000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:09.856000" end="0:45:10.928000" persName="Informant 0357">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:10.928000" end="0:45:11.508000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:10.928000" end="0:45:11.508000" persName="Informant 0363">
 schon	-	-	-	0:45:10.928000	0:45:11.508000
 .	-	-	-	0:45:10.928000	0:45:11.508000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:10.928000" end="0:45:11.508000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:10.928000" end="0:45:11.508000" persName="Informant 0357">
 findest	-	-	-	0:45:10.928000	0:45:11.508000
 ?	-	-	-	0:45:10.928000	0:45:11.508000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:11.508000" end="0:45:13.756000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:11.508000" end="0:45:13.756000" persName="Informant 0363">
 ja	-	-	-	0:45:11.508000	0:45:12.460000
 ,	-	-	-	0:45:11.508000	0:45:12.460000
 es	-	-	-	0:45:11.508000	0:45:12.460000
@@ -11562,20 +11563,20 @@ ist	-	-	-	0:45:11.508000	0:45:12.460000
 /.	-	-	-	0:45:11.508000	0:45:12.460000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:12.460000" end="0:45:13.756000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:12.460000" end="0:45:13.756000" persName="Informant 0357">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:13.756000" end="0:45:14.532000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:13.756000" end="0:45:14.532000" persName="Informant 0363">
 aber	-	-	-	0:45:13.756000	0:45:14.532000
 /.	-	-	-	0:45:13.756000	0:45:14.532000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:13.756000" end="0:45:14.532000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:13.756000" end="0:45:14.532000" persName="Informant 0357">
 *hast*	-	-	-	0:45:13.756000	0:45:14.532000
 ein	-	-	-	0:45:13.756000	0:45:14.532000
 Beispiel	-	-	-	0:45:13.756000	0:45:14.532000
 ?	-	-	-	0:45:13.756000	0:45:14.532000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:14.532000" end="0:45:25.812000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:14.532000" end="0:45:25.812000" persName="Informant 0363">
 nein	-	-	-	0:45:14.532000	0:45:16.116000
 .	-	-	-	0:45:14.532000	0:45:16.116000
 <pause duration="2,4s"/>
@@ -11603,10 +11604,10 @@ Almgraben	-	-	-	0:45:23.172000	0:45:24.780000
 drinnen	-	-	-	0:45:23.172000	0:45:24.780000
 ,	-	-	-	0:45:23.172000	0:45:24.780000
 das	-	-	-	0:45:24.780000	0:45:25.812000
-[Klingerische]N	-	-	-	0:45:24.780000	0:45:25.812000
+NAME	NAME	-	-	0:45:24.780000	0:45:25.812000
 .	-	-	-	0:45:24.780000	0:45:25.812000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:25.812000" end="0:45:27.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:25.812000" end="0:45:27.700000" persName="Informant 0357">
 ja	-	-	-	0:45:25.812000	0:45:27.700000
 das	-	-	-	0:45:25.812000	0:45:27.700000
 ist	-	-	-	0:45:25.812000	0:45:27.700000
@@ -11614,12 +11615,12 @@ aber	-	-	-	0:45:25.812000	0:45:27.700000
 die	-	-	-	0:45:25.812000	0:45:27.700000
 Familie	-	-	-	0:45:25.812000	0:45:27.700000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:27.700000" end="0:45:28.124000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:27.700000" end="0:45:28.124000" persName="Informant 0363">
 ja	-	-	-	0:45:27.700000	0:45:28.124000
 .	-	-	-	0:45:27.700000	0:45:28.124000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:27.700000" end="0:45:29.560000">
-[Klinger]N	-	-	-	0:45:27.700000	0:45:28.124000
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:27.700000" end="0:45:29.560000" persName="Informant 0357">
+NAME	NAME	-	-	0:45:27.700000	0:45:28.124000
 bitte	-	-	-	0:45:28.124000	0:45:28.372000
 ,	-	-	-	0:45:28.124000	0:45:28.372000
 die	-	-	-	0:45:28.372000	0:45:29.560000
@@ -11629,15 +11630,15 @@ an/	-	-	-	0:45:28.372000	0:45:29.560000
 gar	-	-	-	0:45:28.372000	0:45:29.560000
 so	-	-	-	0:45:28.372000	0:45:29.560000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:29.560000" end="0:45:29.904000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:29.560000" end="0:45:29.904000" persName="Informant 0363">
 die	-	-	-	0:45:29.560000	0:45:29.904000
 haben	-	-	-	0:45:29.560000	0:45:29.904000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:29.560000" end="0:45:29.904000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:29.560000" end="0:45:29.904000" persName="Informant 0357">
 extra	-	-	-	0:45:29.560000	0:45:29.904000
 .	-	-	-	0:45:29.560000	0:45:29.904000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:29.904000" end="0:45:35.588000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:29.904000" end="0:45:35.588000" persName="Informant 0363">
 so	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:45:29.904000	0:45:30.868000
 eine	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:45:29.904000	0:45:30.868000
 eigene	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:45:29.904000	0:45:30.868000
@@ -11646,10 +11647,10 @@ Sprache	-	-	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:45:29.904000	
 <pause duration="1,0s"/>
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:35.588000" end="0:45:37.988000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:35.588000" end="0:45:37.988000" persName="Informant 0357">
 nein	-	-	-	0:45:35.588000	0:45:36.108000
 ,	-	-	-	0:45:35.588000	0:45:36.108000
-[Passail]O	-	-	-	0:45:35.588000	0:45:36.108000
+Passail	-	-	-	0:45:35.588000	0:45:36.108000
 /.	-	-	-	0:45:35.588000	0:45:36.108000
 zu	-	-	-	0:45:36.108000	0:45:37.228000
 Weiz	-	-	-	0:45:36.108000	0:45:37.228000
@@ -11665,20 +11666,20 @@ schon	-	-	-	0:45:37.228000	0:45:37.988000
 wieder	-	-	-	0:45:37.228000	0:45:37.988000
 mehr	-	-	-	0:45:37.228000	0:45:37.988000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:37.988000" end="0:45:38.608000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:37.988000" end="0:45:38.608000" persName="Informant 0363">
 ja	-	-	-	0:45:37.988000	0:45:38.608000
 .	-	-	-	0:45:37.988000	0:45:38.608000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:37.988000" end="0:45:38.964000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:37.988000" end="0:45:38.964000" persName="Informant 0357">
 städterisch	-	-	-	0:45:37.988000	0:45:38.608000
 ,	-	-	-	0:45:37.988000	0:45:38.608000
 aber	-	-	-	0:45:38.608000	0:45:38.964000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:38.964000" end="0:45:39.512000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:38.964000" end="0:45:39.512000" persName="Informant 0363">
 mhm	-	-	-	0:45:38.964000	0:45:39.512000
 .	-	-	-	0:45:38.964000	0:45:39.512000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:39.512000" end="0:45:43.684000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:39.512000" end="0:45:43.684000" persName="Informant 0357">
 wir	-	-	-	0:45:39.512000	0:45:43.684000
 da	-	-	-	0:45:39.512000	0:45:43.684000
 <pause duration="2,6s"/>
@@ -11687,21 +11688,21 @@ alle	-	-	-	0:45:39.512000	0:45:43.684000
 gleich	-	-	-	0:45:39.512000	0:45:43.684000
 .	-	-	-	0:45:39.512000	0:45:43.684000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:43.684000" end="0:45:46.972000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:43.684000" end="0:45:46.972000" persName="Informant 0363">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:43.684000" end="0:45:47.844000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:43.684000" end="0:45:47.844000" persName="Informant 0357">
 <pause duration="3,3s"/>
 "die	-	-	-	0:45:46.972000	0:45:47.844000
 Arbeit"	-	-	-	0:45:46.972000	0:45:47.844000
 .	-	-	-	0:45:46.972000	0:45:47.844000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:47.844000" end="0:45:49.044000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:47.844000" end="0:45:49.044000" persName="Informant 0363">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:45:47.844000	0:45:49.044000
 .	-	-	-	0:45:47.844000	0:45:49.044000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:49.044000" end="0:45:53.820000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:49.044000" end="0:45:53.820000" persName="Informant 0357">
 <pause duration="0,7s"/>
 ich	-	-	-	0:45:49.044000	0:45:50.992000
 liebe	-	-	-	0:45:49.044000	0:45:50.992000
@@ -11712,11 +11713,11 @@ Job	-	-	-	0:45:49.044000	0:45:50.992000
 welchen	-	-	-	0:45:53.192000	0:45:53.820000
 ?	-	-	-	0:45:53.192000	0:45:53.820000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:53.820000" end="0:45:55.428000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:53.820000" end="0:45:55.428000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:53.820000" end="0:45:55.428000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:53.820000" end="0:45:55.428000" persName="Informant 0357">
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:55.428000" end="0:45:58.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:55.428000" end="0:45:58.172000" persName="Informant 0363">
 <pause duration="1,6s"/>
 was	-	-	-	0:45:57.028000	0:45:58.172000
 für	-	-	-	0:45:57.028000	0:45:58.172000
@@ -11726,37 +11727,37 @@ die	-	-	-	0:45:57.028000	0:45:58.172000
 drei	-	-	-	0:45:57.028000	0:45:58.172000
 ?	-	-	-	0:45:57.028000	0:45:58.172000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:58.172000" end="0:45:59.340000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:45:58.172000" end="0:45:59.340000" persName="Informant 0357">
 warum	-	-	-	0:45:58.172000	0:45:59.340000
 drei	-	-	-	0:45:58.172000	0:45:59.340000
 ?	-	-	-	0:45:58.172000	0:45:59.340000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:59.340000" end="0:46:01.476000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:45:59.340000" end="0:46:01.476000" persName="Informant 0363">
 <pause duration="1,6s"/>
 Mutter	-	-	-	0:46:00.968000	0:46:01.476000
 .	-	-	-	0:46:00.968000	0:46:01.476000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:01.476000" end="0:46:02.276000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:01.476000" end="0:46:02.276000" persName="Informant 0357">
 ach	-	-	-	0:46:01.476000	0:46:02.276000
 so	-	-	-	0:46:01.476000	0:46:02.276000
 .	-	-	-	0:46:01.476000	0:46:02.276000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:02.276000" end="0:46:05.004000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:02.276000" end="0:46:05.004000" persName="Informant 0363">
 <pause duration="1,4s"/>
 halt	-	-	-	0:46:03.676000	0:46:05.004000
 ,	-	-	-	0:46:03.676000	0:46:05.004000
 Mutter	-	-	-	0:46:03.676000	0:46:05.004000
 .	-	-	-	0:46:03.676000	0:46:05.004000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:05.004000" end="0:46:05.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:05.004000" end="0:46:05.752000" persName="Informant 0357">
 <pause duration="0,6s"/>
 das	-	-	-	0:46:05.004000	0:46:05.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:05.752000" end="0:46:06.440000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:05.752000" end="0:46:06.440000" persName="Informant 0363">
 Landwirt	-	-	-	0:46:05.752000	0:46:06.440000
 .	-	-	-	0:46:05.752000	0:46:06.440000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:05.752000" end="0:46:07.848000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:05.752000" end="0:46:07.848000" persName="Informant 0357">
 titulierst	-	-	-	0:46:05.752000	0:46:06.440000
 /?	-	-	-	0:46:05.752000	0:46:06.440000
 das	-	-	-	0:46:06.440000	0:46:07.848000
@@ -11766,7 +11767,7 @@ als	-	-	-	0:46:06.440000	0:46:07.848000
 Job	-	-	-	0:46:06.440000	0:46:07.848000
 ?	-	-	-	0:46:06.440000	0:46:07.848000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:07.848000" end="0:46:11.340000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:07.848000" end="0:46:11.340000" persName="Informant 0363">
 <pause duration="2,3s"/>
 bist	-	-	-	0:46:10.168000	0:46:11.340000
 auch	-	-	-	0:46:10.168000	0:46:11.340000
@@ -11775,7 +11776,7 @@ angehängt	-	-	-	0:46:10.168000	0:46:11.340000
 dabei	-	-	-	0:46:10.168000	0:46:11.340000
 .	-	-	-	0:46:10.168000	0:46:11.340000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:11.340000" end="0:46:20.416000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:11.340000" end="0:46:20.416000" persName="Informant 0357">
 <pause duration="0,5s"/>
 ja	-	-	-	0:46:11.340000	0:46:12.248000
 .	-	-	-	0:46:11.340000	0:46:12.248000
@@ -11805,18 +11806,18 @@ jetzt	-	-	-	0:46:17.912000	0:46:20.416000
 meisten	-	-	-	0:46:17.912000	0:46:20.416000
 in	-	-	-	0:46:17.912000	0:46:20.416000
 beim	-	-	-	0:46:17.912000	0:46:20.416000
-Bauernhof	-	-	-	0:46:17.912000	0:46:20.416000
+SONSTIGE	SONSTIGE	-	-	0:46:17.912000	0:46:20.416000
 oben	-	-	-	0:46:17.912000	0:46:20.416000
 in	-	-	-	0:46:17.912000	0:46:20.416000
 der	-	-	-	0:46:17.912000	0:46:20.416000
 Arbeit	-	-	-	0:46:17.912000	0:46:20.416000
 .	-	-	-	0:46:17.912000	0:46:20.416000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:20.416000" end="0:46:21.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:20.416000" end="0:46:21.120000" persName="Informant 0363">
 mhm	-	-	-	0:46:20.416000	0:46:21.120000
 .	-	-	-	0:46:20.416000	0:46:21.120000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:21.120000" end="0:46:28.848000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:21.120000" end="0:46:28.848000" persName="Informant 0357">
 <pause duration="2,0s"/>
 und	-	-	-	0:46:23.128000	0:46:25.176000
 das	-	-	-	0:46:23.128000	0:46:25.176000
@@ -11848,7 +11849,7 @@ gar	-	-	-	0:46:26.848000	0:46:28.848000
 nicht	-	-	-	0:46:26.848000	0:46:28.848000
 .	-	-	-	0:46:26.848000	0:46:28.848000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:28.848000" end="0:46:30.676000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:28.848000" end="0:46:30.676000" persName="Informant 0363">
 <pause duration="0,6s"/>
 ist	-	-	-	0:46:28.848000	0:46:30.676000
 eh	-	-	-	0:46:28.848000	0:46:30.676000
@@ -11859,7 +11860,7 @@ das	-	-	-	0:46:28.848000	0:46:30.676000
 Gleiche	-	-	-	0:46:28.848000	0:46:30.676000
 .	-	-	-	0:46:28.848000	0:46:30.676000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:30.676000" end="0:46:35.308000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:30.676000" end="0:46:35.308000" persName="Informant 0357">
 <pause duration="0,6s"/>
 und	-	-	-	0:46:30.676000	0:46:34.880000
 <pause duration="1,3s"/>
@@ -11875,11 +11876,11 @@ f/	-	-	-	0:46:34.880000	0:46:35.308000
 also	-	-	-	0:46:34.880000	0:46:35.308000
 für	-	-	-	0:46:34.880000	0:46:35.308000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:35.308000" end="0:46:36.200000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:35.308000" end="0:46:36.200000" persName="Informant 0363">
 mhm	-	-	-	0:46:35.308000	0:46:36.200000
 .	-	-	-	0:46:35.308000	0:46:36.200000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:35.308000" end="0:46:37.344000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:35.308000" end="0:46:37.344000" persName="Informant 0357">
 mich	-	-	-	0:46:35.308000	0:46:36.200000
 *is*	-	-	-	0:46:35.308000	0:46:36.200000
 ein	-	-	-	0:46:35.308000	0:46:36.200000
@@ -11894,23 +11895,23 @@ glaube	-	-	-	0:46:36.944000	0:46:37.344000
 ich	-	-	-	0:46:36.944000	0:46:37.344000
 .	-	-	-	0:46:36.944000	0:46:37.344000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:37.344000" end="0:46:37.920000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:37.344000" end="0:46:37.920000" persName="Informant 0363">
 nein	-	-	-	0:46:37.344000	0:46:37.920000
 .	-	-	-	0:46:37.344000	0:46:37.920000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:37.920000" end="0:46:38.640000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:37.920000" end="0:46:38.640000" persName="Informant 0357">
 für	-	-	-	0:46:37.920000	0:46:38.640000
 dich	-	-	-	0:46:37.920000	0:46:38.640000
 *is*	-	-	-	0:46:37.920000	0:46:38.640000
 ähm	-	-	-	0:46:37.920000	0:46:38.640000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:38.640000" end="0:46:40.056000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:38.640000" end="0:46:40.056000" persName="Informant 0363">
 alle	-	-	-	0:46:38.640000	0:46:40.056000
 Tage	-	-	-	0:46:38.640000	0:46:40.056000
 dabei	-	-	-	0:46:38.640000	0:46:40.056000
 .	-	-	-	0:46:38.640000	0:46:40.056000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:38.640000" end="0:46:42.544000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:38.640000" end="0:46:42.544000" persName="Informant 0357">
 eher	-	-	-	0:46:38.640000	0:46:40.056000
 ein	-	-	-	0:46:38.640000	0:46:40.056000
 ähm	-	-	-	0:46:38.640000	0:46:40.056000
@@ -11929,7 +11930,7 @@ eher	-	-	-	0:46:40.688000	0:46:42.544000
 gell	-	-	-	0:46:40.688000	0:46:42.544000
 ?	-	-	-	0:46:40.688000	0:46:42.544000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:42.544000" end="0:46:47.452000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:42.544000" end="0:46:47.452000" persName="Informant 0363">
 mhm	-	-	-	0:46:42.544000	0:46:43.216000
 ,	-	-	-	0:46:42.544000	0:46:43.216000
 ja	-	-	-	0:46:42.544000	0:46:43.216000
@@ -11944,7 +11945,7 @@ Zeit	-	-	-	0:46:46.276000	0:46:47.452000
 nebenbei	-	-	-	0:46:46.276000	0:46:47.452000
 .	-	-	-	0:46:46.276000	0:46:47.452000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:47.452000" end="0:46:49.256000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:47.452000" end="0:46:49.256000" persName="Informant 0357">
 du	-	-	-	0:46:47.452000	0:46:49.256000
 ,	-	-	-	0:46:47.452000	0:46:49.256000
 wann	-	-	-	0:46:47.452000	0:46:49.256000
@@ -11957,7 +11958,7 @@ Früh	-	-	-	0:46:47.452000	0:46:49.256000
 fort	-	-	-	0:46:47.452000	0:46:49.256000
 ?	-	-	-	0:46:47.452000	0:46:49.256000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:49.256000" end="0:46:51.624000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:49.256000" end="0:46:51.624000" persName="Informant 0363">
 <pause duration="1,5s"/>
 so	-	-	-	0:46:50.768000	0:46:51.624000
 früh	-	-	-	0:46:50.768000	0:46:51.624000
@@ -11966,7 +11967,7 @@ es	-	-	-	0:46:50.768000	0:46:51.624000
 geht	-	-	-	0:46:50.768000	0:46:51.624000
 .	-	-	-	0:46:50.768000	0:46:51.624000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:51.624000" end="0:46:54.092000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:51.624000" end="0:46:54.092000" persName="Informant 0357">
 was	-	-	-	0:46:51.624000	0:46:52.784000
 heißt	-	-	-	0:46:51.624000	0:46:52.784000
 so	-	-	-	0:46:51.624000	0:46:52.784000
@@ -11987,28 +11988,28 @@ so	-	-	-	0:46:53.572000	0:46:54.092000
 ins	-	-	-	0:46:53.572000	0:46:54.092000
 Holz	-	-	-	0:46:53.572000	0:46:54.092000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:54.092000" end="0:46:54.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:54.092000" end="0:46:54.308000" persName="Informant 0363">
 ja	-	-	-	0:46:54.092000	0:46:54.308000
 .	-	-	-	0:46:54.092000	0:46:54.308000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:54.092000" end="0:46:54.608000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:54.092000" end="0:46:54.608000" persName="Informant 0357">
 musst	-	-	-	0:46:54.092000	0:46:54.308000
 noch	-	-	-	0:46:54.308000	0:46:54.608000
 (schnell))	-	-	-	0:46:54.308000	0:46:54.608000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:54.608000" end="0:46:55.176000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:54.608000" end="0:46:55.176000" persName="Informant 0363">
 mhm	-	-	-	0:46:54.608000	0:46:55.176000
 .	-	-	-	0:46:54.608000	0:46:55.176000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:54.608000" end="0:46:55.176000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:54.608000" end="0:46:55.176000" persName="Informant 0357">
 (gleich)	-	-	-	0:46:54.608000	0:46:55.176000
 fahren	-	-	-	0:46:54.608000	0:46:55.176000
 .	-	-	-	0:46:54.608000	0:46:55.176000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:55.176000" end="0:46:58.508000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:55.176000" end="0:46:58.508000" persName="Informant 0363">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:55.176000" end="0:46:59.636000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:46:55.176000" end="0:46:59.636000" persName="Informant 0357">
 <pause duration="3,3s"/>
 ja	-	-	-	0:46:58.508000	0:46:59.636000
 ,	-	-	-	0:46:58.508000	0:46:59.636000
@@ -12016,16 +12017,16 @@ pünktlich	-	-	-	0:46:58.508000	0:46:59.636000
 aufstehen	-	-	-	0:46:58.508000	0:46:59.636000
 .	-	-	-	0:46:58.508000	0:46:59.636000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:59.636000" end="0:47:00.328000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:46:59.636000" end="0:47:00.328000" persName="Informant 0363">
 mhm	-	-	-	0:46:59.636000	0:47:00.328000
 .	-	-	-	0:46:59.636000	0:47:00.328000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:00.328000" end="0:47:01.556000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:00.328000" end="0:47:01.556000" persName="Informant 0357">
 <pause duration="0,9s"/>
 hm	-	-	-	0:47:00.328000	0:47:01.556000
 .	-	-	-	0:47:00.328000	0:47:01.556000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:01.556000" end="0:47:08.120000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:01.556000" end="0:47:08.120000" persName="Informant 0363">
 <pause duration="0,9s"/>
 wenn	-	-	-	0:47:01.556000	0:47:04.788000
 ich	-	-	-	0:47:01.556000	0:47:04.788000
@@ -12043,7 +12044,7 @@ schön	-	-	-	0:47:06.200000	0:47:06.680000
 .	-	-	-	0:47:06.200000	0:47:06.680000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:06.680000" end="0:47:09.776000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:06.680000" end="0:47:09.776000" persName="Informant 0357">
 <pause duration="1,4s"/>
 ja	-	-	-	0:47:08.120000	0:47:09.776000
 ,	-	-	-	0:47:08.120000	0:47:09.776000
@@ -12059,22 +12060,22 @@ oben	-	-	-	0:47:08.120000	0:47:09.776000
 sein	-	-	-	0:47:08.120000	0:47:09.776000
 ,	-	-	-	0:47:08.120000	0:47:09.776000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:09.776000" end="0:47:10.640000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:09.776000" end="0:47:10.640000" persName="Informant 0363">
 ja	-	-	-	0:47:09.776000	0:47:10.640000
 .	-	-	-	0:47:09.776000	0:47:10.640000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:09.776000" end="0:47:10.640000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:09.776000" end="0:47:10.640000" persName="Informant 0357">
 dass	-	-	-	0:47:09.776000	0:47:10.640000
 wir	-	-	-	0:47:09.776000	0:47:10.640000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:10.640000" end="0:47:11.576000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:10.640000" end="0:47:11.576000" persName="Informant 0363">
 das	-	-	-	0:47:10.640000	0:47:11.576000
 geht	-	-	-	0:47:10.640000	0:47:11.576000
 sich	-	-	-	0:47:10.640000	0:47:11.576000
 leicht	-	-	-	0:47:10.640000	0:47:11.576000
 /.	-	-	-	0:47:10.640000	0:47:11.576000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:10.640000" end="0:47:16.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:10.640000" end="0:47:16.700000" persName="Informant 0357">
 um	-	-	-	0:47:10.640000	0:47:11.576000
 Viertel	-	-	-	0:47:10.640000	0:47:11.576000
 über	-	-	-	0:47:10.640000	0:47:11.576000
@@ -12099,12 +12100,12 @@ noch	-	-	-	0:47:14.968000	0:47:16.700000
 machen	-	-	-	0:47:14.968000	0:47:16.700000
 .	-	-	-	0:47:14.968000	0:47:16.700000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:16.700000" end="0:47:18.068000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:16.700000" end="0:47:18.068000" persName="Informant 0363">
 <pause duration="1,0s"/>
 mhm	-	-	-	0:47:16.700000	0:47:18.068000
 .	-	-	-	0:47:16.700000	0:47:18.068000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:18.068000" end="0:47:19.876000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:18.068000" end="0:47:19.876000" persName="Informant 0357">
 und	-	-	-	0:47:18.068000	0:47:19.876000
 morgen	-	-	-	0:47:18.068000	0:47:19.876000
 ist	-	-	-	0:47:18.068000	0:47:19.876000
@@ -12115,13 +12116,13 @@ zum	-	-	-	0:47:18.068000	0:47:19.876000
 _zubi_füttern	-	-	-	0:47:18.068000	0:47:19.876000
 .	-	-	-	0:47:18.068000	0:47:19.876000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:19.876000" end="0:47:27.576000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:19.876000" end="0:47:27.576000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ja	-	-	-	0:47:19.876000	0:47:20.820000
 .	-	-	-	0:47:19.876000	0:47:20.820000
 <pause duration="6,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:20.816000" end="0:47:40.760000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:20.816000" end="0:47:40.760000" persName="Informant 0357">
 <pause duration="6,8s"/>
 ähm	-	-	-	0:47:27.576000	0:47:29.544000
 wegen	-	-	-	0:47:27.576000	0:47:29.544000
@@ -12169,11 +12170,11 @@ Tun	-	-	-	0:47:38.376000	0:47:40.760000
 haben	-	-	-	0:47:38.376000	0:47:40.760000
 ,	-	-	-	0:47:38.376000	0:47:40.760000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:40.760000" end="0:47:41.312000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:40.760000" end="0:47:41.312000" persName="Informant 0363">
 mhm	-	-	-	0:47:40.760000	0:47:41.312000
 .	-	-	-	0:47:40.760000	0:47:41.312000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:40.760000" end="0:47:42.948000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:40.760000" end="0:47:42.948000" persName="Informant 0357">
 wenn	-	-	-	0:47:40.760000	0:47:41.312000
 wir	-	-	-	0:47:40.760000	0:47:41.312000
 wollen	-	-	-	0:47:40.760000	0:47:41.312000
@@ -12187,11 +12188,11 @@ suchen	-	-	-	0:47:41.312000	0:47:42.948000
 daheim	-	-	-	0:47:41.312000	0:47:42.948000
 ,	-	-	-	0:47:41.312000	0:47:42.948000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:42.948000" end="0:47:43.188000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:42.948000" end="0:47:43.188000" persName="Informant 0363">
 ja	-	-	-	0:47:42.948000	0:47:43.188000
 .	-	-	-	0:47:42.948000	0:47:43.188000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:43.188000" end="0:47:48.612000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:43.188000" end="0:47:48.612000" persName="Informant 0357">
 an	-	-	-	0:47:43.188000	0:47:44.168000
 dem	-	-	-	0:47:43.188000	0:47:44.168000
 scheitert	-	-	-	0:47:43.188000	0:47:44.168000
@@ -12214,13 +12215,13 @@ tust	-	-	-	0:47:47.328000	0:47:48.612000
 nichts	-	-	-	0:47:47.328000	0:47:48.612000
 ,	-	-	-	0:47:47.328000	0:47:48.612000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:48.612000" end="0:47:49.516000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:48.612000" end="0:47:49.516000" persName="Informant 0363">
 gibt	-	-	-	0:47:48.612000	0:47:49.516000
 es	-	-	-	0:47:48.612000	0:47:49.516000
 nicht	-	-	-	0:47:48.612000	0:47:49.516000
 .	-	-	-	0:47:48.612000	0:47:49.516000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:48.612000" end="0:47:54.788000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:48.612000" end="0:47:54.788000" persName="Informant 0357">
 hast	-	-	-	0:47:48.612000	0:47:49.516000
 du	-	-	-	0:47:48.612000	0:47:49.516000
 hast	-	-	-	0:47:49.516000	0:47:51.832000
@@ -12247,17 +12248,17 @@ gehabt	-	-	-	0:47:52.912000	0:47:54.632000
 ,	-	-	-	0:47:52.912000	0:47:54.632000
 das	-	-	-	0:47:54.632000	0:47:54.788000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:54.788000" end="0:47:55.276000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:54.788000" end="0:47:55.276000" persName="Informant 0363">
 na	-	-	-	0:47:54.788000	0:47:55.276000
 ja	-	-	-	0:47:54.788000	0:47:55.276000
 ,	-	-	-	0:47:54.788000	0:47:55.276000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:54.788000" end="0:47:55.276000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:54.788000" end="0:47:55.276000" persName="Informant 0357">
 weiß	-	-	-	0:47:54.788000	0:47:55.276000
 ich	-	-	-	0:47:54.788000	0:47:55.276000
 .	-	-	-	0:47:54.788000	0:47:55.276000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:55.276000" end="0:47:58.900000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:55.276000" end="0:47:58.900000" persName="Informant 0363">
 weil	-	-	-	0:47:55.276000	0:47:57.476000
 da	-	-	-	0:47:55.276000	0:47:57.476000
 habe	-	-	-	0:47:55.276000	0:47:57.476000
@@ -12269,7 +12270,7 @@ Pause	-	-	-	0:47:55.276000	0:47:57.476000
 gebraucht	-	-	-	0:47:55.276000	0:47:57.476000
 .	-	-	-	0:47:55.276000	0:47:57.476000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:57.476000" end="0:47:58.900000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:57.476000" end="0:47:58.900000" persName="Informant 0357">
 ja	-	-	-	0:47:57.476000	0:47:58.900000
 und	-	-	-	0:47:57.476000	0:47:58.900000
 es	-	-	-	0:47:57.476000	0:47:58.900000
@@ -12279,22 +12280,22 @@ Wetter	-	-	-	0:47:57.476000	0:47:58.900000
 schlecht	-	-	-	0:47:57.476000	0:47:58.900000
 ,	-	-	-	0:47:57.476000	0:47:58.900000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:58.900000" end="0:47:59.496000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:58.900000" end="0:47:59.496000" persName="Informant 0363">
 ja	-	-	-	0:47:58.900000	0:47:59.496000
 .	-	-	-	0:47:58.900000	0:47:59.496000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:58.900000" end="0:47:59.736000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:58.900000" end="0:47:59.736000" persName="Informant 0357">
 es	-	-	-	0:47:58.900000	0:47:59.496000
 war	-	-	-	0:47:58.900000	0:47:59.496000
 kalt	-	-	-	0:47:58.900000	0:47:59.496000
 und	-	-	-	0:47:59.496000	0:47:59.736000
 die	-	-	-	0:47:59.496000	0:47:59.736000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:59.736000" end="0:48:00.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:47:59.736000" end="0:48:00.172000" persName="Informant 0363">
 mhm	-	-	-	0:47:59.736000	0:48:00.172000
 .	-	-	-	0:47:59.736000	0:48:00.172000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:59.736000" end="0:48:01.324000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:47:59.736000" end="0:48:01.324000" persName="Informant 0357">
 Kinder	-	-	-	0:47:59.736000	0:48:00.172000
 waren	-	-	-	0:47:59.736000	0:48:00.172000
 daheim	-	-	-	0:48:00.172000	0:48:00.456000
@@ -12305,11 +12306,11 @@ gearbeitet	-	-	-	0:48:00.456000	0:48:01.124000
 ,	-	-	-	0:48:00.456000	0:48:01.124000
 also	-	-	-	0:48:01.124000	0:48:01.324000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:01.324000" end="0:48:01.720000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:01.324000" end="0:48:01.720000" persName="Informant 0363">
 ja	-	-	-	0:48:01.324000	0:48:01.720000
 .	-	-	-	0:48:01.324000	0:48:01.720000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:01.324000" end="0:48:02.676000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:01.324000" end="0:48:02.676000" persName="Informant 0357">
 war	-	-	-	0:48:01.324000	0:48:01.720000
 das	-	-	-	0:48:01.324000	0:48:01.720000
 eh	-	-	-	0:48:01.720000	0:48:02.676000
@@ -12320,11 +12321,11 @@ gute	-	-	-	0:48:01.720000	0:48:02.676000
 Ausrede	-	-	-	0:48:01.720000	0:48:02.676000
 .	-	-	-	0:48:01.720000	0:48:02.676000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:02.676000" end="0:48:02.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:02.676000" end="0:48:02.996000" persName="Informant 0363">
 mhm	-	-	-	0:48:02.676000	0:48:02.996000
 .	-	-	-	0:48:02.676000	0:48:02.996000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:02.996000" end="0:48:11.036000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:02.996000" end="0:48:11.036000" persName="Informant 0357">
 aber	-	-	-	0:48:02.996000	0:48:03.808000
 ab	-	-	-	0:48:02.996000	0:48:03.808000
 und	-	-	-	0:48:02.996000	0:48:03.808000
@@ -12366,7 +12367,7 @@ getan	-	-	-	0:48:09.804000	0:48:11.036000
 habe	-	-	-	0:48:09.804000	0:48:11.036000
 ,	-	-	-	0:48:09.804000	0:48:11.036000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:11.036000" end="0:48:13.156000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:11.036000" end="0:48:13.156000" persName="Informant 0363">
 <pause duration="0,7s"/>
 dann	-	-	-	0:48:11.036000	0:48:13.156000
 hab	-	-	-	0:48:11.036000	0:48:13.156000
@@ -12379,7 +12380,7 @@ Gewissen	-	-	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe-	0:48:11.036000	0:48
 gell	-	-	-	0:48:11.036000	0:48:13.156000
 ?	-	-	-	0:48:11.036000	0:48:13.156000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:11.036000" end="0:48:14.332000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:11.036000" end="0:48:14.332000" persName="Informant 0357">
 <pause duration="0,7s"/>
 (wie)	-	-	-	0:48:11.036000	0:48:13.156000
 /.	-	-	-	0:48:11.036000	0:48:13.156000
@@ -12392,11 +12393,11 @@ und	-	-	-	0:48:13.156000	0:48:14.332000
 zu	-	-	-	0:48:13.156000	0:48:14.332000
 ein	-	-	-	0:48:13.156000	0:48:14.332000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:14.332000" end="0:48:14.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:14.332000" end="0:48:14.996000" persName="Informant 0363">
 ja	-	-	-	0:48:14.332000	0:48:14.996000
 .	-	-	-	0:48:14.332000	0:48:14.996000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:14.332000" end="0:48:19.888000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:14.332000" end="0:48:19.888000" persName="Informant 0357">
 schlechtes	-	-	-	0:48:14.332000	0:48:14.996000
 Gewissen	-	-	-	0:48:14.332000	0:48:14.996000
 ,	-	-	-	0:48:14.332000	0:48:14.996000
@@ -12423,11 +12424,11 @@ ja	-	-	-	0:48:19.356000	0:48:19.888000
 wurscht	-	-	-	0:48:19.356000	0:48:19.888000
 ,	-	-	-	0:48:19.356000	0:48:19.888000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:19.888000" end="0:48:20.568000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:19.888000" end="0:48:20.568000" persName="Informant 0363">
 mhm	-	-	-	0:48:19.888000	0:48:20.568000
 .	-	-	-	0:48:19.888000	0:48:20.568000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:20.568000" end="0:48:21.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:20.568000" end="0:48:21.860000" persName="Informant 0357">
 dass	-	-	-	0:48:20.568000	0:48:21.860000
 ich	-	-	-	0:48:20.568000	0:48:21.860000
 auf	-	-	-	0:48:20.568000	0:48:21.860000
@@ -12436,13 +12437,13 @@ nichts	-	-	-	0:48:20.568000	0:48:21.860000
 tue	-	-	-	0:48:20.568000	0:48:21.860000
 .	-	-	-	0:48:20.568000	0:48:21.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:21.860000" end="0:48:22.976000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:21.860000" end="0:48:22.976000" persName="Informant 0363">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:21.860000" end="0:48:22.976000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:21.860000" end="0:48:22.976000" persName="Informant 0357">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:22.976000" end="0:48:23.896000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:22.976000" end="0:48:23.896000" persName="Informant 0363">
 ist	-	-	-	0:48:22.976000	0:48:23.896000
 eh	-	-	-	0:48:22.976000	0:48:23.896000
 bei	-	-	-	0:48:22.976000	0:48:23.896000
@@ -12451,7 +12452,7 @@ auch	-	-	-	0:48:22.976000	0:48:23.896000
 so	-	-	-	0:48:22.976000	0:48:23.896000
 .	-	-	-	0:48:22.976000	0:48:23.896000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:23.896000" end="0:48:25.740000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:23.896000" end="0:48:25.740000" persName="Informant 0357">
 hast	-	-	-	0:48:23.896000	0:48:24.732000
 du	-	-	-	0:48:23.896000	0:48:24.732000
 es	-	-	-	0:48:23.896000	0:48:24.732000
@@ -12467,7 +12468,7 @@ zu	-	-	-	0:48:24.732000	0:48:25.740000
 so	-	-	-	0:48:24.732000	0:48:25.740000
 ?	-	-	-	0:48:24.732000	0:48:25.740000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:25.740000" end="0:48:30.400000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:25.740000" end="0:48:30.400000" persName="Informant 0363">
 ja	-	-	-	0:48:25.740000	0:48:27.048000
 <pause duration="0,8s"/>
 schon	-	-	-	0:48:25.740000	0:48:27.048000
@@ -12483,12 +12484,12 @@ halt	-	-	-	0:48:28.504000	0:48:30.400000
 fast	-	-	-	0:48:28.504000	0:48:30.400000
 alleine	-	-	-	0:48:28.504000	0:48:30.400000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:30.400000" end="0:48:31.192000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:30.400000" end="0:48:31.192000" persName="Informant 0357">
 <pause duration="0,5s"/>
 ja	-	-	-	0:48:30.400000	0:48:31.192000
 .	-	-	-	0:48:30.400000	0:48:31.192000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:31.192000" end="0:48:38.248000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:31.192000" end="0:48:38.248000" persName="Informant 0363">
 <pause duration="0,7s"/>
 und	-	-	-	0:48:31.192000	0:48:32.956000
 ich	-	-	-	0:48:31.192000	0:48:32.956000
@@ -12517,7 +12518,7 @@ her	-	-	-	0:48:35.440000	0:48:38.248000
 gesehen	-	-	-	0:48:35.440000	0:48:38.248000
 .	-	-	-	0:48:35.440000	0:48:38.248000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:38.248000" end="0:48:40.020000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:38.248000" end="0:48:40.020000" persName="Informant 0357">
 <pause duration="0,5s"/>
 und	-	-	-	0:48:38.248000	0:48:40.020000
 dann	-	-	-	0:48:38.248000	0:48:40.020000
@@ -12530,7 +12531,7 @@ an	-	-	-	0:48:38.248000	0:48:40.020000
 gell	-	-	-	0:48:38.248000	0:48:40.020000
 ?	-	-	-	0:48:38.248000	0:48:40.020000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:40.020000" end="0:48:47.980000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:40.020000" end="0:48:47.980000" persName="Informant 0363">
 ja	-	-	-	0:48:40.020000	0:48:40.488000
 ,	-	-	-	0:48:40.020000	0:48:40.488000
 <pause duration="2,3s"/>
@@ -12546,7 +12547,7 @@ Haus	-	-	-	0:48:42.808000	0:48:45.724000
 .	-	-	-	0:48:42.808000	0:48:45.724000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:45.724000" end="0:48:58.132000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:45.724000" end="0:48:58.132000" persName="Informant 0357">
 <pause duration="2,3s"/>
 nein	-	-	-	0:48:47.980000	0:48:49.372000
 ,	-	-	-	0:48:47.980000	0:48:49.372000
@@ -12604,11 +12605,11 @@ die	-	-	-	0:48:57.016000	0:48:58.132000
 Nerven	-	-	-	0:48:57.016000	0:48:58.132000
 .	-	-	-	0:48:57.016000	0:48:58.132000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:58.132000" end="0:48:58.680000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:48:58.132000" end="0:48:58.680000" persName="Informant 0363">
 mhm	-	-	-	0:48:58.132000	0:48:58.680000
 .	-	-	-	0:48:58.132000	0:48:58.680000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:58.680000" end="0:49:04.116000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:48:58.680000" end="0:49:04.116000" persName="Informant 0357">
 <pause duration="0,9s"/>
 eben	-	-	-	0:49:00.576000	0:49:03.712000
 <pause duration="0,9s"/>
@@ -12622,9 +12623,9 @@ wieder	-	-	-	0:49:00.576000	0:49:03.712000
 mit	-	-	-	0:49:03.712000	0:49:04.116000
 die	-	-	-	0:49:03.712000	0:49:04.116000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:04.116000" end="0:49:05.024000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:04.116000" end="0:49:05.024000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:04.116000" end="0:49:07.636000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:04.116000" end="0:49:07.636000" persName="Informant 0357">
 Parlamentarier	-	-	-	0:49:04.116000	0:49:05.024000
 ,	-	-	-	0:49:04.116000	0:49:05.024000
 was	-	-	-	0:49:05.020000	0:49:06.652000
@@ -12641,13 +12642,13 @@ nicht	-	-	-	0:49:06.652000	0:49:07.636000
 böse	-	-	-	0:49:06.652000	0:49:07.636000
 .	-	-	-	0:49:06.652000	0:49:07.636000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:07.636000" end="0:49:09.336000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:07.636000" end="0:49:09.336000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:07.636000" end="0:49:09.336000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:07.636000" end="0:49:09.336000" persName="Informant 0357">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:09.336000" end="0:49:10.968000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:09.336000" end="0:49:10.968000" persName="Informant 0363">
 das	-	-	-	0:49:09.336000	0:49:10.968000
 ist	-	-	-	0:49:09.336000	0:49:10.968000
 wieder	-	-	-	0:49:09.336000	0:49:10.968000
@@ -12656,7 +12657,7 @@ anderes	-	-	-	0:49:09.336000	0:49:10.968000
 Kapitel	-	-	-	0:49:09.336000	0:49:10.968000
 .	-	-	-	0:49:09.336000	0:49:10.968000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:09.336000" end="0:49:14.736000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:09.336000" end="0:49:14.736000" persName="Informant 0357">
 das	-	-	-	0:49:09.336000	0:49:10.968000
 interessiert	-	-	-	0:49:09.336000	0:49:10.968000
 mich	-	-	-	0:49:09.336000	0:49:10.968000
@@ -12681,12 +12682,12 @@ an	-	-	-	0:49:12.208000	0:49:14.736000
 gell	-	-	-	0:49:12.208000	0:49:14.736000
 ?	-	-	-	0:49:12.208000	0:49:14.736000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:14.736000" end="0:49:15.684000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:14.736000" end="0:49:15.684000" persName="Informant 0363">
 <pause duration="0,6s"/>
 was	-	-	-	0:49:14.736000	0:49:15.684000
 ?	-	-	-	0:49:14.736000	0:49:15.684000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:15.684000" end="0:49:18.744000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:15.684000" end="0:49:18.744000" persName="Informant 0357">
 <pause duration="1,5s"/>
 so	-	-	-	0:49:17.156000	0:49:17.636000
 das	-	-	-	0:49:17.156000	0:49:17.636000
@@ -12698,14 +12699,14 @@ das	-	-	-	0:49:17.864000	0:49:18.744000
 nacherzählen	-	-	-	0:49:17.864000	0:49:18.744000
 .	-	-	-	0:49:17.864000	0:49:18.744000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:18.744000" end="0:49:20.136000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:18.744000" end="0:49:20.136000" persName="Informant 0363">
 ja	-	-	-	0:49:18.744000	0:49:20.136000
 hm	-	-	-	0:49:18.744000	0:49:20.136000
 ,	-	-	-	0:49:18.744000	0:49:20.136000
 das	-	-	-	0:49:18.744000	0:49:20.136000
 /.	-	-	-	0:49:18.744000	0:49:20.136000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:20.136000" end="0:49:21.708000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:20.136000" end="0:49:21.708000" persName="Informant 0357">
 dass	-	-	-	0:49:20.136000	0:49:21.708000
 der	-	-	-	0:49:20.136000	0:49:21.708000
 das	-	-	-	0:49:20.136000	0:49:21.708000
@@ -12713,11 +12714,11 @@ getan	-	-	-	0:49:20.136000	0:49:21.708000
 hat	-	-	-	0:49:20.136000	0:49:21.708000
 und	-	-	-	0:49:20.136000	0:49:21.708000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:21.708000" end="0:49:21.996000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:21.708000" end="0:49:21.996000" persName="Informant 0363">
 mhm	-	-	-	0:49:21.708000	0:49:21.996000
 .	-	-	-	0:49:21.708000	0:49:21.996000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:21.996000" end="0:49:27.056000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:21.996000" end="0:49:27.056000" persName="Informant 0357">
 der	-	-	-	0:49:21.996000	0:49:24.004000
 ist	-	-	-	0:49:21.996000	0:49:24.004000
 jetzt	-	-	-	0:49:21.996000	0:49:24.004000
@@ -12740,11 +12741,11 @@ der	-	-	-	0:49:26.324000	0:49:27.056000
 hat	-	-	-	0:49:26.324000	0:49:27.056000
 sich	-	-	-	0:49:26.324000	0:49:27.056000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:27.056000" end="0:49:27.368000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:27.056000" end="0:49:27.368000" persName="Informant 0363">
 mhm	-	-	-	0:49:27.056000	0:49:27.368000
 .	-	-	-	0:49:27.056000	0:49:27.368000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:27.056000" end="0:49:28.856000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:27.056000" end="0:49:28.856000" persName="Informant 0357">
 hat	-	-	-	0:49:27.056000	0:49:27.368000
 mit	-	-	-	0:49:27.368000	0:49:28.856000
 dem	-	-	-	0:49:27.368000	0:49:28.856000
@@ -12753,13 +12754,13 @@ Affäre	-	-	-	0:49:27.368000	0:49:28.856000
 und	-	-	-	0:49:27.368000	0:49:28.856000
 /.	-	-	-	0:49:27.368000	0:49:28.856000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:28.856000" end="0:49:30.496000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:28.856000" end="0:49:30.496000" persName="Informant 0363">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:28.856000" end="0:49:30.496000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:28.856000" end="0:49:30.496000" persName="Informant 0357">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:30.496000" end="0:49:36.564000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:30.496000" end="0:49:36.564000" persName="Informant 0363">
 ja	-	-	-	0:49:30.496000	0:49:35
 das	-	-	-	0:49:30.496000	0:49:35
 ist	-	-	-	0:49:30.496000	0:49:35
@@ -12779,17 +12780,17 @@ sowas	-	-	-	0:49:35.004000	0:49:36.564000
 raus	-	-	-	0:49:35.004000	0:49:36.564000
 .	-	-	-	0:49:35.004000	0:49:36.564000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:36.564000" end="0:49:37.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:36.564000" end="0:49:37.108000" persName="Informant 0357">
 mhm	-	-	-	0:49:36.564000	0:49:37.108000
 .	-	-	-	0:49:36.564000	0:49:37.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:37.108000" end="0:49:39.986000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:37.108000" end="0:49:39.986000" persName="Informant 0363">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:37.108000" end="0:49:39.986000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:37.108000" end="0:49:39.986000" persName="Informant 0357">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:39.988000" end="0:49:42.356000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:39.988000" end="0:49:42.356000" persName="Informant 0363">
 wenn	-	-	-	0:49:39.988000	0:49:40.364000
 sie	-	-	-	0:49:39.988000	0:49:40.364000
 Zeit	-	-	-	0:49:39.988000	0:49:40.364000
@@ -12799,7 +12800,7 @@ das	-	-	-	0:49:40.364000	0:49:42.356000
 ist	-	-	-	0:49:40.364000	0:49:42.356000
 .	-	-	-	0:49:40.364000	0:49:42.356000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:40.364000" end="0:49:42.804000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:40.364000" end="0:49:42.804000" persName="Informant 0357">
 wenn	-	-	-	0:49:40.364000	0:49:42.356000
 sie	-	-	-	0:49:40.364000	0:49:42.356000
 keine	-	-	-	0:49:40.364000	0:49:42.356000
@@ -12812,13 +12813,13 @@ gell	-	-	-	0:49:40.364000	0:49:42.356000
 okay	-	-	-	0:49:42.356000	0:49:42.804000
 .	-	-	-	0:49:42.356000	0:49:42.804000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:42.804000" end="0:49:43.892000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:42.804000" end="0:49:43.892000" persName="Informant 0363">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:42.804000" end="0:49:43.892000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:42.804000" end="0:49:43.892000" persName="Informant 0357">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:43.892000" end="0:49:56.208000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:43.892000" end="0:49:56.208000" persName="Informant 0363">
 Langeweile	-	-	-	0:49:43.892000	0:49:44.896000
 macht	-	-	-	0:49:43.892000	0:49:44.896000
 das	-	-	-	0:49:43.892000	0:49:44.896000
@@ -12844,34 +12845,34 @@ angehen	-	-	-	0:49:50.764000	0:49:51.976000
 .	-	-	-	0:49:50.764000	0:49:51.976000
 <pause duration="4,2s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:51.976000" end="0:49:56.544000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:51.976000" end="0:49:56.544000" persName="Informant 0357">
 <pause duration="4,2s"/>
 nein	-	-	-	0:49:56.208000	0:49:56.544000
 .	-	-	-	0:49:56.208000	0:49:56.544000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:56.544000" end="0:49:58.248000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:56.544000" end="0:49:58.248000" persName="Informant 0363">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:56.544000" end="0:49:58.248000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:56.544000" end="0:49:58.248000" persName="Informant 0357">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:58.248000" end="0:50:08.616000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:49:58.248000" end="0:50:08.616000" persName="Informant 0363">
 (eh)	-	-	-	0:49:58.248000	0:49:58.540000
 .	-	-	-	0:49:58.248000	0:49:58.540000
 <pause duration="10,1s"/>
 ((Karten	-	-	-	0:49:58.544000	0:50:08.616000
 durchblättern))	-	-	-	0:49:58.544000	0:50:08.616000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:58.544000" end="0:50:08.616000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:49:58.544000" end="0:50:08.616000" persName="Informant 0357">
 <pause duration="10,1s"/>
 ((Karten	-	-	-	0:49:58.544000	0:50:08.616000
 durchblättern))	-	-	-	0:49:58.544000	0:50:08.616000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:08.616000" end="0:50:09.240000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:08.616000" end="0:50:09.240000" persName="Informant 0363">
 Hochdeutsch	-	-	-	0:50:08.616000	0:50:09.240000
 ?	-	-	-	0:50:08.616000	0:50:09.240000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:09.240000" end="0:50:16.880000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:09.240000" end="0:50:16.880000" persName="Informant 0357">
 <pause duration="0,8s"/>
 "kein	-	-	-	0:50:09.240000	0:50:12.132000
 Hochdeutsch	-	-	-	0:50:09.240000	0:50:12.132000
@@ -12885,7 +12886,7 @@ das	-	-	-	0:50:16.324000	0:50:16.880000
 g/	-	-	-	0:50:16.324000	0:50:16.880000
 /.	-	-	-	0:50:16.324000	0:50:16.880000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:16.880000" end="0:50:19.948000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:16.880000" end="0:50:19.948000" persName="Informant 0363">
 <pause duration="0,8s"/>
 ja	-	-	-	0:50:16.880000	0:50:18.860000
 ,	-	-	-	0:50:16.880000	0:50:18.860000
@@ -12895,19 +12896,19 @@ Hochdeutsch	-	-	-	0:50:16.880000	0:50:18.860000
 <pause duration="0,9s"/>
 was	-	-	-	0:50:18.860000	0:50:19.948000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:18.860000" end="0:50:19.948000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:18.860000" end="0:50:19.948000" persName="Informant 0357">
 <pause duration="0,9s"/>
 nein	-	-	-	0:50:18.860000	0:50:19.948000
 .	-	-	-	0:50:18.860000	0:50:19.948000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:19.948000" end="0:50:20.988000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:19.948000" end="0:50:20.988000" persName="Informant 0363">
 bezeichnen	-	-	-	0:50:19.948000	0:50:20.988000
 wir	-	-	-	0:50:19.948000	0:50:20.988000
 als	-	-	-	0:50:19.948000	0:50:20.988000
 Hochdeutsch	-	-	-	0:50:19.948000	0:50:20.988000
 ?	-	-	-	0:50:19.948000	0:50:20.988000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:20.988000" end="0:50:23.384000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:20.988000" end="0:50:23.384000" persName="Informant 0357">
 ähm	-	-	-	0:50:20.988000	0:50:21.556000
 <pause duration="1,0s"/>
 das	-	-	-	0:50:22.520000	0:50:23.384000
@@ -12916,11 +12917,11 @@ man	-	-	-	0:50:22.520000	0:50:23.384000
 liest	-	-	-	0:50:22.520000	0:50:23.384000
 .	-	-	-	0:50:22.520000	0:50:23.384000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:23.384000" end="0:50:24.016000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:23.384000" end="0:50:24.016000" persName="Informant 0363">
 ja	-	-	-	0:50:23.384000	0:50:24.016000
 .	-	-	-	0:50:23.384000	0:50:24.016000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:24.016000" end="0:50:34.276000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:24.016000" end="0:50:34.276000" persName="Informant 0357">
 ähm	-	-	-	0:50:24.016000	0:50:25.032000
 jetzt	-	-	-	0:50:24.016000	0:50:25.032000
 stell	-	-	-	0:50:24.016000	0:50:25.032000
@@ -12964,11 +12965,11 @@ kommt	-	-	-	0:50:32.128000	0:50:34.104000
 ,	-	-	-	0:50:32.128000	0:50:34.104000
 aus	-	-	-	0:50:34.104000	0:50:34.276000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:34.276000" end="0:50:34.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:34.276000" end="0:50:34.740000" persName="Informant 0363">
 mhm	-	-	-	0:50:34.276000	0:50:34.740000
 .	-	-	-	0:50:34.276000	0:50:34.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:34.276000" end="0:50:43.456000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:34.276000" end="0:50:43.456000" persName="Informant 0357">
 welchem	-	-	-	0:50:34.276000	0:50:34.740000
 Ortsteil	-	-	-	0:50:34.740000	0:50:36.128000
 von	-	-	-	0:50:34.740000	0:50:36.128000
@@ -12998,13 +12999,13 @@ zu	-	-	-	0:50:41.756000	0:50:43.456000
 sprechen	-	-	-	0:50:41.756000	0:50:43.456000
 .	-	-	-	0:50:41.756000	0:50:43.456000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:43.456000" end="0:50:44.888000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:43.456000" end="0:50:44.888000" persName="Informant 0363">
 ist	-	-	-	0:50:43.456000	0:50:44.888000
 eine	-	-	-	0:50:43.456000	0:50:44.888000
 Richtlinie	-	-	-	0:50:43.456000	0:50:44.888000
 .	-	-	-	0:50:43.456000	0:50:44.888000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:44.888000" end="0:50:46.840000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:44.888000" end="0:50:46.840000" persName="Informant 0357">
 eine	-	-	-	0:50:44.888000	0:50:45.772000
 Richtlinie	-	-	-	0:50:44.888000	0:50:45.772000
 ,	-	-	-	0:50:44.888000	0:50:45.772000
@@ -13016,11 +13017,11 @@ ist	-	-	-	0:50:46.152000	0:50:46.840000
 eine	-	-	-	0:50:46.152000	0:50:46.840000
 /.	-	-	-	0:50:46.152000	0:50:46.840000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:46.840000" end="0:50:47.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:46.840000" end="0:50:47.272000" persName="Informant 0363">
 hm	-	-	-	0:50:46.840000	0:50:47.272000
 .	-	-	-	0:50:46.840000	0:50:47.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:47.272000" end="0:50:55.400000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:47.272000" end="0:50:55.400000" persName="Informant 0357">
 über	-	-	-	0:50:47.272000	0:50:55.400000
 dieses	-	-	-	0:50:47.272000	0:50:55.400000
 Hochdeutsch	-	-	-	0:50:47.272000	0:50:55.400000
@@ -13035,11 +13036,11 @@ einwandfrei	-	-	-	0:50:47.272000	0:50:55.400000
 kommunizieren	-	-	-	0:50:47.272000	0:50:55.400000
 .	-	-	-	0:50:47.272000	0:50:55.400000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:55.400000" end="0:50:55.912000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:55.400000" end="0:50:55.912000" persName="Informant 0363">
 ja	-	-	-	0:50:55.400000	0:50:55.912000
 .	-	-	-	0:50:55.400000	0:50:55.912000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:55.912000" end="0:50:58.308000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:55.912000" end="0:50:58.308000" persName="Informant 0357">
 <pause duration="0,7s"/>
 sollte	-	-	-	0:50:55.912000	0:50:58.308000
 es	-	-	-	0:50:55.912000	0:50:58.308000
@@ -13048,9 +13049,9 @@ nicht	-	-	-	0:50:55.912000	0:50:58.308000
 mehr	-	-	-	0:50:55.912000	0:50:58.308000
 geben	-	-	-	0:50:55.912000	0:50:58.308000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:58.308000" end="0:50:59.280000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:50:58.308000" end="0:50:59.280000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:58.308000" end="0:51:02.652000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:50:58.308000" end="0:51:02.652000" persName="Informant 0357">
 und	-	-	-	0:50:58.308000	0:50:59.280000
 jeder	-	-	-	0:50:58.308000	0:50:59.280000
 redet	-	-	-	0:50:58.308000	0:50:59.280000
@@ -13065,7 +13066,7 @@ große	-	-	-	0:51:00.180000	0:51:02.652000
 Verständigungsprobleme	-	-	-	0:51:00.180000	0:51:02.652000
 .	-	-	-	0:51:00.180000	0:51:02.652000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:02.652000" end="0:51:06.172000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:02.652000" end="0:51:06.172000" persName="Informant 0363">
 ja	-	-	-	0:51:02.652000	0:51:03.628000
 ,	-	-	-	0:51:02.652000	0:51:03.628000
 dann	-	-	-	0:51:02.652000	0:51:03.628000
@@ -13082,15 +13083,15 @@ eine	-	-	-	0:51:03.628000	0:51:05.132000
 Fremdsprache	-	-	-	0:51:03.628000	0:51:05.132000
 .	-	-	-	0:51:03.628000	0:51:05.132000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:05.132000" end="0:51:06.172000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:05.132000" end="0:51:06.172000" persName="Informant 0357">
 ja	-	-	-	0:51:05.132000	0:51:06.172000
 genau	-	-	-	0:51:05.132000	0:51:06.172000
 .	-	-	-	0:51:05.132000	0:51:06.172000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:06.172000" end="0:51:09.116000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:06.172000" end="0:51:09.116000" persName="Informant 0363">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:06.172000" end="0:51:10.724000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:06.172000" end="0:51:10.724000" persName="Informant 0357">
 <pause duration="2,9s"/>
 also	-	-	-	0:51:09.116000	0:51:10.724000
 das	-	-	-	0:51:09.116000	0:51:10.724000
@@ -13102,7 +13103,7 @@ schwierig	-	-	-	0:51:09.116000	0:51:10.724000
 vor	-	-	-	0:51:09.116000	0:51:10.724000
 .	-	-	-	0:51:09.116000	0:51:10.724000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:10.724000" end="0:51:14.340000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:10.724000" end="0:51:14.340000" persName="Informant 0363">
 mhm	-	-	-	0:51:10.724000	0:51:11.160000
 ,	-	-	-	0:51:10.724000	0:51:11.160000
 <pause duration="0,8s"/>
@@ -13117,7 +13118,7 @@ untereinander	-	-	-	0:51:11.160000	0:51:14.340000
 reden	-	-	-	0:51:11.160000	0:51:14.340000
 .	-	-	-	0:51:11.160000	0:51:14.340000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:14.340000" end="0:51:16.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:14.340000" end="0:51:16.264000" persName="Informant 0357">
 <pause duration="0,5s"/>
 ja	-	-	-	0:51:14.340000	0:51:16.264000
 das	-	-	-	0:51:14.340000	0:51:16.264000
@@ -13127,46 +13128,46 @@ wie	-	-	-	0:51:14.340000	0:51:16.264000
 im	-	-	-	0:51:14.340000	0:51:16.264000
 Ausland	-	-	-	0:51:14.340000	0:51:16.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:16.264000" end="0:51:16.496000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:16.264000" end="0:51:16.496000" persName="Informant 0363">
 ja	-	-	-	0:51:16.264000	0:51:16.496000
 ,	-	-	-	0:51:16.264000	0:51:16.496000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:16.264000" end="0:51:17.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:16.264000" end="0:51:17.272000" persName="Informant 0357">
 ist	-	-	-	0:51:16.264000	0:51:16.496000
 ja	-	-	-	0:51:16.496000	0:51:17.272000
 Englisch	-	-	-	0:51:16.496000	0:51:17.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:17.272000" end="0:51:17.816000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:17.272000" end="0:51:17.816000" persName="Informant 0363">
 ja	-	-	-	0:51:17.272000	0:51:17.816000
 ,	-	-	-	0:51:17.272000	0:51:17.816000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:17.272000" end="0:51:17.816000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:17.272000" end="0:51:17.816000" persName="Informant 0357">
 das	-	-	-	0:51:17.272000	0:51:17.816000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:17.816000" end="0:51:19.636000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:17.816000" end="0:51:19.636000" persName="Informant 0363">
 ist	-	-	-	0:51:17.816000	0:51:18.412000
 Hochdeutsch	-	-	-	0:51:18.412000	0:51:19.636000
 .	-	-	-	0:51:18.412000	0:51:19.636000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:18.412000" end="0:51:19.636000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:18.412000" end="0:51:19.636000" persName="Informant 0357">
 ähm	-	-	-	0:51:18.412000	0:51:19.636000
 Englisch	-	-	-	0:51:18.412000	0:51:19.636000
 .	-	-	-	0:51:18.412000	0:51:19.636000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:19.636000" end="0:51:20.444000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:19.636000" end="0:51:20.444000" persName="Informant 0363">
 so	-	-	-	0:51:19.636000	0:51:20.444000
 in	-	-	-	0:51:19.636000	0:51:20.444000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:19.636000" end="0:51:20.444000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:19.636000" end="0:51:20.444000" persName="Informant 0357">
 ja	-	-	-	0:51:19.636000	0:51:20.444000
 ,	-	-	-	0:51:19.636000	0:51:20.444000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:20.444000" end="0:51:20.876000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:20.444000" end="0:51:20.876000" persName="Informant 0363">
 die	-	-	-	0:51:20.444000	0:51:20.876000
 Richtung	-	-	-	0:51:20.444000	0:51:20.876000
 .	-	-	-	0:51:20.444000	0:51:20.876000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:20.876000" end="0:51:24.488000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:20.876000" end="0:51:24.488000" persName="Informant 0357">
 ähm	-	-	-	0:51:20.876000	0:51:21.548000
 genau	-	-	-	0:51:20.876000	0:51:21.548000
 und	-	-	-	0:51:21.548000	0:51:22.264000
@@ -13186,7 +13187,7 @@ so	-	-	-	0:51:23.400000	0:51:24.488000
 eine	-	-	-	0:51:23.400000	0:51:24.488000
 eine	-	-	-	0:51:23.400000	0:51:24.488000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:24.488000" end="0:51:30.516000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:24.488000" end="0:51:30.516000" persName="Informant 0363">
 ja	-	-	-	0:51:24.488000	0:51:26.772000
 ,	-	-	-	0:51:24.488000	0:51:26.772000
 f/	-	-	-	0:51:24.488000	0:51:26.772000
@@ -13205,11 +13206,11 @@ ist	-	-	-	0:51:28.716000	0:51:30.516000
 eben	-	-	-	0:51:28.716000	0:51:30.516000
 Deutsch	-	-	-	0:51:28.716000	0:51:30.516000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:30.516000" end="0:51:31.252000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:30.516000" end="0:51:31.252000" persName="Informant 0357">
 ja	-	-	-	0:51:30.516000	0:51:31.252000
 .	-	-	-	0:51:30.516000	0:51:31.252000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:31.252000" end="0:51:35.928000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:31.252000" end="0:51:35.928000" persName="Informant 0363">
 <pause duration="0,6s"/>
 für	-	-	-	0:51:31.252000	0:51:33.348000
 Österreich	-	-	-	0:51:31.252000	0:51:33.348000
@@ -13220,7 +13221,7 @@ Prinzip	-	-	-	0:51:31.252000	0:51:33.348000
 .	-	-	-	0:51:31.252000	0:51:33.348000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:33.348000" end="0:51:36.996000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:33.348000" end="0:51:36.996000" persName="Informant 0357">
 <pause duration="2,6s"/>
 nein	-	-	-	0:51:35.928000	0:51:36.996000
 ,	-	-	-	0:51:35.928000	0:51:36.996000
@@ -13228,20 +13229,20 @@ das	-	-	-	0:51:35.928000	0:51:36.996000
 das	-	-	-	0:51:35.928000	0:51:36.996000
 /.	-	-	-	0:51:35.928000	0:51:36.996000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:36.996000" end="0:51:37.984000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:36.996000" end="0:51:37.984000" persName="Informant 0363">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:36.996000" end="0:51:37.984000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:36.996000" end="0:51:37.984000" persName="Informant 0357">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:37.984000" end="0:51:39.248000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:37.984000" end="0:51:39.248000" persName="Informant 0363">
 im	-	-	-	0:51:37.984000	0:51:39.248000
 deutschsprachigen	-	-	-	0:51:37.984000	0:51:39.248000
 Raum	-	-	-	0:51:37.984000	0:51:39.248000
 halt	-	-	-	0:51:37.984000	0:51:39.248000
 .	-	-	-	0:51:37.984000	0:51:39.248000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:39.248000" end="0:51:42.268000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:39.248000" end="0:51:42.268000" persName="Informant 0357">
 also	-	-	-	0:51:39.248000	0:51:39.976000
 ,	-	-	-	0:51:39.248000	0:51:39.976000
 <pause duration="1,1s"/>
@@ -13252,11 +13253,11 @@ ich	-	-	-	0:51:41.716000	0:51:42.268000
 mir	-	-	-	0:51:41.716000	0:51:42.268000
 .	-	-	-	0:51:41.716000	0:51:42.268000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:42.268000" end="0:51:42.820000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:42.268000" end="0:51:42.820000" persName="Informant 0363">
 mhm	-	-	-	0:51:42.268000	0:51:42.820000
 .	-	-	-	0:51:42.268000	0:51:42.820000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:42.824000" end="0:51:50.596000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:42.824000" end="0:51:50.596000" persName="Informant 0357">
 weil	-	-	-	0:51:42.824000	0:51:46.752000
 <pause duration="1,0s"/>
 es	-	-	-	0:51:42.824000	0:51:46.752000
@@ -13282,19 +13283,19 @@ gar	-	-	-	0:51:49.632000	0:51:50.596000
 nicht	-	-	-	0:51:49.632000	0:51:50.596000
 .	-	-	-	0:51:49.632000	0:51:50.596000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:50.596000" end="0:51:52.784000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:50.596000" end="0:51:52.784000" persName="Informant 0363">
 <pause duration="0,7s"/>
 nein	-	-	-	0:51:50.596000	0:51:51.764000
 .	-	-	-	0:51:50.596000	0:51:51.764000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:51.764000" end="0:51:52.784000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:51.764000" end="0:51:52.784000" persName="Informant 0357">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:52.784000" end="0:51:53.476000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:52.784000" end="0:51:53.476000" persName="Informant 0363">
 .	-	-	-	0:51:52.784000	0:51:53.476000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:52.784000" end="0:51:54.652000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:52.784000" end="0:51:54.652000" persName="Informant 0357">
 keine	-	-	-	0:51:52.784000	0:51:53.476000
 Chance	-	-	-	0:51:52.784000	0:51:53.476000
 ,	-	-	-	0:51:52.784000	0:51:53.476000
@@ -13303,24 +13304,24 @@ muss	-	-	-	0:51:53.476000	0:51:54.652000
 bleiben	-	-	-	0:51:53.476000	0:51:54.652000
 .	-	-	-	0:51:53.476000	0:51:54.652000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:54.652000" end="0:51:54.980000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:54.652000" end="0:51:54.980000" persName="Informant 0363">
 mhm	-	-	-	0:51:54.652000	0:51:54.980000
 .	-	-	-	0:51:54.652000	0:51:54.980000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:54.980000" end="0:51:56.504000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:54.980000" end="0:51:56.504000" persName="Informant 0357">
 "eigene	-	-	-	0:51:54.980000	0:51:56.504000
 Fernsehsendung"	-	-	-	0:51:54.980000	0:51:56.504000
 .	-	-	-	0:51:54.980000	0:51:56.504000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:56.504000" end="0:51:58.832000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:56.504000" end="0:51:58.832000" persName="Informant 0363">
 hm	-	-	-	0:51:56.504000	0:51:57.120000
 .	-	-	-	0:51:56.504000	0:51:57.120000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:57.120000" end="0:51:58.832000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:57.120000" end="0:51:58.832000" persName="Informant 0357">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:58.832000" end="0:51:59.704000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:51:58.832000" end="0:51:59.704000" persName="Informant 0363">
 was	-	-	-	0:51:58.832000	0:51:59.704000
 machten	-	-	-	0:51:58.832000	0:51:59.704000
 wir	-	-	-	0:51:58.832000	0:51:59.704000
@@ -13328,19 +13329,19 @@ denn	-	-	-	0:51:58.832000	0:51:59.704000
 da	-	-	-	0:51:58.832000	0:51:59.704000
 ?	-	-	-	0:51:58.832000	0:51:59.704000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:59.704000" end="0:52:01.084000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:51:59.704000" end="0:52:01.084000" persName="Informant 0357">
 <pause duration="0,9s"/>
 was	-	-	-	0:51:59.704000	0:52:01.084000
 ?	-	-	-	0:51:59.704000	0:52:01.084000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:01.084000" end="0:52:03">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:01.084000" end="0:52:03" persName="Informant 0363">
 <pause duration="0,7s"/>
 eine	-	-	-	0:52:01.084000	0:52:03
 eigene	-	-	-	0:52:01.084000	0:52:03
 Fernsehsendung	-	-	-	0:52:01.084000	0:52:03
 .	-	-	-	0:52:01.084000	0:52:03
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:03" end="0:52:07.504000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:03" end="0:52:07.504000" persName="Informant 0357">
 wir	-	-	-	0:52:03	0:52:07.060000
 könnten	-	-	-	0:52:03	0:52:07.060000
 sowas	-	-	-	0:52:03	0:52:07.060000
@@ -13355,53 +13356,53 @@ machen	-	-	-	0:52:03	0:52:07.060000
 eh	-	-	-	0:52:07.060000	0:52:07.504000
 so	-	-	-	0:52:07.060000	0:52:07.504000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:07.504000" end="0:52:08.600000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:07.504000" end="0:52:08.600000" persName="Informant 0363">
 ah	-	-	-	0:52:07.504000	0:52:08.600000
 ja	-	-	-	0:52:07.504000	0:52:08.600000
 genau	-	-	-	0:52:07.504000	0:52:08.600000
 .	-	-	-	0:52:07.504000	0:52:08.600000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:07.504000" end="0:52:08.600000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:07.504000" end="0:52:08.600000" persName="Informant 0357">
 ein	-	-	-	0:52:07.504000	0:52:08.600000
 ,	-	-	-	0:52:07.504000	0:52:08.600000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:08.600000" end="0:52:09.964000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:08.600000" end="0:52:09.964000" persName="Informant 0363">
 real/	-	-	-	0:52:08.600000	0:52:09.964000
 reality	-	-	-	0:52:08.600000	0:52:09.964000
 .	-	-	-	0:52:08.600000	0:52:09.964000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:08.600000" end="0:52:09.964000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:08.600000" end="0:52:09.964000" persName="Informant 0357">
 einen	-	-	-	0:52:08.600000	0:52:09.964000
 ganzen	-	-	-	0:52:08.600000	0:52:09.964000
 Tag	-	-	-	0:52:08.600000	0:52:09.964000
 läuft	-	-	-	0:52:08.600000	0:52:09.964000
 /.	-	-	-	0:52:08.600000	0:52:09.964000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:09.964000" end="0:52:10.940000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:09.964000" end="0:52:10.940000" persName="Informant 0363">
 mhm	-	-	-	0:52:09.964000	0:52:10.940000
 .	-	-	-	0:52:09.964000	0:52:10.940000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:09.964000" end="0:52:10.940000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:09.964000" end="0:52:10.940000" persName="Informant 0357">
 ja	-	-	-	0:52:09.964000	0:52:10.940000
 ,	-	-	-	0:52:09.964000	0:52:10.940000
 genau	-	-	-	0:52:09.964000	0:52:10.940000
 .	-	-	-	0:52:09.964000	0:52:10.940000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:10.940000" end="0:52:14.252000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:10.940000" end="0:52:14.252000" persName="Informant 0363">
 nein	-	-	-	0:52:10.940000	0:52:11.548000
 .	-	-	-	0:52:10.940000	0:52:11.548000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:11.548000" end="0:52:14.708000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:11.548000" end="0:52:14.708000" persName="Informant 0357">
 <pause duration="2,7s"/>
 nicht	-	-	-	0:52:14.252000	0:52:14.708000
 ?	-	-	-	0:52:14.252000	0:52:14.708000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:14.708000" end="0:52:15.284000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:14.708000" end="0:52:15.284000" persName="Informant 0363">
 nein	-	-	-	0:52:14.708000	0:52:15.284000
 .	-	-	-	0:52:14.708000	0:52:15.284000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:15.284000" end="0:52:18.584000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:15.284000" end="0:52:18.584000" persName="Informant 0357">
 <pause duration="0,5s"/>
 warum	-	-	-	0:52:15.284000	0:52:16.376000
 ?	-	-	-	0:52:15.284000	0:52:16.376000
@@ -13413,16 +13414,16 @@ Kuhkalberln	-	-	-	0:52:16.376000	0:52:18.584000
 zuschauen	-	-	-	0:52:16.376000	0:52:18.584000
 .	-	-	-	0:52:16.376000	0:52:18.584000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:18.588000" end="0:52:20.280000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:18.588000" end="0:52:20.280000" persName="Informant 0363">
 (ja)	-	-	-	0:52:18.588000	0:52:18.900000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:18.900000" end="0:52:20.280000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:18.900000" end="0:52:20.280000" persName="Informant 0357">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:20.280000" end="0:52:21.360000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:20.280000" end="0:52:21.360000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:21.360000" end="0:52:24.152000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:21.360000" end="0:52:24.152000" persName="Informant 0357">
 <pause duration="0,9s"/>
 die	-	-	-	0:52:21.360000	0:52:24.152000
 Tricks	-	-	-	0:52:21.360000	0:52:24.152000
@@ -13431,11 +13432,11 @@ unserer	-	-	-	0:52:21.360000	0:52:24.152000
 Entmistung	-	-	-	0:52:21.360000	0:52:24.152000
 ,	-	-	-	0:52:21.360000	0:52:24.152000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:24.152000" end="0:52:25.324000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:24.152000" end="0:52:25.324000" persName="Informant 0363">
 mhm	-	-	-	0:52:24.152000	0:52:25.324000
 .	-	-	-	0:52:24.152000	0:52:25.324000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:24.152000" end="0:52:26.476000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:24.152000" end="0:52:26.476000" persName="Informant 0357">
 unser	-	-	-	0:52:24.152000	0:52:25.324000
 Stresslevel	-	-	-	0:52:24.152000	0:52:25.324000
 ,	-	-	-	0:52:24.152000	0:52:25.324000
@@ -13443,11 +13444,11 @@ unser	-	-	-	0:52:25.324000	0:52:26.476000
 Freizeitlevel	-	-	-	0:52:25.324000	0:52:26.476000
 .	-	-	-	0:52:25.324000	0:52:26.476000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:26.476000" end="0:52:26.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:26.476000" end="0:52:26.740000" persName="Informant 0363">
 mhm	-	-	-	0:52:26.476000	0:52:26.740000
 .	-	-	-	0:52:26.476000	0:52:26.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:26.740000" end="0:52:37.464000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:26.740000" end="0:52:37.464000" persName="Informant 0357">
 <pause duration="2,7s"/>
 nein	-	-	-	0:52:29.448000	0:52:31.192000
 was	-	-	-	0:52:29.448000	0:52:31.192000
@@ -13470,40 +13471,40 @@ ein	-	-	-	0:52:34.360000	0:52:35.984000
 hat	-	-	-	0:52:35.984000	0:52:37.464000
 Frau"	-	-	-	0:52:35.984000	0:52:37.464000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:37.464000" end="0:52:38.664000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:37.464000" end="0:52:38.664000" persName="Informant 0363">
 ja	-	-	-	0:52:37.464000	0:52:38.664000
 .	-	-	-	0:52:37.464000	0:52:38.664000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:38.664000" end="0:52:39.056000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:38.664000" end="0:52:39.056000" persName="Informant 0357">
 hä	-	-	-	0:52:38.664000	0:52:39.056000
 ?	-	-	-	0:52:38.664000	0:52:39.056000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:39.056000" end="0:52:48.056000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:39.056000" end="0:52:48.056000" persName="Informant 0363">
 mhm	-	-	-	0:52:39.056000	0:52:39.640000
 .	-	-	-	0:52:39.056000	0:52:39.640000
 <pause duration="8,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:39.640000" end="0:52:48.340000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:39.640000" end="0:52:48.340000" persName="Informant 0357">
 <pause duration="8,4s"/>
 hm	-	-	-	0:52:48.056000	0:52:48.340000
 .	-	-	-	0:52:48.056000	0:52:48.340000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:48.340000" end="0:52:49.380000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:48.340000" end="0:52:49.380000" persName="Informant 0363">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:48.340000" end="0:52:49.380000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:48.340000" end="0:52:49.380000" persName="Informant 0357">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:49.380000" end="0:52:50.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:49.380000" end="0:52:50.500000" persName="Informant 0363">
 und	-	-	-	0:52:49.380000	0:52:50.500000
 auch	-	-	-	0:52:49.380000	0:52:50.500000
 ähm	-	-	-	0:52:49.380000	0:52:50.500000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:50.500000" end="0:52:51.208000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:50.500000" end="0:52:51.208000" persName="Informant 0357">
 was	-	-	-	0:52:50.500000	0:52:51.208000
 ?	-	-	-	0:52:50.500000	0:52:51.208000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:51.208000" end="0:52:57.384000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:51.208000" end="0:52:57.384000" persName="Informant 0363">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:52:51.208000	0:52:52.404000
 <pause duration="1,1s"/>
@@ -13521,13 +13522,13 @@ Dein	-	-	-	0:52:54.424000	0:52:57.384000
 Lokal"	-	-	-	0:52:54.424000	0:52:57.384000
 ?	-	-	-	0:52:54.424000	0:52:57.384000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:57.384000" end="0:52:57.836000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:57.384000" end="0:52:57.836000" persName="Informant 0357">
 ja	-	-	-	0:52:57.384000	0:52:57.836000
 ,	-	-	-	0:52:57.384000	0:52:57.836000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:57.836000" end="0:52:58.600000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:57.836000" end="0:52:58.600000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:57.836000" end="0:52:59.844000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:52:57.836000" end="0:52:59.844000" persName="Informant 0357">
 das	-	-	-	0:52:57.836000	0:52:58.600000
 ist	-	-	-	0:52:57.836000	0:52:58.600000
 aber	-	-	-	0:52:57.836000	0:52:58.600000
@@ -13538,7 +13539,7 @@ Ferns/	-	-	-	0:52:58.600000	0:52:59.844000
 Kochsendung	-	-	-	0:52:58.600000	0:52:59.844000
 .	-	-	-	0:52:58.600000	0:52:59.844000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:59.844000" end="0:53:05.860000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:52:59.844000" end="0:53:05.860000" persName="Informant 0363">
 ja	-	-	-	0:52:59.844000	0:53:00.860000
 ,	-	-	-	0:52:59.844000	0:53:00.860000
 wie	-	-	-	0:52:59.844000	0:53:00.860000
@@ -13563,14 +13564,14 @@ noch)	-	-	-	0:53:05.196000	0:53:05.860000
 richtig	-	-	-	0:53:05.196000	0:53:05.860000
 ?	-	-	-	0:53:05.196000	0:53:05.860000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:05.196000" end="0:53:05.860000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:05.196000" end="0:53:05.860000" persName="Informant 0357">
 aha	-	-	-	0:53:05.196000	0:53:05.860000
 .	-	-	-	0:53:05.196000	0:53:05.860000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:05.860000" end="0:53:07.320000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:05.860000" end="0:53:07.320000" persName="Informant 0363">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:05.860000" end="0:53:08.488000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:05.860000" end="0:53:08.488000" persName="Informant 0357">
 <pause duration="1,5s"/>
 ja	-	-	-	0:53:07.320000	0:53:07.856000
 das	-	-	-	0:53:07.320000	0:53:07.856000
@@ -13580,11 +13581,11 @@ könnte	-	-	-	0:53:07.856000	0:53:08.488000
 ich	-	-	-	0:53:07.856000	0:53:08.488000
 mir	-	-	-	0:53:07.856000	0:53:08.488000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:08.492000" end="0:53:08.980000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:08.492000" end="0:53:08.980000" persName="Informant 0363">
 mhm	-	-	-	0:53:08.492000	0:53:08.980000
 .	-	-	-	0:53:08.492000	0:53:08.980000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:08.492000" end="0:53:12.740000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:08.492000" end="0:53:12.740000" persName="Informant 0357">
 vorstellen	-	-	-	0:53:08.492000	0:53:08.980000
 ,	-	-	-	0:53:08.492000	0:53:08.980000
 weil	-	-	-	0:53:08.980000	0:53:11.244000
@@ -13604,31 +13605,31 @@ betriebsblind	-	-	-	0:53:11.244000	0:53:12.740000
 werden	-	-	-	0:53:11.244000	0:53:12.740000
 ,	-	-	-	0:53:11.244000	0:53:12.740000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:12.740000" end="0:53:13.444000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:12.740000" end="0:53:13.444000" persName="Informant 0363">
 ja	-	-	-	0:53:12.740000	0:53:13.444000
 .	-	-	-	0:53:12.740000	0:53:13.444000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:12.740000" end="0:53:13.444000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:12.740000" end="0:53:13.444000" persName="Informant 0357">
 dass	-	-	-	0:53:12.740000	0:53:13.444000
 du	-	-	-	0:53:12.740000	0:53:13.444000
 einfach	-	-	-	0:53:12.740000	0:53:13.444000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:13.448000" end="0:53:14.428000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:13.448000" end="0:53:14.428000" persName="Informant 0363">
 mhm	-	-	-	0:53:13.448000	0:53:14.428000
 .	-	-	-	0:53:13.448000	0:53:14.428000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:13.448000" end="0:53:15.172000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:13.448000" end="0:53:15.172000" persName="Informant 0357">
 neue	-	-	-	0:53:13.448000	0:53:14.428000
 Ideen	-	-	-	0:53:13.448000	0:53:14.428000
 ,	-	-	-	0:53:13.448000	0:53:14.428000
 neue	-	-	-	0:53:14.428000	0:53:15.172000
 Inputs	-	-	-	0:53:14.428000	0:53:15.172000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:15.172000" end="0:53:15.740000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:15.172000" end="0:53:15.740000" persName="Informant 0363">
 mhm	-	-	-	0:53:15.172000	0:53:15.740000
 .	-	-	-	0:53:15.172000	0:53:15.740000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:15.172000" end="0:53:17.624000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:15.172000" end="0:53:17.624000" persName="Informant 0357">
 kriegst	-	-	-	0:53:15.172000	0:53:15.740000
 .	-	-	-	0:53:15.172000	0:53:15.740000
 <pause duration="1,1s"/>
@@ -13640,20 +13641,20 @@ sch/	-	-	-	0:53:16.836000	0:53:17.380000
 das	-	-	-	0:53:17.380000	0:53:17.624000
 wäre	-	-	-	0:53:17.380000	0:53:17.624000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:17.624000" end="0:53:18.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:17.624000" end="0:53:18.272000" persName="Informant 0363">
 zum	-	-	-	0:53:17.624000	0:53:18.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:17.624000" end="0:53:18.272000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:17.624000" end="0:53:18.272000" persName="Informant 0357">
 schon	-	-	-	0:53:17.624000	0:53:18.272000
 cool	-	-	-	0:53:17.624000	0:53:18.272000
 .	-	-	-	0:53:17.624000	0:53:18.272000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:18.272000" end="0:53:19.088000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:18.272000" end="0:53:19.088000" persName="Informant 0363">
 zum	-	-	-	0:53:18.272000	0:53:19.088000
 Beispiel	-	-	-	0:53:18.272000	0:53:19.088000
 /.	-	-	-	0:53:18.272000	0:53:19.088000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:18.272000" end="0:53:21.908000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:18.272000" end="0:53:21.908000" persName="Informant 0357">
 andere	-	-	-	0:53:18.272000	0:53:19.088000
 Sachen	-	-	-	0:53:18.272000	0:53:19.088000
 anschauen	-	-	-	0:53:19.088000	0:53:19.680000
@@ -13670,7 +13671,7 @@ cool	-	-	-	0:53:20.748000	0:53:21.908000
 arbeiten	-	-	-	0:53:20.748000	0:53:21.908000
 .	-	-	-	0:53:20.748000	0:53:21.908000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:21.908000" end="0:53:39.488000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:21.908000" end="0:53:39.488000" persName="Informant 0363">
 ja	-	-	-	0:53:21.908000	0:53:22.628000
 ,	-	-	-	0:53:21.908000	0:53:22.628000
 <pause duration="0,7s"/>
@@ -13696,7 +13697,7 @@ ja	-	-	-	0:53:32.900000	0:53:33.204000
 .	-	-	-	0:53:32.900000	0:53:33.204000
 <pause duration="6,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:33.200000" end="0:53:40.776000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:33.200000" end="0:53:40.776000" persName="Informant 0357">
 <pause duration="6,3s"/>
 "Erfüllung	-	-	-	0:53:39.488000	0:53:40.776000
 von	-	-	-	0:53:39.488000	0:53:40.776000
@@ -13704,19 +13705,19 @@ drei	-	-	-	0:53:39.488000	0:53:40.776000
 Wünschen"	-	-	-	0:53:39.488000	0:53:40.776000
 .	-	-	-	0:53:39.488000	0:53:40.776000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:40.776000" end="0:53:44.252000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:40.776000" end="0:53:44.252000" persName="Informant 0363">
 ähm	-	-	-	0:53:40.776000	0:53:41.560000
 .	-	-	-	0:53:40.776000	0:53:41.560000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:41.560000" end="0:53:44.252000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:41.560000" end="0:53:44.252000" persName="Informant 0357">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:44.252000" end="0:53:44.444000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:44.252000" end="0:53:44.444000" persName="Informant 0363">
 puh	-	-	-	0:53:44.252000	0:53:44.444000
 .	-	-	-	0:53:44.252000	0:53:44.444000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:44.444000" end="0:53:46.648000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:44.444000" end="0:53:46.648000" persName="Informant 0357">
 <pause duration="0,7s"/>
 und	-	-	-	0:53:44.444000	0:53:45.836000
 jetzt	-	-	-	0:53:44.444000	0:53:45.836000
@@ -13729,13 +13730,13 @@ keine	-	-	-	0:53:45.836000	0:53:46.648000
 hast	-	-	-	0:53:45.836000	0:53:46.648000
 .	-	-	-	0:53:45.836000	0:53:46.648000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:46.648000" end="0:53:52.904000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:46.648000" end="0:53:52.904000" persName="Informant 0363">
 <pause duration="6,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:46.648000" end="0:53:52.904000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:46.648000" end="0:53:52.904000" persName="Informant 0357">
 <pause duration="6,3s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:52.904000" end="0:53:56.580000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:52.904000" end="0:53:56.580000" persName="Informant 0363">
 die	-	-	-	0:53:52.904000	0:53:53.732000
 (sage)	-	-	-	0:53:52.904000	0:53:53.732000
 ich	-	-	-	0:53:52.904000	0:53:53.732000
@@ -13749,7 +13750,7 @@ Wünsche	-	-	-	0:53:53.732000	0:53:56.580000
 Wünsche	-	-	-	0:53:53.732000	0:53:56.580000
 .	-	-	-	0:53:53.732000	0:53:56.580000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:53.732000" end="0:53:57.632000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:53.732000" end="0:53:57.632000" persName="Informant 0357">
 <pause duration="0,9s"/>
 und	-	-	-	0:53:53.732000	0:53:56.580000
 jetzt	-	-	-	0:53:53.732000	0:53:56.580000
@@ -13769,15 +13770,15 @@ geschlagen	-	-	-	0:53:56.580000	0:53:57.632000
 gell	-	-	-	0:53:56.580000	0:53:57.632000
 .	-	-	-	0:53:56.580000	0:53:57.632000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:57.632000" end="0:53:58.404000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:57.632000" end="0:53:58.404000" persName="Informant 0363">
 (Sachen)	-	-	-	0:53:57.632000	0:53:58.404000
 .	-	-	-	0:53:57.632000	0:53:58.404000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:58.404000" end="0:53:58.924000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:53:58.404000" end="0:53:58.924000" persName="Informant 0357">
 ja	-	-	-	0:53:58.404000	0:53:58.924000
 .	-	-	-	0:53:58.404000	0:53:58.924000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:58.920000" end="0:54:00.160000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:53:58.920000" end="0:54:00.160000" persName="Informant 0363">
 ja	-	-	-	0:53:58.920000	0:54:00.160000
 ,	-	-	-	0:53:58.920000	0:54:00.160000
 erzähl	-	-	-	0:53:58.920000	0:54:00.160000
@@ -13785,7 +13786,7 @@ du	-	-	-	0:53:58.920000	0:54:00.160000
 einmal	-	-	-	0:53:58.920000	0:54:00.160000
 .	-	-	-	0:53:58.920000	0:54:00.160000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:00.160000" end="0:54:01.840000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:00.160000" end="0:54:01.840000" persName="Informant 0357">
 der	-	-	-	0:54:00.160000	0:54:00.904000
 erste	-	-	-	0:54:00.160000	0:54:00.904000
 Wunsch	-	-	-	0:54:00.160000	0:54:00.904000
@@ -13794,35 +13795,35 @@ schuldenfrei	-	-	-	0:54:00.904000	0:54:01.840000
 sein	-	-	-	0:54:00.904000	0:54:01.840000
 .	-	-	-	0:54:00.904000	0:54:01.840000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:01.840000" end="0:54:02.568000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:01.840000" end="0:54:02.568000" persName="Informant 0363">
 ja	-	-	-	0:54:01.840000	0:54:02.568000
 ,	-	-	-	0:54:01.840000	0:54:02.568000
 das	-	-	-	0:54:01.840000	0:54:02.568000
 schon	-	-	-	0:54:01.840000	0:54:02.568000
 .	-	-	-	0:54:01.840000	0:54:02.568000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:02.568000" end="0:54:03.416000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:02.568000" end="0:54:03.416000" persName="Informant 0357">
 ja	-	-	-	0:54:02.568000	0:54:03.228000
 schau	-	-	-	0:54:02.568000	0:54:03.228000
 ,	-	-	-	0:54:02.568000	0:54:03.228000
 ist	-	-	-	0:54:03.228000	0:54:03.416000
 ein	-	-	-	0:54:03.228000	0:54:03.416000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:03.416000" end="0:54:03.752000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:03.416000" end="0:54:03.752000" persName="Informant 0363">
 das	-	-	-	0:54:03.416000	0:54:03.752000
 ist	-	-	-	0:54:03.416000	0:54:03.752000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:03.416000" end="0:54:03.752000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:03.416000" end="0:54:03.752000" persName="Informant 0357">
 Wunsch	-	-	-	0:54:03.416000	0:54:03.752000
 .	-	-	-	0:54:03.416000	0:54:03.752000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:03.752000" end="0:54:04.648000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:03.752000" end="0:54:04.648000" persName="Informant 0363">
 einmal	-	-	-	0:54:03.752000	0:54:04.648000
 der	-	-	-	0:54:03.752000	0:54:04.648000
 größere	-	-	-	0:54:03.752000	0:54:04.648000
 ?	-	-	-	0:54:03.752000	0:54:04.648000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:04.648000" end="0:54:07.108000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:04.648000" end="0:54:07.108000" persName="Informant 0357">
 ja	-	-	-	0:54:04.648000	0:54:05.396000
 ,	-	-	-	0:54:04.648000	0:54:05.396000
 bitte	-	-	-	0:54:04.648000	0:54:05.396000
@@ -13832,17 +13833,17 @@ gesagt	-	-	-	0:54:05.396000	0:54:07.108000
 gehabt	-	-	-	0:54:05.396000	0:54:07.108000
 .	-	-	-	0:54:05.396000	0:54:07.108000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:07.108000" end="0:54:07.932000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:07.108000" end="0:54:07.932000" persName="Informant 0363">
 ja	-	-	-	0:54:07.108000	0:54:07.932000
 ,	-	-	-	0:54:07.108000	0:54:07.932000
 mhm	-	-	-	0:54:07.108000	0:54:07.932000
 .	-	-	-	0:54:07.108000	0:54:07.932000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:07.932000" end="0:54:08.468000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:07.932000" end="0:54:08.468000" persName="Informant 0357">
 mhm	-	-	-	0:54:07.932000	0:54:08.468000
 .	-	-	-	0:54:07.932000	0:54:08.468000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:08.468000" end="0:54:10.252000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:08.468000" end="0:54:10.252000" persName="Informant 0363">
 <pause duration="0,9s"/>
 ja	-	-	-	0:54:08.468000	0:54:10.252000
 ,	-	-	-	0:54:08.468000	0:54:10.252000
@@ -13853,7 +13854,7 @@ für	-	-	-	0:54:08.468000	0:54:10.252000
 welche	-	-	-	0:54:08.468000	0:54:10.252000
 ?	-	-	-	0:54:08.468000	0:54:10.252000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:10.252000" end="0:54:12.264000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:10.252000" end="0:54:12.264000" persName="Informant 0357">
 ja	-	-	-	0:54:10.252000	0:54:12.264000
 ,	-	-	-	0:54:10.252000	0:54:12.264000
 Punkt	-	-	-	0:54:10.252000	0:54:12.264000
@@ -13863,11 +13864,11 @@ schuldenfrei	-	-	-	0:54:10.252000	0:54:12.264000
 sein	-	-	-	0:54:10.252000	0:54:12.264000
 .	-	-	-	0:54:10.252000	0:54:12.264000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:12.264000" end="0:54:12.608000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:12.264000" end="0:54:12.608000" persName="Informant 0363">
 ja	-	-	-	0:54:12.264000	0:54:12.608000
 .	-	-	-	0:54:12.264000	0:54:12.608000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:12.608000" end="0:54:17.092000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:12.608000" end="0:54:17.092000" persName="Informant 0357">
 <pause duration="3,1s"/>
 ja	-	-	-	0:54:15.712000	0:54:17.092000
 ,	-	-	-	0:54:15.712000	0:54:17.092000
@@ -13876,13 +13877,13 @@ krank	-	-	-	0:54:15.712000	0:54:17.092000
 werden	-	-	-	0:54:15.712000	0:54:17.092000
 .	-	-	-	0:54:15.712000	0:54:17.092000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:17.092000" end="0:54:22.592000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:17.092000" end="0:54:22.592000" persName="Informant 0363">
 <pause duration="0,8s"/>
 mhm	-	-	-	0:54:17.092000	0:54:18.212000
 .	-	-	-	0:54:17.092000	0:54:18.212000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:18.212000" end="0:54:23.652000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:18.212000" end="0:54:23.652000" persName="Informant 0357">
 <pause duration="4,4s"/>
 und	-	-	-	0:54:22.592000	0:54:23.652000
 ein	-	-	-	0:54:22.592000	0:54:23.652000
@@ -13891,7 +13892,7 @@ Leben	-	-	-	0:54:22.592000	0:54:23.652000
 haben	-	-	-	0:54:22.592000	0:54:23.652000
 .	-	-	-	0:54:22.592000	0:54:23.652000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:23.652000" end="0:54:27.068000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:23.652000" end="0:54:27.068000" persName="Informant 0363">
 <pause duration="0,8s"/>
 ja	-	-	-	0:54:23.652000	0:54:24.716000
 ,	-	-	-	0:54:23.652000	0:54:24.716000
@@ -13903,7 +13904,7 @@ wir	-	-	-	0:54:26.340000	0:54:27.068000
 eh)	-	-	-	0:54:26.340000	0:54:27.068000
 .	-	-	-	0:54:26.340000	0:54:27.068000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:26.340000" end="0:54:28.548000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:26.340000" end="0:54:28.548000" persName="Informant 0357">
 mhm	-	-	-	0:54:26.340000	0:54:27.068000
 ,	-	-	-	0:54:26.340000	0:54:27.068000
 <pause duration="0,7s"/>
@@ -13913,12 +13914,12 @@ mal	-	-	-	0:54:27.068000	0:54:28.548000
 cool	-	-	-	0:54:27.068000	0:54:28.548000
 .	-	-	-	0:54:27.068000	0:54:28.548000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:28.548000" end="0:54:30.164000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:28.548000" end="0:54:30.164000" persName="Informant 0363">
 mhm	-	-	-	0:54:28.548000	0:54:28.884000
 .	-	-	-	0:54:28.548000	0:54:28.884000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:28.884000" end="0:54:31.028000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:28.884000" end="0:54:31.028000" persName="Informant 0357">
 <pause duration="1,3s"/>
 nein	-	-	-	0:54:30.164000	0:54:31.028000
 ,	-	-	-	0:54:30.164000	0:54:31.028000
@@ -13928,10 +13929,10 @@ echt	-	-	-	0:54:30.164000	0:54:31.028000
 cool	-	-	-	0:54:30.164000	0:54:31.028000
 .	-	-	-	0:54:30.164000	0:54:31.028000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:31.028000" end="0:54:31.852000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:31.028000" end="0:54:31.852000" persName="Informant 0363">
 .	-	-	-	0:54:31.028000	0:54:31.852000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:31.028000" end="0:54:32.516000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:31.028000" end="0:54:32.516000" persName="Informant 0357">
 ein	-	-	-	0:54:31.028000	0:54:31.852000
 paar	-	-	-	0:54:31.028000	0:54:31.852000
 Jahre	-	-	-	0:54:31.028000	0:54:31.852000
@@ -13941,7 +13942,7 @@ noch	-	-	-	0:54:31.852000	0:54:32.516000
 warten	-	-	-	0:54:31.852000	0:54:32.516000
 .	-	-	-	0:54:31.852000	0:54:32.516000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:32.516000" end="0:54:33.768000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:32.516000" end="0:54:33.768000" persName="Informant 0363">
 und	-	-	-	0:54:32.516000	0:54:33.768000
 nicht	-	-	-	0:54:32.516000	0:54:33.768000
 so	-	-	IRR	0:54:32.516000	0:54:33.768000
@@ -13951,7 +13952,7 @@ haben	-	-	-	0:54:32.516000	0:54:33.768000
 immer	-	-	-	0:54:32.516000	0:54:33.768000
 .	-	-	-	0:54:32.516000	0:54:33.768000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:33.768000" end="0:54:35.604000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:33.768000" end="0:54:35.604000" persName="Informant 0357">
 <pause duration="0,7s"/>
 ja	-	-	-	0:54:33.768000	0:54:35.604000
 ,	-	-	-	0:54:33.768000	0:54:35.604000
@@ -13959,29 +13960,29 @@ einfach	-	-	-	0:54:33.768000	0:54:35.604000
 ein	-	-	-	0:54:33.768000	0:54:35.604000
 schönes	-	-	-	0:54:33.768000	0:54:35.604000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:35.604000" end="0:54:36.072000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:35.604000" end="0:54:36.072000" persName="Informant 0363">
 ja	-	-	-	0:54:35.604000	0:54:36.072000
 ,	-	-	-	0:54:35.604000	0:54:36.072000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:35.604000" end="0:54:36.072000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:35.604000" end="0:54:36.072000" persName="Informant 0357">
 Leben	-	-	-	0:54:35.604000	0:54:36.072000
 haben	-	-	-	0:54:35.604000	0:54:36.072000
 .	-	-	-	0:54:35.604000	0:54:36.072000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:36.072000" end="0:54:41.296000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:36.072000" end="0:54:41.296000" persName="Informant 0363">
 mhm	-	-	-	0:54:36.072000	0:54:36.444000
 .	-	-	-	0:54:36.072000	0:54:36.444000
 <pause duration="4,9s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:36.440000" end="0:54:41.296000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:36.440000" end="0:54:41.296000" persName="Informant 0357">
 <pause duration="4,9s"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:41.296000" end="0:54:43.560000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:41.296000" end="0:54:43.560000" persName="Informant 0363">
 ja	-	-	-	0:54:41.296000	0:54:41.720000
 .	-	-	-	0:54:41.296000	0:54:41.720000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:41.720000" end="0:54:45.016000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:41.720000" end="0:54:45.016000" persName="Informant 0357">
 <pause duration="1,8s"/>
 und	-	-	-	0:54:43.560000	0:54:44.109000
 die	-	-	-	0:54:43.560000	0:54:44.109000
@@ -13993,7 +13994,7 @@ gut	-	-	-	0:54:44.109000	0:54:45.016000
 geht	-	-	-	0:54:44.109000	0:54:45.016000
 .	-	-	-	0:54:44.109000	0:54:45.016000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:45.016000" end="0:54:50.152000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:45.016000" end="0:54:50.152000" persName="Informant 0363">
 mhm	-	-	-	0:54:45.016000	0:54:46.280000
 <pause duration="0,8s"/>
 und	-	-	-	0:54:46.280000	0:54:48.241000
@@ -14010,35 +14011,35 @@ zum	-	-	-	0:54:48.243000	0:54:50.152000
 Weitermachen	-	-	-	0:54:48.243000	0:54:50.152000
 .	-	-	-	0:54:48.243000	0:54:50.152000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:50.152000" end="0:54:52.008000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:50.152000" end="0:54:52.008000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ah	-	-	-	0:54:50.152000	0:54:52.008000
 mu/	-	-	-	0:54:50.152000	0:54:52.008000
-[Michael]N	-	-	-	0:54:50.152000	0:54:52.008000
+NAME	NAME	-	-	0:54:50.152000	0:54:52.008000
 bringen	-	-	-	0:54:50.152000	0:54:52.008000
 wir	-	-	-	0:54:50.152000	0:54:52.008000
 schon	-	-	-	0:54:50.152000	0:54:52.008000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:52.008000" end="0:54:52.488000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:52.008000" end="0:54:52.488000" persName="Informant 0363">
 ja	-	-	-	0:54:52.008000	0:54:52.488000
 .	-	-	-	0:54:52.008000	0:54:52.488000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:52.008000" end="0:54:52.488000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:52.008000" end="0:54:52.488000" persName="Informant 0357">
 dort	-	-	-	0:54:52.008000	0:54:52.488000
 hin	-	-	-	0:54:52.008000	0:54:52.488000
 .	-	-	-	0:54:52.008000	0:54:52.488000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:52.488000" end="0:55:03.808000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:54:52.488000" end="0:55:03.808000" persName="Informant 0363">
 <pause duration="11,3s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:52.488000" end="0:55:04.714000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:54:52.488000" end="0:55:04.714000" persName="Informant 0357">
 <pause duration="11,3s"/>
 nein	-	-	-	0:55:03.807000	0:55:04.714000
 ,	-	-	-	0:55:03.807000	0:55:04.714000
 da	-	-	-	0:55:03.807000	0:55:04.714000
 /.	-	-	-	0:55:03.807000	0:55:04.714000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:04.714000" end="0:55:07.435000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:04.714000" end="0:55:07.435000" persName="Informant 0363">
 tja	-	-	-	0:55:04.714000	0:55:07.435000
 ,	-	-	-	0:55:04.714000	0:55:07.435000
 <pause duration="0,6s"/>
@@ -14052,7 +14053,7 @@ erzählen	-	-	-	0:55:04.714000	0:55:07.435000
 i/	-	-	-	0:55:04.714000	0:55:07.435000
 /.	-	-	-	0:55:04.714000	0:55:07.435000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:07.435000" end="0:55:08.521000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:07.435000" end="0:55:08.521000" persName="Informant 0357">
 und	-	-	-	0:55:07.435000	0:55:08.521000
 du	-	-	-	0:55:07.435000	0:55:08.521000
 erzählst	-	-	-	0:55:07.435000	0:55:08.521000
@@ -14061,11 +14062,11 @@ einem	-	-	-	0:55:07.435000	0:55:08.521000
 Film	-	-	-	0:55:07.435000	0:55:08.521000
 .	-	-	-	0:55:07.435000	0:55:08.521000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:08.521000" end="0:55:09.796000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:08.521000" end="0:55:09.796000" persName="Informant 0363">
 ähm	-	-	-	0:55:08.521000	0:55:09.796000
 .	-	-	-	0:55:08.521000	0:55:09.796000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:09.796000" end="0:55:11.092000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:09.796000" end="0:55:11.092000" persName="Informant 0357">
 ja	-	-	-	0:55:09.796000	0:55:11.092000
 ,	-	-	-	0:55:09.796000	0:55:11.092000
 dann	-	-	-	0:55:09.796000	0:55:11.092000
@@ -14074,11 +14075,11 @@ halt	-	-	-	0:55:09.796000	0:55:11.092000
 jetzt	-	-	-	0:55:09.796000	0:55:11.092000
 .	-	-	-	0:55:09.796000	0:55:11.092000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:11.092000" end="0:55:11.842000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:11.092000" end="0:55:11.842000" persName="Informant 0363">
 ähm	-	-	-	0:55:11.092000	0:55:11.842000
 .	-	-	-	0:55:11.092000	0:55:11.842000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:11.842000" end="0:55:21.340000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:11.842000" end="0:55:21.340000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ein	-	-	-	0:55:11.842000	0:55:13.703000
 gutes	-	-	-	0:55:11.842000	0:55:13.703000
@@ -14104,11 +14105,11 @@ dir	-	-	-	0:55:20.060000	0:55:21.340000
 erzählt	-	-	-	0:55:20.060000	0:55:21.340000
 ?	-	-	-	0:55:20.060000	0:55:21.340000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:21.340000" end="0:55:21.780000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:21.340000" end="0:55:21.780000" persName="Informant 0363">
 ja	-	-	-	0:55:21.340000	0:55:21.780000
 .	-	-	-	0:55:21.340000	0:55:21.780000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:21.780000" end="0:55:45.514000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:21.780000" end="0:55:45.514000" persName="Informant 0357">
 <pause duration="1,8s"/>
 ähm	-	-	-	0:55:23.616000	0:55:24.264000
 ,	-	-	-	0:55:23.616000	0:55:24.264000
@@ -14187,18 +14188,18 @@ der	-	-	-	0:55:44.258000	0:55:45.514000
 Haufen	-	-	-	0:55:44.258000	0:55:45.514000
 ,	-	-	-	0:55:44.258000	0:55:45.514000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:45.514000" end="0:55:46.384000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:45.514000" end="0:55:46.384000" persName="Informant 0363">
 mhm	-	-	-	0:55:45.514000	0:55:46.384000
 ,	-	-	-	0:55:45.514000	0:55:46.384000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:45.514000" end="0:55:46.384000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:45.514000" end="0:55:46.384000" persName="Informant 0357">
 Haufen	-	-	-	0:55:45.514000	0:55:46.384000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:46.384000" end="0:55:47.058000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:46.384000" end="0:55:47.058000" persName="Informant 0363">
 ja	-	-	-	0:55:46.384000	0:55:47.058000
 .	-	-	-	0:55:46.384000	0:55:47.058000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:47.058000" end="0:55:57.893000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:47.058000" end="0:55:57.893000" persName="Informant 0357">
 <pause duration="0,6s"/>
 und	-	-	-	0:55:47.058000	0:55:49.320000
 die	-	-	-	0:55:47.058000	0:55:49.320000
@@ -14229,11 +14230,11 @@ helfen	-	-	-	0:55:55.109000	0:55:57.893000
 müssen	-	-	-	0:55:55.109000	0:55:57.893000
 beim	-	-	-	0:55:55.109000	0:55:57.893000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:57.893000" end="0:55:58.272000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:55:57.893000" end="0:55:58.272000" persName="Informant 0363">
 mhm	-	-	-	0:55:57.893000	0:55:58.272000
 .	-	-	-	0:55:57.893000	0:55:58.272000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:58.272000" end="0:56:01.218000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:55:58.272000" end="0:56:01.218000" persName="Informant 0357">
 <pause duration="0,6s"/>
 beim	-	-	-	0:55:58.272000	0:56:00.272000
 Leichen	-	-	-	0:55:58.272000	0:56:00.272000
@@ -14243,9 +14244,9 @@ Grab	-	-	-	0:56:00.272000	0:56:01.218000
 Ausheben	-	-	-	0:56:00.272000	0:56:01.218000
 ,	-	-	-	0:56:00.272000	0:56:01.218000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:01.218000" end="0:56:02.565000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:01.218000" end="0:56:02.565000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:01.218000" end="0:56:28.458000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:01.218000" end="0:56:28.458000" persName="Informant 0357">
 Grab	-	-	-	0:56:01.218000	0:56:02.565000
 Zuschaufeln	-	-	-	0:56:01.218000	0:56:02.565000
 ,	-	-	-	0:56:01.218000	0:56:02.565000
@@ -14348,12 +14349,12 @@ ja	-	-	-	0:56:26.986000	0:56:28.458000
 dann	-	-	-	0:56:26.986000	0:56:28.458000
 ähm	-	-	-	0:56:26.986000	0:56:28.458000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:28.458000" end="0:56:29.525000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:28.458000" end="0:56:29.525000" persName="Informant 0363">
 <pause duration="0,8s"/>
 mhm	-	-	-	0:56:28.458000	0:56:29.525000
 .	-	-	-	0:56:28.458000	0:56:29.525000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:29.525000" end="0:56:35.090000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:29.525000" end="0:56:35.090000" persName="Informant 0357">
 gesäubert	-	-	-	0:56:29.525000	0:56:30.026000
 hat	-	-	-	0:56:29.525000	0:56:30.026000
 ,	-	-	-	0:56:29.525000	0:56:30.026000
@@ -14375,13 +14376,13 @@ Stimme	-	-	-	0:56:32.424000	0:56:35.090000
 drinnen	-	-	-	0:56:32.424000	0:56:35.090000
 .	-	-	-	0:56:32.424000	0:56:35.090000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:35.090000" end="0:56:36.824000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:35.090000" end="0:56:36.824000" persName="Informant 0363">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:56:35.090000	0:56:36.824000
 .	-	-	-	0:56:35.090000	0:56:36.824000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:36.824000" end="0:56:41.912000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:36.824000" end="0:56:41.912000" persName="Informant 0357">
 <pause duration="1,0s"/>
 und	-	-	-	0:56:37.842000	0:56:38.960000
 die	-	-	-	0:56:37.842000	0:56:38.960000
@@ -14401,11 +14402,11 @@ Sachen	-	-	-	0:56:40.114000	0:56:41.912000
 gell	-	-	-	0:56:40.114000	0:56:41.912000
 ?	-	-	-	0:56:40.114000	0:56:41.912000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:41.912000" end="0:56:42.669000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:41.912000" end="0:56:42.669000" persName="Informant 0363">
 aha	-	-	-	0:56:41.912000	0:56:42.669000
 .	-	-	-	0:56:41.912000	0:56:42.669000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:42.669000" end="0:56:51.618000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:42.669000" end="0:56:51.618000" persName="Informant 0357">
 und	-	-	-	0:56:42.669000	0:56:43.149000
 er	-	-	-	0:56:42.669000	0:56:43.149000
 wollte	-	-	-	0:56:42.669000	0:56:43.149000
@@ -14447,11 +14448,11 @@ nicht	-	-	-	0:56:50.040000	0:56:51.618000
 losgeworden	-	-	-	0:56:50.040000	0:56:51.618000
 .	-	-	-	0:56:50.040000	0:56:51.618000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:51.618000" end="0:56:52.064000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:51.618000" end="0:56:52.064000" persName="Informant 0363">
 mhm	-	-	-	0:56:51.618000	0:56:52.064000
 .	-	-	-	0:56:51.618000	0:56:52.064000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:52.064000" end="0:56:55.872000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:52.064000" end="0:56:55.872000" persName="Informant 0357">
 und	-	-	-	0:56:52.064000	0:56:53.829000
 dann	-	-	-	0:56:52.064000	0:56:53.829000
 ist	-	-	-	0:56:52.064000	0:56:53.829000
@@ -14471,13 +14472,13 @@ hineinschmeißen	-	-	-	0:56:53.829000	0:56:55.872000
 kann	-	-	-	0:56:53.829000	0:56:55.872000
 .	-	-	-	0:56:53.829000	0:56:55.872000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:55.872000" end="0:56:57.666000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:56:55.872000" end="0:56:57.666000" persName="Informant 0363">
 mhm	-	-	-	0:56:55.872000	0:56:56.528000
 und	-	-	-	0:56:56.528000	0:56:57.666000
 verbrennen	-	-	-	0:56:56.528000	0:56:57.666000
 .	-	-	-	0:56:56.528000	0:56:57.666000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:56.528000" end="0:57:06.496000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:56:56.528000" end="0:57:06.496000" persName="Informant 0357">
 und	-	-	-	0:56:56.528000	0:56:57.666000
 das	-	-	-	0:56:56.528000	0:56:57.666000
 war	-	-	-	0:56:56.528000	0:56:57.666000
@@ -14516,21 +14517,21 @@ worden	-	-	-	0:57:04.740000	0:57:06.496000
 ist	-	-	-	0:57:04.740000	0:57:06.496000
 das	-	-	-	0:57:04.740000	0:57:06.496000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:06.496000" end="0:57:06.928000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:06.496000" end="0:57:06.928000" persName="Informant 0363">
 *is*	-	-	-	0:57:06.496000	0:57:06.928000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:06.496000" end="0:57:06.928000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:06.496000" end="0:57:06.928000" persName="Informant 0357">
 Amulett	-	-	-	0:57:06.496000	0:57:06.928000
 ,	-	-	-	0:57:06.496000	0:57:06.928000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:06.928000" end="0:57:07.780000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:06.928000" end="0:57:07.780000" persName="Informant 0363">
 in	-	-	-	0:57:06.928000	0:57:07.780000
 seinem	-	-	-	0:57:06.928000	0:57:07.780000
 Körper	-	-	-	0:57:06.928000	0:57:07.780000
 gewesen	-	-	-	0:57:06.928000	0:57:07.780000
 .	-	-	-	0:57:06.928000	0:57:07.780000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:06.928000" end="0:57:09.336000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:06.928000" end="0:57:09.336000" persName="Informant 0357">
 *is*	-	-	-	0:57:06.928000	0:57:07.780000
 dann	-	-	-	0:57:06.928000	0:57:07.780000
 im	-	-	-	0:57:06.928000	0:57:07.780000
@@ -14543,22 +14544,22 @@ drinnen	-	-	-	0:57:07.780000	0:57:09.336000
 gewesen	-	-	-	0:57:07.780000	0:57:09.336000
 .	-	-	-	0:57:07.780000	0:57:09.336000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:09.336000" end="0:57:09.656000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:09.336000" end="0:57:09.656000" persName="Informant 0363">
 mhm	-	-	-	0:57:09.336000	0:57:09.656000
 .	-	-	-	0:57:09.336000	0:57:09.656000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:09.656000" end="0:57:10.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:09.656000" end="0:57:10.700000" persName="Informant 0357">
 und	-	-	-	0:57:09.656000	0:57:10.700000
 das	-	-	-	0:57:09.656000	0:57:10.700000
 ist	-	-	-	0:57:09.656000	0:57:10.700000
 ein	-	-	-	0:57:09.656000	0:57:10.700000
 Dämon	-	-	-	0:57:09.656000	0:57:10.700000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:10.700000" end="0:57:11.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:10.700000" end="0:57:11.308000" persName="Informant 0363">
 mhm	-	-	-	0:57:10.700000	0:57:11.308000
 .	-	-	-	0:57:10.700000	0:57:11.308000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:11.308000" end="0:57:16.444000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:11.308000" end="0:57:16.444000" persName="Informant 0357">
 <pause duration="0,6s"/>
 und	-	-	-	0:57:11.308000	0:57:15.332000
 <pause duration="0,6s"/>
@@ -14577,11 +14578,11 @@ eh	-	-	-	0:57:15.332000	0:57:15.892000
 "Ekel"	-	-	-	0:57:15.892000	0:57:16.444000
 wie	-	-	-	0:57:15.892000	0:57:16.444000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:16.444000" end="0:57:17.228000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:16.444000" end="0:57:17.228000" persName="Informant 0363">
 mhm	-	-	-	0:57:16.444000	0:57:17.228000
 .	-	-	-	0:57:16.444000	0:57:17.228000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:16.444000" end="0:57:23.764000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:16.444000" end="0:57:23.764000" persName="Informant 0357">
 ekelig	-	-	-	0:57:16.444000	0:57:17.228000
 ,	-	-	-	0:57:16.444000	0:57:17.228000
 weil	-	-	-	0:57:17.228000	0:57:21.736000
@@ -14602,9 +14603,9 @@ was	-	-	-	0:57:23.124000	0:57:23.764000
 jetzt	-	-	-	0:57:23.124000	0:57:23.764000
 ?	-	-	-	0:57:23.124000	0:57:23.764000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:23.764000" end="0:57:24.220000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:23.764000" end="0:57:24.220000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:24.220000" end="0:57:49.568000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:24.220000" end="0:57:49.568000" persName="Informant 0357">
 <pause duration="0,6s"/>
 okay	-	-	-	0:57:24.220000	0:57:25.164000
 .	-	-	-	0:57:24.220000	0:57:25.164000
@@ -14692,11 +14693,11 @@ und	-	-	-	0:57:48.260000	0:57:49.568000
 Tod	-	-	-	0:57:48.260000	0:57:49.568000
 gegangen	-	-	-	0:57:48.260000	0:57:49.568000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:49.568000" end="0:57:50.456000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:57:49.568000" end="0:57:50.456000" persName="Informant 0363">
 mhm	-	-	-	0:57:49.568000	0:57:50.456000
 .	-	-	-	0:57:49.568000	0:57:50.456000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:50.456000" end="0:58:00.196000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:57:50.456000" end="0:58:00.196000" persName="Informant 0357">
 <pause duration="0,7s"/>
 und	-	-	-	0:57:50.456000	0:57:52.932000
 da	-	-	-	0:57:50.456000	0:57:52.932000
@@ -14742,11 +14743,11 @@ Vulkan	-	-	-	0:57:59.060000	0:58:00.196000
 drinnen	-	-	-	0:57:59.060000	0:58:00.196000
 ,	-	-	-	0:57:59.060000	0:58:00.196000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:00.196000" end="0:58:00.612000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:00.196000" end="0:58:00.612000" persName="Informant 0363">
 aha	-	-	-	0:58:00.196000	0:58:00.612000
 .	-	-	-	0:58:00.196000	0:58:00.612000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:00.196000" end="0:58:08.412000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:00.196000" end="0:58:08.412000" persName="Informant 0357">
 gell	-	-	-	0:58:00.196000	0:58:00.612000
 ?	-	-	-	0:58:00.196000	0:58:00.612000
 <pause duration="0,8s"/>
@@ -14774,11 +14775,11 @@ weil	-	-	-	0:58:07.124000	0:58:08.412000
 er	-	-	-	0:58:07.124000	0:58:08.412000
 ja	-	-	-	0:58:07.124000	0:58:08.412000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:08.412000" end="0:58:08.728000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:08.412000" end="0:58:08.728000" persName="Informant 0363">
 weil	-	-	-	0:58:08.412000	0:58:08.728000
 /.	-	-	-	0:58:08.412000	0:58:08.728000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:08.728000" end="0:58:10.764000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:08.728000" end="0:58:10.764000" persName="Informant 0357">
 dem	-	-	-	0:58:08.728000	0:58:10.764000
 dem	-	-	-	0:58:08.728000	0:58:10.764000
 Dämon	-	-	-	0:58:08.728000	0:58:10.764000
@@ -14787,11 +14788,11 @@ gegeben	-	-	-	0:58:08.728000	0:58:10.764000
 hat	-	-	-	0:58:08.728000	0:58:10.764000
 .	-	-	-	0:58:08.728000	0:58:10.764000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:10.764000" end="0:58:11.224000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:10.764000" end="0:58:11.224000" persName="Informant 0363">
 mhm	-	-	-	0:58:10.764000	0:58:11.224000
 .	-	-	-	0:58:10.764000	0:58:11.224000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:11.224000" end="0:58:21.600000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:11.224000" end="0:58:21.600000" persName="Informant 0357">
 <pause duration="0,9s"/>
 und	-	-	-	0:58:11.224000	0:58:13.372000
 dann	-	-	-	0:58:11.224000	0:58:13.372000
@@ -14823,11 +14824,11 @@ seelenlos	-	-	-	0:58:18.948000	0:58:21.460000
 ,	-	-	-	0:58:18.948000	0:58:21.460000
 weil	-	-	-	0:58:21.460000	0:58:21.600000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:21.600000" end="0:58:22.020000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:21.600000" end="0:58:22.020000" persName="Informant 0363">
 ja	-	-	-	0:58:21.600000	0:58:22.020000
 .	-	-	-	0:58:21.600000	0:58:22.020000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:21.600000" end="0:58:22.976000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:21.600000" end="0:58:22.976000" persName="Informant 0357">
 jetzt	-	-	-	0:58:21.600000	0:58:22.020000
 hat	-	-	-	0:58:21.600000	0:58:22.020000
 der	-	-	-	0:58:21.600000	0:58:22.020000
@@ -14837,12 +14838,12 @@ Herrschaft	-	-	-	0:58:22.020000	0:58:22.976000
 gehabt	-	-	-	0:58:22.020000	0:58:22.976000
 .	-	-	-	0:58:22.020000	0:58:22.976000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:22.976000" end="0:58:24.096000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:22.976000" end="0:58:24.096000" persName="Informant 0363">
 <pause duration="0,8s"/>
 mhm	-	-	-	0:58:22.976000	0:58:24.096000
 .	-	-	-	0:58:22.976000	0:58:24.096000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:24.096000" end="0:58:31.716000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:24.096000" end="0:58:31.716000" persName="Informant 0357">
 und	-	-	-	0:58:24.096000	0:58:25.280000
 <pause duration="1,8s"/>
 dann	-	-	-	0:58:27.112000	0:58:29.188000
@@ -14865,11 +14866,11 @@ der	-	-	-	0:58:30.516000	0:58:31.716000
 Farin	-	-	-	0:58:30.516000	0:58:31.716000
 ihm	-	-	-	0:58:30.516000	0:58:31.716000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:31.716000" end="0:58:32.528000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:31.716000" end="0:58:32.528000" persName="Informant 0363">
 mhm	-	-	-	0:58:31.716000	0:58:32.528000
 .	-	-	-	0:58:31.716000	0:58:32.528000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:31.716000" end="0:58:39.492000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:31.716000" end="0:58:39.492000" persName="Informant 0357">
 gegenübergebracht	-	-	-	0:58:31.716000	0:58:32.528000
 hat	-	-	-	0:58:32.528000	0:58:32.696000
 .	-	-	-	0:58:32.528000	0:58:32.696000
@@ -14908,20 +14909,20 @@ am	-	-	-	0:58:37.492000	0:58:39.492000
 Markt	-	-	-	0:58:37.492000	0:58:39.492000
 .	-	-	-	0:58:37.492000	0:58:39.492000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:39.492000" end="0:58:41.224000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:39.492000" end="0:58:41.224000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:41.224000" end="0:58:42.624000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:41.224000" end="0:58:42.624000" persName="Informant 0357">
 hahahaha	-	-	-	0:58:41.224000	0:58:42.624000
 .	-	-	-	0:58:41.224000	0:58:42.624000
 ((in	-	-	-	0:58:41.224000	0:58:42.624000
 nachahmendem	-	-	-	0:58:41.224000	0:58:42.624000
 Ton))	-	-	-	0:58:41.224000	0:58:42.624000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:42.624000" end="0:58:43.064000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:42.624000" end="0:58:43.064000" persName="Informant 0363">
 mhm	-	-	-	0:58:42.624000	0:58:43.064000
 .	-	-	-	0:58:42.624000	0:58:43.064000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:43.064000" end="0:58:48.700000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:43.064000" end="0:58:48.700000" persName="Informant 0357">
 dafür	-	-	-	0:58:43.064000	0:58:48.700000
 habe	-	-	-	0:58:43.064000	0:58:48.700000
 ich	-	-	-	0:58:43.064000	0:58:48.700000
@@ -14939,41 +14940,41 @@ Fünfteiler	-	-	-	0:58:43.064000	0:58:48.700000
 heruntergeladen	-	-	-	0:58:43.064000	0:58:48.700000
 .	-	-	-	0:58:43.064000	0:58:48.700000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:48.700000" end="0:58:49.412000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:48.700000" end="0:58:49.412000" persName="Informant 0363">
 <pause duration="seufzen"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:49.412000" end="0:58:50.156000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:49.412000" end="0:58:50.156000" persName="Informant 0357">
 fünf	-	-	-	0:58:49.412000	0:58:50.156000
 Teile	-	-	-	0:58:49.412000	0:58:50.156000
 .	-	-	-	0:58:49.412000	0:58:50.156000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:50.156000" end="0:58:50.568000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:50.156000" end="0:58:50.568000" persName="Informant 0363">
 ja	-	-	-	0:58:50.156000	0:58:50.568000
 .	-	-	-	0:58:50.156000	0:58:50.568000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:50.568000" end="0:58:51.904000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:50.568000" end="0:58:51.904000" persName="Informant 0357">
 <pause duration="0,6s"/>
 genau	-	-	-	0:58:50.568000	0:58:51.904000
 und	-	-	-	0:58:50.568000	0:58:51.904000
 da	-	-	-	0:58:50.568000	0:58:51.904000
 bin	-	-	-	0:58:50.568000	0:58:51.904000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:51.904000" end="0:58:52.536000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:51.904000" end="0:58:52.536000" persName="Informant 0363">
 mhm	-	-	-	0:58:51.904000	0:58:52.536000
 ,	-	-	-	0:58:51.904000	0:58:52.536000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:51.904000" end="0:58:52.536000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:51.904000" end="0:58:52.536000" persName="Informant 0357">
 ich	-	-	-	0:58:51.904000	0:58:52.536000
 jetzt	-	-	-	0:58:51.904000	0:58:52.536000
 gerade	-	-	-	0:58:51.904000	0:58:52.536000
 dabei	-	-	-	0:58:51.904000	0:58:52.536000
 .	-	-	-	0:58:51.904000	0:58:52.536000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:52.536000" end="0:58:53.028000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:52.536000" end="0:58:53.028000" persName="Informant 0363">
 mhm	-	-	-	0:58:52.536000	0:58:53.028000
 .	-	-	-	0:58:52.536000	0:58:53.028000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:53.028000" end="0:58:57.828000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:53.028000" end="0:58:57.828000" persName="Informant 0357">
 <pause duration="1,7s"/>
 also	-	-	-	0:58:54.672000	0:58:55.474000
 gehe	-	-	-	0:58:54.672000	0:58:55.474000
@@ -14994,20 +14995,20 @@ Buch	-	-	-	0:58:56.536000	0:58:57.828000
 im	-	-	-	0:58:56.536000	0:58:57.828000
 Prinzip	-	-	-	0:58:56.536000	0:58:57.828000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:57.828000" end="0:58:59.393000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:57.828000" end="0:58:59.393000" persName="Informant 0363">
 ja	-	-	-	0:58:57.828000	0:58:58.114000
 ,	-	-	-	0:58:57.828000	0:58:58.114000
 <pause duration="0,9s"/>
 mhm	-	-	-	0:58:58.115000	0:58:59.393000
 .	-	-	-	0:58:58.115000	0:58:59.393000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:59.393000" end="0:58:59.862000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:58:59.393000" end="0:58:59.862000" persName="Informant 0357">
 cool	-	-	-	0:58:59.393000	0:58:59.862000
 .	-	-	-	0:58:59.393000	0:58:59.862000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:59.864000" end="0:59:00.571000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:58:59.864000" end="0:59:00.571000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:00.571000" end="0:59:03.245000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:00.571000" end="0:59:03.245000" persName="Informant 0357">
 <pause duration="1,8s"/>
 hast	-	-	-	0:59:02.344000	0:59:03.245000
 du	-	-	-	0:59:02.344000	0:59:03.245000
@@ -15015,7 +15016,7 @@ einen	-	-	-	0:59:02.344000	0:59:03.245000
 Film	-	-	-	0:59:02.344000	0:59:03.245000
 ?	-	-	-	0:59:02.344000	0:59:03.245000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:03.245000" end="0:59:08.074000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:03.245000" end="0:59:08.074000" persName="Informant 0363">
 <pause duration="0,8s"/>
 ja	-	-	-	0:59:03.245000	0:59:06.192000
 der	-	-	-	0:59:03.245000	0:59:06.192000
@@ -15032,16 +15033,16 @@ haben	-	-	-	0:59:06.192000	0:59:07.093000
 .	-	-	-	0:59:06.192000	0:59:07.093000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:07.096000" end="0:59:08.645000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:07.096000" end="0:59:08.645000" persName="Informant 0357">
 <pause duration="1,0s"/>
 der	-	-	-	0:59:08.074000	0:59:08.645000
 ?	-	-	-	0:59:08.074000	0:59:08.645000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:08.645000" end="0:59:09.090000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:08.645000" end="0:59:09.090000" persName="Informant 0363">
 ja	-	-	-	0:59:08.645000	0:59:09.090000
 .	-	-	-	0:59:08.645000	0:59:09.090000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:09.090000" end="0:59:10.642000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:09.090000" end="0:59:10.642000" persName="Informant 0357">
 warum	-	-	-	0:59:09.090000	0:59:10.642000
 fasziniert	-	-	-	0:59:09.090000	0:59:10.642000
 dich	-	-	-	0:59:09.090000	0:59:10.642000
@@ -15049,7 +15050,7 @@ der	-	-	-	0:59:09.090000	0:59:10.642000
 so	-	-	-	0:59:09.090000	0:59:10.642000
 ?	-	-	-	0:59:09.090000	0:59:10.642000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:10.642000" end="0:59:16.258000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:10.642000" end="0:59:16.258000" persName="Informant 0363">
 also	-	-	-	0:59:10.642000	0:59:12.218000
 beim	-	-	-	0:59:10.642000	0:59:12.218000
 /.	-	-	-	0:59:10.642000	0:59:12.218000
@@ -15063,11 +15064,11 @@ da	-	-	-	0:59:13.181000	0:59:16.258000
 zusammen	-	-	-	0:59:13.181000	0:59:16.258000
 ,	-	-	-	0:59:13.181000	0:59:16.258000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:16.258000" end="0:59:16.744000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:16.258000" end="0:59:16.744000" persName="Informant 0357">
 mhm	-	-	-	0:59:16.258000	0:59:16.744000
 .	-	-	-	0:59:16.258000	0:59:16.744000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:16.744000" end="0:59:21.016000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:16.744000" end="0:59:21.016000" persName="Informant 0363">
 <pause duration="0,8s"/>
 weil	-	-	-	0:59:16.744000	0:59:18.836000
 eben	-	-	-	0:59:16.744000	0:59:18.836000
@@ -15089,7 +15090,7 @@ die	-	-	-	0:59:20.093000	0:59:20.765000
 tun	-	-	-	0:59:20.765000	0:59:21.016000
 /.	-	-	-	0:59:20.765000	0:59:21.016000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:20.765000" end="0:59:22.021000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:20.765000" end="0:59:22.021000" persName="Informant 0357">
 was	-	-	-	0:59:20.765000	0:59:21.016000
 sind	-	-	-	0:59:21.016000	0:59:22.021000
 die	-	-	-	0:59:21.016000	0:59:22.021000
@@ -15098,7 +15099,7 @@ noch	-	-	-	0:59:21.016000	0:59:22.021000
 schnell	-	-	-	0:59:21.016000	0:59:22.021000
 ?	-	-	-	0:59:21.016000	0:59:22.021000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:22.024000" end="0:59:38.340000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:22.024000" end="0:59:38.340000" persName="Informant 0363">
 die	-	-	-	0:59:22.024000	0:59:22.352000
 tun	-	-	-	0:59:22.024000	0:59:22.352000
 /.	-	-	-	0:59:22.024000	0:59:22.352000
@@ -15139,11 +15140,11 @@ im	-	-	-	0:59:33.020000	0:59:38.340000
 Prinzip	-	-	-	0:59:33.020000	0:59:38.340000
 .	-	-	-	0:59:33.020000	0:59:38.340000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:38.340000" end="0:59:38.820000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:38.340000" end="0:59:38.820000" persName="Informant 0357">
 mhm	-	-	-	0:59:38.340000	0:59:38.820000
 .	-	-	-	0:59:38.340000	0:59:38.820000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:38.820000" end="0:59:55.324000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:38.820000" end="0:59:55.324000" persName="Informant 0363">
 <pause duration="0,5s"/>
 und	-	-	-	0:59:38.820000	0:59:41.700000
 da	-	-	-	0:59:38.820000	0:59:41.700000
@@ -15179,11 +15180,11 @@ sein	-	-	-	0:59:53.736000	0:59:55.324000
 gegenwärtiges	-	-	-	0:59:53.736000	0:59:55.324000
 Ich	-	-	-	0:59:53.736000	0:59:55.324000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:55.324000" end="0:59:55.644000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:55.324000" end="0:59:55.644000" persName="Informant 0357">
 mhm	-	-	-	0:59:55.324000	0:59:55.644000
 .	-	-	-	0:59:55.324000	0:59:55.644000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:55.644000" end="0:59:59.112000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="0:59:55.644000" end="0:59:59.112000" persName="Informant 0363">
 <pause duration="0,9s"/>
 und	-	-	-	0:59:55.644000	0:59:57.940000
 den	-	-	-	0:59:55.644000	0:59:57.940000
@@ -15198,7 +15199,7 @@ wegtun	-	-	-	0:59:57.940000	0:59:59.112000
 können	-	-	-	0:59:57.940000	0:59:59.112000
 .	-	-	-	0:59:57.940000	0:59:59.112000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:59.112000" end="1:00:01.724000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="0:59:59.112000" end="1:00:01.724000" persName="Informant 0357">
 <pause duration="0,8s"/>
 warum	-	-	-	0:59:59.112000	1:00:00.284000
 ?	-	-	-	0:59:59.112000	1:00:00.284000
@@ -15211,31 +15212,31 @@ er	-	-	-	1:00:00.984000	1:00:01.724000
 sich	-	-	-	1:00:00.984000	1:00:01.724000
 nicht	-	-	-	1:00:00.984000	1:00:01.724000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:01.724000" end="1:00:03.052000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:01.724000" end="1:00:03.052000" persName="Informant 0363">
 nein	-	-	-	1:00:01.724000	1:00:03.052000
 ,	-	-	-	1:00:01.724000	1:00:03.052000
 er	-	-	-	1:00:01.724000	1:00:03.052000
 /.	-	-	-	1:00:01.724000	1:00:03.052000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:01.724000" end="1:00:03.052000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:01.724000" end="1:00:03.052000" persName="Informant 0357">
 überwinden	-	-	-	1:00:01.724000	1:00:03.052000
 können	-	-	-	1:00:01.724000	1:00:03.052000
 ?	-	-	-	1:00:01.724000	1:00:03.052000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:03.052000" end="1:00:04.088000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:03.052000" end="1:00:04.088000" persName="Informant 0363">
 der	-	-	-	1:00:03.052000	1:00:04.088000
 ist	-	-	-	1:00:03.052000	1:00:04.088000
 davongelaufen	-	-	-	1:00:03.052000	1:00:04.088000
 .	-	-	-	1:00:03.052000	1:00:04.088000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:04.088000" end="1:00:05.216000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:04.088000" end="1:00:05.216000" persName="Informant 0357">
 ach	-	-	-	1:00:04.088000	1:00:05.216000
 so	-	-	-	1:00:04.088000	1:00:05.216000
 ,	-	-	-	1:00:04.088000	1:00:05.216000
 okay	-	-	-	1:00:04.088000	1:00:05.216000
 .	-	-	-	1:00:04.088000	1:00:05.216000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:05.216000" end="1:00:15.112000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:05.216000" end="1:00:15.112000" persName="Informant 0363">
 <pause duration="0,7s"/>
 er	-	-	-	1:00:05.216000	1:00:06.464000
 hat	-	-	-	1:00:05.216000	1:00:06.464000
@@ -15273,11 +15274,11 @@ Mutter	-	-	-	1:00:12.372000	1:00:13.700000
 .	-	-	-	1:00:12.372000	1:00:13.700000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:15.112000" end="1:00:15.540000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:15.112000" end="1:00:15.540000" persName="Informant 0357">
 mhm	-	-	-	1:00:15.112000	1:00:15.540000
 .	-	-	-	1:00:15.112000	1:00:15.540000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:15.540000" end="1:00:23.044000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:15.540000" end="1:00:23.044000" persName="Informant 0363">
 und	-	-	-	1:00:15.540000	1:00:19.996000
 da	-	-	-	1:00:15.540000	1:00:19.996000
 eben	-	-	-	1:00:15.540000	1:00:19.996000
@@ -15304,11 +15305,11 @@ das	-	-	-	1:00:21.956000	1:00:23.044000
 selber	-	-	-	1:00:21.956000	1:00:23.044000
 ist	-	-	-	1:00:21.956000	1:00:23.044000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:23.044000" end="1:00:23.744000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:23.044000" end="1:00:23.744000" persName="Informant 0357">
 mhm	-	-	-	1:00:23.044000	1:00:23.744000
 .	-	-	-	1:00:23.044000	1:00:23.744000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:23.744000" end="1:00:32.452000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:23.744000" end="1:00:32.452000" persName="Informant 0363">
 und	-	-	-	1:00:23.744000	1:00:27.692000
 sein	-	-	-	1:00:23.744000	1:00:27.692000
 älteres	-	-	-	1:00:23.744000	1:00:27.692000
@@ -15331,11 +15332,11 @@ den	-	-	-	1:00:31.768000	1:00:32.452000
 sucht	-	-	-	1:00:31.768000	1:00:32.452000
 er	-	-	-	1:00:31.768000	1:00:32.452000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:32.452000" end="1:00:33.268000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:32.452000" end="1:00:33.268000" persName="Informant 0357">
 mhm	-	-	-	1:00:32.452000	1:00:33.268000
 .	-	-	-	1:00:32.452000	1:00:33.268000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:33.268000" end="1:00:45.780000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:33.268000" end="1:00:45.780000" persName="Informant 0363">
 und	-	-	-	1:00:33.268000	1:00:35.416000
 <pause duration="0,9s"/>
 gelingt	-	-	-	1:00:35.416000	1:00:36.228000
@@ -15374,19 +15375,19 @@ weggetan	-	-	-	1:00:42.984000	1:00:44.540000
 damit	-	-	-	1:00:44.540000	1:00:45.780000
 /.	-	-	-	1:00:44.540000	1:00:45.780000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:44.540000" end="1:00:46.480000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:44.540000" end="1:00:46.480000" persName="Informant 0357">
 <pause duration="0,7s"/>
 welches	-	-	-	1:00:44.540000	1:00:45.780000
 ?	-	-	-	1:00:44.540000	1:00:45.780000
 das	-	-	-	1:00:45.780000	1:00:46.480000
 das	-	-	-	1:00:45.780000	1:00:46.480000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:46.480000" end="1:00:47.288000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:46.480000" end="1:00:47.288000" persName="Informant 0363">
 der	-	-	-	1:00:46.480000	1:00:47.288000
 mittlere	-	-	-	1:00:46.480000	1:00:47.288000
 .	-	-	-	1:00:46.480000	1:00:47.288000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:46.480000" end="1:00:48.136000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:46.480000" end="1:00:48.136000" persName="Informant 0357">
 älteste	-	-	-	1:00:46.480000	1:00:47.288000
 Ich	-	-	-	1:00:46.480000	1:00:47.288000
 ?	-	-	-	1:00:46.480000	1:00:47.288000
@@ -15396,7 +15397,7 @@ mittlere	-	-	-	1:00:47.288000	1:00:48.136000
 okay	-	-	-	1:00:47.288000	1:00:48.136000
 .	-	-	-	1:00:47.288000	1:00:48.136000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:48.136000" end="1:00:57.940000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:48.136000" end="1:00:57.940000" persName="Informant 0363">
 der	-	-	-	1:00:48.136000	1:00:48.648000
 mittlere	-	-	-	1:00:48.136000	1:00:48.648000
 und	-	-	-	1:00:48.648000	1:00:50.240000
@@ -15428,7 +15429,7 @@ normales	-	-	-	1:00:51.584000	1:00:57
 Kind	-	-	-	1:00:51.584000	1:00:57
 und	-	-	-	1:00:57	1:00:57.940000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:57.940000" end="1:00:58.868000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:57.940000" end="1:00:58.868000" persName="Informant 0357">
 und	-	-	-	1:00:57.940000	1:00:58.868000
 der	-	-	-	1:00:57.940000	1:00:58.868000
 alte	-	-	-	1:00:57.940000	1:00:58.868000
@@ -15436,45 +15437,45 @@ war	-	-	-	1:00:57.940000	1:00:58.868000
 dann	-	-	-	1:00:57.940000	1:00:58.868000
 noch	-	-	-	1:00:57.940000	1:00:58.868000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:58.868000" end="1:00:59.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:58.868000" end="1:00:59.308000" persName="Informant 0363">
 der	-	-	-	1:00:58.868000	1:00:59.308000
 alte	-	-	-	1:00:58.868000	1:00:59.308000
 war	-	-	-	1:00:58.868000	1:00:59.308000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:58.868000" end="1:00:59.308000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:58.868000" end="1:00:59.308000" persName="Informant 0357">
 (da)	-	-	-	1:00:58.868000	1:00:59.308000
 ?	-	-	-	1:00:58.868000	1:00:59.308000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:59.308000" end="1:00:59.736000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:00:59.308000" end="1:00:59.736000" persName="Informant 0363">
 dann	-	-	-	1:00:59.308000	1:00:59.736000
 auch	-	-	-	1:00:59.308000	1:00:59.736000
 weg	-	-	-	1:00:59.308000	1:00:59.736000
 .	-	-	-	1:00:59.308000	1:00:59.736000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:59.736000" end="1:01:00.592000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:00:59.736000" end="1:01:00.592000" persName="Informant 0357">
 <pause duration="0,6s"/>
 ja	-	-	-	1:00:59.736000	1:01:00.592000
 ,	-	-	-	1:00:59.736000	1:01:00.592000
 weil	-	-	-	1:00:59.736000	1:01:00.592000
 der	-	-	-	1:00:59.736000	1:01:00.592000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:00.592000" end="1:01:01">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:00.592000" end="1:01:01" persName="Informant 0363">
 ja	-	-	-	1:01:00.592000	1:01:01
 .	-	-	-	1:01:00.592000	1:01:01
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:00.592000" end="1:01:01.404000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:00.592000" end="1:01:01.404000" persName="Informant 0357">
 mittlere	-	-	-	1:01:00.592000	1:01:01
 schon	-	-	-	1:01:01	1:01:01.404000
 gestorben	-	-	-	1:01:01	1:01:01.404000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:01.404000" end="1:01:01.556000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:01.404000" end="1:01:01.556000" persName="Informant 0363">
 weil	-	-	-	1:01:01.404000	1:01:01.556000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:01.404000" end="1:01:01.556000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:01.404000" end="1:01:01.556000" persName="Informant 0357">
 ist	-	-	-	1:01:01.404000	1:01:01.556000
 .	-	-	-	1:01:01.404000	1:01:01.556000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:01.556000" end="1:01:03.500000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:01.556000" end="1:01:03.500000" persName="Informant 0363">
 der	-	-	-	1:01:01.556000	1:01:03.500000
 eine	-	-	-	1:01:01.556000	1:01:03.500000
 Kreis	-	-	-	1:01:01.556000	1:01:03.500000
@@ -15484,11 +15485,11 @@ weg	-	-	-	1:01:01.556000	1:01:03.500000
 war	-	-	-	1:01:01.556000	1:01:03.500000
 .	-	-	-	1:01:01.556000	1:01:03.500000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:03.496000" end="1:01:04.168000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:03.496000" end="1:01:04.168000" persName="Informant 0357">
 okay	-	-	-	1:01:03.496000	1:01:04.168000
 .	-	-	-	1:01:03.496000	1:01:04.168000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:04.168000" end="1:01:06.992000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:04.168000" end="1:01:06.992000" persName="Informant 0363">
 und	-	-	-	1:01:04.168000	1:01:06.992000
 der	-	-	-	1:01:04.168000	1:01:06.992000
 Film	-	-	-	1:01:04.168000	1:01:06.992000
@@ -15502,7 +15503,7 @@ brutal	-	-	-	1:01:04.168000	1:01:06.992000
 aber	-	-	-	1:01:04.168000	1:01:06.992000
 /.	-	-	-	1:01:04.168000	1:01:06.992000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:06.992000" end="1:01:09.096000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:06.992000" end="1:01:09.096000" persName="Informant 0357">
 <pause duration="0,8s"/>
 ja	-	-	-	1:01:06.992000	1:01:09.096000
 und	-	-	-	1:01:06.992000	1:01:09.096000
@@ -15512,11 +15513,11 @@ Filme	-	-	-	1:01:06.992000	1:01:09.096000
 mag	-	-	-	1:01:06.992000	1:01:09.096000
 ich	-	-	-	1:01:06.992000	1:01:09.096000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:09.096000" end="1:01:09.620000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:09.096000" end="1:01:09.620000" persName="Informant 0363">
 hm	-	-	-	1:01:09.096000	1:01:09.620000
 .	-	-	-	1:01:09.096000	1:01:09.620000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:09.096000" end="1:01:10.728000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:09.096000" end="1:01:10.728000" persName="Informant 0357">
 aber	-	-	-	1:01:09.096000	1:01:09.620000
 nicht	-	-	-	1:01:09.096000	1:01:09.620000
 anschauen	-	-	-	1:01:09.096000	1:01:09.620000
@@ -15528,19 +15529,19 @@ zu	-	-	-	1:01:09.620000	1:01:10.728000
 viel	-	-	-	1:01:09.620000	1:01:10.728000
 nachdenken	-	-	-	1:01:09.620000	1:01:10.728000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:10.728000" end="1:01:11.020000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:10.728000" end="1:01:11.020000" persName="Informant 0363">
 ja	-	-	-	1:01:10.728000	1:01:11.020000
 ,	-	-	-	1:01:10.728000	1:01:11.020000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:10.728000" end="1:01:11.020000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:10.728000" end="1:01:11.020000" persName="Informant 0357">
 muss	-	-	-	1:01:10.728000	1:01:11.020000
 ,	-	-	-	1:01:10.728000	1:01:11.020000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:11.020000" end="1:01:11.420000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:11.020000" end="1:01:11.420000" persName="Informant 0363">
 (okay)	-	-	-	1:01:11.020000	1:01:11.420000
 .	-	-	-	1:01:11.020000	1:01:11.420000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:11.020000" end="1:01:12.252000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:11.020000" end="1:01:12.252000" persName="Informant 0357">
 weil	-	-	-	1:01:11.020000	1:01:11.420000
 da	-	-	-	1:01:11.420000	1:01:12.252000
 *musst*	-	-	-	1:01:11.420000	1:01:12.252000
@@ -15549,11 +15550,11 @@ viel	-	-	-	1:01:11.420000	1:01:12.252000
 über	-	-	-	1:01:11.420000	1:01:12.252000
 die	-	-	-	1:01:11.420000	1:01:12.252000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:12.252000" end="1:01:13.372000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:12.252000" end="1:01:13.372000" persName="Informant 0363">
 mhm	-	-	-	1:01:12.252000	1:01:13.372000
 .	-	-	-	1:01:12.252000	1:01:13.372000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:12.252000" end="1:01:19.428000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:12.252000" end="1:01:19.428000" persName="Informant 0357">
 Handlungsabfolge	-	-	-	1:01:12.252000	1:01:13.372000
 ähm	-	-	-	1:01:13.372000	1:01:14.964000
 nachdenken	-	-	-	1:01:13.372000	1:01:14.964000
@@ -15576,30 +15577,30 @@ Verbindung	-	-	-	1:01:17.428000	1:01:19.428000
 herstellen	-	-	-	1:01:17.428000	1:01:19.428000
 .	-	-	-	1:01:17.428000	1:01:19.428000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:19.428000" end="1:01:20.924000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:19.428000" end="1:01:20.924000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:19.428000" end="1:01:20.924000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:19.428000" end="1:01:20.924000" persName="Informant 0357">
 nein	-	-	-	1:01:19.428000	1:01:20.924000
 .	-	-	-	1:01:19.428000	1:01:20.924000
 <pause duration="seufzend"/>
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:20.920000" end="1:01:21.756000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:20.920000" end="1:01:21.756000" persName="Informant 0363">
 ja	-	-	-	1:01:20.920000	1:01:21.756000
 .	-	-	-	1:01:20.920000	1:01:21.756000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:21.756000" end="1:01:23.240000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:21.756000" end="1:01:23.240000" persName="Informant 0357">
 <pause duration="0,8s"/>
 wir	-	-	-	1:01:21.756000	1:01:23.240000
 kriegen	-	-	-	1:01:21.756000	1:01:23.240000
 Besuch	-	-	-	1:01:21.756000	1:01:23.240000
 .	-	-	-	1:01:21.756000	1:01:23.240000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:23.240000" end="1:01:26.312000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:23.240000" end="1:01:26.312000" persName="Informant 0363">
 mhm	-	-	-	1:01:23.240000	1:01:23.804000
 .	-	-	-	1:01:23.240000	1:01:23.804000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:23.804000" end="1:01:27.144000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:23.804000" end="1:01:27.144000" persName="Informant 0357">
 <pause duration="2,5s"/>
 haben	-	-	-	1:01:26.312000	1:01:27.144000
 wir	-	-	-	1:01:26.312000	1:01:27.144000
@@ -15609,13 +15610,13 @@ schon	-	-	-	1:01:26.312000	1:01:27.144000
 gehabt	-	-	-	1:01:26.312000	1:01:27.144000
 ?	-	-	-	1:01:26.312000	1:01:27.144000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:27.144000" end="1:01:31.188000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:27.144000" end="1:01:31.188000" persName="Informant 0363">
 <pause duration="1,1s"/>
 ja	-	-	-	1:01:28.268000	1:01:28.564000
 .	-	-	-	1:01:28.268000	1:01:28.564000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:28.564000" end="1:01:32.872000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:28.564000" end="1:01:32.872000" persName="Informant 0357">
 <pause duration="2,7s"/>
 ist	-	-	-	1:01:31.192000	1:01:32.184000
 das	-	-	-	1:01:31.192000	1:01:32.184000
@@ -15627,20 +15628,20 @@ wir	-	-	-	1:01:32.184000	1:01:32.872000
 schon	-	-	-	1:01:32.184000	1:01:32.872000
 .	-	-	-	1:01:32.184000	1:01:32.872000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:32.872000" end="1:01:35.076000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:32.872000" end="1:01:35.076000" persName="Informant 0363">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:33.476000" end="1:01:36.036000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:33.476000" end="1:01:36.036000" persName="Informant 0357">
 <pause duration="1,6s"/>
 bitte	-	-	-	1:01:35.076000	1:01:36.036000
 eintreten	-	-	-	1:01:35.076000	1:01:36.036000
 .	-	-	-	1:01:35.076000	1:01:36.036000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:36.036000" end="1:01:36.628000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:36.036000" end="1:01:36.628000" persName="Informant 0363">
 hmhm	-	-	-	1:01:36.036000	1:01:36.628000
 .	-	-	-	1:01:36.036000	1:01:36.628000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:36.628000" end="1:01:39.228000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:36.628000" end="1:01:39.228000" persName="Informant EXP5">
 hallo	-	-	-	1:01:36.628000	1:01:37.752000
 .	-	-	-	1:01:36.628000	1:01:37.752000
 wie	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:01:37.752000	1:01:39.228000
@@ -15648,17 +15649,17 @@ geht	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Gr
 es	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:01:37.752000	1:01:39.228000
 ?	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:01:37.752000	1:01:39.228000
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:39.228000" end="1:01:39.940000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:39.228000" end="1:01:39.940000" persName="Informant 0357">
 ja	-	-	-	1:01:39.228000	1:01:39.940000
 eh	-	-	-	1:01:39.228000	1:01:39.940000
 gut	-	-	-	1:01:39.228000	1:01:39.940000
 .	-	-	-	1:01:39.228000	1:01:39.940000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:39.940000" end="1:01:40.708000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:39.940000" end="1:01:40.708000" persName="Informant EXP5">
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:39.940000" end="1:01:40.708000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:39.940000" end="1:01:40.708000" persName="Informant 0363">
 </u>
-<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:40.708000" end="1:01:43.124000">
+<u who="spk_461" sex="female" age="jung (18-35) -matura" name="Informant 0357" start="1:01:40.708000" end="1:01:43.124000" persName="Informant 0357">
 pünktlich	-	-	-	1:01:40.708000	1:01:41.716000
 auf	-	-	-	1:01:40.708000	1:01:41.716000
 die	-	-	-	1:01:40.708000	1:01:41.716000
@@ -15670,28 +15671,28 @@ und	-	-	-	1:01:41.716000	1:01:43.124000
 eins	-	-	-	1:01:41.716000	1:01:43.124000
 .	-	-	-	1:01:41.716000	1:01:43.124000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:43.124000" end="1:01:43.536000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:43.124000" end="1:01:43.536000" persName="Informant EXP5">
 wirklich	-	-	-	1:01:43.124000	1:01:43.536000
 ?	-	-	-	1:01:43.124000	1:01:43.536000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:43.124000" end="1:01:43.536000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:43.124000" end="1:01:43.536000" persName="Informant 0363">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:43.536000" end="1:01:44.920000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:43.536000" end="1:01:44.920000" persName="Informant EXP5">
 so	-	-	-	1:01:43.536000	1:01:44.920000
 so	-	-	-	1:01:43.536000	1:01:44.920000
 genau	-	-	-	1:01:43.536000	1:01:44.920000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:43.536000" end="1:01:44.920000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:43.536000" end="1:01:44.920000" persName="Informant 0363">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:44.920000" end="1:01:45.156000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:44.920000" end="1:01:45.156000" persName="Informant EXP5">
 war	-	-	-	1:01:44.920000	1:01:45.156000
 es	-	-	-	1:01:44.920000	1:01:45.156000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:44.920000" end="1:01:45.156000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:44.920000" end="1:01:45.156000" persName="Informant 0363">
 ja	-	-	-	1:01:44.920000	1:01:45.156000
 .	-	-	-	1:01:44.920000	1:01:45.156000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:45.156000" end="1:01:46.872000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:45.156000" end="1:01:46.872000" persName="Informant EXP5">
 jetzt	-	-	-	1:01:45.156000	1:01:46.320000
 gar	-	-	-	1:01:45.156000	1:01:46.320000
 nicht	-	-	-	1:01:45.156000	1:01:46.320000
@@ -15699,19 +15700,19 @@ ge/	-	-	-	1:01:45.156000	1:01:46.320000
 .	-	-	-	1:01:45.156000	1:01:46.320000
 (ja)	-	-	-	1:01:46.320000	1:01:46.872000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:46.320000" end="1:01:46.872000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:46.320000" end="1:01:46.872000" persName="Informant 0363">
 mhm	-	-	-	1:01:46.320000	1:01:46.872000
 .	-	-	-	1:01:46.320000	1:01:46.872000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:46.872000" end="1:01:47.644000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:46.872000" end="1:01:47.644000" persName="Informant EXP5">
 bitte	-	-	-	1:01:46.872000	1:01:47.644000
 .	-	-	-	1:01:46.872000	1:01:47.644000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:47.644000" end="1:01:48.310000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:47.644000" end="1:01:48.310000" persName="Informant 0363">
 hm	-	-	-	1:01:47.644000	1:01:48.310000
 ?	-	-	-	1:01:47.644000	1:01:48.310000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:48.310000" end="1:01:50.696000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:48.310000" end="1:01:50.696000" persName="Informant EXP5">
 dann	-	-	-	1:01:48.310000	1:01:50.310000
 können	-	-	-	1:01:48.310000	1:01:50.310000
 wir	-	-	-	1:01:48.310000	1:01:50.310000
@@ -15720,7 +15721,7 @@ direkt	-	-	-	1:01:48.310000	1:01:50.310000
 abschalten	-	-	-	1:01:48.310000	1:01:50.310000
 .	-	-	-	1:01:48.310000	1:01:50.310000
 </u>
-<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:50.696000" end="1:01:52.308000">
+<u who="spk_475" sex="male" age="jung (18-35) -matura" name="Informant 0363" start="1:01:50.696000" end="1:01:52.308000" persName="Informant 0363">
 ja	-	-	-	1:01:50.696000	1:01:52.308000
 .	-	-	-	1:01:50.696000	1:01:52.308000
 </u>

@@ -1,6 +1,6 @@
-<doc id="transcript_231">
+<doc id="transcript_231" name="0251_TARR_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="231.xml" title="Transcript: Transcript_231">
-<u who="spk_275" sex="male" age="Alt (65+)" name="Informant 0251" start="0:00:00" end="0:02:30.380000">
+<u who="spk_275" sex="male" age="Alt (65+)" name="Informant 0251" start="0:00:00" end="0:02:30.380000" persName="Informant 0251">
 XXX	XXX	PROPN	-	0:00:00	0:01:20.643000
 Nordwind	Nordwind	NOUN	-	0:01:20.643000	0:01:22.643000
 und	und	CCONJ	-	0:01:20.643000	0:01:22.643000

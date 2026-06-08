@@ -1,12 +1,12 @@
-<doc id="transcript_488">
+<doc id="transcript_488" name="0641_HUTT_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="488.xml" title="Transcript: Transcript_488">
-<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:04.746000" end="0:00:06.466000">
+<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:04.746000" end="0:00:06.466000" persName="Informant 0641">
 Nordwind	-	-	-	0:00:04.746000	0:00:06.466000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:04.746000" end="0:00:06.466000">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:04.746000" end="0:00:06.466000" persName="Informant EXP9">
 XXX	-	-	-	0:00:04.746000	0:00:06.466000
 </u>
-<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:04.746000" end="0:00:59.440000">
+<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:04.746000" end="0:00:59.440000" persName="Informant 0641">
 und	-	-	-	0:00:04.746000	0:00:06.466000
 Sonne	-	-	-	0:00:04.746000	0:00:06.466000
 .	-	-	-	0:00:04.746000	0:00:06.466000
@@ -135,10 +135,10 @@ der	-	-	-	0:00:55.786000	0:00:59.440000
 Stärkere	-	-	-	0:00:55.786000	0:00:59.440000
 war	-	-	-	0:00:55.786000	0:00:59.440000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:59.440000" end="0:01:00.546000">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:59.440000" end="0:01:00.546000" persName="Informant EXP9">
 XXX	-	-	-	0:00:59.440000	0:01:00.546000
 </u>
-<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:59.440000" end="0:01:00.546000">
+<u who="spk_283" sex="female" age="Alt (65+)" name="Informant 0641" start="0:00:59.440000" end="0:01:00.546000" persName="Informant 0641">
 XXX	-	-	-	0:00:59.440000	0:01:00.546000
 </u>
 </file>

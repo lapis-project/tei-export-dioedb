@@ -1,12 +1,12 @@
-<doc id="transcript_481">
+<doc id="transcript_481" name="0440_ALLE_alt_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="481.xml" title="Transcript: Transcript_481">
-<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:10.513000" end="0:00:12.353000">
+<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:10.513000" end="0:00:12.353000" persName="Informant 0440">
 Nordwind	-	-	-	0:00:10.513000	0:00:12.353000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:10.513000" end="0:00:12.353000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:10.513000" end="0:00:12.353000" persName="Informant EXP11">
 XXX	-	-	-	0:00:10.513000	0:00:12.353000
 </u>
-<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:10.513000" end="0:00:57.206000">
+<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:10.513000" end="0:00:57.206000" persName="Informant 0440">
 und	-	-	-	0:00:10.513000	0:00:12.353000
 Sonne	-	-	-	0:00:10.513000	0:00:12.353000
 .	-	-	-	0:00:10.513000	0:00:12.353000
@@ -139,10 +139,10 @@ der	-	-	-	0:00:54.160000	0:00:57.206000
 Stärkere	-	-	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:00:54.160000	0:00:57.206000
 war	-	-	-	0:00:54.160000	0:00:57.206000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:57.206000" end="0:00:59.266000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:57.206000" end="0:00:59.266000" persName="Informant EXP11">
 XXX	-	-	-	0:00:57.206000	0:00:59.266000
 </u>
-<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:57.206000" end="0:00:59.266000">
+<u who="spk_201" sex="male" age="Alt (65+)" name="Informant 0440" start="0:00:57.206000" end="0:00:59.266000" persName="Informant 0440">
 XXX	-	-	-	0:00:57.206000	0:00:59.266000
 </u>
 </file>

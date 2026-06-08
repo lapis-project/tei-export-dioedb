@@ -1,12 +1,12 @@
-<doc id="transcript_466">
+<doc id="transcript_466" name="0033_ALLE_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="ALLE" ort_namelang="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132">
 <file id="466.xml" title="Transcript: Transcript_466">
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:00:21.726000" end="0:00:22.926000">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:00:21.726000" end="0:00:22.926000" persName="Informant 0033">
 Nordwind	-	-	-	0:00:21.726000	0:00:22.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:21.726000" end="0:00:22.926000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:21.726000" end="0:00:22.926000" persName="Informant EXP11">
 XXX	-	-	-	0:00:21.726000	0:00:22.926000
 </u>
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:00:21.726000" end="0:01:07.766000">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:00:21.726000" end="0:01:07.766000" persName="Informant 0033">
 und	-	-	-	0:00:21.726000	0:00:22.926000
 Sonne	-	-	-	0:00:21.726000	0:00:22.926000
 .	-	-	-	0:00:21.726000	0:00:22.926000
@@ -151,10 +151,10 @@ wäre	-	-	-	0:01:04.180000	0:01:07.766000
 /	-	-	-	0:01:04.180000	0:01:07.766000
 war	-	-	-	0:01:04.180000	0:01:07.766000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:07.780000" end="0:01:09.900000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:07.780000" end="0:01:09.900000" persName="Informant EXP11">
 XXX	-	-	-	0:01:07.780000	0:01:09.900000
 </u>
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:01:07.780000" end="0:01:09.900000">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" start="0:01:07.780000" end="0:01:09.900000" persName="Informant 0033">
 XXX	-	-	-	0:01:07.780000	0:01:09.900000
 </u>
 </file>

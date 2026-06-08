@@ -1,6 +1,6 @@
-<doc id="transcript_217">
+<doc id="transcript_217" name="0026_NECK_jungII_f_LESN_Vers11" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="NECK" ort_namelang="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316">
 <file id="217.xml" title="Transcript: Transcript_217">
-<u who="spk_7" sex="female" age="jung (18-35) +matura" name="Informant 0026" start="0:00:13.272000" end="0:01:00.715000">
+<u who="spk_7" sex="female" age="jung (18-35) +matura" name="Informant 0026" start="0:00:13.272000" end="0:01:00.715000" persName="Informant 0026">
 Einst	Einst	ADV	aeDiph ae-Diph eiReal LautNach LautVor MG mhd. /ei/ Nas Ons Ons- P sPal sPal- sPal-t	0:00:13.272000	0:00:13.992000
 stritten	streiten	VERB	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:00:13.992000	0:00:14.675000
 sich	sich	PRON	-	0:00:14.675000	0:00:16.385000

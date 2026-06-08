@@ -1,6 +1,6 @@
-<doc id="transcript_238">
+<doc id="transcript_238" name="0510_RAGG_alt_f_LESN_Vers8" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="238.xml" title="Transcript: Transcript_238">
-<u who="spk_95" sex="female" age="Alt (65+)" name="Informant 0510" start="0:00:00.059000" end="0:01:21.190000">
+<u who="spk_95" sex="female" age="Alt (65+)" name="Informant 0510" start="0:00:00.059000" end="0:01:21.190000" persName="Informant 0510">
 XXX=	XXXNordwind	PROPN	-	0:00:00.059000	0:00:20.932000
 Nordwind	-	SPACE	-	0:00:20.932000	0:00:22.932000
 und	und	CCONJ	-	0:00:20.932000	0:00:22.932000

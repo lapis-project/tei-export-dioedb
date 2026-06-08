@@ -1,12 +1,12 @@
 <doc id="transcript_329">
 <file id="329.xml" title="Transcript: Transcript_329">
-<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.486000" end="0:00:12.013000">
+<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.486000" end="0:00:12.013000" persName="Informant 0623">
 Nordwind	Nordwind	NOUN	-	0:00:10.486000	0:00:12.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:10.486000" end="0:00:12.013000">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:10.486000" end="0:00:12.013000" persName="Informant EXP9">
 XXX	-	-	-	0:00:10.486000	0:00:12.013000
 </u>
-<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.486000" end="0:01:00.326000">
+<u who="spk_199" sex="male" age="jung (18-35) -matura" name="Informant 0623" start="0:00:10.486000" end="0:01:00.326000" persName="Informant 0623">
 und	und	CCONJ	-	0:00:10.486000	0:00:12.013000
 Sonne	sonnen	NOUN	-	0:00:10.486000	0:00:12.013000
 .	-	-	-	0:00:10.486000	0:00:12.013000

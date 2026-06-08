@@ -1,6 +1,6 @@
-<doc id="transcript_174">
+<doc id="transcript_174" name="0371_0373_PASS_GFG_v2" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="174.xml" title="Transcript: Transcript_174">
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:00" end="0:00:07.133000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:00" end="0:00:07.133000" persName="Informant EXP5">
 dann	dann	ADV	-	0:00:00	0:00:03.055000
 <pause duration="1,4s"/>
 ja	ja	PART	-	0:00:00	0:00:03.055000
@@ -23,21 +23,21 @@ Spaß	Spaß	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprko
 und	und	CCONJ	-	0:00:03.953000	0:00:07.133000
 gute	gut	ADJ	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:03.953000	0:00:07.133000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:07.133000" end="0:00:07.693000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:07.133000" end="0:00:07.693000" persName="Informant 0371">
 danke	danke	PART	-	0:00:07.133000	0:00:07.693000
 .	-	-	-	0:00:07.133000	0:00:07.693000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.133000" end="0:00:07.693000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.133000" end="0:00:07.693000" persName="Informant EXP5">
 Unterhaltung	Unterhaltung	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:07.133000	0:00:07.693000
 .	-	-	-	0:00:07.133000	0:00:07.693000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:07.693000" end="0:00:08.573000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:07.693000" end="0:00:08.573000" persName="Informant 0373">
 danke	danke	PART	-	0:00:07.693000	0:00:08.573000
 .	-	-	-	0:00:07.693000	0:00:08.573000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:07.693000" end="0:00:08.573000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:07.693000" end="0:00:08.573000" persName="Informant 0371">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.693000" end="0:00:10.966000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.693000" end="0:00:10.966000" persName="Informant EXP5">
 ich	ich	PRON	-	0:00:08.573000	0:00:10.966000
 sage	sage	VERB	-	0:00:08.573000	0:00:10.966000
 danke	danke	VERB	-	0:00:08.573000	0:00:10.966000
@@ -46,7 +46,7 @@ bis	bis	ADP	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp Gr
 bald	bald	ADV	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:08.573000	0:00:10.966000
 .	-	-	-	0:00:08.573000	0:00:10.966000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:10.966000" end="0:00:15.146000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:10.966000" end="0:00:15.146000" persName="Informant 0373">
 <pause duration="3,3s"/>
 was	was	PRON	-	0:00:10.966000	0:00:15.146000
 nehmen	nehmen	VERB	-	0:00:10.966000	0:00:15.146000
@@ -55,7 +55,7 @@ denn	denn	ADV	-	0:00:10.966000	0:00:15.146000
 zuerst	zuerst	ADV	-	0:00:10.966000	0:00:15.146000
 ?	-	-	-	0:00:10.966000	0:00:15.146000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:15.146000" end="0:00:20.333000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:15.146000" end="0:00:20.333000" persName="Informant 0371">
 ja	ja	PART	-	0:00:15.146000	0:00:16.226000
 ,	-	-	-	0:00:15.146000	0:00:16.226000
 das	der	PRON	-	0:00:15.146000	0:00:16.226000
@@ -75,35 +75,35 @@ da	da	ADV	aReal aVar dumpf+ LautNach LautVor MG mhd. /â/ offeno P sentstr stres
 drin	drin	ADV	-	0:00:19.573000	0:00:20.333000
 ?	-	-	-	0:00:19.573000	0:00:20.333000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:20.333000" end="0:00:25.593000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:20.333000" end="0:00:25.593000" persName="Informant 0373">
 <pause duration="3,9s"/>
 da	da	ADV	-	0:00:20.333000	0:00:25.593000
 nie	nie	ADV	-	0:00:20.333000	0:00:25.593000
 aus	aus	ADP	-	0:00:20.333000	0:00:25.593000
 .	-	-	-	0:00:20.333000	0:00:25.593000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:25.593000" end="0:00:25.886000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:25.593000" end="0:00:25.886000" persName="Informant 0371">
 nein	nein	PART	-	0:00:25.593000	0:00:25.886000
 .	-	-	-	0:00:25.593000	0:00:25.886000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:25.886000" end="0:00:26.839000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:25.886000" end="0:00:26.839000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:26.839000" end="0:00:32.305000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:26.839000" end="0:00:32.305000" persName="Informant 0371">
 <pause duration="5,0s"/>
 sowas	sowas	PROPN	F LautNach LautVor mhd. /ô/ oReal osemidiph oVar sentstr stress+ Wurzel	0:00:26.839000	0:00:32.305000
 ?	-	-	-	0:00:26.839000	0:00:32.305000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:32.305000" end="0:00:32.665000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:32.305000" end="0:00:32.665000" persName="Informant 0373">
 passt	passt	PROPN	-	0:00:32.305000	0:00:32.665000
 .	-	-	-	0:00:32.305000	0:00:32.665000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:32.665000" end="0:00:33.893000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:32.665000" end="0:00:33.893000" persName="Informant 0371">
 <pause duration="0,9s"/>
 sehr	sehr	ADV	-	0:00:32.665000	0:00:33.893000
 gut	gut	ADJ	-	0:00:32.665000	0:00:33.893000
 .	-	-	-	0:00:32.665000	0:00:33.893000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:33.893000" end="0:00:36.773000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:33.893000" end="0:00:36.773000" persName="Informant 0373">
 <pause duration="1,2s"/>
 sollen	sollen	VERB	-	0:00:33.893000	0:00:36.773000
 wir	ich	PRON	-	0:00:33.893000	0:00:36.773000
@@ -117,21 +117,21 @@ sagen	sagen	VERB	-	0:00:33.893000	0:00:36.773000
 oder/	-	-	-	0:00:33.893000	0:00:36.773000
 ?	-	-	-	0:00:33.893000	0:00:36.773000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:36.773000" end="0:00:37.413000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:36.773000" end="0:00:37.413000" persName="Informant 0371">
 ich	ich	PRON	-	0:00:36.773000	0:00:37.413000
 weiß	weiß	VERB	-	0:00:36.773000	0:00:37.413000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:37.413000" end="0:00:39.126000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:37.413000" end="0:00:39.126000" persName="Informant 0373">
 einfach	einfach	ADV	-	0:00:37.413000	0:00:39.126000
 loslegen	loslegen	VERB	-	0:00:37.413000	0:00:39.126000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:37.413000" end="0:00:39.126000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:37.413000" end="0:00:39.126000" persName="Informant 0371">
 nicht	nicht	PART	-	0:00:37.413000	0:00:39.126000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:37.413000" end="0:00:39.126000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:37.413000" end="0:00:39.126000" persName="Informant 0373">
 ?	-	-	-	0:00:37.413000	0:00:39.126000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:37.413000" end="0:00:39.126000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:37.413000" end="0:00:39.126000" persName="Informant 0371">
 ,	-	-	-	0:00:37.413000	0:00:39.126000
 sagen	sagen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress+ Wurzel	0:00:37.413000	0:00:39.126000
 wir	ich	PRON	-	0:00:37.413000	0:00:39.126000
@@ -141,12 +141,12 @@ und	und	CCONJ	-	0:00:37.413000	0:00:39.126000
 Hobby"	Hobby	NOUN	-	0:00:37.413000	0:00:39.126000
 .	-	-	-	0:00:37.413000	0:00:39.126000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:39.126000" end="0:00:40.799000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:39.126000" end="0:00:40.799000" persName="Informant 0373">
 ja	ja	PART	-	0:00:39.126000	0:00:40.799000
 passt	passt	PROPN	-	0:00:39.126000	0:00:40.799000
 .	-	-	-	0:00:39.126000	0:00:40.799000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:39.126000" end="0:00:44.699000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:39.126000" end="0:00:44.699000" persName="Informant 0371">
 <pause duration="2,8s"/>
 haben	haben	AUX	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:00:40.799000	0:00:44.699000
 viele	viel	DET	-	0:00:40.799000	0:00:44.699000
@@ -156,12 +156,12 @@ mal	mal	CCONJ	-	0:00:40.799000	0:00:44.699000
 vier	vier	NUM	-	0:00:40.799000	0:00:44.699000
 ?	-	-	-	0:00:40.799000	0:00:44.699000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:44.699000" end="0:00:46.346000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:44.699000" end="0:00:46.346000" persName="Informant 0373">
 <pause duration="0,9s"/>
 nein	nein	PART	-	0:00:44.699000	0:00:46.346000
 ,	-	-	-	0:00:44.699000	0:00:46.346000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:44.699000" end="0:00:46.346000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:44.699000" end="0:00:46.346000" persName="Informant 0371">
 <pause duration="0,9s"/>
 das	der	PRON	-	0:00:44.699000	0:00:46.346000
 wollte	wollen	VERB	-	0:00:44.699000	0:00:46.346000
@@ -170,7 +170,7 @@ sowieso	sowieso	ADV	-	0:00:44.699000	0:00:46.346000
 fragen	fragen	VERB	aReal aVar dumpf+ L LautNach LautVor mhd. /â/ Nas offeno sentstr stress- Wurzel	0:00:44.699000	0:00:46.346000
 .	-	-	-	0:00:44.699000	0:00:46.346000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:46.346000" end="0:00:49.793000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:46.346000" end="0:00:49.793000" persName="Informant 0373">
 so	so	ADV	-	0:00:46.346000	0:00:48.486000
 wenig	wenig	DET	-	0:00:46.346000	0:00:48.486000
 Teams	Team	NOUN	-	0:00:46.346000	0:00:48.486000
@@ -185,11 +185,11 @@ fünfzehn	fünfzehn	NUM	-	0:00:48.486000	0:00:49.793000
 nur	nur	ADV	-	0:00:48.486000	0:00:49.793000
 .	-	-	-	0:00:48.486000	0:00:49.793000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:48.486000" end="0:00:49.793000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:48.486000" end="0:00:49.793000" persName="Informant 0371">
 was	was	PRON	aReal aVar dumpf+ F geschlo LautNach LautVor mhd. /a/ sentstr stress+ Wurzel	0:00:48.486000	0:00:49.793000
 ?	-	-	-	0:00:48.486000	0:00:49.793000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:49.793000" end="0:00:52.306000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:49.793000" end="0:00:52.306000" persName="Informant 0373">
 also	also	ADV	-	0:00:49.793000	0:00:50.599000
 <pause duration="0,8s"/>
 waren	sein	AUX	-	0:00:50.599000	0:00:52.306000
@@ -197,18 +197,18 @@ nicht	nicht	PART	-	0:00:50.599000	0:00:52.306000
 viele	viel	PRON	-	0:00:50.599000	0:00:52.306000
 L/	-	-	-	0:00:50.599000	0:00:52.306000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:50.599000" end="0:00:52.306000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:50.599000" end="0:00:52.306000" persName="Informant 0371">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:50.599000" end="0:00:52.306000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:50.599000" end="0:00:52.306000" persName="Informant 0373">
 .	-	-	-	0:00:50.599000	0:00:52.306000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:50.599000" end="0:00:52.306000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:50.599000" end="0:00:52.306000" persName="Informant 0371">
 fünfzehn	fünfzehn	NUM	-	0:00:50.599000	0:00:52.306000
 Teams	Team	NOUN	-	0:00:50.599000	0:00:52.306000
 ?	-	-	-	0:00:50.599000	0:00:52.306000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:52.306000" end="0:00:57.359000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:52.306000" end="0:00:57.359000" persName="Informant 0373">
 fünfzehn	fünfzehn	NUM	-	0:00:52.306000	0:00:54.453000
 Teams	Team	NOUN	-	0:00:52.306000	0:00:54.453000
 ,	-	-	-	0:00:52.306000	0:00:54.453000
@@ -230,27 +230,27 @@ los	los	ADJ	-	0:00:54.453000	0:00:57.359000
 war	sein	AUX	-	0:00:54.453000	0:00:57.359000
 .	-	-	-	0:00:54.453000	0:00:57.359000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:57.359000" end="0:00:57.919000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:57.359000" end="0:00:57.919000" persName="Informant 0371">
 okay	okay	NOUN	-	0:00:57.359000	0:00:57.919000
 .	-	-	-	0:00:57.359000	0:00:57.919000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:57.359000" end="0:00:59.213000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:57.359000" end="0:00:59.213000" persName="Informant 0373">
 du	du	PRON	-	0:00:57.359000	0:00:57.919000
 hast	haben	AUX	-	0:00:57.919000	0:00:58.899000
 gefehlt	fehlen	VERB	-	0:00:57.919000	0:00:58.899000
 .	-	-	-	0:00:57.919000	0:00:58.899000
 weiß	weiß	VERB	-	0:00:58.899000	0:00:59.213000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:59.213000" end="0:00:59.566000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:59.213000" end="0:00:59.566000" persName="Informant 0371">
 ja	ja	PART	-	0:00:59.213000	0:00:59.566000
 ,	-	-	-	0:00:59.213000	0:00:59.566000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:59.213000" end="0:00:59.566000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:00:59.213000" end="0:00:59.566000" persName="Informant 0373">
 ich	ich	PRON	-	0:00:59.213000	0:00:59.566000
 nicht	nicht	PART	-	0:00:59.213000	0:00:59.566000
 .	-	-	-	0:00:59.213000	0:00:59.566000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:59.566000" end="0:01:01.846000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:00:59.566000" end="0:01:01.846000" persName="Informant 0371">
 mich	-	-	-	0:00:59.566000	0:01:00.706000
 hat	-	-	Af aReal aVar dumpf+ F LautNach LautVor mhd. /a/ offeno sentstr stress- Wurzel	0:00:59.566000	0:01:00.706000
 es	-	-	-	0:00:59.566000	0:01:00.706000
@@ -260,11 +260,11 @@ _angezipft_	-	-	-	0:00:59.566000	0:01:00.706000
 echt	echt	ADJ	? eMono eReal eVar F LautNach LautVor MG sentstr stress+ Wurzel	0:01:00.706000	0:01:01.846000
 .	-	-	-	0:01:00.706000	0:01:01.846000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:00.706000" end="0:01:01.846000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:00.706000" end="0:01:01.846000" persName="Informant 0373">
 ja	ja	PART	-	0:01:00.706000	0:01:01.846000
 .	-	-	-	0:01:00.706000	0:01:01.846000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:01.846000" end="0:01:05.199000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:01.846000" end="0:01:05.199000" persName="Informant 0371">
 normal	normal	ADJ	-	0:01:01.846000	0:01:05.199000
 wäre	sein	AUX	circum KForm KKon KKt KLaut KMark KONJ KPrät Ksynth KVerb ModK seinVV std stdL- VV	0:01:01.846000	0:01:05.199000
 es	ich	PRON	-	0:01:01.846000	0:01:05.199000
@@ -275,11 +275,11 @@ und	und	CCONJ	-	0:01:01.846000	0:01:05.199000
 Freitag	Freitag	NOUN	aReal aVar dumpf+ dumpfa LautNach LautVor mhd. /a/ P sentstr stress- Wurzel	0:01:01.846000	0:01:05.199000
 .	-	-	-	0:01:01.846000	0:01:05.199000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:05.199000" end="0:01:05.786000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:05.199000" end="0:01:05.786000" persName="Informant 0373">
 ja	ja	PART	-	0:01:05.199000	0:01:05.786000
 .	-	-	-	0:01:05.199000	0:01:05.786000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:05.786000" end="0:01:15.113000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:05.786000" end="0:01:15.113000" persName="Informant 0371">
 das	der	PRON	-	0:01:05.786000	0:01:08.293000
 waren	sein	AUX	-	0:01:05.786000	0:01:08.293000
 zwei	zwei	NUM	-	0:01:05.786000	0:01:08.293000
@@ -300,7 +300,7 @@ Donnerstag	Donnerstag	NOUN	aReal aVar dumpf+ LautNach LautVor mhd. /a/ offeno P 
 den	der	DET	-	0:01:09.853000	0:01:11.926000
 den	der	DET	-	0:01:09.853000	0:01:11.926000
 Mittwoch	Mittwoch	NOUN	F LautNach LautVor mhd. /o/ oMono oReal oVar sentstr stress- Wurzel	0:01:09.853000	0:01:11.926000
-anreißen	anreißen	VERB	-	0:01:09.853000	0:01:11.926000
+anreisen	anreißen	VERB	-	0:01:09.853000	0:01:11.926000
 ,	-	-	-	0:01:09.853000	0:01:11.926000
 Freitag	Freitag	NOUN	aReal aVar dumpf+ LautNach LautVor mhd. /a/ offeno P sentstr stress- Wurzel	0:01:11.926000	0:01:13.413000
 gemütlich	gemütlich	ADJ	-	0:01:11.926000	0:01:13.413000
@@ -320,7 +320,7 @@ auf	auf	ADP	-	0:01:14.079000	0:01:15.113000
 Freitag	Freitag	NOUN	aReal aVar dumpf+ LautNach LautVor mhd. /a/ offeno P sentstr stress- Wurzel	0:01:14.079000	0:01:15.113000
 .	-	-	-	0:01:14.079000	0:01:15.113000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:15.113000" end="0:01:16.793000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:15.113000" end="0:01:16.793000" persName="Informant 0373">
 da	-	-	-	0:01:15.113000	0:01:16.193000
 *bist*	-	-	-	0:01:15.113000	0:01:16.193000
 aber	-	-	-	0:01:15.113000	0:01:16.193000
@@ -331,13 +331,13 @@ oder	oder	CCONJ	-	0:01:15.113000	0:01:16.193000
 also	also	ADV	-	0:01:16.193000	0:01:16.793000
 .	-	-	-	0:01:16.193000	0:01:16.793000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:16.193000" end="0:01:17.379000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:16.193000" end="0:01:17.379000" persName="Informant 0371">
 ja	ja	PART	-	0:01:16.193000	0:01:16.793000
 .	-	-	-	0:01:16.193000	0:01:16.793000
 ja	ja	PART	-	0:01:16.793000	0:01:17.379000
 .	-	-	-	0:01:16.793000	0:01:17.379000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:17.379000" end="0:01:19.453000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:17.379000" end="0:01:19.453000" persName="Informant 0373">
 wo	wo	ADV	-	0:01:17.379000	0:01:17.819000
 war	sein	AUX	-	0:01:17.379000	0:01:17.819000
 sie	ich	PRON	-	0:01:17.379000	0:01:17.819000
@@ -351,7 +351,7 @@ was	-	-	-	0:01:17.819000	0:01:18.726000
 gesagt	-	-	-	0:01:18.726000	0:01:19.453000
 ?	-	-	-	0:01:18.726000	0:01:19.453000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:18.726000" end="0:01:20.639000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:18.726000" end="0:01:20.639000" persName="Informant 0371">
 nein	nein	PART	-	0:01:18.726000	0:01:19.453000
 ,	-	-	-	0:01:18.726000	0:01:19.453000
 in	in	ADP	-	0:01:18.726000	0:01:19.453000
@@ -360,11 +360,11 @@ Benfeld	Benfeld	NOUN	-	0:01:19.453000	0:01:20.639000
 das	der	PRON	-	0:01:19.453000	0:01:20.639000
 ist	sein	AUX	-	0:01:19.453000	0:01:20.639000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:20.639000" end="0:01:21.139000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:20.639000" end="0:01:21.139000" persName="Informant 0373">
 okay	okay	NOUN	-	0:01:20.639000	0:01:21.139000
 .	-	-	-	0:01:20.639000	0:01:21.139000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:21.139000" end="0:01:24.493000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:21.139000" end="0:01:24.493000" persName="Informant 0371">
 das	der	PRON	-	0:01:21.139000	0:01:24.493000
 ist	sein	AUX	-	0:01:21.139000	0:01:24.493000
 eine	einen	DET	-	0:01:21.139000	0:01:24.493000
@@ -377,11 +377,11 @@ Basel	Basel	PROPN	-	0:01:21.139000	0:01:24.493000
 entfernt	entfernen	ADJ	-	0:01:21.139000	0:01:24.493000
 ,	-	-	-	0:01:21.139000	0:01:24.493000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:24.493000" end="0:01:25.293000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:24.493000" end="0:01:25.293000" persName="Informant 0373">
 okay	okay	NOUN	-	0:01:24.493000	0:01:25.293000
 .	-	-	-	0:01:24.493000	0:01:25.293000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:24.493000" end="0:01:27.119000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:24.493000" end="0:01:27.119000" persName="Informant 0371">
 in	in	ADP	-	0:01:24.493000	0:01:25.293000
 Frankreich	Frankreich	PROPN	-	0:01:24.493000	0:01:25.293000
 .	-	-	-	0:01:24.493000	0:01:25.293000
@@ -392,12 +392,12 @@ Straßburg	Straßburg	PROPN	-	0:01:25.293000	0:01:27.119000
 hinauf	hinauf	ADP	-	0:01:25.293000	0:01:27.119000
 .	-	-	-	0:01:25.293000	0:01:27.119000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:27.119000" end="0:01:27.859000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:27.119000" end="0:01:27.859000" persName="Informant 0373">
 ist	sein	AUX	-	0:01:27.119000	0:01:27.859000
 klar	klaren	ADJ	-	0:01:27.119000	0:01:27.859000
 .	-	-	-	0:01:27.119000	0:01:27.859000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:27.859000" end="0:01:33.485000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:27.859000" end="0:01:33.485000" persName="Informant 0371">
 ja	ja	PART	-	0:01:27.859000	0:01:28.646000
 .	-	-	-	0:01:27.859000	0:01:28.646000
 <pause duration="1,0s"/>
@@ -415,7 +415,7 @@ war	-	-	-	0:01:31.226000	0:01:33.485000
 lässig	-	-	-	0:01:31.226000	0:01:33.485000
 .	-	-	-	0:01:31.226000	0:01:33.485000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:33.485000" end="0:01:36.158000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:33.485000" end="0:01:36.158000" persName="Informant 0373">
 um	um	ADP	-	0:01:33.485000	0:01:35.299000
 was	was	PRON	-	0:01:33.485000	0:01:35.299000
 ist	sein	AUX	-	0:01:33.485000	0:01:35.299000
@@ -430,7 +430,7 @@ Firma	Firma	NOUN	-	0:01:35.299000	0:01:36.158000
 aus	aus	ADP	-	0:01:35.299000	0:01:36.158000
 ?	-	-	-	0:01:35.299000	0:01:36.158000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:35.299000" end="0:01:39.973000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:35.299000" end="0:01:39.973000" persName="Informant 0371">
 eine	einen	DET	-	0:01:35.299000	0:01:36.158000
 Sch/	-	-	-	0:01:35.299000	0:01:36.158000
 ja	ja	ADV	-	0:01:36.158000	0:01:38.093000
@@ -449,11 +449,11 @@ wir	ich	PRON	-	0:01:38.093000	0:01:39.973000
 machen	machen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:01:38.093000	0:01:39.973000
 ,	-	-	-	0:01:38.093000	0:01:39.973000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:39.973000" end="0:01:40.313000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:39.973000" end="0:01:40.313000" persName="Informant 0373">
 ja	ja	PART	-	0:01:39.973000	0:01:40.313000
 .	-	-	-	0:01:39.973000	0:01:40.313000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:40.313000" end="0:01:46.479000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:40.313000" end="0:01:46.479000" persName="Informant 0371">
 <pause duration="1,2s"/>
 da	-	-	aReal aVar dumpf+ LautNach LautVor MG mhd. /â/ offeno P sentstr stress+ Wurzel	0:01:40.313000	0:01:46.479000
 *kannst*	-	-	-	0:01:40.313000	0:01:46.479000
@@ -467,11 +467,11 @@ Exceltabellen	-	-	-	0:01:40.313000	0:01:46.479000
 navigieren	-	-	-	0:01:40.313000	0:01:46.479000
 .	-	-	-	0:01:40.313000	0:01:46.479000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:46.479000" end="0:01:46.919000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:46.479000" end="0:01:46.919000" persName="Informant 0373">
 echt	echt	ADJ	-	0:01:46.479000	0:01:46.919000
 ?	-	-	-	0:01:46.479000	0:01:46.919000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:46.919000" end="0:01:49.333000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:46.919000" end="0:01:49.333000" persName="Informant 0371">
 ja	ja	ADV	-	0:01:46.919000	0:01:47.679000
 ja	ja	PART	-	0:01:46.919000	0:01:47.679000
 .	-	-	-	0:01:46.919000	0:01:47.679000
@@ -484,7 +484,7 @@ halt	-	-	-	0:01:47.679000	0:01:49.333000
 ja/	-	-	-	0:01:47.679000	0:01:49.333000
 .	-	-	-	0:01:47.679000	0:01:49.333000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:49.333000" end="0:01:50.598000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:49.333000" end="0:01:50.598000" persName="Informant 0373">
 und	und	CCONJ	-	0:01:49.333000	0:01:50.598000
 da	da	ADV	-	0:01:49.333000	0:01:50.598000
 haben	haben	AUX	-	0:01:49.333000	0:01:50.598000
@@ -492,33 +492,33 @@ sie	ich	PRON	-	0:01:49.333000	0:01:50.598000
 dich	sich	PRON	-	0:01:49.333000	0:01:50.598000
 eingeschult	einschulen	VERB	-	0:01:49.333000	0:01:50.598000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:50.598000" end="0:01:50.993000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:50.598000" end="0:01:50.993000" persName="Informant 0371">
 ja	ja	ADV	-	0:01:50.598000	0:01:50.993000
 genau	genau	ADJ	-	0:01:50.598000	0:01:50.993000
 .	-	-	-	0:01:50.598000	0:01:50.993000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:50.993000" end="0:01:51.652000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:50.993000" end="0:01:51.652000" persName="Informant 0373">
 auf	auf	ADP	-	0:01:50.993000	0:01:51.652000
 das	der	PRON	-	0:01:50.993000	0:01:51.652000
 .	-	-	-	0:01:50.993000	0:01:51.652000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:51.652000" end="0:01:52.493000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:51.652000" end="0:01:52.493000" persName="Informant 0371">
 genau	genau	ADJ	-	0:01:51.652000	0:01:52.493000
 ,	-	-	-	0:01:51.652000	0:01:52.493000
 ja	ja	PART	-	0:01:51.652000	0:01:52.493000
 .	-	-	-	0:01:51.652000	0:01:52.493000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:52.493000" end="0:01:53.333000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:52.493000" end="0:01:53.333000" persName="Informant 0373">
 okay	okay	NOUN	-	0:01:52.493000	0:01:53.333000
 .	-	-	-	0:01:52.493000	0:01:53.333000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:53.333000" end="0:01:54.039000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:53.333000" end="0:01:54.039000" persName="Informant 0371">
 das	der	PRON	-	0:01:53.333000	0:01:54.039000
 war	sein	AUX	-	0:01:53.333000	0:01:54.039000
 geil	geil	NOUN	-	0:01:53.333000	0:01:54.039000
 .	-	-	-	0:01:53.333000	0:01:54.039000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:54.039000" end="0:01:55.152000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:54.039000" end="0:01:55.152000" persName="Informant 0373">
 das	der	PRON	-	0:01:54.039000	0:01:54.598000
 glaube	glauben	VERB	-	0:01:54.039000	0:01:54.598000
 ich	ich	PRON	-	0:01:54.039000	0:01:54.598000
@@ -528,15 +528,15 @@ ist	sein	AUX	-	0:01:54.598000	0:01:55.152000
 cool	cool	PROPN	-	0:01:54.598000	0:01:55.152000
 .	-	-	-	0:01:54.598000	0:01:55.152000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:55.152000" end="0:01:55.826000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:55.152000" end="0:01:55.826000" persName="Informant 0371">
 ja	ja	PART	-	0:01:55.152000	0:01:55.826000
 .	-	-	-	0:01:55.152000	0:01:55.826000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:55.826000" end="0:01:56.253000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:55.826000" end="0:01:56.253000" persName="Informant 0373">
 (ja)	ja	PART	-	0:01:55.826000	0:01:56.253000
 .	-	-	-	0:01:55.826000	0:01:56.253000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:55.826000" end="0:01:59.426000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:01:55.826000" end="0:01:59.426000" persName="Informant 0371">
 aber	-	-	-	0:01:55.826000	0:01:56.253000
 vier	-	-	-	0:01:56.253000	0:01:57.519000
 mal	-	-	-	0:01:56.253000	0:01:57.519000
@@ -552,13 +552,13 @@ Sieg	Sieg	NOUN	-	0:01:57.519000	0:01:59.426000
 überlassen	überlassen	VERB	aReal aVar dumpf+ F L LautNach LautVor mhd. /â/ offeno sentstr stress- Wurzel	0:01:57.519000	0:01:59.426000
 .	-	-	-	0:01:57.519000	0:01:59.426000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:59.426000" end="0:02:02.379000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:01:59.426000" end="0:02:02.379000" persName="Informant 0373">
 ja	ja	PART	-	0:01:59.426000	0:02:01.066000
 ,	-	-	-	0:01:59.426000	0:02:01.066000
 leichtfertig	leichtfertig	ADJ	-	0:01:59.426000	0:02:01.066000
 .	-	-	-	0:01:59.426000	0:02:01.066000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:01.066000" end="0:02:04.019000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:01.066000" end="0:02:04.019000" persName="Informant 0371">
 leichtfertig	leichtfertig	ADJ	-	0:02:01.066000	0:02:02.379000
 ,	-	-	-	0:02:01.066000	0:02:02.379000
 ja	ja	PART	-	0:02:01.066000	0:02:02.379000
@@ -567,12 +567,12 @@ wild	wild	ADJ	Adj Expr Int Komp WA WBA Wert neg rise	0:02:02.379000	0:02:04.0190
 leichtfertig	leichtfertig	ADJ	Adj Expr Int Komp WA WBA Wert neg rise	0:02:02.379000	0:02:04.019000
 .	-	-	-	0:02:02.379000	0:02:04.019000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:04.019000" end="0:02:05.599000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:04.019000" end="0:02:05.599000" persName="Informant 0373">
 <pause duration="0,9s"/>
 auweh	auweh	ADJ	-	0:02:04.019000	0:02:05.599000
 .	-	-	-	0:02:04.019000	0:02:05.599000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:04.019000" end="0:02:06.506000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:04.019000" end="0:02:06.506000" persName="Informant 0371">
 <pause duration="0,9s"/>
 die	der	DET	-	0:02:04.019000	0:02:05.599000
 Gasener	Gasener	NOUN	-	0:02:04.019000	0:02:05.599000
@@ -580,16 +580,16 @@ nichts	nichts	PRON	-	0:02:05.599000	0:02:06.506000
 mitgemacht	mitmachen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:02:05.599000	0:02:06.506000
 ?	-	-	-	0:02:05.599000	0:02:06.506000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:06.506000" end="0:02:07.379000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:06.506000" end="0:02:07.379000" persName="Informant 0373">
 ähm	ähm	X	-	0:02:06.506000	0:02:07.379000
 die	der	DET	-	0:02:06.506000	0:02:07.379000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:06.506000" end="0:02:07.379000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:06.506000" end="0:02:07.379000" persName="Informant 0371">
 die	der	DET	-	0:02:06.506000	0:02:07.379000
 Ehrgeizler	Ehrgeizler	NOUN	-	0:02:06.506000	0:02:07.379000
 ?	-	-	-	0:02:06.506000	0:02:07.379000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:07.379000" end="0:02:11.693000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:07.379000" end="0:02:11.693000" persName="Informant 0373">
 Ga/	-	-	-	0:02:07.379000	0:02:09.079000
 nein	nein	NOUN	-	0:02:07.379000	0:02:09.079000
 die	der	PRON	-	0:02:07.379000	0:02:09.079000
@@ -611,7 +611,7 @@ zu	zu	PART	-	0:02:09.566000	0:02:10.626000
 alt	alt	ADJ	-	0:02:09.566000	0:02:10.626000
 .	-	-	-	0:02:09.566000	0:02:10.626000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:10.626000" end="0:02:12.099000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:10.626000" end="0:02:12.099000" persName="Informant 0371">
 ach	ach	X	-	0:02:10.626000	0:02:11.693000
 so	so	ADV	-	0:02:10.626000	0:02:11.693000
 .	-	-	-	0:02:10.626000	0:02:11.693000
@@ -619,18 +619,18 @@ ist	sein	AUX	-	0:02:11.693000	0:02:12.099000
 er	ich	PRON	-	0:02:11.693000	0:02:12.099000
 schon	schon	ADV	-	0:02:11.693000	0:02:12.099000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:12.099000" end="0:02:12.673000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:12.099000" end="0:02:12.673000" persName="Informant 0373">
 ich	ich	PRON	-	0:02:12.099000	0:02:12.673000
 ich	ich	PRON	-	0:02:12.099000	0:02:12.673000
 denke	denken	VERB	-	0:02:12.099000	0:02:12.673000
 ,	-	-	-	0:02:12.099000	0:02:12.673000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:12.099000" end="0:02:12.673000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:12.099000" end="0:02:12.673000" persName="Informant 0371">
 über	über	ADP	-	0:02:12.099000	0:02:12.673000
 dreißig	dreißig	NUM	-	0:02:12.099000	0:02:12.673000
 ?	-	-	-	0:02:12.099000	0:02:12.673000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:12.673000" end="0:02:15.059000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:12.673000" end="0:02:15.059000" persName="Informant 0373">
 und	und	CCONJ	-	0:02:12.673000	0:02:14.273000
 oft	oft	ADV	-	0:02:12.673000	0:02:14.273000
 zerbricht	zerbrechen	VERB	-	0:02:12.673000	0:02:14.273000
@@ -639,12 +639,12 @@ Partie	Partie	NOUN	-	0:02:12.673000	0:02:14.273000
 .	-	-	-	0:02:12.673000	0:02:14.273000
 n/	-	-	-	0:02:14.273000	0:02:15.059000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:14.273000" end="0:02:15.059000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:14.273000" end="0:02:15.059000" persName="Informant 0371">
 ja	ja	ADV	-	0:02:14.273000	0:02:15.059000
 eh	eh	X	eMono eReal eVar LautNach LautVor MG mhd. /ê/ sentstr stress+ Wurzel	0:02:14.273000	0:02:15.059000
 .	-	-	-	0:02:14.273000	0:02:15.059000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:15.059000" end="0:02:19.133000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:15.059000" end="0:02:19.133000" persName="Informant 0373">
 *weißt*	-	-	-	0:02:15.059000	0:02:15.579000
 eh	-	-	-	0:02:15.059000	0:02:15.579000
 ,	-	-	-	0:02:15.059000	0:02:15.579000
@@ -652,7 +652,7 @@ der	-	-	-	0:02:15.579000	0:02:19.133000
 _Glatzerte_	-	-	-	0:02:15.579000	0:02:19.133000
 ,	-	-	-	0:02:15.579000	0:02:19.133000
 dem	der	DET	-	0:02:15.579000	0:02:19.133000
-[Azi]N	Azi	NOUN	-	0:02:15.579000	0:02:19.133000
+NAME	NAME	NOUN	-	0:02:15.579000	0:02:19.133000
 sein	mein	DET	-	0:02:15.579000	0:02:19.133000
 älterer	alt	ADJ	-	0:02:15.579000	0:02:19.133000
 Bruder	Bruder	NOUN	-	0:02:15.579000	0:02:19.133000
@@ -661,24 +661,24 @@ ja	ja	ADV	-	0:02:15.579000	0:02:19.133000
 dreißig	dreißig	NUM	-	0:02:15.579000	0:02:19.133000
 .	-	-	-	0:02:15.579000	0:02:19.133000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:19.133000" end="0:02:20.606000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:19.133000" end="0:02:20.606000" persName="Informant 0371">
 der	der	DET	-	0:02:19.133000	0:02:20.606000
 muss	muss	NOUN	-	0:02:19.133000	0:02:20.606000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:20.606000" end="0:02:21.526000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:20.606000" end="0:02:21.526000" persName="Informant 0373">
 sieben/	-	-	-	0:02:20.606000	0:02:21.526000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:20.606000" end="0:02:21.526000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:20.606000" end="0:02:21.526000" persName="Informant 0371">
 ähm	ähm	PROPN	-	0:02:20.606000	0:02:21.526000
 d/	-	-	-	0:02:20.606000	0:02:21.526000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:21.526000" end="0:02:23.059000">
-achtundzwanzig	achtundzwanzig	ADJ	-	0:02:21.526000	0:02:23.059000
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:21.526000" end="0:02:23.059000" persName="Informant 0373">
+ZAHL	ZAHL	ADJ	-	0:02:21.526000	0:02:23.059000
 ist	sein	AUX	-	0:02:21.526000	0:02:23.059000
 er	ich	PRON	-	0:02:21.526000	0:02:23.059000
 .	-	-	-	0:02:21.526000	0:02:23.059000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:21.526000" end="0:02:23.059000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:21.526000" end="0:02:23.059000" persName="Informant 0371">
 z/	-	-	-	0:02:21.526000	0:02:23.059000
 d/	-	-	-	0:02:21.526000	0:02:23.059000
 der	der	PRON	-	0:02:21.526000	0:02:23.059000
@@ -688,11 +688,11 @@ ja	ja	ADV	-	0:02:21.526000	0:02:23.059000
 sicher	sichern	ADJ	-	0:02:21.526000	0:02:23.059000
 .	-	-	-	0:02:21.526000	0:02:23.059000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:23.059000" end="0:02:23.486000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:23.059000" end="0:02:23.486000" persName="Informant 0373">
 ja	ja	PART	-	0:02:23.059000	0:02:23.486000
 .	-	-	-	0:02:23.059000	0:02:23.486000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:23.059000" end="0:02:24.039000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:23.059000" end="0:02:24.039000" persName="Informant 0371">
 der	der	PRON	-	0:02:23.059000	0:02:23.486000
 ist	sein	AUX	-	0:02:23.059000	0:02:23.486000
 älter	alt	ADJ	-	0:02:23.486000	0:02:24.039000
@@ -700,7 +700,7 @@ wie	wie	CCONJ	-	0:02:23.486000	0:02:24.039000
 ihr	mein	PRON	-	0:02:23.486000	0:02:24.039000
 .	-	-	-	0:02:23.486000	0:02:24.039000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:24.039000" end="0:02:27.946000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:24.039000" end="0:02:27.946000" persName="Informant 0373">
 und/	-	-	-	0:02:24.039000	0:02:24.933000
 .	-	-	-	0:02:24.039000	0:02:24.933000
 ja	ja	PART	-	0:02:24.039000	0:02:24.933000
@@ -715,18 +715,18 @@ der	der	PRON	-	0:02:24.933000	0:02:27.946000
 ist	sein	AUX	-	0:02:24.933000	0:02:27.946000
 sicher	sichern	ADV	-	0:02:24.933000	0:02:27.946000
 schon	schon	ADV	-	0:02:24.933000	0:02:27.946000
-dreißig	dreißig	ADJ	-	0:02:24.933000	0:02:27.946000
+ZAHL	ZAHL	ADJ	-	0:02:24.933000	0:02:27.946000
 .	-	-	-	0:02:24.933000	0:02:27.946000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:27.946000" end="0:02:29.653000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:27.946000" end="0:02:29.653000" persName="Informant 0371">
 ja	ja	PART	-	0:02:27.946000	0:02:29.653000
 .	-	-	-	0:02:27.946000	0:02:29.653000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:29.653000" end="0:02:30.086000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:29.653000" end="0:02:30.086000" persName="Informant 0373">
 nein	nein	PART	-	0:02:29.653000	0:02:30.086000
 .	-	-	-	0:02:29.653000	0:02:30.086000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:30.086000" end="0:02:31.373000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:30.086000" end="0:02:31.373000" persName="Informant 0371">
 ist	sein	AUX	-	0:02:30.086000	0:02:30.726000
 einmal	einmal	ADV	-	0:02:30.086000	0:02:30.726000
 gut	gut	ADJ	-	0:02:30.086000	0:02:30.726000
@@ -736,22 +736,22 @@ die	der	DET	-	0:02:30.726000	0:02:31.373000
 einmal	einmal	ADV	-	0:02:30.726000	0:02:31.373000
 nicht	nicht	PART	-	0:02:30.726000	0:02:31.373000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:31.373000" end="0:02:32.133000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:31.373000" end="0:02:32.133000" persName="Informant 0373">
 ja	ja	ADV	-	0:02:31.373000	0:02:32.133000
 eh	eh	X	-	0:02:31.373000	0:02:32.133000
 .	-	-	-	0:02:31.373000	0:02:32.133000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:31.373000" end="0:02:32.133000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:31.373000" end="0:02:32.133000" persName="Informant 0371">
 mitmachen	mitmachen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:02:31.373000	0:02:32.133000
 .	-	-	-	0:02:31.373000	0:02:32.133000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:32.133000" end="0:02:33.246000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:32.133000" end="0:02:33.246000" persName="Informant 0373">
 hat	haben	AUX	-	0:02:32.133000	0:02:33.246000
 schon	schon	ADV	-	0:02:32.133000	0:02:33.246000
 gepasst	gepasst	VERB	-	0:02:32.133000	0:02:33.246000
 .	-	-	-	0:02:32.133000	0:02:33.246000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:33.246000" end="0:02:37.713000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:33.246000" end="0:02:37.713000" persName="Informant 0371">
 jetzt	jetzt	ADV	-	0:02:33.246000	0:02:35.239000
 haben	haben	AUX	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:02:33.246000	0:02:35.239000
 die	der	DET	-	0:02:33.246000	0:02:35.239000
@@ -763,6 +763,7 @@ drei	drei	NUM	-	0:02:35.239000	0:02:36.819000
 wollen	wollen	VERB	-	0:02:35.239000	0:02:36.819000
 mitfahren	mitfahren	VERB	-	0:02:35.239000	0:02:36.819000
 von	von	ADP	-	0:02:35.239000	0:02:36.819000
+(ihnen)	-	-	-	0:02:35.239000	0:02:36.819000
 ,	-	-	-	0:02:35.239000	0:02:36.819000
 und	und	CCONJ	-	0:02:36.819000	0:02:37.713000
 dürfen	dürfen	VERB	-	0:02:36.819000	0:02:37.713000
@@ -771,7 +772,7 @@ nur	nur	ADV	-	0:02:36.819000	0:02:37.713000
 Bub	Bub	NOUN	-	0:02:36.819000	0:02:37.713000
 ,	-	-	-	0:02:36.819000	0:02:37.713000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:37.713000" end="0:02:39.166000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:37.713000" end="0:02:39.166000" persName="Informant 0373">
 ja	ja	PART	-	0:02:37.713000	0:02:39.166000
 ,	-	-	-	0:02:37.713000	0:02:39.166000
 Bub	Bub	PROPN	-	0:02:37.713000	0:02:39.166000
@@ -783,7 +784,7 @@ Bub	Bub	PROPN	-	0:02:37.713000	0:02:39.166000
 Dirndl	Dirndl	PROPN	-	0:02:37.713000	0:02:39.166000
 .	-	-	-	0:02:37.713000	0:02:39.166000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:37.713000" end="0:02:41.939000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:37.713000" end="0:02:41.939000" persName="Informant 0371">
 ähm	ähm	PROPN	-	0:02:37.713000	0:02:39.166000
 zwei/	-	-	-	0:02:37.713000	0:02:39.166000
 .	-	-	-	0:02:37.713000	0:02:39.166000
@@ -802,7 +803,7 @@ sie	ich	PRON	-	0:02:41.406000	0:02:41.939000
 tun	tun	VERB	-	0:02:41.406000	0:02:41.939000
 .	-	-	-	0:02:41.406000	0:02:41.939000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:41.939000" end="0:02:45.305000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:41.939000" end="0:02:45.305000" persName="Informant 0373">
 <pause duration="0,9s"/>
 wer	wer	PRON	-	0:02:41.939000	0:02:44.226000
 täte	tun	VERB	-	0:02:41.939000	0:02:44.226000
@@ -814,12 +815,12 @@ leicht	leicht	ADJ	-	0:02:41.939000	0:02:44.226000
 mitfahren	mitfahren	VERB	-	0:02:41.939000	0:02:44.226000
 ?	-	-	-	0:02:41.939000	0:02:44.226000
 der	der	DET	-	0:02:44.226000	0:02:45.305000
-[Brandler]N	Brandler	NOUN	-	0:02:44.226000	0:02:45.305000
+NAME	NAME	NOUN	-	0:02:44.226000	0:02:45.305000
 ,	-	-	-	0:02:44.226000	0:02:45.305000
 oder	oder	CCONJ	-	0:02:44.226000	0:02:45.305000
 ?	-	-	-	0:02:44.226000	0:02:45.305000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:44.226000" end="0:02:49.853000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:44.226000" end="0:02:49.853000" persName="Informant 0371">
 nein	nein	PART	-	0:02:44.226000	0:02:45.305000
 von	von	ADP	-	0:02:44.226000	0:02:45.305000
 die	der	DET	-	0:02:44.226000	0:02:45.305000
@@ -831,26 +832,26 @@ nicht	nicht	PART	-	0:02:45.305000	0:02:46.006000
 aber	aber	CCONJ	aReal aVar dumpf+ F LautNach LautVor MG mhd. /a/ offeno sentstr stress- Wurzel	0:02:46.006000	0:02:48.073000
 von	von	ADP	-	0:02:46.006000	0:02:48.073000
 die	der	DET	-	0:02:46.006000	0:02:48.073000
-Menschen	Mensch	NOUN	-	0:02:46.006000	0:02:48.073000
+_Menscher_	Mensch	NOUN	-	0:02:46.006000	0:02:48.073000
 die	der	DET	-	0:02:46.006000	0:02:48.073000
-[Laura]N	Laura	NOUN	-	0:02:46.006000	0:02:48.073000
+NAME	NAME	NOUN	-	0:02:46.006000	0:02:48.073000
 möchte	mögen	VERB	-	0:02:46.006000	0:02:48.073000
 mitmachen	mitmachen	VERB	aReal aVar dumpf+ F LautNach LautVor mhd. /a/ Nas offeno sentstr stress- Wurzel	0:02:46.006000	0:02:48.073000
 ,	-	-	-	0:02:46.006000	0:02:48.073000
 die	der	DET	-	0:02:48.073000	0:02:49.853000
-[Kathi]N	Kathi	PROPN	DIM -i Interf Interf- IRR sd- SDent Suff U- Uml	0:02:48.073000	0:02:49.853000
+NAME	NAME	PROPN	DIM -i Interf Interf- IRR sd- SDent Suff U- Uml	0:02:48.073000	0:02:49.853000
 möchte	mögen	VERB	-	0:02:48.073000	0:02:49.853000
 mitmachen	mitmachen	VERB	-	0:02:48.073000	0:02:49.853000
 und	und	CCONJ	-	0:02:48.073000	0:02:49.853000
 die	der	DET	-	0:02:48.073000	0:02:49.853000
-[Annika]N	Annika	NOUN	-	0:02:48.073000	0:02:49.853000
+NAME	NAME	NOUN	-	0:02:48.073000	0:02:49.853000
 .	-	-	-	0:02:48.073000	0:02:49.853000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:49.853000" end="0:02:51.266000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:49.853000" end="0:02:51.266000" persName="Informant 0373">
 scheiße	scheißen	NOUN	-	0:02:49.853000	0:02:51.266000
 .	-	-	-	0:02:49.853000	0:02:51.266000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:49.853000" end="0:02:53.053000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:49.853000" end="0:02:53.053000" persName="Informant 0371">
 jetzt	jetzt	ADV	-	0:02:49.853000	0:02:51.266000
 müssen	müssen	VERB	-	0:02:49.853000	0:02:51.266000
 sie	ich	PRON	-	0:02:49.853000	0:02:51.266000
@@ -863,7 +864,7 @@ gesagt	sagen	VERB	-	0:02:51.266000	0:02:53.053000
 auslassen	auslassen	VERB	-	0:02:51.266000	0:02:53.053000
 .	-	-	-	0:02:51.266000	0:02:53.053000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:53.053000" end="0:02:54.253000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:53.053000" end="0:02:54.253000" persName="Informant 0373">
 ja	ja	PART	-	0:02:53.053000	0:02:53.866000
 ist	sein	AUX	-	0:02:53.053000	0:02:53.866000
 so	so	ADV	-	0:02:53.053000	0:02:53.866000
@@ -871,15 +872,15 @@ so	so	ADV	-	0:02:53.053000	0:02:53.866000
 wäre	sein	AUX	-	0:02:53.866000	0:02:54.253000
 das	der	DET	-	0:02:53.866000	0:02:54.253000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:53.866000" end="0:02:54.253000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:53.866000" end="0:02:54.253000" persName="Informant 0371">
 ja	ja	PART	-	0:02:53.866000	0:02:54.253000
 .	-	-	-	0:02:53.866000	0:02:54.253000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:54.253000" end="0:02:54.746000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:54.253000" end="0:02:54.746000" persName="Informant 0373">
 Fairste	Fairste	NOUN	-	0:02:54.253000	0:02:54.746000
 .	-	-	-	0:02:54.253000	0:02:54.746000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:54.746000" end="0:02:58.899000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:54.746000" end="0:02:58.899000" persName="Informant 0371">
 ja	ja	ADV	-	0:02:54.746000	0:02:55.805000
 sicher	sichern	ADJ	-	0:02:54.746000	0:02:55.805000
 .	-	-	-	0:02:54.746000	0:02:55.805000
@@ -892,7 +893,7 @@ immer	-	-	-	0:02:55.805000	0:02:58.899000
 _hab_	-	-	-	0:02:55.805000	0:02:58.899000
 .	-	-	-	0:02:55.805000	0:02:58.899000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:58.899000" end="0:03:00.433000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:02:58.899000" end="0:03:00.433000" persName="Informant 0373">
 ja	ja	PART	-	0:02:58.899000	0:02:59.839000
 und	und	CCONJ	-	0:02:58.899000	0:02:59.839000
 so	so	ADV	-	0:02:58.899000	0:02:59.839000
@@ -901,7 +902,7 @@ es	ich	PRON	-	0:02:58.899000	0:02:59.839000
 Schicksal	Schicksal	NOUN	-	0:02:59.839000	0:03:00.433000
 .	-	-	-	0:02:59.839000	0:03:00.433000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:59.839000" end="0:03:03.373000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:02:59.839000" end="0:03:03.373000" persName="Informant 0371">
 so	so	ADV	F LautNach LautVor MG mhd. /ô/ oDiph oReal oVar sentstr stress+ Wurzel	0:03:00.433000	0:03:00.973000
 ist	sein	AUX	-	0:03:00.433000	0:03:00.973000
 es	ich	PRON	-	0:03:00.433000	0:03:00.973000
@@ -910,11 +911,11 @@ es	ich	PRON	-	0:03:00.433000	0:03:00.973000
 nein	nein	PART	-	0:03:00.973000	0:03:03.373000
 .	-	-	-	0:03:00.973000	0:03:03.373000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:03.373000" end="0:03:04.486000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:03.373000" end="0:03:04.486000" persName="Informant 0373">
 nein	nein	PART	-	0:03:03.373000	0:03:04.486000
 .	-	-	-	0:03:03.373000	0:03:04.486000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:03.373000" end="0:03:06.179000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:03.373000" end="0:03:06.179000" persName="Informant 0371">
 die	-	-	-	0:03:03.373000	0:03:04.486000
 _dings_	-	-	-	0:03:03.373000	0:03:04.486000
 waren	-	-	-	0:03:03.373000	0:03:04.486000
@@ -924,34 +925,34 @@ die	der	DET	-	0:03:04.486000	0:03:06.179000
 Landesfragen	Landesfragen	NOUN	-	0:03:04.486000	0:03:06.179000
 .	-	-	-	0:03:04.486000	0:03:06.179000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:06.179000" end="0:03:08.159000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:06.179000" end="0:03:08.159000" persName="Informant 0373">
 ja	ja	PART	-	0:03:06.179000	0:03:08.159000
 ,	-	-	-	0:03:06.179000	0:03:08.159000
 eine	einen	DET	-	0:03:06.179000	0:03:08.159000
 Vollkatastrophe	Vollkatastrophe	NOUN	-	0:03:06.179000	0:03:08.159000
 .	-	-	-	0:03:06.179000	0:03:08.159000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:06.179000" end="0:03:08.159000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:06.179000" end="0:03:08.159000" persName="Informant 0371">
 die	der	DET	-	0:03:06.179000	0:03:08.159000
-[Annika]N	Annika	NOUN	-	0:03:06.179000	0:03:08.159000
+NAME	NAME	NOUN	-	0:03:06.179000	0:03:08.159000
 hat	haben	AUX	-	0:03:06.179000	0:03:08.159000
 gesagt	sagen	VERB	-	0:03:06.179000	0:03:08.159000
 ein	einen	DET	-	0:03:06.179000	0:03:08.159000
 Vollscheiß	Vollscheiß	NOUN	Expr Int Komp level N neg WA WBA Wert	0:03:06.179000	0:03:08.159000
 .	-	-	-	0:03:06.179000	0:03:08.159000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:08.159000" end="0:03:09.546000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:08.159000" end="0:03:09.546000" persName="Informant 0373">
 die	der	DET	-	0:03:08.159000	0:03:09.546000
 meisten	meist	DET	-	0:03:08.159000	0:03:09.546000
 Punkte	Punkt	NOUN	-	0:03:08.159000	0:03:09.546000
 ,	-	-	-	0:03:08.159000	0:03:09.546000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:08.159000" end="0:03:09.546000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:08.159000" end="0:03:09.546000" persName="Informant 0371">
 nichts	nichts	PRON	-	0:03:08.159000	0:03:09.546000
 nämlich/	-	-	-	0:03:08.159000	0:03:09.546000
 .	-	-	-	0:03:08.159000	0:03:09.546000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:09.546000" end="0:03:12.246000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:09.546000" end="0:03:12.246000" persName="Informant 0373">
 *was*	-	-	-	0:03:09.546000	0:03:10.399000
 gekriegt	-	-	-	0:03:09.546000	0:03:10.399000
 haben	-	-	-	0:03:09.546000	0:03:10.399000
@@ -964,7 +965,7 @@ von	von	ADP	-	0:03:10.399000	0:03:12.246000
 zwanzig	zwanzig	NUM	-	0:03:10.399000	0:03:12.246000
 .	-	-	-	0:03:10.399000	0:03:12.246000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:12.246000" end="0:03:13.266000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:12.246000" end="0:03:13.266000" persName="Informant 0371">
 und	und	CCONJ	-	0:03:12.246000	0:03:13.266000
 nichts	nichts	PRON	-	0:03:12.246000	0:03:13.266000
 ,	-	-	-	0:03:12.246000	0:03:13.266000
@@ -972,28 +973,28 @@ was	was	PRON	-	0:03:12.246000	0:03:13.266000
 im	im	ADP	-	0:03:12.246000	0:03:13.266000
 Heftel	Heftel	NOUN	DIM eDiph -(e)l eReal eVar F Interf Interf- IRR LautNach LautVor mhd. /e/ sd- SDent sentstr stress+ Suff U- Uml Wurzel	0:03:12.246000	0:03:13.266000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:13.266000" end="0:03:14.099000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:13.266000" end="0:03:14.099000" persName="Informant 0373">
 nein	nein	PART	-	0:03:13.266000	0:03:14.099000
 gar	gar	ADV	-	0:03:13.266000	0:03:14.099000
 nichts	nichts	PRON	-	0:03:13.266000	0:03:14.099000
 .	-	-	-	0:03:13.266000	0:03:14.099000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:13.266000" end="0:03:14.393000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:13.266000" end="0:03:14.393000" persName="Informant 0371">
 drinnen	drinnen	ADV	-	0:03:13.266000	0:03:14.099000
 steht	stehen	VERB	eMono eReal eVar LautNach LautVor mhd. /ê/ P sentstr stress- Wurzel	0:03:13.266000	0:03:14.099000
 ,	-	-	-	0:03:13.266000	0:03:14.099000
 alles	alle	PRON	-	0:03:13.266000	0:03:14.099000
 nur	nur	ADV	-	0:03:14.099000	0:03:14.393000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:14.393000" end="0:03:15.226000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:14.393000" end="0:03:15.226000" persName="Informant 0373">
 und	und	CCONJ	-	0:03:14.393000	0:03:15.226000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:14.393000" end="0:03:15.226000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:14.393000" end="0:03:15.226000" persName="Informant 0371">
 irgendein	irgendein	DET	-	0:03:14.393000	0:03:15.226000
 Scheiß	Scheiß	NOUN	-	0:03:14.393000	0:03:15.226000
 .	-	-	-	0:03:14.393000	0:03:15.226000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:15.226000" end="0:03:19.299000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:15.226000" end="0:03:19.299000" persName="Informant 0373">
 die	der	DET	-	0:03:15.226000	0:03:17.226000
 Landesleiterin	Landesleiterin	NOUN	-	0:03:15.226000	0:03:17.226000
 war	sein	AUX	-	0:03:15.226000	0:03:17.226000
@@ -1006,12 +1007,12 @@ gesagt	sagen	VERB	-	0:03:18.353000	0:03:19.299000
 halt	halt	ADV	-	0:03:18.353000	0:03:19.299000
 .	-	-	-	0:03:18.353000	0:03:19.299000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:18.353000" end="0:03:19.299000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:18.353000" end="0:03:19.299000" persName="Informant 0371">
 die	der	DET	-	0:03:18.353000	0:03:19.299000
-[Andrea]N	Andrea	PROPN	-	0:03:18.353000	0:03:19.299000
+NAME	NAME	PROPN	-	0:03:18.353000	0:03:19.299000
 ?	-	-	-	0:03:18.353000	0:03:19.299000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:19.299000" end="0:03:22.413000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:19.299000" end="0:03:22.413000" persName="Informant 0373">
 ja	ja	PART	-	0:03:19.299000	0:03:19.873000
 .	-	-	-	0:03:19.299000	0:03:19.873000
 ich	ich	PRON	-	0:03:19.873000	0:03:20.233000
@@ -1029,7 +1030,7 @@ i/	-	-	-	0:03:20.233000	0:03:22.413000
 d/	-	-	-	0:03:20.233000	0:03:22.413000
 .	-	-	-	0:03:20.233000	0:03:22.413000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:20.233000" end="0:03:22.413000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:20.233000" end="0:03:22.413000" persName="Informant 0371">
 geh	geh	X	eMono eReal eVar LautNach LautVor MG mhd. /ê/ P sentstr stress+ Wurzel	0:03:20.233000	0:03:22.413000
 ,	-	-	-	0:03:20.233000	0:03:22.413000
 die	der	PRON	-	0:03:20.233000	0:03:22.413000
@@ -1044,7 +1045,7 @@ so	so	ADV	F LautNach LautVor MG mhd. /ô/ oMono oReal oVar sentstr stress- Wurze
 ungut	ungut	ADJ	-	0:03:20.233000	0:03:22.413000
 .	-	-	-	0:03:20.233000	0:03:22.413000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:22.413000" end="0:03:29.546000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:22.413000" end="0:03:29.546000" persName="Informant 0373">
 ich	ich	PRON	-	0:03:22.413000	0:03:23.419000
 habe	habe	AUX	-	0:03:22.413000	0:03:23.419000
 kein	kein	DET	-	0:03:22.413000	0:03:23.419000
@@ -1074,14 +1075,14 @@ _dings_	-	-	-	0:03:25.619000	0:03:28.706000
 eh	-	-	-	0:03:28.706000	0:03:29.546000
 .	-	-	-	0:03:28.706000	0:03:29.546000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:28.706000" end="0:03:30.033000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:28.706000" end="0:03:30.033000" persName="Informant 0371">
 ja	ja	ADV	-	0:03:28.706000	0:03:29.546000
 eh	eh	X	eMono eReal eVar LautNach LautVor MG mhd. /ê/ sentstr stress+ Wurzel	0:03:28.706000	0:03:29.546000
 .	-	-	-	0:03:28.706000	0:03:29.546000
 ja	ja	PART	-	0:03:29.546000	0:03:30.033000
 .	-	-	-	0:03:29.546000	0:03:30.033000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:30.033000" end="0:03:32.153000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:30.033000" end="0:03:32.153000" persName="Informant 0373">
 wie	wie	ADV	-	0:03:30.033000	0:03:30.653000
 es	ich	PRON	-	0:03:30.033000	0:03:30.653000
 jeder	jed	PRON	-	0:03:30.033000	0:03:30.653000
@@ -1090,7 +1091,7 @@ wahrnimmt	wahrnehmen	VERB	-	0:03:30.653000	0:03:32.153000
 aber/	-	-	-	0:03:30.653000	0:03:32.153000
 .	-	-	-	0:03:30.653000	0:03:32.153000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:30.653000" end="0:03:33.079000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:30.653000" end="0:03:33.079000" persName="Informant 0371">
 ja	ja	PART	-	0:03:30.653000	0:03:32.153000
 ,	-	-	-	0:03:30.653000	0:03:32.153000
 irgend/	-	-	-	0:03:30.653000	0:03:32.153000
@@ -1099,7 +1100,7 @@ wahrscheinlich	wahrscheinlich	ADJ	-	0:03:30.653000	0:03:32.153000
 ähm	ähm	X	-	0:03:32.153000	0:03:33.079000
 ähm	ähm	X	-	0:03:32.153000	0:03:33.079000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:33.079000" end="0:03:35.493000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:33.079000" end="0:03:35.493000" persName="Informant 0373">
 einen	ein	DET	-	0:03:33.079000	0:03:33.906000
 Scheißtag	Scheißtag	NOUN	Expr Int Komp level N neg WA WBA Wert	0:03:33.079000	0:03:33.906000
 gehabt	haben	AUX	-	0:03:33.079000	0:03:33.906000
@@ -1107,7 +1108,7 @@ halt	halt	ADV	-	0:03:33.906000	0:03:35.493000
 und/	-	-	-	0:03:33.906000	0:03:35.493000
 .	-	-	-	0:03:33.906000	0:03:35.493000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:33.906000" end="0:03:37.586000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:33.906000" end="0:03:37.586000" persName="Informant 0371">
 ja	ja	PART	-	0:03:33.906000	0:03:35.493000
 ,	-	-	-	0:03:33.906000	0:03:35.493000
 so	so	ADV	F LautNach LautVor MG mhd. /ô/ oDiph oReal oVar sentstr stress+ Wurzel	0:03:33.906000	0:03:35.493000
@@ -1122,7 +1123,7 @@ _wurscht_	-	-	-	0:03:36.393000	0:03:37.586000
 irgendwas	irgendwas	PRON	-	0:03:36.393000	0:03:37.586000
 .	-	-	-	0:03:36.393000	0:03:37.586000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:37.586000" end="0:03:39.459000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:37.586000" end="0:03:39.459000" persName="Informant 0373">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	0:03:37.586000	0:03:39.459000
 wird	werden	AUX	-	0:03:37.586000	0:03:39.459000
@@ -1130,7 +1131,7 @@ so	so	ADV	-	0:03:37.586000	0:03:39.459000
 sein	mein	AUX	-	0:03:37.586000	0:03:39.459000
 .	-	-	-	0:03:37.586000	0:03:39.459000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:39.459000" end="0:03:40.906000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:39.459000" end="0:03:40.906000" persName="Informant 0371">
 aber	aber	CCONJ	-	0:03:39.459000	0:03:40.906000
 sonst	sonst	ADV	-	0:03:39.459000	0:03:40.906000
 ist	sein	AUX	-	0:03:39.459000	0:03:40.906000
@@ -1142,7 +1143,7 @@ so	so	ADV	F LautNach LautVor MG mhd. /ô/ oDiph oReal oVar sentstr stress- Wurze
 ne	ne	ADV	-	0:03:39.459000	0:03:40.906000
 .	-	-	-	0:03:39.459000	0:03:40.906000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:40.906000" end="0:03:44.932000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:40.906000" end="0:03:44.932000" persName="Informant 0373">
 nein	nein	PART	-	0:03:40.906000	0:03:42.012000
 ,	-	-	-	0:03:40.906000	0:03:42.012000
 sie	ich	PRON	-	0:03:40.906000	0:03:42.012000
@@ -1162,7 +1163,7 @@ schon	schon	ADV	-	0:03:42.999000	0:03:44.932000
 kann	können	VERB	-	0:03:42.999000	0:03:44.932000
 .	-	-	-	0:03:42.999000	0:03:44.932000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:44.932000" end="0:03:48.879000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:44.932000" end="0:03:48.879000" persName="Informant 0371">
 ich	ich	PRON	-	0:03:44.932000	0:03:46.852000
 puh	puh	VERB	-	0:03:44.932000	0:03:46.852000
 ,	-	-	-	0:03:44.932000	0:03:46.852000
@@ -1184,11 +1185,11 @@ ich	ich	PRON	-	0:03:46.852000	0:03:48.879000
 schon	schon	ADV	-	0:03:46.852000	0:03:48.879000
 .	-	-	-	0:03:46.852000	0:03:48.879000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:48.879000" end="0:03:49.186000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:48.879000" end="0:03:49.186000" persName="Informant 0373">
 naja	naja	INTJ	-	0:03:48.879000	0:03:49.186000
 .	-	-	-	0:03:48.879000	0:03:49.186000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:49.186000" end="0:03:51.719000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:49.186000" end="0:03:51.719000" persName="Informant 0371">
 sicher	-	-	-	0:03:49.186000	0:03:51.719000
 jeder	-	-	Ap eMono eReal eVar LautNach LautVor mhd. /e/ P sentstr stress- Wurzel	0:03:49.186000	0:03:51.719000
 kann	-	-	-	0:03:49.186000	0:03:51.719000
@@ -1197,13 +1198,13 @@ von	-	-	-	0:03:49.186000	0:03:51.719000
 denen	-	-	-	0:03:49.186000	0:03:51.719000
 .	-	-	-	0:03:49.186000	0:03:51.719000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:51.719000" end="0:03:52.418000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:51.719000" end="0:03:52.418000" persName="Informant 0373">
 ich	ich	PRON	-	0:03:51.719000	0:03:52.418000
 glaube	glauben	VERB	-	0:03:51.719000	0:03:52.418000
 auch	auch	ADV	-	0:03:51.719000	0:03:52.418000
 .	-	-	-	0:03:51.719000	0:03:52.418000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:52.418000" end="0:03:55.112000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:03:52.418000" end="0:03:55.112000" persName="Informant 0371">
 <pause duration="1,3s"/>
 haben	haben	AUX	-	0:03:52.418000	0:03:55.112000
 sie	ich	PRON	-	0:03:52.418000	0:03:55.112000
@@ -1211,7 +1212,7 @@ souverän	souverän	ADJ	-	0:03:52.418000	0:03:55.112000
 gewonnen	gewinnen	VERB	-	0:03:52.418000	0:03:55.112000
 ?	-	-	-	0:03:52.418000	0:03:55.112000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:55.112000" end="0:04:08.792000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:03:55.112000" end="0:04:08.792000" persName="Informant 0373">
 mit	mit	ADP	-	0:03:55.112000	0:04:01.566000
 <pause duration="1,5s"/>
 fünf	fünf	NUM	-	0:03:55.112000	0:04:01.566000
@@ -1248,7 +1249,7 @@ finde	finden	VERB	-	0:04:08.426000	0:04:08.792000
 ich	ich	PRON	-	0:04:08.426000	0:04:08.792000
 .	-	-	-	0:04:08.426000	0:04:08.792000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:08.792000" end="0:04:10.699000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:08.792000" end="0:04:10.699000" persName="Informant 0371">
 <pause duration="0,9s"/>
 nein	nein	PART	-	0:04:08.792000	0:04:10.699000
 ,	-	-	-	0:04:08.792000	0:04:10.699000
@@ -1256,7 +1257,7 @@ nein	nein	PART	-	0:04:08.792000	0:04:10.699000
 nicht	nicht	PART	-	0:04:08.792000	0:04:10.699000
 .	-	-	-	0:04:08.792000	0:04:10.699000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:10.699000" end="0:04:21.206000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:10.699000" end="0:04:21.206000" persName="Informant 0373">
 <pause duration="0,9s"/>
 der	der	DET	-	0:04:10.699000	0:04:12.932000
 Zweite	Zweiter	NOUN	-	0:04:10.699000	0:04:12.932000
@@ -1290,17 +1291,17 @@ hinten	hinten	ADP	-	0:04:19.112000	0:04:20.918000
 ,	-	-	-	0:04:19.112000	0:04:20.918000
 also	also	ADV	-	0:04:20.918000	0:04:21.206000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:21.206000" end="0:04:21.572000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:21.206000" end="0:04:21.572000" persName="Informant 0371">
 ja	ja	PART	-	0:04:21.206000	0:04:21.572000
 .	-	-	-	0:04:21.206000	0:04:21.572000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:21.572000" end="0:04:22.432000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:21.572000" end="0:04:22.432000" persName="Informant 0373">
 es	ich	PRON	-	0:04:21.572000	0:04:22.432000
 ist	sein	AUX	-	0:04:21.572000	0:04:22.432000
 gegangen	gehen	VERB	-	0:04:21.572000	0:04:22.432000
 .	-	-	-	0:04:21.572000	0:04:22.432000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:22.432000" end="0:04:24.879000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:22.432000" end="0:04:24.879000" persName="Informant 0371">
 <pause duration="1,5s"/>
 ja	ja	PART	-	0:04:22.432000	0:04:24.879000
 ,	-	-	-	0:04:22.432000	0:04:24.879000
@@ -1309,11 +1310,11 @@ geht	gehen	VERB	-	0:04:22.432000	0:04:24.879000
 dann	dann	ADV	-	0:04:22.432000	0:04:24.879000
 .	-	-	-	0:04:22.432000	0:04:24.879000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:24.879000" end="0:04:25.246000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:24.879000" end="0:04:25.246000" persName="Informant 0373">
 ja	ja	PART	-	0:04:24.879000	0:04:25.246000
 .	-	-	-	0:04:24.879000	0:04:25.246000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:25.246000" end="0:04:27.986000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:25.246000" end="0:04:27.986000" persName="Informant 0371">
 <pause duration="1,7s"/>
 das	der	PRON	-	0:04:25.246000	0:04:27.986000
 ist	sein	AUX	-	0:04:25.246000	0:04:27.986000
@@ -1321,7 +1322,7 @@ dann	dann	ADV	-	0:04:25.246000	0:04:27.986000
 wirklich/	-	-	-	0:04:25.246000	0:04:27.986000
 .	-	-	-	0:04:25.246000	0:04:27.986000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:27.986000" end="0:04:34.719000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:27.986000" end="0:04:34.719000" persName="Informant 0373">
 waren	sein	AUX	-	0:04:27.986000	0:04:29.452000
 alle	all	DET	-	0:04:27.986000	0:04:29.452000
 recht	recht	NOUN	-	0:04:27.986000	0:04:29.452000
@@ -1347,17 +1348,17 @@ Leute	Leute	NOUN	-	0:04:33.046000	0:04:34.719000
 ja	ja	PART	-	0:04:33.046000	0:04:34.719000
 .	-	-	-	0:04:33.046000	0:04:34.719000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:34.719000" end="0:04:36.086000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:34.719000" end="0:04:36.086000" persName="Informant 0371">
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:04:34.719000	0:04:36.086000
 oft	oft	ADV	-	0:04:34.719000	0:04:36.086000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:36.086000" end="0:04:37.066000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:36.086000" end="0:04:37.066000" persName="Informant 0373">
 ist	sein	AUX	-	0:04:36.086000	0:04:37.066000
 so	so	ADV	-	0:04:36.086000	0:04:37.066000
 .	-	-	-	0:04:36.086000	0:04:37.066000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:36.086000" end="0:04:37.939000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:36.086000" end="0:04:37.939000" persName="Informant 0371">
 kommt	kommen	VERB	-	0:04:36.086000	0:04:37.066000
 auch	auch	ADV	-	0:04:36.086000	0:04:37.066000
 oft	oft	ADV	-	0:04:36.086000	0:04:37.066000
@@ -1369,14 +1370,14 @@ darauf	darauf	ADV	-	0:04:37.066000	0:04:37.939000
 an	an	ADP	-	0:04:37.066000	0:04:37.939000
 ,	-	-	-	0:04:37.066000	0:04:37.939000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:37.939000" end="0:04:38.939000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:37.939000" end="0:04:38.939000" persName="Informant 0373">
 kann	können	VERB	-	0:04:37.939000	0:04:38.939000
 man	man	PRON	-	0:04:37.939000	0:04:38.939000
 nichts	nichts	PRON	-	0:04:37.939000	0:04:38.939000
 machen	machen	VERB	-	0:04:37.939000	0:04:38.939000
 ,	-	-	-	0:04:37.939000	0:04:38.939000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:37.939000" end="0:04:38.939000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:37.939000" end="0:04:38.939000" persName="Informant 0371">
 weiß	weiß	VERB	-	0:04:37.939000	0:04:38.939000
 nicht	nicht	PART	-	0:04:37.939000	0:04:38.939000
 ,	-	-	-	0:04:37.939000	0:04:38.939000
@@ -1385,7 +1386,7 @@ was/	-	-	-	0:04:37.939000	0:04:38.939000
 ja	ja	PART	-	0:04:37.939000	0:04:38.939000
 .	-	-	-	0:04:37.939000	0:04:38.939000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:38.939000" end="0:04:42.072000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:38.939000" end="0:04:42.072000" persName="Informant 0373">
 *brauchst*	-	-	-	0:04:38.939000	0:04:41.132000
 nicht	-	-	-	0:04:38.939000	0:04:41.132000
 viel	-	-	-	0:04:38.939000	0:04:41.132000
@@ -1394,11 +1395,11 @@ warum	-	-	-	0:04:41.132000	0:04:42.072000
 ,	-	-	-	0:04:41.132000	0:04:42.072000
 sondern	sondern	CCONJ	-	0:04:41.132000	0:04:42.072000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:41.132000" end="0:04:42.072000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:41.132000" end="0:04:42.072000" persName="Informant 0371">
 nein	nein	PART	-	0:04:41.132000	0:04:42.072000
 .	-	-	-	0:04:41.132000	0:04:42.072000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:42.072000" end="0:04:44.066000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:42.072000" end="0:04:44.066000" persName="Informant 0373">
 das	der	PRON	-	0:04:42.072000	0:04:44.066000
 ist	sein	AUX	-	0:04:42.072000	0:04:44.066000
 einfach	einfach	ADJ	-	0:04:42.072000	0:04:44.066000
@@ -1407,7 +1408,7 @@ manchmal/	-	-	-	0:04:42.072000	0:04:44.066000
 genau	genau	ADJ	-	0:04:42.072000	0:04:44.066000
 .	-	-	-	0:04:42.072000	0:04:44.066000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:42.072000" end="0:04:44.892000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:42.072000" end="0:04:44.892000" persName="Informant 0371">
 und	und	CCONJ	-	0:04:42.072000	0:04:44.066000
 nächstes	nächst	ADJ	-	0:04:42.072000	0:04:44.066000
 Jahr	Jahr	NOUN	-	0:04:42.072000	0:04:44.066000
@@ -1418,11 +1419,11 @@ fünfundzwanzig	fünfundzwanzig	ADJ	-	0:04:44.066000	0:04:44.892000
 Teams	Team	NOUN	-	0:04:44.066000	0:04:44.892000
 ,	-	-	-	0:04:44.066000	0:04:44.892000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:44.892000" end="0:04:45.599000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:44.892000" end="0:04:45.599000" persName="Informant 0373">
 ja	ja	PART	-	0:04:44.892000	0:04:45.599000
 .	-	-	-	0:04:44.892000	0:04:45.599000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:44.892000" end="0:04:46.866000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:44.892000" end="0:04:46.866000" persName="Informant 0371">
 oder	-	-	-	0:04:44.892000	0:04:45.599000
 *weißt*	-	-	-	0:04:44.892000	0:04:45.599000
 ja	-	-	-	0:04:44.892000	0:04:45.599000
@@ -1432,14 +1433,14 @@ nicht	-	-	-	0:04:44.892000	0:04:45.599000
 nein	nein	PART	-	0:04:45.599000	0:04:46.866000
 .	-	-	-	0:04:45.599000	0:04:46.866000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:46.866000" end="0:04:49.386000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:46.866000" end="0:04:49.386000" persName="Informant 0373">
 <pause duration="1,4s"/>
 bei	bei	ADP	-	0:04:46.866000	0:04:49.386000
 die	der	DET	-	0:04:46.866000	0:04:49.386000
 Quizsachen	Quizsachen	NOUN	-	0:04:46.866000	0:04:49.386000
 .	-	-	-	0:04:46.866000	0:04:49.386000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:49.386000" end="0:04:52.512000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:49.386000" end="0:04:52.512000" persName="Informant 0371">
 <pause duration="0,9s"/>
 nächstes	nächst	ADJ	-	0:04:49.386000	0:04:51.532000
 Jahr	Jahr	NOUN	-	0:04:49.386000	0:04:51.532000
@@ -1457,14 +1458,14 @@ den	der	DET	-	0:04:51.532000	0:04:52.512000
 Scheiß	Scheiß	NOUN	-	0:04:51.532000	0:04:52.512000
 .	-	-	-	0:04:51.532000	0:04:52.512000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:52.512000" end="0:04:53.112000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:52.512000" end="0:04:53.112000" persName="Informant 0373">
 da	da	ADV	-	0:04:52.512000	0:04:53.112000
 helfe	helfen	VERB	-	0:04:52.512000	0:04:53.112000
 ich	ich	PRON	-	0:04:52.512000	0:04:53.112000
 auch	auch	ADV	-	0:04:52.512000	0:04:53.112000
 .	-	-	-	0:04:52.512000	0:04:53.112000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:53.112000" end="0:04:55.999000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:04:53.112000" end="0:04:55.999000" persName="Informant 0371">
 ja	ja	PART	-	0:04:53.112000	0:04:54.479000
 ,	-	-	-	0:04:53.112000	0:04:54.479000
 deswegen	deswegen	ADV	-	0:04:53.112000	0:04:54.479000
@@ -1480,7 +1481,7 @@ bei	bei	ADP	-	0:04:54.479000	0:04:55.999000
 die	der	PRON	-	0:04:54.479000	0:04:55.999000
 .	-	-	-	0:04:54.479000	0:04:55.999000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:55.999000" end="0:05:03.272000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:04:55.999000" end="0:05:03.272000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:04:55.999000	0:05:00.706000
 heuer/	-	-	-	0:04:55.999000	0:05:00.706000
 .	-	-	-	0:04:55.999000	0:05:00.706000
@@ -1499,7 +1500,7 @@ es	ich	PRON	-	0:05:02.386000	0:05:03.272000
 erledigt	erledigen	VERB	-	0:05:02.386000	0:05:03.272000
 .	-	-	-	0:05:02.386000	0:05:03.272000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:02.386000" end="0:05:06.506000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:02.386000" end="0:05:06.506000" persName="Informant 0371">
 ah	ah	X	-	0:05:02.386000	0:05:03.272000
 stimmt	stimmen	VERB	-	0:05:02.386000	0:05:03.272000
 ,	-	-	-	0:05:02.386000	0:05:03.272000
@@ -1516,7 +1517,7 @@ aller	all	PRON	-	0:05:04.219000	0:05:06.506000
 heraus	heraus	ADP	-	0:05:04.219000	0:05:06.506000
 ?	-	-	-	0:05:04.219000	0:05:06.506000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:06.506000" end="0:05:17.632000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:06.506000" end="0:05:17.632000" persName="Informant 0373">
 <pause duration="0,8s"/>
 sieben	sieben	NUM	-	0:05:06.506000	0:05:08.412000
 Leute	Leute	NOUN	-	0:05:06.506000	0:05:08.412000
@@ -1524,42 +1525,42 @@ sind	sein	AUX	-	0:05:06.506000	0:05:08.412000
 wir	ich	PRON	-	0:05:06.506000	0:05:08.412000
 ,	-	-	-	0:05:06.506000	0:05:08.412000
 der	der	DET	-	0:05:08.412000	0:05:12.419000
-[Martinelli]N	Martinelli	PROPN	-	0:05:08.412000	0:05:12.419000
+NAME	NAME	PROPN	-	0:05:08.412000	0:05:12.419000
 ,	-	-	-	0:05:08.412000	0:05:12.419000
 der	der	DET	-	0:05:08.412000	0:05:12.419000
-[Gmarl]N	Gmarl	NOUN	-	0:05:08.412000	0:05:12.419000
+NAME	NAME	NOUN	-	0:05:08.412000	0:05:12.419000
 ,	-	-	-	0:05:08.412000	0:05:12.419000
 die	der	DET	-	0:05:08.412000	0:05:12.419000
-[Kathi]N	Kathi	PROPN	-	0:05:08.412000	0:05:12.419000
+NAME	NAME	PROPN	-	0:05:08.412000	0:05:12.419000
 ,	-	-	-	0:05:08.412000	0:05:12.419000
 die	der	DET	-	0:05:08.412000	0:05:12.419000
-[Julia]N	Julia	PROPN	-	0:05:08.412000	0:05:12.419000
+NAME	NAME	PROPN	-	0:05:08.412000	0:05:12.419000
 ,	-	-	-	0:05:08.412000	0:05:12.419000
 der	der	DET	-	0:05:08.412000	0:05:12.419000
-[Harri]N	Harri	NOUN	-	0:05:08.412000	0:05:12.419000
+NAME	NAME	NOUN	-	0:05:08.412000	0:05:12.419000
 ,	-	-	-	0:05:08.412000	0:05:12.419000
 <pause duration="3,6s"/>
 irgendwen/	-	-	-	0:05:12.419000	0:05:17.632000
 .	-	-	-	0:05:12.419000	0:05:17.632000
 die	der	DET	-	0:05:12.419000	0:05:17.632000
-[Joki]N	Joki	NOUN	-	0:05:12.419000	0:05:17.632000
+NAME	NAME	NOUN	-	0:05:12.419000	0:05:17.632000
 und	und	CCONJ	-	0:05:12.419000	0:05:17.632000
 ich	ich	PRON	-	0:05:12.419000	0:05:17.632000
 .	-	-	-	0:05:12.419000	0:05:17.632000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:17.632000" end="0:05:18.379000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:17.632000" end="0:05:18.379000" persName="Informant 0371">
 die	der	DET	-	0:05:17.632000	0:05:18.379000
-[Joki	Joki	NOUN	-	0:05:17.632000	0:05:18.379000
+NAME	NAME	NOUN	-	0:05:17.632000	0:05:18.379000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:18.379000" end="0:05:18.952000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:18.379000" end="0:05:18.952000" persName="Informant 0373">
 ja	ja	PART	-	0:05:18.379000	0:05:18.952000
 .	-	-	-	0:05:18.379000	0:05:18.952000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:18.379000" end="0:05:18.952000">
-Gerasi]N	Gerasi	NOUN	-	0:05:18.379000	0:05:18.952000
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:18.379000" end="0:05:18.952000" persName="Informant 0371">
+geht hinaus	Gerasi	NOUN	-	0:05:18.379000	0:05:18.952000
 ?	-	-	-	0:05:18.379000	0:05:18.952000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:18.952000" end="0:05:20.619000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:18.952000" end="0:05:20.619000" persName="Informant 0373">
 ja	ja	ADV	-	0:05:18.952000	0:05:20.619000
 die	der	PRON	-	0:05:18.952000	0:05:20.619000
 ist	sein	AUX	-	0:05:18.952000	0:05:20.619000
@@ -1568,21 +1569,21 @@ jetzt	jetzt	ADV	-	0:05:18.952000	0:05:20.619000
 Finnland	Finnland	PROPN	-	0:05:18.952000	0:05:20.619000
 gewesen	sein	AUX	-	0:05:18.952000	0:05:20.619000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:20.619000" end="0:05:21.286000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:20.619000" end="0:05:21.286000" persName="Informant 0371">
 okay	okay	NOUN	-	0:05:20.619000	0:05:21.286000
 .	-	-	-	0:05:20.619000	0:05:21.286000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:21.286000" end="0:05:23.366000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:21.286000" end="0:05:23.366000" persName="Informant 0373">
 seit	seit	ADP	-	0:05:21.286000	0:05:23.366000
 einunddreißigstem	einunddreißigstem	ADJ	-	0:05:21.286000	0:05:23.366000
 Dezember	Dezember	NOUN	-	0:05:21.286000	0:05:23.366000
 .	-	-	-	0:05:21.286000	0:05:23.366000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:23.366000" end="0:05:24.086000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:23.366000" end="0:05:24.086000" persName="Informant 0371">
 ja	ja	PART	-	0:05:23.366000	0:05:24.086000
 .	-	-	-	0:05:23.366000	0:05:24.086000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:24.086000" end="0:05:29.579000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:24.086000" end="0:05:29.579000" persName="Informant 0373">
 und	und	CCONJ	-	0:05:24.086000	0:05:25.472000
 ja	ja	ADV	-	0:05:24.086000	0:05:25.472000
 .	-	-	-	0:05:24.086000	0:05:25.472000
@@ -1598,11 +1599,11 @@ auf	auf	ADP	-	0:05:27.506000	0:05:28.652000
 ,	-	-	-	0:05:27.506000	0:05:28.652000
 weil	weil	SCONJ	-	0:05:28.652000	0:05:29.579000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:29.579000" end="0:05:29.979000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:29.579000" end="0:05:29.979000" persName="Informant 0371">
 ja	ja	PART	-	0:05:29.579000	0:05:29.979000
 .	-	-	-	0:05:29.579000	0:05:29.979000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:29.579000" end="0:05:31.992000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:29.579000" end="0:05:31.992000" persName="Informant 0373">
 sie	ich	PRON	-	0:05:29.579000	0:05:29.979000
 ist	sein	AUX	-	0:05:29.579000	0:05:29.979000
 eh	eh	ADV	-	0:05:29.979000	0:05:31.992000
@@ -1614,7 +1615,7 @@ bis	bis	ADP	-	0:05:29.979000	0:05:31.992000
 oben	oben	ADV	-	0:05:29.979000	0:05:31.992000
 hinaus	hinaus	ADP	-	0:05:29.979000	0:05:31.992000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:31.992000" end="0:05:33.619000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:31.992000" end="0:05:33.619000" persName="Informant 0371">
 ja	ja	ADV	-	0:05:31.992000	0:05:33.619000
 eh	eh	X	-	0:05:31.992000	0:05:33.619000
 ,	-	-	-	0:05:31.992000	0:05:33.619000
@@ -1626,7 +1627,7 @@ ja	ja	ADV	-	0:05:31.992000	0:05:33.619000
 sicher	sichern	ADJ	-	0:05:31.992000	0:05:33.619000
 .	-	-	-	0:05:31.992000	0:05:33.619000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:31.992000" end="0:05:33.619000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:31.992000" end="0:05:33.619000" persName="Informant 0373">
 und	und	CCONJ	-	0:05:31.992000	0:05:33.619000
 auf/	-	-	-	0:05:31.992000	0:05:33.619000
 .	-	-	-	0:05:31.992000	0:05:33.619000
@@ -1638,7 +1639,7 @@ keinen	kein	DET	-	0:05:31.992000	0:05:33.619000
 Sinn	Sinn	NOUN	-	0:05:31.992000	0:05:33.619000
 .	-	-	-	0:05:31.992000	0:05:33.619000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:33.619000" end="0:05:35.266000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:33.619000" end="0:05:35.266000" persName="Informant 0371">
 nein	nein	PART	-	0:05:33.619000	0:05:35.266000
 ,	-	-	-	0:05:33.619000	0:05:35.266000
 das	-	-	-	0:05:33.619000	0:05:35.266000
@@ -1646,7 +1647,7 @@ das	-	-	-	0:05:33.619000	0:05:35.266000
 vergessen	-	-	-	0:05:33.619000	0:05:35.266000
 .	-	-	-	0:05:33.619000	0:05:35.266000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:35.266000" end="0:05:41.746000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:35.266000" end="0:05:41.746000" persName="Informant 0373">
 halt	-	-	-	0:05:35.266000	0:05:36.906000
 für	-	-	-	0:05:35.266000	0:05:36.906000
 das	-	-	-	0:05:35.266000	0:05:36.906000
@@ -1671,11 +1672,11 @@ da	-	-	-	0:05:40.499000	0:05:41.746000
 erst	-	-	-	0:05:40.499000	0:05:41.746000
 .	-	-	-	0:05:40.499000	0:05:41.746000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:41.746000" end="0:05:42.199000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:41.746000" end="0:05:42.199000" persName="Informant 0371">
 was	was	PRON	-	0:05:41.746000	0:05:42.199000
 ?	-	-	-	0:05:41.746000	0:05:42.199000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:42.199000" end="0:05:44.552000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:42.199000" end="0:05:44.552000" persName="Informant 0373">
 da	da	ADV	-	0:05:42.199000	0:05:44.552000
 fehlt	fehlen	VERB	-	0:05:42.199000	0:05:44.552000
 der	der	DET	-	0:05:42.199000	0:05:44.552000
@@ -1688,18 +1689,18 @@ aber	aber	CCONJ	-	0:05:42.199000	0:05:44.552000
 gröber	grob	ADV	-	0:05:42.199000	0:05:44.552000
 .	-	-	-	0:05:42.199000	0:05:44.552000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:44.552000" end="0:05:44.992000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:44.552000" end="0:05:44.992000" persName="Informant 0371">
 echt	echt	ADJ	-	0:05:44.552000	0:05:44.992000
 ?	-	-	-	0:05:44.552000	0:05:44.992000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:44.992000" end="0:05:46.079000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:44.992000" end="0:05:46.079000" persName="Informant 0373">
 ja	ja	PART	-	0:05:44.992000	0:05:46.079000
 bist	sein	AUX	-	0:05:44.992000	0:05:46.079000
 du	du	PRON	-	0:05:44.992000	0:05:46.079000
 deppert	deppert	VERB	-	0:05:44.992000	0:05:46.079000
 .	-	-	-	0:05:44.992000	0:05:46.079000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:46.079000" end="0:05:48.606000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:46.079000" end="0:05:48.606000" persName="Informant 0371">
 also	also	ADV	-	0:05:46.079000	0:05:48.606000
 so	so	ADV	-	0:05:46.079000	0:05:48.606000
 Lauch	Lauch	NOUN	-	0:05:46.079000	0:05:48.606000
@@ -1709,7 +1710,7 @@ oder	oder	CCONJ	-	0:05:46.079000	0:05:48.606000
 was	was	PRON	-	0:05:46.079000	0:05:48.606000
 ?	-	-	-	0:05:46.079000	0:05:48.606000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:48.606000" end="0:05:55.126000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:48.606000" end="0:05:55.126000" persName="Informant 0373">
 ich	ich	PRON	-	0:05:48.606000	0:05:50.019000
 habe	habe	AUX	-	0:05:48.606000	0:05:50.019000
 keine	kein	DET	-	0:05:48.606000	0:05:50.019000
@@ -1737,11 +1738,11 @@ und	und	CCONJ	-	0:05:53.459000	0:05:55.126000
 so	so	ADV	-	0:05:53.459000	0:05:55.126000
 .	-	-	-	0:05:53.459000	0:05:55.126000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:55.126000" end="0:05:56.132000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:05:55.126000" end="0:05:56.132000" persName="Informant 0371">
 geh	geh	X	-	0:05:55.126000	0:05:56.132000
 .	-	-	-	0:05:55.126000	0:05:56.132000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:56.132000" end="0:06:03.592000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:05:56.132000" end="0:06:03.592000" persName="Informant 0373">
 gestern	gestern	ADV	-	0:05:56.132000	0:05:58.132000
 haben	haben	AUX	-	0:05:56.132000	0:05:58.132000
 wir	ich	PRON	-	0:05:56.132000	0:05:58.132000
@@ -1764,14 +1765,14 @@ halbe	halbe	ADJ	-	0:06:00.826000	0:06:03.592000
 Stunde	Stunde	NOUN	-	0:06:00.826000	0:06:03.592000
 ,	-	-	-	0:06:00.826000	0:06:03.592000
 die	der	DET	-	0:06:00.826000	0:06:03.592000
-[Silvi]N	Silvi	NOUN	-	0:06:00.826000	0:06:03.592000
+NAME	NAME	NOUN	-	0:06:00.826000	0:06:03.592000
 hat	haben	AUX	-	0:06:00.826000	0:06:03.592000
 gesagt	sagen	VERB	-	0:06:00.826000	0:06:03.592000
 ,	-	-	-	0:06:00.826000	0:06:03.592000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:03.592000" end="0:06:05.166000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:03.592000" end="0:06:05.166000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:03.592000" end="0:06:05.166000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:03.592000" end="0:06:05.166000" persName="Informant 0373">
 sowas	sowas	PROPN	-	0:06:03.592000	0:06:05.166000
 hat	haben	AUX	-	0:06:03.592000	0:06:05.166000
 sie	ich	PRON	-	0:06:03.592000	0:06:05.166000
@@ -1781,7 +1782,7 @@ nie	nie	ADV	-	0:06:03.592000	0:06:05.166000
 gehabt	haben	AUX	-	0:06:03.592000	0:06:05.166000
 .	-	-	-	0:06:03.592000	0:06:05.166000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:05.166000" end="0:06:07.759000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:05.166000" end="0:06:07.759000" persName="Informant 0371">
 was	was	PRON	-	0:06:05.166000	0:06:07.759000
 ja	ja	ADV	-	0:06:05.166000	0:06:07.759000
 was	was	PRON	-	0:06:05.166000	0:06:07.759000
@@ -1794,7 +1795,7 @@ der	der	DET	-	0:06:05.166000	0:06:07.759000
 Schlussfigur	Schlussfigur	NOUN	-	0:06:05.166000	0:06:07.759000
 ?	-	-	-	0:06:05.166000	0:06:07.759000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:07.759000" end="0:06:11.026000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:07.759000" end="0:06:11.026000" persName="Informant 0373">
 nichts	nichts	PRON	-	0:06:07.759000	0:06:09.599000
 ,	-	-	-	0:06:07.759000	0:06:09.599000
 aber	aber	CCONJ	-	0:06:07.759000	0:06:09.599000
@@ -1813,11 +1814,11 @@ wer	wer	PRON	-	0:06:09.599000	0:06:10.412000
 schon	-	-	-	0:06:10.412000	0:06:11.026000
 .	-	-	-	0:06:10.412000	0:06:11.026000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:11.026000" end="0:06:11.539000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:11.026000" end="0:06:11.539000" persName="Informant 0371">
 ja	ja	PART	-	0:06:11.026000	0:06:11.539000
 .	-	-	-	0:06:11.026000	0:06:11.539000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:11.539000" end="0:06:24.906000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:11.539000" end="0:06:24.906000" persName="Informant 0373">
 zuerst	zuerst	ADV	-	0:06:11.539000	0:06:14.419000
 ähm	ähm	ADJ	-	0:06:11.539000	0:06:14.419000
 drei	drei	NUM	-	0:06:11.539000	0:06:14.419000
@@ -1867,7 +1868,7 @@ machen	machen	VERB	-	0:06:19.219000	0:06:20.646000
 sie	ich	PRON	-	0:06:19.219000	0:06:20.646000
 ?	-	-	-	0:06:19.219000	0:06:20.646000
 die	der	DET	-	0:06:20.646000	0:06:23.099000
-[Silvia]N	Silvia	NOUN	-	0:06:20.646000	0:06:23.099000
+NAME	NAME	NOUN	-	0:06:20.646000	0:06:23.099000
 so	so	ADV	-	0:06:20.646000	0:06:23.099000
 ja	ja	ADV	-	0:06:20.646000	0:06:23.099000
 das	der	PRON	-	0:06:20.646000	0:06:23.099000
@@ -1886,9 +1887,9 @@ nicht	nicht	PART	-	0:06:24.032000	0:06:24.906000
 gegangen	gehen	VERB	-	0:06:24.032000	0:06:24.906000
 .	-	-	-	0:06:24.032000	0:06:24.906000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:24.906000" end="0:06:28.139000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:24.906000" end="0:06:28.139000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:24.906000" end="0:06:28.632000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:24.906000" end="0:06:28.632000" persName="Informant 0373">
 gell	gell	ADJ	-	0:06:24.906000	0:06:28.139000
 und	und	CCONJ	-	0:06:24.906000	0:06:28.139000
 dann	dann	ADV	-	0:06:24.906000	0:06:28.139000
@@ -1904,16 +1905,16 @@ gell	gell	ADJ	-	0:06:24.906000	0:06:28.139000
 "was	was	PRON	-	0:06:28.139000	0:06:28.632000
 tun	tun	VERB	-	0:06:28.139000	0:06:28.632000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:28.632000" end="0:06:28.959000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:28.632000" end="0:06:28.959000" persName="Informant 0371">
 nein	nein	PART	-	0:06:28.632000	0:06:28.959000
 .	-	-	-	0:06:28.632000	0:06:28.959000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:28.632000" end="0:06:37.712000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:28.632000" end="0:06:37.712000" persName="Informant 0373">
 wir	ich	PRON	-	0:06:28.632000	0:06:28.959000
 ?"	-	-	-	0:06:28.632000	0:06:28.959000
 und	-	-	-	0:06:28.632000	0:06:28.959000
 die	-	-	-	0:06:28.959000	0:06:31.339000
-[Silvia]N	-	-	-	0:06:28.959000	0:06:31.339000
+NAME	NAME	-	-	0:06:28.959000	0:06:31.339000
 "jetzt	-	-	-	0:06:28.959000	0:06:31.339000
 *probierts*	-	-	-	0:06:28.959000	0:06:31.339000
 einmal	-	-	-	0:06:28.959000	0:06:31.339000
@@ -1943,14 +1944,14 @@ geht/	-	-	-	0:06:35.326000	0:06:37.712000
 nein	nein	PART	-	0:06:35.326000	0:06:37.712000
 .	-	-	-	0:06:35.326000	0:06:37.712000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:37.712000" end="0:06:38.646000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:37.712000" end="0:06:38.646000" persName="Informant 0371">
 gibt	geben	VERB	-	0:06:37.712000	0:06:38.646000
 es	ich	PRON	-	0:06:37.712000	0:06:38.646000
 ja	ja	ADV	-	0:06:37.712000	0:06:38.646000
 nicht	nicht	PART	-	0:06:37.712000	0:06:38.646000
 .	-	-	-	0:06:37.712000	0:06:38.646000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:38.646000" end="0:06:42.772000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:38.646000" end="0:06:42.772000" persName="Informant 0373">
 da	-	-	-	0:06:38.646000	0:06:40.446000
 bin	-	-	-	0:06:38.646000	0:06:40.446000
 ich	-	-	-	0:06:38.646000	0:06:40.446000
@@ -1968,7 +1969,7 @@ Stunde	-	-	-	0:06:40.446000	0:06:42.772000
 herumscheißt	-	-	-	0:06:40.446000	0:06:42.772000
 .	-	-	-	0:06:40.446000	0:06:42.772000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:42.772000" end="0:06:46.539000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:42.772000" end="0:06:46.539000" persName="Informant 0371">
 (ja)	ja	ADV	-	0:06:42.772000	0:06:45.499000
 noch	noch	ADV	-	0:06:42.772000	0:06:45.499000
 nie	nie	ADV	-	0:06:42.772000	0:06:45.499000
@@ -1980,16 +1981,16 @@ und	und	CCONJ	-	0:06:45.499000	0:06:46.539000
 dann/	-	-	-	0:06:45.499000	0:06:46.539000
 .	-	-	-	0:06:45.499000	0:06:46.539000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:45.499000" end="0:06:47.532000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:45.499000" end="0:06:47.532000" persName="Informant 0373">
 ja	ja	PART	-	0:06:45.499000	0:06:46.539000
 .	-	-	-	0:06:45.499000	0:06:46.539000
 keine	kein	DET	-	0:06:46.539000	0:06:47.532000
 Ahnung	Ahnung	NOUN	-	0:06:46.539000	0:06:47.532000
 .	-	-	-	0:06:46.539000	0:06:47.532000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:47.532000" end="0:06:50.146000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:47.532000" end="0:06:50.146000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:47.532000" end="0:06:52.252000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:47.532000" end="0:06:52.252000" persName="Informant 0373">
 <pause duration="1,5s"/>
 und	und	CCONJ	-	0:06:47.532000	0:06:50.146000
 alleweil	alleweil	NOUN	-	0:06:47.532000	0:06:50.146000
@@ -2004,7 +2005,7 @@ Probe	Probe	NOUN	-	0:06:50.146000	0:06:51.759000
 ,	-	-	-	0:06:50.146000	0:06:51.759000
 weil	weil	SCONJ	-	0:06:51.759000	0:06:52.252000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:52.252000" end="0:06:54.886000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:52.252000" end="0:06:54.886000" persName="Informant 0371">
 aha	aha	PROPN	-	0:06:52.252000	0:06:54.886000
 ,	-	-	-	0:06:52.252000	0:06:54.886000
 also	also	ADV	-	0:06:52.252000	0:06:54.886000
@@ -2017,7 +2018,7 @@ im/	-	-	-	0:06:52.252000	0:06:54.886000
 also/	-	-	-	0:06:52.252000	0:06:54.886000
 .	-	-	-	0:06:52.252000	0:06:54.886000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:52.252000" end="0:06:54.886000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:52.252000" end="0:06:54.886000" persName="Informant 0373">
 i/	-	-	-	0:06:52.252000	0:06:54.886000
 ist	sein	AUX	-	0:06:52.252000	0:06:54.886000
 ja	ja	ADV	-	0:06:52.252000	0:06:54.886000
@@ -2029,11 +2030,11 @@ Stress	Stress	NOUN	-	0:06:52.252000	0:06:54.886000
 eh	-	-	-	0:06:52.252000	0:06:54.886000
 .	-	-	-	0:06:52.252000	0:06:54.886000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:54.886000" end="0:06:55.599000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:54.886000" end="0:06:55.599000" persName="Informant 0371">
 nein	nein	PART	-	0:06:54.886000	0:06:55.599000
 .	-	-	-	0:06:54.886000	0:06:55.599000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:55.599000" end="0:06:57.852000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:55.599000" end="0:06:57.852000" persName="Informant 0373">
 ist	sein	AUX	-	0:06:55.599000	0:06:56.746000
 ja	ja	ADV	-	0:06:55.599000	0:06:56.746000
 erst	erst	ADV	-	0:06:55.599000	0:06:56.746000
@@ -2044,18 +2045,18 @@ ich	ich	PRON	-	0:06:56.746000	0:06:57.852000
 meine	meinen	VERB	-	0:06:56.746000	0:06:57.852000
 .	-	-	-	0:06:56.746000	0:06:57.852000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:57.852000" end="0:06:59.132000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:57.852000" end="0:06:59.132000" persName="Informant 0371">
 ja	ja	PART	-	0:06:57.852000	0:06:59.132000
 was	was	PRON	-	0:06:57.852000	0:06:59.132000
 tun	tun	VERB	-	0:06:57.852000	0:06:59.132000
 sie	ich	PRON	-	0:06:57.852000	0:06:59.132000
 sich	sich	PRON	-	0:06:57.852000	0:06:59.132000
-hinunter	-	-	-	0:06:57.852000	0:06:59.132000
+an_bitte	-	-	-	0:06:57.852000	0:06:59.132000
 ,	-	-	-	0:06:57.852000	0:06:59.132000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:57.852000" end="0:06:59.132000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:57.852000" end="0:06:59.132000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:59.132000" end="0:07:00.539000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:06:59.132000" end="0:07:00.539000" persName="Informant 0371">
 das	der	PRON	-	0:06:59.132000	0:07:00.539000
 ist/	-	-	-	0:06:59.132000	0:07:00.539000
 .	-	-	-	0:06:59.132000	0:07:00.539000
@@ -2065,7 +2066,7 @@ ist	sein	AUX	-	0:06:59.132000	0:07:00.539000
 Mittwoch	Mittwoch	NOUN	-	0:06:59.132000	0:07:00.539000
 .	-	-	-	0:06:59.132000	0:07:00.539000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:59.132000" end="0:07:05.179000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:06:59.132000" end="0:07:05.179000" persName="Informant 0373">
 lächerlich	lächerlich	ADJ	-	0:07:00.539000	0:07:01.146000
 .	-	-	-	0:07:00.539000	0:07:01.146000
 und	und	CCONJ	-	0:07:01.146000	0:07:05.179000
@@ -2086,13 +2087,13 @@ zweite	zweite	ADJ	-	0:07:01.146000	0:07:05.179000
 eben	eben	ADV	-	0:07:01.146000	0:07:05.179000
 .	-	-	-	0:07:01.146000	0:07:05.179000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:05.179000" end="0:07:06.719000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:05.179000" end="0:07:06.719000" persName="Informant 0371">
 bist	sein	AUX	-	0:07:05.179000	0:07:06.719000
 du	du	PRON	-	0:07:05.179000	0:07:06.719000
 deppert	deppert	VERB	-	0:07:05.179000	0:07:06.719000
 .	-	-	-	0:07:05.179000	0:07:06.719000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:05.179000" end="0:07:13.586000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:05.179000" end="0:07:13.586000" persName="Informant 0373">
 und	und	CCONJ	-	0:07:06.719000	0:07:08.219000
 da	da	ADV	-	0:07:06.719000	0:07:08.219000
 hätten	haben	AUX	-	0:07:06.719000	0:07:08.219000
@@ -2120,7 +2121,7 @@ nicht	nicht	PART	-	0:07:11.632000	0:07:13.586000
 Zeit	Zeit	NOUN	-	0:07:11.632000	0:07:13.586000
 .	-	-	-	0:07:11.632000	0:07:13.586000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:13.586000" end="0:07:14.739000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:13.586000" end="0:07:14.739000" persName="Informant 0371">
 haben	haben	AUX	-	0:07:13.586000	0:07:14.739000
 sie	ich	PRON	-	0:07:13.586000	0:07:14.739000
 es	ich	PRON	-	0:07:13.586000	0:07:14.739000
@@ -2129,15 +2130,15 @@ nicht	nicht	PART	-	0:07:13.586000	0:07:14.739000
 gewusst	gewusst	VERB	-	0:07:13.586000	0:07:14.739000
 ?	-	-	-	0:07:13.586000	0:07:14.739000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:14.739000" end="0:07:16.072000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:14.739000" end="0:07:16.072000" persName="Informant 0373">
 nein	nein	PART	-	0:07:14.739000	0:07:16.072000
 das	der	PRON	-	0:07:14.739000	0:07:16.072000
 das/	-	-	-	0:07:14.739000	0:07:16.072000
 .	-	-	-	0:07:14.739000	0:07:16.072000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:16.072000" end="0:07:17.719000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:16.072000" end="0:07:17.719000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:16.072000" end="0:07:21.145000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:16.072000" end="0:07:21.145000" persName="Informant 0373">
 der	der	DET	-	0:07:16.072000	0:07:17.719000
 eine	einen	PRON	-	0:07:16.072000	0:07:17.719000
 war	sein	AUX	-	0:07:16.072000	0:07:17.719000
@@ -2160,7 +2161,7 @@ und	und	CCONJ	-	0:07:20.472000	0:07:21.145000
 und/	-	-	-	0:07:20.472000	0:07:21.145000
 .	-	-	-	0:07:20.472000	0:07:21.145000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:21.145000" end="0:07:23.032000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:21.145000" end="0:07:23.032000" persName="Informant 0371">
 Spezialisten	Spezialist	NOUN	-	0:07:21.145000	0:07:22.485000
 bei	bei	ADP	-	0:07:21.145000	0:07:22.485000
 dir	sich	PRON	-	0:07:21.145000	0:07:22.485000
@@ -2169,7 +2170,7 @@ beieinander	beieinander	ADV	-	0:07:21.145000	0:07:22.485000
 hä	hä	X	-	0:07:22.485000	0:07:23.032000
 ?	-	-	-	0:07:22.485000	0:07:23.032000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:22.485000" end="0:07:24.872000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:22.485000" end="0:07:24.872000" persName="Informant 0373">
 ähm	ähm	PROPN	-	0:07:22.485000	0:07:23.032000
 .	-	-	-	0:07:22.485000	0:07:23.032000
 <pause duration="1,2s"/>
@@ -2177,38 +2178,38 @@ ich	ich	PRON	-	0:07:23.032000	0:07:24.872000
 meine/	-	-	-	0:07:23.032000	0:07:24.872000
 .	-	-	-	0:07:23.032000	0:07:24.872000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:24.872000" end="0:07:25.472000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:24.872000" end="0:07:25.472000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:25.472000" end="0:07:26.239000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:25.472000" end="0:07:26.239000" persName="Informant 0373">
 keine	kein	DET	-	0:07:25.472000	0:07:26.239000
 Ahnung	Ahnung	NOUN	-	0:07:25.472000	0:07:26.239000
 .	-	-	-	0:07:25.472000	0:07:26.239000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:26.239000" end="0:07:31.512000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:26.239000" end="0:07:31.512000" persName="Informant 0371">
 <pause duration="0,8s"/>
 (Trottel)	Trottel	NOUN	-	0:07:26.239000	0:07:28.459000
 .	-	-	-	0:07:26.239000	0:07:28.459000
 nein	nein	PART	-	0:07:28.459000	0:07:29.252000
 .	-	-	-	0:07:28.459000	0:07:29.252000
 <pause duration="1,4s"/>
-[Harri]N	Hari	PROPN	-	0:07:29.252000	0:07:31.512000
+NAME	NAME	PROPN	-	0:07:29.252000	0:07:31.512000
 geht	gehen	VERB	-	0:07:29.252000	0:07:31.512000
 hinaus	hinaus	ADP	-	0:07:29.252000	0:07:31.512000
 ?	-	-	-	0:07:29.252000	0:07:31.512000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:31.512000" end="0:07:32.532000">
-[Harri]N	Harri	PROPN	-	0:07:31.512000	0:07:32.532000
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:31.512000" end="0:07:32.532000" persName="Informant 0373">
+NAME	NAME	PROPN	-	0:07:31.512000	0:07:32.532000
 hört	hören	VERB	-	0:07:31.512000	0:07:32.532000
 auf	auf	ADP	-	0:07:31.512000	0:07:32.532000
 ,	-	-	-	0:07:31.512000	0:07:32.532000
 ja	ja	PART	-	0:07:31.512000	0:07:32.532000
 .	-	-	-	0:07:31.512000	0:07:32.532000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:32.532000" end="0:07:35.739000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:32.532000" end="0:07:35.739000" persName="Informant 0371">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:07:32.532000	0:07:35.739000
 der	der	DET	-	0:07:32.532000	0:07:35.739000
-[Harri]N	Hari	NOUN	-	0:07:32.532000	0:07:35.739000
+NAME	NAME	NOUN	-	0:07:32.532000	0:07:35.739000
 muss	muss	VERB	-	0:07:32.532000	0:07:35.739000
 ja	ja	ADV	-	0:07:32.532000	0:07:35.739000
 oft	oft	ADV	-	0:07:32.532000	0:07:35.739000
@@ -2221,9 +2222,9 @@ sein	mein	AUX	-	0:07:32.532000	0:07:35.739000
 oder	oder	CCONJ	-	0:07:32.532000	0:07:35.739000
 ?	-	-	-	0:07:32.532000	0:07:35.739000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:35.739000" end="0:07:37.972000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:35.739000" end="0:07:37.972000" persName="Informant 0373">
 der	der	DET	-	0:07:35.739000	0:07:36.525000
-[Harri]N	Harri	NOUN	-	0:07:35.739000	0:07:36.525000
+NAME	NAME	NOUN	-	0:07:35.739000	0:07:36.525000
 ist	sein	AUX	-	0:07:35.739000	0:07:36.525000
 glaube	glauben	VERB	-	0:07:36.525000	0:07:36.812000
 ich	ich	PRON	-	0:07:36.525000	0:07:36.812000
@@ -2235,11 +2236,11 @@ ich	ich	PRON	-	0:07:36.812000	0:07:37.972000
 ,	-	-	-	0:07:36.812000	0:07:37.972000
 also	also	ADV	-	0:07:36.812000	0:07:37.972000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:37.972000" end="0:07:38.885000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:37.972000" end="0:07:38.885000" persName="Informant 0371">
 ja	ja	PART	-	0:07:37.972000	0:07:38.885000
 .	-	-	-	0:07:37.972000	0:07:38.885000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:37.972000" end="0:07:42.119000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:37.972000" end="0:07:42.119000" persName="Informant 0373">
 neunundzwanzig	neunundzwanzig	ADJ	-	0:07:37.972000	0:07:38.885000
 .	-	-	-	0:07:37.972000	0:07:38.885000
 entweder	entweder	CCONJ	-	0:07:38.885000	0:07:39.732000
@@ -2261,7 +2262,7 @@ warte	warten	VERB	-	0:07:41.412000	0:07:42.119000
 einmal	einmal	ADV	-	0:07:41.412000	0:07:42.119000
 .	-	-	-	0:07:41.412000	0:07:42.119000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:42.119000" end="0:07:44.519000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:42.119000" end="0:07:44.519000" persName="Informant 0371">
 ich	ich	PRON	-	0:07:42.119000	0:07:42.479000
 glaube	glauben	VERB	-	0:07:42.119000	0:07:42.479000
 ,	-	-	-	0:07:42.119000	0:07:42.479000
@@ -2273,7 +2274,7 @@ mehr	mehr	ADV	-	0:07:42.479000	0:07:44.519000
 machen	machen	VERB	-	0:07:42.479000	0:07:44.519000
 ,	-	-	-	0:07:42.479000	0:07:44.519000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:42.479000" end="0:07:44.519000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:42.479000" end="0:07:44.519000" persName="Informant 0373">
 im	im	ADP	-	0:07:42.479000	0:07:44.519000
 September	September	NOUN	-	0:07:42.479000	0:07:44.519000
 hat	haben	AUX	-	0:07:42.479000	0:07:44.519000
@@ -2281,15 +2282,15 @@ er	ich	PRON	-	0:07:42.479000	0:07:44.519000
 Geburtstag	Geburtstag	NOUN	-	0:07:42.479000	0:07:44.519000
 .	-	-	-	0:07:42.479000	0:07:44.519000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:44.519000" end="0:07:44.879000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:44.519000" end="0:07:44.879000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:07:44.519000	0:07:44.879000
 er	ich	PRON	-	0:07:44.519000	0:07:44.879000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:44.519000" end="0:07:44.879000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:44.519000" end="0:07:44.879000" persName="Informant 0373">
 ja	ja	PART	-	0:07:44.519000	0:07:44.879000
 .	-	-	-	0:07:44.519000	0:07:44.879000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:44.879000" end="0:07:48.225000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:44.879000" end="0:07:48.225000" persName="Informant 0371">
 dreißig	dreißig	NUM	-	0:07:44.879000	0:07:46.539000
 wird	werden	AUX	-	0:07:44.879000	0:07:46.539000
 in	in	ADP	-	0:07:44.879000	0:07:46.539000
@@ -2305,7 +2306,7 @@ es	-	-	-	0:07:46.925000	0:07:48.225000
 _wurscht_	-	-	-	0:07:46.925000	0:07:48.225000
 .	-	-	-	0:07:46.925000	0:07:48.225000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:48.225000" end="0:07:53.752000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:48.225000" end="0:07:53.752000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:07:48.225000	0:07:50.172000
 es	ich	PRON	-	0:07:48.225000	0:07:50.172000
 ginge	gehen	VERB	-	0:07:48.225000	0:07:50.172000
@@ -2325,22 +2326,22 @@ im	im	ADP	-	0:07:51.752000	0:07:53.752000
 September	September	NOUN	-	0:07:51.752000	0:07:53.752000
 .	-	-	-	0:07:51.752000	0:07:53.752000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:53.752000" end="0:07:54.819000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:53.752000" end="0:07:54.819000" persName="Informant 0371">
 kann	können	VERB	-	0:07:53.752000	0:07:54.819000
 auch	auch	ADV	-	0:07:53.752000	0:07:54.819000
 sein	mein	AUX	-	0:07:53.752000	0:07:54.819000
 .	-	-	-	0:07:53.752000	0:07:54.819000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:54.819000" end="0:07:55.765000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:54.819000" end="0:07:55.765000" persName="Informant 0373">
 kann	können	VERB	-	0:07:54.819000	0:07:55.765000
 sein	mein	AUX	-	0:07:54.819000	0:07:55.765000
 .	-	-	-	0:07:54.819000	0:07:55.765000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:55.765000" end="0:07:56.485000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:55.765000" end="0:07:56.485000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:07:55.765000	0:07:56.485000
 .	-	-	-	0:07:55.765000	0:07:56.485000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:56.485000" end="0:07:57.812000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:56.485000" end="0:07:57.812000" persName="Informant 0373">
 ich	ich	PRON	-	0:07:56.485000	0:07:57.812000
 weiß	weiß	VERB	-	0:07:56.485000	0:07:57.812000
 es	ich	PRON	-	0:07:56.485000	0:07:57.812000
@@ -2348,17 +2349,17 @@ nicht	nicht	PART	-	0:07:56.485000	0:07:57.812000
 sicher	sichern	ADJ	-	0:07:56.485000	0:07:57.812000
 .	-	-	-	0:07:56.485000	0:07:57.812000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:57.812000" end="0:07:59.392000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:07:57.812000" end="0:07:59.392000" persName="Informant 0371">
 <pause duration="1,2s"/>
 geil	geil	NOUN	-	0:07:57.812000	0:07:59.392000
 .	-	-	-	0:07:57.812000	0:07:59.392000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:59.392000" end="0:08:00.932000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:07:59.392000" end="0:08:00.932000" persName="Informant 0373">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:07:59.392000	0:08:00.932000
 .	-	-	-	0:07:59.392000	0:08:00.932000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:00.932000" end="0:08:02.452000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:00.932000" end="0:08:02.452000" persName="Informant 0371">
 wie	wie	ADV	-	0:08:00.932000	0:08:02.452000
 lange	lang	ADV	-	0:08:00.932000	0:08:02.452000
 war	sein	AUX	-	0:08:00.932000	0:08:02.452000
@@ -2366,10 +2367,10 @@ der	der	DET	-	0:08:00.932000	0:08:02.452000
 drin	drin	ADV	-	0:08:00.932000	0:08:02.452000
 ?	-	-	-	0:08:00.932000	0:08:02.452000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:02.452000" end="0:08:14.772000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:02.452000" end="0:08:14.772000" persName="Informant 0373">
 <pause duration="3,3s"/>
 der	der	DET	-	0:08:02.452000	0:08:10.185000
-[Harri]N	Harri	NOUN	-	0:08:02.452000	0:08:10.185000
+NAME	NAME	NOUN	-	0:08:02.452000	0:08:10.185000
 war/	-	-	-	0:08:02.452000	0:08:10.185000
 .	-	-	-	0:08:02.452000	0:08:10.185000
 <pause duration="2,2s"/>
@@ -2401,7 +2402,7 @@ sind	sein	AUX	-	0:08:12.439000	0:08:13.972000
 eh	-	-	-	0:08:13.972000	0:08:14.772000
 ?	-	-	-	0:08:13.972000	0:08:14.772000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:14.772000" end="0:08:16.545000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:14.772000" end="0:08:16.545000" persName="Informant 0371">
 ähm	ähm	X	-	0:08:14.772000	0:08:16.545000
 wo	wo	ADV	-	0:08:14.772000	0:08:16.545000
 war	sein	AUX	-	0:08:14.772000	0:08:16.545000
@@ -2410,15 +2411,15 @@ schon	schon	ADV	-	0:08:14.772000	0:08:16.545000
 wieder	wieder	ADV	-	0:08:14.772000	0:08:16.545000
 ?	-	-	-	0:08:14.772000	0:08:16.545000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:16.545000" end="0:08:18.059000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:16.545000" end="0:08:18.059000" persName="Informant 0373">
 das	der	PRON	-	0:08:16.545000	0:08:18.059000
 war	sein	AUX	-	0:08:16.545000	0:08:18.059000
 bei	bei	ADP	-	0:08:16.545000	0:08:18.059000
 der	der	DET	-	0:08:16.545000	0:08:18.059000
-[Schlosstaverne]S	Schlosstaverne	NOUN	-	0:08:16.545000	0:08:18.059000
+SONSTIGE	SONSTIGE	NOUN	-	0:08:16.545000	0:08:18.059000
 .	-	-	-	0:08:16.545000	0:08:18.059000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:18.059000" end="0:08:20.979000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:18.059000" end="0:08:20.979000" persName="Informant 0371">
 <pause duration="1,7s"/>
 dort	dort	ADV	-	0:08:18.059000	0:08:20.979000
 ist	sein	AUX	-	0:08:18.059000	0:08:20.979000
@@ -2426,25 +2427,25 @@ er	ich	PRON	-	0:08:18.059000	0:08:20.979000
 hinein	hinein	ADP	-	0:08:18.059000	0:08:20.979000
 ?	-	-	-	0:08:18.059000	0:08:20.979000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:20.979000" end="0:08:23.272000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:20.979000" end="0:08:23.272000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:08:20.979000	0:08:22.272000
 beim	beim	ADP	-	0:08:20.979000	0:08:22.272000
-[Hafner]S	Hafner	NOUN	-	0:08:20.979000	0:08:22.272000
+SONSTIGE	SONSTIGE	NOUN	-	0:08:20.979000	0:08:22.272000
 .	-	-	-	0:08:20.979000	0:08:22.272000
 beim	beim	ADP	-	0:08:22.272000	0:08:23.272000
-[Hafner]S	Hafner	NOUN	-	0:08:22.272000	0:08:23.272000
+SONSTIGE	SONSTIGE	NOUN	-	0:08:22.272000	0:08:23.272000
 war	sein	AUX	-	0:08:22.272000	0:08:23.272000
 es	ich	PRON	-	0:08:22.272000	0:08:23.272000
 .	-	-	-	0:08:22.272000	0:08:23.272000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:23.272000" end="0:08:26.239000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:23.272000" end="0:08:26.239000" persName="Informant 0371">
 <pause duration="2,0s"/>
 war	sein	AUX	-	0:08:23.272000	0:08:26.239000
 ganz	ganz	ADV	-	0:08:23.272000	0:08:26.239000
 sicher	sichern	ADJ	-	0:08:23.272000	0:08:26.239000
 beim	beim	ADP	-	0:08:23.272000	0:08:26.239000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:23.272000" end="0:08:26.239000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:23.272000" end="0:08:26.239000" persName="Informant 0373">
 <pause duration="2,0s"/>
 dort	dort	ADV	-	0:08:23.272000	0:08:26.239000
 ist	sein	AUX	-	0:08:23.272000	0:08:26.239000
@@ -2452,15 +2453,15 @@ er	ich	PRON	-	0:08:23.272000	0:08:26.239000
 hinein	hinein	ADP	-	0:08:23.272000	0:08:26.239000
 .	-	-	-	0:08:23.272000	0:08:26.239000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:26.239000" end="0:08:26.885000">
-[Hafner]S	Hafner	NOUN	-	0:08:26.239000	0:08:26.885000
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:26.239000" end="0:08:26.885000" persName="Informant 0371">
+SONSTIGE	SONSTIGE	NOUN	-	0:08:26.239000	0:08:26.885000
 .	-	-	-	0:08:26.239000	0:08:26.885000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:26.239000" end="0:08:31.072000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:26.239000" end="0:08:31.072000" persName="Informant 0373">
 ja	ja	ADV	-	0:08:26.239000	0:08:26.885000
 war	sein	AUX	-	0:08:26.239000	0:08:26.885000
 beim	beim	ADP	-	0:08:26.885000	0:08:27.705000
-[Hafner]S	Hafner	NOUN	-	0:08:26.885000	0:08:27.705000
+SONSTIGE	SONSTIGE	NOUN	-	0:08:26.885000	0:08:27.705000
 .	-	-	-	0:08:26.885000	0:08:27.705000
 dort	dort	ADV	-	0:08:27.705000	0:08:28.679000
 haben	haben	AUX	-	0:08:27.705000	0:08:28.679000
@@ -2469,11 +2470,11 @@ ihn	ich	PRON	-	0:08:27.705000	0:08:28.679000
 hinein	hinein	ADP	-	0:08:27.705000	0:08:28.679000
 ,	-	-	-	0:08:27.705000	0:08:28.679000
 der	der	DET	-	0:08:28.679000	0:08:31.072000
-[Mist	Mist	PROPN	-	0:08:28.679000	0:08:31.072000
-Hans]N	Hans	PROPN	-	0:08:28.679000	0:08:31.072000
+NAME	NAME	PROPN	-	0:08:28.679000	0:08:31.072000
+NAME	NAME	PROPN	-	0:08:28.679000	0:08:31.072000
 ,	-	-	-	0:08:28.679000	0:08:31.072000
 der	der	DET	-	0:08:28.679000	0:08:31.072000
-[Beppo]N	Beppo	PROPN	-	0:08:28.679000	0:08:31.072000
+NAME	NAME	PROPN	-	0:08:28.679000	0:08:31.072000
 ,	-	-	-	0:08:28.679000	0:08:31.072000
 die	der	PRON	-	0:08:28.679000	0:08:31.072000
 haben	haben	AUX	-	0:08:28.679000	0:08:31.072000
@@ -2482,19 +2483,19 @@ aufstellen	aufstellen	VERB	-	0:08:28.679000	0:08:31.072000
 lassen	lassen	VERB	-	0:08:28.679000	0:08:31.072000
 .	-	-	-	0:08:28.679000	0:08:31.072000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:31.072000" end="0:08:32.085000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:31.072000" end="0:08:32.085000" persName="Informant 0371">
 stimmt	stimmen	VERB	-	0:08:31.072000	0:08:32.085000
 ,	-	-	-	0:08:31.072000	0:08:32.085000
 ja	ja	PART	-	0:08:31.072000	0:08:32.085000
 .	-	-	-	0:08:31.072000	0:08:32.085000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:32.085000" end="0:08:39.979000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:32.085000" end="0:08:39.979000" persName="Informant 0373">
 und	und	CCONJ	-	0:08:32.085000	0:08:34.078000
 alle	all	PRON	-	0:08:32.085000	0:08:34.078000
 "ja	ja	ADV	-	0:08:32.085000	0:08:34.078000
 sicher	sichern	ADJ	-	0:08:32.085000	0:08:34.078000
 den	der	DET	-	0:08:32.085000	0:08:34.078000
-[Harri]N"	Harri	NOUN	-	0:08:32.085000	0:08:34.078000
+NAME	NAME	NOUN	-	0:08:32.085000	0:08:34.078000
 .	-	-	-	0:08:32.085000	0:08:34.078000
 nein	nein	PART	-	0:08:34.078000	0:08:37.438000
 ,	-	-	-	0:08:34.078000	0:08:37.438000
@@ -2506,12 +2507,12 @@ noch	-	-	-	0:08:34.078000	0:08:37.438000
 ,	-	-	-	0:08:34.078000	0:08:37.438000
 der	der	DET	-	0:08:34.078000	0:08:37.438000
 der	der	DET	-	0:08:34.078000	0:08:37.438000
-[Nova]N	Nova	PROPN	-	0:08:34.078000	0:08:37.438000
+NAME	NAME	PROPN	-	0:08:34.078000	0:08:37.438000
 .	-	-	-	0:08:34.078000	0:08:37.438000
 der	der	PRON	-	0:08:37.438000	0:08:38.419000
 hat	haben	AUX	-	0:08:37.438000	0:08:38.419000
 gesagt	sagen	VERB	-	0:08:37.438000	0:08:38.419000
-"[Harri]N	Harri	PROPN	-	0:08:38.419000	0:08:39.979000
+NAME	NAME	PROPN	-	0:08:38.419000	0:08:39.979000
 ,	-	-	-	0:08:38.419000	0:08:39.979000
 dir	sich	PRON	-	0:08:38.419000	0:08:39.979000
 helfe	helfen	VERB	-	0:08:38.419000	0:08:39.979000
@@ -2520,11 +2521,11 @@ schon	schon	ADV	-	0:08:38.419000	0:08:39.979000
 hinein"	hinein	ADP	-	0:08:38.419000	0:08:39.979000
 .	-	-	-	0:08:38.419000	0:08:39.979000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:39.979000" end="0:08:41.392000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:39.979000" end="0:08:41.392000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:39.979000" end="0:08:41.392000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:39.979000" end="0:08:41.392000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:41.392000" end="0:08:47.245000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:41.392000" end="0:08:47.245000" persName="Informant 0371">
 geil	geil	NOUN	-	0:08:41.392000	0:08:41.859000
 .	-	-	-	0:08:41.392000	0:08:41.859000
 <pause duration="2,9s"/>
@@ -2542,7 +2543,7 @@ Jahre	Jahr	NOUN	-	0:08:41.859000	0:08:47.245000
 drinnen	drinnen	ADV	-	0:08:41.859000	0:08:47.245000
 .	-	-	-	0:08:41.859000	0:08:47.245000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:41.859000" end="0:08:48.832000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:41.859000" end="0:08:48.832000" persName="Informant 0373">
 <pause duration="2,9s"/>
 also	also	ADV	-	0:08:41.859000	0:08:47.245000
 wie	wie	CCONJ	-	0:08:41.859000	0:08:47.245000
@@ -2566,17 +2567,17 @@ glaube	glauben	VERB	-	0:08:47.245000	0:08:48.832000
 ich	ich	PRON	-	0:08:47.245000	0:08:48.832000
 .	-	-	-	0:08:47.245000	0:08:48.832000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:48.832000" end="0:08:51.985000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:48.832000" end="0:08:51.985000" persName="Informant 0371">
 <pause duration="1,9s"/>
 nicht	nicht	PART	-	0:08:48.832000	0:08:51.985000
 länger	lang	ADJ	-	0:08:48.832000	0:08:51.985000
 ?	-	-	-	0:08:48.832000	0:08:51.985000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:51.985000" end="0:08:52.545000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:51.985000" end="0:08:52.545000" persName="Informant 0373">
 nein	nein	PART	-	0:08:51.985000	0:08:52.545000
 .	-	-	-	0:08:51.985000	0:08:52.545000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:52.545000" end="0:08:57.939000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:52.545000" end="0:08:57.939000" persName="Informant 0371">
 <pause duration="3,2s"/>
 ja	ja	PART	-	0:08:52.545000	0:08:57.585000
 warst	sein	AUX	-	0:08:52.545000	0:08:57.585000
@@ -2589,39 +2590,39 @@ drin	drin	ADV	-	0:08:52.545000	0:08:57.585000
 oder	oder	CCONJ	-	0:08:57.585000	0:08:57.939000
 ?	-	-	-	0:08:57.585000	0:08:57.939000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:57.585000" end="0:08:58.699000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:57.585000" end="0:08:58.699000" persName="Informant 0373">
 drei	drei	NUM	-	0:08:57.585000	0:08:57.939000
 Jahre	Jahr	NOUN	-	0:08:57.939000	0:08:58.699000
 war	sein	AUX	-	0:08:57.939000	0:08:58.699000
 ich	ich	PRON	-	0:08:57.939000	0:08:58.699000
 .	-	-	-	0:08:57.939000	0:08:58.699000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:58.699000" end="0:08:59.745000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:08:58.699000" end="0:08:59.745000" persName="Informant 0371">
 drei	drei	NUM	-	0:08:58.699000	0:08:59.745000
 Jahre	Jahr	NOUN	-	0:08:58.699000	0:08:59.745000
 nur	nur	ADV	-	0:08:58.699000	0:08:59.745000
 ?	-	-	-	0:08:58.699000	0:08:59.745000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:59.745000" end="0:09:00.132000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:08:59.745000" end="0:09:00.132000" persName="Informant 0373">
 ja	ja	PART	-	0:08:59.745000	0:09:00.132000
 .	-	-	-	0:08:59.745000	0:09:00.132000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:00.132000" end="0:09:00.605000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:00.132000" end="0:09:00.605000" persName="Informant 0371">
 geh	geh	X	-	0:09:00.132000	0:09:00.605000
 .	-	-	-	0:09:00.132000	0:09:00.605000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:00.605000" end="0:09:01.639000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:00.605000" end="0:09:01.639000" persName="Informant 0373">
 nein	nein	PART	-	0:09:00.605000	0:09:01.639000
 ,	-	-	-	0:09:00.605000	0:09:01.639000
 drei	drei	NUM	-	0:09:00.605000	0:09:01.639000
 Jahre	Jahr	NOUN	-	0:09:00.605000	0:09:01.639000
 .	-	-	-	0:09:00.605000	0:09:01.639000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:01.639000" end="0:09:02.659000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:01.639000" end="0:09:02.659000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:09:01.639000	0:09:02.659000
 .	-	-	-	0:09:01.639000	0:09:02.659000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:02.659000" end="0:09:06.885000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:02.659000" end="0:09:06.885000" persName="Informant 0373">
 ich	ich	PRON	-	0:09:02.659000	0:09:04.932000
 habe	habe	AUX	-	0:09:02.659000	0:09:04.932000
 ein	einen	DET	-	0:09:02.659000	0:09:04.932000
@@ -2637,7 +2638,7 @@ Jahre	Jahr	NOUN	-	0:09:04.932000	0:09:06.885000
 danach	danach	ADV	-	0:09:04.932000	0:09:06.885000
 .	-	-	-	0:09:04.932000	0:09:06.885000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:06.885000" end="0:09:09.552000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:06.885000" end="0:09:09.552000" persName="Informant 0371">
 <pause duration="1,2s"/>
 a/	-	-	-	0:09:06.885000	0:09:08.665000
 tl/	-	-	-	0:09:06.885000	0:09:08.665000
@@ -2652,7 +2653,7 @@ mehr	mehr	PRON	-	0:09:08.665000	0:09:09.552000
 gewesen	sein	AUX	-	0:09:08.665000	0:09:09.552000
 .	-	-	-	0:09:08.665000	0:09:09.552000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:09.552000" end="0:09:14.399000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:09.552000" end="0:09:14.399000" persName="Informant 0373">
 mhm	mhm	PROPN	-	0:09:09.552000	0:09:10.392000
 .	-	-	-	0:09:09.552000	0:09:10.392000
 aber	aber	CCONJ	-	0:09:10.392000	0:09:12.045000
@@ -2672,19 +2673,19 @@ im	im	ADP	-	0:09:12.045000	0:09:14.399000
 Vorstand	Vorstand	NOUN	-	0:09:12.045000	0:09:14.399000
 .	-	-	-	0:09:12.045000	0:09:14.399000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:14.399000" end="0:09:15.339000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:14.399000" end="0:09:15.339000" persName="Informant 0371">
 insgesamt	insgesamt	ADV	-	0:09:14.399000	0:09:15.339000
 ,	-	-	-	0:09:14.399000	0:09:15.339000
 ja	ja	PART	-	0:09:14.399000	0:09:15.339000
 .	-	-	-	0:09:14.399000	0:09:15.339000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:14.399000" end="0:09:17.752000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:14.399000" end="0:09:17.752000" persName="Informant 0373">
 insgesamt	insgesamt	ADV	-	0:09:15.339000	0:09:16.372000
 ,	-	-	-	0:09:15.339000	0:09:16.372000
 also	also	ADV	-	0:09:16.372000	0:09:17.752000
 darf	dürfen	VERB	-	0:09:16.372000	0:09:17.752000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:17.752000" end="0:09:18.772000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:17.752000" end="0:09:18.772000" persName="Informant 0371">
 ah	ah	X	-	0:09:17.752000	0:09:18.772000
 scheiße	scheißen	NOUN	-	0:09:17.752000	0:09:18.772000
 ,	-	-	-	0:09:17.752000	0:09:18.772000
@@ -2692,12 +2693,12 @@ hätte	haben	AUX	-	0:09:17.752000	0:09:18.772000
 ich	ich	PRON	-	0:09:17.752000	0:09:18.772000
 ein	einen	PRON	-	0:09:17.752000	0:09:18.772000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:17.752000" end="0:09:18.772000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:17.752000" end="0:09:18.772000" persName="Informant 0373">
 keiner	kein	PRON	-	0:09:17.752000	0:09:18.772000
 schimpfen	schimpfen	VERB	-	0:09:17.752000	0:09:18.772000
 .	-	-	-	0:09:17.752000	0:09:18.772000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:18.772000" end="0:09:21.332000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:18.772000" end="0:09:21.332000" persName="Informant 0371">
 hätte	haben	AUX	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:09:18.772000	0:09:21.332000
 ich	ich	PRON	-	0:09:18.772000	0:09:21.332000
 ein	einen	DET	-	0:09:18.772000	0:09:21.332000
@@ -2708,9 +2709,9 @@ machen	machen	VERB	-	0:09:18.772000	0:09:21.332000
 müssen	müssen	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:09:18.772000	0:09:21.332000
 .	-	-	-	0:09:18.772000	0:09:21.332000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:18.772000" end="0:09:21.332000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:18.772000" end="0:09:21.332000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:21.332000" end="0:09:24.832000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:21.332000" end="0:09:24.832000" persName="Informant 0371">
 fuck	fuck	PROPN	-	0:09:21.332000	0:09:24.832000
 super	super	PROPN	-	0:09:21.332000	0:09:24.832000
 ,	-	-	-	0:09:21.332000	0:09:24.832000
@@ -2726,24 +2727,24 @@ Bezirksvorstand	Bezirksvorstand	PROPN	-	0:09:21.332000	0:09:24.832000
 gehen	gehen	VERB	-	0:09:21.332000	0:09:24.832000
 .	-	-	-	0:09:21.332000	0:09:24.832000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:21.332000" end="0:09:25.272000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:21.332000" end="0:09:25.272000" persName="Informant 0373">
 ja	ja	PART	-	0:09:24.832000	0:09:25.272000
 .	-	-	-	0:09:24.832000	0:09:25.272000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:25.272000" end="0:09:25.932000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:25.272000" end="0:09:25.932000" persName="Informant 0371">
 nein	nein	PART	-	0:09:25.272000	0:09:25.932000
 super	super	PROPN	-	0:09:25.272000	0:09:25.932000
 .	-	-	-	0:09:25.272000	0:09:25.932000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:25.932000" end="0:09:27.019000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:25.932000" end="0:09:27.019000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:27.019000" end="0:09:28.605000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:27.019000" end="0:09:28.605000" persName="Informant 0371">
 nein	nein	PART	-	0:09:27.019000	0:09:28.605000
 ,	-	-	-	0:09:27.019000	0:09:28.605000
 nein	nein	PART	-	0:09:27.019000	0:09:28.605000
 .	-	-	-	0:09:27.019000	0:09:28.605000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:28.605000" end="0:09:30.412000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:28.605000" end="0:09:30.412000" persName="Informant 0373">
 kann	können	VERB	-	0:09:28.605000	0:09:30.412000
 ich	ich	PRON	-	0:09:28.605000	0:09:30.412000
 dir	sich	PRON	-	0:09:28.605000	0:09:30.412000
@@ -2751,7 +2752,7 @@ sehr	sehr	ADV	-	0:09:28.605000	0:09:30.412000
 empfehlen	empfehlen	VERB	-	0:09:28.605000	0:09:30.412000
 .	-	-	-	0:09:28.605000	0:09:30.412000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:30.412000" end="0:09:36.305000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:30.412000" end="0:09:36.305000" persName="Informant 0371">
 ja	ja	ADV	-	0:09:30.412000	0:09:31.285000
 sicher	sichern	ADJ	-	0:09:30.412000	0:09:31.285000
 .	-	-	-	0:09:30.412000	0:09:31.285000
@@ -2780,7 +2781,7 @@ spät	spät	ADJ	-	0:09:33.292000	0:09:36.305000
 ja	ja	PART	-	0:09:33.292000	0:09:36.305000
 .	-	-	-	0:09:33.292000	0:09:36.305000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:33.292000" end="0:09:36.305000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:33.292000" end="0:09:36.305000" persName="Informant 0373">
 so	so	ADV	-	0:09:33.292000	0:09:36.305000
 ist	sein	AUX	-	0:09:33.292000	0:09:36.305000
 das	der	PRON	-	0:09:33.292000	0:09:36.305000
@@ -2794,7 +2795,7 @@ gleich	gleichen	ADV	-	0:09:33.292000	0:09:36.305000
 hineingewählt	hineingewählt	VERB	-	0:09:33.292000	0:09:36.305000
 .	-	-	-	0:09:33.292000	0:09:36.305000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:36.305000" end="0:09:37.852000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:36.305000" end="0:09:37.852000" persName="Informant 0371">
 jetzt	jetzt	ADV	-	0:09:36.305000	0:09:37.852000
 ist	sein	AUX	-	0:09:36.305000	0:09:37.852000
 es	ich	PRON	-	0:09:36.305000	0:09:37.852000
@@ -2802,16 +2803,16 @@ zu	zu	PART	-	0:09:36.305000	0:09:37.852000
 spät	spät	ADJ	-	0:09:36.305000	0:09:37.852000
 .	-	-	-	0:09:36.305000	0:09:37.852000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:36.305000" end="0:09:37.852000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:36.305000" end="0:09:37.852000" persName="Informant 0373">
 dort	dort	ADV	-	0:09:36.305000	0:09:37.852000
 .	-	-	-	0:09:36.305000	0:09:37.852000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:37.852000" end="0:09:38.385000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:37.852000" end="0:09:38.385000" persName="Informant 0371">
 ja	ja	ADV	-	0:09:37.852000	0:09:38.385000
 eh	eh	X	-	0:09:37.852000	0:09:38.385000
 .	-	-	-	0:09:37.852000	0:09:38.385000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:37.852000" end="0:09:39.319000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:37.852000" end="0:09:39.319000" persName="Informant 0373">
 hat	-	-	-	0:09:37.852000	0:09:38.385000
 sie	-	-	-	0:09:37.852000	0:09:38.385000
 gesagt	-	-	-	0:09:37.852000	0:09:38.385000
@@ -2821,12 +2822,12 @@ dann	-	-	-	0:09:38.385000	0:09:39.319000
 (eh)	-	-	-	0:09:38.385000	0:09:39.319000
 aufstellen	-	-	-	0:09:38.385000	0:09:39.319000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:39.319000" end="0:09:39.772000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:39.319000" end="0:09:39.772000" persName="Informant 0371">
 ja	ja	ADV	-	0:09:39.319000	0:09:39.772000
 eh	eh	X	-	0:09:39.319000	0:09:39.772000
 .	-	-	-	0:09:39.319000	0:09:39.772000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:39.319000" end="0:09:40.479000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:39.319000" end="0:09:40.479000" persName="Informant 0373">
 lassen	-	-	-	0:09:39.319000	0:09:39.772000
 ?	-	-	-	0:09:39.319000	0:09:39.772000
 dort	-	-	-	0:09:39.772000	0:09:40.479000
@@ -2835,9 +2836,9 @@ ich	-	-	-	0:09:39.772000	0:09:40.479000
 (_hab_)	-	-	-	0:09:39.772000	0:09:40.479000
 .	-	-	-	0:09:39.772000	0:09:40.479000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:40.479000" end="0:09:42.032000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:40.479000" end="0:09:42.032000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:40.479000" end="0:09:43.779000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:40.479000" end="0:09:43.779000" persName="Informant 0373">
 wie	wie	ADV	-	0:09:40.479000	0:09:42.032000
 sie	ich	PRON	-	0:09:40.479000	0:09:42.032000
 dich	sich	PRON	-	0:09:40.479000	0:09:42.032000
@@ -2848,11 +2849,11 @@ haben	haben	AUX	-	0:09:40.479000	0:09:42.032000
 sondern	sondern	CCONJ	-	0:09:42.032000	0:09:43.779000
 den	der	PRON	-	0:09:42.032000	0:09:43.779000
 den	der	DET	-	0:09:42.032000	0:09:43.779000
-[Glammler	Glammler	NOUN	-	0:09:42.032000	0:09:43.779000
-Michi]N	Michi	PROPN	-	0:09:42.032000	0:09:43.779000
+NAME	NAME	NOUN	-	0:09:42.032000	0:09:43.779000
+NAME	NAME	PROPN	-	0:09:42.032000	0:09:43.779000
 .	-	-	-	0:09:42.032000	0:09:43.779000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:43.779000" end="0:09:45.625000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:43.779000" end="0:09:45.625000" persName="Informant 0371">
 ja	ja	ADV	-	0:09:43.779000	0:09:44.739000
 das	der	PRON	-	0:09:43.779000	0:09:44.739000
 war	sein	AUX	-	0:09:43.779000	0:09:44.739000
@@ -2864,11 +2865,11 @@ gell	gell	ADJ	-	0:09:44.739000	0:09:45.625000
 das	der	PRON	-	0:09:44.739000	0:09:45.625000
 war	sein	AUX	-	0:09:44.739000	0:09:45.625000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:44.739000" end="0:09:45.625000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:44.739000" end="0:09:45.625000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:09:44.739000	0:09:45.625000
 .	-	-	-	0:09:44.739000	0:09:45.625000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:45.625000" end="0:09:47.572000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:45.625000" end="0:09:47.572000" persName="Informant 0371">
 das	der	PRON	-	0:09:45.625000	0:09:46.299000
 das	der	PRON	-	0:09:45.625000	0:09:46.299000
 hat	haben	AUX	-	0:09:45.625000	0:09:46.299000
@@ -2877,7 +2878,7 @@ weh	weh	ADJ	-	0:09:46.299000	0:09:47.572000
 getan	tun	VERB	-	0:09:46.299000	0:09:47.572000
 .	-	-	-	0:09:46.299000	0:09:47.572000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:46.299000" end="0:09:47.572000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:46.299000" end="0:09:47.572000" persName="Informant 0373">
 da	da	ADV	-	0:09:46.299000	0:09:47.572000
 wäre	sein	AUX	-	0:09:46.299000	0:09:47.572000
 ich	ich	PRON	-	0:09:46.299000	0:09:47.572000
@@ -2886,11 +2887,11 @@ beleidigt	beleidigen	VERB	-	0:09:46.299000	0:09:47.572000
 gewesen	sein	AUX	-	0:09:46.299000	0:09:47.572000
 .	-	-	-	0:09:46.299000	0:09:47.572000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:47.572000" end="0:09:47.825000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:47.572000" end="0:09:47.825000" persName="Informant 0371">
 ja	ja	PART	-	0:09:47.572000	0:09:47.825000
 .	-	-	-	0:09:47.572000	0:09:47.825000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:47.825000" end="0:09:48.892000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:47.825000" end="0:09:48.892000" persName="Informant 0373">
 da	da	ADV	-	0:09:47.825000	0:09:48.892000
 hätte	haben	AUX	-	0:09:47.825000	0:09:48.892000
 ich	ich	PRON	-	0:09:47.825000	0:09:48.892000
@@ -2900,16 +2901,16 @@ geredet	reden	VERB	-	0:09:47.825000	0:09:48.892000
 mit	mit	ADP	-	0:09:47.825000	0:09:48.892000
 einem	einer	DET	-	0:09:47.825000	0:09:48.892000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:48.892000" end="0:09:49.412000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:48.892000" end="0:09:49.412000" persName="Informant 0371">
 ja	ja	PART	-	0:09:48.892000	0:09:49.412000
 .	-	-	-	0:09:48.892000	0:09:49.412000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:48.892000" end="0:09:49.412000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:48.892000" end="0:09:49.412000" persName="Informant 0373">
 von	von	ADP	-	0:09:48.892000	0:09:49.412000
 die	der	PRON	-	0:09:48.892000	0:09:49.412000
 .	-	-	-	0:09:48.892000	0:09:49.412000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:49.412000" end="0:09:56.192000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:49.412000" end="0:09:56.192000" persName="Informant 0371">
 das	der	PRON	-	0:09:49.412000	0:09:51.425000
 war	sein	AUX	-	0:09:49.412000	0:09:51.425000
 das	der	PRON	-	0:09:49.412000	0:09:51.425000
@@ -2936,7 +2937,7 @@ für	für	ADP	-	0:09:55.425000	0:09:56.192000
 das	der	PRON	-	0:09:55.425000	0:09:56.192000
 .	-	-	-	0:09:55.425000	0:09:56.192000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:55.425000" end="0:09:58.939000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:55.425000" end="0:09:58.939000" persName="Informant 0373">
 ja	ja	PART	-	0:09:55.425000	0:09:56.192000
 .	-	-	-	0:09:55.425000	0:09:56.192000
 <pause duration="1,2s"/>
@@ -2948,7 +2949,7 @@ jetzt	jetzt	ADV	-	0:09:56.192000	0:09:58.939000
 schon	schon	ADV	-	0:09:56.192000	0:09:58.939000
 .	-	-	-	0:09:56.192000	0:09:58.939000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:58.939000" end="0:10:00.545000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:09:58.939000" end="0:10:00.545000" persName="Informant 0371">
 ja	ja	ADV	-	0:09:58.939000	0:10:00.545000
 sicher	sichern	ADJ	-	0:09:58.939000	0:10:00.545000
 ,	-	-	-	0:09:58.939000	0:10:00.545000
@@ -2956,7 +2957,7 @@ ist	sein	AUX	-	0:09:58.939000	0:10:00.545000
 ja/	-	-	-	0:09:58.939000	0:10:00.545000
 .	-	-	-	0:09:58.939000	0:10:00.545000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:58.939000" end="0:10:01.632000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:09:58.939000" end="0:10:01.632000" persName="Informant 0373">
 wirklich	wirklich	ADJ	-	0:09:58.939000	0:10:00.545000
 nur	nur	ADV	-	0:09:58.939000	0:10:00.545000
 mehr	mehr	ADV	-	0:09:58.939000	0:10:00.545000
@@ -2967,11 +2968,11 @@ hingehen	hingehen	VERB	-	0:10:00.545000	0:10:00.859000
 willst	-	-	-	0:10:00.859000	0:10:01.632000
 ,	-	-	-	0:10:00.859000	0:10:01.632000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:01.632000" end="0:10:01.899000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:01.632000" end="0:10:01.899000" persName="Informant 0371">
 eh	eh	X	-	0:10:01.632000	0:10:01.899000
 .	-	-	-	0:10:01.632000	0:10:01.899000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:01.632000" end="0:10:05.425000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:01.632000" end="0:10:05.425000" persName="Informant 0373">
 so	so	ADV	-	0:10:01.632000	0:10:01.899000
 wie	wie	CCONJ	-	0:10:01.632000	0:10:01.899000
 bei	bei	ADP	-	0:10:01.899000	0:10:02.405000
@@ -2988,20 +2989,20 @@ solche	solche	DET	-	0:10:02.405000	0:10:05.425000
 Sachen	Sache	NOUN	-	0:10:02.405000	0:10:05.425000
 .	-	-	-	0:10:02.405000	0:10:05.425000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:05.425000" end="0:10:06.165000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:05.425000" end="0:10:06.165000" persName="Informant 0371">
 ja	ja	ADV	-	0:10:05.425000	0:10:06.165000
 sicher	sichern	ADJ	-	0:10:05.425000	0:10:06.165000
 .	-	-	-	0:10:05.425000	0:10:06.165000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:06.165000" end="0:10:06.745000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:06.165000" end="0:10:06.745000" persName="Informant 0373">
 hinfahren	hinfahren	NOUN	-	0:10:06.165000	0:10:06.745000
 ,	-	-	-	0:10:06.165000	0:10:06.745000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:06.745000" end="0:10:06.972000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:06.745000" end="0:10:06.972000" persName="Informant 0371">
 ja	ja	PART	-	0:10:06.745000	0:10:06.972000
 .	-	-	-	0:10:06.745000	0:10:06.972000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:06.745000" end="0:10:07.899000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:06.745000" end="0:10:07.899000" persName="Informant 0373">
 Bier	Bier	NOUN	-	0:10:06.745000	0:10:06.972000
 trinken	trinken	VERB	-	0:10:06.972000	0:10:07.899000
 auf	auf	ADP	-	0:10:06.972000	0:10:07.899000
@@ -3009,7 +3010,7 @@ die	der	DET	-	0:10:06.972000	0:10:07.899000
 Nacht	Nacht	NOUN	-	0:10:06.972000	0:10:07.899000
 .	-	-	-	0:10:06.972000	0:10:07.899000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:07.899000" end="0:10:10.192000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:07.899000" end="0:10:10.192000" persName="Informant 0371">
 du	du	PRON	-	0:10:07.899000	0:10:09.345000
 brauchst	brauchen	VERB	-	0:10:07.899000	0:10:09.345000
 dir	sich	PRON	-	0:10:07.899000	0:10:09.345000
@@ -3022,7 +3023,7 @@ den	der	DET	-	0:10:09.345000	0:10:10.192000
 Scheiß	Scheiß	NOUN	-	0:10:09.345000	0:10:10.192000
 .	-	-	-	0:10:09.345000	0:10:10.192000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:09.345000" end="0:10:13.799000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:09.345000" end="0:10:13.799000" persName="Informant 0373">
 nein	nein	PART	-	0:10:09.345000	0:10:10.192000
 .	-	-	-	0:10:09.345000	0:10:10.192000
 für	für	ADP	-	0:10:10.192000	0:10:10.879000
@@ -3038,17 +3039,17 @@ Fuß	Fuß	NOUN	-	0:10:10.879000	0:10:13.799000
 hinauf	hinauf	ADP	-	0:10:10.879000	0:10:13.799000
 ,	-	-	-	0:10:10.879000	0:10:13.799000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:13.799000" end="0:10:14.679000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:13.799000" end="0:10:14.679000" persName="Informant 0371">
 *schneidest*	-	-	-	0:10:13.799000	0:10:14.679000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:13.799000" end="0:10:14.679000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:13.799000" end="0:10:14.679000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:14.679000" end="0:10:15.672000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:14.679000" end="0:10:15.672000" persName="Informant 0371">
 dich	-	-	-	0:10:14.679000	0:10:15.672000
 um	-	-	-	0:10:14.679000	0:10:15.672000
 .	-	-	-	0:10:14.679000	0:10:15.672000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:14.679000" end="0:10:18.099000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:14.679000" end="0:10:18.099000" persName="Informant 0373">
 schneide	schneiden	VERB	-	0:10:14.679000	0:10:15.672000
 mich	sich	PRON	-	0:10:14.679000	0:10:15.672000
 um	um	ADP	-	0:10:14.679000	0:10:15.672000
@@ -3056,14 +3057,14 @@ um	um	ADP	-	0:10:14.679000	0:10:15.672000
 fahre	fahren	NOUN	-	0:10:15.672000	0:10:18.099000
 mit	mit	ADP	-	0:10:15.672000	0:10:18.099000
 der	der	DET	-	0:10:15.672000	0:10:18.099000
-[Chiara]N	Chiara	NOUN	-	0:10:15.672000	0:10:18.099000
+NAME	NAME	NOUN	-	0:10:15.672000	0:10:18.099000
 mit	mit	ADP	-	0:10:15.672000	0:10:18.099000
 hinunter	hinunter	PROPN	-	0:10:15.672000	0:10:18.099000
 und	und	CCONJ	-	0:10:15.672000	0:10:18.099000
 passt	passt	PROPN	-	0:10:15.672000	0:10:18.099000
 .	-	-	-	0:10:15.672000	0:10:18.099000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:18.099000" end="0:10:20.099000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:18.099000" end="0:10:20.099000" persName="Informant 0371">
 und	und	CCONJ	-	0:10:18.099000	0:10:20.099000
 der	der	DET	-	0:10:18.099000	0:10:20.099000
 Drops	Drops	NOUN	-	0:10:18.099000	0:10:20.099000
@@ -3071,13 +3072,13 @@ ist	sein	AUX	-	0:10:18.099000	0:10:20.099000
 gelutscht	lutschen	VERB	-	0:10:18.099000	0:10:20.099000
 .	-	-	-	0:10:18.099000	0:10:20.099000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:18.099000" end="0:10:20.099000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:18.099000" end="0:10:20.099000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:20.099000" end="0:10:22.145000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:20.099000" end="0:10:22.145000" persName="Informant 0371">
 Alter	alt	NOUN	-	0:10:20.099000	0:10:22.145000
 .	-	-	-	0:10:20.099000	0:10:22.145000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:20.099000" end="0:10:30.999000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:20.099000" end="0:10:30.999000" persName="Informant 0373">
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:10:22.145000	0:10:24.332000
 nichts	nichts	PRON	-	0:10:22.145000	0:10:24.332000
@@ -3105,7 +3106,7 @@ alles	alle	PRON	-	0:10:28.559000	0:10:30.999000
 erledigt	erledigen	VERB	-	0:10:28.559000	0:10:30.999000
 .	-	-	-	0:10:28.559000	0:10:30.999000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:30.999000" end="0:10:41.545000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:30.999000" end="0:10:41.545000" persName="Informant 0371">
 es	ich	PRON	-	0:10:30.999000	0:10:32.739000
 ist	sein	AUX	-	0:10:30.999000	0:10:32.739000
 schon/	-	-	-	0:10:30.999000	0:10:32.739000
@@ -3147,7 +3148,7 @@ so	-	-	-	0:10:39.732000	0:10:41.545000
 hingehst	-	-	-	0:10:39.732000	0:10:41.545000
 .	-	-	-	0:10:39.732000	0:10:41.545000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:39.732000" end="0:10:42.212000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:39.732000" end="0:10:42.212000" persName="Informant 0373">
 nein	nein	PART	-	0:10:39.732000	0:10:41.545000
 (so	so	ADV	-	0:10:39.732000	0:10:41.545000
 nie)/	nie	ADV	-	0:10:39.732000	0:10:41.545000
@@ -3159,7 +3160,7 @@ noch	noch	ADV	-	0:10:39.732000	0:10:41.545000
 dazureden	dazureden	VERB	-	0:10:41.545000	0:10:42.212000
 .	-	-	-	0:10:41.545000	0:10:42.212000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:42.212000" end="0:10:44.705000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:42.212000" end="0:10:44.705000" persName="Informant 0371">
 ja	ja	ADV	-	0:10:42.212000	0:10:44.705000
 ja	ja	PART	-	0:10:42.212000	0:10:44.705000
 ,	-	-	-	0:10:42.212000	0:10:44.705000
@@ -3168,7 +3169,7 @@ ist	sein	AUX	-	0:10:42.212000	0:10:44.705000
 es	ich	PRON	-	0:10:42.212000	0:10:44.705000
 .	-	-	-	0:10:42.212000	0:10:44.705000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:42.212000" end="0:10:46.225000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:42.212000" end="0:10:46.225000" persName="Informant 0373">
 so	so	ADV	-	0:10:44.705000	0:10:46.225000
 gut	gut	ADJ	-	0:10:44.705000	0:10:46.225000
 kenne	kennen	VERB	-	0:10:44.705000	0:10:46.225000
@@ -3177,7 +3178,7 @@ mich	sich	PRON	-	0:10:44.705000	0:10:46.225000
 wohl	wohl	ADV	-	0:10:44.705000	0:10:46.225000
 .	-	-	-	0:10:44.705000	0:10:46.225000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:46.225000" end="0:10:49.032000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:46.225000" end="0:10:49.032000" persName="Informant 0371">
 sicher	sichern	ADJ	-	0:10:46.225000	0:10:47.159000
 .	-	-	-	0:10:46.225000	0:10:47.159000
 ist	sein	AUX	-	0:10:47.159000	0:10:49.032000
@@ -3187,7 +3188,7 @@ wer	wer	PRON	-	0:10:47.159000	0:10:49.032000
 drinnen	drinnen	ADV	-	0:10:47.159000	0:10:49.032000
 ?	-	-	-	0:10:47.159000	0:10:49.032000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:49.032000" end="0:10:53.258000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:49.032000" end="0:10:53.258000" persName="Informant 0373">
 gar	gar	ADV	-	0:10:49.032000	0:10:52.038000
 niemand	niemand	PRON	-	0:10:49.032000	0:10:52.038000
 ,	-	-	-	0:10:49.032000	0:10:52.038000
@@ -3197,14 +3198,14 @@ ganzen	ganz	ADJ	-	0:10:49.032000	0:10:52.038000
 ist	sein	AUX	-	0:10:49.032000	0:10:52.038000
 nur	nur	ADV	-	0:10:49.032000	0:10:52.038000
 der	der	DET	-	0:10:49.032000	0:10:52.038000
-[Rumpi]N	Rumpi	PROPN	-	0:10:49.032000	0:10:52.038000
+NAME	NAME	PROPN	-	0:10:49.032000	0:10:52.038000
 ,	-	-	-	0:10:49.032000	0:10:52.038000
 das	der	PRON	-	0:10:52.038000	0:10:53.258000
 war	sein	AUX	-	0:10:52.038000	0:10:53.258000
 es	ich	PRON	-	0:10:52.038000	0:10:53.258000
 .	-	-	-	0:10:52.038000	0:10:53.258000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:53.258000" end="0:10:54.765000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:53.258000" end="0:10:54.765000" persName="Informant 0371">
 und	und	CCONJ	-	0:10:53.258000	0:10:54.765000
 der	der	PRON	-	0:10:53.258000	0:10:54.765000
 ist	sein	AUX	-	0:10:53.258000	0:10:54.765000
@@ -3214,21 +3215,21 @@ am	am	ADP	-	0:10:53.258000	0:10:54.765000
 Rand	Rand	NOUN	-	0:10:53.258000	0:10:54.765000
 .	-	-	-	0:10:53.258000	0:10:54.765000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:54.765000" end="0:10:55.332000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:54.765000" end="0:10:55.332000" persName="Informant 0373">
 und	und	CCONJ	-	0:10:54.765000	0:10:55.332000
 der	der	PRON	-	0:10:54.765000	0:10:55.332000
 ist	sein	AUX	-	0:10:54.765000	0:10:55.332000
 am	am	ADP	-	0:10:54.765000	0:10:55.332000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:55.332000" end="0:10:55.718000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:55.332000" end="0:10:55.718000" persName="Informant 0371">
 der	der	PRON	-	0:10:55.332000	0:10:55.718000
 der	der	DET	-	0:10:55.332000	0:10:55.718000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:55.332000" end="0:10:55.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:55.332000" end="0:10:55.718000" persName="Informant 0373">
 Rand	Rand	NOUN	-	0:10:55.332000	0:10:55.718000
 .	-	-	-	0:10:55.332000	0:10:55.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:55.718000" end="0:10:57.198000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:55.718000" end="0:10:57.198000" persName="Informant 0371">
 schaut	schauen	VERB	-	0:10:55.718000	0:10:57.198000
 schon	schon	ADV	-	0:10:55.718000	0:10:57.198000
 eher	eher	ADV	-	0:10:55.718000	0:10:57.198000
@@ -3239,11 +3240,11 @@ Seite	Seite	NOUN	-	0:10:55.718000	0:10:57.198000
 hinunter	hinunter	ADJ	-	0:10:55.718000	0:10:57.198000
 .	-	-	-	0:10:55.718000	0:10:57.198000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:57.198000" end="0:10:57.545000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:57.198000" end="0:10:57.545000" persName="Informant 0373">
 ja	ja	PART	-	0:10:57.198000	0:10:57.545000
 .	-	-	-	0:10:57.198000	0:10:57.545000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:57.545000" end="0:10:59.898000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:10:57.545000" end="0:10:59.898000" persName="Informant 0371">
 <pause duration="1,3s"/>
 aber	aber	CCONJ	-	0:10:57.545000	0:10:59.898000
 er	ich	PRON	-	0:10:57.545000	0:10:59.898000
@@ -3254,23 +3255,23 @@ lieber	lieb	ADJ	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:10:57.54500
 Kerl	Kerl	NOUN	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:10:57.545000	0:10:59.898000
 .	-	-	-	0:10:57.545000	0:10:59.898000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:59.898000" end="0:11:00.838000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:10:59.898000" end="0:11:00.838000" persName="Informant 0373">
 der	der	PRON	-	0:10:59.898000	0:11:00.838000
 ist	sein	AUX	-	0:10:59.898000	0:11:00.838000
 super	super	PROPN	-	0:10:59.898000	0:11:00.838000
 ,	-	-	-	0:10:59.898000	0:11:00.838000
 also	also	ADV	-	0:10:59.898000	0:11:00.838000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:00.838000" end="0:11:02.212000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:00.838000" end="0:11:02.212000" persName="Informant 0371">
 der	der	PRON	-	0:11:00.838000	0:11:02.212000
 ist	sein	AUX	-	0:11:00.838000	0:11:02.212000
 lässi/	-	-	-	0:11:00.838000	0:11:02.212000
 ja	ja	ADV	-	0:11:00.838000	0:11:02.212000
 .	-	-	-	0:11:00.838000	0:11:02.212000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:00.838000" end="0:11:13.345000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:00.838000" end="0:11:13.345000" persName="Informant 0373">
 den	der	DET	-	0:11:00.838000	0:11:02.212000
-[Rumpi]N	Rumpi	PROPN	-	0:11:00.838000	0:11:02.212000
+NAME	NAME	PROPN	-	0:11:00.838000	0:11:02.212000
 mag	mögen	VERB	-	0:11:00.838000	0:11:02.212000
 ich	ich	PRON	-	0:11:00.838000	0:11:02.212000
 gern	gern	ADV	-	0:11:00.838000	0:11:02.212000
@@ -3281,7 +3282,7 @@ nächstes	nächst	ADJ	-	0:11:02.212000	0:11:06.172000
 Jahr	Jahr	NOUN	-	0:11:02.212000	0:11:06.172000
 auf/	-	-	-	0:11:02.212000	0:11:06.172000
 die	der	DET	-	0:11:02.212000	0:11:06.172000
-[Chiara]N	Chiara	NOUN	-	0:11:02.212000	0:11:06.172000
+NAME	NAME	NOUN	-	0:11:02.212000	0:11:06.172000
 auch	auch	ADV	-	0:11:02.212000	0:11:06.172000
 noch	noch	ADV	-	0:11:02.212000	0:11:06.172000
 aufhört	aufhören	VERB	-	0:11:02.212000	0:11:06.172000
@@ -3305,11 +3306,11 @@ sich	sich	PRON	-	0:11:11.812000	0:11:13.345000
 anschauen	anschauen	VERB	-	0:11:11.812000	0:11:13.345000
 .	-	-	-	0:11:11.812000	0:11:13.345000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:13.345000" end="0:11:13.992000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:13.345000" end="0:11:13.992000" persName="Informant 0371">
 ja	ja	PART	-	0:11:13.345000	0:11:13.992000
 .	-	-	-	0:11:13.345000	0:11:13.992000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:13.992000" end="0:11:15.732000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:13.992000" end="0:11:15.732000" persName="Informant 0373">
 weil	-	-	-	0:11:13.992000	0:11:15.732000
 vom	-	-	-	0:11:13.992000	0:11:15.732000
 (Kästel)	-	-	-	0:11:13.992000	0:11:15.732000
@@ -3318,30 +3319,30 @@ schon	-	-	-	0:11:13.992000	0:11:15.732000
 viel	-	-	-	0:11:13.992000	0:11:15.732000
 .	-	-	-	0:11:13.992000	0:11:15.732000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:15.732000" end="0:11:17.145000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:15.732000" end="0:11:17.145000" persName="Informant 0371">
 ja	ja	ADV	-	0:11:15.732000	0:11:16.492000
 sicher	sichern	ADJ	-	0:11:15.732000	0:11:16.492000
 ,	-	-	-	0:11:15.732000	0:11:16.492000
 alles	alle	PRON	-	0:11:16.492000	0:11:17.145000
 .	-	-	-	0:11:16.492000	0:11:17.145000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:16.492000" end="0:11:17.618000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:16.492000" end="0:11:17.618000" persName="Informant 0373">
 und	und	CCONJ	-	0:11:16.492000	0:11:17.145000
 wenn	wenn	SCONJ	-	0:11:16.492000	0:11:17.145000
 sie	ich	PRON	-	0:11:16.492000	0:11:17.145000
 dann	dann	ADV	-	0:11:16.492000	0:11:17.145000
 keinen	kein	DET	-	0:11:17.145000	0:11:17.618000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:17.618000" end="0:11:19.032000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:17.618000" end="0:11:19.032000" persName="Informant 0371">
 nein	nein	PART	-	0:11:17.618000	0:11:19.032000
 .	-	-	-	0:11:17.618000	0:11:19.032000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:17.618000" end="0:11:19.032000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:17.618000" end="0:11:19.032000" persName="Informant 0373">
 (kriegen	kriegen	VERB	-	0:11:17.618000	0:11:19.032000
 sie)	ich	PRON	-	0:11:17.618000	0:11:19.032000
 .	-	-	-	0:11:17.618000	0:11:19.032000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:19.032000" end="0:11:20.758000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:19.032000" end="0:11:20.758000" persName="Informant 0371">
 vom	vom	ADP	-	0:11:19.032000	0:11:19.545000
 Teich/	-	-	-	0:11:19.032000	0:11:19.545000
 k/	-	-	-	0:11:19.545000	0:11:20.758000
@@ -3350,7 +3351,7 @@ alleine	alleine	ADV	-	0:11:19.545000	0:11:20.758000
 auf/	-	-	-	0:11:19.545000	0:11:20.758000
 .	-	-	-	0:11:19.545000	0:11:20.758000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:19.545000" end="0:11:20.758000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:19.545000" end="0:11:20.758000" persName="Informant 0373">
 die	der	DET	-	0:11:19.545000	0:11:20.758000
 scheißen	scheißen	VERB	-	0:11:19.545000	0:11:20.758000
 dir	sich	PRON	-	0:11:19.545000	0:11:20.758000
@@ -3358,7 +3359,7 @@ am	am	ADP	-	0:11:19.545000	0:11:20.758000
 Schädel	Schädel	NOUN	-	0:11:19.545000	0:11:20.758000
 .	-	-	-	0:11:19.545000	0:11:20.758000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:20.758000" end="0:11:23.372000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:20.758000" end="0:11:23.372000" persName="Informant 0371">
 ja	ja	ADV	-	0:11:20.758000	0:11:22.652000
 v/	-	-	-	0:11:20.758000	0:11:22.652000
 alleine	alleine	ADV	-	0:11:20.758000	0:11:22.652000
@@ -3370,43 +3371,43 @@ von	von	ADP	-	0:11:22.652000	0:11:23.372000
 die	der	DET	-	0:11:22.652000	0:11:23.372000
 Getränke	Getränk	NOUN	-	0:11:22.652000	0:11:23.372000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:22.652000" end="0:11:23.372000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:22.652000" end="0:11:23.372000" persName="Informant 0373">
 ja	ja	PART	-	0:11:22.652000	0:11:23.372000
 .	-	-	-	0:11:22.652000	0:11:23.372000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:23.372000" end="0:11:24.185000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:23.372000" end="0:11:24.185000" persName="Informant 0371">
 angefangen	anfangen	VERB	-	0:11:23.372000	0:11:23.865000
 ,	-	-	-	0:11:23.372000	0:11:23.865000
 bis	bis	ADP	-	0:11:23.865000	0:11:24.185000
 zur	zur	ADP	-	0:11:23.865000	0:11:24.185000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:23.865000" end="0:11:24.185000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:23.865000" end="0:11:24.185000" persName="Informant 0373">
 so	so	ADV	-	0:11:23.865000	0:11:24.185000
 ist	sein	AUX	-	0:11:23.865000	0:11:24.185000
 es	ich	PRON	-	0:11:23.865000	0:11:24.185000
 .	-	-	-	0:11:23.865000	0:11:24.185000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:24.185000" end="0:11:25.325000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:24.185000" end="0:11:25.325000" persName="Informant 0371">
 Wiese	Wiese	NOUN	-	0:11:24.185000	0:11:25.325000
 oben	oben	ADV	-	0:11:24.185000	0:11:25.325000
 und	und	CCONJ	-	0:11:24.185000	0:11:25.325000
 alles	alle	PRON	-	0:11:24.185000	0:11:25.325000
 .	-	-	-	0:11:24.185000	0:11:25.325000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:25.325000" end="0:11:28.045000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:25.325000" end="0:11:28.045000" persName="Informant 0373">
 <pause duration="1,0s"/>
 wenn	wenn	SCONJ	-	0:11:25.325000	0:11:28.045000
 die	der	DET	-	0:11:25.325000	0:11:28.045000
-[Pauli]N	Pauli	NOUN	-	0:11:25.325000	0:11:28.045000
+NAME	NAME	NOUN	-	0:11:25.325000	0:11:28.045000
 keine	kein	PRON	-	0:11:25.325000	0:11:28.045000
 kennt	kennen	VERB	-	0:11:25.325000	0:11:28.045000
 ,	-	-	-	0:11:25.325000	0:11:28.045000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:28.045000" end="0:11:29.532000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:28.045000" end="0:11:29.532000" persName="Informant 0371">
 ähm	ähm	PROPN	-	0:11:28.045000	0:11:29.532000
 .	-	-	-	0:11:28.045000	0:11:29.532000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:28.045000" end="0:11:34.692000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:28.045000" end="0:11:34.692000" persName="Informant 0373">
 ja	ja	ADV	-	0:11:28.045000	0:11:29.532000
 (all/)	all	DET	-	0:11:28.045000	0:11:29.532000
 gratuliere	gratulieren	NOUN	-	0:11:29.532000	0:11:31.532000
@@ -3429,15 +3430,15 @@ sicher	-	-	-	0:11:33.585000	0:11:34.692000
 sein	-	-	-	0:11:33.585000	0:11:34.692000
 .	-	-	-	0:11:33.585000	0:11:34.692000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:34.692000" end="0:11:35.098000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:34.692000" end="0:11:35.098000" persName="Informant 0371">
 ja	ja	PART	-	0:11:34.692000	0:11:35.098000
 .	-	-	-	0:11:34.692000	0:11:35.098000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:35.098000" end="0:11:35.865000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:35.098000" end="0:11:35.865000" persName="Informant 0373">
 (ungeschauter)	ungeschauter	NOUN	-	0:11:35.098000	0:11:35.865000
 .	-	-	-	0:11:35.098000	0:11:35.865000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:35.865000" end="0:11:39.252000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:35.865000" end="0:11:39.252000" persName="Informant 0371">
 ja	ja	ADV	-	0:11:35.865000	0:11:36.705000
 sicher	sichern	ADJ	-	0:11:35.865000	0:11:36.705000
 .	-	-	-	0:11:35.865000	0:11:36.705000
@@ -3458,7 +3459,7 @@ täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum
 oder	oder	CCONJ	-	0:11:38.245000	0:11:39.252000
 ?	-	-	-	0:11:38.245000	0:11:39.252000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:39.252000" end="0:11:45.512000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:39.252000" end="0:11:45.512000" persName="Informant 0373">
 ja	ja	PART	-	0:11:39.252000	0:11:39.785000
 .	-	-	-	0:11:39.252000	0:11:39.785000
 <pause duration="2,3s"/>
@@ -3481,11 +3482,11 @@ alles	alle	PRON	-	0:11:44.152000	0:11:45.512000
 lächerlich	lächerlich	ADJ	-	0:11:44.152000	0:11:45.512000
 .	-	-	-	0:11:44.152000	0:11:45.512000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:45.512000" end="0:11:46.612000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:11:45.512000" end="0:11:46.612000" persName="Informant 0371">
 echt	echt	ADJ	-	0:11:45.512000	0:11:46.612000
 ?	-	-	-	0:11:45.512000	0:11:46.612000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:46.612000" end="0:12:02.878000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:11:46.612000" end="0:12:02.878000" persName="Informant 0373">
 es	ich	PRON	-	0:11:46.612000	0:11:50.078000
 ist	sein	AUX	-	0:11:46.612000	0:11:50.078000
 sowieso	sowieso	ADV	-	0:11:46.612000	0:11:50.078000
@@ -3538,11 +3539,11 @@ schon	schon	ADV	-	0:11:59.012000	0:12:02.878000
 hinaufgegangen	hinaufgegangen	VERB	-	0:11:59.012000	0:12:02.878000
 .	-	-	-	0:11:59.012000	0:12:02.878000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:02.878000" end="0:12:03.352000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:02.878000" end="0:12:03.352000" persName="Informant 0371">
 ja	ja	PART	-	0:12:02.878000	0:12:03.352000
 .	-	-	-	0:12:02.878000	0:12:03.352000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:03.352000" end="0:12:14.185000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:03.352000" end="0:12:14.185000" persName="Informant 0373">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:12:03.352000	0:12:08.545000
 es	ich	PRON	-	0:12:03.352000	0:12:08.545000
@@ -3571,16 +3572,16 @@ also	also	ADV	-	0:12:08.545000	0:12:14.185000
 passiert	passieren	VERB	-	0:12:08.545000	0:12:14.185000
 .	-	-	-	0:12:08.545000	0:12:14.185000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:14.185000" end="0:12:14.718000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:14.185000" end="0:12:14.718000" persName="Informant 0371">
 okay	okay	NOUN	-	0:12:14.185000	0:12:14.718000
 .	-	-	-	0:12:14.185000	0:12:14.718000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:14.185000" end="0:12:14.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:14.185000" end="0:12:14.718000" persName="Informant 0373">
 *weißt*	-	-	-	0:12:14.185000	0:12:14.718000
 schon	-	-	-	0:12:14.185000	0:12:14.718000
 .	-	-	-	0:12:14.185000	0:12:14.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:14.718000" end="0:12:16.278000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:14.718000" end="0:12:16.278000" persName="Informant 0371">
 also	also	ADV	-	0:12:14.718000	0:12:16.278000
 nicht	nicht	PART	-	0:12:14.718000	0:12:16.278000
 ,	-	-	-	0:12:14.718000	0:12:16.278000
@@ -3594,7 +3595,7 @@ ja	ja	ADV	-	0:12:14.718000	0:12:16.278000
 ja	ja	PART	-	0:12:14.718000	0:12:16.278000
 .	-	-	-	0:12:14.718000	0:12:16.278000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:14.718000" end="0:12:18.772000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:14.718000" end="0:12:18.772000" persName="Informant 0373">
 also	also	ADV	-	0:12:14.718000	0:12:16.278000
 in	in	ADP	-	0:12:14.718000	0:12:16.278000
 dem	der	DET	-	0:12:14.718000	0:12:16.278000
@@ -3616,37 +3617,37 @@ das	der	PRON	-	0:12:17.278000	0:12:18.772000
 nicht	nicht	PART	-	0:12:17.278000	0:12:18.772000
 ."	-	-	-	0:12:17.278000	0:12:18.772000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:18.772000" end="0:12:19.992000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:18.772000" end="0:12:19.992000" persName="Informant 0371">
 eigentlich	eigentlich	ADV	-	0:12:18.772000	0:12:19.372000
 nicht	nicht	PART	-	0:12:18.772000	0:12:19.372000
 ,	-	-	-	0:12:18.772000	0:12:19.372000
 nein	nein	PART	-	0:12:19.372000	0:12:19.992000
 .	-	-	-	0:12:19.372000	0:12:19.992000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:19.372000" end="0:12:19.992000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:19.372000" end="0:12:19.992000" persName="Informant 0373">
 ja	ja	PART	-	0:12:19.372000	0:12:19.992000
 .	-	-	-	0:12:19.372000	0:12:19.992000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:19.992000" end="0:12:20.705000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:19.992000" end="0:12:20.705000" persName="Informant 0371">
 ist	sein	AUX	-	0:12:19.992000	0:12:20.705000
 schon	schon	ADV	-	0:12:19.992000	0:12:20.705000
 klar	klaren	ADJ	-	0:12:19.992000	0:12:20.705000
 .	-	-	-	0:12:19.992000	0:12:20.705000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:20.705000" end="0:12:21.045000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:20.705000" end="0:12:21.045000" persName="Informant 0373">
 das	der	PRON	-	0:12:20.705000	0:12:21.045000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:21.045000" end="0:12:21.832000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:21.045000" end="0:12:21.832000" persName="Informant 0371">
 ja	-	-	-	0:12:21.045000	0:12:21.832000
 das	-	-	-	0:12:21.045000	0:12:21.832000
 *kannst*	-	-	-	0:12:21.045000	0:12:21.832000
 v/	-	-	-	0:12:21.045000	0:12:21.832000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:21.045000" end="0:12:21.832000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:21.045000" end="0:12:21.832000" persName="Informant 0373">
 schon	schon	ADV	-	0:12:21.045000	0:12:21.832000
 .	-	-	-	0:12:21.045000	0:12:21.832000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:21.832000" end="0:12:23.285000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:21.832000" end="0:12:23.285000" persName="Informant 0371">
 das	-	-	-	0:12:21.832000	0:12:22.045000
 *kannst*	-	-	-	0:12:22.045000	0:12:23.285000
 ja	-	-	-	0:12:22.045000	0:12:23.285000
@@ -3654,7 +3655,7 @@ nicht	-	-	-	0:12:22.045000	0:12:23.285000
 machen	-	-	-	0:12:22.045000	0:12:23.285000
 .	-	-	-	0:12:22.045000	0:12:23.285000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:22.045000" end="0:12:27.685000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:22.045000" end="0:12:27.685000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:12:22.045000	0:12:23.285000
 in	in	ADP	-	0:12:22.045000	0:12:23.285000
 drei	drei	NUM	-	0:12:22.045000	0:12:23.285000
@@ -3679,7 +3680,7 @@ er	ich	PRON	-	0:12:26.485000	0:12:27.685000
 gilt	gelten	VERB	-	0:12:26.485000	0:12:27.685000
 .	-	-	-	0:12:26.485000	0:12:27.685000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:27.685000" end="0:12:29.972000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:27.685000" end="0:12:29.972000" persName="Informant 0371">
 ja	ja	PART	-	0:12:27.685000	0:12:28.912000
 .	-	-	-	0:12:27.685000	0:12:28.912000
 sie	ich	PRON	-	0:12:28.912000	0:12:29.365000
@@ -3690,12 +3691,12 @@ auch	auch	ADV	-	0:12:29.365000	0:12:29.972000
 denken	denken	VERB	-	0:12:29.365000	0:12:29.972000
 ,	-	-	-	0:12:29.365000	0:12:29.972000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:29.365000" end="0:12:29.972000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:29.365000" end="0:12:29.972000" persName="Informant 0373">
 (und	und	CCONJ	-	0:12:29.365000	0:12:29.972000
 sie/	-	-	-	0:12:29.365000	0:12:29.972000
 .)	-	-	-	0:12:29.365000	0:12:29.972000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:29.972000" end="0:12:31.405000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:29.972000" end="0:12:31.405000" persName="Informant 0371">
 sie	ich	PRON	-	0:12:29.972000	0:12:31.405000
 will	wollen	VERB	-	0:12:29.972000	0:12:31.405000
 das	der	DET	-	0:12:29.972000	0:12:31.405000
@@ -3703,7 +3704,7 @@ Maximum	Maximum	NOUN	-	0:12:29.972000	0:12:31.405000
 herausholen	herausholen	VERB	-	0:12:29.972000	0:12:31.405000
 .	-	-	-	0:12:29.972000	0:12:31.405000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:31.405000" end="0:12:38.385000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:31.405000" end="0:12:38.385000" persName="Informant 0373">
 ja	ja	ADV	-	0:12:31.405000	0:12:32.158000
 tut	tun	VERB	-	0:12:31.405000	0:12:32.158000
 sie	ich	PRON	-	0:12:31.405000	0:12:32.158000
@@ -3726,7 +3727,7 @@ da	da	ADV	-	0:12:35.272000	0:12:38.385000
 oben	oben	ADV	-	0:12:35.272000	0:12:38.385000
 .	-	-	-	0:12:35.272000	0:12:38.385000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:38.385000" end="0:12:44.218000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:38.385000" end="0:12:44.218000" persName="Informant 0371">
 also	also	ADV	-	0:12:38.385000	0:12:40.152000
 das	der	PRON	-	0:12:38.385000	0:12:40.152000
 muss	muss	VERB	-	0:12:38.385000	0:12:40.152000
@@ -3754,7 +3755,7 @@ gehabt	haben	AUX	-	0:12:41.265000	0:12:44.218000
 habe	habe	AUX	-	0:12:41.265000	0:12:44.218000
 .	-	-	-	0:12:41.265000	0:12:44.218000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:44.218000" end="0:12:46.825000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:44.218000" end="0:12:46.825000" persName="Informant 0373">
 da	-	-	-	0:12:44.218000	0:12:46.825000
 da	-	-	-	0:12:44.218000	0:12:46.825000
 *wirst*	-	-	-	0:12:44.218000	0:12:46.825000
@@ -3762,14 +3763,14 @@ traurig	-	-	-	0:12:44.218000	0:12:46.825000
 dabei	-	-	-	0:12:44.218000	0:12:46.825000
 .	-	-	-	0:12:44.218000	0:12:46.825000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:46.825000" end="0:12:48.018000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:46.825000" end="0:12:48.018000" persName="Informant 0371">
 ja	ja	ADV	-	0:12:46.825000	0:12:48.018000
 das	der	PRON	-	0:12:46.825000	0:12:48.018000
 glaube	glauben	VERB	-	0:12:46.825000	0:12:48.018000
 ich	ich	PRON	-	0:12:46.825000	0:12:48.018000
 .	-	-	-	0:12:46.825000	0:12:48.018000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:46.825000" end="0:12:53.512000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:46.825000" end="0:12:53.512000" persName="Informant 0373">
 wenn	wenn	SCONJ	-	0:12:48.018000	0:12:50.778000
 dann	dann	ADV	-	0:12:48.018000	0:12:50.778000
 die	der	DET	-	0:12:48.018000	0:12:50.778000
@@ -3793,13 +3794,13 @@ wäre	sein	AUX	-	0:12:50.778000	0:12:52.132000
 wie	wie	ADV	-	0:12:52.132000	0:12:53.512000
 dort	dort	ADV	-	0:12:52.132000	0:12:53.512000
 der	der	DET	-	0:12:52.132000	0:12:53.512000
-[Martin]N	Martin	PROPN	-	0:12:52.132000	0:12:53.512000
+NAME	NAME	PROPN	-	0:12:52.132000	0:12:53.512000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:53.512000" end="0:12:54.038000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:53.512000" end="0:12:54.038000" persName="Informant 0371">
 ja	ja	PART	-	0:12:53.512000	0:12:54.038000
 .	-	-	-	0:12:53.512000	0:12:54.038000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:53.512000" end="0:12:55.792000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:53.512000" end="0:12:55.792000" persName="Informant 0373">
 hat	haben	AUX	-	0:12:53.512000	0:12:54.038000
 ja/	-	-	-	0:12:53.512000	0:12:54.038000
 .	-	-	-	0:12:53.512000	0:12:54.038000
@@ -3815,11 +3816,11 @@ oder	oder	CCONJ	-	0:12:54.865000	0:12:55.792000
 er	ich	PRON	-	0:12:54.865000	0:12:55.792000
 ,	-	-	-	0:12:54.865000	0:12:55.792000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:55.792000" end="0:12:56.292000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:12:55.792000" end="0:12:56.292000" persName="Informant 0371">
 ja	ja	PART	-	0:12:55.792000	0:12:56.292000
 .	-	-	-	0:12:55.792000	0:12:56.292000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:55.792000" end="0:13:02.798000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:12:55.792000" end="0:13:02.798000" persName="Informant 0373">
 gell	gell	ADJ	-	0:12:55.792000	0:12:56.292000
 ,	-	-	-	0:12:55.792000	0:12:56.292000
 habe	habe	AUX	-	0:12:56.292000	0:12:56.698000
@@ -3853,9 +3854,9 @@ die	der	DET	-	0:13:01.252000	0:13:02.798000
 ganzen	ganz	NOUN	-	0:13:01.252000	0:13:02.798000
 .	-	-	-	0:13:01.252000	0:13:02.798000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:02.798000" end="0:13:04.345000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:02.798000" end="0:13:04.345000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:02.798000" end="0:13:11.985000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:02.798000" end="0:13:11.985000" persName="Informant 0373">
 ja	ja	PART	-	0:13:02.798000	0:13:04.345000
 .	-	-	-	0:13:02.798000	0:13:04.345000
 wenn	wenn	SCONJ	-	0:13:04.345000	0:13:06.632000
@@ -3883,11 +3884,11 @@ paar	paar	DET	-	0:13:08.418000	0:13:11.985000
 Mal	Mal	NOUN	-	0:13:08.418000	0:13:11.985000
 zusammengekracht	zusammengekracht	VERB	-	0:13:08.418000	0:13:11.985000
 mit	mit	ADP	-	0:13:08.418000	0:13:11.985000
-[Miesenbach]O	Miesenbach	NOUN	-	0:13:08.418000	0:13:11.985000
+ORT	ORT	NOUN	-	0:13:08.418000	0:13:11.985000
 mit/	-	-	-	0:13:08.418000	0:13:11.985000
 .	-	-	-	0:13:08.418000	0:13:11.985000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:11.985000" end="0:13:13.205000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:11.985000" end="0:13:13.205000" persName="Informant 0371">
 die	der	PRON	-	0:13:11.985000	0:13:13.205000
 sind	sein	AUX	-	0:13:11.985000	0:13:13.205000
 einfach	einfach	ADV	-	0:13:11.985000	0:13:13.205000
@@ -3896,7 +3897,7 @@ heimgefahren	heimgefahren	VERB	-	0:13:11.985000	0:13:13.205000
 oder	oder	CCONJ	-	0:13:11.985000	0:13:13.205000
 ?	-	-	-	0:13:11.985000	0:13:13.205000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:13.205000" end="0:13:18.985000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:13.205000" end="0:13:18.985000" persName="Informant 0373">
 ja	ja	ADV	-	0:13:13.205000	0:13:14.558000
 um	um	ADP	-	0:13:13.205000	0:13:14.558000
 fünf	fünf	NUM	-	0:13:13.205000	0:13:14.558000
@@ -3925,31 +3926,31 @@ sieben	sieben	NUM	-	0:13:17.998000	0:13:18.985000
 fährt	fahren	VERB	-	0:13:17.998000	0:13:18.985000
 .	-	-	-	0:13:17.998000	0:13:18.985000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:18.985000" end="0:13:21.038000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:18.985000" end="0:13:21.038000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:18.985000" end="0:13:21.038000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:18.985000" end="0:13:21.038000" persName="Informant 0373">
 das	der	PRON	-	0:13:18.985000	0:13:21.038000
 geht	gehen	VERB	-	0:13:18.985000	0:13:21.038000
 ja	ja	ADV	-	0:13:18.985000	0:13:21.038000
 nicht	nicht	PART	-	0:13:18.985000	0:13:21.038000
 .	-	-	-	0:13:18.985000	0:13:21.038000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:21.038000" end="0:13:23.485000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:21.038000" end="0:13:23.485000" persName="Informant 0371">
 was	was	PRON	-	0:13:21.038000	0:13:22.485000
 haben	haben	AUX	-	0:13:21.038000	0:13:22.485000
 die	der	PRON	-	0:13:21.038000	0:13:22.485000
 immer	immer	ADV	-	0:13:21.038000	0:13:22.485000
 ,	-	-	-	0:13:21.038000	0:13:22.485000
 die	der	DET	-	0:13:22.485000	0:13:23.485000
-[Miesenbacher]O	Miesenbacher	NOUN	-	0:13:22.485000	0:13:23.485000
+ORT	ORT	NOUN	-	0:13:22.485000	0:13:23.485000
 ?	-	-	-	0:13:22.485000	0:13:23.485000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:22.485000" end="0:13:23.485000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:22.485000" end="0:13:23.485000" persName="Informant 0373">
 einen	ein	DET	-	0:13:22.485000	0:13:23.485000
 Kaffeestand	Kaffeestand	NOUN	-	0:13:22.485000	0:13:23.485000
 .	-	-	-	0:13:22.485000	0:13:23.485000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:23.485000" end="0:13:25.485000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:23.485000" end="0:13:25.485000" persName="Informant 0371">
 ja	ja	PART	-	0:13:23.485000	0:13:25.485000
 ,	-	-	-	0:13:23.485000	0:13:25.485000
 sauft	saufen	VERB	-	0:13:23.485000	0:13:25.485000
@@ -3958,7 +3959,7 @@ keiner	kein	DET	-	0:13:23.485000	0:13:25.485000
 Kaffee	Kaffee	NOUN	-	0:13:23.485000	0:13:25.485000
 .	-	-	-	0:13:23.485000	0:13:25.485000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:23.485000" end="0:13:43.212000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:23.485000" end="0:13:43.212000" persName="Informant 0373">
 und	und	CCONJ	-	0:13:23.485000	0:13:25.485000
 jetzt	jetzt	ADV	-	0:13:23.485000	0:13:25.485000
 haben	haben	AUX	-	0:13:23.485000	0:13:25.485000
@@ -3999,7 +4000,7 @@ kann	können	VERB	-	0:13:30.438000	0:13:32.858000
 ,	-	-	-	0:13:30.438000	0:13:32.858000
 warum	warum	ADV	-	0:13:32.858000	0:13:35.712000
 die	der	DET	-	0:13:32.858000	0:13:35.712000
-[Miesenbacher]O	Miesenbacher	NOUN	-	0:13:32.858000	0:13:35.712000
+ORT	ORT	NOUN	-	0:13:32.858000	0:13:35.712000
 nicht	nicht	PART	-	0:13:32.858000	0:13:35.712000
 mehr	mehr	ADV	-	0:13:32.858000	0:13:35.712000
 einen	ein	DET	-	0:13:32.858000	0:13:35.712000
@@ -4024,12 +4025,12 @@ eine	einen	DET	-	0:13:39.618000	0:13:43.212000
 geschissene	geschissen	ADJ	-	0:13:39.618000	0:13:43.212000
 war	sein	AUX	-	0:13:39.618000	0:13:43.212000
 ein	einen	DET	-	0:13:39.618000	0:13:43.212000
-[Miesenbacher]O	Miesenbacher	NOUN	-	0:13:39.618000	0:13:43.212000
+ORT	ORT	NOUN	-	0:13:39.618000	0:13:43.212000
 .	-	-	-	0:13:39.618000	0:13:43.212000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:43.212000" end="0:13:44.405000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:43.212000" end="0:13:44.405000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:43.212000" end="0:13:52.818000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:43.212000" end="0:13:52.818000" persName="Informant 0373">
 dann	dann	ADV	-	0:13:43.212000	0:13:44.405000
 fragt	fragen	VERB	-	0:13:43.212000	0:13:44.405000
 er	ich	PRON	-	0:13:43.212000	0:13:44.405000
@@ -4045,7 +4046,7 @@ uns	sich	PRON	-	0:13:44.405000	0:13:45.852000
 dass	dass	SCONJ	-	0:13:45.852000	0:13:48.325000
 wir	ich	PRON	-	0:13:45.852000	0:13:48.325000
 die	der	DET	-	0:13:45.852000	0:13:48.325000
-[Miesenbacher]O	Miesenbacher	NOUN	-	0:13:45.852000	0:13:48.325000
+ORT	ORT	NOUN	-	0:13:45.852000	0:13:48.325000
 den	der	DET	-	0:13:45.852000	0:13:48.325000
 Kaffeestand	Kaffeestand	NOUN	-	0:13:45.852000	0:13:48.325000
 nicht	nicht	PART	-	0:13:45.852000	0:13:48.325000
@@ -4062,36 +4063,36 @@ gehalten	halten	VERB	-	0:13:48.325000	0:13:50.398000
 .	-	-	-	0:13:48.325000	0:13:50.398000
 weil	weil	SCONJ	-	0:13:50.398000	0:13:52.818000
 der	der	DET	-	0:13:50.398000	0:13:52.818000
-[Gis]N	Gis	PROPN	-	0:13:50.398000	0:13:52.818000
+NAME	NAME	PROPN	-	0:13:50.398000	0:13:52.818000
 war	sein	AUX	-	0:13:50.398000	0:13:52.818000
 dort	dort	ADV	-	0:13:50.398000	0:13:52.818000
 auch	auch	ADV	-	0:13:50.398000	0:13:52.818000
 dabei	dabei	ADV	-	0:13:50.398000	0:13:52.818000
 .	-	-	-	0:13:50.398000	0:13:52.818000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:52.818000" end="0:13:53.752000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:52.818000" end="0:13:53.752000" persName="Informant 0371">
 ach	ach	X	-	0:13:52.818000	0:13:53.752000
 so	so	ADV	-	0:13:52.818000	0:13:53.752000
 .	-	-	-	0:13:52.818000	0:13:53.752000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:52.818000" end="0:13:53.752000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:52.818000" end="0:13:53.752000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:53.752000" end="0:13:55.198000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:53.752000" end="0:13:55.198000" persName="Informant 0371">
 sein	-	-	-	0:13:53.752000	0:13:55.198000
 Lehr(?)	-	-	-	0:13:53.752000	0:13:55.198000
 oder	-	-	-	0:13:53.752000	0:13:55.198000
 was	-	-	-	0:13:53.752000	0:13:55.198000
 ?	-	-	-	0:13:53.752000	0:13:55.198000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:53.752000" end="0:13:55.198000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:53.752000" end="0:13:55.198000" persName="Informant 0373">
 ja	ja	PART	-	0:13:53.752000	0:13:55.198000
 .	-	-	-	0:13:53.752000	0:13:55.198000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:55.198000" end="0:13:55.818000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:13:55.198000" end="0:13:55.818000" persName="Informant 0371">
 uh	uh	PROPN	-	0:13:55.198000	0:13:55.818000
 .	-	-	-	0:13:55.198000	0:13:55.818000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:55.198000" end="0:14:03.078000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:13:55.198000" end="0:14:03.078000" persName="Informant 0373">
 und	und	CCONJ	-	0:13:55.198000	0:13:55.818000
 nachher	nachher	ADV	-	0:13:55.818000	0:13:56.938000
 habe	habe	AUX	-	0:13:55.818000	0:13:56.938000
@@ -4132,7 +4133,7 @@ anders	anders	ADV	-	0:14:01.592000	0:14:03.078000
 gehört	hören	VERB	-	0:14:01.592000	0:14:03.078000
 .	-	-	-	0:14:01.592000	0:14:03.078000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:03.078000" end="0:14:05.778000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:03.078000" end="0:14:05.778000" persName="Informant 0371">
 ja	ja	PART	-	0:14:03.078000	0:14:03.832000
 .	-	-	-	0:14:03.078000	0:14:03.832000
 sie	ich	PRON	-	0:14:03.832000	0:14:04.952000
@@ -4146,21 +4147,21 @@ sind	sein	AUX	-	0:14:04.952000	0:14:05.205000
 fünf	fünf	NUM	-	0:14:05.205000	0:14:05.778000
 Minuten	Minute	NOUN	-	0:14:05.205000	0:14:05.778000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:05.205000" end="0:14:05.778000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:05.205000" end="0:14:05.778000" persName="Informant 0373">
 ja	ja	PART	-	0:14:05.205000	0:14:05.778000
 .	-	-	-	0:14:05.205000	0:14:05.778000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:05.778000" end="0:14:07.325000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:05.778000" end="0:14:07.325000" persName="Informant 0371">
 früher	früh	ADJ	-	0:14:05.778000	0:14:06.058000
 gefahren	gefahren	VERB	-	0:14:06.058000	0:14:07.325000
 und/	-	-	-	0:14:06.058000	0:14:07.325000
 .	-	-	-	0:14:06.058000	0:14:07.325000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:06.058000" end="0:14:07.325000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:06.058000" end="0:14:07.325000" persName="Informant 0373">
 genau	genau	ADJ	-	0:14:06.058000	0:14:07.325000
 .	-	-	-	0:14:06.058000	0:14:07.325000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:07.325000" end="0:14:09.292000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:07.325000" end="0:14:09.292000" persName="Informant 0371">
 was	was	PRON	-	0:14:07.325000	0:14:08.478000
 haben	haben	AUX	-	0:14:07.325000	0:14:08.478000
 die	der	PRON	-	0:14:07.325000	0:14:08.478000
@@ -4171,19 +4172,19 @@ oder	oder	CCONJ	-	0:14:08.478000	0:14:09.292000
 was	was	PRON	-	0:14:08.478000	0:14:09.292000
 ?	-	-	-	0:14:08.478000	0:14:09.292000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:09.292000" end="0:14:09.658000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:09.292000" end="0:14:09.658000" persName="Informant 0373">
 ja	ja	PART	-	0:14:09.292000	0:14:09.658000
 ,	-	-	-	0:14:09.292000	0:14:09.658000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:09.658000" end="0:14:10.398000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:09.658000" end="0:14:10.398000" persName="Informant 0371">
 ja	ja	PART	-	0:14:09.658000	0:14:10.398000
 .	-	-	-	0:14:09.658000	0:14:10.398000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:09.658000" end="0:14:10.398000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:09.658000" end="0:14:10.398000" persName="Informant 0373">
 gekellnert	kellnern	VERB	-	0:14:09.658000	0:14:10.398000
 .	-	-	-	0:14:09.658000	0:14:10.398000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:10.398000" end="0:14:11.685000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:10.398000" end="0:14:11.685000" persName="Informant 0371">
 der	der	DET	-	0:14:10.398000	0:14:11.272000
 Klassiker	Klassiker	NOUN	-	0:14:10.398000	0:14:11.272000
 ,	-	-	-	0:14:10.398000	0:14:11.272000
@@ -4191,11 +4192,11 @@ du	du	PRON	-	0:14:11.272000	0:14:11.685000
 brauchst	brauchen	VERB	-	0:14:11.272000	0:14:11.685000
 sie	ich	PRON	-	0:14:11.272000	0:14:11.685000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:11.272000" end="0:14:11.685000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:11.272000" end="0:14:11.685000" persName="Informant 0373">
 ja	ja	PART	-	0:14:11.272000	0:14:11.685000
 .	-	-	-	0:14:11.272000	0:14:11.685000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:11.685000" end="0:14:13.965000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:11.685000" end="0:14:13.965000" persName="Informant 0371">
 nur	nur	ADV	-	0:14:11.685000	0:14:12.425000
 ein	einen	DET	-	0:14:11.685000	0:14:12.425000
 Jahr	Jahr	NOUN	-	0:14:11.685000	0:14:12.425000
@@ -4210,7 +4211,7 @@ alles	alle	PRON	-	0:14:12.425000	0:14:13.965000
 wieder	wieder	ADV	-	0:14:12.425000	0:14:13.965000
 .	-	-	-	0:14:12.425000	0:14:13.965000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:12.425000" end="0:14:15.812000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:12.425000" end="0:14:15.812000" persName="Informant 0373">
 ja	ja	PART	-	0:14:12.425000	0:14:13.965000
 .	-	-	-	0:14:12.425000	0:14:13.965000
 dann	dann	ADV	-	0:14:13.965000	0:14:15.812000
@@ -4219,11 +4220,11 @@ der	der	DET	-	0:14:13.965000	0:14:15.812000
 Strafdienst	Strafdienst	NOUN	-	0:14:13.965000	0:14:15.812000
 quasi	quasi	ADV	-	0:14:13.965000	0:14:15.812000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:15.812000" end="0:14:16.525000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:15.812000" end="0:14:16.525000" persName="Informant 0371">
 ja	ja	PART	-	0:14:15.812000	0:14:16.525000
 .	-	-	-	0:14:15.812000	0:14:16.525000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:16.525000" end="0:14:21.878000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:16.525000" end="0:14:21.878000" persName="Informant 0373">
 ausgefasst	ausgefasst	VERB	-	0:14:16.525000	0:14:17.998000
 .	-	-	-	0:14:16.525000	0:14:17.998000
 <pause duration="0,8s"/>
@@ -4240,21 +4241,21 @@ Ganze	ganz	NOUN	-	0:14:20.545000	0:14:21.878000
 organisieren	organisieren	VERB	-	0:14:20.545000	0:14:21.878000
 .	-	-	-	0:14:20.545000	0:14:21.878000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:21.878000" end="0:14:22.505000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:21.878000" end="0:14:22.505000" persName="Informant 0371">
 nein	nein	PART	-	0:14:21.878000	0:14:22.505000
 .	-	-	-	0:14:21.878000	0:14:22.505000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:22.505000" end="0:14:27.132000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:22.505000" end="0:14:27.132000" persName="Informant 0373">
 <pause duration="3,5s"/>
 (einschenken)	einschenken	NOUN	-	0:14:22.505000	0:14:27.132000
 .	-	-	-	0:14:22.505000	0:14:27.132000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:27.132000" end="0:14:28.605000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:27.132000" end="0:14:28.605000" persName="Informant 0371">
 ist	sein	AUX	-	0:14:27.132000	0:14:28.605000
 perfekt	perfekt	ADJ	-	0:14:27.132000	0:14:28.605000
 .	-	-	-	0:14:27.132000	0:14:28.605000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:28.605000" end="0:14:33.411000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:28.605000" end="0:14:33.411000" persName="Informant 0373">
 <pause duration="2,3s"/>
 ja	ja	PART	-	0:14:28.605000	0:14:33.411000
 und	und	CCONJ	-	0:14:28.605000	0:14:33.411000
@@ -4265,7 +4266,7 @@ dieses	dies	DET	-	0:14:28.605000	0:14:33.411000
 Kapitel	Kapitel	NOUN	-	0:14:28.605000	0:14:33.411000
 .	-	-	-	0:14:28.605000	0:14:33.411000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:33.411000" end="0:14:36.851000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:33.411000" end="0:14:36.851000" persName="Informant 0371">
 so	so	ADV	-	0:14:33.411000	0:14:34.545000
 ist	sein	AUX	-	0:14:33.411000	0:14:34.545000
 es	ich	PRON	-	0:14:33.411000	0:14:34.545000
@@ -4281,7 +4282,7 @@ haben	-	-	-	0:14:34.545000	0:14:36.851000
 oder	oder	CCONJ	-	0:14:34.545000	0:14:36.851000
 ?	-	-	-	0:14:34.545000	0:14:36.851000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:36.851000" end="0:14:38.525000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:36.851000" end="0:14:38.525000" persName="Informant 0373">
 ähm	ähm	X	-	0:14:36.851000	0:14:38.525000
 ja	ja	PART	-	0:14:36.851000	0:14:38.525000
 ,	-	-	-	0:14:36.851000	0:14:38.525000
@@ -4290,7 +4291,7 @@ schon	schon	ADV	-	0:14:36.851000	0:14:38.525000
 sicher	sichern	ADJ	-	0:14:36.851000	0:14:38.525000
 .	-	-	-	0:14:36.851000	0:14:38.525000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:38.525000" end="0:14:42.031000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:38.525000" end="0:14:42.031000" persName="Informant 0371">
 ich	ich	PRON	-	0:14:38.525000	0:14:39.985000
 glaube	glauben	VERB	-	0:14:38.525000	0:14:39.985000
 es	ich	PRON	-	0:14:38.525000	0:14:39.985000
@@ -4305,7 +4306,7 @@ wenig	wenig	PRON	-	0:14:39.985000	0:14:42.031000
 sein	mein	AUX	-	0:14:39.985000	0:14:42.031000
 .	-	-	-	0:14:39.985000	0:14:42.031000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:42.031000" end="0:14:45.891000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:42.031000" end="0:14:45.891000" persName="Informant 0373">
 nein	nein	PART	-	0:14:42.031000	0:14:42.591000
 .	-	-	-	0:14:42.031000	0:14:42.591000
 <pause duration="1,5s"/>
@@ -4318,22 +4319,22 @@ ersten	erst	ADJ	-	0:14:42.591000	0:14:45.891000
 Entwurf	Entwurf	NOUN	-	0:14:42.591000	0:14:45.891000
 .	-	-	-	0:14:42.591000	0:14:45.891000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:45.891000" end="0:14:46.458000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:45.891000" end="0:14:46.458000" persName="Informant 0371">
 echt	echt	ADJ	-	0:14:45.891000	0:14:46.458000
 ?	-	-	-	0:14:45.891000	0:14:46.458000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:46.458000" end="0:14:46.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:46.458000" end="0:14:46.718000" persName="Informant 0373">
 ja	ja	PART	-	0:14:46.458000	0:14:46.718000
 .	-	-	-	0:14:46.458000	0:14:46.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:46.718000" end="0:14:47.825000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:46.718000" end="0:14:47.825000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:47.825000" end="0:14:49.218000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:47.825000" end="0:14:49.218000" persName="Informant 0373">
 (einmal	einmal	ADV	-	0:14:47.825000	0:14:49.218000
 reiten)	reiten	VERB	-	0:14:47.825000	0:14:49.218000
 .	-	-	-	0:14:47.825000	0:14:49.218000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:49.218000" end="0:14:52.605000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:49.218000" end="0:14:52.605000" persName="Informant 0371">
 *machts*	-	-	-	0:14:49.218000	0:14:51.665000
 es	-	-	-	0:14:49.218000	0:14:51.665000
 jetzt	-	-	-	0:14:49.218000	0:14:51.665000
@@ -4349,7 +4350,7 @@ Garage	Garage	NOUN	-	0:14:51.665000	0:14:52.605000
 drüber	drüber	ADV	-	0:14:51.665000	0:14:52.605000
 ?	-	-	-	0:14:51.665000	0:14:52.605000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:51.665000" end="0:14:56.591000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:51.665000" end="0:14:56.591000" persName="Informant 0373">
 ja	ja	ADV	-	0:14:51.665000	0:14:52.605000
 genau	genau	ADJ	-	0:14:51.665000	0:14:52.605000
 .	-	-	-	0:14:51.665000	0:14:52.605000
@@ -4363,11 +4364,11 @@ eine	einen	DET	-	0:14:52.605000	0:14:56.591000
 Ebene	Ebene	NOUN	-	0:14:52.605000	0:14:56.591000
 .	-	-	-	0:14:52.605000	0:14:56.591000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:56.591000" end="0:14:57.798000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:14:56.591000" end="0:14:57.798000" persName="Informant 0371">
 ja	ja	PART	-	0:14:56.591000	0:14:57.798000
 .	-	-	-	0:14:56.591000	0:14:57.798000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:57.798000" end="0:15:01.158000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:14:57.798000" end="0:15:01.158000" persName="Informant 0373">
 unten	unten	ADV	-	0:14:57.798000	0:14:59.225000
 wo	wo	ADV	-	0:14:57.798000	0:14:59.225000
 die	der	DET	-	0:14:57.798000	0:14:59.225000
@@ -4380,11 +4381,11 @@ das	-	-	-	0:14:59.225000	0:14:59.945000
 unten	unten	ADV	-	0:14:59.945000	0:15:01.158000
 ?	-	-	-	0:14:59.945000	0:15:01.158000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:01.158000" end="0:15:01.458000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:01.158000" end="0:15:01.458000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:15:01.158000	0:15:01.458000
 .	-	-	-	0:15:01.158000	0:15:01.458000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:01.458000" end="0:15:04.791000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:01.458000" end="0:15:04.791000" persName="Informant 0373">
 die	der	DET	-	0:15:01.458000	0:15:04.791000
 eine	einen	DET	-	0:15:01.458000	0:15:04.791000
 Tür	Tür	NOUN	-	0:15:01.458000	0:15:04.791000
@@ -4399,11 +4400,11 @@ Stiegenaufgang	Stiegenaufgang	NOUN	-	0:15:01.458000	0:15:04.791000
 gemacht	machen	VERB	-	0:15:01.458000	0:15:04.791000
 .	-	-	-	0:15:01.458000	0:15:04.791000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:04.791000" end="0:15:05.271000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:04.791000" end="0:15:05.271000" persName="Informant 0371">
 okay	okay	NOUN	-	0:15:04.791000	0:15:05.271000
 .	-	-	-	0:15:04.791000	0:15:05.271000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:05.271000" end="0:15:10.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:05.271000" end="0:15:10.718000" persName="Informant 0373">
 <pause duration="1,7s"/>
 oben	oben	ADV	-	0:15:05.271000	0:15:08.785000
 halt	halt	VERB	-	0:15:05.271000	0:15:08.785000
@@ -4417,35 +4418,35 @@ dann	dann	ADV	-	0:15:08.785000	0:15:10.718000
 hinausbauen	hinausbauen	VERB	-	0:15:08.785000	0:15:10.718000
 .	-	-	-	0:15:08.785000	0:15:10.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:10.718000" end="0:15:12.131000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:10.718000" end="0:15:12.131000" persName="Informant 0371">
 wieviel	-	-	-	0:15:10.718000	0:15:12.131000
 Quadratmeter	-	-	-	0:15:10.718000	0:15:12.131000
 *habts*	-	-	-	0:15:10.718000	0:15:12.131000
 dann	-	-	-	0:15:10.718000	0:15:12.131000
 ?	-	-	-	0:15:10.718000	0:15:12.131000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:12.131000" end="0:15:14.958000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:12.131000" end="0:15:14.958000" persName="Informant 0373">
 hundertfünfzig	-	-	-	0:15:12.131000	0:15:14.958000
 Wohnfläche	-	-	-	0:15:12.131000	0:15:14.958000
 .	-	-	-	0:15:12.131000	0:15:14.958000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:14.958000" end="0:15:16.091000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:14.958000" end="0:15:16.091000" persName="Informant 0371">
 das	der	DET	-	0:15:14.958000	0:15:16.091000
 passt	passt	PROPN	-	0:15:14.958000	0:15:16.091000
 eh	eh	ADV	-	0:15:14.958000	0:15:16.091000
 genau	genau	ADJ	-	0:15:14.958000	0:15:16.091000
 .	-	-	-	0:15:14.958000	0:15:16.091000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:16.091000" end="0:15:16.951000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:16.091000" end="0:15:16.951000" persName="Informant 0373">
 oben	oben	ADV	-	0:15:16.091000	0:15:16.951000
 halt	halt	ADV	-	0:15:16.091000	0:15:16.951000
 .	-	-	-	0:15:16.091000	0:15:16.951000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:16.951000" end="0:15:17.225000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:16.951000" end="0:15:17.225000" persName="Informant 0371">
 ja	ja	PART	-	0:15:16.951000	0:15:17.225000
 .	-	-	-	0:15:16.951000	0:15:17.225000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:16.951000" end="0:15:24.898000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:16.951000" end="0:15:24.898000" persName="Informant 0373">
 mit	mit	ADP	-	0:15:16.951000	0:15:17.225000
 dem	der	DET	-	0:15:17.225000	0:15:19.178000
 Vorraum	Vorraum	NOUN	-	0:15:17.225000	0:15:19.178000
@@ -4468,11 +4469,11 @@ der	der	DET	-	0:15:23.065000	0:15:24.898000
 Terrasse	Terrasse	NOUN	-	0:15:23.065000	0:15:24.898000
 .	-	-	-	0:15:23.065000	0:15:24.898000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:24.898000" end="0:15:25.471000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:24.898000" end="0:15:25.471000" persName="Informant 0371">
 eh	eh	X	-	0:15:24.898000	0:15:25.471000
 .	-	-	-	0:15:24.898000	0:15:25.471000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:25.471000" end="0:15:26.531000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:25.471000" end="0:15:26.531000" persName="Informant 0373">
 du	du	PRON	-	0:15:25.471000	0:15:26.531000
 ,	-	-	-	0:15:25.471000	0:15:26.531000
 mehr	-	-	-	0:15:25.471000	0:15:26.531000
@@ -4480,7 +4481,7 @@ mehr	-	-	-	0:15:25.471000	0:15:26.531000
 nicht	-	-	-	0:15:25.471000	0:15:26.531000
 .	-	-	-	0:15:25.471000	0:15:26.531000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:26.531000" end="0:15:27.998000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:26.531000" end="0:15:27.998000" persName="Informant 0371">
 ja	ja	ADV	-	0:15:26.531000	0:15:27.525000
 ist	sein	AUX	-	0:15:26.531000	0:15:27.525000
 ja	ja	ADV	-	0:15:26.531000	0:15:27.525000
@@ -4488,11 +4489,11 @@ leicht	leicht	ADJ	-	0:15:26.531000	0:15:27.525000
 (gemacht)	machen	VERB	-	0:15:27.525000	0:15:27.998000
 ,	-	-	-	0:15:27.525000	0:15:27.998000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:27.525000" end="0:15:27.998000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:27.525000" end="0:15:27.998000" persName="Informant 0373">
 ja	ja	PART	-	0:15:27.525000	0:15:27.998000
 .	-	-	-	0:15:27.525000	0:15:27.998000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:27.998000" end="0:15:33.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:27.998000" end="0:15:33.891000" persName="Informant 0371">
 (geh)	geh	X	-	0:15:27.998000	0:15:28.525000
 bitte	bitte	X	-	0:15:27.998000	0:15:28.525000
 .	-	-	-	0:15:27.998000	0:15:28.525000
@@ -4511,18 +4512,18 @@ Pultdach	Pultdach	NOUN	-	0:15:33.065000	0:15:33.891000
 und/	-	-	-	0:15:33.065000	0:15:33.891000
 ?	-	-	-	0:15:33.065000	0:15:33.891000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:33.065000" end="0:15:34.911000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:33.065000" end="0:15:34.911000" persName="Informant 0373">
 mhm	mhm	PROPN	-	0:15:33.065000	0:15:33.891000
 ,	-	-	-	0:15:33.065000	0:15:33.891000
 Pultdach	Pultdach	PROPN	-	0:15:33.891000	0:15:34.911000
 ,	-	-	-	0:15:33.891000	0:15:34.911000
 Giebeldach	Giebeldach	PROPN	-	0:15:33.891000	0:15:34.911000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:34.911000" end="0:15:35.565000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:34.911000" end="0:15:35.565000" persName="Informant 0371">
 ja	ja	PART	-	0:15:34.911000	0:15:35.565000
 .	-	-	-	0:15:34.911000	0:15:35.565000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:35.565000" end="0:15:39.885000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:35.565000" end="0:15:39.885000" persName="Informant 0373">
 Zeichnu/	-	-	-	0:15:35.565000	0:15:37.765000
 ähm	ähm	ADJ	-	0:15:35.565000	0:15:37.765000
 hat	haben	AUX	-	0:15:35.565000	0:15:37.765000
@@ -4536,7 +4537,7 @@ besser	gut	ADJ	-	0:15:37.765000	0:15:39.885000
 gefällt	gefallen	VERB	-	0:15:37.765000	0:15:39.885000
 .	-	-	-	0:15:37.765000	0:15:39.885000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:39.885000" end="0:15:41.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:39.885000" end="0:15:41.891000" persName="Informant 0371">
 <pause duration="1,1s"/>
 bin	sein	AUX	-	0:15:39.885000	0:15:41.891000
 ich	ich	PRON	-	0:15:39.885000	0:15:41.891000
@@ -4546,19 +4547,19 @@ gespannt	spannen	VERB	-	0:15:39.885000	0:15:41.891000
 ja	ja	PART	-	0:15:39.885000	0:15:41.891000
 .	-	-	-	0:15:39.885000	0:15:41.891000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:41.891000" end="0:15:42.558000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:41.891000" end="0:15:42.558000" persName="Informant 0373">
 ja	ja	PART	-	0:15:41.891000	0:15:42.558000
 ich	ich	PRON	-	0:15:41.891000	0:15:42.558000
 auch	auch	ADV	-	0:15:41.891000	0:15:42.558000
 .	-	-	-	0:15:41.891000	0:15:42.558000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:42.558000" end="0:15:43.698000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:42.558000" end="0:15:43.698000" persName="Informant 0371">
 wann	-	-	-	0:15:42.558000	0:15:43.698000
 *wollts*	-	-	-	0:15:42.558000	0:15:43.698000
 starten	-	-	-	0:15:42.558000	0:15:43.698000
 ?	-	-	-	0:15:42.558000	0:15:43.698000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:43.698000" end="0:15:45.951000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:43.698000" end="0:15:45.951000" persName="Informant 0373">
 du	du	PRON	-	0:15:43.698000	0:15:45.951000
 ,	-	-	-	0:15:43.698000	0:15:45.951000
 so	so	ADV	-	0:15:43.698000	0:15:45.951000
@@ -4568,35 +4569,35 @@ alles	alle	PRON	-	0:15:43.698000	0:15:45.951000
 durchgeht	durchgehen	VERB	-	0:15:43.698000	0:15:45.951000
 ,	-	-	-	0:15:43.698000	0:15:45.951000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:45.951000" end="0:15:46.931000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:45.951000" end="0:15:46.931000" persName="Informant 0371">
 ja	ja	PART	-	0:15:45.951000	0:15:46.931000
 .	-	-	-	0:15:45.951000	0:15:46.931000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:45.951000" end="0:15:47.545000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:45.951000" end="0:15:47.545000" persName="Informant 0373">
 st/	-	-	-	0:15:45.951000	0:15:46.931000
 gehen	gehen	VERB	-	0:15:45.951000	0:15:46.931000
 wir	ich	PRON	-	0:15:45.951000	0:15:46.931000
 betonieren	betonieren	VERB	-	0:15:46.931000	0:15:47.545000
 .	-	-	-	0:15:46.931000	0:15:47.545000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:47.545000" end="0:15:48.098000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:47.545000" end="0:15:48.098000" persName="Informant 0371">
 ja	ja	ADV	-	0:15:47.545000	0:15:48.098000
 sicher	sichern	ADJ	-	0:15:47.545000	0:15:48.098000
 .	-	-	-	0:15:47.545000	0:15:48.098000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:47.545000" end="0:15:48.798000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:47.545000" end="0:15:48.798000" persName="Informant 0373">
 wenn	wenn	SCONJ	-	0:15:47.545000	0:15:48.098000
 der	der	DET	-	0:15:47.545000	0:15:48.098000
 Plan	Plan	NOUN	-	0:15:48.098000	0:15:48.798000
 steht	stehen	VERB	-	0:15:48.098000	0:15:48.798000
 ,	-	-	-	0:15:48.098000	0:15:48.798000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:48.798000" end="0:15:49.151000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:48.798000" end="0:15:49.151000" persName="Informant 0371">
 ja	ja	ADV	-	0:15:48.798000	0:15:49.151000
 ja	ja	PART	-	0:15:48.798000	0:15:49.151000
 .	-	-	-	0:15:48.798000	0:15:49.151000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:49.151000" end="0:15:57.638000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:49.151000" end="0:15:57.638000" persName="Informant 0373">
 fangen	fangen	VERB	-	0:15:49.151000	0:15:50.371000
 wir	ich	PRON	-	0:15:49.151000	0:15:50.371000
 Stiegenhaus	Stiegenhaus	NOUN	-	0:15:49.151000	0:15:50.371000
@@ -4633,16 +4634,16 @@ meinen	mein	DET	-	0:15:56.638000	0:15:57.638000
 Hof	Hof	NOUN	-	0:15:56.638000	0:15:57.638000
 .	-	-	-	0:15:56.638000	0:15:57.638000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:57.638000" end="0:15:58.611000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:57.638000" end="0:15:58.611000" persName="Informant 0371">
 ja	ja	ADV	-	0:15:57.638000	0:15:58.611000
 sicher	sichern	ADJ	-	0:15:57.638000	0:15:58.611000
 .	-	-	-	0:15:57.638000	0:15:58.611000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:57.638000" end="0:15:58.611000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:57.638000" end="0:15:58.611000" persName="Informant 0373">
 keine	kein	DET	-	0:15:57.638000	0:15:58.611000
 einzige	einzig	ADJ	-	0:15:57.638000	0:15:58.611000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:58.611000" end="0:15:59.731000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:58.611000" end="0:15:59.731000" persName="Informant 0371">
 du	-	-	-	0:15:58.611000	0:15:59.731000
 du	-	-	-	0:15:58.611000	0:15:59.731000
 hast	-	-	-	0:15:58.611000	0:15:59.731000
@@ -4650,13 +4651,13 @@ ein	-	-	-	0:15:58.611000	0:15:59.731000
 _dings_	-	-	-	0:15:58.611000	0:15:59.731000
 ,	-	-	-	0:15:58.611000	0:15:59.731000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:58.611000" end="0:15:59.731000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:15:58.611000" end="0:15:59.731000" persName="Informant 0373">
 Grenze	Grenze	NOUN	-	0:15:58.611000	0:15:59.731000
 ist	sein	AUX	-	0:15:58.611000	0:15:59.731000
 neben	neben	VERB	-	0:15:58.611000	0:15:59.731000
 .	-	-	-	0:15:58.611000	0:15:59.731000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:59.731000" end="0:16:03.458000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:15:59.731000" end="0:16:03.458000" persName="Informant 0371">
 du	-	-	-	0:15:59.731000	0:16:02.265000
 hast	-	-	-	0:15:59.731000	0:16:02.265000
 ein	-	-	-	0:15:59.731000	0:16:02.265000
@@ -4671,7 +4672,7 @@ es	ich	PRON	-	0:16:02.265000	0:16:03.458000
 ist/	-	-	-	0:16:02.265000	0:16:03.458000
 .	-	-	-	0:16:02.265000	0:16:03.458000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:02.265000" end="0:16:04.031000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:02.265000" end="0:16:04.031000" persName="Informant 0373">
 es	ich	PRON	-	0:16:02.265000	0:16:03.458000
 ist	sein	AUX	-	0:16:02.265000	0:16:03.458000
 ein	einen	DET	-	0:16:02.265000	0:16:03.458000
@@ -4679,15 +4680,15 @@ bestehendes	bestehend	ADJ	-	0:16:02.265000	0:16:03.458000
 Gebäude	Gebäude	NOUN	-	0:16:03.458000	0:16:04.031000
 .	-	-	-	0:16:03.458000	0:16:04.031000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:04.031000" end="0:16:04.511000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:04.031000" end="0:16:04.511000" persName="Informant 0371">
 ja	ja	PART	-	0:16:04.031000	0:16:04.511000
 .	-	-	-	0:16:04.031000	0:16:04.511000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:04.511000" end="0:16:05.238000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:04.511000" end="0:16:05.238000" persName="Informant 0373">
 ts	ts	X	-	0:16:04.511000	0:16:05.238000
 .	-	-	-	0:16:04.511000	0:16:05.238000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:05.238000" end="0:16:10.411000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:05.238000" end="0:16:10.411000" persName="Informant 0371">
 nein	nein	PART	-	0:16:05.238000	0:16:08.158000
 ,	-	-	-	0:16:05.238000	0:16:08.158000
 solange	solange	SCONJ	-	0:16:05.238000	0:16:08.158000
@@ -4708,7 +4709,7 @@ Umkreis	-	-	-	0:16:08.158000	0:16:09.698000
 bauen	-	-	-	0:16:09.698000	0:16:10.411000
 .	-	-	-	0:16:09.698000	0:16:10.411000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:09.698000" end="0:16:14.745000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:09.698000" end="0:16:14.745000" persName="Informant 0373">
 ja	ja	PART	-	0:16:09.698000	0:16:10.411000
 .	-	-	-	0:16:09.698000	0:16:10.411000
 genau	genau	ADJ	-	0:16:10.411000	0:16:10.971000
@@ -4724,7 +4725,7 @@ Problem	-	-	-	0:16:10.971000	0:16:14.745000
 normal	-	-	-	0:16:10.971000	0:16:14.745000
 .	-	-	-	0:16:10.971000	0:16:14.745000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:14.745000" end="0:16:18.851000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:14.745000" end="0:16:18.851000" persName="Informant 0371">
 nein	nein	PART	-	0:16:14.745000	0:16:16.745000
 ,	-	-	-	0:16:14.745000	0:16:16.745000
 sollte	sollen	VERB	-	0:16:14.745000	0:16:16.745000
@@ -4738,7 +4739,7 @@ nein	nein	PART	-	0:16:14.745000	0:16:16.745000
 lässig	lässig	ADJ	-	0:16:16.745000	0:16:18.851000
 .	-	-	-	0:16:16.745000	0:16:18.851000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:18.851000" end="0:16:22.078000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:18.851000" end="0:16:22.078000" persName="Informant 0373">
 mhm	mhm	PROPN	-	0:16:18.851000	0:16:19.511000
 .	-	-	-	0:16:18.851000	0:16:19.511000
 <pause duration="1,3s"/>
@@ -4747,11 +4748,11 @@ eh	eh	ADV	-	0:16:19.511000	0:16:22.078000
 spannend	spannen	ADJ	-	0:16:19.511000	0:16:22.078000
 .	-	-	-	0:16:19.511000	0:16:22.078000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:22.078000" end="0:16:22.898000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:22.078000" end="0:16:22.898000" persName="Informant 0371">
 ja	ja	PART	-	0:16:22.078000	0:16:22.898000
 .	-	-	-	0:16:22.078000	0:16:22.898000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:22.898000" end="0:16:26.545000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:22.898000" end="0:16:26.545000" persName="Informant 0373">
 dann	dann	ADV	-	0:16:22.898000	0:16:26.545000
 werden	werden	AUX	-	0:16:22.898000	0:16:26.545000
 wir	ich	PRON	-	0:16:22.898000	0:16:26.545000
@@ -4763,7 +4764,7 @@ der	der	DET	-	0:16:22.898000	0:16:26.545000
 Firma	Firma	NOUN	-	0:16:22.898000	0:16:26.545000
 .	-	-	-	0:16:22.898000	0:16:26.545000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:26.545000" end="0:16:28.045000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:26.545000" end="0:16:28.045000" persName="Informant 0371">
 ach	-	-	-	0:16:26.545000	0:16:28.045000
 so	-	-	-	0:16:26.545000	0:16:28.045000
 von	-	-	-	0:16:26.545000	0:16:28.045000
@@ -4772,14 +4773,14 @@ Kärnten	-	-	-	0:16:26.545000	0:16:28.045000
 die/	-	-	-	0:16:26.545000	0:16:28.045000
 .	-	-	-	0:16:26.545000	0:16:28.045000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:28.045000" end="0:16:28.905000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:28.045000" end="0:16:28.905000" persName="Informant 0373">
 die	der	DET	-	0:16:28.045000	0:16:28.905000
 Wände	Wand	NOUN	-	0:16:28.045000	0:16:28.905000
 ,	-	-	-	0:16:28.045000	0:16:28.905000
 ja	ja	PART	-	0:16:28.045000	0:16:28.905000
 .	-	-	-	0:16:28.045000	0:16:28.905000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:28.905000" end="0:16:30.758000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:28.905000" end="0:16:30.758000" persName="Informant 0371">
 du	du	PRON	-	0:16:28.905000	0:16:30.758000
 hast	haben	AUX	-	0:16:28.905000	0:16:30.758000
 ja	ja	ADV	-	0:16:28.905000	0:16:30.758000
@@ -4787,7 +4788,7 @@ gesagt	sagen	VERB	-	0:16:28.905000	0:16:30.758000
 ähm/	-	-	-	0:16:28.905000	0:16:30.758000
 .	-	-	-	0:16:28.905000	0:16:30.758000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:28.905000" end="0:16:30.758000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:28.905000" end="0:16:30.758000" persName="Informant 0373">
 also	also	ADV	-	0:16:28.905000	0:16:30.758000
 wir	ich	PRON	-	0:16:28.905000	0:16:30.758000
 liefern	liefern	VERB	-	0:16:28.905000	0:16:30.758000
@@ -4796,7 +4797,7 @@ Holz	Holz	NOUN	-	0:16:28.905000	0:16:30.758000
 hinunter	hinunter	ADJ	-	0:16:28.905000	0:16:30.758000
 .	-	-	-	0:16:28.905000	0:16:30.758000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:30.758000" end="0:16:32.790000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:30.758000" end="0:16:32.790000" persName="Informant 0371">
 mit	mit	ADP	-	0:16:30.758000	0:16:32.790000
 Alunägel	Alunägel	NOUN	-	0:16:30.758000	0:16:32.790000
 ,	-	-	-	0:16:30.758000	0:16:32.790000
@@ -4810,12 +4811,12 @@ die	der	PRON	-	0:16:30.758000	0:16:32.790000
 oder	oder	CCONJ	-	0:16:30.758000	0:16:32.790000
 ?	-	-	-	0:16:30.758000	0:16:32.790000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:32.790000" end="0:16:33.525000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:32.790000" end="0:16:33.525000" persName="Informant 0373">
 genau	genau	ADJ	-	0:16:32.790000	0:16:33.525000
 ja	ja	PART	-	0:16:32.790000	0:16:33.525000
 .	-	-	-	0:16:32.790000	0:16:33.525000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:33.525000" end="0:16:34.478000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:33.525000" end="0:16:34.478000" persName="Informant 0371">
 ähm	ähm	PROPN	-	0:16:33.525000	0:16:34.478000
 gl/	-	-	-	0:16:33.525000	0:16:34.478000
 bin	sein	AUX	-	0:16:33.525000	0:16:34.478000
@@ -4824,30 +4825,30 @@ schon	schon	ADV	-	0:16:33.525000	0:16:34.478000
 gespannt	spannen	VERB	-	0:16:33.525000	0:16:34.478000
 .	-	-	-	0:16:33.525000	0:16:34.478000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:34.478000" end="0:16:36.211000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:34.478000" end="0:16:36.211000" persName="Informant 0373">
 Brettschicht	Brettschicht	NOUN	-	0:16:34.478000	0:16:36.211000
 vernagelt	vernageln	VERB	-	0:16:34.478000	0:16:36.211000
 .	-	-	-	0:16:34.478000	0:16:36.211000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:36.211000" end="0:16:37.271000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:36.211000" end="0:16:37.271000" persName="Informant 0371">
 das	der	PRON	-	0:16:36.211000	0:16:37.271000
 hält	halten	VERB	-	0:16:36.211000	0:16:37.271000
 ?	-	-	-	0:16:36.211000	0:16:37.271000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:37.271000" end="0:16:39.198000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:37.271000" end="0:16:39.198000" persName="Informant 0373">
 <pause duration="1,2s"/>
 warum	warum	ADV	-	0:16:37.271000	0:16:39.198000
 nicht	nicht	PART	-	0:16:37.271000	0:16:39.198000
 ?	-	-	-	0:16:37.271000	0:16:39.198000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:39.198000" end="0:16:40.005000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:39.198000" end="0:16:40.005000" persName="Informant 0371">
 nein	nein	PART	-	0:16:39.198000	0:16:40.005000
 weiß	weiß	VERB	-	0:16:39.198000	0:16:40.005000
 ich	ich	PRON	-	0:16:39.198000	0:16:40.005000
 nicht	nicht	PART	-	0:16:39.198000	0:16:40.005000
 .	-	-	-	0:16:39.198000	0:16:40.005000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:40.005000" end="0:16:50.311000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:40.005000" end="0:16:50.311000" persName="Informant 0373">
 <pause duration="1,2s"/>
 nein	nein	PART	-	0:16:40.005000	0:16:41.865000
 ,	-	-	-	0:16:40.005000	0:16:41.865000
@@ -4874,7 +4875,7 @@ ist	sein	AUX	-	0:16:46.605000	0:16:50.311000
 eigentlich	eigentlich	ADV	-	0:16:46.605000	0:16:50.311000
 .	-	-	-	0:16:46.605000	0:16:50.311000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:50.311000" end="0:16:54.718000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:50.311000" end="0:16:54.718000" persName="Informant 0371">
 ja	ja	PART	-	0:16:50.311000	0:16:51.071000
 .	-	-	-	0:16:50.311000	0:16:51.071000
 eh	-	-	-	0:16:51.071000	0:16:53.271000
@@ -4895,7 +4896,7 @@ geleimt	-	-	-	0:16:53.271000	0:16:54.718000
 hast	-	-	-	0:16:53.271000	0:16:54.718000
 .	-	-	-	0:16:53.271000	0:16:54.718000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:54.718000" end="0:16:59.071000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:54.718000" end="0:16:59.071000" persName="Informant 0373">
 genau	genau	ADJ	-	0:16:54.718000	0:16:55.465000
 .	-	-	-	0:16:54.718000	0:16:55.465000
 und	und	CCONJ	-	0:16:55.465000	0:16:59.071000
@@ -4913,19 +4914,19 @@ und	und	CCONJ	-	0:16:55.465000	0:16:59.071000
 so	so	ADV	-	0:16:55.465000	0:16:59.071000
 .	-	-	-	0:16:55.465000	0:16:59.071000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:59.071000" end="0:16:59.605000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:16:59.071000" end="0:16:59.605000" persName="Informant 0371">
 ja	ja	ADV	-	0:16:59.071000	0:16:59.605000
 ja	ja	PART	-	0:16:59.071000	0:16:59.605000
 .	-	-	-	0:16:59.071000	0:16:59.605000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:59.605000" end="0:17:01.205000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:16:59.605000" end="0:17:01.205000" persName="Informant 0373">
 und	und	CCONJ	-	0:16:59.605000	0:17:01.205000
 das	der	PRON	-	0:16:59.605000	0:17:01.205000
 ist	sein	AUX	-	0:16:59.605000	0:17:01.205000
 diffusionsoffen	diffusionsoffen	VERB	-	0:16:59.605000	0:17:01.205000
 .	-	-	-	0:16:59.605000	0:17:01.205000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:01.205000" end="0:17:04.651000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:01.205000" end="0:17:04.651000" persName="Informant 0371">
 ja	ja	PART	-	0:17:01.205000	0:17:01.711000
 .	-	-	-	0:17:01.205000	0:17:01.711000
 <pause duration="1,4s"/>
@@ -4942,7 +4943,7 @@ nie	nie	ADV	-	0:17:01.711000	0:17:04.651000
 gehört	hören	VERB	-	0:17:01.711000	0:17:04.651000
 .	-	-	-	0:17:01.711000	0:17:04.651000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:04.651000" end="0:17:10.223000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:04.651000" end="0:17:10.223000" persName="Informant 0373">
 ja	ja	PART	-	0:17:04.651000	0:17:08.125000
 ,	-	-	-	0:17:04.651000	0:17:08.125000
 ich/	-	-	-	0:17:04.651000	0:17:08.125000
@@ -4967,31 +4968,31 @@ keine	kein	DET	-	0:17:08.125000	0:17:10.223000
 Ahnung	Ahnung	NOUN	-	0:17:08.125000	0:17:10.223000
 .	-	-	-	0:17:08.125000	0:17:10.223000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:10.223000" end="0:17:10.829000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:10.223000" end="0:17:10.829000" persName="Informant 0371">
 noch	noch	ADV	-	0:17:10.223000	0:17:10.829000
 nicht	nicht	PART	-	0:17:10.223000	0:17:10.829000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:10.223000" end="0:17:10.829000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:10.223000" end="0:17:10.829000" persName="Informant 0373">
 das	der	PRON	-	0:17:10.223000	0:17:10.829000
 war	sein	AUX	-	0:17:10.223000	0:17:10.829000
 vor/	-	-	-	0:17:10.223000	0:17:10.829000
 .	-	-	-	0:17:10.223000	0:17:10.829000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:10.829000" end="0:17:11.829000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:10.829000" end="0:17:11.829000" persName="Informant 0371">
 noch	noch	ADV	-	0:17:10.829000	0:17:11.829000
 nicht	nicht	PART	-	0:17:10.829000	0:17:11.829000
 hausbaureif	hausbaureif	VERB	-	0:17:10.829000	0:17:11.829000
 .	-	-	-	0:17:10.829000	0:17:11.829000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:11.829000" end="0:17:12.518000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:11.829000" end="0:17:12.518000" persName="Informant 0373">
 nein	nein	PART	-	0:17:11.829000	0:17:12.518000
 .	-	-	-	0:17:11.829000	0:17:12.518000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:12.518000" end="0:17:12.925000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:12.518000" end="0:17:12.925000" persName="Informant 0371">
 ja	ja	PART	-	0:17:12.518000	0:17:12.925000
 .	-	-	-	0:17:12.518000	0:17:12.925000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:12.925000" end="0:17:15.105000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:12.925000" end="0:17:15.105000" persName="Informant 0373">
 das	der	PRON	-	0:17:12.925000	0:17:15.105000
 hat	haben	AUX	-	0:17:12.925000	0:17:15.105000
 mich	sich	PRON	-	0:17:12.925000	0:17:15.105000
@@ -5000,11 +5001,11 @@ peripher	peripher	ADJ	-	0:17:12.925000	0:17:15.105000
 interessiert	interessieren	ADJ	-	0:17:12.925000	0:17:15.105000
 .	-	-	-	0:17:12.925000	0:17:15.105000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:15.105000" end="0:17:16.329000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:15.105000" end="0:17:16.329000" persName="Informant 0371">
 ja	ja	PART	-	0:17:15.105000	0:17:16.329000
 .	-	-	-	0:17:15.105000	0:17:16.329000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:15.105000" end="0:17:23.238000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:15.105000" end="0:17:23.238000" persName="Informant 0373">
 und	und	CCONJ	-	0:17:15.105000	0:17:16.329000
 und	und	CCONJ	-	0:17:16.329000	0:17:19.438000
 letztens	letztens	ADV	-	0:17:16.329000	0:17:19.438000
@@ -5029,7 +5030,7 @@ mal	mal	ADV	-	0:17:21.896000	0:17:23.238000
 informiert	informieren	VERB	-	0:17:21.896000	0:17:23.238000
 .	-	-	-	0:17:21.896000	0:17:23.238000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:23.238000" end="0:17:29.651000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:23.238000" end="0:17:29.651000" persName="Informant 0371">
 okay	okay	NOUN	-	0:17:23.238000	0:17:24.838000
 ,	-	-	-	0:17:23.238000	0:17:24.838000
 ja	ja	ADV	-	0:17:23.238000	0:17:24.838000
@@ -5052,7 +5053,7 @@ wie	-	-	-	0:17:28.798000	0:17:29.651000
 *tust*	-	-	-	0:17:28.798000	0:17:29.651000
 ?	-	-	-	0:17:28.798000	0:17:29.651000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:29.651000" end="0:17:32.491000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:29.651000" end="0:17:32.491000" persName="Informant 0373">
 ja	ja	ADV	-	0:17:29.651000	0:17:31.918000
 das	der	PRON	-	0:17:29.651000	0:17:31.918000
 sind	sein	AUX	-	0:17:29.651000	0:17:31.918000
@@ -5066,11 +5067,11 @@ nur	nur	ADV	-	0:17:31.918000	0:17:32.491000
 dünner	dünn	NOUN	-	0:17:31.918000	0:17:32.491000
 .	-	-	-	0:17:31.918000	0:17:32.491000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:32.491000" end="0:17:33.098000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:32.491000" end="0:17:33.098000" persName="Informant 0371">
 okay	okay	NOUN	-	0:17:32.491000	0:17:33.098000
 .	-	-	-	0:17:32.491000	0:17:33.098000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:33.098000" end="0:17:37.031000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:33.098000" end="0:17:37.031000" persName="Informant 0373">
 also	-	-	-	0:17:33.098000	0:17:33.891000
 *weißt*	-	-	-	0:17:33.098000	0:17:33.891000
 schon	-	-	-	0:17:33.098000	0:17:33.891000
@@ -5085,11 +5086,11 @@ dementsprechend	dementsprechend	ADJ	-	0:17:33.891000	0:17:37.031000
 kleiner	klein	ADJ	-	0:17:33.891000	0:17:37.031000
 .	-	-	-	0:17:33.891000	0:17:37.031000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:37.031000" end="0:17:37.331000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:37.031000" end="0:17:37.331000" persName="Informant 0371">
 ja	ja	PART	-	0:17:37.031000	0:17:37.331000
 .	-	-	-	0:17:37.031000	0:17:37.331000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:37.331000" end="0:17:39.791000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:37.331000" end="0:17:39.791000" persName="Informant 0373">
 du	du	PRON	-	0:17:37.331000	0:17:38.091000
 es	ich	PRON	-	0:17:37.331000	0:17:38.091000
 ist	sein	AUX	-	0:17:37.331000	0:17:38.091000
@@ -5103,11 +5104,11 @@ Holz	Holz	NOUN	-	0:17:38.091000	0:17:39.791000
 hinunterliefern	hinunterliefern	VERB	-	0:17:38.091000	0:17:39.791000
 ,	-	-	-	0:17:38.091000	0:17:39.791000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:39.791000" end="0:17:40.265000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:39.791000" end="0:17:40.265000" persName="Informant 0371">
 ja	ja	PART	-	0:17:39.791000	0:17:40.265000
 .	-	-	-	0:17:39.791000	0:17:40.265000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:40.265000" end="0:17:43.138000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:40.265000" end="0:17:43.138000" persName="Informant 0373">
 und	und	CCONJ	-	0:17:40.265000	0:17:43.138000
 die	der	PRON	-	0:17:40.265000	0:17:43.138000
 schießen	schießen	NOUN	-	0:17:40.265000	0:17:43.138000
@@ -5118,7 +5119,7 @@ mit	mit	ADP	-	0:17:40.265000	0:17:43.138000
 Maschine	Maschine	NOUN	-	0:17:40.265000	0:17:43.138000
 .	-	-	-	0:17:40.265000	0:17:43.138000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:43.138000" end="0:17:45.258000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:43.138000" end="0:17:45.258000" persName="Informant 0371">
 das	der	PRON	-	0:17:43.138000	0:17:44.245000
 täte	tun	VERB	-	0:17:43.138000	0:17:44.245000
 ich	ich	PRON	-	0:17:43.138000	0:17:44.245000
@@ -5136,32 +5137,32 @@ einmal	einmal	ADV	-	0:17:44.245000	0:17:45.258000
 sehen	sehen	VERB	-	0:17:44.245000	0:17:45.258000
 .	-	-	-	0:17:44.245000	0:17:45.258000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:45.258000" end="0:17:45.785000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:45.258000" end="0:17:45.785000" persName="Informant 0373">
 mhm	mhm	PROPN	-	0:17:45.258000	0:17:45.785000
 .	-	-	-	0:17:45.258000	0:17:45.785000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:45.785000" end="0:17:46.658000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:45.785000" end="0:17:46.658000" persName="Informant 0371">
 ist	sein	AUX	-	0:17:45.785000	0:17:46.658000
 sicher	sichern	ADJ	-	0:17:45.785000	0:17:46.658000
 nicht	nicht	PART	-	0:17:45.785000	0:17:46.658000
 schlecht	schlecht	ADJ	-	0:17:45.785000	0:17:46.658000
 .	-	-	-	0:17:45.785000	0:17:46.658000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:46.658000" end="0:17:48.945000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:46.658000" end="0:17:48.945000" persName="Informant 0373">
 <pause duration="1,1s"/>
 in	in	ADP	-	0:17:46.658000	0:17:48.945000
-[Lavamünd]O	Lavamünd	PROPN	-	0:17:46.658000	0:17:48.945000
+ORT	ORT	PROPN	-	0:17:46.658000	0:17:48.945000
 .	-	-	-	0:17:46.658000	0:17:48.945000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:48.945000" end="0:17:50.491000">
-[Lavamünd]N	Lavamünd	PROPN	-	0:17:48.945000	0:17:50.491000
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:48.945000" end="0:17:50.491000" persName="Informant 0371">
+NAME	NAME	PROPN	-	0:17:48.945000	0:17:50.491000
 ?	-	-	-	0:17:48.945000	0:17:50.491000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:48.945000" end="0:17:51.025000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:48.945000" end="0:17:51.025000" persName="Informant 0373">
 ja	ja	PART	-	0:17:50.491000	0:17:51.025000
 .	-	-	-	0:17:50.491000	0:17:51.025000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:51.025000" end="0:17:53.831000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:51.025000" end="0:17:53.831000" persName="Informant 0371">
 <pause duration="2,0s"/>
 das	der	PRON	-	0:17:51.025000	0:17:53.831000
 sagt	sagen	VERB	-	0:17:51.025000	0:17:53.831000
@@ -5169,21 +5170,21 @@ mir	sich	PRON	-	0:17:51.025000	0:17:53.831000
 was	was	PRON	-	0:17:51.025000	0:17:53.831000
 .	-	-	-	0:17:51.025000	0:17:53.831000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:53.831000" end="0:17:55.218000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:53.831000" end="0:17:55.218000" persName="Informant 0373">
 das	der	DET	-	0:17:53.831000	0:17:55.218000
 tiefste	tiefste	ADJ	-	0:17:53.831000	0:17:55.218000
 Lavanttal	Lavanttal	NOUN	-	0:17:53.831000	0:17:55.218000
 .	-	-	-	0:17:53.831000	0:17:55.218000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:55.218000" end="0:17:57.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:55.218000" end="0:17:57.891000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:55.218000" end="0:17:57.891000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:55.218000" end="0:17:57.891000" persName="Informant 0373">
 fast	fast	ADV	-	0:17:55.218000	0:17:57.891000
 schon	schon	ADV	-	0:17:55.218000	0:17:57.891000
 Slowenien	Slowenien	PROPN	-	0:17:55.218000	0:17:57.891000
 .	-	-	-	0:17:55.218000	0:17:57.891000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:57.891000" end="0:17:59.391000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:17:57.891000" end="0:17:59.391000" persName="Informant 0371">
 die	der	PRON	-	0:17:57.891000	0:17:59.391000
 machen	machen	VERB	-	0:17:57.891000	0:17:59.391000
 was	was	PRON	-	0:17:57.891000	0:17:59.391000
@@ -5193,18 +5194,18 @@ oder	oder	CCONJ	-	0:17:57.891000	0:17:59.391000
 was	was	PRON	-	0:17:57.891000	0:17:59.391000
 ?	-	-	-	0:17:57.891000	0:17:59.391000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:59.391000" end="0:18:00.391000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:17:59.391000" end="0:18:00.391000" persName="Informant 0373">
 ja	ja	PART	-	0:17:59.391000	0:18:00.391000
 wieso	wieso	ADV	-	0:17:59.391000	0:18:00.391000
 nicht	nicht	PART	-	0:17:59.391000	0:18:00.391000
 .	-	-	-	0:17:59.391000	0:18:00.391000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:00.391000" end="0:18:01.038000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:00.391000" end="0:18:01.038000" persName="Informant 0371">
 nein	nein	PART	-	0:18:00.391000	0:18:01.038000
 eh	eh	X	-	0:18:00.391000	0:18:01.038000
 .	-	-	-	0:18:00.391000	0:18:01.038000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:01.038000" end="0:18:08.791000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:01.038000" end="0:18:08.791000" persName="Informant 0373">
 ich/	-	-	-	0:18:01.038000	0:18:02.031000
 .	-	-	-	0:18:01.038000	0:18:02.031000
 keine	kein	DET	-	0:18:01.038000	0:18:02.031000
@@ -5227,11 +5228,11 @@ ein	einen	DET	-	0:18:06.158000	0:18:08.791000
 Holzbaumeister	Holzbaumeister	NOUN	-	0:18:06.158000	0:18:08.791000
 .	-	-	-	0:18:06.158000	0:18:08.791000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:08.791000" end="0:18:09.404000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:08.791000" end="0:18:09.404000" persName="Informant 0371">
 okay	okay	NOUN	-	0:18:08.791000	0:18:09.404000
 .	-	-	-	0:18:08.791000	0:18:09.404000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:09.404000" end="0:18:11.264000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:09.404000" end="0:18:11.264000" persName="Informant 0373">
 der	der	PRON	-	0:18:09.404000	0:18:10.691000
 wird	werden	AUX	-	0:18:09.404000	0:18:10.691000
 sich	sich	PRON	-	0:18:09.404000	0:18:10.691000
@@ -5244,12 +5245,12 @@ der	der	PRON	-	0:18:10.691000	0:18:11.264000
 hat/	-	-	-	0:18:10.691000	0:18:11.264000
 .	-	-	-	0:18:10.691000	0:18:11.264000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:11.264000" end="0:18:12.331000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:11.264000" end="0:18:12.331000" persName="Informant 0371">
 ich	ich	PRON	-	0:18:11.264000	0:18:12.331000
 glaube/	-	-	-	0:18:11.264000	0:18:12.331000
 .	-	-	-	0:18:11.264000	0:18:12.331000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:11.264000" end="0:18:14.138000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:11.264000" end="0:18:14.138000" persName="Informant 0373">
 der	der	PRON	-	0:18:11.264000	0:18:12.331000
 war	sein	AUX	-	0:18:11.264000	0:18:12.331000
 schnell	schnellen	ADJ	-	0:18:11.264000	0:18:12.331000
@@ -5260,11 +5261,11 @@ dem	der	DET	-	0:18:12.331000	0:18:14.138000
 System	System	NOUN	-	0:18:12.331000	0:18:14.138000
 .	-	-	-	0:18:12.331000	0:18:14.138000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:14.138000" end="0:18:14.684000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:14.138000" end="0:18:14.684000" persName="Informant 0371">
 ja	ja	PART	-	0:18:14.138000	0:18:14.684000
 .	-	-	-	0:18:14.138000	0:18:14.684000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:14.684000" end="0:18:22.131000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:14.684000" end="0:18:22.131000" persName="Informant 0373">
 hat	haben	AUX	-	0:18:14.684000	0:18:15.191000
 er	ich	PRON	-	0:18:14.684000	0:18:15.191000
 gesagt	sagen	VERB	-	0:18:14.684000	0:18:15.191000
@@ -5288,18 +5289,18 @@ das	der	DET	-	0:18:20.504000	0:18:22.131000
 System	System	NOUN	-	0:18:20.504000	0:18:22.131000
 ?	-	-	-	0:18:20.504000	0:18:22.131000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:22.131000" end="0:18:22.644000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:22.131000" end="0:18:22.644000" persName="Informant 0371">
 nein	nein	PART	-	0:18:22.131000	0:18:22.644000
 .	-	-	-	0:18:22.131000	0:18:22.644000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:22.131000" end="0:18:23.838000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:22.131000" end="0:18:23.838000" persName="Informant 0373">
 mit	mit	ADP	-	0:18:22.131000	0:18:22.644000
 dem	der	DET	-	0:18:22.131000	0:18:22.644000
 (angeschlägerten)	angeschlägerten	ADJ	-	0:18:22.644000	0:18:23.838000
 Holz	Holz	NOUN	-	0:18:22.644000	0:18:23.838000
 .	-	-	-	0:18:22.644000	0:18:23.838000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:23.838000" end="0:18:25.198000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:23.838000" end="0:18:25.198000" persName="Informant 0371">
 ach	ach	X	-	0:18:23.838000	0:18:25.198000
 so	so	ADV	-	0:18:23.838000	0:18:25.198000
 ,	-	-	-	0:18:23.838000	0:18:25.198000
@@ -5310,34 +5311,34 @@ okay	okay	NOUN	-	0:18:23.838000	0:18:25.198000
 ja	ja	PART	-	0:18:23.838000	0:18:25.198000
 .	-	-	-	0:18:23.838000	0:18:25.198000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:25.198000" end="0:18:26.144000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:25.198000" end="0:18:26.144000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:18:25.198000	0:18:26.144000
 das	der	PRON	-	0:18:25.198000	0:18:26.144000
 sind	sein	AUX	-	0:18:25.198000	0:18:26.144000
 halt	halt	ADV	-	0:18:25.198000	0:18:26.144000
 alles	alle	DET	-	0:18:25.198000	0:18:26.144000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:26.144000" end="0:18:27.791000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:26.144000" end="0:18:27.791000" persName="Informant 0371">
 ja	ja	ADV	-	0:18:26.144000	0:18:27.791000
 ja	ja	PART	-	0:18:26.144000	0:18:27.791000
 .	-	-	-	0:18:26.144000	0:18:27.791000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:26.144000" end="0:18:28.178000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:26.144000" end="0:18:28.178000" persName="Informant 0373">
 Massivholzstückel	Massivholzstückel	NOUN	-	0:18:26.144000	0:18:27.791000
 und	und	CCONJ	-	0:18:26.144000	0:18:27.791000
 kostet	kosten	VERB	-	0:18:27.791000	0:18:28.178000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:28.178000" end="0:18:29.258000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:28.178000" end="0:18:29.258000" persName="Informant 0371">
 ja	ja	PART	-	0:18:28.178000	0:18:29.258000
 .	-	-	-	0:18:28.178000	0:18:29.258000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:28.178000" end="0:18:30.004000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:28.178000" end="0:18:30.004000" persName="Informant 0373">
 ein	einen	DET	-	0:18:28.178000	0:18:29.258000
 (Printer)	Printer	NOUN	-	0:18:28.178000	0:18:29.258000
 ein	einen	DET	-	0:18:29.258000	0:18:30.004000
 Drittel	Drittel	NOUN	-	0:18:29.258000	0:18:30.004000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:30.004000" end="0:18:31.644000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:30.004000" end="0:18:31.644000" persName="Informant 0371">
 da	-	-	-	0:18:30.004000	0:18:31.644000
 *kannst*	-	-	-	0:18:30.004000	0:18:31.644000
 da	-	-	-	0:18:30.004000	0:18:31.644000
@@ -5345,7 +5346,7 @@ da	-	-	-	0:18:30.004000	0:18:31.644000
 da	-	-	-	0:18:30.004000	0:18:31.644000
 *kannst*	-	-	-	0:18:30.004000	0:18:31.644000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:30.004000" end="0:18:31.644000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:30.004000" end="0:18:31.644000" persName="Informant 0373">
 mehr	mehr	PRON	-	0:18:30.004000	0:18:31.644000
 wie	wie	CCONJ	-	0:18:30.004000	0:18:31.644000
 ein	einen	DET	-	0:18:30.004000	0:18:31.644000
@@ -5353,7 +5354,7 @@ normales	normal	ADJ	-	0:18:30.004000	0:18:31.644000
 Ziegelhaus	Ziegelhaus	NOUN	-	0:18:30.004000	0:18:31.644000
 .	-	-	-	0:18:30.004000	0:18:31.644000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:31.644000" end="0:18:33.764000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:31.644000" end="0:18:33.764000" persName="Informant 0371">
 dir	-	-	-	0:18:31.644000	0:18:32.731000
 ihn	-	-	-	0:18:31.644000	0:18:32.731000
 vergolden	-	-	-	0:18:31.644000	0:18:32.731000
@@ -5362,7 +5363,7 @@ außen	-	-	-	0:18:31.644000	0:18:32.731000
 wahrscheinlich	-	-	-	0:18:32.731000	0:18:33.764000
 .	-	-	-	0:18:32.731000	0:18:33.764000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:32.731000" end="0:18:41.318000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:32.731000" end="0:18:41.318000" persName="Informant 0373">
 ja	ja	PART	-	0:18:32.731000	0:18:33.764000
 .	-	-	-	0:18:32.731000	0:18:33.764000
 <pause duration="1,1s"/>
@@ -5391,7 +5392,7 @@ weil	weil	SCONJ	-	0:18:40.624000	0:18:41.318000
 das/	-	-	-	0:18:40.624000	0:18:41.318000
 .	-	-	-	0:18:40.624000	0:18:41.318000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:41.318000" end="0:18:43.171000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:41.318000" end="0:18:43.171000" persName="Informant 0371">
 ja	ja	PART	-	0:18:41.318000	0:18:43.171000
 und	und	CCONJ	-	0:18:41.318000	0:18:43.171000
 bringt	bringen	VERB	-	0:18:41.318000	0:18:43.171000
@@ -5401,9 +5402,9 @@ rein	rein	ADJ	-	0:18:41.318000	0:18:43.171000
 ü/	-	-	-	0:18:41.318000	0:18:43.171000
 ähm	ähm	ADJ	-	0:18:41.318000	0:18:43.171000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:41.318000" end="0:18:43.171000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:41.318000" end="0:18:43.171000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:43.171000" end="0:18:44.638000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:43.171000" end="0:18:44.638000" persName="Informant 0371">
 gar	gar	ADV	-	0:18:43.171000	0:18:44.638000
 nichts	nichts	PRON	-	0:18:43.171000	0:18:44.638000
 ,	-	-	-	0:18:43.171000	0:18:44.638000
@@ -5411,7 +5412,7 @@ nichts	nichts	PRON	-	0:18:43.171000	0:18:44.638000
 ähm/	-	-	-	0:18:43.171000	0:18:44.638000
 .	-	-	-	0:18:43.171000	0:18:44.638000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:43.171000" end="0:18:44.638000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:43.171000" end="0:18:44.638000" persName="Informant 0373">
 nein	nein	PART	-	0:18:43.171000	0:18:44.638000
 wohl	wohl	ADV	-	0:18:43.171000	0:18:44.638000
 ,	-	-	-	0:18:43.171000	0:18:44.638000
@@ -5419,12 +5420,12 @@ es	ich	PRON	-	0:18:43.171000	0:18:44.638000
 hat	haben	AUX	-	0:18:43.171000	0:18:44.638000
 schon	schon	ADV	-	0:18:43.171000	0:18:44.638000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:44.638000" end="0:18:45.511000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:44.638000" end="0:18:45.511000" persName="Informant 0371">
 hat	haben	AUX	-	0:18:44.638000	0:18:45.511000
 es/	-	-	-	0:18:44.638000	0:18:45.511000
 .	-	-	-	0:18:44.638000	0:18:45.511000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:45.511000" end="0:18:48.004000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:45.511000" end="0:18:48.004000" persName="Informant 0373">
 vom	vom	ADP	-	0:18:45.511000	0:18:48.004000
 Klima	Klima	NOUN	-	0:18:45.511000	0:18:48.004000
 her	her	ADP	-	0:18:45.511000	0:18:48.004000
@@ -5438,7 +5439,7 @@ ein	einen	DET	-	0:18:45.511000	0:18:48.004000
 Wahnsinn	Wahnsinn	NOUN	-	0:18:45.511000	0:18:48.004000
 .	-	-	-	0:18:45.511000	0:18:48.004000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:48.004000" end="0:18:53.371000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:48.004000" end="0:18:53.371000" persName="Informant 0371">
 echt	echt	ADJ	-	0:18:48.004000	0:18:48.351000
 ?	-	-	-	0:18:48.004000	0:18:48.351000
 <pause duration="1,0s"/>
@@ -5461,36 +5462,36 @@ Massivholz	-	-	-	0:18:51.318000	0:18:53.371000
 machst	-	-	-	0:18:51.318000	0:18:53.371000
 ,	-	-	-	0:18:51.318000	0:18:53.371000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:51.318000" end="0:18:53.371000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:51.318000" end="0:18:53.371000" persName="Informant 0373">
 jedes	jed	PRON	-	0:18:51.318000	0:18:53.371000
 Holzhaus/	-	-	-	0:18:51.318000	0:18:53.371000
 .	-	-	-	0:18:51.318000	0:18:53.371000
 ja	ja	PART	-	0:18:51.318000	0:18:53.371000
 .	-	-	-	0:18:51.318000	0:18:53.371000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:53.371000" end="0:18:54.304000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:53.371000" end="0:18:54.304000" persName="Informant 0371">
 was	-	-	-	0:18:53.371000	0:18:53.584000
 anderes	-	-	-	0:18:53.584000	0:18:54.304000
 als	-	-	-	0:18:53.584000	0:18:54.304000
 wie	-	-	-	0:18:53.584000	0:18:54.304000
 *wennst*	-	-	-	0:18:53.584000	0:18:54.304000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:53.584000" end="0:18:54.304000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:53.584000" end="0:18:54.304000" persName="Informant 0373">
 ist	sein	AUX	-	0:18:53.584000	0:18:54.304000
 so	so	ADV	-	0:18:53.584000	0:18:54.304000
 ,	-	-	-	0:18:53.584000	0:18:54.304000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:54.304000" end="0:18:54.851000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:54.304000" end="0:18:54.851000" persName="Informant 0371">
 Ziegel	-	-	-	0:18:54.304000	0:18:54.851000
 hast	-	-	-	0:18:54.304000	0:18:54.851000
 .	-	-	-	0:18:54.304000	0:18:54.851000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:54.851000" end="0:18:55.251000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:54.851000" end="0:18:55.251000" persName="Informant 0373">
 ist	sein	AUX	-	0:18:54.851000	0:18:55.251000
 so	so	ADV	-	0:18:54.851000	0:18:55.251000
 .	-	-	-	0:18:54.851000	0:18:55.251000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:55.251000" end="0:18:56.438000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:55.251000" end="0:18:56.438000" persName="Informant 0371">
 ich	ich	PRON	-	0:18:55.251000	0:18:56.438000
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:18:55.251000	0:18:56.438000
 nur	nur	ADV	-	0:18:55.251000	0:18:56.438000
@@ -5498,7 +5499,7 @@ Holz	Holz	NOUN	-	0:18:55.251000	0:18:56.438000
 machen	machen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL- swV tunK	0:18:55.251000	0:18:56.438000
 .	-	-	-	0:18:55.251000	0:18:56.438000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:56.438000" end="0:18:58.098000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:56.438000" end="0:18:58.098000" persName="Informant 0373">
 ich	ich	PRON	-	0:18:56.438000	0:18:57.704000
 finde	finden	VERB	-	0:18:56.438000	0:18:57.704000
 das	der	DET	-	0:18:56.438000	0:18:57.704000
@@ -5507,13 +5508,13 @@ super	super	NOUN	-	0:18:56.438000	0:18:57.704000
 also	also	ADV	-	0:18:57.704000	0:18:58.098000
 das	der	DET	-	0:18:57.704000	0:18:58.098000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:58.098000" end="0:18:58.698000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:58.098000" end="0:18:58.698000" persName="Informant 0371">
 ist	sein	AUX	-	0:18:58.098000	0:18:58.698000
 es	ich	PRON	-	0:18:58.098000	0:18:58.698000
 sicher	sichern	ADJ	-	0:18:58.098000	0:18:58.698000
 .	-	-	-	0:18:58.098000	0:18:58.698000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:58.098000" end="0:18:59.291000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:18:58.098000" end="0:18:59.291000" persName="Informant 0373">
 das	der	DET	-	0:18:58.098000	0:18:58.698000
 Ding	Ding	NOUN	-	0:18:58.098000	0:18:58.698000
 ,	-	-	-	0:18:58.098000	0:18:58.698000
@@ -5524,7 +5525,7 @@ gesehen	sehen	VERB	-	0:18:58.698000	0:18:59.291000
 habe	habe	AUX	-	0:18:58.698000	0:18:59.291000
 .	-	-	-	0:18:58.698000	0:18:59.291000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:59.291000" end="0:19:00.844000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:18:59.291000" end="0:19:00.844000" persName="Informant 0371">
 nein	nein	PART	-	0:18:59.291000	0:19:00.844000
 das	der	PRON	-	0:18:59.291000	0:19:00.844000
 ist	sein	AUX	-	0:18:59.291000	0:19:00.844000
@@ -5535,13 +5536,13 @@ schlecht	schlecht	ADJ	-	0:18:59.291000	0:19:00.844000
 ja	ja	PART	-	0:18:59.291000	0:19:00.844000
 .	-	-	-	0:18:59.291000	0:19:00.844000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:00.844000" end="0:19:02.051000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:00.844000" end="0:19:02.051000" persName="Informant 0373">
 bin	sein	AUX	-	0:19:00.844000	0:19:02.051000
 schon	schon	ADV	-	0:19:00.844000	0:19:02.051000
 neugierig	neugierig	ADJ	-	0:19:00.844000	0:19:02.051000
 .	-	-	-	0:19:00.844000	0:19:02.051000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:02.051000" end="0:19:06.871000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:02.051000" end="0:19:06.871000" persName="Informant 0371">
 ja	ja	PART	-	0:19:02.051000	0:19:02.878000
 .	-	-	-	0:19:02.051000	0:19:02.878000
 ja	ja	ADV	-	0:19:02.878000	0:19:06.871000
@@ -5559,18 +5560,18 @@ nichts	-	-	-	0:19:02.878000	0:19:06.871000
 durch	-	-	-	0:19:02.878000	0:19:06.871000
 .	-	-	-	0:19:02.878000	0:19:06.871000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:06.871000" end="0:19:07.491000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:06.871000" end="0:19:07.491000" persName="Informant 0373">
 ja	ja	PART	-	0:19:06.871000	0:19:07.491000
 .	-	-	-	0:19:06.871000	0:19:07.491000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:07.491000" end="0:19:08.371000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:07.491000" end="0:19:08.371000" persName="Informant 0371">
 und	-	-	-	0:19:07.491000	0:19:08.371000
 so	-	-	-	0:19:07.491000	0:19:08.371000
 *hast*	-	-	-	0:19:07.491000	0:19:08.371000
 halt/	-	-	-	0:19:07.491000	0:19:08.371000
 .	-	-	-	0:19:07.491000	0:19:08.371000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:08.371000" end="0:19:17.804000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:08.371000" end="0:19:17.804000" persName="Informant 0373">
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:19:08.371000	0:19:10.191000
 ich	ich	PRON	-	0:19:08.371000	0:19:10.191000
@@ -5603,16 +5604,16 @@ alles	alle	PRON	-	0:19:13.538000	0:19:17.804000
 und	und	CCONJ	-	0:19:13.538000	0:19:17.804000
 und	und	CCONJ	-	0:19:13.538000	0:19:17.804000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:17.804000" end="0:19:18.424000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:17.804000" end="0:19:18.424000" persName="Informant 0371">
 ja	ja	ADV	-	0:19:17.804000	0:19:18.424000
 sicher	sichern	ADJ	-	0:19:17.804000	0:19:18.424000
 ,	-	-	-	0:19:17.804000	0:19:18.424000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:17.804000" end="0:19:18.424000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:17.804000" end="0:19:18.424000" persName="Informant 0373">
 und	und	CCONJ	-	0:19:17.804000	0:19:18.424000
 n/	-	-	-	0:19:17.804000	0:19:18.424000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:18.424000" end="0:19:23.084000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:18.424000" end="0:19:23.084000" persName="Informant 0371">
 das	der	PRON	-	0:19:18.424000	0:19:19.398000
 ist	sein	AUX	-	0:19:18.424000	0:19:19.398000
 klar	klaren	ADJ	-	0:19:18.424000	0:19:19.398000
@@ -5631,11 +5632,11 @@ die	der	DET	-	0:19:21.058000	0:19:23.084000
 Alunägel	Alunägel	NOUN	-	0:19:21.058000	0:19:23.084000
 ,	-	-	-	0:19:21.058000	0:19:23.084000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:23.084000" end="0:19:23.344000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:23.084000" end="0:19:23.344000" persName="Informant 0373">
 ja	ja	ADV	-	0:19:23.084000	0:19:23.344000
 .	-	-	-	0:19:23.084000	0:19:23.344000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:23.344000" end="0:19:25.411000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:23.344000" end="0:19:25.411000" persName="Informant 0371">
 oder	-	-	-	0:19:23.344000	0:19:25.411000
 was	-	-	-	0:19:23.344000	0:19:25.411000
 s/	-	-	-	0:19:23.344000	0:19:25.411000
@@ -5645,7 +5646,7 @@ die	-	-	-	0:19:23.344000	0:19:25.411000
 zusammenschießen	-	-	-	0:19:23.344000	0:19:25.411000
 .	-	-	-	0:19:23.344000	0:19:25.411000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:25.411000" end="0:19:30.824000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:25.411000" end="0:19:30.824000" persName="Informant 0373">
 genau	genau	ADJ	-	0:19:25.411000	0:19:25.811000
 .	-	-	-	0:19:25.411000	0:19:25.811000
 <pause duration="2,1s"/>
@@ -5662,7 +5663,7 @@ Marktdruck	Marktdruck	NOUN	-	0:19:25.811000	0:19:30.824000
 komplett/	-	-	-	0:19:25.811000	0:19:30.824000
 .	-	-	-	0:19:25.811000	0:19:30.824000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:30.824000" end="0:19:32.218000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:30.824000" end="0:19:32.218000" persName="Informant 0371">
 ja	ja	ADV	-	0:19:30.824000	0:19:31.624000
 sicher	sichern	ADJ	-	0:19:30.824000	0:19:31.624000
 .	-	-	-	0:19:30.824000	0:19:31.624000
@@ -5671,7 +5672,7 @@ ist	sein	AUX	-	0:19:31.624000	0:19:32.218000
 es	ich	PRON	-	0:19:31.624000	0:19:32.218000
 .	-	-	-	0:19:31.624000	0:19:32.218000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:32.218000" end="0:19:35.664000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:32.218000" end="0:19:35.664000" persName="Informant 0373">
 ist	sein	AUX	-	0:19:32.218000	0:19:35.664000
 ja	ja	ADV	-	0:19:32.218000	0:19:35.664000
 <pause duration="1,0s"/>
@@ -5681,30 +5682,30 @@ Konkurrenzprodukt	Konkurrenzprodukt	NOUN	-	0:19:32.218000	0:19:35.664000
 eigentlich	eigentlich	ADV	-	0:19:32.218000	0:19:35.664000
 .	-	-	-	0:19:32.218000	0:19:35.664000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:35.664000" end="0:19:36.784000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:35.664000" end="0:19:36.784000" persName="Informant 0371">
 *kannst*	-	-	-	0:19:35.664000	0:19:36.784000
 fast	-	-	-	0:19:35.664000	0:19:36.784000
 nicht	-	-	-	0:19:35.664000	0:19:36.784000
 machen	-	-	-	0:19:35.664000	0:19:36.784000
 .	-	-	-	0:19:35.664000	0:19:36.784000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:36.784000" end="0:19:37.384000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:36.784000" end="0:19:37.384000" persName="Informant 0373">
 nein	nein	PART	-	0:19:36.784000	0:19:37.384000
 .	-	-	-	0:19:36.784000	0:19:37.384000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:37.384000" end="0:19:38.404000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:37.384000" end="0:19:38.404000" persName="Informant 0371">
 das	der	PRON	-	0:19:37.384000	0:19:38.404000
 wäre/	-	-	-	0:19:37.384000	0:19:38.404000
 .	-	-	-	0:19:37.384000	0:19:38.404000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:38.404000" end="0:19:39.458000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:38.404000" end="0:19:39.458000" persName="Informant 0373">
 kann	können	VERB	-	0:19:38.404000	0:19:39.458000
 ich	ich	PRON	-	0:19:38.404000	0:19:39.458000
 mit	mit	ADP	-	0:19:38.404000	0:19:39.458000
 meinem	mein	DET	-	0:19:38.404000	0:19:39.458000
 Gewissen	Gewisse	NOUN	-	0:19:38.404000	0:19:39.458000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:39.458000" end="0:19:41.678000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:39.458000" end="0:19:41.678000" persName="Informant 0371">
 nein	nein	PART	-	0:19:39.458000	0:19:41.678000
 ,	-	-	-	0:19:39.458000	0:19:41.678000
 so	so	ADV	-	0:19:39.458000	0:19:41.678000
@@ -5712,12 +5713,12 @@ ist	sein	AUX	-	0:19:39.458000	0:19:41.678000
 es	ich	PRON	-	0:19:39.458000	0:19:41.678000
 .	-	-	-	0:19:39.458000	0:19:41.678000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:39.458000" end="0:19:41.678000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:39.458000" end="0:19:41.678000" persName="Informant 0373">
 nicht	nicht	PART	-	0:19:39.458000	0:19:41.678000
 vereinbaren	vereinbaren	VERB	-	0:19:39.458000	0:19:41.678000
 .	-	-	-	0:19:39.458000	0:19:41.678000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:41.678000" end="0:19:45.778000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:41.678000" end="0:19:45.778000" persName="Informant 0371">
 das	der	PRON	-	0:19:41.678000	0:19:42.598000
 ist	sein	AUX	-	0:19:41.678000	0:19:42.598000
 wie	wie	CCONJ	-	0:19:41.678000	0:19:42.598000
@@ -5738,11 +5739,11 @@ Holzhaus	Holzhaus	NOUN	-	0:19:44.804000	0:19:45.778000
 baut	bauen	VERB	-	0:19:44.804000	0:19:45.778000
 .	-	-	-	0:19:44.804000	0:19:45.778000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:45.778000" end="0:19:46.284000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:45.778000" end="0:19:46.284000" persName="Informant 0373">
 genau	genau	ADJ	-	0:19:45.778000	0:19:46.284000
 .	-	-	-	0:19:45.778000	0:19:46.284000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:46.284000" end="0:19:51.331000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:46.284000" end="0:19:51.331000" persName="Informant 0371">
 <pause duration="3,8s"/>
 oder	oder	CCONJ	-	0:19:46.284000	0:19:51.331000
 einen	ein	DET	-	0:19:46.284000	0:19:51.331000
@@ -5751,7 +5752,7 @@ oder	oder	CCONJ	-	0:19:46.284000	0:19:51.331000
 einen	ein	DET	-	0:19:46.284000	0:19:51.331000
 St/	-	-	-	0:19:46.284000	0:19:51.331000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:46.284000" end="0:19:52.098000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:46.284000" end="0:19:52.098000" persName="Informant 0373">
 <pause duration="3,8s"/>
 oder	oder	CCONJ	-	0:19:46.284000	0:19:51.331000
 das	der	DET	-	0:19:46.284000	0:19:51.331000
@@ -5762,7 +5763,7 @@ anderen	ander	PRON	-	0:19:51.331000	0:19:52.098000
 gekauft	kaufen	VERB	-	0:19:51.331000	0:19:52.098000
 .	-	-	-	0:19:51.331000	0:19:52.098000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:52.098000" end="0:19:53.718000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:52.098000" end="0:19:53.718000" persName="Informant 0371">
 Bauholz	Bauholz	NOUN	-	0:19:52.098000	0:19:53.718000
 von	von	ADP	-	0:19:52.098000	0:19:53.718000
 wem/	-	-	-	0:19:52.098000	0:19:53.718000
@@ -5772,34 +5773,34 @@ oder/	-	-	-	0:19:52.098000	0:19:53.718000
 genau	genau	ADJ	-	0:19:52.098000	0:19:53.718000
 .	-	-	-	0:19:52.098000	0:19:53.718000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:52.098000" end="0:19:53.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:52.098000" end="0:19:53.718000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:19:52.098000	0:19:53.718000
 eine	einen	DET	-	0:19:52.098000	0:19:53.718000
 Wolfhalle	Wolfhalle	NOUN	-	0:19:52.098000	0:19:53.718000
 hinstellen	hinstellen	VERB	-	0:19:52.098000	0:19:53.718000
 .	-	-	-	0:19:52.098000	0:19:53.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:53.718000" end="0:19:55.024000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:53.718000" end="0:19:55.024000" persName="Informant 0371">
 oder	oder	CCONJ	-	0:19:53.718000	0:19:55.024000
 nein	nein	PART	-	0:19:53.718000	0:19:55.024000
 ,	-	-	-	0:19:53.718000	0:19:55.024000
 ärger	ärger	NOUN	-	0:19:53.718000	0:19:55.024000
 noch	noch	ADV	-	0:19:53.718000	0:19:55.024000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:53.718000" end="0:19:55.024000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:53.718000" end="0:19:55.024000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:55.024000" end="0:19:56.698000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:55.024000" end="0:19:56.698000" persName="Informant 0371">
 einen	ein	DET	-	0:19:55.024000	0:19:56.238000
 Folientunnelstahl	Folientunnelstahl	NOUN	-	0:19:55.024000	0:19:56.238000
 hinstellt	hinstellen	VERB	-	0:19:56.238000	0:19:56.698000
 .	-	-	-	0:19:56.238000	0:19:56.698000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:56.238000" end="0:19:58.064000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:19:56.238000" end="0:19:58.064000" persName="Informant 0373">
 ja	ja	ADV	-	0:19:56.698000	0:19:58.064000
 genau	genau	ADJ	-	0:19:56.698000	0:19:58.064000
 .	-	-	-	0:19:56.698000	0:19:58.064000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:58.064000" end="0:20:00.471000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:19:58.064000" end="0:20:00.471000" persName="Informant 0371">
 <pause duration="1,0s"/>
 weil	-	-	-	0:19:58.064000	0:20:00.471000
 dann	-	-	-	0:19:58.064000	0:20:00.471000
@@ -5810,7 +5811,7 @@ wild	-	-	-	0:19:58.064000	0:20:00.471000
 gell	gell	ADJ	-	0:19:58.064000	0:20:00.471000
 .	-	-	-	0:19:58.064000	0:20:00.471000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:00.471000" end="0:20:01.604000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:00.471000" end="0:20:01.604000" persName="Informant 0373">
 dann	-	-	-	0:20:00.471000	0:20:01.604000
 *bist*	-	-	-	0:20:00.471000	0:20:01.604000
 vorn	-	-	-	0:20:00.471000	0:20:01.604000
@@ -5819,13 +5820,13 @@ dabei	-	-	-	0:20:00.471000	0:20:01.604000
 ja	ja	PART	-	0:20:00.471000	0:20:01.604000
 .	-	-	-	0:20:00.471000	0:20:01.604000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:01.604000" end="0:20:02.324000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:01.604000" end="0:20:02.324000" persName="Informant 0371">
 bist	sein	AUX	-	0:20:01.604000	0:20:02.324000
 du	du	PRON	-	0:20:01.604000	0:20:02.324000
 deppert	deppert	VERB	-	0:20:01.604000	0:20:02.324000
 .	-	-	-	0:20:01.604000	0:20:02.324000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:02.324000" end="0:20:04.831000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:02.324000" end="0:20:04.831000" persName="Informant 0373">
 das	der	PRON	-	0:20:02.324000	0:20:04.831000
 ist	sein	AUX	-	0:20:02.324000	0:20:04.831000
 Ressourcennutzung	Ressourcennutzung	NOUN	-	0:20:02.324000	0:20:04.831000
@@ -5834,7 +5835,7 @@ großen	groß	ADJ	-	0:20:02.324000	0:20:04.831000
 Stil	Stil	NOUN	-	0:20:02.324000	0:20:04.831000
 .	-	-	-	0:20:02.324000	0:20:04.831000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:04.831000" end="0:20:06.464000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:04.831000" end="0:20:06.464000" persName="Informant 0371">
 ganz	ganz	ADV	-	0:20:04.831000	0:20:06.464000
 großes	groß	ADJ	-	0:20:04.831000	0:20:06.464000
 Tennis	Tennis	NOUN	-	0:20:04.831000	0:20:06.464000
@@ -5842,14 +5843,14 @@ Tennis	Tennis	NOUN	-	0:20:04.831000	0:20:06.464000
 ja	ja	PART	-	0:20:04.831000	0:20:06.464000
 .	-	-	-	0:20:04.831000	0:20:06.464000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:04.831000" end="0:20:06.464000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:04.831000" end="0:20:06.464000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:06.464000" end="0:20:08.324000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:06.464000" end="0:20:08.324000" persName="Informant 0371">
 <pause duration="1,3s"/>
 okay	okay	NOUN	-	0:20:06.464000	0:20:08.324000
 .	-	-	-	0:20:06.464000	0:20:08.324000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:08.324000" end="0:20:11.604000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:08.324000" end="0:20:11.604000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:20:08.324000	0:20:09.451000
 gibt	geben	VERB	-	0:20:08.324000	0:20:09.451000
 es	ich	PRON	-	0:20:08.324000	0:20:09.451000
@@ -5865,7 +5866,7 @@ ist	sein	AUX	-	0:20:10.491000	0:20:11.604000
 unglaublich	unglaublich	ADJ	-	0:20:10.491000	0:20:11.604000
 .	-	-	-	0:20:10.491000	0:20:11.604000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:11.604000" end="0:20:23.604000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:11.604000" end="0:20:23.604000" persName="Informant 0371">
 ja	ja	ADV	-	0:20:11.604000	0:20:12.431000
 sicher	sichern	ADJ	-	0:20:11.604000	0:20:12.431000
 .	-	-	-	0:20:11.604000	0:20:12.431000
@@ -5906,14 +5907,14 @@ es	ich	PRON	-	0:20:22.631000	0:20:23.604000
 ja	ja	ADV	-	0:20:22.631000	0:20:23.604000
 .	-	-	-	0:20:22.631000	0:20:23.604000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:22.631000" end="0:20:23.604000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:22.631000" end="0:20:23.604000" persName="Informant 0373">
 genau	genau	ADJ	-	0:20:22.631000	0:20:23.604000
 so	so	ADV	-	0:20:22.631000	0:20:23.604000
 ist	sein	AUX	-	0:20:22.631000	0:20:23.604000
 es	ich	PRON	-	0:20:22.631000	0:20:23.604000
 .	-	-	-	0:20:22.631000	0:20:23.604000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:23.604000" end="0:20:27.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:23.604000" end="0:20:27.891000" persName="Informant 0371">
 <pause duration="1,6s"/>
 nein	nein	PART	-	0:20:23.604000	0:20:25.498000
 .	-	-	-	0:20:23.604000	0:20:25.498000
@@ -5925,22 +5926,22 @@ Vorteil	Vorteil	NOUN	-	0:20:26.564000	0:20:27.891000
 ist/	-	-	-	0:20:26.564000	0:20:27.891000
 .	-	-	-	0:20:26.564000	0:20:27.891000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:26.564000" end="0:20:27.891000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:26.564000" end="0:20:27.891000" persName="Informant 0373">
 das	der	PRON	-	0:20:26.564000	0:20:27.891000
 ist	sein	AUX	-	0:20:26.564000	0:20:27.891000
 alles	alle	DET	-	0:20:26.564000	0:20:27.891000
 Schindluder	Schindluder	NOUN	-	0:20:26.564000	0:20:27.891000
 .	-	-	-	0:20:26.564000	0:20:27.891000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:27.891000" end="0:20:28.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:27.891000" end="0:20:28.891000" persName="Informant 0371">
 ist	sein	AUX	-	0:20:27.891000	0:20:28.891000
 es	ich	PRON	-	0:20:27.891000	0:20:28.891000
 eh	eh	ADV	-	0:20:27.891000	0:20:28.891000
 .	-	-	-	0:20:27.891000	0:20:28.891000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:27.891000" end="0:20:28.891000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:27.891000" end="0:20:28.891000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:28.891000" end="0:20:32.491000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:28.891000" end="0:20:32.491000" persName="Informant 0371">
 <pause duration="0,8s"/>
 und	und	CCONJ	-	0:20:28.891000	0:20:30.484000
 der	der	DET	-	0:20:28.891000	0:20:30.484000
@@ -5959,13 +5960,13 @@ vorgefertigt	vorfertigen	VERB	-	0:20:30.484000	0:20:32.491000
 oder	oder	CCONJ	-	0:20:30.484000	0:20:32.491000
 ?	-	-	-	0:20:30.484000	0:20:32.491000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:32.491000" end="0:20:32.824000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:32.491000" end="0:20:32.824000" persName="Informant 0373">
 so	so	ADV	-	0:20:32.491000	0:20:32.824000
 ist	sein	AUX	-	0:20:32.491000	0:20:32.824000
 es	ich	PRON	-	0:20:32.491000	0:20:32.824000
 .	-	-	-	0:20:32.491000	0:20:32.824000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:32.824000" end="0:20:36.544000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:32.824000" end="0:20:36.544000" persName="Informant 0371">
 du	du	PRON	-	0:20:32.824000	0:20:33.191000
 tust	tun	VERB	Prog ProgKon tunP	0:20:32.824000	0:20:33.191000
 d/	-	-	-	0:20:33.191000	0:20:36.544000
@@ -5985,7 +5986,7 @@ das	der	PRON	-	0:20:33.191000	0:20:36.544000
 ja	ja	PART	-	0:20:33.191000	0:20:36.544000
 .	-	-	-	0:20:33.191000	0:20:36.544000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:33.191000" end="0:20:37.151000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:33.191000" end="0:20:37.151000" persName="Informant 0373">
 ich	ich	PRON	-	0:20:33.191000	0:20:36.544000
 stelle	stelle	VERB	-	0:20:33.191000	0:20:36.544000
 das	der	PRON	-	0:20:33.191000	0:20:36.544000
@@ -6005,7 +6006,7 @@ die	der	DET	-	0:20:36.544000	0:20:37.151000
 Bude	Bude	NOUN	-	0:20:36.544000	0:20:37.151000
 .	-	-	-	0:20:36.544000	0:20:37.151000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:37.151000" end="0:20:39.038000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:37.151000" end="0:20:39.038000" persName="Informant 0371">
 so	so	ADV	-	0:20:37.151000	0:20:37.691000
 ist	sein	AUX	-	0:20:37.151000	0:20:37.691000
 es	ich	PRON	-	0:20:37.151000	0:20:37.691000
@@ -6016,7 +6017,7 @@ unten	-	-	-	0:20:37.691000	0:20:39.038000
 alles/	-	-	-	0:20:37.691000	0:20:39.038000
 .	-	-	-	0:20:37.691000	0:20:39.038000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:37.691000" end="0:20:39.491000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:37.691000" end="0:20:39.491000" persName="Informant 0373">
 Dachstuhl	Dachstuhl	PROPN	-	0:20:37.691000	0:20:39.038000
 drauf	drauf	ADV	-	0:20:37.691000	0:20:39.038000
 und	und	CCONJ	-	0:20:37.691000	0:20:39.038000
@@ -6025,11 +6026,11 @@ sind	sein	AUX	-	0:20:37.691000	0:20:39.038000
 zu	zu	ADP	-	0:20:39.038000	0:20:39.491000
 .	-	-	-	0:20:39.038000	0:20:39.491000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:39.491000" end="0:20:39.891000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:39.491000" end="0:20:39.891000" persName="Informant 0371">
 ja	ja	PART	-	0:20:39.491000	0:20:39.891000
 .	-	-	-	0:20:39.491000	0:20:39.891000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:39.891000" end="0:20:41.651000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:39.891000" end="0:20:41.651000" persName="Informant 0373">
 und	und	CCONJ	-	0:20:39.891000	0:20:41.651000
 es	ich	PRON	-	0:20:39.891000	0:20:41.651000
 braucht	brauchen	VERB	-	0:20:39.891000	0:20:41.651000
@@ -6038,16 +6039,16 @@ auswintern	auswintern	VERB	-	0:20:39.891000	0:20:41.651000
 und	und	CCONJ	-	0:20:39.891000	0:20:41.651000
 gar	gar	ADV	-	0:20:39.891000	0:20:41.651000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:41.651000" end="0:20:42.224000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:41.651000" end="0:20:42.224000" persName="Informant 0371">
 gar	gar	ADV	-	0:20:41.651000	0:20:42.224000
 nichts	nichts	PRON	-	0:20:41.651000	0:20:42.224000
 .	-	-	-	0:20:41.651000	0:20:42.224000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:41.651000" end="0:20:42.224000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:41.651000" end="0:20:42.224000" persName="Informant 0373">
 nichts	nichts	PRON	-	0:20:41.651000	0:20:42.224000
 .	-	-	-	0:20:41.651000	0:20:42.224000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:42.224000" end="0:20:44.124000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:42.224000" end="0:20:44.124000" persName="Informant 0371">
 Fenster	Fenster	NOUN	-	0:20:42.224000	0:20:43.058000
 hinein	hinein	ADV	-	0:20:42.224000	0:20:43.058000
 und	und	CCONJ	-	0:20:43.058000	0:20:44.124000
@@ -6058,36 +6059,36 @@ du	du	PRON	-	0:20:43.058000	0:20:44.124000
 ka/	-	-	-	0:20:43.058000	0:20:44.124000
 du	du	PRON	-	0:20:43.058000	0:20:44.124000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:43.058000" end="0:20:44.124000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:43.058000" end="0:20:44.124000" persName="Informant 0373">
 ja	ja	PART	-	0:20:43.058000	0:20:44.124000
 ,	-	-	-	0:20:43.058000	0:20:44.124000
 und/	-	-	-	0:20:43.058000	0:20:44.124000
 .	-	-	-	0:20:43.058000	0:20:44.124000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:44.124000" end="0:20:45.098000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:44.124000" end="0:20:45.098000" persName="Informant 0371">
 bist	sein	AUX	-	0:20:44.124000	0:20:45.098000
 einmal/	-	-	-	0:20:44.124000	0:20:45.098000
 .	-	-	-	0:20:44.124000	0:20:45.098000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:45.098000" end="0:20:45.791000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:45.098000" end="0:20:45.791000" persName="Informant 0373">
 *bist*	-	-	-	0:20:45.098000	0:20:45.791000
 safe	-	-	-	0:20:45.098000	0:20:45.791000
 .	-	-	-	0:20:45.098000	0:20:45.791000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:45.791000" end="0:20:46.498000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:45.791000" end="0:20:46.498000" persName="Informant 0371">
 ja	ja	PART	-	0:20:45.791000	0:20:46.498000
 .	-	-	-	0:20:45.791000	0:20:46.498000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:45.791000" end="0:20:46.498000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:45.791000" end="0:20:46.498000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:46.498000" end="0:20:48.471000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:46.498000" end="0:20:48.471000" persName="Informant 0371">
 <pause duration="1,1s"/>
 Alter	alt	NOUN	-	0:20:46.498000	0:20:47.998000
 ,	-	-	-	0:20:46.498000	0:20:47.998000
 bei	bei	ADP	-	0:20:47.998000	0:20:48.471000
 bei	bei	ADP	-	0:20:47.998000	0:20:48.471000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:47.998000" end="0:20:49.351000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:47.998000" end="0:20:49.351000" persName="Informant 0373">
 nein	nein	PART	-	0:20:47.998000	0:20:48.471000
 ich	ich	PRON	-	0:20:47.998000	0:20:48.471000
 bin	sein	AUX	-	0:20:47.998000	0:20:48.471000
@@ -6095,10 +6096,10 @@ schon	schon	ADV	-	0:20:48.471000	0:20:49.351000
 neugierig	neugierig	ADJ	-	0:20:48.471000	0:20:49.351000
 .	-	-	-	0:20:48.471000	0:20:49.351000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:49.351000" end="0:20:54.171000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:49.351000" end="0:20:54.171000" persName="Informant 0371">
 bei	bei	ADP	-	0:20:49.351000	0:20:51.064000
 der	der	DET	-	0:20:49.351000	0:20:51.064000
-[Nicki]N	Nicki	PROPN	-	0:20:49.351000	0:20:51.064000
+NAME	NAME	PROPN	-	0:20:49.351000	0:20:51.064000
 oben	oben	ADV	-	0:20:49.351000	0:20:51.064000
 ,	-	-	-	0:20:49.351000	0:20:51.064000
 hey	hey	PROPN	-	0:20:49.351000	0:20:51.064000
@@ -6113,13 +6114,13 @@ eine	einen	DET	-	0:20:52.318000	0:20:54.171000
 Hacken	Hacke	NOUN	-	0:20:52.318000	0:20:54.171000
 ,	-	-	-	0:20:52.318000	0:20:54.171000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:52.318000" end="0:20:54.171000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:52.318000" end="0:20:54.171000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:54.171000" end="0:20:55.011000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:54.171000" end="0:20:55.011000" persName="Informant 0371">
 Alter	alt	NOUN	-	0:20:54.171000	0:20:55.011000
 .	-	-	-	0:20:54.171000	0:20:55.011000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:54.171000" end="0:20:56.231000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:20:54.171000" end="0:20:56.231000" persName="Informant 0373">
 das	der	DET	-	0:20:54.171000	0:20:55.011000
 Mauern	Mauer	NOUN	-	0:20:54.171000	0:20:55.011000
 ,	-	-	-	0:20:54.171000	0:20:55.011000
@@ -6128,7 +6129,7 @@ das	-	-	-	0:20:54.171000	0:20:55.011000
 abhaken	-	-	-	0:20:55.011000	0:20:56.231000
 .	-	-	-	0:20:55.011000	0:20:56.231000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:56.231000" end="0:21:00.291000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:20:56.231000" end="0:21:00.291000" persName="Informant 0371">
 <pause duration="1,0s"/>
 von	von	ADP	-	0:20:56.231000	0:21:00.291000
 oben	oben	ADV	-	0:20:56.231000	0:21:00.291000
@@ -6141,7 +6142,7 @@ drecksroten	drecksroten	ADJ	-	0:20:56.231000	0:21:00.291000
 Stab	Staub	NOUN	-	0:20:56.231000	0:21:00.291000
 .	-	-	-	0:20:56.231000	0:21:00.291000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:00.291000" end="0:21:05.791000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:00.291000" end="0:21:05.791000" persName="Informant 0373">
 ja	ja	PART	-	0:21:00.291000	0:21:00.791000
 .	-	-	-	0:21:00.291000	0:21:00.791000
 vor	vor	ADP	-	0:21:00.791000	0:21:02.698000
@@ -6166,7 +6167,7 @@ fast	fast	ADV	-	0:21:04.411000	0:21:05.791000
 um	um	ADP	-	0:21:04.411000	0:21:05.791000
 .	-	-	-	0:21:04.411000	0:21:05.791000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:05.791000" end="0:21:09.718000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:05.791000" end="0:21:09.718000" persName="Informant 0371">
 <pause duration="0,9s"/>
 wir	ich	PRON	-	0:21:05.791000	0:21:08.618000
 tun	tun	VERB	Prog ProgKon tunP	0:21:05.791000	0:21:08.618000
@@ -6182,11 +6183,11 @@ das	der	DET	-	0:21:08.618000	0:21:09.718000
 Bad	Bad	PROPN	-	0:21:08.618000	0:21:09.718000
 herausreißen	herausreißen	VERB	Prog ProgKon tunP	0:21:08.618000	0:21:09.718000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:09.718000" end="0:21:10.011000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:09.718000" end="0:21:10.011000" persName="Informant 0373">
 ja	ja	PART	-	0:21:09.718000	0:21:10.011000
 .	-	-	-	0:21:09.718000	0:21:10.011000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:10.011000" end="0:21:11.278000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:10.011000" end="0:21:11.278000" persName="Informant 0371">
 und	und	CCONJ	-	0:21:10.011000	0:21:11.278000
 neu	neu	ADJ	-	0:21:10.011000	0:21:11.278000
 hineinmachen	hineinmachen	VERB	-	0:21:10.011000	0:21:11.278000
@@ -6194,23 +6195,23 @@ hineinmachen	hineinmachen	VERB	-	0:21:10.011000	0:21:11.278000
 gell	gell	ADJ	-	0:21:10.011000	0:21:11.278000
 .	-	-	-	0:21:10.011000	0:21:11.278000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:11.278000" end="0:21:12.431000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:11.278000" end="0:21:12.431000" persName="Informant 0373">
 das	der	DET	-	0:21:11.278000	0:21:12.431000
 Fliesen	Fliese	NOUN	-	0:21:11.278000	0:21:12.431000
 stemmen	stemmen	VERB	-	0:21:11.278000	0:21:12.431000
 .	-	-	-	0:21:11.278000	0:21:12.431000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:12.431000" end="0:21:14.398000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:12.431000" end="0:21:14.398000" persName="Informant 0371">
 hey	hey	PROPN	-	0:21:12.431000	0:21:13.258000
 ,	-	-	-	0:21:12.431000	0:21:13.258000
 die	-	-	-	0:21:13.258000	0:21:14.398000
 haben	-	-	-	0:21:13.258000	0:21:14.398000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:13.258000" end="0:21:14.398000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:13.258000" end="0:21:14.398000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:21:13.258000	0:21:14.398000
 .	-	-	-	0:21:13.258000	0:21:14.398000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:14.398000" end="0:21:17.738000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:14.398000" end="0:21:17.738000" persName="Informant 0371">
 die	-	-	-	0:21:14.398000	0:21:15.438000
 haben	-	-	-	0:21:14.398000	0:21:15.438000
 die	-	-	-	0:21:14.398000	0:21:15.438000
@@ -6222,22 +6223,22 @@ die	der	DET	-	0:21:15.438000	0:21:17.738000
 Duschd/	-	-	-	0:21:15.438000	0:21:17.738000
 Duschwand	Duschwand	NOUN	-	0:21:15.438000	0:21:17.738000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:17.738000" end="0:21:18.251000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:17.738000" end="0:21:18.251000" persName="Informant 0373">
 ja	ja	PART	-	0:21:17.738000	0:21:18.251000
 .	-	-	-	0:21:17.738000	0:21:18.251000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:18.251000" end="0:21:20.471000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:18.251000" end="0:21:20.471000" persName="Informant 0371">
 hineinbetoniert	hineinbetoniert	VERB	-	0:21:18.251000	0:21:19.771000
 .	-	-	-	0:21:18.251000	0:21:19.771000
 da	da	ADV	-	0:21:19.771000	0:21:20.471000
 haben	haben	AUX	-	0:21:19.771000	0:21:20.471000
 sie	ich	PRON	-	0:21:19.771000	0:21:20.471000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:19.771000" end="0:21:20.471000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:19.771000" end="0:21:20.471000" persName="Informant 0373">
 bist/	-	-	-	0:21:19.771000	0:21:20.471000
 .	-	-	-	0:21:19.771000	0:21:20.471000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:20.471000" end="0:21:24.858000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:20.471000" end="0:21:24.858000" persName="Informant 0371">
 unten	unten	ADV	-	0:21:20.471000	0:21:21.784000
 einen	ein	DET	-	0:21:20.471000	0:21:21.784000
 Beton	Beton	NOUN	-	0:21:20.471000	0:21:21.784000
@@ -6257,7 +6258,7 @@ darauf	darauf	ADV	-	0:21:22.678000	0:21:23.878000
 gesetzt	setzen	VERB	-	0:21:23.878000	0:21:24.858000
 .	-	-	-	0:21:23.878000	0:21:24.858000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:23.878000" end="0:21:29.411000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:23.878000" end="0:21:29.411000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:21:23.878000	0:21:24.858000
 das	der	PRON	-	0:21:23.878000	0:21:24.858000
 war	sein	AUX	-	0:21:23.878000	0:21:24.858000
@@ -6282,9 +6283,9 @@ wir	ich	PRON	-	0:21:27.558000	0:21:29.411000
 herumgeschissen	herumgeschissen	VERB	-	0:21:27.558000	0:21:29.411000
 .	-	-	-	0:21:27.558000	0:21:29.411000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:29.411000" end="0:21:31.884000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:29.411000" end="0:21:31.884000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:29.411000" end="0:21:34.138000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:29.411000" end="0:21:34.138000" persName="Informant 0373">
 <pause duration="0,9s"/>
 ich	ich	PRON	-	0:21:29.411000	0:21:31.884000
 sage	sage	VERB	-	0:21:29.411000	0:21:31.884000
@@ -6301,20 +6302,20 @@ Ziegel	Ziegel	NOUN	-	0:21:31.884000	0:21:34.138000
 eingemacht	einmachen	VERB	-	0:21:31.884000	0:21:34.138000
 .	-	-	-	0:21:31.884000	0:21:34.138000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:34.138000" end="0:21:35.204000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:34.138000" end="0:21:35.204000" persName="Informant 0371">
 ja	ja	ADV	-	0:21:34.138000	0:21:35.204000
 ja	ja	PART	-	0:21:34.138000	0:21:35.204000
 .	-	-	-	0:21:34.138000	0:21:35.204000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:34.138000" end="0:21:35.204000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:34.138000" end="0:21:35.204000" persName="Informant 0373">
 das/	-	-	-	0:21:34.138000	0:21:35.204000
 .	-	-	-	0:21:34.138000	0:21:35.204000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:35.204000" end="0:21:35.951000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:35.204000" end="0:21:35.951000" persName="Informant 0371">
 abartig	abartig	ADJ	-	0:21:35.204000	0:21:35.951000
 .	-	-	-	0:21:35.204000	0:21:35.951000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:35.951000" end="0:21:37.718000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:35.951000" end="0:21:37.718000" persName="Informant 0373">
 *dasst*	-	-	-	0:21:35.951000	0:21:37.718000
 sie	-	-	-	0:21:35.951000	0:21:37.718000
 mit	-	-	-	0:21:35.951000	0:21:37.718000
@@ -6322,15 +6323,15 @@ dem	-	-	-	0:21:35.951000	0:21:37.718000
 Schlägel	-	-	-	0:21:35.951000	0:21:37.718000
 hinauswaschen	-	-	-	0:21:35.951000	0:21:37.718000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:37.718000" end="0:21:38.158000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:37.718000" end="0:21:38.158000" persName="Informant 0371">
 ja	ja	PART	-	0:21:37.718000	0:21:38.158000
 .	-	-	-	0:21:37.718000	0:21:38.158000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:37.718000" end="0:21:38.158000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:37.718000" end="0:21:38.158000" persName="Informant 0373">
 kannst	-	-	-	0:21:37.718000	0:21:38.158000
 .	-	-	-	0:21:37.718000	0:21:38.158000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:38.158000" end="0:21:42.344000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:38.158000" end="0:21:42.344000" persName="Informant 0371">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:21:38.158000	0:21:42.344000
 d/	-	-	-	0:21:38.158000	0:21:42.344000
@@ -6344,25 +6345,25 @@ zum	zum	ADP	-	0:21:38.158000	0:21:42.344000
 Aushärten	Aushärten	NOUN	-	0:21:38.158000	0:21:42.344000
 ,	-	-	-	0:21:38.158000	0:21:42.344000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:42.344000" end="0:21:42.864000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:42.344000" end="0:21:42.864000" persName="Informant 0373">
 *weißt*	-	-	-	0:21:42.344000	0:21:42.551000
 eh	-	-	-	0:21:42.344000	0:21:42.551000
 ,	-	-	-	0:21:42.344000	0:21:42.551000
 den	-	-	-	0:21:42.551000	0:21:42.864000
 *bringst*	-	-	-	0:21:42.551000	0:21:42.864000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:42.864000" end="0:21:43.704000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:42.864000" end="0:21:43.704000" persName="Informant 0371">
 ja	ja	PART	-	0:21:42.864000	0:21:43.704000
 .	-	-	-	0:21:42.864000	0:21:43.704000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:42.864000" end="0:21:43.704000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:42.864000" end="0:21:43.704000" persName="Informant 0373">
 von	-	-	-	0:21:42.864000	0:21:43.704000
 allein	-	-	-	0:21:42.864000	0:21:43.704000
 nicht	-	-	-	0:21:42.864000	0:21:43.704000
 heraus	-	-	-	0:21:42.864000	0:21:43.704000
 .	-	-	-	0:21:42.864000	0:21:43.704000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:43.704000" end="0:21:46.024000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:43.704000" end="0:21:46.024000" persName="Informant 0371">
 <pause duration="0,9s"/>
 da	-	-	-	0:21:43.704000	0:21:46.024000
 *bringst*	-	-	-	0:21:43.704000	0:21:46.024000
@@ -6371,11 +6372,11 @@ Werkzeug	-	-	-	0:21:43.704000	0:21:46.024000
 um	-	-	-	0:21:43.704000	0:21:46.024000
 .	-	-	-	0:21:43.704000	0:21:46.024000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:46.024000" end="0:21:46.491000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:46.024000" end="0:21:46.491000" persName="Informant 0373">
 ja	ja	PART	-	0:21:46.024000	0:21:46.491000
 .	-	-	-	0:21:46.024000	0:21:46.491000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:46.491000" end="0:21:51.464000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:46.491000" end="0:21:51.464000" persName="Informant 0371">
 <pause duration="0,8s"/>
 oder	-	-	-	0:21:46.491000	0:21:51.464000
 da	-	-	-	0:21:46.491000	0:21:51.464000
@@ -6391,11 +6392,11 @@ auf/	-	-	-	0:21:46.491000	0:21:51.464000
 aufgemauert	-	-	-	0:21:46.491000	0:21:51.464000
 .	-	-	-	0:21:46.491000	0:21:51.464000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:51.464000" end="0:21:51.877000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:51.464000" end="0:21:51.877000" persName="Informant 0373">
 ja	ja	PART	-	0:21:51.464000	0:21:51.877000
 .	-	-	-	0:21:51.464000	0:21:51.877000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:51.877000" end="0:21:58.057000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:51.877000" end="0:21:58.057000" persName="Informant 0371">
 der	der	DET	-	0:21:51.877000	0:21:53.877000
 Zement	Zement	NOUN	-	0:21:51.877000	0:21:53.877000
 ,	-	-	-	0:21:51.877000	0:21:53.877000
@@ -6420,11 +6421,11 @@ der	der	DET	-	0:21:57.237000	0:21:58.057000
 Zement	Zement	NOUN	-	0:21:57.237000	0:21:58.057000
 ,	-	-	-	0:21:57.237000	0:21:58.057000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:57.237000" end="0:21:58.057000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:57.237000" end="0:21:58.057000" persName="Informant 0373">
 echt	echt	ADJ	-	0:21:57.237000	0:21:58.057000
 ?	-	-	-	0:21:57.237000	0:21:58.057000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:58.057000" end="0:22:00.784000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:21:58.057000" end="0:22:00.784000" persName="Informant 0371">
 der	der	PRON	-	0:21:58.057000	0:21:59.697000
 hat/	-	-	-	0:21:58.057000	0:21:59.697000
 .	-	-	-	0:21:58.057000	0:21:59.697000
@@ -6437,9 +6438,9 @@ der	der	DET	-	0:21:59.697000	0:22:00.784000
 der	der	PRON	-	0:21:59.697000	0:22:00.784000
 ist	sein	AUX	-	0:21:59.697000	0:22:00.784000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:59.697000" end="0:22:00.784000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:21:59.697000" end="0:22:00.784000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:00.784000" end="0:22:03.437000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:00.784000" end="0:22:03.437000" persName="Informant 0371">
 schon	schon	ADV	-	0:22:00.784000	0:22:02.324000
 so	so	ADV	-	0:22:00.784000	0:22:02.324000
 (ausgehängt)	aushängen	VERB	-	0:22:00.784000	0:22:02.324000
@@ -6453,16 +6454,16 @@ nicht	nicht	PART	-	0:22:02.324000	0:22:03.437000
 weggebracht	wegbringen	ADJ	-	0:22:02.324000	0:22:03.437000
 .	-	-	-	0:22:02.324000	0:22:03.437000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:03.437000" end="0:22:05.224000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:03.437000" end="0:22:05.224000" persName="Informant 0373">
 wa/	-	-	-	0:22:03.437000	0:22:05.224000
 grauslich	grauslich	ADJ	-	0:22:03.437000	0:22:05.224000
 ,	-	-	-	0:22:03.437000	0:22:05.224000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:05.224000" end="0:22:07.504000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:05.224000" end="0:22:07.504000" persName="Informant 0371">
 ja	ja	PART	-	0:22:05.224000	0:22:07.504000
 .	-	-	-	0:22:05.224000	0:22:07.504000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:05.224000" end="0:22:10.597000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:05.224000" end="0:22:10.597000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:22:05.224000	0:22:07.504000
 ?	-	-	-	0:22:05.224000	0:22:07.504000
 <pause duration="2,2s"/>
@@ -6473,7 +6474,7 @@ auch	auch	ADV	-	0:22:07.504000	0:22:10.597000
 nicht	nicht	PART	-	0:22:07.504000	0:22:10.597000
 .	-	-	-	0:22:07.504000	0:22:10.597000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:10.597000" end="0:22:13.311000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:10.597000" end="0:22:13.311000" persName="Informant 0371">
 <pause duration="1,3s"/>
 die	der	PRON	-	0:22:10.597000	0:22:13.311000
 haben	haben	AUX	-	0:22:10.597000	0:22:13.311000
@@ -6484,7 +6485,7 @@ Ewigkeit	Ewigkeit	NOUN	-	0:22:10.597000	0:22:13.311000
 gebaut	bauen	VERB	-	0:22:10.597000	0:22:13.311000
 .	-	-	-	0:22:10.597000	0:22:13.311000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:13.311000" end="0:22:18.804000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:13.311000" end="0:22:18.804000" persName="Informant 0373">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:22:13.311000	0:22:14.704000
 .	-	-	-	0:22:13.311000	0:22:14.704000
@@ -6505,14 +6506,14 @@ schon	schon	ADV	-	0:22:16.697000	0:22:18.804000
 früher	früh	ADJ	-	0:22:16.697000	0:22:18.804000
 ?	-	-	-	0:22:16.697000	0:22:18.804000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:18.804000" end="0:22:20.197000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:18.804000" end="0:22:20.197000" persName="Informant 0371">
 neunundsiebzig	neunundsiebzig	ADJ	-	0:22:18.804000	0:22:20.197000
 sind	sein	AUX	-	0:22:18.804000	0:22:20.197000
 sie	ich	PRON	-	0:22:18.804000	0:22:20.197000
 eingezogen	einziehen	VERB	-	0:22:18.804000	0:22:20.197000
 .	-	-	-	0:22:18.804000	0:22:20.197000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:20.197000" end="0:22:23.331000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:20.197000" end="0:22:23.331000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:22:20.197000	0:22:22.497000
 die	der	DET	-	0:22:20.197000	0:22:22.497000
 siebziger	siebziger	ADJ	-	0:22:20.197000	0:22:22.497000
@@ -6529,7 +6530,7 @@ furchtbarste	furchtbar	NOUN	-	0:22:20.197000	0:22:22.497000
 gibt	-	-	-	0:22:22.497000	0:22:23.331000
 .	-	-	-	0:22:22.497000	0:22:23.331000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:23.331000" end="0:22:25.157000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:23.331000" end="0:22:25.157000" persName="Informant 0371">
 ja	ja	ADV	-	0:22:23.331000	0:22:25.157000
 aber	aber	ADV	-	0:22:23.331000	0:22:25.157000
 die	der	PRON	-	0:22:23.331000	0:22:25.157000
@@ -6539,19 +6540,19 @@ wirklich	wirklich	ADJ	-	0:22:23.331000	0:22:25.157000
 für	für	ADP	-	0:22:23.331000	0:22:25.157000
 die	der	DET	-	0:22:23.331000	0:22:25.157000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:23.331000" end="0:22:25.157000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:23.331000" end="0:22:25.157000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:25.157000" end="0:22:26.164000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:25.157000" end="0:22:26.164000" persName="Informant 0371">
 Ewigkeit	Ewigkeit	NOUN	-	0:22:25.157000	0:22:26.164000
 gebaut	bauen	VERB	-	0:22:25.157000	0:22:26.164000
 worden	werden	AUX	-	0:22:25.157000	0:22:26.164000
 .	-	-	-	0:22:25.157000	0:22:26.164000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:25.157000" end="0:22:26.164000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:25.157000" end="0:22:26.164000" persName="Informant 0373">
 ja	ja	PART	-	0:22:25.157000	0:22:26.164000
 .	-	-	-	0:22:25.157000	0:22:26.164000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:26.164000" end="0:22:30.997000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:26.164000" end="0:22:30.997000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:22:26.164000	0:22:29.924000
 so	so	ADV	-	0:22:26.164000	0:22:29.924000
 die	der	DET	-	0:22:26.164000	0:22:29.924000
@@ -6566,17 +6567,17 @@ gut	gut	ADJ	-	0:22:26.164000	0:22:29.924000
 die	-	-	-	0:22:29.924000	0:22:30.997000
 Fenster	-	-	-	0:22:29.924000	0:22:30.997000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:29.924000" end="0:22:30.997000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:29.924000" end="0:22:30.997000" persName="Informant 0373">
 nein	nein	PART	-	0:22:29.924000	0:22:30.997000
 das	der	PRON	-	0:22:29.924000	0:22:30.997000
 schon	schon	ADV	-	0:22:29.924000	0:22:30.997000
 .	-	-	-	0:22:29.924000	0:22:30.997000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:30.997000" end="0:22:31.551000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:30.997000" end="0:22:31.551000" persName="Informant 0371">
 austauschst	-	-	-	0:22:30.997000	0:22:31.551000
 .	-	-	-	0:22:30.997000	0:22:31.551000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:31.551000" end="0:22:36.397000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:31.551000" end="0:22:36.397000" persName="Informant 0373">
 das	der	PRON	-	0:22:31.551000	0:22:33.517000
 schon	schon	ADV	-	0:22:31.551000	0:22:33.517000
 ,	-	-	-	0:22:31.551000	0:22:33.517000
@@ -6597,32 +6598,32 @@ bei	bei	ADP	-	0:22:33.517000	0:22:36.397000
 die	der	PRON	-	0:22:33.517000	0:22:36.397000
 .	-	-	-	0:22:33.517000	0:22:36.397000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:36.397000" end="0:22:37.457000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:36.397000" end="0:22:37.457000" persName="Informant 0371">
 *kannst*	-	-	-	0:22:36.397000	0:22:36.724000
 vergessen	-	-	-	0:22:36.724000	0:22:37.457000
 .	-	-	-	0:22:36.724000	0:22:37.457000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:36.724000" end="0:22:37.857000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:36.724000" end="0:22:37.857000" persName="Informant 0373">
 bist	sein	AUX	-	0:22:36.724000	0:22:37.457000
 du	du	PRON	-	0:22:37.457000	0:22:37.857000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:37.857000" end="0:22:39.111000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:37.857000" end="0:22:39.111000" persName="Informant 0371">
 niemals	niemals	ADV	-	0:22:37.857000	0:22:39.111000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:37.857000" end="0:22:39.111000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:37.857000" end="0:22:39.111000" persName="Informant 0373">
 deppert	deppert	VERB	-	0:22:37.857000	0:22:39.111000
 .	-	-	-	0:22:37.857000	0:22:39.111000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:39.111000" end="0:22:39.544000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:39.111000" end="0:22:39.544000" persName="Informant 0371">
 täte	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL- tunK	0:22:39.111000	0:22:39.544000
 ich	ich	PRON	-	0:22:39.111000	0:22:39.544000
 mir	sich	PRON	-	0:22:39.111000	0:22:39.544000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:39.111000" end="0:22:39.544000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:39.111000" end="0:22:39.544000" persName="Informant 0373">
 nein	nein	PART	-	0:22:39.111000	0:22:39.544000
 .	-	-	-	0:22:39.111000	0:22:39.544000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:39.544000" end="0:22:43.044000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:39.544000" end="0:22:43.044000" persName="Informant 0371">
 das	der	PRON	-	0:22:39.544000	0:22:40.291000
 antun	antun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL- tunK	0:22:39.544000	0:22:40.291000
 ,	-	-	-	0:22:39.544000	0:22:40.291000
@@ -6635,11 +6636,11 @@ oder	oder	CCONJ	-	0:22:42.291000	0:22:43.044000
 irgendwas	irgendwas	PRON	-	0:22:42.291000	0:22:43.044000
 .	-	-	-	0:22:42.291000	0:22:43.044000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:42.291000" end="0:22:43.044000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:42.291000" end="0:22:43.044000" persName="Informant 0373">
 nein	nein	PART	-	0:22:42.291000	0:22:43.044000
 .	-	-	-	0:22:42.291000	0:22:43.044000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:43.044000" end="0:22:50.237000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:43.044000" end="0:22:50.237000" persName="Informant 0371">
 <pause duration="1,7s"/>
 weil	weil	SCONJ	-	0:22:43.044000	0:22:47.324000
 da	da	ADV	-	0:22:43.044000	0:22:47.324000
@@ -6662,7 +6663,7 @@ mehr	mehr	PRON	-	0:22:48.551000	0:22:50.237000
 gebraucht	gebrauchen	VERB	-	0:22:48.551000	0:22:50.237000
 .	-	-	-	0:22:48.551000	0:22:50.237000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:50.237000" end="0:22:56.651000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:50.237000" end="0:22:56.651000" persName="Informant 0373">
 *kannst*	-	-	-	0:22:50.237000	0:22:51.011000
 dir	-	-	-	0:22:50.237000	0:22:51.011000
 sicher/	-	-	-	0:22:50.237000	0:22:51.011000
@@ -6692,15 +6693,15 @@ das	der	PRON	-	0:22:55.704000	0:22:56.651000
 um	um	ADP	-	0:22:55.704000	0:22:56.651000
 ."	-	-	-	0:22:55.704000	0:22:56.651000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:56.651000" end="0:22:57.244000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:56.651000" end="0:22:57.244000" persName="Informant 0371">
 so	so	ADV	-	0:22:56.651000	0:22:57.244000
 ist	sein	AUX	-	0:22:56.651000	0:22:57.244000
 es	ich	PRON	-	0:22:56.651000	0:22:57.244000
 .	-	-	-	0:22:56.651000	0:22:57.244000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:57.244000" end="0:22:57.991000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:22:57.244000" end="0:22:57.991000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:57.991000" end="0:23:01.057000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:22:57.991000" end="0:23:01.057000" persName="Informant 0371">
 nein	nein	PART	-	0:22:57.991000	0:22:58.524000
 .	-	-	-	0:22:57.991000	0:22:58.524000
 <pause duration="1,4s"/>
@@ -6710,7 +6711,7 @@ und	und	CCONJ	-	0:22:58.524000	0:23:01.057000
 fertig	fertigen	ADJ	-	0:22:58.524000	0:23:01.057000
 .	-	-	-	0:22:58.524000	0:23:01.057000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:01.057000" end="0:23:09.897000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:01.057000" end="0:23:09.897000" persName="Informant 0373">
 ja	ja	PART	-	0:23:01.057000	0:23:01.364000
 .	-	-	-	0:23:01.057000	0:23:01.364000
 <pause duration="1,2s"/>
@@ -6743,7 +6744,7 @@ wert	wert	ADJ	-	0:23:07.344000	0:23:09.897000
 ist	sein	AUX	-	0:23:07.344000	0:23:09.897000
 .	-	-	-	0:23:07.344000	0:23:09.897000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:09.897000" end="0:23:10.791000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:09.897000" end="0:23:10.791000" persName="Informant 0371">
 die	der	DET	-	0:23:09.897000	0:23:10.791000
 Bank	Bank	NOUN	-	0:23:09.897000	0:23:10.791000
 hat	haben	AUX	-	0:23:09.897000	0:23:10.791000
@@ -6752,7 +6753,7 @@ das	der	DET	-	0:23:09.897000	0:23:10.791000
 Geld	Geld	NOUN	-	0:23:09.897000	0:23:10.791000
 .	-	-	-	0:23:09.897000	0:23:10.791000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:10.791000" end="0:23:12.937000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:10.791000" end="0:23:12.937000" persName="Informant 0373">
 so	so	ADV	-	0:23:10.791000	0:23:11.211000
 ist	sein	AUX	-	0:23:10.791000	0:23:11.211000
 es	ich	PRON	-	0:23:10.791000	0:23:11.211000
@@ -6767,7 +6768,7 @@ länger	-	-	-	0:23:11.211000	0:23:12.937000
 einzahlst	-	-	-	0:23:11.211000	0:23:12.937000
 .	-	-	-	0:23:11.211000	0:23:12.937000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:12.937000" end="0:23:15.244000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:12.937000" end="0:23:15.244000" persName="Informant 0371">
 mein	meinen	DET	-	0:23:12.937000	0:23:14.104000
 Gott	Gott	NOUN	-	0:23:12.937000	0:23:14.104000
 ,	-	-	-	0:23:12.937000	0:23:14.104000
@@ -6777,7 +6778,7 @@ komplett	-	-	-	0:23:14.104000	0:23:15.244000
 _wurscht_	-	-	-	0:23:14.104000	0:23:15.244000
 .	-	-	-	0:23:14.104000	0:23:15.244000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:15.244000" end="0:23:17.477000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:15.244000" end="0:23:17.477000" persName="Informant 0373">
 ist/	-	-	-	0:23:15.244000	0:23:17.477000
 .	-	-	-	0:23:15.244000	0:23:17.477000
 auf	auf	ADP	-	0:23:15.244000	0:23:17.477000
@@ -6790,21 +6791,21 @@ darauf	darauf	ADV	-	0:23:15.244000	0:23:17.477000
 an	an	ADP	-	0:23:15.244000	0:23:17.477000
 .	-	-	-	0:23:15.244000	0:23:17.477000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:17.477000" end="0:23:19.437000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:17.477000" end="0:23:19.437000" persName="Informant 0371">
 nein	nein	PART	-	0:23:17.477000	0:23:19.437000
 ,	-	-	-	0:23:17.477000	0:23:19.437000
 überhaupt	überhaupt	ADV	-	0:23:17.477000	0:23:19.437000
 nicht	nicht	PART	-	0:23:17.477000	0:23:19.437000
 .	-	-	-	0:23:17.477000	0:23:19.437000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:19.437000" end="0:23:20.851000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:19.437000" end="0:23:20.851000" persName="Informant 0373">
 so	so	ADV	-	0:23:19.437000	0:23:20.851000
 lange	lang	ADV	-	0:23:19.437000	0:23:20.851000
 nichts	nichts	PRON	-	0:23:19.437000	0:23:20.851000
 ist	sein	AUX	-	0:23:19.437000	0:23:20.851000
 .	-	-	-	0:23:19.437000	0:23:20.851000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:20.851000" end="0:23:26.764000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:20.851000" end="0:23:26.764000" persName="Informant 0371">
 so	so	ADV	-	0:23:20.851000	0:23:21.471000
 ist	sein	AUX	-	0:23:20.851000	0:23:21.471000
 es	ich	PRON	-	0:23:20.851000	0:23:21.471000
@@ -6820,7 +6821,7 @@ was	was	PRON	-	0:23:25.651000	0:23:26.764000
 herunterarbeiten	herunterarbeiten	VERB	-	0:23:25.651000	0:23:26.764000
 ?	-	-	-	0:23:25.651000	0:23:26.764000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:26.764000" end="0:23:29.837000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:26.764000" end="0:23:29.837000" persName="Informant 0373">
 schauen	schauen	VERB	-	0:23:26.764000	0:23:27.797000
 wir	ich	PRON	-	0:23:26.764000	0:23:27.797000
 mal	mal	ADV	-	0:23:26.764000	0:23:27.797000
@@ -6830,13 +6831,13 @@ ja	ja	PART	-	0:23:26.764000	0:23:27.797000
 <pause duration="1,6s"/>
 Arbeit	Arbeit	NOUN	-	0:23:27.797000	0:23:29.837000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:29.837000" end="0:23:31.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:29.837000" end="0:23:31.257000" persName="Informant 0371">
 haben	haben	AUX	-	0:23:29.837000	0:23:31.257000
 wir	ich	PRON	-	0:23:29.837000	0:23:31.257000
 schon	schon	ADV	-	0:23:29.837000	0:23:31.257000
 .	-	-	-	0:23:29.837000	0:23:31.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:29.837000" end="0:23:34.937000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:29.837000" end="0:23:34.937000" persName="Informant 0373">
 haben	haben	AUX	-	0:23:29.837000	0:23:31.257000
 wir	ich	PRON	-	0:23:29.837000	0:23:31.257000
 jetzt	jetzt	ADV	-	0:23:29.837000	0:23:31.257000
@@ -6846,33 +6847,33 @@ geredet	reden	VERB	-	0:23:29.837000	0:23:31.257000
 Heimat	Heimat	NOUN	-	0:23:31.257000	0:23:34.937000
 .	-	-	-	0:23:31.257000	0:23:34.937000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:34.937000" end="0:23:38.504000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:34.937000" end="0:23:38.504000" persName="Informant 0371">
 <pause duration="2,7s"/>
 Lieblingsbuch	Lieblingsbuch	NOUN	-	0:23:34.937000	0:23:38.504000
 .	-	-	-	0:23:34.937000	0:23:38.504000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:38.504000" end="0:23:40.024000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:38.504000" end="0:23:40.024000" persName="Informant 0373">
 Wienerisch	Wienerisch	ADJ	-	0:23:38.504000	0:23:40.024000
 .	-	-	-	0:23:38.504000	0:23:40.024000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:40.024000" end="0:23:41.057000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:40.024000" end="0:23:41.057000" persName="Informant 0371">
 ähm	ähm	X	-	0:23:40.024000	0:23:41.057000
 die	der	DET	-	0:23:40.024000	0:23:41.057000
 Wiener	Wiener	NOUN	-	0:23:40.024000	0:23:41.057000
 ,	-	-	-	0:23:40.024000	0:23:41.057000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:40.024000" end="0:23:41.057000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:40.024000" end="0:23:41.057000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:41.057000" end="0:23:42.631000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:41.057000" end="0:23:42.631000" persName="Informant 0371">
 sei	sein	AUX	-	0:23:41.057000	0:23:42.631000
 mir	sich	PRON	-	0:23:41.057000	0:23:42.631000
 nicht	nicht	PART	-	0:23:41.057000	0:23:42.631000
 böse	böse	ADJ	-	0:23:41.057000	0:23:42.631000
 .	-	-	-	0:23:41.057000	0:23:42.631000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:41.057000" end="0:23:42.631000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:41.057000" end="0:23:42.631000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:42.631000" end="0:23:45.004000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:42.631000" end="0:23:45.004000" persName="Informant 0371">
 *willst*	-	-	-	0:23:42.631000	0:23:45.004000
 über	-	-	-	0:23:42.631000	0:23:45.004000
 die	-	-	-	0:23:42.631000	0:23:45.004000
@@ -6883,7 +6884,7 @@ oder	oder	CCONJ	-	0:23:42.631000	0:23:45.004000
 was	was	PRON	-	0:23:42.631000	0:23:45.004000
 ?	-	-	-	0:23:42.631000	0:23:45.004000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:45.004000" end="0:23:46.864000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:45.004000" end="0:23:46.864000" persName="Informant 0373">
 ich	ich	PRON	-	0:23:45.004000	0:23:46.111000
 weiß	weiß	VERB	-	0:23:45.004000	0:23:46.111000
 nicht	nicht	PART	-	0:23:45.004000	0:23:46.111000
@@ -6895,7 +6896,7 @@ nicht	nicht	PART	-	0:23:46.111000	0:23:46.864000
 in	in	ADP	-	0:23:46.111000	0:23:46.864000
 einen	ein	DET	-	0:23:46.111000	0:23:46.864000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:46.864000" end="0:23:49.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:46.864000" end="0:23:49.257000" persName="Informant 0371">
 ich	ich	PRON	-	0:23:46.864000	0:23:49.257000
 glaube	glauben	VERB	-	0:23:46.864000	0:23:49.257000
 auch	auch	ADV	-	0:23:46.864000	0:23:49.257000
@@ -6908,20 +6909,20 @@ wäre	sein	AUX	-	0:23:46.864000	0:23:49.257000
 vielleicht/	-	-	-	0:23:46.864000	0:23:49.257000
 .	-	-	-	0:23:46.864000	0:23:49.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:46.864000" end="0:23:49.257000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:46.864000" end="0:23:49.257000" persName="Informant 0373">
 Konflikt	Konflikt	NOUN	-	0:23:46.864000	0:23:49.257000
 kommen	kommen	VERB	-	0:23:46.864000	0:23:49.257000
 mit	mit	ADP	-	0:23:46.864000	0:23:49.257000
 wem	wer	PRON	-	0:23:46.864000	0:23:49.257000
 .	-	-	-	0:23:46.864000	0:23:49.257000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:49.257000" end="0:23:55.284000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:49.257000" end="0:23:55.284000" persName="Informant 0371">
 <pause duration="3,4s"/>
 Hochdeutsch	Hochdeutsch	ADJ	-	0:23:49.257000	0:23:53.491000
 .	-	-	-	0:23:49.257000	0:23:53.491000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:55.284000" end="0:23:59.431000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:23:55.284000" end="0:23:59.431000" persName="Informant 0373">
 Dialekt	Dialekt	NOUN	-	0:23:55.284000	0:23:59.431000
 im	im	ADP	-	0:23:55.284000	0:23:59.431000
 Nachbarort	Nachbarort	NOUN	-	0:23:55.284000	0:23:59.431000
@@ -6934,7 +6935,7 @@ vorher	vorher	ADV	-	0:23:55.284000	0:23:59.431000
 besprochen	besprechen	VERB	-	0:23:55.284000	0:23:59.431000
 .	-	-	-	0:23:55.284000	0:23:59.431000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:59.431000" end="0:24:02.571000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:23:59.431000" end="0:24:02.571000" persName="Informant 0371">
 das	der	DET	-	0:23:59.431000	0:24:01.731000
 im	im	ADP	-	0:23:59.431000	0:24:01.731000
 Kessel	Kessel	NOUN	-	0:23:59.431000	0:24:01.731000
@@ -6943,23 +6944,23 @@ Wahnsinns	Wahnsinn	NOUN	-	0:23:59.431000	0:24:01.731000
 andere	ander	ADJ	-	0:24:01.731000	0:24:02.571000
 Gesetze	Gesetz	NOUN	-	0:24:01.731000	0:24:02.571000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:01.731000" end="0:24:02.571000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:01.731000" end="0:24:02.571000" persName="Informant 0373">
 ja	ja	PART	-	0:24:01.731000	0:24:02.571000
 .	-	-	-	0:24:01.731000	0:24:02.571000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:02.571000" end="0:24:03.104000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:02.571000" end="0:24:03.104000" persName="Informant 0371">
 herrschen	herrschen	VERB	-	0:24:02.571000	0:24:03.104000
 .	-	-	-	0:24:02.571000	0:24:03.104000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:03.104000" end="0:24:03.977000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:03.104000" end="0:24:03.977000" persName="Informant 0373">
 eingebaut	einbauen	VERB	-	0:24:03.104000	0:24:03.977000
 .	-	-	-	0:24:03.104000	0:24:03.977000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:03.977000" end="0:24:08.711000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:03.977000" end="0:24:08.711000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:03.977000" end="0:24:08.711000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:03.977000" end="0:24:08.711000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:08.711000" end="0:24:14.324000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:08.711000" end="0:24:14.324000" persName="Informant 0371">
 Österreich	Österreich	PROPN	-	0:24:08.711000	0:24:11.197000
 in	in	ADP	-	0:24:08.711000	0:24:11.197000
 fünfzig	fünfzig	NUM	-	0:24:08.711000	0:24:11.197000
@@ -6976,7 +6977,7 @@ es	ich	PRON	-	0:24:11.197000	0:24:14.324000
 zweimal	zweimal	ADV	-	0:24:11.197000	0:24:14.324000
 .	-	-	-	0:24:11.197000	0:24:14.324000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:14.324000" end="0:24:22.904000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:14.324000" end="0:24:22.904000" persName="Informant 0373">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:24:14.324000	0:24:15.717000
 auch	auch	ADV	-	0:24:14.324000	0:24:15.717000
@@ -7006,7 +7007,7 @@ Hochdeutsch	Hochdeutsch	ADJ	-	0:24:20.624000	0:24:22.904000
 nein	nein	PART	-	0:24:20.624000	0:24:22.904000
 .	-	-	-	0:24:20.624000	0:24:22.904000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:22.904000" end="0:24:24.544000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:22.904000" end="0:24:24.544000" persName="Informant 0371">
 das	der	DET	-	0:24:22.904000	0:24:24.544000
 ähm	ähm	NOUN	-	0:24:22.904000	0:24:24.544000
 ist	sein	AUX	-	0:24:22.904000	0:24:24.544000
@@ -7014,7 +7015,7 @@ ein	einen	DET	-	0:24:22.904000	0:24:24.544000
 Widerspruch	Widerspruch	NOUN	-	0:24:22.904000	0:24:24.544000
 .	-	-	-	0:24:22.904000	0:24:24.544000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:24.544000" end="0:24:26.544000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:24.544000" end="0:24:26.544000" persName="Informant 0373">
 kein	kein	DET	-	0:24:24.544000	0:24:26.544000
 Dialekt	Dialekt	NOUN	-	0:24:24.544000	0:24:26.544000
 ,	-	-	-	0:24:24.544000	0:24:26.544000
@@ -7026,7 +7027,7 @@ schade	schaden	ADJ	-	0:24:24.544000	0:24:26.544000
 hm	hm	X	-	0:24:24.544000	0:24:26.544000
 ?	-	-	-	0:24:24.544000	0:24:26.544000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:26.544000" end="0:24:30.897000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:26.544000" end="0:24:30.897000" persName="Informant 0371">
 ja	ja	PART	-	0:24:26.544000	0:24:28.764000
 aber	aber	ADV	-	0:24:26.544000	0:24:28.764000
 schaue	schauen	VERB	-	0:24:26.544000	0:24:28.764000
@@ -7040,17 +7041,17 @@ und	und	CCONJ	-	0:24:28.764000	0:24:30.897000
 alles	alle	PRON	-	0:24:28.764000	0:24:30.897000
 .	-	-	-	0:24:28.764000	0:24:30.897000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:30.897000" end="0:24:31.197000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:30.897000" end="0:24:31.197000" persName="Informant 0373">
 ja	ja	ADV	-	0:24:30.897000	0:24:31.197000
 es	ich	PRON	-	0:24:30.897000	0:24:31.197000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:31.197000" end="0:24:32.117000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:31.197000" end="0:24:32.117000" persName="Informant 0371">
 von	von	ADP	-	0:24:31.197000	0:24:32.117000
 die	der	PRON	-	0:24:31.197000	0:24:32.117000
 Leute/	-	-	-	0:24:31.197000	0:24:32.117000
 .	-	-	-	0:24:31.197000	0:24:32.117000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:31.197000" end="0:24:35.737000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:31.197000" end="0:24:35.737000" persName="Informant 0373">
 läuft	laufen	VERB	-	0:24:31.197000	0:24:32.117000
 auf	auf	ADP	-	0:24:31.197000	0:24:32.117000
 das	der	PRON	-	0:24:31.197000	0:24:32.117000
@@ -7071,7 +7072,7 @@ halt	halt	ADV	-	0:24:33.897000	0:24:35.024000
 so	so	ADV	-	0:24:35.024000	0:24:35.737000
 Hochdeutsch	Hochdeutsch	PROPN	-	0:24:35.024000	0:24:35.737000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:35.737000" end="0:24:36.837000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:35.737000" end="0:24:36.837000" persName="Informant 0371">
 ja	ja	ADV	-	0:24:35.737000	0:24:36.837000
 aber	aber	CCONJ	-	0:24:35.737000	0:24:36.837000
 ich	ich	PRON	-	0:24:35.737000	0:24:36.837000
@@ -7080,7 +7081,7 @@ es	ich	PRON	-	0:24:35.737000	0:24:36.837000
 nicht	nicht	PART	-	0:24:35.737000	0:24:36.837000
 .	-	-	-	0:24:35.737000	0:24:36.837000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:35.737000" end="0:24:37.684000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:35.737000" end="0:24:37.684000" persName="Informant 0373">
 zum	zum	ADP	-	0:24:35.737000	0:24:36.837000
 Reden	Rede	NOUN	-	0:24:35.737000	0:24:36.837000
 mit	mit	ADP	-	0:24:35.737000	0:24:36.837000
@@ -7090,7 +7091,7 @@ auch	auch	ADV	-	0:24:36.837000	0:24:37.684000
 nicht	nicht	PART	-	0:24:36.837000	0:24:37.684000
 .	-	-	-	0:24:36.837000	0:24:37.684000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:37.684000" end="0:24:40.337000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:37.684000" end="0:24:40.337000" persName="Informant 0371">
 niemals	niemals	ADV	-	0:24:37.684000	0:24:40.337000
 täte	tun	VERB	-	0:24:37.684000	0:24:40.337000
 ich	ich	PRON	-	0:24:37.684000	0:24:40.337000
@@ -7102,7 +7103,7 @@ täte	tun	VERB	-	0:24:37.684000	0:24:40.337000
 ich	ich	PRON	-	0:24:37.684000	0:24:40.337000
 mein	meinen	DET	-	0:24:37.684000	0:24:40.337000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:37.684000" end="0:24:40.337000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:37.684000" end="0:24:40.337000" persName="Informant 0373">
 das	der	PRON	-	0:24:37.684000	0:24:40.337000
 ist	sein	AUX	-	0:24:37.684000	0:24:40.337000
 das	der	DET	-	0:24:37.684000	0:24:40.337000
@@ -7114,12 +7115,12 @@ tun	tun	VERB	-	0:24:37.684000	0:24:40.337000
 täte	tun	VERB	-	0:24:37.684000	0:24:40.337000
 .	-	-	-	0:24:37.684000	0:24:40.337000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:40.337000" end="0:24:41.691000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:40.337000" end="0:24:41.691000" persName="Informant 0371">
 Kind	Kind	NOUN	-	0:24:40.337000	0:24:40.664000
 Hochdeutsch/	-	-	-	0:24:40.664000	0:24:41.691000
 .	-	-	-	0:24:40.664000	0:24:41.691000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:40.664000" end="0:24:43.804000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:40.664000" end="0:24:43.804000" persName="Informant 0373">
 nein	nein	PART	-	0:24:40.664000	0:24:41.691000
 .	-	-	-	0:24:40.664000	0:24:41.691000
 wenn	wenn	SCONJ	-	0:24:41.691000	0:24:42.677000
@@ -7132,17 +7133,17 @@ darfst	dürfen	X	-	0:24:42.677000	0:24:43.804000
 du	du	PRON	-	0:24:42.677000	0:24:43.804000
 nicht"	nicht	PART	-	0:24:42.677000	0:24:43.804000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:43.804000" end="0:24:44.371000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:43.804000" end="0:24:44.371000" persName="Informant 0371">
 ja	ja	ADV	-	0:24:43.804000	0:24:44.371000
 genau	genau	ADJ	-	0:24:43.804000	0:24:44.371000
 .	-	-	-	0:24:43.804000	0:24:44.371000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:43.804000" end="0:24:44.371000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:43.804000" end="0:24:44.371000" persName="Informant 0373">
 und	und	CCONJ	-	0:24:43.804000	0:24:44.371000
 so	so	ADV	-	0:24:43.804000	0:24:44.371000
 .	-	-	-	0:24:43.804000	0:24:44.371000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:44.371000" end="0:24:46.777000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:44.371000" end="0:24:46.777000" persName="Informant 0371">
 zuerst	zuerst	ADV	-	0:24:44.371000	0:24:45.404000
 reden	reden	VERB	-	0:24:44.371000	0:24:45.404000
 sie	ich	PRON	-	0:24:44.371000	0:24:45.404000
@@ -7160,7 +7161,7 @@ oder	oder	CCONJ	-	0:24:45.404000	0:24:46.777000
 so	so	ADV	-	0:24:45.404000	0:24:46.777000
 ,	-	-	-	0:24:45.404000	0:24:46.777000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:45.404000" end="0:24:47.644000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:45.404000" end="0:24:47.644000" persName="Informant 0373">
 ja	ja	PART	-	0:24:45.404000	0:24:46.777000
 ,	-	-	-	0:24:45.404000	0:24:46.777000
 und	und	CCONJ	-	0:24:45.404000	0:24:46.777000
@@ -7171,9 +7172,9 @@ nein	nein	PART	-	0:24:46.777000	0:24:47.644000
 hör	hör	AUX	-	0:24:46.777000	0:24:47.644000
 auf"	auf	ADP	-	0:24:46.777000	0:24:47.644000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:47.644000" end="0:24:48.984000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:47.644000" end="0:24:48.984000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:47.644000" end="0:24:48.984000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:47.644000" end="0:24:48.984000" persName="Informant 0373">
 und	und	CCONJ	-	0:24:47.644000	0:24:48.984000
 nur	nur	ADV	-	0:24:47.644000	0:24:48.984000
 so	so	ADV	-	0:24:47.644000	0:24:48.984000
@@ -7181,20 +7182,20 @@ einen	ein	DET	-	0:24:47.644000	0:24:48.984000
 Scheiß	Scheiß	NOUN	-	0:24:47.644000	0:24:48.984000
 .	-	-	-	0:24:47.644000	0:24:48.984000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:48.984000" end="0:24:49.437000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:48.984000" end="0:24:49.437000" persName="Informant 0371">
 ja	ja	PART	-	0:24:48.984000	0:24:49.437000
 .	-	-	-	0:24:48.984000	0:24:49.437000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:48.984000" end="0:24:49.437000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:48.984000" end="0:24:49.437000" persName="Informant 0373">
 ich	ich	PRON	-	0:24:48.984000	0:24:49.437000
 meine/	-	-	-	0:24:48.984000	0:24:49.437000
 .	-	-	-	0:24:48.984000	0:24:49.437000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:49.437000" end="0:24:49.844000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:49.437000" end="0:24:49.844000" persName="Informant 0371">
 nein	nein	PART	-	0:24:49.437000	0:24:49.844000
 .	-	-	-	0:24:49.437000	0:24:49.844000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:49.844000" end="0:24:53.277000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:49.844000" end="0:24:53.277000" persName="Informant 0373">
 <pause duration="1,4s"/>
 wo	wo	ADV	-	0:24:49.844000	0:24:53.277000
 sind	sein	AUX	-	0:24:49.844000	0:24:53.277000
@@ -7204,7 +7205,7 @@ denn	denn	ADV	-	0:24:49.844000	0:24:53.277000
 echt	echt	ADJ	-	0:24:49.844000	0:24:53.277000
 .	-	-	-	0:24:49.844000	0:24:53.277000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:53.277000" end="0:24:58.191000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:53.277000" end="0:24:58.191000" persName="Informant 0371">
 ja	ja	PART	-	0:24:53.277000	0:24:56.751000
 ,	-	-	-	0:24:53.277000	0:24:56.751000
 und	und	CCONJ	-	0:24:53.277000	0:24:56.751000
@@ -7226,7 +7227,7 @@ der	-	-	-	0:24:56.751000	0:24:58.191000
 Schule	-	-	-	0:24:56.751000	0:24:58.191000
 ,	-	-	-	0:24:56.751000	0:24:58.191000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:56.751000" end="0:24:58.191000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:56.751000" end="0:24:58.191000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:24:56.751000	0:24:58.191000
 das	der	PRON	-	0:24:56.751000	0:24:58.191000
 lernen	lernen	VERB	-	0:24:56.751000	0:24:58.191000
@@ -7234,14 +7235,14 @@ sie	ich	PRON	-	0:24:56.751000	0:24:58.191000
 eh	eh	ADV	-	0:24:56.751000	0:24:58.191000
 .	-	-	-	0:24:56.751000	0:24:58.191000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:58.191000" end="0:24:59.424000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:24:58.191000" end="0:24:59.424000" persName="Informant 0371">
 das	-	-	-	0:24:58.191000	0:24:58.537000
 das	-	-	-	0:24:58.537000	0:24:59.424000
 *musst*	-	-	-	0:24:58.537000	0:24:59.424000
 eh	-	-	-	0:24:58.537000	0:24:59.424000
 .	-	-	-	0:24:58.537000	0:24:59.424000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:58.537000" end="0:25:02.211000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:24:58.537000" end="0:25:02.211000" persName="Informant 0373">
 das/	-	-	-	0:24:58.537000	0:24:59.424000
 .	-	-	-	0:24:58.537000	0:24:59.424000
 so	-	-	-	0:24:59.424000	0:25:02.211000
@@ -7254,15 +7255,15 @@ der	-	-	-	0:24:59.424000	0:25:02.211000
 Kindheit	-	-	-	0:24:59.424000	0:25:02.211000
 schon	-	-	-	0:24:59.424000	0:25:02.211000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:02.211000" end="0:25:03.297000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:02.211000" end="0:25:03.297000" persName="Informant 0371">
 nein	nein	PART	-	0:25:02.211000	0:25:03.297000
 .	-	-	-	0:25:02.211000	0:25:03.297000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:02.211000" end="0:25:03.297000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:02.211000" end="0:25:03.297000" persName="Informant 0373">
 lernen	-	-	-	0:25:02.211000	0:25:03.297000
 .	-	-	-	0:25:02.211000	0:25:03.297000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:03.297000" end="0:25:09.431000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:03.297000" end="0:25:09.431000" persName="Informant 0371">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:25:03.297000	0:25:05.217000
 und	und	CCONJ	-	0:25:03.297000	0:25:05.217000
@@ -7285,23 +7286,23 @@ mehr	-	-	-	0:25:08.204000	0:25:09.431000
 zurück	-	-	-	0:25:08.204000	0:25:09.431000
 .	-	-	-	0:25:08.204000	0:25:09.431000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:09.431000" end="0:25:10.004000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:09.431000" end="0:25:10.004000" persName="Informant 0373">
 so	so	ADV	-	0:25:09.431000	0:25:10.004000
 ist	sein	AUX	-	0:25:09.431000	0:25:10.004000
 es	ich	PRON	-	0:25:09.431000	0:25:10.004000
 .	-	-	-	0:25:09.431000	0:25:10.004000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:10.004000" end="0:25:10.397000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:10.004000" end="0:25:10.397000" persName="Informant 0371">
 einen/	-	-	-	0:25:10.004000	0:25:10.397000
 .	-	-	-	0:25:10.004000	0:25:10.397000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:10.004000" end="0:25:10.931000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:10.004000" end="0:25:10.931000" persName="Informant 0373">
 das	der	PRON	-	0:25:10.004000	0:25:10.397000
 geht	gehen	VERB	-	0:25:10.397000	0:25:10.931000
 verloren	verlieren	VERB	-	0:25:10.397000	0:25:10.931000
 .	-	-	-	0:25:10.397000	0:25:10.931000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:10.931000" end="0:25:18.764000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:10.931000" end="0:25:18.764000" persName="Informant 0371">
 *wennst*	-	-	-	0:25:10.931000	0:25:11.884000
 sagst	-	-	-	0:25:10.931000	0:25:11.884000
 ähm	-	-	-	0:25:11.884000	0:25:13.071000
@@ -7334,17 +7335,17 @@ Dialekt	Dialekt	NOUN	-	0:25:17.417000	0:25:18.764000
 zurückholen	zurückholen	VERB	-	0:25:17.417000	0:25:18.764000
 .	-	-	-	0:25:17.417000	0:25:18.764000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:18.764000" end="0:25:19.157000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:18.764000" end="0:25:19.157000" persName="Informant 0373">
 nein	nein	PART	-	0:25:18.764000	0:25:19.157000
 .	-	-	-	0:25:18.764000	0:25:19.157000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:19.157000" end="0:25:20.124000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:19.157000" end="0:25:20.124000" persName="Informant 0371">
 das	-	-	-	0:25:19.157000	0:25:20.124000
 *schaffst*	-	-	-	0:25:19.157000	0:25:20.124000
 nicht	-	-	-	0:25:19.157000	0:25:20.124000
 .	-	-	-	0:25:19.157000	0:25:20.124000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:19.157000" end="0:25:23.684000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:19.157000" end="0:25:23.684000" persName="Informant 0373">
 schau	schau	PROPN	-	0:25:19.157000	0:25:20.124000
 ,	-	-	-	0:25:19.157000	0:25:20.124000
 wie	wie	ADV	-	0:25:19.157000	0:25:20.124000
@@ -7366,29 +7367,29 @@ wegen	wegen	ADP	-	0:25:21.524000	0:25:23.684000
 irgendwelche	irgendwelche	NOUN	-	0:25:21.524000	0:25:23.684000
 .	-	-	-	0:25:21.524000	0:25:23.684000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:23.684000" end="0:25:24.790000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:23.684000" end="0:25:24.790000" persName="Informant 0371">
 (klar	klaren	ADJ	-	0:25:23.684000	0:25:24.790000
 .)	-	-	-	0:25:23.684000	0:25:24.790000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:23.684000" end="0:25:25.597000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:23.684000" end="0:25:25.597000" persName="Informant 0373">
 wenn	wenn	SCONJ	-	0:25:23.684000	0:25:24.790000
 sie	ich	PRON	-	0:25:23.684000	0:25:24.790000
 so	so	ADV	-	0:25:23.684000	0:25:24.790000
 richtig	richtig	ADJ	-	0:25:23.684000	0:25:24.790000
 (Stein)steirisch	Steinsteirisch	NOUN	-	0:25:24.790000	0:25:25.597000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:25.597000" end="0:25:26.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:25.597000" end="0:25:26.257000" persName="Informant 0371">
 geil	geil	NOUN	-	0:25:25.597000	0:25:26.257000
 .	-	-	-	0:25:25.597000	0:25:26.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:25.597000" end="0:25:26.257000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:25.597000" end="0:25:26.257000" persName="Informant 0373">
 kommen	kommen	VERB	-	0:25:25.597000	0:25:26.257000
 .	-	-	-	0:25:25.597000	0:25:26.257000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:26.257000" end="0:25:27.177000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:26.257000" end="0:25:27.177000" persName="Informant 0371">
 .	-	-	-	0:25:26.257000	0:25:27.177000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:27.177000" end="0:25:28.617000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:27.177000" end="0:25:28.617000" persName="Informant 0373">
 wo	wo	ADV	-	0:25:27.177000	0:25:28.617000
 ich	ich	PRON	-	0:25:27.177000	0:25:28.617000
 mir	sich	PRON	-	0:25:27.177000	0:25:28.617000
@@ -7397,13 +7398,13 @@ denke	denken	ADJ	-	0:25:27.177000	0:25:28.617000
 "Alter	alt	NOUN	-	0:25:27.177000	0:25:28.617000
 ,	-	-	-	0:25:27.177000	0:25:28.617000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:28.617000" end="0:25:28.997000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:28.617000" end="0:25:28.997000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:28.997000" end="0:25:30.997000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:28.997000" end="0:25:30.997000" persName="Informant 0373">
 lässig	lässig	ADJ	-	0:25:28.997000	0:25:30.997000
 ."	-	-	-	0:25:28.997000	0:25:30.997000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:30.997000" end="0:25:34.997000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:30.997000" end="0:25:34.997000" persName="Informant 0371">
 <pause duration="2,0s"/>
 nein	nein	PART	-	0:25:30.997000	0:25:34.104000
 es	ich	PRON	-	0:25:30.997000	0:25:34.104000
@@ -7416,14 +7417,14 @@ der	der	DET	-	0:25:34.104000	0:25:34.997000
 Firma	Firma	NOUN	-	0:25:34.104000	0:25:34.997000
 ,	-	-	-	0:25:34.104000	0:25:34.997000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:34.104000" end="0:25:34.997000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:34.104000" end="0:25:34.997000" persName="Informant 0373">
 ähm	ähm	PROPN	-	0:25:34.104000	0:25:34.997000
 .	-	-	-	0:25:34.104000	0:25:34.997000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:34.997000" end="0:25:39.910000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:34.997000" end="0:25:39.910000" persName="Informant 0371">
 der	der	DET	-	0:25:34.997000	0:25:38.677000
 <pause duration="0,9s"/>
-[David]N	David	PROPN	-	0:25:34.997000	0:25:38.677000
+NAME	NAME	PROPN	-	0:25:34.997000	0:25:38.677000
 ,	-	-	-	0:25:34.997000	0:25:38.677000
 mein	meinen	DET	-	0:25:34.997000	0:25:38.677000
 Arbeitskollege	Arbeitskollege	NOUN	-	0:25:34.997000	0:25:38.677000
@@ -7440,11 +7441,11 @@ ein	einen	DET	-	0:25:38.677000	0:25:39.910000
 Kärntner	Kärntner	NOUN	-	0:25:38.677000	0:25:39.910000
 ,	-	-	-	0:25:38.677000	0:25:39.910000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:39.910000" end="0:25:40.264000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:39.910000" end="0:25:40.264000" persName="Informant 0373">
 ja	ja	PART	-	0:25:39.910000	0:25:40.264000
 .	-	-	-	0:25:39.910000	0:25:40.264000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:40.264000" end="0:25:44.304000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:40.264000" end="0:25:44.304000" persName="Informant 0371">
 wir	ich	PRON	-	0:25:40.264000	0:25:41.317000
 Steirer	Steirer	NOUN	-	0:25:40.264000	0:25:41.317000
 ,	-	-	-	0:25:40.264000	0:25:41.317000
@@ -7462,7 +7463,7 @@ Wörter	Wort	NOUN	-	0:25:43.257000	0:25:44.304000
 zusammen	zusammen	ADP	-	0:25:43.257000	0:25:44.304000
 .	-	-	-	0:25:43.257000	0:25:44.304000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:43.257000" end="0:25:44.990000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:43.257000" end="0:25:44.990000" persName="Informant 0373">
 da	da	ADV	-	0:25:43.257000	0:25:44.304000
 kommt	kommen	VERB	-	0:25:43.257000	0:25:44.304000
 alles	alle	PRON	-	0:25:43.257000	0:25:44.304000
@@ -7471,7 +7472,7 @@ zusammen	zusammen	ADP	-	0:25:43.257000	0:25:44.304000
 ja	ja	PART	-	0:25:44.304000	0:25:44.990000
 .	-	-	-	0:25:44.304000	0:25:44.990000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:44.990000" end="0:25:47.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:44.990000" end="0:25:47.257000" persName="Informant 0371">
 da	-	-	-	0:25:44.990000	0:25:46.077000
 *musst*	-	-	-	0:25:44.990000	0:25:46.077000
 einmal	-	-	-	0:25:44.990000	0:25:46.077000
@@ -7483,30 +7484,30 @@ richtigen	-	-	-	0:25:46.077000	0:25:47.257000
 redest	-	-	-	0:25:46.077000	0:25:47.257000
 .	-	-	-	0:25:46.077000	0:25:47.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:47.257000" end="0:25:47.717000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:47.257000" end="0:25:47.717000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:47.717000" end="0:25:49.470000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:47.717000" end="0:25:49.470000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:25:47.717000	0:25:49.470000
 der	der	PRON	-	0:25:47.717000	0:25:49.470000
 Oberösterreicher/	-	-	-	0:25:47.717000	0:25:49.470000
 .	-	-	-	0:25:47.717000	0:25:49.470000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:47.717000" end="0:25:49.470000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:47.717000" end="0:25:49.470000" persName="Informant 0373">
 dass	dass	SCONJ	-	0:25:47.717000	0:25:49.470000
 sich	sich	PRON	-	0:25:47.717000	0:25:49.470000
 alle	all	PRON	-	0:25:47.717000	0:25:49.470000
 verstehen	verstehen	VERB	-	0:25:47.717000	0:25:49.470000
 ,	-	-	-	0:25:47.717000	0:25:49.470000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:49.470000" end="0:25:50.317000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:49.470000" end="0:25:50.317000" persName="Informant 0371">
 der	der	DET	-	0:25:49.470000	0:25:50.317000
 Oberösterreicher	Oberösterreicher	NOUN	-	0:25:49.470000	0:25:50.317000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:49.470000" end="0:25:50.317000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:49.470000" end="0:25:50.317000" persName="Informant 0373">
 gell	gell	ADJ	-	0:25:49.470000	0:25:50.317000
 ?	-	-	-	0:25:49.470000	0:25:50.317000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:50.317000" end="0:25:52.204000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:50.317000" end="0:25:52.204000" persName="Informant 0371">
 redet	reden	VERB	-	0:25:50.317000	0:25:51.070000
 vom	vom	ADP	-	0:25:50.317000	0:25:51.070000
 Weizen	Weizen	NOUN	-	0:25:50.317000	0:25:51.070000
@@ -7518,31 +7519,31 @@ den	der	DET	-	0:25:51.070000	0:25:52.204000
 Mais	Mai	NOUN	-	0:25:51.070000	0:25:52.204000
 .	-	-	-	0:25:51.070000	0:25:52.204000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:52.204000" end="0:25:52.790000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:52.204000" end="0:25:52.790000" persName="Informant 0373">
 nein	nein	PART	-	0:25:52.204000	0:25:52.790000
 ,	-	-	-	0:25:52.204000	0:25:52.790000
 der	der	PRON	-	0:25:52.204000	0:25:52.790000
 meint	meinen	VERB	-	0:25:52.204000	0:25:52.790000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:52.790000" end="0:25:53.930000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:52.790000" end="0:25:53.930000" persName="Informant 0371">
 der	der	PRON	-	0:25:52.790000	0:25:53.930000
 meint	meinen	VERB	-	0:25:52.790000	0:25:53.930000
 den	der	DET	-	0:25:52.790000	0:25:53.930000
 Weizen	Weizen	NOUN	-	0:25:52.790000	0:25:53.930000
 ,	-	-	-	0:25:52.790000	0:25:53.930000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:52.790000" end="0:25:53.930000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:52.790000" end="0:25:53.930000" persName="Informant 0373">
 den	der	DET	-	0:25:52.790000	0:25:53.930000
 Weizen	Weizen	NOUN	-	0:25:52.790000	0:25:53.930000
 .	-	-	-	0:25:52.790000	0:25:53.930000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:53.930000" end="0:25:54.604000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:53.930000" end="0:25:54.604000" persName="Informant 0371">
 richtig	richtig	ADJ	-	0:25:53.930000	0:25:54.604000
 .	-	-	-	0:25:53.930000	0:25:54.604000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:53.930000" end="0:25:54.604000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:53.930000" end="0:25:54.604000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:54.604000" end="0:25:56.564000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:54.604000" end="0:25:56.564000" persName="Informant 0371">
 *bist*	-	-	-	0:25:54.604000	0:25:56.564000
 das	-	-	-	0:25:54.604000	0:25:56.564000
 einmal	-	-	-	0:25:54.604000	0:25:56.564000
@@ -7550,20 +7551,20 @@ heraußen	-	-	-	0:25:54.604000	0:25:56.564000
 hast	-	-	-	0:25:54.604000	0:25:56.564000
 .	-	-	-	0:25:54.604000	0:25:56.564000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:54.604000" end="0:25:56.564000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:54.604000" end="0:25:56.564000" persName="Informant 0373">
 das/	-	-	-	0:25:54.604000	0:25:56.564000
 .	-	-	-	0:25:54.604000	0:25:56.564000
 ja	ja	PART	-	0:25:54.604000	0:25:56.564000
 .	-	-	-	0:25:54.604000	0:25:56.564000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:56.564000" end="0:25:57.730000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:56.564000" end="0:25:57.730000" persName="Informant 0371">
 weil	-	-	-	0:25:56.564000	0:25:57.730000
 da	-	-	-	0:25:56.564000	0:25:57.730000
 *denkst*	-	-	-	0:25:56.564000	0:25:57.730000
 dir	-	-	-	0:25:56.564000	0:25:57.730000
 mal	-	-	-	0:25:56.564000	0:25:57.730000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:56.564000" end="0:25:58.397000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:56.564000" end="0:25:58.397000" persName="Informant 0373">
 weil	-	-	-	0:25:56.564000	0:25:57.730000
 da	-	-	-	0:25:56.564000	0:25:57.730000
 *denkst*	-	-	-	0:25:56.564000	0:25:57.730000
@@ -7572,7 +7573,7 @@ dir	-	-	-	0:25:56.564000	0:25:57.730000
 was	-	-	-	0:25:57.730000	0:25:58.397000
 ?"	-	-	-	0:25:57.730000	0:25:58.397000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:58.397000" end="0:26:00.790000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:25:58.397000" end="0:26:00.790000" persName="Informant 0371">
 "hm	-	-	-	0:25:58.397000	0:25:59.017000
 ,	-	-	-	0:25:58.397000	0:25:59.017000
 okay	okay	NOUN	-	0:25:59.017000	0:26:00.790000
@@ -7584,9 +7585,9 @@ nie	nie	ADV	-	0:25:59.017000	0:26:00.790000
 gehört	hören	VERB	-	0:25:59.017000	0:26:00.790000
 ,	-	-	-	0:25:59.017000	0:26:00.790000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:59.017000" end="0:26:00.790000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:25:59.017000" end="0:26:00.790000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:00.790000" end="0:26:02.590000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:00.790000" end="0:26:02.590000" persName="Informant 0371">
 *dasst*	-	-	-	0:26:00.790000	0:26:02.590000
 das	-	-	-	0:26:00.790000	0:26:02.590000
 so	-	-	-	0:26:00.790000	0:26:02.590000
@@ -7596,18 +7597,18 @@ aber	aber	CCONJ	-	0:26:00.790000	0:26:02.590000
 okay	okay	VERB	-	0:26:00.790000	0:26:02.590000
 ."	-	-	-	0:26:00.790000	0:26:02.590000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:00.790000" end="0:26:02.590000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:00.790000" end="0:26:02.590000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:02.590000" end="0:26:03.050000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:02.590000" end="0:26:03.050000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:02.590000" end="0:26:03.050000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:02.590000" end="0:26:03.050000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:03.050000" end="0:26:03.650000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:03.050000" end="0:26:03.650000" persName="Informant 0371">
 also	also	ADV	-	0:26:03.050000	0:26:03.650000
 halt/	-	-	-	0:26:03.050000	0:26:03.650000
 .	-	-	-	0:26:03.050000	0:26:03.650000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:03.650000" end="0:26:05.977000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:03.650000" end="0:26:05.977000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:26:03.650000	0:26:04.857000
 "gehen	gehen	VERB	-	0:26:03.650000	0:26:04.857000
 wir	ich	PRON	-	0:26:03.650000	0:26:04.857000
@@ -7622,11 +7623,11 @@ auch	auch	ADV	-	0:26:04.857000	0:26:05.977000
 anschauen	anschauen	VERB	-	0:26:04.857000	0:26:05.977000
 .	-	-	-	0:26:04.857000	0:26:05.977000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:05.977000" end="0:26:08.030000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:05.977000" end="0:26:08.030000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:05.977000" end="0:26:08.030000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:05.977000" end="0:26:08.030000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:08.030000" end="0:26:10.537000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:08.030000" end="0:26:10.537000" persName="Informant 0371">
 kommt	-	-	-	0:26:08.030000	0:26:08.984000
 er	-	-	-	0:26:08.030000	0:26:08.984000
 mit	-	-	-	0:26:08.030000	0:26:08.984000
@@ -7636,7 +7637,7 @@ die	-	-	-	0:26:08.984000	0:26:10.537000
 _ding_	-	-	-	0:26:08.984000	0:26:10.537000
 ,	-	-	-	0:26:08.984000	0:26:10.537000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:08.984000" end="0:26:10.537000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:08.984000" end="0:26:10.537000" persName="Informant 0373">
 ja	ja	PART	-	0:26:08.984000	0:26:10.537000
 ,	-	-	-	0:26:08.984000	0:26:10.537000
 mit	mit	ADP	-	0:26:08.984000	0:26:10.537000
@@ -7644,12 +7645,12 @@ die	der	DET	-	0:26:08.984000	0:26:10.537000
 Ähren	Ähre	NOUN	-	0:26:08.984000	0:26:10.537000
 .	-	-	-	0:26:08.984000	0:26:10.537000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:10.537000" end="0:26:11.357000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:10.537000" end="0:26:11.357000" persName="Informant 0371">
 Weizenähren	Weizenähren	NOUN	-	0:26:10.537000	0:26:11.357000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:10.537000" end="0:26:11.357000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:10.537000" end="0:26:11.357000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:11.357000" end="0:26:13.024000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:11.357000" end="0:26:13.024000" persName="Informant 0371">
 und	und	CCONJ	-	0:26:11.357000	0:26:13.024000
 hält	halten	VERB	-	0:26:11.357000	0:26:13.024000
 den	der	DET	-	0:26:11.357000	0:26:13.024000
@@ -7657,9 +7658,9 @@ ins	ins	ADP	-	0:26:11.357000	0:26:13.024000
 Feuer	Feuer	NOUN	-	0:26:11.357000	0:26:13.024000
 .	-	-	-	0:26:11.357000	0:26:13.024000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:11.357000" end="0:26:13.024000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:11.357000" end="0:26:13.024000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:13.024000" end="0:26:15.004000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:13.024000" end="0:26:15.004000" persName="Informant 0371">
 ja	ja	PART	-	0:26:13.024000	0:26:15.004000
 ,	-	-	-	0:26:13.024000	0:26:15.004000
 ginge	gehen	VERB	-	0:26:13.024000	0:26:15.004000
@@ -7667,7 +7668,7 @@ auch	auch	ADV	-	0:26:13.024000	0:26:15.004000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:26:13.024000	0:26:15.004000
 .	-	-	-	0:26:13.024000	0:26:15.004000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:15.004000" end="0:26:17.717000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:15.004000" end="0:26:17.717000" persName="Informant 0373">
 <pause duration="1,0s"/>
 aber	aber	CCONJ	-	0:26:15.004000	0:26:17.717000
 gerade	gerade	ADV	-	0:26:15.004000	0:26:17.717000
@@ -7678,12 +7679,12 @@ dann	dann	ADV	-	0:26:15.004000	0:26:17.717000
 irgendwie	irgendwie	ADV	-	0:26:15.004000	0:26:17.717000
 .	-	-	-	0:26:15.004000	0:26:17.717000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:17.717000" end="0:26:18.270000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:17.717000" end="0:26:18.270000" persName="Informant 0371">
 ja	ja	ADV	-	0:26:17.717000	0:26:18.270000
 sicher	sichern	ADJ	-	0:26:17.717000	0:26:18.270000
 .	-	-	-	0:26:17.717000	0:26:18.270000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:18.270000" end="0:26:19.650000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:18.270000" end="0:26:19.650000" persName="Informant 0373">
 das	der	PRON	-	0:26:18.270000	0:26:19.650000
 macht	machen	VERB	-	0:26:18.270000	0:26:19.650000
 es	ich	PRON	-	0:26:18.270000	0:26:19.650000
@@ -7695,7 +7696,7 @@ unser	sich	DET	-	0:26:18.270000	0:26:19.650000
 Land	Land	NOUN	-	0:26:18.270000	0:26:19.650000
 .	-	-	-	0:26:18.270000	0:26:19.650000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:19.650000" end="0:26:26.390000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:19.650000" end="0:26:26.390000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:26:19.650000	0:26:21.644000
 ,	-	-	-	0:26:19.650000	0:26:21.644000
 sicher	sichern	ADJ	-	0:26:19.650000	0:26:21.644000
@@ -7716,11 +7717,11 @@ Hochdeutsch	Hochdeutsch	PROPN	-	0:26:24.424000	0:26:26.390000
 daherkommt	daherkommen	VERB	-	0:26:24.424000	0:26:26.390000
 .	-	-	-	0:26:24.424000	0:26:26.390000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:26.390000" end="0:26:26.937000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:26.390000" end="0:26:26.937000" persName="Informant 0373">
 ja	ja	PART	-	0:26:26.390000	0:26:26.937000
 .	-	-	-	0:26:26.390000	0:26:26.937000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:26.937000" end="0:26:33.644000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:26.937000" end="0:26:33.644000" persName="Informant 0371">
 aber	-	-	-	0:26:26.937000	0:26:27.777000
 *wennst*	-	-	-	0:26:26.937000	0:26:27.777000
 weißt	-	-	-	0:26:26.937000	0:26:27.777000
@@ -7744,15 +7745,15 @@ eigentlich	-	-	-	0:26:32.364000	0:26:33.644000
 noch/	-	-	-	0:26:32.364000	0:26:33.644000
 .	-	-	-	0:26:32.364000	0:26:33.644000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:33.644000" end="0:26:34.644000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:33.644000" end="0:26:34.644000" persName="Informant 0373">
 genau	genau	ADJ	-	0:26:33.644000	0:26:34.644000
 .	-	-	-	0:26:33.644000	0:26:34.644000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:34.644000" end="0:26:34.944000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:34.644000" end="0:26:34.944000" persName="Informant 0371">
 ach	ach	X	-	0:26:34.644000	0:26:34.944000
 .	-	-	-	0:26:34.644000	0:26:34.944000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:34.944000" end="0:26:36.504000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:34.944000" end="0:26:36.504000" persName="Informant 0373">
 und	und	CCONJ	-	0:26:34.944000	0:26:36.504000
 dann	dann	ADV	-	0:26:34.944000	0:26:36.504000
 fangen	fangen	VERB	-	0:26:34.944000	0:26:36.504000
@@ -7761,11 +7762,11 @@ an	an	ADP	-	0:26:34.944000	0:26:36.504000
 so	so	ADV	-	0:26:34.944000	0:26:36.504000
 .	-	-	-	0:26:34.944000	0:26:36.504000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:36.504000" end="0:26:37.410000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:36.504000" end="0:26:37.410000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:36.504000" end="0:26:37.410000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:36.504000" end="0:26:37.410000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:37.410000" end="0:26:42.570000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:37.410000" end="0:26:42.570000" persName="Informant 0371">
 <pause duration="1,5s"/>
 grauslich	grauslich	ADJ	-	0:26:37.410000	0:26:39.524000
 .	-	-	-	0:26:37.410000	0:26:39.524000
@@ -7779,7 +7780,7 @@ so	so	ADV	-	0:26:39.524000	0:26:42.570000
 werden	werden	AUX	-	0:26:39.524000	0:26:42.570000
 .	-	-	-	0:26:39.524000	0:26:42.570000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:42.570000" end="0:26:44.617000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:42.570000" end="0:26:44.617000" persName="Informant 0373">
 auf	auf	ADP	-	0:26:42.570000	0:26:44.617000
 das	der	PRON	-	0:26:42.570000	0:26:44.617000
 lauft	laufen	VERB	-	0:26:42.570000	0:26:44.617000
@@ -7790,18 +7791,18 @@ hinaus	hinaus	ADP	-	0:26:42.570000	0:26:44.617000
 ja	ja	PART	-	0:26:42.570000	0:26:44.617000
 .	-	-	-	0:26:42.570000	0:26:44.617000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:44.617000" end="0:26:46.477000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:44.617000" end="0:26:46.477000" persName="Informant 0371">
 Alter	alt	NOUN	-	0:26:44.617000	0:26:45.524000
 ,	-	-	-	0:26:44.617000	0:26:45.524000
 (mich)/	sich	PRON	-	0:26:45.524000	0:26:46.477000
 .	-	-	-	0:26:45.524000	0:26:46.477000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:45.524000" end="0:26:47.164000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:45.524000" end="0:26:47.164000" persName="Informant 0373">
 darum	darum	ADV	-	0:26:45.524000	0:26:46.477000
 gegenarbeiten	gegenarbeiten	VERB	-	0:26:46.477000	0:26:47.164000
 .	-	-	-	0:26:46.477000	0:26:47.164000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:47.164000" end="0:26:49.790000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:47.164000" end="0:26:49.790000" persName="Informant 0371">
 ja	ja	ADV	-	0:26:47.164000	0:26:49.790000
 sicher	sichern	ADJ	-	0:26:47.164000	0:26:49.790000
 voll	voll	ADJ	-	0:26:47.164000	0:26:49.790000
@@ -7810,30 +7811,30 @@ nur	nur	ADV	-	0:26:47.164000	0:26:49.790000
 Steinsteirisch	Stoasteirisch	NOUN	-	0:26:47.164000	0:26:49.790000
 .	-	-	-	0:26:47.164000	0:26:49.790000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:47.164000" end="0:26:49.790000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:47.164000" end="0:26:49.790000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:49.790000" end="0:26:51.070000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:49.790000" end="0:26:51.070000" persName="Informant 0371">
 ist	sein	AUX	-	0:26:49.790000	0:26:51.070000
 egal	egal	ADV	-	0:26:49.790000	0:26:51.070000
 was	was	PRON	-	0:26:49.790000	0:26:51.070000
 ,	-	-	-	0:26:49.790000	0:26:51.070000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:49.790000" end="0:26:51.070000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:49.790000" end="0:26:51.070000" persName="Informant 0373">
 bellen	bellen	VERB	-	0:26:49.790000	0:26:51.070000
 ,	-	-	-	0:26:49.790000	0:26:51.070000
 bellen	bellen	VERB	-	0:26:49.790000	0:26:51.070000
 ,	-	-	-	0:26:49.790000	0:26:51.070000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:51.070000" end="0:26:53.970000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:51.070000" end="0:26:53.970000" persName="Informant 0371">
 wie	wie	ADV	-	0:26:51.070000	0:26:53.970000
 Kernöl	Kernöl	PROPN	-	0:26:51.070000	0:26:53.970000
 .	-	-	-	0:26:51.070000	0:26:53.970000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:51.070000" end="0:26:53.970000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:51.070000" end="0:26:53.970000" persName="Informant 0373">
 bellen	bellen	VERB	-	0:26:51.070000	0:26:53.970000
 .	-	-	-	0:26:51.070000	0:26:53.970000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:53.970000" end="0:26:57.010000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:53.970000" end="0:26:57.010000" persName="Informant 0371">
 aber	aber	CCONJ	-	0:26:53.970000	0:26:55.904000
 das	der	PRON	-	0:26:53.970000	0:26:55.904000
 können	können	VERB	-	0:26:53.970000	0:26:55.904000
@@ -7846,11 +7847,11 @@ gell	gell	ADJ	-	0:26:53.970000	0:26:55.904000
 wie	wie	ADV	-	0:26:55.904000	0:26:57.010000
 wir	ich	PRON	-	0:26:55.904000	0:26:57.010000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:55.904000" end="0:26:57.010000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:55.904000" end="0:26:57.010000" persName="Informant 0373">
 (doch)	doch	CCONJ	-	0:26:55.904000	0:26:57.010000
 .	-	-	-	0:26:55.904000	0:26:57.010000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:57.010000" end="0:26:58.457000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:57.010000" end="0:26:58.457000" persName="Informant 0371">
 wie	wie	CCONJ	-	0:26:57.010000	0:26:58.457000
 wir	ich	PRON	-	0:26:57.010000	0:26:58.457000
 in	in	ADP	-	0:26:57.010000	0:26:58.457000
@@ -7859,11 +7860,11 @@ gewesen	sein	AUX	-	0:26:57.010000	0:26:58.457000
 sind	sein	AUX	-	0:26:57.010000	0:26:58.457000
 ,	-	-	-	0:26:57.010000	0:26:58.457000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:58.457000" end="0:26:58.857000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:26:58.457000" end="0:26:58.857000" persName="Informant 0373">
 ja	ja	PART	-	0:26:58.457000	0:26:58.857000
 .	-	-	-	0:26:58.457000	0:26:58.857000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:58.857000" end="0:27:04.284000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:26:58.857000" end="0:27:04.284000" persName="Informant 0371">
 hey	hey	PROPN	-	0:26:58.857000	0:27:01.350000
 Alter	alt	NOUN	-	0:26:58.857000	0:27:01.350000
 ,	-	-	-	0:26:58.857000	0:27:01.350000
@@ -7881,11 +7882,11 @@ schlecht	schlecht	ADJ	-	0:27:01.350000	0:27:04.284000
 Englisch	Englisch	NOUN	-	0:27:01.350000	0:27:04.284000
 .	-	-	-	0:27:01.350000	0:27:04.284000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:04.284000" end="0:27:04.570000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:04.284000" end="0:27:04.570000" persName="Informant 0373">
 ja	ja	PART	-	0:27:04.284000	0:27:04.570000
 .	-	-	-	0:27:04.284000	0:27:04.570000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:04.570000" end="0:27:06.124000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:04.570000" end="0:27:06.124000" persName="Informant 0371">
 ich	ich	PRON	-	0:27:04.570000	0:27:05.357000
 habe	habe	AUX	-	0:27:04.570000	0:27:05.357000
 nicht	nicht	PART	-	0:27:04.570000	0:27:05.357000
@@ -7898,11 +7899,11 @@ mir	sich	PRON	-	0:27:05.357000	0:27:06.124000
 will	wollen	VERB	-	0:27:05.357000	0:27:06.124000
 .	-	-	-	0:27:05.357000	0:27:06.124000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:06.124000" end="0:27:07.630000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:06.124000" end="0:27:07.630000" persName="Informant 0373">
 echt	echt	ADJ	-	0:27:06.124000	0:27:07.630000
 ?	-	-	-	0:27:06.124000	0:27:07.630000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:07.630000" end="0:27:12.764000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:07.630000" end="0:27:12.764000" persName="Informant 0371">
 ja	ja	PART	-	0:27:07.630000	0:27:08.544000
 .	-	-	-	0:27:07.630000	0:27:08.544000
 da	da	ADV	-	0:27:08.544000	0:27:10.037000
@@ -7916,9 +7917,9 @@ gestanden	stehen	VERB	-	0:27:08.544000	0:27:10.037000
 was	was	PRON	-	0:27:11.184000	0:27:12.764000
 ?"	-	-	-	0:27:11.184000	0:27:12.764000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:11.184000" end="0:27:12.764000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:11.184000" end="0:27:12.764000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:12.764000" end="0:27:17.590000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:12.764000" end="0:27:17.590000" persName="Informant 0371">
 ja	ja	PART	-	0:27:12.764000	0:27:14.370000
 "'((lallen))"	-	-	-	0:27:12.764000	0:27:14.370000
 .	-	-	-	0:27:12.764000	0:27:14.370000
@@ -7934,15 +7935,15 @@ drauf	drauf	ADP	-	0:27:14.370000	0:27:17.184000
 *dasst*	-	-	-	0:27:17.184000	0:27:17.590000
 dich	-	-	-	0:27:17.184000	0:27:17.590000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:17.184000" end="0:27:17.590000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:17.184000" end="0:27:17.590000" persName="Informant 0373">
 ja	ja	ADV	-	0:27:17.184000	0:27:17.590000
 aber	aber	ADV	-	0:27:17.184000	0:27:17.590000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:17.590000" end="0:27:18.624000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:17.590000" end="0:27:18.624000" persName="Informant 0371">
 anscheißt	-	-	-	0:27:17.590000	0:27:18.624000
 .	-	-	-	0:27:17.590000	0:27:18.624000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:17.590000" end="0:27:19.710000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:17.590000" end="0:27:19.710000" persName="Informant 0373">
 w/	-	-	-	0:27:17.590000	0:27:18.624000
 wieso	wieso	ADV	-	0:27:17.590000	0:27:18.624000
 soll	soll	VERB	-	0:27:18.624000	0:27:19.710000
@@ -7954,7 +7955,7 @@ so	so	ADV	-	0:27:18.624000	0:27:19.710000
 sein	mein	AUX	-	0:27:18.624000	0:27:19.710000
 ?	-	-	-	0:27:18.624000	0:27:19.710000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:19.710000" end="0:27:26.164000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:19.710000" end="0:27:26.164000" persName="Informant 0371">
 ja	ja	ADV	-	0:27:19.710000	0:27:20.184000
 eh	eh	X	-	0:27:19.710000	0:27:20.184000
 .	-	-	-	0:27:19.710000	0:27:20.184000
@@ -7977,11 +7978,11 @@ nicht	-	-	-	0:27:23.384000	0:27:26.164000
 verstehst	-	-	-	0:27:23.384000	0:27:26.164000
 .	-	-	-	0:27:23.384000	0:27:26.164000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:26.164000" end="0:27:26.770000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:26.164000" end="0:27:26.770000" persName="Informant 0373">
 ja	ja	PART	-	0:27:26.164000	0:27:26.770000
 .	-	-	-	0:27:26.164000	0:27:26.770000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:26.770000" end="0:27:36.784000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:26.770000" end="0:27:36.784000" persName="Informant 0371">
 <pause duration="0,9s"/>
 eh	-	-	-	0:27:26.770000	0:27:29.250000
 wie	-	-	-	0:27:26.770000	0:27:29.250000
@@ -8018,11 +8019,11 @@ gekommen	kommen	VERB	-	0:27:32.370000	0:27:36.317000
 ,	-	-	-	0:27:32.370000	0:27:36.317000
 und	und	CCONJ	-	0:27:36.317000	0:27:36.784000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:36.317000" end="0:27:36.784000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:36.317000" end="0:27:36.784000" persName="Informant 0373">
 ja	ja	PART	-	0:27:36.317000	0:27:36.784000
 .	-	-	-	0:27:36.317000	0:27:36.784000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:36.784000" end="0:27:41.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:36.784000" end="0:27:41.257000" persName="Informant 0371">
 hat/	-	-	-	0:27:36.784000	0:27:38.630000
 .	-	-	-	0:27:36.784000	0:27:38.630000
 wollte	wollen	VERB	-	0:27:36.784000	0:27:38.630000
@@ -8046,10 +8047,10 @@ in	in	ADP	-	0:27:39.424000	0:27:41.257000
 der/	-	-	-	0:27:39.424000	0:27:41.257000
 .	-	-	-	0:27:39.424000	0:27:41.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:39.424000" end="0:27:41.257000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:39.424000" end="0:27:41.257000" persName="Informant 0373">
 und	und	CCONJ	-	0:27:39.424000	0:27:41.257000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:41.257000" end="0:27:43.170000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:41.257000" end="0:27:43.170000" persName="Informant 0371">
 ist	sein	AUX	-	0:27:41.257000	0:27:43.170000
 er	ich	PRON	-	0:27:41.257000	0:27:43.170000
 zu	zu	ADP	-	0:27:41.257000	0:27:43.170000
@@ -8063,7 +8064,7 @@ genau	genau	ADJ	-	0:27:41.257000	0:27:43.170000
 ist	sein	AUX	-	0:27:41.257000	0:27:43.170000
 er	ich	PRON	-	0:27:41.257000	0:27:43.170000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:41.257000" end="0:27:43.170000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:41.257000" end="0:27:43.170000" persName="Informant 0373">
 dann	dann	ADV	-	0:27:41.257000	0:27:43.170000
 kommt	kommen	VERB	-	0:27:41.257000	0:27:43.170000
 er	ich	PRON	-	0:27:41.257000	0:27:43.170000
@@ -8071,7 +8072,7 @@ auf	auf	ADP	-	0:27:41.257000	0:27:43.170000
 Österreich	Österreich	PROPN	-	0:27:41.257000	0:27:43.170000
 .	-	-	-	0:27:41.257000	0:27:43.170000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:43.170000" end="0:27:44.364000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:43.170000" end="0:27:44.364000" persName="Informant 0371">
 zu	zu	ADP	-	0:27:43.170000	0:27:44.364000
 uns	sich	PRON	-	0:27:43.170000	0:27:44.364000
 in	in	ADP	-	0:27:43.170000	0:27:44.364000
@@ -8080,9 +8081,9 @@ Schule	Schule	NOUN	-	0:27:43.170000	0:27:44.364000
 gekommen	kommen	VERB	-	0:27:43.170000	0:27:44.364000
 ,	-	-	-	0:27:43.170000	0:27:44.364000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:43.170000" end="0:27:44.364000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:43.170000" end="0:27:44.364000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:44.364000" end="0:27:46.344000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:44.364000" end="0:27:46.344000" persName="Informant 0371">
 und	und	CCONJ	-	0:27:44.364000	0:27:45.570000
 dann	dann	ADV	-	0:27:44.364000	0:27:45.570000
 sind	sein	AUX	-	0:27:44.364000	0:27:45.570000
@@ -8096,9 +8097,9 @@ hat	haben	AUX	-	0:27:45.570000	0:27:46.344000
 er	ich	PRON	-	0:27:45.570000	0:27:46.344000
 gesagt	sagen	VERB	-	0:27:45.570000	0:27:46.344000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:45.570000" end="0:27:46.344000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:45.570000" end="0:27:46.344000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:46.344000" end="0:27:51.964000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:46.344000" end="0:27:51.964000" persName="Informant 0371">
 <pause duration="1,2s"/>
 "also	also	ADV	-	0:27:46.344000	0:27:49.757000
 ich	ich	PRON	-	0:27:46.344000	0:27:49.757000
@@ -8121,24 +8122,24 @@ da	-	-	-	0:27:50.657000	0:27:51.964000
 *redets*"	-	-	-	0:27:50.657000	0:27:51.964000
 ,	-	-	-	0:27:50.657000	0:27:51.964000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:50.657000" end="0:27:51.964000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:50.657000" end="0:27:51.964000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:51.964000" end="0:27:53.530000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:51.964000" end="0:27:53.530000" persName="Informant 0371">
 er	ich	PRON	-	0:27:51.964000	0:27:53.530000
 hat	haben	AUX	-	0:27:51.964000	0:27:53.530000
 keinen	kein	PRON	-	0:27:51.964000	0:27:53.530000
 ,	-	-	-	0:27:51.964000	0:27:53.530000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:51.964000" end="0:27:53.530000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:51.964000" end="0:27:53.530000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:53.530000" end="0:27:54.890000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:53.530000" end="0:27:54.890000" persName="Informant 0371">
 was	was	PRON	-	0:27:53.530000	0:27:54.890000
 wir	ich	PRON	-	0:27:53.530000	0:27:54.890000
 da	da	ADV	-	0:27:53.530000	0:27:54.890000
 reden	reden	VERB	-	0:27:53.530000	0:27:54.890000
 .	-	-	-	0:27:53.530000	0:27:54.890000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:53.530000" end="0:27:56.804000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:53.530000" end="0:27:56.804000" persName="Informant 0373">
 ja	ja	ADV	-	0:27:54.890000	0:27:56.804000
 aber	aber	CCONJ	-	0:27:54.890000	0:27:56.804000
 woher	woher	ADV	-	0:27:54.890000	0:27:56.804000
@@ -8148,12 +8149,12 @@ das	der	PRON	-	0:27:54.890000	0:27:56.804000
 wissen	wissen	VERB	-	0:27:54.890000	0:27:56.804000
 .	-	-	-	0:27:54.890000	0:27:56.804000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:56.804000" end="0:27:57.444000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:56.804000" end="0:27:57.444000" persName="Informant 0371">
 ja	ja	ADV	-	0:27:56.804000	0:27:57.444000
 eh	eh	X	-	0:27:56.804000	0:27:57.444000
 .	-	-	-	0:27:56.804000	0:27:57.444000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:56.804000" end="0:27:58.737000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:27:56.804000" end="0:27:58.737000" persName="Informant 0373">
 da	-	-	-	0:27:56.804000	0:27:57.444000
 da	-	-	-	0:27:56.804000	0:27:57.444000
 *musst*	-	-	-	0:27:57.444000	0:27:58.737000
@@ -8161,7 +8162,7 @@ hineingeboren	-	-	-	0:27:57.444000	0:27:58.737000
 sein	-	-	-	0:27:57.444000	0:27:58.737000
 .	-	-	-	0:27:57.444000	0:27:58.737000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:58.737000" end="0:28:04.497000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:27:58.737000" end="0:28:04.497000" persName="Informant 0371">
 ja	ja	PART	-	0:27:58.737000	0:27:59.290000
 .	-	-	-	0:27:58.737000	0:27:59.290000
 <pause duration="1,0s"/>
@@ -8185,12 +8186,12 @@ oder	-	-	-	0:28:03.770000	0:28:04.497000
 irgendwas	-	-	-	0:28:03.770000	0:28:04.497000
 ,	-	-	-	0:28:03.770000	0:28:04.497000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:03.770000" end="0:28:04.497000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:03.770000" end="0:28:04.497000" persName="Informant 0373">
 ist	sein	AUX	-	0:28:03.770000	0:28:04.497000
 so	so	ADV	-	0:28:03.770000	0:28:04.497000
 .	-	-	-	0:28:03.770000	0:28:04.497000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:04.497000" end="0:28:05.404000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:04.497000" end="0:28:05.404000" persName="Informant 0371">
 verstehen	verstehen	VERB	-	0:28:04.497000	0:28:05.404000
 sie	ich	PRON	-	0:28:04.497000	0:28:05.404000
 dich	sich	PRON	-	0:28:04.497000	0:28:05.404000
@@ -8198,7 +8199,7 @@ schon	schon	ADV	-	0:28:04.497000	0:28:05.404000
 nicht	nicht	PART	-	0:28:04.497000	0:28:05.404000
 .	-	-	-	0:28:04.497000	0:28:05.404000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:05.404000" end="0:28:09.304000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:05.404000" end="0:28:09.304000" persName="Informant 0373">
 nein	nein	PART	-	0:28:05.404000	0:28:05.824000
 .	-	-	-	0:28:05.404000	0:28:05.824000
 <pause duration="1,2s"/>
@@ -8212,11 +8213,11 @@ Wörter	Wort	NOUN	-	0:28:05.824000	0:28:09.304000
 und	und	CCONJ	-	0:28:05.824000	0:28:09.304000
 Sachen	Sache	NOUN	-	0:28:05.824000	0:28:09.304000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:09.304000" end="0:28:10.097000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:09.304000" end="0:28:10.097000" persName="Informant 0371">
 (geil)	geil	NOUN	-	0:28:09.304000	0:28:10.097000
 .	-	-	-	0:28:09.304000	0:28:10.097000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:09.304000" end="0:28:11.350000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:09.304000" end="0:28:11.350000" persName="Informant 0373">
 einfach	einfach	ADJ	-	0:28:09.304000	0:28:10.097000
 .	-	-	-	0:28:09.304000	0:28:10.097000
 und	und	CCONJ	-	0:28:10.097000	0:28:11.350000
@@ -8224,14 +8225,14 @@ einen	ein	DET	-	0:28:10.097000	0:28:11.350000
 Slang	Slang	NOUN	-	0:28:10.097000	0:28:11.350000
 .	-	-	-	0:28:10.097000	0:28:11.350000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:11.350000" end="0:28:13.390000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:11.350000" end="0:28:13.390000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:11.350000" end="0:28:15.084000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:11.350000" end="0:28:15.084000" persName="Informant 0373">
 taugt	taugen	VERB	-	0:28:13.390000	0:28:15.084000
 mir	sich	PRON	-	0:28:13.390000	0:28:15.084000
 .	-	-	-	0:28:13.390000	0:28:15.084000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:15.084000" end="0:28:20.490000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:15.084000" end="0:28:20.490000" persName="Informant 0371">
 deswegen	deswegen	ADV	-	0:28:15.084000	0:28:15.757000
 sage	sage	VERB	-	0:28:15.084000	0:28:15.757000
 ich	ich	PRON	-	0:28:15.084000	0:28:15.757000
@@ -8250,7 +8251,7 @@ ganzen	ganz	ADJ	-	0:28:17.790000	0:28:20.490000
 Bauernbuben	Bauernbuben	NOUN	-	0:28:17.790000	0:28:20.490000
 .	-	-	-	0:28:17.790000	0:28:20.490000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:17.790000" end="0:28:20.490000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:17.790000" end="0:28:20.490000" persName="Informant 0373">
 ja	ja	ADV	-	0:28:17.790000	0:28:20.490000
 wenn	wenn	SCONJ	-	0:28:17.790000	0:28:20.490000
 sie	ich	PRON	-	0:28:17.790000	0:28:20.490000
@@ -8260,23 +8261,23 @@ wenn	wenn	SCONJ	-	0:28:17.790000	0:28:20.490000
 (reiten)	reiten	VERB	-	0:28:17.790000	0:28:20.490000
 .	-	-	-	0:28:17.790000	0:28:20.490000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:20.490000" end="0:28:22.370000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:20.490000" end="0:28:22.370000" persName="Informant 0371">
 so	so	ADV	-	0:28:20.490000	0:28:20.917000
 beim	beim	ADP	-	0:28:20.917000	0:28:22.370000
 Tisch	Tisch	NOUN	-	0:28:20.917000	0:28:22.370000
 herum	herum	ADP	-	0:28:20.917000	0:28:22.370000
 .	-	-	-	0:28:20.917000	0:28:22.370000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:20.917000" end="0:28:22.370000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:20.917000" end="0:28:22.370000" persName="Informant 0373">
 das	der	PRON	-	0:28:20.917000	0:28:22.370000
 wäre/	-	-	-	0:28:20.917000	0:28:22.370000
 .	-	-	-	0:28:20.917000	0:28:22.370000
 stell	stell	ADJ	-	0:28:20.917000	0:28:22.370000
 dir	sich	PRON	-	0:28:20.917000	0:28:22.370000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:22.370000" end="0:28:24.237000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:22.370000" end="0:28:24.237000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:22.370000" end="0:28:28.824000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:22.370000" end="0:28:28.824000" persName="Informant 0373">
 das	der	PRON	-	0:28:22.370000	0:28:24.237000
 vor	vor	ADP	-	0:28:22.370000	0:28:24.237000
 ,	-	-	-	0:28:22.370000	0:28:24.237000
@@ -8300,9 +8301,9 @@ Mikrofon	-	-	-	0:28:26.630000	0:28:28.824000
 hinein	-	-	-	0:28:26.630000	0:28:28.824000
 ,	-	-	-	0:28:26.630000	0:28:28.824000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:28.824000" end="0:28:30.684000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:28.824000" end="0:28:30.684000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:28.824000" end="0:28:32.484000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:28.824000" end="0:28:32.484000" persName="Informant 0373">
 und	-	-	-	0:28:28.824000	0:28:30.684000
 dann	-	-	-	0:28:28.824000	0:28:30.684000
 _wöldnern_	-	-	-	0:28:28.824000	0:28:30.684000
@@ -8316,12 +8317,12 @@ der	der	DET	-	0:28:30.684000	0:28:32.484000
 Früh	Früh	NOUN	-	0:28:30.684000	0:28:32.484000
 .	-	-	-	0:28:30.684000	0:28:32.484000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:32.484000" end="0:28:33.050000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:32.484000" end="0:28:33.050000" persName="Informant 0371">
 wie	wie	ADV	-	0:28:32.484000	0:28:32.810000
 die/	-	-	-	0:28:32.810000	0:28:33.050000
 .	-	-	-	0:28:32.810000	0:28:33.050000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:32.810000" end="0:28:36.890000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:32.810000" end="0:28:36.890000" persName="Informant 0373">
 ein	einen	DET	-	0:28:32.810000	0:28:33.050000
 Bier	Bier	NOUN	-	0:28:33.050000	0:28:34.684000
 nach	nach	ADP	-	0:28:33.050000	0:28:34.684000
@@ -8338,15 +8339,15 @@ was	was	PRON	-	0:28:35.770000	0:28:36.890000
 auf	auf	ADP	-	0:28:35.770000	0:28:36.890000
 .	-	-	-	0:28:35.770000	0:28:36.890000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:36.890000" end="0:28:38.430000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:36.890000" end="0:28:38.430000" persName="Informant 0371">
 bist	sein	AUX	-	0:28:36.890000	0:28:38.430000
 du	du	PRON	-	0:28:36.890000	0:28:38.430000
 narrisch	narrisch	ADJ	-	0:28:36.890000	0:28:38.430000
 .	-	-	-	0:28:36.890000	0:28:38.430000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:36.890000" end="0:28:38.430000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:36.890000" end="0:28:38.430000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:38.430000" end="0:28:41.124000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:38.430000" end="0:28:41.124000" persName="Informant 0371">
 die	der	DET	-	0:28:38.430000	0:28:41.124000
 die	der	PRON	-	0:28:38.430000	0:28:41.124000
 hätten	haben	AUX	-	0:28:38.430000	0:28:41.124000
@@ -8354,7 +8355,7 @@ die	der	PRON	-	0:28:38.430000	0:28:41.124000
 hätten	haben	AUX	-	0:28:38.430000	0:28:41.124000
 sich	sich	PRON	-	0:28:38.430000	0:28:41.124000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:38.430000" end="0:28:41.124000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:38.430000" end="0:28:41.124000" persName="Informant 0373">
 da	da	ADV	-	0:28:38.430000	0:28:41.124000
 hätten	haben	AUX	-	0:28:38.430000	0:28:41.124000
 sie	ich	PRON	-	0:28:38.430000	0:28:41.124000
@@ -8364,25 +8365,25 @@ beieinander	beieinander	ADV	-	0:28:38.430000	0:28:41.124000
 gelassen	lassen	VERB	-	0:28:38.430000	0:28:41.124000
 .	-	-	-	0:28:38.430000	0:28:41.124000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:41.124000" end="0:28:41.790000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:41.124000" end="0:28:41.790000" persName="Informant 0371">
 eine	einen	DET	-	0:28:41.124000	0:28:41.790000
 Gaudi	Gaudi	NOUN	-	0:28:41.124000	0:28:41.790000
 ,	-	-	-	0:28:41.124000	0:28:41.790000
 ja	ja	PART	-	0:28:41.124000	0:28:41.790000
 ,	-	-	-	0:28:41.124000	0:28:41.790000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:41.124000" end="0:28:41.790000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:41.124000" end="0:28:41.790000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:41.790000" end="0:28:43.157000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:41.790000" end="0:28:43.157000" persName="Informant 0371">
 *kannst*	-	-	-	0:28:41.790000	0:28:43.157000
 dir	-	-	-	0:28:41.790000	0:28:43.157000
 sicher	-	-	-	0:28:41.790000	0:28:43.157000
 sein	-	-	-	0:28:41.790000	0:28:43.157000
 .	-	-	-	0:28:41.790000	0:28:43.157000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:41.790000" end="0:28:43.157000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:41.790000" end="0:28:43.157000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:43.157000" end="0:28:45.070000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:43.157000" end="0:28:45.070000" persName="Informant 0371">
 das	der	PRON	-	0:28:43.157000	0:28:44.564000
 müssen	müssen	VERB	-	0:28:43.157000	0:28:44.564000
 wir	ich	PRON	-	0:28:43.157000	0:28:44.564000
@@ -8393,11 +8394,11 @@ sagen	sagen	VERB	-	0:28:43.157000	0:28:44.564000
 zum	zum	ADP	-	0:28:44.564000	0:28:45.070000
 Ba/	-	-	-	0:28:44.564000	0:28:45.070000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:44.564000" end="0:28:45.070000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:44.564000" end="0:28:45.070000" persName="Informant 0373">
 ja	ja	PART	-	0:28:44.564000	0:28:45.070000
 .	-	-	-	0:28:44.564000	0:28:45.070000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:45.070000" end="0:28:46.037000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:45.070000" end="0:28:46.037000" persName="Informant 0371">
 zu	zu	ADP	-	0:28:45.070000	0:28:46.037000
 die	der	PRON	-	0:28:45.070000	0:28:46.037000
 müssen	müssen	VERB	-	0:28:45.070000	0:28:46.037000
@@ -8405,9 +8406,9 @@ sie	ich	PRON	-	0:28:45.070000	0:28:46.037000
 fahren	fahren	VERB	-	0:28:45.070000	0:28:46.037000
 .	-	-	-	0:28:45.070000	0:28:46.037000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:46.037000" end="0:28:47.204000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:46.037000" end="0:28:47.204000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:47.204000" end="0:28:52.117000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:47.204000" end="0:28:52.117000" persName="Informant 0371">
 <pause duration="1,4s"/>
 müssen	müssen	VERB	-	0:28:47.204000	0:28:50.077000
 sie	ich	PRON	-	0:28:47.204000	0:28:50.077000
@@ -8415,26 +8416,26 @@ müssen	müssen	VERB	-	0:28:47.204000	0:28:50.077000
 sie	ich	PRON	-	0:28:47.204000	0:28:50.077000
 hineinschreiben	hineinschreiben	VERB	-	0:28:47.204000	0:28:50.077000
 die	der	DET	-	0:28:50.077000	0:28:51.530000
-[Haufenreither]O	Haufenreither	ADJ	-	0:28:50.077000	0:28:51.530000
+ORT	ORT	ADJ	-	0:28:50.077000	0:28:51.530000
 Singlebauern	Singlebauern	NOUN	-	0:28:50.077000	0:28:51.530000
 sind	sein	AUX	-	0:28:50.077000	0:28:51.530000
 das	der	PRON	-	0:28:50.077000	0:28:51.530000
 dann	dann	ADV	-	0:28:51.530000	0:28:52.117000
 .	-	-	-	0:28:51.530000	0:28:52.117000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:51.530000" end="0:28:52.117000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:51.530000" end="0:28:52.117000" persName="Informant 0373">
 ja	ja	PART	-	0:28:51.530000	0:28:52.117000
 .	-	-	-	0:28:51.530000	0:28:52.117000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:52.117000" end="0:28:54.124000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:52.117000" end="0:28:54.124000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:52.117000" end="0:28:57.017000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:52.117000" end="0:28:57.017000" persName="Informant 0373">
 ja	ja	PART	-	0:28:52.117000	0:28:54.124000
 ,	-	-	-	0:28:52.117000	0:28:54.124000
 ja	ja	PART	-	0:28:52.117000	0:28:54.124000
 .	-	-	-	0:28:52.117000	0:28:54.124000
 der	der	DET	-	0:28:54.124000	0:28:57.017000
-[Gri]N	Gri	NOUN	-	0:28:54.124000	0:28:57.017000
+NAME	NAME	NOUN	-	0:28:54.124000	0:28:57.017000
 war	sein	AUX	-	0:28:54.124000	0:28:57.017000
 letztens	letztens	ADV	-	0:28:54.124000	0:28:57.017000
 eh	eh	ADV	-	0:28:54.124000	0:28:57.017000
@@ -8443,11 +8444,11 @@ mit	mit	ADP	-	0:28:54.124000	0:28:57.017000
 seiner/	-	-	-	0:28:54.124000	0:28:57.017000
 .	-	-	-	0:28:54.124000	0:28:57.017000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:57.017000" end="0:28:57.397000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:28:57.017000" end="0:28:57.397000" persName="Informant 0371">
 echt	echt	ADJ	-	0:28:57.017000	0:28:57.397000
 ?	-	-	-	0:28:57.017000	0:28:57.397000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:57.397000" end="0:29:01.343000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:28:57.397000" end="0:29:01.343000" persName="Informant 0373">
 ja	ja	ADV	-	0:28:57.397000	0:28:57.903000
 ja	ja	PART	-	0:28:57.397000	0:28:57.903000
 .	-	-	-	0:28:57.397000	0:28:57.903000
@@ -8461,26 +8462,26 @@ abgestürzt	abstürzen	VERB	-	0:28:57.903000	0:29:01.343000
 nach	nach	ADP	-	0:28:57.903000	0:29:01.343000
 dem	der	DET	-	0:28:57.903000	0:29:01.343000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:01.343000" end="0:29:02.017000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:01.343000" end="0:29:02.017000" persName="Informant 0371">
 habe	habe	AUX	-	0:29:01.343000	0:29:02.017000
 ich	ich	PRON	-	0:29:01.343000	0:29:02.017000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:01.343000" end="0:29:02.017000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:01.343000" end="0:29:02.017000" persName="Informant 0373">
 Viermalvier	Viermalvier	NOUN	-	0:29:01.343000	0:29:02.017000
 .	-	-	-	0:29:01.343000	0:29:02.017000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:02.017000" end="0:29:05.650000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:02.017000" end="0:29:05.650000" persName="Informant 0371">
 gehört	hören	VERB	-	0:29:02.017000	0:29:02.463000
 ,	-	-	-	0:29:02.017000	0:29:02.463000
 hat	haben	AUX	-	0:29:02.463000	0:29:04.003000
 die	der	DET	-	0:29:02.463000	0:29:04.003000
-[Jassi]N	Jassi	NOUN	-	0:29:02.463000	0:29:04.003000
+NAME	NAME	NOUN	-	0:29:02.463000	0:29:04.003000
 erzählt	erzählen	VERB	-	0:29:02.463000	0:29:04.003000
 ,	-	-	-	0:29:02.463000	0:29:04.003000
 ja	ja	PART	-	0:29:04.003000	0:29:05.650000
 .	-	-	-	0:29:04.003000	0:29:05.650000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:04.003000" end="0:29:15.917000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:04.003000" end="0:29:15.917000" persName="Informant 0373">
 ein	einen	DET	-	0:29:04.003000	0:29:05.650000
 richtiges	richtig	ADJ	-	0:29:04.003000	0:29:05.650000
 Brett	Brett	NOUN	-	0:29:04.003000	0:29:05.650000
@@ -8498,7 +8499,7 @@ so	so	ADV	-	0:29:08.643000	0:29:10.217000
 lustig	lustig	ADJ	-	0:29:08.643000	0:29:10.217000
 ,	-	-	-	0:29:08.643000	0:29:10.217000
 die	der	DET	-	0:29:10.217000	0:29:13.943000
-[Theresa]N	Theresa	NOUN	-	0:29:10.217000	0:29:13.943000
+NAME	NAME	NOUN	-	0:29:10.217000	0:29:13.943000
 <pause duration="1,8s"/>
 "so	so	ADV	-	0:29:10.217000	0:29:13.943000
 was	was	PRON	-	0:29:10.217000	0:29:13.943000
@@ -8517,34 +8518,34 @@ vor	-	-	-	0:29:13.943000	0:29:15.917000
 gell	gell	ADJ	-	0:29:13.943000	0:29:15.917000
 ?	-	-	-	0:29:13.943000	0:29:15.917000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:15.917000" end="0:29:17.397000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:15.917000" end="0:29:17.397000" persName="Informant 0371">
 ud/	-	-	-	0:29:15.917000	0:29:17.397000
 unsere	mein	DET	-	0:29:15.917000	0:29:17.397000
-[Theresa]N	Theresa	NOUN	-	0:29:15.917000	0:29:17.397000
+NAME	NAME	NOUN	-	0:29:15.917000	0:29:17.397000
 ?	-	-	-	0:29:15.917000	0:29:17.397000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:15.917000" end="0:29:17.397000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:15.917000" end="0:29:17.397000" persName="Informant 0373">
 die	der	DET	-	0:29:15.917000	0:29:17.397000
-[Herbst	Herbst	NOUN	-	0:29:15.917000	0:29:17.397000
-Theresa]N	Theresa	NOUN	-	0:29:15.917000	0:29:17.397000
+NAME	NAME	NOUN	-	0:29:15.917000	0:29:17.397000
+NAME	NAME	NOUN	-	0:29:15.917000	0:29:17.397000
 .	-	-	-	0:29:15.917000	0:29:17.397000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:17.397000" end="0:29:18.257000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:17.397000" end="0:29:18.257000" persName="Informant 0371">
 ach	ach	X	-	0:29:17.397000	0:29:18.257000
 so	so	ADV	-	0:29:17.397000	0:29:18.257000
 .	-	-	-	0:29:17.397000	0:29:18.257000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:18.257000" end="0:29:19.217000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:18.257000" end="0:29:19.217000" persName="Informant 0373">
 vom	vom	ADP	-	0:29:18.257000	0:29:19.217000
 BV	BV	PROPN	-	0:29:18.257000	0:29:19.217000
 halt	halt	ADV	-	0:29:18.257000	0:29:19.217000
 .	-	-	-	0:29:18.257000	0:29:19.217000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:19.217000" end="0:29:19.550000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:19.217000" end="0:29:19.550000" persName="Informant 0371">
 ja	ja	PART	-	0:29:19.217000	0:29:19.550000
 .	-	-	-	0:29:19.217000	0:29:19.550000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:19.550000" end="0:29:28.137000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:19.550000" end="0:29:28.137000" persName="Informant 0373">
 und	und	CCONJ	-	0:29:19.550000	0:29:21.750000
 nachher	nachher	ADV	-	0:29:19.550000	0:29:21.750000
 "ja	ja	ADV	-	0:29:19.550000	0:29:21.750000
@@ -8563,7 +8564,7 @@ niemand/	-	-	-	0:29:23.143000	0:29:23.863000
 ."	-	-	-	0:29:23.143000	0:29:23.863000
 und	und	CCONJ	-	0:29:23.863000	0:29:25.450000
 der	der	DET	-	0:29:23.863000	0:29:25.450000
-[Womber]N	Womber	NOUN	-	0:29:23.863000	0:29:25.450000
+NAME	NAME	NOUN	-	0:29:23.863000	0:29:25.450000
 nein	nein	PART	-	0:29:23.863000	0:29:25.450000
 er	ich	PRON	-	0:29:23.863000	0:29:25.450000
 hat	haben	AUX	-	0:29:23.863000	0:29:25.450000
@@ -8571,7 +8572,7 @@ nichts	nichts	PRON	-	0:29:23.863000	0:29:25.450000
 vor	vor	ADP	-	0:29:23.863000	0:29:25.450000
 ,	-	-	-	0:29:23.863000	0:29:25.450000
 der	der	DET	-	0:29:25.450000	0:29:27.097000
-[Martin]N	Martin	PROPN	-	0:29:25.450000	0:29:27.097000
+NAME	NAME	PROPN	-	0:29:25.450000	0:29:27.097000
 wohl	wohl	ADV	-	0:29:25.450000	0:29:27.097000
 ,	-	-	-	0:29:25.450000	0:29:27.097000
 er	ich	PRON	-	0:29:25.450000	0:29:27.097000
@@ -8587,13 +8588,13 @@ so	so	ADV	-	0:29:27.097000	0:29:28.137000
 müde	müde	ADJ	-	0:29:27.097000	0:29:28.137000
 .	-	-	-	0:29:27.097000	0:29:28.137000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:28.137000" end="0:29:30.503000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:28.137000" end="0:29:30.503000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:28.137000" end="0:29:33.230000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:28.137000" end="0:29:33.230000" persName="Informant 0373">
 und	und	CCONJ	-	0:29:28.137000	0:29:30.503000
 und	und	CCONJ	-	0:29:28.137000	0:29:30.503000
 die	der	DET	-	0:29:28.137000	0:29:30.503000
-[Claudia]N	Claudia	PROPN	-	0:29:28.137000	0:29:30.503000
+NAME	NAME	PROPN	-	0:29:28.137000	0:29:30.503000
 ja	ja	ADV	-	0:29:28.137000	0:29:30.503000
 sie	ich	PRON	-	0:29:28.137000	0:29:30.503000
 geht	gehen	VERB	-	0:29:28.137000	0:29:30.503000
@@ -8602,23 +8603,23 @@ liegen	liegen	VERB	-	0:29:28.137000	0:29:30.503000
 ,	-	-	-	0:29:28.137000	0:29:30.503000
 und	und	CCONJ	-	0:29:30.503000	0:29:31.770000
 die	der	DET	-	0:29:30.503000	0:29:31.770000
-[Claudia]N	Claudia	PROPN	-	0:29:30.503000	0:29:31.770000
+NAME	NAME	PROPN	-	0:29:30.503000	0:29:31.770000
 ist	sein	AUX	-	0:29:30.503000	0:29:31.770000
 dann	dann	ADV	-	0:29:30.503000	0:29:31.770000
 wirklich	wirklich	ADJ	-	0:29:30.503000	0:29:31.770000
 gefahren	gefahren	VERB	-	0:29:30.503000	0:29:31.770000
 ,	-	-	-	0:29:30.503000	0:29:31.770000
 der	der	DET	-	0:29:31.770000	0:29:33.230000
-[Martin]N	Martin	PROPN	-	0:29:31.770000	0:29:33.230000
+NAME	NAME	PROPN	-	0:29:31.770000	0:29:33.230000
 ist	sein	AUX	-	0:29:31.770000	0:29:33.230000
 schon	schon	ADV	-	0:29:31.770000	0:29:33.230000
 sitzen	sitzen	VERB	-	0:29:31.770000	0:29:33.230000
 geblieben	bleiben	VERB	-	0:29:31.770000	0:29:33.230000
 .	-	-	-	0:29:31.770000	0:29:33.230000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:33.230000" end="0:29:35.030000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:33.230000" end="0:29:35.030000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:33.230000" end="0:29:48.170000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:33.230000" end="0:29:48.170000" persName="Informant 0373">
 dann	dann	ADV	-	0:29:33.230000	0:29:35.030000
 ja	ja	PART	-	0:29:33.230000	0:29:35.030000
 ,	-	-	-	0:29:33.230000	0:29:35.030000
@@ -8669,36 +8670,36 @@ passt	passt	PROPN	-	0:29:45.737000	0:29:48.170000
 passt"	passt	PROPN	-	0:29:45.737000	0:29:48.170000
 .	-	-	-	0:29:45.737000	0:29:48.170000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:48.170000" end="0:29:49.897000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:48.170000" end="0:29:49.897000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:48.170000" end="0:29:49.897000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:48.170000" end="0:29:49.897000" persName="Informant 0373">
 hinüber	hinüber	NOUN	-	0:29:48.170000	0:29:49.897000
 zur	zur	ADP	-	0:29:48.170000	0:29:49.897000
 Bar	Bar	NOUN	-	0:29:48.170000	0:29:49.897000
 .	-	-	-	0:29:48.170000	0:29:49.897000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:49.897000" end="0:29:50.763000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:49.897000" end="0:29:50.763000" persName="Informant 0371">
 wo	wo	ADV	-	0:29:49.897000	0:29:50.763000
 war/	-	-	-	0:29:49.897000	0:29:50.763000
 ?	-	-	-	0:29:49.897000	0:29:50.763000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:49.897000" end="0:29:50.763000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:49.897000" end="0:29:50.763000" persName="Informant 0373">
 dann	dann	ADV	-	0:29:49.897000	0:29:50.763000
 haben	haben	AUX	-	0:29:49.897000	0:29:50.763000
 wir/	-	-	-	0:29:49.897000	0:29:50.763000
 .	-	-	-	0:29:49.897000	0:29:50.763000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:50.763000" end="0:29:51.857000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:50.763000" end="0:29:51.857000" persName="Informant 0371">
 eh	eh	X	-	0:29:50.763000	0:29:51.857000
 im/	-	-	-	0:29:50.763000	0:29:51.857000
 .	-	-	-	0:29:50.763000	0:29:51.857000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:50.763000" end="0:29:51.857000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:50.763000" end="0:29:51.857000" persName="Informant 0373">
 beim	beim	ADP	-	0:29:50.763000	0:29:51.857000
-[Azzurro]S	Azzurro	NOUN	-	0:29:50.763000	0:29:51.857000
+SONSTIGE	SONSTIGE	NOUN	-	0:29:50.763000	0:29:51.857000
 .	-	-	-	0:29:50.763000	0:29:51.857000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:51.857000" end="0:29:55.630000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:51.857000" end="0:29:55.630000" persName="Informant 0371">
 ach	-	-	-	0:29:51.857000	0:29:53.983000
 so	-	-	-	0:29:51.857000	0:29:53.983000
 w/	-	-	-	0:29:51.857000	0:29:53.983000
@@ -8708,7 +8709,7 @@ war/	-	-	-	0:29:51.857000	0:29:53.983000
 *seids*	-	-	-	0:29:51.857000	0:29:53.983000
 nachher	-	-	-	0:29:51.857000	0:29:53.983000
 zum	-	-	-	0:29:51.857000	0:29:53.983000
-[Azzurro]S	-	-	-	0:29:53.983000	0:29:55.630000
+SONSTIGE	SONSTIGE	-	-	0:29:53.983000	0:29:55.630000
 gefahr/	-	-	-	0:29:53.983000	0:29:55.630000
 ?	-	-	-	0:29:53.983000	0:29:55.630000
 ach	ach	X	-	0:29:53.983000	0:29:55.630000
@@ -8717,11 +8718,11 @@ so	so	ADV	-	0:29:53.983000	0:29:55.630000
 okay	okay	NOUN	-	0:29:53.983000	0:29:55.630000
 .	-	-	-	0:29:53.983000	0:29:55.630000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:53.983000" end="0:29:56.830000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:53.983000" end="0:29:56.830000" persName="Informant 0373">
 nachher	nachher	ADV	-	0:29:53.983000	0:29:55.630000
 sind	sein	AUX	-	0:29:53.983000	0:29:55.630000
 wir	ich	PRON	-	0:29:53.983000	0:29:55.630000
-[Azzurro]S	Azzurro	NOUN	-	0:29:53.983000	0:29:55.630000
+SONSTIGE	SONSTIGE	NOUN	-	0:29:53.983000	0:29:55.630000
 gefahren	gefahren	VERB	-	0:29:53.983000	0:29:55.630000
 ,	-	-	-	0:29:53.983000	0:29:55.630000
 und	und	CCONJ	-	0:29:53.983000	0:29:55.630000
@@ -8733,11 +8734,11 @@ dann	dann	ADV	-	0:29:55.630000	0:29:56.830000
 beschlossen	beschließen	VERB	-	0:29:55.630000	0:29:56.830000
 .	-	-	-	0:29:55.630000	0:29:56.830000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:56.830000" end="0:29:57.263000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:29:56.830000" end="0:29:57.263000" persName="Informant 0371">
 ja	ja	PART	-	0:29:56.830000	0:29:57.263000
 .	-	-	-	0:29:56.830000	0:29:57.263000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:57.263000" end="0:30:02.757000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:29:57.263000" end="0:30:02.757000" persName="Informant 0373">
 und	und	CCONJ	-	0:29:57.263000	0:29:59.063000
 dann	dann	ADV	-	0:29:57.263000	0:29:59.063000
 haben	haben	AUX	-	0:29:57.263000	0:29:59.063000
@@ -8760,21 +8761,21 @@ nur	nur	ADV	-	0:30:01.390000	0:30:02.757000
 doppelte	doppeln	VERB	-	0:30:01.390000	0:30:02.757000
 .	-	-	-	0:30:01.390000	0:30:02.757000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:02.757000" end="0:30:03.557000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:02.757000" end="0:30:03.557000" persName="Informant 0371">
 wäh	wäh	X	-	0:30:02.757000	0:30:03.557000
 .	-	-	-	0:30:02.757000	0:30:03.557000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:02.757000" end="0:30:04.010000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:02.757000" end="0:30:04.010000" persName="Informant 0373">
 die	der	DET	-	0:30:02.757000	0:30:03.557000
-[Theresa]N	Theresa	NOUN	-	0:30:02.757000	0:30:03.557000
+NAME	NAME	NOUN	-	0:30:02.757000	0:30:03.557000
 zuerst	zuerst	ADV	-	0:30:03.557000	0:30:04.010000
 ,	-	-	-	0:30:03.557000	0:30:04.010000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:04.010000" end="0:30:04.497000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:04.010000" end="0:30:04.497000" persName="Informant 0371">
 wäh	wäh	X	-	0:30:04.010000	0:30:04.497000
 .	-	-	-	0:30:04.010000	0:30:04.497000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:04.010000" end="0:30:07.430000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:04.010000" end="0:30:07.430000" persName="Informant 0373">
 also	also	ADV	-	0:30:04.010000	0:30:04.497000
 doppelten	doppeln	ADJ	-	0:30:04.497000	0:30:05.810000
 Gin	Gin	NOUN	-	0:30:04.497000	0:30:05.810000
@@ -8790,7 +8791,7 @@ sehr	sehr	ADV	-	0:30:05.810000	0:30:07.430000
 empfehlen	empfehlen	VERB	-	0:30:05.810000	0:30:07.430000
 .	-	-	-	0:30:05.810000	0:30:07.430000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:07.430000" end="0:30:08.303000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:07.430000" end="0:30:08.303000" persName="Informant 0371">
 das/	-	-	-	0:30:07.430000	0:30:08.303000
 .	-	-	-	0:30:07.430000	0:30:08.303000
 ja	ja	PART	-	0:30:07.430000	0:30:08.303000
@@ -8798,11 +8799,11 @@ ja	ja	PART	-	0:30:07.430000	0:30:08.303000
 das	-	-	-	0:30:07.430000	0:30:08.303000
 *habts*	-	-	-	0:30:07.430000	0:30:08.303000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:07.430000" end="0:30:08.303000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:07.430000" end="0:30:08.303000" persName="Informant 0373">
 und/	-	-	-	0:30:07.430000	0:30:08.303000
 .	-	-	-	0:30:07.430000	0:30:08.303000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:08.303000" end="0:30:11.403000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:08.303000" end="0:30:11.403000" persName="Informant 0371">
 beim/	-	-	-	0:30:08.303000	0:30:09.863000
 .	-	-	-	0:30:08.303000	0:30:09.863000
 bei	-	-	-	0:30:08.303000	0:30:09.863000
@@ -8818,10 +8819,10 @@ der	der	DET	-	0:30:09.863000	0:30:11.403000
 GV	GV	PROPN	-	0:30:09.863000	0:30:11.403000
 von	von	ADP	-	0:30:09.863000	0:30:11.403000
 die	der	DET	-	0:30:09.863000	0:30:11.403000
-[Ruprechter]O	Ruprechter	NOUN	-	0:30:09.863000	0:30:11.403000
+ORT	ORT	NOUN	-	0:30:09.863000	0:30:11.403000
 ?	-	-	-	0:30:09.863000	0:30:11.403000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:11.403000" end="0:30:13.057000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:11.403000" end="0:30:13.057000" persName="Informant 0373">
 ja	ja	PART	-	0:30:11.403000	0:30:12.717000
 ich	ich	PRON	-	0:30:11.403000	0:30:12.717000
 nicht	nicht	PART	-	0:30:11.403000	0:30:12.717000
@@ -8833,12 +8834,12 @@ gefahren	gefahren	VERB	-	0:30:11.403000	0:30:12.717000
 ,	-	-	-	0:30:11.403000	0:30:12.717000
 aber	aber	CCONJ	-	0:30:12.717000	0:30:13.057000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:13.057000" end="0:30:13.410000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:13.057000" end="0:30:13.410000" persName="Informant 0371">
 ah	ah	X	-	0:30:13.057000	0:30:13.410000
 ja	ja	ADV	-	0:30:13.057000	0:30:13.410000
 .	-	-	-	0:30:13.057000	0:30:13.410000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:13.057000" end="0:30:21.243000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:13.057000" end="0:30:21.243000" persName="Informant 0373">
 die	der	DET	-	0:30:13.057000	0:30:13.410000
 anderen	ander	PRON	-	0:30:13.410000	0:30:14.163000
 ,	-	-	-	0:30:13.410000	0:30:14.163000
@@ -8852,7 +8853,7 @@ ja	-	-	-	0:30:14.163000	0:30:17.070000
 passt	-	-	-	0:30:14.163000	0:30:17.070000
 ,	-	-	-	0:30:14.163000	0:30:17.070000
 die	der	DET	-	0:30:17.070000	0:30:19.137000
-[Theresa]N	Theresa	NOUN	-	0:30:17.070000	0:30:19.137000
+NAME	NAME	NOUN	-	0:30:17.070000	0:30:19.137000
 ,	-	-	-	0:30:17.070000	0:30:19.137000
 nein	nein	PART	-	0:30:17.070000	0:30:19.137000
 sie	ich	PRON	-	0:30:17.070000	0:30:19.137000
@@ -8864,15 +8865,15 @@ einfachen	einfach	ADJ	-	0:30:17.070000	0:30:19.137000
 gell	gell	ADJ	-	0:30:17.070000	0:30:19.137000
 .	-	-	-	0:30:17.070000	0:30:19.137000
 <pause duration="0,9s"/>
-[Stefan]N	Stefan	PROPN	-	0:30:19.137000	0:30:21.243000
+NAME	NAME	PROPN	-	0:30:19.137000	0:30:21.243000
 (nichts	nichts	PRON	-	0:30:19.137000	0:30:21.243000
 zu)	zu	PART	-	0:30:19.137000	0:30:21.243000
 blöd	blöd	ADJ	-	0:30:19.137000	0:30:21.243000
 .	-	-	-	0:30:19.137000	0:30:21.243000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:21.243000" end="0:30:22.963000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:21.243000" end="0:30:22.963000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:21.243000" end="0:30:28.017000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:21.243000" end="0:30:28.017000" persName="Informant 0373">
 geht	gehen	VERB	-	0:30:21.243000	0:30:22.963000
 her	her	ADV	-	0:30:21.243000	0:30:22.963000
 <pause duration="1,2s"/>
@@ -8888,11 +8889,11 @@ so	-	-	-	0:30:26.263000	0:30:28.017000
 eine	-	-	-	0:30:26.263000	0:30:28.017000
 Verfechterin	-	-	-	0:30:26.263000	0:30:28.017000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:28.017000" end="0:30:28.623000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:28.017000" end="0:30:28.623000" persName="Informant 0371">
 ja	ja	PART	-	0:30:28.017000	0:30:28.623000
 .	-	-	-	0:30:28.017000	0:30:28.623000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:28.017000" end="0:30:30.623000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:28.017000" end="0:30:30.623000" persName="Informant 0373">
 davon	-	-	-	0:30:28.017000	0:30:28.623000
 ."	-	-	-	0:30:28.017000	0:30:28.623000
 "das	der	PRON	-	0:30:28.623000	0:30:30.623000
@@ -8906,9 +8907,9 @@ sitzen	sitzen	VERB	-	0:30:28.623000	0:30:30.623000
 lassen	lassen	VERB	-	0:30:28.623000	0:30:30.623000
 ,	-	-	-	0:30:28.623000	0:30:30.623000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:30.623000" end="0:30:32.177000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:30.623000" end="0:30:32.177000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:30.623000" end="0:30:40.330000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:30.623000" end="0:30:40.330000" persName="Informant 0373">
 Kellner	Kellner	NOUN	-	0:30:30.623000	0:30:32.177000
 ,	-	-	-	0:30:30.623000	0:30:32.177000
 für	für	ADP	-	0:30:30.623000	0:30:32.177000
@@ -8955,12 +8956,12 @@ also	also	ADV	-	0:30:38.430000	0:30:40.330000
 zuerst	zuerst	ADV	-	0:30:38.430000	0:30:40.330000
 ,	-	-	-	0:30:38.430000	0:30:40.330000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:40.330000" end="0:30:40.977000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:40.330000" end="0:30:40.977000" persName="Informant 0371">
 ja	ja	ADV	-	0:30:40.330000	0:30:40.977000
 ja	ja	PART	-	0:30:40.330000	0:30:40.977000
 .	-	-	-	0:30:40.330000	0:30:40.977000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:40.330000" end="0:30:49.983000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:40.330000" end="0:30:49.983000" persName="Informant 0373">
 gell	gell	ADJ	-	0:30:40.330000	0:30:40.977000
 .	-	-	-	0:30:40.330000	0:30:40.977000
 und	und	CCONJ	-	0:30:40.977000	0:30:43.263000
@@ -8970,7 +8971,7 @@ Hinausgehen	Hinausgehen	NOUN	-	0:30:40.977000	0:30:43.263000
 sage	sage	VERB	-	0:30:40.977000	0:30:43.263000
 ich	ich	PRON	-	0:30:40.977000	0:30:43.263000
 "aufpassen	aufpassen	ADJ	-	0:30:43.263000	0:30:44.243000
-[Theresa]N	Theresa	NOUN	-	0:30:43.263000	0:30:44.243000
+NAME	NAME	NOUN	-	0:30:43.263000	0:30:44.243000
 ,	-	-	-	0:30:43.263000	0:30:44.243000
 da	da	ADV	-	0:30:44.243000	0:30:46.197000
 kommt	kommen	VERB	-	0:30:44.243000	0:30:46.197000
@@ -8979,25 +8980,25 @@ die	der	DET	-	0:30:44.243000	0:30:46.197000
 Duftwatsche"	Duftwatsche	NOUN	-	0:30:44.243000	0:30:46.197000
 gell	gell	ADJ	-	0:30:44.243000	0:30:46.197000
 .	-	-	-	0:30:44.243000	0:30:46.197000
-[Theresa]N	Theresa	NOUN	-	0:30:46.197000	0:30:47.017000
+NAME	NAME	NOUN	-	0:30:46.197000	0:30:47.017000
 geht	gehen	VERB	-	0:30:46.197000	0:30:47.017000
 hinaus	hinaus	ADP	-	0:30:46.197000	0:30:47.017000
 ,	-	-	-	0:30:46.197000	0:30:47.017000
 nichts	nichts	PRON	-	0:30:47.017000	0:30:47.583000
 passiert	passieren	VERB	-	0:30:47.017000	0:30:47.583000
 ,	-	-	-	0:30:47.017000	0:30:47.583000
-[Wombi]N	Wombi	PROPN	-	0:30:47.583000	0:30:48.497000
+NAME	NAME	PROPN	-	0:30:47.583000	0:30:48.497000
 geht	gehen	VERB	-	0:30:47.583000	0:30:48.497000
 hinaus	hinaus	ADP	-	0:30:47.583000	0:30:48.497000
 ,	-	-	-	0:30:47.583000	0:30:48.497000
 und	-	-	-	0:30:48.497000	0:30:49.983000
 beim	-	-	-	0:30:48.497000	0:30:49.983000
-[Wombi]N	-	-	-	0:30:48.497000	0:30:49.983000
+NAME	NAME	-	-	0:30:48.497000	0:30:49.983000
 *hast*	-	-	-	0:30:48.497000	0:30:49.983000
 gesehen	-	-	-	0:30:48.497000	0:30:49.983000
 ,	-	-	-	0:30:48.497000	0:30:49.983000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:49.983000" end="0:30:51.483000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:49.983000" end="0:30:51.483000" persName="Informant 0371">
 wie	wie	ADV	-	0:30:49.983000	0:30:51.483000
 es	ich	PRON	-	0:30:49.983000	0:30:51.483000
 bergab	bergab	ADV	-	0:30:49.983000	0:30:51.483000
@@ -9005,7 +9006,7 @@ gegangen	gehen	VERB	-	0:30:49.983000	0:30:51.483000
 ist	sein	AUX	-	0:30:49.983000	0:30:51.483000
 .	-	-	-	0:30:49.983000	0:30:51.483000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:49.983000" end="0:30:52.217000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:49.983000" end="0:30:52.217000" persName="Informant 0373">
 wie	wie	ADV	-	0:30:49.983000	0:30:51.483000
 es	ich	PRON	-	0:30:49.983000	0:30:51.483000
 den	der	DET	-	0:30:49.983000	0:30:51.483000
@@ -9015,19 +9016,19 @@ die	der	DET	-	0:30:49.983000	0:30:51.483000
 Seite	Seite	NOUN	-	0:30:51.483000	0:30:52.217000
 haut	haut	VERB	-	0:30:51.483000	0:30:52.217000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:52.217000" end="0:30:53.103000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:52.217000" end="0:30:53.103000" persName="Informant 0371">
 echt	echt	ADJ	-	0:30:52.217000	0:30:53.103000
 ?	-	-	-	0:30:52.217000	0:30:53.103000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:52.217000" end="0:30:53.103000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:52.217000" end="0:30:53.103000" persName="Informant 0373">
 von	von	ADP	-	0:30:52.217000	0:30:53.103000
 der	der	DET	-	0:30:52.217000	0:30:53.103000
 Watsche	Watsche	NOUN	-	0:30:52.217000	0:30:53.103000
 .	-	-	-	0:30:52.217000	0:30:53.103000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:53.103000" end="0:30:55.823000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:53.103000" end="0:30:55.823000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:53.103000" end="0:30:55.823000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:53.103000" end="0:30:55.823000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:30:53.103000	0:30:55.823000
 ,	-	-	-	0:30:53.103000	0:30:55.823000
 da	da	ADV	-	0:30:53.103000	0:30:55.823000
@@ -9037,11 +9038,11 @@ bergab	bergab	ADV	-	0:30:53.103000	0:30:55.823000
 gegangen	gehen	VERB	-	0:30:53.103000	0:30:55.823000
 .	-	-	-	0:30:53.103000	0:30:55.823000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:55.823000" end="0:30:56.263000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:55.823000" end="0:30:56.263000" persName="Informant 0371">
 geil	geil	NOUN	-	0:30:55.823000	0:30:56.263000
 .	-	-	-	0:30:55.823000	0:30:56.263000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:56.263000" end="0:30:58.770000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:56.263000" end="0:30:58.770000" persName="Informant 0373">
 habe	habe	AUX	-	0:30:56.263000	0:30:56.757000
 dann	dann	ADV	-	0:30:56.263000	0:30:56.757000
 gesagt	sagen	VERB	-	0:30:56.263000	0:30:56.757000
@@ -9052,22 +9053,22 @@ selber	selber	ADV	-	0:30:56.757000	0:30:57.777000
 Schuld"	Schuld	NOUN	-	0:30:56.757000	0:30:57.777000
 .	-	-	-	0:30:56.757000	0:30:57.777000
 zur	zur	ADP	-	0:30:57.777000	0:30:58.770000
-[Theresa]N	Theresa	NOUN	-	0:30:57.777000	0:30:58.770000
+NAME	NAME	NOUN	-	0:30:57.777000	0:30:58.770000
 sage	sage	VERB	-	0:30:57.777000	0:30:58.770000
 ich	ich	PRON	-	0:30:57.777000	0:30:58.770000
 es	ich	PRON	-	0:30:57.777000	0:30:58.770000
 ,	-	-	-	0:30:57.777000	0:30:58.770000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:58.770000" end="0:31:01.217000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:30:58.770000" end="0:31:01.217000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:58.770000" end="0:31:01.217000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:30:58.770000" end="0:31:01.217000" persName="Informant 0373">
 und	und	CCONJ	-	0:30:58.770000	0:31:01.217000
 zum	zum	ADP	-	0:30:58.770000	0:31:01.217000
-[Wombi]N	Wombi	NOUN	-	0:30:58.770000	0:31:01.217000
+NAME	NAME	NOUN	-	0:30:58.770000	0:31:01.217000
 nicht	nicht	PART	-	0:30:58.770000	0:31:01.217000
 .	-	-	-	0:30:58.770000	0:31:01.217000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:01.217000" end="0:31:03.123000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:01.217000" end="0:31:03.123000" persName="Informant 0371">
 ja	ja	ADV	-	0:31:01.217000	0:31:02.677000
 sie	ich	PRON	-	0:31:01.217000	0:31:02.677000
 hat	haben	AUX	-	0:31:01.217000	0:31:02.677000
@@ -9078,23 +9079,23 @@ sie	ich	PRON	-	0:31:02.677000	0:31:03.123000
 es	ich	PRON	-	0:31:02.677000	0:31:03.123000
 nicht	nicht	PART	-	0:31:02.677000	0:31:03.123000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:02.677000" end="0:31:03.123000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:02.677000" end="0:31:03.123000" persName="Informant 0373">
 ja	ja	PART	-	0:31:02.677000	0:31:03.123000
 .	-	-	-	0:31:02.677000	0:31:03.123000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:03.123000" end="0:31:04.137000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:03.123000" end="0:31:04.137000" persName="Informant 0371">
 erwischt	erwischen	VERB	-	0:31:03.123000	0:31:03.523000
 ,	-	-	-	0:31:03.123000	0:31:03.523000
 die	der	DET	-	0:31:03.523000	0:31:04.137000
 Watsche	Watsche	NOUN	-	0:31:03.523000	0:31:04.137000
 .	-	-	-	0:31:03.523000	0:31:04.137000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:03.523000" end="0:31:06.777000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:03.523000" end="0:31:06.777000" persName="Informant 0373">
 genau	genau	ADJ	-	0:31:03.523000	0:31:04.137000
 .	-	-	-	0:31:03.523000	0:31:04.137000
 und	und	CCONJ	-	0:31:04.137000	0:31:06.777000
 der	der	DET	-	0:31:04.137000	0:31:06.777000
-[Wombi]N	Wombi	NOUN	-	0:31:04.137000	0:31:06.777000
+NAME	NAME	NOUN	-	0:31:04.137000	0:31:06.777000
 hat	haben	AUX	-	0:31:04.137000	0:31:06.777000
 halt	halt	ADV	-	0:31:04.137000	0:31:06.777000
 die	der	DET	-	0:31:04.137000	0:31:06.777000
@@ -9102,43 +9103,43 @@ volle	voll	ADJ	-	0:31:04.137000	0:31:06.777000
 abgefangen	abfangen	NOUN	-	0:31:04.137000	0:31:06.777000
 .	-	-	-	0:31:04.137000	0:31:06.777000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:06.777000" end="0:31:07.477000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:06.777000" end="0:31:07.477000" persName="Informant 0371">
 (ach	ach	X	-	0:31:06.777000	0:31:07.477000
 geh)	geh	X	-	0:31:06.777000	0:31:07.477000
 .	-	-	-	0:31:06.777000	0:31:07.477000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:07.477000" end="0:31:09.143000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:07.477000" end="0:31:09.143000" persName="Informant 0373">
 der	der	PRON	-	0:31:07.477000	0:31:09.143000
 hat	haben	AUX	-	0:31:07.477000	0:31:09.143000
 dann	dann	ADV	-	0:31:07.477000	0:31:09.143000
 ein	einen	DET	-	0:31:07.477000	0:31:09.143000
 Brett	Brett	NOUN	-	0:31:07.477000	0:31:09.143000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:09.143000" end="0:31:09.957000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:09.143000" end="0:31:09.957000" persName="Informant 0371">
 echt	echt	ADJ	-	0:31:09.143000	0:31:09.957000
 ?	-	-	-	0:31:09.143000	0:31:09.957000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:09.143000" end="0:31:20.723000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:09.143000" end="0:31:20.723000" persName="Informant 0373">
 gehabt	haben	AUX	-	0:31:09.143000	0:31:09.957000
 ?	-	-	-	0:31:09.143000	0:31:09.957000
 dann	dann	ADV	-	0:31:09.957000	0:31:11.157000
 sind	sein	AUX	-	0:31:09.957000	0:31:11.157000
 wir	ich	PRON	-	0:31:09.957000	0:31:11.157000
-[Loco]S	Loco	NOUN	-	0:31:09.957000	0:31:11.157000
+SONSTIGE	SONSTIGE	NOUN	-	0:31:09.957000	0:31:11.157000
 gegangen	gehen	VERB	-	0:31:09.957000	0:31:11.157000
 ,	-	-	-	0:31:09.957000	0:31:11.157000
 nein	nein	PART	-	0:31:11.157000	0:31:13.123000
 zuerst	zuerst	ADV	-	0:31:11.157000	0:31:13.123000
-[Struhl]S	Struhl	NOUN	-	0:31:11.157000	0:31:13.123000
+SONSTIGE	SONSTIGE	NOUN	-	0:31:11.157000	0:31:13.123000
 ,	-	-	-	0:31:11.157000	0:31:13.123000
 dann	dann	ADV	-	0:31:11.157000	0:31:13.123000
-[Loco]S	Loco	NOUN	-	0:31:11.157000	0:31:13.123000
+SONSTIGE	SONSTIGE	NOUN	-	0:31:11.157000	0:31:13.123000
 ,	-	-	-	0:31:11.157000	0:31:13.123000
 und	und	CCONJ	-	0:31:13.123000	0:31:15.077000
 nachher	nachher	ADV	-	0:31:13.123000	0:31:15.077000
 sind	sein	AUX	-	0:31:13.123000	0:31:15.077000
 wir	ich	PRON	-	0:31:13.123000	0:31:15.077000
-[Weiz]O	Weiz	NOUN	-	0:31:13.123000	0:31:15.077000
+ORT	ORT	NOUN	-	0:31:13.123000	0:31:15.077000
 gefahren	gefahren	VERB	-	0:31:13.123000	0:31:15.077000
 .	-	-	-	0:31:13.123000	0:31:15.077000
 und	und	CCONJ	-	0:31:15.077000	0:31:17.977000
@@ -9160,20 +9161,20 @@ tut	tun	VERB	-	0:31:17.977000	0:31:19.217000
 gegenüber	gegenüber	ADP	-	0:31:19.217000	0:31:20.723000
 von	von	ADP	-	0:31:19.217000	0:31:20.723000
 der	der	DET	-	0:31:19.217000	0:31:20.723000
-[Siemens]S	Siemens	PROPN	-	0:31:19.217000	0:31:20.723000
+SONSTIGE	SONSTIGE	PROPN	-	0:31:19.217000	0:31:20.723000
 .	-	-	-	0:31:19.217000	0:31:20.723000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:20.723000" end="0:31:23.403000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:20.723000" end="0:31:23.403000" persName="Informant 0371">
 <pause duration="1,5s"/>
 ach	ach	X	-	0:31:20.723000	0:31:22.663000
 so	so	ADV	-	0:31:20.723000	0:31:22.663000
 ,	-	-	-	0:31:20.723000	0:31:22.663000
 de/	-	-	-	0:31:22.663000	0:31:23.403000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:22.663000" end="0:31:23.403000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:22.663000" end="0:31:23.403000" persName="Informant 0373">
 der	der	DET	-	0:31:22.663000	0:31:23.403000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:23.403000" end="0:31:24.803000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:23.403000" end="0:31:24.803000" persName="Informant 0371">
 der	-	-	-	0:31:23.403000	0:31:23.763000
 hat	-	-	-	0:31:23.403000	0:31:23.763000
 ein	-	-	-	0:31:23.403000	0:31:23.763000
@@ -9181,13 +9182,13 @@ wildgutes	-	-	-	0:31:23.763000	0:31:24.803000
 _dings_	-	-	-	0:31:23.763000	0:31:24.803000
 ,	-	-	-	0:31:23.763000	0:31:24.803000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:23.763000" end="0:31:24.803000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:23.763000" end="0:31:24.803000" persName="Informant 0373">
 beim	beim	ADP	-	0:31:23.763000	0:31:24.803000
 roten	rot	ADJ	-	0:31:23.763000	0:31:24.803000
 Turm	Turm	NOUN	-	0:31:23.763000	0:31:24.803000
 .	-	-	-	0:31:23.763000	0:31:24.803000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:24.803000" end="0:31:27.383000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:24.803000" end="0:31:27.383000" persName="Informant 0371">
 der	der	PRON	-	0:31:24.803000	0:31:27.383000
 hat	haben	AUX	-	0:31:24.803000	0:31:27.383000
 ein	einen	DET	-	0:31:24.803000	0:31:27.383000
@@ -9195,7 +9196,7 @@ wildgutes	wildgutes	ADJ	-	0:31:24.803000	0:31:27.383000
 Käsekrainerhotdog	Käsekrainerhotdog	NOUN	-	0:31:24.803000	0:31:27.383000
 .	-	-	-	0:31:24.803000	0:31:27.383000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:27.383000" end="0:31:29.557000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:27.383000" end="0:31:29.557000" persName="Informant 0373">
 hat	haben	AUX	-	0:31:27.383000	0:31:28.843000
 er	ich	PRON	-	0:31:27.383000	0:31:28.843000
 eine	einen	DET	-	0:31:27.383000	0:31:28.843000
@@ -9209,7 +9210,7 @@ nicht	nicht	PART	-	0:31:28.843000	0:31:29.557000
 gesehen	sehen	VERB	-	0:31:28.843000	0:31:29.557000
 ,	-	-	-	0:31:28.843000	0:31:29.557000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:29.557000" end="0:31:30.970000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:29.557000" end="0:31:30.970000" persName="Informant 0371">
 das/	-	-	-	0:31:29.557000	0:31:30.970000
 .	-	-	-	0:31:29.557000	0:31:30.970000
 normal	normal	ADJ	-	0:31:29.557000	0:31:30.970000
@@ -9217,7 +9218,7 @@ das	der	DET	-	0:31:29.557000	0:31:30.970000
 muss	muss	NOUN	-	0:31:29.557000	0:31:30.970000
 der	der	DET	-	0:31:29.557000	0:31:30.970000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:29.557000" end="0:31:30.970000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:29.557000" end="0:31:30.970000" persName="Informant 0373">
 ich	ich	PRON	-	0:31:29.557000	0:31:30.970000
 habe	habe	AUX	-	0:31:29.557000	0:31:30.970000
 eine	einen	DET	-	0:31:29.557000	0:31:30.970000
@@ -9225,7 +9226,7 @@ Leberkässemmel	Leberkässemmel	NOUN	-	0:31:29.557000	0:31:30.970000
 gegessen	essen	VERB	-	0:31:29.557000	0:31:30.970000
 .	-	-	-	0:31:29.557000	0:31:30.970000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:30.970000" end="0:31:34.410000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:30.970000" end="0:31:34.410000" persName="Informant 0371">
 das	der	DET	-	0:31:30.970000	0:31:32.117000
 muss	muss	NOUN	-	0:31:30.970000	0:31:32.117000
 der	der	DET	-	0:31:30.970000	0:31:32.117000
@@ -9246,12 +9247,12 @@ kleiner	klein	ADJ	-	0:31:32.117000	0:31:34.410000
 Stand	Stand	NOUN	-	0:31:32.117000	0:31:34.410000
 .	-	-	-	0:31:32.117000	0:31:34.410000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:34.410000" end="0:31:35.130000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:34.410000" end="0:31:35.130000" persName="Informant 0373">
 ja	ja	ADV	-	0:31:34.410000	0:31:35.130000
 genau	genau	ADJ	-	0:31:34.410000	0:31:35.130000
 .	-	-	-	0:31:34.410000	0:31:35.130000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:35.130000" end="0:31:36.317000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:35.130000" end="0:31:36.317000" persName="Informant 0371">
 ja	ja	PART	-	0:31:35.130000	0:31:35.490000
 ,	-	-	-	0:31:35.130000	0:31:35.490000
 der	der	PRON	-	0:31:35.490000	0:31:36.317000
@@ -9261,7 +9262,7 @@ gutes	gutes	NOUN	-	0:31:35.490000	0:31:36.317000
 Käsekrainer/	-	-	-	0:31:35.490000	0:31:36.317000
 .	-	-	-	0:31:35.490000	0:31:36.317000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:35.490000" end="0:31:38.123000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:35.490000" end="0:31:38.123000" persName="Informant 0373">
 und	und	CCONJ	-	0:31:35.490000	0:31:36.317000
 der	der	PRON	-	0:31:35.490000	0:31:36.317000
 hat	haben	AUX	-	0:31:35.490000	0:31:36.317000
@@ -9274,11 +9275,11 @@ so	so	ADV	-	0:31:36.317000	0:31:38.123000
 zusammengestellt	zusammenstellen	VERB	-	0:31:36.317000	0:31:38.123000
 ,	-	-	-	0:31:36.317000	0:31:38.123000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:38.123000" end="0:31:38.437000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:38.123000" end="0:31:38.437000" persName="Informant 0371">
 ja	ja	PART	-	0:31:38.123000	0:31:38.437000
 .	-	-	-	0:31:38.123000	0:31:38.437000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:38.123000" end="0:31:40.317000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:38.123000" end="0:31:40.317000" persName="Informant 0373">
 und	und	CCONJ	-	0:31:38.123000	0:31:38.437000
 da	da	ADV	-	0:31:38.123000	0:31:38.437000
 drin	drin	ADV	-	0:31:38.437000	0:31:39.463000
@@ -9291,7 +9292,7 @@ hinten	hinten	ADV	-	0:31:39.463000	0:31:40.317000
 drin	drin	ADV	-	0:31:39.463000	0:31:40.317000
 ist	sein	AUX	-	0:31:39.463000	0:31:40.317000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:40.317000" end="0:31:41.583000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:40.317000" end="0:31:41.583000" persName="Informant 0371">
 dort	-	-	-	0:31:40.317000	0:31:41.583000
 *seids*	-	-	-	0:31:40.317000	0:31:41.583000
 ihr	-	-	-	0:31:40.317000	0:31:41.583000
@@ -9299,7 +9300,7 @@ drinnen	-	-	-	0:31:40.317000	0:31:41.583000
 gewesen	-	-	-	0:31:40.317000	0:31:41.583000
 ?	-	-	-	0:31:40.317000	0:31:41.583000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:40.317000" end="0:31:45.323000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:40.317000" end="0:31:45.323000" persName="Informant 0373">
 sein	mein	DET	-	0:31:40.317000	0:31:41.583000
 Raucherkammerl	Raucherkammerl	NOUN	-	0:31:40.317000	0:31:41.583000
 .	-	-	-	0:31:40.317000	0:31:41.583000
@@ -9310,7 +9311,7 @@ drin	drin	ADV	-	0:31:41.583000	0:31:42.363000
 ,	-	-	-	0:31:41.583000	0:31:42.363000
 weil	weil	SCONJ	-	0:31:42.363000	0:31:44.383000
 der	der	DET	-	0:31:42.363000	0:31:44.383000
-[Martin]N	Martin	PROPN	-	0:31:42.363000	0:31:44.383000
+NAME	NAME	PROPN	-	0:31:42.363000	0:31:44.383000
 "ja	ja	ADV	-	0:31:42.363000	0:31:44.383000
 e/	-	-	-	0:31:42.363000	0:31:44.383000
 er	ich	PRON	-	0:31:42.363000	0:31:44.383000
@@ -9323,12 +9324,12 @@ geht	gehen	VERB	-	0:31:44.383000	0:31:45.323000
 das	der	PRON	-	0:31:44.383000	0:31:45.323000
 nicht	nicht	PART	-	0:31:44.383000	0:31:45.323000
 im	im	ADP	-	0:31:44.383000	0:31:45.323000
-[(Tal)haus]S	Talhaus	PROPN	-	0:31:44.383000	0:31:45.323000
+SONSTIGE	SONSTIGE	PROPN	-	0:31:44.383000	0:31:45.323000
 ,	-	-	-	0:31:44.383000	0:31:45.323000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:45.323000" end="0:31:48.957000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:45.323000" end="0:31:48.957000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:45.323000" end="0:31:51.950000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:45.323000" end="0:31:51.950000" persName="Informant 0373">
 nein	nein	PART	-	0:31:45.323000	0:31:48.957000
 ,	-	-	-	0:31:45.323000	0:31:48.957000
 er	ich	PRON	-	0:31:45.323000	0:31:48.957000
@@ -9342,7 +9343,7 @@ oft/	-	-	-	0:31:48.957000	0:31:50.683000
 .	-	-	-	0:31:48.957000	0:31:50.683000
 und	und	CCONJ	-	0:31:48.957000	0:31:50.683000
 der	der	DET	-	0:31:48.957000	0:31:50.683000
-[Wombi]N	Wombi	NOUN	-	0:31:48.957000	0:31:50.683000
+NAME	NAME	NOUN	-	0:31:48.957000	0:31:50.683000
 kommt	kommen	VERB	-	0:31:48.957000	0:31:50.683000
 hinein	hinein	ADV	-	0:31:48.957000	0:31:50.683000
 "(boa)	boa	NOUN	-	0:31:50.683000	0:31:51.950000
@@ -9353,9 +9354,9 @@ da	da	ADV	-	0:31:50.683000	0:31:51.950000
 geil	geil	NOUN	-	0:31:50.683000	0:31:51.950000
 ,	-	-	-	0:31:50.683000	0:31:51.950000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:51.950000" end="0:31:54.630000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:51.950000" end="0:31:54.630000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:51.950000" end="0:31:54.630000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:51.950000" end="0:31:54.630000" persName="Informant 0373">
 ich	ich	PRON	-	0:31:51.950000	0:31:54.630000
 zahle	zahlen	VERB	-	0:31:51.950000	0:31:54.630000
 mal	mal	ADV	-	0:31:51.950000	0:31:54.630000
@@ -9365,11 +9366,11 @@ Runde	Rund	NOUN	-	0:31:51.950000	0:31:54.630000
 Bier"	Bier	NOUN	-	0:31:51.950000	0:31:54.630000
 .	-	-	-	0:31:51.950000	0:31:54.630000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:54.630000" end="0:31:55.010000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:31:54.630000" end="0:31:55.010000" persName="Informant 0371">
 echt	echt	ADJ	-	0:31:54.630000	0:31:55.010000
 ?	-	-	-	0:31:54.630000	0:31:55.010000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:55.010000" end="0:32:03.157000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:31:55.010000" end="0:32:03.157000" persName="Informant 0373">
 ja	ja	PART	-	0:31:55.010000	0:31:55.597000
 .	-	-	-	0:31:55.010000	0:31:55.597000
 alle	all	PRON	-	0:31:55.597000	0:31:57.010000
@@ -9391,7 +9392,7 @@ Bier	Bier	NOUN	-	0:31:57.523000	0:31:59.303000
 kleines	klein	ADJ	-	0:31:57.523000	0:31:59.303000
 Bier	Bier	NOUN	-	0:31:57.523000	0:31:59.303000
 .	-	-	-	0:31:57.523000	0:31:59.303000
-[Martin]N	Martin	PROPN	-	0:31:59.303000	0:32:00.130000
+NAME	NAME	PROPN	-	0:31:59.303000	0:32:00.130000
 kleines	klein	PROPN	-	0:31:59.303000	0:32:00.130000
 Bier	Bier	NOUN	-	0:31:59.303000	0:32:00.130000
 ,	-	-	-	0:31:59.303000	0:32:00.130000
@@ -9407,11 +9408,11 @@ große	groß	ADJ	-	0:32:01.743000	0:32:03.157000
 Bier"	Bier	NOUN	-	0:32:01.743000	0:32:03.157000
 .	-	-	-	0:32:01.743000	0:32:03.157000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:03.157000" end="0:32:04.837000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:03.157000" end="0:32:04.837000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:03.157000" end="0:32:04.837000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:03.157000" end="0:32:04.837000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:04.837000" end="0:32:07.230000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:04.837000" end="0:32:07.230000" persName="Informant 0371">
 ja	ja	ADV	-	0:32:04.837000	0:32:05.770000
 wenn	wenn	SCONJ	-	0:32:04.837000	0:32:05.770000
 du	du	PRON	-	0:32:04.837000	0:32:05.770000
@@ -9425,7 +9426,7 @@ die/	-	-	-	0:32:05.770000	0:32:07.230000
 nein	nein	PART	-	0:32:05.770000	0:32:07.230000
 .	-	-	-	0:32:05.770000	0:32:07.230000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:05.770000" end="0:32:09.557000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:05.770000" end="0:32:09.557000" persName="Informant 0373">
 ja	ja	PART	-	0:32:05.770000	0:32:07.230000
 .	-	-	-	0:32:05.770000	0:32:07.230000
 das	der	DET	-	0:32:05.770000	0:32:07.230000
@@ -9435,11 +9436,11 @@ so	so	ADV	-	0:32:07.230000	0:32:09.557000
 witzig	witzig	ADJ	-	0:32:07.230000	0:32:09.557000
 .	-	-	-	0:32:07.230000	0:32:09.557000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:09.557000" end="0:32:10.223000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:09.557000" end="0:32:10.223000" persName="Informant 0371">
 geil	geil	NOUN	-	0:32:09.557000	0:32:10.223000
 .	-	-	-	0:32:09.557000	0:32:10.223000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:10.223000" end="0:32:20.710000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:10.223000" end="0:32:20.710000" persName="Informant 0373">
 dann	-	-	-	0:32:10.223000	0:32:13.010000
 haben	-	-	-	0:32:10.223000	0:32:13.010000
 sie	-	-	-	0:32:10.223000	0:32:13.010000
@@ -9451,7 +9452,7 @@ und	und	CCONJ	-	0:32:13.010000	0:32:14.350000
 dann	dann	ADV	-	0:32:13.010000	0:32:14.350000
 hinein	hinein	ADV	-	0:32:13.010000	0:32:14.350000
 ins	ins	ADP	-	0:32:13.010000	0:32:14.350000
-[Talhaus]S	Talhaus	PROPN	-	0:32:13.010000	0:32:14.350000
+SONSTIGE	SONSTIGE	PROPN	-	0:32:13.010000	0:32:14.350000
 ,	-	-	-	0:32:13.010000	0:32:14.350000
 und	und	CCONJ	-	0:32:14.350000	0:32:16.090000
 dann	dann	ADV	-	0:32:14.350000	0:32:16.090000
@@ -9471,7 +9472,7 @@ meinen	mein	DET	-	0:32:16.090000	0:32:19.010000
 Nachbarn	Nachbar	NOUN	-	0:32:16.090000	0:32:19.010000
 ,	-	-	-	0:32:16.090000	0:32:19.010000
 den	der	DET	-	0:32:16.090000	0:32:19.010000
-[Hannes]N	Hannes	NOUN	-	0:32:16.090000	0:32:19.010000
+NAME	NAME	NOUN	-	0:32:16.090000	0:32:19.010000
 ,	-	-	-	0:32:16.090000	0:32:19.010000
 meinen	-	-	-	0:32:16.090000	0:32:19.010000
 _Firmged_	-	-	-	0:32:16.090000	0:32:19.010000
@@ -9483,7 +9484,7 @@ wieder	wieder	ADV	-	0:32:19.010000	0:32:20.710000
 gepoltert	poltern	VERB	-	0:32:19.010000	0:32:20.710000
 .	-	-	-	0:32:19.010000	0:32:20.710000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:20.710000" end="0:32:22.543000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:20.710000" end="0:32:22.543000" persName="Informant 0371">
 die	der	PRON	-	0:32:20.710000	0:32:22.543000
 tun	tun	NOUN	Prog ProgKon tunP	0:32:20.710000	0:32:22.543000
 ja	ja	ADV	-	0:32:20.710000	0:32:22.543000
@@ -9493,7 +9494,7 @@ poltern	poltern	VERB	Prog ProgKon tunP	0:32:20.710000	0:32:22.543000
 oder	oder	CCONJ	-	0:32:20.710000	0:32:22.543000
 ?	-	-	-	0:32:20.710000	0:32:22.543000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:20.710000" end="0:32:26.610000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:20.710000" end="0:32:26.610000" persName="Informant 0373">
 ei/	-	-	-	0:32:20.710000	0:32:22.543000
 ja	ja	PART	-	0:32:20.710000	0:32:22.543000
 .	-	-	-	0:32:20.710000	0:32:22.543000
@@ -9507,29 +9508,29 @@ Vollbrett	Vollbrett	NOUN	-	0:32:24.063000	0:32:26.610000
 gehabt	haben	AUX	-	0:32:24.063000	0:32:26.610000
 .	-	-	-	0:32:24.063000	0:32:26.610000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:26.610000" end="0:32:28.263000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:26.610000" end="0:32:28.263000" persName="Informant 0371">
 geil	geil	NOUN	-	0:32:26.610000	0:32:28.263000
 .	-	-	-	0:32:26.610000	0:32:28.263000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:26.610000" end="0:32:28.263000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:26.610000" end="0:32:28.263000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:28.263000" end="0:32:30.163000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:28.263000" end="0:32:30.163000" persName="Informant 0371">
 bist	sein	AUX	-	0:32:28.263000	0:32:30.163000
 du	du	PRON	-	0:32:28.263000	0:32:30.163000
 deppert	deppert	VERB	-	0:32:28.263000	0:32:30.163000
 .	-	-	-	0:32:28.263000	0:32:30.163000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:28.263000" end="0:32:30.163000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:28.263000" end="0:32:30.163000" persName="Informant 0373">
 das	der	PRON	-	0:32:28.263000	0:32:30.163000
 war	sein	AUX	-	0:32:28.263000	0:32:30.163000
 schon	schon	ADV	-	0:32:28.263000	0:32:30.163000
 witzig	witzig	ADJ	-	0:32:28.263000	0:32:30.163000
 .	-	-	-	0:32:28.263000	0:32:30.163000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:30.163000" end="0:32:32.517000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:30.163000" end="0:32:32.517000" persName="Informant 0371">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:32.517000" end="0:32:33.783000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:32.517000" end="0:32:33.783000" persName="Informant 0373">
 nein	nein	PART	-	0:32:32.517000	0:32:33.783000
 ,	-	-	-	0:32:32.517000	0:32:33.783000
 war	sein	AUX	-	0:32:32.517000	0:32:33.783000
@@ -9538,18 +9539,18 @@ ein	einen	DET	-	0:32:32.517000	0:32:33.783000
 Spaß	Spaß	NOUN	-	0:32:32.517000	0:32:33.783000
 .	-	-	-	0:32:32.517000	0:32:33.783000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:33.783000" end="0:32:34.663000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:33.783000" end="0:32:34.663000" persName="Informant 0371">
 (wie	wie	ADV	-	0:32:33.783000	0:32:34.663000
 die/	-	-	-	0:32:33.783000	0:32:34.663000
 .)	-	-	-	0:32:33.783000	0:32:34.663000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:33.783000" end="0:32:35.210000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:33.783000" end="0:32:35.210000" persName="Informant 0373">
 so	so	ADV	-	0:32:33.783000	0:32:34.663000
 spontan	spontan	ADJ	-	0:32:33.783000	0:32:34.663000
 nämlich	nämlich	ADV	-	0:32:34.663000	0:32:35.210000
 .	-	-	-	0:32:34.663000	0:32:35.210000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:35.210000" end="0:32:37.283000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:35.210000" end="0:32:37.283000" persName="Informant 0371">
 das	der	PRON	-	0:32:35.210000	0:32:36.776000
 sind	sein	AUX	-	0:32:35.210000	0:32:36.776000
 aber	aber	ADV	-	0:32:35.210000	0:32:36.776000
@@ -9559,7 +9560,7 @@ lustigsten	lustig	ADJ	-	0:32:35.210000	0:32:36.776000
 Sachen	Sache	NOUN	-	0:32:36.776000	0:32:37.283000
 .	-	-	-	0:32:36.776000	0:32:37.283000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:36.776000" end="0:32:37.770000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:36.776000" end="0:32:37.770000" persName="Informant 0373">
 es	ich	PRON	-	0:32:36.776000	0:32:37.283000
 ist	sein	AUX	-	0:32:36.776000	0:32:37.283000
 so	so	ADV	-	0:32:36.776000	0:32:37.283000
@@ -9569,20 +9570,20 @@ alles	alle	PRON	-	0:32:37.283000	0:32:37.770000
 *wast*	-	-	-	0:32:37.283000	0:32:37.770000
 dir	-	-	-	0:32:37.283000	0:32:37.770000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:37.770000" end="0:32:38.436000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:37.770000" end="0:32:38.436000" persName="Informant 0371">
 ah	ah	X	-	0:32:37.770000	0:32:38.436000
 ,	-	-	-	0:32:37.770000	0:32:38.436000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:37.770000" end="0:32:38.436000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:37.770000" end="0:32:38.436000" persName="Informant 0373">
 ausredest	-	-	-	0:32:37.770000	0:32:38.436000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:38.436000" end="0:32:39.830000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:38.436000" end="0:32:39.830000" persName="Informant 0371">
 das	-	-	-	0:32:38.436000	0:32:39.830000
 *kannst*	-	-	-	0:32:38.436000	0:32:39.830000
 vergessen	-	-	-	0:32:38.436000	0:32:39.830000
 .	-	-	-	0:32:38.436000	0:32:39.830000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:38.436000" end="0:32:40.856000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:38.436000" end="0:32:40.856000" persName="Informant 0373">
 und	-	-	-	0:32:38.436000	0:32:39.830000
 *wennst*	-	-	-	0:32:38.436000	0:32:39.830000
 schon	-	-	-	0:32:38.436000	0:32:39.830000
@@ -9593,25 +9594,25 @@ musst	-	-	-	0:32:38.436000	0:32:39.830000
 hinkommst	-	-	-	0:32:39.830000	0:32:40.856000
 ,	-	-	-	0:32:39.830000	0:32:40.856000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:40.856000" end="0:32:41.636000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:40.856000" end="0:32:41.636000" persName="Informant 0371">
 nein	nein	PART	-	0:32:40.856000	0:32:41.636000
 ,	-	-	-	0:32:40.856000	0:32:41.636000
 das	-	-	-	0:32:40.856000	0:32:41.636000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:40.856000" end="0:32:41.636000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:40.856000" end="0:32:41.636000" persName="Informant 0373">
 das	der	PRON	-	0:32:40.856000	0:32:41.636000
 ist	sein	AUX	-	0:32:40.856000	0:32:41.636000
 alles	alle	PRON	-	0:32:40.856000	0:32:41.636000
 nichts	nichts	PRON	-	0:32:40.856000	0:32:41.636000
 .	-	-	-	0:32:40.856000	0:32:41.636000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:41.636000" end="0:32:42.450000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:41.636000" end="0:32:42.450000" persName="Informant 0371">
 das	-	-	-	0:32:41.636000	0:32:41.943000
 *kannst*	-	-	-	0:32:41.636000	0:32:41.943000
 vergessen	-	-	-	0:32:41.943000	0:32:42.450000
 .	-	-	-	0:32:41.943000	0:32:42.450000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:41.943000" end="0:32:43.343000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:41.943000" end="0:32:43.343000" persName="Informant 0373">
 und	und	CCONJ	-	0:32:41.943000	0:32:42.450000
 dort	dort	ADV	-	0:32:41.943000	0:32:42.450000
 einfach	einfach	ADV	-	0:32:42.450000	0:32:43.343000
@@ -9619,24 +9620,24 @@ ein	einen	DET	-	0:32:42.450000	0:32:43.343000
 Auto	Auto	NOUN	-	0:32:42.450000	0:32:43.343000
 stehen	stehen	VERB	-	0:32:42.450000	0:32:43.343000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:43.343000" end="0:32:43.976000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:43.343000" end="0:32:43.976000" persName="Informant 0371">
 ja	ja	PART	-	0:32:43.343000	0:32:43.976000
 .	-	-	-	0:32:43.343000	0:32:43.976000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:43.343000" end="0:32:44.803000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:43.343000" end="0:32:44.803000" persName="Informant 0373">
 lassen	lassen	VERB	-	0:32:43.343000	0:32:43.976000
 .	-	-	-	0:32:43.343000	0:32:43.976000
 _zack_	-	-	-	0:32:43.976000	0:32:44.803000
 _brack_	-	-	-	0:32:43.976000	0:32:44.803000
 ,	-	-	-	0:32:43.976000	0:32:44.803000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:44.803000" end="0:32:46.003000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:44.803000" end="0:32:46.003000" persName="Informant 0371">
 so	so	ADV	-	0:32:44.803000	0:32:46.003000
 ist	sein	AUX	-	0:32:44.803000	0:32:46.003000
 es	ich	PRON	-	0:32:44.803000	0:32:46.003000
 .	-	-	-	0:32:44.803000	0:32:46.003000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:44.803000" end="0:32:48.430000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:44.803000" end="0:32:48.430000" persName="Informant 0373">
 weggeschnitten	wegschneiden	NOUN	-	0:32:44.803000	0:32:46.003000
 .	-	-	-	0:32:44.803000	0:32:46.003000
 war	sein	AUX	-	0:32:46.003000	0:32:47.023000
@@ -9651,18 +9652,18 @@ fortgehen	fortgehen	VERB	-	0:32:47.023000	0:32:48.430000
 (dahin)	dahin	ADV	-	0:32:47.023000	0:32:48.430000
 .	-	-	-	0:32:47.023000	0:32:48.430000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:48.430000" end="0:32:49.143000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:48.430000" end="0:32:49.143000" persName="Informant 0371">
 unbedingt	unbedingt	ADV	-	0:32:48.430000	0:32:49.143000
 .	-	-	-	0:32:48.430000	0:32:49.143000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:49.143000" end="0:32:53.403000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:49.143000" end="0:32:53.403000" persName="Informant 0373">
 bist	sein	AUX	-	0:32:49.143000	0:32:52.483000
 du	du	PRON	-	0:32:49.143000	0:32:52.483000
 am	am	ADP	-	0:32:49.143000	0:32:52.483000
 Freitag	Freitag	NOUN	-	0:32:49.143000	0:32:52.483000
 bei	bei	ADP	-	0:32:49.143000	0:32:52.483000
 der	der	DET	-	0:32:49.143000	0:32:52.483000
-[Veronika]N	Veronika	NOUN	-	0:32:49.143000	0:32:52.483000
+NAME	NAME	NOUN	-	0:32:49.143000	0:32:52.483000
 ihrer	sich	DET	-	0:32:49.143000	0:32:52.483000
 Feier	Feier	NOUN	-	0:32:49.143000	0:32:52.483000
 dabei	dabei	ADV	-	0:32:49.143000	0:32:52.483000
@@ -9671,20 +9672,20 @@ oder	oder	CCONJ	-	0:32:52.483000	0:32:53.403000
 nicht	nicht	PART	-	0:32:52.483000	0:32:53.403000
 ?	-	-	-	0:32:52.483000	0:32:53.403000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:53.403000" end="0:32:54.230000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:53.403000" end="0:32:54.230000" persName="Informant 0371">
 w/	-	-	-	0:32:53.403000	0:32:54.230000
 wie	wie	ADV	-	0:32:53.403000	0:32:54.230000
 ähm/	-	-	-	0:32:53.403000	0:32:54.230000
 .	-	-	-	0:32:53.403000	0:32:54.230000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:53.403000" end="0:32:55.003000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:53.403000" end="0:32:55.003000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:32:53.403000	0:32:54.230000
 dort	dort	ADV	-	0:32:53.403000	0:32:54.230000
 ist	sein	AUX	-	0:32:53.403000	0:32:54.230000
 Rechbergrennen	Rechbergrennen	NOUN	-	0:32:54.230000	0:32:55.003000
 .	-	-	-	0:32:54.230000	0:32:55.003000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:55.003000" end="0:32:57.363000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:55.003000" end="0:32:57.363000" persName="Informant 0371">
 ja	ja	PART	-	0:32:55.003000	0:32:57.363000
 ,	-	-	-	0:32:55.003000	0:32:57.363000
 i/	-	-	-	0:32:55.003000	0:32:57.363000
@@ -9695,14 +9696,14 @@ ich	ich	PRON	-	0:32:55.003000	0:32:57.363000
 kurzfristig	kurzfristig	ADJ	-	0:32:55.003000	0:32:57.363000
 .	-	-	-	0:32:55.003000	0:32:57.363000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:55.003000" end="0:32:57.363000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:55.003000" end="0:32:57.363000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:57.363000" end="0:32:58.596000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:57.363000" end="0:32:58.596000" persName="Informant 0371">
 aber	aber	CCONJ	-	0:32:57.363000	0:32:58.596000
 wenn/	-	-	-	0:32:57.363000	0:32:58.596000
 .	-	-	-	0:32:57.363000	0:32:58.596000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:57.363000" end="0:32:59.196000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:32:57.363000" end="0:32:59.196000" persName="Informant 0373">
 das	der	DET	-	0:32:57.363000	0:32:58.596000
 a/	-	-	-	0:32:57.363000	0:32:58.596000
 Casino	Casino	NOUN	-	0:32:57.363000	0:32:58.596000
@@ -9710,7 +9711,7 @@ wäre	sein	AUX	-	0:32:58.596000	0:32:59.196000
 lustig	lustig	ADJ	-	0:32:58.596000	0:32:59.196000
 .	-	-	-	0:32:58.596000	0:32:59.196000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:59.196000" end="0:33:02.050000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:32:59.196000" end="0:33:02.050000" persName="Informant 0371">
 ja	ja	ADV	-	0:32:59.196000	0:33:00.263000
 sicher	sichern	ADJ	-	0:32:59.196000	0:33:00.263000
 wäre	sein	AUX	-	0:32:59.196000	0:33:00.263000
@@ -9728,11 +9729,11 @@ dem	der	DET	-	0:33:00.263000	0:33:01.296000
 Auto	Auto	NOUN	-	0:33:01.296000	0:33:02.050000
 .	-	-	-	0:33:01.296000	0:33:02.050000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:01.296000" end="0:33:02.050000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:01.296000" end="0:33:02.050000" persName="Informant 0373">
 warum	warum	ADV	-	0:33:01.296000	0:33:02.050000
 ?	-	-	-	0:33:01.296000	0:33:02.050000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:02.050000" end="0:33:04.856000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:02.050000" end="0:33:04.856000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:33:02.050000	0:33:04.856000
 ich	ich	PRON	-	0:33:02.050000	0:33:04.856000
 sonst	sonst	ADV	-	0:33:02.050000	0:33:04.856000
@@ -9745,26 +9746,26 @@ Tag	Tag	NOUN	-	0:33:02.050000	0:33:04.856000
 herhänge	herhänge	VERB	-	0:33:02.050000	0:33:04.856000
 .	-	-	-	0:33:02.050000	0:33:04.856000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:04.856000" end="0:33:05.623000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:04.856000" end="0:33:05.623000" persName="Informant 0373">
 wieso	wieso	ADV	-	0:33:04.856000	0:33:05.623000
 ?	-	-	-	0:33:04.856000	0:33:05.623000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:05.623000" end="0:33:06.430000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:05.623000" end="0:33:06.430000" persName="Informant 0371">
 so	so	ADV	-	0:33:05.623000	0:33:06.116000
 halt	halt	ADV	-	0:33:06.116000	0:33:06.430000
 .	-	-	-	0:33:06.116000	0:33:06.430000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:06.116000" end="0:33:07.116000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:06.116000" end="0:33:07.116000" persName="Informant 0373">
 *bist*	-	-	-	0:33:06.116000	0:33:06.430000
 noch	-	-	-	0:33:06.430000	0:33:07.116000
 nie	-	-	-	0:33:06.430000	0:33:07.116000
 .	-	-	-	0:33:06.430000	0:33:07.116000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:07.116000" end="0:33:07.536000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:07.116000" end="0:33:07.536000" persName="Informant 0371">
 hä	hä	X	-	0:33:07.116000	0:33:07.536000
 ?	-	-	-	0:33:07.116000	0:33:07.536000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:07.536000" end="0:33:09.390000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:07.536000" end="0:33:09.390000" persName="Informant 0373">
 dir	sich	PRON	-	0:33:07.536000	0:33:09.390000
 ist	sein	AUX	-	0:33:07.536000	0:33:09.390000
 es	ich	PRON	-	0:33:07.536000	0:33:09.390000
@@ -9776,13 +9777,13 @@ dem	der	DET	-	0:33:07.536000	0:33:09.390000
 Saufen	Saufen	NOUN	-	0:33:07.536000	0:33:09.390000
 .	-	-	-	0:33:07.536000	0:33:09.390000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:09.390000" end="0:33:13.376000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:09.390000" end="0:33:13.376000" persName="Informant 0371">
 ich	ich	PRON	-	0:33:09.390000	0:33:10.836000
 werde	werden	AUX	-	0:33:09.390000	0:33:10.836000
 älter	alt	ADJ	-	0:33:09.390000	0:33:10.836000
 .	-	-	-	0:33:09.390000	0:33:10.836000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:10.836000" end="0:33:16.376000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:10.836000" end="0:33:16.376000" persName="Informant 0373">
 <pause duration="1,1s"/>
 was	was	PRON	-	0:33:10.836000	0:33:13.376000
 soll	soll	VERB	-	0:33:10.836000	0:33:13.376000
@@ -9798,41 +9799,41 @@ wandern	wandern	NOUN	-	0:33:13.376000	0:33:16.376000
 gegangen	gehen	VERB	-	0:33:13.376000	0:33:16.376000
 .	-	-	-	0:33:13.376000	0:33:16.376000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:16.376000" end="0:33:17.783000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:16.376000" end="0:33:17.783000" persName="Informant 0371">
 am	am	ADP	-	0:33:16.376000	0:33:17.436000
 Sonntag	Sonntag	NOUN	-	0:33:16.376000	0:33:17.436000
 ?	-	-	-	0:33:16.376000	0:33:17.436000
 wo	wo	ADV	-	0:33:17.436000	0:33:17.783000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:17.436000" end="0:33:17.783000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:17.436000" end="0:33:17.783000" persName="Informant 0373">
 ja	ja	PART	-	0:33:17.436000	0:33:17.783000
 .	-	-	-	0:33:17.436000	0:33:17.783000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:17.783000" end="0:33:19.303000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:17.783000" end="0:33:19.303000" persName="Informant 0371">
 "seid	sein	AUX	-	0:33:17.783000	0:33:19.303000
 ihr	mein	DET	-	0:33:17.783000	0:33:19.303000
 hingegangen	hingehen	NOUN	-	0:33:17.783000	0:33:19.303000
 ?	-	-	-	0:33:17.783000	0:33:19.303000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:17.783000" end="0:33:20.230000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:17.783000" end="0:33:20.230000" persName="Informant 0373">
 nach	nach	ADP	-	0:33:17.783000	0:33:19.303000
 dem	der	DET	-	0:33:17.783000	0:33:19.303000
 Absturz	Absturz	NOUN	-	0:33:17.783000	0:33:19.303000
 .	-	-	-	0:33:17.783000	0:33:19.303000
 nach	nach	ADP	-	0:33:19.303000	0:33:20.230000
-[Puch]O	Puch	NOUN	-	0:33:19.303000	0:33:20.230000
+ORT	ORT	NOUN	-	0:33:19.303000	0:33:20.230000
 .	-	-	-	0:33:19.303000	0:33:20.230000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:20.230000" end="0:33:21.816000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:20.230000" end="0:33:21.816000" persName="Informant 0371">
 warum	warum	ADV	-	0:33:20.230000	0:33:21.816000
 ?	-	-	-	0:33:20.230000	0:33:21.816000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:21.816000" end="0:33:24.516000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:21.816000" end="0:33:24.516000" persName="Informant 0373">
 Bezirkswandertagstrecke	Bezirkswandertagstrecke	NOUN	-	0:33:21.816000	0:33:24.516000
 anschauen	anschauen	VERB	-	0:33:21.816000	0:33:24.516000
 .	-	-	-	0:33:21.816000	0:33:24.516000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:24.516000" end="0:33:26.376000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:24.516000" end="0:33:26.376000" persName="Informant 0371">
 ach	ach	X	-	0:33:24.516000	0:33:25.330000
 so	so	ADV	-	0:33:24.516000	0:33:25.330000
 okay	okay	VERB	-	0:33:24.516000	0:33:25.330000
@@ -9842,7 +9843,7 @@ Bezirk	Bezirk	NOUN	-	0:33:25.330000	0:33:26.376000
 aus	aus	ADP	-	0:33:25.330000	0:33:26.376000
 .	-	-	-	0:33:25.330000	0:33:26.376000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:25.330000" end="0:33:26.376000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:25.330000" end="0:33:26.376000" persName="Informant 0373">
 und	und	CCONJ	-	0:33:25.330000	0:33:26.376000
 ich	ich	PRON	-	0:33:25.330000	0:33:26.376000
 habe	habe	AUX	-	0:33:25.330000	0:33:26.376000
@@ -9850,7 +9851,7 @@ Zeit	Zeit	NOUN	-	0:33:25.330000	0:33:26.376000
 gehabt	haben	AUX	-	0:33:25.330000	0:33:26.376000
 ,	-	-	-	0:33:25.330000	0:33:26.376000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:26.376000" end="0:33:28.890000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:26.376000" end="0:33:28.890000" persName="Informant 0371">
 ja	ja	PART	-	0:33:26.376000	0:33:28.890000
 ,	-	-	-	0:33:26.376000	0:33:28.890000
 dann	dann	ADV	-	0:33:26.376000	0:33:28.890000
@@ -9861,7 +9862,7 @@ ja	ja	PART	-	0:33:26.376000	0:33:28.890000
 ,	-	-	-	0:33:26.376000	0:33:28.890000
 .	-	-	-	0:33:26.376000	0:33:28.890000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:26.376000" end="0:33:30.823000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:26.376000" end="0:33:30.823000" persName="Informant 0373">
 und	und	CCONJ	-	0:33:26.376000	0:33:28.890000
 bin	sein	AUX	-	0:33:26.376000	0:33:28.890000
 mitgegangen	mitgegangen	NOUN	-	0:33:26.376000	0:33:28.890000
@@ -9874,7 +9875,7 @@ sowieso	sowieso	ADV	-	0:33:28.890000	0:33:30.823000
 holen	holen	VERB	-	0:33:28.890000	0:33:30.823000
 müssen	müssen	VERB	-	0:33:28.890000	0:33:30.823000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:30.823000" end="0:33:32.123000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:30.823000" end="0:33:32.123000" persName="Informant 0371">
 ja	ja	ADV	-	0:33:30.823000	0:33:32.123000
 eh	eh	X	-	0:33:30.823000	0:33:32.123000
 ,	-	-	-	0:33:30.823000	0:33:32.123000
@@ -9882,7 +9883,7 @@ das	der	PRON	-	0:33:30.823000	0:33:32.123000
 stimmt	stimmen	VERB	-	0:33:30.823000	0:33:32.123000
 .	-	-	-	0:33:30.823000	0:33:32.123000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:30.823000" end="0:33:32.996000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:30.823000" end="0:33:32.996000" persName="Informant 0373">
 und	und	CCONJ	-	0:33:30.823000	0:33:32.123000
 dann	dann	ADV	-	0:33:30.823000	0:33:32.123000
 hat	haben	AUX	-	0:33:30.823000	0:33:32.123000
@@ -9894,14 +9895,14 @@ das	der	PRON	-	0:33:32.123000	0:33:32.996000
 gut/	-	-	-	0:33:32.123000	0:33:32.996000
 .	-	-	-	0:33:32.123000	0:33:32.996000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:32.996000" end="0:33:34.023000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:32.996000" end="0:33:34.023000" persName="Informant 0371">
 hat	haben	AUX	-	0:33:32.996000	0:33:34.023000
 sich	sich	PRON	-	0:33:32.996000	0:33:34.023000
 das	der	PRON	-	0:33:32.996000	0:33:34.023000
 ergeben	ergeben	VERB	-	0:33:32.996000	0:33:34.023000
 .	-	-	-	0:33:32.996000	0:33:34.023000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:34.023000" end="0:33:35.896000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:34.023000" end="0:33:35.896000" persName="Informant 0373">
 nein	nein	PART	-	0:33:34.023000	0:33:35.896000
 ,	-	-	-	0:33:34.023000	0:33:35.896000
 nicht	nicht	PART	-	0:33:34.023000	0:33:35.896000
@@ -9909,18 +9910,18 @@ selber	selber	ADV	-	0:33:34.023000	0:33:35.896000
 fahren	fahren	VERB	-	0:33:34.023000	0:33:35.896000
 .	-	-	-	0:33:34.023000	0:33:35.896000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:35.896000" end="0:33:36.883000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:35.896000" end="0:33:36.883000" persName="Informant 0371">
 ah	ah	X	-	0:33:35.896000	0:33:36.883000
 ich	ich	PRON	-	0:33:35.896000	0:33:36.883000
 weiß	weiß	VERB	-	0:33:35.896000	0:33:36.883000
 nicht	nicht	PART	-	0:33:35.896000	0:33:36.883000
 .	-	-	-	0:33:35.896000	0:33:36.883000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:35.896000" end="0:33:36.883000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:35.896000" end="0:33:36.883000" persName="Informant 0373">
 geh	geh	X	-	0:33:35.896000	0:33:36.883000
 .	-	-	-	0:33:35.896000	0:33:36.883000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:36.883000" end="0:33:43.576000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:36.883000" end="0:33:43.576000" persName="Informant 0371">
 <pause duration="1,7s"/>
 ich	ich	PRON	-	0:33:36.883000	0:33:40.183000
 muss	muss	VERB	-	0:33:36.883000	0:33:40.183000
@@ -9950,21 +9951,21 @@ hart	hart	ADJ	-	0:33:41.890000	0:33:43.576000
 das/	-	-	-	0:33:41.890000	0:33:43.576000
 .	-	-	-	0:33:41.890000	0:33:43.576000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:41.890000" end="0:33:43.730000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:41.890000" end="0:33:43.730000" persName="Informant 0373">
 nachheizen	nachheizen	NOUN	-	0:33:41.890000	0:33:43.576000
 ist	sein	AUX	-	0:33:41.890000	0:33:43.576000
 leichter	leicht	ADJ	-	0:33:41.890000	0:33:43.576000
 wie	wie	CCONJ	-	0:33:43.576000	0:33:43.730000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:43.730000" end="0:33:44.483000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:43.730000" end="0:33:44.483000" persName="Informant 0371">
 ja	-	-	-	0:33:43.730000	0:33:44.483000
 aber	-	-	-	0:33:43.730000	0:33:44.483000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:43.730000" end="0:33:44.483000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:43.730000" end="0:33:44.483000" persName="Informant 0373">
 anheizen	anheizen	NOUN	-	0:33:43.730000	0:33:44.483000
 .	-	-	-	0:33:43.730000	0:33:44.483000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:44.483000" end="0:33:54.583000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:44.483000" end="0:33:54.583000" persName="Informant 0371">
 *weißt*	-	-	-	0:33:44.483000	0:33:44.736000
 eh	-	-	-	0:33:44.483000	0:33:44.736000
 ,	-	-	-	0:33:44.483000	0:33:44.736000
@@ -9981,7 +9982,7 @@ Rechbergrennen	Rechbergrennen	NOUN	-	0:33:46.503000	0:33:49.983000
 ,	-	-	-	0:33:46.503000	0:33:49.983000
 dann	dann	ADV	-	0:33:46.503000	0:33:49.983000
 zur	zur	ADP	-	0:33:46.503000	0:33:49.983000
-[Veronika]N	Veronika	NOUN	-	0:33:46.503000	0:33:49.983000
+NAME	NAME	NOUN	-	0:33:46.503000	0:33:49.983000
 .	-	-	-	0:33:46.503000	0:33:49.983000
 dann	dann	ADV	-	0:33:49.983000	0:33:52.276000
 am	am	ADP	-	0:33:49.983000	0:33:52.276000
@@ -10003,9 +10004,9 @@ den	der	DET	-	0:33:53.316000	0:33:54.583000
 ganzen	ganz	ADJ	-	0:33:53.316000	0:33:54.583000
 Tag	Tag	NOUN	-	0:33:53.316000	0:33:54.583000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:53.316000" end="0:33:54.583000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:53.316000" end="0:33:54.583000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:54.583000" end="0:33:56.456000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:54.583000" end="0:33:56.456000" persName="Informant 0371">
 "nein	nein	PART	-	0:33:54.583000	0:33:56.456000
 ,	-	-	-	0:33:54.583000	0:33:56.456000
 wir	ich	PRON	-	0:33:54.583000	0:33:56.456000
@@ -10014,9 +10015,9 @@ nicht	nicht	PART	-	0:33:54.583000	0:33:56.456000
 Kurvenfest"	Kurvenfest	NOUN	-	0:33:54.583000	0:33:56.456000
 ,	-	-	-	0:33:54.583000	0:33:56.456000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:54.583000" end="0:33:56.456000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:54.583000" end="0:33:56.456000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:56.456000" end="0:33:58.316000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:56.456000" end="0:33:58.316000" persName="Informant 0371">
 stehen	stehen	VERB	-	0:33:56.456000	0:33:58.316000
 dann	dann	ADV	-	0:33:56.456000	0:33:58.316000
 unten	unten	ADV	-	0:33:56.456000	0:33:58.316000
@@ -10024,11 +10025,11 @@ im	im	ADP	-	0:33:56.456000	0:33:58.316000
 Zelt	Zelt	NOUN	-	0:33:56.456000	0:33:58.316000
 ,	-	-	-	0:33:56.456000	0:33:58.316000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:56.456000" end="0:33:58.316000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:56.456000" end="0:33:58.316000" persName="Informant 0373">
 Kurvenfest	Kurvenfest	NOUN	-	0:33:56.456000	0:33:58.316000
 .	-	-	-	0:33:56.456000	0:33:58.316000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:58.316000" end="0:34:00.490000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:33:58.316000" end="0:34:00.490000" persName="Informant 0371">
 trinken	trinken	NOUN	-	0:33:58.316000	0:33:59.130000
 ein	einen	DET	-	0:33:58.316000	0:33:59.130000
 paar	paar	NOUN	-	0:33:58.316000	0:33:59.130000
@@ -10040,9 +10041,9 @@ wäre	sein	AUX	-	0:33:59.130000	0:34:00.490000
 geil	geil	ADJ	-	0:33:59.130000	0:34:00.490000
 ."	-	-	-	0:33:59.130000	0:34:00.490000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:59.130000" end="0:34:00.490000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:33:59.130000" end="0:34:00.490000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:00.490000" end="0:34:02.150000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:00.490000" end="0:34:02.150000" persName="Informant 0371">
 dann	dann	ADV	-	0:34:00.490000	0:34:02.150000
 gehen	gehen	VERB	-	0:34:00.490000	0:34:02.150000
 wir	ich	PRON	-	0:34:00.490000	0:34:02.150000
@@ -10050,50 +10051,50 @@ bis	bis	ADP	-	0:34:00.490000	0:34:02.150000
 fünf	fünf	NUM	-	0:34:00.490000	0:34:02.150000
 Kurvenfest	Kurvenfest	NOUN	-	0:34:00.490000	0:34:02.150000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:00.490000" end="0:34:02.590000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:00.490000" end="0:34:02.590000" persName="Informant 0373">
 und	und	CCONJ	-	0:34:02.150000	0:34:02.590000
 dann	dann	ADV	-	0:34:02.150000	0:34:02.590000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:02.590000" end="0:34:03.543000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:02.590000" end="0:34:03.543000" persName="Informant 0371">
 dann	dann	ADV	-	0:34:02.590000	0:34:03.543000
 sind	sein	AUX	-	0:34:02.590000	0:34:03.543000
 wir	ich	PRON	-	0:34:02.590000	0:34:03.543000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:02.590000" end="0:34:03.543000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:02.590000" end="0:34:03.543000" persName="Informant 0373">
 Rechbergrennen	Rechbergrennen	NOUN	-	0:34:02.590000	0:34:03.543000
 .	-	-	-	0:34:02.590000	0:34:03.543000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:03.543000" end="0:34:05.170000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:03.543000" end="0:34:05.170000" persName="Informant 0371">
 am	am	ADP	-	0:34:03.543000	0:34:05.170000
 nächsten	nächst	ADJ	-	0:34:03.543000	0:34:05.170000
 Vormittag	Vormittag	NOUN	-	0:34:03.543000	0:34:05.170000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:03.543000" end="0:34:05.170000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:03.543000" end="0:34:05.170000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:05.170000" end="0:34:07.303000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:05.170000" end="0:34:07.303000" persName="Informant 0371">
 um	um	ADP	-	0:34:05.170000	0:34:07.303000
 zwölf	zwölf	NUM	-	0:34:05.170000	0:34:07.303000
 sind	sein	AUX	-	0:34:05.170000	0:34:07.303000
 wir	ich	PRON	-	0:34:05.170000	0:34:07.303000
 beim	beim	ADP	-	0:34:05.170000	0:34:07.303000
-[Hubi]N	Hubi	NOUN	-	0:34:05.170000	0:34:07.303000
+NAME	NAME	NOUN	-	0:34:05.170000	0:34:07.303000
 eingeladen	einladen	ADJ	-	0:34:05.170000	0:34:07.303000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:05.170000" end="0:34:07.303000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:05.170000" end="0:34:07.303000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:07.303000" end="0:34:08.630000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:07.303000" end="0:34:08.630000" persName="Informant 0371">
 Storch	Storch	NOUN	-	0:34:07.303000	0:34:08.630000
 umschneiden	umschneiden	VERB	-	0:34:07.303000	0:34:08.630000
 .	-	-	-	0:34:07.303000	0:34:08.630000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:08.630000" end="0:34:09.790000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:08.630000" end="0:34:09.790000" persName="Informant 0373">
 du	du	PRON	-	0:34:08.630000	0:34:09.790000
 wirst	werden	AUX	-	0:34:08.630000	0:34:09.790000
 hin	hin	ADV	-	0:34:08.630000	0:34:09.790000
 werden	werden	AUX	-	0:34:08.630000	0:34:09.790000
 .	-	-	-	0:34:08.630000	0:34:09.790000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:09.790000" end="0:34:15.976000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:09.790000" end="0:34:15.976000" persName="Informant 0371">
 und	und	CCONJ	-	0:34:09.790000	0:34:15.976000
 dann	dann	ADV	-	0:34:09.790000	0:34:15.976000
 um	um	ADP	-	0:34:09.790000	0:34:15.976000
@@ -10110,7 +10111,7 @@ WM	WM	PROPN	-	0:34:09.790000	0:34:15.976000
 hinein)	hinein	ADP	-	0:34:09.790000	0:34:15.976000
 .	-	-	-	0:34:09.790000	0:34:15.976000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:15.976000" end="0:34:17.036000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:15.976000" end="0:34:17.036000" persName="Informant 0373">
 da	-	-	-	0:34:15.976000	0:34:17.036000
 *hast*	-	-	-	0:34:15.976000	0:34:17.036000
 eh	-	-	-	0:34:15.976000	0:34:17.036000
@@ -10119,7 +10120,7 @@ viel	-	-	-	0:34:15.976000	0:34:17.036000
 vor	-	-	-	0:34:15.976000	0:34:17.036000
 .	-	-	-	0:34:15.976000	0:34:17.036000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:17.036000" end="0:34:19.023000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:17.036000" end="0:34:19.023000" persName="Informant 0371">
 nein	nein	PART	-	0:34:17.036000	0:34:19.023000
 ,	-	-	-	0:34:17.036000	0:34:19.023000
 *kannst*	-	-	-	0:34:17.036000	0:34:19.023000
@@ -10131,21 +10132,21 @@ sagen	-	-	-	0:34:17.036000	0:34:19.023000
 nein	nein	PART	-	0:34:17.036000	0:34:19.023000
 .	-	-	-	0:34:17.036000	0:34:19.023000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:19.023000" end="0:34:20.870000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:19.023000" end="0:34:20.870000" persName="Informant 0373">
 wie	wie	ADV	-	0:34:19.023000	0:34:20.870000
 willst	wollen	VERB	-	0:34:19.023000	0:34:20.870000
 denn	denn	ADV	-	0:34:19.023000	0:34:20.870000
 du	du	PRON	-	0:34:19.023000	0:34:20.870000
 auf	auf	ADP	-	0:34:19.023000	0:34:20.870000
-[Leska]O	Leska	NOUN	-	0:34:19.023000	0:34:20.870000
+ORT	ORT	NOUN	-	0:34:19.023000	0:34:20.870000
 kommen	kommen	VERB	-	0:34:19.023000	0:34:20.870000
 ?	-	-	-	0:34:19.023000	0:34:20.870000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:20.870000" end="0:34:23.476000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:20.870000" end="0:34:23.476000" persName="Informant 0371">
 ja	ja	PART	-	0:34:20.870000	0:34:23.476000
 .	-	-	-	0:34:20.870000	0:34:23.476000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:20.870000" end="0:34:25.916000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:20.870000" end="0:34:25.916000" persName="Informant 0373">
 über	-	-	-	0:34:23.476000	0:34:25.916000
 die	-	-	-	0:34:23.476000	0:34:25.916000
 Logistik	-	-	-	0:34:23.476000	0:34:25.916000
@@ -10159,7 +10160,7 @@ gemacht	-	-	-	0:34:23.476000	0:34:25.916000
 gell	gell	ADJ	-	0:34:23.476000	0:34:25.916000
 ?	-	-	-	0:34:23.476000	0:34:25.916000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:25.916000" end="0:34:29.156000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:25.916000" end="0:34:29.156000" persName="Informant 0371">
 wohl	wohl	ADV	-	0:34:25.916000	0:34:27.590000
 ,	-	-	-	0:34:25.916000	0:34:27.590000
 nein	nein	PART	-	0:34:25.916000	0:34:27.590000
@@ -10176,14 +10177,14 @@ geht	gehen	VERB	-	0:34:27.590000	0:34:29.156000
 nicht	nicht	PART	-	0:34:27.590000	0:34:29.156000
 .	-	-	-	0:34:27.590000	0:34:29.156000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:29.156000" end="0:34:30.402000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:29.156000" end="0:34:30.402000" persName="Informant 0373">
 *weilst*	-	-	-	0:34:29.156000	0:34:30.402000
 es	-	-	-	0:34:29.156000	0:34:30.402000
 nicht	-	-	-	0:34:29.156000	0:34:30.402000
 aushältst	-	-	-	0:34:29.156000	0:34:30.402000
 .	-	-	-	0:34:29.156000	0:34:30.402000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:30.402000" end="0:34:31.735000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:30.402000" end="0:34:31.735000" persName="Informant 0371">
 nein	nein	PART	-	0:34:30.402000	0:34:31.456000
 beim	beim	ADP	-	0:34:30.402000	0:34:31.456000
 Rechbergrennen	Rechbergrennen	NOUN	-	0:34:30.402000	0:34:31.456000
@@ -10191,7 +10192,7 @@ echt	echt	ADJ	-	0:34:30.402000	0:34:31.456000
 nicht	nicht	PART	-	0:34:31.456000	0:34:31.735000
 .	-	-	-	0:34:31.456000	0:34:31.735000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:31.456000" end="0:34:34.350000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:31.456000" end="0:34:34.350000" persName="Informant 0373">
 nein	nein	PART	-	0:34:31.456000	0:34:31.735000
 ,	-	-	-	0:34:31.456000	0:34:31.735000
 glaube	glauben	VERB	-	0:34:31.735000	0:34:32.523000
@@ -10204,7 +10205,7 @@ Tagen	Tag	NOUN	-	0:34:32.523000	0:34:34.350000
 voll	voll	ADJ	-	0:34:32.523000	0:34:34.350000
 schneiden	schneiden	VERB	-	0:34:32.523000	0:34:34.350000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:34.350000" end="0:34:37.030000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:34.350000" end="0:34:37.030000" persName="Informant 0371">
 du	du	PRON	-	0:34:34.350000	0:34:34.763000
 kannst	können	VERB	-	0:34:34.350000	0:34:34.763000
 nicht	nicht	PART	-	0:34:34.763000	0:34:37.030000
@@ -10215,14 +10216,14 @@ saufen	saufen	VERB	-	0:34:34.763000	0:34:37.030000
 nein	nein	PART	-	0:34:34.763000	0:34:37.030000
 .	-	-	-	0:34:34.763000	0:34:37.030000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:34.763000" end="0:34:37.030000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:34.763000" end="0:34:37.030000" persName="Informant 0373">
 und	und	CCONJ	-	0:34:34.763000	0:34:37.030000
 die	der	DET	-	0:34:34.763000	0:34:37.030000
 ganze	ganze	ADJ	-	0:34:34.763000	0:34:37.030000
 Nacht	Nacht	NOUN	-	0:34:34.763000	0:34:37.030000
 .	-	-	-	0:34:34.763000	0:34:37.030000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:37.030000" end="0:34:39.755000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:37.030000" end="0:34:39.755000" persName="Informant 0371">
 <pause duration="1,7s"/>
 das	der	PRON	-	0:34:37.030000	0:34:39.755000
 haben	haben	AUX	-	0:34:37.030000	0:34:39.755000
@@ -10230,7 +10231,7 @@ wir	ich	PRON	-	0:34:37.030000	0:34:39.755000
 noch	noch	ADV	-	0:34:37.030000	0:34:39.755000
 nie	nie	ADV	-	0:34:37.030000	0:34:39.755000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:37.030000" end="0:34:39.755000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:37.030000" end="0:34:39.755000" persName="Informant 0373">
 <pause duration="1,7s"/>
 nein	nein	PART	-	0:34:37.030000	0:34:39.755000
 ,	-	-	-	0:34:37.030000	0:34:39.755000
@@ -10238,7 +10239,7 @@ das	der	PRON	-	0:34:37.030000	0:34:39.755000
 das/	-	-	-	0:34:37.030000	0:34:39.755000
 .	-	-	-	0:34:37.030000	0:34:39.755000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:39.755000" end="0:34:43.610000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:39.755000" end="0:34:43.610000" persName="Informant 0371">
 zusammengebracht	zusammenbringen	VERB	-	0:34:39.755000	0:34:40.683000
 ,	-	-	-	0:34:39.755000	0:34:40.683000
 dass	dass	SCONJ	-	0:34:40.683000	0:34:42.949000
@@ -10255,11 +10256,11 @@ am	am	ADP	-	0:34:42.949000	0:34:43.610000
 Samstag	Samstag	NOUN	-	0:34:42.949000	0:34:43.610000
 .	-	-	-	0:34:42.949000	0:34:43.610000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:42.949000" end="0:34:43.610000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:42.949000" end="0:34:43.610000" persName="Informant 0373">
 nicht	nicht	PART	-	0:34:42.949000	0:34:43.610000
 ?	-	-	-	0:34:42.949000	0:34:43.610000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:43.610000" end="0:34:45.996000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:43.610000" end="0:34:45.996000" persName="Informant 0371">
 nein	nein	PART	-	0:34:43.610000	0:34:45.116000
 ,	-	-	-	0:34:43.610000	0:34:45.116000
 ist	sein	AUX	-	0:34:43.610000	0:34:45.116000
@@ -10268,7 +10269,7 @@ gegangen	gehen	VERB	-	0:34:43.610000	0:34:45.116000
 noch	noch	ADV	-	0:34:45.116000	0:34:45.996000
 .	-	-	-	0:34:45.116000	0:34:45.996000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:45.116000" end="0:34:47.156000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:45.116000" end="0:34:47.156000" persName="Informant 0373">
 ja	ja	PART	-	0:34:45.116000	0:34:45.996000
 weitertun	weitertun	VERB	-	0:34:45.116000	0:34:45.996000
 ,	-	-	-	0:34:45.116000	0:34:45.996000
@@ -10278,7 +10279,7 @@ eh	-	-	-	0:34:45.996000	0:34:47.156000
 hin	-	-	-	0:34:45.996000	0:34:47.156000
 .	-	-	-	0:34:45.996000	0:34:47.156000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:47.156000" end="0:34:49.576000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:47.156000" end="0:34:49.576000" persName="Informant 0371">
 ja	ja	PART	-	0:34:47.156000	0:34:48.676000
 ich	ich	PRON	-	0:34:47.156000	0:34:48.676000
 kann	können	VERB	-	0:34:47.156000	0:34:48.676000
@@ -10293,18 +10294,18 @@ Bier	Bier	NOUN	-	0:34:48.676000	0:34:49.576000
 mag	mögen	VERB	-	0:34:48.676000	0:34:49.576000
 .	-	-	-	0:34:48.676000	0:34:49.576000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:49.576000" end="0:34:50.030000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:49.576000" end="0:34:50.030000" persName="Informant 0373">
 ja	ja	PART	-	0:34:49.576000	0:34:50.030000
 .	-	-	-	0:34:49.576000	0:34:50.030000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:50.030000" end="0:34:50.996000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:50.030000" end="0:34:50.996000" persName="Informant 0371">
 oder	oder	CCONJ	-	0:34:50.030000	0:34:50.396000
 nicht	nicht	PART	-	0:34:50.030000	0:34:50.396000
 so	so	ADV	-	0:34:50.396000	0:34:50.996000
 gern	gern	ADV	-	0:34:50.396000	0:34:50.996000
 .	-	-	-	0:34:50.396000	0:34:50.996000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:50.396000" end="0:34:55.536000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:50.396000" end="0:34:55.536000" persName="Informant 0373">
 mit	mit	ADP	-	0:34:50.396000	0:34:50.996000
 Bier	Bier	NOUN	-	0:34:50.396000	0:34:50.996000
 fällt	fällen	VERB	-	0:34:50.996000	0:34:52.530000
@@ -10329,7 +10330,7 @@ gleich	-	-	-	0:34:53.650000	0:34:55.536000
 weiter	-	-	-	0:34:53.650000	0:34:55.536000
 .	-	-	-	0:34:53.650000	0:34:55.536000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:55.536000" end="0:34:56.783000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:55.536000" end="0:34:56.783000" persName="Informant 0371">
 finde	finden	VERB	-	0:34:55.536000	0:34:56.143000
 ich	ich	PRON	-	0:34:55.536000	0:34:56.143000
 nicht	nicht	PART	-	0:34:55.536000	0:34:56.143000
@@ -10340,7 +10341,7 @@ ich	ich	PRON	-	0:34:56.143000	0:34:56.783000
 nicht	nicht	PART	-	0:34:56.143000	0:34:56.783000
 .	-	-	-	0:34:56.143000	0:34:56.783000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:56.783000" end="0:34:57.863000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:56.783000" end="0:34:57.863000" persName="Informant 0373">
 nein	nein	PART	-	0:34:56.783000	0:34:57.490000
 ich	ich	PRON	-	0:34:56.783000	0:34:57.490000
 weiß	weiß	VERB	-	0:34:56.783000	0:34:57.490000
@@ -10348,15 +10349,15 @@ eh	eh	ADV	-	0:34:56.783000	0:34:57.490000
 ,	-	-	-	0:34:56.783000	0:34:57.490000
 aber	-	-	-	0:34:57.490000	0:34:57.863000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:57.863000" end="0:34:58.556000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:57.863000" end="0:34:58.556000" persName="Informant 0371">
 *wennst*	-	-	-	0:34:57.863000	0:34:58.556000
 es/	-	-	-	0:34:57.863000	0:34:58.556000
 .	-	-	-	0:34:57.863000	0:34:58.556000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:58.556000" end="0:34:59.043000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:58.556000" end="0:34:59.043000" persName="Informant 0373">
 *wennst*	-	-	-	0:34:58.556000	0:34:59.043000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:59.043000" end="0:35:00.516000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:34:59.043000" end="0:35:00.516000" persName="Informant 0371">
 ja	ja	ADV	-	0:34:59.043000	0:35:00.516000
 ja	ja	PART	-	0:34:59.043000	0:35:00.516000
 ,	-	-	-	0:34:59.043000	0:35:00.516000
@@ -10364,7 +10365,7 @@ ja	ja	ADV	-	0:34:59.043000	0:35:00.516000
 ja	ja	PART	-	0:34:59.043000	0:35:00.516000
 .	-	-	-	0:34:59.043000	0:35:00.516000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:59.043000" end="0:35:01.336000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:34:59.043000" end="0:35:01.336000" persName="Informant 0373">
 Bier	-	-	-	0:34:59.043000	0:35:00.516000
 trinkst	-	-	-	0:34:59.043000	0:35:00.516000
 ,	-	-	-	0:34:59.043000	0:35:00.516000
@@ -10375,14 +10376,14 @@ das	der	PRON	-	0:35:00.516000	0:35:01.336000
 schon	schon	ADV	-	0:35:00.516000	0:35:01.336000
 .	-	-	-	0:35:00.516000	0:35:01.336000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:01.336000" end="0:35:02.410000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:01.336000" end="0:35:02.410000" persName="Informant 0371">
 Alter	alt	NOUN	-	0:35:01.336000	0:35:02.410000
 ich	ich	PRON	-	0:35:01.336000	0:35:02.410000
 bin	sein	AUX	-	0:35:01.336000	0:35:02.410000
 hergehängt	hergehängt	VERB	-	0:35:01.336000	0:35:02.410000
 .	-	-	-	0:35:01.336000	0:35:02.410000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:02.410000" end="0:35:03.756000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:02.410000" end="0:35:03.756000" persName="Informant 0373">
 bei	bei	ADP	-	0:35:02.410000	0:35:03.756000
 dir	sich	PRON	-	0:35:02.410000	0:35:03.756000
 wäre	sein	AUX	-	0:35:02.410000	0:35:03.756000
@@ -10393,17 +10394,17 @@ dem	der	DET	-	0:35:02.410000	0:35:03.756000
 Spritzer	Spritzer	NOUN	-	0:35:02.410000	0:35:03.756000
 ,	-	-	-	0:35:02.410000	0:35:03.756000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:03.756000" end="0:35:04.323000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:03.756000" end="0:35:04.323000" persName="Informant 0371">
 ja	ja	PART	-	0:35:03.756000	0:35:04.323000
 .	-	-	-	0:35:03.756000	0:35:04.323000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:03.756000" end="0:35:04.590000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:03.756000" end="0:35:04.590000" persName="Informant 0373">
 glaube	glauben	VERB	-	0:35:03.756000	0:35:04.323000
 ich	ich	PRON	-	0:35:03.756000	0:35:04.323000
 .	-	-	-	0:35:03.756000	0:35:04.323000
 mit	-	-	-	0:35:04.323000	0:35:04.590000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:04.590000" end="0:35:05.963000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:04.590000" end="0:35:05.963000" persName="Informant 0371">
 ich	ich	PRON	-	0:35:04.590000	0:35:05.963000
 muss	muss	VERB	-	0:35:04.590000	0:35:05.963000
 mir	sich	PRON	-	0:35:04.590000	0:35:05.963000
@@ -10411,13 +10412,13 @@ heuer/	-	-	-	0:35:04.590000	0:35:05.963000
 .	-	-	-	0:35:04.590000	0:35:05.963000
 ich	-	-	-	0:35:04.590000	0:35:05.963000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:04.590000" end="0:35:05.963000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:04.590000" end="0:35:05.963000" persName="Informant 0373">
 Spritzer	-	-	-	0:35:04.590000	0:35:05.963000
 *könntest*	-	-	-	0:35:04.590000	0:35:05.963000
 immer	-	-	-	0:35:04.590000	0:35:05.963000
 .	-	-	-	0:35:04.590000	0:35:05.963000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:05.963000" end="0:35:08.836000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:05.963000" end="0:35:08.836000" persName="Informant 0371">
 könnte	-	-	-	0:35:05.963000	0:35:07.823000
 mir	-	-	-	0:35:05.963000	0:35:07.823000
 heuer	-	-	-	0:35:05.963000	0:35:07.823000
@@ -10431,7 +10432,7 @@ wäre	sein	AUX	-	0:35:07.823000	0:35:08.836000
 geil	geil	NOUN	-	0:35:07.823000	0:35:08.836000
 .	-	-	-	0:35:07.823000	0:35:08.836000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:07.823000" end="0:35:14.290000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:07.823000" end="0:35:14.290000" persName="Informant 0373">
 ja	ja	PART	-	0:35:07.823000	0:35:08.836000
 .	-	-	-	0:35:07.823000	0:35:08.836000
 <pause duration="0,8s"/>
@@ -10455,7 +10456,7 @@ nächsten	-	-	-	0:35:10.896000	0:35:14.290000
 Spritzer	-	-	-	0:35:10.896000	0:35:14.290000
 ."	-	-	-	0:35:10.896000	0:35:14.290000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:14.290000" end="0:35:17.396000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:14.290000" end="0:35:17.396000" persName="Informant 0371">
 mit	mit	ADP	-	0:35:14.290000	0:35:17.396000
 dem	der	DET	-	0:35:14.290000	0:35:17.396000
 vollen	voll	ADJ	-	0:35:14.290000	0:35:17.396000
@@ -10465,9 +10466,9 @@ der	der	DET	-	0:35:14.290000	0:35:17.396000
 Hand	Hand	NOUN	-	0:35:14.290000	0:35:17.396000
 .	-	-	-	0:35:14.290000	0:35:17.396000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:14.290000" end="0:35:17.396000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:14.290000" end="0:35:17.396000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:17.396000" end="0:35:18.870000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:17.396000" end="0:35:18.870000" persName="Informant 0371">
 das	der	DET	-	0:35:17.396000	0:35:18.870000
 Wochenende	Wochenend	NOUN	-	0:35:17.396000	0:35:18.870000
 war	sein	AUX	-	0:35:17.396000	0:35:18.870000
@@ -10475,17 +10476,17 @@ schon	schon	ADV	-	0:35:17.396000	0:35:18.870000
 lustig	lustig	ADJ	-	0:35:17.396000	0:35:18.870000
 .	-	-	-	0:35:17.396000	0:35:18.870000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:17.396000" end="0:35:19.743000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:17.396000" end="0:35:19.743000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:35:18.870000	0:35:19.743000
 .	-	-	-	0:35:18.870000	0:35:19.743000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:19.743000" end="0:35:20.770000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:19.743000" end="0:35:20.770000" persName="Informant 0371">
 bist	sein	AUX	-	0:35:19.743000	0:35:20.770000
 du	du	PRON	-	0:35:19.743000	0:35:20.770000
 deppert	deppert	VERB	-	0:35:19.743000	0:35:20.770000
 .	-	-	-	0:35:19.743000	0:35:20.770000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:19.743000" end="0:35:25.876000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:19.743000" end="0:35:25.876000" persName="Informant 0373">
 jedes	jed	DET	-	0:35:19.743000	0:35:20.770000
 Mal	Mal	NOUN	-	0:35:19.743000	0:35:20.770000
 wenn	wenn	SCONJ	-	0:35:19.743000	0:35:20.770000
@@ -10514,7 +10515,7 @@ ja	-	-	-	0:35:24.663000	0:35:25.876000
 vergessen	-	-	-	0:35:24.663000	0:35:25.876000
 .	-	-	-	0:35:24.663000	0:35:25.876000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:25.876000" end="0:35:36.696000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:25.876000" end="0:35:36.696000" persName="Informant 0371">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:35:25.876000	0:35:27.850000
 .	-	-	-	0:35:25.876000	0:35:27.850000
@@ -10546,9 +10547,9 @@ nein	nein	PART	-	0:35:35.696000	0:35:36.696000
 nein	nein	PART	-	0:35:35.696000	0:35:36.696000
 .	-	-	-	0:35:35.696000	0:35:36.696000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:35.696000" end="0:35:36.696000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:35.696000" end="0:35:36.696000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:36.696000" end="0:35:39.743000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:36.696000" end="0:35:39.743000" persName="Informant 0371">
 ja	ja	ADV	-	0:35:36.696000	0:35:38.650000
 nichts	nichts	PRON	-	0:35:36.696000	0:35:38.650000
 Tschechien	Tschechien	PROPN	-	0:35:36.696000	0:35:38.650000
@@ -10559,11 +10560,11 @@ Jahr	Jahr	NOUN	-	0:35:36.696000	0:35:38.650000
 Italien	Italien	PROPN	-	0:35:38.650000	0:35:39.743000
 .	-	-	-	0:35:38.650000	0:35:39.743000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:38.650000" end="0:35:39.743000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:38.650000" end="0:35:39.743000" persName="Informant 0373">
 Italien	Italien	PROPN	-	0:35:38.650000	0:35:39.743000
 .	-	-	-	0:35:38.650000	0:35:39.743000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:39.743000" end="0:35:50.283000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:39.743000" end="0:35:50.283000" persName="Informant 0371">
 <pause duration="0,9s"/>
 Sonntag	Sonntag	NOUN	-	0:35:39.743000	0:35:43.050000
 ,	-	-	-	0:35:39.743000	0:35:43.050000
@@ -10598,7 +10599,7 @@ jedes	jed	DET	-	0:35:48.476000	0:35:50.283000
 Mal	Mal	NOUN	-	0:35:48.476000	0:35:50.283000
 .	-	-	-	0:35:48.476000	0:35:50.283000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:48.476000" end="0:35:51.583000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:48.476000" end="0:35:51.583000" persName="Informant 0373">
 es	ich	PRON	-	0:35:48.476000	0:35:50.283000
 gehört	hören	VERB	-	0:35:48.476000	0:35:50.283000
 einmal	einmal	ADV	-	0:35:48.476000	0:35:50.283000
@@ -10606,7 +10607,7 @@ schnell	schnellen	ADJ	-	0:35:50.283000	0:35:51.583000
 übertrieben	übertreiben	ADJ	-	0:35:50.283000	0:35:51.583000
 .	-	-	-	0:35:50.283000	0:35:51.583000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:51.583000" end="0:35:53.443000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:51.583000" end="0:35:53.443000" persName="Informant 0371">
 genau	genau	ADJ	-	0:35:51.583000	0:35:53.443000
 ,	-	-	-	0:35:51.583000	0:35:53.443000
 zuerst	zuerst	ADV	-	0:35:51.583000	0:35:53.443000
@@ -10614,18 +10615,18 @@ einmal	einmal	ADV	-	0:35:51.583000	0:35:53.443000
 übertrieben	übertreiben	ADJ	-	0:35:51.583000	0:35:53.443000
 .	-	-	-	0:35:51.583000	0:35:53.443000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:51.583000" end="0:35:53.443000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:51.583000" end="0:35:53.443000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:53.443000" end="0:35:55.076000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:53.443000" end="0:35:55.076000" persName="Informant 0371">
 *dasst*	-	-	-	0:35:53.443000	0:35:55.076000
 in	-	-	-	0:35:53.443000	0:35:55.076000
 der	-	-	-	0:35:53.443000	0:35:55.076000
 Früh	-	-	-	0:35:53.443000	0:35:55.076000
 aufwachst	-	-	-	0:35:53.443000	0:35:55.076000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:53.443000" end="0:35:55.076000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:53.443000" end="0:35:55.076000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:55.076000" end="0:36:00.596000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:35:55.076000" end="0:36:00.596000" persName="Informant 0371">
 und	-	-	-	0:35:55.076000	0:35:58.356000
 <pause duration="0,7s"/>
 einmal	-	-	-	0:35:55.076000	0:35:58.356000
@@ -10642,7 +10643,7 @@ und	-	-	-	0:35:58.916000	0:36:00.596000
 dann/	-	-	-	0:35:58.916000	0:36:00.596000
 .	-	-	-	0:35:58.916000	0:36:00.596000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:58.916000" end="0:36:01.803000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:35:58.916000" end="0:36:01.803000" persName="Informant 0373">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:35:58.916000	0:36:00.596000
 können	können	VERB	-	0:35:58.916000	0:36:00.596000
@@ -10652,7 +10653,7 @@ Schulerlebnisse	Schulerlebnisse	NOUN	-	0:36:00.596000	0:36:01.803000
 nehmen	nehmen	VERB	-	0:36:00.596000	0:36:01.803000
 .	-	-	-	0:36:00.596000	0:36:01.803000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:01.803000" end="0:36:05.476000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:01.803000" end="0:36:05.476000" persName="Informant 0371">
 das	der	PRON	-	0:36:01.803000	0:36:05.476000
 ist	sein	AUX	-	0:36:01.803000	0:36:05.476000
 Schuler/	-	-	-	0:36:01.803000	0:36:05.476000
@@ -10664,9 +10665,9 @@ besondere	besonder	ADJ	-	0:36:01.803000	0:36:05.476000
 Schulerlebnisse	Schulerlebnisse	NOUN	-	0:36:01.803000	0:36:05.476000
 .	-	-	-	0:36:01.803000	0:36:05.476000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:01.803000" end="0:36:05.476000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:01.803000" end="0:36:05.476000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:05.476000" end="0:36:18.689000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:05.476000" end="0:36:18.689000" persName="Informant 0371">
 und	und	CCONJ	-	0:36:05.476000	0:36:08.396000
 dann	dann	ADV	-	0:36:05.476000	0:36:08.396000
 am	am	ADP	-	0:36:05.476000	0:36:08.396000
@@ -10705,11 +10706,11 @@ wir	ich	PRON	-	0:36:17.649000	0:36:18.689000
 hinein	hinein	ADP	-	0:36:17.649000	0:36:18.689000
 .	-	-	-	0:36:17.649000	0:36:18.689000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:18.689000" end="0:36:19.269000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:18.689000" end="0:36:19.269000" persName="Informant 0373">
 wäh	wäh	X	-	0:36:18.689000	0:36:19.269000
 .	-	-	-	0:36:18.689000	0:36:19.269000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:19.269000" end="0:36:24.949000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:19.269000" end="0:36:24.949000" persName="Informant 0371">
 passt	passt	PROPN	-	0:36:19.269000	0:36:21.436000
 ,	-	-	-	0:36:19.269000	0:36:21.436000
 hinauf	hinauf	ADP	-	0:36:19.269000	0:36:21.436000
@@ -10729,9 +10730,9 @@ einmal	einmal	ADV	-	0:36:23.009000	0:36:24.949000
 hinuntergestellt	hinuntergestellt	VERB	-	0:36:23.009000	0:36:24.949000
 .	-	-	-	0:36:23.009000	0:36:24.949000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:23.009000" end="0:36:24.949000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:23.009000" end="0:36:24.949000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:24.949000" end="0:36:33.796000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:24.949000" end="0:36:33.796000" persName="Informant 0371">
 alle	all	DET	-	0:36:24.949000	0:36:26.643000
 anderen	ander	PRON	-	0:36:24.949000	0:36:26.643000
 ja	ja	PART	-	0:36:24.949000	0:36:26.643000
@@ -10775,24 +10776,24 @@ dort	dort	ADV	-	0:36:32.923000	0:36:33.796000
 gibt	geben	VERB	-	0:36:32.923000	0:36:33.796000
 es	ich	PRON	-	0:36:32.923000	0:36:33.796000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:32.923000" end="0:36:33.796000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:32.923000" end="0:36:33.796000" persName="Informant 0373">
 was	was	PRON	-	0:36:32.923000	0:36:33.796000
 ?	-	-	-	0:36:32.923000	0:36:33.796000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:33.796000" end="0:36:35.476000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:33.796000" end="0:36:35.476000" persName="Informant 0371">
 keine	kein	DET	-	0:36:33.796000	0:36:34.983000
 Trinkenständel	Trinkenständel	NOUN	-	0:36:33.796000	0:36:34.983000
 und	und	CCONJ	-	0:36:33.796000	0:36:34.983000
 nichts	nichts	PRON	-	0:36:34.983000	0:36:35.476000
 .	-	-	-	0:36:34.983000	0:36:35.476000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:34.983000" end="0:36:36.083000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:34.983000" end="0:36:36.083000" persName="Informant 0373">
 *kannst*	-	-	-	0:36:34.983000	0:36:35.476000
 nichts	-	-	-	0:36:34.983000	0:36:35.476000
 kaufen	-	-	-	0:36:35.476000	0:36:36.083000
 ?	-	-	-	0:36:35.476000	0:36:36.083000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:36.083000" end="0:36:41.103000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:36.083000" end="0:36:41.103000" persName="Informant 0371">
 nein	nein	PART	-	0:36:36.083000	0:36:37.863000
 ,	-	-	-	0:36:36.083000	0:36:37.863000
 dort	dort	ADV	-	0:36:36.083000	0:36:37.863000
@@ -10822,7 +10823,7 @@ fast	-	-	-	0:36:39.296000	0:36:41.103000
 zugepickt	-	-	-	0:36:39.296000	0:36:41.103000
 .	-	-	-	0:36:39.296000	0:36:41.103000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:41.103000" end="0:36:42.183000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:41.103000" end="0:36:42.183000" persName="Informant 0373">
 was	was	PRON	-	0:36:41.103000	0:36:42.183000
 ,	-	-	-	0:36:41.103000	0:36:42.183000
 und	-	-	-	0:36:41.103000	0:36:42.183000
@@ -10831,18 +10832,18 @@ da	-	-	-	0:36:41.103000	0:36:42.183000
 kein	-	-	-	0:36:41.103000	0:36:42.183000
 Bier	-	-	-	0:36:41.103000	0:36:42.183000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:42.183000" end="0:36:43.343000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:42.183000" end="0:36:43.343000" persName="Informant 0371">
 ich	-	-	-	0:36:42.183000	0:36:43.343000
 kann	-	-	-	0:36:42.183000	0:36:43.343000
 gegen	-	-	-	0:36:42.183000	0:36:43.343000
 den	-	-	-	0:36:42.183000	0:36:43.343000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:42.183000" end="0:36:43.343000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:42.183000" end="0:36:43.343000" persName="Informant 0373">
 getrunk/	-	-	-	0:36:42.183000	0:36:43.343000
 gestellt	-	-	-	0:36:42.183000	0:36:43.343000
 ?	-	-	-	0:36:42.183000	0:36:43.343000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:43.343000" end="0:36:45.483000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:43.343000" end="0:36:45.483000" persName="Informant 0371">
 Durst	-	-	-	0:36:43.343000	0:36:45.483000
 kein	-	-	-	0:36:43.343000	0:36:45.483000
 Bier	-	-	-	0:36:43.343000	0:36:45.483000
@@ -10855,13 +10856,13 @@ dann	-	-	-	0:36:43.343000	0:36:45.483000
 immer	-	-	-	0:36:43.343000	0:36:45.483000
 _rappiger_	-	-	-	0:36:43.343000	0:36:45.483000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:43.343000" end="0:36:45.483000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:43.343000" end="0:36:45.483000" persName="Informant 0373">
 *dass*	-	-	-	0:36:43.343000	0:36:45.483000
 das	-	-	-	0:36:43.343000	0:36:45.483000
 gibt	-	-	-	0:36:43.343000	0:36:45.483000
 .	-	-	-	0:36:43.343000	0:36:45.483000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:45.483000" end="0:36:47.843000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:45.483000" end="0:36:47.843000" persName="Informant 0371">
 gegangen	-	-	-	0:36:45.483000	0:36:45.809000
 und	-	-	-	0:36:45.809000	0:36:47.843000
 dann	-	-	-	0:36:45.809000	0:36:47.843000
@@ -10869,24 +10870,23 @@ hätte	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum h
 ich	-	-	-	0:36:45.809000	0:36:47.843000
 (noch	-	-	-	0:36:45.809000	0:36:47.843000
 wenig)	-	-	-	0:36:45.809000	0:36:47.843000
-kein	-	-	-	0:36:45.809000	0:36:47.843000
 Bier	-	-	-	0:36:45.809000	0:36:47.843000
 saufen	-	-	-	0:36:45.809000	0:36:47.843000
 können	-	-	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:36:45.809000	0:36:47.843000
 .	-	-	-	0:36:45.809000	0:36:47.843000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:47.843000" end="0:36:48.416000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:47.843000" end="0:36:48.416000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:36:47.843000	0:36:48.416000
 .	-	-	-	0:36:47.843000	0:36:48.416000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:48.416000" end="0:36:49.203000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:48.416000" end="0:36:49.203000" persName="Informant 0371">
 das	der	PRON	-	0:36:48.416000	0:36:49.203000
 wäre	sein	AUX	-	0:36:48.416000	0:36:49.203000
 nicht	nicht	PART	-	0:36:48.416000	0:36:49.203000
 gegangen	gehen	VERB	-	0:36:48.416000	0:36:49.203000
 .	-	-	-	0:36:48.416000	0:36:49.203000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:49.203000" end="0:36:52.329000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:49.203000" end="0:36:52.329000" persName="Informant 0373">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:36:49.203000	0:36:52.329000
 hat/	-	-	-	0:36:49.203000	0:36:52.329000
@@ -10898,13 +10898,13 @@ ein	einen	DET	-	0:36:49.203000	0:36:52.329000
 Wahnsinn	Wahnsinn	NOUN	-	0:36:49.203000	0:36:52.329000
 .	-	-	-	0:36:49.203000	0:36:52.329000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:52.329000" end="0:36:53.109000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:52.329000" end="0:36:53.109000" persName="Informant 0371">
 ja	ja	PART	-	0:36:52.329000	0:36:53.109000
 .	-	-	-	0:36:52.329000	0:36:53.109000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:52.329000" end="0:36:53.109000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:36:52.329000" end="0:36:53.109000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:53.109000" end="0:37:00.736000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:36:53.109000" end="0:37:00.736000" persName="Informant 0371">
 und	und	CCONJ	-	0:36:53.109000	0:36:58.749000
 dann	dann	ADV	-	0:36:53.109000	0:36:58.749000
 sind	sein	AUX	-	0:36:53.109000	0:36:58.749000
@@ -10941,11 +10941,11 @@ Handy	Handy	NOUN	-	0:37:00.129000	0:37:00.736000
 liegt/	-	-	-	0:37:00.129000	0:37:00.736000
 .	-	-	-	0:37:00.129000	0:37:00.736000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:00.129000" end="0:37:00.736000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:00.129000" end="0:37:00.736000" persName="Informant 0373">
 ja	ja	PART	-	0:37:00.129000	0:37:00.736000
 .	-	-	-	0:37:00.129000	0:37:00.736000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:00.736000" end="0:37:05.203000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:00.736000" end="0:37:05.203000" persName="Informant 0371">
 *weißt*	-	-	-	0:37:00.736000	0:37:01.029000
 eh	-	-	-	0:37:00.736000	0:37:01.029000
 ,	-	-	-	0:37:00.736000	0:37:01.029000
@@ -10970,30 +10970,30 @@ mir	-	-	-	0:37:04.036000	0:37:05.203000
 Mineralwasser	-	-	-	0:37:04.036000	0:37:05.203000
 .	-	-	-	0:37:04.036000	0:37:05.203000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:04.036000" end="0:37:05.203000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:04.036000" end="0:37:05.203000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:05.203000" end="0:37:06.096000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:05.203000" end="0:37:06.096000" persName="Informant 0371">
 dann	dann	ADV	-	0:37:05.203000	0:37:06.096000
 habe	habe	AUX	-	0:37:05.203000	0:37:06.096000
 ich	ich	PRON	-	0:37:05.203000	0:37:06.096000
 mir	sich	PRON	-	0:37:05.203000	0:37:06.096000
 Mineralwasser	Mineralwasser	NOUN	-	0:37:05.203000	0:37:06.096000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:05.203000" end="0:37:06.096000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:05.203000" end="0:37:06.096000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:06.096000" end="0:37:06.889000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:06.096000" end="0:37:06.889000" persName="Informant 0371">
 hinuntergestellt	hinuntergestellt	VERB	-	0:37:06.096000	0:37:06.889000
 .	-	-	-	0:37:06.096000	0:37:06.889000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:06.096000" end="0:37:06.889000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:06.096000" end="0:37:06.889000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:37:06.096000	0:37:06.889000
 .	-	-	-	0:37:06.096000	0:37:06.889000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:06.889000" end="0:37:07.476000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:06.889000" end="0:37:07.476000" persName="Informant 0371">
 nein	nein	PART	-	0:37:06.889000	0:37:07.476000
 .	-	-	-	0:37:06.889000	0:37:07.476000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:07.476000" end="0:37:11.656000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:07.476000" end="0:37:11.656000" persName="Informant 0373">
 <pause duration="1,2s"/>
 nach	nach	ADP	-	0:37:07.476000	0:37:10.963000
 einem	einer	DET	-	0:37:07.476000	0:37:10.963000
@@ -11007,15 +11007,15 @@ haben	haben	AUX	-	0:37:07.476000	0:37:10.963000
 da	-	-	-	0:37:10.963000	0:37:11.656000
 *stirbst*	-	-	-	0:37:10.963000	0:37:11.656000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:11.656000" end="0:37:12.289000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:11.656000" end="0:37:12.289000" persName="Informant 0371">
 grauslich	grauslich	ADJ	-	0:37:11.656000	0:37:12.289000
 .	-	-	-	0:37:11.656000	0:37:12.289000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:11.656000" end="0:37:12.289000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:11.656000" end="0:37:12.289000" persName="Informant 0373">
 ja	-	-	-	0:37:11.656000	0:37:12.289000
 .	-	-	-	0:37:11.656000	0:37:12.289000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:12.289000" end="0:37:16.296000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:12.289000" end="0:37:16.296000" persName="Informant 0371">
 wäh	wäh	X	-	0:37:12.289000	0:37:12.823000
 .	-	-	-	0:37:12.289000	0:37:12.823000
 <pause duration="1,5s"/>
@@ -11030,19 +11030,19 @@ mich	sich	PRON	-	0:37:12.823000	0:37:16.296000
 schon	schon	ADV	-	0:37:12.823000	0:37:16.296000
 .	-	-	-	0:37:12.823000	0:37:16.296000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:16.296000" end="0:37:17.609000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:16.296000" end="0:37:17.609000" persName="Informant 0373">
 wer	wer	PRON	-	0:37:16.296000	0:37:17.609000
 fährt	fahren	VERB	-	0:37:16.296000	0:37:17.609000
 da	da	ADV	-	0:37:16.296000	0:37:17.609000
 aller	all	PRON	-	0:37:16.296000	0:37:17.609000
 ?	-	-	-	0:37:16.296000	0:37:17.609000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:17.609000" end="0:37:20.696000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:17.609000" end="0:37:20.696000" persName="Informant 0371">
 wir	ich	PRON	-	0:37:17.609000	0:37:19.869000
 haben	haben	AUX	-	0:37:17.609000	0:37:19.869000
 es	ich	PRON	-	0:37:17.609000	0:37:19.869000
 dem	der	DET	-	0:37:17.609000	0:37:19.869000
-[Biwi]N	Biwi	NOUN	-	0:37:17.609000	0:37:19.869000
+NAME	NAME	NOUN	-	0:37:17.609000	0:37:19.869000
 zum	zum	ADP	-	0:37:17.609000	0:37:19.869000
 Fünfundzwanziger	Fünfundzwanziger	NOUN	-	0:37:17.609000	0:37:19.869000
 geschenkt	schenken	VERB	-	0:37:17.609000	0:37:19.869000
@@ -11050,11 +11050,11 @@ geschenkt	schenken	VERB	-	0:37:17.609000	0:37:19.869000
 und	-	-	-	0:37:19.869000	0:37:20.696000
 unsere	-	-	-	0:37:19.869000	0:37:20.696000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:19.869000" end="0:37:20.696000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:19.869000" end="0:37:20.696000" persName="Informant 0373">
 ja	ja	PART	-	0:37:19.869000	0:37:20.696000
 .	-	-	-	0:37:19.869000	0:37:20.696000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:20.696000" end="0:37:23.236000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:20.696000" end="0:37:23.236000" persName="Informant 0371">
 _dings_	-	-	-	0:37:20.696000	0:37:23.236000
 Partie	-	-	-	0:37:20.696000	0:37:23.236000
 ,	-	-	-	0:37:20.696000	0:37:23.236000
@@ -11064,11 +11064,11 @@ die	der	DET	-	0:37:20.696000	0:37:23.236000
 Partie	Partie	NOUN	-	0:37:20.696000	0:37:23.236000
 .	-	-	-	0:37:20.696000	0:37:23.236000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:23.236000" end="0:37:23.656000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:23.236000" end="0:37:23.656000" persName="Informant 0373">
 okay	okay	NOUN	-	0:37:23.236000	0:37:23.656000
 .	-	-	-	0:37:23.236000	0:37:23.656000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:23.656000" end="0:37:31.189000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:23.656000" end="0:37:31.189000" persName="Informant 0371">
 <pause duration="1,0s"/>
 fahren	fahren	VERB	-	0:37:23.656000	0:37:25.436000
 wir	ich	PRON	-	0:37:23.656000	0:37:25.436000
@@ -11093,20 +11093,20 @@ gleichen	gleich	ADJ	-	0:37:30.389000	0:37:31.189000
 Tag	Tag	NOUN	-	0:37:30.389000	0:37:31.189000
 .	-	-	-	0:37:30.389000	0:37:31.189000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:30.389000" end="0:37:31.189000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:30.389000" end="0:37:31.189000" persName="Informant 0373">
 alles	alle	PRON	-	0:37:30.389000	0:37:31.189000
 in	in	ADP	-	0:37:30.389000	0:37:31.189000
 einem	einer	DET	-	0:37:30.389000	0:37:31.189000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:31.189000" end="0:37:31.816000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:31.189000" end="0:37:31.816000" persName="Informant 0371">
 ja	ja	PART	-	0:37:31.189000	0:37:31.816000
 .	-	-	-	0:37:31.189000	0:37:31.816000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:31.189000" end="0:37:31.816000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:31.189000" end="0:37:31.816000" persName="Informant 0373">
 Tag	Tag	NOUN	-	0:37:31.189000	0:37:31.816000
 ?	-	-	-	0:37:31.189000	0:37:31.816000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:31.816000" end="0:37:33.823000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:31.816000" end="0:37:33.823000" persName="Informant 0371">
 <pause duration="1,1s"/>
 da	da	ADV	-	0:37:31.816000	0:37:33.823000
 haben	haben	AUX	-	0:37:31.816000	0:37:33.823000
@@ -11115,7 +11115,7 @@ für	für	ADP	-	0:37:31.816000	0:37:33.823000
 alle/	-	-	-	0:37:31.816000	0:37:33.823000
 .	-	-	-	0:37:31.816000	0:37:33.823000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:31.816000" end="0:37:36.229000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:31.816000" end="0:37:36.229000" persName="Informant 0373">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:37:31.816000	0:37:33.823000
 .	-	-	-	0:37:31.816000	0:37:33.823000
@@ -11134,7 +11134,7 @@ zum	zum	ADP	-	0:37:34.409000	0:37:36.229000
 Sitzen	Sitz	NOUN	-	0:37:34.409000	0:37:36.229000
 oder	oder	CCONJ	-	0:37:34.409000	0:37:36.229000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:36.229000" end="0:37:37.049000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:36.229000" end="0:37:37.049000" persName="Informant 0371">
 nein	nein	PART	-	0:37:36.229000	0:37:37.049000
 ich	ich	PRON	-	0:37:36.229000	0:37:37.049000
 glaube	glauben	VERB	-	0:37:36.229000	0:37:37.049000
@@ -11142,13 +11142,13 @@ glaube	glauben	VERB	-	0:37:36.229000	0:37:37.049000
 da	-	-	-	0:37:36.229000	0:37:37.049000
 sind	-	-	-	0:37:36.229000	0:37:37.049000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:36.229000" end="0:37:37.049000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:36.229000" end="0:37:37.049000" persName="Informant 0373">
 steht	stehen	VERB	-	0:37:36.229000	0:37:37.049000
 man	man	PRON	-	0:37:36.229000	0:37:37.049000
 da	da	ADP	-	0:37:36.229000	0:37:37.049000
 ?	-	-	-	0:37:36.229000	0:37:37.049000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:37.049000" end="0:37:39.783000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:37.049000" end="0:37:39.783000" persName="Informant 0371">
 _dings_	-	-	-	0:37:37.049000	0:37:37.649000
 drinnen	-	-	-	0:37:37.049000	0:37:37.649000
 ,	-	-	-	0:37:37.049000	0:37:37.649000
@@ -11158,17 +11158,17 @@ Biergarnituren	Biergarnituren	NOUN	-	0:37:37.649000	0:37:39.783000
 drinnen	drinnen	ADV	-	0:37:37.649000	0:37:39.783000
 .	-	-	-	0:37:37.649000	0:37:39.783000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:39.783000" end="0:37:41.023000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:39.783000" end="0:37:41.023000" persName="Informant 0373">
 Biergarnituren	Biergarnituren	NOUN	-	0:37:39.783000	0:37:41.023000
 zum	zum	ADP	-	0:37:39.783000	0:37:41.023000
 Zuschauen	Zuschauen	NOUN	-	0:37:39.783000	0:37:41.023000
 ?	-	-	-	0:37:39.783000	0:37:41.023000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:41.023000" end="0:37:41.423000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:41.023000" end="0:37:41.423000" persName="Informant 0371">
 ja	ja	PART	-	0:37:41.023000	0:37:41.423000
 .	-	-	-	0:37:41.023000	0:37:41.423000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:41.423000" end="0:37:42.749000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:41.423000" end="0:37:42.749000" persName="Informant 0373">
 geil	geil	NOUN	-	0:37:41.423000	0:37:42.749000
 ,	-	-	-	0:37:41.423000	0:37:42.749000
 mit	mit	ADP	-	0:37:41.423000	0:37:42.749000
@@ -11177,7 +11177,7 @@ und	und	CCONJ	-	0:37:41.423000	0:37:42.749000
 alles	alle	PRON	-	0:37:41.423000	0:37:42.749000
 ?	-	-	-	0:37:41.423000	0:37:42.749000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:42.749000" end="0:37:53.023000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:42.749000" end="0:37:53.023000" persName="Informant 0371">
 ja	ja	ADV	-	0:37:42.749000	0:37:44.196000
 das	der	PRON	-	0:37:42.749000	0:37:44.196000
 mü/	-	-	-	0:37:42.749000	0:37:44.196000
@@ -11208,14 +11208,14 @@ eine	einen	DET	-	0:37:49.603000	0:37:51.663000
 eine	einen	DET	-	0:37:49.603000	0:37:51.663000
 Festum/	-	-	-	0:37:51.663000	0:37:53.023000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:51.663000" end="0:37:53.023000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:51.663000" end="0:37:53.023000" persName="Informant 0373">
 zum	zum	ADP	-	0:37:51.663000	0:37:53.023000
 Essen	Essen	NOUN	-	0:37:51.663000	0:37:53.023000
 was	was	PRON	-	0:37:51.663000	0:37:53.023000
 geben	geben	VERB	-	0:37:51.663000	0:37:53.023000
 ?	-	-	-	0:37:51.663000	0:37:53.023000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:53.023000" end="0:37:55.203000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:53.023000" end="0:37:55.203000" persName="Informant 0371">
 atmosphäre	atmosphäre	NOUN	-	0:37:53.023000	0:37:53.916000
 sein	mein	AUX	-	0:37:53.023000	0:37:53.916000
 .	-	-	-	0:37:53.023000	0:37:53.916000
@@ -11225,11 +11225,11 @@ Alkohol	Alkohol	NOUN	-	0:37:53.916000	0:37:55.203000
 ausschenken	ausschenken	VERB	-	0:37:53.916000	0:37:55.203000
 .	-	-	-	0:37:53.916000	0:37:55.203000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:55.203000" end="0:37:57.189000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:37:55.203000" end="0:37:57.189000" persName="Informant 0373">
 warum	warum	ADV	-	0:37:55.203000	0:37:57.189000
 ?	-	-	-	0:37:55.203000	0:37:57.189000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:57.189000" end="0:38:00.716000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:37:57.189000" end="0:38:00.716000" persName="Informant 0371">
 das	der	PRON	-	0:37:57.189000	0:37:58.169000
 haben	haben	AUX	-	0:37:57.189000	0:37:58.169000
 sie	ich	PRON	-	0:37:57.189000	0:37:58.169000
@@ -11247,29 +11247,29 @@ herüber	herüber	PROPN	-	0:37:58.169000	0:38:00.069000
 gezerrt	zerren	VERB	-	0:38:00.069000	0:38:00.716000
 .	-	-	-	0:38:00.069000	0:38:00.716000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:00.069000" end="0:38:00.716000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:00.069000" end="0:38:00.716000" persName="Informant 0373">
 wie	wie	ADV	-	0:38:00.069000	0:38:00.716000
 geil	geil	NOUN	-	0:38:00.069000	0:38:00.716000
 ist	sein	AUX	-	0:38:00.069000	0:38:00.716000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:00.716000" end="0:38:01.496000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:00.716000" end="0:38:01.496000" persName="Informant 0371">
 ja	ja	PART	-	0:38:00.716000	0:38:01.496000
 .	-	-	-	0:38:00.716000	0:38:01.496000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:00.716000" end="0:38:01.496000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:00.716000" end="0:38:01.496000" persName="Informant 0373">
 der	der	DET	-	0:38:00.716000	0:38:01.496000
 Sport	Sport	NOUN	-	0:38:00.716000	0:38:01.496000
 .	-	-	-	0:38:00.716000	0:38:01.496000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:01.496000" end="0:38:02.956000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:01.496000" end="0:38:02.956000" persName="Informant 0371">
 ja	ja	PART	-	0:38:01.496000	0:38:02.956000
 ,	-	-	-	0:38:01.496000	0:38:02.956000
 weltgeil	wildgeil	NOUN	-	0:38:01.496000	0:38:02.956000
 .	-	-	-	0:38:01.496000	0:38:02.956000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:01.496000" end="0:38:02.956000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:01.496000" end="0:38:02.956000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:02.956000" end="0:38:05.176000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:02.956000" end="0:38:05.176000" persName="Informant 0371">
 und	-	-	-	0:38:02.956000	0:38:04.763000
 da	-	-	-	0:38:02.956000	0:38:04.763000
 *tust*	-	-	-	0:38:02.956000	0:38:04.763000
@@ -11285,11 +11285,11 @@ gell	gell	ADJ	-	0:38:02.956000	0:38:04.763000
 die	der	PRON	-	0:38:04.763000	0:38:05.176000
 gehen	gehen	VERB	-	0:38:04.763000	0:38:05.176000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:04.763000" end="0:38:05.176000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:04.763000" end="0:38:05.176000" persName="Informant 0373">
 was	was	PRON	-	0:38:04.763000	0:38:05.176000
 ?	-	-	-	0:38:04.763000	0:38:05.176000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:05.176000" end="0:38:12.056000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:05.176000" end="0:38:12.056000" persName="Informant 0371">
 ja	ja	ADV	-	0:38:05.176000	0:38:06.416000
 voll	voll	ADJ	-	0:38:05.176000	0:38:06.416000
 verkleidet/	-	-	-	0:38:05.176000	0:38:06.416000
@@ -11299,7 +11299,7 @@ wir	ich	PRON	-	0:38:06.416000	0:38:10.063000
 gehen	gehen	VERB	-	0:38:06.416000	0:38:10.063000
 <pause duration="0,9s"/>
 der	der	DET	-	0:38:06.416000	0:38:10.063000
-[Biwi]N	Biwi	NOUN	-	0:38:06.416000	0:38:10.063000
+NAME	NAME	NOUN	-	0:38:06.416000	0:38:10.063000
 kriegt	kriegen	VERB	-	0:38:06.416000	0:38:10.063000
 ein	einen	DET	-	0:38:06.416000	0:38:10.063000
 Affenkostüm	Affenkostüm	NOUN	-	0:38:06.416000	0:38:10.063000
@@ -11310,19 +11310,19 @@ ein	einen	DET	-	0:38:10.063000	0:38:12.056000
 Bananenkostüm	Bananenkostüm	NOUN	-	0:38:10.063000	0:38:12.056000
 .	-	-	-	0:38:10.063000	0:38:12.056000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:10.063000" end="0:38:14.143000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:10.063000" end="0:38:14.143000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:14.143000" end="0:38:15.149000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:14.143000" end="0:38:15.149000" persName="Informant 0371">
 *weißt*	-	-	-	0:38:14.143000	0:38:15.149000
 wie	-	-	-	0:38:14.143000	0:38:15.149000
 geil	-	-	-	0:38:14.143000	0:38:15.149000
 ?	-	-	-	0:38:14.143000	0:38:15.149000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:15.149000" end="0:38:15.523000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:15.149000" end="0:38:15.523000" persName="Informant 0373">
 geil	geil	NOUN	-	0:38:15.149000	0:38:15.523000
 .	-	-	-	0:38:15.149000	0:38:15.523000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:15.523000" end="0:38:18.069000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:15.523000" end="0:38:18.069000" persName="Informant 0371">
 ja	ja	PART	-	0:38:15.523000	0:38:16.036000
 .	-	-	-	0:38:15.523000	0:38:16.036000
 <pause duration="1,0s"/>
@@ -11331,9 +11331,9 @@ wird	werden	AUX	-	0:38:16.036000	0:38:18.069000
 weltgeil	wildgeil	NOUN	-	0:38:16.036000	0:38:18.069000
 .	-	-	-	0:38:16.036000	0:38:18.069000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:18.069000" end="0:38:18.729000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:18.069000" end="0:38:18.729000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:18.729000" end="0:38:20.249000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:18.729000" end="0:38:20.249000" persName="Informant 0371">
 ich	ich	PRON	-	0:38:18.729000	0:38:20.249000
 habe	habe	AUX	-	0:38:18.729000	0:38:20.249000
 mir	sich	PRON	-	0:38:18.729000	0:38:20.249000
@@ -11345,14 +11345,14 @@ frei	frei	ADJ	-	0:38:18.729000	0:38:20.249000
 genommen	nehmen	VERB	-	0:38:18.729000	0:38:20.249000
 .	-	-	-	0:38:18.729000	0:38:20.249000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:20.249000" end="0:38:21.203000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:20.249000" end="0:38:21.203000" persName="Informant 0373">
 ja	ja	ADV	-	0:38:20.249000	0:38:21.203000
 das	der	PRON	-	0:38:20.249000	0:38:21.203000
 glaube	glauben	VERB	-	0:38:20.249000	0:38:21.203000
 ich	ich	PRON	-	0:38:20.249000	0:38:21.203000
 .	-	-	-	0:38:20.249000	0:38:21.203000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:21.203000" end="0:38:22.943000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:21.203000" end="0:38:22.943000" persName="Informant 0371">
 das	-	-	-	0:38:21.203000	0:38:22.349000
 *könntest*/	-	-	-	0:38:21.203000	0:38:22.349000
 .	-	-	-	0:38:21.203000	0:38:22.349000
@@ -11360,29 +11360,29 @@ das	-	-	-	0:38:21.203000	0:38:22.349000
 nein	nein	PART	-	0:38:22.349000	0:38:22.943000
 .	-	-	-	0:38:22.349000	0:38:22.943000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:22.349000" end="0:38:24.069000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:22.349000" end="0:38:24.069000" persName="Informant 0373">
 da	-	-	-	0:38:22.349000	0:38:22.943000
 *kannst*	-	-	-	0:38:22.943000	0:38:24.069000
 dich	-	-	-	0:38:22.943000	0:38:24.069000
 sonst	-	-	-	0:38:22.943000	0:38:24.069000
 auf/	-	-	-	0:38:22.943000	0:38:24.069000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:24.069000" end="0:38:25.123000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:24.069000" end="0:38:25.123000" persName="Informant 0371">
 ja	ja	PART	-	0:38:24.069000	0:38:25.123000
 .	-	-	-	0:38:24.069000	0:38:25.123000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:25.123000" end="0:38:27.236000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:25.123000" end="0:38:27.236000" persName="Informant 0373">
 <pause duration="1,1s"/>
 aufknöpfen	-	-	-	0:38:25.123000	0:38:27.236000
 .	-	-	-	0:38:25.123000	0:38:27.236000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:27.236000" end="0:38:27.909000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:27.236000" end="0:38:27.909000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:38:27.236000	0:38:27.909000
 .	-	-	-	0:38:27.236000	0:38:27.909000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:27.909000" end="0:38:28.863000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:27.909000" end="0:38:28.863000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:28.863000" end="0:38:37.009000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:28.863000" end="0:38:37.009000" persName="Informant 0371">
 bist	sein	AUX	-	0:38:28.863000	0:38:30.216000
 du	du	PRON	-	0:38:28.863000	0:38:30.216000
 deppert	deppert	VERB	-	0:38:28.863000	0:38:30.216000
@@ -11404,7 +11404,7 @@ ich	ich	PRON	-	0:38:34.409000	0:38:37.009000
 ,	-	-	-	0:38:34.409000	0:38:37.009000
 das	der	DET	-	0:38:34.409000	0:38:37.009000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:34.409000" end="0:38:37.009000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:34.409000" end="0:38:37.009000" persName="Informant 0373">
 <pause duration="1,7s"/>
 nein	nein	PART	-	0:38:34.409000	0:38:37.009000
 ,	-	-	-	0:38:34.409000	0:38:37.009000
@@ -11414,14 +11414,14 @@ auch	auch	ADV	-	0:38:34.409000	0:38:37.009000
 nicht	nicht	PART	-	0:38:34.409000	0:38:37.009000
 .	-	-	-	0:38:34.409000	0:38:37.009000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:37.009000" end="0:38:39.643000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:37.009000" end="0:38:39.643000" persName="Informant 0371">
 Wochenende	Wochenend	NOUN	-	0:38:37.009000	0:38:37.823000
 wird	werden	AUX	-	0:38:37.009000	0:38:37.823000
 <pause duration="1,1s"/>
 anstrengend	anstrengen	ADJ	-	0:38:37.823000	0:38:39.643000
 .	-	-	-	0:38:37.823000	0:38:39.643000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:37.823000" end="0:38:43.436000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:37.823000" end="0:38:43.436000" persName="Informant 0373">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:38:37.823000	0:38:39.643000
 ja	-	-	-	0:38:37.823000	0:38:39.643000
@@ -11436,9 +11436,9 @@ anstarten	-	-	-	0:38:39.643000	0:38:43.436000
 ordentlich	-	-	-	0:38:39.643000	0:38:43.436000
 .	-	-	-	0:38:39.643000	0:38:43.436000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:43.436000" end="0:38:44.616000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:43.436000" end="0:38:44.616000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:43.436000" end="0:38:46.096000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:43.436000" end="0:38:46.096000" persName="Informant 0373">
 da	-	-	-	0:38:44.616000	0:38:46.096000
 *kannst*	-	-	-	0:38:44.616000	0:38:46.096000
 nicht	-	-	-	0:38:44.616000	0:38:46.096000
@@ -11446,29 +11446,29 @@ selber	-	-	-	0:38:44.616000	0:38:46.096000
 fahren	-	-	-	0:38:44.616000	0:38:46.096000
 .	-	-	-	0:38:44.616000	0:38:46.096000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:46.096000" end="0:38:47.216000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:46.096000" end="0:38:47.216000" persName="Informant 0371">
 ja	ja	PART	-	0:38:46.096000	0:38:47.216000
 wer	wer	PRON	-	0:38:46.096000	0:38:47.216000
 fährt	fahren	VERB	-	0:38:46.096000	0:38:47.216000
 selber	selber	ADV	-	0:38:46.096000	0:38:47.216000
 ?	-	-	-	0:38:46.096000	0:38:47.216000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:47.216000" end="0:38:48.023000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:47.216000" end="0:38:48.023000" persName="Informant 0373">
 weiß	weiß	VERB	-	0:38:47.216000	0:38:48.023000
 ich	ich	PRON	-	0:38:47.216000	0:38:48.023000
 nicht	nicht	PART	-	0:38:47.216000	0:38:48.023000
 .	-	-	-	0:38:47.216000	0:38:48.023000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:48.023000" end="0:38:49.596000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:48.023000" end="0:38:49.596000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:48.023000" end="0:38:49.596000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:48.023000" end="0:38:49.596000" persName="Informant 0373">
 irgendwer	irgendwer	ADJ	-	0:38:48.023000	0:38:49.596000
 wird	werden	AUX	-	0:38:48.023000	0:38:49.596000
 schon	schon	ADV	-	0:38:48.023000	0:38:49.596000
 fahren	fahren	VERB	-	0:38:48.023000	0:38:49.596000
 .	-	-	-	0:38:48.023000	0:38:49.596000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:49.596000" end="0:38:51.356000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:49.596000" end="0:38:51.356000" persName="Informant 0371">
 irgendwer	irgendwer	ADJ	-	0:38:49.596000	0:38:51.356000
 wird	werden	AUX	-	0:38:49.596000	0:38:51.356000
 sich	sich	PRON	-	0:38:49.596000	0:38:51.356000
@@ -11476,7 +11476,7 @@ schon	schon	ADV	-	0:38:49.596000	0:38:51.356000
 erbarmen	erbarmen	VERB	-	0:38:49.596000	0:38:51.356000
 .	-	-	-	0:38:49.596000	0:38:51.356000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:49.596000" end="0:38:52.236000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:49.596000" end="0:38:52.236000" persName="Informant 0373">
 sonst	sonst	ADV	-	0:38:49.596000	0:38:51.356000
 fahren	fahren	VERB	-	0:38:49.596000	0:38:51.356000
 wir	ich	PRON	-	0:38:49.596000	0:38:51.356000
@@ -11485,14 +11485,14 @@ Taxi	Taxi	NOUN	-	0:38:49.596000	0:38:51.356000
 hinein	hinein	ADP	-	0:38:51.356000	0:38:52.236000
 .	-	-	-	0:38:51.356000	0:38:52.236000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:52.236000" end="0:38:54.349000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:52.236000" end="0:38:54.349000" persName="Informant 0371">
 (Trottel)	Trottel	NOUN	-	0:38:52.236000	0:38:53.136000
 .	-	-	-	0:38:52.236000	0:38:53.136000
 ich	ich	PRON	-	0:38:53.136000	0:38:54.349000
 vertrage/	-	-	-	0:38:53.136000	0:38:54.349000
 .	-	-	-	0:38:53.136000	0:38:54.349000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:53.136000" end="0:38:56.489000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:53.136000" end="0:38:56.489000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:38:53.136000	0:38:54.349000
 es	ich	PRON	-	0:38:53.136000	0:38:54.349000
 muss	muss	PROPN	-	0:38:53.136000	0:38:54.349000
@@ -11511,7 +11511,7 @@ irgendwie	irgendwie	ADV	-	0:38:54.989000	0:38:56.489000
 gell	gell	ADJ	-	0:38:54.989000	0:38:56.489000
 ?	-	-	-	0:38:54.989000	0:38:56.489000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:56.489000" end="0:38:57.923000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:56.489000" end="0:38:57.923000" persName="Informant 0371">
 ja	ja	ADV	-	0:38:56.489000	0:38:57.223000
 ja	ja	PART	-	0:38:56.489000	0:38:57.223000
 ,	-	-	-	0:38:56.489000	0:38:57.223000
@@ -11521,15 +11521,15 @@ Treffpunkt	Treffpunkt	NOUN	-	0:38:57.223000	0:38:57.923000
 glaube	glauben	VERB	-	0:38:57.223000	0:38:57.923000
 ich	ich	PRON	-	0:38:57.223000	0:38:57.923000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:57.223000" end="0:38:57.923000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:57.223000" end="0:38:57.923000" persName="Informant 0373">
 ja	ja	PART	-	0:38:57.223000	0:38:57.923000
 .	-	-	-	0:38:57.223000	0:38:57.923000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:57.923000" end="0:38:58.123000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:38:57.923000" end="0:38:58.123000" persName="Informant 0371">
 dort	dort	ADV	-	0:38:57.923000	0:38:58.123000
 .	-	-	-	0:38:57.923000	0:38:58.123000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:58.123000" end="0:39:00.163000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:38:58.123000" end="0:39:00.163000" persName="Informant 0373">
 also	also	ADV	-	0:38:58.123000	0:38:59.436000
 fahren	fahren	VERB	-	0:38:58.123000	0:38:59.436000
 wir	ich	PRON	-	0:38:58.123000	0:38:59.436000
@@ -11543,15 +11543,15 @@ lustig	lustig	ADJ	-	0:38:59.436000	0:39:00.163000
 wäre	sein	AUX	-	0:38:59.436000	0:39:00.163000
 denn	denn	ADV	-	0:38:59.436000	0:39:00.163000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:00.163000" end="0:39:00.503000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:00.163000" end="0:39:00.503000" persName="Informant 0371">
 ja	ja	PART	-	0:39:00.163000	0:39:00.503000
 ,	-	-	-	0:39:00.163000	0:39:00.503000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:00.163000" end="0:39:00.503000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:00.163000" end="0:39:00.503000" persName="Informant 0373">
 das	der	PRON	-	0:39:00.163000	0:39:00.503000
 ?	-	-	-	0:39:00.163000	0:39:00.503000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:00.503000" end="0:39:04.256000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:00.503000" end="0:39:04.256000" persName="Informant 0371">
 aber	aber	CCONJ	-	0:39:00.503000	0:39:01.603000
 das	der	PRON	-	0:39:00.503000	0:39:01.603000
 ist	sein	AUX	-	0:39:00.503000	0:39:01.603000
@@ -11572,11 +11572,11 @@ mich	sich	PRON	-	0:39:03.349000	0:39:04.256000
 g/	-	-	-	0:39:03.349000	0:39:04.256000
 .	-	-	-	0:39:03.349000	0:39:04.256000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:03.349000" end="0:39:04.256000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:03.349000" end="0:39:04.256000" persName="Informant 0373">
 wieso	wieso	ADV	-	0:39:03.349000	0:39:04.256000
 ?	-	-	-	0:39:03.349000	0:39:04.256000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:04.256000" end="0:39:07.529000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:04.256000" end="0:39:07.529000" persName="Informant 0371">
 hä	hä	X	-	0:39:04.256000	0:39:04.896000
 ?	-	-	-	0:39:04.256000	0:39:04.896000
 ja	ja	ADV	-	0:39:04.896000	0:39:07.529000
@@ -11589,7 +11589,7 @@ schon	schon	ADV	-	0:39:04.896000	0:39:07.529000
 Treffpunkt	Treffpunkt	NOUN	-	0:39:04.896000	0:39:07.529000
 .	-	-	-	0:39:04.896000	0:39:07.529000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:07.529000" end="0:39:09.663000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:07.529000" end="0:39:09.663000" persName="Informant 0373">
 ja	ja	PART	-	0:39:07.529000	0:39:08.496000
 und	und	CCONJ	-	0:39:07.529000	0:39:08.496000
 ?	-	-	-	0:39:07.529000	0:39:08.496000
@@ -11598,7 +11598,7 @@ wielange	-	-	-	0:39:08.496000	0:39:09.663000
 leicht	-	-	-	0:39:08.496000	0:39:09.663000
 ?	-	-	-	0:39:08.496000	0:39:09.663000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:09.663000" end="0:39:12.809000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:09.663000" end="0:39:12.809000" persName="Informant 0371">
 nein	nein	PART	-	0:39:09.663000	0:39:10.663000
 nicht	nicht	PART	-	0:39:09.663000	0:39:10.663000
 wegen	wegen	ADP	-	0:39:09.663000	0:39:10.663000
@@ -11616,13 +11616,13 @@ hin	hin	ADP	-	0:39:10.663000	0:39:12.809000
 Rechbergrennen	Rechbergrennen	NOUN	-	0:39:10.663000	0:39:12.809000
 .	-	-	-	0:39:10.663000	0:39:12.809000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:12.809000" end="0:39:13.983000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:12.809000" end="0:39:13.983000" persName="Informant 0373">
 um	um	ADP	-	0:39:12.809000	0:39:13.983000
 Himmels	Himmel	NOUN	-	0:39:12.809000	0:39:13.983000
 Willen	Wille	NOUN	-	0:39:12.809000	0:39:13.983000
 .	-	-	-	0:39:12.809000	0:39:13.983000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:13.983000" end="0:39:17.603000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:13.983000" end="0:39:17.603000" persName="Informant 0371">
 hey	hey	PROPN	-	0:39:13.983000	0:39:14.923000
 ,	-	-	-	0:39:13.983000	0:39:14.923000
 nimm	nehmen	ADJ	-	0:39:13.983000	0:39:14.923000
@@ -11640,11 +11640,11 @@ im	im	ADP	-	0:39:14.923000	0:39:17.603000
 Jahr	Jahr	NOUN	-	0:39:14.923000	0:39:17.603000
 .	-	-	-	0:39:14.923000	0:39:17.603000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:14.923000" end="0:39:17.603000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:14.923000" end="0:39:17.603000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:39:14.923000	0:39:17.603000
 .	-	-	-	0:39:14.923000	0:39:17.603000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:17.603000" end="0:39:19.869000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:17.603000" end="0:39:19.869000" persName="Informant 0371">
 nimm	nehmen	ADJ	-	0:39:17.603000	0:39:18.489000
 mir	sich	PRON	-	0:39:17.603000	0:39:18.489000
 nicht	nicht	PART	-	0:39:17.603000	0:39:18.489000
@@ -11654,7 +11654,7 @@ Wochenen/	-	-	-	0:39:18.489000	0:39:19.869000
 nein	nein	NOUN	-	0:39:18.489000	0:39:19.869000
 .	-	-	-	0:39:18.489000	0:39:19.869000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:18.489000" end="0:39:22.309000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:18.489000" end="0:39:22.309000" persName="Informant 0373">
 ich	ich	PRON	-	0:39:18.489000	0:39:19.869000
 nehme	nehmen	VERB	-	0:39:18.489000	0:39:19.869000
 dir	sich	PRON	-	0:39:18.489000	0:39:19.869000
@@ -11670,7 +11670,7 @@ vorher	-	-	-	0:39:19.869000	0:39:22.309000
 heimfährst	-	-	-	0:39:19.869000	0:39:22.309000
 oder	-	-	-	0:39:19.869000	0:39:22.309000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:22.309000" end="0:39:23.649000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:22.309000" end="0:39:23.649000" persName="Informant 0371">
 nein	nein	PART	-	0:39:22.309000	0:39:23.649000
 ,	-	-	-	0:39:22.309000	0:39:23.649000
 das	der	PRON	-	0:39:22.309000	0:39:23.649000
@@ -11680,7 +11680,7 @@ da	da	ADV	-	0:39:22.309000	0:39:23.649000
 habe	habe	AUX	-	0:39:22.309000	0:39:23.649000
 ich	ich	PRON	-	0:39:22.309000	0:39:23.649000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:22.309000" end="0:39:23.649000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:22.309000" end="0:39:23.649000" persName="Informant 0373">
 nicht	-	-	-	0:39:22.309000	0:39:23.649000
 ,	-	-	-	0:39:22.309000	0:39:23.649000
 ist	-	-	-	0:39:22.309000	0:39:23.649000
@@ -11689,7 +11689,7 @@ wohl	-	-	-	0:39:22.309000	0:39:23.649000
 _wurscht_	-	-	-	0:39:22.309000	0:39:23.649000
 .	-	-	-	0:39:22.309000	0:39:23.649000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:23.649000" end="0:39:25.989000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:23.649000" end="0:39:25.989000" persName="Informant 0371">
 da	da	ADV	-	0:39:23.649000	0:39:25.989000
 habe	habe	AUX	-	0:39:23.649000	0:39:25.989000
 ich	ich	PRON	-	0:39:23.649000	0:39:25.989000
@@ -11702,7 +11702,7 @@ nicht	nicht	PART	-	0:39:23.649000	0:39:25.989000
 gesehen	sehen	VERB	-	0:39:23.649000	0:39:25.989000
 .	-	-	-	0:39:23.649000	0:39:25.989000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:25.989000" end="0:39:28.449000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:25.989000" end="0:39:28.449000" persName="Informant 0373">
 ah	ah	X	-	0:39:25.989000	0:39:26.743000
 ja	ja	ADV	-	0:39:25.989000	0:39:26.743000
 .	-	-	-	0:39:25.989000	0:39:26.743000
@@ -11714,22 +11714,22 @@ am	-	-	-	0:39:26.743000	0:39:28.449000
 Samstag	-	-	-	0:39:26.743000	0:39:28.449000
 .	-	-	-	0:39:26.743000	0:39:28.449000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:28.449000" end="0:39:29.283000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:28.449000" end="0:39:29.283000" persName="Informant 0371">
 *glaubst*	-	-	-	0:39:28.449000	0:39:29.283000
 ?	-	-	-	0:39:28.449000	0:39:29.283000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:29.283000" end="0:39:30.156000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:29.283000" end="0:39:30.156000" persName="Informant 0373">
 normal	normal	ADJ	-	0:39:29.283000	0:39:30.156000
 schon	schon	ADV	-	0:39:29.283000	0:39:30.156000
 .	-	-	-	0:39:29.283000	0:39:30.156000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:30.156000" end="0:39:30.709000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:30.156000" end="0:39:30.709000" persName="Informant 0371">
 okay	okay	NOUN	-	0:39:30.156000	0:39:30.709000
 .	-	-	-	0:39:30.156000	0:39:30.709000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:30.709000" end="0:39:32.029000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:30.709000" end="0:39:32.029000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:32.029000" end="0:39:37.196000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:32.029000" end="0:39:37.196000" persName="Informant 0371">
 ja	ja	ADV	-	0:39:32.029000	0:39:34.409000
 aber	aber	CCONJ	-	0:39:32.029000	0:39:34.409000
 wir	ich	PRON	-	0:39:32.029000	0:39:34.409000
@@ -11758,7 +11758,7 @@ gewesen	sein	AUX	-	0:39:34.409000	0:39:37.196000
 sind	sein	AUX	-	0:39:34.409000	0:39:37.196000
 .	-	-	-	0:39:34.409000	0:39:37.196000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:37.196000" end="0:39:38.623000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:37.196000" end="0:39:38.623000" persName="Informant 0373">
 das	der	PRON	-	0:39:37.196000	0:39:38.036000
 war	sein	AUX	-	0:39:37.196000	0:39:38.036000
 geil	geil	NOUN	-	0:39:37.196000	0:39:38.036000
@@ -11767,24 +11767,24 @@ geil	geil	NOUN	-	0:39:37.196000	0:39:38.036000
 den	-	-	-	0:39:38.036000	0:39:38.623000
 Hänger	-	-	-	0:39:38.036000	0:39:38.623000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:38.623000" end="0:39:39.169000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:38.623000" end="0:39:39.169000" persName="Informant 0371">
 hey	hey	PROPN	-	0:39:38.623000	0:39:39.169000
 ,	-	-	-	0:39:38.623000	0:39:39.169000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:38.623000" end="0:39:39.956000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:38.623000" end="0:39:39.956000" persName="Informant 0373">
 geholt	-	-	-	0:39:38.623000	0:39:39.169000
 *habts*	-	-	-	0:39:38.623000	0:39:39.169000
 (drin)	-	-	-	0:39:39.169000	0:39:39.956000
 .	-	-	-	0:39:39.169000	0:39:39.956000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:39.956000" end="0:39:40.909000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:39.956000" end="0:39:40.909000" persName="Informant 0371">
 da	da	ADV	-	0:39:39.956000	0:39:40.909000
 haben	haben	AUX	-	0:39:39.956000	0:39:40.909000
 wir	ich	PRON	-	0:39:39.956000	0:39:40.909000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:40.909000" end="0:39:42.056000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:40.909000" end="0:39:42.056000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:42.056000" end="0:39:48.996000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:42.056000" end="0:39:48.996000" persName="Informant 0371">
 da	da	ADV	-	0:39:42.056000	0:39:44.923000
 haben	haben	AUX	-	0:39:42.056000	0:39:44.923000
 wir	ich	PRON	-	0:39:42.056000	0:39:44.923000
@@ -11812,46 +11812,46 @@ dass	dass	SCONJ	-	0:39:48.509000	0:39:48.996000
 nicht/	-	-	-	0:39:48.509000	0:39:48.996000
 .	-	-	-	0:39:48.509000	0:39:48.996000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:48.509000" end="0:39:49.289000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:48.509000" end="0:39:49.289000" persName="Informant 0373">
 *habts*	-	-	-	0:39:48.509000	0:39:48.996000
 nicht	-	-	-	0:39:48.509000	0:39:48.996000
 geschafft	-	-	-	0:39:48.996000	0:39:49.289000
 ,	-	-	-	0:39:48.996000	0:39:49.289000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:49.289000" end="0:39:49.722000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:49.289000" end="0:39:49.722000" persName="Informant 0371">
 gell	gell	ADJ	-	0:39:49.289000	0:39:49.722000
 ,	-	-	-	0:39:49.289000	0:39:49.722000
 wir	ich	PRON	-	0:39:49.289000	0:39:49.722000
 haben	haben	AUX	-	0:39:49.289000	0:39:49.722000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:49.289000" end="0:39:49.722000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:49.289000" end="0:39:49.722000" persName="Informant 0373">
 gell	gell	ADJ	-	0:39:49.289000	0:39:49.722000
 ?	-	-	-	0:39:49.289000	0:39:49.722000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:49.722000" end="0:39:50.669000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:49.722000" end="0:39:50.669000" persName="Informant 0371">
 es	ich	PRON	-	0:39:49.722000	0:39:49.936000
 nicht	nicht	PART	-	0:39:49.722000	0:39:49.936000
 zusammengebracht	zusammenbringen	VERB	-	0:39:49.936000	0:39:50.669000
 .	-	-	-	0:39:49.936000	0:39:50.669000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:49.936000" end="0:39:51.256000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:49.936000" end="0:39:51.256000" persName="Informant 0373">
 und	und	CCONJ	-	0:39:49.936000	0:39:50.669000
 der	der	DET	-	0:39:49.936000	0:39:50.669000
-[Robi]N	Robi	NOUN	-	0:39:49.936000	0:39:50.669000
+NAME	NAME	NOUN	-	0:39:49.936000	0:39:50.669000
 ist	sein	AUX	-	0:39:49.936000	0:39:50.669000
 darauf	darauf	ADV	-	0:39:50.669000	0:39:51.256000
 gelegen	gelegen	VERB	-	0:39:50.669000	0:39:51.256000
 ,	-	-	-	0:39:50.669000	0:39:51.256000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:51.256000" end="0:39:51.742000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:51.256000" end="0:39:51.742000" persName="Informant 0371">
 richtig	richtig	ADJ	-	0:39:51.256000	0:39:51.742000
 .	-	-	-	0:39:51.256000	0:39:51.742000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:51.256000" end="0:39:51.742000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:51.256000" end="0:39:51.742000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:39:51.256000	0:39:51.742000
 ?	-	-	-	0:39:51.256000	0:39:51.742000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:51.742000" end="0:39:53.649000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:51.742000" end="0:39:53.649000" persName="Informant 0371">
 bin	sein	AUX	-	0:39:51.742000	0:39:53.649000
 ich	ich	PRON	-	0:39:51.742000	0:39:53.649000
 in	in	ADP	-	0:39:51.742000	0:39:53.649000
@@ -11860,9 +11860,9 @@ Früh	Früh	NOUN	-	0:39:51.742000	0:39:53.649000
 hin	hin	ADP	-	0:39:51.742000	0:39:53.649000
 .	-	-	-	0:39:51.742000	0:39:53.649000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:51.742000" end="0:39:53.649000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:51.742000" end="0:39:53.649000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:53.649000" end="0:39:56.356000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:53.649000" end="0:39:56.356000" persName="Informant 0371">
 Alter	-	-	-	0:39:53.649000	0:39:55.149000
 was	-	-	-	0:39:53.649000	0:39:55.149000
 für	-	-	-	0:39:53.649000	0:39:55.149000
@@ -11873,17 +11873,17 @@ unserem	-	-	-	0:39:55.149000	0:39:56.356000
 _dings_	-	-	-	0:39:55.149000	0:39:56.356000
 ?	-	-	-	0:39:55.149000	0:39:56.356000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:55.149000" end="0:39:56.356000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:55.149000" end="0:39:56.356000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:56.356000" end="0:39:58.436000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:56.356000" end="0:39:58.436000" persName="Informant 0371">
 hinaufgegangen	hinaufgegangen	PROPN	-	0:39:56.356000	0:39:56.902000
 ,	-	-	-	0:39:56.356000	0:39:56.902000
-[Robi]N	Robi	PROPN	-	0:39:56.902000	0:39:58.436000
+NAME	NAME	PROPN	-	0:39:56.902000	0:39:58.436000
 .	-	-	-	0:39:56.902000	0:39:58.436000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:56.902000" end="0:39:58.436000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:56.902000" end="0:39:58.436000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:58.436000" end="0:39:59.629000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:39:58.436000" end="0:39:59.629000" persName="Informant 0371">
 bist	sein	AUX	-	0:39:58.436000	0:39:59.629000
 du	du	PRON	-	0:39:58.436000	0:39:59.629000
 deppert	deppert	VERB	-	0:39:58.436000	0:39:59.629000
@@ -11891,11 +11891,11 @@ deppert	deppert	VERB	-	0:39:58.436000	0:39:59.629000
 Alter	alt	NOUN	-	0:39:58.436000	0:39:59.629000
 .	-	-	-	0:39:58.436000	0:39:59.629000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:59.629000" end="0:40:00.769000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:39:59.629000" end="0:40:00.769000" persName="Informant 0373">
 geil	geil	NOUN	-	0:39:59.629000	0:40:00.769000
 .	-	-	-	0:39:59.629000	0:40:00.769000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:00.769000" end="0:40:06.122000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:00.769000" end="0:40:06.122000" persName="Informant 0371">
 das	der	PRON	-	0:40:00.769000	0:40:02.389000
 war	sein	AUX	-	0:40:00.769000	0:40:02.389000
 echt	echt	ADJ	-	0:40:00.769000	0:40:02.389000
@@ -11914,7 +11914,7 @@ fahren	fahren	VERB	-	0:40:04.082000	0:40:06.122000
 nicht)	nicht	PART	-	0:40:04.082000	0:40:06.122000
 .	-	-	-	0:40:04.082000	0:40:06.122000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:04.082000" end="0:40:06.122000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:04.082000" end="0:40:06.122000" persName="Informant 0373">
 nein	nein	PART	-	0:40:04.082000	0:40:06.122000
 lustiger	lustig	ADJ	-	0:40:04.082000	0:40:06.122000
 wäre	sein	AUX	-	0:40:04.082000	0:40:06.122000
@@ -11923,18 +11923,18 @@ schon	schon	ADV	-	0:40:04.082000	0:40:06.122000
 ,	-	-	-	0:40:04.082000	0:40:06.122000
 *wennst*	-	-	-	0:40:04.082000	0:40:06.122000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:06.122000" end="0:40:06.836000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:06.122000" end="0:40:06.836000" persName="Informant 0371">
 ja	ja	ADV	-	0:40:06.122000	0:40:06.836000
 sicher	sichern	ADJ	-	0:40:06.122000	0:40:06.836000
 ist	sein	AUX	-	0:40:06.122000	0:40:06.836000
 es	ich	PRON	-	0:40:06.122000	0:40:06.836000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:06.122000" end="0:40:06.836000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:06.122000" end="0:40:06.836000" persName="Informant 0373">
 was	-	-	-	0:40:06.122000	0:40:06.836000
 trinkst	-	-	-	0:40:06.122000	0:40:06.836000
 .	-	-	-	0:40:06.122000	0:40:06.836000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:06.836000" end="0:40:08.476000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:06.836000" end="0:40:08.476000" persName="Informant 0371">
 lustiger	lustig	ADJ	-	0:40:06.836000	0:40:08.476000
 ,	-	-	-	0:40:06.836000	0:40:08.476000
 *wennst*/	-	-	-	0:40:06.836000	0:40:08.476000
@@ -11943,12 +11943,12 @@ ja	ja	ADV	-	0:40:06.836000	0:40:08.476000
 sicher	sichern	ADJ	-	0:40:06.836000	0:40:08.476000
 .	-	-	-	0:40:06.836000	0:40:08.476000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:06.836000" end="0:40:08.476000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:06.836000" end="0:40:08.476000" persName="Informant 0373">
 hey	hey	X	-	0:40:06.836000	0:40:08.476000
 bitte	bitte	PART	-	0:40:06.836000	0:40:08.476000
 .	-	-	-	0:40:06.836000	0:40:08.476000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:08.476000" end="0:40:10.776000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:08.476000" end="0:40:10.776000" persName="Informant 0371">
 ich	ich	PRON	-	0:40:08.476000	0:40:09.742000
 vertrage	vertrage	VERB	-	0:40:08.476000	0:40:09.742000
 ja	ja	ADV	-	0:40:08.476000	0:40:09.742000
@@ -11961,7 +11961,7 @@ mein	meinen	DET	-	0:40:09.742000	0:40:10.776000
 Problem	Problem	NOUN	-	0:40:09.742000	0:40:10.776000
 .	-	-	-	0:40:09.742000	0:40:10.776000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:10.776000" end="0:40:14.209000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:10.776000" end="0:40:14.209000" persName="Informant 0373">
 ja	ja	ADV	-	0:40:10.776000	0:40:11.709000
 mei	mei	VERB	-	0:40:10.776000	0:40:11.709000
 .	-	-	-	0:40:10.776000	0:40:11.709000
@@ -11976,31 +11976,31 @@ bin	sein	AUX	-	0:40:12.896000	0:40:14.209000
 unzerstörbar	unzerstörbar	ADJ	-	0:40:12.896000	0:40:14.209000
 .	-	-	-	0:40:12.896000	0:40:14.209000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:14.209000" end="0:40:14.936000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:14.209000" end="0:40:14.936000" persName="Informant 0371">
 nein	nein	PART	-	0:40:14.209000	0:40:14.936000
 das	der	PRON	-	0:40:14.209000	0:40:14.936000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:14.209000" end="0:40:14.936000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:14.209000" end="0:40:14.936000" persName="Informant 0373">
 es	ich	PRON	-	0:40:14.209000	0:40:14.936000
 ist/	-	-	-	0:40:14.209000	0:40:14.936000
 .	-	-	-	0:40:14.209000	0:40:14.936000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:14.936000" end="0:40:16.122000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:14.936000" end="0:40:16.122000" persName="Informant 0371">
 sind	sein	AUX	-	0:40:14.936000	0:40:16.122000
 (unbreakable)	unbreakable	ADJ	-	0:40:14.936000	0:40:16.122000
 Tage	Tag	NOUN	-	0:40:14.936000	0:40:16.122000
 .	-	-	-	0:40:14.936000	0:40:16.122000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:16.122000" end="0:40:16.922000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:16.122000" end="0:40:16.922000" persName="Informant 0373">
 ja	ja	PART	-	0:40:16.122000	0:40:16.922000
 .	-	-	-	0:40:16.122000	0:40:16.922000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:16.922000" end="0:40:17.636000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:16.922000" end="0:40:17.636000" persName="Informant 0371">
 gibt	geben	VERB	-	0:40:16.922000	0:40:17.636000
 es	ich	PRON	-	0:40:16.922000	0:40:17.636000
 .	-	-	-	0:40:16.922000	0:40:17.636000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:17.636000" end="0:40:21.349000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:17.636000" end="0:40:21.349000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:40:17.636000	0:40:19.289000
 ich	ich	PRON	-	0:40:17.636000	0:40:19.289000
 war	sein	AUX	-	0:40:17.636000	0:40:19.289000
@@ -12020,11 +12020,11 @@ Muster	Muster	NOUN	-	0:40:19.976000	0:40:21.349000
 ab	ab	ADP	-	0:40:19.976000	0:40:21.349000
 .	-	-	-	0:40:19.976000	0:40:21.349000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:21.349000" end="0:40:21.802000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:21.349000" end="0:40:21.802000" persName="Informant 0371">
 echt	echt	ADJ	-	0:40:21.349000	0:40:21.802000
 ?	-	-	-	0:40:21.349000	0:40:21.802000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:21.802000" end="0:40:25.702000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:21.802000" end="0:40:25.702000" persName="Informant 0373">
 ich	ich	PRON	-	0:40:21.802000	0:40:23.949000
 gehe	gehen	VERB	-	0:40:21.802000	0:40:23.949000
 es	ich	PRON	-	0:40:21.802000	0:40:23.949000
@@ -12043,17 +12043,17 @@ und	und	CCONJ	-	0:40:23.949000	0:40:25.702000
 so	so	ADV	-	0:40:23.949000	0:40:25.702000
 ,	-	-	-	0:40:23.949000	0:40:25.702000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:25.702000" end="0:40:27.249000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:25.702000" end="0:40:27.249000" persName="Informant 0371">
 ja	ja	ADV	-	0:40:25.702000	0:40:27.249000
 weil	weil	SCONJ	-	0:40:25.702000	0:40:27.249000
 der	der	DET	-	0:40:25.702000	0:40:27.249000
-[Andi]N	Andi	NOUN	-	0:40:25.702000	0:40:27.249000
+NAME	NAME	NOUN	-	0:40:25.702000	0:40:27.249000
 nicht	nicht	PART	-	0:40:25.702000	0:40:27.249000
 dabei	dabei	ADV	-	0:40:25.702000	0:40:27.249000
 ist	sein	AUX	-	0:40:25.702000	0:40:27.249000
 .	-	-	-	0:40:25.702000	0:40:27.249000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:25.702000" end="0:40:27.829000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:25.702000" end="0:40:27.829000" persName="Informant 0373">
 gleich	gleichen	ADV	-	0:40:25.702000	0:40:27.249000
 am	am	ADP	-	0:40:25.702000	0:40:27.249000
 Anfang	Anfang	NOUN	-	0:40:25.702000	0:40:27.249000
@@ -12062,21 +12062,21 @@ ja	ja	ADV	-	0:40:27.249000	0:40:27.829000
 eh	eh	X	-	0:40:27.249000	0:40:27.829000
 .	-	-	-	0:40:27.249000	0:40:27.829000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:27.829000" end="0:40:29.869000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:27.829000" end="0:40:29.869000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:40:27.829000	0:40:28.689000
 der	der	DET	-	0:40:27.829000	0:40:28.689000
-Ex[andi]N	Exandi	NOUN	-	0:40:27.829000	0:40:28.689000
+NAME	NAME	NOUN	-	0:40:27.829000	0:40:28.689000
 nicht	nicht	PART	-	0:40:27.829000	0:40:28.689000
 dabei	dabei	ADV	-	0:40:28.689000	0:40:29.869000
 ist	sein	AUX	-	0:40:28.689000	0:40:29.869000
 mehr	mehr	PRON	-	0:40:28.689000	0:40:29.869000
 .	-	-	-	0:40:28.689000	0:40:29.869000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:28.689000" end="0:40:32.662000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:28.689000" end="0:40:32.662000" persName="Informant 0373">
 so	so	ADV	-	0:40:28.689000	0:40:29.869000
 wie	wie	CCONJ	-	0:40:28.689000	0:40:29.869000
 der	der	DET	-	0:40:28.689000	0:40:29.869000
-Ex[andi]N	Exandi	NOUN	-	0:40:28.689000	0:40:29.869000
+NAME	NAME	NOUN	-	0:40:28.689000	0:40:29.869000
 dabei	dabei	ADV	-	0:40:29.869000	0:40:30.669000
 ist	sein	AUX	-	0:40:29.869000	0:40:30.669000
 .	-	-	-	0:40:29.869000	0:40:30.669000
@@ -12090,53 +12090,53 @@ selber	selber	ADV	-	0:40:30.669000	0:40:32.662000
 vernichtet	vernichten	VERB	-	0:40:30.669000	0:40:32.662000
 .	-	-	-	0:40:30.669000	0:40:32.662000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:32.662000" end="0:40:33.929000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:32.662000" end="0:40:33.929000" persName="Informant 0371">
 ich	ich	PRON	-	0:40:32.662000	0:40:33.509000
 d/	-	-	-	0:40:32.662000	0:40:33.509000
 habe	habe	AUX	-	0:40:32.662000	0:40:33.509000
 von	von	ADP	-	0:40:32.662000	0:40:33.509000
 Schladming	Schladming	PROPN	-	0:40:33.509000	0:40:33.929000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:33.509000" end="0:40:33.929000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:33.509000" end="0:40:33.929000" persName="Informant 0373">
 da/	-	-	-	0:40:33.509000	0:40:33.929000
 .	-	-	-	0:40:33.509000	0:40:33.929000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:33.929000" end="0:40:34.869000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:33.929000" end="0:40:34.869000" persName="Informant 0371">
 noch	noch	ADV	-	0:40:33.929000	0:40:34.596000
 gar	gar	ADV	-	0:40:33.929000	0:40:34.596000
 nichts	nichts	PRON	-	0:40:33.929000	0:40:34.596000
 gehört	hören	VERB	-	0:40:34.596000	0:40:34.869000
 .	-	-	-	0:40:34.596000	0:40:34.869000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:34.596000" end="0:40:35.469000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:34.596000" end="0:40:35.469000" persName="Informant 0373">
 noch	noch	ADV	-	0:40:34.596000	0:40:34.869000
 gar	gar	ADV	-	0:40:34.869000	0:40:35.469000
 nichts	nichts	PRON	-	0:40:34.869000	0:40:35.469000
 ?	-	-	-	0:40:34.869000	0:40:35.469000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:35.469000" end="0:40:35.936000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:35.469000" end="0:40:35.936000" persName="Informant 0371">
 nein	nein	PART	-	0:40:35.469000	0:40:35.936000
 .	-	-	-	0:40:35.469000	0:40:35.936000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:35.936000" end="0:40:36.362000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:35.936000" end="0:40:36.362000" persName="Informant 0373">
 da	da	ADV	-	0:40:35.936000	0:40:36.362000
 hat	haben	AUX	-	0:40:35.936000	0:40:36.362000
 er	ich	PRON	-	0:40:35.936000	0:40:36.362000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:36.362000" end="0:40:36.769000">
-[George]N	George	PROPN	-	0:40:36.362000	0:40:36.769000
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:36.362000" end="0:40:36.769000" persName="Informant 0371">
+NAME	NAME	PROPN	-	0:40:36.362000	0:40:36.769000
 hat	haben	AUX	-	0:40:36.362000	0:40:36.769000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:36.362000" end="0:40:36.769000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:36.362000" end="0:40:36.769000" persName="Informant 0373">
 sich/	-	-	-	0:40:36.362000	0:40:36.769000
 .	-	-	-	0:40:36.362000	0:40:36.769000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:36.769000" end="0:40:37.436000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:36.769000" end="0:40:37.436000" persName="Informant 0371">
 nichts	nichts	PRON	-	0:40:36.769000	0:40:37.036000
 erzählt	erzählen	VERB	-	0:40:37.036000	0:40:37.436000
 .	-	-	-	0:40:37.036000	0:40:37.436000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:37.036000" end="0:40:38.462000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:37.036000" end="0:40:38.462000" persName="Informant 0373">
 da	da	ADV	-	0:40:37.036000	0:40:37.436000
 war	sein	AUX	-	0:40:37.436000	0:40:38.462000
 er	ich	PRON	-	0:40:37.436000	0:40:38.462000
@@ -12144,11 +12144,11 @@ fast	fast	ADV	-	0:40:37.436000	0:40:38.462000
 hin	hin	ADP	-	0:40:37.436000	0:40:38.462000
 .	-	-	-	0:40:37.436000	0:40:38.462000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:38.462000" end="0:40:39.016000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:38.462000" end="0:40:39.016000" persName="Informant 0371">
 echt	echt	ADJ	-	0:40:38.462000	0:40:39.016000
 ?	-	-	-	0:40:38.462000	0:40:39.016000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:39.016000" end="0:40:42.702000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:39.016000" end="0:40:42.702000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:40:39.016000	0:40:41.322000
 ,	-	-	-	0:40:39.016000	0:40:41.322000
 da	da	SCONJ	-	0:40:39.016000	0:40:41.322000
@@ -12161,20 +12161,20 @@ echt	echt	ADJ	-	0:40:39.016000	0:40:41.322000
 gedacht	gedenken	VERB	-	0:40:39.016000	0:40:41.322000
 ,	-	-	-	0:40:39.016000	0:40:41.322000
 der	der	DET	-	0:40:41.322000	0:40:42.702000
-[Andi]N	Andi	NOUN	-	0:40:41.322000	0:40:42.702000
+NAME	NAME	NOUN	-	0:40:41.322000	0:40:42.702000
 geht	gehen	VERB	-	0:40:41.322000	0:40:42.702000
 jetzt	jetzt	ADV	-	0:40:41.322000	0:40:42.702000
 ein	einen	ADP	-	0:40:41.322000	0:40:42.702000
 .	-	-	-	0:40:41.322000	0:40:42.702000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:42.702000" end="0:40:44.209000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:42.702000" end="0:40:44.209000" persName="Informant 0371">
 warum	warum	ADV	-	0:40:42.702000	0:40:43.369000
 ?	-	-	-	0:40:42.702000	0:40:43.369000
 einfach	einfach	ADV	-	0:40:43.369000	0:40:44.209000
 so	so	ADV	-	0:40:43.369000	0:40:44.209000
 ?	-	-	-	0:40:43.369000	0:40:44.209000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:43.369000" end="0:40:48.136000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:43.369000" end="0:40:48.136000" persName="Informant 0373">
 wir	ich	PRON	-	0:40:43.369000	0:40:44.209000
 haben	haben	AUX	-	0:40:43.369000	0:40:44.209000
 ganz	ganz	ADV	-	0:40:43.369000	0:40:44.209000
@@ -12195,16 +12195,16 @@ nicht	nicht	PART	-	0:40:46.176000	0:40:48.136000
 am	am	ADP	-	0:40:46.176000	0:40:48.136000
 Samstag	Samstag	NOUN	-	0:40:46.176000	0:40:48.136000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:48.136000" end="0:40:48.516000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:48.136000" end="0:40:48.516000" persName="Informant 0371">
 ja	ja	ADV	-	0:40:48.136000	0:40:48.516000
 das	der	PRON	-	0:40:48.136000	0:40:48.516000
 habe	habe	AUX	-	0:40:48.136000	0:40:48.516000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:48.136000" end="0:40:48.516000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:48.136000" end="0:40:48.516000" persName="Informant 0373">
 gell	gell	ADJ	-	0:40:48.136000	0:40:48.516000
 .	-	-	-	0:40:48.136000	0:40:48.516000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:48.516000" end="0:40:49.842000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:40:48.516000" end="0:40:49.842000" persName="Informant 0371">
 ich	ich	PRON	-	0:40:48.516000	0:40:49.189000
 schon	schon	ADV	-	0:40:48.516000	0:40:49.189000
 gehört	hören	VERB	-	0:40:48.516000	0:40:49.189000
@@ -12213,7 +12213,7 @@ ja	ja	PART	-	0:40:48.516000	0:40:49.189000
 das/	-	-	-	0:40:49.189000	0:40:49.842000
 .	-	-	-	0:40:49.189000	0:40:49.842000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:49.842000" end="0:41:00.789000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:40:49.842000" end="0:41:00.789000" persName="Informant 0373">
 ähm	ähm	X	-	0:40:49.842000	0:40:51.016000
 Sonntag	Sonntag	NOUN	-	0:40:49.842000	0:40:51.016000
 gar	gar	ADV	-	0:40:49.842000	0:40:51.016000
@@ -12253,11 +12253,11 @@ gewesen	sein	AUX	-	0:40:58.189000	0:41:00.789000
 gell	gell	ADJ	-	0:40:58.189000	0:41:00.789000
 .	-	-	-	0:40:58.189000	0:41:00.789000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:00.789000" end="0:41:01.296000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:00.789000" end="0:41:01.296000" persName="Informant 0371">
 echt	echt	ADJ	-	0:41:00.789000	0:41:01.296000
 ?	-	-	-	0:41:00.789000	0:41:01.296000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:01.296000" end="0:41:04.776000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:01.296000" end="0:41:04.776000" persName="Informant 0373">
 oder	oder	CCONJ	-	0:41:01.296000	0:41:03.269000
 um	um	ADP	-	0:41:01.296000	0:41:03.269000
 dreiviertel	dreiviertel	NUM	-	0:41:01.296000	0:41:03.269000
@@ -12273,11 +12273,11 @@ sind	-	-	-	0:41:03.269000	0:41:04.776000
 wir	-	-	-	0:41:03.269000	0:41:04.776000
 heruntergefahren	-	-	-	0:41:03.269000	0:41:04.776000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:04.776000" end="0:41:05.242000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:04.776000" end="0:41:05.242000" persName="Informant 0371">
 ja	ja	PART	-	0:41:04.776000	0:41:05.242000
 .	-	-	-	0:41:04.776000	0:41:05.242000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:05.242000" end="0:41:12.796000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:05.242000" end="0:41:12.796000" persName="Informant 0373">
 und	-	-	-	0:41:05.242000	0:41:06.982000
 da	-	-	-	0:41:05.242000	0:41:06.982000
 *musst*	-	-	-	0:41:05.242000	0:41:06.982000
@@ -12305,21 +12305,21 @@ Jet	Jet	PROPN	-	0:41:11.436000	0:41:12.796000
 weggeht	weggehen	VERB	-	0:41:11.436000	0:41:12.796000
 ,	-	-	-	0:41:11.436000	0:41:12.796000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:12.796000" end="0:41:13.596000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:12.796000" end="0:41:13.596000" persName="Informant 0371">
 ja	ja	PART	-	0:41:12.796000	0:41:13.596000
 .	-	-	-	0:41:12.796000	0:41:13.596000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:12.796000" end="0:41:13.596000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:12.796000" end="0:41:13.596000" persName="Informant 0373">
 da	da	SCONJ	-	0:41:12.796000	0:41:13.596000
 bei	bei	ADP	-	0:41:12.796000	0:41:13.596000
 (Neuwest)	Neuwest	PROPN	-	0:41:12.796000	0:41:13.596000
 .	-	-	-	0:41:12.796000	0:41:13.596000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:13.596000" end="0:41:14.102000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:13.596000" end="0:41:14.102000" persName="Informant 0371">
 ja	ja	PART	-	0:41:13.596000	0:41:14.102000
 .	-	-	-	0:41:13.596000	0:41:14.102000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:14.102000" end="0:41:19.256000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:14.102000" end="0:41:19.256000" persName="Informant 0373">
 da	da	ADV	-	0:41:14.102000	0:41:16.276000
 sind	sein	AUX	-	0:41:14.102000	0:41:16.276000
 wir	ich	PRON	-	0:41:14.102000	0:41:16.276000
@@ -12334,7 +12334,7 @@ dann	dann	ADV	-	0:41:16.276000	0:41:17.816000
 hat	haben	AUX	-	0:41:16.276000	0:41:17.816000
 man	man	PRON	-	0:41:16.276000	0:41:17.816000
 den	der	DET	-	0:41:16.276000	0:41:17.816000
-[Kärntner]N	Kärntner	NOUN	-	0:41:16.276000	0:41:17.816000
+NAME	NAME	NOUN	-	0:41:16.276000	0:41:17.816000
 mal	mal	ADV	-	0:41:16.276000	0:41:17.816000
 angerufen	anrufen	VERB	-	0:41:16.276000	0:41:17.816000
 ,	-	-	-	0:41:16.276000	0:41:17.816000
@@ -12349,11 +12349,11 @@ ja	ja	ADV	-	0:41:18.209000	0:41:19.256000
 oben/	-	-	-	0:41:18.209000	0:41:19.256000
 .	-	-	-	0:41:18.209000	0:41:19.256000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:19.256000" end="0:41:19.716000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:19.256000" end="0:41:19.716000" persName="Informant 0371">
 ja	ja	PART	-	0:41:19.256000	0:41:19.716000
 .	-	-	-	0:41:19.256000	0:41:19.716000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:19.256000" end="0:41:29.516000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:19.256000" end="0:41:29.516000" persName="Informant 0373">
 er	ich	PRON	-	0:41:19.256000	0:41:19.716000
 ist	sein	AUX	-	0:41:19.256000	0:41:19.716000
 ja	ja	ADV	-	0:41:19.716000	0:41:20.489000
@@ -12395,9 +12395,9 @@ Getränk	Getränk	NOUN	-	0:41:27.056000	0:41:29.516000
 gell	gell	ADJ	-	0:41:27.056000	0:41:29.516000
 .	-	-	-	0:41:27.056000	0:41:29.516000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:29.516000" end="0:41:31.829000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:29.516000" end="0:41:31.829000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:29.516000" end="0:41:51.829000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:29.516000" end="0:41:51.829000" persName="Informant 0373">
 Jägermeister	Jägermeister	NOUN	-	0:41:29.516000	0:41:31.829000
 mal	mal	ADV	-	0:41:29.516000	0:41:31.829000
 schnell	schnellen	ADJ	-	0:41:29.516000	0:41:31.829000
@@ -12410,7 +12410,7 @@ und	und	CCONJ	-	0:41:31.829000	0:41:33.482000
 nachher	nachher	ADV	-	0:41:31.829000	0:41:33.482000
 ja	ja	ADV	-	0:41:31.829000	0:41:33.482000
 ,	-	-	-	0:41:31.829000	0:41:33.482000
-[Kärntner]N	Kärntner	NOUN	-	0:41:31.829000	0:41:33.482000
+NAME	NAME	NOUN	-	0:41:31.829000	0:41:33.482000
 kommt	kommen	VERB	-	0:41:31.829000	0:41:33.482000
 noch	noch	ADV	-	0:41:31.829000	0:41:33.482000
 nicht	nicht	PART	-	0:41:31.829000	0:41:33.482000
@@ -12495,9 +12495,9 @@ Elf	Elf	PROPN	-	0:41:49.442000	0:41:51.829000
 gell	gell	ADJ	-	0:41:49.442000	0:41:51.829000
 .	-	-	-	0:41:49.442000	0:41:51.829000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:51.829000" end="0:41:52.456000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:51.829000" end="0:41:52.456000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:52.456000" end="0:41:56.602000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:52.456000" end="0:41:56.602000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:41:52.456000	0:41:55.096000
 ,	-	-	-	0:41:52.456000	0:41:55.096000
 ja	ja	ADV	-	0:41:52.456000	0:41:55.096000
@@ -12515,9 +12515,9 @@ fünf	fünf	NUM	-	0:41:55.096000	0:41:56.602000
 Bier	Bier	NOUN	-	0:41:55.096000	0:41:56.602000
 gesoffen	saufen	VERB	-	0:41:55.096000	0:41:56.602000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:56.602000" end="0:41:58.016000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:56.602000" end="0:41:58.016000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:56.602000" end="0:41:59.656000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:56.602000" end="0:41:59.656000" persName="Informant 0373">
 da	da	ADV	-	0:41:56.602000	0:41:58.016000
 unten	unten	ADV	-	0:41:56.602000	0:41:58.016000
 schon	schon	ADV	-	0:41:56.602000	0:41:58.016000
@@ -12532,36 +12532,36 @@ lustig	lustig	ADJ	-	0:41:58.849000	0:41:59.656000
 alles	alle	PRON	-	0:41:58.849000	0:41:59.656000
 .	-	-	-	0:41:58.849000	0:41:59.656000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:59.656000" end="0:42:01.429000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:41:59.656000" end="0:42:01.429000" persName="Informant 0371">
 auf	auf	ADP	-	0:41:59.656000	0:41:59.896000
 nüchternen	nüchtern	ADJ	-	0:41:59.896000	0:42:01.429000
 Magen	Magen	NOUN	-	0:41:59.896000	0:42:01.429000
 .	-	-	-	0:41:59.896000	0:42:01.429000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:59.896000" end="0:42:01.429000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:41:59.896000" end="0:42:01.429000" persName="Informant 0373">
 und/	-	-	-	0:41:59.896000	0:42:01.429000
 .	-	-	-	0:41:59.896000	0:42:01.429000
 ja	ja	PART	-	0:41:59.896000	0:42:01.429000
 .	-	-	-	0:41:59.896000	0:42:01.429000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:01.429000" end="0:42:02.642000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:01.429000" end="0:42:02.642000" persName="Informant 0371">
 bist	sein	AUX	-	0:42:01.429000	0:42:02.642000
 du	du	PRON	-	0:42:01.429000	0:42:02.642000
 deppert	deppert	VERB	-	0:42:01.429000	0:42:02.642000
 .	-	-	-	0:42:01.429000	0:42:02.642000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:01.429000" end="0:42:02.642000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:01.429000" end="0:42:02.642000" persName="Informant 0373">
 nichts	nichts	PRON	-	0:42:01.429000	0:42:02.642000
 gegessen	essen	VERB	-	0:42:01.429000	0:42:02.642000
 ,	-	-	-	0:42:01.429000	0:42:02.642000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:02.642000" end="0:42:03.329000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:02.642000" end="0:42:03.329000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:03.329000" end="0:42:03.736000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:03.329000" end="0:42:03.736000" persName="Informant 0373">
 und/	-	-	-	0:42:03.329000	0:42:03.736000
 .	-	-	-	0:42:03.329000	0:42:03.736000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:03.736000" end="0:42:05.029000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:03.736000" end="0:42:05.029000" persName="Informant 0371">
 da	-	-	-	0:42:03.736000	0:42:05.029000
 *könntest*	-	-	-	0:42:03.736000	0:42:05.029000
 mich	-	-	-	0:42:03.736000	0:42:05.029000
@@ -12569,7 +12569,7 @@ schon	-	-	-	0:42:03.736000	0:42:05.029000
 wegschmeißen	-	-	-	0:42:03.736000	0:42:05.029000
 .	-	-	-	0:42:03.736000	0:42:05.029000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:05.029000" end="0:42:11.776000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:05.029000" end="0:42:11.776000" persName="Informant 0373">
 und	und	CCONJ	-	0:42:05.029000	0:42:06.722000
 nachher	nachher	ADV	-	0:42:05.029000	0:42:06.722000
 hinauf	hinauf	ADV	-	0:42:05.029000	0:42:06.722000
@@ -12578,7 +12578,7 @@ dem/	-	-	-	0:42:05.029000	0:42:06.722000
 .	-	-	-	0:42:05.029000	0:42:06.722000
 weil	weil	SCONJ	-	0:42:06.722000	0:42:08.429000
 der	der	DET	-	0:42:06.722000	0:42:08.429000
-[Kärntner]N	Kärntner	NOUN	-	0:42:06.722000	0:42:08.429000
+NAME	NAME	NOUN	-	0:42:06.722000	0:42:08.429000
 ist	sein	AUX	-	0:42:06.722000	0:42:08.429000
 nachher	nachher	ADV	-	0:42:06.722000	0:42:08.429000
 gekommen	kommen	VERB	-	0:42:06.722000	0:42:08.429000
@@ -12599,11 +12599,11 @@ zahlen	zahlen	VERB	-	0:42:10.342000	0:42:11.776000
 gell	gell	ADJ	-	0:42:10.342000	0:42:11.776000
 .	-	-	-	0:42:10.342000	0:42:11.776000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:11.776000" end="0:42:12.296000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:11.776000" end="0:42:12.296000" persName="Informant 0371">
 ja	ja	PART	-	0:42:11.776000	0:42:12.296000
 .	-	-	-	0:42:11.776000	0:42:12.296000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:11.776000" end="0:42:28.849000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:11.776000" end="0:42:28.849000" persName="Informant 0373">
 dann	dann	ADV	-	0:42:12.296000	0:42:14.202000
 hinauf	hinauf	ADV	-	0:42:12.296000	0:42:14.202000
 Hochwurzen	Hochwurzen	NOUN	-	0:42:12.296000	0:42:14.202000
@@ -12667,11 +12667,11 @@ paar	paar	DET	-	0:42:26.789000	0:42:28.849000
 halt	halt	NOUN	-	0:42:26.789000	0:42:28.849000
 .	-	-	-	0:42:26.789000	0:42:28.849000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:28.849000" end="0:42:29.276000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:28.849000" end="0:42:29.276000" persName="Informant 0371">
 echt	echt	ADJ	-	0:42:28.849000	0:42:29.276000
 ?	-	-	-	0:42:28.849000	0:42:29.276000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:28.849000" end="0:42:32.769000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:28.849000" end="0:42:32.769000" persName="Informant 0373">
 die	der	PRON	-	0:42:28.849000	0:42:29.276000
 sind	sein	AUX	-	0:42:29.276000	0:42:30.629000
 schon	schon	ADV	-	0:42:29.276000	0:42:30.629000
@@ -12689,7 +12689,7 @@ ja	ja	ADV	-	0:42:31.622000	0:42:32.769000
 die	der	DET	-	0:42:31.622000	0:42:32.769000
 Hölle	Hölle	NOUN	-	0:42:31.622000	0:42:32.769000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:32.769000" end="0:42:33.896000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:32.769000" end="0:42:33.896000" persName="Informant 0371">
 ja	ja	PART	-	0:42:32.769000	0:42:33.896000
 ,	-	-	-	0:42:32.769000	0:42:33.896000
 das	der	PRON	-	0:42:32.769000	0:42:33.896000
@@ -12697,7 +12697,7 @@ glaube	glauben	VERB	-	0:42:32.769000	0:42:33.896000
 ich	ich	PRON	-	0:42:32.769000	0:42:33.896000
 .	-	-	-	0:42:32.769000	0:42:33.896000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:32.769000" end="0:42:36.129000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:32.769000" end="0:42:36.129000" persName="Informant 0373">
 los	los	ADV	-	0:42:32.769000	0:42:33.896000
 in	in	ADP	-	0:42:32.769000	0:42:33.896000
 die	der	DET	-	0:42:32.769000	0:42:33.896000
@@ -12718,25 +12718,25 @@ hinuntern	hinuntern	NOUN	-	0:42:34.842000	0:42:36.129000
 unten	unten	ADV	-	0:42:34.842000	0:42:36.129000
 ,	-	-	-	0:42:34.842000	0:42:36.129000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:36.129000" end="0:42:37.516000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:36.129000" end="0:42:37.516000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:36.129000" end="0:42:37.516000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:36.129000" end="0:42:37.516000" persName="Informant 0373">
 schnell	schnellen	ADJ	-	0:42:36.129000	0:42:37.516000
 einmal	einmal	ADV	-	0:42:36.129000	0:42:37.516000
 was	was	PRON	-	0:42:36.129000	0:42:37.516000
 getrunken	trinken	VERB	-	0:42:36.129000	0:42:37.516000
 .	-	-	-	0:42:36.129000	0:42:37.516000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:37.516000" end="0:42:39.489000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:37.516000" end="0:42:39.489000" persName="Informant 0371">
 weil	weil	SCONJ	-	0:42:37.516000	0:42:39.489000
 die	der	DET	-	0:42:37.516000	0:42:39.489000
-Menschen	Mensch	NOUN	-	0:42:37.516000	0:42:39.489000
+_Menscher_	Mensch	NOUN	-	0:42:37.516000	0:42:39.489000
 nicht	nicht	PART	-	0:42:37.516000	0:42:39.489000
 dabei	dabei	ADV	-	0:42:37.516000	0:42:39.489000
 sind	sein	AUX	-	0:42:37.516000	0:42:39.489000
 .	-	-	-	0:42:37.516000	0:42:39.489000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:37.516000" end="0:42:44.102000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:37.516000" end="0:42:44.102000" persName="Informant 0373">
 dann	dann	ADV	-	0:42:37.516000	0:42:39.489000
 bei	bei	ADP	-	0:42:37.516000	0:42:39.489000
 der	der	DET	-	0:42:37.516000	0:42:39.489000
@@ -12757,12 +12757,12 @@ sowieso	sowieso	ADV	-	0:42:42.576000	0:42:44.102000
 halt	halt	VERB	-	0:42:42.576000	0:42:44.102000
 .	-	-	-	0:42:42.576000	0:42:44.102000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:44.102000" end="0:42:44.882000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:44.102000" end="0:42:44.882000" persName="Informant 0371">
 ja	ja	ADV	-	0:42:44.102000	0:42:44.882000
 ja	ja	PART	-	0:42:44.102000	0:42:44.882000
 .	-	-	-	0:42:44.102000	0:42:44.882000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:44.102000" end="0:42:57.249000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:44.102000" end="0:42:57.249000" persName="Informant 0373">
 noch	noch	ADV	-	0:42:44.102000	0:42:44.882000
 schnell	schnellen	ADJ	-	0:42:44.102000	0:42:44.882000
 was	was	PRON	-	0:42:44.102000	0:42:44.882000
@@ -12821,13 +12821,13 @@ sieben	sieben	NUM	-	0:42:54.009000	0:42:57.249000
 heruntergefahren	heruntergefahren	VERB	-	0:42:54.009000	0:42:57.249000
 .	-	-	-	0:42:54.009000	0:42:57.249000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:57.249000" end="0:42:58.229000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:42:57.249000" end="0:42:58.229000" persName="Informant 0371">
 bist	sein	AUX	-	0:42:57.249000	0:42:58.229000
 du	du	PRON	-	0:42:57.249000	0:42:58.229000
 deppert	deppert	VERB	-	0:42:57.249000	0:42:58.229000
 .	-	-	-	0:42:57.249000	0:42:58.229000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:57.249000" end="0:43:01.529000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:42:57.249000" end="0:43:01.529000" persName="Informant 0373">
 dann	dann	ADV	-	0:42:57.249000	0:42:58.229000
 haben	haben	AUX	-	0:42:57.249000	0:42:58.229000
 wir	ich	PRON	-	0:42:57.249000	0:42:58.229000
@@ -12839,7 +12839,7 @@ einen/	-	-	-	0:42:58.229000	0:43:00.509000
 keine	kein	DET	-	0:42:58.229000	0:43:00.509000
 Ahnung	Ahnung	NOUN	-	0:42:58.229000	0:43:00.509000
 ,	-	-	-	0:42:58.229000	0:43:00.509000
-[Walter]N	Walter	PROPN	-	0:42:58.229000	0:43:00.509000
+NAME	NAME	PROPN	-	0:42:58.229000	0:43:00.509000
 hat	haben	AUX	-	0:42:58.229000	0:43:00.509000
 er	ich	PRON	-	0:42:58.229000	0:43:00.509000
 geheißen	heißen	VERB	-	0:42:58.229000	0:43:00.509000
@@ -12851,19 +12851,19 @@ hinunter	hinunter	ADJ	-	0:43:00.509000	0:43:01.529000
 (gestreift)	streifen	VERB	-	0:43:00.509000	0:43:01.529000
 .	-	-	-	0:43:00.509000	0:43:01.529000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:01.529000" end="0:43:03.256000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:01.529000" end="0:43:03.256000" persName="Informant 0371">
 das	der	PRON	-	0:43:01.529000	0:43:03.256000
 hat	haben	AUX	-	0:43:01.529000	0:43:03.256000
 der	der	DET	-	0:43:01.529000	0:43:03.256000
-[George]N	George	NOUN	-	0:43:01.529000	0:43:03.256000
+NAME	NAME	NOUN	-	0:43:01.529000	0:43:03.256000
 erzählt	erzählen	VERB	-	0:43:01.529000	0:43:03.256000
 ,	-	-	-	0:43:01.529000	0:43:03.256000
 ja	ja	PART	-	0:43:01.529000	0:43:03.256000
 .	-	-	-	0:43:01.529000	0:43:03.256000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:01.529000" end="0:43:17.309000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:01.529000" end="0:43:17.309000" persName="Informant 0373">
 der	der	DET	-	0:43:01.529000	0:43:03.256000
-[Andi]N	Andi	NOUN	-	0:43:01.529000	0:43:03.256000
+NAME	NAME	NOUN	-	0:43:01.529000	0:43:03.256000
 und	und	CCONJ	-	0:43:01.529000	0:43:03.256000
 ich	ich	PRON	-	0:43:01.529000	0:43:03.256000
 .	-	-	-	0:43:01.529000	0:43:03.256000
@@ -12898,7 +12898,7 @@ dann	dann	ADV	-	0:43:10.542000	0:43:14.036000
 ja	ja	PART	-	0:43:10.542000	0:43:14.036000
 ,	-	-	-	0:43:10.542000	0:43:14.036000
 der	der	DET	-	0:43:10.542000	0:43:14.036000
-[Kärntner]N	Kärntner	NOUN	-	0:43:10.542000	0:43:14.036000
+NAME	NAME	NOUN	-	0:43:10.542000	0:43:14.036000
 ,	-	-	-	0:43:10.542000	0:43:14.036000
 der	der	PRON	-	0:43:10.542000	0:43:14.036000
 hat	haben	AUX	-	0:43:10.542000	0:43:14.036000
@@ -12914,16 +12914,16 @@ essen	essen	VERB	-	0:43:14.036000	0:43:17.309000
 können	können	VERB	-	0:43:14.036000	0:43:17.309000
 in	in	ADP	-	0:43:14.036000	0:43:17.309000
 der	der	DET	-	0:43:14.036000	0:43:17.309000
-[Talbachschenke]S	Talbachschenke	NOUN	-	0:43:14.036000	0:43:17.309000
+SONSTIGE	SONSTIGE	NOUN	-	0:43:14.036000	0:43:17.309000
 hat	haben	AUX	-	0:43:14.036000	0:43:17.309000
 es	ich	PRON	-	0:43:14.036000	0:43:17.309000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:17.309000" end="0:43:18.242000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:17.309000" end="0:43:18.242000" persName="Informant 0371">
 nein	nein	PART	-	0:43:17.309000	0:43:18.242000
 super	super	PROPN	-	0:43:17.309000	0:43:18.242000
 .	-	-	-	0:43:17.309000	0:43:18.242000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:17.309000" end="0:43:28.269000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:17.309000" end="0:43:28.269000" persName="Informant 0373">
 geheißen	heißen	VERB	-	0:43:17.309000	0:43:18.242000
 .	-	-	-	0:43:17.309000	0:43:18.242000
 und	und	CCONJ	-	0:43:18.242000	0:43:20.702000
@@ -12964,11 +12964,11 @@ hinunterkämpfst	-	-	-	0:43:23.342000	0:43:27.402000
 ist	sein	AUX	-	0:43:27.402000	0:43:28.269000
 es	ich	PRON	-	0:43:27.402000	0:43:28.269000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:28.269000" end="0:43:29.829000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:28.269000" end="0:43:29.829000" persName="Informant 0371">
 (mhm	mhm	PROPN	-	0:43:28.269000	0:43:29.829000
 .)	-	-	-	0:43:28.269000	0:43:29.829000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:28.269000" end="0:43:32.995000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:28.269000" end="0:43:32.995000" persName="Informant 0373">
 halb	halb	ADJ	-	0:43:28.269000	0:43:29.829000
 acht	acht	NUM	-	0:43:28.269000	0:43:29.829000
 ,	-	-	-	0:43:28.269000	0:43:29.829000
@@ -12994,11 +12994,11 @@ keine	kein	DET	-	0:43:32.035000	0:43:32.995000
 Ahnung	Ahnung	NOUN	-	0:43:32.035000	0:43:32.995000
 .	-	-	-	0:43:32.035000	0:43:32.995000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:32.995000" end="0:43:35.389000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:43:32.995000" end="0:43:35.389000" persName="Informant 0371">
 neun	neun	NUM	-	0:43:32.995000	0:43:33.302000
 .	-	-	-	0:43:32.995000	0:43:33.302000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:33.302000" end="0:44:01.195000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:43:33.302000" end="0:44:01.195000" persName="Informant 0373">
 Viertel	Viertel	NOUN	-	0:43:33.302000	0:43:35.389000
 nach	nach	ADP	-	0:43:33.302000	0:43:35.389000
 Acht	Acht	NUM	-	0:43:33.302000	0:43:35.389000
@@ -13017,7 +13017,7 @@ geschaut	schauen	VERB	-	0:43:35.389000	0:43:38.115000
 dreiviertel	dreiviertel	NOUN	-	0:43:38.115000	0:43:41.709000
 Neun	Neun	NUM	-	0:43:38.115000	0:43:41.709000
 ,	-	-	-	0:43:38.115000	0:43:41.709000
-[Kärntner]N	Kärntner	ADJ	-	0:43:38.115000	0:43:41.709000
+NAME	NAME	ADJ	-	0:43:38.115000	0:43:41.709000
 drei	drei	NUM	-	0:43:38.115000	0:43:41.709000
 Anrufe	Anruf	NOUN	-	0:43:38.115000	0:43:41.709000
 in	in	ADP	-	0:43:38.115000	0:43:41.709000
@@ -13099,24 +13099,24 @@ ist	sein	AUX	-	0:43:57.515000	0:43:58.169000
 (hier)	hier	ADV	-	0:43:57.515000	0:43:58.169000
 geblieben	bleiben	VERB	-	0:43:57.515000	0:43:58.169000
 ?	-	-	-	0:43:57.515000	0:43:58.169000
-[Nick]N	Nick	PROPN	-	0:43:58.169000	0:44:01.195000
+NAME	NAME	PROPN	-	0:43:58.169000	0:44:01.195000
 ,	-	-	-	0:43:58.169000	0:44:01.195000
-[Koma]N	Koma	PROPN	-	0:43:58.169000	0:44:01.195000
+NAME	NAME	PROPN	-	0:43:58.169000	0:44:01.195000
 ,	-	-	-	0:43:58.169000	0:44:01.195000
-[Rauschen]N	Rauschen	NOUN	-	0:43:58.169000	0:44:01.195000
+NAME	NAME	NOUN	-	0:43:58.169000	0:44:01.195000
 ,	-	-	-	0:43:58.169000	0:44:01.195000
-[Matz]N	Matz	PROPN	-	0:43:58.169000	0:44:01.195000
+NAME	NAME	PROPN	-	0:43:58.169000	0:44:01.195000
 jeweils	jeweils	ADV	-	0:43:58.169000	0:44:01.195000
 mit	mit	ADP	-	0:43:58.169000	0:44:01.195000
 Freundin	Freundin	NOUN	-	0:43:58.169000	0:44:01.195000
 .	-	-	-	0:43:58.169000	0:44:01.195000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:01.195000" end="0:44:01.722000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:01.195000" end="0:44:01.722000" persName="Informant 0371">
 ja	ja	ADV	-	0:44:01.195000	0:44:01.722000
 klar	klaren	ADJ	-	0:44:01.195000	0:44:01.722000
 .	-	-	-	0:44:01.195000	0:44:01.722000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:01.722000" end="0:44:08.422000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:01.722000" end="0:44:08.422000" persName="Informant 0373">
 und	und	CCONJ	-	0:44:01.722000	0:44:04.789000
 die	der	PRON	-	0:44:01.722000	0:44:04.789000
 dann	dann	ADV	-	0:44:01.722000	0:44:04.789000
@@ -13140,11 +13140,11 @@ _hab_	-	-	-	0:44:06.029000	0:44:08.422000
 gemacht	-	-	-	0:44:06.029000	0:44:08.422000
 beim	-	-	-	0:44:06.029000	0:44:08.422000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:08.422000" end="0:44:09.462000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:08.422000" end="0:44:09.462000" persName="Informant 0371">
 nein	nein	PART	-	0:44:08.422000	0:44:09.462000
 .	-	-	-	0:44:08.422000	0:44:09.462000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:08.422000" end="0:44:10.902000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:08.422000" end="0:44:10.902000" persName="Informant 0373">
 Hinunterfahren	-	-	-	0:44:08.422000	0:44:09.462000
 ,	-	-	-	0:44:08.422000	0:44:09.462000
 dass	dass	SCONJ	-	0:44:08.422000	0:44:09.462000
@@ -13153,19 +13153,19 @@ nicht	nicht	PART	-	0:44:09.462000	0:44:10.902000
 mehr	mehr	ADV	-	0:44:09.462000	0:44:10.902000
 hinaufgefahren	hinaufgefahren	VERB	-	0:44:09.462000	0:44:10.902000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:10.902000" end="0:44:11.935000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:10.902000" end="0:44:11.935000" persName="Informant 0371">
 echt	echt	ADJ	-	0:44:10.902000	0:44:11.935000
 ?	-	-	-	0:44:10.902000	0:44:11.935000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:10.902000" end="0:44:11.935000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:10.902000" end="0:44:11.935000" persName="Informant 0373">
 ist	sein	AUX	-	0:44:10.902000	0:44:11.935000
 .	-	-	-	0:44:10.902000	0:44:11.935000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:11.935000" end="0:44:13.222000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:11.935000" end="0:44:13.222000" persName="Informant 0371">
 scheiße	scheißen	NOUN	-	0:44:11.935000	0:44:13.222000
 .	-	-	-	0:44:11.935000	0:44:13.222000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:11.935000" end="0:44:34.962000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:11.935000" end="0:44:34.962000" persName="Informant 0373">
 angeblich	angeblich	ADJ	-	0:44:11.935000	0:44:13.222000
 .	-	-	-	0:44:11.935000	0:44:13.222000
 weil	weil	SCONJ	-	0:44:13.222000	0:44:14.529000
@@ -13200,7 +13200,7 @@ mal	mal	ADV	-	0:44:18.809000	0:44:21.855000
 uns	sich	PRON	-	0:44:18.809000	0:44:21.855000
 um	um	ADP	-	0:44:18.809000	0:44:21.855000
 den	der	DET	-	0:44:18.809000	0:44:21.855000
-[Andi]N	Andi	NOUN	-	0:44:18.809000	0:44:21.855000
+NAME	NAME	NOUN	-	0:44:18.809000	0:44:21.855000
 quasi	quasi	ADV	-	0:44:18.809000	0:44:21.855000
 gekümmert	kümmern	VERB	-	0:44:18.809000	0:44:21.855000
 ,	-	-	-	0:44:18.809000	0:44:21.855000
@@ -13262,54 +13262,54 @@ da	-	-	-	0:44:33.182000	0:44:34.962000
 hinunterzerren"	-	-	-	0:44:33.182000	0:44:34.962000
 .	-	-	-	0:44:33.182000	0:44:34.962000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:34.962000" end="0:44:36.955000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:34.962000" end="0:44:36.955000" persName="Informant 0371">
 jetzt	jetzt	ADV	-	0:44:35.955000	0:44:36.955000
 habe	habe	AUX	-	0:44:35.955000	0:44:36.955000
 ich/	-	-	-	0:44:35.955000	0:44:36.955000
 .	-	-	-	0:44:35.955000	0:44:36.955000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:35.955000" end="0:44:39.055000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:35.955000" end="0:44:39.055000" persName="Informant 0373">
 wer	wer	PRON	-	0:44:35.955000	0:44:36.955000
 trifft	treffen	VERB	-	0:44:35.955000	0:44:36.955000
 ?	-	-	-	0:44:35.955000	0:44:36.955000
 ich	ich	PRON	-	0:44:36.955000	0:44:39.055000
 ,	-	-	-	0:44:36.955000	0:44:39.055000
-[Andi]N	Andi	PROPN	-	0:44:36.955000	0:44:39.055000
+NAME	NAME	PROPN	-	0:44:36.955000	0:44:39.055000
 nicht	nicht	PART	-	0:44:36.955000	0:44:39.055000
 .	-	-	-	0:44:36.955000	0:44:39.055000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:39.055000" end="0:44:40.022000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:39.055000" end="0:44:40.022000" persName="Informant 0371">
 wäh	wäh	X	-	0:44:39.055000	0:44:40.022000
 .	-	-	-	0:44:39.055000	0:44:40.022000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:39.055000" end="0:44:40.022000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:39.055000" end="0:44:40.022000" persName="Informant 0373">
 und	und	CCONJ	-	0:44:39.055000	0:44:40.022000
 der	der	PRON	-	0:44:39.055000	0:44:40.022000
 hat	haben	AUX	-	0:44:39.055000	0:44:40.022000
 schon	schon	ADV	-	0:44:39.055000	0:44:40.022000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:40.022000" end="0:44:40.649000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:40.022000" end="0:44:40.649000" persName="Informant 0371">
 das	-	-	-	0:44:40.022000	0:44:40.649000
 ist	-	-	-	0:44:40.022000	0:44:40.649000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:40.022000" end="0:44:40.649000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:40.022000" end="0:44:40.649000" persName="Informant 0373">
 getrunken	trinken	VERB	-	0:44:40.022000	0:44:40.649000
 .	-	-	-	0:44:40.022000	0:44:40.649000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:40.649000" end="0:44:41.675000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:40.649000" end="0:44:41.675000" persName="Informant 0371">
 immer	-	-	-	0:44:40.649000	0:44:40.989000
 das	-	-	-	0:44:40.649000	0:44:40.989000
-_Schirchste_	-	-	-	0:44:40.989000	0:44:41.675000
+schiachste	-	-	-	0:44:40.989000	0:44:41.675000
 ,	-	-	-	0:44:40.989000	0:44:41.675000
 weil	weil	SCONJ	-	0:44:40.989000	0:44:41.675000
 du	du	PRON	-	0:44:40.989000	0:44:41.675000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:40.989000" end="0:44:41.675000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:40.989000" end="0:44:41.675000" persName="Informant 0373">
 dann	dann	ADV	-	0:44:40.989000	0:44:41.675000
 sind/	-	-	-	0:44:40.989000	0:44:41.675000
 .	-	-	-	0:44:40.989000	0:44:41.675000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:41.675000" end="0:44:43.855000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:44:41.675000" end="0:44:43.855000" persName="Informant 0371">
 weißt	wissen	VERB	-	0:44:41.675000	0:44:42.429000
 genau	genau	ADJ	-	0:44:41.675000	0:44:42.429000
 ,	-	-	-	0:44:41.675000	0:44:42.429000
@@ -13320,7 +13320,7 @@ dich	-	-	-	0:44:42.429000	0:44:43.855000
 erwischt	-	-	-	0:44:42.429000	0:44:43.855000
 .	-	-	-	0:44:42.429000	0:44:43.855000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:42.429000" end="0:45:10.175000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:44:42.429000" end="0:45:10.175000" persName="Informant 0373">
 ja	ja	PART	-	0:44:42.429000	0:44:43.855000
 ,	-	-	-	0:44:42.429000	0:44:43.855000
 ein	einen	DET	-	0:44:42.429000	0:44:43.855000
@@ -13334,7 +13334,7 @@ dann	dann	ADV	-	0:44:48.129000	0:44:51.275000
 unten	unten	ADV	-	0:44:48.129000	0:44:51.275000
 in	in	ADP	-	0:44:48.129000	0:44:51.275000
 der	der	DET	-	0:44:48.129000	0:44:51.275000
-[Talbachschenke]S	Talbachschenke	NOUN	-	0:44:48.129000	0:44:51.275000
+SONSTIGE	SONSTIGE	NOUN	-	0:44:48.129000	0:44:51.275000
 ist	sein	AUX	-	0:44:48.129000	0:44:51.275000
 es	ich	PRON	-	0:44:48.129000	0:44:51.275000
 hinuntergegangen	hinuntergegangen	NOUN	-	0:44:48.129000	0:44:51.275000
@@ -13356,7 +13356,7 @@ gegessen	essen	VERB	-	0:44:52.195000	0:44:54.429000
 .	-	-	-	0:44:52.195000	0:44:54.429000
 und	und	CCONJ	-	0:44:54.429000	0:44:57.315000
 beim	beim	ADP	-	0:44:54.429000	0:44:57.315000
-[George]N	George	NOUN	-	0:44:54.429000	0:44:57.315000
+NAME	NAME	NOUN	-	0:44:54.429000	0:44:57.315000
 seinem	mein	DET	-	0:44:54.429000	0:44:57.315000
 Teller	Teller	NOUN	-	0:44:54.429000	0:44:57.315000
 war	sein	AUX	-	0:44:54.429000	0:44:57.315000
@@ -13373,16 +13373,20 @@ richtig	richtig	ADJ	-	0:44:57.315000	0:44:59.649000
 scharfe	scharf	VERB	-	0:44:57.315000	0:44:59.649000
 .	-	-	-	0:44:57.315000	0:44:59.649000
 der	der	DET	-	0:44:59.649000	0:45:01.849000
-[George]N	George	NOUN	-	0:44:59.649000	0:45:01.849000
+NAME	NAME	NOUN	-	0:44:59.649000	0:45:01.849000
 schneidet	schneiden	VERB	-	0:44:59.649000	0:45:01.849000
 ein	einen	DET	-	0:44:59.649000	0:45:01.849000
 Stückel	Stückel	NOUN	-	0:44:59.649000	0:45:01.849000
 herunter	herunter	ADP	-	0:44:59.649000	0:45:01.849000
 ,	-	-	-	0:44:59.649000	0:45:01.849000
 hat	haben	AUX	-	0:45:01.849000	0:45:02.975000
+(es	-	-	-	0:45:01.849000	0:45:02.975000
+völlig	-	-	-	0:45:01.849000	0:45:02.975000
+nicht	-	-	-	0:45:01.849000	0:45:02.975000
+?)	-	-	-	0:45:01.849000	0:45:02.975000
 ,	-	-	-	0:45:01.849000	0:45:02.975000
 der	der	DET	-	0:45:02.975000	0:45:04.975000
-[Andi]N	Andi	NOUN	-	0:45:02.975000	0:45:04.975000
+NAME	NAME	NOUN	-	0:45:02.975000	0:45:04.975000
 hat	haben	AUX	-	0:45:02.975000	0:45:04.975000
 das	der	PRON	-	0:45:02.975000	0:45:04.975000
 anscheinend	anscheinen	ADJ	-	0:45:02.975000	0:45:04.975000
@@ -13412,14 +13416,14 @@ geworden	werden	AUX	-	0:45:08.015000	0:45:10.175000
 gell	gell	ADJ	-	0:45:08.015000	0:45:10.175000
 ,	-	-	-	0:45:08.015000	0:45:10.175000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:10.175000" end="0:45:11.295000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:10.175000" end="0:45:11.295000" persName="Informant 0371">
 ja	ja	ADV	-	0:45:10.175000	0:45:11.295000
 das	der	PRON	-	0:45:10.175000	0:45:11.295000
 glaube	glauben	VERB	-	0:45:10.175000	0:45:11.295000
 ich	ich	PRON	-	0:45:10.175000	0:45:11.295000
 .	-	-	-	0:45:10.175000	0:45:11.295000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:10.175000" end="0:45:14.242000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:10.175000" end="0:45:14.242000" persName="Informant 0373">
 einen	ein	DET	-	0:45:11.295000	0:45:14.242000
 feuerroten	feuerroten	ADJ	-	0:45:11.295000	0:45:14.242000
 Schädel	Schädel	NOUN	-	0:45:11.295000	0:45:14.242000
@@ -13428,21 +13432,21 @@ er	ich	PRON	-	0:45:11.295000	0:45:14.242000
 gekriegt	kriegen	VERB	-	0:45:11.295000	0:45:14.242000
 .	-	-	-	0:45:11.295000	0:45:14.242000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:14.242000" end="0:45:15.262000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:14.242000" end="0:45:15.262000" persName="Informant 0371">
 geh	geh	X	-	0:45:14.242000	0:45:15.262000
 .	-	-	-	0:45:14.242000	0:45:15.262000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:14.242000" end="0:45:15.262000">
-"[Andi]N	Andi	PROPN	-	0:45:14.242000	0:45:15.262000
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:14.242000" end="0:45:15.262000" persName="Informant 0373">
+NAME	NAME	PROPN	-	0:45:14.242000	0:45:15.262000
 ,	-	-	-	0:45:14.242000	0:45:15.262000
 alles	alle	PRON	-	0:45:14.242000	0:45:15.262000
 okay	okay	VERB	-	0:45:14.242000	0:45:15.262000
 ?"	-	-	-	0:45:14.242000	0:45:15.262000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:15.262000" end="0:45:17.529000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:15.262000" end="0:45:17.529000" persName="Informant 0371">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:17.529000" end="0:45:19.822000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:17.529000" end="0:45:19.822000" persName="Informant 0373">
 und	und	CCONJ	-	0:45:18.615000	0:45:19.822000
 dann	dann	ADV	-	0:45:18.615000	0:45:19.822000
 war	sein	AUX	-	0:45:18.615000	0:45:19.822000
@@ -13450,21 +13454,21 @@ es	ich	PRON	-	0:45:18.615000	0:45:19.822000
 aus	aus	ADP	-	0:45:18.615000	0:45:19.822000
 .	-	-	-	0:45:18.615000	0:45:19.822000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:19.822000" end="0:45:20.649000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:19.822000" end="0:45:20.649000" persName="Informant 0371">
 ja	ja	ADV	-	0:45:19.822000	0:45:20.649000
 das	der	PRON	-	0:45:19.822000	0:45:20.649000
 glaube	glauben	VERB	-	0:45:19.822000	0:45:20.649000
 ich	ich	PRON	-	0:45:19.822000	0:45:20.649000
 .	-	-	-	0:45:19.822000	0:45:20.649000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:19.822000" end="0:45:24.842000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:19.822000" end="0:45:24.842000" persName="Informant 0373">
 wir	ich	PRON	-	0:45:19.822000	0:45:20.649000
 sind	sein	AUX	-	0:45:19.822000	0:45:20.649000
 wir	ich	PRON	-	0:45:20.649000	0:45:22.575000
 sind	sein	AUX	-	0:45:20.649000	0:45:22.575000
 dann	dann	ADV	-	0:45:20.649000	0:45:22.575000
 noch	noch	ADV	-	0:45:20.649000	0:45:22.575000
-[Tenne]S	Tenne	NOUN	-	0:45:20.649000	0:45:22.575000
+SONSTIGE	SONSTIGE	NOUN	-	0:45:20.649000	0:45:22.575000
 gegangen	gehen	VERB	-	0:45:20.649000	0:45:22.575000
 .	-	-	-	0:45:20.649000	0:45:22.575000
 die	der	DET	-	0:45:22.575000	0:45:24.842000
@@ -13474,15 +13478,15 @@ alle	all	PRON	-	0:45:22.575000	0:45:24.842000
 heim	heim	ADV	-	0:45:22.575000	0:45:24.842000
 mit	mit	ADP	-	0:45:22.575000	0:45:24.842000
 dem	der	DET	-	0:45:22.575000	0:45:24.842000
-[Andi]N	Andi	NOUN	-	0:45:22.575000	0:45:24.842000
+NAME	NAME	NOUN	-	0:45:22.575000	0:45:24.842000
 .	-	-	-	0:45:22.575000	0:45:24.842000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:24.842000" end="0:45:27.029000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:24.842000" end="0:45:27.029000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:24.842000" end="0:45:30.482000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:24.842000" end="0:45:30.482000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:45:24.842000	0:45:27.029000
 der	der	DET	-	0:45:24.842000	0:45:27.029000
-[Andi]N	Andi	NOUN	-	0:45:24.842000	0:45:27.029000
+NAME	NAME	NOUN	-	0:45:24.842000	0:45:27.029000
 war	sein	AUX	-	0:45:24.842000	0:45:27.029000
 erledigt	erledigen	VERB	-	0:45:24.842000	0:45:27.029000
 .	-	-	-	0:45:24.842000	0:45:27.029000
@@ -13495,16 +13499,16 @@ gehen	gehen	VERB	-	0:45:27.029000	0:45:28.569000
 <pause duration="1,7s"/>
 und	und	CCONJ	-	0:45:28.569000	0:45:30.482000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:30.482000" end="0:45:31.295000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:30.482000" end="0:45:31.295000" persName="Informant 0371">
 ja	ja	ADV	-	0:45:30.482000	0:45:31.295000
 das	der	PRON	-	0:45:30.482000	0:45:31.295000
 glaube	glauben	VERB	-	0:45:30.482000	0:45:31.295000
 ich	ich	PRON	-	0:45:30.482000	0:45:31.295000
 .	-	-	-	0:45:30.482000	0:45:31.295000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:30.482000" end="0:45:36.155000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:30.482000" end="0:45:36.155000" persName="Informant 0373">
 wir	ich	PRON	-	0:45:30.482000	0:45:31.295000
-[Tenne]S	Tenne	NOUN	-	0:45:31.295000	0:45:31.769000
+SONSTIGE	SONSTIGE	NOUN	-	0:45:31.295000	0:45:31.769000
 ,	-	-	-	0:45:31.295000	0:45:31.769000
 und	und	CCONJ	-	0:45:31.769000	0:45:33.362000
 dann	dann	ADV	-	0:45:31.769000	0:45:33.362000
@@ -13512,14 +13516,14 @@ sind	sein	AUX	-	0:45:31.769000	0:45:33.362000
 die	der	DET	-	0:45:31.769000	0:45:33.362000
 anderen	ander	PRON	-	0:45:31.769000	0:45:33.362000
 auch	auch	ADV	-	0:45:31.769000	0:45:33.362000
-[Tenne]S	Tenne	NOUN	-	0:45:31.769000	0:45:33.362000
+SONSTIGE	SONSTIGE	NOUN	-	0:45:31.769000	0:45:33.362000
 gewesen	sein	AUX	-	0:45:31.769000	0:45:33.362000
 ,	-	-	-	0:45:31.769000	0:45:33.362000
 der	der	DET	-	0:45:33.362000	0:45:36.155000
-[Nick]N	Nick	NOUN	-	0:45:33.362000	0:45:36.155000
+NAME	NAME	NOUN	-	0:45:33.362000	0:45:36.155000
 ,	-	-	-	0:45:33.362000	0:45:36.155000
 der	der	DET	-	0:45:33.362000	0:45:36.155000
-[Maiz]N	Maiz	NOUN	-	0:45:33.362000	0:45:36.155000
+NAME	NAME	NOUN	-	0:45:33.362000	0:45:36.155000
 ,	-	-	-	0:45:33.362000	0:45:36.155000
 und	-	-	-	0:45:33.362000	0:45:36.155000
 dann	-	-	-	0:45:33.362000	0:45:36.155000
@@ -13531,14 +13535,14 @@ was	-	-	-	0:45:33.362000	0:45:36.155000
 anhören	-	-	-	0:45:33.362000	0:45:36.155000
 .	-	-	-	0:45:33.362000	0:45:36.155000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:36.155000" end="0:45:37.029000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:36.155000" end="0:45:37.029000" persName="Informant 0371">
 ja	ja	ADV	-	0:45:36.155000	0:45:36.582000
 das	der	PRON	-	0:45:36.155000	0:45:36.582000
 glaube	glauben	VERB	-	0:45:36.582000	0:45:37.029000
 ich	ich	PRON	-	0:45:36.582000	0:45:37.029000
 .	-	-	-	0:45:36.582000	0:45:37.029000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:36.582000" end="0:45:41.235000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:36.582000" end="0:45:41.235000" persName="Informant 0373">
 wenn	-	-	-	0:45:36.582000	0:45:37.029000
 sie	-	-	-	0:45:36.582000	0:45:37.029000
 einen	-	-	-	0:45:36.582000	0:45:37.029000
@@ -13548,23 +13552,23 @@ haben	-	-	-	0:45:37.029000	0:45:37.869000
 <pause duration="1,5s"/>
 ähm	ähm	X	-	0:45:37.869000	0:45:40.202000
 beim	beim	ADP	-	0:45:37.869000	0:45:40.202000
-[Matz]N	Matz	NOUN	-	0:45:37.869000	0:45:40.202000
+NAME	NAME	NOUN	-	0:45:37.869000	0:45:40.202000
 eh	eh	ADV	-	0:45:37.869000	0:45:40.202000
 nicht	nicht	PART	-	0:45:37.869000	0:45:40.202000
 ,	-	-	-	0:45:37.869000	0:45:40.202000
 aber	aber	CCONJ	-	0:45:40.202000	0:45:41.235000
 vom	vom	ADP	-	0:45:40.202000	0:45:41.235000
-[Nick]N	Nick	NOUN	-	0:45:40.202000	0:45:41.235000
+NAME	NAME	NOUN	-	0:45:40.202000	0:45:41.235000
 halt	halt	ADV	-	0:45:40.202000	0:45:41.235000
 .	-	-	-	0:45:40.202000	0:45:41.235000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:41.235000" end="0:45:42.029000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:41.235000" end="0:45:42.029000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:41.235000" end="0:45:42.029000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:41.235000" end="0:45:42.029000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:42.029000" end="0:45:48.162000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:42.029000" end="0:45:48.162000" persName="Informant 0371">
 der	der	DET	-	0:45:42.029000	0:45:43.662000
-[Nick]N	Nick	NOUN	-	0:45:42.029000	0:45:43.662000
+NAME	NAME	NOUN	-	0:45:42.029000	0:45:43.662000
 ist	sein	AUX	-	0:45:42.029000	0:45:43.662000
 da	da	ADV	-	0:45:42.029000	0:45:43.662000
 der	der	DET	-	0:45:42.029000	0:45:43.662000
@@ -13573,7 +13577,7 @@ erste	erste	ADJ	-	0:45:42.029000	0:45:43.662000
 ja	ja	PART	-	0:45:42.029000	0:45:43.662000
 .	-	-	-	0:45:42.029000	0:45:43.662000
 der	der	DET	-	0:45:43.662000	0:45:44.569000
-[Nick]N	Nick	NOUN	-	0:45:43.662000	0:45:44.569000
+NAME	NAME	NOUN	-	0:45:43.662000	0:45:44.569000
 ist	sein	AUX	-	0:45:43.662000	0:45:44.569000
 der	der	DET	-	0:45:43.662000	0:45:44.569000
 erste	erste	ADJ	-	0:45:43.662000	0:45:44.569000
@@ -13600,7 +13604,7 @@ wo/	-	-	-	0:45:46.095000	0:45:48.162000
 der/	-	-	-	0:45:46.095000	0:45:48.162000
 .	-	-	-	0:45:46.095000	0:45:48.162000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:46.095000" end="0:45:48.929000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:46.095000" end="0:45:48.929000" persName="Informant 0373">
 so	so	ADV	-	0:45:46.095000	0:45:48.162000
 ist	sein	AUX	-	0:45:46.095000	0:45:48.162000
 es	ich	PRON	-	0:45:46.095000	0:45:48.162000
@@ -13613,11 +13617,11 @@ was	was	PRON	-	0:45:48.162000	0:45:48.929000
 sempert	sempert	VERB	-	0:45:48.162000	0:45:48.929000
 .	-	-	-	0:45:48.162000	0:45:48.929000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:48.929000" end="0:45:49.342000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:48.929000" end="0:45:49.342000" persName="Informant 0371">
 ja	ja	PART	-	0:45:48.929000	0:45:49.342000
 .	-	-	-	0:45:48.929000	0:45:49.342000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:49.342000" end="0:45:52.869000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:49.342000" end="0:45:52.869000" persName="Informant 0373">
 <pause duration="1,7s"/>
 und	und	CCONJ	-	0:45:49.342000	0:45:52.869000
 ja	ja	ADV	-	0:45:49.342000	0:45:52.869000
@@ -13629,7 +13633,7 @@ wild	wild	ADJ	Adj Expr Int Komp WA WBA Wert posi rise	0:45:49.342000	0:45:52.869
 lustig	lustig	ADJ	Adj Expr Int Komp WA WBA Wert posi rise	0:45:49.342000	0:45:52.869000
 .	-	-	-	0:45:49.342000	0:45:52.869000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:52.869000" end="0:45:54.589000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:52.869000" end="0:45:54.589000" persName="Informant 0371">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:45:52.869000	0:45:54.589000
 glaube	glauben	VERB	-	0:45:52.869000	0:45:54.589000
@@ -13637,7 +13641,7 @@ ich	ich	PRON	-	0:45:52.869000	0:45:54.589000
 schon	schon	ADV	-	0:45:52.869000	0:45:54.589000
 .	-	-	-	0:45:52.869000	0:45:54.589000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:52.869000" end="0:45:56.089000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:52.869000" end="0:45:56.089000" persName="Informant 0373">
 <pause duration="1,0s"/>
 am	am	ADP	-	0:45:52.869000	0:45:54.589000
 zweiten	zweit	ADJ	-	0:45:52.869000	0:45:54.589000
@@ -13649,11 +13653,11 @@ mehr	mehr	PRON	-	0:45:54.589000	0:45:56.089000
 gerodelt	rodeln	VERB	-	0:45:54.589000	0:45:56.089000
 .	-	-	-	0:45:54.589000	0:45:56.089000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:56.089000" end="0:45:56.815000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:56.089000" end="0:45:56.815000" persName="Informant 0371">
 echt	echt	ADJ	-	0:45:56.089000	0:45:56.815000
 ?	-	-	-	0:45:56.089000	0:45:56.815000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:56.815000" end="0:45:58.502000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:56.815000" end="0:45:58.502000" persName="Informant 0373">
 ja	ja	PART	-	0:45:56.815000	0:45:58.502000
 ,	-	-	-	0:45:56.815000	0:45:58.502000
 sind	sein	AUX	-	0:45:56.815000	0:45:58.502000
@@ -13664,11 +13668,11 @@ Rodeln	Rodeln	NOUN	-	0:45:56.815000	0:45:58.502000
 gefahren	gefahren	VERB	-	0:45:56.815000	0:45:58.502000
 .	-	-	-	0:45:56.815000	0:45:58.502000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:58.502000" end="0:45:59.189000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:45:58.502000" end="0:45:59.189000" persName="Informant 0371">
 wieso	wieso	ADV	-	0:45:58.502000	0:45:59.189000
 ?	-	-	-	0:45:58.502000	0:45:59.189000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:59.189000" end="0:46:02.562000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:45:59.189000" end="0:46:02.562000" persName="Informant 0373">
 <pause duration="1,2s"/>
 weil	weil	SCONJ	-	0:45:59.189000	0:46:02.562000
 der	der	DET	-	0:45:59.189000	0:46:02.562000
@@ -13681,18 +13685,18 @@ so	so	ADV	-	0:45:59.189000	0:46:02.562000
 geschissen	scheißen	VERB	-	0:45:59.189000	0:46:02.562000
 ,	-	-	-	0:45:59.189000	0:46:02.562000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:02.562000" end="0:46:03.469000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:02.562000" end="0:46:03.469000" persName="Informant 0371">
 ach	ach	X	-	0:46:02.562000	0:46:03.469000
 so	so	ADV	-	0:46:02.562000	0:46:03.469000
 .	-	-	-	0:46:02.562000	0:46:03.469000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:02.562000" end="0:46:03.469000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:02.562000" end="0:46:03.469000" persName="Informant 0373">
 dass	dass	SCONJ	-	0:46:02.562000	0:46:03.469000
 wir	ich	PRON	-	0:46:02.562000	0:46:03.469000
 gesagt	sagen	VERB	-	0:46:02.562000	0:46:03.469000
 haben	haben	AUX	-	0:46:02.562000	0:46:03.469000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:03.469000" end="0:46:05.915000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:03.469000" end="0:46:05.915000" persName="Informant 0371">
 <pause duration="1,0s"/>
 *braucht*	-	-	-	0:46:03.469000	0:46:05.035000
 nicht	-	-	-	0:46:03.469000	0:46:05.035000
@@ -13701,7 +13705,7 @@ Skifahren	-	-	-	0:46:05.035000	0:46:05.915000
 gehen	-	-	-	0:46:05.035000	0:46:05.915000
 .	-	-	-	0:46:05.035000	0:46:05.915000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:05.035000" end="0:46:08.949000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:05.035000" end="0:46:08.949000" persName="Informant 0373">
 nein	nein	PART	-	0:46:05.035000	0:46:05.915000
 .	-	-	-	0:46:05.035000	0:46:05.915000
 es	ich	PRON	-	0:46:05.915000	0:46:06.969000
@@ -13720,7 +13724,7 @@ voll	voll	ADJ	-	0:46:06.969000	0:46:08.949000
 lustig	lustig	ADJ	-	0:46:06.969000	0:46:08.949000
 .	-	-	-	0:46:06.969000	0:46:08.949000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:08.949000" end="0:46:10.189000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:08.949000" end="0:46:10.189000" persName="Informant 0371">
 ja	ja	PART	-	0:46:08.949000	0:46:10.189000
 ,	-	-	-	0:46:08.949000	0:46:10.189000
 das	der	PRON	-	0:46:08.949000	0:46:10.189000
@@ -13730,7 +13734,7 @@ eine	einen	DET	-	0:46:08.949000	0:46:10.189000
 Gaudi	Gaudi	NOUN	-	0:46:08.949000	0:46:10.189000
 .	-	-	-	0:46:08.949000	0:46:10.189000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:08.949000" end="0:46:16.735000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:08.949000" end="0:46:16.735000" persName="Informant 0373">
 zwei	zwei	NUM	-	0:46:08.949000	0:46:10.189000
 Mal	Mal	NOUN	-	0:46:08.949000	0:46:10.189000
 zwei	zwei	NUM	-	0:46:10.189000	0:46:11.589000
@@ -13757,7 +13761,7 @@ hanz	hanz	PROPN	-	0:46:15.229000	0:46:16.735000
 herunter	herunter	ADP	-	0:46:15.229000	0:46:16.735000
 .	-	-	-	0:46:15.229000	0:46:16.735000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:16.735000" end="0:46:19.362000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:16.735000" end="0:46:19.362000" persName="Informant 0371">
 streift	streifen	VERB	-	0:46:16.735000	0:46:18.962000
 dich	sich	PRON	-	0:46:16.735000	0:46:18.962000
 da	da	ADV	-	0:46:16.735000	0:46:18.962000
@@ -13773,7 +13777,7 @@ oder	-	-	-	0:46:16.735000	0:46:18.962000
 da/	-	-	-	0:46:18.962000	0:46:19.362000
 ?	-	-	-	0:46:18.962000	0:46:19.362000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:18.962000" end="0:46:20.449000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:18.962000" end="0:46:20.449000" persName="Informant 0373">
 nein	nein	PART	-	0:46:18.962000	0:46:19.362000
 ,	-	-	-	0:46:18.962000	0:46:19.362000
 du	du	PRON	-	0:46:18.962000	0:46:19.362000
@@ -13784,12 +13788,12 @@ Gondel	Gondel	NOUN	-	0:46:19.362000	0:46:20.449000
 hinauf	hinauf	ADP	-	0:46:19.362000	0:46:20.449000
 .	-	-	-	0:46:19.362000	0:46:20.449000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:20.449000" end="0:46:21.515000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:20.449000" end="0:46:21.515000" persName="Informant 0371">
 ach	ach	X	-	0:46:20.449000	0:46:21.515000
 so	so	ADV	-	0:46:20.449000	0:46:21.515000
 .	-	-	-	0:46:20.449000	0:46:21.515000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:21.515000" end="0:46:24.362000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:21.515000" end="0:46:24.362000" persName="Informant 0373">
 und	und	CCONJ	-	0:46:21.515000	0:46:24.362000
 dann	dann	ADV	-	0:46:21.515000	0:46:24.362000
 fährst	fahren	ADV	-	0:46:21.515000	0:46:24.362000
@@ -13800,14 +13804,14 @@ durch	durch	ADP	-	0:46:21.515000	0:46:24.362000
 hinunter	hinunter	ADJ	-	0:46:21.515000	0:46:24.362000
 ,	-	-	-	0:46:21.515000	0:46:24.362000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:24.362000" end="0:46:25.349000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:24.362000" end="0:46:25.349000" persName="Informant 0371">
 das	der	PRON	-	0:46:24.362000	0:46:25.349000
 ist	sein	AUX	-	0:46:24.362000	0:46:25.349000
 aber	aber	ADV	-	0:46:24.362000	0:46:25.349000
 geil	geil	NOUN	-	0:46:24.362000	0:46:25.349000
 .	-	-	-	0:46:24.362000	0:46:25.349000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:24.362000" end="0:46:27.889000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:24.362000" end="0:46:27.889000" persName="Informant 0373">
 und	und	CCONJ	-	0:46:24.362000	0:46:25.349000
 Pisten	Piste	NOUN	-	0:46:24.362000	0:46:25.349000
 ,	-	-	-	0:46:24.362000	0:46:25.349000
@@ -13826,11 +13830,11 @@ cool	cool	PROPN	-	0:46:26.809000	0:46:27.889000
 gewesen	sein	AUX	-	0:46:26.809000	0:46:27.889000
 .	-	-	-	0:46:26.809000	0:46:27.889000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:27.889000" end="0:46:28.229000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:27.889000" end="0:46:28.229000" persName="Informant 0371">
 geil	geil	NOUN	-	0:46:27.889000	0:46:28.229000
 .	-	-	-	0:46:27.889000	0:46:28.229000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:28.229000" end="0:46:33.882000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:28.229000" end="0:46:33.882000" persName="Informant 0373">
 <pause duration="1,9s"/>
 natürlich	natürlich	ADV	-	0:46:28.229000	0:46:33.509000
 zuerst	zuerst	ADV	-	0:46:28.229000	0:46:33.509000
@@ -13847,15 +13851,15 @@ angezogen	anziehen	VERB	-	0:46:28.229000	0:46:33.509000
 ,	-	-	-	0:46:28.229000	0:46:33.509000
 und	und	CCONJ	-	0:46:33.509000	0:46:33.882000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:33.882000" end="0:46:34.602000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:33.882000" end="0:46:34.602000" persName="Informant 0371">
 ausgelacht	auslachen	NOUN	-	0:46:33.882000	0:46:34.602000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:33.882000" end="0:46:34.602000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:33.882000" end="0:46:34.602000" persName="Informant 0373">
 die	der	PRON	-	0:46:33.882000	0:46:34.602000
 waren/	-	-	-	0:46:33.882000	0:46:34.602000
 .	-	-	-	0:46:33.882000	0:46:34.602000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:34.602000" end="0:46:37.389000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:34.602000" end="0:46:37.389000" persName="Informant 0371">
 nachher	nachher	ADV	-	0:46:34.602000	0:46:37.389000
 ,	-	-	-	0:46:34.602000	0:46:37.389000
 haha	haha	PROPN	-	0:46:34.602000	0:46:37.389000
@@ -13865,7 +13869,7 @@ ja	ja	ADV	-	0:46:34.602000	0:46:37.389000
 ja	ja	PART	-	0:46:34.602000	0:46:37.389000
 .	-	-	-	0:46:34.602000	0:46:37.389000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:34.602000" end="0:46:40.229000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:34.602000" end="0:46:40.229000" persName="Informant 0373">
 ausgelacht	auslachen	NOUN	-	0:46:34.602000	0:46:37.389000
 ,	-	-	-	0:46:34.602000	0:46:37.389000
 "was	was	PRON	-	0:46:34.602000	0:46:37.389000
@@ -13891,9 +13895,9 @@ du	du	PRON	-	0:46:38.649000	0:46:40.229000
 Volldodel"	Volldodel	NOUN	-	0:46:38.649000	0:46:40.229000
 ,	-	-	-	0:46:38.649000	0:46:40.229000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:40.229000" end="0:46:42.495000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:40.229000" end="0:46:42.495000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:40.229000" end="0:46:46.149000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:40.229000" end="0:46:46.149000" persName="Informant 0373">
 und	und	CCONJ	-	0:46:40.229000	0:46:42.495000
 fahren	fahren	VERB	-	0:46:40.229000	0:46:42.495000
 mit	mit	ADP	-	0:46:40.229000	0:46:42.495000
@@ -13910,18 +13914,18 @@ sie	ich	PRON	-	0:46:42.495000	0:46:46.149000
 waschelnass	waschelnass	VERB	-	0:46:42.495000	0:46:46.149000
 ,	-	-	-	0:46:42.495000	0:46:46.149000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:46.149000" end="0:46:46.695000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:46.149000" end="0:46:46.695000" persName="Informant 0371">
 kalt	kalt	ADJ	-	0:46:46.149000	0:46:46.695000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:46.149000" end="0:46:46.695000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:46.149000" end="0:46:46.695000" persName="Informant 0373">
 gell	gell	ADJ	-	0:46:46.149000	0:46:46.695000
 .	-	-	-	0:46:46.149000	0:46:46.695000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:46.695000" end="0:46:47.589000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:46.695000" end="0:46:47.589000" persName="Informant 0371">
 wahrscheinlich	wahrscheinlich	ADJ	-	0:46:46.695000	0:46:47.589000
 .	-	-	-	0:46:46.695000	0:46:47.589000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:46.695000" end="0:46:55.189000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:46.695000" end="0:46:55.189000" persName="Informant 0373">
 wir	ich	PRON	-	0:46:46.695000	0:46:47.589000
 hinein	hinein	ADV	-	0:46:46.695000	0:46:47.589000
 in	in	ADP	-	0:46:47.589000	0:46:48.089000
@@ -13950,7 +13954,7 @@ Skihose	Skihose	NOUN	-	0:46:52.189000	0:46:55.189000
 angelegt	anlegen	VERB	-	0:46:52.189000	0:46:55.189000
 .	-	-	-	0:46:52.189000	0:46:55.189000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:55.189000" end="0:46:57.389000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:55.189000" end="0:46:57.389000" persName="Informant 0371">
 ja	ja	PART	-	0:46:55.189000	0:46:56.122000
 .	-	-	-	0:46:55.189000	0:46:56.122000
 da	-	-	-	0:46:56.122000	0:46:57.389000
@@ -13959,16 +13963,16 @@ cool	-	-	-	0:46:56.122000	0:46:57.389000
 sein	-	-	-	0:46:56.122000	0:46:57.389000
 ,	-	-	-	0:46:56.122000	0:46:57.389000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:57.389000" end="0:46:57.702000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:57.389000" end="0:46:57.702000" persName="Informant 0373">
 ja	ja	PART	-	0:46:57.389000	0:46:57.702000
 ,	-	-	-	0:46:57.389000	0:46:57.702000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:57.702000" end="0:46:58.335000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:57.702000" end="0:46:58.335000" persName="Informant 0371">
 und	und	CCONJ	-	0:46:57.702000	0:46:58.335000
 dann	dann	ADV	-	0:46:57.702000	0:46:58.335000
 .	-	-	-	0:46:57.702000	0:46:58.335000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:57.702000" end="0:46:59.982000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:57.702000" end="0:46:59.982000" persName="Informant 0373">
 genau	genau	ADJ	-	0:46:57.702000	0:46:58.335000
 .	-	-	-	0:46:57.702000	0:46:58.335000
 "weil	weil	SCONJ	-	0:46:58.335000	0:46:59.982000
@@ -13978,18 +13982,18 @@ werde	werden	AUX	-	0:46:58.335000	0:46:59.982000
 ich	ich	PRON	-	0:46:58.335000	0:46:59.982000
 keine	kein	DET	-	0:46:58.335000	0:46:59.982000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:59.982000" end="0:47:00.729000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:46:59.982000" end="0:47:00.729000" persName="Informant 0371">
 gell	gell	ADJ	-	0:46:59.982000	0:47:00.729000
 .	-	-	-	0:46:59.982000	0:47:00.729000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:59.982000" end="0:47:01.149000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:46:59.982000" end="0:47:01.149000" persName="Informant 0373">
 Skihose	Skihose	NOUN	-	0:46:59.982000	0:47:00.729000
 anlegen	anlegen	VERB	-	0:47:00.729000	0:47:01.149000
 ,	-	-	-	0:47:00.729000	0:47:01.149000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:01.149000" end="0:47:03.022000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:01.149000" end="0:47:03.022000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:01.149000" end="0:47:04.415000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:01.149000" end="0:47:04.415000" persName="Informant 0373">
 ist	sein	AUX	-	0:47:01.149000	0:47:03.022000
 ja	ja	ADV	-	0:47:01.149000	0:47:03.022000
 Rodeln	Rodeln	NOUN	-	0:47:01.149000	0:47:03.022000
@@ -14000,11 +14004,11 @@ du	du	PRON	-	0:47:03.022000	0:47:04.415000
 überhaupt	überhaupt	ADV	-	0:47:03.022000	0:47:04.415000
 ?"	-	-	-	0:47:03.022000	0:47:04.415000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:04.415000" end="0:47:04.855000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:04.415000" end="0:47:04.855000" persName="Informant 0371">
 nein	nein	PART	-	0:47:04.415000	0:47:04.855000
 .	-	-	-	0:47:04.415000	0:47:04.855000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:04.855000" end="0:47:08.322000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:04.855000" end="0:47:08.322000" persName="Informant 0373">
 <pause duration="2,1s"/>
 nein	nein	PART	-	0:47:04.855000	0:47:08.322000
 ,	-	-	-	0:47:04.855000	0:47:08.322000
@@ -14014,7 +14018,7 @@ schon	schon	ADV	-	0:47:04.855000	0:47:08.322000
 witzig	witzig	ADJ	-	0:47:04.855000	0:47:08.322000
 .	-	-	-	0:47:04.855000	0:47:08.322000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:08.322000" end="0:47:10.075000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:08.322000" end="0:47:10.075000" persName="Informant 0371">
 wann	-	-	-	0:47:08.322000	0:47:10.075000
 *seids*	-	-	-	0:47:08.322000	0:47:10.075000
 dann	-	-	-	0:47:08.322000	0:47:10.075000
@@ -14025,7 +14029,7 @@ oder	oder	CCONJ	-	0:47:08.322000	0:47:10.075000
 was	was	PRON	-	0:47:08.322000	0:47:10.075000
 ?	-	-	-	0:47:08.322000	0:47:10.075000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:10.075000" end="0:47:15.128000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:10.075000" end="0:47:15.128000" persName="Informant 0373">
 Sonntag	Sonntag	NOUN	-	0:47:10.075000	0:47:15.128000
 um	um	ADP	-	0:47:10.075000	0:47:15.128000
 <pause duration="1,4s"/>
@@ -14038,43 +14042,43 @@ wir	ich	PRON	-	0:47:10.075000	0:47:15.128000
 fortgefahren	fortgefahren	VERB	-	0:47:10.075000	0:47:15.128000
 .	-	-	-	0:47:10.075000	0:47:15.128000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:15.128000" end="0:47:15.775000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:15.128000" end="0:47:15.775000" persName="Informant 0371">
 okay	okay	NOUN	-	0:47:15.128000	0:47:15.775000
 .	-	-	-	0:47:15.128000	0:47:15.775000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:15.775000" end="0:47:17.148000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:15.775000" end="0:47:17.148000" persName="Informant 0373">
 halb	halb	ADJ	-	0:47:15.775000	0:47:17.148000
 vier	vier	NUM	-	0:47:15.775000	0:47:17.148000
 war	sein	AUX	-	0:47:15.775000	0:47:17.148000
 es	ich	PRON	-	0:47:15.775000	0:47:17.148000
 .	-	-	-	0:47:15.775000	0:47:17.148000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:17.148000" end="0:47:18.448000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:17.148000" end="0:47:18.448000" persName="Informant 0371">
 wer	wer	PRON	-	0:47:17.148000	0:47:18.448000
 ist	sein	AUX	-	0:47:17.148000	0:47:18.448000
 gefahren	gefahren	VERB	-	0:47:17.148000	0:47:18.448000
 ?	-	-	-	0:47:17.148000	0:47:18.448000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:18.448000" end="0:47:27.422000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:18.448000" end="0:47:27.422000" persName="Informant 0373">
 <pause duration="1,3s"/>
 es	ich	PRON	-	0:47:18.448000	0:47:27.422000
 ist	sein	AUX	-	0:47:18.448000	0:47:27.422000
 gefahren	gefahren	VERB	-	0:47:18.448000	0:47:27.422000
 <pause duration="1,2s"/>
 der	der	DET	-	0:47:18.448000	0:47:27.422000
-[Koma]N	Koma	NOUN	-	0:47:18.448000	0:47:27.422000
+NAME	NAME	NOUN	-	0:47:18.448000	0:47:27.422000
 ,	-	-	-	0:47:18.448000	0:47:27.422000
 <pause duration="2,7s"/>
 die	der	DET	-	0:47:18.448000	0:47:27.422000
-[Miri]N	Miri	NOUN	-	0:47:18.448000	0:47:27.422000
+NAME	NAME	NOUN	-	0:47:18.448000	0:47:27.422000
 ,	-	-	-	0:47:18.448000	0:47:27.422000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:27.422000" end="0:47:28.815000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:27.422000" end="0:47:28.815000" persName="Informant 0371">
 der	der	DET	-	0:47:27.422000	0:47:28.815000
-[George]N	George	NOUN	-	0:47:27.422000	0:47:28.815000
+NAME	NAME	NOUN	-	0:47:27.422000	0:47:28.815000
 .	-	-	-	0:47:27.422000	0:47:28.815000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:27.422000" end="0:47:31.308000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:27.422000" end="0:47:31.308000" persName="Informant 0373">
 die	der	PRON	-	0:47:27.422000	0:47:28.815000
 ist	sein	AUX	-	0:47:27.422000	0:47:28.815000
 ja	ja	ADV	-	0:47:27.422000	0:47:28.815000
@@ -14082,21 +14086,21 @@ nach	nach	ADP	-	0:47:27.422000	0:47:28.815000
 hinaufgekommen	hinaufgekommen	NOUN	-	0:47:27.422000	0:47:28.815000
 ,	-	-	-	0:47:27.422000	0:47:28.815000
 der	-	-	-	0:47:28.815000	0:47:31.308000
-[George]N	-	-	-	0:47:28.815000	0:47:31.308000
+NAME	NAME	-	-	0:47:28.815000	0:47:31.308000
 und	-	-	-	0:47:28.815000	0:47:31.308000
 ich	-	-	-	0:47:28.815000	0:47:31.308000
 .	-	-	-	0:47:28.815000	0:47:31.308000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:31.308000" end="0:47:31.975000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:31.308000" end="0:47:31.975000" persName="Informant 0371">
 okay	okay	NOUN	-	0:47:31.308000	0:47:31.975000
 .	-	-	-	0:47:31.308000	0:47:31.975000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:31.975000" end="0:47:34.415000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:31.975000" end="0:47:34.415000" persName="Informant 0373">
 die	der	DET	-	0:47:31.975000	0:47:33.202000
-[Miri]N	Miri	NOUN	-	0:47:31.975000	0:47:33.202000
+NAME	NAME	NOUN	-	0:47:31.975000	0:47:33.202000
 und	und	CCONJ	-	0:47:31.975000	0:47:33.202000
 der	der	DET	-	0:47:31.975000	0:47:33.202000
-[Matz]N	Matz	NOUN	-	0:47:31.975000	0:47:33.202000
+NAME	NAME	NOUN	-	0:47:31.975000	0:47:33.202000
 sind	sein	AUX	-	0:47:31.975000	0:47:33.202000
 oben	oben	ADV	-	0:47:31.975000	0:47:33.202000
 geblieben	bleiben	VERB	-	0:47:31.975000	0:47:33.202000
@@ -14110,11 +14114,11 @@ wir	ich	PRON	-	0:47:33.202000	0:47:34.415000
 heruntergefahren	heruntergefahren	VERB	-	0:47:33.202000	0:47:34.415000
 .	-	-	-	0:47:33.202000	0:47:34.415000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:34.415000" end="0:47:34.842000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:34.415000" end="0:47:34.842000" persName="Informant 0371">
 echt	echt	ADJ	-	0:47:34.415000	0:47:34.842000
 ?	-	-	-	0:47:34.415000	0:47:34.842000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:34.842000" end="0:47:36.328000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:34.842000" end="0:47:36.328000" persName="Informant 0373">
 ja	ja	PART	-	0:47:34.842000	0:47:36.328000
 ,	-	-	-	0:47:34.842000	0:47:36.328000
 die	der	PRON	-	0:47:34.842000	0:47:36.328000
@@ -14124,11 +14128,11 @@ Tag	Tag	NOUN	-	0:47:34.842000	0:47:36.328000
 angehängt	anhängen	VERB	-	0:47:34.842000	0:47:36.328000
 .	-	-	-	0:47:34.842000	0:47:36.328000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:36.328000" end="0:47:37.162000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:36.328000" end="0:47:37.162000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:36.328000" end="0:47:37.162000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:36.328000" end="0:47:37.162000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:37.162000" end="0:47:38.128000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:37.162000" end="0:47:38.128000" persName="Informant 0371">
 die	der	PRON	-	0:47:37.162000	0:47:38.128000
 sind	sein	AUX	-	0:47:37.162000	0:47:38.128000
 ja	ja	ADV	-	0:47:37.162000	0:47:38.128000
@@ -14137,10 +14141,10 @@ so	so	ADV	-	0:47:37.162000	0:47:38.128000
 geil	geil	ADJ	-	0:47:37.162000	0:47:38.128000
 .	-	-	-	0:47:37.162000	0:47:38.128000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:38.128000" end="0:47:40.875000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:38.128000" end="0:47:40.875000" persName="Informant 0373">
 ja	ja	ADV	-	0:47:38.128000	0:47:40.875000
 die	der	DET	-	0:47:38.128000	0:47:40.875000
-[Miri]N	Miri	NOUN	-	0:47:38.128000	0:47:40.875000
+NAME	NAME	NOUN	-	0:47:38.128000	0:47:40.875000
 ist	sein	AUX	-	0:47:38.128000	0:47:40.875000
 ja	ja	ADV	-	0:47:38.128000	0:47:40.875000
 Samstag	Samstag	NOUN	-	0:47:38.128000	0:47:40.875000
@@ -14151,12 +14155,12 @@ erst	erst	ADV	-	0:47:38.128000	0:47:40.875000
 nachgekommen	nachkommen	VERB	-	0:47:38.128000	0:47:40.875000
 .	-	-	-	0:47:38.128000	0:47:40.875000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:40.875000" end="0:47:41.522000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:40.875000" end="0:47:41.522000" persName="Informant 0371">
 wieso	wieso	ADV	-	0:47:40.875000	0:47:41.522000
 das	der	PRON	-	0:47:40.875000	0:47:41.522000
 ?	-	-	-	0:47:40.875000	0:47:41.522000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:41.522000" end="0:47:46.455000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:41.522000" end="0:47:46.455000" persName="Informant 0373">
 weil	weil	SCONJ	-	0:47:41.522000	0:47:44.375000
 sie	ich	PRON	-	0:47:41.522000	0:47:44.375000
 noch	noch	ADV	-	0:47:41.522000	0:47:44.375000
@@ -14177,7 +14181,7 @@ Unterricht	Unterricht	NOUN	-	0:47:44.375000	0:47:46.455000
 gehabt	haben	AUX	-	0:47:44.375000	0:47:46.455000
 .	-	-	-	0:47:44.375000	0:47:46.455000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:46.455000" end="0:47:48.488000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:46.455000" end="0:47:48.488000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:47:46.455000	0:47:47.262000
 .	-	-	-	0:47:46.455000	0:47:47.262000
 die	der	PRON	-	0:47:47.262000	0:47:48.488000
@@ -14189,7 +14193,7 @@ Kärnten	Kärnten	PROPN	-	0:47:47.262000	0:47:48.488000
 gell	gell	ADJ	-	0:47:47.262000	0:47:48.488000
 ?	-	-	-	0:47:47.262000	0:47:48.488000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:47.262000" end="0:47:50.448000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:47.262000" end="0:47:50.448000" persName="Informant 0373">
 dann	dann	ADV	-	0:47:47.262000	0:47:48.488000
 ist	sein	AUX	-	0:47:47.262000	0:47:48.488000
 sie/	-	-	-	0:47:47.262000	0:47:48.488000
@@ -14205,7 +14209,7 @@ hinauf	hinauf	ADV	-	0:47:48.488000	0:47:50.448000
 (gerudert)	rudern	VERB	-	0:47:48.488000	0:47:50.448000
 .	-	-	-	0:47:48.488000	0:47:50.448000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:50.448000" end="0:47:51.942000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:50.448000" end="0:47:51.942000" persName="Informant 0371">
 bist	sein	AUX	-	0:47:50.448000	0:47:51.088000
 du	du	PRON	-	0:47:50.448000	0:47:51.088000
 deppert	deppert	VERB	-	0:47:50.448000	0:47:51.088000
@@ -14216,15 +14220,15 @@ mich	sich	PRON	-	0:47:51.088000	0:47:51.942000
 auch/	-	-	-	0:47:51.088000	0:47:51.942000
 .	-	-	-	0:47:51.088000	0:47:51.942000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:51.942000" end="0:47:52.395000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:51.942000" end="0:47:52.395000" persName="Informant 0373">
 ja	ja	ADV	-	0:47:51.942000	0:47:52.395000
 d/	-	-	-	0:47:51.942000	0:47:52.395000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:52.395000" end="0:47:52.755000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:47:52.395000" end="0:47:52.755000" persName="Informant 0371">
 wäh	wäh	X	-	0:47:52.395000	0:47:52.755000
 .	-	-	-	0:47:52.395000	0:47:52.755000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:52.755000" end="0:48:15.822000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:47:52.755000" end="0:48:15.822000" persName="Informant 0373">
 wie	wie	ADV	-	0:47:52.755000	0:47:54.382000
 sie	ich	PRON	-	0:47:52.755000	0:47:54.382000
 immer	immer	ADV	-	0:47:52.755000	0:47:54.382000
@@ -14310,7 +14314,7 @@ Gott	Gott	NOUN	-	0:48:13.708000	0:48:15.822000
 wo	wo	ADV	-	0:48:13.708000	0:48:15.822000
 .	-	-	-	0:48:13.708000	0:48:15.822000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:15.822000" end="0:48:18.882000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:15.822000" end="0:48:18.882000" persName="Informant 0371">
 und	und	CCONJ	-	0:48:15.822000	0:48:16.682000
 ejder	jeder	PROPN	-	0:48:15.822000	0:48:16.682000
 hat	haben	AUX	-	0:48:15.822000	0:48:16.682000
@@ -14322,7 +14326,7 @@ Spitz	Spitz	NOUN	??	0:48:16.682000	0:48:18.882000
 ja	ja	PART	-	0:48:16.682000	0:48:18.882000
 .	-	-	-	0:48:16.682000	0:48:18.882000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:16.682000" end="0:48:20.402000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:16.682000" end="0:48:20.402000" persName="Informant 0373">
 und	-	-	-	0:48:16.682000	0:48:18.882000
 jeder	-	-	-	0:48:16.682000	0:48:18.882000
 hat	-	-	-	0:48:16.682000	0:48:18.882000
@@ -14340,11 +14344,11 @@ ich	ich	PRON	-	0:48:19.815000	0:48:20.402000
 gesagt	sagen	VERB	-	0:48:19.815000	0:48:20.402000
 .	-	-	-	0:48:19.815000	0:48:20.402000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:20.402000" end="0:48:20.915000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:20.402000" end="0:48:20.915000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:48:20.402000	0:48:20.915000
 .	-	-	-	0:48:20.402000	0:48:20.915000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:20.915000" end="0:48:33.162000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:20.915000" end="0:48:33.162000" persName="Informant 0373">
 und	und	CCONJ	-	0:48:20.915000	0:48:24.068000
 sie	ich	PRON	-	0:48:20.915000	0:48:24.068000
 dann	dann	ADV	-	0:48:20.915000	0:48:24.068000
@@ -14361,7 +14365,7 @@ Reservierung	Reservierung	NOUN	-	0:48:24.068000	0:48:26.388000
 hat	haben	AUX	-	0:48:24.068000	0:48:26.388000
 ja	ja	ADV	-	0:48:24.068000	0:48:26.388000
 der	der	DET	-	0:48:24.068000	0:48:26.388000
-[Kärntner]N	Kärntner	NOUN	-	0:48:24.068000	0:48:26.388000
+NAME	NAME	NOUN	-	0:48:24.068000	0:48:26.388000
 gemacht	machen	VERB	-	0:48:24.068000	0:48:26.388000
 ,	-	-	-	0:48:24.068000	0:48:26.388000
 und	und	CCONJ	-	0:48:26.388000	0:48:27.648000
@@ -14372,7 +14376,7 @@ ihr	mein	PRON	-	0:48:26.388000	0:48:27.648000
 gesagt	sagen	VERB	-	0:48:26.388000	0:48:27.648000
 ,	-	-	-	0:48:26.388000	0:48:27.648000
 dem	der	DET	-	0:48:27.648000	0:48:29.635000
-[Kärntner]N	Kärntner	NOUN	-	0:48:27.648000	0:48:29.635000
+NAME	NAME	NOUN	-	0:48:27.648000	0:48:29.635000
 seine	mein	DET	-	0:48:27.648000	0:48:29.635000
 Nummer	Nummer	NOUN	-	0:48:27.648000	0:48:29.635000
 hat	haben	AUX	-	0:48:27.648000	0:48:29.635000
@@ -14400,11 +14404,11 @@ Zimmer	Zimmer	NOUN	-	0:48:31.048000	0:48:33.162000
 gell	gell	ADJ	-	0:48:31.048000	0:48:33.162000
 .	-	-	-	0:48:31.048000	0:48:33.162000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:33.162000" end="0:48:33.782000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:33.162000" end="0:48:33.782000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:48:33.162000	0:48:33.782000
 .	-	-	-	0:48:33.162000	0:48:33.782000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:33.782000" end="0:48:37.008000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:33.782000" end="0:48:37.008000" persName="Informant 0373">
 und	und	CCONJ	-	0:48:33.782000	0:48:35.488000
 so	so	ADV	-	0:48:33.782000	0:48:35.488000
 war	sein	AUX	-	0:48:33.782000	0:48:35.488000
@@ -14418,13 +14422,13 @@ hinaufgekommen	hinaufgekommen	NOUN	-	0:48:35.488000	0:48:37.008000
 ist	sein	AUX	-	0:48:35.488000	0:48:37.008000
 .	-	-	-	0:48:35.488000	0:48:37.008000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:37.008000" end="0:48:37.862000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:37.008000" end="0:48:37.862000" persName="Informant 0371">
 bist	sein	AUX	-	0:48:37.008000	0:48:37.862000
 du	du	PRON	-	0:48:37.008000	0:48:37.862000
 deppert	deppert	VERB	-	0:48:37.008000	0:48:37.862000
 .	-	-	-	0:48:37.008000	0:48:37.862000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:37.862000" end="0:48:39.522000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:37.862000" end="0:48:39.522000" persName="Informant 0373">
 hat	haben	AUX	-	0:48:37.862000	0:48:39.522000
 aber/	-	-	-	0:48:37.862000	0:48:39.522000
 .	-	-	-	0:48:37.862000	0:48:39.522000
@@ -14434,7 +14438,7 @@ witzig	witzig	ADJ	-	0:48:37.862000	0:48:39.522000
 ja	ja	PART	-	0:48:37.862000	0:48:39.522000
 .	-	-	-	0:48:37.862000	0:48:39.522000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:39.522000" end="0:48:40.862000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:39.522000" end="0:48:40.862000" persName="Informant 0371">
 nein	nein	PART	-	0:48:39.522000	0:48:40.095000
 ,	-	-	-	0:48:39.522000	0:48:40.095000
 das	der	PRON	-	0:48:39.522000	0:48:40.095000
@@ -14443,7 +14447,7 @@ ich	ich	PRON	-	0:48:40.095000	0:48:40.862000
 schon	schon	ADV	-	0:48:40.095000	0:48:40.862000
 .	-	-	-	0:48:40.095000	0:48:40.862000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:40.095000" end="0:48:43.948000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:40.095000" end="0:48:43.948000" persName="Informant 0373">
 aber	-	-	-	0:48:40.095000	0:48:40.862000
 das	-	-	-	0:48:40.095000	0:48:40.862000
 *musst*	-	-	-	0:48:40.095000	0:48:40.862000
@@ -14458,7 +14462,7 @@ Tag	Tag	NOUN	-	0:48:41.948000	0:48:43.948000
 passiert	passieren	VERB	-	0:48:41.948000	0:48:43.948000
 .	-	-	-	0:48:41.948000	0:48:43.948000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:43.948000" end="0:48:49.748000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:43.948000" end="0:48:49.748000" persName="Informant 0371">
 ja	ja	PART	-	0:48:43.948000	0:48:45.182000
 .	-	-	-	0:48:43.948000	0:48:45.182000
 <pause duration="1,6s"/>
@@ -14469,7 +14473,7 @@ nur	nur	ADV	-	0:48:45.182000	0:48:47.742000
 konsequent	konsequent	ADJ	-	0:48:47.742000	0:48:49.748000
 genug	genug	PRON	-	0:48:47.742000	0:48:49.748000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:47.742000" end="0:48:49.748000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:47.742000" end="0:48:49.748000" persName="Informant 0373">
 und	und	CCONJ	-	0:48:47.742000	0:48:49.748000
 sie	ich	PRON	-	0:48:47.742000	0:48:49.748000
 war	sein	AUX	-	0:48:47.742000	0:48:49.748000
@@ -14478,17 +14482,17 @@ die	der	DET	-	0:48:47.742000	0:48:49.748000
 Rauschigste	Rauschigste	NOUN	-	0:48:47.742000	0:48:49.748000
 .	-	-	-	0:48:47.742000	0:48:49.748000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:49.748000" end="0:48:51.202000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:49.748000" end="0:48:51.202000" persName="Informant 0371">
 ja	ja	ADV	-	0:48:49.748000	0:48:50.122000
 .	-	-	-	0:48:49.748000	0:48:50.122000
 konsequent	konsequent	ADJ	-	0:48:50.122000	0:48:51.202000
 genug/	-	-	-	0:48:50.122000	0:48:51.202000
 .	-	-	-	0:48:50.122000	0:48:51.202000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:50.122000" end="0:48:54.055000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:50.122000" end="0:48:54.055000" persName="Informant 0373">
 von	von	ADP	-	0:48:50.122000	0:48:51.202000
 der	der	DET	-	0:48:50.122000	0:48:51.202000
-[Tenne]S	Tenne	NOUN	-	0:48:50.122000	0:48:51.202000
+SONSTIGE	SONSTIGE	NOUN	-	0:48:50.122000	0:48:51.202000
 drin	drin	ADV	-	0:48:51.202000	0:48:51.702000
 (al/)	al	X	-	0:48:51.202000	0:48:51.702000
 ,	-	-	-	0:48:51.202000	0:48:51.702000
@@ -14500,23 +14504,23 @@ mehr	mehr	ADV	-	0:48:51.702000	0:48:54.055000
 ausgekannt	auskennen	VERB	-	0:48:51.702000	0:48:54.055000
 .	-	-	-	0:48:51.702000	0:48:54.055000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:54.055000" end="0:48:55.655000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:54.055000" end="0:48:55.655000" persName="Informant 0371">
 kon/	-	-	-	0:48:54.055000	0:48:55.655000
 konsequent	konsequent	ADJ	-	0:48:54.055000	0:48:55.655000
 es	ich	PRON	-	0:48:54.055000	0:48:55.655000
 i/	-	-	-	0:48:54.055000	0:48:55.655000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:54.055000" end="0:48:55.655000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:54.055000" end="0:48:55.655000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:55.655000" end="0:48:57.995000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:48:55.655000" end="0:48:57.995000" persName="Informant 0371">
 <pause duration="1,1s"/>
 konsequent	konsequent	ADJ	-	0:48:55.655000	0:48:57.995000
 .	-	-	-	0:48:55.655000	0:48:57.995000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:57.995000" end="0:49:22.535000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:48:57.995000" end="0:49:22.535000" persName="Informant 0373">
 und	und	CCONJ	-	0:48:57.995000	0:48:59.762000
 der	der	DET	-	0:48:57.995000	0:48:59.762000
-[George]N	George	NOUN	-	0:48:57.995000	0:48:59.762000
+NAME	NAME	NOUN	-	0:48:57.995000	0:48:59.762000
 und	und	CCONJ	-	0:48:57.995000	0:48:59.762000
 ich	ich	PRON	-	0:48:57.995000	0:48:59.762000
 haben	haben	AUX	-	0:48:57.995000	0:48:59.762000
@@ -14597,12 +14601,12 @@ halt	halt	ADV	-	0:49:21.008000	0:49:22.535000
 haben	haben	AUX	-	0:49:21.008000	0:49:22.535000
 .	-	-	-	0:49:21.008000	0:49:22.535000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:22.535000" end="0:49:23.042000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:22.535000" end="0:49:23.042000" persName="Informant 0371">
 ja	ja	ADV	-	0:49:22.535000	0:49:23.042000
 ja	ja	PART	-	0:49:22.535000	0:49:23.042000
 .	-	-	-	0:49:22.535000	0:49:23.042000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:23.042000" end="0:49:29.328000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:23.042000" end="0:49:29.328000" persName="Informant 0373">
 und	und	CCONJ	-	0:49:23.042000	0:49:24.748000
 dann	dann	ADV	-	0:49:23.042000	0:49:24.748000
 hat	haben	AUX	-	0:49:23.042000	0:49:24.748000
@@ -14619,7 +14623,7 @@ dem	der	DET	-	0:49:24.748000	0:49:26.635000
 herumgetanzt	herumgetanzt	NOUN	-	0:49:24.748000	0:49:26.635000
 .	-	-	-	0:49:24.748000	0:49:26.635000
 der	der	DET	-	0:49:26.635000	0:49:27.742000
-[George]N	George	NOUN	-	0:49:26.635000	0:49:27.742000
+NAME	NAME	NOUN	-	0:49:26.635000	0:49:27.742000
 hat	haben	AUX	-	0:49:26.635000	0:49:27.742000
 gesagt	sagen	VERB	-	0:49:26.635000	0:49:27.742000
 "sowas	sowas	PROPN	-	0:49:27.742000	0:49:29.328000
@@ -14627,11 +14631,11 @@ macht	machen	VERB	-	0:49:27.742000	0:49:29.328000
 mich	sich	PRON	-	0:49:27.742000	0:49:29.328000
 so	so	ADV	-	0:49:27.742000	0:49:29.328000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:29.328000" end="0:49:30.295000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:29.328000" end="0:49:30.295000" persName="Informant 0371">
 ja	ja	PART	-	0:49:29.328000	0:49:30.295000
 .	-	-	-	0:49:29.328000	0:49:30.295000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:29.328000" end="0:49:34.282000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:29.328000" end="0:49:34.282000" persName="Informant 0373">
 narrisch"	narrisch	ADJ	-	0:49:29.328000	0:49:30.295000
 und	und	CCONJ	-	0:49:29.328000	0:49:30.295000
 ich	ich	PRON	-	0:49:29.328000	0:49:30.295000
@@ -14654,13 +14658,13 @@ ich	ich	PRON	-	0:49:30.295000	0:49:34.282000
 nicht	nicht	PART	-	0:49:30.295000	0:49:34.282000
 .	-	-	-	0:49:30.295000	0:49:34.282000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:34.282000" end="0:49:36.215000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:34.282000" end="0:49:36.215000" persName="Informant 0371">
 das	der	PRON	-	0:49:34.282000	0:49:36.215000
 ist	sein	AUX	-	0:49:34.282000	0:49:36.215000
 schon/	-	-	-	0:49:34.282000	0:49:36.215000
 .	-	-	-	0:49:34.282000	0:49:36.215000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:34.282000" end="0:49:40.635000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:34.282000" end="0:49:40.635000" persName="Informant 0373">
 und	und	CCONJ	-	0:49:34.282000	0:49:36.215000
 nur	nur	ADV	-	0:49:34.282000	0:49:36.215000
 so	so	ADV	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:49:34.282000	0:49:36.215000
@@ -14679,7 +14683,7 @@ drüber	-	-	-	0:49:36.942000	0:49:40.635000
 nämlich	-	-	-	0:49:36.942000	0:49:40.635000
 .	-	-	-	0:49:36.942000	0:49:40.635000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:40.635000" end="0:49:44.582000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:40.635000" end="0:49:44.582000" persName="Informant 0371">
 <pause duration="1,3s"/>
 ja	-	-	-	0:49:40.635000	0:49:44.208000
 aber	-	-	-	0:49:40.635000	0:49:44.208000
@@ -14695,11 +14699,11 @@ wenn	wenn	SCONJ	-	0:49:44.208000	0:49:44.582000
 sie	ich	PRON	-	0:49:44.208000	0:49:44.582000
 alleweil	alleweil	NOUN	-	0:49:44.208000	0:49:44.582000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:44.208000" end="0:49:44.582000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:44.208000" end="0:49:44.582000" persName="Informant 0373">
 ja	ja	PART	-	0:49:44.208000	0:49:44.582000
 .	-	-	-	0:49:44.208000	0:49:44.582000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:44.582000" end="0:49:47.022000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:44.582000" end="0:49:47.022000" persName="Informant 0371">
 daherkommen	daherkommen	VERB	-	0:49:44.582000	0:49:46.128000
 ,	-	-	-	0:49:44.582000	0:49:46.128000
 die	der	DET	-	0:49:44.582000	0:49:46.128000
@@ -14711,22 +14715,22 @@ das	der	PRON	-	0:49:46.528000	0:49:47.022000
 f/	-	-	-	0:49:46.528000	0:49:47.022000
 .	-	-	-	0:49:46.528000	0:49:47.022000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:46.528000" end="0:49:47.582000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:46.528000" end="0:49:47.582000" persName="Informant 0373">
 wie	-	-	-	0:49:46.528000	0:49:47.022000
 deppert	-	-	-	0:49:47.022000	0:49:47.582000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:47.582000" end="0:49:48.388000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:47.582000" end="0:49:48.388000" persName="Informant 0371">
 nein	nein	PART	-	0:49:47.582000	0:49:48.388000
 .	-	-	-	0:49:47.582000	0:49:48.388000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:47.582000" end="0:49:48.768000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:47.582000" end="0:49:48.768000" persName="Informant 0373">
 *dass*	-	-	-	0:49:47.582000	0:49:48.388000
 tun	-	-	-	0:49:47.582000	0:49:48.388000
 .	-	-	-	0:49:47.582000	0:49:48.388000
 *weißt*	-	-	-	0:49:48.388000	0:49:48.768000
 ,	-	-	-	0:49:48.388000	0:49:48.768000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:48.768000" end="0:49:50.488000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:48.768000" end="0:49:50.488000" persName="Informant 0371">
 und	und	CCONJ	-	0:49:48.768000	0:49:50.488000
 tun	tun	VERB	-	0:49:48.768000	0:49:50.488000
 die	der	DET	-	0:49:48.768000	0:49:50.488000
@@ -14734,7 +14738,7 @@ ganzen	ganz	ADJ	-	0:49:48.768000	0:49:50.488000
 Sachen	Sache	NOUN	-	0:49:48.768000	0:49:50.488000
 .	-	-	-	0:49:48.768000	0:49:50.488000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:48.768000" end="0:49:53.615000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:48.768000" end="0:49:53.615000" persName="Informant 0373">
 die	der	DET	-	0:49:48.768000	0:49:50.488000
 Haberer	Haberer	NOUN	-	0:49:48.768000	0:49:50.488000
 gehen	gehen	VERB	-	0:49:48.768000	0:49:50.488000
@@ -14748,7 +14752,7 @@ weg	weg	ADP	-	0:49:50.488000	0:49:52.295000
 passt	passt	PROPN	-	0:49:52.295000	0:49:53.615000
 .	-	-	-	0:49:52.295000	0:49:53.615000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:53.615000" end="0:49:56.055000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:49:53.615000" end="0:49:56.055000" persName="Informant 0371">
 und	und	CCONJ	-	0:49:53.615000	0:49:55.448000
 dann	dann	ADV	-	0:49:53.615000	0:49:55.448000
 so	so	ADV	-	0:49:53.615000	0:49:55.448000
@@ -14759,7 +14763,7 @@ oder	oder	CCONJ	-	0:49:55.448000	0:49:56.055000
 irgendwas	irgendwas	PRON	-	0:49:55.448000	0:49:56.055000
 .	-	-	-	0:49:55.448000	0:49:56.055000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:55.448000" end="0:50:01.462000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:49:55.448000" end="0:50:01.462000" persName="Informant 0373">
 ja	ja	PART	-	0:49:55.448000	0:49:56.055000
 .	-	-	-	0:49:55.448000	0:49:56.055000
 mit	mit	ADP	-	0:49:56.055000	0:49:58.055000
@@ -14783,11 +14787,11 @@ tun	-	-	-	0:49:59.468000	0:50:01.462000
 gesehen	-	-	-	0:49:59.468000	0:50:01.462000
 beim	-	-	-	0:49:59.468000	0:50:01.462000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:01.462000" end="0:50:02.195000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:01.462000" end="0:50:02.195000" persName="Informant 0371">
 nein	nein	PART	-	0:50:01.462000	0:50:02.195000
 .	-	-	-	0:50:01.462000	0:50:02.195000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:01.462000" end="0:50:03.942000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:01.462000" end="0:50:03.942000" persName="Informant 0373">
 Poltern	-	-	-	0:50:01.462000	0:50:02.195000
 ,	-	-	-	0:50:01.462000	0:50:02.195000
 *dass*	-	-	-	0:50:02.195000	0:50:03.942000
@@ -14796,7 +14800,7 @@ Scheiß	-	-	-	0:50:02.195000	0:50:03.942000
 verkaufen	-	-	-	0:50:02.195000	0:50:03.942000
 ?	-	-	-	0:50:02.195000	0:50:03.942000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:03.942000" end="0:50:05.055000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:03.942000" end="0:50:05.055000" persName="Informant 0371">
 ja	ja	ADV	-	0:50:03.942000	0:50:05.055000
 der	der	PRON	-	0:50:03.942000	0:50:05.055000
 kommt	kommen	VERB	-	0:50:03.942000	0:50:05.055000
@@ -14806,7 +14810,7 @@ so	so	ADV	-	0:50:03.942000	0:50:05.055000
 weit	weit	ADJ	-	0:50:03.942000	0:50:05.055000
 .	-	-	-	0:50:03.942000	0:50:05.055000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:05.055000" end="0:50:07.715000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:05.055000" end="0:50:07.715000" persName="Informant 0373">
 nein	nein	PART	-	0:50:05.055000	0:50:05.508000
 .	-	-	-	0:50:05.055000	0:50:05.508000
 <pause duration="1,0s"/>
@@ -14815,16 +14819,16 @@ ja	ja	ADV	-	0:50:05.508000	0:50:07.715000
 keinen	kein	PRON	-	0:50:05.508000	0:50:07.715000
 .	-	-	-	0:50:05.508000	0:50:07.715000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:07.715000" end="0:50:08.115000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:07.715000" end="0:50:08.115000" persName="Informant 0371">
 mm	mm	NOUN	-	0:50:07.715000	0:50:08.115000
 .	-	-	-	0:50:07.715000	0:50:08.115000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:08.115000" end="0:50:11.268000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:08.115000" end="0:50:11.268000" persName="Informant 0373">
 <pause duration="2,8s"/>
 nein	nein	PART	-	0:50:08.115000	0:50:11.268000
 .	-	-	-	0:50:08.115000	0:50:11.268000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:11.268000" end="0:50:16.222000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:11.268000" end="0:50:16.222000" persName="Informant 0371">
 <pause duration="2,6s"/>
 nein	nein	PART	-	0:50:11.268000	0:50:14.895000
 ,	-	-	-	0:50:11.268000	0:50:14.895000
@@ -14836,7 +14840,7 @@ dabei	-	-	-	0:50:14.895000	0:50:16.222000
 sein	-	-	-	0:50:14.895000	0:50:16.222000
 .	-	-	-	0:50:14.895000	0:50:16.222000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:14.895000" end="0:50:16.222000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:14.895000" end="0:50:16.222000" persName="Informant 0373">
 nein	nein	PART	-	0:50:14.895000	0:50:16.222000
 ,	-	-	-	0:50:14.895000	0:50:16.222000
 da/	-	-	-	0:50:14.895000	0:50:16.222000
@@ -14844,7 +14848,7 @@ da/	-	-	-	0:50:14.895000	0:50:16.222000
 Alter	alt	NOUN	-	0:50:14.895000	0:50:16.222000
 .	-	-	-	0:50:14.895000	0:50:16.222000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:16.222000" end="0:50:21.022000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:16.222000" end="0:50:21.022000" persName="Informant 0371">
 darum	darum	ADV	-	0:50:16.222000	0:50:17.095000
 war	sein	AUX	-	0:50:16.222000	0:50:17.095000
 es	ich	PRON	-	0:50:16.222000	0:50:17.095000
@@ -14857,9 +14861,9 @@ wir	ich	PRON	-	0:50:17.095000	0:50:19.095000
 gemacht	machen	VERB	-	0:50:17.095000	0:50:19.095000
 haben	haben	AUX	-	0:50:17.095000	0:50:19.095000
 bei	bei	ADP	-	0:50:17.095000	0:50:19.095000
-[Peter]N	Peter	PROPN	-	0:50:17.095000	0:50:19.095000
+NAME	NAME	PROPN	-	0:50:17.095000	0:50:19.095000
 und	und	CCONJ	-	0:50:17.095000	0:50:19.095000
-[Kerstin]N	Kerstin	PROPN	-	0:50:17.095000	0:50:19.095000
+NAME	NAME	PROPN	-	0:50:17.095000	0:50:19.095000
 .	-	-	-	0:50:17.095000	0:50:19.095000
 unsere	mein	DET	-	0:50:19.095000	0:50:21.022000
 Partie	Partie	NOUN	-	0:50:19.095000	0:50:21.022000
@@ -14867,24 +14871,24 @@ Sofia	Sofia	PROPN	-	0:50:19.095000	0:50:21.022000
 geflogen	fliegen	VERB	-	0:50:19.095000	0:50:21.022000
 .	-	-	-	0:50:19.095000	0:50:21.022000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:21.022000" end="0:50:21.722000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:21.022000" end="0:50:21.722000" persName="Informant 0373">
 das	der	PRON	-	0:50:21.022000	0:50:21.722000
 ist	sein	AUX	-	0:50:21.022000	0:50:21.722000
 voll	voll	ADP	-	0:50:21.022000	0:50:21.722000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:21.722000" end="0:50:22.482000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:21.722000" end="0:50:22.482000" persName="Informant 0371">
 drei	drei	NUM	-	0:50:21.722000	0:50:22.482000
 Tage	Tag	NOUN	-	0:50:21.722000	0:50:22.482000
 .	-	-	-	0:50:21.722000	0:50:22.482000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:21.722000" end="0:50:22.482000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:21.722000" end="0:50:22.482000" persName="Informant 0373">
 cool	cool	PROPN	-	0:50:21.722000	0:50:22.482000
 ,	-	-	-	0:50:21.722000	0:50:22.482000
 finde	finden	VERB	-	0:50:21.722000	0:50:22.482000
 ich	ich	PRON	-	0:50:21.722000	0:50:22.482000
 .	-	-	-	0:50:21.722000	0:50:22.482000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:22.482000" end="0:50:23.562000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:22.482000" end="0:50:23.562000" persName="Informant 0371">
 ja	ja	PART	-	0:50:22.482000	0:50:22.855000
 ,	-	-	-	0:50:22.482000	0:50:22.855000
 das	der	PRON	-	0:50:22.482000	0:50:22.855000
@@ -14892,15 +14896,15 @@ war	sein	AUX	-	0:50:22.855000	0:50:23.562000
 lustig	lustig	ADJ	-	0:50:22.855000	0:50:23.562000
 .	-	-	-	0:50:22.855000	0:50:23.562000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:22.855000" end="0:50:23.562000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:22.855000" end="0:50:23.562000" persName="Informant 0373">
 zusammen	zusammen	ADV	-	0:50:22.855000	0:50:23.562000
 ,	-	-	-	0:50:22.855000	0:50:23.562000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:23.562000" end="0:50:24.348000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:23.562000" end="0:50:24.348000" persName="Informant 0371">
 ja	ja	PART	-	0:50:23.562000	0:50:24.348000
 .	-	-	-	0:50:23.562000	0:50:24.348000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:23.562000" end="0:50:25.175000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:23.562000" end="0:50:25.175000" persName="Informant 0373">
 das	der	PRON	-	0:50:23.562000	0:50:24.348000
 ist	sein	AUX	-	0:50:23.562000	0:50:24.348000
 sicher	sichern	ADV	-	0:50:23.562000	0:50:24.348000
@@ -14908,26 +14912,26 @@ wild	wild	ADJ	Adj Expr Int Komp WA WBA Wert level posi	0:50:24.348000	0:50:25.17
 lässig	lässig	ADJ	Adj Expr Int Komp WA WBA Wert level posi	0:50:24.348000	0:50:25.175000
 .	-	-	-	0:50:24.348000	0:50:25.175000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:25.175000" end="0:50:29.055000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:25.175000" end="0:50:29.055000" persName="Informant 0371">
 das	der	PRON	-	0:50:25.175000	0:50:26.028000
 war	sein	AUX	-	0:50:25.175000	0:50:26.028000
 lustig	lustig	ADJ	-	0:50:25.175000	0:50:26.028000
 .	-	-	-	0:50:25.175000	0:50:26.028000
 <pause duration="1,3s"/>
 die	der	DET	-	0:50:26.028000	0:50:29.055000
-[Antoinette]N	Antoinette	NOUN	-	0:50:26.028000	0:50:29.055000
+NAME	NAME	NOUN	-	0:50:26.028000	0:50:29.055000
 getroffen	triefen	VERB	-	0:50:26.028000	0:50:29.055000
 ,	-	-	-	0:50:26.028000	0:50:29.055000
 das/	-	-	-	0:50:26.028000	0:50:29.055000
 .	-	-	-	0:50:26.028000	0:50:29.055000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:29.055000" end="0:50:29.648000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:29.055000" end="0:50:29.648000" persName="Informant 0373">
 wen	wer	PRON	-	0:50:29.055000	0:50:29.648000
 ?	-	-	-	0:50:29.055000	0:50:29.648000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:29.648000" end="0:50:33.695000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:29.648000" end="0:50:33.695000" persName="Informant 0371">
 die	der	DET	-	0:50:29.648000	0:50:30.662000
-[Antoinette]N	Antoinette	NOUN	-	0:50:29.648000	0:50:30.662000
+NAME	NAME	NOUN	-	0:50:29.648000	0:50:30.662000
 .	-	-	-	0:50:29.648000	0:50:30.662000
 das	der	PRON	-	0:50:30.662000	0:50:32.302000
 war	sein	AUX	-	0:50:30.662000	0:50:32.302000
@@ -14937,9 +14941,9 @@ in	in	ADP	-	0:50:30.662000	0:50:32.302000
 Sofia	Sofia	PROPN	-	0:50:32.302000	0:50:33.695000
 .	-	-	-	0:50:32.302000	0:50:33.695000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:32.302000" end="0:50:33.695000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:32.302000" end="0:50:33.695000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:33.695000" end="0:50:48.761000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:33.695000" end="0:50:48.761000" persName="Informant 0371">
 ja	ja	PART	-	0:50:33.695000	0:50:35.188000
 wir	ich	PRON	-	0:50:33.695000	0:50:35.188000
 gehen	gehen	VERB	-	0:50:33.695000	0:50:35.188000
@@ -14972,7 +14976,7 @@ zwei	zwei	NUM	-	0:50:42.161000	0:50:44.395000
 daher	daher	ADV	-	0:50:42.161000	0:50:44.395000
 ,	-	-	-	0:50:42.161000	0:50:44.395000
 die	der	DET	-	0:50:44.395000	0:50:47.781000
-[Antoinette]N	Antoinette	NOUN	-	0:50:44.395000	0:50:47.781000
+NAME	NAME	NOUN	-	0:50:44.395000	0:50:47.781000
 war/	-	-	-	0:50:44.395000	0:50:47.781000
 .	-	-	-	0:50:44.395000	0:50:47.781000
 die	der	PRON	-	0:50:44.395000	0:50:47.781000
@@ -14990,11 +14994,11 @@ Tochter	Tochter	NOUN	-	0:50:47.781000	0:50:48.761000
 gell	gell	ADJ	-	0:50:47.781000	0:50:48.761000
 ?	-	-	-	0:50:47.781000	0:50:48.761000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:47.781000" end="0:50:49.508000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:50:47.781000" end="0:50:49.508000" persName="Informant 0373">
 ja	ja	PART	-	0:50:48.761000	0:50:49.508000
 .	-	-	-	0:50:48.761000	0:50:49.508000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:49.508000" end="0:51:02.061000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:50:49.508000" end="0:51:02.061000" persName="Informant 0371">
 ja	ja	PART	-	0:50:49.508000	0:50:51.068000
 passt	passt	PROPN	-	0:50:49.508000	0:50:51.068000
 ,	-	-	-	0:50:49.508000	0:50:51.068000
@@ -15051,9 +15055,9 @@ eh	eh	ADV	-	0:51:00.081000	0:51:02.061000
 dort	dort	ADV	-	0:51:00.081000	0:51:02.061000
 .	-	-	-	0:51:00.081000	0:51:02.061000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:00.081000" end="0:51:02.061000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:00.081000" end="0:51:02.061000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:02.061000" end="0:51:03.781000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:02.061000" end="0:51:03.781000" persName="Informant 0371">
 haben	haben	AUX	-	0:51:02.061000	0:51:03.021000
 wir	ich	PRON	-	0:51:02.061000	0:51:03.021000
 gesagt	sagen	VERB	-	0:51:02.061000	0:51:03.021000
@@ -15063,7 +15067,7 @@ wir	ich	PRON	-	0:51:03.021000	0:51:03.781000
 da/	-	-	-	0:51:03.021000	0:51:03.781000
 .	-	-	-	0:51:03.021000	0:51:03.781000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:03.021000" end="0:51:04.281000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:03.021000" end="0:51:04.281000" persName="Informant 0373">
 da	da	ADV	-	0:51:03.021000	0:51:03.781000
 ist	sein	AUX	-	0:51:03.021000	0:51:03.781000
 es	ich	PRON	-	0:51:03.021000	0:51:03.781000
@@ -15072,7 +15076,7 @@ anders	anders	ADV	-	0:51:03.021000	0:51:03.781000
 lustig	lustig	ADJ	-	0:51:03.781000	0:51:04.281000
 .	-	-	-	0:51:03.781000	0:51:04.281000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:04.281000" end="0:51:13.935000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:04.281000" end="0:51:13.935000" persName="Informant 0371">
 ja	ja	PART	-	0:51:04.281000	0:51:05.415000
 .	-	-	-	0:51:04.281000	0:51:05.415000
 und	und	CCONJ	-	0:51:05.415000	0:51:08.408000
@@ -15114,9 +15118,9 @@ sie	ich	PRON	-	0:51:11.915000	0:51:13.935000
 passt"	passt	PROPN	-	0:51:11.915000	0:51:13.935000
 ,	-	-	-	0:51:11.915000	0:51:13.935000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:11.915000" end="0:51:13.935000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:11.915000" end="0:51:13.935000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:13.935000" end="0:51:21.775000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:13.935000" end="0:51:21.775000" persName="Informant 0371">
 sie	ich	PRON	-	0:51:13.935000	0:51:15.695000
 gehen	gehen	VERB	-	0:51:13.935000	0:51:15.695000
 mit	mit	ADP	-	0:51:13.935000	0:51:15.695000
@@ -15145,11 +15149,11 @@ mit	mit	ADP	-	0:51:21.001000	0:51:21.775000
 uns	sich	PRON	-	0:51:21.001000	0:51:21.775000
 .	-	-	-	0:51:21.001000	0:51:21.775000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:21.001000" end="0:51:21.775000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:21.001000" end="0:51:21.775000" persName="Informant 0373">
 echt	echt	ADJ	-	0:51:21.001000	0:51:21.775000
 ?	-	-	-	0:51:21.001000	0:51:21.775000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:21.775000" end="0:51:24.388000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:21.775000" end="0:51:24.388000" persName="Informant 0371">
 ja	ja	PART	-	0:51:21.775000	0:51:22.215000
 .	-	-	-	0:51:21.775000	0:51:22.215000
 die	der	DET	-	0:51:22.215000	0:51:23.495000
@@ -15160,26 +15164,26 @@ wir	ich	PRON	-	0:51:23.495000	0:51:24.388000
 gehabt	haben	AUX	-	0:51:23.495000	0:51:24.388000
 .	-	-	-	0:51:23.495000	0:51:24.388000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:23.495000" end="0:51:25.468000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:23.495000" end="0:51:25.468000" persName="Informant 0373">
 wer	wer	PRON	-	0:51:23.495000	0:51:24.388000
 ,	-	-	-	0:51:23.495000	0:51:24.388000
 die	der	DET	-	0:51:23.495000	0:51:24.388000
 Tochter	Tochter	NOUN	-	0:51:23.495000	0:51:24.388000
 oder	oder	CCONJ	-	0:51:24.388000	0:51:25.468000
 die	der	DET	-	0:51:24.388000	0:51:25.468000
-[Antoinette]N	Antoinette	NOUN	-	0:51:24.388000	0:51:25.468000
+NAME	NAME	NOUN	-	0:51:24.388000	0:51:25.468000
 ?	-	-	-	0:51:24.388000	0:51:25.468000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:25.468000" end="0:51:26.641000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:25.468000" end="0:51:26.641000" persName="Informant 0371">
 beide	beid	PRON	-	0:51:25.468000	0:51:26.068000
 .	-	-	-	0:51:25.468000	0:51:26.068000
 ja	ja	ADV	-	0:51:26.068000	0:51:26.641000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:26.068000" end="0:51:26.641000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:26.068000" end="0:51:26.641000" persName="Informant 0373">
 beide	beid	PRON	-	0:51:26.068000	0:51:26.641000
 ?	-	-	-	0:51:26.068000	0:51:26.641000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:26.641000" end="0:51:29.341000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:26.641000" end="0:51:29.341000" persName="Informant 0371">
 sicher	sichern	ADJ	-	0:51:26.641000	0:51:27.215000
 .	-	-	-	0:51:26.641000	0:51:27.215000
 und	und	CCONJ	-	0:51:27.215000	0:51:29.341000
@@ -15190,9 +15194,9 @@ mal	mal	ADV	-	0:51:27.215000	0:51:29.341000
 gefragt	fragen	VERB	-	0:51:27.215000	0:51:29.341000
 ,	-	-	-	0:51:27.215000	0:51:29.341000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:27.215000" end="0:51:29.341000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:27.215000" end="0:51:29.341000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:29.341000" end="0:51:33.761000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:29.341000" end="0:51:33.761000" persName="Informant 0371">
 ob	ob	SCONJ	-	0:51:29.341000	0:51:31.541000
 sie	ich	PRON	-	0:51:29.341000	0:51:31.541000
 immer	immer	ADV	-	0:51:29.341000	0:51:31.541000
@@ -15213,9 +15217,9 @@ so	so	ADV	-	0:51:32.115000	0:51:33.761000
 harmlos	harmlos	ADJ	-	0:51:32.115000	0:51:33.761000
 ausgeschaut	ausschauen	VERB	-	0:51:32.115000	0:51:33.761000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:32.115000" end="0:51:33.761000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:32.115000" end="0:51:33.761000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:33.761000" end="0:51:38.835000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:33.761000" end="0:51:38.835000" persName="Informant 0371">
 und	und	CCONJ	-	0:51:33.761000	0:51:34.721000
 so	so	ADV	-	0:51:33.761000	0:51:34.721000
 verloren	verlieren	VERB	-	0:51:33.761000	0:51:34.721000
@@ -15240,7 +15244,7 @@ mit	mit	ADP	-	0:51:37.235000	0:51:38.835000
 der	der	PRON	-	0:51:37.235000	0:51:38.835000
 .	-	-	-	0:51:37.235000	0:51:38.835000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:37.235000" end="0:51:38.835000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:37.235000" end="0:51:38.835000" persName="Informant 0373">
 das	der	PRON	-	0:51:37.235000	0:51:38.835000
 ist	sein	AUX	-	0:51:37.235000	0:51:38.835000
 cool	cool	PROPN	-	0:51:37.235000	0:51:38.835000
@@ -15248,7 +15252,7 @@ cool	cool	PROPN	-	0:51:37.235000	0:51:38.835000
 ja	ja	PART	-	0:51:37.235000	0:51:38.835000
 .	-	-	-	0:51:37.235000	0:51:38.835000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:38.835000" end="0:51:43.455000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:38.835000" end="0:51:43.455000" persName="Informant 0371">
 <pause duration="1,1s"/>
 irgendwo	irgendwo	ADV	-	0:51:38.835000	0:51:43.455000
 herum	herum	ADP	-	0:51:38.835000	0:51:43.455000
@@ -15262,7 +15266,7 @@ alles	alle	PRON	-	0:51:38.835000	0:51:43.455000
 hinein)	hinein	ADV	-	0:51:38.835000	0:51:43.455000
 .	-	-	-	0:51:38.835000	0:51:43.455000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:43.455000" end="0:51:46.055000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:43.455000" end="0:51:46.055000" persName="Informant 0373">
 ja	ja	ADV	-	0:51:43.455000	0:51:44.135000
 wie	wie	ADV	-	0:51:43.455000	0:51:44.135000
 gesagt	sagen	VERB	-	0:51:43.455000	0:51:44.135000
@@ -15273,18 +15277,18 @@ Sachen	Sache	NOUN	-	0:51:44.135000	0:51:46.055000
 sind	sein	AUX	-	0:51:44.135000	0:51:46.055000
 einfach	einfach	ADV	-	0:51:44.135000	0:51:46.055000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:46.055000" end="0:51:47.015000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:46.055000" end="0:51:47.015000" persName="Informant 0371">
 so	so	ADV	-	0:51:46.055000	0:51:47.015000
 ist	sein	AUX	-	0:51:46.055000	0:51:47.015000
 es	ich	PRON	-	0:51:46.055000	0:51:47.015000
 .	-	-	-	0:51:46.055000	0:51:47.015000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:46.055000" end="0:51:47.015000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:46.055000" end="0:51:47.015000" persName="Informant 0373">
 die	der	DET	-	0:51:46.055000	0:51:47.015000
 lustigsten	lustig	NOUN	-	0:51:46.055000	0:51:47.015000
 .	-	-	-	0:51:46.055000	0:51:47.015000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:47.015000" end="0:51:52.595000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:47.015000" end="0:51:52.595000" persName="Informant 0371">
 es	ich	PRON	-	0:51:47.015000	0:51:48.221000
 war	sein	AUX	-	0:51:47.015000	0:51:48.221000
 schon	schon	ADV	-	0:51:47.015000	0:51:48.221000
@@ -15307,11 +15311,11 @@ nur	nur	ADV	-	0:51:51.441000	0:51:52.595000
 (bol/)	bol	PROPN	-	0:51:51.441000	0:51:52.595000
 ja	ja	ADV	-	0:51:51.441000	0:51:52.595000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:51.441000" end="0:51:52.595000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:51.441000" end="0:51:52.595000" persName="Informant 0373">
 echt	echt	ADJ	-	0:51:51.441000	0:51:52.595000
 ?	-	-	-	0:51:51.441000	0:51:52.595000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:52.595000" end="0:51:59.161000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:52.595000" end="0:51:59.161000" persName="Informant 0371">
 sicher	sichern	ADJ	-	0:51:52.595000	0:51:53.295000
 .	-	-	-	0:51:52.595000	0:51:53.295000
 dort	dort	ADV	-	0:51:53.295000	0:51:55.628000
@@ -15334,11 +15338,11 @@ jetzt	jetzt	ADV	-	0:51:57.575000	0:51:58.541000
 nichts/	-	-	-	0:51:58.541000	0:51:59.161000
 .	-	-	-	0:51:58.541000	0:51:59.161000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:58.541000" end="0:51:59.161000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:51:58.541000" end="0:51:59.161000" persName="Informant 0373">
 ja	ja	PART	-	0:51:58.541000	0:51:59.161000
 .	-	-	-	0:51:58.541000	0:51:59.161000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:59.161000" end="0:52:06.708000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:51:59.161000" end="0:52:06.708000" persName="Informant 0371">
 wir	ich	PRON	-	0:51:59.161000	0:52:01.301000
 sind	sein	AUX	-	0:51:59.161000	0:52:01.301000
 eh	eh	ADV	-	0:51:59.161000	0:52:01.301000
@@ -15351,8 +15355,8 @@ gewesen	sein	AUX	-	0:51:59.161000	0:52:01.301000
 wir	ich	PRON	-	0:52:01.301000	0:52:03.168000
 sind	sein	AUX	-	0:52:01.301000	0:52:03.168000
 im	im	ADP	-	0:52:01.301000	0:52:03.168000
-[Radisson	Radisson	NOUN	-	0:52:01.301000	0:52:03.168000
-Blu]S	Blu	PROPN	-	0:52:01.301000	0:52:03.168000
+SONSTIGE	SONSTIGE	NOUN	-	0:52:01.301000	0:52:03.168000
+SONSTIGE	SONSTIGE	PROPN	-	0:52:01.301000	0:52:03.168000
 gewesen	sein	AUX	-	0:52:01.301000	0:52:03.168000
 ,	-	-	-	0:52:01.301000	0:52:03.168000
 und	und	CCONJ	-	0:52:03.168000	0:52:04.875000
@@ -15375,22 +15379,22 @@ aber	aber	CCONJ	-	0:52:05.755000	0:52:06.708000
 sie	ich	PRON	-	0:52:05.755000	0:52:06.708000
 ist	sein	AUX	-	0:52:05.755000	0:52:06.708000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:05.755000" end="0:52:07.455000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:05.755000" end="0:52:07.455000" persName="Informant 0373">
 okay	okay	NOUN	-	0:52:05.755000	0:52:06.708000
 .	-	-	-	0:52:05.755000	0:52:06.708000
 vergiss	vergiss	VERB	-	0:52:06.708000	0:52:07.455000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:07.455000" end="0:52:08.155000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:07.455000" end="0:52:08.155000" persName="Informant 0371">
 ja	ja	ADV	-	0:52:07.455000	0:52:08.155000
 .	-	-	-	0:52:07.455000	0:52:08.155000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:07.455000" end="0:52:09.035000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:07.455000" end="0:52:09.035000" persName="Informant 0373">
 es	ich	PRON	-	0:52:07.455000	0:52:08.155000
 .	-	-	-	0:52:07.455000	0:52:08.155000
 ja	ja	PART	-	0:52:08.155000	0:52:09.035000
 .	-	-	-	0:52:08.155000	0:52:09.035000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:09.035000" end="0:52:15.621000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:09.035000" end="0:52:15.621000" persName="Informant 0371">
 und	und	CCONJ	-	0:52:09.035000	0:52:11.508000
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:52:09.035000	0:52:11.508000
@@ -15414,7 +15418,7 @@ Einkaufszentrum	Einkaufszentrum	NOUN	-	0:52:13.455000	0:52:15.621000
 zugefahren	zugefahren	VERB	-	0:52:13.455000	0:52:15.621000
 ,	-	-	-	0:52:13.455000	0:52:15.621000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:13.455000" end="0:52:20.001000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:13.455000" end="0:52:20.001000" persName="Informant 0373">
 dass	dass	SCONJ	-	0:52:15.621000	0:52:18.095000
 das	der	PRON	-	0:52:15.621000	0:52:18.095000
 immer	immer	ADV	-	0:52:15.621000	0:52:18.095000
@@ -15435,15 +15439,15 @@ keiner	-	-	-	0:52:19.328000	0:52:20.001000
 *weiß*	-	-	-	0:52:19.328000	0:52:20.001000
 ,	-	-	-	0:52:19.328000	0:52:20.001000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:20.001000" end="0:52:21.181000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:20.001000" end="0:52:21.181000" persName="Informant 0371">
 ja	ja	PART	-	0:52:20.001000	0:52:21.181000
 .	-	-	-	0:52:20.001000	0:52:21.181000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:20.001000" end="0:52:21.181000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:20.001000" end="0:52:21.181000" persName="Informant 0373">
 Einkaufszentrum	Einkaufszentrum	NOUN	-	0:52:20.001000	0:52:21.181000
 .	-	-	-	0:52:20.001000	0:52:21.181000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:21.181000" end="0:52:29.388000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:21.181000" end="0:52:29.388000" persName="Informant 0371">
 das	der	PRON	-	0:52:21.181000	0:52:23.455000
 war/	-	-	-	0:52:21.181000	0:52:23.455000
 .	-	-	-	0:52:21.181000	0:52:23.455000
@@ -15479,11 +15483,11 @@ eine	einen	DET	-	0:52:28.381000	0:52:29.388000
 Bowlingbahn	Bowlingbahn	NOUN	-	0:52:28.381000	0:52:29.388000
 ,	-	-	-	0:52:28.381000	0:52:29.388000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:28.381000" end="0:52:29.388000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:28.381000" end="0:52:29.388000" persName="Informant 0373">
 geil	geil	NOUN	-	0:52:28.381000	0:52:29.388000
 .	-	-	-	0:52:28.381000	0:52:29.388000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:29.388000" end="0:52:31.955000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:29.388000" end="0:52:31.955000" persName="Informant 0371">
 und	und	CCONJ	-	0:52:29.388000	0:52:31.955000
 neben	neben	ADP	-	0:52:29.388000	0:52:31.955000
 der	der	DET	-	0:52:29.388000	0:52:31.955000
@@ -15495,11 +15499,11 @@ ein	einen	DET	-	0:52:29.388000	0:52:31.955000
 drei-D-Kino	drei-D-Kino	NOUN	-	0:52:29.388000	0:52:31.955000
 .	-	-	-	0:52:29.388000	0:52:31.955000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:31.955000" end="0:52:32.581000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:31.955000" end="0:52:32.581000" persName="Informant 0373">
 geil	geil	NOUN	-	0:52:31.955000	0:52:32.581000
 .	-	-	-	0:52:31.955000	0:52:32.581000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:32.581000" end="0:52:37.695000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:32.581000" end="0:52:37.695000" persName="Informant 0371">
 und	und	CCONJ	-	0:52:32.581000	0:52:34.415000
 dann	dann	ADV	-	0:52:32.581000	0:52:34.415000
 sind	sein	AUX	-	0:52:32.581000	0:52:34.415000
@@ -15525,9 +15529,9 @@ drei-D-Kino	drei-D-Kino	PROPN	-	0:52:35.981000	0:52:37.695000
 hinein	hinein	ADP	-	0:52:35.981000	0:52:37.695000
 .	-	-	-	0:52:35.981000	0:52:37.695000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:35.981000" end="0:52:37.695000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:35.981000" end="0:52:37.695000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:37.695000" end="0:52:39.228000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:37.695000" end="0:52:39.228000" persName="Informant 0371">
 dann	dann	ADV	-	0:52:37.695000	0:52:39.228000
 sind	sein	AUX	-	0:52:37.695000	0:52:39.228000
 wir	ich	PRON	-	0:52:37.695000	0:52:39.228000
@@ -15538,9 +15542,9 @@ und	und	CCONJ	-	0:52:37.695000	0:52:39.228000
 alles	alle	PRON	-	0:52:37.695000	0:52:39.228000
 ,	-	-	-	0:52:37.695000	0:52:39.228000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:37.695000" end="0:52:39.228000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:37.695000" end="0:52:39.228000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:39.228000" end="0:52:46.421000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:39.228000" end="0:52:46.421000" persName="Informant 0371">
 das	der	PRON	-	0:52:39.228000	0:52:44.361000
 war	sein	AUX	-	0:52:39.228000	0:52:44.361000
 echt/	-	-	-	0:52:39.228000	0:52:44.361000
@@ -15568,20 +15572,20 @@ noch	noch	ADV	-	0:52:44.855000	0:52:45.775000
 gewesen	sein	AUX	-	0:52:45.775000	0:52:46.421000
 .	-	-	-	0:52:45.775000	0:52:46.421000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:45.775000" end="0:52:46.421000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:45.775000" end="0:52:46.421000" persName="Informant 0373">
 auch	auch	ADV	-	0:52:45.775000	0:52:46.421000
 noch	noch	ADV	-	0:52:45.775000	0:52:46.421000
 ?	-	-	-	0:52:45.775000	0:52:46.421000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:46.421000" end="0:52:46.821000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:46.421000" end="0:52:46.821000" persName="Informant 0371">
 ja	ja	PART	-	0:52:46.421000	0:52:46.821000
 .	-	-	-	0:52:46.421000	0:52:46.821000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:46.821000" end="0:52:47.401000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:46.821000" end="0:52:47.401000" persName="Informant 0373">
 geil	geil	NOUN	-	0:52:46.821000	0:52:47.401000
 .	-	-	-	0:52:46.821000	0:52:47.401000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:47.401000" end="0:52:50.721000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:47.401000" end="0:52:50.721000" persName="Informant 0371">
 wirklich	wirklich	ADJ	-	0:52:47.401000	0:52:48.721000
 ,	-	-	-	0:52:47.401000	0:52:48.721000
 das	der	PRON	-	0:52:47.401000	0:52:48.721000
@@ -15595,7 +15599,7 @@ echt	echt	ADJ	-	0:52:48.721000	0:52:50.721000
 lustig	lustig	ADJ	-	0:52:48.721000	0:52:50.721000
 .	-	-	-	0:52:48.721000	0:52:50.721000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:50.721000" end="0:52:53.915000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:52:50.721000" end="0:52:53.915000" persName="Informant 0373">
 <pause duration="1,6s"/>
 nein	nein	PART	-	0:52:50.721000	0:52:53.915000
 sowas	sowas	PROPN	-	0:52:50.721000	0:52:53.915000
@@ -15606,7 +15610,7 @@ cool	cool	PROPN	-	0:52:50.721000	0:52:53.915000
 ja	ja	PART	-	0:52:50.721000	0:52:53.915000
 .	-	-	-	0:52:50.721000	0:52:53.915000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:53.915000" end="0:53:04.481000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:52:53.915000" end="0:53:04.481000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:52:53.915000	0:52:54.795000
 .	-	-	-	0:52:53.915000	0:52:54.795000
 <pause duration="1,4s"/>
@@ -15624,7 +15628,7 @@ es	ich	PRON	-	0:52:57.368000	0:53:00.835000
 hat	haben	AUX	-	0:52:57.368000	0:53:00.835000
 auch	auch	ADV	-	0:52:57.368000	0:53:00.835000
 die	der	DET	-	0:52:57.368000	0:53:00.835000
-[Annika]N	Annika	NOUN	-	0:52:57.368000	0:53:00.835000
+NAME	NAME	NOUN	-	0:52:57.368000	0:53:00.835000
 gesagt	sagen	VERB	-	0:52:57.368000	0:53:00.835000
 ,	-	-	-	0:52:57.368000	0:53:00.835000
 sie	ich	PRON	-	0:53:00.835000	0:53:03.835000
@@ -15636,33 +15640,33 @@ mit	mit	ADP	-	0:53:00.835000	0:53:03.835000
 mit	mit	ADP	-	0:53:00.835000	0:53:03.835000
 so	so	ADV	-	0:53:03.835000	0:53:04.481000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:03.835000" end="0:53:04.481000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:03.835000" end="0:53:04.481000" persName="Informant 0373">
 nein	nein	PART	-	0:53:03.835000	0:53:04.481000
 .	-	-	-	0:53:03.835000	0:53:04.481000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:04.481000" end="0:53:05.461000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:04.481000" end="0:53:05.461000" persName="Informant 0371">
 Scheiß	Scheiß	NOUN	-	0:53:04.481000	0:53:04.861000
 verkaufen	verkaufen	VERB	-	0:53:04.861000	0:53:05.461000
 .	-	-	-	0:53:04.861000	0:53:05.461000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:04.861000" end="0:53:06.435000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:04.861000" end="0:53:06.435000" persName="Informant 0373">
 das	der	DET	-	0:53:04.861000	0:53:05.461000
 das	der	PRON	-	0:53:04.861000	0:53:05.461000
 hat	haben	AUX	-	0:53:05.461000	0:53:06.435000
 die	der	DET	-	0:53:05.461000	0:53:06.435000
-[Chiara]N	Chiara	NOUN	-	0:53:05.461000	0:53:06.435000
+NAME	NAME	NOUN	-	0:53:05.461000	0:53:06.435000
 auch	auch	ADV	-	0:53:05.461000	0:53:06.435000
 gesagt	sagen	VERB	-	0:53:05.461000	0:53:06.435000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:06.435000" end="0:53:06.928000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:06.435000" end="0:53:06.928000" persName="Informant 0371">
 ja	ja	PART	-	0:53:06.435000	0:53:06.928000
 .	-	-	-	0:53:06.435000	0:53:06.928000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:06.435000" end="0:53:06.928000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:06.435000" end="0:53:06.928000" persName="Informant 0373">
 und/	-	-	-	0:53:06.435000	0:53:06.928000
 .	-	-	-	0:53:06.435000	0:53:06.928000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:06.928000" end="0:53:11.501000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:06.928000" end="0:53:11.501000" persName="Informant 0371">
 ähm	ähm	X	-	0:53:06.928000	0:53:09.548000
 wenn	wenn	SCONJ	-	0:53:06.928000	0:53:09.548000
 sie	ich	PRON	-	0:53:06.928000	0:53:09.548000
@@ -15694,11 +15698,11 @@ daheim	daheim	ADV	-	0:53:10.541000	0:53:11.168000
 weil	weil	SCONJ	-	0:53:11.168000	0:53:11.501000
 das	der	PRON	-	0:53:11.168000	0:53:11.501000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:11.168000" end="0:53:11.501000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:11.168000" end="0:53:11.501000" persName="Informant 0373">
 ja	ja	PART	-	0:53:11.168000	0:53:11.501000
 .	-	-	-	0:53:11.168000	0:53:11.501000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:11.501000" end="0:53:17.288000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:11.501000" end="0:53:17.288000" persName="Informant 0371">
 interessiert	interessieren	ADJ	-	0:53:11.501000	0:53:12.375000
 ihr	mein	PRON	-	0:53:11.501000	0:53:12.375000
 nicht	nicht	PART	-	0:53:11.501000	0:53:12.375000
@@ -15710,17 +15714,17 @@ _dings_/	-	-	-	0:53:12.375000	0:53:17.288000
 weil	weil	SCONJ	-	0:53:12.375000	0:53:17.288000
 die	der	DET	-	0:53:12.375000	0:53:17.288000
 <pause duration="1,4s"/>
-[Stanzer	Stanzer	ADJ	-	0:53:12.375000	0:53:17.288000
-Kerstin]N	Kerstin	PROPN	-	0:53:12.375000	0:53:17.288000
+NAME	NAME	ADJ	-	0:53:12.375000	0:53:17.288000
+NAME	NAME	PROPN	-	0:53:12.375000	0:53:17.288000
 ,	-	-	-	0:53:12.375000	0:53:17.288000
 gell	gell	ADJ	-	0:53:12.375000	0:53:17.288000
 ?	-	-	-	0:53:12.375000	0:53:17.288000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:17.288000" end="0:53:18.048000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:17.288000" end="0:53:18.048000" persName="Informant 0373">
 ja	ja	PART	-	0:53:17.288000	0:53:18.048000
 .	-	-	-	0:53:17.288000	0:53:18.048000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:18.048000" end="0:53:20.881000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:18.048000" end="0:53:20.881000" persName="Informant 0371">
 die	der	PRON	-	0:53:18.048000	0:53:20.881000
 war	sein	AUX	-	0:53:18.048000	0:53:20.881000
 <pause duration="1,1s"/>
@@ -15729,16 +15733,16 @@ Mal	Mal	NOUN	-	0:53:18.048000	0:53:20.881000
 poltern	poltern	VERB	-	0:53:18.048000	0:53:20.881000
 .	-	-	-	0:53:18.048000	0:53:20.881000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:20.881000" end="0:53:21.381000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:20.881000" end="0:53:21.381000" persName="Informant 0373">
 fünf	fünf	NUM	-	0:53:20.881000	0:53:21.381000
 Mal	Mal	NOUN	-	0:53:20.881000	0:53:21.381000
 ,	-	-	-	0:53:20.881000	0:53:21.381000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:21.381000" end="0:53:21.768000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:21.381000" end="0:53:21.768000" persName="Informant 0371">
 ja	ja	PART	-	0:53:21.381000	0:53:21.768000
 .	-	-	-	0:53:21.381000	0:53:21.768000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:21.381000" end="0:53:23.355000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:21.381000" end="0:53:23.355000" persName="Informant 0373">
 auf	auf	ADP	-	0:53:21.381000	0:53:21.768000
 der	der	DET	-	0:53:21.381000	0:53:21.768000
 Alm	Alm	NOUN	-	0:53:21.381000	0:53:21.768000
@@ -15752,28 +15756,28 @@ einmal	einmal	ADV	-	0:53:21.768000	0:53:23.355000
 beim	beim	ADP	-	0:53:21.768000	0:53:23.355000
 Teichalmtreffen	Teichalmtreffen	NOUN	-	0:53:21.768000	0:53:23.355000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:23.355000" end="0:53:23.835000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:23.355000" end="0:53:23.835000" persName="Informant 0371">
 ja	ja	PART	-	0:53:23.355000	0:53:23.835000
 ich	ich	PRON	-	0:53:23.355000	0:53:23.835000
 weiß	weiß	VERB	-	0:53:23.355000	0:53:23.835000
 .	-	-	-	0:53:23.355000	0:53:23.835000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:23.355000" end="0:53:23.835000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:23.355000" end="0:53:23.835000" persName="Informant 0373">
 herauf	herauf	ADP	-	0:53:23.355000	0:53:23.835000
 .	-	-	-	0:53:23.355000	0:53:23.835000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:23.835000" end="0:53:25.688000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:23.835000" end="0:53:25.688000" persName="Informant 0371">
 da	da	ADV	-	0:53:23.835000	0:53:25.688000
 war	sein	AUX	-	0:53:23.835000	0:53:25.688000
 sie	ich	PRON	-	0:53:23.835000	0:53:25.688000
 mit	mit	ADP	-	0:53:23.835000	0:53:25.688000
 der	der	DET	-	0:53:23.835000	0:53:25.688000
-[Meli]N	Meli	NOUN	-	0:53:23.835000	0:53:25.688000
+NAME	NAME	NOUN	-	0:53:23.835000	0:53:25.688000
 und	und	CCONJ	-	0:53:23.835000	0:53:25.688000
 mit/	-	-	-	0:53:23.835000	0:53:25.688000
 .	-	-	-	0:53:23.835000	0:53:25.688000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:23.835000" end="0:53:25.688000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:23.835000" end="0:53:25.688000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:53:23.835000	0:53:25.688000
 ,	-	-	-	0:53:23.835000	0:53:25.688000
 die	der	PRON	-	0:53:23.835000	0:53:25.688000
@@ -15783,7 +15787,7 @@ Brett	Brett	NOUN	-	0:53:23.835000	0:53:25.688000
 gehabt	haben	AUX	-	0:53:23.835000	0:53:25.688000
 .	-	-	-	0:53:23.835000	0:53:25.688000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:25.688000" end="0:53:27.615000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:25.688000" end="0:53:27.615000" persName="Informant 0371">
 die	-	-	-	0:53:25.688000	0:53:27.155000
 sind	-	-	-	0:53:25.688000	0:53:27.155000
 mit	-	-	-	0:53:25.688000	0:53:27.155000
@@ -15794,7 +15798,7 @@ herumgefahren	-	-	-	0:53:25.688000	0:53:27.155000
 gell	gell	ADJ	-	0:53:27.155000	0:53:27.615000
 ?	-	-	-	0:53:27.155000	0:53:27.615000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:27.155000" end="0:53:30.095000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:27.155000" end="0:53:30.095000" persName="Informant 0373">
 ja	ja	PART	-	0:53:27.155000	0:53:27.615000
 .	-	-	-	0:53:27.155000	0:53:27.615000
 ja	ja	PART	-	0:53:27.615000	0:53:30.095000
@@ -15809,11 +15813,11 @@ zu	zu	PART	-	0:53:27.615000	0:53:30.095000
 gegangen	gehen	VERB	-	0:53:27.615000	0:53:30.095000
 .	-	-	-	0:53:27.615000	0:53:30.095000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:30.095000" end="0:53:30.368000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:30.095000" end="0:53:30.368000" persName="Informant 0371">
 ja	ja	PART	-	0:53:30.095000	0:53:30.368000
 .	-	-	-	0:53:30.095000	0:53:30.368000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:30.368000" end="0:53:37.888000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:30.368000" end="0:53:37.888000" persName="Informant 0373">
 <pause duration="1,3s"/>
 und	-	-	-	0:53:32.368000	0:53:34.221000
 *weißt*	-	-	-	0:53:32.368000	0:53:34.221000
@@ -15841,7 +15845,7 @@ dort	-	-	-	0:53:36.688000	0:53:37.888000
 so	-	-	-	0:53:36.688000	0:53:37.888000
 .	-	-	-	0:53:36.688000	0:53:37.888000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:37.888000" end="0:53:40.621000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:53:37.888000" end="0:53:40.621000" persName="Informant 0371">
 das	der	PRON	-	0:53:37.888000	0:53:39.341000
 war	sein	AUX	-	0:53:37.888000	0:53:39.341000
 aber	aber	ADV	-	0:53:37.888000	0:53:39.341000
@@ -15856,7 +15860,7 @@ am	am	ADP	-	0:53:39.341000	0:53:40.621000
 Samstag	Samstag	NOUN	-	0:53:39.341000	0:53:40.621000
 ?	-	-	-	0:53:39.341000	0:53:40.621000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:39.341000" end="0:54:00.648000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:53:39.341000" end="0:54:00.648000" persName="Informant 0373">
 beim	beim	ADP	-	0:53:39.341000	0:53:40.621000
 Aufbauen	Aufbauen	NOUN	-	0:53:39.341000	0:53:40.621000
 ,	-	-	-	0:53:39.341000	0:53:40.621000
@@ -15894,7 +15898,7 @@ geholt	-	-	-	0:53:47.701000	0:53:49.421000
 hat	-	-	-	0:53:47.701000	0:53:49.421000
 .	-	-	-	0:53:47.701000	0:53:49.421000
 die	der	DET	-	0:53:49.421000	0:53:50.561000
-[Meli]N	Meli	NOUN	-	0:53:49.421000	0:53:50.561000
+NAME	NAME	NOUN	-	0:53:49.421000	0:53:50.561000
 ,	-	-	-	0:53:49.421000	0:53:50.561000
 ich	ich	PRON	-	0:53:49.421000	0:53:50.561000
 habe	habe	AUX	-	0:53:49.421000	0:53:50.561000
@@ -15910,7 +15914,7 @@ gell	gell	ADJ	-	0:53:50.561000	0:53:51.935000
 ,	-	-	-	0:53:50.561000	0:53:51.935000
 und	und	CCONJ	-	0:53:51.935000	0:53:54.595000
 die	der	DET	-	0:53:51.935000	0:53:54.595000
-[Meli]N	Meli	NOUN	-	0:53:51.935000	0:53:54.595000
+NAME	NAME	NOUN	-	0:53:51.935000	0:53:54.595000
 ist	sein	AUX	-	0:53:51.935000	0:53:54.595000
 schon	schon	ADV	-	0:53:51.935000	0:53:54.595000
 so	so	ADV	-	0:53:51.935000	0:53:54.595000
@@ -15949,19 +15953,19 @@ holt	holen	VERB	-	0:53:59.215000	0:54:00.648000
 uns"	sich	PRON	-	0:53:59.215000	0:54:00.648000
 .	-	-	-	0:53:59.215000	0:54:00.648000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:00.648000" end="0:54:02.161000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:00.648000" end="0:54:02.161000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:00.648000" end="0:54:02.161000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:00.648000" end="0:54:02.161000" persName="Informant 0373">
 "was	was	PRON	-	0:54:00.648000	0:54:02.161000
 für	für	ADP	-	0:54:00.648000	0:54:02.161000
 ein	einen	DET	-	0:54:00.648000	0:54:02.161000
 Wirt	Wirt	NOUN	-	0:54:00.648000	0:54:02.161000
 ,	-	-	-	0:54:00.648000	0:54:02.161000
-[Meli]N?"	-	-	-	0:54:00.648000	0:54:02.161000
+NAME	NAME	-	-	0:54:00.648000	0:54:02.161000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:02.161000" end="0:54:04.648000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:02.161000" end="0:54:04.648000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:02.161000" end="0:54:06.141000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:02.161000" end="0:54:06.141000" persName="Informant 0373">
 "der	-	-	-	0:54:02.161000	0:54:04.648000
 Wirt	-	-	-	0:54:02.161000	0:54:04.648000
 ,	-	-	-	0:54:02.161000	0:54:04.648000
@@ -15969,16 +15973,16 @@ der	der	PRON	-	0:54:02.161000	0:54:04.648000
 holt	holen	VERB	-	0:54:02.161000	0:54:04.648000
 uns	sich	PRON	-	0:54:02.161000	0:54:04.648000
 ."	-	-	-	0:54:02.161000	0:54:04.648000
-"[Meli]N	Meli	PROPN	-	0:54:04.648000	0:54:06.141000
+NAME	NAME	PROPN	-	0:54:04.648000	0:54:06.141000
 ,	-	-	-	0:54:04.648000	0:54:06.141000
 geh	geh	X	-	0:54:04.648000	0:54:06.141000
 wieder	wieder	ADV	-	0:54:04.648000	0:54:06.141000
 weiter	weit	ADP	-	0:54:04.648000	0:54:06.141000
 ,	-	-	-	0:54:04.648000	0:54:06.141000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:06.141000" end="0:54:07.501000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:06.141000" end="0:54:07.501000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:06.141000" end="0:54:09.728000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:06.141000" end="0:54:09.728000" persName="Informant 0373">
 deine	mein	DET	-	0:54:06.141000	0:54:07.501000
 Menschen	Mensch	NOUN	-	0:54:06.141000	0:54:07.501000
 gehen	gehen	VERB	-	0:54:06.141000	0:54:07.501000
@@ -15995,9 +15999,9 @@ laufen	-	-	-	0:54:08.348000	0:54:09.728000
 gesehen	-	-	-	0:54:08.348000	0:54:09.728000
 ,	-	-	-	0:54:08.348000	0:54:09.728000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:09.728000" end="0:54:11.208000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:09.728000" end="0:54:11.208000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:09.728000" end="0:54:17.375000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:09.728000" end="0:54:17.375000" persName="Informant 0373">
 das	der	PRON	-	0:54:09.728000	0:54:11.208000
 war	sein	AUX	-	0:54:09.728000	0:54:11.208000
 so	so	ADV	-	0:54:09.728000	0:54:11.208000
@@ -16031,17 +16035,17 @@ hat	haben	AUX	-	0:54:16.641000	0:54:17.375000
 sie	ich	PRON	-	0:54:16.641000	0:54:17.375000
 mit	mit	ADP	-	0:54:16.641000	0:54:17.375000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:17.375000" end="0:54:18.441000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:17.375000" end="0:54:18.441000" persName="Informant 0371">
 nein	nein	PART	-	0:54:17.375000	0:54:18.441000
 .	-	-	-	0:54:17.375000	0:54:18.441000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:17.375000" end="0:54:19.201000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:17.375000" end="0:54:19.201000" persName="Informant 0373">
 eingeladen	einladen	VERB	-	0:54:17.375000	0:54:18.441000
 .	-	-	-	0:54:17.375000	0:54:18.441000
 ja	ja	PART	-	0:54:18.441000	0:54:19.201000
 .	-	-	-	0:54:18.441000	0:54:19.201000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:19.201000" end="0:54:22.321000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:19.201000" end="0:54:22.321000" persName="Informant 0371">
 geil	geil	NOUN	-	0:54:19.201000	0:54:19.721000
 .	-	-	-	0:54:19.201000	0:54:19.721000
 ja	ja	ADV	-	0:54:19.721000	0:54:22.321000
@@ -16053,19 +16057,19 @@ irgendwo	irgendwo	ADV	-	0:54:19.721000	0:54:22.321000
 was	was	PRON	-	0:54:19.721000	0:54:22.321000
 ausgemacht	ausmachen	VERB	-	0:54:19.721000	0:54:22.321000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:19.721000" end="0:54:22.321000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:19.721000" end="0:54:22.321000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:22.321000" end="0:54:23.128000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:22.321000" end="0:54:23.128000" persName="Informant 0371">
 haben	haben	AUX	-	0:54:22.321000	0:54:23.128000
 zum	zum	ADP	-	0:54:22.321000	0:54:23.128000
 Essen	Essen	NOUN	-	0:54:22.321000	0:54:23.128000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:22.321000" end="0:54:23.128000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:22.321000" end="0:54:23.128000" persName="Informant 0373">
 ja	ja	ADV	-	0:54:22.321000	0:54:23.128000
 sicher	sichern	ADJ	-	0:54:22.321000	0:54:23.128000
 .	-	-	-	0:54:22.321000	0:54:23.128000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:23.128000" end="0:54:26.834000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:23.128000" end="0:54:26.834000" persName="Informant 0371">
 oder	oder	CCONJ	-	0:54:23.128000	0:54:24.294000
 so	so	ADV	-	0:54:23.128000	0:54:24.294000
 .	-	-	-	0:54:23.128000	0:54:24.294000
@@ -16080,7 +16084,7 @@ und	und	CCONJ	-	0:54:24.741000	0:54:26.834000
 dann/	-	-	-	0:54:24.741000	0:54:26.834000
 .	-	-	-	0:54:24.741000	0:54:26.834000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:24.741000" end="0:54:28.901000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:24.741000" end="0:54:28.901000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:54:24.741000	0:54:26.834000
 sie	ich	PRON	-	0:54:24.741000	0:54:26.834000
 hat	haben	AUX	-	0:54:24.741000	0:54:26.834000
@@ -16096,7 +16100,7 @@ Wirt	-	-	-	0:54:26.834000	0:54:28.901000
 meinen	-	-	-	0:54:26.834000	0:54:28.901000
 .	-	-	-	0:54:26.834000	0:54:28.901000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:28.901000" end="0:54:31.501000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:28.901000" end="0:54:31.501000" persName="Informant 0371">
 <pause duration="0,9s"/>
 der	der	DET	-	0:54:28.901000	0:54:31.501000
 Klassiker	Klassiker	NOUN	-	0:54:28.901000	0:54:31.501000
@@ -16104,10 +16108,10 @@ Klassiker	Klassiker	NOUN	-	0:54:28.901000	0:54:31.501000
 oder	oder	CCONJ	-	0:54:28.901000	0:54:31.501000
 ?	-	-	-	0:54:28.901000	0:54:31.501000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:28.901000" end="0:54:31.501000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:28.901000" end="0:54:31.501000" persName="Informant 0373">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:31.501000" end="0:54:37.128000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:31.501000" end="0:54:37.128000" persName="Informant 0371">
 ja	ja	PART	-	0:54:31.501000	0:54:32.028000
 .	-	-	-	0:54:31.501000	0:54:32.028000
 <pause duration="2,1s"/>
@@ -16126,7 +16130,7 @@ einreden	einreden	VERB	-	0:54:35.874000	0:54:37.128000
 aber/	-	-	-	0:54:35.874000	0:54:37.128000
 .	-	-	-	0:54:35.874000	0:54:37.128000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:35.874000" end="0:54:41.281000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:35.874000" end="0:54:41.281000" persName="Informant 0373">
 das	der	DET	-	0:54:35.874000	0:54:37.128000
 passt	passt	PROPN	-	0:54:35.874000	0:54:37.128000
 ,	-	-	-	0:54:35.874000	0:54:37.128000
@@ -16146,7 +16150,7 @@ und	und	CCONJ	-	0:54:39.254000	0:54:41.281000
 fertig	fertigen	ADJ	-	0:54:39.254000	0:54:41.281000
 .	-	-	-	0:54:39.254000	0:54:41.281000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:41.281000" end="0:54:44.854000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:41.281000" end="0:54:44.854000" persName="Informant 0371">
 das	der	PRON	-	0:54:41.281000	0:54:42.961000
 war	sein	AUX	-	0:54:41.281000	0:54:42.961000
 eh	eh	ADV	-	0:54:41.281000	0:54:42.961000
@@ -16162,22 +16166,22 @@ eine	einen	DET	-	0:54:42.961000	0:54:44.854000
 Polterpartie	Polterpartie	NOUN	-	0:54:42.961000	0:54:44.854000
 .	-	-	-	0:54:42.961000	0:54:44.854000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:44.854000" end="0:54:46.068000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:44.854000" end="0:54:46.068000" persName="Informant 0373">
 war	sein	AUX	-	0:54:44.854000	0:54:46.068000
 beim	beim	ADP	-	0:54:44.854000	0:54:46.068000
 Ostertanz	Ostertanz	NOUN	-	0:54:44.854000	0:54:46.068000
 ?	-	-	-	0:54:44.854000	0:54:46.068000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:46.068000" end="0:54:46.794000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:46.068000" end="0:54:46.794000" persName="Informant 0371">
 mhm	mhm	PROPN	-	0:54:46.068000	0:54:46.794000
 .	-	-	-	0:54:46.068000	0:54:46.794000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:46.794000" end="0:54:47.508000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:46.794000" end="0:54:47.508000" persName="Informant 0373">
 wer	wer	PRON	-	0:54:46.794000	0:54:47.508000
 denn	denn	ADV	-	0:54:46.794000	0:54:47.508000
 ?	-	-	-	0:54:46.794000	0:54:47.508000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:47.508000" end="0:54:49.174000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:47.508000" end="0:54:49.174000" persName="Informant 0371">
 ich	ich	PRON	-	0:54:47.508000	0:54:48.308000
 weiß	weiß	VERB	-	0:54:47.508000	0:54:48.308000
 nicht	nicht	PART	-	0:54:47.508000	0:54:48.308000
@@ -16189,7 +16193,7 @@ nicht	nicht	PART	-	0:54:48.308000	0:54:49.174000
 gekannt	kennen	VERB	-	0:54:48.308000	0:54:49.174000
 .	-	-	-	0:54:48.308000	0:54:49.174000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:49.174000" end="0:54:53.081000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:49.174000" end="0:54:53.081000" persName="Informant 0373">
 <pause duration="1,2s"/>
 ja	-	-	-	0:54:49.174000	0:54:51.294000
 aber	-	-	-	0:54:49.174000	0:54:51.294000
@@ -16208,11 +16212,11 @@ nicht	nicht	PART	-	0:54:51.294000	0:54:52.801000
 zu	zu	ADP	-	0:54:52.801000	0:54:53.081000
 einem	einer	DET	-	0:54:52.801000	0:54:53.081000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:53.081000" end="0:54:54.054000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:54:53.081000" end="0:54:54.054000" persName="Informant 0371">
 nein	nein	PART	-	0:54:53.081000	0:54:54.054000
 .	-	-	-	0:54:53.081000	0:54:54.054000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:53.081000" end="0:55:00.594000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:54:53.081000" end="0:55:00.594000" persName="Informant 0373">
 Festel	Festel	NOUN	-	0:54:53.081000	0:54:54.054000
 poltern	poltern	VERB	-	0:54:53.081000	0:54:54.054000
 gehen	gehen	VERB	-	0:54:53.081000	0:54:54.054000
@@ -16233,36 +16237,36 @@ aber	aber	CCONJ	-	0:54:57.461000	0:55:00.594000
 ja	ja	ADV	-	0:54:57.461000	0:55:00.594000
 .	-	-	-	0:54:57.461000	0:55:00.594000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:00.594000" end="0:55:02.361000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:00.594000" end="0:55:02.361000" persName="Informant 0371">
 irgendeine	irgendeine	DET	-	0:55:00.594000	0:55:02.361000
 Almhütte	Almhütte	NOUN	-	0:55:00.594000	0:55:02.361000
 oder	oder	CCONJ	-	0:55:00.594000	0:55:02.361000
 irgendwas	irgendwas	PRON	-	0:55:00.594000	0:55:02.361000
 .	-	-	-	0:55:00.594000	0:55:02.361000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:02.361000" end="0:55:03.181000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:02.361000" end="0:55:03.181000" persName="Informant 0373">
 mhm	mhm	PROPN	-	0:55:02.361000	0:55:03.181000
 .	-	-	-	0:55:02.361000	0:55:03.181000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:03.181000" end="0:55:04.128000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:03.181000" end="0:55:04.128000" persName="Informant 0371">
 grillen	grillen	VERB	-	0:55:03.181000	0:55:04.128000
 .	-	-	-	0:55:03.181000	0:55:04.128000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:03.181000" end="0:55:04.128000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:03.181000" end="0:55:04.128000" persName="Informant 0373">
 wir	ich	PRON	-	0:55:03.181000	0:55:04.128000
 man	man	PRON	-	0:55:03.181000	0:55:04.128000
 schon	schon	ADV	-	0:55:03.181000	0:55:04.128000
 sehen	sehen	VERB	-	0:55:03.181000	0:55:04.128000
 .	-	-	-	0:55:03.181000	0:55:04.128000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:04.128000" end="0:55:07.674000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:04.128000" end="0:55:07.674000" persName="Informant 0371">
 <pause duration="2,2s"/>
 wird	werden	AUX	-	0:55:04.128000	0:55:07.674000
 schon	schon	ADV	-	0:55:04.128000	0:55:07.674000
 geil	geil	NOUN	-	0:55:04.128000	0:55:07.674000
 .	-	-	-	0:55:04.128000	0:55:07.674000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:04.128000" end="0:55:07.674000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:04.128000" end="0:55:07.674000" persName="Informant 0373">
 <pause duration="2,2s"/>
 was	was	PRON	-	0:55:04.128000	0:55:07.674000
 gl/	-	-	-	0:55:04.128000	0:55:07.674000
@@ -16270,7 +16274,7 @@ was	was	PRON	-	0:55:04.128000	0:55:07.674000
 Cooles	Cooles	NOUN	-	0:55:04.128000	0:55:07.674000
 .	-	-	-	0:55:04.128000	0:55:07.674000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:07.674000" end="0:55:14.848000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:07.674000" end="0:55:14.848000" persName="Informant 0371">
 <pause duration="1,6s"/>
 auf	auf	ADP	-	0:55:07.674000	0:55:10.141000
 alle	all	DET	-	0:55:07.674000	0:55:10.141000
@@ -16286,17 +16290,17 @@ für	für	ADP	-	0:55:13.928000	0:55:14.848000
 die	der	DET	-	0:55:13.928000	0:55:14.848000
 letzten	letzt	ADJ	-	0:55:13.928000	0:55:14.848000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:13.928000" end="0:55:14.848000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:13.928000" end="0:55:14.848000" persName="Informant 0373">
 ähm	ähm	X	-	0:55:13.928000	0:55:14.848000
 ja	ja	PART	-	0:55:13.928000	0:55:14.848000
 .	-	-	-	0:55:13.928000	0:55:14.848000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:14.848000" end="0:55:15.594000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:14.848000" end="0:55:15.594000" persName="Informant 0371">
 fünf	fünf	NUM	-	0:55:14.848000	0:55:15.594000
 Minuten	Minute	NOUN	-	0:55:14.848000	0:55:15.594000
 .	-	-	-	0:55:14.848000	0:55:15.594000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:15.594000" end="0:55:16.761000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:15.594000" end="0:55:16.761000" persName="Informant 0373">
 jetzt	jetzt	ADV	-	0:55:15.594000	0:55:16.761000
 haben	haben	AUX	-	0:55:15.594000	0:55:16.761000
 wir	ich	PRON	-	0:55:15.594000	0:55:16.761000
@@ -16307,7 +16311,7 @@ Haufen	Haufen	NOUN	-	0:55:15.594000	0:55:16.761000
 geredet	reden	VERB	-	0:55:15.594000	0:55:16.761000
 .	-	-	-	0:55:15.594000	0:55:16.761000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:16.761000" end="0:55:18.541000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:16.761000" end="0:55:18.541000" persName="Informant 0371">
 ja	ja	PART	-	0:55:16.761000	0:55:18.541000
 bist	sein	AUX	-	0:55:16.761000	0:55:18.541000
 du	du	PRON	-	0:55:16.761000	0:55:18.541000
@@ -16316,17 +16320,17 @@ narrisch	narrisch	ADJ	-	0:55:16.761000	0:55:18.541000
 ja	ja	PART	-	0:55:16.761000	0:55:18.541000
 .	-	-	-	0:55:16.761000	0:55:18.541000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:16.761000" end="0:55:18.541000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:16.761000" end="0:55:18.541000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:18.541000" end="0:55:19.421000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:18.541000" end="0:55:19.421000" persName="Informant 0371">
 wild	wild	ADJ	Adj Expr Int Komp WA WBA Wert fall neut	0:55:18.541000	0:55:19.421000
 viel	viel	PRON	Adj Expr Int Komp WA WBA Wert fall neut	0:55:18.541000	0:55:19.421000
 .	-	-	-	0:55:18.541000	0:55:19.421000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:19.421000" end="0:55:20.368000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:19.421000" end="0:55:20.368000" persName="Informant 0373">
 Vereine	Verein	NOUN	-	0:55:19.421000	0:55:20.368000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:20.368000" end="0:55:21.641000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:20.368000" end="0:55:21.641000" persName="Informant 0371">
 Vereine	Verein	NOUN	-	0:55:20.368000	0:55:21.641000
 haben	haben	AUX	-	0:55:20.368000	0:55:21.641000
 wir	ich	PRON	-	0:55:20.368000	0:55:21.641000
@@ -16334,13 +16338,13 @@ auch	auch	ADV	-	0:55:20.368000	0:55:21.641000
 schon	schon	ADV	-	0:55:20.368000	0:55:21.641000
 g/	-	-	-	0:55:20.368000	0:55:21.641000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:20.368000" end="0:55:21.641000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:20.368000" end="0:55:21.641000" persName="Informant 0373">
 am	am	ADP	-	0:55:20.368000	0:55:21.641000
 Ort	Ort	NOUN	-	0:55:20.368000	0:55:21.641000
 früher	früh	ADJ	-	0:55:20.368000	0:55:21.641000
 .	-	-	-	0:55:20.368000	0:55:21.641000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:21.641000" end="0:55:23.741000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:21.641000" end="0:55:23.741000" persName="Informant 0371">
 am	am	PART	-	0:55:21.641000	0:55:23.188000
 O/	-	-	-	0:55:21.641000	0:55:23.188000
 a/	-	-	-	0:55:21.641000	0:55:23.188000
@@ -16356,10 +16360,10 @@ die	der	PRON	-	0:55:23.188000	0:55:23.741000
 tun/	-	-	-	0:55:23.188000	0:55:23.741000
 .	-	-	-	0:55:23.188000	0:55:23.741000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:23.188000" end="0:55:23.741000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:23.188000" end="0:55:23.741000" persName="Informant 0373">
 ähm	ähm	X	-	0:55:23.188000	0:55:23.741000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:23.741000" end="0:55:25.634000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:23.741000" end="0:55:25.634000" persName="Informant 0371">
 d/	-	-	-	0:55:23.741000	0:55:25.634000
 d/	-	-	-	0:55:23.741000	0:55:25.634000
 das	der	DET	-	0:55:23.741000	0:55:25.634000
@@ -16367,7 +16371,7 @@ passt	passt	PROPN	-	0:55:23.741000	0:55:25.634000
 schon	schon	ADV	-	0:55:23.741000	0:55:25.634000
 .	-	-	-	0:55:23.741000	0:55:25.634000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:23.741000" end="0:55:26.841000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:23.741000" end="0:55:26.841000" persName="Informant 0373">
 ja	ja	PART	-	0:55:23.741000	0:55:25.634000
 ,	-	-	-	0:55:23.741000	0:55:25.634000
 war	sein	AUX	-	0:55:23.741000	0:55:25.634000
@@ -16375,7 +16379,7 @@ eh	eh	ADV	-	0:55:23.741000	0:55:25.634000
 gleich	gleichen	ADV	-	0:55:23.741000	0:55:25.634000
 .	-	-	-	0:55:23.741000	0:55:25.634000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:26.841000" end="0:55:31.474000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:26.841000" end="0:55:31.474000" persName="Informant 0371">
 besonders	besonders	ADV	-	0:55:26.841000	0:55:28.848000
 ärgerlichen	ärgerlich	ADJ	-	0:55:26.841000	0:55:28.848000
 Erlebnis	Erlebnis	NOUN	-	0:55:26.841000	0:55:28.848000
@@ -16387,12 +16391,12 @@ Star	Star	PROPN	-	0:55:29.894000	0:55:31.474000
 Wars	Wars	PROPN	-	0:55:29.894000	0:55:31.474000
 .	-	-	-	0:55:29.894000	0:55:31.474000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:31.474000" end="0:55:32.961000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:31.474000" end="0:55:32.961000" persName="Informant 0373">
 Star	Star	PROPN	-	0:55:31.474000	0:55:32.961000
 Wars	Wars	PROPN	-	0:55:31.474000	0:55:32.961000
 .	-	-	-	0:55:31.474000	0:55:32.961000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:32.961000" end="0:55:34.301000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:32.961000" end="0:55:34.301000" persName="Informant 0371">
 warte	warten	VERB	-	0:55:32.961000	0:55:33.781000
 ,	-	-	-	0:55:32.961000	0:55:33.781000
 was	was	PRON	-	0:55:32.961000	0:55:33.781000
@@ -16400,7 +16404,7 @@ kommt	kommen	VERB	-	0:55:33.781000	0:55:34.301000
 jetzt	jetzt	ADV	-	0:55:33.781000	0:55:34.301000
 ?	-	-	-	0:55:33.781000	0:55:34.301000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:33.781000" end="0:55:34.874000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:33.781000" end="0:55:34.874000" persName="Informant 0373">
 wann	wann	ADV	-	0:55:33.781000	0:55:34.301000
 kommt	kommen	VERB	-	0:55:33.781000	0:55:34.301000
 den	der	PRON	-	0:55:33.781000	0:55:34.301000
@@ -16408,7 +16412,7 @@ der	der	DET	-	0:55:34.301000	0:55:34.874000
 neue	neue	ADJ	-	0:55:34.301000	0:55:34.874000
 ?	-	-	-	0:55:34.301000	0:55:34.874000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:34.874000" end="0:55:36.748000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:34.874000" end="0:55:36.748000" persName="Informant 0371">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:55:34.874000	0:55:36.748000
 der	der	PRON	-	0:55:34.874000	0:55:36.748000
@@ -16418,7 +16422,7 @@ ein	einen	DET	-	0:55:34.874000	0:55:36.748000
 wenig	wenig	PRON	-	0:55:34.874000	0:55:36.748000
 .	-	-	-	0:55:34.874000	0:55:36.748000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:36.748000" end="0:55:37.828000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:36.748000" end="0:55:37.828000" persName="Informant 0373">
 dauert	dauern	VERB	-	0:55:36.748000	0:55:37.828000
 noch	noch	ADV	-	0:55:36.748000	0:55:37.828000
 ewig	ewig	ADJ	-	0:55:36.748000	0:55:37.828000
@@ -16426,7 +16430,7 @@ ewig	ewig	ADJ	-	0:55:36.748000	0:55:37.828000
 oder	oder	CCONJ	-	0:55:36.748000	0:55:37.828000
 .	-	-	-	0:55:36.748000	0:55:37.828000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:37.828000" end="0:55:40.601000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:37.828000" end="0:55:40.601000" persName="Informant 0371">
 aber	aber	CCONJ	-	0:55:37.828000	0:55:39.301000
 jetzt	jetzt	ADV	-	0:55:37.828000	0:55:39.301000
 kommt	kommen	VERB	-	0:55:37.828000	0:55:39.301000
@@ -16442,13 +16446,13 @@ mehr	mehr	ADV	-	0:55:39.301000	0:55:40.601000
 welcher	welch	DET	-	0:55:39.301000	0:55:40.601000
 .	-	-	-	0:55:39.301000	0:55:40.601000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:40.601000" end="0:55:42.234000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:40.601000" end="0:55:42.234000" persName="Informant 0373">
 wer	wer	PRON	-	0:55:40.601000	0:55:42.234000
 spielt	spielen	VERB	-	0:55:40.601000	0:55:42.234000
 mit	mit	ADP	-	0:55:40.601000	0:55:42.234000
 ?	-	-	-	0:55:40.601000	0:55:42.234000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:42.234000" end="0:55:43.114000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:42.234000" end="0:55:43.114000" persName="Informant 0371">
 ich/	-	-	-	0:55:42.234000	0:55:43.114000
 .	-	-	-	0:55:42.234000	0:55:43.114000
 weiß	weiß	VERB	-	0:55:42.234000	0:55:43.114000
@@ -16458,7 +16462,7 @@ nicht	nicht	PART	-	0:55:42.234000	0:55:43.114000
 mehr	mehr	ADV	-	0:55:42.234000	0:55:43.114000
 .	-	-	-	0:55:42.234000	0:55:43.114000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:43.114000" end="0:55:47.368000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:43.114000" end="0:55:47.368000" persName="Informant 0373">
 <pause duration="1,6s"/>
 okay	okay	NOUN	-	0:55:43.114000	0:55:45.941000
 .	-	-	-	0:55:43.114000	0:55:45.941000
@@ -16470,7 +16474,7 @@ nicht	nicht	PART	-	0:55:45.941000	0:55:47.368000
 weiter	weit	ADP	-	0:55:45.941000	0:55:47.368000
 .	-	-	-	0:55:45.941000	0:55:47.368000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:47.368000" end="0:55:50.688000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:47.368000" end="0:55:50.688000" persName="Informant 0371">
 das	der	PRON	-	0:55:47.368000	0:55:49.108000
 bringt	bringen	VERB	-	0:55:47.368000	0:55:49.108000
 uns	sich	PRON	-	0:55:47.368000	0:55:49.108000
@@ -16487,7 +16491,7 @@ der	der	DET	-	0:55:49.108000	0:55:50.688000
 Scheißfilm	Scheißfilm	NOUN	-	0:55:49.108000	0:55:50.688000
 ?	-	-	-	0:55:49.108000	0:55:50.688000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:50.688000" end="0:55:54.381000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:50.688000" end="0:55:54.381000" persName="Informant 0373">
 <pause duration="2,4s"/>
 kommt	kommen	VERB	-	0:55:50.688000	0:55:54.381000
 der	der	PRON	-	0:55:50.688000	0:55:54.381000
@@ -16496,7 +16500,7 @@ gleich	gleichen	ADV	-	0:55:50.688000	0:55:54.381000
 heraus	heraus	ADP	-	0:55:50.688000	0:55:54.381000
 ?	-	-	-	0:55:50.688000	0:55:54.381000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:54.381000" end="0:55:57.008000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:54.381000" end="0:55:57.008000" persName="Informant 0371">
 <pause duration="0,9s"/>
 der	der	PRON	-	0:55:54.381000	0:55:55.974000
 ist	sein	AUX	-	0:55:54.381000	0:55:55.974000
@@ -16509,12 +16513,12 @@ der	-	-	-	0:55:55.974000	0:55:57.008000
 _dings_	-	-	-	0:55:55.974000	0:55:57.008000
 .	-	-	-	0:55:55.974000	0:55:57.008000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:57.008000" end="0:55:58.021000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:57.008000" end="0:55:58.021000" persName="Informant 0373">
 vom	vom	ADP	-	0:55:57.008000	0:55:58.021000
 Dwayne	Dwayne	NOUN	-	0:55:57.008000	0:55:58.021000
 ?	-	-	-	0:55:57.008000	0:55:58.021000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:58.021000" end="0:56:01.954000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:55:58.021000" end="0:56:01.954000" persName="Informant 0371">
 nein	nein	PART	-	0:55:58.021000	0:55:59.234000
 .	-	-	-	0:55:58.021000	0:55:59.234000
 <pause duration="2,0s"/>
@@ -16522,12 +16526,12 @@ von/	-	-	-	0:55:59.234000	0:56:01.954000
 .	-	-	-	0:55:59.234000	0:56:01.954000
 der	der	DET	-	0:55:59.234000	0:56:01.954000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:59.234000" end="0:56:01.954000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:55:59.234000" end="0:56:01.954000" persName="Informant 0373">
 <pause duration="2,0s"/>
 (ähm)	ähm	PROPN	-	0:55:59.234000	0:56:01.954000
 .	-	-	-	0:55:59.234000	0:56:01.954000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:01.954000" end="0:56:06.461000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:01.954000" end="0:56:06.461000" persName="Informant 0371">
 der	der	PRON	-	0:56:01.954000	0:56:05.328000
 der	der	DET	-	0:56:01.954000	0:56:05.328000
 ähm	ähm	PROPN	-	0:56:01.954000	0:56:05.328000
@@ -16541,11 +16545,11 @@ schon	-	-	-	0:56:05.328000	0:56:06.461000
 gesehen	-	-	-	0:56:05.328000	0:56:06.461000
 ?	-	-	-	0:56:05.328000	0:56:06.461000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:06.461000" end="0:56:06.788000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:06.461000" end="0:56:06.788000" persName="Informant 0373">
 nein	nein	PART	-	0:56:06.461000	0:56:06.788000
 .	-	-	-	0:56:06.461000	0:56:06.788000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:06.788000" end="0:56:08.728000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:06.788000" end="0:56:08.728000" persName="Informant 0371">
 den	der	DET	-	0:56:06.788000	0:56:07.541000
 Trailer	Trailer	NOUN	-	0:56:06.788000	0:56:07.541000
 ?	-	-	-	0:56:06.788000	0:56:07.541000
@@ -16557,7 +16561,7 @@ glaube	glauben	VERB	-	0:56:08.321000	0:56:08.728000
 ich	ich	PRON	-	0:56:08.321000	0:56:08.728000
 .	-	-	-	0:56:08.321000	0:56:08.728000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:08.321000" end="0:56:09.528000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:08.321000" end="0:56:09.528000" persName="Informant 0373">
 das	der	PRON	-	0:56:08.321000	0:56:08.728000
 sagt	sagen	VERB	-	0:56:08.728000	0:56:09.528000
 mir	sich	PRON	-	0:56:08.728000	0:56:09.528000
@@ -16565,18 +16569,18 @@ gar	gar	ADV	-	0:56:08.728000	0:56:09.528000
 nichts	nichts	PRON	-	0:56:08.728000	0:56:09.528000
 .	-	-	-	0:56:08.728000	0:56:09.528000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:09.528000" end="0:56:10.394000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:09.528000" end="0:56:10.394000" persName="Informant 0371">
 das	-	-	-	0:56:09.528000	0:56:10.394000
 *musst*	-	-	-	0:56:09.528000	0:56:10.394000
 dir	-	-	-	0:56:09.528000	0:56:10.394000
 anschauen	-	-	-	0:56:09.528000	0:56:10.394000
 .	-	-	-	0:56:09.528000	0:56:10.394000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:10.394000" end="0:56:10.874000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:10.394000" end="0:56:10.874000" persName="Informant 0373">
 echt	echt	ADJ	-	0:56:10.394000	0:56:10.874000
 ?	-	-	-	0:56:10.394000	0:56:10.874000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:10.874000" end="0:56:15.821000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:10.874000" end="0:56:15.821000" persName="Informant 0371">
 ja	ja	ADV	-	0:56:10.874000	0:56:11.614000
 ja	ja	PART	-	0:56:10.874000	0:56:11.614000
 .	-	-	-	0:56:10.874000	0:56:11.614000
@@ -16598,11 +16602,11 @@ wie	wie	ADV	-	0:56:15.394000	0:56:15.821000
 sie	ich	PRON	-	0:56:15.394000	0:56:15.821000
 dann	dann	ADV	-	0:56:15.394000	0:56:15.821000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:15.394000" end="0:56:15.821000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:15.394000" end="0:56:15.821000" persName="Informant 0373">
 okay	okay	NOUN	-	0:56:15.394000	0:56:15.821000
 .	-	-	-	0:56:15.394000	0:56:15.821000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:15.821000" end="0:56:18.801000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:15.821000" end="0:56:18.801000" persName="Informant 0371">
 hinten	hinten	ADV	-	0:56:15.821000	0:56:18.374000
 nach	nach	ADP	-	0:56:15.821000	0:56:18.374000
 halt	halt	ADV	-	0:56:15.821000	0:56:18.374000
@@ -16617,9 +16621,9 @@ halten	halten	VERB	-	0:56:15.821000	0:56:18.374000
 wollen	wollen	VERB	-	0:56:18.374000	0:56:18.801000
 .	-	-	-	0:56:18.374000	0:56:18.801000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:18.374000" end="0:56:18.801000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:18.374000" end="0:56:18.801000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:18.801000" end="0:56:21.008000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:18.801000" end="0:56:21.008000" persName="Informant 0371">
 und	und	CCONJ	-	0:56:18.801000	0:56:21.008000
 wer	wer	PRON	-	0:56:18.801000	0:56:21.008000
 halt	halt	ADV	-	0:56:18.801000	0:56:21.008000
@@ -16632,9 +16636,9 @@ von	von	ADP	-	0:56:18.801000	0:56:21.008000
 die	der	PRON	-	0:56:18.801000	0:56:21.008000
 .	-	-	-	0:56:18.801000	0:56:21.008000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:18.801000" end="0:56:21.008000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:18.801000" end="0:56:21.008000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:21.008000" end="0:56:23.114000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:21.008000" end="0:56:23.114000" persName="Informant 0371">
 ich	ich	PRON	-	0:56:21.008000	0:56:22.401000
 glaube	glauben	VERB	-	0:56:21.008000	0:56:22.401000
 ,	-	-	-	0:56:21.008000	0:56:22.401000
@@ -16643,7 +16647,7 @@ ist	sein	AUX	-	0:56:22.401000	0:56:23.114000
 gut	gut	ADJ	-	0:56:22.401000	0:56:23.114000
 .	-	-	-	0:56:22.401000	0:56:23.114000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:23.114000" end="0:56:26.301000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:23.114000" end="0:56:26.301000" persName="Informant 0373">
 wir	ich	PRON	-	0:56:23.114000	0:56:24.701000
 haben	haben	AUX	-	0:56:23.114000	0:56:24.701000
 letztens	letztens	ADV	-	0:56:23.114000	0:56:24.701000
@@ -16656,24 +16660,24 @@ angeschaut	anschauen	VERB	-	0:56:23.114000	0:56:24.701000
 Sparrow"	Sparrow	PROPN	-	0:56:24.701000	0:56:26.301000
 .	-	-	-	0:56:24.701000	0:56:26.301000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:26.301000" end="0:56:27.501000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:26.301000" end="0:56:27.501000" persName="Informant 0371">
 mit	mit	ADP	-	0:56:26.301000	0:56:27.161000
 der	der	PRON	-	0:56:26.301000	0:56:27.161000
 mit/	-	-	-	0:56:27.161000	0:56:27.501000
 .	-	-	-	0:56:27.161000	0:56:27.501000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:27.161000" end="0:56:28.581000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:27.161000" end="0:56:28.581000" persName="Informant 0373">
 mit	mit	ADP	-	0:56:27.161000	0:56:27.501000
 der	der	DET	-	0:56:27.161000	0:56:27.501000
 Jennifer	Jennifer	NOUN	-	0:56:27.501000	0:56:28.581000
 Lawrence	Lawrence	PROPN	-	0:56:27.501000	0:56:28.581000
 .	-	-	-	0:56:27.501000	0:56:28.581000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:28.581000" end="0:56:29.274000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:28.581000" end="0:56:29.274000" persName="Informant 0371">
 schlecht	schlecht	ADJ	-	0:56:28.581000	0:56:29.274000
 ?	-	-	-	0:56:28.581000	0:56:29.274000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:29.274000" end="0:56:33.134000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:29.274000" end="0:56:33.134000" persName="Informant 0373">
 ähm	ähm	X	-	0:56:29.274000	0:56:31.241000
 ja	ja	ADV	-	0:56:29.274000	0:56:31.241000
 schlecht	schlecht	ADJ	-	0:56:29.274000	0:56:31.241000
@@ -16692,11 +16696,11 @@ der	der	DET	-	0:56:31.241000	0:56:33.134000
 Film	Film	NOUN	-	0:56:31.241000	0:56:33.134000
 .	-	-	-	0:56:31.241000	0:56:33.134000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:33.134000" end="0:56:33.868000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:33.134000" end="0:56:33.868000" persName="Informant 0371">
 wieso	wieso	ADV	-	0:56:33.134000	0:56:33.868000
 ?	-	-	-	0:56:33.134000	0:56:33.868000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:33.868000" end="0:56:42.074000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:33.868000" end="0:56:42.074000" persName="Informant 0373">
 hä	hä	X	-	0:56:33.868000	0:56:34.561000
 ?	-	-	-	0:56:33.868000	0:56:34.561000
 naja	naja	INTJ	-	0:56:34.561000	0:56:36.594000
@@ -16733,11 +16737,11 @@ die	der	DET	-	0:56:41.294000	0:56:42.074000
 Spione	Spion	NOUN	-	0:56:41.294000	0:56:42.074000
 .	-	-	-	0:56:41.294000	0:56:42.074000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:42.074000" end="0:56:42.641000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:42.074000" end="0:56:42.641000" persName="Informant 0371">
 aha	aha	X	-	0:56:42.074000	0:56:42.641000
 .	-	-	-	0:56:42.074000	0:56:42.641000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:42.641000" end="0:56:47.988000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:42.641000" end="0:56:47.988000" persName="Informant 0373">
 wirklich	wirklich	ADJ	-	0:56:42.641000	0:56:45.421000
 nur	nur	ADV	-	0:56:42.641000	0:56:45.421000
 nackt	nackt	ADJ	-	0:56:42.641000	0:56:45.421000
@@ -16755,11 +16759,11 @@ einen	-	-	-	0:56:45.421000	0:56:47.988000
 Scheiß	-	-	-	0:56:45.421000	0:56:47.988000
 .	-	-	-	0:56:45.421000	0:56:47.988000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:47.988000" end="0:56:48.794000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:47.988000" end="0:56:48.794000" persName="Informant 0371">
 geh	geh	X	-	0:56:47.988000	0:56:48.794000
 .	-	-	-	0:56:47.988000	0:56:48.794000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:48.794000" end="0:56:51.501000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:48.794000" end="0:56:51.501000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:56:48.794000	0:56:50.454000
 ich	ich	PRON	-	0:56:48.794000	0:56:50.454000
 bin	sein	AUX	-	0:56:48.794000	0:56:50.454000
@@ -16774,9 +16778,9 @@ ich	ich	PRON	-	0:56:50.454000	0:56:51.501000
 eingeschlafen	einschlafen	VERB	-	0:56:50.454000	0:56:51.501000
 ,	-	-	-	0:56:50.454000	0:56:51.501000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:51.501000" end="0:56:53.461000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:51.501000" end="0:56:53.461000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:51.501000" end="0:56:53.461000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:56:51.501000" end="0:56:53.461000" persName="Informant 0373">
 das	der	PRON	-	0:56:51.501000	0:56:53.461000
 hat	haben	AUX	-	0:56:51.501000	0:56:53.461000
 mich	sich	PRON	-	0:56:51.501000	0:56:53.461000
@@ -16787,7 +16791,7 @@ der	der	DET	-	0:56:51.501000	0:56:53.461000
 Film	Film	NOUN	-	0:56:51.501000	0:56:53.461000
 .	-	-	-	0:56:51.501000	0:56:53.461000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:53.461000" end="0:57:01.168000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:56:53.461000" end="0:57:01.168000" persName="Informant 0371">
 gibt	geben	VERB	-	0:56:53.461000	0:56:56.248000
 es	ich	PRON	-	0:56:53.461000	0:56:56.248000
 solche	solche	DET	-	0:56:53.461000	0:56:56.248000
@@ -16814,11 +16818,11 @@ den	-	-	-	0:57:00.261000	0:57:01.168000
 gesehen	-	-	-	0:57:00.261000	0:57:01.168000
 ?	-	-	-	0:57:00.261000	0:57:01.168000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:01.168000" end="0:57:01.888000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:01.168000" end="0:57:01.888000" persName="Informant 0373">
 mm	mm	NOUN	-	0:57:01.168000	0:57:01.888000
 .	-	-	-	0:57:01.168000	0:57:01.888000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:01.888000" end="0:57:03.588000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:01.888000" end="0:57:03.588000" persName="Informant 0371">
 der	der	PRON	-	0:57:01.888000	0:57:02.668000
 war	sein	AUX	-	0:57:01.888000	0:57:02.668000
 aber	aber	ADV	-	0:57:01.888000	0:57:02.668000
@@ -16830,14 +16834,14 @@ wirklich	wirklich	ADJ	-	0:57:02.668000	0:57:03.588000
 gut	gut	ADJ	-	0:57:02.668000	0:57:03.588000
 .	-	-	-	0:57:02.668000	0:57:03.588000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:02.668000" end="0:57:03.588000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:02.668000" end="0:57:03.588000" persName="Informant 0373">
 wer	wer	PRON	-	0:57:02.668000	0:57:03.588000
 spielt	spielen	VERB	-	0:57:02.668000	0:57:03.588000
 da	da	ADV	-	0:57:02.668000	0:57:03.588000
 mit	mit	ADP	-	0:57:02.668000	0:57:03.588000
 ?	-	-	-	0:57:02.668000	0:57:03.588000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:03.588000" end="0:57:09.554000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:03.588000" end="0:57:09.554000" persName="Informant 0371">
 das	der	PRON	-	0:57:03.588000	0:57:07.934000
 ist	sein	AUX	-	0:57:03.588000	0:57:07.934000
 die/	-	-	-	0:57:03.588000	0:57:07.934000
@@ -16856,11 +16860,11 @@ die	der	DET	-	0:57:07.934000	0:57:09.554000
 Julia	Julia	PROPN	-	0:57:07.934000	0:57:09.554000
 Roberts	Robert	NOUN	-	0:57:07.934000	0:57:09.554000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:09.554000" end="0:57:10.041000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:09.554000" end="0:57:10.041000" persName="Informant 0373">
 okay	okay	NOUN	-	0:57:09.554000	0:57:10.041000
 .	-	-	-	0:57:09.554000	0:57:10.041000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:10.041000" end="0:57:15.154000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:10.041000" end="0:57:15.154000" persName="Informant 0371">
 und	und	CCONJ	-	0:57:10.041000	0:57:12.921000
 der	der	DET	-	0:57:10.041000	0:57:12.921000
 <pause duration="1,6s"/>
@@ -16875,7 +16879,7 @@ der	der	DET	-	0:57:12.921000	0:57:15.154000
 Blonde	Blonde	NOUN	-	0:57:12.921000	0:57:15.154000
 .	-	-	-	0:57:12.921000	0:57:15.154000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:15.154000" end="0:57:18.874000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:15.154000" end="0:57:18.874000" persName="Informant 0373">
 <pause duration="2,6s"/>
 ich	ich	PRON	-	0:57:15.154000	0:57:18.874000
 weiß	weiß	VERB	-	0:57:15.154000	0:57:18.874000
@@ -16886,7 +16890,7 @@ der	der	DET	-	0:57:15.154000	0:57:18.874000
 Nase	Nase	NOUN	-	0:57:15.154000	0:57:18.874000
 .	-	-	-	0:57:15.154000	0:57:18.874000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:18.874000" end="0:57:20.814000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:18.874000" end="0:57:20.814000" persName="Informant 0371">
 ja	ja	PART	-	0:57:18.874000	0:57:19.368000
 ,	-	-	-	0:57:18.874000	0:57:19.368000
 ja	ja	PART	-	0:57:19.368000	0:57:20.814000
@@ -16901,37 +16905,37 @@ auch	auch	ADV	-	0:57:19.368000	0:57:20.814000
 ja	ja	ADV	-	0:57:19.368000	0:57:20.814000
 das	der	PRON	-	0:57:19.368000	0:57:20.814000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:19.368000" end="0:57:20.814000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:19.368000" end="0:57:20.814000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:20.814000" end="0:57:21.381000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:20.814000" end="0:57:21.381000" persName="Informant 0371">
 stimmt	stimmen	VERB	-	0:57:20.814000	0:57:21.381000
 .	-	-	-	0:57:20.814000	0:57:21.381000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:20.814000" end="0:57:21.381000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:20.814000" end="0:57:21.381000" persName="Informant 0373">
 nein	nein	PART	-	0:57:20.814000	0:57:21.381000
 ,	-	-	-	0:57:20.814000	0:57:21.381000
 mit	mit	ADP	-	0:57:20.814000	0:57:21.381000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:21.381000" end="0:57:22.261000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:21.381000" end="0:57:22.261000" persName="Informant 0371">
 nein	nein	PART	-	0:57:21.381000	0:57:22.261000
 ,	-	-	-	0:57:21.381000	0:57:22.261000
 ich	ich	PRON	-	0:57:21.381000	0:57:22.261000
 weiß	weiß	VERB	-	0:57:21.381000	0:57:22.261000
 .	-	-	-	0:57:21.381000	0:57:22.261000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:21.381000" end="0:57:22.261000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:21.381000" end="0:57:22.261000" persName="Informant 0373">
 der	der	DET	-	0:57:21.381000	0:57:22.261000
 (krummen)	krummen	NOUN	-	0:57:21.381000	0:57:22.261000
 .	-	-	-	0:57:21.381000	0:57:22.261000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:22.261000" end="0:57:22.848000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:22.261000" end="0:57:22.848000" persName="Informant 0371">
 ja	ja	ADV	-	0:57:22.261000	0:57:22.848000
 ja	ja	PART	-	0:57:22.261000	0:57:22.848000
 .	-	-	-	0:57:22.261000	0:57:22.848000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:22.848000" end="0:57:23.414000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:22.848000" end="0:57:23.414000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:23.414000" end="0:57:29.154000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:23.414000" end="0:57:29.154000" persName="Informant 0371">
 a/	-	-	-	0:57:23.414000	0:57:28.368000
 d/	-	-	-	0:57:23.414000	0:57:28.368000
 wa/	-	-	-	0:57:23.414000	0:57:28.368000
@@ -16957,7 +16961,7 @@ es	ich	PRON	-	0:57:28.368000	0:57:29.154000
 gegangen	gehen	VERB	-	0:57:28.368000	0:57:29.154000
 .	-	-	-	0:57:28.368000	0:57:29.154000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:28.368000" end="0:57:30.521000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:28.368000" end="0:57:30.521000" persName="Informant 0373">
 ah	ah	X	-	0:57:28.368000	0:57:29.154000
 ,	-	-	-	0:57:28.368000	0:57:29.154000
 gesehen	sehen	VERB	-	0:57:29.154000	0:57:30.521000
@@ -16967,7 +16971,7 @@ eine	einen	DET	-	0:57:29.154000	0:57:30.521000
 Vorschau	Vorschau	NOUN	-	0:57:29.154000	0:57:30.521000
 .	-	-	-	0:57:29.154000	0:57:30.521000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:30.521000" end="0:57:31.934000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:30.521000" end="0:57:31.934000" persName="Informant 0371">
 der	der	PRON	-	0:57:30.521000	0:57:31.374000
 war	sein	AUX	-	0:57:30.521000	0:57:31.374000
 wild	wild	ADJ	Adj Expr Int Komp WA WBA Wert fall posi	0:57:30.521000	0:57:31.374000
@@ -16979,11 +16983,11 @@ echt	echt	ADJ	-	0:57:31.374000	0:57:31.934000
 gut	gut	ADJ	-	0:57:31.374000	0:57:31.934000
 .	-	-	-	0:57:31.374000	0:57:31.934000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:31.934000" end="0:57:32.361000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:31.934000" end="0:57:32.361000" persName="Informant 0373">
 okay	okay	NOUN	-	0:57:31.934000	0:57:32.361000
 .	-	-	-	0:57:31.934000	0:57:32.361000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:32.361000" end="0:57:38.994000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:32.361000" end="0:57:38.994000" persName="Informant 0371">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:57:32.361000	0:57:34.468000
 ,	-	-	-	0:57:32.361000	0:57:34.468000
@@ -17010,7 +17014,7 @@ nicht	nicht	PART	-	0:57:37.134000	0:57:38.994000
 mehr	mehr	ADV	-	0:57:37.134000	0:57:38.994000
 .	-	-	-	0:57:37.134000	0:57:38.994000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:38.994000" end="0:57:41.521000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:38.994000" end="0:57:41.521000" persName="Informant 0373">
 <pause duration="1,5s"/>
 was	was	PRON	-	0:57:38.994000	0:57:41.521000
 ,	-	-	-	0:57:38.994000	0:57:41.521000
@@ -17019,25 +17023,25 @@ was	was	PRON	-	0:57:38.994000	0:57:41.521000
 jetzt	jetzt	ADV	-	0:57:38.994000	0:57:41.521000
 schon	schon	ADV	-	0:57:38.994000	0:57:41.521000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:41.521000" end="0:57:42.308000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:41.521000" end="0:57:42.308000" persName="Informant 0371">
 nein	nein	PART	-	0:57:41.521000	0:57:42.308000
 ,	-	-	-	0:57:41.521000	0:57:42.308000
 der	der	PRON	-	0:57:41.521000	0:57:42.308000
 kommt	kommen	VERB	-	0:57:41.521000	0:57:42.308000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:41.521000" end="0:57:42.308000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:41.521000" end="0:57:42.308000" persName="Informant 0373">
 herausgekommen	herausgekommen	VERB	-	0:57:41.521000	0:57:42.308000
 ist	sein	AUX	-	0:57:41.521000	0:57:42.308000
 ?	-	-	-	0:57:41.521000	0:57:42.308000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:42.308000" end="0:57:43.388000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:42.308000" end="0:57:43.388000" persName="Informant 0371">
 heuer	heuer	ADV	-	0:57:42.308000	0:57:43.388000
 heraus	heraus	ADP	-	0:57:42.308000	0:57:43.388000
 ,	-	-	-	0:57:42.308000	0:57:43.388000
 ja	ja	PART	-	0:57:42.308000	0:57:43.388000
 .	-	-	-	0:57:42.308000	0:57:43.388000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:43.388000" end="0:57:45.154000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:43.388000" end="0:57:45.154000" persName="Informant 0373">
 ein	einen	DET	-	0:57:43.388000	0:57:45.154000
 Actionfilm	Actionfilm	NOUN	-	0:57:43.388000	0:57:45.154000
 oder	oder	CCONJ	-	0:57:43.388000	0:57:45.154000
@@ -17045,7 +17049,7 @@ was	was	PRON	-	0:57:43.388000	0:57:45.154000
 anderes	ander	PRON	-	0:57:43.388000	0:57:45.154000
 ?	-	-	-	0:57:43.388000	0:57:45.154000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:45.154000" end="0:57:49.081000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:45.154000" end="0:57:49.081000" persName="Informant 0371">
 ich	ich	PRON	-	0:57:45.154000	0:57:45.554000
 glaube	glauben	VERB	-	0:57:45.154000	0:57:45.554000
 ,	-	-	-	0:57:45.154000	0:57:45.554000
@@ -17063,7 +17067,7 @@ weil	weil	SCONJ	-	0:57:48.121000	0:57:49.081000
 nicht)	nicht	PART	-	0:57:48.121000	0:57:49.081000
 .	-	-	-	0:57:48.121000	0:57:49.081000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:49.081000" end="0:57:50.634000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:49.081000" end="0:57:50.634000" persName="Informant 0373">
 Aliens	Alien	PROPN	-	0:57:49.081000	0:57:50.634000
 ,	-	-	-	0:57:49.081000	0:57:50.634000
 oder	oder	CCONJ	-	0:57:49.081000	0:57:50.634000
@@ -17071,14 +17075,14 @@ irgendwas	irgendwas	DET	-	0:57:49.081000	0:57:50.634000
 anderes	ander	PRON	-	0:57:49.081000	0:57:50.634000
 ?	-	-	-	0:57:49.081000	0:57:50.634000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:50.634000" end="0:57:52.028000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:50.634000" end="0:57:52.028000" persName="Informant 0371">
 nein	nein	PART	-	0:57:50.634000	0:57:52.028000
 ,	-	-	-	0:57:50.634000	0:57:52.028000
 keine	kein	DET	-	0:57:50.634000	0:57:52.028000
 Aliens	Alien	NOUN	-	0:57:50.634000	0:57:52.028000
 .	-	-	-	0:57:50.634000	0:57:52.028000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:52.028000" end="0:57:58.534000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:52.028000" end="0:57:58.534000" persName="Informant 0373">
 <pause duration="3,2s"/>
 um	um	SCONJ	-	0:57:52.028000	0:57:56.107000
 was	was	PRON	-	0:57:52.028000	0:57:56.107000
@@ -17090,14 +17094,14 @@ denn	denn	ADV	-	0:57:52.028000	0:57:56.107000
 ja	ja	PART	-	0:57:56.107000	0:57:58.534000
 .	-	-	-	0:57:56.107000	0:57:58.534000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:58.534000" end="0:58:00.261000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:57:58.534000" end="0:58:00.261000" persName="Informant 0371">
 ich	ich	PRON	-	0:57:58.534000	0:58:00.261000
 weiß	weiß	VERB	-	0:57:58.534000	0:58:00.261000
 nicht	nicht	PART	-	0:57:58.534000	0:58:00.261000
 mehr	mehr	ADV	-	0:57:58.534000	0:58:00.261000
 .	-	-	-	0:57:58.534000	0:58:00.261000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:58.534000" end="0:58:01.621000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:57:58.534000" end="0:58:01.621000" persName="Informant 0373">
 du	-	-	-	0:57:58.534000	0:58:00.261000
 kannst	-	-	-	0:57:58.534000	0:58:00.261000
 nicht	-	-	-	0:57:58.534000	0:58:00.261000
@@ -17111,7 +17115,7 @@ Plan	-	-	-	0:58:00.261000	0:58:01.621000
 haben	-	-	-	0:58:00.261000	0:58:01.621000
 .	-	-	-	0:58:00.261000	0:58:01.621000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:01.621000" end="0:58:13.974000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:01.621000" end="0:58:13.974000" persName="Informant 0371">
 ich	ich	PRON	-	0:58:01.621000	0:58:04.121000
 muss	muss	VERB	-	0:58:01.621000	0:58:04.121000
 mir	sich	PRON	-	0:58:01.621000	0:58:04.121000
@@ -17153,7 +17157,7 @@ ist	sein	AUX	-	0:58:13.167000	0:58:13.974000
 geil	geil	NOUN	-	0:58:13.167000	0:58:13.974000
 .	-	-	-	0:58:13.167000	0:58:13.974000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:13.974000" end="0:58:16.634000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:13.974000" end="0:58:16.634000" persName="Informant 0373">
 jetzt	jetzt	ADV	-	0:58:13.974000	0:58:15.954000
 war	sein	AUX	-	0:58:13.974000	0:58:15.954000
 ich	ich	PRON	-	0:58:13.974000	0:58:15.954000
@@ -17169,7 +17173,7 @@ eben	eben	ADV	-	0:58:15.954000	0:58:16.634000
 der	der	DET	-	0:58:15.954000	0:58:16.634000
 letzte	letzte	ADJ	-	0:58:15.954000	0:58:16.634000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:16.634000" end="0:58:17.994000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:16.634000" end="0:58:17.994000" persName="Informant 0371">
 wir	ich	PRON	-	0:58:16.634000	0:58:17.994000
 haben	haben	AUX	-	0:58:16.634000	0:58:17.994000
 eh	eh	ADV	-	0:58:16.634000	0:58:17.994000
@@ -17181,14 +17185,14 @@ mal	mal	ADV	-	0:58:16.634000	0:58:17.994000
 gehen	gehen	VERB	-	0:58:16.634000	0:58:17.994000
 ,	-	-	-	0:58:16.634000	0:58:17.994000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:16.634000" end="0:58:17.994000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:16.634000" end="0:58:17.994000" persName="Informant 0373">
 war	sein	AUX	-	0:58:16.634000	0:58:17.994000
 der	der	DET	-	0:58:16.634000	0:58:17.994000
 "Red	Red	PROPN	-	0:58:16.634000	0:58:17.994000
 Sparrow"	Sparrow	PROPN	-	0:58:16.634000	0:58:17.994000
 .	-	-	-	0:58:16.634000	0:58:17.994000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:17.994000" end="0:58:18.861000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:17.994000" end="0:58:18.861000" persName="Informant 0371">
 das	der	PRON	-	0:58:17.994000	0:58:18.861000
 haben	haben	AUX	-	0:58:17.994000	0:58:18.861000
 wir	ich	PRON	-	0:58:17.994000	0:58:18.861000
@@ -17196,20 +17200,20 @@ auch	auch	ADV	-	0:58:17.994000	0:58:18.861000
 noch	noch	ADV	-	0:58:17.994000	0:58:18.861000
 nie	nie	ADV	-	0:58:17.994000	0:58:18.861000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:17.994000" end="0:58:18.861000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:17.994000" end="0:58:18.861000" persName="Informant 0373">
 ja	ja	PART	-	0:58:17.994000	0:58:18.861000
 .	-	-	-	0:58:17.994000	0:58:18.861000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:18.861000" end="0:58:19.821000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:18.861000" end="0:58:19.821000" persName="Informant 0371">
 voll/	-	-	-	0:58:18.861000	0:58:19.214000
 vollführt	vollführen	VERB	-	0:58:19.214000	0:58:19.821000
 .	-	-	-	0:58:19.214000	0:58:19.821000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:19.214000" end="0:58:19.821000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:19.214000" end="0:58:19.821000" persName="Informant 0373">
 ja	ja	PART	-	0:58:19.214000	0:58:19.821000
 .	-	-	-	0:58:19.214000	0:58:19.821000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:19.821000" end="0:58:22.767000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:19.821000" end="0:58:22.767000" persName="Informant 0371">
 Alter	alt	NOUN	-	0:58:19.821000	0:58:20.894000
 .	-	-	-	0:58:19.821000	0:58:20.894000
 *kommen*	-	-	-	0:58:20.894000	0:58:22.767000
@@ -17220,38 +17224,38 @@ nichts	-	-	-	0:58:20.894000	0:58:22.767000
 mehr	-	-	-	0:58:20.894000	0:58:22.767000
 .	-	-	-	0:58:20.894000	0:58:22.767000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:22.767000" end="0:58:23.361000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:22.767000" end="0:58:23.361000" persName="Informant 0373">
 gar	gar	ADV	-	0:58:22.767000	0:58:23.361000
 nichts	nichts	PRON	-	0:58:22.767000	0:58:23.361000
 .	-	-	-	0:58:22.767000	0:58:23.361000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:23.361000" end="0:58:24.434000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:23.361000" end="0:58:24.434000" persName="Informant 0371">
 nein	nein	PART	-	0:58:23.361000	0:58:24.434000
 ,	-	-	-	0:58:23.361000	0:58:24.434000
 wirklich	wirklich	ADJ	-	0:58:23.361000	0:58:24.434000
 .	-	-	-	0:58:23.361000	0:58:24.434000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:24.434000" end="0:58:25.621000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:24.434000" end="0:58:25.621000" persName="Informant 0373">
 *tust*	-	-	-	0:58:24.434000	0:58:25.621000
 Tennis	-	-	-	0:58:24.434000	0:58:25.621000
 spielen	-	-	-	0:58:24.434000	0:58:25.621000
 noch	-	-	-	0:58:24.434000	0:58:25.621000
 ?	-	-	-	0:58:24.434000	0:58:25.621000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:25.621000" end="0:58:27.627000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:25.621000" end="0:58:27.627000" persName="Informant 0371">
 <pause duration="1,5s"/>
 ich	ich	PRON	-	0:58:25.621000	0:58:27.627000
 glaube	glauben	VERB	-	0:58:25.621000	0:58:27.627000
 ,	-	-	-	0:58:25.621000	0:58:27.627000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:25.621000" end="0:58:27.627000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:25.621000" end="0:58:27.627000" persName="Informant 0373">
 <pause duration="1,5s"/>
 nicht	nicht	PART	-	0:58:25.621000	0:58:27.627000
 ,	-	-	-	0:58:25.621000	0:58:27.627000
 gell	gell	ADJ	-	0:58:25.621000	0:58:27.627000
 ?	-	-	-	0:58:25.621000	0:58:27.627000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:27.627000" end="0:58:28.981000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:27.627000" end="0:58:28.981000" persName="Informant 0371">
 es	ich	PRON	-	0:58:27.627000	0:58:28.981000
 ist	sein	AUX	-	0:58:27.627000	0:58:28.981000
 noch	noch	ADV	-	0:58:27.627000	0:58:28.981000
@@ -17260,7 +17264,7 @@ aufgebaut	aufbauen	VERB	-	0:58:27.627000	0:58:28.981000
 unten	unten	ADV	-	0:58:27.627000	0:58:28.981000
 .	-	-	-	0:58:27.627000	0:58:28.981000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:27.627000" end="0:58:32.201000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:27.627000" end="0:58:32.201000" persName="Informant 0373">
 nein	nein	PART	-	0:58:28.981000	0:58:30.047000
 ich	ich	PRON	-	0:58:28.981000	0:58:30.047000
 meine	meinen	VERB	-	0:58:28.981000	0:58:30.047000
@@ -17273,19 +17277,19 @@ aber	aber	CCONJ	-	0:58:28.981000	0:58:30.047000
 (nicht)	nicht	PART	-	0:58:30.047000	0:58:32.201000
 .	-	-	-	0:58:30.047000	0:58:32.201000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:32.201000" end="0:58:33.234000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:32.201000" end="0:58:33.234000" persName="Informant 0371">
 da	da	ADV	-	0:58:32.201000	0:58:33.234000
 stehe	stehen	VERB	-	0:58:32.201000	0:58:33.234000
 ich/	-	-	-	0:58:32.201000	0:58:33.234000
 .	-	-	-	0:58:32.201000	0:58:33.234000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:32.201000" end="0:58:33.234000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:32.201000" end="0:58:33.234000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:33.234000" end="0:58:38.447000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:33.234000" end="0:58:38.447000" persName="Informant 0371">
 ähm	ähm	X	-	0:58:33.234000	0:58:38.447000
 mit	mit	ADP	-	0:58:33.234000	0:58:38.447000
 dem	der	DET	-	0:58:33.234000	0:58:38.447000
-[George]N	George	NOUN	-	0:58:33.234000	0:58:38.447000
+NAME	NAME	NOUN	-	0:58:33.234000	0:58:38.447000
 bin	sein	AUX	-	0:58:33.234000	0:58:38.447000
 ich/	-	-	-	0:58:33.234000	0:58:38.447000
 .	-	-	-	0:58:33.234000	0:58:38.447000
@@ -17297,11 +17301,11 @@ mal	mal	ADV	-	0:58:33.234000	0:58:38.447000
 gewesen	sein	AUX	-	0:58:33.234000	0:58:38.447000
 .	-	-	-	0:58:33.234000	0:58:38.447000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:38.447000" end="0:58:38.854000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:38.447000" end="0:58:38.854000" persName="Informant 0373">
 ja	ja	PART	-	0:58:38.447000	0:58:38.854000
 .	-	-	-	0:58:38.447000	0:58:38.854000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:38.854000" end="0:58:47.567000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:38.854000" end="0:58:47.567000" persName="Informant 0371">
 und	und	CCONJ	-	0:58:38.854000	0:58:40.854000
 dann	dann	ADV	-	0:58:38.854000	0:58:40.854000
 wollte	wollen	VERB	-	0:58:38.854000	0:58:40.854000
@@ -17309,12 +17313,12 @@ ich	ich	PRON	-	0:58:38.854000	0:58:40.854000
 einmal	einmal	ADV	-	0:58:38.854000	0:58:40.854000
 mit	mit	ADP	-	0:58:38.854000	0:58:40.854000
 dem	der	DET	-	0:58:38.854000	0:58:40.854000
-[Steff]N	Steff	NOUN	-	0:58:38.854000	0:58:40.854000
+NAME	NAME	NOUN	-	0:58:38.854000	0:58:40.854000
 gehen	gehen	VERB	-	0:58:38.854000	0:58:40.854000
 ,	-	-	-	0:58:38.854000	0:58:40.854000
 und	-	-	-	0:58:40.854000	0:58:42.781000
 der	-	-	-	0:58:40.854000	0:58:42.781000
-[Steff]N	-	-	-	0:58:40.854000	0:58:42.781000
+NAME	NAME	-	-	0:58:40.854000	0:58:42.781000
 dann	-	-	-	0:58:40.854000	0:58:42.781000
 "nein"	-	-	-	0:58:40.854000	0:58:42.781000
 ,	-	-	-	0:58:40.854000	0:58:42.781000
@@ -17342,9 +17346,9 @@ und	und	CCONJ	-	0:58:45.341000	0:58:47.567000
 alles	alle	PRON	-	0:58:45.341000	0:58:47.567000
 .	-	-	-	0:58:45.341000	0:58:47.567000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:45.341000" end="0:58:47.567000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:45.341000" end="0:58:47.567000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:47.567000" end="0:58:50.474000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:47.567000" end="0:58:50.474000" persName="Informant 0371">
 habe	habe	AUX	-	0:58:47.567000	0:58:48.734000
 ich	ich	PRON	-	0:58:47.567000	0:58:48.734000
 gesagt	sagen	VERB	-	0:58:47.567000	0:58:48.734000
@@ -17367,11 +17371,11 @@ ja	ja	ADV	-	0:58:49.901000	0:58:50.474000
 nicht/	-	-	-	0:58:49.901000	0:58:50.474000
 .	-	-	-	0:58:49.901000	0:58:50.474000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:49.901000" end="0:58:50.474000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:49.901000" end="0:58:50.474000" persName="Informant 0373">
 ja	ja	PART	-	0:58:49.901000	0:58:50.474000
 .	-	-	-	0:58:49.901000	0:58:50.474000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:50.474000" end="0:58:53.934000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:50.474000" end="0:58:53.934000" persName="Informant 0371">
 wir	ich	PRON	-	0:58:50.474000	0:58:51.561000
 wollen	wollen	VERB	-	0:58:50.474000	0:58:51.561000
 nicht	nicht	PART	-	0:58:50.474000	0:58:51.561000
@@ -17390,11 +17394,11 @@ irgendwas	irgendwas	PRON	-	0:58:52.754000	0:58:53.934000
 ah	ah	X	-	0:58:52.754000	0:58:53.934000
 ,	-	-	-	0:58:52.754000	0:58:53.934000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:52.754000" end="0:58:53.934000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:52.754000" end="0:58:53.934000" persName="Informant 0373">
 Alter	alt	NOUN	-	0:58:52.754000	0:58:53.934000
 .	-	-	-	0:58:52.754000	0:58:53.934000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:53.934000" end="0:58:55.447000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:53.934000" end="0:58:55.447000" persName="Informant 0371">
 das	der	PRON	-	0:58:53.934000	0:58:55.447000
 zipft	zipft	VERB	-	0:58:53.934000	0:58:55.447000
 ihn	ich	PRON	-	0:58:53.934000	0:58:55.447000
@@ -17402,11 +17406,11 @@ so	so	ADV	-	0:58:53.934000	0:58:55.447000
 an	an	ADP	-	0:58:53.934000	0:58:55.447000
 .	-	-	-	0:58:53.934000	0:58:55.447000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:55.447000" end="0:58:56.207000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:55.447000" end="0:58:56.207000" persName="Informant 0373">
 aha	aha	X	-	0:58:55.447000	0:58:56.207000
 .	-	-	-	0:58:55.447000	0:58:56.207000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:56.207000" end="0:58:59.401000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:58:56.207000" end="0:58:59.401000" persName="Informant 0371">
 okay	okay	NOUN	-	0:58:56.207000	0:58:59.401000
 ,	-	-	-	0:58:56.207000	0:58:59.401000
 dann	dann	ADV	-	0:58:56.207000	0:58:59.401000
@@ -17414,12 +17418,12 @@ halt	halt	ADV	-	0:58:56.207000	0:58:59.401000
 nicht	nicht	PART	-	0:58:56.207000	0:58:59.401000
 .	-	-	-	0:58:56.207000	0:58:59.401000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:59.401000" end="0:59:00.501000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:58:59.401000" end="0:59:00.501000" persName="Informant 0373">
 schwierig/	-	-	-	0:58:59.401000	0:59:00.501000
 Geselle	Geselle	NOUN	-	0:58:59.401000	0:59:00.501000
 .	-	-	-	0:58:59.401000	0:59:00.501000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:00.501000" end="0:59:07.301000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:00.501000" end="0:59:07.301000" persName="Informant 0371">
 ja	ja	PART	-	0:59:00.501000	0:59:00.887000
 .	-	-	-	0:59:00.501000	0:59:00.887000
 <pause duration="1,5s"/>
@@ -17429,32 +17433,32 @@ nein	nein	PART	-	0:59:00.887000	0:59:02.794000
 du	du	PRON	-	0:59:02.794000	0:59:07.301000
 tust	tun	VERB	Prog ProgKon tunP	0:59:02.794000	0:59:07.301000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:02.794000" end="0:59:07.301000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:02.794000" end="0:59:07.301000" persName="Informant 0373">
 <pause duration="4,0s"/>
 wir	ich	PRON	-	0:59:02.794000	0:59:07.301000
 tun/	-	-	-	0:59:02.794000	0:59:07.301000
 .	-	-	-	0:59:02.794000	0:59:07.301000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:07.301000" end="0:59:08.174000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:07.301000" end="0:59:08.174000" persName="Informant 0371">
 Volleyball	Volleyball	NOUN	-	0:59:07.301000	0:59:08.174000
 spielen	spielen	VERB	Prog ProgKon tunP	0:59:07.301000	0:59:08.174000
 ?	-	-	-	0:59:07.301000	0:59:08.174000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:08.174000" end="0:59:08.541000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:08.174000" end="0:59:08.541000" persName="Informant 0373">
 ja	ja	PART	-	0:59:08.174000	0:59:08.541000
 .	-	-	-	0:59:08.174000	0:59:08.541000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:08.541000" end="0:59:09.601000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:08.541000" end="0:59:09.601000" persName="Informant 0371">
 seit	seit	ADP	-	0:59:08.541000	0:59:09.601000
 wann	wann	ADV	-	0:59:08.541000	0:59:09.601000
 ?	-	-	-	0:59:08.541000	0:59:09.601000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:09.601000" end="0:59:10.747000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:09.601000" end="0:59:10.747000" persName="Informant 0373">
 seit	seit	ADP	-	0:59:09.601000	0:59:10.747000
 September	September	NOUN	-	0:59:09.601000	0:59:10.747000
 .	-	-	-	0:59:09.601000	0:59:10.747000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:10.747000" end="0:59:13.847000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:10.747000" end="0:59:13.847000" persName="Informant 0371">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:59:10.747000	0:59:12.341000
 habe	habe	AUX	-	0:59:10.747000	0:59:12.341000
@@ -17471,7 +17475,7 @@ Volleyball	Volleyball	NOUN	-	0:59:12.341000	0:59:13.847000
 spielst	spielen	VERB	-	0:59:12.341000	0:59:13.847000
 .	-	-	-	0:59:12.341000	0:59:13.847000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:13.847000" end="0:59:17.707000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:13.847000" end="0:59:17.707000" persName="Informant 0373">
 aber	aber	CCONJ	-	0:59:13.847000	0:59:15.347000
 ist	sein	AUX	-	0:59:13.847000	0:59:15.347000
 voll	voll	ADP	-	0:59:13.847000	0:59:15.347000
@@ -17490,14 +17494,14 @@ voll	voll	ADJ	-	0:59:16.694000	0:59:17.707000
 lustig	lustig	ADJ	-	0:59:16.694000	0:59:17.707000
 .	-	-	-	0:59:16.694000	0:59:17.707000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:17.707000" end="0:59:18.741000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:17.707000" end="0:59:18.741000" persName="Informant 0371">
 wo	-	-	-	0:59:17.707000	0:59:18.741000
 *spielst*	-	-	-	0:59:17.707000	0:59:18.741000
 da	-	-	-	0:59:17.707000	0:59:18.741000
 ?	-	-	-	0:59:17.707000	0:59:18.741000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:18.741000" end="0:59:20.967000">
-[Fladnitz]O	Fladnitz	PROPN	-	0:59:18.741000	0:59:19.314000
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:18.741000" end="0:59:20.967000" persName="Informant 0373">
+ORT	ORT	PROPN	-	0:59:18.741000	0:59:19.314000
 ,	-	-	-	0:59:18.741000	0:59:19.314000
 *könnts*	-	-	-	0:59:19.314000	0:59:20.967000
 eh	-	-	-	0:59:19.314000	0:59:20.967000
@@ -17505,15 +17509,15 @@ einmal	-	-	-	0:59:19.314000	0:59:20.967000
 mitgehen	-	-	-	0:59:19.314000	0:59:20.967000
 ,	-	-	-	0:59:19.314000	0:59:20.967000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:20.967000" end="0:59:21.554000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:20.967000" end="0:59:21.554000" persName="Informant 0371">
 ist	sein	AUX	-	0:59:20.967000	0:59:21.554000
 das	der	PRON	-	0:59:20.967000	0:59:21.554000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:20.967000" end="0:59:21.554000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:20.967000" end="0:59:21.554000" persName="Informant 0373">
 sieben	sieben	NUM	-	0:59:20.967000	0:59:21.554000
 .	-	-	-	0:59:20.967000	0:59:21.554000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:21.554000" end="0:59:25.521000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:21.554000" end="0:59:25.521000" persName="Informant 0371">
 ist	sein	AUX	-	0:59:21.554000	0:59:22.314000
 das	der	PRON	-	0:59:21.554000	0:59:22.314000
 so	so	ADV	-	0:59:21.554000	0:59:22.314000
@@ -17534,7 +17538,7 @@ ist	sein	AUX	-	0:59:24.187000	0:59:25.521000
 das	der	PRON	-	0:59:24.187000	0:59:25.521000
 ?	-	-	-	0:59:24.187000	0:59:25.521000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:24.187000" end="0:59:31.494000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:24.187000" end="0:59:31.494000" persName="Informant 0373">
 ja	ja	ADV	-	0:59:24.187000	0:59:25.521000
 vom	vom	ADP	-	0:59:24.187000	0:59:25.521000
 Volleyballverein	Volleyballverein	NOUN	-	0:59:24.187000	0:59:25.521000
@@ -17562,11 +17566,11 @@ der	der	DET	-	0:59:29.534000	0:59:31.494000
 Woche	Woche	NOUN	-	0:59:29.534000	0:59:31.494000
 .	-	-	-	0:59:29.534000	0:59:31.494000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:31.494000" end="0:59:31.974000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:31.494000" end="0:59:31.974000" persName="Informant 0371">
 okay	okay	NOUN	-	0:59:31.494000	0:59:31.974000
 .	-	-	-	0:59:31.494000	0:59:31.974000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:31.974000" end="0:59:36.221000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:31.974000" end="0:59:36.221000" persName="Informant 0373">
 von	von	ADP	-	0:59:31.974000	0:59:33.374000
 sieben	sieben	NUM	-	0:59:31.974000	0:59:33.374000
 bis	bis	CCONJ	-	0:59:31.974000	0:59:33.374000
@@ -17582,7 +17586,7 @@ nichts	nichts	PRON	-	0:59:34.267000	0:59:36.221000
 Gaudi	Gaudi	PROPN	-	0:59:34.267000	0:59:36.221000
 .	-	-	-	0:59:34.267000	0:59:36.221000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:36.221000" end="0:59:39.067000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:36.221000" end="0:59:39.067000" persName="Informant 0371">
 tut	tun	VERB	-	0:59:36.221000	0:59:38.621000
 da	da	ADV	-	0:59:36.221000	0:59:38.621000
 ähm	ähm	ADJ	-	0:59:36.221000	0:59:38.621000
@@ -17597,18 +17601,18 @@ oder	oder	CCONJ	-	0:59:36.221000	0:59:38.621000
 was	was	PRON	-	0:59:38.621000	0:59:39.067000
 ?	-	-	-	0:59:38.621000	0:59:39.067000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:38.621000" end="0:59:39.067000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:38.621000" end="0:59:39.067000" persName="Informant 0373">
 ja	ja	PART	-	0:59:38.621000	0:59:39.067000
 .	-	-	-	0:59:38.621000	0:59:39.067000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:39.067000" end="0:59:40.154000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:39.067000" end="0:59:40.154000" persName="Informant 0371">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	0:59:39.067000	0:59:40.154000
 .	-	-	-	0:59:39.067000	0:59:40.154000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:40.154000" end="0:59:42.867000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:40.154000" end="0:59:42.867000" persName="Informant 0373">
 der	der	DET	-	0:59:40.154000	0:59:41.487000
-[Brandl]N	Brandl	NOUN	-	0:59:40.154000	0:59:41.487000
+NAME	NAME	NOUN	-	0:59:40.154000	0:59:41.487000
 spielt	spielen	VERB	-	0:59:40.154000	0:59:41.487000
 auch	auch	ADV	-	0:59:40.154000	0:59:41.487000
 immer	immer	ADV	-	0:59:40.154000	0:59:41.487000
@@ -17618,40 +17622,40 @@ mit	mit	ADP	-	0:59:40.154000	0:59:41.487000
 von	von	ADP	-	0:59:41.487000	0:59:42.867000
 die	der	DET	-	0:59:41.487000	0:59:42.867000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:42.867000" end="0:59:43.467000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:42.867000" end="0:59:43.467000" persName="Informant 0371">
 der/	-	-	-	0:59:42.867000	0:59:43.467000
 .	-	-	-	0:59:42.867000	0:59:43.467000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:42.867000" end="0:59:43.467000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:42.867000" end="0:59:43.467000" persName="Informant 0373">
 Ruprechter	Ruprechter	NOUN	-	0:59:42.867000	0:59:43.467000
 .	-	-	-	0:59:42.867000	0:59:43.467000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:43.467000" end="0:59:44.234000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:43.467000" end="0:59:44.234000" persName="Informant 0371">
 ach	ach	X	-	0:59:43.467000	0:59:43.974000
 so	so	ADV	-	0:59:43.467000	0:59:43.974000
 .	-	-	-	0:59:43.467000	0:59:43.974000
 der	-	-	-	0:59:43.974000	0:59:44.234000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:43.974000" end="0:59:44.234000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:43.974000" end="0:59:44.234000" persName="Informant 0373">
 ja	ja	PART	-	0:59:43.974000	0:59:44.234000
 .	-	-	-	0:59:43.974000	0:59:44.234000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:44.234000" end="0:59:45.407000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:44.234000" end="0:59:45.407000" persName="Informant 0371">
 fährt	-	-	-	0:59:44.234000	0:59:44.741000
 _oftn_	-	-	-	0:59:44.234000	0:59:44.741000
 zur	-	-	-	0:59:44.234000	0:59:44.741000
-[Laura]N	-	-	-	0:59:44.741000	0:59:45.407000
+NAME	NAME	-	-	0:59:44.741000	0:59:45.407000
 oder	-	-	-	0:59:44.741000	0:59:45.407000
 was	-	-	-	0:59:44.741000	0:59:45.407000
 ?	-	-	-	0:59:44.741000	0:59:45.407000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:44.741000" end="0:59:49.661000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:44.741000" end="0:59:49.661000" persName="Informant 0373">
 ja	ja	PART	-	0:59:44.741000	0:59:45.407000
 .	-	-	-	0:59:44.741000	0:59:45.407000
 ja	ja	PART	-	0:59:45.407000	0:59:47.214000
 ,	-	-	-	0:59:45.407000	0:59:47.214000
 die	der	DET	-	0:59:45.407000	0:59:47.214000
-[Laura]N	Laura	NOUN	-	0:59:45.407000	0:59:47.214000
+NAME	NAME	NOUN	-	0:59:45.407000	0:59:47.214000
 ist	sein	AUX	-	0:59:45.407000	0:59:47.214000
 auch	auch	ADV	-	0:59:45.407000	0:59:47.214000
 schon	schon	ADV	-	0:59:45.407000	0:59:47.214000
@@ -17664,7 +17668,7 @@ gewesen	sein	AUX	-	0:59:45.407000	0:59:47.214000
 <pause duration="2,2s"/>
 nein	nein	PART	-	0:59:47.214000	0:59:49.661000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:49.661000" end="0:59:50.667000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:49.661000" end="0:59:50.667000" persName="Informant 0371">
 ja	ja	ADV	-	0:59:49.661000	0:59:50.667000
 klingt	klingen	VERB	-	0:59:49.661000	0:59:50.667000
 eh	eh	ADV	-	0:59:49.661000	0:59:50.667000
@@ -17673,7 +17677,7 @@ lustig	lustig	ADJ	-	0:59:49.661000	0:59:50.667000
 ja	ja	PART	-	0:59:49.661000	0:59:50.667000
 .	-	-	-	0:59:49.661000	0:59:50.667000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:49.661000" end="0:59:53.414000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:49.661000" end="0:59:53.414000" persName="Informant 0373">
 ist	sein	AUX	-	0:59:49.661000	0:59:50.667000
 echt	echt	ADJ	-	0:59:49.661000	0:59:50.667000
 cool	cool	PROPN	-	0:59:49.661000	0:59:50.667000
@@ -17698,20 +17702,20 @@ es	ich	PRON	-	0:59:53.041000	0:59:53.414000
 es	ich	PRON	-	0:59:53.041000	0:59:53.414000
 geht	gehen	VERB	-	0:59:53.041000	0:59:53.414000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:53.414000" end="0:59:54.294000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:53.414000" end="0:59:54.294000" persName="Informant 0371">
 nein	-	-	-	0:59:53.414000	0:59:54.294000
 ähm	-	-	-	0:59:53.414000	0:59:54.294000
 weil	-	-	-	0:59:53.414000	0:59:54.294000
 sonst	-	-	-	0:59:53.414000	0:59:54.294000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:53.414000" end="0:59:54.294000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:53.414000" end="0:59:54.294000" persName="Informant 0373">
 nur	nur	ADV	-	0:59:53.414000	0:59:54.294000
 um	um	ADP	-	0:59:53.414000	0:59:54.294000
 die	der	DET	-	0:59:53.414000	0:59:54.294000
 Gaudi	Gaudi	NOUN	-	0:59:53.414000	0:59:54.294000
 .	-	-	-	0:59:53.414000	0:59:54.294000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:54.294000" end="0:59:57.654000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:54.294000" end="0:59:57.654000" persName="Informant 0371">
 *tust*	-	-	-	0:59:54.294000	0:59:56.234000
 ja	-	-	-	0:59:54.294000	0:59:56.234000
 immer	-	-	-	0:59:54.294000	0:59:56.234000
@@ -17733,7 +17737,7 @@ auch	-	-	-	0:59:56.234000	0:59:57.654000
 vergessen	-	-	-	0:59:56.234000	0:59:57.654000
 .	-	-	-	0:59:56.234000	0:59:57.654000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:56.234000" end="0:59:57.654000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="0:59:56.234000" end="0:59:57.654000" persName="Informant 0373">
 nein	nein	PART	-	0:59:56.234000	0:59:57.654000
 ,	-	-	-	0:59:56.234000	0:59:57.654000
 das/	-	-	-	0:59:56.234000	0:59:57.654000
@@ -17743,7 +17747,7 @@ hasse	hasse	VERB	-	0:59:56.234000	0:59:57.654000
 ich	ich	PRON	-	0:59:56.234000	0:59:57.654000
 .	-	-	-	0:59:56.234000	0:59:57.654000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:57.654000" end="1:00:03.054000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="0:59:57.654000" end="1:00:03.054000" persName="Informant 0371">
 ja	ja	PART	-	0:59:57.654000	0:59:58.061000
 .	-	-	-	0:59:57.654000	0:59:58.061000
 <pause duration="3,8s"/>
@@ -17756,7 +17760,7 @@ lustig	lustig	ADJ	-	0:59:58.061000	1:00:03.054000
 ja	ja	PART	-	0:59:58.061000	1:00:03.054000
 .	-	-	-	0:59:58.061000	1:00:03.054000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:03.054000" end="1:00:05.374000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:03.054000" end="1:00:05.374000" persName="Informant 0373">
 <pause duration="1,1s"/>
 ja	ja	ADV	-	1:00:03.054000	1:00:05.374000
 vor	vor	ADP	-	1:00:03.054000	1:00:05.374000
@@ -17766,17 +17770,17 @@ es	ich	PRON	-	1:00:03.054000	1:00:05.374000
 ganz/	-	-	-	1:00:03.054000	1:00:05.374000
 .	-	-	-	1:00:03.054000	1:00:05.374000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:05.374000" end="1:00:06.934000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:05.374000" end="1:00:06.934000" persName="Informant 0371">
 harmlos	harmlos	ADJ	-	1:00:05.374000	1:00:06.934000
 .	-	-	-	1:00:05.374000	1:00:06.934000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:06.934000" end="1:00:07.541000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:06.934000" end="1:00:07.541000" persName="Informant 0373">
 so	so	ADV	-	1:00:06.934000	1:00:07.541000
 ist	sein	AUX	-	1:00:06.934000	1:00:07.541000
 es	ich	PRON	-	1:00:06.934000	1:00:07.541000
 .	-	-	-	1:00:06.934000	1:00:07.541000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:07.541000" end="1:00:20.281000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:07.541000" end="1:00:20.281000" persName="Informant 0371">
 <pause duration="2,6s"/>
 nein	nein	PART	-	1:00:07.541000	1:00:10.741000
 ich	ich	PRON	-	1:00:07.541000	1:00:10.741000
@@ -17795,7 +17799,7 @@ hat	-	-	-	1:00:10.741000	1:00:13.441000
 ,	-	-	-	1:00:10.741000	1:00:13.441000
 oder	oder	CCONJ	-	1:00:13.441000	1:00:15.347000
 die	der	DET	-	1:00:13.441000	1:00:15.347000
-[Annika]N	Annika	NOUN	-	1:00:13.441000	1:00:15.347000
+NAME	NAME	NOUN	-	1:00:13.441000	1:00:15.347000
 hat	haben	AUX	-	1:00:13.441000	1:00:15.347000
 erzählt	erzählen	VERB	-	1:00:13.441000	1:00:15.347000
 ,	-	-	-	1:00:13.441000	1:00:15.347000
@@ -17804,7 +17808,7 @@ du	du	PRON	-	1:00:15.347000	1:00:18.594000
 mit	mit	ADP	-	1:00:15.347000	1:00:18.594000
 der	der	DET	-	1:00:15.347000	1:00:18.594000
 <pause duration="1,3s"/>
-[Kathi]N	Kathi	PROPN	-	1:00:15.347000	1:00:18.594000
+NAME	NAME	PROPN	-	1:00:15.347000	1:00:18.594000
 ihrem	mein	DET	-	1:00:15.347000	1:00:18.594000
 Neuen	Neue	NOUN	-	1:00:15.347000	1:00:18.594000
 da	da	ADV	-	1:00:18.594000	1:00:20.281000
@@ -17814,7 +17818,7 @@ ja	ja	ADV	-	1:00:18.594000	1:00:20.281000
 ja	ja	PART	-	1:00:18.594000	1:00:20.281000
 .	-	-	-	1:00:18.594000	1:00:20.281000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:18.594000" end="1:00:25.941000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:18.594000" end="1:00:25.941000" persName="Informant 0373">
 ja	ja	ADV	-	1:00:18.594000	1:00:20.281000
 genau	genau	ADJ	-	1:00:18.594000	1:00:20.281000
 ,	-	-	-	1:00:18.594000	1:00:20.281000
@@ -17835,23 +17839,23 @@ dass	dass	SCONJ	-	1:00:23.021000	1:00:25.941000
 auch)	auch	ADV	-	1:00:23.021000	1:00:25.941000
 bei	bei	ADP	-	1:00:23.021000	1:00:25.941000
 der	der	DET	-	1:00:23.021000	1:00:25.941000
-[Kathi]N	Kathi	PROPN	-	1:00:23.021000	1:00:25.941000
+NAME	NAME	PROPN	-	1:00:23.021000	1:00:25.941000
 darauf	darauf	ADV	-	1:00:23.021000	1:00:25.941000
 ist	sein	AUX	-	1:00:23.021000	1:00:25.941000
 .	-	-	-	1:00:23.021000	1:00:25.941000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:25.941000" end="1:00:26.714000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:25.941000" end="1:00:26.714000" persName="Informant 0371">
 wieso	wieso	ADV	-	1:00:25.941000	1:00:26.714000
 ?	-	-	-	1:00:25.941000	1:00:26.714000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:26.714000" end="1:00:28.287000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:26.714000" end="1:00:28.287000" persName="Informant 0373">
 wir	ich	PRON	-	1:00:26.714000	1:00:28.287000
 haben	haben	AUX	-	1:00:26.714000	1:00:28.287000
 nicht	nicht	PART	-	1:00:26.714000	1:00:28.287000
 gerechnet	rechnen	VERB	-	1:00:26.714000	1:00:28.287000
 ,	-	-	-	1:00:26.714000	1:00:28.287000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:28.287000" end="1:00:29.047000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:28.287000" end="1:00:29.047000" persName="Informant 0371">
 ach	ach	X	-	1:00:28.287000	1:00:29.047000
 so	so	ADV	-	1:00:28.287000	1:00:29.047000
 so	so	ADV	-	1:00:28.287000	1:00:29.047000
@@ -17859,12 +17863,12 @@ so	so	ADV	-	1:00:28.287000	1:00:29.047000
 okay	okay	NOUN	-	1:00:28.287000	1:00:29.047000
 ,	-	-	-	1:00:28.287000	1:00:29.047000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:28.287000" end="1:00:29.047000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:28.287000" end="1:00:29.047000" persName="Informant 0373">
 mit	mit	ADP	-	1:00:28.287000	1:00:29.047000
 dem/	-	-	-	1:00:28.287000	1:00:29.047000
 .	-	-	-	1:00:28.287000	1:00:29.047000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:29.047000" end="1:00:31.067000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:29.047000" end="1:00:31.067000" persName="Informant 0371">
 ich	ich	PRON	-	1:00:29.047000	1:00:29.581000
 habe	habe	AUX	-	1:00:29.047000	1:00:29.581000
 mir	sich	PRON	-	1:00:29.047000	1:00:29.581000
@@ -17877,21 +17881,21 @@ so	so	ADV	-	1:00:29.581000	1:00:31.067000
 ein	einen	DET	-	1:00:29.581000	1:00:31.067000
 Bluts/)	Blut	NOUN	-	1:00:29.581000	1:00:31.067000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:29.581000" end="1:00:31.067000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:29.581000" end="1:00:31.067000" persName="Informant 0373">
 nein	nein	PART	-	1:00:29.581000	1:00:31.067000
 ,	-	-	-	1:00:29.581000	1:00:31.067000
 nur	nur	ADV	-	1:00:29.581000	1:00:31.067000
 so	so	ADV	-	1:00:29.581000	1:00:31.067000
 .	-	-	-	1:00:29.581000	1:00:31.067000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:31.067000" end="1:00:32.414000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:31.067000" end="1:00:32.414000" persName="Informant 0371">
 oder	oder	CCONJ	-	1:00:31.067000	1:00:32.414000
 was	was	PRON	-	1:00:31.067000	1:00:32.414000
 weiß	weiß	VERB	-	1:00:31.067000	1:00:32.414000
 ich	ich	PRON	-	1:00:31.067000	1:00:32.414000
 .	-	-	-	1:00:31.067000	1:00:32.414000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:31.067000" end="1:00:32.414000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:31.067000" end="1:00:32.414000" persName="Informant 0373">
 nein	nein	PART	-	1:00:31.067000	1:00:32.414000
 ,	-	-	-	1:00:31.067000	1:00:32.414000
 der	der	PRON	-	1:00:31.067000	1:00:32.414000
@@ -17899,7 +17903,7 @@ ist	sein	AUX	-	1:00:31.067000	1:00:32.414000
 lässig	lässig	ADJ	-	1:00:31.067000	1:00:32.414000
 .	-	-	-	1:00:31.067000	1:00:32.414000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:32.414000" end="1:00:36.574000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:32.414000" end="1:00:36.574000" persName="Informant 0371">
 <pause duration="1,1s"/>
 die	der	DET	-	1:00:32.414000	1:00:34.027000
 (Ebenseer)	Ebenseer	NOUN	-	1:00:32.414000	1:00:34.027000
@@ -17919,17 +17923,17 @@ mitgefahren	mitfahren	NOUN	-	1:00:34.787000	1:00:36.574000
 sind	sein	AUX	-	1:00:34.787000	1:00:36.574000
 .	-	-	-	1:00:34.787000	1:00:36.574000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:36.574000" end="1:00:37.234000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:36.574000" end="1:00:37.234000" persName="Informant 0373">
 (bist	-	-	-	1:00:36.574000	1:00:37.234000
 du/	-	-	-	1:00:36.574000	1:00:37.234000
 .)	-	-	-	1:00:36.574000	1:00:37.234000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:37.234000" end="1:00:38.794000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:37.234000" end="1:00:38.794000" persName="Informant 0371">
 ,	-	-	-	1:00:37.234000	1:00:38.794000
 Alter	alt	NOUN	-	1:00:37.234000	1:00:38.794000
 .	-	-	-	1:00:37.234000	1:00:38.794000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:38.794000" end="1:00:42.967000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:38.794000" end="1:00:42.967000" persName="Informant 0373">
 da	-	-	-	1:00:38.794000	1:00:41.761000
 *wirst*	-	-	-	1:00:38.794000	1:00:41.761000
 nämlich/	-	-	-	1:00:38.794000	1:00:41.761000
@@ -17947,9 +17951,9 @@ Landjugend	Landjugend	NOUN	-	1:00:41.761000	1:00:42.967000
 nicht	nicht	PART	-	1:00:41.761000	1:00:42.967000
 ,	-	-	-	1:00:41.761000	1:00:42.967000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:42.967000" end="1:00:45.694000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:42.967000" end="1:00:45.694000" persName="Informant 0371">
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:42.967000" end="1:00:45.694000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:42.967000" end="1:00:45.694000" persName="Informant 0373">
 und	-	-	-	1:00:42.967000	1:00:45.694000
 dann	-	-	-	1:00:42.967000	1:00:45.694000
 *kommst*	-	-	-	1:00:42.967000	1:00:45.694000
@@ -17961,7 +17965,7 @@ als	-	-	-	1:00:42.967000	1:00:45.694000
 Erstes	-	-	-	1:00:42.967000	1:00:45.694000
 .	-	-	-	1:00:42.967000	1:00:45.694000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:45.694000" end="1:00:48.674000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:45.694000" end="1:00:48.674000" persName="Informant 0371">
 ja	ja	ADV	-	1:00:45.694000	1:00:47.601000
 aber	aber	ADV	-	1:00:45.694000	1:00:47.601000
 heuer	heuer	ADV	-	1:00:45.694000	1:00:47.601000
@@ -17976,7 +17980,7 @@ nicht	nicht	PART	-	1:00:47.601000	1:00:48.674000
 lustig	lustig	ADJ	-	1:00:47.601000	1:00:48.674000
 .	-	-	-	1:00:47.601000	1:00:48.674000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:48.674000" end="1:00:50.474000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:48.674000" end="1:00:50.474000" persName="Informant 0373">
 es/	-	-	-	1:00:48.674000	1:00:50.474000
 .	-	-	-	1:00:48.674000	1:00:50.474000
 ja	-	-	-	1:00:48.674000	1:00:50.474000
@@ -17986,7 +17990,7 @@ lauter	-	-	-	1:00:48.674000	1:00:50.474000
 hast)	-	-	-	1:00:48.674000	1:00:50.474000
 .	-	-	-	1:00:48.674000	1:00:50.474000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:50.474000" end="1:01:01.294000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:00:50.474000" end="1:01:01.294000" persName="Informant 0371">
 nein	nein	PART	-	1:00:50.474000	1:00:51.394000
 nicht	nicht	PART	-	1:00:50.474000	1:00:51.394000
 nur	nur	ADV	-	1:00:50.474000	1:00:51.394000
@@ -18036,7 +18040,7 @@ hinten	-	-	-	1:00:59.614000	1:01:01.294000
 geblieben	-	-	-	1:00:59.614000	1:01:01.294000
 .	-	-	-	1:00:59.614000	1:01:01.294000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:59.614000" end="1:01:01.294000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:00:59.614000" end="1:01:01.294000" persName="Informant 0373">
 nein	nein	PART	-	1:00:59.614000	1:01:01.294000
 ,	-	-	-	1:00:59.614000	1:01:01.294000
 da	da	SCONJ	-	1:00:59.614000	1:01:01.294000
@@ -18046,7 +18050,7 @@ hinten	hinten	ADV	-	1:00:59.614000	1:01:01.294000
 geblieben	bleiben	VERB	-	1:00:59.614000	1:01:01.294000
 .	-	-	-	1:00:59.614000	1:01:01.294000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:01.294000" end="1:01:07.714000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:01.294000" end="1:01:07.714000" persName="Informant 0371">
 da	da	ADV	-	1:01:01.294000	1:01:02.787000
 haben	haben	AUX	-	1:01:01.294000	1:01:02.787000
 sie	ich	PRON	-	1:01:01.294000	1:01:02.787000
@@ -18073,7 +18077,7 @@ und	und	CCONJ	-	1:01:05.861000	1:01:07.714000
 alles	alle	PRON	-	1:01:05.861000	1:01:07.714000
 .	-	-	-	1:01:05.861000	1:01:07.714000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:05.861000" end="1:01:09.541000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:05.861000" end="1:01:09.541000" persName="Informant 0373">
 aber	aber	CCONJ	-	1:01:05.861000	1:01:07.714000
 das	der	PRON	-	1:01:05.861000	1:01:07.714000
 wird	werden	AUX	-	1:01:05.861000	1:01:07.714000
@@ -18088,11 +18092,11 @@ tun	tun	VERB	-	1:01:08.501000	1:01:09.541000
 so	so	ADV	-	1:01:08.501000	1:01:09.541000
 blöd	blöd	ADJ	-	1:01:08.501000	1:01:09.541000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:09.541000" end="1:01:10.167000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:09.541000" end="1:01:10.167000" persName="Informant 0371">
 ja	ja	PART	-	1:01:09.541000	1:01:10.167000
 .	-	-	-	1:01:09.541000	1:01:10.167000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:09.541000" end="1:01:15.147000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:09.541000" end="1:01:15.147000" persName="Informant 0373">
 schon	schon	ADV	-	1:01:09.541000	1:01:10.167000
 .	-	-	-	1:01:09.541000	1:01:10.167000
 *hast*	-	-	-	1:01:10.167000	1:01:11.947000
@@ -18117,11 +18121,11 @@ herausgezunden	herausgezunden	VERB	-	1:01:11.947000	1:01:15.147000
 hat	haben	AUX	-	1:01:11.947000	1:01:15.147000
 ?	-	-	-	1:01:11.947000	1:01:15.147000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:15.147000" end="1:01:15.934000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:15.147000" end="1:01:15.934000" persName="Informant 0371">
 warum	warum	ADV	-	1:01:15.147000	1:01:15.934000
 ?	-	-	-	1:01:15.147000	1:01:15.934000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:15.934000" end="1:01:23.394000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:15.934000" end="1:01:23.394000" persName="Informant 0373">
 weil	weil	SCONJ	-	1:01:15.934000	1:01:18.227000
 der	der	DET	-	1:01:15.934000	1:01:18.227000
 Bus	Bus	NOUN	-	1:01:15.934000	1:01:18.227000
@@ -18156,11 +18160,11 @@ Platz	Platz	NOUN	-	1:01:22.554000	1:01:23.394000
 *wost*/	-	-	-	1:01:22.554000	1:01:23.394000
 .	-	-	-	1:01:22.554000	1:01:23.394000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:23.394000" end="1:01:23.941000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:23.394000" end="1:01:23.941000" persName="Informant 0371">
 mhm	mhm	PROPN	-	1:01:23.394000	1:01:23.941000
 .	-	-	-	1:01:23.394000	1:01:23.941000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:23.394000" end="1:01:34.934000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:23.394000" end="1:01:34.934000" persName="Informant 0373">
 der	der	DET	-	1:01:23.394000	1:01:23.941000
 was	was	PRON	-	1:01:23.394000	1:01:23.941000
 zum	zum	ADP	-	1:01:23.941000	1:01:24.921000
@@ -18206,7 +18210,7 @@ die	der	DET	-	1:01:32.647000	1:01:34.934000
 Schuhe	Schuh	NOUN	-	1:01:32.647000	1:01:34.934000
 .	-	-	-	1:01:32.647000	1:01:34.934000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:34.934000" end="1:01:37.747000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:34.934000" end="1:01:37.747000" persName="Informant 0371">
 <pause duration="1,3s"/>
 nein	nein	PART	-	1:01:34.934000	1:01:36.947000
 es	ich	PRON	-	1:01:34.934000	1:01:36.947000
@@ -18216,17 +18220,17 @@ es	ich	PRON	-	1:01:36.947000	1:01:37.747000
 war	sein	AUX	-	1:01:36.947000	1:01:37.747000
 wirklich	wirklich	ADJ	-	1:01:36.947000	1:01:37.747000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:36.947000" end="1:01:37.747000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:36.947000" end="1:01:37.747000" persName="Informant 0373">
 also	also	ADV	-	1:01:36.947000	1:01:37.747000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:37.747000" end="1:01:39.340000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:37.747000" end="1:01:39.340000" persName="Informant 0371">
 nur	nur	ADV	-	1:01:37.747000	1:01:38.534000
 mehr	mehr	ADV	-	1:01:37.747000	1:01:38.534000
 deppert	deppert	ADJ	-	1:01:37.747000	1:01:38.534000
 tun	tun	VERB	-	1:01:38.534000	1:01:39.340000
 .	-	-	-	1:01:38.534000	1:01:39.340000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:38.534000" end="1:01:41.780000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:38.534000" end="1:01:41.780000" persName="Informant 0373">
 ich	ich	PRON	-	1:01:38.534000	1:01:39.340000
 habe	habe	AUX	-	1:01:38.534000	1:01:39.340000
 mir	sich	PRON	-	1:01:38.534000	1:01:39.340000
@@ -18246,11 +18250,11 @@ so	so	ADV	-	1:01:40.947000	1:01:41.780000
 weitertun	weitertun	VERB	-	1:01:40.947000	1:01:41.780000
 .	-	-	-	1:01:40.947000	1:01:41.780000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:41.780000" end="1:01:42.267000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:41.780000" end="1:01:42.267000" persName="Informant 0371">
 mhm	mhm	PROPN	-	1:01:41.780000	1:01:42.267000
 .	-	-	-	1:01:41.780000	1:01:42.267000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:41.780000" end="1:01:44.600000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:41.780000" end="1:01:44.600000" persName="Informant 0373">
 weil	weil	SCONJ	-	1:01:41.780000	1:01:42.267000
 dann	dann	ADV	-	1:01:41.780000	1:01:42.267000
 tut	tun	VERB	-	1:01:41.780000	1:01:42.267000
@@ -18265,7 +18269,7 @@ es	ich	PRON	-	1:01:43.507000	1:01:44.600000
 absagen	absagen	VERB	-	1:01:43.507000	1:01:44.600000
 .	-	-	-	1:01:43.507000	1:01:44.600000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:44.600000" end="1:01:50.754000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:44.600000" end="1:01:50.754000" persName="Informant 0371">
 ja	ja	PART	-	1:01:44.600000	1:01:44.940000
 .	-	-	-	1:01:44.600000	1:01:44.940000
 <pause duration="1,3s"/>
@@ -18285,15 +18289,15 @@ Autos	Auto	NOUN	-	1:01:44.940000	1:01:50.154000
 aufgehalten	aufhalten	VERB	-	1:01:50.154000	1:01:50.754000
 und	und	CCONJ	-	1:01:50.154000	1:01:50.754000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:50.154000" end="1:01:50.754000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:50.154000" end="1:01:50.754000" persName="Informant 0373">
 ja	ja	PART	-	1:01:50.154000	1:01:50.754000
 .	-	-	-	1:01:50.154000	1:01:50.754000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:50.754000" end="1:01:51.214000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:50.754000" end="1:01:51.214000" persName="Informant 0371">
 nur/	-	-	-	1:01:50.754000	1:01:51.214000
 .	-	-	-	1:01:50.754000	1:01:51.214000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:50.754000" end="1:01:54.827000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:50.754000" end="1:01:54.827000" persName="Informant 0373">
 nur	nur	ADV	-	1:01:50.754000	1:01:51.214000
 mehr	mehr	PRON	-	1:01:51.214000	1:01:51.720000
 (wettern)	wettern	VERB	-	1:01:51.214000	1:01:51.720000
@@ -18305,7 +18309,7 @@ Scheibenwischer	Scheibenwischer	NOUN	-	1:01:52.487000	1:01:54.827000
 herummurksen	herummurksen	VERB	-	1:01:52.487000	1:01:54.827000
 .	-	-	-	1:01:52.487000	1:01:54.827000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:54.827000" end="1:01:56.427000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:54.827000" end="1:01:56.427000" persName="Informant 0371">
 ja	ja	PART	-	1:01:54.827000	1:01:55.354000
 ,	-	-	-	1:01:54.827000	1:01:55.354000
 bei	bei	ADP	-	1:01:54.827000	1:01:55.354000
@@ -18313,21 +18317,21 @@ irgendwelche	irgendwelche	DET	-	1:01:55.354000	1:01:56.427000
 Leute	Leute	NOUN	-	1:01:55.354000	1:01:56.427000
 .	-	-	-	1:01:55.354000	1:01:56.427000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:55.354000" end="1:01:57.287000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:55.354000" end="1:01:57.287000" persName="Informant 0373">
 ja	ja	PART	-	1:01:55.354000	1:01:56.427000
 ,	-	-	-	1:01:55.354000	1:01:56.427000
 V/	-	-	-	1:01:56.427000	1:01:57.287000
 Volltrotteln	Volltrotteln	VERB	-	1:01:56.427000	1:01:57.287000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:57.287000" end="1:01:58">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:57.287000" end="1:01:58" persName="Informant 0371">
 und	-	-	-	1:01:57.287000	1:01:58
 das	-	-	-	1:01:57.287000	1:01:58
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:57.287000" end="1:01:58">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:57.287000" end="1:01:58" persName="Informant 0373">
 einfach	einfach	ADJ	-	1:01:57.287000	1:01:58
 .	-	-	-	1:01:57.287000	1:01:58
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:58" end="1:01:59.407000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:58" end="1:01:59.407000" persName="Informant 0371">
 das	-	-	-	1:01:58	1:01:58.980000
 *kannst*	-	-	-	1:01:58	1:01:58.980000
 nicht	-	-	-	1:01:58	1:01:58.980000
@@ -18335,11 +18339,11 @@ ma/	-	-	-	1:01:58	1:01:58.980000
 das	-	-	-	1:01:58.980000	1:01:59.407000
 *kannst*	-	-	-	1:01:58.980000	1:01:59.407000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:58.980000" end="1:01:59.407000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:01:58.980000" end="1:01:59.407000" persName="Informant 0373">
 nein	nein	PART	-	1:01:58.980000	1:01:59.407000
 .	-	-	-	1:01:58.980000	1:01:59.407000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:59.407000" end="1:02:09.874000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:01:59.407000" end="1:02:09.874000" persName="Informant 0371">
 nicht	-	-	-	1:01:59.407000	1:02:00.120000
 machen	-	-	-	1:01:59.407000	1:02:00.120000
 ,	-	-	-	1:01:59.407000	1:02:00.120000
@@ -18390,7 +18394,7 @@ ein	einen	DET	-	1:02:07.854000	1:02:09.874000
 Vollscheiß	Vollscheiß	NOUN	-	1:02:07.854000	1:02:09.874000
 .	-	-	-	1:02:07.854000	1:02:09.874000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:07.854000" end="1:02:15.307000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:07.854000" end="1:02:15.307000" persName="Informant 0373">
 nein	nein	PART	-	1:02:07.854000	1:02:09.874000
 ich	ich	PRON	-	1:02:07.854000	1:02:09.874000
 habe	habe	AUX	-	1:02:07.854000	1:02:09.874000
@@ -18429,12 +18433,12 @@ alles	alle	PRON	-	1:02:13.960000	1:02:15.307000
 abgefuckt	abgefuckt	VERB	-	1:02:13.960000	1:02:15.307000
 .	-	-	-	1:02:13.960000	1:02:15.307000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:15.307000" end="1:02:15.960000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:15.307000" end="1:02:15.960000" persName="Informant 0371">
 ja	ja	ADV	-	1:02:15.307000	1:02:15.960000
 ja	ja	PART	-	1:02:15.307000	1:02:15.960000
 .	-	-	-	1:02:15.307000	1:02:15.960000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:15.960000" end="1:02:24.020000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:15.960000" end="1:02:24.020000" persName="Informant 0373">
 und	und	CCONJ	-	1:02:15.960000	1:02:18.107000
 es	ich	PRON	-	1:02:15.960000	1:02:18.107000
 war	sein	AUX	-	1:02:15.960000	1:02:18.107000
@@ -18473,7 +18477,7 @@ halt	halt	NOUN	-	1:02:22.547000	1:02:24.020000
 nachlässt	nachlässt	PROPN	-	1:02:22.547000	1:02:24.020000
 ,	-	-	-	1:02:22.547000	1:02:24.020000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:24.020000" end="1:02:27.594000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:24.020000" end="1:02:27.594000" persName="Informant 0371">
 da/	-	-	-	1:02:24.020000	1:02:27.594000
 .	-	-	-	1:02:24.020000	1:02:27.594000
 ja	ja	ADV	-	1:02:24.020000	1:02:27.594000
@@ -18487,7 +18491,7 @@ und	-	-	-	1:02:24.020000	1:02:27.594000
 alles	-	-	-	1:02:24.020000	1:02:27.594000
 .	-	-	-	1:02:24.020000	1:02:27.594000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:24.020000" end="1:02:27.594000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:24.020000" end="1:02:27.594000" persName="Informant 0373">
 oft	oft	ADV	-	1:02:24.020000	1:02:27.594000
 dann	dann	ADV	-	1:02:24.020000	1:02:27.594000
 fuckt	fuckt	VERB	-	1:02:24.020000	1:02:27.594000
@@ -18505,7 +18509,7 @@ dumm	dumm	ADJ	-	1:02:24.020000	1:02:27.594000
 tun	tun	VERB	-	1:02:24.020000	1:02:27.594000
 .	-	-	-	1:02:24.020000	1:02:27.594000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:27.594000" end="1:02:31.934000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:27.594000" end="1:02:31.934000" persName="Informant 0371">
 ja	ja	PART	-	1:02:27.594000	1:02:29.040000
 ,	-	-	-	1:02:27.594000	1:02:29.040000
 sie	ich	PRON	-	1:02:27.594000	1:02:29.040000
@@ -18526,11 +18530,11 @@ gewesen	-	-	-	1:02:29.040000	1:02:31.934000
 sein	-	-	-	1:02:29.040000	1:02:31.934000
 .	-	-	-	1:02:29.040000	1:02:31.934000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:31.934000" end="1:02:32.340000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:31.934000" end="1:02:32.340000" persName="Informant 0373">
 ja	ja	PART	-	1:02:31.934000	1:02:32.340000
 .	-	-	-	1:02:31.934000	1:02:32.340000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:32.340000" end="1:02:38.680000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:32.340000" end="1:02:38.680000" persName="Informant 0371">
 ich	ich	PRON	-	1:02:32.340000	1:02:33.740000
 f/	-	-	-	1:02:32.340000	1:02:33.740000
 ähm	ähm	ADJ	-	1:02:32.340000	1:02:33.740000
@@ -18541,8 +18545,8 @@ nicht	nicht	PART	-	1:02:32.340000	1:02:33.740000
 der	der	DET	-	1:02:33.740000	1:02:37.874000
 An/	-	-	-	1:02:33.740000	1:02:37.874000
 den	der	DET	-	1:02:33.740000	1:02:37.874000
-[Wiener	Wiener	ADJ	-	1:02:33.740000	1:02:37.874000
-Andi]N	Andi	NOUN	-	1:02:33.740000	1:02:37.874000
+NAME	NAME	ADJ	-	1:02:33.740000	1:02:37.874000
+NAME	NAME	NOUN	-	1:02:33.740000	1:02:37.874000
 haben	haben	AUX	-	1:02:33.740000	1:02:37.874000
 wir	ich	PRON	-	1:02:33.740000	1:02:37.874000
 überredet	überreden	VERB	-	1:02:33.740000	1:02:37.874000
@@ -18554,8 +18558,8 @@ ich	ich	PRON	-	1:02:33.740000	1:02:37.874000
 ich	ich	PRON	-	1:02:33.740000	1:02:37.874000
 habe	habe	AUX	-	1:02:33.740000	1:02:37.874000
 den	der	DET	-	1:02:33.740000	1:02:37.874000
-[Wiener	Wiener	ADJ	-	1:02:33.740000	1:02:37.874000
-Andi]N	Andi	NOUN	-	1:02:33.740000	1:02:37.874000
+NAME	NAME	ADJ	-	1:02:33.740000	1:02:37.874000
+NAME	NAME	NOUN	-	1:02:33.740000	1:02:37.874000
 überredet	überreden	VERB	-	1:02:33.740000	1:02:37.874000
 ,	-	-	-	1:02:33.740000	1:02:37.874000
 dass	dass	SCONJ	-	1:02:37.874000	1:02:38.680000
@@ -18563,9 +18567,9 @@ er	ich	PRON	-	1:02:37.874000	1:02:38.680000
 mitfährt	mitfahren	VERB	-	1:02:37.874000	1:02:38.680000
 .	-	-	-	1:02:37.874000	1:02:38.680000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:38.680000" end="1:02:39.154000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:38.680000" end="1:02:39.154000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:39.154000" end="1:02:46.327000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:39.154000" end="1:02:46.327000" persName="Informant 0371">
 wir	ich	PRON	-	1:02:39.154000	1:02:39.767000
 haben	haben	AUX	-	1:02:39.154000	1:02:39.767000
 dann	dann	ADV	-	1:02:39.154000	1:02:39.767000
@@ -18579,7 +18583,7 @@ gesessen	sitzen	VERB	-	1:02:39.767000	1:02:40.474000
 habe	habe	AUX	-	1:02:40.474000	1:02:40.794000
 ich	ich	PRON	-	1:02:40.474000	1:02:40.794000
 gesagt	sagen	VERB	-	1:02:40.474000	1:02:40.794000
-"[Andi]N	Andi	NOUN	-	1:02:40.794000	1:02:43.580000
+NAME	NAME	NOUN	-	1:02:40.794000	1:02:43.580000
 ,	-	-	-	1:02:40.794000	1:02:43.580000
 nächstes	nächst	ADJ	-	1:02:40.794000	1:02:43.580000
 Jahr	Jahr	NOUN	-	1:02:40.794000	1:02:43.580000
@@ -18598,20 +18602,20 @@ er	ich	PRON	-	1:02:45.007000	1:02:46.327000
 gesagt	sagen	VERB	-	1:02:45.007000	1:02:46.327000
 .	-	-	-	1:02:45.007000	1:02:46.327000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:45.007000" end="1:02:46.327000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:45.007000" end="1:02:46.327000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:46.327000" end="1:02:47.900000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:46.327000" end="1:02:47.900000" persName="Informant 0371">
 "ja	ja	PART	-	1:02:46.327000	1:02:47.900000
 okay	okay	VERB	-	1:02:46.327000	1:02:47.900000
 ,	-	-	-	1:02:46.327000	1:02:47.900000
 passt	passt	PROPN	-	1:02:46.327000	1:02:47.900000
 ."	-	-	-	1:02:46.327000	1:02:47.900000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:47.900000" end="1:02:48.360000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:47.900000" end="1:02:48.360000" persName="Informant 0373">
 ja	ja	PART	-	1:02:47.900000	1:02:48.360000
 .	-	-	-	1:02:47.900000	1:02:48.360000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:48.360000" end="1:02:50.547000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:48.360000" end="1:02:50.547000" persName="Informant 0371">
 weil	weil	SCONJ	-	1:02:48.360000	1:02:50.547000
 das	der	PRON	-	1:02:48.360000	1:02:50.547000
 ist	sein	AUX	-	1:02:48.360000	1:02:50.547000
@@ -18620,11 +18624,11 @@ zugleich	zugleich	ADV	-	1:02:48.360000	1:02:50.547000
 (Demmerkogel)rallye	Demmerkogelrallye	NOUN	-	1:02:48.360000	1:02:50.547000
 .	-	-	-	1:02:48.360000	1:02:50.547000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:50.547000" end="1:02:51.507000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:50.547000" end="1:02:51.507000" persName="Informant 0373">
 okay	okay	NOUN	-	1:02:50.547000	1:02:51.507000
 .	-	-	-	1:02:50.547000	1:02:51.507000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:51.507000" end="1:02:54.907000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:51.507000" end="1:02:54.907000" persName="Informant 0371">
 und	und	CCONJ	-	1:02:51.507000	1:02:52.747000
 da	da	ADV	-	1:02:51.507000	1:02:52.747000
 haben	haben	AUX	-	1:02:51.507000	1:02:52.747000
@@ -18643,14 +18647,14 @@ passt	passt	PROPN	-	1:02:54.187000	1:02:54.907000
 genau	genau	ADJ	-	1:02:54.187000	1:02:54.907000
 .	-	-	-	1:02:54.187000	1:02:54.907000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:54.907000" end="1:02:56.027000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:54.907000" end="1:02:56.027000" persName="Informant 0373">
 ja	ja	ADV	-	1:02:54.907000	1:02:56.027000
 wird	werden	AUX	-	1:02:54.907000	1:02:56.027000
 (nichts)	nichts	PRON	-	1:02:54.907000	1:02:56.027000
 sein	mein	AUX	-	1:02:54.907000	1:02:56.027000
 .	-	-	-	1:02:54.907000	1:02:56.027000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:56.027000" end="1:03:00.607000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:02:56.027000" end="1:03:00.607000" persName="Informant 0371">
 ja	-	-	-	1:02:56.027000	1:02:58.647000
 und	-	-	-	1:02:56.027000	1:02:58.647000
 aber	-	-	-	1:02:56.027000	1:02:58.647000
@@ -18667,12 +18671,12 @@ kannst	können	VERB	-	1:02:58.647000	1:03:00.607000
 die	der	DET	-	1:02:58.647000	1:03:00.607000
 Fragen	Frage	NOUN	-	1:02:58.647000	1:03:00.607000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:58.647000" end="1:03:00.607000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:02:58.647000" end="1:03:00.607000" persName="Informant 0373">
 so	so	ADV	-	1:02:58.647000	1:03:00.607000
 geschissen	scheißen	VERB	-	1:02:58.647000	1:03:00.607000
 .	-	-	-	1:02:58.647000	1:03:00.607000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:00.607000" end="1:03:02.547000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:00.607000" end="1:03:02.547000" persName="Informant 0371">
 nicht	nicht	PART	-	1:03:00.607000	1:03:02.547000
 mehr	mehr	ADV	-	1:03:00.607000	1:03:02.547000
 ohne	ohne	ADP	-	1:03:00.607000	1:03:02.547000
@@ -18680,13 +18684,13 @@ Google	Google	PROPN	-	1:03:00.607000	1:03:02.547000
 beantworten	beantworten	VERB	-	1:03:00.607000	1:03:02.547000
 .	-	-	-	1:03:00.607000	1:03:02.547000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:02.547000" end="1:03:03.034000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:02.547000" end="1:03:03.034000" persName="Informant 0373">
 es	ich	PRON	-	1:03:02.547000	1:03:03.034000
 ist	sein	AUX	-	1:03:02.547000	1:03:03.034000
 so	so	ADV	-	1:03:02.547000	1:03:03.034000
 .	-	-	-	1:03:02.547000	1:03:03.034000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:03.034000" end="1:03:05.800000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:03.034000" end="1:03:05.800000" persName="Informant 0371">
 neunzig	neunzig	NUM	-	1:03:03.034000	1:03:05.380000
 Prozent	Prozent	NOUN	-	1:03:03.034000	1:03:05.380000
 von	von	ADP	-	1:03:03.034000	1:03:05.380000
@@ -18700,7 +18704,7 @@ beantworten	beantworten	VERB	-	1:03:03.034000	1:03:05.380000
 so	so	ADV	-	1:03:05.380000	1:03:05.800000
 .	-	-	-	1:03:05.380000	1:03:05.800000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:05.380000" end="1:03:10.280000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:05.380000" end="1:03:10.280000" persName="Informant 0373">
 es	ich	PRON	-	1:03:05.380000	1:03:05.800000
 ist	sein	AUX	-	1:03:05.380000	1:03:05.800000
 so	so	ADV	-	1:03:05.380000	1:03:05.800000
@@ -18721,7 +18725,7 @@ Allgemeinwissen	-	-	-	1:03:06.914000	1:03:10.280000
 aufgeschmissen	-	-	-	1:03:06.914000	1:03:10.280000
 .	-	-	-	1:03:06.914000	1:03:10.280000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:10.280000" end="1:03:12.027000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:10.280000" end="1:03:12.027000" persName="Informant 0371">
 ja	ja	PART	-	1:03:10.280000	1:03:10.627000
 .	-	-	-	1:03:10.280000	1:03:10.627000
 und	und	CCONJ	-	1:03:10.627000	1:03:12.027000
@@ -18732,11 +18736,11 @@ das	der	DET	-	1:03:10.627000	1:03:12.027000
 lustige	lustige	ADJ	-	1:03:10.627000	1:03:12.027000
 .	-	-	-	1:03:10.627000	1:03:12.027000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:12.027000" end="1:03:12.294000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:12.027000" end="1:03:12.294000" persName="Informant 0373">
 ja	ja	PART	-	1:03:12.027000	1:03:12.294000
 .	-	-	-	1:03:12.027000	1:03:12.294000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:12.294000" end="1:03:26.094000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:12.294000" end="1:03:26.094000" persName="Informant 0371">
 und	und	CCONJ	-	1:03:12.294000	1:03:13.554000
 ich	ich	PRON	-	1:03:12.294000	1:03:13.554000
 versteh	versteh	VERB	-	1:03:12.294000	1:03:13.554000
@@ -18751,7 +18755,7 @@ der	der	DET	-	1:03:13.554000	1:03:17.514000
 <pause duration="1,0s"/>
 mit	mit	ADP	-	1:03:13.554000	1:03:17.514000
 der	der	DET	-	1:03:13.554000	1:03:17.514000
-[Birgit]N	Birgit	NOUN	-	1:03:13.554000	1:03:17.514000
+NAME	NAME	NOUN	-	1:03:13.554000	1:03:17.514000
 geredet	reden	VERB	-	1:03:13.554000	1:03:17.514000
 .	-	-	-	1:03:13.554000	1:03:17.514000
 habe	habe	AUX	-	1:03:17.514000	1:03:18.334000
@@ -18795,11 +18799,11 @@ gesagt	sagen	VERB	-	1:03:25.200000	1:03:26.094000
 nicht	nicht	PART	-	1:03:25.200000	1:03:26.094000
 ?"	-	-	-	1:03:25.200000	1:03:26.094000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:26.094000" end="1:03:26.580000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:26.094000" end="1:03:26.580000" persName="Informant 0373">
 ja	ja	PART	-	1:03:26.094000	1:03:26.580000
 .	-	-	-	1:03:26.094000	1:03:26.580000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:26.580000" end="1:03:28.447000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:26.580000" end="1:03:28.447000" persName="Informant 0371">
 was	was	PRON	-	1:03:26.580000	1:03:27.027000
 ist	sein	AUX	-	1:03:26.580000	1:03:27.027000
 dabei	dabei	ADV	-	1:03:27.027000	1:03:28.447000
@@ -18808,7 +18812,7 @@ wenn	wenn	SCONJ	-	1:03:27.027000	1:03:28.447000
 der	der	DET	-	1:03:27.027000	1:03:28.447000
 erste	erste	ADJ	-	1:03:27.027000	1:03:28.447000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:27.027000" end="1:03:28.447000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:27.027000" end="1:03:28.447000" persName="Informant 0373">
 das	-	-	-	1:03:27.027000	1:03:28.447000
 ist	-	-	-	1:03:27.027000	1:03:28.447000
 ja	-	-	-	1:03:27.027000	1:03:28.447000
@@ -18816,7 +18820,7 @@ viel	-	-	-	1:03:27.027000	1:03:28.447000
 _klasser_	-	-	-	1:03:27.027000	1:03:28.447000
 .	-	-	-	1:03:27.027000	1:03:28.447000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:28.447000" end="1:03:30.720000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:28.447000" end="1:03:30.720000" persName="Informant 0371">
 nur	nur	ADV	-	1:03:28.447000	1:03:29.860000
 um	um	ADP	-	1:03:28.447000	1:03:29.860000
 einen	ein	DET	-	1:03:28.447000	1:03:29.860000
@@ -18827,13 +18831,13 @@ oder	oder	CCONJ	-	1:03:29.860000	1:03:30.720000
 um	um	ADP	-	1:03:29.860000	1:03:30.720000
 zwanzig	zwanzig	NUM	-	1:03:29.860000	1:03:30.720000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:29.860000" end="1:03:30.720000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:29.860000" end="1:03:30.720000" persName="Informant 0373">
 so	so	ADV	-	1:03:29.860000	1:03:30.720000
 ist	sein	AUX	-	1:03:29.860000	1:03:30.720000
 es	ich	PRON	-	1:03:29.860000	1:03:30.720000
 .	-	-	-	1:03:29.860000	1:03:30.720000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:30.720000" end="1:03:35.594000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:30.720000" end="1:03:35.594000" persName="Informant 0371">
 Punkte	Punkt	NOUN	-	1:03:30.720000	1:03:31.154000
 .	-	-	-	1:03:30.720000	1:03:31.154000
 gewonnen	gewinnen	VERB	-	1:03:31.154000	1:03:31.874000
@@ -18861,11 +18865,11 @@ wissen	wissen	VERB	-	1:03:34.500000	1:03:35.594000
 kann	können	VERB	-	1:03:34.500000	1:03:35.594000
 ,	-	-	-	1:03:34.500000	1:03:35.594000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:35.594000" end="1:03:36.007000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:35.594000" end="1:03:36.007000" persName="Informant 0373">
 ja	ja	PART	-	1:03:35.594000	1:03:36.007000
 .	-	-	-	1:03:35.594000	1:03:36.007000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:36.007000" end="1:03:39.380000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:36.007000" end="1:03:39.380000" persName="Informant 0371">
 als	als	SCONJ	-	1:03:36.007000	1:03:37.147000
 wie	wie	ADV	-	1:03:36.007000	1:03:37.147000
 ich	ich	PRON	-	1:03:36.007000	1:03:37.147000
@@ -18883,7 +18887,7 @@ lang	langen	ADJ	-	1:03:37.147000	1:03:39.380000
 googlen	googlen	VERB	Prog ProgKon tunP	1:03:37.147000	1:03:39.380000
 .	-	-	-	1:03:37.147000	1:03:39.380000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:37.147000" end="1:03:41.314000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:37.147000" end="1:03:41.314000" persName="Informant 0373">
 weil	weil	SCONJ	-	1:03:37.147000	1:03:39.380000
 wenn/	-	-	-	1:03:37.147000	1:03:39.380000
 .	-	-	-	1:03:37.147000	1:03:39.380000
@@ -18902,7 +18906,7 @@ keiner	kein	PRON	-	1:03:40.027000	1:03:41.314000
 was	was	PRON	-	1:03:40.027000	1:03:41.314000
 ,	-	-	-	1:03:40.027000	1:03:41.314000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:41.314000" end="1:03:43.154000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:41.314000" end="1:03:43.154000" persName="Informant 0371">
 nein	nein	PART	-	1:03:41.314000	1:03:43.154000
 ,	-	-	-	1:03:41.314000	1:03:43.154000
 und	und	CCONJ	-	1:03:41.314000	1:03:43.154000
@@ -18914,7 +18918,7 @@ keinen	kein	DET	-	1:03:41.314000	1:03:43.154000
 mehr	mehr	PRON	-	1:03:41.314000	1:03:43.154000
 .	-	-	-	1:03:41.314000	1:03:43.154000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:41.314000" end="1:03:43.700000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:41.314000" end="1:03:43.700000" persName="Informant 0373">
 was	was	PRON	-	1:03:41.314000	1:03:43.154000
 was/	-	-	-	1:03:41.314000	1:03:43.154000
 .	-	-	-	1:03:41.314000	1:03:43.154000
@@ -18927,13 +18931,13 @@ halt	halt	ADV	-	1:03:43.154000	1:03:43.700000
 alles	alle	PRON	-	1:03:43.154000	1:03:43.700000
 .	-	-	-	1:03:43.154000	1:03:43.700000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:43.700000" end="1:03:44.134000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:43.700000" end="1:03:44.134000" persName="Informant 0371">
 ja	ja	PART	-	1:03:43.700000	1:03:44.134000
 .	-	-	-	1:03:43.700000	1:03:44.134000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:44.134000" end="1:03:45.034000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:44.134000" end="1:03:45.034000" persName="Informant 0373">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:45.034000" end="1:03:49.800000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:45.034000" end="1:03:49.800000" persName="Informant 0371">
 nein	nein	PART	-	1:03:45.034000	1:03:49.254000
 <pause duration="0,9s"/>
 das	der	PRON	-	1:03:45.034000	1:03:49.254000
@@ -18948,7 +18952,7 @@ finde	finden	VERB	-	1:03:49.254000	1:03:49.800000
 ich	ich	PRON	-	1:03:49.254000	1:03:49.800000
 .	-	-	-	1:03:49.254000	1:03:49.800000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:49.800000" end="1:03:52.274000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:49.800000" end="1:03:52.274000" persName="Informant 0373">
 nein	nein	PART	-	1:03:49.800000	1:03:51.727000
 ,	-	-	-	1:03:49.800000	1:03:51.727000
 sie	ich	PRON	-	1:03:49.800000	1:03:51.727000
@@ -18962,7 +18966,7 @@ Rallye	Rallye	NOUN	-	1:03:49.800000	1:03:51.727000
 wenn/	-	-	-	1:03:51.727000	1:03:52.274000
 .	-	-	-	1:03:51.727000	1:03:52.274000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:52.274000" end="1:03:56.047000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:52.274000" end="1:03:56.047000" persName="Informant 0371">
 ja	ja	PART	-	1:03:52.274000	1:03:53.474000
 .	-	-	-	1:03:52.274000	1:03:53.474000
 und	und	CCONJ	-	1:03:53.474000	1:03:54.540000
@@ -18978,11 +18982,11 @@ so	so	ADV	-	1:03:55.474000	1:03:56.047000
 blöd	blöd	ADJ	-	1:03:55.474000	1:03:56.047000
 zum	zum	ADP	-	1:03:55.474000	1:03:56.047000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:55.474000" end="1:03:56.047000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:55.474000" end="1:03:56.047000" persName="Informant 0373">
 Alter	alt	NOUN	-	1:03:55.474000	1:03:56.047000
 .	-	-	-	1:03:55.474000	1:03:56.047000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:56.047000" end="1:03:57.220000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:03:56.047000" end="1:03:57.220000" persName="Informant 0371">
 Tun	Tun	NOUN	-	1:03:56.047000	1:03:56.394000
 an	an	ADP	-	1:03:56.047000	1:03:56.394000
 ,	-	-	-	1:03:56.047000	1:03:56.394000
@@ -18991,7 +18995,7 @@ nichts	nichts	PRON	-	1:03:56.394000	1:03:57.220000
 mehr/	-	-	-	1:03:56.394000	1:03:57.220000
 .	-	-	-	1:03:56.394000	1:03:57.220000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:57.220000" end="1:04:00.107000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:03:57.220000" end="1:04:00.107000" persName="Informant 0373">
 das	der	PRON	-	1:03:57.220000	1:03:58.667000
 habe	habe	AUX	-	1:03:57.220000	1:03:58.667000
 ich	ich	PRON	-	1:03:57.220000	1:03:58.667000
@@ -19008,55 +19012,55 @@ gut	gut	ADJ	-	1:03:58.667000	1:04:00.107000
 gehen	gehen	VERB	-	1:03:58.667000	1:04:00.107000
 .	-	-	-	1:03:58.667000	1:04:00.107000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:00.107000" end="1:04:00.720000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:00.107000" end="1:04:00.720000" persName="Informant 0371">
 nein	nein	PART	-	1:04:00.107000	1:04:00.720000
 .	-	-	-	1:04:00.107000	1:04:00.720000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:00.720000" end="1:04:01.614000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:00.720000" end="1:04:01.614000" persName="Informant 0373">
 wenn	wenn	SCONJ	-	1:04:00.720000	1:04:01.614000
 sie	ich	PRON	-	1:04:00.720000	1:04:01.614000
 so	so	ADV	-	1:04:00.720000	1:04:01.614000
 deppert	deppert	ADJ	-	1:04:00.720000	1:04:01.614000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:01.614000" end="1:04:02.034000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:01.614000" end="1:04:02.034000" persName="Informant EXP5">
 hallo	hallo	PROPN	-	1:04:01.614000	1:04:02.034000
 .	-	-	-	1:04:01.614000	1:04:02.034000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:01.614000" end="1:04:02.034000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:01.614000" end="1:04:02.034000" persName="Informant 0373">
 tun	tun	VERB	-	1:04:01.614000	1:04:02.034000
 .	-	-	-	1:04:01.614000	1:04:02.034000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:02.034000" end="1:04:02.820000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:02.034000" end="1:04:02.820000" persName="Informant EXP5">
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:02.034000" end="1:04:02.820000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:02.034000" end="1:04:02.820000" persName="Informant 0371">
 so	so	ADV	-	1:04:02.034000	1:04:02.820000
 ist	sein	AUX	-	1:04:02.034000	1:04:02.820000
 es	ich	PRON	-	1:04:02.034000	1:04:02.820000
 .	-	-	-	1:04:02.034000	1:04:02.820000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:02.034000" end="1:04:02.820000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:02.034000" end="1:04:02.820000" persName="Informant 0373">
 hallo	hallo	PROPN	-	1:04:02.034000	1:04:02.820000
 .	-	-	-	1:04:02.034000	1:04:02.820000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:02.820000" end="1:04:03.294000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:02.820000" end="1:04:03.294000" persName="Informant 0371">
 hallo	hallo	PROPN	-	1:04:02.820000	1:04:03.294000
 .	-	-	-	1:04:02.820000	1:04:03.294000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:03.294000" end="1:04:04.254000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:03.294000" end="1:04:04.254000" persName="Informant EXP5">
 geht	gehen	VERB	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:04:03.294000	1:04:03.834000
 es	ich	PRON	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:04:03.294000	1:04:03.834000
 ?	-	-	-	1:04:03.294000	1:04:03.834000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:03.834000" end="1:04:04.947000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:03.834000" end="1:04:04.947000" persName="Informant 0371">
 ja	ja	ADV	-	1:04:03.834000	1:04:04.254000
 sicher	sichern	ADJ	-	1:04:04.254000	1:04:04.947000
 .	-	-	-	1:04:04.254000	1:04:04.947000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:04.254000" end="1:04:04.947000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:04.254000" end="1:04:04.947000" persName="Informant 0373">
 super	super	PROPN	-	1:04:04.254000	1:04:04.947000
 .	-	-	-	1:04:04.254000	1:04:04.947000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:04.947000" end="1:04:09.307000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:04.947000" end="1:04:09.307000" persName="Informant EXP5">
 gut	gut	ADJ	-	1:04:04.947000	1:04:05.847000
 .	-	-	-	1:04:04.947000	1:04:05.847000
 <pause duration="1,1s"/>
@@ -19066,20 +19070,20 @@ was	was	PRON	-	1:04:05.847000	1:04:08.480000
 eingefallen	einfallen	VERB	-	1:04:05.847000	1:04:08.480000
 ?	-	-	-	1:04:05.847000	1:04:08.480000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:08.480000" end="1:04:09.307000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:08.480000" end="1:04:09.307000" persName="Informant 0371">
 ja	ja	PART	-	1:04:08.480000	1:04:09.307000
 .	-	-	-	1:04:08.480000	1:04:09.307000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:08.480000" end="1:04:09.307000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:08.480000" end="1:04:09.307000" persName="Informant 0373">
 ja	ja	PART	-	1:04:08.480000	1:04:09.307000
 .	-	-	-	1:04:08.480000	1:04:09.307000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:09.307000" end="1:04:09.887000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:09.307000" end="1:04:09.887000" persName="Informant 0371">
 ich	ich	PRON	-	1:04:09.307000	1:04:09.887000
 glaube	glauben	VERB	-	1:04:09.307000	1:04:09.887000
 .	-	-	-	1:04:09.307000	1:04:09.887000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:09.307000" end="1:04:11.607000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:09.307000" end="1:04:11.607000" persName="Informant 0373">
 (genug)	genug	ADV	-	1:04:09.307000	1:04:09.887000
 .	-	-	-	1:04:09.307000	1:04:09.887000
 ich	ich	PRON	-	1:04:09.887000	1:04:10.467000
@@ -19092,39 +19096,39 @@ immer	immer	ADV	-	1:04:10.467000	1:04:11.607000
 dazupasst	dazupasst	VERB	-	1:04:10.467000	1:04:11.607000
 ,	-	-	-	1:04:10.467000	1:04:11.607000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:11.607000" end="1:04:12.867000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:11.607000" end="1:04:12.867000" persName="Informant 0371">
 nein	nein	PART	-	1:04:11.607000	1:04:12.867000
 ,	-	-	-	1:04:11.607000	1:04:12.867000
 wohl	wohl	ADV	-	1:04:11.607000	1:04:12.867000
 ein	einen	DET	-	1:04:11.607000	1:04:12.867000
 paar	paar	NOUN	-	1:04:11.607000	1:04:12.867000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:11.607000" end="1:04:12.867000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:11.607000" end="1:04:12.867000" persName="Informant 0373">
 aber	aber	CCONJ	-	1:04:11.607000	1:04:12.867000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:12.867000" end="1:04:13.967000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:12.867000" end="1:04:13.967000" persName="Informant EXP5">
 irgendwie	irgendwie	ADV	-	1:04:12.867000	1:04:13.967000
 passt	passt	PROPN	-	1:04:12.867000	1:04:13.967000
 es	ich	PRON	-	1:04:12.867000	1:04:13.967000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:12.867000" end="1:04:13.967000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:12.867000" end="1:04:13.967000" persName="Informant 0371">
 haben	haben	AUX	-	1:04:12.867000	1:04:13.967000
 wir	ich	PRON	-	1:04:12.867000	1:04:13.967000
 haben	haben	AUX	-	1:04:12.867000	1:04:13.967000
 wir	ich	PRON	-	1:04:12.867000	1:04:13.967000
 ähm	ähm	PRON	-	1:04:12.867000	1:04:13.967000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:13.967000" end="1:04:14.627000">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:13.967000" end="1:04:14.627000" persName="Informant EXP5">
 sicher	sichern	ADJ	-	1:04:13.967000	1:04:14.627000
 dazu	dazu	ADV	-	1:04:13.967000	1:04:14.627000
 .	-	-	-	1:04:13.967000	1:04:14.627000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:13.967000" end="1:04:14.627000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:13.967000" end="1:04:14.627000" persName="Informant 0373">
 ein	einen	DET	-	1:04:13.967000	1:04:14.627000
 paar	paar	NOUN	-	1:04:13.967000	1:04:14.627000
 haben	haben	AUX	-	1:04:13.967000	1:04:14.627000
 </u>
-<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:14.627000" end="1:04:15.954000">
+<u who="spk_488" sex="male" age="jung (18-35) +matura" name="Informant 0371" start="1:04:14.627000" end="1:04:15.954000" persName="Informant 0371">
 ein	einen	DET	-	1:04:14.627000	1:04:15.954000
 paar	paar	NOUN	-	1:04:14.627000	1:04:15.954000
 haben	haben	AUX	-	1:04:14.627000	1:04:15.954000
@@ -19132,7 +19136,7 @@ wir	ich	PRON	-	1:04:14.627000	1:04:15.954000
 abgearbeitet	abarbeiten	VERB	-	1:04:14.627000	1:04:15.954000
 .	-	-	-	1:04:14.627000	1:04:15.954000
 </u>
-<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:14.627000" end="1:04:15.954000">
+<u who="spk_502" sex="male" age="jung (18-35) -matura" name="Informant 0373" start="1:04:14.627000" end="1:04:15.954000" persName="Informant 0373">
 wir	ich	PRON	-	1:04:14.627000	1:04:15.954000
 schon	schon	ADV	-	1:04:14.627000	1:04:15.954000
 abgearbeitet	abarbeiten	VERB	-	1:04:14.627000	1:04:15.954000

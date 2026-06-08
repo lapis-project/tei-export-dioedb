@@ -1,12 +1,12 @@
-<doc id="transcript_472">
+<doc id="transcript_472" name="0482_TAUF_jungII_f_INT" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="472.xml" title="Transcript: Transcript_472">
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:08.046000">
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:08.046000" persName="Informant 0482">
 Nordwind	Nordwind	NOUN	-	0:00:06.240000	0:00:08.046000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:06.240000" end="0:00:08.046000">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:06.240000" end="0:00:08.046000" persName="Informant EXP11">
 XXX	-	-	-	0:00:06.240000	0:00:08.046000
 </u>
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:53.233000">
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:53.233000" persName="Informant 0482">
 und	und	CCONJ	-	0:00:06.240000	0:00:08.046000
 Sonne	sonnen	NOUN	-	0:00:06.240000	0:00:08.046000
 einst	einen	ADV	-	0:00:08.046000	0:00:10.840000
