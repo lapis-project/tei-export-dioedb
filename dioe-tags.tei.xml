@@ -6,10 +6,10 @@
         <title>Feature Structure Declaration for DiÖ Annotation Tags</title>
       </titleStmt>
       <publicationStmt>
-        <p>Generated from dioe-tags.json.</p>
+        <p>Generated from dioe-tags-tree.json.</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Source data is the JSON file: dioe-tags.json.</p>
+        <p>Source data is the JSON file: dioe-tags-tree.json.</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -292,6 +292,105 @@
           </f>
         </fs>
       </f>
+      <f name="SDent" xml:id="tag-4_1">
+        <string>Standarddeutsch Entsprechung</string>
+        <fs type="tag">
+          <f name="sd-" xml:id="tag-6_1">
+            <string>entspricht nicht Standard</string>
+          </f>
+          <f name="sd+" xml:id="tag-5_1">
+            <string>entspricht Standard</string>
+          </f>
+        </fs>
+      </f>
+      <f name="DATP" xml:id="tag-20_1">
+        <string>Auswertung Rezipientenpassiv</string>
+        <fs type="tag">
+          <f name="Pert" xml:id="tag-213_1">
+            <string>Pertinenzelement</string>
+            <fs type="tag">
+              <f name="Pert-" xml:id="tag-215_1">
+                <string>Pertinenzelement ist nicht vorhanden</string>
+              </f>
+              <f name="Pert+" xml:id="tag-214_1">
+                <string>Pertinenzelement ist vorhanden</string>
+              </f>
+            </fs>
+          </f>
+          <f name="Rez" xml:id="tag-28_1">
+            <string>Rezipient</string>
+            <fs type="tag">
+              <f name="R0" xml:id="tag-32_1">
+                <string>nicht realisierter Rezipient</string>
+              </f>
+              <f name="Rpposs" xml:id="tag-31_1">
+                <string>Rezipient im Possessivpronomen</string>
+              </f>
+              <f name="Rsubj" xml:id="tag-30_1">
+                <string>Rezipient im Subjektskasus</string>
+                <fs type="tag">
+                  <f name="Patiens" xml:id="tag-212_1">
+                    <string>Subjekt ist Patiens</string>
+                  </f>
+                  <f name="Agens" xml:id="tag-210_1">
+                    <string>Agens</string>
+                    <fs type="tag">
+                      <f name="Agens+" xml:id="tag-211_1">
+                        <string>Subjekt ist Agens</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="Robj" xml:id="tag-29_1">
+                <string>Rezipient im Objektskasus</string>
+              </f>
+            </fs>
+          </f>
+          <f name="GeVe" xml:id="tag-21_1">
+            <string>Genus Verbi</string>
+            <fs type="tag">
+              <f name="teilM" xml:id="tag-512_1">
+                <string>Teil vom Matrixsatz (bei freien Relativsätzen)</string>
+              </f>
+              <f name="G0" xml:id="tag-87_1">
+                <string>Genus Verbi nicht realisiert / unbestimmbar</string>
+              </f>
+              <f name="Pass" xml:id="tag-23_1">
+                <string>Passiv</string>
+                <fs type="tag">
+                  <f name="habenP" xml:id="tag-216_1">
+                    <string>haben-Passiv/Perfekt</string>
+                  </f>
+                  <f name="KopulaK" xml:id="tag-33_1">
+                    <string>Kopulakonstruktion / Zustandspassivkonstruktion</string>
+                  </f>
+                  <f name="kriegenP" xml:id="tag-26_1">
+                    <string>kriegen-Passiv</string>
+                  </f>
+                  <f name="bekommenP" xml:id="tag-25_1">
+                    <string>bekommen-Passiv</string>
+                  </f>
+                  <f name="werdenP" xml:id="tag-24_1">
+                    <string>werden Passiv</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Akt" xml:id="tag-22_1">
+                <string>Aktiv</string>
+                <fs type="tag">
+                  <f name="DPInfinitivK" xml:id="tag-217_1">
+                    <string>Infinitiv-Konstruktion beim Dativpassiv;</string>
+                  </f>
+                  <f name="lassenK" xml:id="tag-27_1">
+                    <string>lassen-Konstruktion</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
       <f name="COMP" xml:id="tag-37_1">
         <string>Complementizer</string>
         <fs type="tag">
@@ -568,94 +667,6 @@
           </f>
         </fs>
       </f>
-      <f name="DATP" xml:id="tag-20_1">
-        <string>Auswertung Rezipientenpassiv</string>
-        <fs type="tag">
-          <f name="Pert" xml:id="tag-213_1">
-            <string>Pertinenzelement</string>
-            <fs type="tag">
-              <f name="Pert-" xml:id="tag-215_1">
-                <string>Pertinenzelement ist nicht vorhanden</string>
-              </f>
-              <f name="Pert+" xml:id="tag-214_1">
-                <string>Pertinenzelement ist vorhanden</string>
-              </f>
-            </fs>
-          </f>
-          <f name="Rez" xml:id="tag-28_1">
-            <string>Rezipient</string>
-            <fs type="tag">
-              <f name="R0" xml:id="tag-32_1">
-                <string>nicht realisierter Rezipient</string>
-              </f>
-              <f name="Rpposs" xml:id="tag-31_1">
-                <string>Rezipient im Possessivpronomen</string>
-              </f>
-              <f name="Rsubj" xml:id="tag-30_1">
-                <string>Rezipient im Subjektskasus</string>
-                <fs type="tag">
-                  <f name="Patiens" xml:id="tag-212_1">
-                    <string>Subjekt ist Patiens</string>
-                  </f>
-                  <f name="Agens" xml:id="tag-210_1">
-                    <string>Agens</string>
-                    <fs type="tag">
-                      <f name="Agens+" xml:id="tag-211_1">
-                        <string>Subjekt ist Agens</string>
-                      </f>
-                    </fs>
-                  </f>
-                </fs>
-              </f>
-              <f name="Robj" xml:id="tag-29_1">
-                <string>Rezipient im Objektskasus</string>
-              </f>
-            </fs>
-          </f>
-          <f name="GeVe" xml:id="tag-21_1">
-            <string>Genus Verbi</string>
-            <fs type="tag">
-              <f name="teilM" xml:id="tag-512_1">
-                <string>Teil vom Matrixsatz (bei freien Relativsätzen)</string>
-              </f>
-              <f name="G0" xml:id="tag-87_1">
-                <string>Genus Verbi nicht realisiert / unbestimmbar</string>
-              </f>
-              <f name="Pass" xml:id="tag-23_1">
-                <string>Passiv</string>
-                <fs type="tag">
-                  <f name="habenP" xml:id="tag-216_1">
-                    <string>haben-Passiv/Perfekt</string>
-                  </f>
-                  <f name="KopulaK" xml:id="tag-33_1">
-                    <string>Kopulakonstruktion / Zustandspassivkonstruktion</string>
-                  </f>
-                  <f name="kriegenP" xml:id="tag-26_1">
-                    <string>kriegen-Passiv</string>
-                  </f>
-                  <f name="bekommenP" xml:id="tag-25_1">
-                    <string>bekommen-Passiv</string>
-                  </f>
-                  <f name="werdenP" xml:id="tag-24_1">
-                    <string>werden Passiv</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Akt" xml:id="tag-22_1">
-                <string>Aktiv</string>
-                <fs type="tag">
-                  <f name="DPInfinitivK" xml:id="tag-217_1">
-                    <string>Infinitiv-Konstruktion beim Dativpassiv;</string>
-                  </f>
-                  <f name="lassenK" xml:id="tag-27_1">
-                    <string>lassen-Konstruktion</string>
-                  </f>
-                </fs>
-              </f>
-            </fs>
-          </f>
-        </fs>
-      </f>
       <f name="CPers" xml:id="tag-72_1">
         <string>Personalpronomen bei Comp</string>
         <fs type="tag">
@@ -672,6 +683,9 @@
             <string>Personalpronomen bei Comp vorhanden</string>
           </f>
         </fs>
+      </f>
+      <f name="META" xml:id="tag-81_1">
+        <string>Metasprachlicher Kommentar</string>
       </f>
       <f name="PUTT" xml:id="tag-82_1">
         <string>PUT und TAKE</string>
@@ -4824,7 +4838,7 @@
               <f name="Interf+" xml:id="tag-340_1">
                 <string>Interfix vorhanden</string>
                 <fs type="tag">
-                  <f name="sd+" xml:id="tag-5_1">
+                  <f name="sd+" xml:id="tag-5_2">
                     <string>entspricht Standard</string>
                   </f>
                   <f name="vok" xml:id="tag-457_1">
@@ -4969,7 +4983,7 @@
               <f name="Interf+" xml:id="tag-340_2">
                 <string>Interfix vorhanden</string>
                 <fs type="tag">
-                  <f name="sd+" xml:id="tag-5_2">
+                  <f name="sd+" xml:id="tag-5_3">
                     <string>entspricht Standard</string>
                   </f>
                   <f name="vok" xml:id="tag-457_2">
@@ -5114,7 +5128,7 @@
               <f name="Interf+" xml:id="tag-340_3">
                 <string>Interfix vorhanden</string>
                 <fs type="tag">
-                  <f name="sd+" xml:id="tag-5_3">
+                  <f name="sd+" xml:id="tag-5_4">
                     <string>entspricht Standard</string>
                   </f>
                   <f name="vok" xml:id="tag-457_3">
@@ -10005,6 +10019,185 @@
           </f>
         </fs>
       </f>
+      <f name="ADJI" xml:id="tag-759_2">
+        <string>Adjektivintensivierung</string>
+        <fs type="tag">
+          <f name="sem" xml:id="tag-716_3">
+            <string>Semantik</string>
+            <fs type="tag">
+              <f name="qual" xml:id="tag-779_4">
+                <string>qualifizierend</string>
+              </f>
+              <f name="quant" xml:id="tag-781_4">
+                <string>quantifizierend</string>
+              </f>
+              <f name="rel" xml:id="tag-780_4">
+                <string>relational</string>
+              </f>
+              <f name="aPart" xml:id="tag-782_4">
+                <string>adjektivisch gebrauchte Partizipien</string>
+              </f>
+            </fs>
+          </f>
+          <f name="Len" xml:id="tag-330_4">
+            <string>Lenisierung ja oder nein?</string>
+            <fs type="tag">
+              <f name="?" xml:id="tag-333_24">
+                <string>unklar</string>
+              </f>
+              <f name="Fort" xml:id="tag-332_4">
+                <string>Lenisierung nicht vorhanden</string>
+              </f>
+              <f name="Len+" xml:id="tag-331_4">
+                <string>Lenisierung vorhanden</string>
+              </f>
+            </fs>
+          </f>
+          <f name="Wert" xml:id="tag-603_3">
+            <string>Wertung</string>
+            <fs type="tag">
+              <f name="posi" xml:id="tag-606_6">
+                <string>positiv</string>
+              </f>
+              <f name="neut" xml:id="tag-605_3">
+                <string>neutral</string>
+              </f>
+              <f name="neg" xml:id="tag-604_6">
+                <string>negativ</string>
+              </f>
+            </fs>
+          </f>
+          <f name="IntTyp" xml:id="tag-790_2">
+            <string>Intensivierungstyp</string>
+            <fs type="tag">
+              <f name="aoReal" xml:id="tag-477_29">
+                <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
+                <fs type="tag">
+                  <f name="ao-Diph" xml:id="tag-464_30">
+                    <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
+                    <fs type="tag">
+                      <f name="ɒMono" xml:id="tag-466_30">
+                        <string>Realisierung als Monophthong /ɒː/</string>
+                      </f>
+                      <f name="ɑɔDiph" xml:id="tag-465_30">
+                        <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="oa-Diph" xml:id="tag-289_30">
+                    <string>fallender Diphthong /ɔɐ̯/</string>
+                    <fs type="tag">
+                      <f name="oaDiph" xml:id="tag-478_31">
+                        <string>fallender Diphthong /ɔɐ̯/</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="Ipron" xml:id="tag-800_2">
+                <string>Intensivierung mittels Indefinitpronomen</string>
+              </f>
+              <f name="Isuff" xml:id="tag-799_2">
+                <string>Intensivierung mittels Suffigierung</string>
+              </f>
+              <f name="Ikomp" xml:id="tag-798_2">
+                <string>Intensivierung mittels Komposition</string>
+              </f>
+              <f name="Iadva" xml:id="tag-797_2">
+                <string>Intensivierung mittels adverbial gebrauchtem Adjektiv</string>
+              </f>
+              <f name="Idup" xml:id="tag-796_2">
+                <string>Intensivierung mittels Duplikation</string>
+              </f>
+              <f name="Iext" xml:id="tag-795_2">
+                <string>externe Intensivierung</string>
+              </f>
+              <f name="I2art" xml:id="tag-794_2">
+                <string>Intensivierung mittels Artikelverdoppelung</string>
+              </f>
+              <f name="Ipart" xml:id="tag-793_2">
+                <string>Intensivierung mittels Partikel</string>
+              </f>
+              <f name="Iprä" xml:id="tag-792_2">
+                <string>Intensivierung mittels Präfigierung</string>
+              </f>
+              <f name="Iadv" xml:id="tag-791_2">
+                <string>Intensivierung mittels Adverb</string>
+              </f>
+            </fs>
+          </f>
+          <f name="IntRi" xml:id="tag-786_2">
+            <string>Intensivierungsrichtung</string>
+            <fs type="tag">
+              <f name="Iamb" xml:id="tag-789_2">
+                <string>keine Aussage zur Intensivierungsrichtung</string>
+              </f>
+              <f name="Ischwach" xml:id="tag-788_2">
+                <string>Intensivierung schwächt ab</string>
+              </f>
+              <f name="Istark" xml:id="tag-787_2">
+                <string>Intensivierung verstärkt</string>
+              </f>
+            </fs>
+          </f>
+          <f name="Intv" xml:id="tag-783_2">
+            <string>Intensivierung</string>
+            <fs type="tag">
+              <f name="Intv-" xml:id="tag-785_2">
+                <string>Intensivierung nicht vorhanden</string>
+              </f>
+              <f name="Intv+" xml:id="tag-784_2">
+                <string>Intensivierung vorhanden</string>
+              </f>
+            </fs>
+          </f>
+          <f name="ASem" xml:id="tag-778_2">
+            <string>Semantik des Adjektivs</string>
+            <fs type="tag">
+              <f name="aPart" xml:id="tag-782_5">
+                <string>adjektivisch gebrauchte Partizipien</string>
+              </f>
+              <f name="quant" xml:id="tag-781_5">
+                <string>quantifizierend</string>
+              </f>
+              <f name="rel" xml:id="tag-780_5">
+                <string>relational</string>
+              </f>
+              <f name="qual" xml:id="tag-779_5">
+                <string>qualifizierend</string>
+              </f>
+            </fs>
+          </f>
+          <f name="AGebr" xml:id="tag-774_2">
+            <string>Gebrauch des Adjektivs</string>
+            <fs type="tag">
+              <f name="Aadv" xml:id="tag-777_2">
+                <string>adverbiale Verwendung des Adjektivs</string>
+              </f>
+              <f name="Apräd" xml:id="tag-776_2">
+                <string>prädikative Verwendung des Adjektivs</string>
+              </f>
+              <f name="Aattr" xml:id="tag-775_2">
+                <string>attributive Verwendung des Adjektivs</string>
+              </f>
+            </fs>
+          </f>
+          <f name="ASteig" xml:id="tag-770_2">
+            <string>Steigerung des Adjektivs</string>
+            <fs type="tag">
+              <f name="Sadjs" xml:id="tag-773_2">
+                <string>Adjektiv im Superlativ</string>
+              </f>
+              <f name="Sadjk" xml:id="tag-772_2">
+                <string>Adjektiv im Komparativ</string>
+              </f>
+              <f name="Sadjp" xml:id="tag-771_2">
+                <string>Adjektiv im Positiv</string>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
       <f name="äVar" xml:id="tag-763_1">
         <string>Phonetisch-phonologische Variation von nhd. &lt;ä&gt; </string>
         <fs type="tag">
@@ -10033,7 +10226,7 @@
                   </f>
                 </fs>
               </f>
-              <f name="?" xml:id="tag-333_24">
+              <f name="?" xml:id="tag-333_25">
                 <string>unklar</string>
               </f>
               <f name="a" xml:id="tag-769_1">
@@ -10110,24 +10303,24 @@
               <f name="WMono" xml:id="tag-474_28">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_29">
+                  <f name="aoReal" xml:id="tag-477_30">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_30">
+                      <f name="ao-Diph" xml:id="tag-464_31">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_30">
+                          <f name="ɒMono" xml:id="tag-466_31">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_30">
+                          <f name="ɑɔDiph" xml:id="tag-465_31">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_30">
+                      <f name="oa-Diph" xml:id="tag-289_31">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_31">
+                          <f name="oaDiph" xml:id="tag-478_32">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -10284,24 +10477,24 @@
               <f name="WMono" xml:id="tag-474_29">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_30">
+                  <f name="aoReal" xml:id="tag-477_31">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_31">
+                      <f name="ao-Diph" xml:id="tag-464_32">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_31">
+                          <f name="ɒMono" xml:id="tag-466_32">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_31">
+                          <f name="ɑɔDiph" xml:id="tag-465_32">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_31">
+                      <f name="oa-Diph" xml:id="tag-289_32">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_32">
+                          <f name="oaDiph" xml:id="tag-478_33">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -10417,7 +10610,7 @@
               <f name="mhd. /û/" xml:id="tag-922_3">
                 <string>mhd. Wurzel /û/</string>
               </f>
-              <f name="?" xml:id="tag-333_25">
+              <f name="?" xml:id="tag-333_26">
                 <string>unklar</string>
               </f>
               <f name="mhd. /ô/" xml:id="tag-837_3">
@@ -10490,7 +10683,7 @@
           <f name="oReal" xml:id="tag-838_1">
             <string>Realisierung von &lt;o&gt;</string>
             <fs type="tag">
-              <f name="?" xml:id="tag-333_26">
+              <f name="?" xml:id="tag-333_27">
                 <string>unklar</string>
               </f>
               <f name="osemidiph" xml:id="tag-841_1">
@@ -10554,24 +10747,24 @@
               <f name="WMono" xml:id="tag-474_30">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_31">
+                  <f name="aoReal" xml:id="tag-477_32">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_32">
+                      <f name="ao-Diph" xml:id="tag-464_33">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_32">
+                          <f name="ɒMono" xml:id="tag-466_33">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_32">
+                          <f name="ɑɔDiph" xml:id="tag-465_33">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_32">
+                      <f name="oa-Diph" xml:id="tag-289_33">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_33">
+                          <f name="oaDiph" xml:id="tag-478_34">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -10728,24 +10921,24 @@
               <f name="WMono" xml:id="tag-474_31">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_32">
+                  <f name="aoReal" xml:id="tag-477_33">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_33">
+                      <f name="ao-Diph" xml:id="tag-464_34">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_33">
+                          <f name="ɒMono" xml:id="tag-466_34">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_33">
+                          <f name="ɑɔDiph" xml:id="tag-465_34">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_33">
+                      <f name="oa-Diph" xml:id="tag-289_34">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_34">
+                          <f name="oaDiph" xml:id="tag-478_35">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -10861,7 +11054,7 @@
               <f name="mhd. /û/" xml:id="tag-922_4">
                 <string>mhd. Wurzel /û/</string>
               </f>
-              <f name="?" xml:id="tag-333_27">
+              <f name="?" xml:id="tag-333_28">
                 <string>unklar</string>
               </f>
               <f name="mhd. /ô/" xml:id="tag-837_4">
@@ -10934,7 +11127,7 @@
           <f name="eReal" xml:id="tag-843_1">
             <string>Realisierung von e (nhd. &lt;e&gt;)</string>
             <fs type="tag">
-              <f name="?" xml:id="tag-333_28">
+              <f name="?" xml:id="tag-333_29">
                 <string>unklar</string>
               </f>
               <f name="esemidiph" xml:id="tag-846_1">
@@ -10998,24 +11191,24 @@
               <f name="WMono" xml:id="tag-474_32">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_33">
+                  <f name="aoReal" xml:id="tag-477_34">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_34">
+                      <f name="ao-Diph" xml:id="tag-464_35">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_34">
+                          <f name="ɒMono" xml:id="tag-466_35">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_34">
+                          <f name="ɑɔDiph" xml:id="tag-465_35">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_34">
+                      <f name="oa-Diph" xml:id="tag-289_35">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_35">
+                          <f name="oaDiph" xml:id="tag-478_36">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -11172,24 +11365,24 @@
               <f name="WMono" xml:id="tag-474_33">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_34">
+                  <f name="aoReal" xml:id="tag-477_35">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_35">
+                      <f name="ao-Diph" xml:id="tag-464_36">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_35">
+                          <f name="ɒMono" xml:id="tag-466_36">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_35">
+                          <f name="ɑɔDiph" xml:id="tag-465_36">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_35">
+                      <f name="oa-Diph" xml:id="tag-289_36">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_36">
+                          <f name="oaDiph" xml:id="tag-478_37">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -11305,7 +11498,7 @@
               <f name="mhd. /û/" xml:id="tag-922_5">
                 <string>mhd. Wurzel /û/</string>
               </f>
-              <f name="?" xml:id="tag-333_29">
+              <f name="?" xml:id="tag-333_30">
                 <string>unklar</string>
               </f>
               <f name="mhd. /ô/" xml:id="tag-837_5">
@@ -11911,24 +12104,24 @@
               <f name="WMono" xml:id="tag-474_34">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_35">
+                  <f name="aoReal" xml:id="tag-477_36">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_36">
+                      <f name="ao-Diph" xml:id="tag-464_37">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_36">
+                          <f name="ɒMono" xml:id="tag-466_37">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_36">
+                          <f name="ɑɔDiph" xml:id="tag-465_37">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_36">
+                      <f name="oa-Diph" xml:id="tag-289_37">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_37">
+                          <f name="oaDiph" xml:id="tag-478_38">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -12085,24 +12278,24 @@
               <f name="WMono" xml:id="tag-474_35">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_36">
+                  <f name="aoReal" xml:id="tag-477_37">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_37">
+                      <f name="ao-Diph" xml:id="tag-464_38">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_37">
+                          <f name="ɒMono" xml:id="tag-466_38">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_37">
+                          <f name="ɑɔDiph" xml:id="tag-465_38">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_37">
+                      <f name="oa-Diph" xml:id="tag-289_38">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_38">
+                          <f name="oaDiph" xml:id="tag-478_39">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -12320,10 +12513,10 @@
               <f name="au/ao-Diph" xml:id="tag-925_1">
                 <string>phonologisch als Diphthong /au/ oder /ao/ realisiert (inklusive Qualitätsunterschiede als freie Varianten, bspw. Monophthongierungen)</string>
                 <fs type="tag">
-                  <f name="ɒMono" xml:id="tag-466_38">
+                  <f name="ɒMono" xml:id="tag-466_39">
                     <string>Realisierung als Monophthong /ɒː/</string>
                   </f>
-                  <f name="ɑɔDiph" xml:id="tag-465_38">
+                  <f name="ɑɔDiph" xml:id="tag-465_39">
                     <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                   </f>
                   <f name="au/aoDiph" xml:id="tag-929_1">
@@ -12383,24 +12576,24 @@
               <f name="WMono" xml:id="tag-474_36">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_37">
+                  <f name="aoReal" xml:id="tag-477_38">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_38">
+                      <f name="ao-Diph" xml:id="tag-464_39">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_39">
+                          <f name="ɒMono" xml:id="tag-466_40">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_39">
+                          <f name="ɑɔDiph" xml:id="tag-465_40">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_38">
+                      <f name="oa-Diph" xml:id="tag-289_39">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_39">
+                          <f name="oaDiph" xml:id="tag-478_40">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -12557,24 +12750,24 @@
               <f name="WMono" xml:id="tag-474_37">
                 <string>Wiener Monophthongierung</string>
                 <fs type="tag">
-                  <f name="aoReal" xml:id="tag-477_38">
+                  <f name="aoReal" xml:id="tag-477_39">
                     <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                     <fs type="tag">
-                      <f name="ao-Diph" xml:id="tag-464_39">
+                      <f name="ao-Diph" xml:id="tag-464_40">
                         <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
                         <fs type="tag">
-                          <f name="ɒMono" xml:id="tag-466_40">
+                          <f name="ɒMono" xml:id="tag-466_41">
                             <string>Realisierung als Monophthong /ɒː/</string>
                           </f>
-                          <f name="ɑɔDiph" xml:id="tag-465_40">
+                          <f name="ɑɔDiph" xml:id="tag-465_41">
                             <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
                           </f>
                         </fs>
                       </f>
-                      <f name="oa-Diph" xml:id="tag-289_39">
+                      <f name="oa-Diph" xml:id="tag-289_40">
                         <string>fallender Diphthong /ɔɐ̯/</string>
                         <fs type="tag">
-                          <f name="oaDiph" xml:id="tag-478_40">
+                          <f name="oaDiph" xml:id="tag-478_41">
                             <string>fallender Diphthong /ɔɐ̯/</string>
                           </f>
                         </fs>
@@ -12690,7 +12883,7 @@
               <f name="mhd. /û/" xml:id="tag-922_6">
                 <string>mhd. Wurzel /û/</string>
               </f>
-              <f name="?" xml:id="tag-333_30">
+              <f name="?" xml:id="tag-333_31">
                 <string>unklar</string>
               </f>
               <f name="mhd. /ô/" xml:id="tag-837_6">
@@ -15920,185 +16113,6 @@
           </f>
         </fs>
       </f>
-      <f name="ADJI" xml:id="tag-759_2">
-        <string>Adjektivintensivierung</string>
-        <fs type="tag">
-          <f name="sem" xml:id="tag-716_3">
-            <string>Semantik</string>
-            <fs type="tag">
-              <f name="qual" xml:id="tag-779_4">
-                <string>qualifizierend</string>
-              </f>
-              <f name="quant" xml:id="tag-781_4">
-                <string>quantifizierend</string>
-              </f>
-              <f name="rel" xml:id="tag-780_4">
-                <string>relational</string>
-              </f>
-              <f name="aPart" xml:id="tag-782_4">
-                <string>adjektivisch gebrauchte Partizipien</string>
-              </f>
-            </fs>
-          </f>
-          <f name="Len" xml:id="tag-330_4">
-            <string>Lenisierung ja oder nein?</string>
-            <fs type="tag">
-              <f name="?" xml:id="tag-333_31">
-                <string>unklar</string>
-              </f>
-              <f name="Fort" xml:id="tag-332_4">
-                <string>Lenisierung nicht vorhanden</string>
-              </f>
-              <f name="Len+" xml:id="tag-331_4">
-                <string>Lenisierung vorhanden</string>
-              </f>
-            </fs>
-          </f>
-          <f name="Wert" xml:id="tag-603_3">
-            <string>Wertung</string>
-            <fs type="tag">
-              <f name="posi" xml:id="tag-606_6">
-                <string>positiv</string>
-              </f>
-              <f name="neut" xml:id="tag-605_3">
-                <string>neutral</string>
-              </f>
-              <f name="neg" xml:id="tag-604_6">
-                <string>negativ</string>
-              </f>
-            </fs>
-          </f>
-          <f name="IntTyp" xml:id="tag-790_2">
-            <string>Intensivierungstyp</string>
-            <fs type="tag">
-              <f name="aoReal" xml:id="tag-477_39">
-                <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
-                <fs type="tag">
-                  <f name="ao-Diph" xml:id="tag-464_40">
-                    <string>Realisierung tatsächlicher dialektaler phonologischer /ɑɔ̯/-Diphthonge</string>
-                    <fs type="tag">
-                      <f name="ɒMono" xml:id="tag-466_41">
-                        <string>Realisierung als Monophthong /ɒː/</string>
-                      </f>
-                      <f name="ɑɔDiph" xml:id="tag-465_41">
-                        <string>Realisierung als steigender Diphthong /ɑɔ̯/ (leicht monophthongiert)</string>
-                      </f>
-                    </fs>
-                  </f>
-                  <f name="oa-Diph" xml:id="tag-289_40">
-                    <string>fallender Diphthong /ɔɐ̯/</string>
-                    <fs type="tag">
-                      <f name="oaDiph" xml:id="tag-478_41">
-                        <string>fallender Diphthong /ɔɐ̯/</string>
-                      </f>
-                    </fs>
-                  </f>
-                </fs>
-              </f>
-              <f name="Ipron" xml:id="tag-800_2">
-                <string>Intensivierung mittels Indefinitpronomen</string>
-              </f>
-              <f name="Isuff" xml:id="tag-799_2">
-                <string>Intensivierung mittels Suffigierung</string>
-              </f>
-              <f name="Ikomp" xml:id="tag-798_2">
-                <string>Intensivierung mittels Komposition</string>
-              </f>
-              <f name="Iadva" xml:id="tag-797_2">
-                <string>Intensivierung mittels adverbial gebrauchtem Adjektiv</string>
-              </f>
-              <f name="Idup" xml:id="tag-796_2">
-                <string>Intensivierung mittels Duplikation</string>
-              </f>
-              <f name="Iext" xml:id="tag-795_2">
-                <string>externe Intensivierung</string>
-              </f>
-              <f name="I2art" xml:id="tag-794_2">
-                <string>Intensivierung mittels Artikelverdoppelung</string>
-              </f>
-              <f name="Ipart" xml:id="tag-793_2">
-                <string>Intensivierung mittels Partikel</string>
-              </f>
-              <f name="Iprä" xml:id="tag-792_2">
-                <string>Intensivierung mittels Präfigierung</string>
-              </f>
-              <f name="Iadv" xml:id="tag-791_2">
-                <string>Intensivierung mittels Adverb</string>
-              </f>
-            </fs>
-          </f>
-          <f name="IntRi" xml:id="tag-786_2">
-            <string>Intensivierungsrichtung</string>
-            <fs type="tag">
-              <f name="Iamb" xml:id="tag-789_2">
-                <string>keine Aussage zur Intensivierungsrichtung</string>
-              </f>
-              <f name="Ischwach" xml:id="tag-788_2">
-                <string>Intensivierung schwächt ab</string>
-              </f>
-              <f name="Istark" xml:id="tag-787_2">
-                <string>Intensivierung verstärkt</string>
-              </f>
-            </fs>
-          </f>
-          <f name="Intv" xml:id="tag-783_2">
-            <string>Intensivierung</string>
-            <fs type="tag">
-              <f name="Intv-" xml:id="tag-785_2">
-                <string>Intensivierung nicht vorhanden</string>
-              </f>
-              <f name="Intv+" xml:id="tag-784_2">
-                <string>Intensivierung vorhanden</string>
-              </f>
-            </fs>
-          </f>
-          <f name="ASem" xml:id="tag-778_2">
-            <string>Semantik des Adjektivs</string>
-            <fs type="tag">
-              <f name="aPart" xml:id="tag-782_5">
-                <string>adjektivisch gebrauchte Partizipien</string>
-              </f>
-              <f name="quant" xml:id="tag-781_5">
-                <string>quantifizierend</string>
-              </f>
-              <f name="rel" xml:id="tag-780_5">
-                <string>relational</string>
-              </f>
-              <f name="qual" xml:id="tag-779_5">
-                <string>qualifizierend</string>
-              </f>
-            </fs>
-          </f>
-          <f name="AGebr" xml:id="tag-774_2">
-            <string>Gebrauch des Adjektivs</string>
-            <fs type="tag">
-              <f name="Aadv" xml:id="tag-777_2">
-                <string>adverbiale Verwendung des Adjektivs</string>
-              </f>
-              <f name="Apräd" xml:id="tag-776_2">
-                <string>prädikative Verwendung des Adjektivs</string>
-              </f>
-              <f name="Aattr" xml:id="tag-775_2">
-                <string>attributive Verwendung des Adjektivs</string>
-              </f>
-            </fs>
-          </f>
-          <f name="ASteig" xml:id="tag-770_2">
-            <string>Steigerung des Adjektivs</string>
-            <fs type="tag">
-              <f name="Sadjs" xml:id="tag-773_2">
-                <string>Adjektiv im Superlativ</string>
-              </f>
-              <f name="Sadjk" xml:id="tag-772_2">
-                <string>Adjektiv im Komparativ</string>
-              </f>
-              <f name="Sadjp" xml:id="tag-771_2">
-                <string>Adjektiv im Positiv</string>
-              </f>
-            </fs>
-          </f>
-        </fs>
-      </f>
       <f name="BKMSArt" xml:id="tag-1334_1">
         <string>Artikelverwendung bei BKMS-Sprecher*innen</string>
         <fs type="tag">
@@ -17172,9 +17186,6 @@
           </f>
         </fs>
       </f>
-      <f name="PCPVC" xml:id="tag-1525_1">
-        <string>Pseudo-Coordinated Position Verb Cluster</string>
-      </f>
       <f name="BKMSn" xml:id="tag-1526_1">
         <string>-n Suffix im Dat. P.</string>
         <fs type="tag">
@@ -17192,19 +17203,388 @@
           </f>
         </fs>
       </f>
-      <f name="META" xml:id="tag-81_1">
-        <string>Metasprachlicher Kommentar</string>
-      </f>
-      <f name="SDent" xml:id="tag-4_1">
-        <string>Standarddeutsch Entsprechung</string>
+      <f name="BKMSvEND" xml:id="tag-1534_1">
+        <string>Verbstellung in eingeleiteten Nebensätzen</string>
         <fs type="tag">
-          <f name="sd-" xml:id="tag-6_1">
-            <string>entspricht nicht Standard</string>
+          <f name="NeSa" xml:id="tag-538_7">
+            <string>Nebensatz</string>
           </f>
-          <f name="sd+" xml:id="tag-5_4">
-            <string>entspricht Standard</string>
+          <f name="InfOBL+" xml:id="tag-535_8">
+            <string>obligatorisch</string>
           </f>
         </fs>
+      </f>
+      <f name="ProgKon" xml:id="tag-1556_1">
+        <string>Progressivkonstruktion</string>
+        <fs type="tag">
+          <f name="indKon" xml:id="tag-569_2">
+            <string>individuelle Konzepte</string>
+          </f>
+          <f name="DOGen" xml:id="tag-557_2">
+            <string>Genus</string>
+            <fs type="tag">
+              <f name="0Gen3" xml:id="tag-563_3">
+                <string>Genus indifferent</string>
+              </f>
+              <f name="neu3" xml:id="tag-562_3">
+                <string>neutrum</string>
+              </f>
+              <f name="fem3" xml:id="tag-561_3">
+                <string>feminin</string>
+              </f>
+              <f name="mask3" xml:id="tag-558_3">
+                <string>maskulin</string>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
+      <f name="IRR" xml:id="tag-34_1">
+        <string>Irrelevant</string>
+      </f>
+      <f name="PossDatDat" xml:id="tag-162_1">
+        <string>Possessiver Dativ im Dativ</string>
+      </f>
+      <f name="PossDatAkk" xml:id="tag-163_1">
+        <string>Possessiver Dativ im Akkusativ</string>
+      </f>
+      <f name="Stellung" xml:id="tag-173_1">
+        <string>Konstituentenstellung</string>
+        <fs type="tag">
+          <f name="PM&gt;PR" xml:id="tag-175_1">
+            <string>Possessum vor Possessor</string>
+          </f>
+          <f name="PR&gt;PM" xml:id="tag-174_1">
+            <string>Possessor vor Possessum</string>
+          </f>
+        </fs>
+      </f>
+      <f name="..." xml:id="tag-275_1">
+        <string>Aufzählung Fortsetzung</string>
+      </f>
+      <f name="SF" xml:id="tag-585_1">
+        <string>Sonderfall</string>
+      </f>
+      <f name="_ihm" xml:id="tag-1000_1">
+        <string>_ihm als Klitikon</string>
+      </f>
+      <f name="OtherDimMark" xml:id="tag-1001_1">
+        <string>Andere Diminuitivmarkierungen</string>
+        <fs type="tag">
+          <f name="ADJK" xml:id="tag-2_2">
+            <string>Adjektiv Komparativ</string>
+            <fs type="tag">
+              <f name="ASond" xml:id="tag-590_5">
+                <string>Adjektiv/Adverb-Sonderfall</string>
+                <fs type="tag">
+                  <f name="suppl" xml:id="tag-592_6">
+                    <string>suppletiv</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="PerSt" xml:id="tag-121_6">
+                <string>Periphrastische Steigerung</string>
+                <fs type="tag">
+                  <f name="PerSt+" xml:id="tag-122_7">
+                    <string>periphrastische Steigerung vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Suff" xml:id="tag-11_8">
+                <string>Suffix-Kategorie</string>
+                <fs type="tag">
+                  <f name="-lang" xml:id="tag-918_8">
+                    <string>Suffix -lang</string>
+                  </f>
+                  <f name="-len" xml:id="tag-581_8">
+                    <string>Suffix -len</string>
+                  </f>
+                  <f name="-lan" xml:id="tag-580_8">
+                    <string>Suffix -lan</string>
+                  </f>
+                  <f name="-la" xml:id="tag-579_8">
+                    <string>Suffix -la</string>
+                  </f>
+                  <f name="-ei" xml:id="tag-578_8">
+                    <string>Suffix -ei</string>
+                  </f>
+                  <f name="-li" xml:id="tag-355_8">
+                    <string>Suffix -li</string>
+                  </f>
+                  <f name="-le" xml:id="tag-354_8">
+                    <string>Suffix -le</string>
+                  </f>
+                  <f name="-(e)l" xml:id="tag-353_8">
+                    <string>Suffix -(e)l</string>
+                  </f>
+                  <f name="-erl" xml:id="tag-352_8">
+                    <string>Suffix -erl</string>
+                  </f>
+                  <f name="-lein" xml:id="tag-351_8">
+                    <string>Suffix -lein</string>
+                  </f>
+                  <f name="-chen" xml:id="tag-350_10">
+                    <string>Suffix -chen</string>
+                  </f>
+                  <f name="-i" xml:id="tag-349_8">
+                    <string>Suffix -i</string>
+                  </f>
+                  <f name="-s" xml:id="tag-348_9">
+                    <string>Endung -s</string>
+                  </f>
+                  <f name="-er" xml:id="tag-347_9">
+                    <string>Suffix -er</string>
+                  </f>
+                  <f name="-e" xml:id="tag-142_9">
+                    <string>Suffix -e</string>
+                  </f>
+                  <f name="-(e)n" xml:id="tag-346_8">
+                    <string>Suffix -(e)n</string>
+                  </f>
+                  <f name="0" xml:id="tag-345_8">
+                    <string>0-Suffix</string>
+                  </f>
+                  <f name="Derred" xml:id="tag-274_8">
+                    <string>Derrivationssuffix reduziert</string>
+                  </f>
+                  <f name="Pseured" xml:id="tag-16_8">
+                    <string>Pseudosuffix reduziert</string>
+                  </f>
+                  <f name="Pseu-" xml:id="tag-15_8">
+                    <string>Pseudosuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Pseu+" xml:id="tag-14_8">
+                    <string>Pseudosuffix vorhanden</string>
+                  </f>
+                  <f name="Der-" xml:id="tag-13_12">
+                    <string>Derivationssuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Der+" xml:id="tag-12_9">
+                    <string>Derivationssuffix vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Uml" xml:id="tag-7_8">
+                <string>Umlautung bei ADJST, DIM, NPL</string>
+                <fs type="tag">
+                  <f name="U+" xml:id="tag-10_8">
+                    <string>Umlautung</string>
+                    <fs type="tag">
+                      <f name="Rund" xml:id="tag-126_9">
+                        <string>gerundeter Vokal</string>
+                        <fs type="tag">
+                          <f name="Rund-" xml:id="tag-128_10">
+                            <string>gerundeter Vokal nicht vorhanden</string>
+                          </f>
+                          <f name="Rund+" xml:id="tag-127_9">
+                            <string>gerundeter Vokal vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                      <f name="Diph" xml:id="tag-123_9">
+                        <string>Diphthong</string>
+                        <fs type="tag">
+                          <f name="Diph-" xml:id="tag-125_9">
+                            <string>Diphthong ist nicht vorhanden</string>
+                          </f>
+                          <f name="Diph+" xml:id="tag-124_10">
+                            <string>Diphthong ist vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="U-" xml:id="tag-9_8">
+                    <string>keine Umlautung</string>
+                  </f>
+                  <f name="NU" xml:id="tag-8_8">
+                    <string>Nicht umlautfähig</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+          <f name="attrAdj" xml:id="tag-954_2">
+            <string>(attributives) Adjektiv </string>
+            <fs type="tag">
+              <f name="attrAdj-" xml:id="tag-956_2">
+                <string>(attributives) Adjektiv nicht vorhanden</string>
+              </f>
+              <f name="attrAdj+" xml:id="tag-955_2">
+                <string>(attributives) Adjektiv vorhanden</string>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
+      <f name="Kompos" xml:id="tag-1002_1">
+        <string>Komposition</string>
+        <fs type="tag">
+          <f name="SDent" xml:id="tag-4_2">
+            <string>Standarddeutsch Entsprechung</string>
+            <fs type="tag">
+              <f name="sd-" xml:id="tag-6_2">
+                <string>entspricht nicht Standard</string>
+              </f>
+              <f name="sd+" xml:id="tag-5_5">
+                <string>entspricht Standard</string>
+              </f>
+            </fs>
+          </f>
+          <f name="ADJS" xml:id="tag-3_2">
+            <string>Adjektiv Superlativ</string>
+            <fs type="tag">
+              <f name="ASond" xml:id="tag-590_6">
+                <string>Adjektiv/Adverb-Sonderfall</string>
+                <fs type="tag">
+                  <f name="suppl" xml:id="tag-592_7">
+                    <string>suppletiv</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="PerSt" xml:id="tag-121_7">
+                <string>Periphrastische Steigerung</string>
+                <fs type="tag">
+                  <f name="PerSt+" xml:id="tag-122_8">
+                    <string>periphrastische Steigerung vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="E" xml:id="tag-17_3">
+                <string>Superlativ e Kategorie</string>
+                <fs type="tag">
+                  <f name="e-" xml:id="tag-19_3">
+                    <string>Superlativ-e nicht vorhanden</string>
+                  </f>
+                  <f name="e+" xml:id="tag-18_7">
+                    <string>Superlativ-e vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Suff" xml:id="tag-11_9">
+                <string>Suffix-Kategorie</string>
+                <fs type="tag">
+                  <f name="-lang" xml:id="tag-918_9">
+                    <string>Suffix -lang</string>
+                  </f>
+                  <f name="-len" xml:id="tag-581_9">
+                    <string>Suffix -len</string>
+                  </f>
+                  <f name="-lan" xml:id="tag-580_9">
+                    <string>Suffix -lan</string>
+                  </f>
+                  <f name="-la" xml:id="tag-579_9">
+                    <string>Suffix -la</string>
+                  </f>
+                  <f name="-ei" xml:id="tag-578_9">
+                    <string>Suffix -ei</string>
+                  </f>
+                  <f name="-li" xml:id="tag-355_9">
+                    <string>Suffix -li</string>
+                  </f>
+                  <f name="-le" xml:id="tag-354_9">
+                    <string>Suffix -le</string>
+                  </f>
+                  <f name="-(e)l" xml:id="tag-353_9">
+                    <string>Suffix -(e)l</string>
+                  </f>
+                  <f name="-erl" xml:id="tag-352_9">
+                    <string>Suffix -erl</string>
+                  </f>
+                  <f name="-lein" xml:id="tag-351_9">
+                    <string>Suffix -lein</string>
+                  </f>
+                  <f name="-chen" xml:id="tag-350_11">
+                    <string>Suffix -chen</string>
+                  </f>
+                  <f name="-i" xml:id="tag-349_9">
+                    <string>Suffix -i</string>
+                  </f>
+                  <f name="-s" xml:id="tag-348_10">
+                    <string>Endung -s</string>
+                  </f>
+                  <f name="-er" xml:id="tag-347_10">
+                    <string>Suffix -er</string>
+                  </f>
+                  <f name="-e" xml:id="tag-142_10">
+                    <string>Suffix -e</string>
+                  </f>
+                  <f name="-(e)n" xml:id="tag-346_9">
+                    <string>Suffix -(e)n</string>
+                  </f>
+                  <f name="0" xml:id="tag-345_9">
+                    <string>0-Suffix</string>
+                  </f>
+                  <f name="Derred" xml:id="tag-274_9">
+                    <string>Derrivationssuffix reduziert</string>
+                  </f>
+                  <f name="Pseured" xml:id="tag-16_9">
+                    <string>Pseudosuffix reduziert</string>
+                  </f>
+                  <f name="Pseu-" xml:id="tag-15_9">
+                    <string>Pseudosuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Pseu+" xml:id="tag-14_9">
+                    <string>Pseudosuffix vorhanden</string>
+                  </f>
+                  <f name="Der-" xml:id="tag-13_13">
+                    <string>Derivationssuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Der+" xml:id="tag-12_10">
+                    <string>Derivationssuffix vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Uml" xml:id="tag-7_9">
+                <string>Umlautung bei ADJST, DIM, NPL</string>
+                <fs type="tag">
+                  <f name="U+" xml:id="tag-10_9">
+                    <string>Umlautung</string>
+                    <fs type="tag">
+                      <f name="Rund" xml:id="tag-126_10">
+                        <string>gerundeter Vokal</string>
+                        <fs type="tag">
+                          <f name="Rund-" xml:id="tag-128_11">
+                            <string>gerundeter Vokal nicht vorhanden</string>
+                          </f>
+                          <f name="Rund+" xml:id="tag-127_10">
+                            <string>gerundeter Vokal vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                      <f name="Diph" xml:id="tag-123_10">
+                        <string>Diphthong</string>
+                        <fs type="tag">
+                          <f name="Diph-" xml:id="tag-125_10">
+                            <string>Diphthong ist nicht vorhanden</string>
+                          </f>
+                          <f name="Diph+" xml:id="tag-124_11">
+                            <string>Diphthong ist vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="U-" xml:id="tag-9_9">
+                    <string>keine Umlautung</string>
+                  </f>
+                  <f name="NU" xml:id="tag-8_9">
+                    <string>Nicht umlautfähig</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
+      <f name="Kompos+" xml:id="tag-1003_1">
+        <string>Komposition vorhanden</string>
+      </f>
+      <f name="Kompos-" xml:id="tag-1004_1">
+        <string>Keine Komposition vorhanden</string>
+      </f>
+      <f name="pal" xml:id="tag-1005_1">
+        <string>palatales Interfix</string>
       </f>
       <f name="Rauchfangkehrer" xml:id="tag-1007_1">
         <string>Realisierung des Konzepts als Rauchfangkehrer</string>
@@ -17275,24 +17655,24 @@
           <f name="habenVV" xml:id="tag-252_4">
             <string>haben als Vollverb</string>
           </f>
-          <f name="E" xml:id="tag-17_3">
+          <f name="E" xml:id="tag-17_4">
             <string>Superlativ e Kategorie</string>
             <fs type="tag">
-              <f name="e-" xml:id="tag-19_3">
+              <f name="e-" xml:id="tag-19_4">
                 <string>Superlativ-e nicht vorhanden</string>
               </f>
-              <f name="e+" xml:id="tag-18_7">
+              <f name="e+" xml:id="tag-18_8">
                 <string>Superlativ-e vorhanden</string>
               </f>
             </fs>
           </f>
-          <f name="Pseured" xml:id="tag-16_8">
+          <f name="Pseured" xml:id="tag-16_10">
             <string>Pseudosuffix reduziert</string>
           </f>
-          <f name="Pseu-" xml:id="tag-15_8">
+          <f name="Pseu-" xml:id="tag-15_10">
             <string>Pseudosuffix nicht vorhanden</string>
           </f>
-          <f name="Pseu+" xml:id="tag-14_8">
+          <f name="Pseu+" xml:id="tag-14_10">
             <string>Pseudosuffix vorhanden</string>
           </f>
         </fs>
@@ -17464,7 +17844,7 @@
               </f>
             </fs>
           </f>
-          <f name="e-" xml:id="tag-19_4">
+          <f name="e-" xml:id="tag-19_5">
             <string>Superlativ-e nicht vorhanden</string>
           </f>
         </fs>
@@ -20999,7 +21379,7 @@
               </f>
             </fs>
           </f>
-          <f name="Derred" xml:id="tag-274_8">
+          <f name="Derred" xml:id="tag-274_10">
             <string>Derrivationssuffix reduziert</string>
           </f>
           <f name="holen" xml:id="tag-273_4">
@@ -22076,19 +22456,19 @@
               </f>
             </fs>
           </f>
-          <f name="PM&gt;PR" xml:id="tag-175_1">
+          <f name="PM&gt;PR" xml:id="tag-175_2">
             <string>Possessum vor Possessor</string>
           </f>
-          <f name="PR&gt;PM" xml:id="tag-174_1">
+          <f name="PR&gt;PM" xml:id="tag-174_2">
             <string>Possessor vor Possessum</string>
           </f>
-          <f name="Stellung" xml:id="tag-173_1">
+          <f name="Stellung" xml:id="tag-173_2">
             <string>Konstituentenstellung</string>
             <fs type="tag">
-              <f name="PM&gt;PR" xml:id="tag-175_2">
+              <f name="PM&gt;PR" xml:id="tag-175_3">
                 <string>Possessum vor Possessor</string>
               </f>
-              <f name="PR&gt;PM" xml:id="tag-174_2">
+              <f name="PR&gt;PM" xml:id="tag-174_3">
                 <string>Possessor vor Possessum</string>
               </f>
             </fs>
@@ -22172,10 +22552,10 @@
               </f>
             </fs>
           </f>
-          <f name="PossDatAkk" xml:id="tag-163_1">
+          <f name="PossDatAkk" xml:id="tag-163_2">
             <string>Possessiver Dativ im Akkusativ</string>
           </f>
-          <f name="PossDatDat" xml:id="tag-162_1">
+          <f name="PossDatDat" xml:id="tag-162_2">
             <string>Possessiver Dativ im Dativ</string>
           </f>
           <f name="Gen" xml:id="tag-160_8">
@@ -22336,7 +22716,7 @@
               <f name="Nomin" xml:id="tag-570_2">
                 <string>Nominalisierungen</string>
               </f>
-              <f name="indKon" xml:id="tag-569_2">
+              <f name="indKon" xml:id="tag-569_3">
                 <string>individuelle Konzepte</string>
               </f>
               <f name="abKon" xml:id="tag-568_2">
@@ -22668,7 +23048,7 @@
                   <f name="Nomin" xml:id="tag-570_3">
                     <string>Nominalisierungen</string>
                   </f>
-                  <f name="indKon" xml:id="tag-569_3">
+                  <f name="indKon" xml:id="tag-569_4">
                     <string>individuelle Konzepte</string>
                   </f>
                   <f name="abKon" xml:id="tag-568_3">
@@ -22711,7 +23091,7 @@
           <f name="-st" xml:id="tag-143_2">
             <string>Endung -st</string>
           </f>
-          <f name="-e" xml:id="tag-142_9">
+          <f name="-e" xml:id="tag-142_11">
             <string>Suffix -e</string>
           </f>
           <f name="PEnd" xml:id="tag-141_2">
@@ -22720,7 +23100,7 @@
               <f name="-tet" xml:id="tag-566_2">
                 <string>Verbendung -tet</string>
               </f>
-              <f name="-s" xml:id="tag-348_9">
+              <f name="-s" xml:id="tag-348_11">
                 <string>Endung -s</string>
               </f>
               <f name="-tets" xml:id="tag-455_3">
@@ -22771,7 +23151,7 @@
               <f name="-st" xml:id="tag-143_3">
                 <string>Endung -st</string>
               </f>
-              <f name="-e" xml:id="tag-142_10">
+              <f name="-e" xml:id="tag-142_12">
                 <string>Suffix -e</string>
               </f>
             </fs>
@@ -22855,150 +23235,150 @@
           <f name="kriegenP" xml:id="tag-26_43">
             <string>kriegen-Passiv</string>
           </f>
-          <f name="Der+" xml:id="tag-12_9">
+          <f name="Der+" xml:id="tag-12_11">
             <string>Derivationssuffix vorhanden</string>
           </f>
-          <f name="Suff" xml:id="tag-11_8">
+          <f name="Suff" xml:id="tag-11_10">
             <string>Suffix-Kategorie</string>
             <fs type="tag">
-              <f name="-lang" xml:id="tag-918_8">
+              <f name="-lang" xml:id="tag-918_10">
                 <string>Suffix -lang</string>
               </f>
-              <f name="-len" xml:id="tag-581_8">
+              <f name="-len" xml:id="tag-581_10">
                 <string>Suffix -len</string>
               </f>
-              <f name="-lan" xml:id="tag-580_8">
+              <f name="-lan" xml:id="tag-580_10">
                 <string>Suffix -lan</string>
               </f>
-              <f name="-la" xml:id="tag-579_8">
+              <f name="-la" xml:id="tag-579_10">
                 <string>Suffix -la</string>
               </f>
-              <f name="-ei" xml:id="tag-578_8">
+              <f name="-ei" xml:id="tag-578_10">
                 <string>Suffix -ei</string>
               </f>
-              <f name="-li" xml:id="tag-355_8">
+              <f name="-li" xml:id="tag-355_10">
                 <string>Suffix -li</string>
               </f>
-              <f name="-le" xml:id="tag-354_8">
+              <f name="-le" xml:id="tag-354_10">
                 <string>Suffix -le</string>
               </f>
-              <f name="-(e)l" xml:id="tag-353_8">
+              <f name="-(e)l" xml:id="tag-353_10">
                 <string>Suffix -(e)l</string>
               </f>
-              <f name="-erl" xml:id="tag-352_8">
+              <f name="-erl" xml:id="tag-352_10">
                 <string>Suffix -erl</string>
               </f>
-              <f name="-lein" xml:id="tag-351_8">
+              <f name="-lein" xml:id="tag-351_10">
                 <string>Suffix -lein</string>
               </f>
-              <f name="-chen" xml:id="tag-350_10">
+              <f name="-chen" xml:id="tag-350_12">
                 <string>Suffix -chen</string>
               </f>
-              <f name="-i" xml:id="tag-349_8">
+              <f name="-i" xml:id="tag-349_10">
                 <string>Suffix -i</string>
               </f>
-              <f name="-s" xml:id="tag-348_10">
+              <f name="-s" xml:id="tag-348_12">
                 <string>Endung -s</string>
               </f>
-              <f name="-er" xml:id="tag-347_9">
+              <f name="-er" xml:id="tag-347_11">
                 <string>Suffix -er</string>
               </f>
-              <f name="-e" xml:id="tag-142_11">
+              <f name="-e" xml:id="tag-142_13">
                 <string>Suffix -e</string>
               </f>
-              <f name="-(e)n" xml:id="tag-346_8">
+              <f name="-(e)n" xml:id="tag-346_10">
                 <string>Suffix -(e)n</string>
               </f>
-              <f name="0" xml:id="tag-345_8">
+              <f name="0" xml:id="tag-345_10">
                 <string>0-Suffix</string>
               </f>
-              <f name="Derred" xml:id="tag-274_9">
+              <f name="Derred" xml:id="tag-274_11">
                 <string>Derrivationssuffix reduziert</string>
               </f>
-              <f name="Pseured" xml:id="tag-16_9">
+              <f name="Pseured" xml:id="tag-16_11">
                 <string>Pseudosuffix reduziert</string>
               </f>
-              <f name="Pseu-" xml:id="tag-15_9">
+              <f name="Pseu-" xml:id="tag-15_11">
                 <string>Pseudosuffix nicht vorhanden</string>
               </f>
-              <f name="Pseu+" xml:id="tag-14_9">
+              <f name="Pseu+" xml:id="tag-14_11">
                 <string>Pseudosuffix vorhanden</string>
               </f>
-              <f name="Der-" xml:id="tag-13_12">
+              <f name="Der-" xml:id="tag-13_14">
                 <string>Derivationssuffix nicht vorhanden</string>
               </f>
-              <f name="Der+" xml:id="tag-12_10">
+              <f name="Der+" xml:id="tag-12_12">
                 <string>Derivationssuffix vorhanden</string>
               </f>
             </fs>
           </f>
-          <f name="U+" xml:id="tag-10_8">
+          <f name="U+" xml:id="tag-10_10">
             <string>Umlautung</string>
             <fs type="tag">
-              <f name="Rund" xml:id="tag-126_9">
+              <f name="Rund" xml:id="tag-126_11">
                 <string>gerundeter Vokal</string>
                 <fs type="tag">
-                  <f name="Rund-" xml:id="tag-128_10">
+                  <f name="Rund-" xml:id="tag-128_12">
                     <string>gerundeter Vokal nicht vorhanden</string>
                   </f>
-                  <f name="Rund+" xml:id="tag-127_9">
+                  <f name="Rund+" xml:id="tag-127_11">
                     <string>gerundeter Vokal vorhanden</string>
                   </f>
                 </fs>
               </f>
-              <f name="Diph" xml:id="tag-123_9">
+              <f name="Diph" xml:id="tag-123_11">
                 <string>Diphthong</string>
                 <fs type="tag">
-                  <f name="Diph-" xml:id="tag-125_9">
+                  <f name="Diph-" xml:id="tag-125_11">
                     <string>Diphthong ist nicht vorhanden</string>
                   </f>
-                  <f name="Diph+" xml:id="tag-124_10">
+                  <f name="Diph+" xml:id="tag-124_12">
                     <string>Diphthong ist vorhanden</string>
                   </f>
                 </fs>
               </f>
             </fs>
           </f>
-          <f name="U-" xml:id="tag-9_8">
+          <f name="U-" xml:id="tag-9_10">
             <string>keine Umlautung</string>
           </f>
-          <f name="NU" xml:id="tag-8_8">
+          <f name="NU" xml:id="tag-8_10">
             <string>Nicht umlautfähig</string>
           </f>
-          <f name="Uml" xml:id="tag-7_8">
+          <f name="Uml" xml:id="tag-7_10">
             <string>Umlautung bei ADJST, DIM, NPL</string>
             <fs type="tag">
-              <f name="U+" xml:id="tag-10_9">
+              <f name="U+" xml:id="tag-10_11">
                 <string>Umlautung</string>
                 <fs type="tag">
-                  <f name="Rund" xml:id="tag-126_10">
+                  <f name="Rund" xml:id="tag-126_12">
                     <string>gerundeter Vokal</string>
                     <fs type="tag">
-                      <f name="Rund-" xml:id="tag-128_11">
+                      <f name="Rund-" xml:id="tag-128_13">
                         <string>gerundeter Vokal nicht vorhanden</string>
                       </f>
-                      <f name="Rund+" xml:id="tag-127_10">
+                      <f name="Rund+" xml:id="tag-127_12">
                         <string>gerundeter Vokal vorhanden</string>
                       </f>
                     </fs>
                   </f>
-                  <f name="Diph" xml:id="tag-123_10">
+                  <f name="Diph" xml:id="tag-123_12">
                     <string>Diphthong</string>
                     <fs type="tag">
-                      <f name="Diph-" xml:id="tag-125_10">
+                      <f name="Diph-" xml:id="tag-125_12">
                         <string>Diphthong ist nicht vorhanden</string>
                       </f>
-                      <f name="Diph+" xml:id="tag-124_11">
+                      <f name="Diph+" xml:id="tag-124_13">
                         <string>Diphthong ist vorhanden</string>
                       </f>
                     </fs>
                   </f>
                 </fs>
               </f>
-              <f name="U-" xml:id="tag-9_9">
+              <f name="U-" xml:id="tag-9_11">
                 <string>keine Umlautung</string>
               </f>
-              <f name="NU" xml:id="tag-8_9">
+              <f name="NU" xml:id="tag-8_11">
                 <string>Nicht umlautfähig</string>
               </f>
             </fs>
@@ -23017,16 +23397,24 @@
       <f name="Reifeprüfung" xml:id="tag-1027_1">
         <string>Realisierung des Konzepts als Reifeprüfung</string>
       </f>
+      <f name="Abitur" xml:id="tag-1028_1">
+        <string>Realisierung des Konzepts als Abitur</string>
+      </f>
       <f name="Maturität" xml:id="tag-1029_1">
         <string>Realisierung des Konzepts als Maturität</string>
+      </f>
+      <f name="Matur" xml:id="tag-1030_1">
+        <string>Realisierung des Konzepts als Matur</string>
       </f>
       <f name="meta?" xml:id="tag-1031_1">
         <string>unklarer Status der Metasprachlichkeit</string>
       </f>
       <f name="02_2pl" xml:id="tag-1033_1">
-        <string>2. Person Plural Indikativ</string>
+        <string>2. Person Plural Indikativ
+2. Person Plural Indikativ
+2. Person Plural Indikativ</string>
         <fs type="tag">
-          <f name="IRR" xml:id="tag-34_1">
+          <f name="IRR" xml:id="tag-34_2">
             <string>Irrelevant</string>
           </f>
         </fs>
@@ -23037,7 +23425,7 @@
       <f name="02_3pl" xml:id="tag-1035_1">
         <string>3. Person Plural Indikativ</string>
         <fs type="tag">
-          <f name="IRR" xml:id="tag-34_2">
+          <f name="IRR" xml:id="tag-34_3">
             <string>Irrelevant</string>
           </f>
         </fs>
@@ -23547,7 +23935,7 @@
                   <f name="-tet" xml:id="tag-566_3">
                     <string>Verbendung -tet</string>
                   </f>
-                  <f name="-s" xml:id="tag-348_11">
+                  <f name="-s" xml:id="tag-348_13">
                     <string>Endung -s</string>
                   </f>
                   <f name="-tets" xml:id="tag-455_4">
@@ -23598,7 +23986,7 @@
                   <f name="-st" xml:id="tag-143_4">
                     <string>Endung -st</string>
                   </f>
-                  <f name="-e" xml:id="tag-142_12">
+                  <f name="-e" xml:id="tag-142_14">
                     <string>Suffix -e</string>
                   </f>
                 </fs>
@@ -23650,7 +24038,7 @@
       <f name="02_e1" xml:id="tag-1058_1">
         <string>mhd. /ë/</string>
         <fs type="tag">
-          <f name="IRR" xml:id="tag-34_3">
+          <f name="IRR" xml:id="tag-34_4">
             <string>Irrelevant</string>
           </f>
         </fs>
@@ -24389,7 +24777,7 @@
       <f name="02_uo" xml:id="tag-1124_1">
         <string>mhd. /uo/</string>
         <fs type="tag">
-          <f name="Diph-" xml:id="tag-125_11">
+          <f name="Diph-" xml:id="tag-125_13">
             <string>Diphthong ist nicht vorhanden</string>
           </f>
         </fs>
@@ -24400,7 +24788,7 @@
       <f name="02_üü" xml:id="tag-1126_1">
         <string>mhd. /iu/ (Umlaut von ahd. /û/)</string>
         <fs type="tag">
-          <f name="Rund+" xml:id="tag-127_11">
+          <f name="Rund+" xml:id="tag-127_13">
             <string>gerundeter Vokal vorhanden</string>
           </f>
         </fs>
@@ -24413,12 +24801,6 @@
       </f>
       <f name="02_wstverb" xml:id="tag-1129_1">
         <string>Wortstellung der Verben im Item 'Mein Mann war so krank, dass er nicht zur Arbeit gehen konnte.'</string>
-      </f>
-      <f name="Abitur" xml:id="tag-1028_1">
-        <string>Realisierung des Konzepts als Abitur</string>
-      </f>
-      <f name="Matur" xml:id="tag-1030_1">
-        <string>Realisierung des Konzepts als Matur</string>
       </f>
       <f name="Backenzahn" xml:id="tag-1131_1">
         <string>Realisierung des Konzepts als Backenzahn</string>
@@ -24635,6 +25017,12 @@
       </f>
       <f name="Magenschmerzen" xml:id="tag-1213_1">
         <string>Realisierung des Konzepts als Magenschmerzen</string>
+      </f>
+      <f name="prodrop" xml:id="tag-1214_1">
+        <string>Pronomen nicht realisiert</string>
+      </f>
+      <f name="klitx2" xml:id="tag-1215_1">
+        <string>Clitic Doubling</string>
       </f>
       <f name="Ferkel" xml:id="tag-1217_1">
         <string>Realisierung des Konzepts als Ferkel</string>
@@ -24970,371 +25358,6 @@
           <f name="DIM" xml:id="tag-337_2">
             <string>Diminutiv</string>
             <fs type="tag">
-              <f name="Suff" xml:id="tag-11_9">
-                <string>Suffix-Kategorie</string>
-                <fs type="tag">
-                  <f name="-lang" xml:id="tag-918_9">
-                    <string>Suffix -lang</string>
-                  </f>
-                  <f name="-len" xml:id="tag-581_9">
-                    <string>Suffix -len</string>
-                  </f>
-                  <f name="-lan" xml:id="tag-580_9">
-                    <string>Suffix -lan</string>
-                  </f>
-                  <f name="-la" xml:id="tag-579_9">
-                    <string>Suffix -la</string>
-                  </f>
-                  <f name="-ei" xml:id="tag-578_9">
-                    <string>Suffix -ei</string>
-                  </f>
-                  <f name="-li" xml:id="tag-355_9">
-                    <string>Suffix -li</string>
-                  </f>
-                  <f name="-le" xml:id="tag-354_9">
-                    <string>Suffix -le</string>
-                  </f>
-                  <f name="-(e)l" xml:id="tag-353_9">
-                    <string>Suffix -(e)l</string>
-                  </f>
-                  <f name="-erl" xml:id="tag-352_9">
-                    <string>Suffix -erl</string>
-                  </f>
-                  <f name="-lein" xml:id="tag-351_9">
-                    <string>Suffix -lein</string>
-                  </f>
-                  <f name="-chen" xml:id="tag-350_11">
-                    <string>Suffix -chen</string>
-                  </f>
-                  <f name="-i" xml:id="tag-349_9">
-                    <string>Suffix -i</string>
-                  </f>
-                  <f name="-s" xml:id="tag-348_12">
-                    <string>Endung -s</string>
-                  </f>
-                  <f name="-er" xml:id="tag-347_10">
-                    <string>Suffix -er</string>
-                  </f>
-                  <f name="-e" xml:id="tag-142_13">
-                    <string>Suffix -e</string>
-                  </f>
-                  <f name="-(e)n" xml:id="tag-346_9">
-                    <string>Suffix -(e)n</string>
-                  </f>
-                  <f name="0" xml:id="tag-345_9">
-                    <string>0-Suffix</string>
-                  </f>
-                  <f name="Derred" xml:id="tag-274_10">
-                    <string>Derrivationssuffix reduziert</string>
-                  </f>
-                  <f name="Pseured" xml:id="tag-16_10">
-                    <string>Pseudosuffix reduziert</string>
-                  </f>
-                  <f name="Pseu-" xml:id="tag-15_10">
-                    <string>Pseudosuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Pseu+" xml:id="tag-14_10">
-                    <string>Pseudosuffix vorhanden</string>
-                  </f>
-                  <f name="Der-" xml:id="tag-13_13">
-                    <string>Derivationssuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Der+" xml:id="tag-12_11">
-                    <string>Derivationssuffix vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Interf" xml:id="tag-339_4">
-                <string>Interfix</string>
-                <fs type="tag">
-                  <f name="Interf-" xml:id="tag-341_5">
-                    <string>Interfix nicht vorhanden</string>
-                  </f>
-                  <f name="Interf+" xml:id="tag-340_4">
-                    <string>Interfix vorhanden</string>
-                    <fs type="tag">
-                      <f name="sd+" xml:id="tag-5_5">
-                        <string>entspricht Standard</string>
-                      </f>
-                      <f name="vok" xml:id="tag-457_4">
-                        <string>vokalisch</string>
-                      </f>
-                      <f name="postalv" xml:id="tag-344_4">
-                        <string>postalveolar</string>
-                      </f>
-                      <f name="alv" xml:id="tag-343_12">
-                        <string>alveolar/nicht alveolar artikuliert</string>
-                      </f>
-                      <f name="bilab" xml:id="tag-342_4">
-                        <string>bilabial</string>
-                      </f>
-                    </fs>
-                  </f>
-                </fs>
-              </f>
-              <f name="Uml" xml:id="tag-7_9">
-                <string>Umlautung bei ADJST, DIM, NPL</string>
-                <fs type="tag">
-                  <f name="U+" xml:id="tag-10_10">
-                    <string>Umlautung</string>
-                    <fs type="tag">
-                      <f name="Rund" xml:id="tag-126_11">
-                        <string>gerundeter Vokal</string>
-                        <fs type="tag">
-                          <f name="Rund-" xml:id="tag-128_12">
-                            <string>gerundeter Vokal nicht vorhanden</string>
-                          </f>
-                          <f name="Rund+" xml:id="tag-127_12">
-                            <string>gerundeter Vokal vorhanden</string>
-                          </f>
-                        </fs>
-                      </f>
-                      <f name="Diph" xml:id="tag-123_11">
-                        <string>Diphthong</string>
-                        <fs type="tag">
-                          <f name="Diph-" xml:id="tag-125_12">
-                            <string>Diphthong ist nicht vorhanden</string>
-                          </f>
-                          <f name="Diph+" xml:id="tag-124_12">
-                            <string>Diphthong ist vorhanden</string>
-                          </f>
-                        </fs>
-                      </f>
-                    </fs>
-                  </f>
-                  <f name="U-" xml:id="tag-9_10">
-                    <string>keine Umlautung</string>
-                  </f>
-                  <f name="NU" xml:id="tag-8_10">
-                    <string>Nicht umlautfähig</string>
-                  </f>
-                </fs>
-              </f>
-            </fs>
-          </f>
-          <f name="NPL" xml:id="tag-336_2">
-            <string>Nominalplural</string>
-            <fs type="tag">
-              <f name="NSond" xml:id="tag-591_2">
-                <string>Nominalpl-Sonderfall</string>
-                <fs type="tag">
-                  <f name="subtr" xml:id="tag-741_2">
-                    <string>subtraktiv</string>
-                  </f>
-                  <f name="suppl" xml:id="tag-592_6">
-                    <string>suppletiv</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Suff" xml:id="tag-11_10">
-                <string>Suffix-Kategorie</string>
-                <fs type="tag">
-                  <f name="-lang" xml:id="tag-918_10">
-                    <string>Suffix -lang</string>
-                  </f>
-                  <f name="-len" xml:id="tag-581_10">
-                    <string>Suffix -len</string>
-                  </f>
-                  <f name="-lan" xml:id="tag-580_10">
-                    <string>Suffix -lan</string>
-                  </f>
-                  <f name="-la" xml:id="tag-579_10">
-                    <string>Suffix -la</string>
-                  </f>
-                  <f name="-ei" xml:id="tag-578_10">
-                    <string>Suffix -ei</string>
-                  </f>
-                  <f name="-li" xml:id="tag-355_10">
-                    <string>Suffix -li</string>
-                  </f>
-                  <f name="-le" xml:id="tag-354_10">
-                    <string>Suffix -le</string>
-                  </f>
-                  <f name="-(e)l" xml:id="tag-353_10">
-                    <string>Suffix -(e)l</string>
-                  </f>
-                  <f name="-erl" xml:id="tag-352_10">
-                    <string>Suffix -erl</string>
-                  </f>
-                  <f name="-lein" xml:id="tag-351_10">
-                    <string>Suffix -lein</string>
-                  </f>
-                  <f name="-chen" xml:id="tag-350_12">
-                    <string>Suffix -chen</string>
-                  </f>
-                  <f name="-i" xml:id="tag-349_10">
-                    <string>Suffix -i</string>
-                  </f>
-                  <f name="-s" xml:id="tag-348_13">
-                    <string>Endung -s</string>
-                  </f>
-                  <f name="-er" xml:id="tag-347_11">
-                    <string>Suffix -er</string>
-                  </f>
-                  <f name="-e" xml:id="tag-142_14">
-                    <string>Suffix -e</string>
-                  </f>
-                  <f name="-(e)n" xml:id="tag-346_10">
-                    <string>Suffix -(e)n</string>
-                  </f>
-                  <f name="0" xml:id="tag-345_10">
-                    <string>0-Suffix</string>
-                  </f>
-                  <f name="Derred" xml:id="tag-274_11">
-                    <string>Derrivationssuffix reduziert</string>
-                  </f>
-                  <f name="Pseured" xml:id="tag-16_11">
-                    <string>Pseudosuffix reduziert</string>
-                  </f>
-                  <f name="Pseu-" xml:id="tag-15_11">
-                    <string>Pseudosuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Pseu+" xml:id="tag-14_11">
-                    <string>Pseudosuffix vorhanden</string>
-                  </f>
-                  <f name="Der-" xml:id="tag-13_14">
-                    <string>Derivationssuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Der+" xml:id="tag-12_12">
-                    <string>Derivationssuffix vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Interf" xml:id="tag-339_5">
-                <string>Interfix</string>
-                <fs type="tag">
-                  <f name="Interf-" xml:id="tag-341_6">
-                    <string>Interfix nicht vorhanden</string>
-                  </f>
-                  <f name="Interf+" xml:id="tag-340_5">
-                    <string>Interfix vorhanden</string>
-                    <fs type="tag">
-                      <f name="sd+" xml:id="tag-5_6">
-                        <string>entspricht Standard</string>
-                      </f>
-                      <f name="vok" xml:id="tag-457_5">
-                        <string>vokalisch</string>
-                      </f>
-                      <f name="postalv" xml:id="tag-344_5">
-                        <string>postalveolar</string>
-                      </f>
-                      <f name="alv" xml:id="tag-343_13">
-                        <string>alveolar/nicht alveolar artikuliert</string>
-                      </f>
-                      <f name="bilab" xml:id="tag-342_5">
-                        <string>bilabial</string>
-                      </f>
-                    </fs>
-                  </f>
-                </fs>
-              </f>
-              <f name="Uml" xml:id="tag-7_10">
-                <string>Umlautung bei ADJST, DIM, NPL</string>
-                <fs type="tag">
-                  <f name="U+" xml:id="tag-10_11">
-                    <string>Umlautung</string>
-                    <fs type="tag">
-                      <f name="Rund" xml:id="tag-126_12">
-                        <string>gerundeter Vokal</string>
-                        <fs type="tag">
-                          <f name="Rund-" xml:id="tag-128_13">
-                            <string>gerundeter Vokal nicht vorhanden</string>
-                          </f>
-                          <f name="Rund+" xml:id="tag-127_13">
-                            <string>gerundeter Vokal vorhanden</string>
-                          </f>
-                        </fs>
-                      </f>
-                      <f name="Diph" xml:id="tag-123_12">
-                        <string>Diphthong</string>
-                        <fs type="tag">
-                          <f name="Diph-" xml:id="tag-125_13">
-                            <string>Diphthong ist nicht vorhanden</string>
-                          </f>
-                          <f name="Diph+" xml:id="tag-124_13">
-                            <string>Diphthong ist vorhanden</string>
-                          </f>
-                        </fs>
-                      </f>
-                    </fs>
-                  </f>
-                  <f name="U-" xml:id="tag-9_11">
-                    <string>keine Umlautung</string>
-                  </f>
-                  <f name="NU" xml:id="tag-8_11">
-                    <string>Nicht umlautfähig</string>
-                  </f>
-                </fs>
-              </f>
-            </fs>
-          </f>
-        </fs>
-      </f>
-      <f name="Art.R" xml:id="tag-1336_1">
-        <string>Artikelgebrauch entspricht Normgrammatik</string>
-        <fs type="tag">
-          <f name="-li" xml:id="tag-355_11">
-            <string>Suffix -li</string>
-          </f>
-          <f name="-le" xml:id="tag-354_11">
-            <string>Suffix -le</string>
-          </f>
-        </fs>
-      </f>
-      <f name="Art.F" xml:id="tag-1337_1">
-        <string>Artikelgebrauch entspricht nicht Normgrammatik</string>
-        <fs type="tag">
-          <f name="Interf+" xml:id="tag-340_6">
-            <string>Interfix vorhanden</string>
-            <fs type="tag">
-              <f name="sd+" xml:id="tag-5_7">
-                <string>entspricht Standard</string>
-              </f>
-              <f name="vok" xml:id="tag-457_6">
-                <string>vokalisch</string>
-              </f>
-              <f name="postalv" xml:id="tag-344_6">
-                <string>postalveolar</string>
-              </f>
-              <f name="alv" xml:id="tag-343_14">
-                <string>alveolar/nicht alveolar artikuliert</string>
-              </f>
-              <f name="bilab" xml:id="tag-342_6">
-                <string>bilabial</string>
-              </f>
-            </fs>
-          </f>
-          <f name="Interf" xml:id="tag-339_6">
-            <string>Interfix</string>
-            <fs type="tag">
-              <f name="Interf-" xml:id="tag-341_7">
-                <string>Interfix nicht vorhanden</string>
-              </f>
-              <f name="Interf+" xml:id="tag-340_7">
-                <string>Interfix vorhanden</string>
-                <fs type="tag">
-                  <f name="sd+" xml:id="tag-5_8">
-                    <string>entspricht Standard</string>
-                  </f>
-                  <f name="vok" xml:id="tag-457_7">
-                    <string>vokalisch</string>
-                  </f>
-                  <f name="postalv" xml:id="tag-344_7">
-                    <string>postalveolar</string>
-                  </f>
-                  <f name="alv" xml:id="tag-343_15">
-                    <string>alveolar/nicht alveolar artikuliert</string>
-                  </f>
-                  <f name="bilab" xml:id="tag-342_7">
-                    <string>bilabial</string>
-                  </f>
-                </fs>
-              </f>
-            </fs>
-          </f>
-          <f name="NPLT" xml:id="tag-338_2">
-            <string>Plurale Tantum</string>
-            <fs type="tag">
               <f name="Suff" xml:id="tag-11_11">
                 <string>Suffix-Kategorie</string>
                 <fs type="tag">
@@ -25353,10 +25376,10 @@
                   <f name="-ei" xml:id="tag-578_11">
                     <string>Suffix -ei</string>
                   </f>
-                  <f name="-li" xml:id="tag-355_12">
+                  <f name="-li" xml:id="tag-355_11">
                     <string>Suffix -li</string>
                   </f>
-                  <f name="-le" xml:id="tag-354_12">
+                  <f name="-le" xml:id="tag-354_11">
                     <string>Suffix -le</string>
                   </f>
                   <f name="-(e)l" xml:id="tag-353_11">
@@ -25409,28 +25432,28 @@
                   </f>
                 </fs>
               </f>
-              <f name="Interf" xml:id="tag-339_7">
+              <f name="Interf" xml:id="tag-339_4">
                 <string>Interfix</string>
                 <fs type="tag">
-                  <f name="Interf-" xml:id="tag-341_8">
+                  <f name="Interf-" xml:id="tag-341_5">
                     <string>Interfix nicht vorhanden</string>
                   </f>
-                  <f name="Interf+" xml:id="tag-340_8">
+                  <f name="Interf+" xml:id="tag-340_4">
                     <string>Interfix vorhanden</string>
                     <fs type="tag">
-                      <f name="sd+" xml:id="tag-5_9">
+                      <f name="sd+" xml:id="tag-5_6">
                         <string>entspricht Standard</string>
                       </f>
-                      <f name="vok" xml:id="tag-457_8">
+                      <f name="vok" xml:id="tag-457_4">
                         <string>vokalisch</string>
                       </f>
-                      <f name="postalv" xml:id="tag-344_8">
+                      <f name="postalv" xml:id="tag-344_4">
                         <string>postalveolar</string>
                       </f>
-                      <f name="alv" xml:id="tag-343_16">
+                      <f name="alv" xml:id="tag-343_12">
                         <string>alveolar/nicht alveolar artikuliert</string>
                       </f>
-                      <f name="bilab" xml:id="tag-342_8">
+                      <f name="bilab" xml:id="tag-342_4">
                         <string>bilabial</string>
                       </f>
                     </fs>
@@ -25477,6 +25500,371 @@
               </f>
             </fs>
           </f>
+          <f name="NPL" xml:id="tag-336_2">
+            <string>Nominalplural</string>
+            <fs type="tag">
+              <f name="NSond" xml:id="tag-591_2">
+                <string>Nominalpl-Sonderfall</string>
+                <fs type="tag">
+                  <f name="subtr" xml:id="tag-741_2">
+                    <string>subtraktiv</string>
+                  </f>
+                  <f name="suppl" xml:id="tag-592_8">
+                    <string>suppletiv</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Suff" xml:id="tag-11_12">
+                <string>Suffix-Kategorie</string>
+                <fs type="tag">
+                  <f name="-lang" xml:id="tag-918_12">
+                    <string>Suffix -lang</string>
+                  </f>
+                  <f name="-len" xml:id="tag-581_12">
+                    <string>Suffix -len</string>
+                  </f>
+                  <f name="-lan" xml:id="tag-580_12">
+                    <string>Suffix -lan</string>
+                  </f>
+                  <f name="-la" xml:id="tag-579_12">
+                    <string>Suffix -la</string>
+                  </f>
+                  <f name="-ei" xml:id="tag-578_12">
+                    <string>Suffix -ei</string>
+                  </f>
+                  <f name="-li" xml:id="tag-355_12">
+                    <string>Suffix -li</string>
+                  </f>
+                  <f name="-le" xml:id="tag-354_12">
+                    <string>Suffix -le</string>
+                  </f>
+                  <f name="-(e)l" xml:id="tag-353_12">
+                    <string>Suffix -(e)l</string>
+                  </f>
+                  <f name="-erl" xml:id="tag-352_12">
+                    <string>Suffix -erl</string>
+                  </f>
+                  <f name="-lein" xml:id="tag-351_12">
+                    <string>Suffix -lein</string>
+                  </f>
+                  <f name="-chen" xml:id="tag-350_14">
+                    <string>Suffix -chen</string>
+                  </f>
+                  <f name="-i" xml:id="tag-349_12">
+                    <string>Suffix -i</string>
+                  </f>
+                  <f name="-s" xml:id="tag-348_15">
+                    <string>Endung -s</string>
+                  </f>
+                  <f name="-er" xml:id="tag-347_13">
+                    <string>Suffix -er</string>
+                  </f>
+                  <f name="-e" xml:id="tag-142_16">
+                    <string>Suffix -e</string>
+                  </f>
+                  <f name="-(e)n" xml:id="tag-346_12">
+                    <string>Suffix -(e)n</string>
+                  </f>
+                  <f name="0" xml:id="tag-345_12">
+                    <string>0-Suffix</string>
+                  </f>
+                  <f name="Derred" xml:id="tag-274_13">
+                    <string>Derrivationssuffix reduziert</string>
+                  </f>
+                  <f name="Pseured" xml:id="tag-16_13">
+                    <string>Pseudosuffix reduziert</string>
+                  </f>
+                  <f name="Pseu-" xml:id="tag-15_13">
+                    <string>Pseudosuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Pseu+" xml:id="tag-14_13">
+                    <string>Pseudosuffix vorhanden</string>
+                  </f>
+                  <f name="Der-" xml:id="tag-13_16">
+                    <string>Derivationssuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Der+" xml:id="tag-12_14">
+                    <string>Derivationssuffix vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Interf" xml:id="tag-339_5">
+                <string>Interfix</string>
+                <fs type="tag">
+                  <f name="Interf-" xml:id="tag-341_6">
+                    <string>Interfix nicht vorhanden</string>
+                  </f>
+                  <f name="Interf+" xml:id="tag-340_5">
+                    <string>Interfix vorhanden</string>
+                    <fs type="tag">
+                      <f name="sd+" xml:id="tag-5_7">
+                        <string>entspricht Standard</string>
+                      </f>
+                      <f name="vok" xml:id="tag-457_5">
+                        <string>vokalisch</string>
+                      </f>
+                      <f name="postalv" xml:id="tag-344_5">
+                        <string>postalveolar</string>
+                      </f>
+                      <f name="alv" xml:id="tag-343_13">
+                        <string>alveolar/nicht alveolar artikuliert</string>
+                      </f>
+                      <f name="bilab" xml:id="tag-342_5">
+                        <string>bilabial</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="Uml" xml:id="tag-7_12">
+                <string>Umlautung bei ADJST, DIM, NPL</string>
+                <fs type="tag">
+                  <f name="U+" xml:id="tag-10_13">
+                    <string>Umlautung</string>
+                    <fs type="tag">
+                      <f name="Rund" xml:id="tag-126_14">
+                        <string>gerundeter Vokal</string>
+                        <fs type="tag">
+                          <f name="Rund-" xml:id="tag-128_15">
+                            <string>gerundeter Vokal nicht vorhanden</string>
+                          </f>
+                          <f name="Rund+" xml:id="tag-127_15">
+                            <string>gerundeter Vokal vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                      <f name="Diph" xml:id="tag-123_14">
+                        <string>Diphthong</string>
+                        <fs type="tag">
+                          <f name="Diph-" xml:id="tag-125_15">
+                            <string>Diphthong ist nicht vorhanden</string>
+                          </f>
+                          <f name="Diph+" xml:id="tag-124_15">
+                            <string>Diphthong ist vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="U-" xml:id="tag-9_13">
+                    <string>keine Umlautung</string>
+                  </f>
+                  <f name="NU" xml:id="tag-8_13">
+                    <string>Nicht umlautfähig</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
+      <f name="Art.R" xml:id="tag-1336_1">
+        <string>Artikelgebrauch entspricht Normgrammatik</string>
+        <fs type="tag">
+          <f name="-li" xml:id="tag-355_13">
+            <string>Suffix -li</string>
+          </f>
+          <f name="-le" xml:id="tag-354_13">
+            <string>Suffix -le</string>
+          </f>
+        </fs>
+      </f>
+      <f name="Art.F" xml:id="tag-1337_1">
+        <string>Artikelgebrauch entspricht nicht Normgrammatik</string>
+        <fs type="tag">
+          <f name="Interf+" xml:id="tag-340_6">
+            <string>Interfix vorhanden</string>
+            <fs type="tag">
+              <f name="sd+" xml:id="tag-5_8">
+                <string>entspricht Standard</string>
+              </f>
+              <f name="vok" xml:id="tag-457_6">
+                <string>vokalisch</string>
+              </f>
+              <f name="postalv" xml:id="tag-344_6">
+                <string>postalveolar</string>
+              </f>
+              <f name="alv" xml:id="tag-343_14">
+                <string>alveolar/nicht alveolar artikuliert</string>
+              </f>
+              <f name="bilab" xml:id="tag-342_6">
+                <string>bilabial</string>
+              </f>
+            </fs>
+          </f>
+          <f name="Interf" xml:id="tag-339_6">
+            <string>Interfix</string>
+            <fs type="tag">
+              <f name="Interf-" xml:id="tag-341_7">
+                <string>Interfix nicht vorhanden</string>
+              </f>
+              <f name="Interf+" xml:id="tag-340_7">
+                <string>Interfix vorhanden</string>
+                <fs type="tag">
+                  <f name="sd+" xml:id="tag-5_9">
+                    <string>entspricht Standard</string>
+                  </f>
+                  <f name="vok" xml:id="tag-457_7">
+                    <string>vokalisch</string>
+                  </f>
+                  <f name="postalv" xml:id="tag-344_7">
+                    <string>postalveolar</string>
+                  </f>
+                  <f name="alv" xml:id="tag-343_15">
+                    <string>alveolar/nicht alveolar artikuliert</string>
+                  </f>
+                  <f name="bilab" xml:id="tag-342_7">
+                    <string>bilabial</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+          <f name="NPLT" xml:id="tag-338_2">
+            <string>Plurale Tantum</string>
+            <fs type="tag">
+              <f name="Suff" xml:id="tag-11_13">
+                <string>Suffix-Kategorie</string>
+                <fs type="tag">
+                  <f name="-lang" xml:id="tag-918_13">
+                    <string>Suffix -lang</string>
+                  </f>
+                  <f name="-len" xml:id="tag-581_13">
+                    <string>Suffix -len</string>
+                  </f>
+                  <f name="-lan" xml:id="tag-580_13">
+                    <string>Suffix -lan</string>
+                  </f>
+                  <f name="-la" xml:id="tag-579_13">
+                    <string>Suffix -la</string>
+                  </f>
+                  <f name="-ei" xml:id="tag-578_13">
+                    <string>Suffix -ei</string>
+                  </f>
+                  <f name="-li" xml:id="tag-355_14">
+                    <string>Suffix -li</string>
+                  </f>
+                  <f name="-le" xml:id="tag-354_14">
+                    <string>Suffix -le</string>
+                  </f>
+                  <f name="-(e)l" xml:id="tag-353_13">
+                    <string>Suffix -(e)l</string>
+                  </f>
+                  <f name="-erl" xml:id="tag-352_13">
+                    <string>Suffix -erl</string>
+                  </f>
+                  <f name="-lein" xml:id="tag-351_13">
+                    <string>Suffix -lein</string>
+                  </f>
+                  <f name="-chen" xml:id="tag-350_15">
+                    <string>Suffix -chen</string>
+                  </f>
+                  <f name="-i" xml:id="tag-349_13">
+                    <string>Suffix -i</string>
+                  </f>
+                  <f name="-s" xml:id="tag-348_16">
+                    <string>Endung -s</string>
+                  </f>
+                  <f name="-er" xml:id="tag-347_14">
+                    <string>Suffix -er</string>
+                  </f>
+                  <f name="-e" xml:id="tag-142_17">
+                    <string>Suffix -e</string>
+                  </f>
+                  <f name="-(e)n" xml:id="tag-346_13">
+                    <string>Suffix -(e)n</string>
+                  </f>
+                  <f name="0" xml:id="tag-345_13">
+                    <string>0-Suffix</string>
+                  </f>
+                  <f name="Derred" xml:id="tag-274_14">
+                    <string>Derrivationssuffix reduziert</string>
+                  </f>
+                  <f name="Pseured" xml:id="tag-16_14">
+                    <string>Pseudosuffix reduziert</string>
+                  </f>
+                  <f name="Pseu-" xml:id="tag-15_14">
+                    <string>Pseudosuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Pseu+" xml:id="tag-14_14">
+                    <string>Pseudosuffix vorhanden</string>
+                  </f>
+                  <f name="Der-" xml:id="tag-13_17">
+                    <string>Derivationssuffix nicht vorhanden</string>
+                  </f>
+                  <f name="Der+" xml:id="tag-12_15">
+                    <string>Derivationssuffix vorhanden</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Interf" xml:id="tag-339_7">
+                <string>Interfix</string>
+                <fs type="tag">
+                  <f name="Interf-" xml:id="tag-341_8">
+                    <string>Interfix nicht vorhanden</string>
+                  </f>
+                  <f name="Interf+" xml:id="tag-340_8">
+                    <string>Interfix vorhanden</string>
+                    <fs type="tag">
+                      <f name="sd+" xml:id="tag-5_10">
+                        <string>entspricht Standard</string>
+                      </f>
+                      <f name="vok" xml:id="tag-457_8">
+                        <string>vokalisch</string>
+                      </f>
+                      <f name="postalv" xml:id="tag-344_8">
+                        <string>postalveolar</string>
+                      </f>
+                      <f name="alv" xml:id="tag-343_16">
+                        <string>alveolar/nicht alveolar artikuliert</string>
+                      </f>
+                      <f name="bilab" xml:id="tag-342_8">
+                        <string>bilabial</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="Uml" xml:id="tag-7_13">
+                <string>Umlautung bei ADJST, DIM, NPL</string>
+                <fs type="tag">
+                  <f name="U+" xml:id="tag-10_14">
+                    <string>Umlautung</string>
+                    <fs type="tag">
+                      <f name="Rund" xml:id="tag-126_15">
+                        <string>gerundeter Vokal</string>
+                        <fs type="tag">
+                          <f name="Rund-" xml:id="tag-128_16">
+                            <string>gerundeter Vokal nicht vorhanden</string>
+                          </f>
+                          <f name="Rund+" xml:id="tag-127_16">
+                            <string>gerundeter Vokal vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                      <f name="Diph" xml:id="tag-123_15">
+                        <string>Diphthong</string>
+                        <fs type="tag">
+                          <f name="Diph-" xml:id="tag-125_16">
+                            <string>Diphthong ist nicht vorhanden</string>
+                          </f>
+                          <f name="Diph+" xml:id="tag-124_16">
+                            <string>Diphthong ist vorhanden</string>
+                          </f>
+                        </fs>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="U-" xml:id="tag-9_14">
+                    <string>keine Umlautung</string>
+                  </f>
+                  <f name="NU" xml:id="tag-8_14">
+                    <string>Nicht umlautfähig</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
         </fs>
       </f>
       <f name="Art-F" xml:id="tag-1338_1">
@@ -25491,7 +25879,7 @@
       <f name="Kongr" xml:id="tag-1341_1">
         <string>Kongruenz zwischen Artikel und Nomen in NP</string>
         <fs type="tag">
-          <f name="-(e)l" xml:id="tag-353_12">
+          <f name="-(e)l" xml:id="tag-353_14">
             <string>Suffix -(e)l</string>
           </f>
           <f name="alv" xml:id="tag-343_17">
@@ -25548,10 +25936,10 @@
           <f name="lokAdv" xml:id="tag-389_4">
             <string>Lokaladverbiale</string>
           </f>
-          <f name="-(e)n" xml:id="tag-346_12">
+          <f name="-(e)n" xml:id="tag-346_14">
             <string>Suffix -(e)n</string>
           </f>
-          <f name="0" xml:id="tag-345_12">
+          <f name="0" xml:id="tag-345_14">
             <string>0-Suffix</string>
           </f>
           <f name="postalv" xml:id="tag-344_9">
@@ -25562,16 +25950,19 @@
       <f name="kongr-gen" xml:id="tag-1344_1">
         <string>fehlende Genuskongruenz</string>
       </f>
+      <f name="kongr-kas" xml:id="tag-1345_1">
+        <string>fehlende Kasuskongruenz</string>
+      </f>
       <f name="kongr-genkas" xml:id="tag-1346_1">
         <string>fehlende Kasus- und Genuskongruenz</string>
       </f>
       <f name="NPVW" xml:id="tag-1347_1">
         <string>Verwendung der Nominalphrase</string>
         <fs type="tag">
-          <f name="-i" xml:id="tag-349_12">
+          <f name="-i" xml:id="tag-349_14">
             <string>Suffix -i</string>
           </f>
-          <f name="-s" xml:id="tag-348_15">
+          <f name="-s" xml:id="tag-348_17">
             <string>Endung -s</string>
           </f>
         </fs>
@@ -25585,10 +25976,10 @@
       <f name="KasTyp" xml:id="tag-1350_1">
         <string>Typ des Kasus</string>
         <fs type="tag">
-          <f name="-erl" xml:id="tag-352_12">
+          <f name="-erl" xml:id="tag-352_14">
             <string>Suffix -erl</string>
           </f>
-          <f name="-lein" xml:id="tag-351_12">
+          <f name="-lein" xml:id="tag-351_14">
             <string>Suffix -lein</string>
           </f>
         </fs>
@@ -25871,7 +26262,7 @@
       <f name="PräpoKas" xml:id="tag-1388_1">
         <string>Kasuskongruenz</string>
         <fs type="tag">
-          <f name="-(e)l" xml:id="tag-353_13">
+          <f name="-(e)l" xml:id="tag-353_15">
             <string>Suffix -(e)l</string>
           </f>
           <f name="alv" xml:id="tag-343_18">
@@ -26367,9 +26758,6 @@
       <f name="SitErg" xml:id="tag-1400_1">
         <string>Situativergänzung</string>
       </f>
-      <f name="kongr-kas" xml:id="tag-1345_1">
-        <string>fehlende Kasuskongruenz</string>
-      </f>
       <f name="AdjKongr" xml:id="tag-1401_1">
         <string>Kongruenz zwischen Adjektiv und Nomen in der Präpositionalphrase</string>
         <fs type="tag">
@@ -26745,7 +27133,7 @@
                   <f name="InfOBL-" xml:id="tag-536_8">
                     <string>nicht obligatorisch</string>
                   </f>
-                  <f name="InfOBL+" xml:id="tag-535_8">
+                  <f name="InfOBL+" xml:id="tag-535_9">
                     <string>obligatorisch</string>
                   </f>
                 </fs>
@@ -26910,6 +27298,9 @@
       </f>
       <f name="Frage" xml:id="tag-1435_1">
         <string>Gruß in Form einer Frage</string>
+      </f>
+      <f name="sonstFunkt" xml:id="tag-1436_1">
+        <string>sonstige Funktionen</string>
       </f>
       <f name="GrammForm" xml:id="tag-1437_1">
         <string>grammatische Form oder grammatische Merkmale der Grußformel</string>
@@ -27355,13 +27746,13 @@
           <f name="PräpattrAdj+" xml:id="tag-438_3">
             <string>attributives Adjektiv der Präpositionalphrase vorhanden</string>
           </f>
-          <f name="attrAdj" xml:id="tag-954_2">
+          <f name="attrAdj" xml:id="tag-954_3">
             <string>(attributives) Adjektiv </string>
             <fs type="tag">
-              <f name="attrAdj-" xml:id="tag-956_2">
+              <f name="attrAdj-" xml:id="tag-956_3">
                 <string>(attributives) Adjektiv nicht vorhanden</string>
               </f>
-              <f name="attrAdj+" xml:id="tag-955_2">
+              <f name="attrAdj+" xml:id="tag-955_3">
                 <string>(attributives) Adjektiv vorhanden</string>
               </f>
             </fs>
@@ -28127,6 +28518,12 @@
       <f name="pala" xml:id="tag-1473_1">
         <string>palatale Artikulation</string>
       </f>
+      <f name="Vkl" xml:id="tag-1474_1">
+        <string>Vokale (undifferenziert)</string>
+      </f>
+      <f name="Vib" xml:id="tag-1475_1">
+        <string>Vibrant</string>
+      </f>
       <f name="lAus" xml:id="tag-1476_1">
         <string>Ausfall/Elision von L</string>
       </f>
@@ -28249,6 +28646,17 @@
       <f name="ad-" xml:id="tag-1494_1">
         <string>Konjunktiv-Formen ohne ad-Suffix</string>
       </f>
+      <f name="Anl" xml:id="tag-1496_1">
+        <string>Anlaut</string>
+        <fs type="tag">
+          <f name="RAppo" xml:id="tag-498_4">
+            <string>Appositiver Relativsatz</string>
+          </f>
+          <f name="0gen" xml:id="tag-497_10">
+            <string>genusindifferent</string>
+          </f>
+        </fs>
+      </f>
       <f name="vokAnl+" xml:id="tag-1497_1">
         <string>vokalischer Anlaut</string>
         <fs type="tag">
@@ -28338,7 +28746,7 @@
               <f name="SA" xml:id="tag-519_7">
                 <string>Satzart</string>
                 <fs type="tag">
-                  <f name="NeSa" xml:id="tag-538_7">
+                  <f name="NeSa" xml:id="tag-538_8">
                     <string>Nebensatz</string>
                   </f>
                   <f name="HaSa" xml:id="tag-537_7">
@@ -28384,7 +28792,7 @@
                       <f name="InfOBL-" xml:id="tag-536_9">
                         <string>nicht obligatorisch</string>
                       </f>
-                      <f name="InfOBL+" xml:id="tag-535_9">
+                      <f name="InfOBL+" xml:id="tag-535_10">
                         <string>obligatorisch</string>
                       </f>
                     </fs>
@@ -28471,7 +28879,7 @@
               <f name="SA" xml:id="tag-519_8">
                 <string>Satzart</string>
                 <fs type="tag">
-                  <f name="NeSa" xml:id="tag-538_8">
+                  <f name="NeSa" xml:id="tag-538_9">
                     <string>Nebensatz</string>
                   </f>
                   <f name="HaSa" xml:id="tag-537_8">
@@ -28517,7 +28925,7 @@
                       <f name="InfOBL-" xml:id="tag-536_10">
                         <string>nicht obligatorisch</string>
                       </f>
-                      <f name="InfOBL+" xml:id="tag-535_10">
+                      <f name="InfOBL+" xml:id="tag-535_11">
                         <string>obligatorisch</string>
                       </f>
                     </fs>
@@ -28595,11 +29003,17 @@
           </f>
         </fs>
       </f>
+      <f name="dperf" xml:id="tag-1517_1">
+        <string>doppeltes Perfekt</string>
+      </f>
       <f name="ArtPron" xml:id="tag-1518_1">
         <string>Artikelpronomen</string>
       </f>
       <f name="prät?" xml:id="tag-1519_1">
         <string>möglicherweise Präteritum</string>
+      </f>
+      <f name="pass?" xml:id="tag-1520_1">
+        <string>möglicherweise passiv</string>
       </f>
       <f name="kongr-num" xml:id="tag-1521_1">
         <string>Fehlende Kongruenz bei Numerus</string>
@@ -28609,6 +29023,9 @@
       </f>
       <f name="Langes" xml:id="tag-1523_1">
         <string>Realisation des Konzepts als Langes</string>
+      </f>
+      <f name="seinKop" xml:id="tag-1524_1">
+        <string>sein als Kopulaverb</string>
       </f>
       <f name="nVer" xml:id="tag-1527_1">
         <string>Präsenz von -n Suffix im Dat. Pl.</string>
@@ -28639,367 +29056,493 @@
       <f name="ArtVer-F" xml:id="tag-1533_1">
         <string> kein Artikel realisiert, normgrammatisch Artikel gefordert</string>
       </f>
-      <f name="Kompos+" xml:id="tag-1003_1">
-        <string>Komposition vorhanden</string>
-      </f>
-      <f name="_ihm" xml:id="tag-1000_1">
-        <string>_ihm als Klitikon</string>
-      </f>
-      <f name="Vib" xml:id="tag-1475_1">
-        <string>Vibrant</string>
-      </f>
-      <f name="dperf" xml:id="tag-1517_1">
-        <string>doppeltes Perfekt</string>
-      </f>
-      <f name="pal" xml:id="tag-1005_1">
-        <string>palatales Interfix</string>
-      </f>
-      <f name="Kompos" xml:id="tag-1002_1">
-        <string>Komposition</string>
+      <f name="vEND" xml:id="tag-1535_1">
+        <string>Verbstellung in eingeleiteten Nebensätzen</string>
         <fs type="tag">
-          <f name="SDent" xml:id="tag-4_2">
-            <string>Standarddeutsch Entsprechung</string>
+          <f name="HaSa" xml:id="tag-537_9">
+            <string>Hauptsatz</string>
+          </f>
+          <f name="InfOBL-" xml:id="tag-536_11">
+            <string>nicht obligatorisch</string>
+          </f>
+        </fs>
+      </f>
+      <f name="vEnd+" xml:id="tag-1536_1">
+        <string>Verbletztstellung</string>
+      </f>
+      <f name="vEnd-" xml:id="tag-1537_1">
+        <string>nicht Verbletztstellung</string>
+      </f>
+      <f name="NeSaTyp" xml:id="tag-1538_1">
+        <string>Nebensatztyp</string>
+        <fs type="tag">
+          <f name="1Pos" xml:id="tag-550_3">
+            <string>Position 1</string>
+          </f>
+          <f name="DOPos" xml:id="tag-549_2">
+            <string>Position des direkten Objekts</string>
             <fs type="tag">
-              <f name="sd-" xml:id="tag-6_2">
-                <string>entspricht nicht Standard</string>
+              <f name="2Pos" xml:id="tag-551_3">
+                <string>Position 2</string>
               </f>
-              <f name="sd+" xml:id="tag-5_10">
-                <string>entspricht Standard</string>
+              <f name="1Pos" xml:id="tag-550_4">
+                <string>Position 1</string>
               </f>
             </fs>
           </f>
-          <f name="ADJS" xml:id="tag-3_2">
-            <string>Adjektiv Superlativ</string>
+          <f name="DO" xml:id="tag-548_2">
+            <string>direktes Objekt</string>
             <fs type="tag">
-              <f name="ASond" xml:id="tag-590_5">
-                <string>Adjektiv/Adverb-Sonderfall</string>
+              <f name="DOGen" xml:id="tag-557_3">
+                <string>Genus</string>
                 <fs type="tag">
-                  <f name="suppl" xml:id="tag-592_7">
-                    <string>suppletiv</string>
+                  <f name="0Gen3" xml:id="tag-563_4">
+                    <string>Genus indifferent</string>
+                  </f>
+                  <f name="neu3" xml:id="tag-562_4">
+                    <string>neutrum</string>
+                  </f>
+                  <f name="fem3" xml:id="tag-561_4">
+                    <string>feminin</string>
+                  </f>
+                  <f name="mask3" xml:id="tag-558_4">
+                    <string>maskulin</string>
                   </f>
                 </fs>
               </f>
-              <f name="PerSt" xml:id="tag-121_6">
-                <string>Periphrastische Steigerung</string>
+              <f name="DOForm" xml:id="tag-552_2">
+                <string>Form</string>
                 <fs type="tag">
-                  <f name="PerSt+" xml:id="tag-122_7">
-                    <string>periphrastische Steigerung vorhanden</string>
+                  <f name="Nom" xml:id="tag-556_3">
+                    <string>Nomen</string>
                   </f>
-                </fs>
-              </f>
-              <f name="E" xml:id="tag-17_4">
-                <string>Superlativ e Kategorie</string>
-                <fs type="tag">
-                  <f name="e-" xml:id="tag-19_5">
-                    <string>Superlativ-e nicht vorhanden</string>
-                  </f>
-                  <f name="e+" xml:id="tag-18_8">
-                    <string>Superlativ-e vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Suff" xml:id="tag-11_12">
-                <string>Suffix-Kategorie</string>
-                <fs type="tag">
-                  <f name="-lang" xml:id="tag-918_12">
-                    <string>Suffix -lang</string>
-                  </f>
-                  <f name="-len" xml:id="tag-581_12">
-                    <string>Suffix -len</string>
-                  </f>
-                  <f name="-lan" xml:id="tag-580_12">
-                    <string>Suffix -lan</string>
-                  </f>
-                  <f name="-la" xml:id="tag-579_12">
-                    <string>Suffix -la</string>
-                  </f>
-                  <f name="-ei" xml:id="tag-578_12">
-                    <string>Suffix -ei</string>
-                  </f>
-                  <f name="-li" xml:id="tag-355_13">
-                    <string>Suffix -li</string>
-                  </f>
-                  <f name="-le" xml:id="tag-354_13">
-                    <string>Suffix -le</string>
-                  </f>
-                  <f name="-(e)l" xml:id="tag-353_14">
-                    <string>Suffix -(e)l</string>
-                  </f>
-                  <f name="-erl" xml:id="tag-352_13">
-                    <string>Suffix -erl</string>
-                  </f>
-                  <f name="-lein" xml:id="tag-351_13">
-                    <string>Suffix -lein</string>
-                  </f>
-                  <f name="-chen" xml:id="tag-350_14">
-                    <string>Suffix -chen</string>
-                  </f>
-                  <f name="-i" xml:id="tag-349_13">
-                    <string>Suffix -i</string>
-                  </f>
-                  <f name="-s" xml:id="tag-348_16">
-                    <string>Endung -s</string>
-                  </f>
-                  <f name="-er" xml:id="tag-347_13">
-                    <string>Suffix -er</string>
-                  </f>
-                  <f name="-e" xml:id="tag-142_16">
-                    <string>Suffix -e</string>
-                  </f>
-                  <f name="-(e)n" xml:id="tag-346_13">
-                    <string>Suffix -(e)n</string>
-                  </f>
-                  <f name="0" xml:id="tag-345_13">
-                    <string>0-Suffix</string>
-                  </f>
-                  <f name="Derred" xml:id="tag-274_13">
-                    <string>Derrivationssuffix reduziert</string>
-                  </f>
-                  <f name="Pseured" xml:id="tag-16_13">
-                    <string>Pseudosuffix reduziert</string>
-                  </f>
-                  <f name="Pseu-" xml:id="tag-15_13">
-                    <string>Pseudosuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Pseu+" xml:id="tag-14_13">
-                    <string>Pseudosuffix vorhanden</string>
-                  </f>
-                  <f name="Der-" xml:id="tag-13_16">
-                    <string>Derivationssuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Der+" xml:id="tag-12_14">
-                    <string>Derivationssuffix vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Uml" xml:id="tag-7_12">
-                <string>Umlautung bei ADJST, DIM, NPL</string>
-                <fs type="tag">
-                  <f name="U+" xml:id="tag-10_13">
-                    <string>Umlautung</string>
+                  <f name="Pro" xml:id="tag-553_3">
+                    <string>Pronomen</string>
                     <fs type="tag">
-                      <f name="Rund" xml:id="tag-126_14">
-                        <string>gerundeter Vokal</string>
-                        <fs type="tag">
-                          <f name="Rund-" xml:id="tag-128_15">
-                            <string>gerundeter Vokal nicht vorhanden</string>
-                          </f>
-                          <f name="Rund+" xml:id="tag-127_15">
-                            <string>gerundeter Vokal vorhanden</string>
-                          </f>
-                        </fs>
+                      <f name="red" xml:id="tag-555_3">
+                        <string>reduziert</string>
                       </f>
-                      <f name="Diph" xml:id="tag-123_14">
-                        <string>Diphthong</string>
+                      <f name="voll" xml:id="tag-554_3">
+                        <string>voll</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="DOPos" xml:id="tag-549_3">
+                <string>Position des direkten Objekts</string>
+                <fs type="tag">
+                  <f name="2Pos" xml:id="tag-551_4">
+                    <string>Position 2</string>
+                  </f>
+                  <f name="1Pos" xml:id="tag-550_5">
+                    <string>Position 1</string>
+                  </f>
+                </fs>
+              </f>
+            </fs>
+          </f>
+          <f name="DOIO" xml:id="tag-547_2">
+            <string>Pronomenabfolge direktes Objekt indirektes Objekt</string>
+            <fs type="tag">
+              <f name="IOForm" xml:id="tag-565_2">
+                <string>Form</string>
+                <fs type="tag">
+                  <f name="Pro" xml:id="tag-553_4">
+                    <string>Pronomen</string>
+                    <fs type="tag">
+                      <f name="red" xml:id="tag-555_4">
+                        <string>reduziert</string>
+                      </f>
+                      <f name="voll" xml:id="tag-554_4">
+                        <string>voll</string>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="Nom" xml:id="tag-556_4">
+                    <string>Nomen</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="IOPos" xml:id="tag-564_2">
+                <string>Position des indirekten Objekts</string>
+                <fs type="tag">
+                  <f name="1Pos" xml:id="tag-550_6">
+                    <string>Position 1</string>
+                  </f>
+                  <f name="2Pos" xml:id="tag-551_5">
+                    <string>Position 2</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="IO" xml:id="tag-559_2">
+                <string>indirektes objekt</string>
+                <fs type="tag">
+                  <f name="IOGen" xml:id="tag-560_2">
+                    <string>Genus</string>
+                    <fs type="tag">
+                      <f name="0Gen3" xml:id="tag-563_5">
+                        <string>Genus indifferent</string>
+                      </f>
+                      <f name="neu3" xml:id="tag-562_5">
+                        <string>neutrum</string>
+                      </f>
+                      <f name="fem3" xml:id="tag-561_5">
+                        <string>feminin</string>
+                      </f>
+                      <f name="mask3" xml:id="tag-558_5">
+                        <string>maskulin</string>
+                      </f>
+                    </fs>
+                  </f>
+                </fs>
+              </f>
+              <f name="DO" xml:id="tag-548_3">
+                <string>direktes Objekt</string>
+                <fs type="tag">
+                  <f name="DOGen" xml:id="tag-557_4">
+                    <string>Genus</string>
+                    <fs type="tag">
+                      <f name="0Gen3" xml:id="tag-563_6">
+                        <string>Genus indifferent</string>
+                      </f>
+                      <f name="neu3" xml:id="tag-562_6">
+                        <string>neutrum</string>
+                      </f>
+                      <f name="fem3" xml:id="tag-561_6">
+                        <string>feminin</string>
+                      </f>
+                      <f name="mask3" xml:id="tag-558_6">
+                        <string>maskulin</string>
+                      </f>
+                    </fs>
+                  </f>
+                  <f name="DOForm" xml:id="tag-552_3">
+                    <string>Form</string>
+                    <fs type="tag">
+                      <f name="Nom" xml:id="tag-556_5">
+                        <string>Nomen</string>
+                      </f>
+                      <f name="Pro" xml:id="tag-553_5">
+                        <string>Pronomen</string>
                         <fs type="tag">
-                          <f name="Diph-" xml:id="tag-125_15">
-                            <string>Diphthong ist nicht vorhanden</string>
+                          <f name="red" xml:id="tag-555_5">
+                            <string>reduziert</string>
                           </f>
-                          <f name="Diph+" xml:id="tag-124_15">
-                            <string>Diphthong ist vorhanden</string>
+                          <f name="voll" xml:id="tag-554_5">
+                            <string>voll</string>
                           </f>
                         </fs>
                       </f>
                     </fs>
                   </f>
-                  <f name="U-" xml:id="tag-9_13">
-                    <string>keine Umlautung</string>
-                  </f>
-                  <f name="NU" xml:id="tag-8_13">
-                    <string>Nicht umlautfähig</string>
-                  </f>
-                </fs>
-              </f>
-            </fs>
-          </f>
-        </fs>
-      </f>
-      <f name="SF" xml:id="tag-585_1">
-        <string>Sonderfall</string>
-      </f>
-      <f name="Kompos-" xml:id="tag-1004_1">
-        <string>Keine Komposition vorhanden</string>
-      </f>
-      <f name="Vkl" xml:id="tag-1474_1">
-        <string>Vokale (undifferenziert)</string>
-      </f>
-      <f name="sonstFunkt" xml:id="tag-1436_1">
-        <string>sonstige Funktionen</string>
-      </f>
-      <f name="Anl" xml:id="tag-1496_1">
-        <string>Anlaut</string>
-        <fs type="tag">
-          <f name="RAppo" xml:id="tag-498_4">
-            <string>Appositiver Relativsatz</string>
-          </f>
-          <f name="0gen" xml:id="tag-497_10">
-            <string>genusindifferent</string>
-          </f>
-        </fs>
-      </f>
-      <f name="klitx2" xml:id="tag-1215_1">
-        <string>Clitic Doubling</string>
-      </f>
-      <f name="seinKop" xml:id="tag-1524_1">
-        <string>sein als Kopulaverb</string>
-      </f>
-      <f name="OtherDimMark" xml:id="tag-1001_1">
-        <string>Andere Diminuitivmarkierungen</string>
-        <fs type="tag">
-          <f name="ADJK" xml:id="tag-2_2">
-            <string>Adjektiv Komparativ</string>
-            <fs type="tag">
-              <f name="ASond" xml:id="tag-590_6">
-                <string>Adjektiv/Adverb-Sonderfall</string>
-                <fs type="tag">
-                  <f name="suppl" xml:id="tag-592_8">
-                    <string>suppletiv</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="PerSt" xml:id="tag-121_7">
-                <string>Periphrastische Steigerung</string>
-                <fs type="tag">
-                  <f name="PerSt+" xml:id="tag-122_8">
-                    <string>periphrastische Steigerung vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Suff" xml:id="tag-11_13">
-                <string>Suffix-Kategorie</string>
-                <fs type="tag">
-                  <f name="-lang" xml:id="tag-918_13">
-                    <string>Suffix -lang</string>
-                  </f>
-                  <f name="-len" xml:id="tag-581_13">
-                    <string>Suffix -len</string>
-                  </f>
-                  <f name="-lan" xml:id="tag-580_13">
-                    <string>Suffix -lan</string>
-                  </f>
-                  <f name="-la" xml:id="tag-579_13">
-                    <string>Suffix -la</string>
-                  </f>
-                  <f name="-ei" xml:id="tag-578_13">
-                    <string>Suffix -ei</string>
-                  </f>
-                  <f name="-li" xml:id="tag-355_14">
-                    <string>Suffix -li</string>
-                  </f>
-                  <f name="-le" xml:id="tag-354_14">
-                    <string>Suffix -le</string>
-                  </f>
-                  <f name="-(e)l" xml:id="tag-353_15">
-                    <string>Suffix -(e)l</string>
-                  </f>
-                  <f name="-erl" xml:id="tag-352_14">
-                    <string>Suffix -erl</string>
-                  </f>
-                  <f name="-lein" xml:id="tag-351_14">
-                    <string>Suffix -lein</string>
-                  </f>
-                  <f name="-chen" xml:id="tag-350_15">
-                    <string>Suffix -chen</string>
-                  </f>
-                  <f name="-i" xml:id="tag-349_14">
-                    <string>Suffix -i</string>
-                  </f>
-                  <f name="-s" xml:id="tag-348_17">
-                    <string>Endung -s</string>
-                  </f>
-                  <f name="-er" xml:id="tag-347_14">
-                    <string>Suffix -er</string>
-                  </f>
-                  <f name="-e" xml:id="tag-142_17">
-                    <string>Suffix -e</string>
-                  </f>
-                  <f name="-(e)n" xml:id="tag-346_14">
-                    <string>Suffix -(e)n</string>
-                  </f>
-                  <f name="0" xml:id="tag-345_14">
-                    <string>0-Suffix</string>
-                  </f>
-                  <f name="Derred" xml:id="tag-274_14">
-                    <string>Derrivationssuffix reduziert</string>
-                  </f>
-                  <f name="Pseured" xml:id="tag-16_14">
-                    <string>Pseudosuffix reduziert</string>
-                  </f>
-                  <f name="Pseu-" xml:id="tag-15_14">
-                    <string>Pseudosuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Pseu+" xml:id="tag-14_14">
-                    <string>Pseudosuffix vorhanden</string>
-                  </f>
-                  <f name="Der-" xml:id="tag-13_17">
-                    <string>Derivationssuffix nicht vorhanden</string>
-                  </f>
-                  <f name="Der+" xml:id="tag-12_15">
-                    <string>Derivationssuffix vorhanden</string>
-                  </f>
-                </fs>
-              </f>
-              <f name="Uml" xml:id="tag-7_13">
-                <string>Umlautung bei ADJST, DIM, NPL</string>
-                <fs type="tag">
-                  <f name="U+" xml:id="tag-10_14">
-                    <string>Umlautung</string>
+                  <f name="DOPos" xml:id="tag-549_4">
+                    <string>Position des direkten Objekts</string>
                     <fs type="tag">
-                      <f name="Rund" xml:id="tag-126_15">
-                        <string>gerundeter Vokal</string>
-                        <fs type="tag">
-                          <f name="Rund-" xml:id="tag-128_16">
-                            <string>gerundeter Vokal nicht vorhanden</string>
-                          </f>
-                          <f name="Rund+" xml:id="tag-127_16">
-                            <string>gerundeter Vokal vorhanden</string>
-                          </f>
-                        </fs>
+                      <f name="2Pos" xml:id="tag-551_6">
+                        <string>Position 2</string>
                       </f>
-                      <f name="Diph" xml:id="tag-123_15">
-                        <string>Diphthong</string>
-                        <fs type="tag">
-                          <f name="Diph-" xml:id="tag-125_16">
-                            <string>Diphthong ist nicht vorhanden</string>
-                          </f>
-                          <f name="Diph+" xml:id="tag-124_16">
-                            <string>Diphthong ist vorhanden</string>
-                          </f>
-                        </fs>
+                      <f name="1Pos" xml:id="tag-550_7">
+                        <string>Position 1</string>
                       </f>
                     </fs>
                   </f>
-                  <f name="U-" xml:id="tag-9_14">
-                    <string>keine Umlautung</string>
+                </fs>
+              </f>
+            </fs>
+          </f>
+          <f name="habenAux2" xml:id="tag-546_2">
+            <string>haben als Auxiliar</string>
+          </f>
+          <f name="seinAux2" xml:id="tag-545_2">
+            <string>sein als Auxiliar</string>
+          </f>
+          <f name="Aux1" xml:id="tag-544_2">
+            <string>Auxiliar</string>
+            <fs type="tag">
+              <f name="habenAux2" xml:id="tag-546_3">
+                <string>haben als Auxiliar</string>
+              </f>
+              <f name="seinAux2" xml:id="tag-545_3">
+                <string>sein als Auxiliar</string>
+              </f>
+            </fs>
+          </f>
+          <f name="DPF" xml:id="tag-543_2">
+            <string>Doppelperfektbildung</string>
+            <fs type="tag">
+              <f name="Aux1" xml:id="tag-544_3">
+                <string>Auxiliar</string>
+                <fs type="tag">
+                  <f name="habenAux2" xml:id="tag-546_4">
+                    <string>haben als Auxiliar</string>
                   </f>
-                  <f name="NU" xml:id="tag-8_14">
-                    <string>Nicht umlautfähig</string>
+                  <f name="seinAux2" xml:id="tag-545_4">
+                    <string>sein als Auxiliar</string>
                   </f>
                 </fs>
               </f>
             </fs>
           </f>
-          <f name="attrAdj" xml:id="tag-954_3">
-            <string>(attributives) Adjektiv </string>
+          <f name="Pos3" xml:id="tag-542_6">
+            <string>dritte Position im Cluster</string>
+          </f>
+          <f name="Pos2" xml:id="tag-541_6">
+            <string>zweite Position im Cluster</string>
+          </f>
+          <f name="Pos1" xml:id="tag-540_6">
+            <string>erste Position im Cluster</string>
+          </f>
+          <f name="Pos0" xml:id="tag-539_6">
+            <string>kein Verb</string>
+          </f>
+        </fs>
+      </f>
+      <f name="nsSubjekt" xml:id="tag-1539_1">
+        <string>Subjektsatz</string>
+      </f>
+      <f name="nsObjekt" xml:id="tag-1540_1">
+        <string>Objektsatz</string>
+      </f>
+      <f name="nsTemp" xml:id="tag-1541_1">
+        <string>Temporalsatz</string>
+      </f>
+      <f name="nsKond" xml:id="tag-1542_1">
+        <string>Konditionalsatz</string>
+      </f>
+      <f name="nsKaus" xml:id="tag-1543_1">
+        <string>Kausalsatz</string>
+      </f>
+      <f name="nsKonz" xml:id="tag-1544_1">
+        <string>Konzessivsatz</string>
+      </f>
+      <f name="nsKons" xml:id="tag-1545_1">
+        <string>Konsekutivsatz</string>
+      </f>
+      <f name="nsFinal" xml:id="tag-1546_1">
+        <string>Finalsatz</string>
+      </f>
+      <f name="nsMod" xml:id="tag-1547_1">
+        <string>Modalsatz</string>
+      </f>
+      <f name="nsVergl" xml:id="tag-1548_1">
+        <string>Nebensatz: Vergleich</string>
+      </f>
+      <f name="nsFrage" xml:id="tag-1549_1">
+        <string>Indirkter Fragesatz</string>
+      </f>
+      <f name="nsRel" xml:id="tag-1550_1">
+        <string>Relativsatz</string>
+      </f>
+      <f name="ProgKonTyp" xml:id="tag-1557_1">
+        <string>Art der Progressivkonstruktion</string>
+        <fs type="tag">
+          <f name="abKon" xml:id="tag-568_4">
+            <string>abstrakte Konzepte</string>
+          </f>
+          <f name="Zustand" xml:id="tag-567_4">
+            <string>Zustände</string>
+          </f>
+          <f name="-tet" xml:id="tag-566_4">
+            <string>Verbendung -tet</string>
+          </f>
+          <f name="neu3" xml:id="tag-562_7">
+            <string>neutrum</string>
+          </f>
+          <f name="mask3" xml:id="tag-558_7">
+            <string>maskulin</string>
+          </f>
+        </fs>
+      </f>
+      <f name="PCPVC" xml:id="tag-1558_1">
+        <string>Pseudokoordinierte Positionsverbcluster</string>
+        <fs type="tag">
+          <f name="fem3" xml:id="tag-561_7">
+            <string>feminin</string>
+          </f>
+          <f name="IOGen" xml:id="tag-560_3">
+            <string>Genus</string>
             <fs type="tag">
-              <f name="attrAdj-" xml:id="tag-956_3">
-                <string>(attributives) Adjektiv nicht vorhanden</string>
+              <f name="0Gen3" xml:id="tag-563_7">
+                <string>Genus indifferent</string>
               </f>
-              <f name="attrAdj+" xml:id="tag-955_3">
-                <string>(attributives) Adjektiv vorhanden</string>
+              <f name="neu3" xml:id="tag-562_8">
+                <string>neutrum</string>
+              </f>
+              <f name="fem3" xml:id="tag-561_8">
+                <string>feminin</string>
+              </f>
+              <f name="mask3" xml:id="tag-558_8">
+                <string>maskulin</string>
+              </f>
+            </fs>
+          </f>
+          <f name="IO" xml:id="tag-559_3">
+            <string>indirektes objekt</string>
+            <fs type="tag">
+              <f name="IOGen" xml:id="tag-560_4">
+                <string>Genus</string>
+                <fs type="tag">
+                  <f name="0Gen3" xml:id="tag-563_8">
+                    <string>Genus indifferent</string>
+                  </f>
+                  <f name="neu3" xml:id="tag-562_9">
+                    <string>neutrum</string>
+                  </f>
+                  <f name="fem3" xml:id="tag-561_9">
+                    <string>feminin</string>
+                  </f>
+                  <f name="mask3" xml:id="tag-558_9">
+                    <string>maskulin</string>
+                  </f>
+                </fs>
               </f>
             </fs>
           </f>
         </fs>
       </f>
-      <f name="prodrop" xml:id="tag-1214_1">
-        <string>Pronomen nicht realisiert</string>
+      <f name="PCPVC_Sitzen" xml:id="tag-1559_1">
+        <string>Pseudokoordinierte Positionsverbcluster mit Sitzen</string>
       </f>
-      <f name="..." xml:id="tag-275_1">
-        <string>Aufzählung Fortsetzung</string>
+      <f name="PCPVC_Stehen" xml:id="tag-1560_1">
+        <string>Pseudokoordinierte Positionsverbcluster mit Stehen</string>
       </f>
-      <f name="pass?" xml:id="tag-1520_1">
-        <string>möglicherweise passiv</string>
+      <f name="PCPVC_Liegen" xml:id="tag-1561_1">
+        <string>Pseudokoordinierte Positionsverbcluster mit Liegen</string>
+      </f>
+      <f name="PräpProg" xml:id="tag-1562_1">
+        <string>Progressivkonstruktion mit Präposition</string>
+        <fs type="tag">
+          <f name="0Gen3" xml:id="tag-563_9">
+            <string>Genus indifferent</string>
+          </f>
+          <f name="IOForm" xml:id="tag-565_3">
+            <string>Form</string>
+            <fs type="tag">
+              <f name="Pro" xml:id="tag-553_6">
+                <string>Pronomen</string>
+                <fs type="tag">
+                  <f name="red" xml:id="tag-555_6">
+                    <string>reduziert</string>
+                  </f>
+                  <f name="voll" xml:id="tag-554_6">
+                    <string>voll</string>
+                  </f>
+                </fs>
+              </f>
+              <f name="Nom" xml:id="tag-556_6">
+                <string>Nomen</string>
+              </f>
+            </fs>
+          </f>
+          <f name="IOPos" xml:id="tag-564_3">
+            <string>Position des indirekten Objekts</string>
+            <fs type="tag">
+              <f name="1Pos" xml:id="tag-550_8">
+                <string>Position 1</string>
+              </f>
+              <f name="2Pos" xml:id="tag-551_7">
+                <string>Position 2</string>
+              </f>
+            </fs>
+          </f>
+        </fs>
+      </f>
+      <f name="PräpProg_am" xml:id="tag-1563_1">
+        <string>Progressivkonstruktion mit Präposition am</string>
+      </f>
+      <f name="PräpProg_beim" xml:id="tag-1564_1">
+        <string>Progressivkonstruktion mit Präposition beim</string>
+      </f>
+      <f name="PräpProg_im" xml:id="tag-1565_1">
+        <string>Progressivkonstruktion mit Präposition im</string>
+      </f>
+      <f name="gerade_Kon" xml:id="tag-1566_1">
+        <string>Markierung v. progressiver Aspektualität ausschließlich mit gerade</string>
+        <fs type="tag">
+          <f name="-la" xml:id="tag-579_14">
+            <string>Suffix -la</string>
+          </f>
+          <f name="-ei" xml:id="tag-578_14">
+            <string>Suffix -ei</string>
+          </f>
+          <f name="Quel" xml:id="tag-577_4">
+            <string>Quelle</string>
+          </f>
+          <f name="Soz" xml:id="tag-576_4">
+            <string>Soziale Relation</string>
+          </f>
+          <f name="Zug" xml:id="tag-575_4">
+            <string>Zugehörigkeit</string>
+          </f>
+        </fs>
+      </f>
+      <f name="TunPProg" xml:id="tag-1567_1">
+        <string>TunPeriphrase in Progressivkontext</string>
+        <fs type="tag">
+          <f name="-len" xml:id="tag-581_14">
+            <string>Suffix -len</string>
+          </f>
+          <f name="-lan" xml:id="tag-580_14">
+            <string>Suffix -lan</string>
+          </f>
+        </fs>
+      </f>
+      <f name="dabei_kon" xml:id="tag-1568_1">
+        <string>Progressivaspektualisierung durch Subordination mit dabei sein zu</string>
+      </f>
+      <f name="ProgLes" xml:id="tag-1569_1">
+        <string>ist Instanz der Konstruktion als Progressiv interpretierbar</string>
+        <fs type="tag">
+          <f name="CDet" xml:id="tag-573_4">
+            <string>Determinierer bei Comp</string>
+          </f>
+          <f name="CNom" xml:id="tag-572_4">
+            <string>Nomen bei Comp</string>
+          </f>
+          <f name="TeilGanz" xml:id="tag-571_4">
+            <string>Teil/Ganzes</string>
+          </f>
+          <f name="Nomin" xml:id="tag-570_4">
+            <string>Nominalisierungen</string>
+          </f>
+        </fs>
+      </f>
+      <f name="progLes+" xml:id="tag-1570_1">
+        <string>progressive Lesart</string>
+      </f>
+      <f name="progambig" xml:id="tag-1571_1">
+        <string>ambige Lesart</string>
+      </f>
+      <f name="gerade_disambig" xml:id="tag-1572_1">
+        <string>disambiguierendes gerade in Konstruktion</string>
+      </f>
+      <f name="habit" xml:id="tag-1573_1">
+        <string>habituelle Lesart</string>
+      </f>
+      <f name="gerade_momentan" xml:id="tag-1574_1">
+        <string>gerade in der Bedeutung von 'momentan'</string>
+      </f>
+      <f name="gerade_kurz" xml:id="tag-1575_1">
+        <string>gerade in der Bedeutung von 'kurz'</string>
+      </f>
+      <f name="gerade_direkt" xml:id="tag-1576_1">
+        <string>gerade in der Bedeutung von 'direkt'</string>
+      </f>
+      <f name="gerade_knapp" xml:id="tag-1577_1">
+        <string>gerade in der Bedeutung von 'knapp'</string>
+      </f>
+      <f name="gerade_insbesondere" xml:id="tag-1578_1">
+        <string>gerade in der Bedeutung von 'insbesondere'</string>
+      </f>
+      <f name="gerade_unverbogen" xml:id="tag-1579_1">
+        <string>gerade in der Bedeutung von 'unverbogen'</string>
+      </f>
+      <f name="tun_ind" xml:id="tag-1580_1">
+        <string>periphrastisches Tun im Indikativ</string>
+      </f>
+      <f name="tun_konj" xml:id="tag-1581_1">
+        <string>(periphrastisches) tun im Konjunktiv</string>
       </f>
     </fs>
   </standOff>
