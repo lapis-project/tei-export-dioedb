@@ -115,7 +115,9 @@ def generate_tei_from_json(json_file_path, output_xml_path):
         create_feature_element(fs_root, top_level_tag, all_tags)
 
     # --- Second Pass: Process Orphaned Tags ---
-    print("Starting second pass: Checking for orphaned tags (non-gen-0 not yet processed)...")
+    print(
+        "Starting second pass: Checking for orphaned tags (non-gen-0 not yet processed)..."
+    )
     orphaned_count = 0
     for tag in all_tags:
         # Check if tag hasn't been processed and is not gene 0
@@ -123,7 +125,7 @@ def generate_tei_from_json(json_file_path, output_xml_path):
             # Append it to the main fs_root
             create_feature_element(fs_root, tag, all_tags)
             orphaned_count += 1
-    
+
     if orphaned_count > 0:
         print(f"✅ Second pass complete. Appended {orphaned_count} orphaned tags.")
     else:
@@ -145,4 +147,4 @@ def generate_tei_from_json(json_file_path, output_xml_path):
 
 if __name__ == "__main__":
     # Changed to dioe-tags-tree.json as it seems to be the intended source
-    generate_tei_from_json("dioe-tags.json", "dioe-tags.tei.xml")
+    generate_tei_from_json("dioe-tags-tree.json", "dioe-tags.tei.xml")
