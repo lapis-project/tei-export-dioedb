@@ -27,6 +27,13 @@ ATTRIBUTE lc {
 # --- STRUCTURES (Hierarchical Tags) ---
 STRUCTURE doc {
     ATTRIBUTE id
+    ATTRIBUTE title
+    ATTRIBUTE erhebung
+    ATTRIBUTE erhebungsart
+    ATTRIBUTE ort_namekurz
+    ATTRIBUTE ort_namelang
+    ATTRIBUTE lat
+    ATTRIBUTE lon
 }
 STRUCTURE file {
     ATTRIBUTE id
@@ -44,3 +51,4 @@ STRUCTURE u {
 STRUCTURE pause {
     ATTRIBUTE duration
 }
+
