@@ -47,14 +47,8 @@ STRUCTURE u {
     ATTRIBUTE location
     ATTRIBUTE lat
     ATTRIBUTE lon
-    ATTRIBUTE age_lower {
-        TYPE "INT"
-        NUMERIC "1"
-    }
-    ATTRIBUTE age_upper {
-        TYPE "INT"
-        NUMERIC "1"
-    }
+    ATTRIBUTE age_lower
+    ATTRIBUTE age_upper
 }
 STRUCTURE pause {
     ATTRIBUTE duration
