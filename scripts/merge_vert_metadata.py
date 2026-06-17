@@ -88,8 +88,6 @@ def parse_age_bounds(age_str: str):
             if len(parts) == 2:
                 age_lower = parts[0]
                 age_upper = parts[1]
-    print(age_lower)
-    print(age_upper)
     return age_lower, age_upper
 
 
@@ -220,7 +218,7 @@ def main():
         age_str = spk_data.get("age", "")
         age_lower, age_upper = parse_age_bounds(age_str)
         # Empty string will be cast into 0 by the NoSke
-        spk_data["age_lower"] = age_lower
+        spk_data["age_lower"] = age_lower if age_lower else "1"
         # If empty string => take 999
         spk_data["age_upper"] = age_upper if age_upper else "999"
 
