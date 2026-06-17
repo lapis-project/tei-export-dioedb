@@ -1,12 +1,12 @@
 <doc id="transcript_495" name="0330_OBER_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="495.xml" title="Transcript: Transcript_495">
-<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" start="0:00:17.400000" end="0:00:21.426000" persName="Informant 0330">
+<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:17.400000" end="0:00:21.426000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="65" age_upper="999">
 einst	-	-	-	0:00:17.400000	0:00:21.426000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:17.400000" end="0:00:21.426000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:17.400000" end="0:00:21.426000" persName="Informant EXP4" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:17.400000	0:00:21.426000
 </u>
-<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" start="0:00:17.400000" end="0:01:05.313000" persName="Informant 0330">
+<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:17.400000" end="0:01:05.313000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="65" age_upper="999">
 st	-	-	-	0:00:17.400000	0:00:21.426000
 /	-	-	-	0:00:17.400000	0:00:21.426000
 einst	-	-	LautNach LautVor Nas Ons Ons- P sPal sPal- sPal-t	0:00:17.400000	0:00:21.426000
@@ -136,10 +136,10 @@ der	-	-	-	0:01:02.373000	0:01:05.313000
 Stärkere	-	-	-	0:01:02.373000	0:01:05.313000
 war	-	-	-	0:01:02.373000	0:01:05.313000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:05.313000" end="0:01:07.313000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:05.313000" end="0:01:07.313000" persName="Informant EXP4" age_lower="" age_upper="999">
 XXX	-	-	-	0:01:05.313000	0:01:07.313000
 </u>
-<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" start="0:01:05.313000" end="0:01:07.313000" persName="Informant 0330">
+<u who="spk_468" sex="female" age="Alt (65+)" name="Informant 0330" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:05.313000" end="0:01:07.313000" persName="Informant 0330" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="65" age_upper="999">
 XXX	-	-	-	0:01:05.313000	0:01:07.313000
 </u>
 </file>

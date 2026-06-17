@@ -1,6 +1,6 @@
-<doc id="transcript_312" name="0302_WEIS_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="WEISS" ort_namelang="Weißbriach " lat="46.6891567" lon="13.2535836">
+<doc id="transcript_312" name="0302_WEIS_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="312.xml" title="Transcript: Transcript_312">
-<u who="spk_53" sex="male" age="jung (18-35) -matura" name="Informant 0302" start="0:00:34.400000" end="0:01:26.646000" persName="Informant 0302">
+<u who="spk_53" sex="male" age="jung (18-35) -matura" name="Informant 0302" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:34.400000" end="0:01:26.646000" persName="Informant 0302" residence="Weißbriach" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:34.400000	0:00:36.400000
 und	-	-	-	0:00:34.400000	0:00:36.400000
 Sonne	-	-	-	0:00:34.400000	0:00:36.400000
@@ -132,7 +132,7 @@ Stärkere	-	-	-	0:01:23.140000	0:01:26.646000
 war	-	-	-	0:01:23.140000	0:01:26.646000
 .	-	-	-	0:01:23.140000	0:01:26.646000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:26.646000" end="0:01:28.646000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:26.646000" end="0:01:28.646000" persName="Informant EXP4" age_lower="" age_upper="999">
 XXX	-	-	-	0:01:26.646000	0:01:28.646000
 </u>
 </file>

@@ -1,6 +1,6 @@
-<doc id="transcript_220" name="0056_WEIS_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="WEISS" ort_namelang="Weißbriach " lat="46.6891567" lon="13.2535836">
+<doc id="transcript_220" name="0056_WEIS_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="220.xml" title="Transcript: Transcript_220">
-<u who="spk_25" sex="male" age="Alt (65+)" name="Informant 0056" start="0:00:00" end="0:01:12.229000" persName="Informant 0056">
+<u who="spk_25" sex="male" age="Alt (65+)" name="Informant 0056" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:00" end="0:01:12.229000" persName="Informant 0056" residence="Weißbriach" age_lower="65" age_upper="999">
 XXX	XXX	PROPN	-	0:00:00	0:00:07.259000
 Nordwind	Nordwind	NOUN	-	0:00:07.259000	0:00:09.259000
 und	und	CCONJ	-	0:00:07.259000	0:00:09.259000

@@ -1,12 +1,12 @@
 <doc id="transcript_489" name="0664_HUTT_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="489.xml" title="Transcript: Transcript_489">
-<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" start="0:00:07.873000" end="0:00:09.220000" persName="Informant 0664">
+<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:07.873000" end="0:00:09.220000" persName="Informant 0664" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:07.873000	0:00:09.220000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:07.873000" end="0:00:09.220000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:07.873000" end="0:00:09.220000" persName="Informant EXP9" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:07.873000	0:00:09.220000
 </u>
-<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" start="0:00:07.873000" end="0:00:49.673000" persName="Informant 0664">
+<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:07.873000" end="0:00:49.673000" persName="Informant 0664" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:07.873000	0:00:09.220000
 Sonne	-	-	-	0:00:07.873000	0:00:09.220000
 .	-	-	-	0:00:07.873000	0:00:09.220000
@@ -137,10 +137,10 @@ der	-	-	-	0:00:47.093000	0:00:49.673000
 Stärkere	-	-	-	0:00:47.093000	0:00:49.673000
 war	-	-	-	0:00:47.093000	0:00:49.673000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:49.673000" end="0:00:51.753000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:49.673000" end="0:00:51.753000" persName="Informant EXP9" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:49.673000	0:00:51.753000
 </u>
-<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" start="0:00:49.673000" end="0:00:51.753000" persName="Informant 0664">
+<u who="spk_360" sex="male" age="jung (18-35) +matura" name="Informant 0664" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:49.673000" end="0:00:51.753000" persName="Informant 0664" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 XXX	-	-	-	0:00:49.673000	0:00:51.753000
 </u>
 </file>

@@ -1,6 +1,6 @@
 <doc id="transcript_55" name="0474_TAUF_jungII_m_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="55.xml" title="Transcript: Transcript_55">
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:00" end="0:00:05.833000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:05.833000" persName="Informant EXP11" age_lower="" age_upper="999">
 dann	dann	ADV	-	0:00:00	0:00:01.506000
 läuft	laufen	VERB	-	0:00:00	0:00:01.506000
 das	der	DET	-	0:00:00	0:00:01.506000
@@ -24,12 +24,12 @@ Ihr	mein	DET	-	0:00:04.659000	0:00:05.833000
 Geburtsdatum	Geburtsdatum	NOUN	-	0:00:04.659000	0:00:05.833000
 ?	-	-	-	0:00:04.659000	0:00:05.833000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:05.833000" end="0:00:08.386000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:05.833000" end="0:00:08.386000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	ADJ	-	0:00:05.833000	0:00:08.386000
 Erster	Erster	NOUN	-	0:00:05.833000	0:00:08.386000
 ZAHL	ZAHL	ADJ	-	0:00:05.833000	0:00:08.386000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:08.386000" end="0:00:16.393000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:08.386000" end="0:00:16.393000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 jawohl	jawohl	PROPN	-	0:00:08.386000	0:00:12.013000
 <pause duration="1,0s"/>
@@ -57,14 +57,14 @@ ich	ich	PRON	-	0:00:15.599000	0:00:16.393000
 an	an	ADP	-	0:00:15.599000	0:00:16.393000
 .	-	-	-	0:00:15.599000	0:00:16.393000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:16.393000" end="0:00:17.733000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:16.393000" end="0:00:17.733000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:16.393000	0:00:17.733000
 [Taufkirchen	Taufkirchen	PROPN	-	0:00:16.393000	0:00:17.733000
 an	an	ADP	-	0:00:16.393000	0:00:17.733000
 der	der	DET	-	0:00:16.393000	0:00:17.733000
 Pram]O	Pram	NOUN	-	0:00:16.393000	0:00:17.733000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:17.733000" end="0:00:22.593000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:17.733000" end="0:00:22.593000" persName="Informant EXP11" age_lower="" age_upper="999">
 genau	genau	ADJ	-	0:00:17.733000	0:00:21.586000
 ja	ja	PART	-	0:00:17.733000	0:00:21.586000
 ,	-	-	-	0:00:17.733000	0:00:21.586000
@@ -87,7 +87,7 @@ woanders	woanders	ADV	-	0:00:21.586000	0:00:22.593000
 gelebt	leben	VERB	-	0:00:21.586000	0:00:22.593000
 ?	-	-	-	0:00:21.586000	0:00:22.593000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:22.593000" end="0:00:41.119000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:22.593000" end="0:00:41.119000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	ich	PRON	-	0:00:22.593000	0:00:30.173000
 war	sein	AUX	-	0:00:22.593000	0:00:30.173000
@@ -142,18 +142,18 @@ der	der	DET	-	0:00:38.739000	0:00:41.119000
 Pram]O	Pram	NOUN	-	0:00:38.739000	0:00:41.119000
 .	-	-	-	0:00:38.739000	0:00:41.119000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:41.119000" end="0:00:41.739000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:41.119000" end="0:00:41.739000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:00:41.119000	0:00:41.739000
 .	-	-	-	0:00:41.119000	0:00:41.739000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:41.739000" end="0:00:43.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:41.739000" end="0:00:43.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 arbeitsmäßig	arbeitsmäßig	ADJ	-	0:00:41.739000	0:00:43.186000
 halt	halt	ADV	-	0:00:41.739000	0:00:43.186000
 unterwegs	unterwegs	ADV	-	0:00:41.739000	0:00:43.186000
 ,	-	-	-	0:00:41.739000	0:00:43.186000
 aber	aber	CCONJ	-	0:00:41.739000	0:00:43.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:43.186000" end="0:00:45.766000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:43.186000" end="0:00:45.766000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 gut	gut	ADJ	-	0:00:43.186000	0:00:45.766000
 ,	-	-	-	0:00:43.186000	0:00:45.766000
@@ -162,11 +162,11 @@ Wohnort	Wohnort	NOUN	-	0:00:43.186000	0:00:45.766000
 [Taufkirchen]O	Taufkirchen	NOUN	-	0:00:43.186000	0:00:45.766000
 ?	-	-	-	0:00:43.186000	0:00:45.766000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:45.766000" end="0:00:46.099000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:45.766000" end="0:00:46.099000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:00:45.766000	0:00:46.099000
 .	-	-	-	0:00:45.766000	0:00:46.099000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:46.099000" end="0:00:52.219000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:46.099000" end="0:00:52.219000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 alles	alle	PRON	-	0:00:46.099000	0:00:47.213000
 klar	klaren	ADJ	-	0:00:46.099000	0:00:47.213000
@@ -193,22 +193,22 @@ ein	einen	DET	-	0:00:51.233000	0:00:52.219000
 Internat	Internat	NOUN	-	0:00:51.233000	0:00:52.219000
 ?	-	-	-	0:00:51.233000	0:00:52.219000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:52.219000" end="0:00:52.913000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:52.219000" end="0:00:52.913000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Internat	Internat	NOUN	-	0:00:52.219000	0:00:52.913000
 .	-	-	-	0:00:52.219000	0:00:52.913000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:52.913000" end="0:00:53.786000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:52.913000" end="0:00:53.786000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:00:52.913000	0:00:53.786000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:53.786000" end="0:00:54.773000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:53.786000" end="0:00:54.773000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sechs	sechs	NUM	-	0:00:53.786000	0:00:54.773000
 Tage	Tag	NOUN	-	0:00:53.786000	0:00:54.773000
 die	der	DET	-	0:00:53.786000	0:00:54.773000
 Woche	Woche	NOUN	-	0:00:53.786000	0:00:54.773000
 .	-	-	-	0:00:53.786000	0:00:54.773000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:53.786000" end="0:00:59.559000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:53.786000" end="0:00:59.559000" persName="Informant EXP11" age_lower="" age_upper="999">
 gut	gut	ADJ	-	0:00:53.786000	0:00:54.773000
 .	-	-	-	0:00:53.786000	0:00:54.773000
 okay	okay	NOUN	-	0:00:54.773000	0:00:59.559000
@@ -223,7 +223,7 @@ Ihre	mein	DET	-	0:00:54.773000	0:00:59.559000
 Eltern	Eltern	NOUN	-	0:00:54.773000	0:00:59.559000
 ?	-	-	-	0:00:54.773000	0:00:59.559000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:00:59.559000" end="0:01:02.073000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:59.559000" end="0:01:02.073000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ORT	ORT	NOUN	-	0:00:59.559000	0:01:02.073000
 an	an	ADP	-	0:00:59.559000	0:01:02.073000
@@ -234,7 +234,7 @@ ORT	ORT	NOUN	-	0:00:59.559000	0:01:02.073000
 beide	beid	PRON	-	0:00:59.559000	0:01:02.073000
 .	-	-	-	0:00:59.559000	0:01:02.073000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:02.073000" end="0:01:08.226000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:02.073000" end="0:01:08.226000" persName="Informant EXP11" age_lower="" age_upper="999">
 wunderbar	wunderbar	ADJ	-	0:01:02.073000	0:01:05.739000
 <pause duration="1,0s"/>
 okay	okay	PROPN	-	0:01:02.073000	0:01:05.739000
@@ -256,7 +256,7 @@ gemacht	machen	VERB	-	0:01:06.446000	0:01:08.226000
 haben	haben	AUX	-	0:01:06.446000	0:01:08.226000
 ?	-	-	-	0:01:06.446000	0:01:08.226000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:08.226000" end="0:01:37.979000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:08.226000" end="0:01:37.979000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	PROPN	-	0:01:08.226000	0:01:15.373000
 ,	-	-	-	0:01:08.226000	0:01:15.373000
@@ -330,7 +330,7 @@ und	und	CCONJ	-	0:01:31.306000	0:01:37.979000
 ja	ja	ADV	-	0:01:31.306000	0:01:37.979000
 .	-	-	-	0:01:31.306000	0:01:37.979000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:37.979000" end="0:01:40.633000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:37.979000" end="0:01:40.633000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 wunderbar	wunderbar	ADJ	-	0:01:37.979000	0:01:40.633000
 .	-	-	-	0:01:37.979000	0:01:40.633000
@@ -340,11 +340,11 @@ Sie	ich	PRON	-	0:01:37.979000	0:01:40.633000
 verheiratet	verheiraten	VERB	-	0:01:37.979000	0:01:40.633000
 ?	-	-	-	0:01:37.979000	0:01:40.633000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:40.633000" end="0:01:41.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:40.633000" end="0:01:41.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:01:40.633000	0:01:41.186000
 .	-	-	-	0:01:40.633000	0:01:41.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:41.186000" end="0:01:42.719000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:41.186000" end="0:01:42.719000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 leben	leben	VERB	-	0:01:41.186000	0:01:42.719000
 Sie	ich	PRON	-	0:01:41.186000	0:01:42.719000
@@ -353,12 +353,12 @@ einer	einer	DET	-	0:01:41.186000	0:01:42.719000
 Partnerschaft	Partnerschaft	NOUN	-	0:01:41.186000	0:01:42.719000
 ?	-	-	-	0:01:41.186000	0:01:42.719000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:42.719000" end="0:01:43.446000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:42.719000" end="0:01:43.446000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	nein	PART	-	0:01:42.719000	0:01:43.446000
 .	-	-	-	0:01:42.719000	0:01:43.446000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:43.446000" end="0:01:44.773000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:43.446000" end="0:01:44.773000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:01:43.446000	0:01:44.773000
 haben	haben	AUX	-	0:01:43.446000	0:01:44.773000
@@ -366,12 +366,12 @@ keine	kein	DET	-	0:01:43.446000	0:01:44.773000
 Kinder	Kind	NOUN	-	0:01:43.446000	0:01:44.773000
 ?	-	-	-	0:01:43.446000	0:01:44.773000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:44.773000" end="0:01:45.419000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:44.773000" end="0:01:45.419000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	nein	PART	-	0:01:44.773000	0:01:45.419000
 .	-	-	-	0:01:44.773000	0:01:45.419000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:45.419000" end="0:01:52.593000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:45.419000" end="0:01:52.593000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:01:45.419000	0:01:48.799000
 ,	-	-	-	0:01:45.419000	0:01:48.799000
 wunderbar	wunderbar	ADJ	-	0:01:45.419000	0:01:48.799000
@@ -398,11 +398,11 @@ höchster	hoch	ADJ	-	0:01:48.799000	0:01:52.593000
 Ausbildungsgrad	Ausbildungsgrad	NOUN	-	0:01:48.799000	0:01:52.593000
 ?	-	-	-	0:01:48.799000	0:01:52.593000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:52.593000" end="0:01:53.319000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:52.593000" end="0:01:53.319000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Matura	Matura	PROPN	-	0:01:52.593000	0:01:53.319000
 .	-	-	-	0:01:52.593000	0:01:53.319000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:01:53.319000" end="0:01:57.759000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:53.319000" end="0:01:57.759000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:01:53.319000	0:01:57.759000
 .	-	-	-	0:01:53.319000	0:01:57.759000
 <pause duration="1,5s"/>
@@ -419,7 +419,7 @@ derzeitigen	derzeitig	ADJ	-	0:01:53.319000	0:01:57.759000
 Beruf	Beruf	NOUN	-	0:01:53.319000	0:01:57.759000
 .	-	-	-	0:01:53.319000	0:01:57.759000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:01:57.759000" end="0:02:25.613000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:01:57.759000" end="0:02:25.613000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ähm	ähm	PROPN	-	0:01:57.759000	0:02:03.346000
 ,	-	-	-	0:01:57.759000	0:02:03.346000
@@ -505,7 +505,7 @@ Berufsleben	Berufsleben	NOUN	-	0:02:24.486000	0:02:25.613000
 bin	sein	AUX	-	0:02:24.486000	0:02:25.613000
 .	-	-	-	0:02:24.486000	0:02:25.613000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:02:25.613000" end="0:02:30.919000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:25.613000" end="0:02:30.919000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:02:25.613000	0:02:30.919000
 .	-	-	-	0:02:25.613000	0:02:30.919000
 <pause duration="0,8s"/>
@@ -522,7 +522,7 @@ länger	lang	ADJ	-	0:02:25.613000	0:02:30.919000
 ausgeübt	ausüben	VERB	-	0:02:25.613000	0:02:30.919000
 ?	-	-	-	0:02:25.613000	0:02:30.919000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:02:30.919000" end="0:02:40.606000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:02:30.919000" end="0:02:40.606000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 für	für	ADP	-	0:02:30.919000	0:02:34.933000
 eine	einen	DET	-	0:02:30.919000	0:02:34.933000
@@ -557,23 +557,23 @@ Verkauf	Verkauf	NOUN	-	0:02:37.246000	0:02:40.606000
 halt	halt	ADV	-	0:02:37.246000	0:02:40.606000
 .	-	-	-	0:02:37.246000	0:02:40.606000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:02:40.606000" end="0:02:42.019000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:40.606000" end="0:02:42.019000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:02:40.606000	0:02:42.019000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:02:40.606000" end="0:02:42.019000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:02:40.606000" end="0:02:42.019000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 im	im	ADP	-	0:02:40.606000	0:02:42.019000
 Außendienst	Außendienst	NOUN	-	0:02:40.606000	0:02:42.019000
 ,	-	-	-	0:02:40.606000	0:02:42.019000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:02:42.019000" end="0:02:42.326000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:42.019000" end="0:02:42.326000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:02:42.019000	0:02:42.326000
 .	-	-	-	0:02:42.019000	0:02:42.326000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:02:42.019000" end="0:02:42.326000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:02:42.019000" end="0:02:42.326000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:02:42.019000	0:02:42.326000
 .	-	-	-	0:02:42.019000	0:02:42.326000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:02:42.326000" end="0:02:51.359000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:42.326000" end="0:02:51.359000" persName="Informant EXP11" age_lower="" age_upper="999">
 Außendienst	Außendienst	NOUN	-	0:02:42.326000	0:02:44.139000
 und	und	CCONJ	-	0:02:42.326000	0:02:44.139000
 Verkauf	Verkauf	NOUN	-	0:02:42.326000	0:02:44.139000
@@ -616,7 +616,7 @@ immer	immer	ADV	-	0:02:50.305000	0:02:51.359000
 gleich	gleichen	ADV	-	0:02:50.305000	0:02:51.359000
 ?	-	-	-	0:02:50.305000	0:02:51.359000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:02:51.359000" end="0:03:06.279000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:02:51.359000" end="0:03:06.279000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mh	mh	X	-	0:02:51.359000	0:02:52.793000
 ,	-	-	-	0:02:51.359000	0:02:52.793000
 nein	nein	PART	-	0:02:51.359000	0:02:52.793000
@@ -668,10 +668,10 @@ jetzt	jetzt	ADV	-	0:03:05.606000	0:03:06.279000
 einmal	einmal	ADV	-	0:03:05.606000	0:03:06.279000
 .	-	-	-	0:03:05.606000	0:03:06.279000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:06.279000" end="0:03:06.686000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:06.279000" end="0:03:06.686000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:06.279000	0:03:06.686000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:03:06.686000" end="0:03:20.406000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:06.686000" end="0:03:20.406000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 doch	doch	CCONJ	-	0:03:06.686000	0:03:09.719000
 eher	eher	ADV	-	0:03:06.686000	0:03:09.719000
 mit	mit	ADP	-	0:03:06.686000	0:03:09.719000
@@ -728,11 +728,11 @@ sonst	sonst	ADV	-	0:03:18.599000	0:03:20.406000
 irgendwo	irgendwo	ADV	-	0:03:18.599000	0:03:20.406000
 .	-	-	-	0:03:18.599000	0:03:20.406000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:20.406000" end="0:03:21.179000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:20.406000" end="0:03:21.179000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:03:20.406000	0:03:21.179000
 .	-	-	-	0:03:20.406000	0:03:21.179000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:03:21.179000" end="0:03:26.659000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:21.179000" end="0:03:26.659000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:03:21.179000	0:03:22.666000
 ja	-	-	-	0:03:21.179000	0:03:22.666000
@@ -758,7 +758,7 @@ relativ	-	-	-	0:03:25.826000	0:03:26.236000
 _kommod_	-	-	-	0:03:26.236000	0:03:26.659000
 .	-	-	-	0:03:26.236000	0:03:26.659000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:26.659000" end="0:03:32.093000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:26.659000" end="0:03:32.093000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:03:26.659000	0:03:29.206000
 sind	sein	AUX	-	0:03:26.659000	0:03:29.206000
@@ -779,7 +779,7 @@ Sie	ich	PRON	-	0:03:30.319000	0:03:32.093000
 aus	aus	ADP	-	0:03:30.319000	0:03:32.093000
 ?	-	-	-	0:03:30.319000	0:03:32.093000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:03:30.319000" end="0:03:33.733000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:30.319000" end="0:03:33.733000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Bezirk	Bezirk	NOUN	-	0:03:30.319000	0:03:32.093000
 Sch/	-	-	-	0:03:30.319000	0:03:32.093000
 Bezirk	Bezirk	PROPN	-	0:03:30.319000	0:03:32.093000
@@ -790,7 +790,7 @@ ORT	ORT	PROPN	-	0:03:32.093000	0:03:33.733000
 und	und	CCONJ	-	0:03:32.093000	0:03:33.733000
 ORT	ORT	PROPN	-	0:03:32.093000	0:03:33.733000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:33.733000" end="0:03:38.213000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:33.733000" end="0:03:38.213000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:03:33.733000	0:03:35.866000
 ,	-	-	-	0:03:33.733000	0:03:35.866000
 gut	gut	ADJ	-	0:03:33.733000	0:03:35.866000
@@ -803,7 +803,7 @@ Oberösterreich	Oberösterreich	PROPN	-	0:03:33.733000	0:03:35.866000
 jeden	jed	DET	-	0:03:35.866000	0:03:38.213000
 Fall)	Fall	NOUN	-	0:03:35.866000	0:03:38.213000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:03:35.866000" end="0:03:38.213000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:35.866000" end="0:03:38.213000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:35.866000	0:03:38.213000
 vorher	vorher	ADV	-	0:03:35.866000	0:03:38.213000
 war	sein	AUX	-	0:03:35.866000	0:03:38.213000
@@ -814,7 +814,7 @@ und	und	CCONJ	-	0:03:35.866000	0:03:38.213000
 Salzburg	Salzburg	PROPN	-	0:03:35.866000	0:03:38.213000
 .	-	-	-	0:03:35.866000	0:03:38.213000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:38.213000" end="0:03:49.933000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:38.213000" end="0:03:49.933000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:38.213000	0:03:43.779000
 okay	okay	PROPN	-	0:03:38.213000	0:03:43.779000
 .	-	-	-	0:03:38.213000	0:03:43.779000
@@ -863,12 +863,12 @@ seine	mein	DET	-	0:03:48.478000	0:03:49.933000
 Sprache	Sprache	NOUN	-	0:03:48.478000	0:03:49.933000
 ?	-	-	-	0:03:48.478000	0:03:49.933000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:03:49.933000" end="0:03:51.933000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:03:49.933000" end="0:03:51.933000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:03:49.933000	0:03:51.933000
 Innviertlerisch((1,1s))	-	-	-	0:03:49.933000	0:03:51.933000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:03:51.933000" end="0:04:00.819000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:51.933000" end="0:04:00.819000" persName="Informant EXP11" age_lower="" age_upper="999">
 Innviertlerisch	Innviertlerisch	ADJ	-	0:03:51.933000	0:03:53.213000
 ,	-	-	-	0:03:51.933000	0:03:53.213000
 okay	okay	NOUN	-	0:03:51.933000	0:03:53.213000
@@ -886,12 +886,12 @@ auch	auch	ADV	-	0:03:53.213000	0:04:00.819000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:03:53.213000	0:04:00.819000
 ?	-	-	-	0:03:53.213000	0:04:00.819000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:04:00.819000" end="0:04:02.133000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:04:00.819000" end="0:04:02.133000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:04:00.819000	0:04:02.133000
 .	-	-	-	0:04:00.819000	0:04:02.133000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:04:02.133000" end="0:04:18.586000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:02.133000" end="0:04:18.586000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 okay	okay	NOUN	-	0:04:02.133000	0:04:04.173000
 .	-	-	-	0:04:02.133000	0:04:04.173000
@@ -944,7 +944,7 @@ diesen	dies	DET	-	0:04:15.159000	0:04:18.586000
 Dialekt	Dialekt	NOUN	-	0:04:15.159000	0:04:18.586000
 ?	-	-	-	0:04:15.159000	0:04:18.586000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:04:18.586000" end="0:04:36.866000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:04:18.586000" end="0:04:36.866000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	hm	X	-	0:04:18.586000	0:04:22.899000
 <pause duration="1,7s"/>
@@ -1000,7 +1000,7 @@ einmal	einmal	ADV	-	0:04:33.826000	0:04:36.866000
 so	so	ADV	-	0:04:33.826000	0:04:36.866000
 .	-	-	-	0:04:33.826000	0:04:36.866000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:04:36.866000" end="0:04:38.499000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:36.866000" end="0:04:38.499000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:04:36.866000	0:04:38.499000
 ,	-	-	-	0:04:36.866000	0:04:38.499000
 also	also	ADV	-	0:04:36.866000	0:04:38.499000
@@ -1008,11 +1008,11 @@ fast	fast	ADV	-	0:04:36.866000	0:04:38.499000
 vollständig	vollständig	ADJ	-	0:04:36.866000	0:04:38.499000
 .	-	-	-	0:04:36.866000	0:04:38.499000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:04:38.499000" end="0:04:38.973000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:04:38.499000" end="0:04:38.973000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:38.499000	0:04:38.973000
 .	-	-	-	0:04:38.499000	0:04:38.973000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:04:38.973000" end="0:04:47.006000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:38.973000" end="0:04:47.006000" persName="Informant EXP11" age_lower="" age_upper="999">
 ähm	ähm	PROPN	-	0:04:38.973000	0:04:41.453000
 ,	-	-	-	0:04:38.973000	0:04:41.453000
 dann	dann	ADV	-	0:04:38.973000	0:04:41.453000
@@ -1050,14 +1050,14 @@ Oma	Oma	NOUN	-	0:04:45.493000	0:04:47.006000
 ja	ja	PART	-	0:04:45.493000	0:04:47.006000
 .	-	-	-	0:04:45.493000	0:04:47.006000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:04:45.493000" end="0:04:47.713000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:04:45.493000" end="0:04:47.713000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:04:45.493000	0:04:47.006000
 so	so	ADV	-	0:04:45.493000	0:04:47.006000
 .	-	-	-	0:04:45.493000	0:04:47.006000
 Vollständig	Vollständig	ADJ	-	0:04:47.006000	0:04:47.713000
 .	-	-	-	0:04:47.006000	0:04:47.713000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:04:47.713000" end="0:04:55.919000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:47.713000" end="0:04:55.919000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:04:47.713000	0:04:48.926000
 klar	klaren	ADJ	-	0:04:47.713000	0:04:48.926000
 .	-	-	-	0:04:47.713000	0:04:48.926000
@@ -1093,7 +1093,7 @@ Ihrer	sich	DET	-	0:04:52.893000	0:04:55.919000
 Oma	Oma	NOUN	-	0:04:52.893000	0:04:55.919000
 ?	-	-	-	0:04:52.893000	0:04:55.919000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:04:55.919000" end="0:05:11.719000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:04:55.919000" end="0:05:11.719000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mh	mh	X	-	0:04:55.919000	0:04:58.593000
 der	der	DET	-	0:04:55.919000	0:04:58.593000
@@ -1141,7 +1141,7 @@ jetzt	jetzt	ADV	-	0:05:07.939000	0:05:11.719000
 einmal	einmal	ADV	-	0:05:07.939000	0:05:11.719000
 .	-	-	-	0:05:07.939000	0:05:11.719000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:11.719000" end="0:05:12.286000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:11.719000" end="0:05:12.286000" persName="Informant EXP11" age_lower="" age_upper="999">
 haben	haben	AUX	-	0:05:11.719000	0:05:12.286000
 Sie	ich	PRON	-	0:05:11.719000	0:05:12.286000
 da	da	ADV	-	0:05:11.719000	0:05:12.286000
@@ -1149,14 +1149,14 @@ ein	einen	DET	-	0:05:11.719000	0:05:12.286000
 Beispiel	Beispiel	NOUN	-	0:05:11.719000	0:05:12.286000
 ?	-	-	-	0:05:11.719000	0:05:12.286000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:12.286000" end="0:05:19.919000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:12.286000" end="0:05:19.919000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 ähm	-	-	-	0:05:12.286000	0:05:19.499000
 <pause duration="4,5s"/>
 eine	-	-	-	0:05:12.286000	0:05:19.499000
 _Maletten_	-	-	-	0:05:19.499000	0:05:19.919000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:19.919000" end="0:05:21.466000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:19.919000" end="0:05:21.466000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:05:19.919000	0:05:21.466000
 ,	-	-	-	0:05:19.919000	0:05:21.466000
 was	was	PRON	-	0:05:19.919000	0:05:21.466000
@@ -1164,11 +1164,11 @@ ist	sein	AUX	-	0:05:19.919000	0:05:21.466000
 das	der	PRON	-	0:05:19.919000	0:05:21.466000
 ?	-	-	-	0:05:19.919000	0:05:21.466000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:21.466000" end="0:05:22.633000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:21.466000" end="0:05:22.633000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 _Palatschinken_	-	-	-	0:05:21.466000	0:05:22.633000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:22.633000" end="0:05:24.919000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:22.633000" end="0:05:24.919000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 ist	sein	AUX	-	0:05:22.633000	0:05:24.919000
 klar	klaren	ADJ	-	0:05:22.633000	0:05:24.919000
@@ -1176,7 +1176,7 @@ klar	klaren	ADJ	-	0:05:22.633000	0:05:24.919000
 mhm	mhm	PROPN	-	0:05:22.633000	0:05:24.919000
 .	-	-	-	0:05:22.633000	0:05:24.919000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:22.633000" end="0:05:31.886000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:22.633000" end="0:05:31.886000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 also	-	-	-	0:05:22.633000	0:05:24.919000
 ich	-	-	-	0:05:22.633000	0:05:24.919000
@@ -1217,11 +1217,11 @@ auch	auch	ADV	-	0:05:30.593000	0:05:31.886000
 noch	noch	ADV	-	0:05:30.593000	0:05:31.886000
 .	-	-	-	0:05:30.593000	0:05:31.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:31.886000" end="0:05:32.332000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:31.886000" end="0:05:32.332000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:05:31.886000	0:05:32.332000
 .	-	-	-	0:05:31.886000	0:05:32.332000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:32.332000" end="0:05:36.626000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:32.332000" end="0:05:36.626000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	aber	CCONJ	-	0:05:32.332000	0:05:34.933000
 von	von	ADP	-	0:05:32.332000	0:05:34.933000
@@ -1249,7 +1249,7 @@ gehabt	-	-	-	0:05:35.566000	0:05:36.626000
 hat	-	-	-	0:05:35.566000	0:05:36.626000
 .	-	-	-	0:05:35.566000	0:05:36.626000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:36.626000" end="0:05:40.673000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:36.626000" end="0:05:40.673000" persName="Informant EXP11" age_lower="" age_upper="999">
 aber	aber	CCONJ	-	0:05:36.626000	0:05:37.379000
 Sie	ich	PRON	-	0:05:36.626000	0:05:37.379000
 gehen	gehen	VERB	-	0:05:36.626000	0:05:37.379000
@@ -1270,12 +1270,12 @@ verschwinden	-	-	-	0:05:40.073000	0:05:40.673000
 wird	-	-	-	0:05:40.073000	0:05:40.673000
 .	-	-	-	0:05:40.073000	0:05:40.673000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:40.673000" end="0:05:42.033000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:40.673000" end="0:05:42.033000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:05:40.673000	0:05:42.033000
 .	-	-	-	0:05:40.673000	0:05:42.033000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:42.033000" end="0:05:45.153000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:42.033000" end="0:05:45.153000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:05:42.033000	0:05:43.086000
 wunderbar	wunderbar	ADJ	-	0:05:42.033000	0:05:43.086000
 .	-	-	-	0:05:42.033000	0:05:43.086000
@@ -1286,12 +1286,12 @@ gerne	gerne	ADV	-	0:05:43.086000	0:05:45.153000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:05:43.086000	0:05:45.153000
 ?	-	-	-	0:05:43.086000	0:05:45.153000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:45.153000" end="0:05:45.766000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:45.153000" end="0:05:45.766000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:05:45.153000	0:05:45.766000
 .	-	-	-	0:05:45.153000	0:05:45.766000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:45.766000" end="0:05:47.579000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:45.766000" end="0:05:47.579000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 warum	warum	ADV	-	0:05:45.766000	0:05:47.579000
 ?	-	-	-	0:05:45.766000	0:05:47.579000
@@ -1301,7 +1301,7 @@ Sie	ich	PRON	-	0:05:45.766000	0:05:47.579000
 damit	damit	ADV	-	0:05:45.766000	0:05:47.579000
 ?	-	-	-	0:05:45.766000	0:05:47.579000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:47.579000" end="0:05:54.193000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:47.579000" end="0:05:54.193000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 äh	äh	X	-	0:05:47.579000	0:05:52.993000
 <pause duration="1,5s"/>
@@ -1316,7 +1316,7 @@ ich	ich	PRON	-	0:05:52.993000	0:05:54.193000
 hin	hin	ADP	-	0:05:52.993000	0:05:54.193000
 .	-	-	-	0:05:52.993000	0:05:54.193000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:05:54.193000" end="0:05:55.946000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:54.193000" end="0:05:55.946000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:05:54.193000	0:05:55.539000
 ,	-	-	-	0:05:54.193000	0:05:55.539000
 also	also	ADV	-	0:05:54.193000	0:05:55.539000
@@ -1326,7 +1326,7 @@ jeden	jed	DET	-	0:05:55.539000	0:05:55.946000
 Fall	Fall	NOUN	-	0:05:55.539000	0:05:55.946000
 .	-	-	-	0:05:55.539000	0:05:55.946000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:05:55.539000" end="0:06:12.486000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:05:55.539000" end="0:06:12.486000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:05:55.539000	0:05:55.946000
 .	-	-	-	0:05:55.539000	0:05:55.946000
 <pause duration="0,7s"/>
@@ -1384,11 +1384,11 @@ du	du	PRON	-	0:06:09.433000	0:06:12.486000
 redest	reden	VERB	-	0:06:09.433000	0:06:12.486000
 ,	-	-	-	0:06:09.433000	0:06:12.486000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:06:12.486000" end="0:06:12.826000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:12.486000" end="0:06:12.826000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:06:12.486000	0:06:12.826000
 .	-	-	-	0:06:12.486000	0:06:12.826000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:06:12.826000" end="0:06:15.499000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:06:12.826000" end="0:06:15.499000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 denkst	denken	VERB	-	0:06:12.826000	0:06:13.219000
 du	du	PRON	-	0:06:12.826000	0:06:13.219000
 dir	sich	PRON	-	0:06:12.826000	0:06:13.219000
@@ -1401,7 +1401,7 @@ meiner	sich	DET	-	0:06:13.539000	0:06:15.499000
 Heimat	Heimat	NOUN	-	0:06:13.539000	0:06:15.499000
 .	-	-	-	0:06:13.539000	0:06:15.499000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:06:15.499000" end="0:06:22.153000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:15.499000" end="0:06:22.153000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="2,4s"/>
 mit	mit	ADP	-	0:06:15.499000	0:06:19.739000
 welchen	welch	DET	-	0:06:15.499000	0:06:19.739000
@@ -1426,7 +1426,7 @@ eh	eh	ADV	-	0:06:21.239000	0:06:22.153000
 alle	all	PRON	-	0:06:21.239000	0:06:22.153000
 ?	-	-	-	0:06:21.239000	0:06:22.153000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:06:22.153000" end="0:06:48.146000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:06:22.153000" end="0:06:48.146000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 mh/	-	-	-	0:06:22.153000	0:06:25.019000
 eigentlich	eigentlich	ADV	-	0:06:22.153000	0:06:25.019000
@@ -1514,11 +1514,11 @@ auf	auf	ADP	-	0:06:46.066000	0:06:48.146000
 Schulungen	Schulung	NOUN	-	0:06:46.066000	0:06:48.146000
 bin	sein	AUX	-	0:06:46.066000	0:06:48.146000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:06:48.146000" end="0:06:48.949000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:48.146000" end="0:06:48.949000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:06:48.146000	0:06:48.949000
 .	-	-	-	0:06:48.146000	0:06:48.949000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:06:48.146000" end="0:06:54.953000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:06:48.146000" end="0:06:54.953000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:06:48.146000	0:06:48.949000
 eben	eben	ADV	-	0:06:48.146000	0:06:48.949000
 <pause duration="0,5s"/>
@@ -1545,7 +1545,7 @@ Zentrale	Zentrale	NOUN	-	0:06:52.859000	0:06:54.953000
 komme	kommen	VERB	-	0:06:52.859000	0:06:54.953000
 .	-	-	-	0:06:52.859000	0:06:54.953000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:06:54.953000" end="0:07:03.739000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:54.953000" end="0:07:03.739000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:06:54.953000	0:06:58.473000
 ,	-	-	-	0:06:54.953000	0:06:58.473000
@@ -1586,7 +1586,7 @@ bis	bis	ADP	-	0:07:00.079000	0:07:03.739000
 immer	immer	ADV	-	0:07:00.079000	0:07:03.739000
 .	-	-	-	0:07:00.079000	0:07:03.739000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:03.739000" end="0:07:06.119000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:03.739000" end="0:07:06.119000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 kann	können	VERB	-	0:07:03.739000	0:07:05.653000
 ich	ich	PRON	-	0:07:03.739000	0:07:05.653000
@@ -1594,7 +1594,7 @@ immer	immer	ADV	-	0:07:03.739000	0:07:05.653000
 ankreuzen	ankreuzen	VERB	-	0:07:05.653000	0:07:06.119000
 .	-	-	-	0:07:05.653000	0:07:06.119000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:07:06.119000" end="0:07:19.799000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:06.119000" end="0:07:19.799000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:07:06.119000	0:07:06.473000
 .	-	-	-	0:07:06.119000	0:07:06.473000
 <pause duration="4,3s"/>
@@ -1636,7 +1636,7 @@ da	-	-	-	0:07:17.446000	0:07:19.799000
 ist	-	-	-	0:07:17.446000	0:07:19.799000
 ?	-	-	-	0:07:17.446000	0:07:19.799000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:19.799000" end="0:07:21.886000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:19.799000" end="0:07:21.886000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 da	da	SCONJ	-	0:07:19.799000	0:07:21.886000
 bei	bei	ADP	-	0:07:19.799000	0:07:21.886000
@@ -1645,11 +1645,11 @@ uns	sich	PRON	-	0:07:19.799000	0:07:21.886000
 ja	ja	PART	-	0:07:19.799000	0:07:21.886000
 .	-	-	-	0:07:19.799000	0:07:21.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:07:21.886000" end="0:07:22.339000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:21.886000" end="0:07:22.339000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:07:21.886000	0:07:22.339000
 .	-	-	-	0:07:21.886000	0:07:22.339000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:22.339000" end="0:07:30.246000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:22.339000" end="0:07:30.246000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:07:22.339000	0:07:24.459000
 in	in	ADP	-	0:07:22.339000	0:07:24.459000
 meinem	mein	DET	-	0:07:22.339000	0:07:24.459000
@@ -1684,11 +1684,11 @@ Innviertel	-	-	-	0:07:29.332000	0:07:30.246000
 gehört	-	-	-	0:07:29.332000	0:07:30.246000
 ,	-	-	-	0:07:29.332000	0:07:30.246000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:07:30.246000" end="0:07:30.686000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:30.246000" end="0:07:30.686000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:07:30.246000	0:07:30.686000
 .	-	-	-	0:07:30.246000	0:07:30.686000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:30.686000" end="0:07:35.279000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:30.686000" end="0:07:35.279000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:07:30.686000	0:07:31.646000
 ORT	ORT	NOUN	-	0:07:30.686000	0:07:31.646000
 <pause duration="1,8s"/>
@@ -1702,7 +1702,7 @@ da	da	ADV	-	0:07:31.646000	0:07:35.279000
 nicht	nicht	PART	-	0:07:31.646000	0:07:35.279000
 .	-	-	-	0:07:31.646000	0:07:35.279000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:07:35.279000" end="0:07:43.226000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:35.279000" end="0:07:43.226000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:07:35.279000	0:07:36.558000
 ,	-	-	-	0:07:35.279000	0:07:36.558000
 dann	dann	ADV	-	0:07:35.279000	0:07:36.558000
@@ -1743,7 +1743,7 @@ nicht	nicht	PART	-	0:07:41.073000	0:07:43.226000
 angebracht	anbringen	ADJ	-	0:07:41.073000	0:07:43.226000
 ?	-	-	-	0:07:41.073000	0:07:43.226000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:43.226000" end="0:07:46.259000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:43.226000" end="0:07:46.259000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:07:43.226000	0:07:45.273000
 klar	klaren	ADJ	-	0:07:43.226000	0:07:45.273000
@@ -1754,7 +1754,7 @@ die	-	-	-	0:07:43.226000	0:07:45.273000
 ähm	-	-	-	0:07:45.759000	0:07:46.259000
 .	-	-	-	0:07:45.759000	0:07:46.259000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:07:46.259000" end="0:07:47.273000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:46.259000" end="0:07:47.273000" persName="Informant EXP11" age_lower="" age_upper="999">
 was	was	PRON	-	0:07:46.259000	0:07:47.273000
 wäre	sein	AUX	-	0:07:46.259000	0:07:47.273000
 denn	denn	ADV	-	0:07:46.259000	0:07:47.273000
@@ -1763,7 +1763,7 @@ zum	zum	ADP	-	0:07:46.259000	0:07:47.273000
 Beispiel	Beispiel	NOUN	-	0:07:46.259000	0:07:47.273000
 ?	-	-	-	0:07:46.259000	0:07:47.273000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:07:47.273000" end="0:08:09.279000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:07:47.273000" end="0:08:09.279000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 na	na	X	-	0:07:47.273000	0:07:49.186000
 ja	ja	ADV	-	0:07:47.273000	0:07:49.186000
@@ -1838,7 +1838,7 @@ richtige	richtige	ADJ	-	0:08:03.339000	0:08:09.279000
 Wahl	Wahl	NOUN	-	0:08:03.339000	0:08:09.279000
 .	-	-	-	0:08:03.339000	0:08:09.279000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:08:09.279000" end="0:08:11.566000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:09.279000" end="0:08:11.566000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 okay	okay	NOUN	-	0:08:09.279000	0:08:11.566000
 .	-	-	-	0:08:09.279000	0:08:11.566000
@@ -1847,7 +1847,7 @@ vor	vor	ADP	-	0:08:09.279000	0:08:11.566000
 wem	wer	PRON	-	0:08:09.279000	0:08:11.566000
 ?	-	-	-	0:08:09.279000	0:08:11.566000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:08:11.566000" end="0:08:21.539000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:08:11.566000" end="0:08:21.539000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 das	der	PRON	-	0:08:11.566000	0:08:16.746000
 kann	können	VERB	-	0:08:11.566000	0:08:16.746000
@@ -1884,7 +1884,7 @@ nicht	nicht	PART	-	0:08:20.446000	0:08:21.539000
 machen	machen	VERB	-	0:08:20.446000	0:08:21.539000
 .	-	-	-	0:08:20.446000	0:08:21.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:08:21.539000" end="0:08:23.446000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:21.539000" end="0:08:23.446000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:08:21.539000	0:08:22.573000
 .	-	-	-	0:08:21.539000	0:08:22.573000
@@ -1896,7 +1896,7 @@ Region	-	-	-	0:08:22.799000	0:08:23.446000
 ist	-	-	-	0:08:22.799000	0:08:23.446000
 ?	-	-	-	0:08:22.799000	0:08:23.446000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:08:23.446000" end="0:08:30.039000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:08:23.446000" end="0:08:30.039000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 auch	-	-	-	0:08:23.446000	0:08:24.913000
 *wenns*	-	-	-	0:08:24.913000	0:08:25.066000
@@ -1920,11 +1920,11 @@ jetzt	jetzt	ADV	-	0:08:29.486000	0:08:30.039000
 einmal	einmal	ADV	-	0:08:29.486000	0:08:30.039000
 .	-	-	-	0:08:29.486000	0:08:30.039000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:08:30.039000" end="0:08:30.646000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:30.039000" end="0:08:30.646000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:30.039000	0:08:30.646000
 .	-	-	-	0:08:30.039000	0:08:30.646000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:08:30.646000" end="0:08:57.246000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:08:30.646000" end="0:08:57.246000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:08:30.646000	0:08:32.133000
 sonst	sonst	ADV	-	0:08:30.646000	0:08:32.133000
 eher	eher	ADV	-	0:08:30.646000	0:08:32.133000
@@ -1984,7 +1984,7 @@ präsentieren	präsentieren	VERB	-	0:08:49.959000	0:08:57.246000
 soll	soll	VERB	-	0:08:49.959000	0:08:57.246000
 .	-	-	-	0:08:49.959000	0:08:57.246000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:08:57.246000" end="0:09:02.871000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:57.246000" end="0:09:02.871000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:57.246000	0:09:01.906000
 <pause duration="0,5s"/>
 okay	okay	PROPN	-	0:08:57.246000	0:09:01.906000
@@ -2003,7 +2003,7 @@ Sie	ich	PRON	-	0:09:01.906000	0:09:02.871000
 sagen	sagen	VERB	-	0:09:01.906000	0:09:02.871000
 ?	-	-	-	0:09:01.906000	0:09:02.871000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:09:01.906000" end="0:09:07.306000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:09:01.906000" end="0:09:07.306000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 weniger	wenig	DET	-	0:09:01.906000	0:09:02.871000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:09:01.906000	0:09:02.871000
 ,	-	-	-	0:09:01.906000	0:09:02.871000
@@ -2028,7 +2028,7 @@ gehobene	gehoben	ADJ	-	0:09:06.286000	0:09:07.306000
 Mundart	Mundart	NOUN	-	0:09:06.286000	0:09:07.306000
 .	-	-	-	0:09:06.286000	0:09:07.306000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:09:07.306000" end="0:09:18.279000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:07.306000" end="0:09:18.279000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:07.306000	0:09:09.639000
 <pause duration="1,0s"/>
 gut	gut	ADJ	-	0:09:07.306000	0:09:09.639000
@@ -2074,7 +2074,7 @@ vor	vor	ADP	-	0:09:13.859000	0:09:18.279000
 Augen	Auge	NOUN	-	0:09:13.859000	0:09:18.279000
 ?	-	-	-	0:09:13.859000	0:09:18.279000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:09:18.279000" end="0:09:40.559000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:09:18.279000" end="0:09:40.559000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 na	na	X	-	0:09:18.279000	0:09:21.566000
 ja	ja	ADV	-	0:09:18.279000	0:09:21.566000
@@ -2163,7 +2163,7 @@ mir	sich	PRON	-	0:09:39.799000	0:09:40.559000
 vorstellen	vorstellen	VERB	-	0:09:39.799000	0:09:40.559000
 .	-	-	-	0:09:39.799000	0:09:40.559000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:09:40.559000" end="0:09:49.519000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:40.559000" end="0:09:49.519000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:09:40.559000	0:09:43.986000
 ,	-	-	-	0:09:40.559000	0:09:43.986000
@@ -2203,7 +2203,7 @@ kommentiert	kommentieren	VERB	-	0:09:46.853000	0:09:49.519000
 vielleicht	vielleicht	ADV	-	0:09:46.853000	0:09:49.519000
 ?	-	-	-	0:09:46.853000	0:09:49.519000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:09:49.519000" end="0:09:54.933000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:09:49.519000" end="0:09:54.933000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 ja	ja	PART	-	0:09:49.519000	0:09:54.933000
 ,	-	-	-	0:09:49.519000	0:09:54.933000
@@ -2212,11 +2212,11 @@ der	der	DET	-	0:09:49.519000	0:09:54.933000
 Schule	Schule	NOUN	-	0:09:49.519000	0:09:54.933000
 .	-	-	-	0:09:49.519000	0:09:54.933000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:09:54.933000" end="0:09:55.665000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:54.933000" end="0:09:55.665000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:54.933000	0:09:55.665000
 .	-	-	-	0:09:54.933000	0:09:55.665000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:09:55.665000" end="0:10:20.619000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:09:55.665000" end="0:10:20.619000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:09:55.665000	0:09:57.006000
 wie	wie	ADV	-	0:09:55.665000	0:09:57.006000
 ich	ich	PRON	-	0:09:55.665000	0:09:57.006000
@@ -2301,12 +2301,12 @@ gescheite	gescheit	ADJ	-	0:10:17.573000	0:10:20.619000
 Unterschiede	Unterschied	NOUN	-	0:10:17.573000	0:10:20.619000
 .	-	-	-	0:10:17.573000	0:10:20.619000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:10:20.619000" end="0:10:21.559000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:20.619000" end="0:10:21.559000" persName="Informant EXP11" age_lower="" age_upper="999">
 ist	sein	AUX	-	0:10:20.619000	0:10:21.559000
 klar	klaren	ADJ	-	0:10:20.619000	0:10:21.559000
 .	-	-	-	0:10:20.619000	0:10:21.559000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:10:21.559000" end="0:10:23.086000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:10:21.559000" end="0:10:23.086000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:10:21.559000	0:10:21.913000
 das	-	-	-	0:10:21.559000	0:10:21.913000
 *sagens*	-	-	-	0:10:21.913000	0:10:22.139000
@@ -2315,7 +2315,7 @@ dann	-	-	-	0:10:22.139000	0:10:23.086000
 eh	-	-	-	0:10:22.139000	0:10:23.086000
 .	-	-	-	0:10:22.139000	0:10:23.086000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:10:23.086000" end="0:10:28.679000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:23.086000" end="0:10:28.679000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 wie	-	-	-	0:10:23.086000	0:10:24.999000
 *schauts*	-	-	-	0:10:24.999000	0:10:25.199000
@@ -2334,7 +2334,7 @@ Oder	Oder	CCONJ	-	0:10:26.333000	0:10:28.679000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:10:26.333000	0:10:28.679000
 ?	-	-	-	0:10:26.333000	0:10:28.679000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:10:28.679000" end="0:10:38.833000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:10:28.679000" end="0:10:38.833000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	hm	X	-	0:10:28.679000	0:10:33.353000
 ,	-	-	-	0:10:28.679000	0:10:33.353000
@@ -2369,7 +2369,7 @@ zu	-	-	-	0:10:37.159000	0:10:38.833000
 reden	-	-	-	0:10:37.159000	0:10:38.833000
 .	-	-	-	0:10:37.159000	0:10:38.833000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:10:38.833000" end="0:10:40.306000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:38.833000" end="0:10:40.306000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:10:38.833000	0:10:40.306000
 warum	warum	ADV	-	0:10:38.833000	0:10:40.306000
@@ -2379,7 +2379,7 @@ Person	Person	NOUN	-	0:10:38.833000	0:10:40.306000
 das	der	PRON	-	0:10:38.833000	0:10:40.306000
 ?	-	-	-	0:10:38.833000	0:10:40.306000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:10:40.306000" end="0:10:48.239000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:10:40.306000" end="0:10:48.239000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 keine	kein	DET	-	0:10:40.306000	0:10:47.619000
 Ahnung	Ahnung	NOUN	-	0:10:40.306000	0:10:47.619000
@@ -2402,7 +2402,7 @@ nicht	nicht	PART	-	0:10:47.619000	0:10:48.239000
 sagen	sagen	VERB	-	0:10:47.619000	0:10:48.239000
 .	-	-	-	0:10:47.619000	0:10:48.239000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:10:48.239000" end="0:10:53.439000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:48.239000" end="0:10:53.439000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:10:48.239000	0:10:49.599000
 ,	-	-	-	0:10:48.239000	0:10:49.599000
 aber	aber	CCONJ	-	0:10:48.239000	0:10:49.599000
@@ -2431,7 +2431,7 @@ was	-	-	-	0:10:52.813000	0:10:53.013000
 nicht	-	-	-	0:10:53.266000	0:10:53.439000
 ?	-	-	-	0:10:53.266000	0:10:53.439000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:10:53.439000" end="0:11:03.899000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:10:53.439000" end="0:11:03.899000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 muss	muss	VERB	-	0:10:53.439000	0:11:01.539000
 ich	ich	PRON	-	0:10:53.439000	0:11:01.539000
@@ -2456,7 +2456,7 @@ nichts	nichts	PRON	-	0:11:01.539000	0:11:03.899000
 ein	einen	ADP	-	0:11:01.539000	0:11:03.899000
 .	-	-	-	0:11:01.539000	0:11:03.899000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:11:03.899000" end="0:11:13.873000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:03.899000" end="0:11:13.873000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:03.899000	0:11:10.006000
 <pause duration="1,0s"/>
 wunderbar	wunderbar	ADJ	-	0:11:03.899000	0:11:10.006000
@@ -2490,7 +2490,7 @@ passiert	passieren	VERB	-	0:11:12.973000	0:11:13.873000
 da	da	ADP	-	0:11:12.973000	0:11:13.873000
 ?	-	-	-	0:11:12.973000	0:11:13.873000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:11:12.973000" end="0:11:19.346000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:11:12.973000" end="0:11:19.346000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:12.973000	0:11:13.873000
 .	-	-	-	0:11:12.973000	0:11:13.873000
 <pause duration="0,9s"/>
@@ -2513,11 +2513,11 @@ was	was	PRON	-	0:11:18.166000	0:11:19.346000
 verändern	verändern	VERB	-	0:11:18.166000	0:11:19.346000
 .	-	-	-	0:11:18.166000	0:11:19.346000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:11:19.346000" end="0:11:19.799000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:19.346000" end="0:11:19.799000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:19.346000	0:11:19.799000
 .	-	-	-	0:11:19.346000	0:11:19.799000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:11:19.799000" end="0:11:27.073000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:11:19.799000" end="0:11:27.073000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:11:19.799000	0:11:22.359000
 .	-	-	-	0:11:19.799000	0:11:22.359000
 <pause duration="0,5s"/>
@@ -2540,11 +2540,11 @@ mal	-	-	-	0:11:25.173000	0:11:27.073000
 kommen	-	-	-	0:11:25.173000	0:11:27.073000
 ?	-	-	-	0:11:25.173000	0:11:27.073000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:11:27.073000" end="0:11:28.399000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:27.073000" end="0:11:28.399000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:11:27.073000	0:11:28.399000
 .	-	-	-	0:11:27.073000	0:11:28.399000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:11:27.073000" end="0:11:40.219000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:11:27.073000" end="0:11:40.219000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 eh	eh	X	-	0:11:27.073000	0:11:28.399000
 .	-	-	-	0:11:27.073000	0:11:28.399000
 <pause duration="0,5s"/>
@@ -2579,7 +2579,7 @@ ich	ich	PRON	-	0:11:38.599000	0:11:40.219000
 auch	auch	ADV	-	0:11:38.599000	0:11:40.219000
 .	-	-	-	0:11:38.599000	0:11:40.219000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:11:40.219000" end="0:11:47.253000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:40.219000" end="0:11:47.253000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 okay	okay	NOUN	-	0:11:40.219000	0:11:45.206000
 .	-	-	-	0:11:40.219000	0:11:45.206000
@@ -2609,7 +2609,7 @@ Eindruck	Eindruck	NOUN	-	0:11:45.206000	0:11:47.253000
 vielleicht	vielleicht	ADV	-	0:11:45.206000	0:11:47.253000
 ?	-	-	-	0:11:45.206000	0:11:47.253000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:11:47.253000" end="0:12:16.806000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:11:47.253000" end="0:12:16.806000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 mh	mh	X	-	0:11:47.253000	0:11:51.919000
 <pause duration="0,5s"/>
@@ -2694,11 +2694,11 @@ Mundart	Mundart	NOUN	-	0:12:11.493000	0:12:16.806000
 eingebettet	einbetten	VERB	-	0:12:11.493000	0:12:16.806000
 .	-	-	-	0:12:11.493000	0:12:16.806000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:16.806000" end="0:12:17.333000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:16.806000" end="0:12:17.333000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:12:16.806000	0:12:17.333000
 .	-	-	-	0:12:16.806000	0:12:17.333000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:16.806000" end="0:12:25.039000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:16.806000" end="0:12:25.039000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:12:16.806000	0:12:17.333000
 <pause duration="0,5s"/>
 sind	sein	AUX	-	0:12:17.333000	0:12:18.913000
@@ -2726,12 +2726,12 @@ wieder	wieder	ADV	-	0:12:19.786000	0:12:25.039000
 geben	geben	VERB	-	0:12:19.786000	0:12:25.039000
 .	-	-	-	0:12:19.786000	0:12:25.039000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:25.039000" end="0:12:26.353000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:25.039000" end="0:12:26.353000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 okay	okay	NOUN	-	0:12:25.039000	0:12:26.353000
 .	-	-	-	0:12:25.039000	0:12:26.353000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:25.039000" end="0:12:27.626000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:25.039000" end="0:12:27.626000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ob	ob	SCONJ	-	0:12:25.039000	0:12:26.353000
 die	der	PRON	-	0:12:25.039000	0:12:26.353000
@@ -2745,7 +2745,7 @@ andere	ander	ADJ	-	0:12:27.026000	0:12:27.626000
 Sache	Sache	NOUN	-	0:12:27.026000	0:12:27.626000
 .	-	-	-	0:12:27.026000	0:12:27.626000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:27.626000" end="0:12:36.133000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:27.626000" end="0:12:36.133000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ja	ja	ADV	-	0:12:27.626000	0:12:33.239000
 <pause duration="0,5s"/>
@@ -2777,7 +2777,7 @@ auch	auch	ADV	-	0:12:33.239000	0:12:36.133000
 betrifft	betreffen	VERB	-	0:12:33.239000	0:12:36.133000
 ?	-	-	-	0:12:33.239000	0:12:36.133000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:36.133000" end="0:12:40.539000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:36.133000" end="0:12:40.539000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:36.133000	0:12:39.579000
 <pause duration="0,6s"/>
 weil	-	-	-	0:12:36.133000	0:12:39.579000
@@ -2792,7 +2792,7 @@ dagegen	-	-	-	0:12:39.959000	0:12:40.539000
 machen	-	-	-	0:12:39.959000	0:12:40.539000
 ?	-	-	-	0:12:39.959000	0:12:40.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:40.539000" end="0:12:44.033000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:40.539000" end="0:12:44.033000" persName="Informant EXP11" age_lower="" age_upper="999">
 na	na	INTJ	-	0:12:40.539000	0:12:41.553000
 eh	eh	X	-	0:12:40.539000	0:12:41.553000
 ,	-	-	-	0:12:40.539000	0:12:41.553000
@@ -2811,7 +2811,7 @@ dagegen	dagegen	ADV	-	0:12:42.339000	0:12:44.033000
 tut	tun	VERB	-	0:12:42.339000	0:12:44.033000
 ?	-	-	-	0:12:42.339000	0:12:44.033000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:44.033000" end="0:12:47.339000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:44.033000" end="0:12:47.339000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 Ich	Ich	PRON	-	0:12:44.033000	0:12:45.133000
 glaube	glauben	VERB	-	0:12:44.033000	0:12:45.133000
@@ -2827,22 +2827,22 @@ Jahren	Jahr	NOUN	-	0:12:45.133000	0:12:47.339000
 noch	noch	ADV	-	0:12:45.133000	0:12:47.339000
 .	-	-	-	0:12:45.133000	0:12:47.339000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:47.339000" end="0:12:48.833000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:47.339000" end="0:12:48.833000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:12:47.339000	0:12:48.026000
 .	-	-	-	0:12:47.339000	0:12:48.026000
 davon	-	-	-	0:12:48.026000	0:12:48.833000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:48.026000" end="0:12:48.833000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:48.026000" end="0:12:48.833000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:12:48.026000	0:12:48.833000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:48.833000" end="0:12:50.133000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:48.833000" end="0:12:50.133000" persName="Informant EXP11" age_lower="" age_upper="999">
 *könnma*	-	-	-	0:12:48.833000	0:12:49.153000
 ausgehen	-	-	-	0:12:49.153000	0:12:49.633000
 ,	-	-	-	0:12:49.153000	0:12:49.633000
 ja	ja	PART	-	0:12:49.633000	0:12:50.133000
 .	-	-	-	0:12:49.633000	0:12:50.133000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:49.633000" end="0:12:54.926000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:49.633000" end="0:12:54.926000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:12:49.633000	0:12:50.133000
 ,	-	-	-	0:12:49.633000	0:12:50.133000
 und	und	CCONJ	-	0:12:50.133000	0:12:52.926000
@@ -2865,12 +2865,12 @@ keine	kein	DET	-	0:12:52.926000	0:12:54.926000
 Ahnung	Ahnung	NOUN	-	0:12:52.926000	0:12:54.926000
 .	-	-	-	0:12:52.926000	0:12:54.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:54.926000" end="0:12:55.773000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:54.926000" end="0:12:55.773000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 passt	passt	PROPN	-	0:12:54.926000	0:12:55.773000
 .	-	-	-	0:12:54.926000	0:12:55.773000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:12:55.773000" end="0:12:58.593000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:12:55.773000" end="0:12:58.593000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 ich	ich	PRON	-	0:12:55.773000	0:12:57.306000
 glaube	glauben	VERB	-	0:12:55.773000	0:12:57.306000
@@ -2883,7 +2883,7 @@ tragisch	-	-	-	0:12:57.619000	0:12:58.593000
 wird	-	-	-	0:12:57.619000	0:12:58.593000
 .	-	-	-	0:12:57.619000	0:12:58.593000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:12:58.593000" end="0:13:06.866000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:58.593000" end="0:13:06.866000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 wenn	wenn	SCONJ	-	0:12:58.593000	0:13:02.999000
 Sie	ich	PRON	-	0:12:58.593000	0:13:02.999000
@@ -2918,7 +2918,7 @@ spricht	sprechen	VERB	-	0:13:05.546000	0:13:06.866000
 er	ich	PRON	-	0:13:05.546000	0:13:06.866000
 ?	-	-	-	0:13:05.546000	0:13:06.866000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:06.866000" end="0:13:12.959000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:06.866000" end="0:13:12.959000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 ja	ja	ADV	-	0:13:06.866000	0:13:11.439000
 Hochdeutsch	Hochdeutsch	PROPN	-	0:13:06.866000	0:13:11.439000
@@ -2939,11 +2939,11 @@ vom	vom	ADP	-	0:13:11.439000	0:13:12.959000
 kennt	kennen	VERB	-	0:13:11.439000	0:13:12.959000
 .	-	-	-	0:13:11.439000	0:13:12.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:12.959000" end="0:13:14.133000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:12.959000" end="0:13:14.133000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:13:12.959000	0:13:13.726000
 aber/	-	-	-	0:13:13.726000	0:13:14.133000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:13.726000" end="0:13:19.633000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:13.726000" end="0:13:19.633000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 *wennmas*	-	-	-	0:13:13.726000	0:13:14.133000
 mit	-	-	-	0:13:14.133000	0:13:15.546000
 den	-	-	-	0:13:14.133000	0:13:15.546000
@@ -2966,7 +2966,7 @@ Meinung	Meinung	NOUN	-	0:13:15.546000	0:13:19.633000
 nach	nach	ADP	-	0:13:15.546000	0:13:19.633000
 .	-	-	-	0:13:15.546000	0:13:19.633000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:19.633000" end="0:13:20.766000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:19.633000" end="0:13:20.766000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	PROPN	-	0:13:19.633000	0:13:20.539000
 ,	-	-	-	0:13:19.633000	0:13:20.539000
@@ -2974,7 +2974,7 @@ weil	weil	SCONJ	-	0:13:19.633000	0:13:20.539000
 das	der	DET	-	0:13:20.539000	0:13:20.766000
 wäre/	-	-	-	0:13:20.539000	0:13:20.766000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:20.539000" end="0:13:24.566000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:20.539000" end="0:13:24.566000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:13:20.539000	0:13:20.766000
 man	-	-	-	0:13:20.539000	0:13:20.766000
 *kennts*	-	-	-	0:13:20.766000	0:13:21.013000
@@ -2997,11 +2997,11 @@ dazu	dazu	ADV	-	0:13:23.066000	0:13:24.566000
 hätte	haben	AUX	-	0:13:23.066000	0:13:24.566000
 ,	-	-	-	0:13:23.066000	0:13:24.566000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:24.566000" end="0:13:24.799000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:24.566000" end="0:13:24.799000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:24.566000	0:13:24.799000
 .	-	-	-	0:13:24.566000	0:13:24.799000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:24.799000" end="0:13:29.946000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:24.799000" end="0:13:29.946000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:13:24.799000	0:13:25.306000
 *kennts*	-	-	-	0:13:25.306000	0:13:25.566000
 irgendwie	-	-	-	0:13:25.566000	0:13:27.139000
@@ -3025,7 +3025,7 @@ Journalist	-	-	-	0:13:28.946000	0:13:29.946000
 ist	-	-	-	0:13:28.946000	0:13:29.946000
 .	-	-	-	0:13:28.946000	0:13:29.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:29.946000" end="0:13:32.173000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:29.946000" end="0:13:32.173000" persName="Informant EXP11" age_lower="" age_upper="999">
 aber	-	-	-	0:13:29.946000	0:13:30.306000
 Sie	-	-	-	0:13:29.946000	0:13:30.306000
 *würdens*	-	-	-	0:13:30.306000	0:13:30.533000
@@ -3036,7 +3036,7 @@ beides	-	-	-	0:13:30.533000	0:13:32.173000
 bezeichnen	-	-	-	0:13:30.533000	0:13:32.173000
 ?	-	-	-	0:13:30.533000	0:13:32.173000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:32.173000" end="0:13:36.853000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:32.173000" end="0:13:36.853000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 österreichisches	österreichisch	ADJ	-	0:13:32.173000	0:13:36.853000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:13:32.173000	0:13:36.853000
@@ -3045,7 +3045,7 @@ deutsches	deutsch	ADJ	-	0:13:32.173000	0:13:36.853000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:13:32.173000	0:13:36.853000
 .	-	-	-	0:13:32.173000	0:13:36.853000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:36.853000" end="0:13:49.239000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:36.853000" end="0:13:49.239000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:13:36.853000	0:13:42.353000
 <pause duration="0,5s"/>
 wunderbar	wunderbar	ADJ	-	0:13:36.853000	0:13:42.353000
@@ -3081,16 +3081,16 @@ der	der	DET	-	0:13:44.079000	0:13:49.239000
 Sprache	Sprache	NOUN	-	0:13:44.079000	0:13:49.239000
 ?	-	-	-	0:13:44.079000	0:13:49.239000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:49.239000" end="0:13:54.326000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:49.239000" end="0:13:54.326000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 Lehrer	Lehrer	NOUN	-	0:13:49.239000	0:13:54.326000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:13:54.326000" end="0:13:55.686000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:54.326000" end="0:13:55.686000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 okay	okay	NOUN	-	0:13:54.326000	0:13:55.686000
 .	-	-	-	0:13:54.326000	0:13:55.686000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:13:54.326000" end="0:14:07.886000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:13:54.326000" end="0:14:07.886000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 einige	einig	PRON	-	0:13:54.326000	0:13:55.686000
 .	-	-	-	0:13:54.326000	0:13:55.686000
@@ -3119,11 +3119,11 @@ immer	immer	ADV	-	0:13:57.393000	0:14:07.886000
 weniger	wenig	ADV	-	0:13:57.393000	0:14:07.886000
 .	-	-	-	0:13:57.393000	0:14:07.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:14:07.886000" end="0:14:08.466000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:07.886000" end="0:14:08.466000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:14:07.886000	0:14:08.466000
 .	-	-	-	0:14:07.886000	0:14:08.466000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:14:08.466000" end="0:14:27.339000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:14:08.466000" end="0:14:27.339000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 die	der	PRON	-	0:14:08.466000	0:14:10.639000
 bauen	bauen	VERB	-	0:14:08.466000	0:14:10.639000
@@ -3194,16 +3194,16 @@ mir	sich	PRON	-	0:14:25.339000	0:14:27.339000
 vorstellen	vorstellen	VERB	-	0:14:25.339000	0:14:27.339000
 .	-	-	-	0:14:25.339000	0:14:27.339000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:14:27.339000" end="0:14:27.666000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:27.339000" end="0:14:27.666000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:14:27.339000	0:14:27.666000
 .	-	-	-	0:14:27.339000	0:14:27.666000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:14:27.666000" end="0:14:29.006000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:14:27.666000" end="0:14:29.006000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:14:27.666000	0:14:29.006000
 .	-	-	-	0:14:27.666000	0:14:29.006000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:14:29.006000" end="0:14:32.259000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:29.006000" end="0:14:32.259000" persName="Informant EXP11" age_lower="" age_upper="999">
 finden	finden	VERB	-	0:14:29.006000	0:14:29.706000
 Sie	ich	PRON	-	0:14:29.006000	0:14:29.706000
 ,	-	-	-	0:14:29.006000	0:14:29.706000
@@ -3220,12 +3220,12 @@ zu	zu	PART	-	0:14:29.706000	0:14:32.259000
 sprechen	sprechen	VERB	-	0:14:29.706000	0:14:32.259000
 ?	-	-	-	0:14:29.706000	0:14:32.259000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:14:32.259000" end="0:14:33.439000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:14:32.259000" end="0:14:33.439000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:14:32.259000	0:14:33.439000
 .	-	-	-	0:14:32.259000	0:14:33.439000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:14:33.439000" end="0:14:35.179000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:33.439000" end="0:14:35.179000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 gut	gut	ADJ	-	0:14:33.439000	0:14:35.179000
 .	-	-	-	0:14:33.439000	0:14:35.179000
@@ -3234,7 +3234,7 @@ welchen	welch	DET	-	0:14:33.439000	0:14:35.179000
 Grund	Grund	NOUN	-	0:14:33.439000	0:14:35.179000
 ?	-	-	-	0:14:33.439000	0:14:35.179000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:14:35.179000" end="0:15:07.799000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:14:35.179000" end="0:15:07.799000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 weil	weil	SCONJ	-	0:14:35.179000	0:14:40.933000
 ich	ich	PRON	-	0:14:35.179000	0:14:40.933000
@@ -3325,11 +3325,11 @@ Vorarlberger	Vorarlberger	NOUN	-	0:15:04.839000	0:15:07.799000
 versteht	verstehen	VERB	-	0:15:04.839000	0:15:07.799000
 ,	-	-	-	0:15:04.839000	0:15:07.799000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:07.799000" end="0:15:08.259000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:07.799000" end="0:15:08.259000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:15:07.799000	0:15:08.259000
 .	-	-	-	0:15:07.799000	0:15:08.259000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:08.259000" end="0:15:10.806000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:08.259000" end="0:15:10.806000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:15:08.259000	0:15:10.806000
 der	der	DET	-	0:15:08.259000	0:15:10.806000
@@ -3339,11 +3339,11 @@ und	und	CCONJ	-	0:15:08.259000	0:15:10.806000
 umgedreht	umdrehen	VERB	-	0:15:08.259000	0:15:10.806000
 genauso	genauso	ADV	-	0:15:08.259000	0:15:10.806000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:10.806000" end="0:15:13.779000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:10.806000" end="0:15:13.779000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 <pause duration="unverständlich"/>
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:10.806000" end="0:15:16.373000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:10.806000" end="0:15:16.373000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:15:10.806000	0:15:13.779000
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:15:10.806000	0:15:13.779000
@@ -3369,7 +3369,7 @@ redet	reden	VERB	-	0:15:13.779000	0:15:16.373000
 halt	halt	ADV	-	0:15:13.779000	0:15:16.373000
 .	-	-	-	0:15:13.779000	0:15:16.373000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:16.373000" end="0:15:19.759000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:16.373000" end="0:15:19.759000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:15:16.373000	0:15:18.646000
 ,	-	-	-	0:15:16.373000	0:15:18.646000
 also	also	ADV	-	0:15:16.373000	0:15:18.646000
@@ -3385,11 +3385,11 @@ bessere	gut	ADJ	-	0:15:18.646000	0:15:19.759000
 Wahl	Wahl	NOUN	-	0:15:18.646000	0:15:19.759000
 ?	-	-	-	0:15:18.646000	0:15:19.759000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:18.646000" end="0:15:19.759000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:18.646000" end="0:15:19.759000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:15:18.646000	0:15:19.759000
 .	-	-	-	0:15:18.646000	0:15:19.759000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:19.759000" end="0:15:27.313000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:19.759000" end="0:15:27.313000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 gut	gut	ADJ	-	0:15:19.759000	0:15:22.899000
 ,	-	-	-	0:15:19.759000	0:15:22.899000
@@ -3417,7 +3417,7 @@ Hochdeutsch/	-	-	-	0:15:22.899000	0:15:27.313000
 ((0,7s))/kompetenz	-	-	-	0:15:22.899000	0:15:27.313000
 ?	-	-	-	0:15:22.899000	0:15:27.313000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:27.313000" end="0:15:38.019000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:27.313000" end="0:15:38.019000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 hm	hm	X	-	0:15:27.313000	0:15:35.879000
 <pause duration="3,8s"/>
@@ -3443,12 +3443,12 @@ in	in	ADP	-	0:15:35.879000	0:15:38.019000
 dem/	-	-	-	0:15:35.879000	0:15:38.019000
 mittendrin	mittendrin	ADV	-	0:15:35.879000	0:15:38.019000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:38.019000" end="0:15:39.533000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:38.019000" end="0:15:39.533000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 okay	okay	NOUN	-	0:15:38.019000	0:15:39.533000
 .	-	-	-	0:15:38.019000	0:15:39.533000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:39.533000" end="0:15:44.533000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:39.533000" end="0:15:44.533000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 aber	aber	CCONJ	-	0:15:39.533000	0:15:43.119000
 ich	ich	PRON	-	0:15:39.533000	0:15:43.119000
@@ -3462,7 +3462,7 @@ relativ	relativ	ADJ	-	0:15:43.333000	0:15:44.533000
 selten	selten	ADJ	-	0:15:43.333000	0:15:44.533000
 .	-	-	-	0:15:43.333000	0:15:44.533000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:44.533000" end="0:15:53.419000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:44.533000" end="0:15:53.419000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 ach	ach	X	-	0:15:44.533000	0:15:49.446000
 so	so	ADV	-	0:15:44.533000	0:15:49.446000
@@ -3495,11 +3495,11 @@ ich	ich	PRON	-	0:15:49.446000	0:15:53.419000
 an	an	ADP	-	0:15:49.446000	0:15:53.419000
 ?	-	-	-	0:15:49.446000	0:15:53.419000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:15:53.419000" end="0:15:53.846000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:15:53.419000" end="0:15:53.846000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:53.419000	0:15:53.846000
 .	-	-	-	0:15:53.419000	0:15:53.846000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:15:53.846000" end="0:16:00.619000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:53.846000" end="0:16:00.619000" persName="Informant EXP11" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:15:53.846000	0:15:54.946000
 halt	halt	VERB	-	0:15:53.846000	0:15:54.946000
 zumindest	zumindest	ADV	-	0:15:53.846000	0:15:54.946000
@@ -3528,7 +3528,7 @@ dem	der	DET	-	0:15:56.453000	0:16:00.619000
 Nachrichtensprecher	Nachrichtensprecher	NOUN	-	0:15:56.453000	0:16:00.619000
 ?	-	-	-	0:15:56.453000	0:16:00.619000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:00.619000" end="0:16:21.613000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:00.619000" end="0:16:21.613000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ich	ich	PRON	-	0:16:00.619000	0:16:03.153000
 würde	werden	AUX	-	0:16:00.619000	0:16:03.153000
@@ -3594,11 +3594,11 @@ vollständig	-	-	-	0:16:19.106000	0:16:21.613000
 kommen	-	-	-	0:16:19.106000	0:16:21.613000
 .	-	-	-	0:16:19.106000	0:16:21.613000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:21.613000" end="0:16:22.259000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:21.613000" end="0:16:22.259000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:16:21.613000	0:16:22.259000
 .	-	-	-	0:16:21.613000	0:16:22.259000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:22.259000" end="0:16:25.159000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:22.259000" end="0:16:25.159000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 es	ich	PRON	-	0:16:22.259000	0:16:25.159000
 ist	sein	AUX	-	0:16:22.259000	0:16:25.159000
@@ -3610,7 +3610,7 @@ Training	Training	NOUN	-	0:16:22.259000	0:16:25.159000
 halt	halt	VERB	-	0:16:22.259000	0:16:25.159000
 .	-	-	-	0:16:22.259000	0:16:25.159000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:25.159000" end="0:16:27.473000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:25.159000" end="0:16:27.473000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:16:25.159000	0:16:26.913000
 ,	-	-	-	0:16:25.159000	0:16:26.913000
 das	der	PRON	-	0:16:25.159000	0:16:26.913000
@@ -3625,11 +3625,11 @@ im	im	ADP	-	0:16:26.913000	0:16:27.473000
 Gegensatz	Gegensatz	NOUN	-	0:16:26.913000	0:16:27.473000
 zum	zum	ADP	-	0:16:26.913000	0:16:27.473000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:26.913000" end="0:16:27.473000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:26.913000" end="0:16:27.473000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:16:26.913000	0:16:27.473000
 .	-	-	-	0:16:26.913000	0:16:27.473000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:27.473000" end="0:16:36.846000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:27.473000" end="0:16:36.846000" persName="Informant EXP11" age_lower="" age_upper="999">
 Nachrichtensprecher	Nachrichtensprecher	NOUN	-	0:16:27.473000	0:16:28.693000
 ,	-	-	-	0:16:27.473000	0:16:28.693000
 würden	werden	AUX	-	0:16:27.473000	0:16:28.693000
@@ -3664,11 +3664,11 @@ oder	oder	CCONJ	-	0:16:36.433000	0:16:36.846000
 wie	wie	ADV	-	0:16:36.433000	0:16:36.846000
 würden	werden	AUX	-	0:16:36.433000	0:16:36.846000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:36.433000" end="0:16:36.846000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:36.433000" end="0:16:36.846000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:16:36.433000	0:16:36.846000
 .	-	-	-	0:16:36.433000	0:16:36.846000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:36.846000" end="0:16:42.673000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:36.846000" end="0:16:42.673000" persName="Informant EXP11" age_lower="" age_upper="999">
 Sie	ich	PRON	-	0:16:36.846000	0:16:37.646000
 das	der	PRON	-	0:16:36.846000	0:16:37.646000
 bezeichnen	bezeichnen	VERB	-	0:16:36.846000	0:16:37.646000
@@ -3701,7 +3701,7 @@ Nachrichtensprecher	Nachrichtensprecher	NOUN	-	0:16:41.186000	0:16:42.673000
 sind	sein	AUX	-	0:16:41.186000	0:16:42.673000
 ?	-	-	-	0:16:41.186000	0:16:42.673000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:42.673000" end="0:16:48.219000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:42.673000" end="0:16:48.219000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:16:42.673000	0:16:45.179000
 ,	-	-	-	0:16:42.673000	0:16:45.179000
@@ -3725,14 +3725,14 @@ Mundart	Mundart	NOUN	-	0:16:45.179000	0:16:48.219000
 heraus	heraus	ADP	-	0:16:45.179000	0:16:48.219000
 kommen	kommen	VERB	-	0:16:45.179000	0:16:48.219000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:48.219000" end="0:16:48.459000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:48.219000" end="0:16:48.459000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:16:48.219000	0:16:48.459000
 ,	-	-	-	0:16:48.219000	0:16:48.459000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:48.219000" end="0:16:48.459000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:48.219000" end="0:16:48.459000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und/	-	-	-	0:16:48.219000	0:16:48.459000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:48.459000" end="0:16:51.133000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:48.459000" end="0:16:51.133000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:16:48.459000	0:16:50.646000
 einfach	einfach	ADV	-	0:16:48.459000	0:16:50.646000
 der	der	DET	-	0:16:48.459000	0:16:50.646000
@@ -3746,11 +3746,11 @@ spielt	-	-	-	0:16:48.459000	0:16:50.646000
 in	-	-	-	0:16:50.646000	0:16:51.133000
 den/	-	-	-	0:16:50.646000	0:16:51.133000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:16:50.646000" end="0:16:51.133000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:16:50.646000" end="0:16:51.133000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:16:50.646000	0:16:51.133000
 .	-	-	-	0:16:50.646000	0:16:51.133000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:16:51.133000" end="0:17:02.826000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:51.133000" end="0:17:02.826000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="3,0s"/>
 gut	-	-	-	0:16:51.133000	0:16:54.393000
 Sie	-	-	-	0:16:51.133000	0:16:54.393000
@@ -3794,7 +3794,7 @@ ORF-Nachrichtensprecher	ORF-Nachrichtensprecher	NOUN	-	0:17:00.459000	0:17:02.82
 spricht	sprechen	VERB	-	0:17:00.459000	0:17:02.826000
 ?	-	-	-	0:17:00.459000	0:17:02.826000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:02.826000" end="0:17:06.637000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:02.826000" end="0:17:06.637000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 wie	-	-	-	0:17:02.826000	0:17:04.933000
 *meinst*	-	-	-	0:17:04.933000	0:17:05.153000
@@ -3804,11 +3804,11 @@ as/	-	-	-	0:17:05.153000	0:17:06.637000
 aso	-	-	-	0:17:05.153000	0:17:06.637000
 ,	-	-	-	0:17:05.153000	0:17:06.637000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:06.637000" end="0:17:07.204000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:06.637000" end="0:17:07.204000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:17:06.637000	0:17:07.204000
 .	-	-	-	0:17:06.637000	0:17:07.204000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:06.637000" end="0:17:09.925000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:06.637000" end="0:17:09.925000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:17:06.637000	0:17:07.204000
 so	so	ADV	-	0:17:06.637000	0:17:07.204000
 kommunikazier/	-	-	-	0:17:07.204000	0:17:09.925000
@@ -3818,16 +3818,16 @@ kommunikaz/	-	-	-	0:17:07.204000	0:17:09.925000
 kommuniziert	kommunizieren	VERB	-	0:17:07.204000	0:17:09.925000
 wird	werden	AUX	-	0:17:07.204000	0:17:09.925000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:09.925000" end="0:17:11.113000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:09.925000" end="0:17:11.113000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:17:09.925000	0:17:11.113000
 der	der	DET	-	0:17:09.925000	0:17:11.113000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:09.925000" end="0:17:11.113000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:09.925000" end="0:17:11.113000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:17:09.925000	0:17:11.113000
 wie	wie	CCONJ	-	0:17:09.925000	0:17:11.113000
 der	der	DET	-	0:17:09.925000	0:17:11.113000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:11.113000" end="0:17:13.358000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:11.113000" end="0:17:13.358000" persName="Informant EXP11" age_lower="" age_upper="999">
 ORF-Nachrichtensprecher	ORF-Nachrichtensprecher	NOUN	-	0:17:11.113000	0:17:13.358000
 spricht	sprechen	VERB	-	0:17:11.113000	0:17:13.358000
 schon	schon	ADV	-	0:17:11.113000	0:17:13.358000
@@ -3840,11 +3840,11 @@ wir	ich	PRON	-	0:17:11.113000	0:17:13.358000
 so	so	ADV	-	0:17:11.113000	0:17:13.358000
 .	-	-	-	0:17:11.113000	0:17:13.358000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:13.358000" end="0:17:13.693000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:13.358000" end="0:17:13.693000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:17:13.358000	0:17:13.693000
 .	-	-	-	0:17:13.358000	0:17:13.693000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:13.693000" end="0:17:16.566000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:13.693000" end="0:17:16.566000" persName="Informant EXP11" age_lower="" age_upper="999">
 *gibts*	-	-	-	0:17:13.693000	0:17:13.913000
 da	-	-	-	0:17:13.913000	0:17:15.259000
 jetzt	-	-	-	0:17:13.913000	0:17:15.259000
@@ -3864,14 +3864,14 @@ steht	stehen	VERB	-	0:17:15.259000	0:17:16.566000
 dem	der	PRON	-	0:17:15.259000	0:17:16.566000
 ?	-	-	-	0:17:15.259000	0:17:16.566000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:16.566000" end="0:17:19.613000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:16.566000" end="0:17:19.613000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 glaube	glauben	VERB	-	0:17:16.566000	0:17:19.613000
 ich	ich	PRON	-	0:17:16.566000	0:17:19.613000
 schon	schon	ADV	-	0:17:16.566000	0:17:19.613000
 .	-	-	-	0:17:16.566000	0:17:19.613000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:19.613000" end="0:17:21.512000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:19.613000" end="0:17:21.512000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 haben	haben	AUX	-	0:17:19.613000	0:17:21.512000
 Sie	ich	PRON	-	0:17:19.613000	0:17:21.512000
@@ -3880,13 +3880,13 @@ eine	einen	DET	-	0:17:19.613000	0:17:21.512000
 eigene	eigene	ADJ	-	0:17:19.613000	0:17:21.512000
 Bezeichnung	Bezeichnung	NOUN	-	0:17:19.613000	0:17:21.512000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:19.613000" end="0:17:21.512000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:19.613000" end="0:17:21.512000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 aber	aber	CCONJ	-	0:17:19.613000	0:17:21.512000
 nein	nein	PART	-	0:17:19.613000	0:17:21.512000
 .	-	-	-	0:17:19.613000	0:17:21.512000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:21.512000" end="0:17:23.299000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:21.512000" end="0:17:23.299000" persName="Informant EXP11" age_lower="" age_upper="999">
 dafür	dafür	ADV	-	0:17:21.512000	0:17:21.799000
 ,	-	-	-	0:17:21.512000	0:17:21.799000
 oder	oder	CCONJ	-	0:17:21.799000	0:17:22.973000
@@ -3897,7 +3897,7 @@ Hochdeutsch	Hochdeutsch	PROPN	-	0:17:21.799000	0:17:22.973000
 trotzdem	trotzdem	ADV	-	0:17:22.973000	0:17:23.299000
 ?	-	-	-	0:17:22.973000	0:17:23.299000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:22.973000" end="0:17:24.106000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:22.973000" end="0:17:24.106000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:17:22.973000	0:17:23.299000
 bleibt	bleiben	VERB	-	0:17:22.973000	0:17:23.299000
 für	für	ADP	-	0:17:23.299000	0:17:24.106000
@@ -3905,7 +3905,7 @@ mich	sich	PRON	-	0:17:23.299000	0:17:24.106000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:17:23.299000	0:17:24.106000
 .	-	-	-	0:17:23.299000	0:17:24.106000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:24.106000" end="0:17:32.326000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:24.106000" end="0:17:32.326000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:17:24.106000	0:17:28.377000
 .	-	-	-	0:17:24.106000	0:17:28.377000
 <pause duration="1,7s"/>
@@ -3942,12 +3942,12 @@ da	da	ADV	-	0:17:31.433000	0:17:32.326000
 eine	einen	DET	-	0:17:31.433000	0:17:32.326000
 Hierarchie	Hierarchie	NOUN	-	0:17:31.433000	0:17:32.326000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:32.326000" end="0:17:32.959000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:32.326000" end="0:17:32.959000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:17:32.326000	0:17:32.959000
 .	-	-	-	0:17:32.326000	0:17:32.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:32.959000" end="0:17:34.413000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:32.959000" end="0:17:34.413000" persName="Informant EXP11" age_lower="" age_upper="999">
 ist	sein	AUX	-	0:17:32.959000	0:17:33.159000
 .	-	-	-	0:17:32.959000	0:17:33.159000
 okay	okay	NOUN	-	0:17:33.159000	0:17:33.973000
@@ -3956,14 +3956,14 @@ zwar	zwar	ADV	-	0:17:33.159000	0:17:33.973000
 welche	welch	PRON	-	0:17:33.973000	0:17:34.413000
 ?	-	-	-	0:17:33.973000	0:17:34.413000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:33.973000" end="0:17:34.859000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:33.973000" end="0:17:34.859000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:17:33.973000	0:17:34.413000
 Deutschen	Deutsche	NOUN	-	0:17:33.973000	0:17:34.413000
 sind	sein	AUX	-	0:17:34.413000	0:17:34.859000
 drüber	drüber	ADV	-	0:17:34.413000	0:17:34.859000
 .	-	-	-	0:17:34.413000	0:17:34.859000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:34.859000" end="0:17:36.419000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:34.859000" end="0:17:36.419000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:17:34.859000	0:17:36.419000
 ,	-	-	-	0:17:34.859000	0:17:36.419000
@@ -3972,7 +3972,7 @@ wieso	wieso	ADV	-	0:17:34.859000	0:17:36.419000
 das	der	PRON	-	0:17:34.859000	0:17:36.419000
 ?	-	-	-	0:17:34.859000	0:17:36.419000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:36.419000" end="0:17:45.259000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:36.419000" end="0:17:45.259000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 keine	kein	DET	-	0:17:36.419000	0:17:40.986000
 Ahnung	Ahnung	NOUN	-	0:17:36.419000	0:17:40.986000
@@ -3999,13 +3999,13 @@ mehr	mehr	DET	-	0:17:42.506000	0:17:45.259000
 Deutsch	Deutsch	NOUN	-	0:17:42.506000	0:17:45.259000
 .	-	-	-	0:17:42.506000	0:17:45.259000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:45.259000" end="0:17:46.213000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:45.259000" end="0:17:46.213000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 alles	alle	PRON	-	0:17:45.259000	0:17:46.213000
 klar	klaren	ADJ	-	0:17:45.259000	0:17:46.213000
 .	-	-	-	0:17:45.259000	0:17:46.213000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:46.213000" end="0:17:48.506000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:46.213000" end="0:17:48.506000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	-	-	-	0:17:46.213000	0:17:47.113000
 *weiß*	-	-	-	0:17:47.113000	0:17:47.299000
@@ -4019,7 +4019,7 @@ jetzt	-	-	-	0:17:47.793000	0:17:48.506000
 beschreiben	-	-	-	0:17:47.793000	0:17:48.506000
 .	-	-	-	0:17:47.793000	0:17:48.506000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:17:48.506000" end="0:17:59.226000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:48.506000" end="0:17:59.226000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="2,6s"/>
 also	also	ADV	-	0:17:48.506000	0:17:52.679000
 würden	werden	AUX	-	0:17:48.506000	0:17:52.679000
@@ -4057,7 +4057,7 @@ bundesdeutsche	bundesdeutsche	ADJ	-	0:17:55.553000	0:17:59.226000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:17:55.553000	0:17:59.226000
 ?	-	-	-	0:17:55.553000	0:17:59.226000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:17:59.226000" end="0:18:07.746000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:17:59.226000" end="0:18:07.746000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wenn	wenn	SCONJ	-	0:17:59.226000	0:18:01.259000
 man	man	PRON	-	0:17:59.226000	0:18:01.259000
@@ -4090,7 +4090,7 @@ jetzt	jetzt	ADV	-	0:18:04.779000	0:18:07.746000
 sehen	sehen	VERB	-	0:18:04.779000	0:18:07.746000
 .	-	-	-	0:18:04.779000	0:18:07.746000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:18:07.746000" end="0:18:21.013000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:07.746000" end="0:18:21.013000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 alles	alle	PRON	-	0:18:07.746000	0:18:09.046000
 klar	klaren	ADJ	-	0:18:07.746000	0:18:09.046000
@@ -4123,7 +4123,7 @@ glauben	glauben	VERB	-	0:18:20.619000	0:18:21.013000
 Sie	ich	PRON	-	0:18:20.619000	0:18:21.013000
 ?	-	-	-	0:18:20.619000	0:18:21.013000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:18:21.013000" end="0:18:31.953000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:21.013000" end="0:18:31.953000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="7,4s"/>
 ja	ja	PART	-	0:18:21.013000	0:18:31.953000
 ,	-	-	-	0:18:21.013000	0:18:31.953000
@@ -4140,18 +4140,18 @@ Mitte	Mitte	NOUN	-	0:18:21.013000	0:18:31.953000
 drin	drin	ADV	-	0:18:21.013000	0:18:31.953000
 .	-	-	-	0:18:21.013000	0:18:31.953000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:18:31.953000" end="0:18:34.273000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:31.953000" end="0:18:34.273000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 okay	okay	NOUN	-	0:18:31.953000	0:18:34.273000
 .	-	-	-	0:18:31.953000	0:18:34.273000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:18:34.273000" end="0:18:34.959000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:34.273000" end="0:18:34.959000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 schwierig	schwierig	ADJ	-	0:18:34.273000	0:18:34.959000
 zum	zum	ADP	-	0:18:34.273000	0:18:34.959000
 Sagen	Sage	NOUN	-	0:18:34.273000	0:18:34.959000
 .	-	-	-	0:18:34.273000	0:18:34.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:18:34.959000" end="0:18:42.026000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:34.959000" end="0:18:42.026000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="3,7s"/>
 (passt	passt	PROPN	-	0:18:34.959000	0:18:42.026000
 .)	-	-	-	0:18:34.959000	0:18:42.026000
@@ -4168,7 +4168,7 @@ das	der	DET	-	0:18:34.959000	0:18:42.026000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:18:34.959000	0:18:42.026000
 ?	-	-	-	0:18:34.959000	0:18:42.026000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:18:42.026000" end="0:18:55.726000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:18:42.026000" end="0:18:55.726000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 von	von	ADP	-	0:18:42.026000	0:18:51.326000
 der	der	DET	-	0:18:42.026000	0:18:51.326000
@@ -4197,7 +4197,7 @@ ist	sein	AUX	-	0:18:51.326000	0:18:55.726000
 klarer	klar	ADJ	-	0:18:51.326000	0:18:55.726000
 .	-	-	-	0:18:51.326000	0:18:55.726000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:18:55.726000" end="0:19:07.886000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:55.726000" end="0:19:07.886000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:18:55.726000	0:18:56.413000
 .	-	-	-	0:18:55.726000	0:18:56.413000
 <pause duration="3,4s"/>
@@ -4240,14 +4240,14 @@ das	-	-	-	0:19:07.553000	0:19:07.886000
 dann	-	-	-	0:19:07.553000	0:19:07.886000
 ?	-	-	-	0:19:07.553000	0:19:07.886000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:19:07.886000" end="0:19:09.019000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:07.886000" end="0:19:09.019000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 glaube	glauben	VERB	-	0:19:07.886000	0:19:09.019000
 ich	ich	PRON	-	0:19:07.886000	0:19:09.019000
 nicht	nicht	PART	-	0:19:07.886000	0:19:09.019000
 .	-	-	-	0:19:07.886000	0:19:09.019000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:19:09.019000" end="0:19:38.693000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:09.019000" end="0:19:38.693000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:19:09.019000	0:19:09.639000
 .	-	-	-	0:19:09.019000	0:19:09.639000
 <pause duration="2,5s"/>
@@ -4336,7 +4336,7 @@ Anderes	ander	PRON	-	0:19:37.386000	0:19:38.693000
 noch	noch	ADV	-	0:19:37.386000	0:19:38.693000
 ?	-	-	-	0:19:37.386000	0:19:38.693000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:19:38.693000" end="0:19:50.946000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:38.693000" end="0:19:50.946000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 gehobenere	gehoben	ADJ	-	0:19:38.693000	0:19:42.186000
 Mundart	Mundart	NOUN	-	0:19:42.186000	0:19:43.686000
@@ -4376,11 +4376,11 @@ dort	dort	ADV	-	0:19:49.846000	0:19:50.946000
 bin	sein	AUX	-	0:19:49.846000	0:19:50.946000
 ,	-	-	-	0:19:49.846000	0:19:50.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:19:50.946000" end="0:19:51.373000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:50.946000" end="0:19:51.373000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:19:50.946000	0:19:51.373000
 .	-	-	-	0:19:50.946000	0:19:51.373000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:19:51.373000" end="0:19:53.253000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:51.373000" end="0:19:53.253000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wo	wo	ADV	-	0:19:51.373000	0:19:53.253000
 der	der	DET	-	0:19:51.373000	0:19:53.253000
@@ -4388,7 +4388,7 @@ Nachrichtensprecher	Nachrichtensprecher	NOUN	-	0:19:51.373000	0:19:53.253000
 wäre	sein	AUX	-	0:19:51.373000	0:19:53.253000
 .	-	-	-	0:19:51.373000	0:19:53.253000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:19:53.253000" end="0:19:55.926000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:53.253000" end="0:19:55.926000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:19:53.253000	0:19:55.926000
 klar	klaren	ADJ	-	0:19:53.253000	0:19:55.926000
 .	-	-	-	0:19:53.253000	0:19:55.926000
@@ -4402,13 +4402,13 @@ Nummer	Nummer	NOUN	-	0:19:53.253000	0:19:55.926000
 sieben	sieben	NUM	-	0:19:53.253000	0:19:55.926000
 ,	-	-	-	0:19:53.253000	0:19:55.926000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:19:55.926000" end="0:19:57.253000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:55.926000" end="0:19:57.253000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 sieben	sieben	NUM	-	0:19:55.926000	0:19:57.253000
 gleich	gleichen	ADV	-	0:19:55.926000	0:19:57.253000
 .	-	-	-	0:19:55.926000	0:19:57.253000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:19:57.253000" end="0:19:58.326000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:57.253000" end="0:19:58.326000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:19:57.253000	0:19:58.326000
 ,	-	-	-	0:19:57.253000	0:19:58.326000
 sechs	sechs	NUM	-	0:19:57.253000	0:19:58.326000
@@ -4416,11 +4416,11 @@ sechs	sechs	NUM	-	0:19:57.253000	0:19:58.326000
 wir	ich	PRON	-	0:19:57.253000	0:19:58.326000
 .	-	-	-	0:19:57.253000	0:19:58.326000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:19:58.326000" end="0:19:58.866000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:19:58.326000" end="0:19:58.866000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:58.326000	0:19:58.866000
 .	-	-	-	0:19:58.326000	0:19:58.866000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:19:58.866000" end="0:20:15.239000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:58.866000" end="0:20:15.239000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 dann	dann	ADV	-	0:19:58.866000	0:20:00.606000
 schreiben	schreiben	VERB	-	0:19:58.866000	0:20:00.606000
@@ -4457,11 +4457,11 @@ bundesdeutsche	bundesdeutsche	ADJ	-	0:20:13.086000	0:20:15.239000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:20:13.086000	0:20:15.239000
 .	-	-	-	0:20:13.086000	0:20:15.239000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:15.239000" end="0:20:15.793000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:15.239000" end="0:20:15.793000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:15.239000	0:20:15.793000
 .	-	-	-	0:20:15.239000	0:20:15.793000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:15.793000" end="0:20:19.853000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:15.793000" end="0:20:19.853000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 wenn	wenn	SCONJ	-	0:20:15.793000	0:20:17.853000
 Sie	ich	PRON	-	0:20:15.793000	0:20:17.853000
@@ -4481,7 +4481,7 @@ da	da	ADV	-	0:20:17.853000	0:20:19.853000
 verorten	verorten	VERB	-	0:20:17.853000	0:20:19.853000
 ?	-	-	-	0:20:17.853000	0:20:19.853000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:19.853000" end="0:20:35.333000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:19.853000" end="0:20:35.333000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="10,0s"/>
 hm	-	-	-	0:20:19.853000	0:20:33.633000
 <pause duration="3,7s"/>
@@ -4497,7 +4497,7 @@ ja	ja	PART	-	0:20:33.633000	0:20:35.333000
 mittig	mittig	ADJ	-	0:20:33.633000	0:20:35.333000
 .	-	-	-	0:20:33.633000	0:20:35.333000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:35.333000" end="0:20:45.786000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:35.333000" end="0:20:45.786000" persName="Informant EXP11" age_lower="" age_upper="999">
 wunderbar	wunderbar	ADJ	-	0:20:35.333000	0:20:35.926000
 .	-	-	-	0:20:35.333000	0:20:35.926000
 <pause duration="0,8s"/>
@@ -4542,34 +4542,34 @@ der	der	DET	-	0:20:43.879000	0:20:45.786000
 Woche	Woche	NOUN	-	0:20:43.879000	0:20:45.786000
 ?	-	-	-	0:20:43.879000	0:20:45.786000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:45.786000" end="0:20:46.573000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:45.786000" end="0:20:46.573000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 immer	immer	ADV	-	0:20:45.786000	0:20:46.573000
 .	-	-	-	0:20:45.786000	0:20:46.573000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:46.573000" end="0:20:48.133000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:46.573000" end="0:20:48.133000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 Hochdeutsch	Hochdeutsch	ADJ	-	0:20:46.573000	0:20:48.133000
 ?	-	-	-	0:20:46.573000	0:20:48.133000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:48.133000" end="0:20:49.073000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:48.133000" end="0:20:49.073000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:20:48.133000	0:20:49.073000
 so	so	ADV	-	0:20:48.133000	0:20:49.073000
 ,	-	-	-	0:20:48.133000	0:20:49.073000
 Hochdeutsch	Hochdeutsch	ADJ	-	0:20:48.133000	0:20:49.073000
 .	-	-	-	0:20:48.133000	0:20:49.073000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:49.073000" end="0:20:49.559000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:49.073000" end="0:20:49.559000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:20:49.073000	0:20:49.559000
 ,	-	-	-	0:20:49.073000	0:20:49.559000
 genau	genau	ADJ	-	0:20:49.073000	0:20:49.559000
 ,	-	-	-	0:20:49.073000	0:20:49.559000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:49.073000" end="0:20:49.559000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:49.073000" end="0:20:49.559000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Entschuldigung	Entschuldigung	NOUN	-	0:20:49.073000	0:20:49.559000
 .	-	-	-	0:20:49.073000	0:20:49.559000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:49.559000" end="0:20:50.953000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:49.559000" end="0:20:50.953000" persName="Informant EXP11" age_lower="" age_upper="999">
 weil	weil	SCONJ	-	0:20:49.559000	0:20:50.953000
 das	der	DET	-	0:20:49.559000	0:20:50.953000
 Innviertlerische	Innviertlerische	NOUN	-	0:20:49.559000	0:20:50.953000
@@ -4579,31 +4579,31 @@ ja	ja	ADV	-	0:20:49.559000	0:20:50.953000
 schon	schon	ADV	-	0:20:49.559000	0:20:50.953000
 .	-	-	-	0:20:49.559000	0:20:50.953000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:50.953000" end="0:20:51.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:50.953000" end="0:20:51.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:50.953000	0:20:51.186000
 .	-	-	-	0:20:50.953000	0:20:51.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:51.186000" end="0:20:51.819000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:51.186000" end="0:20:51.819000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:20:51.186000	0:20:51.819000
 ?	-	-	-	0:20:51.186000	0:20:51.819000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:51.819000" end="0:20:52.839000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:51.819000" end="0:20:52.839000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:20:51.819000	0:20:52.839000
 ,	-	-	-	0:20:51.819000	0:20:52.839000
 nie	nie	ADV	-	0:20:51.819000	0:20:52.839000
 .	-	-	-	0:20:51.819000	0:20:52.839000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:52.839000" end="0:20:53.473000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:52.839000" end="0:20:53.473000" persName="Informant EXP11" age_lower="" age_upper="999">
 quasi	quasi	ADV	-	0:20:52.839000	0:20:53.473000
 nie	nie	ADV	-	0:20:52.839000	0:20:53.473000
 .	-	-	-	0:20:52.839000	0:20:53.473000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:20:53.473000" end="0:20:54.059000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:20:53.473000" end="0:20:54.059000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:20:53.473000	0:20:54.059000
 .	-	-	-	0:20:53.473000	0:20:54.059000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:20:54.059000" end="0:21:12.046000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:54.059000" end="0:21:12.046000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:20:54.059000	0:20:54.933000
 klar	klaren	ADJ	-	0:20:54.059000	0:20:54.933000
 .	-	-	-	0:20:54.059000	0:20:54.933000
@@ -4659,7 +4659,7 @@ auf	auf	ADP	-	0:21:10.986000	0:21:12.046000
 Sie	ich	PRON	-	0:21:10.986000	0:21:12.046000
 ?	-	-	-	0:21:10.986000	0:21:12.046000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:12.046000" end="0:21:20.959000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:12.046000" end="0:21:20.959000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 da	-	-	-	0:21:12.046000	0:21:16.413000
 *kommts*	-	-	-	0:21:16.413000	0:21:16.719000
@@ -4686,7 +4686,7 @@ Anlass	-	-	-	0:21:19.706000	0:21:20.579000
 ist	-	-	-	0:21:20.766000	0:21:20.959000
 .	-	-	-	0:21:20.766000	0:21:20.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:21:20.959000" end="0:21:25.339000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:20.959000" end="0:21:25.339000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:21:20.959000	0:21:25.339000
 ,	-	-	-	0:21:20.959000	0:21:25.339000
@@ -4705,11 +4705,11 @@ größeren	groß	ADJ	-	0:21:20.959000	0:21:25.339000
 Firma	Firma	NOUN	-	0:21:20.959000	0:21:25.339000
 .	-	-	-	0:21:20.959000	0:21:25.339000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:25.339000" end="0:21:25.706000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:25.339000" end="0:21:25.706000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:25.339000	0:21:25.706000
 .	-	-	-	0:21:25.339000	0:21:25.706000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:21:25.706000" end="0:21:28.926000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:25.706000" end="0:21:28.926000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 vielleicht	vielleicht	ADV	-	0:21:25.706000	0:21:27.733000
 jetzt	jetzt	ADV	-	0:21:25.706000	0:21:27.733000
@@ -4725,11 +4725,11 @@ was	was	PRON	-	0:21:28.613000	0:21:28.926000
 Anderes	ander	PRON	-	0:21:28.613000	0:21:28.926000
 ,	-	-	-	0:21:28.613000	0:21:28.926000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:28.613000" end="0:21:28.926000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:28.613000" end="0:21:28.926000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:28.613000	0:21:28.926000
 .	-	-	-	0:21:28.613000	0:21:28.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:21:28.926000" end="0:21:33.379000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:28.926000" end="0:21:33.379000" persName="Informant EXP11" age_lower="" age_upper="999">
 Sie	ich	PRON	-	0:21:28.926000	0:21:30.046000
 wissen	wissen	VERB	-	0:21:28.926000	0:21:30.046000
 noch	noch	ADV	-	0:21:28.926000	0:21:30.046000
@@ -4754,7 +4754,7 @@ oder	oder	CCONJ	-	0:21:32.173000	0:21:33.379000
 halt	halt	ADV	-	0:21:32.173000	0:21:33.379000
 v/	-	-	-	0:21:32.173000	0:21:33.379000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:33.379000" end="0:21:34.233000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:33.379000" end="0:21:34.233000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mh	mh	X	-	0:21:33.379000	0:21:34.233000
 ,	-	-	-	0:21:33.379000	0:21:34.233000
@@ -4762,7 +4762,7 @@ ja	ja	PART	-	0:21:33.379000	0:21:34.233000
 ,	-	-	-	0:21:33.379000	0:21:34.233000
 da/	-	-	-	0:21:33.379000	0:21:34.233000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:21:34.233000" end="0:21:35.846000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:34.233000" end="0:21:35.846000" persName="Informant EXP11" age_lower="" age_upper="999">
 versucht	versuchen	VERB	-	0:21:34.233000	0:21:34.799000
 das	der	PRON	-	0:21:34.233000	0:21:34.799000
 .	-	-	-	0:21:34.233000	0:21:34.799000
@@ -4773,7 +4773,7 @@ auf	auf	ADP	-	0:21:34.799000	0:21:35.846000
 Sie	ich	PRON	-	0:21:34.799000	0:21:35.846000
 ?	-	-	-	0:21:34.799000	0:21:35.846000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:35.846000" end="0:21:44.419000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:35.846000" end="0:21:44.419000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 na	na	X	-	0:21:35.846000	0:21:44.139000
 ja	ja	PART	-	0:21:35.846000	0:21:44.139000
@@ -4795,11 +4795,11 @@ präsentieren	präsentieren	VERB	-	0:21:35.846000	0:21:44.139000
 ,	-	-	-	0:21:35.846000	0:21:44.139000
 sondern	-	-	-	0:21:44.139000	0:21:44.419000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:21:44.419000" end="0:21:44.746000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:44.419000" end="0:21:44.746000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:21:44.419000	0:21:44.746000
 .	-	-	-	0:21:44.419000	0:21:44.746000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:21:44.419000" end="0:22:10.693000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:21:44.419000" end="0:22:10.693000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 als/	-	-	-	0:21:44.419000	0:21:44.746000
 <pause duration="1,6s"/>
 wir/	-	-	-	0:21:44.746000	0:21:49.653000
@@ -4877,11 +4877,11 @@ m/	-	-	-	0:22:09.293000	0:22:10.693000
 sogar	-	-	-	0:22:09.293000	0:22:10.693000
 ,	-	-	-	0:22:09.293000	0:22:10.693000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:10.693000" end="0:22:11.339000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:10.693000" end="0:22:11.339000" persName="Informant EXP11" age_lower="" age_upper="999">
 eh	eh	X	-	0:22:10.693000	0:22:11.339000
 .	-	-	-	0:22:10.693000	0:22:11.339000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:22:10.693000" end="0:22:13.106000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:10.693000" end="0:22:13.106000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:22:10.693000	0:22:11.339000
 der	der	DET	-	0:22:11.339000	0:22:13.106000
 muss	muss	NOUN	-	0:22:11.339000	0:22:13.106000
@@ -4889,7 +4889,7 @@ ja	ja	PART	-	0:22:11.339000	0:22:13.106000
 was	was	PRON	-	0:22:11.339000	0:22:13.106000
 präsentieren	präsentieren	VERB	-	0:22:11.339000	0:22:13.106000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:13.106000" end="0:22:18.193000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:13.106000" end="0:22:18.193000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:22:13.106000	0:22:14.359000
 ,	-	-	-	0:22:13.106000	0:22:14.359000
 das	der	PRON	-	0:22:13.106000	0:22:14.359000
@@ -4911,13 +4911,13 @@ vielleicht	vielleicht	ADV	-	0:22:16.046000	0:22:17.486000
 dann	dann	ADV	-	0:22:17.486000	0:22:18.193000
 ?	-	-	-	0:22:17.486000	0:22:18.193000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:22:17.486000" end="0:22:18.806000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:17.486000" end="0:22:18.806000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 professionell	professionell	ADJ	-	0:22:17.486000	0:22:18.193000
 würde	werden	AUX	-	0:22:18.193000	0:22:18.806000
 ich	ich	PRON	-	0:22:18.193000	0:22:18.806000
 sagen	sagen	VERB	-	0:22:18.193000	0:22:18.806000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:18.806000" end="0:22:33.773000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:18.806000" end="0:22:33.773000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:22:18.806000	0:22:25.959000
 .	-	-	-	0:22:18.806000	0:22:25.959000
 <pause duration="1,2s"/>
@@ -4976,7 +4976,7 @@ Sie	ich	PRON	-	0:22:31.773000	0:22:33.773000
 wirken	wirken	VERB	-	0:22:31.773000	0:22:33.773000
 ?	-	-	-	0:22:31.773000	0:22:33.773000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:22:33.773000" end="0:22:37.926000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:33.773000" end="0:22:37.926000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wenn	wenn	SCONJ	-	0:22:33.773000	0:22:37.926000
 ich	ich	PRON	-	0:22:33.773000	0:22:37.926000
@@ -4992,11 +4992,11 @@ bin	sein	AUX	-	0:22:33.773000	0:22:37.926000
 angenehm	angenehm	ADJ	-	0:22:33.773000	0:22:37.926000
 ,	-	-	-	0:22:33.773000	0:22:37.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:37.926000" end="0:22:38.993000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:37.926000" end="0:22:38.993000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:22:37.926000	0:22:38.993000
 .	-	-	-	0:22:37.926000	0:22:38.993000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:22:37.926000" end="0:22:40.933000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:37.926000" end="0:22:40.933000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sonst	-	-	-	0:22:37.926000	0:22:38.993000
 <pause duration="0,9s"/>
 eher	-	-	-	0:22:38.993000	0:22:40.933000
@@ -5005,13 +5005,13 @@ ein	-	-	-	0:22:38.993000	0:22:40.933000
 eigenartig	-	-	-	0:22:38.993000	0:22:40.933000
 .	-	-	-	0:22:38.993000	0:22:40.933000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:40.933000" end="0:22:41.713000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:40.933000" end="0:22:41.713000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:22:40.933000	0:22:41.713000
 ,	-	-	-	0:22:40.933000	0:22:41.713000
 warum	warum	ADV	-	0:22:40.933000	0:22:41.713000
 ?	-	-	-	0:22:40.933000	0:22:41.713000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:22:41.713000" end="0:22:55.599000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:22:41.713000" end="0:22:55.599000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 wenn	wenn	SCONJ	-	0:22:41.713000	0:22:48.979000
 der	der	DET	-	0:22:41.713000	0:22:48.979000
@@ -5047,7 +5047,7 @@ Freundschaftsphase	Freundschaftsphase	NOUN	-	0:22:52.559000	0:22:55.599000
 hinein	hinein	ADP	-	0:22:52.559000	0:22:55.599000
 .	-	-	-	0:22:52.559000	0:22:55.599000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:22:55.599000" end="0:23:04.099000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:55.599000" end="0:23:04.099000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:22:55.599000	0:22:56.786000
 klar	klaren	ADJ	-	0:22:55.599000	0:22:56.786000
 .	-	-	-	0:22:55.599000	0:22:56.786000
@@ -5090,7 +5090,7 @@ freundschaftlichen	freundschaftlich	ADJ	-	0:23:01.553000	0:23:04.099000
 Verhältnissen	Verhältnis	NOUN	-	0:23:01.553000	0:23:04.099000
 ?	-	-	-	0:23:01.553000	0:23:04.099000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:04.099000" end="0:23:07.593000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:04.099000" end="0:23:07.593000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:04.099000	0:23:07.593000
 ,	-	-	-	0:23:04.099000	0:23:07.593000
 in	-	-	-	0:23:04.099000	0:23:07.593000
@@ -5101,7 +5101,7 @@ Richtung	-	-	-	0:23:04.099000	0:23:07.593000
 genau	genau	ADJ	-	0:23:04.099000	0:23:07.593000
 .	-	-	-	0:23:04.099000	0:23:07.593000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:07.593000" end="0:23:19.453000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:07.593000" end="0:23:19.453000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:23:07.593000	0:23:15.613000
 klar	klaren	ADJ	-	0:23:07.593000	0:23:15.613000
 .	-	-	-	0:23:07.593000	0:23:15.613000
@@ -5131,7 +5131,7 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:23:17.459000	0:23:19.453000
 sprechen	sprechen	VERB	-	0:23:17.459000	0:23:19.453000
 ?	-	-	-	0:23:17.459000	0:23:19.453000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:19.453000" end="0:23:27.739000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:19.453000" end="0:23:27.739000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 von	von	ADP	-	0:23:19.453000	0:23:24.613000
 wo	wo	ADV	-	0:23:19.453000	0:23:24.613000
@@ -5154,7 +5154,7 @@ und	und	CCONJ	-	0:23:24.613000	0:23:27.739000
 ja	ja	PART	-	0:23:24.613000	0:23:27.739000
 .	-	-	-	0:23:24.613000	0:23:27.739000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:27.739000" end="0:23:33.233000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:27.739000" end="0:23:33.233000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:23:27.739000	0:23:33.233000
 .	-	-	-	0:23:27.739000	0:23:33.233000
 <pause duration="2,5s"/>
@@ -5171,24 +5171,24 @@ Akzent	Akzent	NOUN	-	0:23:27.739000	0:23:33.233000
 irgendwie	irgendwie	ADV	-	0:23:27.739000	0:23:33.233000
 ?	-	-	-	0:23:27.739000	0:23:33.233000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:33.233000" end="0:23:34.699000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:33.233000" end="0:23:34.699000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:23:33.233000	0:23:34.699000
 .	-	-	-	0:23:33.233000	0:23:34.699000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:34.699000" end="0:23:35.699000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:34.699000" end="0:23:35.699000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:23:34.699000	0:23:35.699000
 .	-	-	-	0:23:34.699000	0:23:35.699000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:35.699000" end="0:23:36.393000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:35.699000" end="0:23:36.393000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	-	0:23:35.699000	0:23:36.393000
 ich	ich	PRON	-	0:23:35.699000	0:23:36.393000
 schon	schon	ADV	-	0:23:35.699000	0:23:36.393000
 sagen	sagen	VERB	-	0:23:35.699000	0:23:36.393000
 .	-	-	-	0:23:35.699000	0:23:36.393000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:36.393000" end="0:23:42.433000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:36.393000" end="0:23:42.433000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 Skala	Skala	PROPN	-	0:23:36.393000	0:23:39.226000
 Nummer	Nummer	NOUN	-	0:23:36.393000	0:23:39.226000
@@ -5214,24 +5214,24 @@ Sie	ich	PRON	-	0:23:41.666000	0:23:42.433000
 meinen	mein	VERB	-	0:23:41.666000	0:23:42.433000
 ?	-	-	-	0:23:41.666000	0:23:42.433000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:42.433000" end="0:23:50.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:42.433000" end="0:23:50.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="8,0s"/>
 ja	ja	ADV	-	0:23:42.433000	0:23:50.186000
 da	da	ADV	-	0:23:42.433000	0:23:50.186000
 .	-	-	-	0:23:42.433000	0:23:50.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:50.186000" end="0:23:50.559000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:50.186000" end="0:23:50.559000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:23:50.186000	0:23:50.559000
 .	-	-	-	0:23:50.186000	0:23:50.559000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:23:50.186000" end="0:23:51.553000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:23:50.186000" end="0:23:51.553000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:23:50.186000	0:23:50.559000
 eher	eher	ADV	-	0:23:50.559000	0:23:51.553000
 bei	bei	ADP	-	0:23:50.559000	0:23:51.553000
 stark	stark	ADJ	-	0:23:50.559000	0:23:51.553000
 .	-	-	-	0:23:50.559000	0:23:51.553000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:23:51.553000" end="0:24:03.159000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:51.553000" end="0:24:03.159000" persName="Informant EXP11" age_lower="" age_upper="999">
 finden	finden	VERB	-	0:23:51.553000	0:23:52.179000
 Sie	ich	PRON	-	0:23:51.553000	0:23:52.179000
 das	der	PRON	-	0:23:51.553000	0:23:52.179000
@@ -5266,7 +5266,7 @@ Ihnen	ich	PRON	-	0:23:54.519000	0:24:03.159000
 egal	egal	ADV	-	0:23:54.519000	0:24:03.159000
 ?	-	-	-	0:23:54.519000	0:24:03.159000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:03.159000" end="0:24:05.553000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:03.159000" end="0:24:05.553000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ehrlich	ehrlich	ADJ	-	0:24:03.159000	0:24:05.553000
 gesagt	sagen	VERB	-	0:24:03.159000	0:24:05.553000
@@ -5276,7 +5276,7 @@ mir	sich	PRON	-	0:24:03.159000	0:24:05.553000
 egal	egal	ADV	-	0:24:03.159000	0:24:05.553000
 .	-	-	-	0:24:03.159000	0:24:05.553000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:05.553000" end="0:24:09.866000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:05.553000" end="0:24:09.866000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:24:05.553000	0:24:08.913000
 ,	-	-	-	0:24:05.553000	0:24:08.913000
 also	also	ADV	-	0:24:05.553000	0:24:08.913000
@@ -5300,11 +5300,11 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:24:08.913000	0:24:09.866000
 sprechen	sprechen	VERB	-	0:24:08.913000	0:24:09.866000
 ?	-	-	-	0:24:08.913000	0:24:09.866000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:09.866000" end="0:24:10.153000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:09.866000" end="0:24:10.153000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Nein	Nein	PART	-	0:24:09.866000	0:24:10.153000
 .	-	-	-	0:24:09.866000	0:24:10.153000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:10.153000" end="0:24:23.146000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:10.153000" end="0:24:23.146000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 gut	gut	ADJ	-	0:24:10.153000	0:24:17.219000
 .	-	-	-	0:24:10.153000	0:24:17.219000
@@ -5349,12 +5349,12 @@ Hochdeutsche	hochdeutsch	NOUN	-	0:24:21.226000	0:24:23.146000
 dann	dann	ADV	-	0:24:21.226000	0:24:23.146000
 ?	-	-	-	0:24:21.226000	0:24:23.146000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:23.146000" end="0:24:25.406000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:23.146000" end="0:24:25.406000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 genauso	genauso	ADV	-	0:24:23.146000	0:24:25.406000
 .	-	-	-	0:24:23.146000	0:24:25.406000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:25.406000" end="0:24:38.306000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:25.406000" end="0:24:38.306000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:24:25.406000	0:24:33.653000
 .	-	-	-	0:24:25.406000	0:24:33.653000
@@ -5393,7 +5393,7 @@ beobachten	beobachten	VERB	-	0:24:35.666000	0:24:38.306000
 können	können	VERB	-	0:24:35.666000	0:24:38.306000
 ?	-	-	-	0:24:35.666000	0:24:38.306000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:38.306000" end="0:24:41.039000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:38.306000" end="0:24:41.039000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 habe	habe	AUX	-	0:24:38.306000	0:24:41.039000
 ich	ich	PRON	-	0:24:38.306000	0:24:41.039000
@@ -5401,20 +5401,20 @@ nicht	nicht	PART	-	0:24:38.306000	0:24:41.039000
 beobachtet	beobachten	VERB	-	0:24:38.306000	0:24:41.039000
 ,	-	-	-	0:24:38.306000	0:24:41.039000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:41.039000" end="0:24:42.026000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:41.039000" end="0:24:42.026000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:24:41.039000	0:24:42.026000
 ja	ja	PART	-	0:24:41.039000	0:24:42.026000
 ,	-	-	-	0:24:41.039000	0:24:42.026000
 aber	-	-	-	0:24:41.039000	0:24:42.026000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:41.039000" end="0:24:42.026000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:41.039000" end="0:24:42.026000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:24:41.039000	0:24:42.026000
 ich	ich	PRON	-	0:24:41.039000	0:24:42.026000
 ehrlich	ehrlich	ADJ	-	0:24:41.039000	0:24:42.026000
 sagen	sagen	VERB	-	0:24:41.039000	0:24:42.026000
 .	-	-	-	0:24:41.039000	0:24:42.026000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:42.026000" end="0:24:50.053000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:42.026000" end="0:24:50.053000" persName="Informant EXP11" age_lower="" age_upper="999">
 da	-	-	-	0:24:42.026000	0:24:43.946000
 könnten	-	-	-	0:24:42.026000	0:24:43.946000
 *Sies*	-	-	-	0:24:42.026000	0:24:43.946000
@@ -5442,7 +5442,7 @@ verändert	verändern	VERB	-	0:24:47.826000	0:24:50.053000
 irgendwie	irgendwie	ADV	-	0:24:47.826000	0:24:50.053000
 ?	-	-	-	0:24:47.826000	0:24:50.053000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:24:50.053000" end="0:24:59.306000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:24:50.053000" end="0:24:59.306000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 dadurch	dadurch	ADV	-	0:24:50.053000	0:24:54.699000
 ,	-	-	-	0:24:50.053000	0:24:54.699000
@@ -5473,7 +5473,7 @@ auffallen	auffallen	VERB	-	0:24:58.193000	0:24:59.306000
 sollte	sollen	VERB	-	0:24:58.193000	0:24:59.306000
 .	-	-	-	0:24:58.193000	0:24:59.306000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:24:59.306000" end="0:25:01.306000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:59.306000" end="0:25:01.306000" persName="Informant EXP11" age_lower="" age_upper="999">
 hm	hm	X	-	0:24:59.306000	0:25:01.306000
 .	-	-	-	0:24:59.306000	0:25:01.306000
 na	na	X	-	0:24:59.306000	0:25:01.306000
@@ -5485,7 +5485,7 @@ vielleicht	-	-	-	0:24:59.306000	0:25:01.306000
 irgendwo	-	-	-	0:24:59.306000	0:25:01.306000
 .	-	-	-	0:24:59.306000	0:25:01.306000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:25:01.306000" end="0:25:04.539000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:01.306000" end="0:25:04.539000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 nein	nein	PART	-	0:25:01.306000	0:25:04.539000
 ,	-	-	-	0:25:01.306000	0:25:04.539000
@@ -5498,7 +5498,7 @@ so	so	ADV	-	0:25:01.306000	0:25:04.539000
 aufgefallen	auffallen	VERB	-	0:25:01.306000	0:25:04.539000
 .	-	-	-	0:25:01.306000	0:25:04.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:25:04.539000" end="0:25:23.026000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:04.539000" end="0:25:23.026000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:25:04.539000	0:25:14.146000
 .	-	-	-	0:25:04.539000	0:25:14.146000
 wunderbar	wunderbar	ADJ	-	0:25:04.539000	0:25:14.146000
@@ -5548,7 +5548,7 @@ meinen	mein	VERB	-	0:25:22.553000	0:25:23.026000
 Sie	ich	PRON	-	0:25:22.553000	0:25:23.026000
 ?	-	-	-	0:25:22.553000	0:25:23.026000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:25:23.026000" end="0:25:26.253000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:23.026000" end="0:25:26.253000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wie	wie	ADV	-	0:25:23.026000	0:25:24.906000
 gesagt	sagen	VERB	-	0:25:23.026000	0:25:24.906000
@@ -5560,11 +5560,11 @@ immer	immer	ADV	-	0:25:24.906000	0:25:26.253000
 geben	geben	VERB	-	0:25:24.906000	0:25:26.253000
 .	-	-	-	0:25:24.906000	0:25:26.253000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:25:26.253000" end="0:25:26.973000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:26.253000" end="0:25:26.973000" persName="Informant EXP11" age_lower="" age_upper="999">
 hm	hm	X	-	0:25:26.253000	0:25:26.973000
 .	-	-	-	0:25:26.253000	0:25:26.973000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:25:26.973000" end="0:25:45.046000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:25:26.973000" end="0:25:45.046000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:25:26.973000	0:25:30.233000
 <pause duration="1,9s"/>
 ja	ja	PART	-	0:25:26.973000	0:25:30.233000
@@ -5623,7 +5623,7 @@ verständigen	verständigen	VERB	-	0:25:41.546000	0:25:45.046000
 können	können	VERB	-	0:25:41.546000	0:25:45.046000
 .	-	-	-	0:25:41.546000	0:25:45.046000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:25:45.046000" end="0:26:05.893000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:45.046000" end="0:26:05.893000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 gut	gut	ADJ	-	0:25:45.046000	0:25:50.926000
 .	-	-	-	0:25:45.046000	0:25:50.926000
@@ -5708,7 +5708,7 @@ Ort	-	-	-	0:26:03.473000	0:26:05.893000
 gibt	-	-	-	0:26:03.473000	0:26:05.893000
 ?	-	-	-	0:26:03.473000	0:26:05.893000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:26:05.893000" end="0:26:10.879000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:05.893000" end="0:26:10.879000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 nicht	nicht	PART	-	0:26:05.893000	0:26:10.879000
 mir	sich	PRON	-	0:26:05.893000	0:26:10.879000
@@ -5720,7 +5720,7 @@ einmal	einmal	ADV	-	0:26:05.893000	0:26:10.879000
 so	so	ADV	-	0:26:05.893000	0:26:10.879000
 .	-	-	-	0:26:05.893000	0:26:10.879000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:26:10.879000" end="0:26:23.793000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:10.879000" end="0:26:23.793000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:26:10.879000	0:26:11.393000
 .	-	-	-	0:26:10.879000	0:26:11.393000
 <pause duration="2,7s"/>
@@ -5755,7 +5755,7 @@ Male	Mal	NOUN	-	0:26:18.693000	0:26:22.433000
 passiert	-	-	-	0:26:22.433000	0:26:23.793000
 .	-	-	-	0:26:22.433000	0:26:23.793000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:26:23.793000" end="0:26:34.893000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:23.793000" end="0:26:34.893000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	ja	PART	-	0:26:23.793000	0:26:32.246000
 ,	-	-	-	0:26:23.793000	0:26:32.246000
@@ -5792,7 +5792,7 @@ leicht	leicht	ADJ	-	0:26:33.379000	0:26:34.893000
 ,	-	-	-	0:26:33.379000	0:26:34.893000
 aber/	-	-	-	0:26:33.379000	0:26:34.893000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:26:34.893000" end="0:26:44.666000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:34.893000" end="0:26:44.666000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 aber	aber	CCONJ	-	0:26:34.893000	0:26:38.126000
 es	ich	PRON	-	0:26:34.893000	0:26:38.126000
@@ -5838,20 +5838,20 @@ sollte	sollen	VERB	-	0:26:43.966000	0:26:44.666000
 ich	ich	PRON	-	0:26:43.966000	0:26:44.666000
 einmal	einmal	ADV	-	0:26:43.966000	0:26:44.666000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:26:43.966000" end="0:26:44.666000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:43.966000" end="0:26:44.666000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 doch	doch	CCONJ	-	0:26:43.966000	0:26:44.666000
 ,	-	-	-	0:26:43.966000	0:26:44.666000
 schon	schon	ADV	-	0:26:43.966000	0:26:44.666000
 .	-	-	-	0:26:43.966000	0:26:44.666000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:26:44.666000" end="0:26:45.753000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:44.666000" end="0:26:45.753000" persName="Informant EXP11" age_lower="" age_upper="999">
 Hochdeutsch	Hochdeutsch	ADJ	-	0:26:44.666000	0:26:45.039000
 reden	reden	VERB	-	0:26:44.666000	0:26:45.039000
 oder	oder	CCONJ	-	0:26:45.039000	0:26:45.753000
 wie	wie	CCONJ	-	0:26:45.039000	0:26:45.753000
 ist/	-	-	-	0:26:45.039000	0:26:45.753000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:26:45.039000" end="0:27:12.039000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:26:45.039000" end="0:27:12.039000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:26:45.039000	0:26:45.753000
 kann	können	VERB	-	0:26:45.039000	0:26:45.753000
 automatisch	automatisch	ADJ	-	0:26:45.753000	0:26:46.706000
@@ -5963,7 +5963,7 @@ dran	-	-	-	0:27:09.819000	0:27:12.039000
 bist	-	-	-	0:27:09.819000	0:27:12.039000
 .	-	-	-	0:27:09.819000	0:27:12.039000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:12.039000" end="0:27:16.079000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:12.039000" end="0:27:16.079000" persName="Informant EXP11" age_lower="" age_upper="999">
 gut	gut	ADJ	-	0:27:12.039000	0:27:16.079000
 ,	-	-	-	0:27:12.039000	0:27:16.079000
 ja	ja	PART	-	0:27:12.039000	0:27:16.079000
@@ -5979,11 +5979,11 @@ oder	oder	CCONJ	-	0:27:12.039000	0:27:16.079000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:27:12.039000	0:27:16.079000
 ?	-	-	-	0:27:12.039000	0:27:16.079000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:16.079000" end="0:27:16.946000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:16.079000" end="0:27:16.946000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Innviertlerisch	Innviertlerisch	ADJ	-	0:27:16.079000	0:27:16.946000
 .	-	-	-	0:27:16.079000	0:27:16.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:16.946000" end="0:27:21.359000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:16.946000" end="0:27:21.359000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:27:16.946000	0:27:21.359000
 .	-	-	-	0:27:16.946000	0:27:21.359000
 <pause duration="2,2s"/>
@@ -5997,11 +5997,11 @@ Ihrer	sich	DET	-	0:27:16.946000	0:27:21.359000
 Familie	Familie	NOUN	-	0:27:16.946000	0:27:21.359000
 ?	-	-	-	0:27:16.946000	0:27:21.359000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:21.359000" end="0:27:21.932000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:21.359000" end="0:27:21.932000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:21.359000	0:27:21.932000
 .	-	-	-	0:27:21.359000	0:27:21.932000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:21.932000" end="0:27:25.059000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:21.932000" end="0:27:25.059000" persName="Informant EXP11" age_lower="" age_upper="999">
 machen	machen	VERB	-	0:27:21.932000	0:27:24.772000
 Sie	ich	PRON	-	0:27:21.932000	0:27:24.772000
 da	da	ADV	-	0:27:21.932000	0:27:24.772000
@@ -6014,11 +6014,11 @@ wie	wie	CCONJ	-	0:27:24.772000	0:27:25.059000
 Sie	ich	PRON	-	0:27:24.772000	0:27:25.059000
 mit	mit	ADP	-	0:27:24.772000	0:27:25.059000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:24.772000" end="0:27:25.059000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:24.772000" end="0:27:25.059000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:27:24.772000	0:27:25.059000
 .	-	-	-	0:27:24.772000	0:27:25.059000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:25.059000" end="0:27:36.886000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:25.059000" end="0:27:36.886000" persName="Informant EXP11" age_lower="" age_upper="999">
 denen	der	PRON	-	0:27:25.059000	0:27:25.672000
 sprechen	sprechen	VERB	-	0:27:25.059000	0:27:25.672000
 ?	-	-	-	0:27:25.059000	0:27:25.672000
@@ -6066,11 +6066,11 @@ Unterschied	Unterschied	NOUN	-	0:27:34.686000	0:27:36.886000
 ausmachen	ausmachen	VERB	-	0:27:34.686000	0:27:36.886000
 ?	-	-	-	0:27:34.686000	0:27:36.886000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:36.886000" end="0:27:37.319000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:36.886000" end="0:27:37.319000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 gleich	gleichen	ADV	-	0:27:36.886000	0:27:37.319000
 .	-	-	-	0:27:36.886000	0:27:37.319000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:37.319000" end="0:27:41.332000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:37.319000" end="0:27:41.332000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:27:37.319000	0:27:41.332000
 .	-	-	-	0:27:37.319000	0:27:41.332000
 <pause duration="0,5s"/>
@@ -6086,11 +6086,11 @@ Dialekt	Dialekt	NOUN	-	0:27:37.319000	0:27:41.332000
 gesprochen	sprechen	VERB	-	0:27:37.319000	0:27:41.332000
 ?	-	-	-	0:27:37.319000	0:27:41.332000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:41.332000" end="0:27:41.559000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:41.332000" end="0:27:41.559000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:41.332000	0:27:41.559000
 .	-	-	-	0:27:41.332000	0:27:41.559000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:41.559000" end="0:27:55.012000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:41.559000" end="0:27:55.012000" persName="Informant EXP11" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:27:41.559000	0:27:44.366000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:27:41.559000	0:27:44.366000
 ,	-	-	-	0:27:41.559000	0:27:44.366000
@@ -6145,17 +6145,17 @@ sprachlich	sprachlich	ADJ	-	0:27:53.259000	0:27:55.012000
 verändert	verändern	VERB	-	0:27:53.259000	0:27:55.012000
 ?	-	-	-	0:27:53.259000	0:27:55.012000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:55.012000" end="0:27:55.672000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:55.012000" end="0:27:55.672000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:55.012000	0:27:55.672000
 .	-	-	-	0:27:55.012000	0:27:55.672000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:55.672000" end="0:27:56.326000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:55.672000" end="0:27:56.326000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:27:55.672000	0:27:56.326000
 ?	-	-	-	0:27:55.672000	0:27:56.326000
 bitte	bitte	PART	-	0:27:55.672000	0:27:56.326000
 .	-	-	-	0:27:55.672000	0:27:56.326000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:27:56.326000" end="0:27:59.959000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:27:56.326000" end="0:27:59.959000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Volksschule	Volksschule	NOUN	-	0:27:56.326000	0:27:58.019000
 Hauptschule	Hauptschule	PROPN	-	0:27:56.326000	0:27:58.019000
 gar	gar	ADV	-	0:27:56.326000	0:27:58.019000
@@ -6170,11 +6170,11 @@ in	in	ADP	-	0:27:58.019000	0:27:59.959000
 ORT	ORT	NOUN	-	0:27:58.019000	0:27:59.959000
 .	-	-	-	0:27:58.019000	0:27:59.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:27:59.959000" end="0:28:00.472000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:59.959000" end="0:28:00.472000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:27:59.959000	0:28:00.472000
 .	-	-	-	0:27:59.959000	0:28:00.472000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:00.472000" end="0:28:19.772000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:00.472000" end="0:28:19.772000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ORT	ORT	PROPN	-	0:28:00.472000	0:28:03.066000
 <pause duration="1,1s"/>
@@ -6251,7 +6251,7 @@ aufgefallen	auffallen	VERB	-	0:28:16.172000	0:28:19.772000
 eigentlich	eigentlich	ADV	-	0:28:16.172000	0:28:19.772000
 .	-	-	-	0:28:16.172000	0:28:19.772000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:19.772000" end="0:28:22.966000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:19.772000" end="0:28:22.966000" persName="Informant EXP11" age_lower="" age_upper="999">
 das	der	PRON	-	0:28:19.772000	0:28:22.166000
 heißt	heißen	VERB	-	0:28:19.772000	0:28:22.166000
 ,	-	-	-	0:28:19.772000	0:28:22.166000
@@ -6269,22 +6269,22 @@ geworden	werden	AUX	-	0:28:19.772000	0:28:22.166000
 in	-	-	-	0:28:22.332000	0:28:22.966000
 Kontrast	-	-	-	0:28:22.332000	0:28:22.966000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:22.332000" end="0:28:22.966000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:22.332000" end="0:28:22.966000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:22.332000	0:28:22.966000
 .	-	-	-	0:28:22.332000	0:28:22.966000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:22.966000" end="0:28:24.099000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:22.966000" end="0:28:24.099000" persName="Informant EXP11" age_lower="" age_upper="999">
 zum	-	-	-	0:28:22.966000	0:28:23.759000
 anderen	-	-	-	0:28:22.966000	0:28:23.759000
 zu	-	-	-	0:28:22.966000	0:28:23.759000
 wem	-	-	-	0:28:22.966000	0:28:23.759000
 andern	-	-	-	0:28:23.759000	0:28:24.099000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:23.759000" end="0:28:24.099000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:23.759000" end="0:28:24.099000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:23.759000	0:28:24.099000
 .	-	-	-	0:28:23.759000	0:28:24.099000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:24.099000" end="0:28:25.939000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:24.099000" end="0:28:25.939000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 sichtbar	-	-	-	0:28:24.099000	0:28:25.939000
 geworden	-	-	-	0:28:24.099000	0:28:25.939000
@@ -6294,7 +6294,7 @@ ist	-	-	-	0:28:24.099000	0:28:25.939000
 okay	okay	NOUN	-	0:28:24.099000	0:28:25.939000
 .	-	-	-	0:28:24.099000	0:28:25.939000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:25.939000" end="0:28:29.666000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:25.939000" end="0:28:29.666000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 man	man	PRON	-	0:28:25.939000	0:28:29.666000
 kriegt	kriegen	VERB	-	0:28:25.939000	0:28:29.666000
 überhaupt	überhaupt	ADV	-	0:28:25.939000	0:28:29.666000
@@ -6315,7 +6315,7 @@ dann	dann	ADV	-	0:28:25.939000	0:28:29.666000
 auch	auch	ADV	-	0:28:25.939000	0:28:29.666000
 .	-	-	-	0:28:25.939000	0:28:29.666000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:29.666000" end="0:28:36.666000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:29.666000" end="0:28:36.666000" persName="Informant EXP11" age_lower="" age_upper="999">
 klar	klaren	ADJ	-	0:28:29.666000	0:28:31.959000
 .	-	-	-	0:28:29.666000	0:28:31.959000
 <pause duration="1,6s"/>
@@ -6347,7 +6347,7 @@ gesprochen	sprechen	VERB	-	0:28:34.112000	0:28:36.666000
 worden	werden	AUX	-	0:28:34.112000	0:28:36.666000
 ?	-	-	-	0:28:34.112000	0:28:36.666000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:36.666000" end="0:28:42.672000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:36.666000" end="0:28:42.672000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ja	ja	PART	-	0:28:36.666000	0:28:42.672000
 ,	-	-	-	0:28:36.666000	0:28:42.672000
@@ -6361,25 +6361,25 @@ ist	sein	AUX	-	0:28:36.666000	0:28:42.672000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:28:36.666000	0:28:42.672000
 ,	-	-	-	0:28:36.666000	0:28:42.672000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:42.672000" end="0:28:43.059000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:42.672000" end="0:28:43.059000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:28:42.672000	0:28:43.059000
 .	-	-	-	0:28:42.672000	0:28:43.059000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:42.672000" end="0:28:43.686000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:42.672000" end="0:28:43.686000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:28:42.672000	0:28:43.059000
 könnte	können	VERB	-	0:28:43.059000	0:28:43.686000
 mich	sich	PRON	-	0:28:43.059000	0:28:43.686000
 nicht	nicht	PART	-	0:28:43.059000	0:28:43.686000
 anders	anders	ADV	-	0:28:43.059000	0:28:43.686000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:43.686000" end="0:28:44.046000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:43.686000" end="0:28:44.046000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:28:43.686000	0:28:44.046000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:43.686000" end="0:28:44.046000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:43.686000" end="0:28:44.046000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 erinnern	erinnern	VERB	-	0:28:43.686000	0:28:44.046000
 .	-	-	-	0:28:43.686000	0:28:44.046000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:44.046000" end="0:28:46.599000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:44.046000" end="0:28:46.599000" persName="Informant EXP11" age_lower="" age_upper="999">
 auch	auch	ADV	-	0:28:44.046000	0:28:46.599000
 auch	auch	ADV	-	0:28:44.046000	0:28:46.599000
 im	im	ADP	-	0:28:44.046000	0:28:46.599000
@@ -6394,7 +6394,7 @@ zum	zum	ADP	-	0:28:44.046000	0:28:46.599000
 Beispiel	Beispiel	NOUN	-	0:28:44.046000	0:28:46.599000
 ?	-	-	-	0:28:44.046000	0:28:46.599000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:46.599000" end="0:28:55.112000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:46.599000" end="0:28:55.112000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 Deutschlehrerin	Deutschlehrerin	NOUN	-	0:28:46.599000	0:28:49.352000
 hat	haben	AUX	-	0:28:46.599000	0:28:49.352000
@@ -6415,12 +6415,12 @@ teils	teils	ADV	-	0:28:51.179000	0:28:55.112000
 gelungen	gelingen	VERB	-	0:28:51.179000	0:28:55.112000
 .	-	-	-	0:28:51.179000	0:28:55.112000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:55.112000" end="0:28:55.846000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:55.112000" end="0:28:55.846000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:28:55.112000	0:28:55.846000
 ,	-	-	-	0:28:55.112000	0:28:55.846000
 aber	aber	CCONJ	-	0:28:55.112000	0:28:55.846000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:55.112000" end="0:28:55.846000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:55.112000" end="0:28:55.846000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sage	sage	VERB	-	0:28:55.112000	0:28:55.846000
 ich	ich	PRON	-	0:28:55.112000	0:28:55.846000
 jetzt	jetzt	ADV	-	0:28:55.112000	0:28:55.846000
@@ -6428,18 +6428,18 @@ einmal	einmal	ADV	-	0:28:55.112000	0:28:55.846000
 ,	-	-	-	0:28:55.112000	0:28:55.846000
 aber	aber	CCONJ	-	0:28:55.112000	0:28:55.846000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:55.846000" end="0:28:56.666000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:55.846000" end="0:28:56.666000" persName="Informant EXP11" age_lower="" age_upper="999">
 tendenziell	tendenziell	ADJ	-	0:28:55.846000	0:28:56.666000
 eher	eher	ADV	-	0:28:55.846000	0:28:56.666000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:55.846000" end="0:28:56.666000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:55.846000" end="0:28:56.666000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sonst	sonst	ADV	-	0:28:55.846000	0:28:56.666000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:28:56.666000" end="0:28:58.119000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:56.666000" end="0:28:58.119000" persName="Informant EXP11" age_lower="" age_upper="999">
 Hochdeutsch	Hochdeutsch	NOUN	-	0:28:56.666000	0:28:58.119000
 ?	-	-	-	0:28:56.666000	0:28:58.119000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:28:56.666000" end="0:29:01.306000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:28:56.666000" end="0:29:01.306000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:28:56.666000	0:28:58.119000
 die	der	DET	-	0:28:56.666000	0:28:58.119000
 anderen	ander	ADJ	-	0:28:56.666000	0:28:58.119000
@@ -6448,7 +6448,7 @@ Fächer	Fächer	NOUN	-	0:28:58.119000	0:29:01.306000
 Innviertlerisch	Innviertlerisch	NOUN	-	0:28:58.119000	0:29:01.306000
 .	-	-	-	0:28:58.119000	0:29:01.306000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:29:01.306000" end="0:29:02.819000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:01.306000" end="0:29:02.819000" persName="Informant EXP11" age_lower="" age_upper="999">
 Wie	Wie	ADV	-	0:29:01.306000	0:29:02.819000
 war	sein	AUX	-	0:29:01.306000	0:29:02.819000
 das	der	PRON	-	0:29:01.306000	0:29:02.819000
@@ -6457,16 +6457,16 @@ in	in	ADP	-	0:29:01.306000	0:29:02.819000
 ORT	ORT	PROPN	-	0:29:01.306000	0:29:02.819000
 ?	-	-	-	0:29:01.306000	0:29:02.819000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:29:02.819000" end="0:29:03.872000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:29:02.819000" end="0:29:03.872000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 anders	anders	ADV	-	0:29:02.819000	0:29:03.872000
 .	-	-	-	0:29:02.819000	0:29:03.872000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:29:03.872000" end="0:29:04.392000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:03.872000" end="0:29:04.392000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:29:03.872000	0:29:04.392000
 .	-	-	-	0:29:03.872000	0:29:04.392000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:29:04.392000" end="0:29:31.946000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:29:04.392000" end="0:29:31.946000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:29:04.392000	0:29:09.079000
 <pause duration="2,2s"/>
 da	da	ADV	-	0:29:04.392000	0:29:09.079000
@@ -6551,7 +6551,7 @@ das	-	-	-	0:29:28.206000	0:29:31.946000
 Gehobene	-	-	-	0:29:28.206000	0:29:31.946000
 .	-	-	-	0:29:28.206000	0:29:31.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:29:31.946000" end="0:29:40.312000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:31.946000" end="0:29:40.312000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:29:31.946000	0:29:32.966000
 .	-	-	-	0:29:31.946000	0:29:32.966000
 finden	finden	VERB	-	0:29:31.946000	0:29:32.966000
@@ -6587,12 +6587,12 @@ Umfeld	Umfeld	NOUN	-	0:29:36.252000	0:29:40.312000
 entsprechend	entsprechen	ADJ	-	0:29:36.252000	0:29:40.312000
 ?	-	-	-	0:29:36.252000	0:29:40.312000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:29:40.312000" end="0:29:43.539000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:29:40.312000" end="0:29:43.539000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 ja	ja	PART	-	0:29:40.312000	0:29:43.539000
 .	-	-	-	0:29:40.312000	0:29:43.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:29:43.539000" end="0:29:52.412000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:43.539000" end="0:29:52.412000" persName="Informant EXP11" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:29:43.539000	0:29:44.419000
 finden	finden	VERB	-	0:29:43.539000	0:29:44.419000
 Sie	ich	PRON	-	0:29:43.539000	0:29:44.419000
@@ -6627,11 +6627,11 @@ der	der	DET	-	0:29:51.792000	0:29:52.166000
 in	in	ADP	-	0:29:52.166000	0:29:52.412000
 der	der	DET	-	0:29:52.166000	0:29:52.412000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:29:52.166000" end="0:29:52.412000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:29:52.166000" end="0:29:52.412000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:29:52.166000	0:29:52.412000
 .	-	-	-	0:29:52.166000	0:29:52.412000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:29:52.412000" end="0:29:56.039000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:52.412000" end="0:29:56.039000" persName="Informant EXP11" age_lower="" age_upper="999">
 Volksschule	Volksschule	NOUN	-	0:29:52.412000	0:29:53.252000
 zu	zu	PART	-	0:29:52.412000	0:29:53.252000
 viel	viel	PRON	-	0:29:52.412000	0:29:53.252000
@@ -6651,7 +6651,7 @@ hat	haben	AUX	-	0:29:54.212000	0:29:56.039000
 so	so	ADV	-	0:29:54.212000	0:29:56.039000
 ?	-	-	-	0:29:54.212000	0:29:56.039000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:29:56.039000" end="0:30:05.152000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:29:56.039000" end="0:30:05.152000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ich	ich	PRON	-	0:29:56.039000	0:29:57.292000
 finde	finden	VERB	-	0:29:56.039000	0:29:57.292000
@@ -6687,11 +6687,11 @@ und	-	-	-	0:30:01.459000	0:30:05.152000
 Hauptschule	-	-	-	0:30:01.459000	0:30:05.152000
 .	-	-	-	0:30:01.459000	0:30:05.152000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:05.152000" end="0:30:05.586000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:05.152000" end="0:30:05.586000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:30:05.152000	0:30:05.586000
 .	-	-	-	0:30:05.152000	0:30:05.586000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:05.586000" end="0:30:07.599000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:05.586000" end="0:30:07.599000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 *dass*	-	-	-	0:30:05.586000	0:30:07.599000
 schon	-	-	-	0:30:05.586000	0:30:07.599000
@@ -6701,11 +6701,11 @@ Hochdeutsche	-	-	-	0:30:05.586000	0:30:07.599000
 geht	-	-	-	0:30:05.586000	0:30:07.599000
 .	-	-	-	0:30:05.586000	0:30:07.599000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:07.599000" end="0:30:08.306000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:07.599000" end="0:30:08.306000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:30:07.599000	0:30:08.306000
 .	-	-	-	0:30:07.599000	0:30:08.306000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:08.306000" end="0:30:10.079000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:08.306000" end="0:30:10.079000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:30:08.306000	0:30:10.079000
 eher	eher	ADV	-	0:30:08.306000	0:30:10.079000
 zu	zu	ADP	-	0:30:08.306000	0:30:10.079000
@@ -6714,7 +6714,7 @@ halt	halt	NOUN	-	0:30:08.306000	0:30:10.079000
 hin	hin	ADP	-	0:30:08.306000	0:30:10.079000
 .	-	-	-	0:30:08.306000	0:30:10.079000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:10.079000" end="0:30:11.412000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:10.079000" end="0:30:11.412000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:30:10.079000	0:30:11.412000
 das	der	PRON	-	0:30:10.079000	0:30:11.412000
 finden	finden	VERB	-	0:30:10.079000	0:30:11.412000
@@ -6724,7 +6724,7 @@ auch	auch	ADV	-	0:30:10.079000	0:30:11.412000
 wichtig	wichtig	ADJ	-	0:30:10.079000	0:30:11.412000
 ?	-	-	-	0:30:10.079000	0:30:11.412000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:11.412000" end="0:30:32.259000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:11.412000" end="0:30:32.259000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:30:11.412000	0:30:13.966000
 .	-	-	-	0:30:11.412000	0:30:13.966000
@@ -6803,7 +6803,7 @@ Schweiz	Schweiz	PROPN	-	0:30:26.532000	0:30:32.259000
 halt	halt	ADV	-	0:30:26.532000	0:30:32.259000
 .	-	-	-	0:30:26.532000	0:30:32.259000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:32.259000" end="0:30:38.126000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:32.259000" end="0:30:38.126000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:30:32.259000	0:30:38.126000
 .	-	-	-	0:30:32.259000	0:30:38.126000
 <pause duration="1,0s"/>
@@ -6825,13 +6825,13 @@ Ihrer	-	-	-	0:30:32.259000	0:30:38.126000
 Ausbildung	-	-	-	0:30:32.259000	0:30:38.126000
 ?	-	-	-	0:30:32.259000	0:30:38.126000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:38.126000" end="0:30:39.739000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:38.126000" end="0:30:39.739000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 keine	kein	DET	-	0:30:38.126000	0:30:39.739000
 mehr	mehr	PRON	-	0:30:38.126000	0:30:39.739000
 .	-	-	-	0:30:38.126000	0:30:39.739000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:39.739000" end="0:30:43.379000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:39.739000" end="0:30:43.379000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:30:39.739000	0:30:41.319000
 .	-	-	-	0:30:39.739000	0:30:41.319000
 wunderbar	wunderbar	ADJ	-	0:30:39.739000	0:30:41.319000
@@ -6849,7 +6849,7 @@ Berufsleben	Berufsleben	NOUN	-	0:30:41.319000	0:30:42.646000
 /.	-	-	-	0:30:42.646000	0:30:43.379000
 ach	ach	X	-	0:30:42.646000	0:30:43.379000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:42.646000" end="0:30:43.999000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:42.646000" end="0:30:43.999000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:42.646000	0:30:43.379000
 ,	-	-	-	0:30:42.646000	0:30:43.379000
 ich	ich	PRON	-	0:30:42.646000	0:30:43.379000
@@ -6858,28 +6858,28 @@ noch	noch	ADV	-	0:30:43.379000	0:30:43.999000
 Zivildienst	Zivildienst	NOUN	-	0:30:43.379000	0:30:43.999000
 ,	-	-	-	0:30:43.379000	0:30:43.999000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:43.999000" end="0:30:44.526000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:43.999000" end="0:30:44.526000" persName="Informant EXP11" age_lower="" age_upper="999">
 ach	ach	VERB	-	0:30:43.999000	0:30:44.526000
 ja	ja	PART	-	0:30:43.999000	0:30:44.526000
 ,	-	-	-	0:30:43.999000	0:30:44.526000
 genau	genau	ADJ	-	0:30:43.999000	0:30:44.526000
 .	-	-	-	0:30:43.999000	0:30:44.526000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:43.999000" end="0:30:44.526000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:43.999000" end="0:30:44.526000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:30:43.999000	0:30:44.526000
 gesagt	sagen	VERB	-	0:30:43.999000	0:30:44.526000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:44.526000" end="0:30:45.079000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:44.526000" end="0:30:45.079000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:30:44.526000	0:30:45.079000
 .	-	-	-	0:30:44.526000	0:30:45.079000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:44.526000" end="0:30:45.819000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:44.526000" end="0:30:45.819000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	PROPN	-	0:30:44.526000	0:30:45.079000
 und	und	CCONJ	-	0:30:45.079000	0:30:45.819000
 ja	ja	ADV	-	0:30:45.079000	0:30:45.819000
 .	-	-	-	0:30:45.079000	0:30:45.819000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:30:45.819000" end="0:30:56.646000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:45.819000" end="0:30:56.646000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:30:45.819000	0:30:52.626000
 .	-	-	-	0:30:45.819000	0:30:52.626000
 <pause duration="1,2s"/>
@@ -6920,7 +6920,7 @@ Sie	ich	PRON	-	0:30:56.039000	0:30:56.646000
 sagen	sagen	VERB	-	0:30:56.039000	0:30:56.646000
 ?	-	-	-	0:30:56.039000	0:30:56.646000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:30:56.646000" end="0:31:02.372000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:30:56.646000" end="0:31:02.372000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 nein	nein	PART	-	0:30:56.646000	0:30:59.019000
 ,	-	-	-	0:30:56.646000	0:30:59.019000
@@ -6943,7 +6943,7 @@ unterschiedliche	unterschiedlich	ADJ	-	0:30:59.019000	0:31:02.372000
 Sprechstile	Sprechstile	NOUN	-	0:30:59.019000	0:31:02.372000
 .	-	-	-	0:30:59.019000	0:31:02.372000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:02.372000" end="0:31:05.486000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:02.372000" end="0:31:05.486000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:31:02.372000	0:31:03.272000
 .	-	-	-	0:31:02.372000	0:31:03.272000
@@ -6962,12 +6962,12 @@ beruflich	-	-	-	0:31:03.272000	0:31:05.486000
 dann	-	-	-	0:31:03.272000	0:31:05.486000
 ?	-	-	-	0:31:03.272000	0:31:05.486000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:05.486000" end="0:31:06.732000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:05.486000" end="0:31:06.732000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:31:05.486000	0:31:06.732000
 .	-	-	-	0:31:05.486000	0:31:06.732000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:06.732000" end="0:31:10.412000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:06.732000" end="0:31:10.412000" persName="Informant EXP11" age_lower="" age_upper="999">
 also	also	ADV	-	0:31:06.732000	0:31:08.092000
 abgesehen	absehen	VERB	-	0:31:06.732000	0:31:08.092000
 von	von	ADP	-	0:31:06.732000	0:31:08.092000
@@ -6981,7 +6981,7 @@ andere	ander	PRON	-	0:31:08.412000	0:31:10.412000
 sind	sein	AUX	-	0:31:08.412000	0:31:10.412000
 .	-	-	-	0:31:08.412000	0:31:10.412000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:08.412000" end="0:31:15.126000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:08.412000" end="0:31:15.126000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:08.412000	0:31:10.412000
 .	-	-	-	0:31:08.412000	0:31:10.412000
 ich	ich	PRON	-	0:31:08.412000	0:31:10.412000
@@ -7012,11 +7012,11 @@ und	-	-	-	0:31:11.239000	0:31:15.126000
 Beruflichen	-	-	-	0:31:11.239000	0:31:15.126000
 .	-	-	-	0:31:11.239000	0:31:15.126000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:15.126000" end="0:31:15.886000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:15.126000" end="0:31:15.886000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:31:15.126000	0:31:15.886000
 .	-	-	-	0:31:15.126000	0:31:15.886000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:15.126000" end="0:31:16.886000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:15.126000" end="0:31:16.886000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 vorher	-	-	-	0:31:15.126000	0:31:15.886000
 *wars*	-	-	-	0:31:15.126000	0:31:15.886000
 mehr	-	-	-	0:31:15.886000	0:31:16.886000
@@ -7024,7 +7024,7 @@ mehr	-	-	-	0:31:15.886000	0:31:16.886000
 Unterschied	-	-	-	0:31:15.886000	0:31:16.886000
 .	-	-	-	0:31:15.886000	0:31:16.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:16.886000" end="0:31:18.412000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:16.886000" end="0:31:18.412000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:31:16.886000	0:31:18.412000
 ,	-	-	-	0:31:16.886000	0:31:18.412000
 worauf	worauf	ADV	-	0:31:16.886000	0:31:18.412000
@@ -7034,7 +7034,7 @@ das	der	PRON	-	0:31:16.886000	0:31:18.412000
 zurück	zurück	ADP	-	0:31:16.886000	0:31:18.412000
 ?	-	-	-	0:31:16.886000	0:31:18.412000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:18.412000" end="0:31:24.612000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:18.412000" end="0:31:24.612000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 weil	weil	SCONJ	-	0:31:18.412000	0:31:24.612000
 ich	ich	PRON	-	0:31:18.412000	0:31:24.612000
@@ -7052,11 +7052,11 @@ zu	zu	PART	-	0:31:18.412000	0:31:24.612000
 tun	tun	VERB	-	0:31:18.412000	0:31:24.612000
 gehabt	haben	AUX	-	0:31:18.412000	0:31:24.612000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:24.612000" end="0:31:24.826000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:24.612000" end="0:31:24.826000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:24.612000	0:31:24.826000
 .	-	-	-	0:31:24.612000	0:31:24.826000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:24.612000" end="0:31:27.846000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:24.612000" end="0:31:27.846000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:31:24.612000	0:31:24.826000
 ,	-	-	-	0:31:24.612000	0:31:24.826000
 und	-	-	-	0:31:24.826000	0:31:27.846000
@@ -7067,11 +7067,11 @@ vorwiegend	-	-	-	0:31:24.826000	0:31:27.846000
 Landwirte	-	-	-	0:31:24.826000	0:31:27.846000
 .	-	-	-	0:31:24.826000	0:31:27.846000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:27.846000" end="0:31:28.232000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:27.846000" end="0:31:28.232000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:31:27.846000	0:31:28.232000
 .	-	-	-	0:31:27.846000	0:31:28.232000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:28.232000" end="0:31:32.199000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:28.232000" end="0:31:32.199000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:31:28.232000	0:31:32.199000
 Fil/	-	-	-	0:31:28.232000	0:31:32.199000
 ja	ja	ADV	-	0:31:28.232000	0:31:32.199000
@@ -7084,7 +7084,7 @@ manche	manch	DET	-	0:31:28.232000	0:31:32.199000
 Handelsplätze	Handelsplätze	NOUN	-	0:31:28.232000	0:31:32.199000
 .	-	-	-	0:31:28.232000	0:31:32.199000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:32.199000" end="0:31:42.979000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:32.199000" end="0:31:42.979000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:32.199000	0:31:40.979000
 .	-	-	-	0:31:32.199000	0:31:40.979000
 <pause duration="0,7s"/>
@@ -7115,7 +7115,7 @@ mit	mit	ADP	-	0:31:40.979000	0:31:42.979000
 mir	sich	PRON	-	0:31:40.979000	0:31:42.979000
 ?	-	-	-	0:31:40.979000	0:31:42.979000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:42.979000" end="0:31:53.699000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:42.979000" end="0:31:53.699000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 Innviertlerisch	Innviertlerisch	ADJ	-	0:31:42.979000	0:31:47.419000
 ,	-	-	-	0:31:42.979000	0:31:47.419000
@@ -7144,7 +7144,7 @@ gehobeneren	-	-	-	0:31:47.419000	0:31:53.699000
 Sprechen	-	-	-	0:31:47.419000	0:31:53.699000
 .	-	-	-	0:31:47.419000	0:31:53.699000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:31:53.699000" end="0:31:55.032000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:53.699000" end="0:31:55.032000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:31:53.699000	0:31:55.032000
 ,	-	-	-	0:31:53.699000	0:31:55.032000
 wie	wie	ADV	-	0:31:53.699000	0:31:55.032000
@@ -7154,7 +7154,7 @@ mit	mit	ADP	-	0:31:53.699000	0:31:55.032000
 Ihnen	ich	PRON	-	0:31:53.699000	0:31:55.032000
 ?	-	-	-	0:31:53.699000	0:31:55.032000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:31:55.032000" end="0:32:02.872000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:31:55.032000" end="0:32:02.872000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 gehobenere	gehoben	VERB	-	0:31:55.032000	0:32:01.892000
 <pause duration="1,7s"/>
@@ -7175,7 +7175,7 @@ sagen	sagen	VERB	-	0:32:01.892000	0:32:02.872000
 ja	ja	PART	-	0:32:01.892000	0:32:02.872000
 .	-	-	-	0:32:01.892000	0:32:02.872000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:32:02.872000" end="0:32:19.919000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:02.872000" end="0:32:19.919000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="4,0s"/>
 (ist)	sein	AUX	-	0:32:02.872000	0:32:09.179000
 klar	klaren	ADJ	-	0:32:02.872000	0:32:09.179000
@@ -7226,7 +7226,7 @@ wahrscheinlich	wahrscheinlich	ADJ	-	0:32:15.786000	0:32:19.919000
 dazu	dazu	ADV	-	0:32:15.786000	0:32:19.919000
 .	-	-	-	0:32:15.786000	0:32:19.919000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:32:19.919000" end="0:32:29.899000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:32:19.919000" end="0:32:29.899000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:19.919000	0:32:22.092000
 ,	-	-	-	0:32:19.919000	0:32:22.092000
 glaube	glauben	VERB	-	0:32:19.919000	0:32:22.092000
@@ -7255,11 +7255,11 @@ aus	aus	ADP	-	0:32:25.606000	0:32:29.899000
 dem	der	DET	-	0:32:25.606000	0:32:29.899000
 chillen	chillen	NOUN	-	0:32:25.606000	0:32:29.899000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:32:29.899000" end="0:32:30.252000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:29.899000" end="0:32:30.252000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:32:29.899000	0:32:30.252000
 .	-	-	-	0:32:29.899000	0:32:30.252000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:32:30.252000" end="0:32:38.112000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:32:30.252000" end="0:32:38.112000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:30.252000	0:32:35.952000
 ,	-	-	-	0:32:30.252000	0:32:35.952000
 oder	oder	CCONJ	-	0:32:30.252000	0:32:35.952000
@@ -7285,11 +7285,11 @@ eigentlich	eigentlich	ADV	-	0:32:35.952000	0:32:38.112000
 her	her	ADP	-	0:32:35.952000	0:32:38.112000
 .	-	-	-	0:32:35.952000	0:32:38.112000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:32:38.112000" end="0:32:38.786000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:38.112000" end="0:32:38.786000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:32:38.112000	0:32:38.786000
 .	-	-	-	0:32:38.112000	0:32:38.786000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:32:38.786000" end="0:32:41.266000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:32:38.786000" end="0:32:41.266000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 sicher	-	-	-	0:32:38.786000	0:32:41.266000
 auch	-	-	-	0:32:38.786000	0:32:41.266000
 vom	-	-	-	0:32:38.786000	0:32:41.266000
@@ -7299,7 +7299,7 @@ ein	-	-	-	0:32:38.786000	0:32:41.266000
 forciert	-	-	-	0:32:38.786000	0:32:41.266000
 .	-	-	-	0:32:38.786000	0:32:41.266000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:32:41.266000" end="0:32:44.539000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:41.266000" end="0:32:44.539000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:32:41.266000	0:32:42.979000
 .	-	-	-	0:32:41.266000	0:32:42.979000
 fällt	fällen	VERB	-	0:32:41.266000	0:32:42.979000
@@ -7317,7 +7317,7 @@ einflussreich	einflussreich	ADJ	-	0:32:42.979000	0:32:44.539000
 ist	sein	AUX	-	0:32:42.979000	0:32:44.539000
 ?	-	-	-	0:32:42.979000	0:32:44.539000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:32:44.539000" end="0:32:52.706000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:32:44.539000" end="0:32:52.706000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ähm	ähm	X	-	0:32:44.539000	0:32:52.706000
 <pause duration="2,4s"/>
@@ -7331,7 +7331,7 @@ eher	eher	ADV	-	0:32:44.539000	0:32:52.706000
 nicht	nicht	PART	-	0:32:44.539000	0:32:52.706000
 .	-	-	-	0:32:44.539000	0:32:52.706000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:32:52.706000" end="0:33:08.712000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:52.706000" end="0:33:08.712000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:32:52.706000	0:32:58.666000
 .	-	-	-	0:32:52.706000	0:32:58.666000
@@ -7384,7 +7384,7 @@ oder	oder	CCONJ	-	0:33:05.686000	0:33:08.712000
 beides	beide	PRON	-	0:33:05.686000	0:33:08.712000
 ?	-	-	-	0:33:05.686000	0:33:08.712000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:33:08.712000" end="0:33:16.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:33:08.712000" end="0:33:16.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 hm	hm	X	-	0:33:08.712000	0:33:14.866000
 <pause duration="2,5s"/>
@@ -7403,17 +7403,17 @@ zu	zu	PART	-	0:33:14.866000	0:33:16.186000
 wenig	wenig	ADV	-	0:33:14.866000	0:33:16.186000
 oft	oft	ADV	-	0:33:14.866000	0:33:16.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:33:16.186000" end="0:33:16.539000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:16.186000" end="0:33:16.539000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:33:16.186000	0:33:16.539000
 ,	-	-	-	0:33:16.186000	0:33:16.539000
 nicht	nicht	PART	-	0:33:16.186000	0:33:16.539000
 .	-	-	-	0:33:16.186000	0:33:16.539000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:33:16.186000" end="0:33:16.539000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:33:16.186000" end="0:33:16.539000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 spreche	sprechen	VERB	-	0:33:16.186000	0:33:16.539000
 .	-	-	-	0:33:16.186000	0:33:16.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:33:16.539000" end="0:33:18.699000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:16.539000" end="0:33:18.699000" persName="Informant EXP11" age_lower="" age_upper="999">
 aber	-	-	-	0:33:16.539000	0:33:18.126000
 Sie	-	-	-	0:33:16.539000	0:33:18.126000
 *merkens*	-	-	-	0:33:16.539000	0:33:18.126000
@@ -7425,11 +7425,11 @@ jeden	-	-	-	0:33:18.126000	0:33:18.699000
 Fall	-	-	-	0:33:18.126000	0:33:18.699000
 .	-	-	-	0:33:18.126000	0:33:18.699000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:33:18.126000" end="0:33:18.699000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:33:18.126000" end="0:33:18.699000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:18.126000	0:33:18.699000
 .	-	-	-	0:33:18.126000	0:33:18.699000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:33:18.699000" end="0:33:38.006000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:18.699000" end="0:33:38.006000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:33:18.699000	0:33:22.952000
 <pause duration="2,4s"/>
 wenn	wenn	SCONJ	-	0:33:18.699000	0:33:22.952000
@@ -7493,14 +7493,14 @@ in	in	ADP	-	0:33:32.686000	0:33:38.006000
 Österreich	Österreich	PROPN	-	0:33:32.686000	0:33:38.006000
 ?	-	-	-	0:33:32.686000	0:33:38.006000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:33:38.006000" end="0:33:41.072000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:33:38.006000" end="0:33:41.072000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 mit	mit	ADP	-	0:33:38.006000	0:33:41.072000
 Sicherheit	Sicherheit	NOUN	-	0:33:38.006000	0:33:41.072000
 auch	auch	ADV	-	0:33:38.006000	0:33:41.072000
 .	-	-	-	0:33:38.006000	0:33:41.072000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:33:41.072000" end="0:33:53.006000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:41.072000" end="0:33:53.006000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:33:41.072000	0:33:45.106000
 .	-	-	-	0:33:41.072000	0:33:45.106000
 <pause duration="0,6s"/>
@@ -7551,7 +7551,7 @@ auf	auf	ADP	-	0:33:46.899000	0:33:53.006000
 gehabt	haben	AUX	-	0:33:46.899000	0:33:53.006000
 ?	-	-	-	0:33:46.899000	0:33:53.006000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:33:53.006000" end="0:34:06.526000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:33:53.006000" end="0:34:06.526000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 nein	nein	PART	-	0:33:53.006000	0:33:55.846000
 ,	-	-	-	0:33:53.006000	0:33:55.846000
@@ -7598,7 +7598,7 @@ nicht	nicht	PART	-	0:34:05.759000	0:34:06.526000
 sein	mein	AUX	-	0:34:05.759000	0:34:06.526000
 .	-	-	-	0:34:05.759000	0:34:06.526000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:34:06.526000" end="0:34:14.786000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:06.526000" end="0:34:14.786000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:34:06.526000	0:34:09.891000
 <pause duration="1,2s"/>
 das	der	PRON	-	0:34:06.526000	0:34:09.891000
@@ -7633,7 +7633,7 @@ ja	ja	PART	-	0:34:12.966000	0:34:14.786000
 okay	okay	NOUN	-	0:34:12.966000	0:34:14.786000
 .	-	-	-	0:34:12.966000	0:34:14.786000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:34:12.966000" end="0:34:16.485000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:34:12.966000" end="0:34:16.485000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:34:12.966000	0:34:14.786000
 weiß	weiß	VERB	-	0:34:12.966000	0:34:14.786000
 jetzt	jetzt	ADV	-	0:34:12.966000	0:34:14.786000
@@ -7652,7 +7652,7 @@ was	-	-	-	0:34:14.786000	0:34:16.485000
 gibt	-	-	-	0:34:14.786000	0:34:16.485000
 .	-	-	-	0:34:14.786000	0:34:16.485000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:34:16.485000" end="0:34:20.626000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:16.485000" end="0:34:20.626000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 alles	alle	PRON	-	0:34:16.485000	0:34:20.626000
 klar	klaren	ADJ	-	0:34:16.485000	0:34:20.626000
@@ -7666,48 +7666,48 @@ oder	oder	CCONJ	-	0:34:16.485000	0:34:20.626000
 Lieblingssendung	Lieblingssendung	NOUN	-	0:34:16.485000	0:34:20.626000
 ?	-	-	-	0:34:16.485000	0:34:20.626000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:34:20.626000" end="0:34:22.406000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:34:20.626000" end="0:34:22.406000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:34:20.626000	0:34:22.406000
 *müsste*	-	-	-	0:34:20.626000	0:34:22.406000
 kurz	-	-	-	0:34:20.626000	0:34:22.406000
 unterbrechen	-	-	-	0:34:20.626000	0:34:22.406000
 .	-	-	-	0:34:20.626000	0:34:22.406000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:34:22.406000" end="0:34:22.998000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:22.406000" end="0:34:22.998000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:34:22.406000	0:34:22.998000
 ,	-	-	-	0:34:22.406000	0:34:22.998000
 gerne	gerne	ADV	-	0:34:22.406000	0:34:22.998000
 .	-	-	-	0:34:22.406000	0:34:22.998000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:34:22.998000" end="0:34:23.779000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:34:22.998000" end="0:34:23.779000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 WC	-	-	-	0:34:22.998000	0:34:23.779000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:34:23.779000" end="0:34:24.692000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:23.779000" end="0:34:24.692000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	PART	-	0:34:23.779000	0:34:24.692000
 ,	-	-	-	0:34:23.779000	0:34:24.692000
 passt	passt	PROPN	-	0:34:23.779000	0:34:24.692000
 .	-	-	-	0:34:23.779000	0:34:24.692000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:34:23.779000" end="0:34:24.692000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:34:23.779000" end="0:34:24.692000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 *müsste*	-	-	-	0:34:23.779000	0:34:24.692000
 ich	-	-	-	0:34:23.779000	0:34:24.692000
 kurz	-	-	-	0:34:23.779000	0:34:24.692000
 .	-	-	-	0:34:23.779000	0:34:24.692000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:34:24.692000" end="0:36:08.106000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:24.692000" end="0:36:08.106000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 bitte	bitte	PART	-	0:34:24.692000	0:34:25.952000
 .	-	-	-	0:34:24.692000	0:34:25.952000
 <pause duration="102s"/>
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:34:25.952000" end="0:36:08.899000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:34:25.952000" end="0:36:08.899000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="102s"/>
 geht	-	-	-	0:36:08.106000	0:36:08.899000
 wieder	-	-	-	0:36:08.106000	0:36:08.899000
 weiter	-	-	-	0:36:08.106000	0:36:08.899000
 .	-	-	-	0:36:08.106000	0:36:08.899000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:36:08.899000" end="0:36:15.212000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:08.899000" end="0:36:15.212000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 jawohl	-	-	-	0:36:08.899000	0:36:13.412000
 <pause duration="0,7s"/>
@@ -7731,7 +7731,7 @@ neuesten	neuesten	ADJ	-	0:36:13.412000	0:36:15.212000
 Nachrichten	Nachricht	NOUN	-	0:36:13.412000	0:36:15.212000
 ?	-	-	-	0:36:13.412000	0:36:15.212000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:36:15.212000" end="0:36:30.006000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:36:15.212000" end="0:36:30.006000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 Standard	Standard	NOUN	-	0:36:15.212000	0:36:21.739000
 und	und	CCONJ	-	0:36:15.212000	0:36:21.739000
@@ -7771,7 +7771,7 @@ ist	-	-	-	0:36:27.186000	0:36:29.512000
 viel	-	-	-	0:36:29.512000	0:36:30.006000
 .	-	-	-	0:36:29.512000	0:36:30.006000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:36:30.006000" end="0:36:35.646000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:30.006000" end="0:36:35.646000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:36:30.006000	0:36:35.646000
 .	-	-	-	0:36:30.006000	0:36:35.646000
@@ -7788,17 +7788,17 @@ regelmäßig	regelmäßig	ADJ	-	0:36:30.006000	0:36:35.646000
 online	online	ADV	-	0:36:30.006000	0:36:35.646000
 ?	-	-	-	0:36:30.006000	0:36:35.646000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:36:35.646000" end="0:36:36.132000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:36:35.646000" end="0:36:36.132000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:35.646000	0:36:36.132000
 .	-	-	-	0:36:35.646000	0:36:36.132000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:36:36.132000" end="0:36:37.106000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:36.132000" end="0:36:37.106000" persName="Informant EXP11" age_lower="" age_upper="999">
 warum	warum	ADV	-	0:36:36.132000	0:36:37.106000
 gerade	gerade	ADV	-	0:36:36.132000	0:36:37.106000
 die	der	PRON	-	0:36:36.132000	0:36:37.106000
 ?	-	-	-	0:36:36.132000	0:36:37.106000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:36:37.106000" end="0:36:52.866000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:36:37.106000" end="0:36:52.866000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 hm	hm	X	-	0:36:37.106000	0:36:42.472000
 .	-	-	-	0:36:37.106000	0:36:42.472000
@@ -7830,11 +7830,11 @@ lesen	lesen	VERB	-	0:36:45.559000	0:36:52.866000
 will	wollen	VERB	-	0:36:45.559000	0:36:52.866000
 .	-	-	-	0:36:45.559000	0:36:52.866000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:36:52.866000" end="0:36:53.372000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:52.866000" end="0:36:53.372000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:36:52.866000	0:36:53.372000
 .	-	-	-	0:36:52.866000	0:36:53.372000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:36:53.372000" end="0:37:05.639000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:36:53.372000" end="0:37:05.639000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ähm	ähm	X	-	0:36:53.372000	0:37:00.219000
 <pause duration="3,0s"/>
@@ -7879,12 +7879,12 @@ immer	immer	ADV	-	0:37:03.086000	0:37:05.639000
 an	an	ADP	-	0:37:03.086000	0:37:05.639000
 .	-	-	-	0:37:03.086000	0:37:05.639000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:05.639000" end="0:37:06.672000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:05.639000" end="0:37:06.672000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:37:05.639000	0:37:06.672000
 .	-	-	-	0:37:05.639000	0:37:06.672000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:06.672000" end="0:37:10.186000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:06.672000" end="0:37:10.186000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nein	nein	PART	-	0:37:06.672000	0:37:10.186000
 ,	-	-	-	0:37:06.672000	0:37:10.186000
@@ -7902,7 +7902,7 @@ die	der	DET	-	0:37:06.672000	0:37:10.186000
 zwei	zwei	NUM	-	0:37:06.672000	0:37:10.186000
 .	-	-	-	0:37:06.672000	0:37:10.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:10.186000" end="0:37:13.872000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:10.186000" end="0:37:13.872000" persName="Informant EXP11" age_lower="" age_upper="999">
 passt	passt	PROPN	-	0:37:10.186000	0:37:12.372000
 .	-	-	-	0:37:10.186000	0:37:12.372000
 <pause duration="1,7s"/>
@@ -7919,7 +7919,7 @@ Freizeitgestaltung	Freizeitgestaltung	NOUN	-	0:37:12.372000	0:37:13.872000
 aus	aus	ADP	-	0:37:12.372000	0:37:13.872000
 ?	-	-	-	0:37:12.372000	0:37:13.872000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:13.872000" end="0:37:20.086000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:13.872000" end="0:37:20.086000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	0:37:13.872000	0:37:20.086000
 .	-	-	-	0:37:13.872000	0:37:20.086000
 <pause duration="2,0s"/>
@@ -7931,11 +7931,11 @@ Volkstanzen	Volkstanzen	NOUN	-	0:37:13.872000	0:37:20.086000
 _Schuhplatteln_	-	-	-	0:37:13.872000	0:37:20.086000
 .	-	-	-	0:37:13.872000	0:37:20.086000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:20.086000" end="0:37:20.619000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:20.086000" end="0:37:20.619000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:37:20.086000	0:37:20.619000
 .	-	-	-	0:37:20.086000	0:37:20.619000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:20.619000" end="0:37:22.346000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:20.619000" end="0:37:22.346000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:37:20.619000	0:37:22.346000
 bin	sein	AUX	-	0:37:20.619000	0:37:22.346000
 ich	ich	PRON	-	0:37:20.619000	0:37:22.346000
@@ -7946,7 +7946,7 @@ der	der	DET	-	0:37:20.619000	0:37:22.346000
 SONSTIGE	SONSTIGE	NOUN	-	0:37:20.619000	0:37:22.346000
 .	-	-	-	0:37:20.619000	0:37:22.346000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:22.346000" end="0:37:24.346000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:22.346000" end="0:37:24.346000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 ist	sein	AUX	-	0:37:22.346000	0:37:24.346000
 der	der	DET	-	0:37:22.346000	0:37:24.346000
@@ -7955,14 +7955,14 @@ in	in	ADP	-	0:37:22.346000	0:37:24.346000
 [Taufkirchen]O	Taufkirchen	NOUN	-	0:37:22.346000	0:37:24.346000
 ?	-	-	-	0:37:22.346000	0:37:24.346000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:24.346000" end="0:37:24.926000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:24.346000" end="0:37:24.926000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 NAME	NAME	ADJ	-	0:37:24.346000	0:37:24.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:24.926000" end="0:37:25.592000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:24.926000" end="0:37:25.592000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:37:24.926000	0:37:25.592000
 .	-	-	-	0:37:24.926000	0:37:25.592000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:25.592000" end="0:37:31.686000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:25.592000" end="0:37:31.686000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Nachbargemeinde	Nachbargemeinde	NOUN	-	0:37:25.592000	0:37:26.359000
 .	-	-	-	0:37:25.592000	0:37:26.359000
 <pause duration="1,8s"/>
@@ -7974,11 +7974,11 @@ _Maibaum__	-	-	-	0:37:26.359000	0:37:31.686000
 __kraxeln_	-	-	-	0:37:26.359000	0:37:31.686000
 ,	-	-	-	0:37:26.359000	0:37:31.686000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:31.686000" end="0:37:33.426000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:31.686000" end="0:37:33.426000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:37:31.686000	0:37:33.426000
 .	-	-	-	0:37:31.686000	0:37:33.426000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:37:31.686000" end="0:37:56.586000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:37:31.686000" end="0:37:56.586000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 NAME	NAME	-	-	0:37:31.686000	0:37:33.426000
 <pause duration="1,3s"/>
@@ -8027,7 +8027,7 @@ SONSTIGE	SONSTIGE	NOUN	-	0:37:44.739000	0:37:56.586000
 halt	halt	ADV	-	0:37:44.739000	0:37:56.586000
 .	-	-	-	0:37:44.739000	0:37:56.586000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:37:56.586000" end="0:38:01.672000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:56.586000" end="0:38:01.672000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 die	der	DET	-	0:37:56.586000	0:37:58.386000
 nächste	nächst	ADJ	-	0:37:56.586000	0:37:58.386000
@@ -8048,20 +8048,20 @@ da	da	ADV	-	0:38:00.572000	0:38:01.206000
 haben	haben	AUX	-	0:38:01.206000	0:38:01.672000
 Sie	ich	PRON	-	0:38:01.206000	0:38:01.672000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:01.206000" end="0:38:02.739000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:01.206000" end="0:38:02.739000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:38:01.206000	0:38:01.672000
 sind	sein	AUX	-	0:38:01.206000	0:38:01.672000
 meine	meinen	DET	-	0:38:01.672000	0:38:02.739000
 Freizeitaktivitäten	Freizeitaktivitäten	NOUN	-	0:38:01.672000	0:38:02.739000
 .	-	-	-	0:38:01.672000	0:38:02.739000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:02.739000" end="0:38:03.192000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:02.739000" end="0:38:03.192000" persName="Informant EXP11" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:38:02.739000	0:38:03.192000
 ,	-	-	-	0:38:02.739000	0:38:03.192000
 gut	gut	ADJ	-	0:38:02.739000	0:38:03.192000
 .	-	-	-	0:38:02.739000	0:38:03.192000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:03.192000" end="0:38:10.992000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:03.192000" end="0:38:10.992000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 also	also	ADV	-	0:38:03.192000	0:38:08.592000
 freizeitmäßig	freizeitmäßig	ADJ	-	0:38:03.192000	0:38:08.592000
@@ -8083,17 +8083,17 @@ ziemlich	ziemlich	ADV	-	0:38:08.592000	0:38:10.992000
 ausgelastet	auslasten	VERB	-	0:38:08.592000	0:38:10.992000
 bin	sein	AUX	-	0:38:08.592000	0:38:10.992000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:10.992000" end="0:38:11.726000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:10.992000" end="0:38:11.726000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:38:10.992000	0:38:11.726000
 .	-	-	-	0:38:10.992000	0:38:11.726000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:10.992000" end="0:38:11.726000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:10.992000" end="0:38:11.726000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:38:10.992000	0:38:11.726000
 die	der	DET	-	0:38:10.992000	0:38:11.726000
 Sachen	Sache	NOUN	-	0:38:10.992000	0:38:11.726000
 .	-	-	-	0:38:10.992000	0:38:11.726000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:11.726000" end="0:38:14.179000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:11.726000" end="0:38:14.179000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:38:11.726000	0:38:14.179000
 Sport	Sport	NOUN	-	0:38:11.726000	0:38:14.179000
@@ -8102,7 +8102,7 @@ _Maibaum__	-	-	-	0:38:11.726000	0:38:14.179000
 __kraxeln_	-	-	-	0:38:11.726000	0:38:14.179000
 ?	-	-	-	0:38:11.726000	0:38:14.179000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:14.179000" end="0:38:21.532000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:14.179000" end="0:38:21.532000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	X	-	0:38:14.179000	0:38:21.532000
 ich	ich	PRON	-	0:38:14.179000	0:38:21.532000
@@ -8124,7 +8124,7 @@ Sachen	Sache	NOUN	-	0:38:14.179000	0:38:21.532000
 ja	ja	PART	-	0:38:14.179000	0:38:21.532000
 .	-	-	-	0:38:14.179000	0:38:21.532000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:21.532000" end="0:38:27.699000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:21.532000" end="0:38:27.699000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:38:21.532000	0:38:27.006000
 ,	-	-	-	0:38:21.532000	0:38:27.006000
 wunderbar	wunderbar	ADJ	-	0:38:21.532000	0:38:27.006000
@@ -8146,12 +8146,12 @@ Bekannten	bekennen	NOUN	-	0:38:21.532000	0:38:27.006000
 <pause duration="0,5s"/>
 schon	schon	ADV	-	0:38:27.006000	0:38:27.699000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:27.006000" end="0:38:27.699000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:27.006000" end="0:38:27.699000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:38:27.006000	0:38:27.699000
 .	-	-	-	0:38:27.006000	0:38:27.699000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:27.699000" end="0:38:32.912000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:27.699000" end="0:38:32.912000" persName="Informant EXP11" age_lower="" age_upper="999">
 zwangsweise	zwangsweise	ADV	-	0:38:27.699000	0:38:30.126000
 durch	durch	ADP	-	0:38:27.699000	0:38:30.126000
 die	der	DET	-	0:38:27.699000	0:38:30.126000
@@ -8173,7 +8173,7 @@ alles	alle	PRON	-	0:38:32.146000	0:38:32.912000
 ab	ab	ADP	-	0:38:32.146000	0:38:32.912000
 ?	-	-	-	0:38:32.146000	0:38:32.912000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:32.146000" end="0:38:38.326000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:32.146000" end="0:38:38.326000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:32.146000	0:38:32.912000
 ,	-	-	-	0:38:32.146000	0:38:32.912000
 Landjugend	Landjugend	ADJ	-	0:38:32.146000	0:38:32.912000
@@ -8203,12 +8203,12 @@ jetzt	jetzt	ADV	-	0:38:33.926000	0:38:38.326000
 einmal	einmal	ADV	-	0:38:33.926000	0:38:38.326000
 .	-	-	-	0:38:33.926000	0:38:38.326000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:38.326000" end="0:38:39.352000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:38.326000" end="0:38:39.352000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 okay	okay	NOUN	-	0:38:38.326000	0:38:39.352000
 .	-	-	-	0:38:38.326000	0:38:39.352000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:39.352000" end="0:38:47.312000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:39.352000" end="0:38:47.312000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 fast	fast	ADV	-	0:38:39.352000	0:38:47.312000
 jeden	jed	DET	-	0:38:39.352000	0:38:47.312000
@@ -8235,13 +8235,13 @@ Zeit	Zeit	NOUN	-	0:38:39.352000	0:38:47.312000
 habe	habe	AUX	-	0:38:39.352000	0:38:47.312000
 .	-	-	-	0:38:39.352000	0:38:47.312000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:47.312000" end="0:38:48.639000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:47.312000" end="0:38:48.639000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 alles	alle	PRON	-	0:38:47.312000	0:38:48.639000
 klar	klaren	ADJ	-	0:38:47.312000	0:38:48.639000
 .	-	-	-	0:38:47.312000	0:38:48.639000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:47.312000" end="0:38:49.199000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:47.312000" end="0:38:49.199000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 sonst	sonst	ADV	-	0:38:47.312000	0:38:48.639000
 immer	immer	ADV	-	0:38:47.312000	0:38:48.639000
@@ -8249,7 +8249,7 @@ mit	mit	ADP	-	0:38:48.639000	0:38:49.199000
 Vereine	Verein	NOUN	-	0:38:48.639000	0:38:49.199000
 .	-	-	-	0:38:48.639000	0:38:49.199000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:38:49.199000" end="0:39:00.546000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:49.199000" end="0:39:00.546000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 okay	okay	NOUN	-	0:38:49.199000	0:38:54.066000
 ,	-	-	-	0:38:49.199000	0:38:54.066000
@@ -8286,11 +8286,11 @@ wahrschei/	-	-	-	0:38:59.672000	0:39:00.546000
 oder	oder	CCONJ	-	0:38:59.672000	0:39:00.546000
 ähm	ähm	VERB	-	0:38:59.672000	0:39:00.546000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:38:59.672000" end="0:39:00.546000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:38:59.672000" end="0:39:00.546000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:38:59.672000	0:39:00.546000
 .	-	-	-	0:38:59.672000	0:39:00.546000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:00.546000" end="0:39:02.799000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:00.546000" end="0:39:02.799000" persName="Informant EXP11" age_lower="" age_upper="999">
 die	der	PRON	-	0:39:00.546000	0:39:01.926000
 jetzt	jetzt	ADV	-	0:39:00.546000	0:39:01.926000
 nicht	nicht	PART	-	0:39:00.546000	0:39:01.926000
@@ -8306,7 +8306,7 @@ wir	ich	PRON	-	0:39:01.926000	0:39:02.799000
 so	so	ADV	-	0:39:01.926000	0:39:02.799000
 .	-	-	-	0:39:01.926000	0:39:02.799000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:01.926000" end="0:39:31.826000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:01.926000" end="0:39:31.826000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:01.926000	0:39:02.799000
 .	-	-	-	0:39:01.926000	0:39:02.799000
 ähm	ähm	X	-	0:39:02.799000	0:39:06.952000
@@ -8395,7 +8395,7 @@ niemand	niemand	PRON	-	0:39:24.312000	0:39:31.826000
 ein	einen	ADP	-	0:39:24.312000	0:39:31.826000
 .	-	-	-	0:39:24.312000	0:39:31.826000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:31.826000" end="0:39:34.552000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:31.826000" end="0:39:34.552000" persName="Informant EXP11" age_lower="" age_upper="999">
 alles	alle	PRON	-	0:39:31.826000	0:39:34.552000
 klar	klaren	ADJ	-	0:39:31.826000	0:39:34.552000
 .	-	-	-	0:39:31.826000	0:39:34.552000
@@ -8412,12 +8412,12 @@ ich	ich	PRON	-	0:39:31.826000	0:39:34.552000
 an	an	ADP	-	0:39:31.826000	0:39:34.552000
 ?	-	-	-	0:39:31.826000	0:39:34.552000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:34.552000" end="0:39:35.832000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:34.552000" end="0:39:35.832000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:39:34.552000	0:39:35.832000
 .	-	-	-	0:39:34.552000	0:39:35.832000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:35.832000" end="0:39:39.412000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:35.832000" end="0:39:39.412000" persName="Informant EXP11" age_lower="" age_upper="999">
 gut	gut	ADJ	-	0:39:35.832000	0:39:39.412000
 .	-	-	-	0:39:35.832000	0:39:39.412000
 <pause duration="1,8s"/>
@@ -8430,7 +8430,7 @@ in	in	ADP	-	0:39:35.832000	0:39:39.412000
 ORT	ORT	PROPN	-	0:39:35.832000	0:39:39.412000
 ?	-	-	-	0:39:35.832000	0:39:39.412000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:39.412000" end="0:39:40.999000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:39.412000" end="0:39:40.999000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mh	mh	X	-	0:39:39.412000	0:39:40.999000
 nein	nein	PART	-	0:39:39.412000	0:39:40.999000
@@ -8440,7 +8440,7 @@ paar	paar	DET	-	0:39:39.412000	0:39:40.999000
 Monate	Monat	NOUN	-	0:39:39.412000	0:39:40.999000
 .	-	-	-	0:39:39.412000	0:39:40.999000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:40.999000" end="0:39:42.999000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:40.999000" end="0:39:42.999000" persName="Informant EXP11" age_lower="" age_upper="999">
 ein	einen	DET	-	0:39:40.999000	0:39:42.999000
 paar	paar	DET	-	0:39:40.999000	0:39:42.999000
 Monate	Monat	NOUN	-	0:39:40.999000	0:39:42.999000
@@ -8453,7 +8453,7 @@ allgemein	allgemein	ADJ	-	0:39:40.999000	0:39:42.999000
 gern	gern	ADV	-	0:39:40.999000	0:39:42.999000
 ?	-	-	-	0:39:40.999000	0:39:42.999000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:42.999000" end="0:39:45.972000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:42.999000" end="0:39:45.972000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 *wenns*	-	-	-	0:39:42.999000	0:39:45.972000
 die	-	-	-	0:39:42.999000	0:39:45.972000
@@ -8463,18 +8463,18 @@ erlaubt	-	-	-	0:39:42.999000	0:39:45.972000
 schon	schon	ADV	-	0:39:42.999000	0:39:45.972000
 .	-	-	-	0:39:42.999000	0:39:45.972000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:45.972000" end="0:39:47.766000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:45.972000" end="0:39:47.766000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:39:45.972000	0:39:46.252000
 .	-	-	-	0:39:45.972000	0:39:46.252000
 <pause duration="1,8s"/>
 *gibts*	-	-	-	0:39:46.252000	0:39:47.766000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:46.252000" end="0:39:47.766000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:46.252000" end="0:39:47.766000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	ja	PART	-	0:39:46.252000	0:39:47.766000
 .	-	-	-	0:39:46.252000	0:39:47.766000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:47.766000" end="0:39:51.666000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:47.766000" end="0:39:51.666000" persName="Informant EXP11" age_lower="" age_upper="999">
 irgendwelche	-	-	-	0:39:47.766000	0:39:50.659000
 wiederkehrenden	-	-	-	0:39:47.766000	0:39:50.659000
 Ziele	-	-	-	0:39:47.766000	0:39:50.659000
@@ -8488,7 +8488,7 @@ und	-	-	-	0:39:47.766000	0:39:50.659000
 unterschiedlich	-	-	-	0:39:50.659000	0:39:51.666000
 ?	-	-	-	0:39:50.659000	0:39:51.666000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:50.659000" end="0:39:55.606000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:50.659000" end="0:39:55.606000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 wiederkehrend	wiederkehren	ADJ	-	0:39:50.659000	0:39:51.666000
 eigentlich	eigentlich	ADV	-	0:39:51.666000	0:39:52.419000
 mag	mögen	VERB	-	0:39:51.666000	0:39:52.419000
@@ -8516,7 +8516,7 @@ Sachen	Sache	NOUN	-	0:39:54.472000	0:39:55.606000
 sehen	sehen	VERB	-	0:39:54.472000	0:39:55.606000
 .	-	-	-	0:39:54.472000	0:39:55.606000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:55.606000" end="0:39:58.446000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:55.606000" end="0:39:58.446000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 gut	gut	ADJ	-	0:39:55.606000	0:39:58.446000
 .	-	-	-	0:39:55.606000	0:39:58.446000
@@ -8528,12 +8528,12 @@ in	in	ADP	-	0:39:55.606000	0:39:58.446000
 [Taufkirchen]O	Taufkirchen	NOUN	-	0:39:55.606000	0:39:58.446000
 ?	-	-	-	0:39:55.606000	0:39:58.446000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:39:58.446000" end="0:39:59.026000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:39:58.446000" end="0:39:59.026000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:39:58.446000	0:39:59.026000
 .	-	-	-	0:39:58.446000	0:39:59.026000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:39:59.026000" end="0:40:01.292000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:59.026000" end="0:40:01.292000" persName="Informant EXP11" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:39:59.026000	0:40:01.292000
 .	-	-	-	0:39:59.026000	0:40:01.292000
 <pause duration="0,7s"/>
@@ -8545,7 +8545,7 @@ besonders	besonders	ADV	-	0:39:59.026000	0:40:01.292000
 schön	schön	ADJ	-	0:39:59.026000	0:40:01.292000
 ?	-	-	-	0:39:59.026000	0:40:01.292000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:01.292000" end="0:40:15.719000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:01.292000" end="0:40:15.719000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,6s"/>
 bin	sein	AUX	-	0:40:01.292000	0:40:05.852000
 einfach	einfach	ADV	-	0:40:01.292000	0:40:05.852000
@@ -8585,7 +8585,7 @@ gut	-	-	-	0:40:12.066000	0:40:15.719000
 da	-	-	-	0:40:12.066000	0:40:15.719000
 .	-	-	-	0:40:12.066000	0:40:15.719000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:15.719000" end="0:40:23.032000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:15.719000" end="0:40:23.032000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 alles	alle	PRON	-	0:40:15.719000	0:40:23.032000
 klar	klaren	ADJ	-	0:40:15.719000	0:40:23.032000
@@ -8606,7 +8606,7 @@ aus	aus	ADP	-	0:40:15.719000	0:40:23.032000
 wegzuziehen	wegziehen	VERB	-	0:40:15.719000	0:40:23.032000
 ?	-	-	-	0:40:15.719000	0:40:23.032000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:23.032000" end="0:40:28.599000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:23.032000" end="0:40:28.599000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 wenn	wenn	SCONJ	-	0:40:23.032000	0:40:28.599000
 ich	ich	PRON	-	0:40:23.032000	0:40:28.599000
@@ -8621,12 +8621,12 @@ Landwirtschaft	Landwirtschaft	NOUN	-	0:40:23.032000	0:40:28.599000
 vielleicht	vielleicht	ADV	-	0:40:23.032000	0:40:28.599000
 .	-	-	-	0:40:23.032000	0:40:28.599000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:28.599000" end="0:40:29.432000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:28.599000" end="0:40:29.432000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:40:28.599000	0:40:29.432000
 .	-	-	-	0:40:28.599000	0:40:29.432000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:29.432000" end="0:40:34.272000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:29.432000" end="0:40:34.272000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:40:29.432000	0:40:34.272000
 <pause duration="0,5s"/>
 demnach	demnach	ADV	-	0:40:29.432000	0:40:34.272000
@@ -8644,7 +8644,7 @@ für	für	ADP	-	0:40:29.432000	0:40:34.272000
 mich	sich	PRON	-	0:40:29.432000	0:40:34.272000
 .	-	-	-	0:40:29.432000	0:40:34.272000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:34.272000" end="0:40:39.226000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:34.272000" end="0:40:39.226000" persName="Informant EXP11" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:34.272000	0:40:38.192000
 .	-	-	-	0:40:34.272000	0:40:38.192000
 <pause duration="0,6s"/>
@@ -8666,7 +8666,7 @@ nötig	-	-	-	0:40:38.192000	0:40:39.226000
 ist	-	-	-	0:40:38.192000	0:40:39.226000
 ?	-	-	-	0:40:38.192000	0:40:39.226000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:39.226000" end="0:40:45.946000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:39.226000" end="0:40:45.946000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 ja	ja	PART	-	0:40:39.226000	0:40:45.706000
 ,	-	-	-	0:40:39.226000	0:40:45.706000
@@ -8685,7 +8685,7 @@ alles	alle	PRON	-	0:40:39.226000	0:40:45.706000
 ,	-	-	-	0:40:39.226000	0:40:45.706000
 also	also	ADV	-	0:40:45.706000	0:40:45.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:45.946000" end="0:40:47.532000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:45.946000" end="0:40:47.532000" persName="Informant EXP11" age_lower="" age_upper="999">
 aber	aber	CCONJ	-	0:40:45.946000	0:40:47.532000
 Sie	ich	PRON	-	0:40:45.946000	0:40:47.532000
 sind	sein	AUX	-	0:40:45.946000	0:40:47.532000
@@ -8697,12 +8697,12 @@ so	-	-	-	0:40:45.946000	0:40:47.532000
 ist	-	-	-	0:40:45.946000	0:40:47.532000
 ?	-	-	-	0:40:45.946000	0:40:47.532000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:47.532000" end="0:40:48.386000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:47.532000" end="0:40:48.386000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:40:47.532000	0:40:48.386000
 .	-	-	-	0:40:47.532000	0:40:48.386000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:48.386000" end="0:40:57.792000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:48.386000" end="0:40:57.792000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 gut	gut	ADJ	-	0:40:48.386000	0:40:54.366000
 .	-	-	-	0:40:48.386000	0:40:54.366000
@@ -8742,7 +8742,7 @@ alles	alle	PRON	-	0:40:56.326000	0:40:57.792000
 abgedeckt	abdecken	VERB	-	0:40:56.326000	0:40:57.792000
 ?	-	-	-	0:40:56.326000	0:40:57.792000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:40:57.792000" end="0:40:59.712000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:40:57.792000" end="0:40:59.712000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mir	sich	PRON	-	0:40:57.792000	0:40:59.712000
 fällt	fällen	VERB	-	0:40:57.792000	0:40:59.712000
@@ -8753,7 +8753,7 @@ nichts	nichts	PRON	-	0:40:57.792000	0:40:59.712000
 ein	einen	ADP	-	0:40:57.792000	0:40:59.712000
 .	-	-	-	0:40:57.792000	0:40:59.712000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:40:59.712000" end="0:41:02.819000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:40:59.712000" end="0:41:02.819000" persName="Informant EXP11" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 wunderbar	wunderbar	ADJ	-	0:40:59.712000	0:41:02.819000
 .	-	-	-	0:40:59.712000	0:41:02.819000
@@ -8766,12 +8766,12 @@ dem	-	-	-	0:40:59.712000	0:41:02.819000
 Interview	-	-	-	0:40:59.712000	0:41:02.819000
 ?	-	-	-	0:40:59.712000	0:41:02.819000
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:41:02.819000" end="0:41:04.172000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:41:02.819000" end="0:41:04.172000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 nein	nein	PART	-	0:41:02.819000	0:41:04.172000
 .	-	-	-	0:41:02.819000	0:41:04.172000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:41:04.172000" end="0:41:17.519000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:41:04.172000" end="0:41:17.519000" persName="Informant EXP11" age_lower="" age_upper="999">
 dann	dann	ADV	-	0:41:04.172000	0:41:06.219000
 wären	sein	AUX	-	0:41:04.172000	0:41:06.219000
 wir	ich	PRON	-	0:41:04.172000	0:41:06.219000
@@ -8784,7 +8784,7 @@ dankeschön	dankeschön	ADJ	-	0:41:04.172000	0:41:06.219000
 .	-	-	-	0:41:04.172000	0:41:06.219000
 <pause duration="11,3s"/>
 </u>
-<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" start="0:41:06.219000" end="0:41:17.519000" persName="Informant 0474">
+<u who="spk_140" sex="male" age="jung (18-35) +matura" name="Informant 0474" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:41:06.219000" end="0:41:17.519000" persName="Informant 0474" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 <pause duration="11,3s"/>
 </u>
 </file>

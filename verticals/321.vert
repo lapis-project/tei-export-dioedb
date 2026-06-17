@@ -1,6 +1,6 @@
 <doc id="transcript_321" name="0331_OBER_jungI_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="321.xml" title="Transcript: Transcript_321">
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" start="0:00:44.326000" end="0:01:39.066000" persName="Informant 0331">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:44.326000" end="0:01:39.066000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:44.326000	0:00:46.646000
 und	-	-	-	0:00:44.326000	0:00:46.646000
 Sonne	-	-	-	0:00:44.326000	0:00:46.646000
@@ -131,10 +131,10 @@ Stärkere	-	-	-	0:01:36.346000	0:01:39.066000
 war	-	-	-	0:01:36.346000	0:01:39.066000
 .	-	-	-	0:01:36.346000	0:01:39.066000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:39.066000" end="0:01:41.066000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:39.066000" end="0:01:41.066000" persName="Informant EXP4" age_lower="" age_upper="999">
 XXX	-	-	-	0:01:39.066000	0:01:41.066000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" start="0:01:39.066000" end="0:01:41.066000" persName="Informant 0331">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:39.066000" end="0:01:41.066000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:39.066000	0:01:41.066000
 </u>
 </file>

@@ -1,12 +1,12 @@
-<doc id="transcript_480" name="0051_ALLE_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen" ort_namekurz="ALLE" ort_namelang="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132">
+<doc id="transcript_480" name="0051_ALLE_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="480.xml" title="Transcript: Transcript_480">
-<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" start="0:00:15.626000" end="0:00:16.973000" persName="Informant 0051">
+<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:15.626000" end="0:00:16.973000" persName="Informant 0051" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:15.626000	0:00:16.973000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:15.626000" end="0:00:16.973000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:15.626000" end="0:00:16.973000" persName="Informant EXP11" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:15.626000	0:00:16.973000
 </u>
-<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" start="0:00:15.626000" end="0:00:54.460000" persName="Informant 0051">
+<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:15.626000" end="0:00:54.460000" persName="Informant 0051" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:15.626000	0:00:16.973000
 Sonne	-	-	-	0:00:15.626000	0:00:16.973000
 .	-	-	-	0:00:15.626000	0:00:16.973000
@@ -137,10 +137,10 @@ der	-	-	-	0:00:52.320000	0:00:54.460000
 Stärkere	-	-	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:00:52.320000	0:00:54.460000
 war	-	-	-	0:00:52.320000	0:00:54.460000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:54.460000" end="0:00:55.580000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:54.460000" end="0:00:55.580000" persName="Informant EXP11" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:54.460000	0:00:55.580000
 </u>
-<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" start="0:00:54.460000" end="0:00:55.580000" persName="Informant 0051">
+<u who="spk_81" sex="male" age="jung (18-35) +matura" name="Informant 0051" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:54.460000" end="0:00:55.580000" persName="Informant 0051" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
 XXX	-	-	-	0:00:54.460000	0:00:55.580000
 </u>
 </file>

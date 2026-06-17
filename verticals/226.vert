@@ -1,6 +1,6 @@
 <doc id="transcript_226" name="0210_NMYB_alt_m_LESN_Vers6" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="226.xml" title="Transcript: Transcript_226">
-<u who="spk_48" sex="male" age="Alt (65+)" name="Informant 0210" start="0:00:00" end="0:01:34.039000" persName="Informant 0210">
+<u who="spk_48" sex="male" age="Alt (65+)" name="Informant 0210" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:00" end="0:01:34.039000" persName="Informant 0210" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 XXX	XXX	PROPN	-	0:00:00	0:00:40.997000
 Nordwind	Nordwind	NOUN	-	0:00:40.997000	0:00:43.736000
 und	und	CCONJ	-	0:00:40.997000	0:00:43.736000

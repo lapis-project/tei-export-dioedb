@@ -1,6 +1,6 @@
-<doc id="transcript_720" name="0507_RAGG_jungII_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview" ort_namekurz="RAGG" ort_namelang="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580">
+<doc id="transcript_720" name="0507_RAGG_jungII_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="720.xml" title="Transcript: Transcript_720">
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:00" end="0:00:15.835000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:15.835000" persName="Informant EXP5" age_lower="" age_upper="999">
 super	-	-	-	0:00:00	0:00:01.994000
 ,	-	-	-	0:00:00	0:00:01.994000
 gut	-	-	-	0:00:00	0:00:01.994000
@@ -53,11 +53,11 @@ so	-	-	-	0:00:14.932000	0:00:15.835000
 weiter	-	-	-	0:00:14.932000	0:00:15.835000
 ,	-	-	-	0:00:14.932000	0:00:15.835000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:15.835000" end="0:00:16.442000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:15.835000" end="0:00:16.442000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:00:15.835000	0:00:16.442000
 .	-	-	-	0:00:15.835000	0:00:16.442000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:15.835000" end="0:00:17.554000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:15.835000" end="0:00:17.554000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:00:15.835000	0:00:16.442000
 ,	-	-	-	0:00:15.835000	0:00:16.442000
 ähm	-	-	-	0:00:16.442000	0:00:17.554000
@@ -65,11 +65,11 @@ also	-	-	-	0:00:15.835000	0:00:16.442000
 wir	-	-	-	0:00:16.442000	0:00:17.554000
 werden	-	-	-	0:00:16.442000	0:00:17.554000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:17.554000" end="0:00:18.700000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:17.554000" end="0:00:18.700000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:00:17.554000	0:00:18.700000
 .	-	-	-	0:00:17.554000	0:00:18.700000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:17.554000" end="0:00:21.686000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:17.554000" end="0:00:21.686000" persName="Informant EXP5" age_lower="" age_upper="999">
 schon	-	-	-	0:00:17.554000	0:00:18.700000
 so	-	-	-	0:00:18.700000	0:00:21.686000
 an	-	-	-	0:00:18.700000	0:00:21.686000
@@ -81,11 +81,11 @@ insgesamt	-	-	-	0:00:18.700000	0:00:21.686000
 brauchen	-	-	-	0:00:18.700000	0:00:21.686000
 .	-	-	-	0:00:18.700000	0:00:21.686000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:21.686000" end="0:00:22.086000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:21.686000" end="0:00:22.086000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:00:21.686000	0:00:22.086000
 .	-	-	-	0:00:21.686000	0:00:22.086000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:22.086000" end="0:00:28.076000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:22.086000" end="0:00:28.076000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:00:22.086000	0:00:24.917000
 ,	-	-	-	0:00:22.086000	0:00:24.917000
 okay	-	-	-	0:00:22.086000	0:00:24.917000
@@ -105,13 +105,13 @@ Ihr	-	-	-	0:00:24.917000	0:00:28.076000
 Geburtsdatum	-	-	-	0:00:24.917000	0:00:28.076000
 ?	-	-	-	0:00:24.917000	0:00:28.076000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:28.076000" end="0:00:30.676000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:28.076000" end="0:00:30.676000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:00:28.076000	0:00:30.676000
 September	-	-	-	0:00:28.076000	0:00:30.676000
 ZAHL	ZAHL	-	-	0:00:28.076000	0:00:30.676000
 .	-	-	-	0:00:28.076000	0:00:30.676000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:30.676000" end="0:00:35.457000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:30.676000" end="0:00:35.457000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:00:30.676000	0:00:31.342000
 ,	-	-	-	0:00:30.676000	0:00:31.342000
 jö	-	-	-	0:00:32.101000	0:00:33.421000
@@ -129,11 +129,11 @@ auch	-	-	-	0:00:33.421000	0:00:35.457000
 Geburtstag	-	-	-	0:00:33.421000	0:00:35.457000
 .	-	-	-	0:00:33.421000	0:00:35.457000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:35.457000" end="0:00:36.519000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:35.457000" end="0:00:36.519000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:35.457000	0:00:36.519000
 .	-	-	-	0:00:35.457000	0:00:36.519000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:35.457000" end="0:00:41.933000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:35.457000" end="0:00:41.933000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:00:35.457000	0:00:36.519000
 ist	-	-	-	0:00:35.457000	0:00:36.519000
 lustig	-	-	-	0:00:35.457000	0:00:36.519000
@@ -158,12 +158,12 @@ Sie	-	-	-	0:00:39.672000	0:00:41.933000
 geboren	-	-	-	0:00:39.672000	0:00:41.933000
 ?	-	-	-	0:00:39.672000	0:00:41.933000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:41.933000" end="0:00:42.875000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:41.933000" end="0:00:42.875000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:00:41.933000	0:00:42.875000
 ORT	ORT	-	-	0:00:41.933000	0:00:42.875000
 .	-	-	-	0:00:41.933000	0:00:42.875000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:42.875000" end="0:00:45.948000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:42.875000" end="0:00:45.948000" persName="Informant EXP5" age_lower="" age_upper="999">
 in	-	-	-	0:00:42.875000	0:00:43.655000
 ORT	ORT	-	-	0:00:42.875000	0:00:43.655000
 .	-	-	-	0:00:42.875000	0:00:43.655000
@@ -175,14 +175,14 @@ Sie	-	-	-	0:00:43.655000	0:00:45.948000
 aufgewachsen	-	-	-	0:00:43.655000	0:00:45.948000
 ?	-	-	-	0:00:43.655000	0:00:45.948000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:45.948000" end="0:00:47.557000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:45.948000" end="0:00:47.557000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:00:45.948000	0:00:46.905000
 Raggal	-	-	-	0:00:45.948000	0:00:46.905000
 .	-	-	-	0:00:45.948000	0:00:46.905000
 ja	-	-	-	0:00:46.905000	0:00:47.557000
 .	-	-	-	0:00:46.905000	0:00:47.557000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:46.905000" end="0:00:49.903000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:46.905000" end="0:00:49.903000" persName="Informant EXP5" age_lower="" age_upper="999">
 in	-	-	-	0:00:46.905000	0:00:47.557000
 Raggal	-	-	-	0:00:46.905000	0:00:47.557000
 ,	-	-	-	0:00:46.905000	0:00:47.557000
@@ -195,19 +195,19 @@ noch	-	-	-	0:00:48.262000	0:00:49.903000
 immer	-	-	-	0:00:48.262000	0:00:49.903000
 in	-	-	-	0:00:48.262000	0:00:49.903000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:49.903000" end="0:00:50.498000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:49.903000" end="0:00:50.498000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:00:49.903000	0:00:50.498000
 .	-	-	-	0:00:49.903000	0:00:50.498000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:49.903000" end="0:00:50.498000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:49.903000" end="0:00:50.498000" persName="Informant EXP5" age_lower="" age_upper="999">
 ORT	ORT	-	-	0:00:49.903000	0:00:50.498000
 ?	-	-	-	0:00:49.903000	0:00:50.498000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:50.498000" end="0:00:51.154000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:50.498000" end="0:00:51.154000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:50.498000	0:00:51.154000
 .	-	-	-	0:00:50.498000	0:00:51.154000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:50.498000" end="0:00:55.218000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:50.498000" end="0:00:55.218000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:00:50.498000	0:00:51.154000
 .	-	-	-	0:00:50.498000	0:00:51.154000
 also	-	-	-	0:00:51.154000	0:00:52.428000
@@ -226,15 +226,15 @@ auch	-	-	-	0:00:54.130000	0:00:55.218000
 mal	-	-	-	0:00:54.130000	0:00:55.218000
 wo	-	-	-	0:00:54.130000	0:00:55.218000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:55.218000" end="0:00:55.764000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:55.218000" end="0:00:55.764000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:55.218000	0:00:55.764000
 ,	-	-	-	0:00:55.218000	0:00:55.764000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:55.218000" end="0:00:55.764000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:55.218000" end="0:00:55.764000" persName="Informant EXP5" age_lower="" age_upper="999">
 anders	-	-	-	0:00:55.218000	0:00:55.764000
 ?	-	-	-	0:00:55.218000	0:00:55.764000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:00:55.764000" end="0:01:01.080000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:00:55.764000" end="0:01:01.080000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:00:55.764000	0:00:57.754000
 bis	-	-	-	0:00:55.764000	0:00:57.754000
 ich	-	-	-	0:00:55.764000	0:00:57.754000
@@ -257,7 +257,7 @@ ORT	ORT	-	-	0:00:59.401000	0:01:01.080000
 gezogen	-	-	-	0:00:59.401000	0:01:01.080000
 .	-	-	-	0:00:59.401000	0:01:01.080000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:01.080000" end="0:01:07.297000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:01.080000" end="0:01:07.297000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:01:01.080000	0:01:02.921000
 ,	-	-	-	0:01:01.080000	0:01:02.921000
 okay	-	-	-	0:01:01.080000	0:01:02.921000
@@ -276,7 +276,7 @@ Ihre	-	-	-	0:01:04.406000	0:01:07.297000
 Eltern	-	-	-	0:01:04.406000	0:01:07.297000
 ?	-	-	-	0:01:04.406000	0:01:07.297000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:07.297000" end="0:01:10.923000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:07.297000" end="0:01:10.923000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:01:07.297000	0:01:08.863000
 Papa	-	-	-	0:01:07.297000	0:01:08.863000
 aus	-	-	-	0:01:07.297000	0:01:08.863000
@@ -291,13 +291,13 @@ aus	-	-	-	0:01:10.188000	0:01:10.923000
 ORT	ORT	-	-	0:01:10.188000	0:01:10.923000
 .	-	-	-	0:01:10.188000	0:01:10.923000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:10.188000" end="0:01:10.923000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:10.188000" end="0:01:10.923000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:01:10.188000	0:01:10.923000
 ,	-	-	-	0:01:10.188000	0:01:10.923000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:10.923000" end="0:01:12.218000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:10.923000" end="0:01:12.218000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:10.923000" end="0:01:13.605000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:10.923000" end="0:01:13.605000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:01:10.923000	0:01:12.218000
 ,	-	-	-	0:01:10.923000	0:01:12.218000
 okay	-	-	-	0:01:10.923000	0:01:12.218000
@@ -308,13 +308,13 @@ Papa	-	-	-	0:01:12.218000	0:01:13.605000
 jedenfalls	-	-	-	0:01:12.218000	0:01:13.605000
 aus	-	-	-	0:01:12.218000	0:01:13.605000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:13.605000" end="0:01:14.637000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:13.605000" end="0:01:14.637000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:13.605000	0:01:14.637000
 ,	-	-	-	0:01:13.605000	0:01:14.637000
 mhm	-	-	-	0:01:13.605000	0:01:14.637000
 .	-	-	-	0:01:13.605000	0:01:14.637000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:13.605000" end="0:01:21.288000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:13.605000" end="0:01:21.288000" persName="Informant EXP5" age_lower="" age_upper="999">
 ORT	ORT	-	-	0:01:13.605000	0:01:14.637000
 ,	-	-	-	0:01:13.605000	0:01:14.637000
 okay	-	-	-	0:01:13.605000	0:01:14.637000
@@ -341,19 +341,19 @@ bis	-	-	-	0:01:19.803000	0:01:21.288000
 ZAHL	ZAHL	-	-	0:01:19.803000	0:01:21.288000
 Jahre	-	-	-	0:01:19.803000	0:01:21.288000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:21.288000" end="0:01:22.440000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:21.288000" end="0:01:22.440000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:01:21.288000	0:01:22.440000
 ,	-	-	-	0:01:21.288000	0:01:22.440000
 circa	-	-	-	0:01:21.288000	0:01:22.440000
 ,	-	-	-	0:01:21.288000	0:01:22.440000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:21.288000" end="0:01:22.440000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:21.288000" end="0:01:22.440000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:01:21.288000	0:01:22.440000
 und	-	-	-	0:01:21.288000	0:01:22.440000
 dann	-	-	-	0:01:21.288000	0:01:22.440000
 /.	-	-	-	0:01:21.288000	0:01:22.440000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:22.440000" end="0:01:23.706000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:22.440000" end="0:01:23.706000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:01:22.440000	0:01:22.902000
 ,	-	-	-	0:01:22.440000	0:01:22.902000
 ZAHL	ZAHL	-	-	0:01:22.440000	0:01:22.902000
@@ -362,7 +362,7 @@ Jahre	-	-	-	0:01:22.902000	0:01:23.706000
 mhm	-	-	-	0:01:22.902000	0:01:23.706000
 .	-	-	-	0:01:22.902000	0:01:23.706000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:22.902000" end="0:01:24.544000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:22.902000" end="0:01:24.544000" persName="Informant EXP5" age_lower="" age_upper="999">
 ZAHL	ZAHL	-	-	0:01:22.902000	0:01:23.706000
 ,	-	-	-	0:01:22.902000	0:01:23.706000
 ZAHL	ZAHL	-	-	0:01:22.902000	0:01:23.706000
@@ -373,29 +373,29 @@ dann	-	-	-	0:01:23.706000	0:01:24.544000
 okay	-	-	-	0:01:23.706000	0:01:24.544000
 .	-	-	-	0:01:23.706000	0:01:24.544000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:24.544000" end="0:01:25.769000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:24.544000" end="0:01:25.769000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (so)	-	-	-	0:01:25.334000	0:01:25.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:25.334000" end="0:01:25.769000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:25.334000" end="0:01:25.769000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:01:25.334000	0:01:25.769000
 .	-	-	-	0:01:25.334000	0:01:25.769000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:25.769000" end="0:01:26.869000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:25.769000" end="0:01:26.869000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (jetzt	-	-	-	0:01:25.769000	0:01:26.869000
 klingelt	-	-	-	0:01:25.769000	0:01:26.869000
 das	-	-	-	0:01:25.769000	0:01:26.869000
 Telefon)	-	-	-	0:01:25.769000	0:01:26.869000
 .	-	-	-	0:01:25.769000	0:01:26.869000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:26.869000" end="0:01:28.979000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:26.869000" end="0:01:28.979000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:28.979000" end="0:01:34.890000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:28.979000" end="0:01:34.890000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:31.496000" end="0:01:34.890000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:31.496000" end="0:01:34.890000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:34.890000" end="0:01:42.627000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:34.890000" end="0:01:42.627000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ((am	-	-	-	0:01:34.890000	0:01:35.862000
 Telefon))	-	-	-	0:01:34.890000	0:01:35.862000
 hallo	-	-	Anrede_Form Anrede_Name Anruf Appo Appo- attrAdj attrAdj- Begrüßung Dimin Dimin- exprkomp- Exprkomp GrammForm Gruß GrußFunk kurzF kurzF- Lautung Name- OrgFunk Pro- redupl- Redupl sonstForm sonstForm- stdL+ zeitgeb- Zeitgeb	0:01:34.890000	0:01:35.862000
@@ -405,10 +405,10 @@ hallo	-	-	Anrede_Form Anrede_Name Anruf Appo Appo- attrAdj attrAdj- Begrüßung 
 .	-	-	-	0:01:35.862000	0:01:37.862000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:37.862000" end="0:01:42.627000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:37.862000" end="0:01:42.627000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,8s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:42.627000" end="0:01:46.853000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:42.627000" end="0:01:46.853000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:42.627000	0:01:44.156000
 ,	-	-	-	0:01:42.627000	0:01:44.156000
 ist	-	-	-	0:01:42.627000	0:01:44.156000
@@ -416,10 +416,10 @@ nicht	-	-	-	0:01:42.627000	0:01:44.156000
 .	-	-	-	0:01:42.627000	0:01:44.156000
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:44.156000" end="0:01:46.853000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:44.156000" end="0:01:46.853000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:46.853000" end="0:01:54.672000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:46.853000" end="0:01:54.672000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:01:46.853000	0:01:48.975000
 ,	-	-	-	0:01:46.853000	0:01:48.975000
 ja	-	-	-	0:01:46.853000	0:01:48.975000
@@ -433,10 +433,10 @@ passt	-	-	-	0:01:46.853000	0:01:48.975000
 .	-	-	-	0:01:46.853000	0:01:48.975000
 <pause duration="5,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:01:48.975000" end="0:01:54.672000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:48.975000" end="0:01:54.672000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="5,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:01:54.672000" end="0:02:06.017000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:01:54.672000" end="0:02:06.017000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:54.672000	0:01:56.705000
 ,	-	-	-	0:01:54.672000	0:01:56.705000
 mache	-	-	-	0:01:54.672000	0:01:56.705000
@@ -459,22 +459,22 @@ tschüss	-	-	-	0:01:57.229000	0:02:02.083000
 .	-	-	-	0:01:57.229000	0:02:02.083000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:02.083000" end="0:02:06.017000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:02.083000" end="0:02:06.017000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:06.017000" end="0:02:06.655000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:06.017000" end="0:02:06.655000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Entschuldigung	-	-	-	0:02:06.017000	0:02:06.655000
 .	-	-	-	0:02:06.017000	0:02:06.655000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:06.655000" end="0:02:08.877000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:06.655000" end="0:02:08.877000" persName="Informant EXP5" age_lower="" age_upper="999">
 kein	-	-	-	0:02:06.655000	0:02:07.651000
 Problem	-	-	-	0:02:06.655000	0:02:07.651000
 .	-	-	-	0:02:06.655000	0:02:07.651000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:08.877000" end="0:02:11.982000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:08.877000" end="0:02:11.982000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:08.877000" end="0:02:17.052000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:08.877000" end="0:02:17.052000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 was	-	-	-	0:02:11.982000	0:02:14.675000
 machen	-	-	-	0:02:11.982000	0:02:14.675000
@@ -492,7 +492,7 @@ gemacht	-	-	-	0:02:14.675000	0:02:16.317000
 aber	-	-	-	0:02:16.317000	0:02:17.052000
 wahrscheinlich	-	-	-	0:02:16.317000	0:02:17.052000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:17.052000" end="0:02:18.443000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:17.052000" end="0:02:18.443000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:17.052000	0:02:18.443000
 ,	-	-	-	0:02:17.052000	0:02:18.443000
 sie	-	-	-	0:02:17.052000	0:02:18.443000
@@ -502,7 +502,7 @@ noch	-	-	-	0:02:17.052000	0:02:18.443000
 ja	-	-	-	0:02:17.052000	0:02:18.443000
 .	-	-	-	0:02:17.052000	0:02:18.443000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:17.052000" end="0:02:18.443000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:17.052000" end="0:02:18.443000" persName="Informant EXP5" age_lower="" age_upper="999">
 sind	-	-	-	0:02:17.052000	0:02:18.443000
 sie	-	-	-	0:02:17.052000	0:02:18.443000
 eh	-	-	-	0:02:17.052000	0:02:18.443000
@@ -510,9 +510,9 @@ noch	-	-	-	0:02:17.052000	0:02:18.443000
 tätig	-	-	-	0:02:17.052000	0:02:18.443000
 ,	-	-	-	0:02:17.052000	0:02:18.443000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:18.443000" end="0:02:19.673000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:18.443000" end="0:02:19.673000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:18.443000" end="0:02:19.673000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:18.443000" end="0:02:19.673000" persName="Informant EXP5" age_lower="" age_upper="999">
 denke	-	-	-	0:02:18.443000	0:02:19.673000
 ich	-	-	-	0:02:18.443000	0:02:19.673000
 mir	-	-	-	0:02:18.443000	0:02:19.673000
@@ -521,18 +521,18 @@ so	-	-	-	0:02:18.443000	0:02:19.673000
 jung	-	-	-	0:02:18.443000	0:02:19.673000
 wie	-	-	-	0:02:18.443000	0:02:19.673000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:19.673000" end="0:02:21.244000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:19.673000" end="0:02:21.244000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:19.673000	0:02:21.244000
 .	-	-	-	0:02:19.673000	0:02:21.244000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:19.673000" end="0:02:21.244000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:19.673000" end="0:02:21.244000" persName="Informant EXP5" age_lower="" age_upper="999">
 Sie	-	-	-	0:02:19.673000	0:02:21.244000
 sind	-	-	-	0:02:19.673000	0:02:21.244000
 ,	-	-	-	0:02:19.673000	0:02:21.244000
 ja	-	-	-	0:02:19.673000	0:02:21.244000
 .	-	-	-	0:02:19.673000	0:02:21.244000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:21.244000" end="0:02:27.302000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:21.244000" end="0:02:27.302000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Mama	-	-	-	0:02:21.244000	0:02:24.038000
 ist	-	-	-	0:02:21.244000	0:02:24.038000
 Kindengartenassi/	-	-	-	0:02:21.244000	0:02:24.038000
@@ -551,7 +551,7 @@ Sommer	-	-	-	0:02:24.038000	0:02:27.302000
 LKW-Fahrer	-	-	-	0:02:24.038000	0:02:27.302000
 .	-	-	-	0:02:24.038000	0:02:27.302000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:27.302000" end="0:02:33.891000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:27.302000" end="0:02:33.891000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:02:27.302000	0:02:28.758000
 ja	-	-	-	0:02:27.302000	0:02:28.758000
 ,	-	-	-	0:02:27.302000	0:02:28.758000
@@ -573,7 +573,7 @@ einer	-	-	-	0:02:31.770000	0:02:33.891000
 Partnerschaft	-	-	-	0:02:31.770000	0:02:33.891000
 ?	-	-	-	0:02:31.770000	0:02:33.891000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:33.891000" end="0:02:36.066000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:33.891000" end="0:02:36.066000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:33.891000	0:02:34.791000
 ,	-	-	-	0:02:33.891000	0:02:34.791000
 also	-	-	-	0:02:33.891000	0:02:34.791000
@@ -585,7 +585,7 @@ ich	-	-	-	0:02:34.791000	0:02:36.066000
 mhm	-	-	-	0:02:34.791000	0:02:36.066000
 .	-	-	-	0:02:34.791000	0:02:36.066000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:34.791000" end="0:02:40.459000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:34.791000" end="0:02:40.459000" persName="Informant EXP5" age_lower="" age_upper="999">
 einen	-	-	-	0:02:34.791000	0:02:36.066000
 Freund	-	-	-	0:02:34.791000	0:02:36.066000
 ,	-	-	-	0:02:34.791000	0:02:36.066000
@@ -604,11 +604,11 @@ Partner	-	-	-	0:02:37.361000	0:02:40.459000
 geboren	-	-	-	0:02:37.361000	0:02:40.459000
 ?	-	-	-	0:02:37.361000	0:02:40.459000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:40.459000" end="0:02:41.414000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:40.459000" end="0:02:41.414000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:02:40.459000	0:02:41.414000
 .	-	-	-	0:02:40.459000	0:02:41.414000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:41.414000" end="0:02:45.432000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:41.414000" end="0:02:45.432000" persName="Informant EXP5" age_lower="" age_upper="999">
 ZAHL	ZAHL	-	-	0:02:41.414000	0:02:43.050000
 ,	-	-	-	0:02:41.414000	0:02:43.050000
 okay	-	-	-	0:02:41.414000	0:02:43.050000
@@ -622,7 +622,7 @@ stammt	-	-	-	0:02:43.050000	0:02:45.432000
 er	-	-	-	0:02:43.050000	0:02:45.432000
 ?	-	-	-	0:02:43.050000	0:02:45.432000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:45.432000" end="0:02:47.057000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:45.432000" end="0:02:47.057000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:02:45.432000	0:02:45.920000
 ,	-	-	-	0:02:45.432000	0:02:45.920000
 also	-	-	-	0:02:45.920000	0:02:47.057000
@@ -630,15 +630,15 @@ da	-	-	-	0:02:45.920000	0:02:47.057000
 her	-	-	-	0:02:45.920000	0:02:47.057000
 .	-	-	-	0:02:45.920000	0:02:47.057000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:45.920000" end="0:02:47.057000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:45.920000" end="0:02:47.057000" persName="Informant EXP5" age_lower="" age_upper="999">
 ORT	ORT	-	-	0:02:45.920000	0:02:47.057000
 ,	-	-	-	0:02:45.920000	0:02:47.057000
 okay	-	-	-	0:02:45.920000	0:02:47.057000
 .	-	-	-	0:02:45.920000	0:02:47.057000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:47.057000" end="0:02:48.446000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:47.057000" end="0:02:48.446000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:47.057000" end="0:02:50.089000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:47.057000" end="0:02:50.089000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:02:48.446000	0:02:50.089000
 ist	-	-	-	0:02:48.446000	0:02:50.089000
 er	-	-	-	0:02:48.446000	0:02:50.089000
@@ -647,29 +647,29 @@ auch	-	-	-	0:02:48.446000	0:02:50.089000
 aufgewachsen	-	-	-	0:02:48.446000	0:02:50.089000
 ?	-	-	-	0:02:48.446000	0:02:50.089000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:50.089000" end="0:02:50.441000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:50.089000" end="0:02:50.441000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:50.089000	0:02:50.441000
 .	-	-	-	0:02:50.089000	0:02:50.441000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:50.089000" end="0:02:51.569000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:50.089000" end="0:02:51.569000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:02:50.089000	0:02:50.441000
 so	-	-	-	0:02:50.441000	0:02:51.569000
 die	-	-	-	0:02:50.441000	0:02:51.569000
 ganze	-	-	-	0:02:50.441000	0:02:51.569000
 Zeit	-	-	-	0:02:50.441000	0:02:51.569000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:51.569000" end="0:02:52.829000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:51.569000" end="0:02:52.829000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:02:51.569000	0:02:52.829000
 ,	-	-	-	0:02:51.569000	0:02:52.829000
 der	-	-	-	0:02:51.569000	0:02:52.829000
 ist	-	-	-	0:02:51.569000	0:02:52.829000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:51.569000" end="0:02:52.829000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:51.569000" end="0:02:52.829000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:02:51.569000	0:02:52.829000
 im	-	-	-	0:02:51.569000	0:02:52.829000
 Wesentlichen	-	-	-	0:02:51.569000	0:02:52.829000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:52.829000" end="0:02:54.734000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:52.829000" end="0:02:54.734000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:02:52.829000	0:02:54.734000
 /.	-	-	-	0:02:52.829000	0:02:54.734000
 ja	-	-	-	0:02:52.829000	0:02:54.734000
@@ -678,13 +678,13 @@ genau	-	-	-	0:02:52.829000	0:02:54.734000
 ,	-	-	-	0:02:52.829000	0:02:54.734000
 also	-	-	-	0:02:52.829000	0:02:54.734000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:52.829000" end="0:02:54.734000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:52.829000" end="0:02:54.734000" persName="Informant EXP5" age_lower="" age_upper="999">
 verbracht	-	-	-	0:02:52.829000	0:02:54.734000
 ?	-	-	-	0:02:52.829000	0:02:54.734000
 okay	-	-	-	0:02:52.829000	0:02:54.734000
 .	-	-	-	0:02:52.829000	0:02:54.734000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:54.734000" end="0:02:56.093000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:54.734000" end="0:02:56.093000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 von	-	-	-	0:02:54.734000	0:02:55.439000
 klein	-	-	-	0:02:54.734000	0:02:55.439000
 auf	-	-	-	0:02:54.734000	0:02:55.439000
@@ -693,16 +693,16 @@ in	-	-	-	0:02:55.439000	0:02:56.093000
 ORT	ORT	-	-	0:02:55.439000	0:02:56.093000
 .	-	-	-	0:02:55.439000	0:02:56.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:55.439000" end="0:02:56.512000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:55.439000" end="0:02:56.512000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:02:55.439000	0:02:56.093000
 ,	-	-	-	0:02:55.439000	0:02:56.093000
 mhm	-	-	-	0:02:56.093000	0:02:56.512000
 .	-	-	-	0:02:56.093000	0:02:56.512000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:02:56.512000" end="0:02:57.917000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:02:56.512000" end="0:02:57.917000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:02:56.512000" end="0:03:01.015000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:56.512000" end="0:03:01.015000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 ist	-	-	-	0:02:57.917000	0:02:59.015000
 ,	-	-	-	0:02:57.917000	0:02:59.015000
@@ -714,7 +714,7 @@ Freund	-	-	-	0:02:59.015000	0:03:01.015000
 berufstätig	-	-	-	0:02:59.015000	0:03:01.015000
 ?	-	-	-	0:02:59.015000	0:03:01.015000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:01.015000" end="0:03:03.134000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:01.015000" end="0:03:03.134000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:03:01.015000	0:03:03.134000
 ,	-	-	-	0:03:01.015000	0:03:03.134000
@@ -725,7 +725,7 @@ noch	-	-	-	0:03:01.015000	0:03:03.134000
 Student	-	-	-	0:03:01.015000	0:03:03.134000
 .	-	-	-	0:03:01.015000	0:03:03.134000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:03.134000" end="0:03:09.832000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:03.134000" end="0:03:09.832000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:03.134000	0:03:03.556000
 ,	-	-	-	0:03:03.134000	0:03:03.556000
 <pause duration="0,5s"/>
@@ -741,13 +741,13 @@ schon	-	-	-	0:03:07.580000	0:03:09.832000
 Kinder	-	-	-	0:03:07.580000	0:03:09.832000
 ?	-	-	-	0:03:07.580000	0:03:09.832000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:09.832000" end="0:03:11.795000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:09.832000" end="0:03:11.795000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:03:09.832000	0:03:11.795000
 ,	-	-	-	0:03:09.832000	0:03:11.795000
 nein	-	-	-	0:03:09.832000	0:03:11.795000
 ,	-	-	-	0:03:09.832000	0:03:11.795000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:09.832000" end="0:03:11.795000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:09.832000" end="0:03:11.795000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:03:09.832000	0:03:11.795000
 ?	-	-	-	0:03:09.832000	0:03:11.795000
 nein	-	-	-	0:03:09.832000	0:03:11.795000
@@ -755,18 +755,18 @@ nein	-	-	-	0:03:09.832000	0:03:11.795000
 nicht	-	-	-	0:03:09.832000	0:03:11.795000
 .	-	-	-	0:03:09.832000	0:03:11.795000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:11.795000" end="0:03:13.047000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:11.795000" end="0:03:13.047000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:03:11.795000	0:03:13.047000
 ,	-	-	-	0:03:11.795000	0:03:13.047000
 nein	-	-	-	0:03:11.795000	0:03:13.047000
 .	-	-	-	0:03:11.795000	0:03:13.047000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:11.795000" end="0:03:14.041000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:11.795000" end="0:03:14.041000" persName="Informant EXP5" age_lower="" age_upper="999">
 nur	-	-	-	0:03:13.047000	0:03:14.041000
 die	-	-	-	0:03:13.047000	0:03:14.041000
 Schwester	-	-	-	0:03:13.047000	0:03:14.041000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:14.041000" end="0:03:15.528000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:14.041000" end="0:03:15.528000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:14.041000	0:03:15.528000
 ,	-	-	-	0:03:14.041000	0:03:15.528000
 genau	-	-	-	0:03:14.041000	0:03:15.528000
@@ -774,15 +774,15 @@ genau	-	-	-	0:03:14.041000	0:03:15.528000
 (das	-	-	-	0:03:14.041000	0:03:15.528000
 ist)	-	-	-	0:03:14.041000	0:03:15.528000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:14.041000" end="0:03:15.528000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:14.041000" end="0:03:15.528000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:03:14.041000	0:03:15.528000
 ,	-	-	-	0:03:14.041000	0:03:15.528000
 ja	-	-	-	0:03:14.041000	0:03:15.528000
 .	-	-	-	0:03:14.041000	0:03:15.528000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:15.528000" end="0:03:15.975000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:15.528000" end="0:03:15.975000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:15.975000" end="0:03:23.344000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:15.975000" end="0:03:23.344000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:03:15.975000	0:03:16.657000
 .	-	-	-	0:03:15.975000	0:03:16.657000
 <pause duration="1,1s"/>
@@ -798,17 +798,17 @@ höchster	-	-	-	0:03:19.466000	0:03:23.344000
 Ausbildungsgrad	-	-	-	0:03:19.466000	0:03:23.344000
 ?	-	-	-	0:03:19.466000	0:03:23.344000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:23.344000" end="0:03:25.608000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:23.344000" end="0:03:25.608000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:03:23.344000	0:03:25.289000
 abgeschlossen	-	-	-	0:03:23.344000	0:03:25.289000
 habe	-	-	-	0:03:25.289000	0:03:25.608000
 ich	-	-	-	0:03:25.289000	0:03:25.608000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:25.289000" end="0:03:25.608000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:25.289000" end="0:03:25.608000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:25.289000	0:03:25.608000
 .	-	-	-	0:03:25.289000	0:03:25.608000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:25.608000" end="0:03:27.609000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:25.608000" end="0:03:27.609000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:03:25.608000	0:03:26.972000
 Ma/	-	-	-	0:03:25.608000	0:03:26.972000
 Matura	-	-	-	0:03:25.608000	0:03:26.972000
@@ -816,11 +816,11 @@ Matura	-	-	-	0:03:25.608000	0:03:26.972000
 "HLW"	-	-	-	0:03:26.972000	0:03:27.609000
 ,	-	-	-	0:03:26.972000	0:03:27.609000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:26.972000" end="0:03:27.609000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:26.972000" end="0:03:27.609000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:26.972000	0:03:27.609000
 .	-	-	-	0:03:26.972000	0:03:27.609000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:27.609000" end="0:03:28.974000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:27.609000" end="0:03:28.974000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:03:27.609000	0:03:28.974000
 jetzt	-	-	-	0:03:27.609000	0:03:28.974000
 bin	-	-	-	0:03:27.609000	0:03:28.974000
@@ -830,16 +830,16 @@ Bachelor	-	-	-	0:03:27.609000	0:03:28.974000
 dran	-	-	-	0:03:27.609000	0:03:28.974000
 ,	-	-	-	0:03:27.609000	0:03:28.974000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:28.974000" end="0:03:29.572000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:28.974000" end="0:03:29.572000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:03:28.974000	0:03:29.572000
 ja	-	-	-	0:03:28.974000	0:03:29.572000
 .	-	-	-	0:03:28.974000	0:03:29.572000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:29.572000" end="0:03:30.468000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:29.572000" end="0:03:30.468000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 berufsbegleitend	-	-	-	0:03:29.572000	0:03:30.468000
 .	-	-	-	0:03:29.572000	0:03:30.468000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:30.468000" end="0:03:32.778000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:30.468000" end="0:03:32.778000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:03:30.468000	0:03:31.318000
 .	-	-	-	0:03:30.468000	0:03:31.318000
 und	-	-	-	0:03:31.318000	0:03:32.778000
@@ -851,15 +851,15 @@ ein	-	-	-	0:03:31.318000	0:03:32.778000
 Studium	-	-	-	0:03:31.318000	0:03:32.778000
 ?	-	-	-	0:03:31.318000	0:03:32.778000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:32.778000" end="0:03:33.641000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:32.778000" end="0:03:33.641000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 "BWL"	-	-	-	0:03:32.778000	0:03:33.641000
 .	-	-	-	0:03:32.778000	0:03:33.641000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:33.641000" end="0:03:34.173000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:33.641000" end="0:03:34.173000" persName="Informant EXP5" age_lower="" age_upper="999">
 "BWL"	-	-	-	0:03:33.641000	0:03:34.173000
 .	-	-	-	0:03:33.641000	0:03:34.173000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:34.173000" end="0:03:36.621000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:34.173000" end="0:03:36.621000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 "BWL"	-	-	-	0:03:34.173000	0:03:35.832000
 onl/	-	-	-	0:03:34.173000	0:03:35.832000
 online	-	-	-	0:03:34.173000	0:03:35.832000
@@ -870,7 +870,7 @@ am	-	-	-	0:03:35.832000	0:03:36.621000
 SONSTIGE	SONSTIGE	-	-	0:03:35.832000	0:03:36.621000
 .	-	-	-	0:03:35.832000	0:03:36.621000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:36.621000" end="0:03:40.579000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:36.621000" end="0:03:40.579000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:03:36.621000	0:03:38.621000
 ,	-	-	-	0:03:36.621000	0:03:38.621000
 okay	-	-	-	0:03:36.621000	0:03:38.621000
@@ -887,20 +887,20 @@ Fernstudium	-	-	-	0:03:38.621000	0:03:40.579000
 kann	-	-	-	0:03:38.621000	0:03:40.579000
 /.	-	-	-	0:03:38.621000	0:03:40.579000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:40.579000" end="0:03:41.353000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:40.579000" end="0:03:41.353000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:03:40.579000	0:03:41.353000
 ,	-	-	-	0:03:40.579000	0:03:41.353000
 ja	-	-	-	0:03:40.579000	0:03:41.353000
 ,	-	-	-	0:03:40.579000	0:03:41.353000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:40.579000" end="0:03:41.353000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:40.579000" end="0:03:41.353000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:03:40.579000	0:03:41.353000
 ?	-	-	-	0:03:40.579000	0:03:41.353000
 kann	-	-	-	0:03:40.579000	0:03:41.353000
 man	-	-	-	0:03:40.579000	0:03:41.353000
 /.	-	-	-	0:03:40.579000	0:03:41.353000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:41.353000" end="0:03:44.243000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:41.353000" end="0:03:44.243000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:03:41.353000	0:03:42.678000
 von	-	-	-	0:03:41.353000	0:03:42.678000
 zuhause	-	-	-	0:03:41.353000	0:03:42.678000
@@ -914,11 +914,11 @@ am	-	-	-	0:03:42.678000	0:03:44.243000
 Computer	-	-	-	0:03:42.678000	0:03:44.243000
 .	-	-	-	0:03:42.678000	0:03:44.243000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:44.243000" end="0:03:44.880000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:44.243000" end="0:03:44.880000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:44.243000	0:03:44.880000
 .	-	-	-	0:03:44.243000	0:03:44.880000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:44.880000" end="0:03:51.438000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:44.880000" end="0:03:51.438000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 so	-	-	-	0:03:44.880000	0:03:46.803000
 eine	-	-	-	0:03:44.880000	0:03:46.803000
@@ -943,7 +943,7 @@ Zeiten	-	-	-	0:03:48.744000	0:03:51.438000
 wo	-	-	-	0:03:48.744000	0:03:51.438000
 wir	-	-	-	0:03:48.744000	0:03:51.438000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:51.438000" end="0:03:52.387000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:51.438000" end="0:03:52.387000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 ah	-	-	-	0:03:51.438000	0:03:52.387000
 ,	-	-	-	0:03:51.438000	0:03:52.387000
@@ -952,22 +952,22 @@ ja	-	-	-	0:03:51.438000	0:03:52.387000
 mhm	-	-	-	0:03:51.438000	0:03:52.387000
 .	-	-	-	0:03:51.438000	0:03:52.387000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:52.387000" end="0:03:53.815000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:52.387000" end="0:03:53.815000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 .	-	-	-	0:03:52.387000	0:03:53.815000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:52.387000" end="0:03:53.815000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:52.387000" end="0:03:53.815000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 mhm	-	-	-	0:03:52.387000	0:03:53.815000
 .	-	-	-	0:03:52.387000	0:03:53.815000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:53.815000" end="0:03:55.091000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:53.815000" end="0:03:55.091000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:03:53.815000	0:03:55.091000
 ,	-	-	-	0:03:53.815000	0:03:55.091000
 (super)	-	-	-	0:03:53.815000	0:03:55.091000
 .	-	-	-	0:03:53.815000	0:03:55.091000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:53.815000" end="0:03:56.017000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:53.815000" end="0:03:56.017000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:03:53.815000	0:03:55.091000
 ja	-	-	-	0:03:53.815000	0:03:55.091000
 ,	-	-	-	0:03:53.815000	0:03:55.091000
@@ -980,7 +980,7 @@ Mittwoch	-	-	-	0:03:55.091000	0:03:56.017000
 ,	-	-	-	0:03:55.091000	0:03:56.017000
 Donnerstag	-	-	-	0:03:55.091000	0:03:56.017000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:56.017000" end="0:03:58.228000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:56.017000" end="0:03:58.228000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:03:56.017000	0:03:58.228000
 ,	-	-	-	0:03:56.017000	0:03:58.228000
 genau	-	-	-	0:03:56.017000	0:03:58.228000
@@ -993,7 +993,7 @@ da	-	-	-	0:03:56.017000	0:03:58.228000
 habe	-	-	-	0:03:56.017000	0:03:58.228000
 ich	-	-	-	0:03:56.017000	0:03:58.228000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:56.017000" end="0:03:58.228000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:56.017000" end="0:03:58.228000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:03:56.017000	0:03:58.228000
 so	-	-	-	0:03:56.017000	0:03:58.228000
 ,	-	-	-	0:03:56.017000	0:03:58.228000
@@ -1005,11 +1005,11 @@ alles	-	-	-	0:03:56.017000	0:03:58.228000
 klar	-	-	-	0:03:56.017000	0:03:58.228000
 .	-	-	-	0:03:56.017000	0:03:58.228000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:03:58.228000" end="0:03:59.146000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:03:58.228000" end="0:03:59.146000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 immer	-	-	-	0:03:58.228000	0:03:59.146000
 Studium	-	-	-	0:03:58.228000	0:03:59.146000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:03:59.146000" end="0:04:07.177000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:59.146000" end="0:04:07.177000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:03:59.146000	0:04:01.385000
 ,	-	-	-	0:03:59.146000	0:04:01.385000
 <pause duration="0,7s"/>
@@ -1039,7 +1039,7 @@ Matur/	-	-	-	0:04:06.144000	0:04:07.177000
 oder	-	-	-	0:04:06.144000	0:04:07.177000
 ?	-	-	-	0:04:06.144000	0:04:07.177000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:07.177000" end="0:04:11.165000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:07.177000" end="0:04:11.165000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:04:07.177000	0:04:07.630000
 ,	-	-	-	0:04:07.177000	0:04:07.630000
 ja	-	-	-	0:04:07.630000	0:04:11.165000
@@ -1055,7 +1055,7 @@ sie	-	-	-	0:04:07.630000	0:04:11.165000
 ja	-	-	-	0:04:07.630000	0:04:11.165000
 .	-	-	-	0:04:07.630000	0:04:11.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:07.630000" end="0:04:15.062000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:07.630000" end="0:04:15.062000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:04:07.630000	0:04:11.165000
 ,	-	-	-	0:04:07.630000	0:04:11.165000
 ja	-	-	-	0:04:07.630000	0:04:11.165000
@@ -1077,7 +1077,7 @@ sind	-	-	-	0:04:13.207000	0:04:15.062000
 auch	-	-	-	0:04:13.207000	0:04:15.062000
 berufstätig	-	-	-	0:04:13.207000	0:04:15.062000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:15.062000" end="0:04:16.442000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:15.062000" end="0:04:16.442000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:15.062000	0:04:16.442000
 ,	-	-	-	0:04:15.062000	0:04:16.442000
 genau	-	-	-	0:04:15.062000	0:04:16.442000
@@ -1085,7 +1085,7 @@ genau	-	-	-	0:04:15.062000	0:04:16.442000
 ich	-	-	-	0:04:15.062000	0:04:16.442000
 /.	-	-	-	0:04:15.062000	0:04:16.442000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:15.062000" end="0:04:17.765000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:15.062000" end="0:04:17.765000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:04:15.062000	0:04:16.442000
 .	-	-	-	0:04:15.062000	0:04:16.442000
 und	-	-	-	0:04:16.442000	0:04:17.765000
@@ -1095,7 +1095,7 @@ Sie	-	-	-	0:04:16.442000	0:04:17.765000
 da	-	-	-	0:04:16.442000	0:04:17.765000
 ?	-	-	-	0:04:16.442000	0:04:17.765000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:17.765000" end="0:04:21.149000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:17.765000" end="0:04:21.149000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:17.765000	0:04:20.636000
 ,	-	-	-	0:04:17.765000	0:04:20.636000
 ich	-	-	-	0:04:17.765000	0:04:20.636000
@@ -1109,15 +1109,15 @@ Rechtsanwaltskanzlei	-	-	-	0:04:17.765000	0:04:20.636000
 ,	-	-	-	0:04:17.765000	0:04:20.636000
 also	-	-	-	0:04:20.636000	0:04:21.149000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:20.636000" end="0:04:21.149000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:20.636000" end="0:04:21.149000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:20.636000	0:04:21.149000
 .	-	-	-	0:04:20.636000	0:04:21.149000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:21.149000" end="0:04:22.009000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:21.149000" end="0:04:22.009000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Sekretärin	-	-	-	0:04:21.149000	0:04:22.009000
 .	-	-	-	0:04:21.149000	0:04:22.009000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:22.009000" end="0:04:27.596000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:22.009000" end="0:04:27.596000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:04:22.009000	0:04:23.215000
 ,	-	-	-	0:04:22.009000	0:04:23.215000
 mhm	-	-	-	0:04:22.009000	0:04:23.215000
@@ -1142,15 +1142,15 @@ ihre	-	-	-	0:04:25.391000	0:04:27.596000
 Hauptaufgaben	-	-	-	0:04:25.391000	0:04:27.596000
 ?	-	-	-	0:04:25.391000	0:04:27.596000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:27.596000" end="0:04:29.003000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:27.596000" end="0:04:29.003000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:27.596000	0:04:29.003000
 ,	-	-	-	0:04:27.596000	0:04:29.003000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:27.596000" end="0:04:29.003000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:27.596000" end="0:04:29.003000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:04:27.596000	0:04:29.003000
 ?	-	-	-	0:04:27.596000	0:04:29.003000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:29.003000" end="0:04:32.071000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:29.003000" end="0:04:32.071000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:04:29.003000	0:04:31.249000
 hauptsächlich	-	-	-	0:04:29.003000	0:04:31.249000
 mache	-	-	-	0:04:29.003000	0:04:31.249000
@@ -1160,21 +1160,21 @@ Vertragsabwicklung	-	-	-	0:04:29.003000	0:04:31.249000
 Kaufverträge	-	-	-	0:04:31.249000	0:04:32.071000
 ,	-	-	-	0:04:31.249000	0:04:32.071000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:31.249000" end="0:04:32.071000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:31.249000" end="0:04:32.071000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:31.249000	0:04:32.071000
 .	-	-	-	0:04:31.249000	0:04:32.071000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:32.071000" end="0:04:33.899000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:32.071000" end="0:04:33.899000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Schenkungsverträge	-	-	-	0:04:32.071000	0:04:33.899000
 ,	-	-	-	0:04:32.071000	0:04:33.899000
 Übergabeverträge	-	-	-	0:04:32.071000	0:04:33.899000
 .	-	-	-	0:04:32.071000	0:04:33.899000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:33.899000" end="0:04:34.453000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:33.899000" end="0:04:34.453000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:33.899000	0:04:34.453000
 .	-	-	-	0:04:33.899000	0:04:34.453000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:34.453000" end="0:04:41.784000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:34.453000" end="0:04:41.784000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 von	-	-	-	0:04:34.453000	0:04:36.143000
 Anfang	-	-	-	0:04:34.453000	0:04:36.143000
 bis	-	-	-	0:04:34.453000	0:04:36.143000
@@ -1200,11 +1200,11 @@ was	-	-	-	0:04:38.435000	0:04:41.784000
 diktiert	-	-	-	0:04:38.435000	0:04:41.784000
 ,	-	-	-	0:04:38.435000	0:04:41.784000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:41.784000" end="0:04:42.369000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:41.784000" end="0:04:42.369000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:04:41.784000	0:04:42.369000
 .	-	-	-	0:04:41.784000	0:04:42.369000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:42.369000" end="0:04:47.382000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:42.369000" end="0:04:47.382000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Emails	-	-	-	0:04:42.369000	0:04:43.150000
 ,	-	-	-	0:04:42.369000	0:04:43.150000
 also	-	-	-	0:04:43.150000	0:04:47.382000
@@ -1224,15 +1224,15 @@ so	-	-	-	0:04:43.150000	0:04:47.382000
 halt	-	-	-	0:04:43.150000	0:04:47.382000
 .	-	-	-	0:04:43.150000	0:04:47.382000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:47.382000" end="0:04:47.865000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:47.382000" end="0:04:47.865000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:47.382000	0:04:47.865000
 ,	-	-	-	0:04:47.382000	0:04:47.865000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:47.865000" end="0:04:49.219000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:47.865000" end="0:04:49.219000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Büroarbeit	-	-	-	0:04:47.865000	0:04:49.219000
 .	-	-	-	0:04:47.865000	0:04:49.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:47.865000" end="0:04:52.113000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:47.865000" end="0:04:52.113000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:47.865000	0:04:49.219000
 .	-	-	-	0:04:47.865000	0:04:49.219000
 okay	-	-	-	0:04:49.219000	0:04:50.031000
@@ -1247,14 +1247,14 @@ ist	-	-	-	0:04:51.365000	0:04:52.113000
 das	-	-	-	0:04:51.365000	0:04:52.113000
 ?	-	-	-	0:04:51.365000	0:04:52.113000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:52.113000" end="0:04:53.705000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:52.113000" end="0:04:53.705000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:04:52.113000	0:04:52.884000
 ORT	ORT	-	-	0:04:52.113000	0:04:52.884000
 .	-	-	-	0:04:52.113000	0:04:52.884000
 mhm	-	-	-	0:04:52.884000	0:04:53.705000
 .	-	-	-	0:04:52.884000	0:04:53.705000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:52.884000" end="0:04:55.322000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:52.884000" end="0:04:55.322000" persName="Informant EXP5" age_lower="" age_upper="999">
 in	-	-	-	0:04:52.884000	0:04:53.705000
 ORT	ORT	-	-	0:04:52.884000	0:04:53.705000
 .	-	-	-	0:04:52.884000	0:04:53.705000
@@ -1267,24 +1267,24 @@ Sie	-	-	-	0:04:53.705000	0:04:55.322000
 pendeln	-	-	-	0:04:53.705000	0:04:55.322000
 ,	-	-	-	0:04:53.705000	0:04:55.322000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:55.322000" end="0:04:56.219000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:55.322000" end="0:04:56.219000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:04:55.322000	0:04:56.219000
 ,	-	-	-	0:04:55.322000	0:04:56.219000
 ja	-	-	-	0:04:55.322000	0:04:56.219000
 .	-	-	-	0:04:55.322000	0:04:56.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:55.322000" end="0:04:56.219000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:55.322000" end="0:04:56.219000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:04:55.322000	0:04:56.219000
 immer	-	-	-	0:04:55.322000	0:04:56.219000
 .	-	-	-	0:04:55.322000	0:04:56.219000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:04:56.219000" end="0:04:57.420000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:04:56.219000" end="0:04:57.420000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:04:56.219000	0:04:57.420000
 ,	-	-	-	0:04:56.219000	0:04:57.420000
 mhm	-	-	-	0:04:56.219000	0:04:57.420000
 .	-	-	-	0:04:56.219000	0:04:57.420000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:04:56.219000" end="0:05:04.051000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:56.219000" end="0:05:04.051000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:56.219000	0:04:57.420000
 ,	-	-	-	0:04:56.219000	0:04:57.420000
 mhm	-	-	-	0:04:56.219000	0:04:57.420000
@@ -1305,7 +1305,7 @@ Sie	-	-	-	0:05:01.075000	0:05:04.051000
 schon	-	-	-	0:05:01.075000	0:05:04.051000
 ?	-	-	-	0:05:01.075000	0:05:04.051000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:04.051000" end="0:05:05.861000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:04.051000" end="0:05:05.861000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:04.051000	0:05:05.861000
 ,	-	-	-	0:05:04.051000	0:05:05.861000
 ze/	-	-	-	0:05:04.051000	0:05:05.861000
@@ -1313,7 +1313,7 @@ ze/	-	-	-	0:05:04.051000	0:05:05.861000
 ja	-	-	-	0:05:04.051000	0:05:05.861000
 .	-	-	-	0:05:04.051000	0:05:05.861000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:04.051000" end="0:05:05.861000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:04.051000" end="0:05:05.861000" persName="Informant EXP5" age_lower="" age_upper="999">
 gleich	-	-	-	0:05:04.051000	0:05:05.861000
 nach	-	-	-	0:05:04.051000	0:05:05.861000
 der	-	-	-	0:05:04.051000	0:05:05.861000
@@ -1321,18 +1321,18 @@ Matura	-	-	-	0:05:04.051000	0:05:05.861000
 (oder)	-	-	-	0:05:04.051000	0:05:05.861000
 ?	-	-	-	0:05:04.051000	0:05:05.861000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:05.861000" end="0:05:06.791000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:05.861000" end="0:05:06.791000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:05:05.861000	0:05:06.791000
 ,	-	-	-	0:05:05.861000	0:05:06.791000
 also	-	-	-	0:05:05.861000	0:05:06.791000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:05.861000" end="0:05:06.791000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:05.861000" end="0:05:06.791000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:05:05.861000	0:05:06.791000
 ,	-	-	-	0:05:05.861000	0:05:06.791000
 mhm	-	-	-	0:05:05.861000	0:05:06.791000
 .	-	-	-	0:05:05.861000	0:05:06.791000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:06.791000" end="0:05:08.352000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:06.791000" end="0:05:08.352000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 im	-	-	-	0:05:06.791000	0:05:08.352000
 Juni	-	-	-	0:05:06.791000	0:05:08.352000
 sind	-	-	-	0:05:06.791000	0:05:08.352000
@@ -1342,16 +1342,16 @@ drei	-	-	-	0:05:06.791000	0:05:08.352000
 Jahre	-	-	-	0:05:06.791000	0:05:08.352000
 .	-	-	-	0:05:06.791000	0:05:08.352000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:08.352000" end="0:05:08.893000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:08.352000" end="0:05:08.893000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:05:08.352000	0:05:08.893000
 ja	-	-	-	0:05:08.352000	0:05:08.893000
 ,	-	-	-	0:05:08.352000	0:05:08.893000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:08.893000" end="0:05:09.432000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:08.893000" end="0:05:09.432000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:05:08.893000	0:05:09.432000
 .	-	-	-	0:05:08.893000	0:05:09.432000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:08.893000" end="0:05:13.748000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:08.893000" end="0:05:13.748000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:05:08.893000	0:05:09.432000
 ,	-	-	-	0:05:08.893000	0:05:09.432000
 mhm	-	-	-	0:05:09.432000	0:05:09.950000
@@ -1372,7 +1372,7 @@ schon	-	-	-	0:05:12.252000	0:05:13.748000
 jetzt	-	-	-	0:05:12.252000	0:05:13.748000
 ?	-	-	-	0:05:12.252000	0:05:13.748000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:13.748000" end="0:05:15.692000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:13.748000" end="0:05:15.692000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:05:13.748000	0:05:14.605000
 zweite	-	-	-	0:05:13.748000	0:05:14.605000
 Jahr	-	-	-	0:05:13.748000	0:05:14.605000
@@ -1380,7 +1380,7 @@ Jahr	-	-	-	0:05:13.748000	0:05:14.605000
 ja	-	-	-	0:05:14.605000	0:05:15.692000
 .	-	-	-	0:05:14.605000	0:05:15.692000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:14.605000" end="0:05:17.790000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:14.605000" end="0:05:17.790000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:05:14.605000	0:05:15.692000
 zweite	-	-	-	0:05:14.605000	0:05:15.692000
 Jahr	-	-	-	0:05:14.605000	0:05:15.692000
@@ -1396,11 +1396,11 @@ tüchtig	-	-	-	0:05:15.692000	0:05:17.790000
 Wahnsinn	-	-	-	0:05:15.692000	0:05:17.790000
 ,	-	-	-	0:05:15.692000	0:05:17.790000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:17.790000" end="0:05:18.661000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:17.790000" end="0:05:18.661000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:17.790000	0:05:18.661000
 .	-	-	-	0:05:17.790000	0:05:18.661000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:17.790000" end="0:05:21.324000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:17.790000" end="0:05:21.324000" persName="Informant EXP5" age_lower="" age_upper="999">
 (wirklich)	-	-	-	0:05:17.790000	0:05:18.661000
 .	-	-	-	0:05:17.790000	0:05:18.661000
 und	-	-	-	0:05:18.661000	0:05:20.842000
@@ -1414,7 +1414,7 @@ auch	-	-	-	0:05:18.661000	0:05:20.842000
 oder	-	-	-	0:05:20.842000	0:05:21.324000
 ?	-	-	-	0:05:20.842000	0:05:21.324000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:21.324000" end="0:05:23.332000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:21.324000" end="0:05:23.332000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:05:21.324000	0:05:21.642000
 ,	-	-	-	0:05:21.324000	0:05:21.642000
 vierzig	-	-	-	0:05:21.642000	0:05:23.332000
@@ -1422,19 +1422,19 @@ Stunden	-	-	-	0:05:21.642000	0:05:23.332000
 halt	-	-	-	0:05:21.642000	0:05:23.332000
 .	-	-	-	0:05:21.642000	0:05:23.332000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:21.642000" end="0:05:23.332000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:21.642000" end="0:05:23.332000" persName="Informant EXP5" age_lower="" age_upper="999">
 puh	-	-	-	0:05:21.642000	0:05:23.332000
 ,	-	-	-	0:05:21.642000	0:05:23.332000
 Wahnsinn	-	-	-	0:05:21.642000	0:05:23.332000
 ,	-	-	-	0:05:21.642000	0:05:23.332000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:23.332000" end="0:05:25.310000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:23.332000" end="0:05:25.310000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:23.332000	0:05:25.310000
 ,	-	-	-	0:05:23.332000	0:05:25.310000
 ja	-	-	-	0:05:23.332000	0:05:25.310000
 .	-	-	-	0:05:23.332000	0:05:25.310000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:23.332000" end="0:05:26.657000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:23.332000" end="0:05:26.657000" persName="Informant EXP5" age_lower="" age_upper="999">
 meine	-	-	-	0:05:23.332000	0:05:25.310000
 Hochachtung	-	-	-	0:05:23.332000	0:05:25.310000
 ,	-	-	-	0:05:23.332000	0:05:25.310000
@@ -1446,7 +1446,7 @@ sicher	-	-	-	0:05:25.310000	0:05:26.657000
 stressig	-	-	-	0:05:25.310000	0:05:26.657000
 ,	-	-	-	0:05:25.310000	0:05:26.657000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:26.657000" end="0:05:28.332000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:26.657000" end="0:05:28.332000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:26.657000	0:05:28.006000
 ,	-	-	-	0:05:26.657000	0:05:28.006000
 teilweise	-	-	-	0:05:26.657000	0:05:28.006000
@@ -1455,11 +1455,11 @@ auch	-	-	-	0:05:26.657000	0:05:28.006000
 (so)	-	-	-	0:05:28.006000	0:05:28.332000
 .	-	-	-	0:05:28.006000	0:05:28.332000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:28.332000" end="0:05:29.168000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:28.332000" end="0:05:29.168000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:05:28.332000	0:05:29.168000
 .	-	-	-	0:05:28.332000	0:05:29.168000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:29.168000" end="0:05:31.829000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:29.168000" end="0:05:31.829000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:05:29.168000	0:05:31.336000
 muss	-	-	-	0:05:29.168000	0:05:31.336000
 schon	-	-	-	0:05:29.168000	0:05:31.336000
@@ -1468,26 +1468,26 @@ dranbleiben	-	-	-	0:05:29.168000	0:05:31.336000
 ,	-	-	-	0:05:29.168000	0:05:31.336000
 sonst	-	-	-	0:05:31.336000	0:05:31.829000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:31.336000" end="0:05:31.829000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:31.336000" end="0:05:31.829000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:05:31.336000	0:05:31.829000
 .	-	-	-	0:05:31.336000	0:05:31.829000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:31.829000" end="0:05:33.222000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:31.829000" end="0:05:33.222000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:05:31.829000	0:05:33.222000
 schwierig	-	-	-	0:05:31.829000	0:05:33.222000
 .	-	-	-	0:05:31.829000	0:05:33.222000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:33.222000" end="0:05:33.695000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:33.222000" end="0:05:33.695000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:05:33.222000	0:05:33.695000
 .	-	-	-	0:05:33.222000	0:05:33.695000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:33.695000" end="0:05:34.472000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:33.695000" end="0:05:34.472000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:05:33.695000	0:05:34.472000
 es	-	-	-	0:05:33.695000	0:05:34.472000
 geht	-	-	-	0:05:33.695000	0:05:34.472000
 .	-	-	-	0:05:33.695000	0:05:34.472000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:34.472000" end="0:05:42.099000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:34.472000" end="0:05:42.099000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:05:34.472000	0:05:35.737000
 ,	-	-	-	0:05:34.472000	0:05:35.737000
@@ -1511,24 +1511,24 @@ irgendwelche	-	-	-	0:05:39.722000	0:05:42.099000
 Ferienjobs	-	-	-	0:05:39.722000	0:05:42.099000
 oder	-	-	-	0:05:39.722000	0:05:42.099000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:42.099000" end="0:05:42.740000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:42.099000" end="0:05:42.740000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:42.099000	0:05:42.740000
 ,	-	-	-	0:05:42.099000	0:05:42.740000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:42.099000" end="0:05:42.740000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:42.099000" end="0:05:42.740000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	0:05:42.099000	0:05:42.740000
 vielleicht	-	-	-	0:05:42.099000	0:05:42.740000
 ?	-	-	-	0:05:42.099000	0:05:42.740000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:42.740000" end="0:05:43.290000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:42.740000" end="0:05:43.290000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:05:42.740000	0:05:43.290000
 halt	-	-	-	0:05:42.740000	0:05:43.290000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:42.740000" end="0:05:43.290000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:42.740000" end="0:05:43.290000" persName="Informant EXP5" age_lower="" age_upper="999">
 (aha)	-	-	-	0:05:42.740000	0:05:43.290000
 .	-	-	-	0:05:42.740000	0:05:43.290000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:43.290000" end="0:05:46.126000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:43.290000" end="0:05:46.126000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 durch	-	-	-	0:05:43.290000	0:05:45.826000
 die	-	-	-	0:05:43.290000	0:05:45.826000
 "HLW"	-	-	-	0:05:43.290000	0:05:45.826000
@@ -1542,30 +1542,30 @@ gewesen	-	-	-	0:05:43.290000	0:05:45.826000
 ,	-	-	-	0:05:43.290000	0:05:45.826000
 in	-	-	-	0:05:45.826000	0:05:46.126000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:45.826000" end="0:05:46.126000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:45.826000" end="0:05:46.126000" persName="Informant EXP5" age_lower="" age_upper="999">
 ha	-	-	-	0:05:45.826000	0:05:46.126000
 .	-	-	-	0:05:45.826000	0:05:46.126000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:46.126000" end="0:05:47.275000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:46.126000" end="0:05:47.275000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:05:46.126000	0:05:46.816000
 ,	-	-	-	0:05:46.126000	0:05:46.816000
 also	-	-	-	0:05:46.816000	0:05:47.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:46.816000" end="0:05:47.275000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:46.816000" end="0:05:47.275000" persName="Informant EXP5" age_lower="" age_upper="999">
 Malta	-	-	-	0:05:46.816000	0:05:47.275000
 .	-	-	-	0:05:46.816000	0:05:47.275000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:47.275000" end="0:05:47.885000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:47.275000" end="0:05:47.885000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Service	-	-	-	0:05:47.275000	0:05:47.885000
 .	-	-	-	0:05:47.275000	0:05:47.885000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:47.885000" end="0:05:48.969000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:47.885000" end="0:05:48.969000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:05:47.885000	0:05:48.969000
 ,	-	-	-	0:05:47.885000	0:05:48.969000
 ja	-	-	-	0:05:47.885000	0:05:48.969000
 .	-	-	-	0:05:47.885000	0:05:48.969000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:48.969000" end="0:05:53.162000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:48.969000" end="0:05:53.162000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:05:48.969000	0:05:51.470000
 sonst	-	-	-	0:05:48.969000	0:05:51.470000
 halt	-	-	-	0:05:48.969000	0:05:51.470000
@@ -1577,11 +1577,11 @@ oder	-	-	-	0:05:51.470000	0:05:52.161000
 im	-	-	-	0:05:51.470000	0:05:52.161000
 Tourismusbüro	-	-	-	0:05:52.161000	0:05:53.162000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:52.161000" end="0:05:53.162000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:52.161000" end="0:05:53.162000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:52.161000	0:05:53.162000
 .	-	-	-	0:05:52.161000	0:05:53.162000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:53.162000" end="0:05:55.262000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:53.162000" end="0:05:55.262000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:05:53.162000	0:05:54.222000
 Kleinigkeiten	-	-	-	0:05:53.162000	0:05:54.222000
 ,	-	-	-	0:05:53.162000	0:05:54.222000
@@ -1589,7 +1589,7 @@ halt	-	-	-	0:05:54.222000	0:05:55.262000
 Sommerjobs	-	-	-	0:05:54.222000	0:05:55.262000
 .	-	-	-	0:05:54.222000	0:05:55.262000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:54.222000" end="0:05:58.834000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:54.222000" end="0:05:58.834000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:54.222000	0:05:55.262000
 .	-	-	-	0:05:54.222000	0:05:55.262000
 okay	-	-	-	0:05:55.262000	0:05:57.396000
@@ -1609,7 +1609,7 @@ war	-	-	-	0:05:57.396000	0:05:58.834000
 es	-	-	-	0:05:57.396000	0:05:58.834000
 eher	-	-	-	0:05:57.396000	0:05:58.834000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:05:58.834000" end="0:06:01.105000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:05:58.834000" end="0:06:01.105000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 war	-	-	-	0:05:58.834000	0:06:01.105000
 es	-	-	-	0:05:58.834000	0:06:01.105000
 immer	-	-	-	0:05:58.834000	0:06:01.105000
@@ -1622,7 +1622,7 @@ in	-	-	-	0:05:58.834000	0:06:01.105000
 ORT	ORT	-	-	0:05:58.834000	0:06:01.105000
 .	-	-	-	0:05:58.834000	0:06:01.105000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:05:58.834000" end="0:06:06.395000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:58.834000" end="0:06:06.395000" persName="Informant EXP5" age_lower="" age_upper="999">
 hier	-	-	-	0:05:58.834000	0:06:01.105000
 in	-	-	-	0:05:58.834000	0:06:01.105000
 der	-	-	-	0:05:58.834000	0:06:01.105000
@@ -1648,12 +1648,12 @@ zur	-	-	-	0:06:04.351000	0:06:06.395000
 Sprache	-	-	-	0:06:04.351000	0:06:06.395000
 .	-	-	-	0:06:04.351000	0:06:06.395000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:06.395000" end="0:06:09.328000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:06.395000" end="0:06:09.328000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:06:06.395000	0:06:07.248000
 .	-	-	-	0:06:06.395000	0:06:07.248000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:07.248000" end="0:06:19.737000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:07.248000" end="0:06:19.737000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 ((Zettel	-	-	-	0:06:07.248000	0:06:09.328000
 suchen))	-	-	-	0:06:07.248000	0:06:09.328000
@@ -1682,18 +1682,18 @@ Leuten	-	-	-	0:06:16.665000	0:06:19.737000
 eher	-	-	-	0:06:16.665000	0:06:19.737000
 unterschiedlich	-	-	-	0:06:16.665000	0:06:19.737000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:19.737000" end="0:06:20.287000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:19.737000" end="0:06:20.287000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:06:19.737000	0:06:20.287000
 .	-	-	-	0:06:19.737000	0:06:20.287000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:19.737000" end="0:06:21.751000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:19.737000" end="0:06:21.751000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:06:19.737000	0:06:20.287000
 irgendwie	-	-	-	0:06:20.287000	0:06:21.751000
 immer	-	-	-	0:06:20.287000	0:06:21.751000
 gleich	-	-	-	0:06:20.287000	0:06:21.751000
 ?	-	-	-	0:06:20.287000	0:06:21.751000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:21.751000" end="0:06:23.431000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:21.751000" end="0:06:23.431000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:06:21.751000	0:06:22.887000
 ,	-	-	-	0:06:21.751000	0:06:22.887000
 gar	-	-	-	0:06:21.751000	0:06:22.887000
@@ -1703,12 +1703,12 @@ also	-	-	-	0:06:21.751000	0:06:22.887000
 zum	-	-	-	0:06:22.887000	0:06:23.431000
 Beispiel	-	-	-	0:06:22.887000	0:06:23.431000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:22.887000" end="0:06:23.431000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:22.887000" end="0:06:23.431000" persName="Informant EXP5" age_lower="" age_upper="999">
 gar	-	-	-	0:06:22.887000	0:06:23.431000
 nicht	-	-	-	0:06:22.887000	0:06:23.431000
 .	-	-	-	0:06:22.887000	0:06:23.431000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:23.431000" end="0:06:25.092000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:23.431000" end="0:06:25.092000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:06:23.431000	0:06:25.092000
 der	-	-	-	0:06:23.431000	0:06:25.092000
 Mama	-	-	-	0:06:23.431000	0:06:25.092000
@@ -1717,11 +1717,11 @@ ich	-	-	-	0:06:23.431000	0:06:25.092000
 Tirolerisch	-	-	-	0:06:23.431000	0:06:25.092000
 ,	-	-	-	0:06:23.431000	0:06:25.092000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:25.092000" end="0:06:25.738000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:25.092000" end="0:06:25.738000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:25.092000	0:06:25.738000
 .	-	-	-	0:06:25.092000	0:06:25.738000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:25.738000" end="0:06:34.351000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:25.738000" end="0:06:34.351000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:06:25.738000	0:06:27.387000
 dem	-	-	-	0:06:25.738000	0:06:27.387000
 Papa	-	-	-	0:06:25.738000	0:06:27.387000
@@ -1760,11 +1760,11 @@ Walser	-	-	-	0:06:31.851000	0:06:33.851000
 also	-	-	-	0:06:33.851000	0:06:34.351000
 (das)	-	-	-	0:06:33.851000	0:06:34.351000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:33.851000" end="0:06:34.351000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:33.851000" end="0:06:34.351000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:33.851000	0:06:34.351000
 .	-	-	-	0:06:33.851000	0:06:34.351000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:34.351000" end="0:06:35.350000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:34.351000" end="0:06:35.350000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 merke	-	-	-	0:06:34.351000	0:06:35.350000
 ich	-	-	-	0:06:34.351000	0:06:35.350000
 selber	-	-	-	0:06:34.351000	0:06:35.350000
@@ -1772,21 +1772,21 @@ selber	-	-	-	0:06:34.351000	0:06:35.350000
 ja	-	-	-	0:06:34.351000	0:06:35.350000
 .	-	-	-	0:06:34.351000	0:06:35.350000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:35.350000" end="0:06:36.013000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:35.350000" end="0:06:36.013000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:35.350000	0:06:36.013000
 ,	-	-	-	0:06:35.350000	0:06:36.013000
 ja	-	-	-	0:06:35.350000	0:06:36.013000
 ,	-	-	-	0:06:35.350000	0:06:36.013000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:36.013000" end="0:06:36.476000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:36.013000" end="0:06:36.476000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:06:36.013000	0:06:36.476000
 passt	-	-	-	0:06:36.013000	0:06:36.476000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:36.013000" end="0:06:36.476000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:36.013000" end="0:06:36.476000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:36.013000	0:06:36.476000
 .	-	-	-	0:06:36.013000	0:06:36.476000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:36.476000" end="0:06:37.658000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:36.476000" end="0:06:37.658000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sich	-	-	-	0:06:36.476000	0:06:37.658000
 da	-	-	-	0:06:36.476000	0:06:37.658000
 ein	-	-	-	0:06:36.476000	0:06:37.658000
@@ -1794,31 +1794,31 @@ bisschen	-	-	-	0:06:36.476000	0:06:37.658000
 an	-	-	-	0:06:36.476000	0:06:37.658000
 .	-	-	-	0:06:36.476000	0:06:37.658000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:37.658000" end="0:06:38.241000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:37.658000" end="0:06:38.241000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:37.658000	0:06:38.241000
 .	-	-	-	0:06:37.658000	0:06:38.241000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:38.241000" end="0:06:38.725000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:38.241000" end="0:06:38.725000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:38.241000	0:06:38.725000
 .	-	-	-	0:06:38.241000	0:06:38.725000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:38.725000" end="0:06:39.490000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:38.725000" end="0:06:39.490000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:06:38.725000	0:06:39.490000
 .	-	-	-	0:06:38.725000	0:06:39.490000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:39.490000" end="0:06:40.236000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:39.490000" end="0:06:40.236000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 vor	-	-	-	0:06:39.490000	0:06:40.236000
 allem	-	-	-	0:06:39.490000	0:06:40.236000
 ,	-	-	-	0:06:39.490000	0:06:40.236000
 weil	-	-	-	0:06:39.490000	0:06:40.236000
 man	-	-	-	0:06:39.490000	0:06:40.236000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:39.490000" end="0:06:40.236000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:39.490000" end="0:06:40.236000" persName="Informant EXP5" age_lower="" age_upper="999">
 (ja	-	-	-	0:06:39.490000	0:06:40.236000
 ,	-	-	-	0:06:39.490000	0:06:40.236000
 ?)	-	-	-	0:06:39.490000	0:06:40.236000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:40.236000" end="0:06:43.974000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:40.236000" end="0:06:43.974000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 immer	-	-	-	0:06:40.236000	0:06:41.084000
 ausgelacht	-	-	-	0:06:40.236000	0:06:41.084000
 wird	-	-	-	0:06:40.236000	0:06:41.084000
@@ -1837,12 +1837,12 @@ wird	-	-	-	0:06:41.084000	0:06:42.936000
 (das)	-	-	-	0:06:42.936000	0:06:43.974000
 ,	-	-	-	0:06:42.936000	0:06:43.974000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:42.936000" end="0:06:43.974000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:42.936000" end="0:06:43.974000" persName="Informant EXP5" age_lower="" age_upper="999">
 ach	-	-	-	0:06:42.936000	0:06:43.974000
 so	-	-	-	0:06:42.936000	0:06:43.974000
 .	-	-	-	0:06:42.936000	0:06:43.974000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:43.974000" end="0:06:48.356000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:43.974000" end="0:06:48.356000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 über	-	-	-	0:06:43.974000	0:06:45.618000
 den	-	-	-	0:06:43.974000	0:06:45.618000
 Dialekt	-	-	-	0:06:43.974000	0:06:45.618000
@@ -1859,11 +1859,11 @@ haben	-	-	-	0:06:45.618000	0:06:47.891000
 wie	-	-	-	0:06:45.618000	0:06:47.891000
 (die)	-	-	-	0:06:47.891000	0:06:48.356000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:47.891000" end="0:06:48.356000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:47.891000" end="0:06:48.356000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:47.891000	0:06:48.356000
 .	-	-	-	0:06:47.891000	0:06:48.356000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:48.356000" end="0:06:51.062000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:48.356000" end="0:06:51.062000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 außerhalb	-	-	-	0:06:48.356000	0:06:50.467000
 vom	-	-	-	0:06:48.356000	0:06:50.467000
 Tal	-	-	-	0:06:48.356000	0:06:50.467000
@@ -1878,21 +1878,21 @@ der	-	-	-	0:06:50.467000	0:06:51.062000
 Zeit	-	-	-	0:06:50.467000	0:06:51.062000
 .	-	-	-	0:06:50.467000	0:06:51.062000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:50.467000" end="0:06:51.955000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:50.467000" end="0:06:51.955000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:06:50.467000	0:06:51.062000
 .	-	-	-	0:06:50.467000	0:06:51.062000
 okay	-	-	-	0:06:51.062000	0:06:51.955000
 ,	-	-	-	0:06:51.062000	0:06:51.955000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:51.955000" end="0:06:52.341000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:51.955000" end="0:06:52.341000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (das	-	-	-	0:06:51.955000	0:06:52.341000
 ist)	-	-	-	0:06:51.955000	0:06:52.341000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:51.955000" end="0:06:52.341000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:51.955000" end="0:06:52.341000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:51.955000	0:06:52.341000
 .	-	-	-	0:06:51.955000	0:06:52.341000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:06:52.341000" end="0:06:54.225000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:06:52.341000" end="0:06:54.225000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (schon	-	-	-	0:06:52.341000	0:06:52.757000
 noch)	-	-	-	0:06:52.341000	0:06:52.757000
 ,	-	-	-	0:06:52.341000	0:06:52.757000
@@ -1907,7 +1907,7 @@ ein	-	-	-	0:06:52.757000	0:06:54.225000
 Unterschied	-	-	-	0:06:52.757000	0:06:54.225000
 .	-	-	-	0:06:52.757000	0:06:54.225000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:06:54.225000" end="0:07:19.987000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:54.225000" end="0:07:19.987000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:06:54.225000	0:06:58.084000
 ,	-	-	-	0:06:54.225000	0:06:58.084000
 ja	-	-	-	0:06:54.225000	0:06:58.084000
@@ -1994,19 +1994,19 @@ miteinander	-	-	-	0:07:13.808000	0:07:19.987000
 sprechen	-	-	-	0:07:13.808000	0:07:19.987000
 ?	-	-	-	0:07:13.808000	0:07:19.987000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:19.987000" end="0:07:21.243000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:19.987000" end="0:07:21.243000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:19.987000" end="0:07:21.243000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:19.987000" end="0:07:21.243000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:21.243000" end="0:07:22.212000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:21.243000" end="0:07:22.212000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:21.243000	0:07:22.212000
 ,	-	-	-	0:07:21.243000	0:07:22.212000
 also	-	-	-	0:07:21.243000	0:07:22.212000
 ,	-	-	-	0:07:21.243000	0:07:22.212000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:21.243000" end="0:07:23.466000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:21.243000" end="0:07:23.466000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	0:07:21.243000	0:07:22.212000
 würden	-	-	-	0:07:21.243000	0:07:22.212000
 Sie	-	-	-	0:07:21.243000	0:07:22.212000
@@ -2019,7 +2019,7 @@ das	-	-	-	0:07:22.212000	0:07:23.466000
 das	-	-	-	0:07:22.212000	0:07:23.466000
 ,	-	-	-	0:07:22.212000	0:07:23.466000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:23.466000" end="0:07:24.627000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:23.466000" end="0:07:24.627000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:23.466000	0:07:24.627000
 ,	-	-	-	0:07:23.466000	0:07:24.627000
 halt	-	-	-	0:07:23.466000	0:07:24.627000
@@ -2027,13 +2027,13 @@ der	-	-	-	0:07:23.466000	0:07:24.627000
 urige	-	-	-	0:07:23.466000	0:07:24.627000
 ,	-	-	-	0:07:23.466000	0:07:24.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:23.466000" end="0:07:24.627000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:23.466000" end="0:07:24.627000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	0:07:23.466000	0:07:24.627000
 die	-	-	-	0:07:23.466000	0:07:24.627000
 Alten	-	-	-	0:07:23.466000	0:07:24.627000
 /.	-	-	-	0:07:23.466000	0:07:24.627000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:24.627000" end="0:07:27.784000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:24.627000" end="0:07:27.784000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:07:24.627000	0:07:26.035000
 urige	-	-	-	0:07:24.627000	0:07:26.035000
 Walser	-	-	-	0:07:24.627000	0:07:26.035000
@@ -2041,7 +2041,7 @@ Dialekt	-	-	-	0:07:24.627000	0:07:26.035000
 ,	-	-	-	0:07:24.627000	0:07:26.035000
 (?)	-	-	-	0:07:26.035000	0:07:27.784000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:26.035000" end="0:07:29.726000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:26.035000" end="0:07:29.726000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:07:26.035000	0:07:27.784000
 ,	-	-	-	0:07:26.035000	0:07:27.784000
 ja	-	-	-	0:07:26.035000	0:07:27.784000
@@ -2052,10 +2052,10 @@ ja	-	-	-	0:07:26.035000	0:07:27.784000
 mhm	-	-	-	0:07:27.784000	0:07:29.726000
 ,	-	-	-	0:07:27.784000	0:07:29.726000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:29.726000" end="0:07:38.225000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:29.726000" end="0:07:38.225000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="8,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:29.726000" end="0:07:40.852000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:29.726000" end="0:07:40.852000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="8,5s"/>
 würden	-	-	-	0:07:38.225000	0:07:40.852000
 Sie	-	-	-	0:07:38.225000	0:07:40.852000
@@ -2068,13 +2068,13 @@ auch	-	-	-	0:07:38.225000	0:07:40.852000
 sprechen	-	-	-	0:07:38.225000	0:07:40.852000
 ?	-	-	-	0:07:38.225000	0:07:40.852000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:40.852000" end="0:07:42.519000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:40.852000" end="0:07:42.519000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:40.852000" end="0:07:42.519000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:40.852000" end="0:07:42.519000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:42.519000" end="0:07:44.953000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:42.519000" end="0:07:44.953000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:07:42.519000	0:07:43.401000
 so	-	-	-	0:07:42.519000	0:07:43.401000
 gut	-	-	-	0:07:42.519000	0:07:43.401000
@@ -2084,11 +2084,11 @@ er	-	-	-	0:07:43.401000	0:07:44.203000
 geht	-	-	-	0:07:44.203000	0:07:44.953000
 schon	-	-	-	0:07:44.203000	0:07:44.953000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:44.203000" end="0:07:44.953000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:44.203000" end="0:07:44.953000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:44.203000	0:07:44.953000
 .	-	-	-	0:07:44.203000	0:07:44.953000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:44.953000" end="0:07:48.113000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:44.953000" end="0:07:48.113000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:07:44.953000	0:07:46.401000
 der	-	-	-	0:07:44.953000	0:07:46.401000
 Zeit	-	-	-	0:07:44.953000	0:07:46.401000
@@ -2100,25 +2100,25 @@ schon	-	-	-	0:07:46.401000	0:07:48.113000
 aber	-	-	-	0:07:46.401000	0:07:48.113000
 gewisse	-	-	-	0:07:46.401000	0:07:48.113000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:46.401000" end="0:07:48.113000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:46.401000" end="0:07:48.113000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:46.401000	0:07:48.113000
 ,	-	-	-	0:07:46.401000	0:07:48.113000
 ja	-	-	-	0:07:46.401000	0:07:48.113000
 .	-	-	-	0:07:46.401000	0:07:48.113000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:48.113000" end="0:07:49.786000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:48.113000" end="0:07:49.786000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Wörter	-	-	-	0:07:48.113000	0:07:48.752000
 <pause duration="0,5s"/>
 kenne	-	-	-	0:07:48.752000	0:07:49.786000
 ich	-	-	-	0:07:48.752000	0:07:49.786000
 dann	-	-	-	0:07:48.752000	0:07:49.786000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:48.752000" end="0:07:49.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:48.752000" end="0:07:49.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:07:48.752000	0:07:49.786000
 .	-	-	-	0:07:48.752000	0:07:49.786000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:49.786000" end="0:07:52.047000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:49.786000" end="0:07:52.047000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:07:49.786000	0:07:51.339000
 gar	-	-	-	0:07:49.786000	0:07:51.339000
 nicht	-	-	-	0:07:49.786000	0:07:51.339000
@@ -2132,11 +2132,11 @@ einfach	-	-	-	0:07:49.786000	0:07:51.339000
 dadurch	-	-	-	0:07:51.339000	0:07:52.047000
 ,	-	-	-	0:07:51.339000	0:07:52.047000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:51.339000" end="0:07:52.047000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:51.339000" end="0:07:52.047000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:07:51.339000	0:07:52.047000
 .	-	-	-	0:07:51.339000	0:07:52.047000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:52.047000" end="0:07:55.480000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:52.047000" end="0:07:55.480000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:07:52.047000	0:07:54.127000
 man	-	-	-	0:07:52.047000	0:07:54.127000
 viel	-	-	-	0:07:52.047000	0:07:54.127000
@@ -2154,7 +2154,7 @@ verloren	-	-	-	0:07:54.127000	0:07:55.480000
 auch	-	-	-	0:07:54.127000	0:07:55.480000
 .	-	-	-	0:07:54.127000	0:07:55.480000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:55.480000" end="0:07:56.542000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:55.480000" end="0:07:56.542000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:07:55.480000	0:07:56.542000
 ,	-	-	-	0:07:55.480000	0:07:56.542000
 ja	-	-	-	0:07:55.480000	0:07:56.542000
@@ -2162,16 +2162,16 @@ ja	-	-	-	0:07:55.480000	0:07:56.542000
 ja	-	-	-	0:07:55.480000	0:07:56.542000
 ,	-	-	-	0:07:55.480000	0:07:56.542000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:56.542000" end="0:07:57.296000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:56.542000" end="0:07:57.296000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:07:56.542000	0:07:57.296000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:07:56.542000" end="0:07:57.788000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:56.542000" end="0:07:57.788000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:07:56.542000	0:07:57.296000
 ,	-	-	-	0:07:56.542000	0:07:57.296000
 mhm	-	-	-	0:07:57.296000	0:07:57.788000
 .	-	-	-	0:07:57.296000	0:07:57.788000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:07:57.788000" end="0:08:00.048000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:07:57.788000" end="0:08:00.048000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 s/	-	-	-	0:07:57.788000	0:08:00.048000
 so	-	-	-	0:07:57.788000	0:08:00.048000
 manche	-	-	-	0:07:57.788000	0:08:00.048000
@@ -2182,17 +2182,17 @@ Wörter	-	-	-	0:07:57.788000	0:08:00.048000
 einfach	-	-	-	0:07:57.788000	0:08:00.048000
 /.	-	-	-	0:07:57.788000	0:08:00.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:00.048000" end="0:08:00.854000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:00.048000" end="0:08:00.854000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:08:00.048000	0:08:00.854000
 .	-	-	-	0:08:00.048000	0:08:00.854000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:00.854000" end="0:08:02.165000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:00.854000" end="0:08:02.165000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:08:00.854000	0:08:01.693000
 bemüht	-	-	-	0:08:00.854000	0:08:01.693000
 sich	-	-	-	0:08:01.693000	0:08:02.165000
 .	-	-	-	0:08:01.693000	0:08:02.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:01.693000" end="0:08:19.723000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:01.693000" end="0:08:19.723000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:08:01.693000	0:08:02.165000
 ,	-	-	-	0:08:01.693000	0:08:02.165000
 wie	-	-	-	0:08:02.165000	0:08:04.718000
@@ -2242,7 +2242,7 @@ selber	-	-	-	0:08:16.192000	0:08:19.723000
 einschätzen	-	-	-	0:08:16.192000	0:08:19.723000
 ?	-	-	-	0:08:16.192000	0:08:19.723000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:19.723000" end="0:08:25.165000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:19.723000" end="0:08:25.165000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ich	-	-	-	0:08:19.723000	0:08:22.849000
 würde	-	-	-	0:08:19.723000	0:08:22.849000
@@ -2253,7 +2253,7 @@ da	-	-	-	0:08:19.723000	0:08:22.849000
 dritte)	-	-	-	0:08:22.849000	0:08:25.165000
 /.	-	-	-	0:08:22.849000	0:08:25.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:22.849000" end="0:08:26.895000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:22.849000" end="0:08:26.895000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:22.849000	0:08:25.165000
 ,	-	-	-	0:08:22.849000	0:08:25.165000
 machen	-	-	-	0:08:22.849000	0:08:25.165000
@@ -2267,13 +2267,13 @@ Kreuzerl	-	-	-	0:08:22.849000	0:08:25.165000
 Entschuldigung	-	-	-	0:08:25.165000	0:08:26.895000
 .	-	-	-	0:08:25.165000	0:08:26.895000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:26.895000" end="0:08:27.376000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:26.895000" end="0:08:27.376000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="flüstern"/>
 passt	-	-	-	0:08:26.895000	0:08:27.376000
 schon	-	-	-	0:08:26.895000	0:08:27.376000
 .	-	-	-	0:08:26.895000	0:08:27.376000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:27.376000" end="0:08:36.304000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:27.376000" end="0:08:36.304000" persName="Informant EXP5" age_lower="" age_upper="999">
 danke	-	-	-	0:08:27.376000	0:08:28.975000
 ,	-	-	-	0:08:27.376000	0:08:28.975000
 mhm	-	-	-	0:08:27.376000	0:08:28.975000
@@ -2291,7 +2291,7 @@ diesen	-	-	-	0:08:31.469000	0:08:36.304000
 Walser	-	-	-	0:08:31.469000	0:08:36.304000
 Dialekt	-	-	-	0:08:31.469000	0:08:36.304000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:36.304000" end="0:08:38.044000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:36.304000" end="0:08:38.044000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gut	-	-	-	0:08:36.304000	0:08:38.044000
 ,	-	-	-	0:08:36.304000	0:08:38.044000
 also	-	-	-	0:08:36.304000	0:08:38.044000
@@ -2303,7 +2303,7 @@ gut	-	-	-	0:08:36.304000	0:08:38.044000
 ja	-	-	-	0:08:36.304000	0:08:38.044000
 .	-	-	-	0:08:36.304000	0:08:38.044000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:36.304000" end="0:08:38.044000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:36.304000" end="0:08:38.044000" persName="Informant EXP5" age_lower="" age_upper="999">
 von	-	-	-	0:08:36.304000	0:08:38.044000
 den	-	-	-	0:08:36.304000	0:08:38.044000
 alten	-	-	-	0:08:36.304000	0:08:38.044000
@@ -2312,25 +2312,25 @@ Leuten	-	-	-	0:08:36.304000	0:08:38.044000
 gut	-	-	-	0:08:36.304000	0:08:38.044000
 ?	-	-	-	0:08:36.304000	0:08:38.044000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:38.044000" end="0:08:38.841000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:38.044000" end="0:08:38.841000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:38.044000	0:08:38.841000
 ,	-	-	-	0:08:38.044000	0:08:38.841000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:38.044000" end="0:08:38.841000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:38.044000" end="0:08:38.841000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:08:38.044000	0:08:38.841000
 ,	-	-	-	0:08:38.044000	0:08:38.841000
 aha	-	-	-	0:08:38.044000	0:08:38.841000
 .	-	-	-	0:08:38.044000	0:08:38.841000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:38.841000" end="0:08:39.323000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:38.841000" end="0:08:39.323000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:08:38.841000	0:08:39.323000
 .	-	-	-	0:08:38.841000	0:08:39.323000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:39.323000" end="0:08:40.039000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:39.323000" end="0:08:40.039000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:08:39.323000	0:08:40.039000
 .	-	-	-	0:08:39.323000	0:08:40.039000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:40.039000" end="0:08:42.518000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:40.039000" end="0:08:42.518000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:08:40.039000	0:08:42.518000
 halt	-	-	-	0:08:40.039000	0:08:42.518000
 ,	-	-	-	0:08:40.039000	0:08:42.518000
@@ -2341,11 +2341,11 @@ vereinzelte	-	-	-	0:08:40.039000	0:08:42.518000
 Wörter	-	-	-	0:08:40.039000	0:08:42.518000
 ,	-	-	-	0:08:40.039000	0:08:42.518000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:42.518000" end="0:08:43.275000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:42.518000" end="0:08:43.275000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:42.518000	0:08:43.275000
 .	-	-	-	0:08:42.518000	0:08:43.275000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:43.275000" end="0:08:46.098000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:43.275000" end="0:08:46.098000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:08:43.275000	0:08:44.097000
 <pause duration="0,6s"/>
 man	-	-	-	0:08:44.097000	0:08:46.098000
@@ -2355,7 +2355,7 @@ es	-	-	-	0:08:44.097000	0:08:46.098000
 ja	-	-	-	0:08:44.097000	0:08:46.098000
 .	-	-	-	0:08:44.097000	0:08:46.098000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:44.097000" end="0:08:49.082000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:44.097000" end="0:08:49.082000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 im	-	-	-	0:08:44.097000	0:08:46.098000
 Wesentlichen	-	-	-	0:08:44.097000	0:08:46.098000
@@ -2377,20 +2377,20 @@ Verstehen	-	-	-	0:08:46.098000	0:08:49.082000
 noch	-	-	-	0:08:46.098000	0:08:49.082000
 .	-	-	-	0:08:46.098000	0:08:49.082000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:49.082000" end="0:08:49.908000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:49.082000" end="0:08:49.908000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:08:49.082000	0:08:49.908000
 ,	-	-	-	0:08:49.082000	0:08:49.908000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:49.082000" end="0:08:49.908000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:49.082000" end="0:08:49.908000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:08:49.908000" end="0:08:52.328000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:08:49.908000" end="0:08:52.328000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:08:49.908000	0:08:51.021000
 kann	-	-	-	0:08:49.908000	0:08:51.021000
 ich	-	-	-	0:08:49.908000	0:08:51.021000
 vollständig	-	-	-	0:08:49.908000	0:08:51.021000
 /.	-	-	-	0:08:49.908000	0:08:51.021000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:08:51.021000" end="0:09:03.958000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:51.021000" end="0:09:03.958000" persName="Informant EXP5" age_lower="" age_upper="999">
 super	-	-	-	0:08:51.021000	0:08:52.328000
 .	-	-	-	0:08:51.021000	0:08:52.328000
 <pause duration="1,2s"/>
@@ -2422,7 +2422,7 @@ Bewohner	-	-	-	0:08:58.083000	0:09:03.016000
 oder	-	-	-	0:09:03.016000	0:09:03.958000
 ?	-	-	-	0:09:03.016000	0:09:03.958000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:03.958000" end="0:09:05.559000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:03.958000" end="0:09:05.559000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:03.958000	0:09:05.559000
 ,	-	-	-	0:09:03.958000	0:09:05.559000
 eigentlich	-	-	-	0:09:03.958000	0:09:05.559000
@@ -2431,14 +2431,14 @@ schon	-	-	-	0:09:03.958000	0:09:05.559000
 weil	-	-	-	0:09:03.958000	0:09:05.559000
 so	-	-	-	0:09:03.958000	0:09:05.559000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:03.958000" end="0:09:05.559000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:03.958000" end="0:09:05.559000" persName="Informant EXP5" age_lower="" age_upper="999">
 (eigentlich	-	-	-	0:09:03.958000	0:09:05.559000
 schon	-	-	-	0:09:03.958000	0:09:05.559000
 ,	-	-	-	0:09:03.958000	0:09:05.559000
 ja	-	-	-	0:09:03.958000	0:09:05.559000
 .)	-	-	-	0:09:03.958000	0:09:05.559000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:05.559000" end="0:09:09.151000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:05.559000" end="0:09:09.151000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:09:05.559000	0:09:08.708000
 Dialekt	-	-	-	0:09:05.559000	0:09:08.708000
 <pause duration="0,8s"/>
@@ -2451,11 +2451,11 @@ Zeit	-	-	-	0:09:05.559000	0:09:08.708000
 oder	-	-	-	0:09:08.708000	0:09:09.151000
 ?	-	-	-	0:09:08.708000	0:09:09.151000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:08.708000" end="0:09:09.151000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:08.708000" end="0:09:09.151000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:08.708000	0:09:09.151000
 .	-	-	-	0:09:08.708000	0:09:09.151000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:09.151000" end="0:09:10.598000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:09.151000" end="0:09:10.598000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:09:09.151000	0:09:10.598000
 es	-	-	-	0:09:09.151000	0:09:10.598000
 wird	-	-	-	0:09:09.151000	0:09:10.598000
@@ -2463,11 +2463,11 @@ immer	-	-	-	0:09:09.151000	0:09:10.598000
 weniger	-	-	-	0:09:09.151000	0:09:10.598000
 .	-	-	-	0:09:09.151000	0:09:10.598000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:10.598000" end="0:09:11.194000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:10.598000" end="0:09:11.194000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:10.598000	0:09:11.194000
 .	-	-	-	0:09:10.598000	0:09:11.194000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:11.194000" end="0:09:19.230000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:11.194000" end="0:09:19.230000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:09:11.194000	0:09:13.937000
 merkt	-	-	-	0:09:11.194000	0:09:13.937000
 es	-	-	-	0:09:11.194000	0:09:13.937000
@@ -2499,13 +2499,13 @@ verloren	-	-	-	0:09:15.548000	0:09:19.230000
 geht	-	-	-	0:09:15.548000	0:09:19.230000
 .	-	-	-	0:09:15.548000	0:09:19.230000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:19.230000" end="0:09:20.014000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:19.230000" end="0:09:20.014000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:19.230000	0:09:20.014000
 ,	-	-	-	0:09:19.230000	0:09:20.014000
 ja	-	-	-	0:09:19.230000	0:09:20.014000
 .	-	-	-	0:09:19.230000	0:09:20.014000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:20.014000" end="0:09:23.581000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:20.014000" end="0:09:23.581000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dadurch	-	-	-	0:09:20.014000	0:09:23.157000
 ,	-	-	-	0:09:20.014000	0:09:23.157000
 dass	-	-	-	0:09:20.014000	0:09:23.157000
@@ -2523,11 +2523,11 @@ oder	-	-	-	0:09:20.014000	0:09:23.157000
 ?	-	-	-	0:09:20.014000	0:09:23.157000
 also	-	-	-	0:09:23.157000	0:09:23.581000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:23.157000" end="0:09:23.581000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:23.157000" end="0:09:23.581000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:23.157000	0:09:23.581000
 .	-	-	-	0:09:23.157000	0:09:23.581000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:23.581000" end="0:09:25.753000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:23.581000" end="0:09:25.753000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:09:23.581000	0:09:25.753000
 meisten	-	-	-	0:09:23.581000	0:09:25.753000
 Volksschulen	-	-	-	0:09:23.581000	0:09:25.753000
@@ -2538,21 +2538,21 @@ auf	-	-	-	0:09:23.581000	0:09:25.753000
 Hochdeutsch	-	-	-	0:09:23.581000	0:09:25.753000
 ,	-	-	-	0:09:23.581000	0:09:25.753000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:25.753000" end="0:09:26.146000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:25.753000" end="0:09:26.146000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:09:25.753000	0:09:26.146000
 ,	-	-	-	0:09:25.753000	0:09:26.146000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:26.146000" end="0:09:26.957000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:26.146000" end="0:09:26.957000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:09:26.146000	0:09:26.957000
 dann	-	-	-	0:09:26.146000	0:09:26.957000
 ist	-	-	-	0:09:26.146000	0:09:26.957000
 das	-	-	-	0:09:26.146000	0:09:26.957000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:26.146000" end="0:09:26.957000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:26.146000" end="0:09:26.957000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:09:26.146000	0:09:26.957000
 .	-	-	-	0:09:26.146000	0:09:26.957000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:26.957000" end="0:09:30.822000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:26.957000" end="0:09:30.822000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 natürlich	-	-	-	0:09:26.957000	0:09:27.499000
 ,	-	-	-	0:09:26.957000	0:09:27.499000
 das	-	-	-	0:09:27.499000	0:09:28.824000
@@ -2571,7 +2571,7 @@ weil	-	-	-	0:09:29.570000	0:09:30.822000
 es	-	-	-	0:09:29.570000	0:09:30.822000
 doch	-	-	-	0:09:29.570000	0:09:30.822000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:29.570000" end="0:09:30.822000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:29.570000" end="0:09:30.822000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:29.570000	0:09:30.822000
 ,	-	-	-	0:09:29.570000	0:09:30.822000
 ja	-	-	-	0:09:29.570000	0:09:30.822000
@@ -2579,32 +2579,32 @@ ja	-	-	-	0:09:29.570000	0:09:30.822000
 ja	-	-	-	0:09:29.570000	0:09:30.822000
 .	-	-	-	0:09:29.570000	0:09:30.822000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:30.822000" end="0:09:32.502000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:30.822000" end="0:09:32.502000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ein	-	-	-	0:09:30.822000	0:09:32.502000
 besonderer	-	-	-	0:09:30.822000	0:09:32.502000
 Dialekt	-	-	-	0:09:30.822000	0:09:32.502000
 ist	-	-	-	0:09:30.822000	0:09:32.502000
 .	-	-	-	0:09:30.822000	0:09:32.502000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:32.502000" end="0:09:33.536000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:32.502000" end="0:09:33.536000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:32.502000	0:09:33.536000
 ,	-	-	-	0:09:32.502000	0:09:33.536000
 schon	-	-	-	0:09:32.502000	0:09:33.536000
 .	-	-	-	0:09:32.502000	0:09:33.536000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:33.536000" end="0:09:34.219000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:33.536000" end="0:09:34.219000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:33.536000	0:09:34.219000
 .	-	-	-	0:09:33.536000	0:09:34.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:33.536000" end="0:09:35.869000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:33.536000" end="0:09:35.869000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:09:34.219000	0:09:35.869000
 ,	-	-	-	0:09:34.219000	0:09:35.869000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:35.869000" end="0:09:38.609000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:35.869000" end="0:09:38.609000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:35.869000" end="0:09:41.813000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:35.869000" end="0:09:41.813000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 sprechen	-	-	-	0:09:38.609000	0:09:41.813000
 Sie	-	-	-	0:09:38.609000	0:09:41.813000
@@ -2614,7 +2614,7 @@ Walser	-	-	-	0:09:38.609000	0:09:41.813000
 Dialekt	-	-	-	0:09:38.609000	0:09:41.813000
 ?	-	-	-	0:09:38.609000	0:09:41.813000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:41.813000" end="0:09:45.108000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:41.813000" end="0:09:45.108000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:41.813000	0:09:42.282000
 .	-	-	-	0:09:41.813000	0:09:42.282000
 (ja	-	-	-	0:09:42.282000	0:09:45.108000
@@ -2626,7 +2626,7 @@ schon	-	-	-	0:09:42.282000	0:09:45.108000
 stolz	-	-	-	0:09:42.282000	0:09:45.108000
 .	-	-	-	0:09:42.282000	0:09:45.108000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:42.282000" end="0:09:48.049000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:42.282000" end="0:09:48.049000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:42.282000	0:09:45.108000
 ,	-	-	-	0:09:42.282000	0:09:45.108000
 okay	-	-	-	0:09:42.282000	0:09:45.108000
@@ -2643,7 +2643,7 @@ da	-	-	-	0:09:46.648000	0:09:48.049000
 so	-	-	-	0:09:46.648000	0:09:48.049000
 /?	-	-	-	0:09:46.648000	0:09:48.049000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:48.049000" end="0:09:54.051000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:48.049000" end="0:09:54.051000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:48.049000	0:09:49.711000
 ,	-	-	-	0:09:48.049000	0:09:49.711000
 weil	-	-	-	0:09:48.049000	0:09:49.711000
@@ -2675,17 +2675,17 @@ hört	-	-	-	0:09:53.353000	0:09:54.051000
 es	-	-	-	0:09:53.353000	0:09:54.051000
 ,	-	-	-	0:09:53.353000	0:09:54.051000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:53.353000" end="0:09:54.051000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:53.353000" end="0:09:54.051000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:09:53.353000	0:09:54.051000
 .	-	-	-	0:09:53.353000	0:09:54.051000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:54.051000" end="0:09:55.233000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:54.051000" end="0:09:55.233000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:54.051000	0:09:54.445000
 .	-	-	-	0:09:54.051000	0:09:54.445000
 also	-	-	-	0:09:54.445000	0:09:55.233000
 /.	-	-	-	0:09:54.445000	0:09:55.233000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:54.445000" end="0:09:58.621000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:54.445000" end="0:09:58.621000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:09:54.445000	0:09:55.233000
 ,	-	-	-	0:09:54.445000	0:09:55.233000
 ja	-	-	-	0:09:54.445000	0:09:55.233000
@@ -2697,10 +2697,10 @@ okay	-	-	-	0:09:55.233000	0:09:57.100000
 ähm	-	-	-	0:09:57.100000	0:09:58.621000
 ,	-	-	-	0:09:57.100000	0:09:58.621000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:09:58.621000" end="0:10:00.756000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:09:58.621000" end="0:10:00.756000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:09:58.621000" end="0:10:08.718000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:58.621000" end="0:10:08.718000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 was	-	-	-	0:10:00.756000	0:10:02.450000
 würden	-	-	-	0:10:00.756000	0:10:02.450000
@@ -2723,7 +2723,7 @@ Walser	-	-	-	0:10:06.313000	0:10:08.718000
 Dialekt	-	-	-	0:10:06.313000	0:10:08.718000
 ?	-	-	-	0:10:06.313000	0:10:08.718000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:08.718000" end="0:10:13.808000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:08.718000" end="0:10:13.808000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:10:08.718000	0:10:10.511000
 ,	-	-	-	0:10:08.718000	0:10:10.511000
@@ -2739,24 +2739,24 @@ Walsertal	-	-	-	0:10:12.220000	0:10:13.808000
 bin	-	-	-	0:10:12.220000	0:10:13.808000
 und	-	-	-	0:10:12.220000	0:10:13.808000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:12.220000" end="0:10:13.808000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:12.220000" end="0:10:13.808000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:12.220000	0:10:13.808000
 ,	-	-	-	0:10:12.220000	0:10:13.808000
 mhm	-	-	-	0:10:12.220000	0:10:13.808000
 .	-	-	-	0:10:12.220000	0:10:13.808000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:13.808000" end="0:10:16.848000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:13.808000" end="0:10:16.848000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 eigentlich	-	-	-	0:10:13.808000	0:10:16.100000
 immer	-	-	-	0:10:13.808000	0:10:16.100000
 .	-	-	-	0:10:13.808000	0:10:16.100000
 halt	-	-	-	0:10:16.100000	0:10:16.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:16.100000" end="0:10:16.848000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:16.100000" end="0:10:16.848000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:16.100000	0:10:16.848000
 .	-	-	-	0:10:16.100000	0:10:16.848000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:16.848000" end="0:10:21.602000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:16.848000" end="0:10:21.602000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 verschieden	-	-	-	0:10:16.848000	0:10:18.184000
 ausgeprägt	-	-	-	0:10:16.848000	0:10:18.184000
 ,	-	-	-	0:10:16.848000	0:10:18.184000
@@ -2776,11 +2776,11 @@ Mama	-	-	-	0:10:19.445000	0:10:21.149000
 oder	-	-	-	0:10:19.445000	0:10:21.149000
 mit	-	-	-	0:10:21.149000	0:10:21.602000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:21.149000" end="0:10:21.602000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:21.149000" end="0:10:21.602000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:10:21.149000	0:10:21.602000
 .	-	-	-	0:10:21.149000	0:10:21.602000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:21.602000" end="0:10:23.776000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:21.602000" end="0:10:23.776000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:10:21.602000	0:10:23.026000
 Tiro/	-	-	-	0:10:21.602000	0:10:23.026000
 Tiroler	-	-	-	0:10:21.602000	0:10:23.026000
@@ -2790,7 +2790,7 @@ sonst	-	-	-	0:10:23.026000	0:10:23.776000
 immer	-	-	-	0:10:23.026000	0:10:23.776000
 .	-	-	-	0:10:23.026000	0:10:23.776000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:23.026000" end="0:10:25.928000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:23.026000" end="0:10:25.928000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:10:23.026000	0:10:23.776000
 .	-	-	-	0:10:23.026000	0:10:23.776000
 ja	-	-	-	0:10:23.776000	0:10:25.928000
@@ -2802,10 +2802,10 @@ okay	-	-	-	0:10:23.776000	0:10:25.928000
 mhm	-	-	-	0:10:23.776000	0:10:25.928000
 .	-	-	-	0:10:23.776000	0:10:25.928000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:25.928000" end="0:10:29.119000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:25.928000" end="0:10:29.119000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:25.928000" end="0:10:41.514000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:25.928000" end="0:10:41.514000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,2s"/>
 mhm	-	-	-	0:10:29.119000	0:10:30.032000
 .	-	-	-	0:10:29.119000	0:10:30.032000
@@ -2841,38 +2841,38 @@ Walser	-	-	-	0:10:37.165000	0:10:41.514000
 Dialekt	-	-	-	0:10:37.165000	0:10:41.514000
 ?	-	-	-	0:10:37.165000	0:10:41.514000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:41.514000" end="0:10:43.227000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:41.514000" end="0:10:43.227000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:41.514000" end="0:10:43.227000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:41.514000" end="0:10:43.227000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:43.227000" end="0:10:44.427000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:43.227000" end="0:10:44.427000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:43.227000	0:10:44.427000
 ,	-	-	-	0:10:43.227000	0:10:44.427000
 also	-	-	-	0:10:43.227000	0:10:44.427000
 täglich	-	-	-	0:10:43.227000	0:10:44.427000
 .	-	-	-	0:10:43.227000	0:10:44.427000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:44.427000" end="0:10:44.875000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:44.427000" end="0:10:44.875000" persName="Informant EXP5" age_lower="" age_upper="999">
 täglich	-	-	-	0:10:44.427000	0:10:44.875000
 .	-	-	-	0:10:44.427000	0:10:44.875000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:44.875000" end="0:10:45.931000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:44.875000" end="0:10:45.931000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:44.875000	0:10:45.203000
 ,	-	-	-	0:10:44.875000	0:10:45.203000
 sicher	-	-	-	0:10:45.203000	0:10:45.931000
 .	-	-	-	0:10:45.203000	0:10:45.931000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:45.203000" end="0:10:45.931000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:45.203000" end="0:10:45.931000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:10:45.203000	0:10:45.931000
 .	-	-	-	0:10:45.203000	0:10:45.931000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:45.931000" end="0:10:46.422000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:45.931000" end="0:10:46.422000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:10:45.931000	0:10:46.422000
 /.	-	-	-	0:10:45.931000	0:10:46.422000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:46.422000" end="0:10:55.823000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:46.422000" end="0:10:55.823000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:10:46.422000	0:10:48.690000
 wenn	-	-	-	0:10:46.422000	0:10:48.690000
 man	-	-	-	0:10:46.422000	0:10:48.690000
@@ -2898,7 +2898,7 @@ vielleicht	-	-	-	0:10:54.689000	0:10:55.823000
 dann	-	-	-	0:10:54.689000	0:10:55.823000
 doch	-	-	-	0:10:54.689000	0:10:55.823000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:55.823000" end="0:10:57.457000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:55.823000" end="0:10:57.457000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:10:55.823000	0:10:57.457000
 ,	-	-	-	0:10:55.823000	0:10:57.457000
 weil	-	-	-	0:10:55.823000	0:10:57.457000
@@ -2907,7 +2907,7 @@ der	-	-	-	0:10:55.823000	0:10:57.457000
 Mama	-	-	-	0:10:55.823000	0:10:57.457000
 /.	-	-	-	0:10:55.823000	0:10:57.457000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:55.823000" end="0:10:57.457000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:55.823000" end="0:10:57.457000" persName="Informant EXP5" age_lower="" age_upper="999">
 nicht	-	-	-	0:10:55.823000	0:10:57.457000
 ,	-	-	-	0:10:55.823000	0:10:57.457000
 weil	-	-	-	0:10:55.823000	0:10:57.457000
@@ -2918,11 +2918,11 @@ in	-	-	-	0:10:55.823000	0:10:57.457000
 der	-	-	-	0:10:55.823000	0:10:57.457000
 Arbeit	-	-	-	0:10:55.823000	0:10:57.457000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:57.457000" end="0:10:58.732000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:57.457000" end="0:10:58.732000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:57.457000	0:10:58.732000
 .	-	-	-	0:10:57.457000	0:10:58.732000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:10:57.457000" end="0:10:59.882000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:57.457000" end="0:10:59.882000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:10:57.457000	0:10:58.732000
 so	-	-	-	0:10:57.457000	0:10:58.732000
 oder	-	-	-	0:10:57.457000	0:10:58.732000
@@ -2934,7 +2934,7 @@ Mama	-	-	-	0:10:57.457000	0:10:58.732000
 ähm	-	-	-	0:10:58.732000	0:10:59.882000
 .	-	-	-	0:10:58.732000	0:10:59.882000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:10:59.882000" end="0:11:03.732000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:10:59.882000" end="0:11:03.732000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:10:59.882000	0:11:01.625000
 halt	-	-	-	0:10:59.882000	0:11:01.625000
 Großteils	-	-	-	0:10:59.882000	0:11:01.625000
@@ -2946,9 +2946,9 @@ mich	-	-	-	0:11:01.625000	0:11:03.732000
 durch	-	-	-	0:11:01.625000	0:11:03.732000
 .	-	-	-	0:11:01.625000	0:11:03.732000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:03.732000" end="0:11:04.648000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:03.732000" end="0:11:04.648000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:04.648000" end="0:11:06.039000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:04.648000" end="0:11:06.039000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:11:04.648000	0:11:06.039000
 ,	-	-	-	0:11:04.648000	0:11:06.039000
 ja	-	-	-	0:11:04.648000	0:11:06.039000
@@ -2956,25 +2956,25 @@ ja	-	-	-	0:11:04.648000	0:11:06.039000
 so	-	-	-	0:11:04.648000	0:11:06.039000
 .	-	-	-	0:11:04.648000	0:11:06.039000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:06.039000" end="0:11:07.986000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:06.039000" end="0:11:07.986000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	-	-	-	0:11:06.039000	0:11:07.986000
 ,	-	-	-	0:11:06.039000	0:11:07.986000
 mhm	-	-	-	0:11:06.039000	0:11:07.986000
 .	-	-	-	0:11:06.039000	0:11:07.986000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:07.986000" end="0:11:10.250000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:07.986000" end="0:11:10.250000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:07.986000" end="0:11:10.835000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:07.986000" end="0:11:10.835000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 ähm	-	-	-	0:11:10.250000	0:11:10.835000
 ,	-	-	-	0:11:10.250000	0:11:10.835000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:10.835000" end="0:11:12.479000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:10.835000" end="0:11:12.479000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:10.835000" end="0:11:22.337000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:10.835000" end="0:11:22.337000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 gibt	-	-	-	0:11:12.479000	0:11:13.612000
 es	-	-	-	0:11:12.479000	0:11:13.612000
@@ -3016,13 +3016,13 @@ oder	-	-	-	0:11:19.535000	0:11:22.337000
 so	-	-	-	0:11:19.535000	0:11:22.337000
 .	-	-	-	0:11:19.535000	0:11:22.337000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:22.337000" end="0:11:24.411000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:22.337000" end="0:11:24.411000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:22.337000" end="0:11:24.411000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:22.337000" end="0:11:24.411000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:24.411000" end="0:11:30.637000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:24.411000" end="0:11:30.637000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 puh	-	-	-	0:11:24.411000	0:11:25.962000
 ,	-	-	-	0:11:24.411000	0:11:25.962000
 schwierig	-	-	-	0:11:24.411000	0:11:25.962000
@@ -3039,7 +3039,7 @@ er	-	-	-	0:11:27.092000	0:11:29.168000
 immer	-	-	-	0:11:27.092000	0:11:29.168000
 .	-	-	-	0:11:27.092000	0:11:29.168000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:29.168000" end="0:11:32.097000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:29.168000" end="0:11:32.097000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:11:29.168000	0:11:30.637000
 .	-	-	-	0:11:29.168000	0:11:30.637000
 <pause duration="0,6s"/>
@@ -3048,7 +3048,7 @@ okay	-	-	-	0:11:30.637000	0:11:32.097000
 mhm	-	-	-	0:11:30.637000	0:11:32.097000
 .	-	-	-	0:11:30.637000	0:11:32.097000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:32.097000" end="0:11:38.555000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:32.097000" end="0:11:38.555000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:11:32.097000	0:11:32.417000
 <pause duration="0,6s"/>
 gerade	-	-	-	0:11:32.417000	0:11:36.233000
@@ -3075,11 +3075,11 @@ kommt	-	-	-	0:11:36.233000	0:11:38.555000
 (dann)	-	-	-	0:11:36.233000	0:11:38.555000
 ,	-	-	-	0:11:36.233000	0:11:38.555000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:38.555000" end="0:11:39.409000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:38.555000" end="0:11:39.409000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:11:38.555000	0:11:39.409000
 .	-	-	-	0:11:38.555000	0:11:39.409000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:39.409000" end="0:11:42.128000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:39.409000" end="0:11:42.128000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:11:39.409000	0:11:41.120000
 denkst	-	-	-	0:11:39.409000	0:11:41.120000
 du	-	-	-	0:11:39.409000	0:11:41.120000
@@ -3087,11 +3087,11 @@ schon	-	-	-	0:11:39.409000	0:11:41.120000
 cool	-	-	-	0:11:41.120000	0:11:42.128000
 .	-	-	-	0:11:41.120000	0:11:42.128000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:41.120000" end="0:11:42.128000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:41.120000" end="0:11:42.128000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:42.128000" end="0:11:43.210000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:42.128000" end="0:11:43.210000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:42.128000" end="0:11:53.561000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:42.128000" end="0:11:53.561000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:11:42.128000	0:11:43.210000
 .	-	-	-	0:11:42.128000	0:11:43.210000
 ähm	-	-	-	0:11:43.210000	0:11:44.924000
@@ -3125,13 +3125,13 @@ unpassend	-	-	-	0:11:51.258000	0:11:53.561000
 erscheint	-	-	-	0:11:51.258000	0:11:53.561000
 ?	-	-	-	0:11:51.258000	0:11:53.561000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:53.561000" end="0:11:55.092000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:53.561000" end="0:11:55.092000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:11:53.561000" end="0:11:55.092000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:53.561000" end="0:11:55.092000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:11:55.092000" end="0:12:04.255000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:11:55.092000" end="0:12:04.255000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:55.092000	0:11:57.174000
 ,	-	-	-	0:11:55.092000	0:11:57.174000
 also	-	-	-	0:11:55.092000	0:11:57.174000
@@ -3170,11 +3170,11 @@ verstehen	-	-	-	0:12:01.499000	0:12:03.769000
 also	-	-	-	0:12:03.769000	0:12:04.255000
 sie	-	-	-	0:12:03.769000	0:12:04.255000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:03.769000" end="0:12:04.255000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:03.769000" end="0:12:04.255000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:12:03.769000	0:12:04.255000
 .	-	-	-	0:12:03.769000	0:12:04.255000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:04.255000" end="0:12:11.564000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:04.255000" end="0:12:11.564000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 tun	-	-	-	0:12:04.255000	0:12:05.645000
 sich	-	-	-	0:12:04.255000	0:12:05.645000
 dann	-	-	-	0:12:04.255000	0:12:05.645000
@@ -3208,7 +3208,7 @@ nein	-	-	-	0:12:09.954000	0:12:11.564000
 also	-	-	-	0:12:09.954000	0:12:11.564000
 /.	-	-	-	0:12:09.954000	0:12:11.564000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:09.954000" end="0:12:21.720000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:09.954000" end="0:12:21.720000" persName="Informant EXP5" age_lower="" age_upper="999">
 *ist*	-	-	-	0:12:09.954000	0:12:11.564000
 nicht	-	-	-	0:12:09.954000	0:12:11.564000
 ,	-	-	-	0:12:09.954000	0:12:11.564000
@@ -3241,7 +3241,7 @@ sprechen	-	-	-	0:12:19.116000	0:12:21.720000
 können	-	-	-	0:12:19.116000	0:12:21.720000
 ?	-	-	-	0:12:19.116000	0:12:21.720000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:21.720000" end="0:12:27.127000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:21.720000" end="0:12:27.127000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	-	-	-	0:12:21.720000	0:12:23.648000
 ,	-	-	-	0:12:21.720000	0:12:23.648000
@@ -3258,11 +3258,11 @@ gesagt	-	-	-	0:12:26.484000	0:12:27.127000
 wenn	-	-	-	0:12:26.484000	0:12:27.127000
 ,	-	-	-	0:12:26.484000	0:12:27.127000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:26.484000" end="0:12:27.127000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:26.484000" end="0:12:27.127000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:12:26.484000	0:12:27.127000
 .	-	-	-	0:12:26.484000	0:12:27.127000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:27.127000" end="0:12:31.089000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:27.127000" end="0:12:31.089000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:12:27.127000	0:12:29.496000
 wenn	-	-	-	0:12:27.127000	0:12:29.496000
 ich	-	-	-	0:12:27.127000	0:12:29.496000
@@ -3280,11 +3280,11 @@ so	-	-	-	0:12:29.496000	0:12:30.515000
 ,	-	-	-	0:12:29.496000	0:12:30.515000
 das	-	-	-	0:12:30.515000	0:12:31.089000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:30.515000" end="0:12:31.089000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:30.515000" end="0:12:31.089000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:30.515000	0:12:31.089000
 .	-	-	-	0:12:30.515000	0:12:31.089000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:31.089000" end="0:12:35.101000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:31.089000" end="0:12:35.101000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:12:31.089000	0:12:31.672000
 halt	-	-	-	0:12:31.089000	0:12:31.672000
 ,	-	-	-	0:12:31.089000	0:12:31.672000
@@ -3299,11 +3299,11 @@ ausgelacht	-	-	-	0:12:31.672000	0:12:34.448000
 .	-	-	-	0:12:31.672000	0:12:34.448000
 aber	-	-	-	0:12:34.448000	0:12:35.101000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:34.448000" end="0:12:35.101000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:34.448000" end="0:12:35.101000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:12:34.448000	0:12:35.101000
 .	-	-	-	0:12:34.448000	0:12:35.101000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:35.101000" end="0:12:37.112000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:35.101000" end="0:12:37.112000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:12:35.101000	0:12:35.858000
 (sagt)	-	-	-	0:12:35.101000	0:12:35.858000
 schon	-	-	-	0:12:35.101000	0:12:35.858000
@@ -3314,12 +3314,12 @@ ist	-	-	-	0:12:35.858000	0:12:36.247000
 ein	-	-	-	0:12:36.247000	0:12:37.112000
 schöner	-	-	-	0:12:36.247000	0:12:37.112000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:36.247000" end="0:12:37.112000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:36.247000" end="0:12:37.112000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:12:36.247000	0:12:37.112000
 .	-	-	-	0:12:36.247000	0:12:37.112000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:37.112000" end="0:12:39.842000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:37.112000" end="0:12:39.842000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:12:37.112000	0:12:37.873000
 und	-	-	-	0:12:37.112000	0:12:37.873000
 vor	-	-	-	0:12:37.112000	0:12:37.873000
@@ -3336,11 +3336,11 @@ das	-	-	-	0:12:39.258000	0:12:39.842000
 (und)	-	-	-	0:12:39.258000	0:12:39.842000
 /.	-	-	-	0:12:39.258000	0:12:39.842000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:39.258000" end="0:12:39.842000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:39.258000" end="0:12:39.842000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:12:39.258000	0:12:39.842000
 .	-	-	-	0:12:39.258000	0:12:39.842000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:39.842000" end="0:12:44.900000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:39.842000" end="0:12:44.900000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 (die)	-	-	-	0:12:39.842000	0:12:42.015000
 Walser	-	-	-	0:12:39.842000	0:12:42.015000
@@ -3358,15 +3358,15 @@ stolz	-	-	-	0:12:43.535000	0:12:44.900000
 halt	-	-	-	0:12:43.535000	0:12:44.900000
 .	-	-	-	0:12:43.535000	0:12:44.900000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:43.535000" end="0:12:45.991000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:43.535000" end="0:12:45.991000" persName="Informant EXP5" age_lower="" age_upper="999">
 super	-	-	-	0:12:44.900000	0:12:45.991000
 .	-	-	-	0:12:44.900000	0:12:45.991000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:45.991000" end="0:12:47.136000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:45.991000" end="0:12:47.136000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:45.991000	0:12:47.136000
 .	-	-	-	0:12:45.991000	0:12:47.136000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:45.991000" end="0:12:53.330000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:45.991000" end="0:12:53.330000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:12:45.991000	0:12:47.136000
 .	-	-	-	0:12:45.991000	0:12:47.136000
 <pause duration="1,4s"/>
@@ -3391,7 +3391,7 @@ sprechen	-	-	-	0:12:50.171000	0:12:52.221000
 belächeln	-	-	-	0:12:52.221000	0:12:53.330000
 ihn	-	-	-	0:12:52.221000	0:12:53.330000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:53.330000" end="0:12:55.173000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:53.330000" end="0:12:55.173000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:53.330000	0:12:55.173000
 ,	-	-	-	0:12:53.330000	0:12:55.173000
 sie	-	-	-	0:12:53.330000	0:12:55.173000
@@ -3402,14 +3402,14 @@ zieht	-	-	-	0:12:53.330000	0:12:55.173000
 sie	-	-	-	0:12:53.330000	0:12:55.173000
 halt	-	-	-	0:12:53.330000	0:12:55.173000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:53.330000" end="0:12:55.173000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:53.330000" end="0:12:55.173000" persName="Informant EXP5" age_lower="" age_upper="999">
 ein	-	-	-	0:12:53.330000	0:12:55.173000
 bisschen	-	-	-	0:12:53.330000	0:12:55.173000
 ,	-	-	-	0:12:53.330000	0:12:55.173000
 oder	-	-	-	0:12:53.330000	0:12:55.173000
 ?	-	-	-	0:12:53.330000	0:12:55.173000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:55.173000" end="0:12:56.223000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:55.173000" end="0:12:56.223000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 immer	-	-	-	0:12:55.173000	0:12:55.642000
 ein	-	-	-	0:12:55.173000	0:12:55.642000
 bisschen	-	-	-	0:12:55.173000	0:12:55.642000
@@ -3418,11 +3418,11 @@ auf	-	-	-	0:12:55.642000	0:12:56.223000
 aber	-	-	-	0:12:55.642000	0:12:56.223000
 das	-	-	-	0:12:55.642000	0:12:56.223000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:12:55.642000" end="0:12:56.223000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:55.642000" end="0:12:56.223000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:12:55.642000	0:12:56.223000
 .	-	-	-	0:12:55.642000	0:12:56.223000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:12:56.223000" end="0:13:00.325000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:12:56.223000" end="0:13:00.325000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:12:56.223000	0:12:57.268000
 eigentlich	-	-	-	0:12:56.223000	0:12:57.268000
 überall	-	-	-	0:12:56.223000	0:12:57.268000
@@ -3443,13 +3443,13 @@ halt	-	-	-	0:12:59.422000	0:13:00.325000
 auch	-	-	-	0:12:59.422000	0:13:00.325000
 /.	-	-	-	0:12:59.422000	0:13:00.325000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:00.325000" end="0:13:01.287000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:00.325000" end="0:13:01.287000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:13:00.325000	0:13:01.287000
 ,	-	-	-	0:13:00.325000	0:13:01.287000
 ja	-	-	-	0:13:00.325000	0:13:01.287000
 .	-	-	-	0:13:00.325000	0:13:01.287000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:01.287000" end="0:13:04.056000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:01.287000" end="0:13:04.056000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:13:01.287000	0:13:03.673000
 das	-	-	-	0:13:01.287000	0:13:03.673000
 ist	-	-	-	0:13:01.287000	0:13:03.673000
@@ -3461,17 +3461,17 @@ bisschen	-	-	-	0:13:01.287000	0:13:03.673000
 .	-	-	-	0:13:01.287000	0:13:03.673000
 dass	-	-	-	0:13:03.673000	0:13:04.056000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:03.673000" end="0:13:04.056000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:03.673000" end="0:13:04.056000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:13:03.673000	0:13:04.056000
 .	-	-	-	0:13:03.673000	0:13:04.056000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:04.056000" end="0:13:04.927000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:04.056000" end="0:13:04.927000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:13:04.056000	0:13:04.927000
 ein	-	-	-	0:13:04.056000	0:13:04.927000
 bisschen	-	-	-	0:13:04.056000	0:13:04.927000
 /.	-	-	-	0:13:04.056000	0:13:04.927000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:04.927000" end="0:13:23.718000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:04.927000" end="0:13:23.718000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:13:04.927000	0:13:06.410000
 ,	-	-	-	0:13:04.927000	0:13:06.410000
 ja	-	-	-	0:13:04.927000	0:13:06.410000
@@ -3523,17 +3523,17 @@ oder	-	-	-	0:13:21.393000	0:13:23.718000
 gibt	-	-	-	0:13:21.393000	0:13:23.718000
 es	-	-	-	0:13:21.393000	0:13:23.718000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:23.718000" end="0:13:24.681000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:23.718000" end="0:13:24.681000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:23.718000	0:13:24.681000
 ,	-	-	-	0:13:23.718000	0:13:24.681000
 alle	-	-	-	0:13:23.718000	0:13:24.681000
 ,	-	-	-	0:13:23.718000	0:13:24.681000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:23.718000" end="0:13:24.681000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:23.718000" end="0:13:24.681000" persName="Informant EXP5" age_lower="" age_upper="999">
 bestimmte	-	-	-	0:13:23.718000	0:13:24.681000
 /?	-	-	-	0:13:23.718000	0:13:24.681000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:24.681000" end="0:13:26.313000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:24.681000" end="0:13:26.313000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 alle	-	-	-	0:13:24.681000	0:13:25.423000
 jetzt	-	-	-	0:13:24.681000	0:13:25.423000
 nicht	-	-	-	0:13:24.681000	0:13:25.423000
@@ -3541,22 +3541,22 @@ nicht	-	-	-	0:13:24.681000	0:13:25.423000
 sind	-	-	-	0:13:25.423000	0:13:26.313000
 natürlich	-	-	-	0:13:25.423000	0:13:26.313000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:25.423000" end="0:13:26.313000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:25.423000" end="0:13:26.313000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:25.423000	0:13:26.313000
 .	-	-	-	0:13:25.423000	0:13:26.313000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:26.313000" end="0:13:28.167000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:26.313000" end="0:13:28.167000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 viel	-	-	-	0:13:26.313000	0:13:27.417000
 Zugezogene	-	-	-	0:13:26.313000	0:13:27.417000
 auch	-	-	-	0:13:27.417000	0:13:28.167000
 ,	-	-	-	0:13:27.417000	0:13:28.167000
 aber	-	-	-	0:13:27.417000	0:13:28.167000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:27.417000" end="0:13:28.167000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:27.417000" end="0:13:28.167000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:13:27.417000	0:13:28.167000
 .	-	-	-	0:13:27.417000	0:13:28.167000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:28.167000" end="0:13:30.523000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:28.167000" end="0:13:30.523000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 der	-	-	-	0:13:28.167000	0:13:29.990000
 Großteil	-	-	-	0:13:28.167000	0:13:29.990000
@@ -3565,11 +3565,11 @@ schon	-	-	-	0:13:28.167000	0:13:29.990000
 also	-	-	-	0:13:28.167000	0:13:29.990000
 gerade	-	-	-	0:13:29.990000	0:13:30.523000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:29.990000" end="0:13:30.523000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:29.990000" end="0:13:30.523000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:29.990000	0:13:30.523000
 .	-	-	-	0:13:29.990000	0:13:30.523000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:30.523000" end="0:13:35.826000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:30.523000" end="0:13:35.826000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:13:30.523000	0:13:33.085000
 ,	-	-	-	0:13:30.523000	0:13:33.085000
 was	-	-	-	0:13:30.523000	0:13:33.085000
@@ -3592,11 +3592,11 @@ so	-	-	-	0:13:33.085000	0:13:35.826000
 sind	-	-	-	0:13:33.085000	0:13:35.826000
 ,	-	-	-	0:13:33.085000	0:13:35.826000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:35.826000" end="0:13:36.144000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:35.826000" end="0:13:36.144000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:35.826000	0:13:36.144000
 .	-	-	-	0:13:35.826000	0:13:36.144000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:36.144000" end="0:13:38.780000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:36.144000" end="0:13:38.780000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dort	-	-	-	0:13:36.144000	0:13:36.969000
 merkst	-	-	-	0:13:36.144000	0:13:36.969000
 du	-	-	-	0:13:36.144000	0:13:36.969000
@@ -3612,15 +3612,15 @@ ausgeprägt	-	-	-	0:13:36.969000	0:13:38.780000
 reden	-	-	-	0:13:36.969000	0:13:38.780000
 .	-	-	-	0:13:36.969000	0:13:38.780000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:38.780000" end="0:13:39.232000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:38.780000" end="0:13:39.232000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:38.780000	0:13:39.232000
 .	-	-	-	0:13:38.780000	0:13:39.232000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:39.232000" end="0:13:39.685000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:39.232000" end="0:13:39.685000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:13:39.232000	0:13:39.685000
 .	-	-	-	0:13:39.232000	0:13:39.685000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:39.685000" end="0:13:42.134000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:39.685000" end="0:13:42.134000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:13:39.685000	0:13:40.713000
 ,	-	-	-	0:13:39.685000	0:13:40.713000
 mhm	-	-	-	0:13:39.685000	0:13:40.713000
@@ -3629,10 +3629,10 @@ mhm	-	-	-	0:13:39.685000	0:13:40.713000
 ähm	-	-	-	0:13:40.713000	0:13:42.134000
 ,	-	-	-	0:13:40.713000	0:13:42.134000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:42.134000" end="0:13:43.764000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:42.134000" end="0:13:43.764000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:42.134000" end="0:13:51.670000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:42.134000" end="0:13:51.670000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 gibt	-	-	-	0:13:43.764000	0:13:48.290000
 es	-	-	-	0:13:43.764000	0:13:48.290000
@@ -3659,14 +3659,14 @@ stärker	-	-	-	0:13:49.128000	0:13:51.670000
 ausgeprägt	-	-	-	0:13:49.128000	0:13:51.670000
 /?	-	-	-	0:13:49.128000	0:13:51.670000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:51.670000" end="0:13:52.795000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:51.670000" end="0:13:52.795000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:51.670000	0:13:52.795000
 ,	-	-	-	0:13:51.670000	0:13:52.795000
 das	-	-	-	0:13:51.670000	0:13:52.795000
 schon	-	-	-	0:13:51.670000	0:13:52.795000
 .	-	-	-	0:13:51.670000	0:13:52.795000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:13:51.670000" end="0:13:52.795000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:51.670000" end="0:13:52.795000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:13:51.670000	0:13:52.795000
 ,	-	-	-	0:13:51.670000	0:13:52.795000
 oder	-	-	-	0:13:51.670000	0:13:52.795000
@@ -3674,7 +3674,7 @@ oder	-	-	-	0:13:51.670000	0:13:52.795000
 ja	-	-	-	0:13:51.670000	0:13:52.795000
 .	-	-	-	0:13:51.670000	0:13:52.795000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:13:52.795000" end="0:14:11.405000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:13:52.795000" end="0:14:11.405000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:13:52.795000	0:13:54.439000
 man	-	-	-	0:13:52.795000	0:13:54.439000
 merkt	-	-	-	0:13:52.795000	0:13:54.439000
@@ -3746,11 +3746,11 @@ Raggaler	-	-	-	0:14:10.566000	0:14:11.405000
 ist	-	-	-	0:14:10.566000	0:14:11.405000
 .	-	-	-	0:14:10.566000	0:14:11.405000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:10.566000" end="0:14:11.405000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:10.566000" end="0:14:11.405000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:10.566000	0:14:11.405000
 .	-	-	-	0:14:10.566000	0:14:11.405000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:11.405000" end="0:14:16.700000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:11.405000" end="0:14:16.700000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (dann)	-	-	-	0:14:11.405000	0:14:14.091000
 reden	-	-	-	0:14:11.405000	0:14:14.091000
 sie	-	-	-	0:14:11.405000	0:14:14.091000
@@ -3776,7 +3776,7 @@ den	-	-	-	0:14:15.613000	0:14:16.700000
 Unterschied	-	-	-	0:14:15.613000	0:14:16.700000
 .	-	-	-	0:14:15.613000	0:14:16.700000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:16.700000" end="0:14:17.520000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:16.700000" end="0:14:17.520000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:16.700000	0:14:17.520000
 ,	-	-	-	0:14:16.700000	0:14:17.520000
 ja	-	-	-	0:14:16.700000	0:14:17.520000
@@ -3784,11 +3784,11 @@ ja	-	-	-	0:14:16.700000	0:14:17.520000
 ja	-	-	-	0:14:16.700000	0:14:17.520000
 .	-	-	-	0:14:16.700000	0:14:17.520000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:17.520000" end="0:14:18.467000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:17.520000" end="0:14:18.467000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Generationen	-	-	-	0:14:17.520000	0:14:18.467000
 .	-	-	-	0:14:17.520000	0:14:18.467000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:17.520000" end="0:14:31.828000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:17.520000" end="0:14:31.828000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:14:17.520000	0:14:18.467000
 ,	-	-	-	0:14:17.520000	0:14:18.467000
 mhm	-	-	-	0:14:18.467000	0:14:19.977000
@@ -3841,7 +3841,7 @@ haben	-	-	-	0:14:31.504000	0:14:31.828000
 Sie	-	-	-	0:14:31.504000	0:14:31.828000
 da	-	-	-	0:14:31.504000	0:14:31.828000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:31.828000" end="0:14:33.015000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:31.828000" end="0:14:33.015000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:31.828000	0:14:33.015000
 ,	-	-	-	0:14:31.828000	0:14:33.015000
 also	-	-	-	0:14:31.828000	0:14:33.015000
@@ -3849,12 +3849,12 @@ ich	-	-	-	0:14:31.828000	0:14:33.015000
 glaube	-	-	-	0:14:31.828000	0:14:33.015000
 ,	-	-	-	0:14:31.828000	0:14:33.015000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:31.828000" end="0:14:33.015000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:31.828000" end="0:14:33.015000" persName="Informant EXP5" age_lower="" age_upper="999">
 irgendwie	-	-	-	0:14:31.828000	0:14:33.015000
 Ideen	-	-	-	0:14:31.828000	0:14:33.015000
 ?	-	-	-	0:14:31.828000	0:14:33.015000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:33.015000" end="0:14:36.559000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:33.015000" end="0:14:36.559000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:14:33.015000	0:14:34.651000
 ich	-	-	-	0:14:33.015000	0:14:34.651000
 glaube	-	-	-	0:14:33.015000	0:14:34.651000
@@ -3874,11 +3874,11 @@ verloren	-	-	-	0:14:34.651000	0:14:36.072000
 also	-	-	-	0:14:36.072000	0:14:36.559000
 der	-	-	-	0:14:36.072000	0:14:36.559000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:36.072000" end="0:14:36.559000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:36.072000" end="0:14:36.559000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:36.072000	0:14:36.559000
 .	-	-	-	0:14:36.072000	0:14:36.559000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:36.559000" end="0:14:42.331000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:36.559000" end="0:14:42.331000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 urige	-	-	-	0:14:36.559000	0:14:37.528000
 Dialekt	-	-	-	0:14:36.559000	0:14:37.528000
 ,	-	-	-	0:14:36.559000	0:14:37.528000
@@ -3902,11 +3902,11 @@ Leuten	-	-	-	0:14:39.101000	0:14:41.989000
 .	-	-	-	0:14:39.101000	0:14:41.989000
 und	-	-	-	0:14:41.989000	0:14:42.331000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:41.989000" end="0:14:42.331000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:41.989000" end="0:14:42.331000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:41.989000	0:14:42.331000
 .	-	-	-	0:14:41.989000	0:14:42.331000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:42.331000" end="0:14:43.849000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:42.331000" end="0:14:43.849000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:14:42.331000	0:14:43.429000
 finde	-	-	-	0:14:42.331000	0:14:43.429000
 ich	-	-	-	0:14:42.331000	0:14:43.429000
@@ -3916,11 +3916,11 @@ schade	-	-	-	0:14:42.331000	0:14:43.429000
 .	-	-	-	0:14:42.331000	0:14:43.429000
 und	-	-	-	0:14:43.429000	0:14:43.849000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:43.429000" end="0:14:43.849000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:43.429000" end="0:14:43.849000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:43.429000	0:14:43.849000
 .	-	-	-	0:14:43.429000	0:14:43.849000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:43.849000" end="0:14:51.683000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:43.849000" end="0:14:51.683000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gerade	-	-	-	0:14:43.849000	0:14:47.102000
 jetzt	-	-	-	0:14:43.849000	0:14:47.102000
 durch	-	-	-	0:14:43.849000	0:14:47.102000
@@ -3960,18 +3960,18 @@ richtig	-	-	-	0:14:49.683000	0:14:51.683000
 oder	-	-	-	0:14:49.683000	0:14:51.683000
 ?	-	-	-	0:14:49.683000	0:14:51.683000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:51.683000" end="0:14:52.129000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:51.683000" end="0:14:52.129000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:51.683000	0:14:52.129000
 .	-	-	-	0:14:51.683000	0:14:52.129000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:52.129000" end="0:14:52.428000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:52.129000" end="0:14:52.428000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:14:52.129000	0:14:52.428000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:52.129000" end="0:14:52.428000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:52.129000" end="0:14:52.428000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:52.129000	0:14:52.428000
 .	-	-	-	0:14:52.129000	0:14:52.428000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:52.428000" end="0:14:54.385000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:52.428000" end="0:14:54.385000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Schüler	-	-	-	0:14:52.428000	0:14:54.385000
 reden	-	-	-	0:14:52.428000	0:14:54.385000
 den	-	-	-	0:14:52.428000	0:14:54.385000
@@ -3982,36 +3982,36 @@ mehr	-	-	-	0:14:52.428000	0:14:54.385000
 (schön)	-	-	-	0:14:52.428000	0:14:54.385000
 .	-	-	-	0:14:52.428000	0:14:54.385000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:54.385000" end="0:14:54.946000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:54.385000" end="0:14:54.946000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:54.385000	0:14:54.946000
 .	-	-	-	0:14:54.385000	0:14:54.946000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:54.946000" end="0:14:56.039000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:54.946000" end="0:14:56.039000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:14:54.946000	0:14:56.039000
 dann	-	-	-	0:14:54.946000	0:14:56.039000
 *is*	-	-	-	0:14:54.946000	0:14:56.039000
 halt	-	-	-	0:14:54.946000	0:14:56.039000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:56.039000" end="0:14:57.135000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:56.039000" end="0:14:57.135000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:14:56.039000	0:14:57.135000
 .	-	-	-	0:14:56.039000	0:14:57.135000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:57.135000" end="0:14:58.663000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:57.135000" end="0:14:58.663000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:14:57.135000	0:14:58.663000
 ,	-	-	-	0:14:57.135000	0:14:58.663000
 schade	-	-	-	0:14:57.135000	0:14:58.663000
 .	-	-	-	0:14:57.135000	0:14:58.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:58.663000" end="0:14:59.202000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:58.663000" end="0:14:59.202000" persName="Informant EXP5" age_lower="" age_upper="999">
 schade	-	-	-	0:14:58.663000	0:14:59.202000
 ,	-	-	-	0:14:58.663000	0:14:59.202000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:14:59.202000" end="0:14:59.611000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:14:59.202000" end="0:14:59.611000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:59.202000	0:14:59.611000
 .	-	-	-	0:14:59.202000	0:14:59.611000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:14:59.202000" end="0:15:08.874000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:59.202000" end="0:15:08.874000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:14:59.202000	0:14:59.611000
 .	-	-	-	0:14:59.202000	0:14:59.611000
 okay	-	-	-	0:14:59.611000	0:15:00.865000
@@ -4048,11 +4048,11 @@ mehr	-	-	-	0:15:05.116000	0:15:08.874000
 der	-	-	-	0:15:05.116000	0:15:08.874000
 Dialekt	-	-	-	0:15:05.116000	0:15:08.874000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:08.874000" end="0:15:10.050000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:08.874000" end="0:15:10.050000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:08.874000	0:15:10.050000
 .	-	-	-	0:15:08.874000	0:15:10.050000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:08.874000" end="0:15:10.774000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:08.874000" end="0:15:10.774000" persName="Informant EXP5" age_lower="" age_upper="999">
 gesprochen	-	-	-	0:15:08.874000	0:15:10.050000
 wird	-	-	-	0:15:08.874000	0:15:10.050000
 ,	-	-	-	0:15:08.874000	0:15:10.050000
@@ -4060,7 +4060,7 @@ so	-	-	-	0:15:10.050000	0:15:10.774000
 also	-	-	-	0:15:10.050000	0:15:10.774000
 .	-	-	-	0:15:10.050000	0:15:10.774000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:10.774000" end="0:15:13.519000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:10.774000" end="0:15:13.519000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:15:10.774000	0:15:12.298000
 dass	-	-	-	0:15:10.774000	0:15:12.298000
 man	-	-	-	0:15:10.774000	0:15:12.298000
@@ -4074,26 +4074,26 @@ nicht	-	-	-	0:15:12.298000	0:15:13.519000
 mehr	-	-	-	0:15:12.298000	0:15:13.519000
 so	-	-	-	0:15:12.298000	0:15:13.519000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:13.519000" end="0:15:14.229000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:13.519000" end="0:15:14.229000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:13.519000	0:15:14.229000
 .	-	-	-	0:15:13.519000	0:15:14.229000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:14.229000" end="0:15:15.240000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:14.229000" end="0:15:15.240000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 miteinander	-	-	-	0:15:14.229000	0:15:15.240000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:14.229000" end="0:15:15.240000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:14.229000" end="0:15:15.240000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:15:14.229000	0:15:15.240000
 .	-	-	-	0:15:14.229000	0:15:15.240000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:15.240000" end="0:15:15.682000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:15.240000" end="0:15:15.682000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 redet	-	-	-	0:15:15.240000	0:15:15.682000
 .	-	-	-	0:15:15.240000	0:15:15.682000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:15.682000" end="0:15:16.048000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:15.682000" end="0:15:16.048000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:15:15.682000	0:15:16.048000
 .	-	-	-	0:15:15.682000	0:15:16.048000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:16.048000" end="0:15:18.654000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:16.048000" end="0:15:18.654000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:15:16.048000	0:15:17.500000
 passt	-	-	-	0:15:16.048000	0:15:17.500000
 sich	-	-	-	0:15:16.048000	0:15:17.500000
@@ -4107,7 +4107,7 @@ Land	-	-	-	0:15:17.500000	0:15:18.654000
 (hinaus)	-	-	-	0:15:17.500000	0:15:18.654000
 /.	-	-	-	0:15:17.500000	0:15:18.654000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:18.654000" end="0:15:34.710000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:18.654000" end="0:15:34.710000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:15:18.654000	0:15:19.750000
 ,	-	-	-	0:15:18.654000	0:15:19.750000
 ja	-	-	-	0:15:18.654000	0:15:19.750000
@@ -4165,12 +4165,12 @@ eh	-	-	-	0:15:33.345000	0:15:34.710000
 nicht	-	-	-	0:15:33.345000	0:15:34.710000
 ?	-	-	-	0:15:33.345000	0:15:34.710000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:34.710000" end="0:15:35.344000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:34.710000" end="0:15:35.344000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:15:34.710000	0:15:35.344000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:34.710000" end="0:15:35.344000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:34.710000" end="0:15:35.344000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:35.344000" end="0:15:43.587000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:35.344000" end="0:15:43.587000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:15:35.344000	0:15:37.657000
 auf	-	-	-	0:15:35.344000	0:15:37.657000
 das	-	-	-	0:15:35.344000	0:15:37.657000
@@ -4205,11 +4205,11 @@ jetzt	-	-	-	0:15:40.986000	0:15:43.013000
 zum	-	-	-	0:15:43.013000	0:15:43.587000
 Beispiel	-	-	-	0:15:43.013000	0:15:43.587000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:43.013000" end="0:15:43.587000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:43.013000" end="0:15:43.587000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:43.013000	0:15:43.587000
 .	-	-	-	0:15:43.013000	0:15:43.587000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:43.587000" end="0:15:46.807000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:43.587000" end="0:15:46.807000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Fontanella	-	-	-	0:15:43.587000	0:15:46.395000
 ist	-	-	-	0:15:43.587000	0:15:46.395000
 noch	-	-	-	0:15:43.587000	0:15:46.395000
@@ -4221,11 +4221,11 @@ Raggal	-	-	-	0:15:43.587000	0:15:46.395000
 .	-	-	-	0:15:43.587000	0:15:46.395000
 also	-	-	-	0:15:46.395000	0:15:46.807000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:46.395000" end="0:15:46.807000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:46.395000" end="0:15:46.807000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:15:46.395000	0:15:46.807000
 .	-	-	-	0:15:46.395000	0:15:46.807000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:46.807000" end="0:15:49.318000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:46.807000" end="0:15:49.318000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:15:46.807000	0:15:49.318000
 reden	-	-	-	0:15:46.807000	0:15:49.318000
 noch	-	-	-	0:15:46.807000	0:15:49.318000
@@ -4237,11 +4237,11 @@ wie	-	-	-	0:15:46.807000	0:15:49.318000
 Raggal	-	-	-	0:15:46.807000	0:15:49.318000
 .	-	-	-	0:15:46.807000	0:15:49.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:49.318000" end="0:15:49.868000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:49.318000" end="0:15:49.868000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:15:49.318000	0:15:49.868000
 .	-	-	-	0:15:49.318000	0:15:49.868000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:49.868000" end="0:15:54.366000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:49.868000" end="0:15:54.366000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:15:49.868000	0:15:50.817000
 sind	-	-	-	0:15:49.868000	0:15:50.817000
 ,	-	-	-	0:15:49.868000	0:15:50.817000
@@ -4265,13 +4265,13 @@ also	-	-	-	0:15:53.177000	0:15:54.366000
 ,	-	-	-	0:15:53.177000	0:15:54.366000
 aber	-	-	-	0:15:53.177000	0:15:54.366000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:53.177000" end="0:15:54.366000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:53.177000" end="0:15:54.366000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:15:53.177000	0:15:54.366000
 ,	-	-	-	0:15:53.177000	0:15:54.366000
 okay	-	-	-	0:15:53.177000	0:15:54.366000
 .	-	-	-	0:15:53.177000	0:15:54.366000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:54.366000" end="0:15:57.398000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:54.366000" end="0:15:57.398000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:15:54.366000	0:15:57.398000
 glaube	-	-	-	0:15:54.366000	0:15:57.398000
 schon	-	-	-	0:15:54.366000	0:15:57.398000
@@ -4286,20 +4286,20 @@ bisschen	-	-	-	0:15:54.366000	0:15:57.398000
 auswirkt	-	-	-	0:15:54.366000	0:15:57.398000
 .	-	-	-	0:15:54.366000	0:15:57.398000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:57.398000" end="0:15:57.901000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:57.398000" end="0:15:57.901000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:57.398000	0:15:57.901000
 ,	-	-	-	0:15:57.398000	0:15:57.901000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:57.901000" end="0:15:58.856000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:57.901000" end="0:15:58.856000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dadurch	-	-	-	0:15:57.901000	0:15:58.856000
 ,	-	-	-	0:15:57.901000	0:15:58.856000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:15:57.901000" end="0:15:58.856000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:57.901000" end="0:15:58.856000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 okay	-	-	-	0:15:57.901000	0:15:58.856000
 .	-	-	-	0:15:57.901000	0:15:58.856000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:15:58.856000" end="0:16:01.630000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:15:58.856000" end="0:16:01.630000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:15:58.856000	0:16:00.968000
 man	-	-	-	0:15:58.856000	0:16:00.968000
 halt	-	-	-	0:15:58.856000	0:16:00.968000
@@ -4314,11 +4314,11 @@ und	-	-	-	0:16:00.968000	0:16:01.630000
 nur	-	-	-	0:16:00.968000	0:16:01.630000
 dort	-	-	-	0:16:00.968000	0:16:01.630000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:00.968000" end="0:16:01.630000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:00.968000" end="0:16:01.630000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:00.968000	0:16:01.630000
 .	-	-	-	0:16:00.968000	0:16:01.630000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:01.630000" end="0:16:03.527000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:01.630000" end="0:16:03.527000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 arbeitet	-	-	-	0:16:01.630000	0:16:02.569000
 und	-	-	-	0:16:01.630000	0:16:02.569000
 lebt	-	-	-	0:16:01.630000	0:16:02.569000
@@ -4326,12 +4326,12 @@ lebt	-	-	-	0:16:01.630000	0:16:02.569000
 <pause duration="0,6s"/>
 ist	-	-	-	0:16:02.569000	0:16:03.527000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:02.569000" end="0:16:03.527000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:02.569000" end="0:16:03.527000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	0:16:02.569000	0:16:03.527000
 .	-	-	-	0:16:02.569000	0:16:03.527000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:03.527000" end="0:16:05.131000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:03.527000" end="0:16:05.131000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:16:03.527000	0:16:05.131000
 natürlich	-	-	-	0:16:03.527000	0:16:05.131000
 ein	-	-	-	0:16:03.527000	0:16:05.131000
@@ -4339,7 +4339,7 @@ großer	-	-	-	0:16:03.527000	0:16:05.131000
 Faktor	-	-	-	0:16:03.527000	0:16:05.131000
 .	-	-	-	0:16:03.527000	0:16:05.131000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:05.131000" end="0:16:08.905000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:05.131000" end="0:16:08.905000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:16:05.131000	0:16:06.991000
 ,	-	-	-	0:16:05.131000	0:16:06.991000
 ja	-	-	-	0:16:05.131000	0:16:06.991000
@@ -4352,10 +4352,10 @@ mhm	-	-	-	0:16:05.131000	0:16:06.991000
 okay	-	-	-	0:16:06.991000	0:16:08.905000
 .	-	-	-	0:16:06.991000	0:16:08.905000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:08.905000" end="0:16:10.102000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:08.905000" end="0:16:10.102000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:08.905000" end="0:16:16.825000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:08.905000" end="0:16:16.825000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 so	-	-	-	0:16:10.102000	0:16:14.104000
 ,	-	-	-	0:16:10.102000	0:16:14.104000
@@ -4373,11 +4373,11 @@ anderen	-	-	-	0:16:14.104000	0:16:16.825000
 Sprach((ähm))form	-	-	-	0:16:14.104000	0:16:16.825000
 .	-	-	-	0:16:14.104000	0:16:16.825000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:16.825000" end="0:16:17.555000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:16.825000" end="0:16:17.555000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:16:16.825000	0:16:17.555000
 .	-	-	-	0:16:16.825000	0:16:17.555000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:17.555000" end="0:16:25.926000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:17.555000" end="0:16:25.926000" persName="Informant EXP5" age_lower="" age_upper="999">
 wenn	-	-	-	0:16:17.555000	0:16:21.768000
 Sie	-	-	-	0:16:17.555000	0:16:21.768000
 jetzt	-	-	-	0:16:17.555000	0:16:21.768000
@@ -4402,7 +4402,7 @@ die	-	-	-	0:16:23.964000	0:16:25.926000
 sprechen	-	-	-	0:16:23.964000	0:16:25.926000
 ?	-	-	-	0:16:23.964000	0:16:25.926000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:25.926000" end="0:16:31.543000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:25.926000" end="0:16:31.543000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 puh	-	-	-	0:16:25.926000	0:16:28.452000
 ,	-	-	-	0:16:25.926000	0:16:28.452000
 ja	-	-	-	0:16:25.926000	0:16:28.452000
@@ -4419,32 +4419,32 @@ oder	-	-	-	0:16:28.452000	0:16:30.616000
 Hochdeutsch	-	-	-	0:16:30.616000	0:16:31.543000
 .	-	-	-	0:16:30.616000	0:16:31.543000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:30.616000" end="0:16:32.848000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:30.616000" end="0:16:32.848000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:16:30.616000	0:16:31.543000
 .	-	-	-	0:16:30.616000	0:16:31.543000
 okay	-	-	-	0:16:31.543000	0:16:32.848000
 .	-	-	-	0:16:31.543000	0:16:32.848000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:32.848000" end="0:16:34.562000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:32.848000" end="0:16:34.562000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:32.848000" end="0:16:34.562000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:32.848000" end="0:16:34.562000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 mhm	-	-	-	0:16:32.848000	0:16:34.562000
 .	-	-	-	0:16:32.848000	0:16:34.562000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:34.562000" end="0:16:42.070000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:34.562000" end="0:16:42.070000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="7,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:34.562000" end="0:16:42.734000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:34.562000" end="0:16:42.734000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="7,5s"/>
 ähm	-	-	-	0:16:42.070000	0:16:42.734000
 ,	-	-	-	0:16:42.070000	0:16:42.734000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:42.734000" end="0:16:45.134000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:42.734000" end="0:16:45.134000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:42.734000" end="0:16:52.280000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:42.734000" end="0:16:52.280000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,4s"/>
 wer	-	-	-	0:16:45.134000	0:16:47.580000
 spre/	-	-	-	0:16:45.134000	0:16:47.580000
@@ -4470,7 +4470,7 @@ von	-	-	-	0:16:49.244000	0:16:52.280000
 Nachrichtensprechern	-	-	-	0:16:49.244000	0:16:52.280000
 ?	-	-	-	0:16:49.244000	0:16:52.280000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:52.280000" end="0:16:54.773000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:52.280000" end="0:16:54.773000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 jetzt	-	-	-	0:16:52.280000	0:16:53.733000
 ganz	-	-	-	0:16:52.280000	0:16:53.733000
@@ -4480,48 +4480,48 @@ oder	-	-	-	0:16:53.733000	0:16:54.773000
 wie	-	-	-	0:16:53.733000	0:16:54.773000
 ?	-	-	-	0:16:53.733000	0:16:54.773000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:53.733000" end="0:16:55.269000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:53.733000" end="0:16:55.269000" persName="Informant EXP5" age_lower="" age_upper="999">
 allgemein	-	-	-	0:16:53.733000	0:16:54.773000
 ,	-	-	-	0:16:53.733000	0:16:54.773000
 ganz	-	-	-	0:16:53.733000	0:16:54.773000
 allgemein	-	-	-	0:16:54.773000	0:16:55.269000
 .	-	-	-	0:16:54.773000	0:16:55.269000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:55.269000" end="0:16:57.269000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:55.269000" end="0:16:57.269000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:55.269000" end="0:16:57.269000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:55.269000" end="0:16:57.269000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:57.269000" end="0:16:58.135000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:57.269000" end="0:16:58.135000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:57.269000	0:16:58.135000
 ,	-	-	-	0:16:57.269000	0:16:58.135000
 der	-	-	-	0:16:57.269000	0:16:58.135000
 Radio	-	-	-	0:16:57.269000	0:16:58.135000
 .	-	-	-	0:16:57.269000	0:16:58.135000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:58.135000" end="0:16:58.758000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:58.135000" end="0:16:58.758000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:58.135000	0:16:58.758000
 .	-	-	-	0:16:58.135000	0:16:58.758000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:16:58.758000" end="0:17:01.366000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:16:58.758000" end="0:17:01.366000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 im	-	-	-	0:16:58.758000	0:16:59.366000
 Radio	-	-	-	0:16:58.758000	0:16:59.366000
 .	-	-	-	0:16:58.758000	0:16:59.366000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:16:59.366000" end="0:17:02.342000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:59.366000" end="0:17:02.342000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 schwierig	-	-	-	0:17:01.366000	0:17:02.342000
 .	-	-	-	0:17:01.366000	0:17:02.342000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:02.342000" end="0:17:05.156000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:02.342000" end="0:17:05.156000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:02.342000" end="0:17:05.156000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:02.342000" end="0:17:05.156000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:05.156000" end="0:17:08.194000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:05.156000" end="0:17:08.194000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:05.156000	0:17:06.300000
 ,	-	-	-	0:17:05.156000	0:17:06.300000
 keine	-	-	-	0:17:05.156000	0:17:06.300000
@@ -4529,16 +4529,16 @@ Ahnung	-	-	-	0:17:05.156000	0:17:06.300000
 .	-	-	-	0:17:05.156000	0:17:06.300000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:06.300000" end="0:17:08.194000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:06.300000" end="0:17:08.194000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:08.194000" end="0:17:09.268000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:08.194000" end="0:17:09.268000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sonst	-	-	-	0:17:08.194000	0:17:09.268000
 (eigentlich	-	-	-	0:17:08.194000	0:17:09.268000
 nicht)	-	-	-	0:17:08.194000	0:17:09.268000
 .	-	-	-	0:17:08.194000	0:17:09.268000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:08.194000" end="0:17:15.237000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:08.194000" end="0:17:15.237000" persName="Informant EXP5" age_lower="" age_upper="999">
 weiß	-	-	-	0:17:08.194000	0:17:09.268000
 nicht	-	-	-	0:17:08.194000	0:17:09.268000
 ,	-	-	-	0:17:08.194000	0:17:09.268000
@@ -4558,7 +4558,7 @@ nicht	-	-	-	0:17:13.568000	0:17:15.237000
 so	-	-	-	0:17:13.568000	0:17:15.237000
 ?	-	-	-	0:17:13.568000	0:17:15.237000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:15.237000" end="0:17:21.848000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:15.237000" end="0:17:21.848000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:15.237000	0:17:17.670000
 ,	-	-	-	0:17:15.237000	0:17:17.670000
 also	-	-	-	0:17:15.237000	0:17:17.670000
@@ -4593,11 +4593,11 @@ aber	-	-	-	0:17:21.036000	0:17:21.469000
 die	-	-	-	0:17:21.469000	0:17:21.848000
 wohnt	-	-	-	0:17:21.469000	0:17:21.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:21.469000" end="0:17:21.848000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:21.469000" end="0:17:21.848000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:21.469000	0:17:21.848000
 .	-	-	-	0:17:21.469000	0:17:21.848000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:21.848000" end="0:17:23.217000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:21.848000" end="0:17:23.217000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:17:21.848000	0:17:22.823000
 seit	-	-	-	0:17:21.848000	0:17:22.823000
 Jahren	-	-	-	0:17:21.848000	0:17:22.823000
@@ -4607,11 +4607,11 @@ aber	-	-	-	0:17:21.848000	0:17:22.823000
 die	-	-	-	0:17:22.823000	0:17:23.217000
 redet	-	-	-	0:17:22.823000	0:17:23.217000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:22.823000" end="0:17:23.217000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:22.823000" end="0:17:23.217000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:22.823000	0:17:23.217000
 .	-	-	-	0:17:22.823000	0:17:23.217000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:23.217000" end="0:17:24.506000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:23.217000" end="0:17:24.506000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 immer	-	-	-	0:17:23.217000	0:17:24.086000
 noch	-	-	-	0:17:23.217000	0:17:24.086000
 Hochdeutsch	-	-	-	0:17:23.217000	0:17:24.086000
@@ -4619,29 +4619,29 @@ Hochdeutsch	-	-	-	0:17:23.217000	0:17:24.086000
 also	-	-	-	0:17:24.086000	0:17:24.506000
 /.	-	-	-	0:17:24.086000	0:17:24.506000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:24.086000" end="0:17:24.506000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:24.086000" end="0:17:24.506000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:24.086000	0:17:24.506000
 .	-	-	-	0:17:24.086000	0:17:24.506000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:24.506000" end="0:17:25.339000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:24.506000" end="0:17:25.339000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:17:24.506000	0:17:25.339000
 ,	-	-	-	0:17:24.506000	0:17:25.339000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:24.506000" end="0:17:25.339000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:24.506000" end="0:17:25.339000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:17:24.506000	0:17:25.339000
 .	-	-	-	0:17:24.506000	0:17:25.339000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:25.339000" end="0:17:26.031000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:25.339000" end="0:17:26.031000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:17:25.339000	0:17:26.031000
 das	-	-	-	0:17:25.339000	0:17:26.031000
 ist	-	-	-	0:17:25.339000	0:17:26.031000
 /.	-	-	-	0:17:25.339000	0:17:26.031000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:26.031000" end="0:17:26.540000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:26.031000" end="0:17:26.540000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:17:26.031000	0:17:26.540000
 .	-	-	-	0:17:26.031000	0:17:26.540000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:26.540000" end="0:17:29.618000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:26.540000" end="0:17:29.618000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:17:26.540000	0:17:28.512000
 habe	-	-	-	0:17:26.540000	0:17:28.512000
 ich	-	-	-	0:17:26.540000	0:17:28.512000
@@ -4655,7 +4655,7 @@ mit	-	-	-	0:17:28.512000	0:17:29.618000
 Hochdeutsch	-	-	-	0:17:28.512000	0:17:29.618000
 .	-	-	-	0:17:28.512000	0:17:29.618000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:28.512000" end="0:17:40.898000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:28.512000" end="0:17:40.898000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:17:28.512000	0:17:29.618000
 .	-	-	-	0:17:28.512000	0:17:29.618000
 okay	-	-	-	0:17:29.618000	0:17:31.082000
@@ -4687,7 +4687,7 @@ eher	-	-	-	0:17:33.605000	0:17:40.898000
 nicht	-	-	-	0:17:33.605000	0:17:40.898000
 ?	-	-	-	0:17:33.605000	0:17:40.898000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:40.898000" end="0:17:48.864000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:40.898000" end="0:17:48.864000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 doch	-	-	-	0:17:40.898000	0:17:42.658000
 ich	-	-	-	0:17:40.898000	0:17:42.658000
@@ -4723,12 +4723,12 @@ also	-	-	-	0:17:46.348000	0:17:48.196000
 (für	-	-	-	0:17:48.196000	0:17:48.864000
 den)	-	-	-	0:17:48.196000	0:17:48.864000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:48.196000" end="0:17:48.864000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:48.196000" end="0:17:48.864000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 ja	-	-	-	0:17:48.196000	0:17:48.864000
 .	-	-	-	0:17:48.196000	0:17:48.864000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:48.864000" end="0:17:51.825000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:48.864000" end="0:17:51.825000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Fernsehen	-	-	-	0:17:48.864000	0:17:51.246000
 und	-	-	-	0:17:48.864000	0:17:51.246000
 Radio	-	-	-	0:17:48.864000	0:17:51.246000
@@ -4740,14 +4740,14 @@ schon	-	-	-	0:17:48.864000	0:17:51.246000
 passend	-	-	-	0:17:51.246000	0:17:51.825000
 .	-	-	-	0:17:51.246000	0:17:51.825000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:51.246000" end="0:17:52.352000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:51.246000" end="0:17:52.352000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:17:51.246000	0:17:51.825000
 sch/	-	-	-	0:17:51.246000	0:17:51.825000
 /.	-	-	-	0:17:51.246000	0:17:51.825000
 okay	-	-	-	0:17:51.825000	0:17:52.352000
 .	-	-	-	0:17:51.825000	0:17:52.352000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:17:52.352000" end="0:17:53.894000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:17:52.352000" end="0:17:53.894000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:52.352000	0:17:52.840000
 .	-	-	-	0:17:52.352000	0:17:52.840000
 ja	-	-	-	0:17:52.840000	0:17:53.894000
@@ -4755,7 +4755,7 @@ ja	-	-	-	0:17:52.840000	0:17:53.894000
 mhm	-	-	-	0:17:52.840000	0:17:53.894000
 .	-	-	-	0:17:52.840000	0:17:53.894000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:17:53.894000" end="0:18:00.608000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:53.894000" end="0:18:00.608000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:17:53.894000	0:17:55.420000
 ,	-	-	-	0:17:53.894000	0:17:55.420000
@@ -4773,7 +4773,7 @@ selbst	-	-	-	0:17:57.420000	0:18:00.608000
 Hochdeutsch	-	-	-	0:17:57.420000	0:18:00.608000
 ?	-	-	-	0:17:57.420000	0:18:00.608000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:00.608000" end="0:18:03.792000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:00.608000" end="0:18:03.792000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 es	-	-	-	0:18:00.608000	0:18:01.971000
 geht	-	-	-	0:18:00.608000	0:18:01.971000
@@ -4784,11 +4784,11 @@ also	-	-	-	0:18:01.971000	0:18:03.301000
 das	-	-	-	0:18:03.301000	0:18:03.792000
 Schreiben	-	-	-	0:18:03.301000	0:18:03.792000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:03.301000" end="0:18:03.792000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:03.301000" end="0:18:03.792000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:03.301000	0:18:03.792000
 .	-	-	-	0:18:03.301000	0:18:03.792000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:03.792000" end="0:18:09.657000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:03.792000" end="0:18:09.657000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:18:03.792000	0:18:04.176000
 ,	-	-	-	0:18:03.792000	0:18:04.176000
 <pause duration="0,6s"/>
@@ -4811,11 +4811,11 @@ reden	-	-	-	0:18:07.075000	0:18:09.657000
 muss	-	-	-	0:18:07.075000	0:18:09.657000
 ,	-	-	-	0:18:07.075000	0:18:09.657000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:09.657000" end="0:18:10.460000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:09.657000" end="0:18:10.460000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:09.657000	0:18:10.460000
 .	-	-	-	0:18:09.657000	0:18:10.460000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:10.460000" end="0:18:13.139000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:10.460000" end="0:18:13.139000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:18:10.460000	0:18:12.556000
 falle	-	-	-	0:18:10.460000	0:18:12.556000
 ich	-	-	-	0:18:10.460000	0:18:12.556000
@@ -4827,11 +4827,11 @@ Kuddelmuddel	-	-	-	0:18:10.460000	0:18:12.556000
 .	-	-	-	0:18:10.460000	0:18:12.556000
 also	-	-	-	0:18:12.556000	0:18:13.139000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:13.139000" end="0:18:13.550000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:13.139000" end="0:18:13.550000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:18:13.139000	0:18:13.550000
 .	-	-	-	0:18:13.139000	0:18:13.550000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:13.550000" end="0:18:16.600000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:13.550000" end="0:18:16.600000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:18:13.550000	0:18:16.267000
 tu	-	-	-	0:18:13.550000	0:18:16.267000
 mir	-	-	-	0:18:13.550000	0:18:16.267000
@@ -4847,11 +4847,11 @@ komme	-	-	-	0:18:16.267000	0:18:16.600000
 mir	-	-	-	0:18:16.267000	0:18:16.600000
 auch	-	-	-	0:18:16.267000	0:18:16.600000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:16.267000" end="0:18:16.600000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:16.267000" end="0:18:16.600000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:18:16.267000	0:18:16.600000
 .	-	-	-	0:18:16.267000	0:18:16.600000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:16.600000" end="0:18:19.008000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:16.600000" end="0:18:19.008000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 blöd	-	-	-	0:18:16.600000	0:18:17.028000
 vor	-	-	-	0:18:16.600000	0:18:17.028000
 .	-	-	-	0:18:16.600000	0:18:17.028000
@@ -4863,7 +4863,7 @@ mein	-	-	-	0:18:17.028000	0:18:19.008000
 Dialekt	-	-	-	0:18:17.028000	0:18:19.008000
 .	-	-	-	0:18:17.028000	0:18:19.008000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:19.008000" end="0:18:33.021000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:19.008000" end="0:18:33.021000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:18:19.008000	0:18:21.198000
 ,	-	-	-	0:18:19.008000	0:18:21.198000
 ja	-	-	-	0:18:19.008000	0:18:21.198000
@@ -4904,14 +4904,14 @@ Hochdeutsch	-	-	-	0:18:29.586000	0:18:33.021000
 beherrschen	-	-	-	0:18:29.586000	0:18:33.021000
 ?	-	-	-	0:18:29.586000	0:18:33.021000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:33.021000" end="0:18:35.485000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:33.021000" end="0:18:35.485000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:33.021000	0:18:34.391000
 ,	-	-	-	0:18:33.021000	0:18:34.391000
 so	-	-	-	0:18:33.021000	0:18:34.391000
 mittelmäßig	-	-	-	0:18:33.021000	0:18:34.391000
 .	-	-	-	0:18:33.021000	0:18:34.391000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:34.391000" end="0:18:50.781000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:34.391000" end="0:18:50.781000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:18:35.485000	0:18:36.401000
 .	-	-	-	0:18:35.485000	0:18:36.401000
 <pause duration="0,5s"/>
@@ -4942,7 +4942,7 @@ den	-	-	-	0:18:48.425000	0:18:50.781000
 "ORF"-Sprechern	-	-	-	0:18:48.425000	0:18:50.781000
 ?	-	-	-	0:18:48.425000	0:18:50.781000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:50.781000" end="0:18:53.550000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:50.781000" end="0:18:53.550000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:18:50.781000	0:18:53.065000
 komplett	-	-	-	0:18:50.781000	0:18:53.065000
@@ -4951,17 +4951,17 @@ eigentlich	-	-	-	0:18:50.781000	0:18:53.065000
 also	-	-	-	0:18:53.065000	0:18:53.550000
 /.	-	-	-	0:18:53.065000	0:18:53.550000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:53.065000" end="0:18:53.550000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:53.065000" end="0:18:53.550000" persName="Informant EXP5" age_lower="" age_upper="999">
 komplett	-	-	-	0:18:53.065000	0:18:53.550000
 .	-	-	-	0:18:53.065000	0:18:53.550000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:53.550000" end="0:18:55.472000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:53.550000" end="0:18:55.472000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:53.550000" end="0:18:55.472000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:53.550000" end="0:18:55.472000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:55.472000" end="0:18:58.870000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:55.472000" end="0:18:58.870000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wir	-	-	-	0:18:55.472000	0:18:58.190000
 ,	-	-	-	0:18:55.472000	0:18:58.190000
 ja	-	-	-	0:18:55.472000	0:18:58.190000
@@ -4977,20 +4977,20 @@ anders	-	-	-	0:18:55.472000	0:18:58.190000
 wir	-	-	-	0:18:58.190000	0:18:58.870000
 ,	-	-	-	0:18:58.190000	0:18:58.870000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:58.190000" end="0:18:58.870000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:58.190000" end="0:18:58.870000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:58.190000	0:18:58.870000
 .	-	-	-	0:18:58.190000	0:18:58.870000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:18:58.870000" end="0:19:00.089000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:18:58.870000" end="0:19:00.089000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sie	-	-	-	0:18:58.870000	0:19:00.089000
 oder	-	-	-	0:18:58.870000	0:19:00.089000
 ,	-	-	-	0:18:58.870000	0:19:00.089000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:18:58.870000" end="0:19:00.089000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:58.870000" end="0:19:00.089000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:58.870000	0:19:00.089000
 .	-	-	-	0:18:58.870000	0:19:00.089000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:00.089000" end="0:19:02.807000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:00.089000" end="0:19:02.807000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wir	-	-	-	0:19:00.089000	0:19:02.807000
 verwenden	-	-	-	0:19:00.089000	0:19:02.807000
 auch	-	-	-	0:19:00.089000	0:19:02.807000
@@ -5002,11 +5002,11 @@ Zeitformen	-	-	-	0:19:00.089000	0:19:02.807000
 also	-	-	-	0:19:00.089000	0:19:02.807000
 /.	-	-	-	0:19:00.089000	0:19:02.807000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:02.807000" end="0:19:03.671000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:02.807000" end="0:19:03.671000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:02.807000	0:19:03.671000
 .	-	-	-	0:19:02.807000	0:19:03.671000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:03.671000" end="0:19:08.306000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:03.671000" end="0:19:08.306000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 normalerweise	-	-	-	0:19:03.671000	0:19:04.783000
 sagen	-	-	-	0:19:03.671000	0:19:04.783000
 wir	-	-	-	0:19:03.671000	0:19:04.783000
@@ -5028,13 +5028,13 @@ gewesen"	-	-	-	0:19:07.114000	0:19:08.306000
 ,	-	-	-	0:19:07.114000	0:19:08.306000
 also	-	-	-	0:19:07.114000	0:19:08.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:07.114000" end="0:19:08.306000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:07.114000" end="0:19:08.306000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:19:07.114000	0:19:08.306000
 ,	-	-	-	0:19:07.114000	0:19:08.306000
 ja	-	-	-	0:19:07.114000	0:19:08.306000
 .	-	-	-	0:19:07.114000	0:19:08.306000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:08.306000" end="0:19:10.436000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:08.306000" end="0:19:10.436000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	0:19:08.306000	0:19:09.521000
 Sachen	-	-	-	0:19:08.306000	0:19:09.521000
 .	-	-	-	0:19:08.306000	0:19:09.521000
@@ -5043,11 +5043,11 @@ ich	-	-	-	0:19:09.521000	0:19:10.436000
 finde	-	-	-	0:19:09.521000	0:19:10.436000
 schon	-	-	-	0:19:09.521000	0:19:10.436000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:09.521000" end="0:19:10.436000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:09.521000" end="0:19:10.436000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:19:09.521000	0:19:10.436000
 .	-	-	-	0:19:09.521000	0:19:10.436000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:10.436000" end="0:19:12.762000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:10.436000" end="0:19:12.762000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ein	-	-	-	0:19:10.436000	0:19:12.762000
 großer	-	-	-	0:19:10.436000	0:19:12.762000
 Unterscheid	-	-	-	0:19:10.436000	0:19:12.762000
@@ -5055,7 +5055,7 @@ Unterscheid	-	-	-	0:19:10.436000	0:19:12.762000
 mhm	-	-	-	0:19:10.436000	0:19:12.762000
 .	-	-	-	0:19:10.436000	0:19:12.762000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:10.436000" end="0:19:27.937000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:10.436000" end="0:19:27.937000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:10.436000	0:19:12.762000
 ,	-	-	-	0:19:10.436000	0:19:12.762000
 großer	-	-	-	0:19:10.436000	0:19:12.762000
@@ -5102,12 +5102,12 @@ Ihnen	-	-	-	0:19:26.446000	0:19:27.937000
 da	-	-	-	0:19:26.446000	0:19:27.937000
 noch	-	-	-	0:19:26.446000	0:19:27.937000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:27.937000" end="0:19:29.142000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:27.937000" end="0:19:29.142000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 puh	-	-	-	0:19:27.937000	0:19:29.142000
 .	-	-	-	0:19:27.937000	0:19:29.142000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:27.937000" end="0:19:30.557000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:27.937000" end="0:19:30.557000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 was	-	-	-	0:19:27.937000	0:19:29.142000
 ein	-	-	-	0:19:29.142000	0:19:30.557000
@@ -5115,7 +5115,7 @@ jetzt	-	-	-	0:19:29.142000	0:19:30.557000
 sozusagen	-	-	-	0:19:29.142000	0:19:30.557000
 ?	-	-	-	0:19:29.142000	0:19:30.557000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:30.557000" end="0:19:34.922000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:30.557000" end="0:19:34.922000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:19:30.557000	0:19:32.840000
 ,	-	-	-	0:19:30.557000	0:19:32.840000
@@ -5132,21 +5132,21 @@ nichts	-	-	-	0:19:32.840000	0:19:34.922000
 nein	-	-	-	0:19:32.840000	0:19:34.922000
 ,	-	-	-	0:19:32.840000	0:19:34.922000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:32.840000" end="0:19:34.922000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:32.840000" end="0:19:34.922000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 nicht	-	-	-	0:19:32.840000	0:19:34.922000
 so	-	-	-	0:19:32.840000	0:19:34.922000
 wirklich	-	-	-	0:19:32.840000	0:19:34.922000
 ?	-	-	-	0:19:32.840000	0:19:34.922000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:34.922000" end="0:19:36.157000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:34.922000" end="0:19:36.157000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wüsste	-	-	-	0:19:34.922000	0:19:36.157000
 ich	-	-	-	0:19:34.922000	0:19:36.157000
 jetzt	-	-	-	0:19:34.922000	0:19:36.157000
 nichts	-	-	-	0:19:34.922000	0:19:36.157000
 .	-	-	-	0:19:34.922000	0:19:36.157000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:36.157000" end="0:19:43.619000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:36.157000" end="0:19:43.619000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:19:36.157000	0:19:37.090000
 .	-	-	-	0:19:36.157000	0:19:37.090000
 <pause duration="1,0s"/>
@@ -5172,15 +5172,15 @@ da	-	-	-	0:19:41.925000	0:19:43.619000
 nichts	-	-	-	0:19:41.925000	0:19:43.619000
 einfällt	-	-	-	0:19:41.925000	0:19:43.619000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:43.619000" end="0:19:44.583000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:43.619000" end="0:19:44.583000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:19:43.619000	0:19:44.583000
 .	-	-	-	0:19:43.619000	0:19:44.583000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:43.619000" end="0:19:44.583000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:43.619000" end="0:19:44.583000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:19:43.619000	0:19:44.583000
 ?	-	-	-	0:19:43.619000	0:19:44.583000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:19:44.583000" end="0:19:46.348000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:19:44.583000" end="0:19:46.348000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mm	-	-	-	0:19:44.583000	0:19:46.348000
 ,	-	-	-	0:19:44.583000	0:19:46.348000
 (glaube	-	-	-	0:19:44.583000	0:19:46.348000
@@ -5189,7 +5189,7 @@ nicht	-	-	-	0:19:44.583000	0:19:46.348000
 jetzt)	-	-	-	0:19:44.583000	0:19:46.348000
 .	-	-	-	0:19:44.583000	0:19:46.348000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:19:44.583000" end="0:20:03.831000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:44.583000" end="0:20:03.831000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:19:44.583000	0:19:46.348000
 ,	-	-	-	0:19:44.583000	0:19:46.348000
 mhm	-	-	-	0:19:44.583000	0:19:46.348000
@@ -5235,7 +5235,7 @@ nennen	-	-	-	0:20:00.271000	0:20:03.831000
 könnte	-	-	-	0:20:00.271000	0:20:03.831000
 ?	-	-	-	0:20:00.271000	0:20:03.831000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:03.831000" end="0:20:10.676000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:03.831000" end="0:20:10.676000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:20:03.831000	0:20:05.831000
 ,	-	-	-	0:20:03.831000	0:20:05.831000
@@ -5263,13 +5263,13 @@ Dialekte	-	-	-	0:20:08.108000	0:20:10.676000
 oder	-	-	-	0:20:08.108000	0:20:10.676000
 ?	-	-	-	0:20:08.108000	0:20:10.676000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:10.676000" end="0:20:11.870000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:10.676000" end="0:20:11.870000" persName="Informant EXP5" age_lower="" age_upper="999">
 schon	-	-	-	0:20:10.676000	0:20:11.870000
 ,	-	-	-	0:20:10.676000	0:20:11.870000
 ja	-	-	-	0:20:10.676000	0:20:11.870000
 .	-	-	-	0:20:10.676000	0:20:11.870000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:11.870000" end="0:20:26.929000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:11.870000" end="0:20:26.929000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ja	-	-	-	0:20:11.870000	0:20:13.858000
 ,	-	-	-	0:20:11.870000	0:20:13.858000
@@ -5324,12 +5324,12 @@ Dialekte	-	-	-	0:20:23.709000	0:20:26.278000
 also	-	-	-	0:20:26.278000	0:20:26.929000
 /.	-	-	-	0:20:26.278000	0:20:26.929000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:26.929000" end="0:20:28.224000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:26.929000" end="0:20:28.224000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 mhm	-	-	-	0:20:26.929000	0:20:28.224000
 .	-	-	-	0:20:26.929000	0:20:28.224000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:28.224000" end="0:20:31.104000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:28.224000" end="0:20:31.104000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wer	-	-	-	0:20:28.224000	0:20:29.224000
 das	-	-	-	0:20:28.224000	0:20:29.224000
 ist	-	-	-	0:20:28.224000	0:20:29.224000
@@ -5342,29 +5342,29 @@ Politiker	-	-	-	0:20:29.224000	0:20:31.104000
 vielleicht	-	-	-	0:20:29.224000	0:20:31.104000
 .	-	-	-	0:20:29.224000	0:20:31.104000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:31.104000" end="0:20:32.352000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:31.104000" end="0:20:32.352000" persName="Informant EXP5" age_lower="" age_upper="999">
 Politiker	-	-	-	0:20:31.104000	0:20:32.352000
 vielleicht	-	-	-	0:20:31.104000	0:20:32.352000
 ,	-	-	-	0:20:31.104000	0:20:32.352000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:32.352000" end="0:20:33.444000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:32.352000" end="0:20:33.444000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:20:32.352000	0:20:33.444000
 werden	-	-	-	0:20:32.352000	0:20:33.444000
 das	-	-	-	0:20:32.352000	0:20:33.444000
 natürlich	-	-	-	0:20:32.352000	0:20:33.444000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:32.352000" end="0:20:33.444000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:32.352000" end="0:20:33.444000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:20:32.352000	0:20:33.444000
 ,	-	-	-	0:20:32.352000	0:20:33.444000
 mhm	-	-	-	0:20:32.352000	0:20:33.444000
 .	-	-	-	0:20:32.352000	0:20:33.444000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:33.444000" end="0:20:34.141000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:33.444000" end="0:20:34.141000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (schön)	-	-	-	0:20:33.444000	0:20:34.141000
 können	-	-	-	0:20:33.444000	0:20:34.141000
 .	-	-	-	0:20:33.444000	0:20:34.141000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:34.141000" end="0:20:41.236000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:34.141000" end="0:20:41.236000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:34.141000	0:20:34.688000
 .	-	-	-	0:20:34.141000	0:20:34.688000
 <pause duration="1,2s"/>
@@ -5388,7 +5388,7 @@ oder	-	-	-	0:20:40.473000	0:20:41.236000
 wie	-	-	-	0:20:40.473000	0:20:41.236000
 /?	-	-	-	0:20:40.473000	0:20:41.236000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:41.236000" end="0:20:45.922000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:41.236000" end="0:20:45.922000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:20:41.236000	0:20:43.550000
 (in)	-	-	-	0:20:41.236000	0:20:43.550000
 Deutschland	-	-	-	0:20:41.236000	0:20:43.550000
@@ -5408,11 +5408,11 @@ hört	-	-	-	0:20:43.550000	0:20:45.922000
 es	-	-	-	0:20:43.550000	0:20:45.922000
 .	-	-	-	0:20:43.550000	0:20:45.922000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:43.550000" end="0:20:45.922000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:43.550000" end="0:20:45.922000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:20:43.550000	0:20:45.922000
 .	-	-	-	0:20:43.550000	0:20:45.922000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:45.922000" end="0:20:48.506000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:45.922000" end="0:20:48.506000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:20:45.922000	0:20:47.922000
 glaube	-	-	-	0:20:45.922000	0:20:47.922000
 schon	-	-	-	0:20:45.922000	0:20:47.922000
@@ -5425,11 +5425,11 @@ hört	-	-	-	0:20:45.922000	0:20:47.922000
 ,	-	-	-	0:20:45.922000	0:20:47.922000
 gerade	-	-	-	0:20:47.922000	0:20:48.506000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:47.922000" end="0:20:48.506000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:47.922000" end="0:20:48.506000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:47.922000	0:20:48.506000
 .	-	-	-	0:20:47.922000	0:20:48.506000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:48.506000" end="0:20:51.282000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:48.506000" end="0:20:51.282000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 zwischen	-	-	-	0:20:48.506000	0:20:50.278000
 einem	-	-	-	0:20:48.506000	0:20:50.278000
 Deutschen	-	-	-	0:20:48.506000	0:20:50.278000
@@ -5443,11 +5443,11 @@ sowieso	-	-	-	0:20:50.278000	0:20:50.856000
 auch	-	-	-	0:20:50.856000	0:20:51.282000
 wenn	-	-	-	0:20:50.856000	0:20:51.282000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:51.282000" end="0:20:51.990000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:51.282000" end="0:20:51.990000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:51.282000	0:20:51.990000
 .	-	-	-	0:20:51.282000	0:20:51.990000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:51.990000" end="0:20:53.990000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:51.990000" end="0:20:53.990000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:20:51.990000	0:20:53.990000
 Österreicher	-	-	-	0:20:51.990000	0:20:53.990000
 schön	-	-	-	0:20:51.990000	0:20:53.990000
@@ -5455,28 +5455,28 @@ Hochdeutsch	-	-	-	0:20:51.990000	0:20:53.990000
 redet	-	-	-	0:20:51.990000	0:20:53.990000
 .	-	-	-	0:20:51.990000	0:20:53.990000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:53.990000" end="0:20:54.483000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:53.990000" end="0:20:54.483000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:53.990000	0:20:54.483000
 .	-	-	-	0:20:53.990000	0:20:54.483000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:54.483000" end="0:20:55.809000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:54.483000" end="0:20:55.809000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 man	-	-	-	0:20:54.483000	0:20:55.809000
 hört	-	-	-	0:20:54.483000	0:20:55.809000
 es	-	-	-	0:20:54.483000	0:20:55.809000
 .	-	-	-	0:20:54.483000	0:20:55.809000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:55.809000" end="0:20:56.825000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:55.809000" end="0:20:56.825000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 man	-	-	-	0:20:55.809000	0:20:56.825000
 hört	-	-	-	0:20:55.809000	0:20:56.825000
 es	-	-	-	0:20:55.809000	0:20:56.825000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:56.825000" end="0:20:57.275000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:56.825000" end="0:20:57.275000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:20:56.825000	0:20:57.275000
 .	-	-	-	0:20:56.825000	0:20:57.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:56.825000" end="0:20:58.311000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:56.825000" end="0:20:58.311000" persName="Informant EXP5" age_lower="" age_upper="999">
 trotzdem	-	-	-	0:20:56.825000	0:20:57.275000
 ,	-	-	-	0:20:56.825000	0:20:57.275000
 dass	-	-	-	0:20:57.275000	0:20:58.311000
@@ -5485,23 +5485,23 @@ ein	-	-	-	0:20:57.275000	0:20:58.311000
 Österreicher	-	-	-	0:20:57.275000	0:20:58.311000
 ist	-	-	-	0:20:57.275000	0:20:58.311000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:58.311000" end="0:20:58.920000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:58.311000" end="0:20:58.920000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:58.311000	0:20:58.920000
 .	-	-	-	0:20:58.311000	0:20:58.920000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:58.311000" end="0:20:59.348000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:58.311000" end="0:20:59.348000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:20:58.311000	0:20:58.920000
 ?	-	-	-	0:20:58.311000	0:20:58.920000
 okay	-	-	-	0:20:58.920000	0:20:59.348000
 .	-	-	-	0:20:58.920000	0:20:59.348000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:20:59.348000" end="0:21:00.031000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:20:59.348000" end="0:21:00.031000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 finde	-	-	-	0:20:59.348000	0:21:00.031000
 ich	-	-	-	0:20:59.348000	0:21:00.031000
 schon	-	-	-	0:20:59.348000	0:21:00.031000
 .	-	-	-	0:20:59.348000	0:21:00.031000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:20:59.348000" end="0:21:14.361000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:59.348000" end="0:21:14.361000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:59.348000	0:21:00.031000
 .	-	-	-	0:20:59.348000	0:21:00.031000
 okay	-	-	-	0:21:00.031000	0:21:00.563000
@@ -5545,7 +5545,7 @@ weiß	-	-	-	0:21:13.324000	0:21:14.361000
 nicht	-	-	-	0:21:13.324000	0:21:14.361000
 .	-	-	-	0:21:13.324000	0:21:14.361000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:14.361000" end="0:21:15.561000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:14.361000" end="0:21:15.561000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:14.361000	0:21:15.561000
 ,	-	-	-	0:21:14.361000	0:21:15.561000
 ich	-	-	-	0:21:14.361000	0:21:15.561000
@@ -5553,7 +5553,7 @@ weiß	-	-	-	0:21:14.361000	0:21:15.561000
 nicht	-	-	-	0:21:14.361000	0:21:15.561000
 .	-	-	-	0:21:14.361000	0:21:15.561000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:14.361000" end="0:21:16.263000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:14.361000" end="0:21:16.263000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	0:21:14.361000	0:21:15.561000
 würden	-	-	-	0:21:14.361000	0:21:15.561000
 Sie	-	-	-	0:21:14.361000	0:21:15.561000
@@ -5561,24 +5561,24 @@ das	-	-	-	0:21:14.361000	0:21:15.561000
 nennen	-	-	-	0:21:15.561000	0:21:16.263000
 ?	-	-	-	0:21:15.561000	0:21:16.263000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:16.263000" end="0:21:18.415000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:16.263000" end="0:21:18.415000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 perfekte	-	-	-	0:21:16.263000	0:21:17.839000
 Hochdeutsch	-	-	-	0:21:16.263000	0:21:17.839000
 vielleicht	-	-	-	0:21:17.839000	0:21:18.415000
 .	-	-	-	0:21:17.839000	0:21:18.415000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:17.839000" end="0:21:19.750000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:17.839000" end="0:21:19.750000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:21:17.839000	0:21:18.415000
 ,	-	-	-	0:21:17.839000	0:21:18.415000
 ja	-	-	-	0:21:18.415000	0:21:19.750000
 .	-	-	-	0:21:18.415000	0:21:19.750000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:19.750000" end="0:21:22.401000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:19.750000" end="0:21:22.401000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 schwierig	-	-	-	0:21:19.750000	0:21:21.859000
 .	-	-	-	0:21:19.750000	0:21:21.859000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:21.859000" end="0:21:24.638000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:21.859000" end="0:21:24.638000" persName="Informant EXP5" age_lower="" age_upper="999">
 ich	-	-	-	0:21:22.401000	0:21:24.638000
 weiß	-	-	-	0:21:22.401000	0:21:24.638000
 ,	-	-	-	0:21:22.401000	0:21:24.638000
@@ -5591,11 +5591,11 @@ diese	-	-	-	0:21:22.401000	0:21:24.638000
 Frage	-	-	-	0:21:22.401000	0:21:24.638000
 .	-	-	-	0:21:22.401000	0:21:24.638000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:24.638000" end="0:21:25.219000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:24.638000" end="0:21:25.219000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:24.638000	0:21:25.219000
 .	-	-	-	0:21:24.638000	0:21:25.219000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:25.219000" end="0:21:43.353000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:25.219000" end="0:21:43.353000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:21:25.219000	0:21:27.166000
 sind	-	-	-	0:21:25.219000	0:21:27.166000
 die	-	-	-	0:21:25.219000	0:21:27.166000
@@ -5648,21 +5648,21 @@ könnte	-	-	-	0:21:41.328000	0:21:43.353000
 oder	-	-	-	0:21:41.328000	0:21:43.353000
 ?	-	-	-	0:21:41.328000	0:21:43.353000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:43.353000" end="0:21:45.456000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:43.353000" end="0:21:45.456000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:43.353000" end="0:21:45.456000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:43.353000" end="0:21:45.456000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:45.456000" end="0:21:48.859000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:45.456000" end="0:21:48.859000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:21:45.456000	0:21:46.387000
 .	-	-	-	0:21:45.456000	0:21:46.387000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:46.387000" end="0:21:48.859000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:46.387000" end="0:21:48.859000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:48.859000" end="0:21:55.246000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:48.859000" end="0:21:55.246000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 puh	-	-	-	0:21:48.859000	0:21:52.778000
 ,	-	-	-	0:21:48.859000	0:21:52.778000
 also	-	-	-	0:21:48.859000	0:21:52.778000
@@ -5677,7 +5677,7 @@ niemand	-	-	-	0:21:48.859000	0:21:52.778000
 .	-	-	-	0:21:48.859000	0:21:52.778000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:52.778000" end="0:21:56.286000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:52.778000" end="0:21:56.286000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,5s"/>
 ja	-	-	-	0:21:55.246000	0:21:56.286000
 ,	-	-	-	0:21:55.246000	0:21:56.286000
@@ -5685,12 +5685,12 @@ macht	-	-	-	0:21:55.246000	0:21:56.286000
 nichts	-	-	-	0:21:55.246000	0:21:56.286000
 .	-	-	-	0:21:55.246000	0:21:56.286000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:56.286000" end="0:21:56.673000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:56.286000" end="0:21:56.673000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:56.286000	0:21:56.673000
 ,	-	-	-	0:21:56.286000	0:21:56.673000
 (halt)	-	-	-	0:21:56.286000	0:21:56.673000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:56.286000" end="0:21:57.169000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:56.286000" end="0:21:57.169000" persName="Informant EXP5" age_lower="" age_upper="999">
 wenn	-	-	-	0:21:56.286000	0:21:56.673000
 nicht	-	-	-	0:21:56.286000	0:21:56.673000
 ,	-	-	-	0:21:56.286000	0:21:56.673000
@@ -5698,41 +5698,41 @@ dann	-	-	-	0:21:56.673000	0:21:57.169000
 nicht	-	-	-	0:21:56.673000	0:21:57.169000
 .	-	-	-	0:21:56.673000	0:21:57.169000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:57.169000" end="0:21:58.954000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:57.169000" end="0:21:58.954000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:21:57.169000	0:21:58.954000
 klassische	-	-	-	0:21:57.169000	0:21:58.954000
 Deutsche	-	-	-	0:21:57.169000	0:21:58.954000
 halt	-	-	-	0:21:57.169000	0:21:58.954000
 .	-	-	-	0:21:57.169000	0:21:58.954000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:57.169000" end="0:21:58.954000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:57.169000" end="0:21:58.954000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:21:57.169000	0:21:58.954000
 auch	-	-	-	0:21:57.169000	0:21:58.954000
 okay	-	-	-	0:21:57.169000	0:21:58.954000
 .	-	-	-	0:21:57.169000	0:21:58.954000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:21:58.954000" end="0:21:59.405000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:21:58.954000" end="0:21:59.405000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:21:59.405000" end="0:22:00.751000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:59.405000" end="0:22:00.751000" persName="Informant EXP5" age_lower="" age_upper="999">
 der	-	-	-	0:21:59.405000	0:22:00.751000
 klassische	-	-	-	0:21:59.405000	0:22:00.751000
 Deutsche	-	-	-	0:21:59.405000	0:22:00.751000
 ,	-	-	-	0:21:59.405000	0:22:00.751000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:00.751000" end="0:22:01.464000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:00.751000" end="0:22:01.464000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:00.751000	0:22:01.464000
 .	-	-	-	0:22:00.751000	0:22:01.464000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:00.751000" end="0:22:01.464000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:00.751000" end="0:22:01.464000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:22:00.751000	0:22:01.464000
 .	-	-	-	0:22:00.751000	0:22:01.464000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:01.464000" end="0:22:02.625000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:01.464000" end="0:22:02.625000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 schwierig	-	-	-	0:22:01.464000	0:22:02.625000
 .	-	-	-	0:22:01.464000	0:22:02.625000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:01.464000" end="0:22:11.207000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:01.464000" end="0:22:11.207000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 wa/	-	-	-	0:22:01.464000	0:22:02.625000
 ,	-	-	-	0:22:01.464000	0:22:02.625000
@@ -5757,42 +5757,42 @@ beherrschen	-	-	-	0:22:08.874000	0:22:10.592000
 ,	-	-	-	0:22:08.874000	0:22:10.592000
 dieses	-	-	-	0:22:10.592000	0:22:11.207000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:11.207000" end="0:22:14.065000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:11.207000" end="0:22:14.065000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:11.207000" end="0:22:14.065000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:11.207000" end="0:22:14.065000" persName="Informant EXP5" age_lower="" age_upper="999">
 perfekte	-	-	-	0:22:11.207000	0:22:14.065000
 Hochdeutsch	-	-	-	0:22:11.207000	0:22:14.065000
 ?	-	-	-	0:22:11.207000	0:22:14.065000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:14.065000" end="0:22:15.484000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:14.065000" end="0:22:15.484000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nicht	-	-	-	0:22:14.065000	0:22:15.484000
 so	-	-	-	0:22:14.065000	0:22:15.484000
 gut	-	-	-	0:22:14.065000	0:22:15.484000
 .	-	-	-	0:22:14.065000	0:22:15.484000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:15.484000" end="0:22:16.655000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:15.484000" end="0:22:16.655000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:16.655000" end="0:22:17.256000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:16.655000" end="0:22:17.256000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:22:16.655000	0:22:17.256000
 ,	-	-	-	0:22:16.655000	0:22:17.256000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:16.655000" end="0:22:17.256000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:16.655000" end="0:22:17.256000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:16.655000	0:22:17.256000
 .	-	-	-	0:22:16.655000	0:22:17.256000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:17.256000" end="0:22:18.552000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:17.256000" end="0:22:18.552000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 dadurch	-	-	-	0:22:17.256000	0:22:18.552000
 ,	-	-	-	0:22:17.256000	0:22:18.552000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:17.256000" end="0:22:18.552000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:17.256000" end="0:22:18.552000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 o/	-	-	-	0:22:17.256000	0:22:18.552000
 /.	-	-	-	0:22:17.256000	0:22:18.552000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:18.552000" end="0:22:20.911000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:18.552000" end="0:22:20.911000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:22:18.552000	0:22:20.230000
 ich	-	-	-	0:22:18.552000	0:22:20.230000
 immer	-	-	-	0:22:18.552000	0:22:20.230000
@@ -5804,7 +5804,7 @@ oder	-	-	-	0:22:20.230000	0:22:20.911000
 halt	-	-	-	0:22:20.230000	0:22:20.911000
 /.	-	-	-	0:22:20.230000	0:22:20.911000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:20.911000" end="0:22:38.524000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:20.911000" end="0:22:38.524000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:22:20.911000	0:22:22.023000
 .	-	-	-	0:22:20.911000	0:22:22.023000
 <pause duration="1,1s"/>
@@ -5850,11 +5850,11 @@ den	-	-	-	0:22:36.227000	0:22:38.524000
 "ORF"-Nachrichtensprechern	-	-	-	0:22:36.227000	0:22:38.524000
 ?	-	-	-	0:22:36.227000	0:22:38.524000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:38.524000" end="0:22:39.309000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:38.524000" end="0:22:39.309000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:38.524000	0:22:39.309000
 .	-	-	-	0:22:38.524000	0:22:39.309000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:39.309000" end="0:22:45.519000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:39.309000" end="0:22:45.519000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 fallen	-	-	-	0:22:39.309000	0:22:42.061000
 Ihnen	-	-	-	0:22:39.309000	0:22:42.061000
@@ -5874,21 +5874,21 @@ könnte	-	-	-	0:22:42.061000	0:22:45.519000
 oder	-	-	-	0:22:42.061000	0:22:45.519000
 /?	-	-	-	0:22:42.061000	0:22:45.519000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:45.519000" end="0:22:46.999000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:45.519000" end="0:22:46.999000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 puh	-	-	-	0:22:45.519000	0:22:46.999000
 ,	-	-	-	0:22:45.519000	0:22:46.999000
 schwierig	-	-	-	0:22:45.519000	0:22:46.999000
 .	-	-	-	0:22:45.519000	0:22:46.999000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:46.999000" end="0:22:47.541000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:46.999000" end="0:22:47.541000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:47.541000" end="0:22:48.187000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:47.541000" end="0:22:48.187000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:22:47.541000	0:22:48.187000
 echt	-	-	-	0:22:47.541000	0:22:48.187000
 schwierig	-	-	-	0:22:47.541000	0:22:48.187000
 .	-	-	-	0:22:47.541000	0:22:48.187000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:48.187000" end="0:22:50.461000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:48.187000" end="0:22:50.461000" persName="Informant EXP5" age_lower="" age_upper="999">
 es	-	-	-	0:22:48.187000	0:22:50.461000
 ist	-	-	-	0:22:48.187000	0:22:50.461000
 echt	-	-	-	0:22:48.187000	0:22:50.461000
@@ -5898,7 +5898,7 @@ ich	-	-	-	0:22:48.187000	0:22:50.461000
 weiß	-	-	-	0:22:48.187000	0:22:50.461000
 .	-	-	-	0:22:48.187000	0:22:50.461000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:50.461000" end="0:22:52.693000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:50.461000" end="0:22:52.693000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	-	-	-	0:22:50.461000	0:22:52.693000
 was	-	-	-	0:22:50.461000	0:22:52.693000
@@ -5907,11 +5907,11 @@ Unterschied	-	-	-	0:22:50.461000	0:22:52.693000
 zwischen	-	-	-	0:22:50.461000	0:22:52.693000
 dem	-	-	-	0:22:50.461000	0:22:52.693000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:52.693000" end="0:22:53.218000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:52.693000" end="0:22:53.218000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:22:52.693000	0:22:53.218000
 .	-	-	-	0:22:52.693000	0:22:53.218000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:53.218000" end="0:22:54.874000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:53.218000" end="0:22:54.874000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (unsrige)	-	-	-	0:22:53.218000	0:22:54.874000
 und	-	-	-	0:22:53.218000	0:22:54.874000
 dem	-	-	-	0:22:53.218000	0:22:54.874000
@@ -5919,11 +5919,11 @@ perfekten	-	-	-	0:22:53.218000	0:22:54.874000
 ist	-	-	-	0:22:53.218000	0:22:54.874000
 ?	-	-	-	0:22:53.218000	0:22:54.874000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:22:54.874000" end="0:22:55.504000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:54.874000" end="0:22:55.504000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:22:54.874000	0:22:55.504000
 .	-	-	-	0:22:54.874000	0:22:55.504000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:22:55.504000" end="0:23:04.109000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:22:55.504000" end="0:23:04.109000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	-	-	-	0:22:55.504000	0:22:57.456000
 ,	-	-	-	0:22:55.504000	0:22:57.456000
@@ -5946,11 +5946,11 @@ sonst	-	-	-	0:22:59.922000	0:23:03.430000
 sprechen	-	-	-	0:22:59.922000	0:23:03.430000
 nicht	-	-	-	0:23:03.430000	0:23:04.109000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:03.430000" end="0:23:04.109000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:03.430000" end="0:23:04.109000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:03.430000	0:23:04.109000
 .	-	-	-	0:23:03.430000	0:23:04.109000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:04.109000" end="0:23:06.312000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:04.109000" end="0:23:06.312000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 heraus	-	-	-	0:23:04.109000	0:23:05.488000
 hört	-	-	-	0:23:04.109000	0:23:05.488000
 ,	-	-	-	0:23:04.109000	0:23:05.488000
@@ -5962,19 +5962,19 @@ man	-	-	-	0:23:05.488000	0:23:06.312000
 halt	-	-	-	0:23:05.488000	0:23:06.312000
 /.	-	-	-	0:23:05.488000	0:23:06.312000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:05.488000" end="0:23:07.112000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:05.488000" end="0:23:07.112000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:05.488000	0:23:06.312000
 .	-	-	-	0:23:05.488000	0:23:06.312000
 mhm	-	-	-	0:23:06.312000	0:23:07.112000
 .	-	-	-	0:23:06.312000	0:23:07.112000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:07.112000" end="0:23:08.538000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:07.112000" end="0:23:08.538000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:07.112000" end="0:23:08.538000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:07.112000" end="0:23:08.538000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:08.538000" end="0:23:11.403000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:08.538000" end="0:23:11.403000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:23:08.538000	0:23:10.662000
 man	-	-	-	0:23:08.538000	0:23:10.662000
 halt	-	-	-	0:23:08.538000	0:23:10.662000
@@ -5988,22 +5988,22 @@ also	-	-	-	0:23:10.662000	0:23:11.403000
 halt	-	-	-	0:23:10.662000	0:23:11.403000
 ,	-	-	-	0:23:10.662000	0:23:11.403000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:11.403000" end="0:23:12.102000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:11.403000" end="0:23:12.102000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:23:11.403000	0:23:12.102000
 .	-	-	-	0:23:11.403000	0:23:12.102000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:12.102000" end="0:23:13.468000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:12.102000" end="0:23:13.468000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:23:12.102000	0:23:12.771000
 so	-	-	-	0:23:12.102000	0:23:12.771000
 .	-	-	-	0:23:12.102000	0:23:12.771000
 ja	-	-	-	0:23:12.771000	0:23:13.468000
 .	-	-	-	0:23:12.771000	0:23:13.468000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:12.771000" end="0:23:13.468000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:12.771000" end="0:23:13.468000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:12.771000	0:23:13.468000
 .	-	-	-	0:23:12.771000	0:23:13.468000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:13.468000" end="0:23:21.868000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:13.468000" end="0:23:21.868000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:23:13.468000	0:23:15.206000
 Kleinigkeiten	-	-	-	0:23:13.468000	0:23:15.206000
 halt	-	-	-	0:23:13.468000	0:23:15.206000
@@ -6022,10 +6022,10 @@ halt	-	-	-	0:23:16.046000	0:23:19.445000
 ,	-	-	-	0:23:16.046000	0:23:19.445000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:19.445000" end="0:23:21.868000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:19.445000" end="0:23:21.868000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:21.868000" end="0:23:26.042000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:21.868000" end="0:23:26.042000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:23:21.868000	0:23:22.453000
 ,	-	-	-	0:23:21.868000	0:23:22.453000
 wir	-	-	-	0:23:22.453000	0:23:24.771000
@@ -6044,11 +6044,11 @@ Sachen	-	-	-	0:23:24.771000	0:23:25.684000
 oder	-	-	-	0:23:25.684000	0:23:26.042000
 ?	-	-	-	0:23:25.684000	0:23:26.042000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:25.684000" end="0:23:26.042000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:25.684000" end="0:23:26.042000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:25.684000	0:23:26.042000
 .	-	-	-	0:23:25.684000	0:23:26.042000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:26.042000" end="0:23:27.486000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:26.042000" end="0:23:27.486000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:23:26.042000	0:23:27.486000
 ist	-	-	-	0:23:26.042000	0:23:27.486000
 halt	-	-	-	0:23:26.042000	0:23:27.486000
@@ -6056,11 +6056,11 @@ halt	-	-	-	0:23:26.042000	0:23:27.486000
 Unterschied	-	-	-	0:23:26.042000	0:23:27.486000
 .	-	-	-	0:23:26.042000	0:23:27.486000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:27.486000" end="0:23:28.169000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:27.486000" end="0:23:28.169000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:27.486000	0:23:28.169000
 .	-	-	-	0:23:27.486000	0:23:28.169000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:28.169000" end="0:23:36.250000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:28.169000" end="0:23:36.250000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:23:28.169000	0:23:28.587000
 wenn	-	-	-	0:23:28.169000	0:23:28.587000
 sie	-	-	-	0:23:28.587000	0:23:30.107000
@@ -6095,20 +6095,20 @@ halt	-	-	-	0:23:35.512000	0:23:36.250000
 so	-	-	-	0:23:35.512000	0:23:36.250000
 .	-	-	-	0:23:35.512000	0:23:36.250000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:35.512000" end="0:23:36.250000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:35.512000" end="0:23:36.250000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:23:35.512000	0:23:36.250000
 .	-	-	-	0:23:35.512000	0:23:36.250000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:36.250000" end="0:23:37.142000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:36.250000" end="0:23:37.142000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 keine	-	-	-	0:23:36.250000	0:23:37.142000
 Ahnung	-	-	-	0:23:36.250000	0:23:37.142000
 ,	-	-	-	0:23:36.250000	0:23:37.142000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:36.250000" end="0:23:37.142000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:36.250000" end="0:23:37.142000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:23:36.250000	0:23:37.142000
 .	-	-	-	0:23:36.250000	0:23:37.142000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:37.142000" end="0:23:38.658000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:37.142000" end="0:23:38.658000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 *weiß*	-	-	-	0:23:37.142000	0:23:38.658000
 gerade	-	-	-	0:23:37.142000	0:23:38.658000
 kein	-	-	-	0:23:37.142000	0:23:38.658000
@@ -6116,22 +6116,22 @@ gutes	-	-	-	0:23:37.142000	0:23:38.658000
 Beispiel	-	-	-	0:23:37.142000	0:23:38.658000
 .	-	-	-	0:23:37.142000	0:23:38.658000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:38.658000" end="0:23:39.109000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:38.658000" end="0:23:39.109000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:39.109000" end="0:23:39.481000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:39.109000" end="0:23:39.481000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (so)	-	-	-	0:23:39.109000	0:23:39.481000
 .	-	-	-	0:23:39.109000	0:23:39.481000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:39.481000" end="0:23:39.997000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:39.481000" end="0:23:39.997000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:23:39.481000	0:23:39.997000
 .	-	-	-	0:23:39.481000	0:23:39.997000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:39.997000" end="0:23:40.817000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:39.997000" end="0:23:40.817000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	0:23:39.997000	0:23:40.817000
 Sachen	-	-	-	0:23:39.997000	0:23:40.817000
 .	-	-	-	0:23:39.997000	0:23:40.817000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:40.817000" end="0:23:59.655000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:40.817000" end="0:23:59.655000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:40.817000	0:23:43.215000
 ,	-	-	-	0:23:40.817000	0:23:43.215000
 mhm	-	-	-	0:23:40.817000	0:23:43.215000
@@ -6185,25 +6185,25 @@ das	-	-	-	0:23:57.864000	0:23:59.655000
 nennen	-	-	-	0:23:57.864000	0:23:59.655000
 ?	-	-	-	0:23:57.864000	0:23:59.655000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:23:59.655000" end="0:24:00.544000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:23:59.655000" end="0:24:00.544000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:23:59.655000	0:24:00.544000
 wenn	-	-	-	0:23:59.655000	0:24:00.544000
 ich	-	-	-	0:23:59.655000	0:24:00.544000
 ,	-	-	-	0:23:59.655000	0:24:00.544000
 wenn	-	-	-	0:23:59.655000	0:24:00.544000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:23:59.655000" end="0:24:00.544000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:59.655000" end="0:24:00.544000" persName="Informant EXP5" age_lower="" age_upper="999">
 ihr	-	-	-	0:23:59.655000	0:24:00.544000
 persönliches	-	-	-	0:23:59.655000	0:24:00.544000
 /?	-	-	-	0:23:59.655000	0:24:00.544000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:00.544000" end="0:24:01.493000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:00.544000" end="0:24:01.493000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:24:00.544000	0:24:01.493000
 Hochdeutsch	-	-	-	0:24:00.544000	0:24:01.493000
 rede	-	-	-	0:24:00.544000	0:24:01.493000
 ?	-	-	-	0:24:00.544000	0:24:01.493000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:01.493000" end="0:24:08.523000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:01.493000" end="0:24:08.523000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:24:01.493000	0:24:04.309000
 ,	-	-	-	0:24:01.493000	0:24:04.309000
 Ihr	-	-	-	0:24:01.493000	0:24:04.309000
@@ -6233,40 +6233,40 @@ nennen	-	-	-	0:24:06.523000	0:24:08.523000
 würden	-	-	-	0:24:06.523000	0:24:08.523000
 ?	-	-	-	0:24:06.523000	0:24:08.523000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:08.523000" end="0:24:10.549000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:08.523000" end="0:24:10.549000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:08.523000" end="0:24:10.549000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:08.523000" end="0:24:10.549000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:10.549000" end="0:24:12.050000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:10.549000" end="0:24:12.050000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:24:10.549000	0:24:12.050000
 .	-	-	-	0:24:10.549000	0:24:12.050000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:10.549000" end="0:24:12.916000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:10.549000" end="0:24:12.916000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:24:12.050000	0:24:12.916000
 ,	-	-	-	0:24:12.050000	0:24:12.916000
 ganz	-	-	-	0:24:12.050000	0:24:12.916000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:12.916000" end="0:24:13.757000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:12.916000" end="0:24:13.757000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:12.916000	0:24:13.757000
 ,	-	-	-	0:24:12.916000	0:24:13.757000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:12.916000" end="0:24:13.757000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:12.916000" end="0:24:13.757000" persName="Informant EXP5" age_lower="" age_upper="999">
 schwierig	-	-	-	0:24:12.916000	0:24:13.757000
 ,	-	-	-	0:24:12.916000	0:24:13.757000
 gell	-	-	-	0:24:12.916000	0:24:13.757000
 ?	-	-	-	0:24:12.916000	0:24:13.757000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:13.757000" end="0:24:16.196000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:13.757000" end="0:24:16.196000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:13.757000	0:24:14.386000
 .	-	-	-	0:24:13.757000	0:24:14.386000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:14.386000" end="0:24:16.196000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:14.386000" end="0:24:16.196000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:16.196000" end="0:24:18.530000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:16.196000" end="0:24:18.530000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:24:16.196000	0:24:18.530000
 eigentlich	-	-	-	0:24:16.196000	0:24:18.530000
 ist	-	-	-	0:24:16.196000	0:24:18.530000
@@ -6278,14 +6278,14 @@ von	-	-	-	0:24:16.196000	0:24:18.530000
 Hochdeutsch	-	-	-	0:24:16.196000	0:24:18.530000
 .	-	-	-	0:24:16.196000	0:24:18.530000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:18.530000" end="0:24:19.784000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:18.530000" end="0:24:19.784000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:18.530000	0:24:19.012000
 ,	-	-	-	0:24:18.530000	0:24:19.012000
 <pause duration="0,5s"/>
 ja	-	-	-	0:24:19.012000	0:24:19.784000
 .	-	-	-	0:24:19.012000	0:24:19.784000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:19.784000" end="0:24:21.322000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:19.784000" end="0:24:21.322000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:24:19.784000	0:24:21.322000
 für	-	-	-	0:24:19.784000	0:24:21.322000
 mich	-	-	-	0:24:19.784000	0:24:21.322000
@@ -6295,11 +6295,11 @@ es	-	-	-	0:24:19.784000	0:24:21.322000
 Hochdeutsch	-	-	-	0:24:19.784000	0:24:21.322000
 ,	-	-	-	0:24:19.784000	0:24:21.322000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:19.784000" end="0:24:21.322000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:19.784000" end="0:24:21.322000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:19.784000	0:24:21.322000
 .	-	-	-	0:24:19.784000	0:24:21.322000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:21.322000" end="0:24:22.195000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:21.322000" end="0:24:22.195000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:24:21.322000	0:24:21.810000
 ich	-	-	-	0:24:21.322000	0:24:21.810000
 rede	-	-	-	0:24:21.322000	0:24:21.810000
@@ -6307,29 +6307,29 @@ rede	-	-	-	0:24:21.322000	0:24:21.810000
 *is*	-	-	-	0:24:21.810000	0:24:22.195000
 ,	-	-	-	0:24:21.810000	0:24:22.195000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:21.810000" end="0:24:22.195000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:21.810000" end="0:24:22.195000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:24:21.810000	0:24:22.195000
 .	-	-	-	0:24:21.810000	0:24:22.195000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:22.195000" end="0:24:23.671000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:22.195000" end="0:24:23.671000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 für	-	-	-	0:24:22.195000	0:24:23.671000
 mich	-	-	-	0:24:22.195000	0:24:23.671000
 *is*	-	-	-	0:24:22.195000	0:24:23.671000
 Hochdeutsch	-	-	-	0:24:22.195000	0:24:23.671000
 .	-	-	-	0:24:22.195000	0:24:23.671000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:22.195000" end="0:24:23.671000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:22.195000" end="0:24:23.671000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:24:22.195000	0:24:23.671000
 .	-	-	-	0:24:22.195000	0:24:23.671000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:23.671000" end="0:24:24.881000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:23.671000" end="0:24:24.881000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:24:23.671000	0:24:24.881000
 ich	-	-	-	0:24:23.671000	0:24:24.881000
 Hochdeutsch	-	-	-	0:24:23.671000	0:24:24.881000
 rede	-	-	-	0:24:23.671000	0:24:24.881000
 .	-	-	-	0:24:23.671000	0:24:24.881000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:23.671000" end="0:24:26.417000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:23.671000" end="0:24:26.417000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:24:23.671000	0:24:24.881000
 ,	-	-	-	0:24:23.671000	0:24:24.881000
 kann	-	-	-	0:24:23.671000	0:24:24.881000
@@ -6345,7 +6345,7 @@ nennen	-	-	-	0:24:24.881000	0:24:26.417000
 also	-	-	-	0:24:24.881000	0:24:26.417000
 /.	-	-	-	0:24:24.881000	0:24:26.417000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:26.417000" end="0:24:27.835000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:26.417000" end="0:24:27.835000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:26.417000	0:24:27.835000
 ,	-	-	-	0:24:26.417000	0:24:27.835000
 oder	-	-	-	0:24:26.417000	0:24:27.835000
@@ -6356,21 +6356,21 @@ Deutsch	-	-	-	0:24:26.417000	0:24:27.835000
 ,	-	-	-	0:24:26.417000	0:24:27.835000
 oder	-	-	-	0:24:26.417000	0:24:27.835000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:27.835000" end="0:24:28.121000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:27.835000" end="0:24:28.121000" persName="Informant EXP5" age_lower="" age_upper="999">
 (ja	-	-	-	0:24:27.835000	0:24:28.121000
 .)	-	-	-	0:24:27.835000	0:24:28.121000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:28.121000" end="0:24:29.346000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:28.121000" end="0:24:29.346000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nach	-	-	-	0:24:28.121000	0:24:29.346000
 der	-	-	-	0:24:28.121000	0:24:29.346000
 Sprache	-	-	-	0:24:28.121000	0:24:29.346000
 ,	-	-	-	0:24:28.121000	0:24:29.346000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:29.346000" end="0:24:29.849000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:29.346000" end="0:24:29.849000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:29.346000	0:24:29.849000
 .	-	-	-	0:24:29.346000	0:24:29.849000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:29.849000" end="0:24:32.390000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:29.849000" end="0:24:32.390000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nach	-	-	-	0:24:29.849000	0:24:31.814000
 der	-	-	-	0:24:29.849000	0:24:31.814000
@@ -6381,22 +6381,22 @@ ich	-	-	-	0:24:31.814000	0:24:32.390000
 mir)	-	-	-	0:24:31.814000	0:24:32.390000
 .	-	-	-	0:24:31.814000	0:24:32.390000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:32.390000" end="0:24:32.864000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:32.390000" end="0:24:32.864000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:32.390000	0:24:32.864000
 .	-	-	-	0:24:32.390000	0:24:32.864000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:32.864000" end="0:24:35.778000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:32.864000" end="0:24:35.778000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:32.864000" end="0:24:36.322000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:32.864000" end="0:24:36.322000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,9s"/>
 okay	-	-	-	0:24:35.778000	0:24:36.322000
 .	-	-	-	0:24:35.778000	0:24:36.322000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:36.322000" end="0:24:43.363000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:36.322000" end="0:24:43.363000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:36.322000" end="0:24:51.180000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:36.322000" end="0:24:51.180000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="6,8s"/>
 mhm	-	-	-	0:24:43.363000	0:24:44.066000
 .	-	-	-	0:24:43.363000	0:24:44.066000
@@ -6419,11 +6419,11 @@ selber	-	-	-	0:24:47.941000	0:24:51.180000
 machen	-	-	-	0:24:47.941000	0:24:51.180000
 .	-	-	-	0:24:47.941000	0:24:51.180000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:24:51.180000" end="0:24:52.350000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:24:51.180000" end="0:24:52.350000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:24:51.180000	0:24:52.350000
 .	-	-	-	0:24:51.180000	0:24:52.350000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:24:52.350000" end="0:25:01.506000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:52.350000" end="0:25:01.506000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:24:52.350000	0:24:53.223000
 zwar	-	-	-	0:24:52.350000	0:24:53.223000
 ,	-	-	-	0:24:52.350000	0:24:53.223000
@@ -6446,13 +6446,13 @@ alten	-	-	-	0:25:00.304000	0:25:01.506000
 Leuten	-	-	-	0:25:00.304000	0:25:01.506000
 ,	-	-	-	0:25:00.304000	0:25:01.506000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:01.506000" end="0:25:02.587000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:01.506000" end="0:25:02.587000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:25:01.506000	0:25:02.587000
 ,	-	-	-	0:25:01.506000	0:25:02.587000
 ja	-	-	-	0:25:01.506000	0:25:02.587000
 .	-	-	-	0:25:01.506000	0:25:02.587000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:01.506000" end="0:25:07.778000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:01.506000" end="0:25:07.778000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:25:01.506000	0:25:02.587000
 ?	-	-	-	0:25:01.506000	0:25:02.587000
 <pause duration="0,6s"/>
@@ -6468,10 +6468,10 @@ perfekte	-	-	-	0:25:02.587000	0:25:07.778000
 Hochdeutsch	-	-	-	0:25:02.587000	0:25:07.778000
 .	-	-	-	0:25:02.587000	0:25:07.778000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:07.778000" end="0:25:11.037000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:07.778000" end="0:25:11.037000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:07.778000" end="0:25:12.839000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:07.778000" end="0:25:12.839000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,3s"/>
 also	-	-	-	0:25:11.037000	0:25:12.839000
 das	-	-	-	0:25:11.037000	0:25:12.839000
@@ -6481,9 +6481,9 @@ deutschen	-	-	-	0:25:11.037000	0:25:12.839000
 Politikern	-	-	-	0:25:11.037000	0:25:12.839000
 .	-	-	-	0:25:11.037000	0:25:12.839000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:12.839000" end="0:25:14.220000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:12.839000" end="0:25:14.220000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:12.839000" end="0:25:21.659000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:12.839000" end="0:25:21.659000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:25:14.220000	0:25:19.269000
 ,	-	-	-	0:25:14.220000	0:25:19.269000
 <pause duration="0,7s"/>
@@ -6511,11 +6511,11 @@ der	-	-	-	0:25:20.253000	0:25:21.659000
 Schrift	-	-	-	0:25:20.253000	0:25:21.659000
 und	-	-	-	0:25:20.253000	0:25:21.659000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:21.659000" end="0:25:22.140000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:21.659000" end="0:25:22.140000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:21.659000	0:25:22.140000
 .	-	-	-	0:25:21.659000	0:25:22.140000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:21.659000" end="0:25:26.862000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:21.659000" end="0:25:26.862000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	0:25:21.659000	0:25:22.140000
 .	-	-	-	0:25:21.659000	0:25:22.140000
 wo	-	-	-	0:25:22.140000	0:25:23.721000
@@ -6540,7 +6540,7 @@ einordnen	-	-	-	0:25:24.949000	0:25:26.862000
 würden	-	-	-	0:25:24.949000	0:25:26.862000
 ,	-	-	-	0:25:24.949000	0:25:26.862000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:26.862000" end="0:25:28.768000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:26.862000" end="0:25:28.768000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:25:26.862000	0:25:28.768000
 wo	-	-	-	0:25:26.862000	0:25:28.768000
 ich	-	-	-	0:25:26.862000	0:25:28.768000
@@ -6549,7 +6549,7 @@ dran	-	-	-	0:25:26.862000	0:25:28.768000
 bin	-	-	-	0:25:26.862000	0:25:28.768000
 ?	-	-	-	0:25:26.862000	0:25:28.768000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:26.862000" end="0:25:33.463000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:26.862000" end="0:25:33.463000" persName="Informant EXP5" age_lower="" age_upper="999">
 wo	-	-	-	0:25:26.862000	0:25:28.768000
 das	-	-	-	0:25:26.862000	0:25:28.768000
 dann	-	-	-	0:25:26.862000	0:25:28.768000
@@ -6577,12 +6577,12 @@ bemühen	-	-	-	0:25:30.675000	0:25:33.463000
 ähm	-	-	-	0:25:30.675000	0:25:33.463000
 ,	-	-	-	0:25:30.675000	0:25:33.463000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:33.463000" end="0:25:35.261000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:33.463000" end="0:25:35.261000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:25:33.463000	0:25:35.261000
 .	-	-	-	0:25:33.463000	0:25:35.261000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:33.463000" end="0:25:35.261000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:33.463000" end="0:25:35.261000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 Ihr	-	-	-	0:25:33.463000	0:25:35.261000
 perfekt/	-	-	-	0:25:33.463000	0:25:35.261000
@@ -6590,13 +6590,13 @@ perfekt/	-	-	-	0:25:33.463000	0:25:35.261000
 wo	-	-	-	0:25:33.463000	0:25:35.261000
 /?	-	-	-	0:25:33.463000	0:25:35.261000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:35.261000" end="0:25:39.512000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:35.261000" end="0:25:39.512000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:35.261000" end="0:25:39.512000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:35.261000" end="0:25:39.512000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,2s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:39.512000" end="0:25:41.155000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:39.512000" end="0:25:41.155000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:39.512000	0:25:41.155000
 ,	-	-	-	0:25:39.512000	0:25:41.155000
 (so)	-	-	-	0:25:39.512000	0:25:41.155000
@@ -6607,7 +6607,7 @@ da	-	-	-	0:25:39.512000	0:25:41.155000
 (gell)	-	-	-	0:25:39.512000	0:25:41.155000
 ?	-	-	-	0:25:39.512000	0:25:41.155000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:41.155000" end="0:25:43.423000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:41.155000" end="0:25:43.423000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 (ja	-	-	-	0:25:41.155000	0:25:43.423000
 ,	-	-	-	0:25:41.155000	0:25:43.423000
@@ -6615,7 +6615,7 @@ was	-	-	-	0:25:41.155000	0:25:43.423000
 Sie	-	-	-	0:25:41.155000	0:25:43.423000
 /.)	-	-	-	0:25:41.155000	0:25:43.423000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:43.423000" end="0:25:49.267000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:43.423000" end="0:25:49.267000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 das	-	-	-	0:25:43.423000	0:25:45.193000
 ist	-	-	-	0:25:43.423000	0:25:45.193000
@@ -6646,11 +6646,11 @@ ich	-	-	-	0:25:48.117000	0:25:48.557000
 schö/	-	-	-	0:25:48.557000	0:25:49.267000
 schön	-	-	-	0:25:48.557000	0:25:49.267000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:48.557000" end="0:25:49.267000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:48.557000" end="0:25:49.267000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:48.557000	0:25:49.267000
 .	-	-	-	0:25:48.557000	0:25:49.267000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:49.267000" end="0:25:56.402000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:49.267000" end="0:25:56.402000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:25:49.267000	0:25:50.091000
 rede	-	-	-	0:25:49.267000	0:25:50.091000
 .	-	-	-	0:25:49.267000	0:25:50.091000
@@ -6680,7 +6680,7 @@ machen	-	-	-	0:25:53.433000	0:25:55.971000
 .	-	-	-	0:25:53.433000	0:25:55.971000
 also	-	-	-	0:25:55.971000	0:25:56.402000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:55.971000" end="0:25:57.413000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:55.971000" end="0:25:57.413000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:25:55.971000	0:25:56.402000
 ,	-	-	-	0:25:55.971000	0:25:56.402000
 ja	-	-	-	0:25:56.402000	0:25:57.413000
@@ -6688,12 +6688,12 @@ ja	-	-	-	0:25:56.402000	0:25:57.413000
 ja	-	-	-	0:25:56.402000	0:25:57.413000
 .	-	-	-	0:25:56.402000	0:25:57.413000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:25:57.413000" end="0:25:58.380000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:25:57.413000" end="0:25:58.380000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ganz	-	-	-	0:25:57.413000	0:25:58.380000
 schwierig	-	-	-	0:25:57.413000	0:25:58.380000
 .	-	-	-	0:25:57.413000	0:25:58.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:25:58.380000" end="0:26:05.101000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:58.380000" end="0:26:05.101000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 ja	-	-	-	0:25:58.380000	0:26:00.562000
 ,	-	-	-	0:25:58.380000	0:26:00.562000
@@ -6720,13 +6720,13 @@ Selbsteinschätzung	-	-	-	0:26:02.562000	0:26:05.101000
 einfach	-	-	-	0:26:02.562000	0:26:05.101000
 .	-	-	-	0:26:02.562000	0:26:05.101000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:05.101000" end="0:26:07.555000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:05.101000" end="0:26:07.555000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:05.101000" end="0:26:07.555000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:05.101000" end="0:26:07.555000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:07.555000" end="0:26:10.535000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:07.555000" end="0:26:10.535000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:07.555000	0:26:08.080000
 .	-	-	-	0:26:07.555000	0:26:08.080000
 <pause duration="0,6s"/>
@@ -6737,7 +6737,7 @@ Walser	-	-	-	0:26:08.080000	0:26:10.535000
 Dialekt	-	-	-	0:26:08.080000	0:26:10.535000
 .	-	-	-	0:26:08.080000	0:26:10.535000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:10.535000" end="0:26:31.621000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:10.535000" end="0:26:31.621000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:26:10.535000	0:26:11.161000
 .	-	-	-	0:26:10.535000	0:26:11.161000
 <pause duration="1,4s"/>
@@ -6791,7 +6791,7 @@ unterscheiden	-	-	-	0:26:25.643000	0:26:31.621000
 würde	-	-	-	0:26:25.643000	0:26:31.621000
 ?	-	-	-	0:26:25.643000	0:26:31.621000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:31.621000" end="0:26:36.738000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:31.621000" end="0:26:36.738000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:26:31.621000	0:26:36.052000
 ,	-	-	-	0:26:31.621000	0:26:36.052000
@@ -6811,11 +6811,11 @@ gerade	-	-	-	0:26:36.052000	0:26:36.738000
 im	-	-	-	0:26:36.052000	0:26:36.738000
 Studium	-	-	-	0:26:36.052000	0:26:36.738000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:36.052000" end="0:26:36.738000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:36.052000" end="0:26:36.738000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:36.052000	0:26:36.738000
 .	-	-	-	0:26:36.052000	0:26:36.738000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:36.738000" end="0:26:39.361000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:36.738000" end="0:26:39.361000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:26:36.738000	0:26:37.345000
 so	-	-	-	0:26:36.738000	0:26:37.345000
 habe	-	-	-	0:26:36.738000	0:26:37.345000
@@ -6830,11 +6830,11 @@ Hochdeutsch	-	-	-	0:26:37.345000	0:26:38.811000
 also	-	-	-	0:26:38.811000	0:26:39.361000
 das	-	-	-	0:26:38.811000	0:26:39.361000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:38.811000" end="0:26:39.361000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:38.811000" end="0:26:39.361000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:38.811000	0:26:39.361000
 .	-	-	-	0:26:38.811000	0:26:39.361000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:39.361000" end="0:26:41.155000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:39.361000" end="0:26:41.155000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 kann	-	-	-	0:26:39.361000	0:26:40.229000
 ich	-	-	-	0:26:39.361000	0:26:40.229000
 dann	-	-	-	0:26:39.361000	0:26:40.229000
@@ -6846,11 +6846,11 @@ auch	-	-	-	0:26:40.229000	0:26:41.155000
 gut	-	-	-	0:26:40.229000	0:26:41.155000
 ,	-	-	-	0:26:40.229000	0:26:41.155000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:40.229000" end="0:26:41.155000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:40.229000" end="0:26:41.155000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:40.229000	0:26:41.155000
 .	-	-	-	0:26:40.229000	0:26:41.155000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:41.155000" end="0:26:46.198000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:41.155000" end="0:26:46.198000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:26:41.155000	0:26:43.177000
 wenn	-	-	-	0:26:41.155000	0:26:43.177000
 man	-	-	-	0:26:41.155000	0:26:43.177000
@@ -6876,22 +6876,22 @@ Dialekt	-	-	-	0:26:44.651000	0:26:46.198000
 falle	-	-	-	0:26:44.651000	0:26:46.198000
 .	-	-	-	0:26:44.651000	0:26:46.198000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:46.198000" end="0:26:46.731000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:46.198000" end="0:26:46.731000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:46.198000	0:26:46.731000
 .	-	-	-	0:26:46.198000	0:26:46.731000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:46.731000" end="0:26:48.446000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:46.731000" end="0:26:48.446000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	0:26:46.731000	0:26:47.714000
 Sachen	-	-	-	0:26:46.731000	0:26:47.714000
 ,	-	-	-	0:26:46.731000	0:26:47.714000
 also	-	-	-	0:26:47.714000	0:26:48.446000
 /.	-	-	-	0:26:47.714000	0:26:48.446000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:47.714000" end="0:26:48.446000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:47.714000" end="0:26:48.446000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:47.714000	0:26:48.446000
 .	-	-	-	0:26:47.714000	0:26:48.446000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:48.446000" end="0:26:52.994000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:48.446000" end="0:26:52.994000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:26:48.446000	0:26:49.766000
 halt	-	-	-	0:26:48.446000	0:26:49.766000
 ,	-	-	-	0:26:48.446000	0:26:49.766000
@@ -6911,24 +6911,24 @@ Dialekt(wort)	-	-	-	0:26:49.766000	0:26:52.994000
 rutscht	-	-	-	0:26:49.766000	0:26:52.994000
 .	-	-	-	0:26:49.766000	0:26:52.994000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:52.994000" end="0:26:53.909000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:52.994000" end="0:26:53.909000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:26:52.994000	0:26:53.909000
 ,	-	-	-	0:26:52.994000	0:26:53.909000
 ja	-	-	-	0:26:52.994000	0:26:53.909000
 .	-	-	-	0:26:52.994000	0:26:53.909000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:53.909000" end="0:26:54.959000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:53.909000" end="0:26:54.959000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	0:26:53.909000	0:26:54.959000
 Sachen	-	-	-	0:26:53.909000	0:26:54.959000
 .	-	-	-	0:26:53.909000	0:26:54.959000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:54.959000" end="0:26:55.804000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:54.959000" end="0:26:55.804000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:26:54.959000	0:26:55.804000
 ,	-	-	-	0:26:54.959000	0:26:55.804000
 klar	-	-	-	0:26:54.959000	0:26:55.804000
 .	-	-	-	0:26:54.959000	0:26:55.804000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:26:55.804000" end="0:26:57.104000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:26:55.804000" end="0:26:57.104000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:26:55.804000	0:26:56.657000
 ist	-	-	-	0:26:55.804000	0:26:56.657000
 ja	-	-	-	0:26:55.804000	0:26:56.657000
@@ -6936,7 +6936,7 @@ ja	-	-	-	0:26:55.804000	0:26:56.657000
 also	-	-	-	0:26:56.657000	0:26:57.104000
 /.	-	-	-	0:26:56.657000	0:26:57.104000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:26:56.657000" end="0:27:02.320000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:56.657000" end="0:27:02.320000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:26:56.657000	0:26:57.104000
 .	-	-	-	0:26:56.657000	0:26:57.104000
 <pause duration="0,9s"/>
@@ -6960,11 +6960,11 @@ dann	-	-	-	0:27:00.820000	0:27:02.320000
 geht	-	-	-	0:27:00.820000	0:27:02.320000
 es	-	-	-	0:27:00.820000	0:27:02.320000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:02.320000" end="0:27:02.931000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:02.320000" end="0:27:02.931000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:02.320000	0:27:02.931000
 .	-	-	-	0:27:02.320000	0:27:02.931000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:02.320000" end="0:27:04.889000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:02.320000" end="0:27:04.889000" persName="Informant EXP5" age_lower="" age_upper="999">
 gut	-	-	-	0:27:02.320000	0:27:02.931000
 .	-	-	-	0:27:02.320000	0:27:02.931000
 und	-	-	-	0:27:02.931000	0:27:04.889000
@@ -6976,14 +6976,14 @@ Spontaneres	-	-	-	0:27:02.931000	0:27:04.889000
 kommt	-	-	-	0:27:02.931000	0:27:04.889000
 ,	-	-	-	0:27:02.931000	0:27:04.889000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:04.889000" end="0:27:06.413000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:04.889000" end="0:27:06.413000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:27:04.889000	0:27:06.413000
 muss	-	-	-	0:27:04.889000	0:27:06.413000
 ich	-	-	-	0:27:04.889000	0:27:06.413000
 mich	-	-	-	0:27:04.889000	0:27:06.413000
 brutal	-	-	-	0:27:04.889000	0:27:06.413000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:04.889000" end="0:27:06.413000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:04.889000" end="0:27:06.413000" persName="Informant EXP5" age_lower="" age_upper="999">
 dann	-	-	-	0:27:04.889000	0:27:06.413000
 kann	-	-	-	0:27:04.889000	0:27:06.413000
 es	-	-	-	0:27:04.889000	0:27:06.413000
@@ -6996,7 +6996,7 @@ wieder	-	-	-	0:27:04.889000	0:27:06.413000
 in	-	-	-	0:27:04.889000	0:27:06.413000
 einen	-	-	-	0:27:04.889000	0:27:06.413000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:06.413000" end="0:27:07.815000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:06.413000" end="0:27:07.815000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 konzentrieren	-	-	-	0:27:06.413000	0:27:06.990000
 ,	-	-	-	0:27:06.413000	0:27:06.990000
 ja	-	-	-	0:27:06.990000	0:27:07.815000
@@ -7004,7 +7004,7 @@ ja	-	-	-	0:27:06.990000	0:27:07.815000
 also	-	-	-	0:27:06.990000	0:27:07.815000
 /.	-	-	-	0:27:06.990000	0:27:07.815000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:06.990000" end="0:27:09.431000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:06.990000" end="0:27:09.431000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:27:06.990000	0:27:07.815000
 ,	-	-	-	0:27:06.990000	0:27:07.815000
 ja	-	-	-	0:27:06.990000	0:27:07.815000
@@ -7018,7 +7018,7 @@ okay	-	-	-	0:27:07.815000	0:27:09.431000
 mhm	-	-	-	0:27:07.815000	0:27:09.431000
 .	-	-	-	0:27:07.815000	0:27:09.431000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:09.431000" end="0:27:14.102000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:09.431000" end="0:27:14.102000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:09.431000	0:27:11.233000
 es	-	-	-	0:27:09.431000	0:27:11.233000
 fällt	-	-	-	0:27:09.431000	0:27:11.233000
@@ -7039,7 +7039,7 @@ falsches	-	-	-	0:27:12.357000	0:27:14.102000
 Wort	-	-	-	0:27:12.357000	0:27:14.102000
 .	-	-	-	0:27:12.357000	0:27:14.102000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:12.357000" end="0:27:28.132000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:12.357000" end="0:27:28.132000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:27:12.357000	0:27:14.102000
 .	-	-	-	0:27:12.357000	0:27:14.102000
 okay	-	-	-	0:27:14.102000	0:27:15.065000
@@ -7083,28 +7083,28 @@ der	-	-	-	0:27:22.586000	0:27:28.132000
 Schrift	-	-	-	0:27:22.586000	0:27:28.132000
 ,	-	-	-	0:27:22.586000	0:27:28.132000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:28.132000" end="0:27:30.596000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:28.132000" end="0:27:30.596000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:27:28.132000	0:27:30.596000
 .	-	-	-	0:27:28.132000	0:27:30.596000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:28.132000" end="0:27:30.596000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:28.132000" end="0:27:30.596000" persName="Informant EXP5" age_lower="" age_upper="999">
 ihr	-	-	-	0:27:28.132000	0:27:30.596000
 per(())fektes	-	-	-	0:27:28.132000	0:27:30.596000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:30.596000" end="0:27:31.458000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:30.596000" end="0:27:31.458000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:30.596000	0:27:31.458000
 ,	-	-	-	0:27:30.596000	0:27:31.458000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:30.596000" end="0:27:31.458000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:30.596000" end="0:27:31.458000" persName="Informant EXP5" age_lower="" age_upper="999">
 Hochdeutsch	-	-	-	0:27:30.596000	0:27:31.458000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:31.458000" end="0:27:32.564000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:31.458000" end="0:27:32.564000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:31.458000" end="0:27:32.564000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:31.458000" end="0:27:32.564000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:32.564000" end="0:27:34.279000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:32.564000" end="0:27:34.279000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:32.564000	0:27:34.279000
 normale	-	-	-	0:27:32.564000	0:27:34.279000
 Woche	-	-	-	0:27:32.564000	0:27:34.279000
@@ -7112,13 +7112,13 @@ eigentlich	-	-	-	0:27:32.564000	0:27:34.279000
 nie	-	-	-	0:27:32.564000	0:27:34.279000
 ,	-	-	-	0:27:32.564000	0:27:34.279000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:34.279000" end="0:27:35.467000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:34.279000" end="0:27:35.467000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:34.279000	0:27:35.467000
 ,	-	-	-	0:27:34.279000	0:27:35.467000
 okay	-	-	-	0:27:34.279000	0:27:35.467000
 .	-	-	-	0:27:34.279000	0:27:35.467000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:35.467000" end="0:27:39.759000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:35.467000" end="0:27:39.759000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:35.467000	0:27:38.705000
 wir	-	-	-	0:27:35.467000	0:27:38.705000
 reden	-	-	-	0:27:35.467000	0:27:38.705000
@@ -7136,11 +7136,11 @@ mit	-	-	-	0:27:38.705000	0:27:39.759000
 sämtliche	-	-	-	0:27:38.705000	0:27:39.759000
 /.	-	-	-	0:27:38.705000	0:27:39.759000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:38.705000" end="0:27:39.759000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:38.705000" end="0:27:39.759000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:38.705000	0:27:39.759000
 .	-	-	-	0:27:38.705000	0:27:39.759000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:39.759000" end="0:27:50.490000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:39.759000" end="0:27:50.490000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	-	-	-	0:27:39.759000	0:27:41.759000
 ,	-	-	-	0:27:39.759000	0:27:41.759000
@@ -7175,21 +7175,21 @@ Präsentationen	-	-	-	0:27:46.706000	0:27:50.002000
 habe	-	-	-	0:27:50.002000	0:27:50.490000
 ,	-	-	-	0:27:50.002000	0:27:50.490000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:50.002000" end="0:27:50.490000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:50.002000" end="0:27:50.490000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:27:50.002000	0:27:50.490000
 .	-	-	-	0:27:50.002000	0:27:50.490000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:50.490000" end="0:27:51.844000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:50.490000" end="0:27:51.844000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:27:50.490000	0:27:51.844000
 natürlich	-	-	-	0:27:50.490000	0:27:51.844000
 öfters	-	-	-	0:27:50.490000	0:27:51.844000
 .	-	-	-	0:27:50.490000	0:27:51.844000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:51.844000" end="0:27:52.417000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:51.844000" end="0:27:52.417000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:27:51.844000	0:27:52.417000
 ,	-	-	-	0:27:51.844000	0:27:52.417000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:27:52.417000" end="0:27:55.204000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:27:52.417000" end="0:27:55.204000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:52.417000	0:27:55.204000
 *ist*	-	-	-	0:27:52.417000	0:27:55.204000
 ganz	-	-	-	0:27:52.417000	0:27:55.204000
@@ -7198,7 +7198,7 @@ unterschiedlich	-	-	-	0:27:52.417000	0:27:55.204000
 ja	-	-	-	0:27:52.417000	0:27:55.204000
 .	-	-	-	0:27:52.417000	0:27:55.204000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:27:52.417000" end="0:28:02.324000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:52.417000" end="0:28:02.324000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:27:52.417000	0:27:55.204000
 ,	-	-	-	0:27:52.417000	0:27:55.204000
 ja	-	-	-	0:27:52.417000	0:27:55.204000
@@ -7231,7 +7231,7 @@ mal	-	-	-	0:27:57.182000	0:28:02.324000
 probieren	-	-	-	0:27:57.182000	0:28:02.324000
 .	-	-	-	0:27:57.182000	0:28:02.324000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:02.324000" end="0:28:08.459000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:02.324000" end="0:28:08.459000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:02.324000	0:28:03.260000
 .	-	-	-	0:28:02.324000	0:28:03.260000
 <pause duration="0,6s"/>
@@ -7253,11 +7253,11 @@ oder	-	-	-	0:28:07.306000	0:28:08.459000
 ,	-	-	-	0:28:07.306000	0:28:08.459000
 oder	-	-	-	0:28:07.306000	0:28:08.459000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:07.306000" end="0:28:08.459000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:07.306000" end="0:28:08.459000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:28:07.306000	0:28:08.459000
 .	-	-	-	0:28:07.306000	0:28:08.459000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:08.459000" end="0:28:11.150000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:08.459000" end="0:28:11.150000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 Versicherung	-	-	-	0:28:08.459000	0:28:10.655000
 oder	-	-	-	0:28:08.459000	0:28:10.655000
@@ -7266,18 +7266,18 @@ sa	-	-	-	0:28:08.459000	0:28:10.655000
 dann	-	-	-	0:28:08.459000	0:28:10.655000
 versucht	-	-	-	0:28:10.655000	0:28:11.150000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:10.655000" end="0:28:11.150000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:10.655000" end="0:28:11.150000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:10.655000	0:28:11.150000
 .	-	-	-	0:28:10.655000	0:28:11.150000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:11.150000" end="0:28:12.313000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:11.150000" end="0:28:12.313000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:28:11.150000	0:28:12.313000
 es	-	-	-	0:28:11.150000	0:28:12.313000
 doch	-	-	-	0:28:11.150000	0:28:12.313000
 wieder	-	-	-	0:28:11.150000	0:28:12.313000
 .	-	-	-	0:28:11.150000	0:28:12.313000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:12.313000" end="0:28:32.133000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:12.313000" end="0:28:32.133000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:28:12.313000	0:28:13.337000
 ,	-	-	-	0:28:12.313000	0:28:13.337000
 sicher	-	-	-	0:28:12.313000	0:28:13.337000
@@ -7341,7 +7341,7 @@ den	-	-	-	0:28:30.907000	0:28:32.133000
 Schrift	-	-	-	0:28:30.907000	0:28:32.133000
 ?	-	-	-	0:28:30.907000	0:28:32.133000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:32.133000" end="0:28:36.624000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:32.133000" end="0:28:36.624000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:28:32.133000	0:28:35.935000
 ,	-	-	-	0:28:32.133000	0:28:35.935000
@@ -7357,22 +7357,22 @@ einmal	-	-	-	0:28:32.133000	0:28:35.935000
 gerade	-	-	-	0:28:35.935000	0:28:36.624000
 mit	-	-	-	0:28:35.935000	0:28:36.624000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:35.935000" end="0:28:36.624000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:35.935000" end="0:28:36.624000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:35.935000	0:28:36.624000
 .	-	-	-	0:28:35.935000	0:28:36.624000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:36.624000" end="0:28:38.214000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:36.624000" end="0:28:38.214000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Deutschen	-	-	-	0:28:36.624000	0:28:37.389000
 ,	-	-	-	0:28:36.624000	0:28:37.389000
 ist	-	-	-	0:28:37.389000	0:28:38.214000
 es	-	-	-	0:28:37.389000	0:28:38.214000
 ,	-	-	-	0:28:37.389000	0:28:38.214000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:37.389000" end="0:28:38.214000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:37.389000" end="0:28:38.214000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:37.389000	0:28:38.214000
 .	-	-	-	0:28:37.389000	0:28:38.214000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:38.214000" end="0:28:42.725000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:38.214000" end="0:28:42.725000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:28:38.214000	0:28:40.426000
 bem/	-	-	-	0:28:38.214000	0:28:40.426000
 ,	-	-	-	0:28:38.214000	0:28:40.426000
@@ -7391,11 +7391,11 @@ ein	-	-	-	0:28:40.426000	0:28:42.043000
 Mischmasch	-	-	-	0:28:40.426000	0:28:42.043000
 aus	-	-	-	0:28:42.043000	0:28:42.725000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:42.043000" end="0:28:42.725000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:42.043000" end="0:28:42.725000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:42.043000	0:28:42.725000
 .	-	-	-	0:28:42.043000	0:28:42.725000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:42.725000" end="0:28:45.515000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:42.725000" end="0:28:45.515000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 beidem	-	-	-	0:28:42.725000	0:28:43.334000
 .	-	-	-	0:28:42.725000	0:28:43.334000
 wenn	-	-	-	0:28:43.334000	0:28:44.843000
@@ -7405,27 +7405,27 @@ habe	-	-	-	0:28:43.334000	0:28:44.843000
 ,	-	-	-	0:28:43.334000	0:28:44.843000
 da	-	-	-	0:28:44.843000	0:28:45.515000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:44.843000" end="0:28:45.515000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:44.843000" end="0:28:45.515000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:28:44.843000	0:28:45.515000
 .	-	-	-	0:28:44.843000	0:28:45.515000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:45.515000" end="0:28:45.910000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:45.515000" end="0:28:45.910000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 auf	-	-	-	0:28:45.515000	0:28:45.910000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:45.515000" end="0:28:45.910000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:45.515000" end="0:28:45.910000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:28:45.515000	0:28:45.910000
 .	-	-	-	0:28:45.515000	0:28:45.910000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:45.910000" end="0:28:46.559000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:45.910000" end="0:28:46.559000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 jeden	-	-	-	0:28:45.910000	0:28:46.559000
 Fall	-	-	-	0:28:45.910000	0:28:46.559000
 .	-	-	-	0:28:45.910000	0:28:46.559000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:46.559000" end="0:28:47.269000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:46.559000" end="0:28:47.269000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:46.559000	0:28:47.269000
 .	-	-	-	0:28:46.559000	0:28:47.269000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:47.269000" end="0:28:53.521000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:47.269000" end="0:28:53.521000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hm	-	-	-	0:28:47.269000	0:28:48.450000
 .	-	-	-	0:28:47.269000	0:28:48.450000
@@ -7438,10 +7438,10 @@ noch	-	-	-	0:28:48.450000	0:28:50.140000
 ?	-	-	-	0:28:48.450000	0:28:50.140000
 <pause duration="3,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:50.140000" end="0:28:53.521000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:50.140000" end="0:28:53.521000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:28:53.521000" end="0:28:56.768000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:28:53.521000" end="0:28:56.768000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gar	-	-	-	0:28:53.521000	0:28:56.204000
 keine	-	-	-	0:28:53.521000	0:28:56.204000
 Ahnung	-	-	-	0:28:53.521000	0:28:56.204000
@@ -7454,7 +7454,7 @@ selten	-	-	-	0:28:53.521000	0:28:56.204000
 Hochdeutsch	-	-	-	0:28:56.204000	0:28:56.768000
 .	-	-	-	0:28:56.204000	0:28:56.768000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:28:56.204000" end="0:29:01.258000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:56.204000" end="0:29:01.258000" persName="Informant EXP5" age_lower="" age_upper="999">
 nicht	-	-	-	0:28:56.204000	0:28:56.768000
 so	-	-	-	0:28:56.204000	0:28:56.768000
 ,	-	-	-	0:28:56.204000	0:28:56.768000
@@ -7478,7 +7478,7 @@ deutschen	-	-	-	0:28:59.748000	0:29:01.258000
 Kunden	-	-	-	0:28:59.748000	0:29:01.258000
 oder	-	-	-	0:28:59.748000	0:29:01.258000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:01.258000" end="0:29:02.962000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:01.258000" end="0:29:02.962000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:01.258000	0:29:02.962000
 ,	-	-	-	0:29:01.258000	0:29:02.962000
 oder	-	-	-	0:29:01.258000	0:29:02.962000
@@ -7487,13 +7487,13 @@ halt	-	-	-	0:29:01.258000	0:29:02.962000
 *wo*	-	-	-	0:29:01.258000	0:29:02.962000
 jetzt	-	-	-	0:29:01.258000	0:29:02.962000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:01.258000" end="0:29:02.962000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:01.258000" end="0:29:02.962000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	0:29:01.258000	0:29:02.962000
 oder	-	-	-	0:29:01.258000	0:29:02.962000
 Versicherungen	-	-	-	0:29:01.258000	0:29:02.962000
 .	-	-	-	0:29:01.258000	0:29:02.962000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:02.962000" end="0:29:05.045000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:02.962000" end="0:29:05.045000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 den	-	-	-	0:29:02.962000	0:29:05.045000
 Dialekt	-	-	-	0:29:02.962000	0:29:05.045000
 nicht	-	-	-	0:29:02.962000	0:29:05.045000
@@ -7502,13 +7502,13 @@ oder	-	-	-	0:29:02.962000	0:29:05.045000
 so	-	-	-	0:29:02.962000	0:29:05.045000
 .	-	-	-	0:29:02.962000	0:29:05.045000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:05.045000" end="0:29:05.631000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:05.045000" end="0:29:05.631000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:05.045000	0:29:05.631000
 ,	-	-	-	0:29:05.045000	0:29:05.631000
 ja	-	-	-	0:29:05.045000	0:29:05.631000
 ,	-	-	-	0:29:05.045000	0:29:05.631000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:05.631000" end="0:29:07.442000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:05.631000" end="0:29:07.442000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:29:05.631000	0:29:07.442000
 <pause duration="0,5s"/>
 versuche	-	-	-	0:29:05.631000	0:29:07.442000
@@ -7518,7 +7518,7 @@ auf	-	-	-	0:29:05.631000	0:29:07.442000
 Hochdeutsch	-	-	-	0:29:05.631000	0:29:07.442000
 .	-	-	-	0:29:05.631000	0:29:07.442000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:07.442000" end="0:29:25" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:07.442000" end="0:29:25" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:07.442000	0:29:08.719000
 ,	-	-	-	0:29:07.442000	0:29:08.719000
 ja	-	-	-	0:29:07.442000	0:29:08.719000
@@ -7568,16 +7568,16 @@ Situation	-	-	-	0:29:22.465000	0:29:25
 ähm	-	-	-	0:29:22.465000	0:29:25
 .	-	-	-	0:29:22.465000	0:29:25
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:25" end="0:29:26.421000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:25" end="0:29:26.421000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:25	0:29:26.035000
 .	-	-	-	0:29:25	0:29:26.035000
 also	-	-	-	0:29:26.035000	0:29:26.421000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:26.035000" end="0:29:26.421000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:26.035000" end="0:29:26.421000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:26.035000	0:29:26.421000
 .	-	-	-	0:29:26.035000	0:29:26.421000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:26.421000" end="0:29:28.991000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:26.421000" end="0:29:28.991000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gerade	-	-	-	0:29:26.421000	0:29:28.510000
 ,	-	-	-	0:29:26.421000	0:29:28.510000
 wenn	-	-	-	0:29:26.421000	0:29:28.510000
@@ -7590,25 +7590,25 @@ dann	-	-	-	0:29:28.510000	0:29:28.991000
 *is*	-	-	-	0:29:28.510000	0:29:28.991000
 ,	-	-	-	0:29:28.510000	0:29:28.991000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:28.991000" end="0:29:29.541000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:28.991000" end="0:29:29.541000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:28.991000	0:29:29.541000
 .	-	-	-	0:29:28.991000	0:29:29.541000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:29.541000" end="0:29:31.663000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:29.541000" end="0:29:31.663000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:29:29.541000	0:29:30.184000
 ,	-	-	-	0:29:29.541000	0:29:30.184000
 <pause duration="0,7s"/>
 nachdem	-	-	-	0:29:30.184000	0:29:31.663000
 ,	-	-	-	0:29:30.184000	0:29:31.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:30.184000" end="0:29:31.663000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:30.184000" end="0:29:31.663000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 aslo	-	-	-	0:29:30.184000	0:29:31.663000
 damit	-	-	-	0:29:30.184000	0:29:31.663000
 die/	-	-	-	0:29:30.184000	0:29:31.663000
 /?	-	-	-	0:29:30.184000	0:29:31.663000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:31.663000" end="0:29:36.288000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:31.663000" end="0:29:36.288000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:29:31.663000	0:29:33.745000
 ich	-	-	-	0:29:31.663000	0:29:33.745000
 es	-	-	-	0:29:31.663000	0:29:33.745000
@@ -7631,13 +7631,13 @@ oder	-	-	-	0:29:35.801000	0:29:36.288000
 so	-	-	-	0:29:35.801000	0:29:36.288000
 .	-	-	-	0:29:35.801000	0:29:36.288000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:35.801000" end="0:29:37.056000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:35.801000" end="0:29:37.056000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:35.801000	0:29:36.288000
 .	-	-	-	0:29:35.801000	0:29:36.288000
 ja	-	-	-	0:29:36.288000	0:29:37.056000
 .	-	-	-	0:29:36.288000	0:29:37.056000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:37.056000" end="0:29:39.879000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:37.056000" end="0:29:39.879000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 oder	-	-	-	0:29:37.056000	0:29:39.423000
 ,	-	-	-	0:29:37.056000	0:29:39.423000
@@ -7649,11 +7649,11 @@ Studium	-	-	-	0:29:37.056000	0:29:39.423000
 klar	-	-	-	0:29:39.423000	0:29:39.879000
 .	-	-	-	0:29:39.423000	0:29:39.879000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:39.423000" end="0:29:39.879000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:39.423000" end="0:29:39.879000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:39.423000	0:29:39.879000
 .	-	-	-	0:29:39.423000	0:29:39.879000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:39.879000" end="0:29:43.276000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:39.879000" end="0:29:43.276000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (ich	-	-	-	0:29:39.879000	0:29:41.587000
 meine)	-	-	-	0:29:39.879000	0:29:41.587000
 ,	-	-	-	0:29:39.879000	0:29:41.587000
@@ -7666,11 +7666,11 @@ im	-	-	-	0:29:42.402000	0:29:43.276000
 Job	-	-	-	0:29:42.402000	0:29:43.276000
 ,	-	-	-	0:29:42.402000	0:29:43.276000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:43.276000" end="0:29:43.691000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:43.276000" end="0:29:43.691000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:43.276000	0:29:43.691000
 .	-	-	-	0:29:43.276000	0:29:43.691000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:43.691000" end="0:29:47.148000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:43.691000" end="0:29:47.148000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 irgendwann	-	-	-	0:29:43.691000	0:29:47.148000
 ,	-	-	-	0:29:43.691000	0:29:47.148000
 wenn	-	-	-	0:29:43.691000	0:29:47.148000
@@ -7689,7 +7689,7 @@ es	-	-	-	0:29:43.691000	0:29:47.148000
 auch	-	-	-	0:29:43.691000	0:29:47.148000
 .	-	-	-	0:29:43.691000	0:29:47.148000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:47.148000" end="0:29:57.363000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:47.148000" end="0:29:57.363000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:29:47.148000	0:29:48.218000
 ,	-	-	-	0:29:47.148000	0:29:48.218000
 ja	-	-	-	0:29:47.148000	0:29:48.218000
@@ -7742,7 +7742,7 @@ Ort	-	-	-	0:29:53.879000	0:29:57.363000
 nicht	-	-	-	0:29:53.879000	0:29:57.363000
 ?	-	-	-	0:29:53.879000	0:29:57.363000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:57.363000" end="0:29:58.698000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:57.363000" end="0:29:58.698000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:29:57.363000	0:29:58.698000
 ,	-	-	-	0:29:57.363000	0:29:58.698000
 das	-	-	-	0:29:57.363000	0:29:58.698000
@@ -7751,13 +7751,13 @@ am	-	-	-	0:29:57.363000	0:29:58.698000
 Computer	-	-	-	0:29:57.363000	0:29:58.698000
 ,	-	-	-	0:29:57.363000	0:29:58.698000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:57.363000" end="0:29:58.698000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:57.363000" end="0:29:58.698000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:29:57.363000	0:29:58.698000
 ,	-	-	-	0:29:57.363000	0:29:58.698000
 oder	-	-	-	0:29:57.363000	0:29:58.698000
 ?	-	-	-	0:29:57.363000	0:29:58.698000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:29:58.698000" end="0:30:00.177000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:29:58.698000" end="0:30:00.177000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:29:58.698000	0:29:59.428000
 ist	-	-	-	0:29:58.698000	0:29:59.428000
 online	-	-	-	0:29:58.698000	0:29:59.428000
@@ -7765,11 +7765,11 @@ online	-	-	-	0:29:58.698000	0:29:59.428000
 ist	-	-	-	0:29:59.428000	0:30:00.177000
 (daheim)	-	-	-	0:29:59.428000	0:30:00.177000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:29:59.428000" end="0:30:00.177000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:59.428000" end="0:30:00.177000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:29:59.428000	0:30:00.177000
 ist	-	-	-	0:29:59.428000	0:30:00.177000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:00.177000" end="0:30:03.632000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:00.177000" end="0:30:03.632000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 online	-	-	-	0:30:00.177000	0:30:03.632000
 ,	-	-	-	0:30:00.177000	0:30:03.632000
 genau	-	-	-	0:30:00.177000	0:30:03.632000
@@ -7781,7 +7781,7 @@ das	-	-	-	0:30:00.177000	0:30:03.632000
 Programm	-	-	-	0:30:00.177000	0:30:03.632000
 .	-	-	-	0:30:00.177000	0:30:03.632000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:00.177000" end="0:30:04.164000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:00.177000" end="0:30:04.164000" persName="Informant EXP5" age_lower="" age_upper="999">
 .	-	-	-	0:30:00.177000	0:30:03.632000
 über	-	-	-	0:30:00.177000	0:30:03.632000
 "Skype"	-	-	-	0:30:00.177000	0:30:03.632000
@@ -7796,7 +7796,7 @@ sowas	-	-	-	0:30:00.177000	0:30:03.632000
 ja	-	-	-	0:30:03.632000	0:30:04.164000
 .	-	-	-	0:30:03.632000	0:30:04.164000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:04.164000" end="0:30:12.347000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:04.164000" end="0:30:12.347000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:30:04.164000	0:30:09.030000
 und	-	-	-	0:30:04.164000	0:30:09.030000
 aber	-	-	-	0:30:04.164000	0:30:09.030000
@@ -7821,13 +7821,13 @@ Präsentationen	-	-	-	0:30:09.030000	0:30:11.133000
 ,	-	-	-	0:30:09.030000	0:30:11.133000
 (also)	-	-	-	0:30:11.133000	0:30:12.347000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:11.133000" end="0:30:12.347000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:11.133000" end="0:30:12.347000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:30:11.133000	0:30:12.347000
 ,	-	-	-	0:30:11.133000	0:30:12.347000
 mhm	-	-	-	0:30:11.133000	0:30:12.347000
 .	-	-	-	0:30:11.133000	0:30:12.347000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:12.347000" end="0:30:16.466000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:12.347000" end="0:30:16.466000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 verschiedenster	-	-	-	0:30:12.347000	0:30:14.403000
 Art	-	-	-	0:30:12.347000	0:30:14.403000
 halt	-	-	-	0:30:12.347000	0:30:14.403000
@@ -7843,25 +7843,25 @@ auf	-	-	-	0:30:14.403000	0:30:16.466000
 Hochdeutsch	-	-	-	0:30:14.403000	0:30:16.466000
 .	-	-	-	0:30:14.403000	0:30:16.466000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:16.466000" end="0:30:17.308000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:16.466000" end="0:30:17.308000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:30:16.466000	0:30:17.308000
 .	-	-	-	0:30:16.466000	0:30:17.308000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:17.308000" end="0:30:18.542000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:17.308000" end="0:30:18.542000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:30:17.308000	0:30:18.542000
 ,	-	-	-	0:30:17.308000	0:30:18.542000
 also	-	-	-	0:30:17.308000	0:30:18.542000
 gerade	-	-	-	0:30:17.308000	0:30:18.542000
 /.	-	-	-	0:30:17.308000	0:30:18.542000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:17.308000" end="0:30:18.542000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:17.308000" end="0:30:18.542000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:30:17.308000	0:30:18.542000
 das	-	-	-	0:30:17.308000	0:30:18.542000
 heißt	-	-	-	0:30:17.308000	0:30:18.542000
 im	-	-	-	0:30:17.308000	0:30:18.542000
 /.	-	-	-	0:30:17.308000	0:30:18.542000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:18.542000" end="0:30:27.235000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:18.542000" end="0:30:27.235000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:30:18.542000	0:30:20.148000
 gibt	-	-	-	0:30:18.542000	0:30:20.148000
 schon	-	-	-	0:30:18.542000	0:30:20.148000
@@ -7895,7 +7895,7 @@ Hochdeutsch	-	-	-	0:30:25.064000	0:30:26.751000
 meistens	-	-	-	0:30:26.751000	0:30:27.235000
 .	-	-	-	0:30:26.751000	0:30:27.235000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:26.751000" end="0:30:30.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:26.751000" end="0:30:30.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:30:26.751000	0:30:27.235000
 ,	-	-	-	0:30:26.751000	0:30:27.235000
 ja	-	-	-	0:30:27.235000	0:30:27.763000
@@ -7909,23 +7909,23 @@ kommen	-	-	-	0:30:29.414000	0:30:30.786000
 aus	-	-	-	0:30:29.414000	0:30:30.786000
 ganz	-	-	-	0:30:29.414000	0:30:30.786000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:30.786000" end="0:30:31.586000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:30.786000" end="0:30:31.586000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 überall	-	-	-	0:30:30.786000	0:30:31.586000
 ,	-	-	-	0:30:30.786000	0:30:31.586000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:30.786000" end="0:30:31.586000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:30.786000" end="0:30:31.586000" persName="Informant EXP5" age_lower="" age_upper="999">
 verschiedenen	-	-	-	0:30:30.786000	0:30:31.586000
 /?	-	-	-	0:30:30.786000	0:30:31.586000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:31.586000" end="0:30:32.201000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:31.586000" end="0:30:32.201000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:30:31.586000	0:30:32.201000
 ganz	-	-	-	0:30:31.586000	0:30:32.201000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:31.586000" end="0:30:32.201000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:31.586000" end="0:30:32.201000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:30:31.586000	0:30:32.201000
 .	-	-	-	0:30:31.586000	0:30:32.201000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:32.201000" end="0:30:34.411000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:32.201000" end="0:30:34.411000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Österreich	-	-	-	0:30:32.201000	0:30:33.710000
 ,	-	-	-	0:30:32.201000	0:30:33.710000
 Deutschland	-	-	-	0:30:32.201000	0:30:33.710000
@@ -7933,12 +7933,12 @@ Deutschland	-	-	-	0:30:32.201000	0:30:33.710000
 ähm	-	-	-	0:30:33.710000	0:30:34.411000
 ,	-	-	-	0:30:33.710000	0:30:34.411000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:33.710000" end="0:30:34.411000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:33.710000" end="0:30:34.411000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:30:33.710000	0:30:34.411000
 ja	-	-	-	0:30:33.710000	0:30:34.411000
 .	-	-	-	0:30:33.710000	0:30:34.411000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:34.411000" end="0:30:36.675000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:34.411000" end="0:30:36.675000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Südtirol	-	-	-	0:30:34.411000	0:30:35.385000
 .	-	-	-	0:30:34.411000	0:30:35.385000
 quer	-	-	-	0:30:35.385000	0:30:36.675000
@@ -7949,17 +7949,17 @@ Bank	-	-	-	0:30:35.385000	0:30:36.675000
 ja	-	-	-	0:30:35.385000	0:30:36.675000
 .	-	-	-	0:30:35.385000	0:30:36.675000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:35.385000" end="0:30:36.675000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:35.385000" end="0:30:36.675000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:30:35.385000	0:30:36.675000
 ,	-	-	-	0:30:35.385000	0:30:36.675000
 quer	-	-	-	0:30:35.385000	0:30:36.675000
 durch	-	-	-	0:30:35.385000	0:30:36.675000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:36.675000" end="0:30:37.586000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:36.675000" end="0:30:37.586000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:30:36.675000	0:30:37.586000
 .	-	-	-	0:30:36.675000	0:30:37.586000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:36.675000" end="0:30:42.916000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:36.675000" end="0:30:42.916000" persName="Informant EXP5" age_lower="" age_upper="999">
 die	-	-	-	0:30:36.675000	0:30:37.586000
 Bank	-	-	-	0:30:36.675000	0:30:37.586000
 ,	-	-	-	0:30:36.675000	0:30:37.586000
@@ -7984,7 +7984,7 @@ so	-	-	-	0:30:39.166000	0:30:42.916000
 als	-	-	-	0:30:39.166000	0:30:42.916000
 gemeinsamen	-	-	-	0:30:39.166000	0:30:42.916000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:42.916000" end="0:30:44.193000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:42.916000" end="0:30:44.193000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:42.916000	0:30:44.193000
 ,	-	-	-	0:30:42.916000	0:30:44.193000
 gerade	-	-	-	0:30:42.916000	0:30:44.193000
@@ -7992,14 +7992,14 @@ wenn	-	-	-	0:30:42.916000	0:30:44.193000
 jetzt	-	-	-	0:30:42.916000	0:30:44.193000
 ,	-	-	-	0:30:42.916000	0:30:44.193000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:42.916000" end="0:30:44.193000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:42.916000" end="0:30:44.193000" persName="Informant EXP5" age_lower="" age_upper="999">
 Nenner	-	-	-	0:30:42.916000	0:30:44.193000
 irgendwie	-	-	-	0:30:42.916000	0:30:44.193000
 (ist	-	-	-	0:30:42.916000	0:30:44.193000
 es)	-	-	-	0:30:42.916000	0:30:44.193000
 /?	-	-	-	0:30:42.916000	0:30:44.193000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:44.193000" end="0:30:54.801000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:44.193000" end="0:30:54.801000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:30:44.193000	0:30:45.969000
 ,	-	-	-	0:30:44.193000	0:30:45.969000
 mit	-	-	-	0:30:44.193000	0:30:45.969000
@@ -8039,27 +8039,27 @@ das	-	-	-	0:30:53.592000	0:30:54.801000
 ist	-	-	-	0:30:53.592000	0:30:54.801000
 dann	-	-	-	0:30:53.592000	0:30:54.801000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:53.592000" end="0:30:54.801000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:53.592000" end="0:30:54.801000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:54.801000" end="0:30:55.946000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:54.801000" end="0:30:55.946000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:54.801000" end="0:30:55.946000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:54.801000" end="0:30:55.946000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:30:54.801000	0:30:55.946000
 .	-	-	-	0:30:54.801000	0:30:55.946000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:55.946000" end="0:30:57.320000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:55.946000" end="0:30:57.320000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ganz	-	-	-	0:30:55.946000	0:30:57.320000
 genaue	-	-	-	0:30:55.946000	0:30:57.320000
 Gegenteile	-	-	-	0:30:55.946000	0:30:57.320000
 .	-	-	-	0:30:55.946000	0:30:57.320000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:57.320000" end="0:30:58.216000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:57.320000" end="0:30:58.216000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:30:57.320000	0:30:58.216000
 ,	-	-	-	0:30:57.320000	0:30:58.216000
 ja	-	-	-	0:30:57.320000	0:30:58.216000
 .	-	-	-	0:30:57.320000	0:30:58.216000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:30:58.216000" end="0:30:59.994000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:30:58.216000" end="0:30:59.994000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 muss	-	-	-	0:30:58.216000	0:30:59.994000
 man	-	-	-	0:30:58.216000	0:30:59.994000
 sich	-	-	-	0:30:58.216000	0:30:59.994000
@@ -8068,7 +8068,7 @@ beide	-	-	-	0:30:58.216000	0:30:59.994000
 zusammenreißen	-	-	-	0:30:58.216000	0:30:59.994000
 ,	-	-	-	0:30:58.216000	0:30:59.994000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:30:59.994000" end="0:31:28.295000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:59.994000" end="0:31:28.295000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 okay	-	-	-	0:31:00.580000	0:31:02.718000
 .	-	-	-	0:31:00.580000	0:31:02.718000
@@ -8152,7 +8152,7 @@ denen	-	-	-	0:31:24.542000	0:31:27.180000
 so	-	-	-	0:31:27.180000	0:31:28.295000
 .	-	-	-	0:31:27.180000	0:31:28.295000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:28.295000" end="0:31:33.767000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:28.295000" end="0:31:33.767000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:31:28.295000	0:31:32.791000
 ,	-	-	-	0:31:28.295000	0:31:32.791000
 gerade	-	-	-	0:31:28.295000	0:31:32.791000
@@ -8174,28 +8174,28 @@ im	-	-	-	0:31:32.791000	0:31:33.767000
 Dialekt	-	-	-	0:31:32.791000	0:31:33.767000
 /.	-	-	-	0:31:32.791000	0:31:33.767000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:32.791000" end="0:31:33.767000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:32.791000" end="0:31:33.767000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:32.791000	0:31:33.767000
 .	-	-	-	0:31:32.791000	0:31:33.767000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:33.767000" end="0:31:34.547000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:33.767000" end="0:31:34.547000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:31:33.767000	0:31:34.547000
 halt	-	-	-	0:31:33.767000	0:31:34.547000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:33.767000" end="0:31:34.547000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:33.767000" end="0:31:34.547000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:33.767000	0:31:34.547000
 .	-	-	-	0:31:33.767000	0:31:34.547000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:34.547000" end="0:31:36.040000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:34.547000" end="0:31:36.040000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 professioneller	-	-	-	0:31:34.547000	0:31:36.040000
 eigentlich	-	-	-	0:31:34.547000	0:31:36.040000
 .	-	-	-	0:31:34.547000	0:31:36.040000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:36.040000" end="0:31:36.577000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:36.040000" end="0:31:36.577000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:36.040000	0:31:36.577000
 .	-	-	-	0:31:36.040000	0:31:36.577000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:36.577000" end="0:31:45.307000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:36.577000" end="0:31:45.307000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:31:36.577000	0:31:37.281000
 <pause duration="1,4s"/>
 ähm	-	-	-	0:31:37.281000	0:31:39.281000
@@ -8217,11 +8217,11 @@ ungewohnt	-	-	-	0:31:40.300000	0:31:44.681000
 und	-	-	-	0:31:40.300000	0:31:44.681000
 passt	-	-	-	0:31:44.681000	0:31:45.307000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:44.681000" end="0:31:45.307000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:44.681000" end="0:31:45.307000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:44.681000	0:31:45.307000
 .	-	-	-	0:31:44.681000	0:31:45.307000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:45.307000" end="0:31:47.723000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:45.307000" end="0:31:47.723000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 einfach	-	-	-	0:31:45.307000	0:31:47.124000
 besser	-	-	-	0:31:45.307000	0:31:47.124000
 als	-	-	-	0:31:45.307000	0:31:47.124000
@@ -8233,13 +8233,13 @@ Dialekt	-	-	-	0:31:45.307000	0:31:47.124000
 redet	-	-	-	0:31:47.124000	0:31:47.723000
 .	-	-	-	0:31:47.124000	0:31:47.723000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:47.124000" end="0:31:48.115000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:47.124000" end="0:31:48.115000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:47.124000	0:31:47.723000
 .	-	-	-	0:31:47.124000	0:31:47.723000
 mhm	-	-	-	0:31:47.723000	0:31:48.115000
 .	-	-	-	0:31:47.723000	0:31:48.115000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:31:48.115000" end="0:31:53.050000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:31:48.115000" end="0:31:53.050000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:31:48.115000	0:31:49.604000
 wenn	-	-	-	0:31:48.115000	0:31:49.604000
 man	-	-	-	0:31:48.115000	0:31:49.604000
@@ -8267,7 +8267,7 @@ diesen	-	-	-	0:31:51.140000	0:31:52.550000
 Personen	-	-	-	0:31:52.550000	0:31:53.050000
 .	-	-	-	0:31:52.550000	0:31:53.050000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:31:52.550000" end="0:32:09.057000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:52.550000" end="0:32:09.057000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:31:52.550000	0:31:53.050000
 .	-	-	-	0:31:52.550000	0:31:53.050000
 ja	-	-	-	0:31:53.050000	0:31:54.741000
@@ -8330,13 +8330,13 @@ oder	-	-	-	0:32:05.104000	0:32:09.057000
 so	-	-	-	0:32:05.104000	0:32:09.057000
 ?	-	-	-	0:32:05.104000	0:32:09.057000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:09.057000" end="0:32:10.171000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:09.057000" end="0:32:10.171000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:09.057000" end="0:32:10.171000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:09.057000" end="0:32:10.171000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:10.171000" end="0:32:12.861000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:10.171000" end="0:32:12.861000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:10.171000	0:32:12.861000
 ,	-	-	-	0:32:10.171000	0:32:12.861000
 jetzt	-	-	-	0:32:10.171000	0:32:12.861000
@@ -8349,19 +8349,19 @@ Freunden	-	-	-	0:32:10.171000	0:32:12.861000
 ,	-	-	-	0:32:10.171000	0:32:12.861000
 Verwandtschaft	-	-	-	0:32:10.171000	0:32:12.861000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:12.861000" end="0:32:13.346000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:12.861000" end="0:32:13.346000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:12.861000	0:32:13.346000
 .	-	-	-	0:32:12.861000	0:32:13.346000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:13.346000" end="0:32:14.554000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:13.346000" end="0:32:14.554000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:32:13.346000	0:32:14.554000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:13.346000" end="0:32:14.554000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:13.346000" end="0:32:14.554000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	-	-	-	0:32:13.346000	0:32:14.554000
 .	-	-	-	0:32:13.346000	0:32:14.554000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:14.554000" end="0:32:16.167000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:14.554000" end="0:32:16.167000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:32:14.554000	0:32:15.241000
 gar	-	-	-	0:32:14.554000	0:32:15.241000
 nicht	-	-	-	0:32:14.554000	0:32:15.241000
@@ -8369,7 +8369,7 @@ nicht	-	-	-	0:32:14.554000	0:32:15.241000
 mm	-	-	-	0:32:15.241000	0:32:16.167000
 .	-	-	-	0:32:15.241000	0:32:16.167000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:15.241000" end="0:32:18.313000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:15.241000" end="0:32:18.313000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:32:15.241000	0:32:16.167000
 .	-	-	-	0:32:15.241000	0:32:16.167000
 <pause duration="0,6s"/>
@@ -8380,17 +8380,17 @@ komisch	-	-	-	0:32:16.167000	0:32:18.313000
 oder	-	-	-	0:32:16.167000	0:32:18.313000
 /?	-	-	-	0:32:16.167000	0:32:18.313000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:18.313000" end="0:32:19.142000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:18.313000" end="0:32:19.142000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:18.313000	0:32:19.142000
 ,	-	-	-	0:32:18.313000	0:32:19.142000
 also	-	-	-	0:32:18.313000	0:32:19.142000
 das	-	-	-	0:32:18.313000	0:32:19.142000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:18.313000" end="0:32:19.142000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:18.313000" end="0:32:19.142000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:32:18.313000	0:32:19.142000
 .	-	-	-	0:32:18.313000	0:32:19.142000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:19.142000" end="0:32:21.165000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:19.142000" end="0:32:21.165000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 passt	-	-	-	0:32:19.142000	0:32:20.191000
 ,	-	-	-	0:32:19.142000	0:32:20.191000
 also	-	-	-	0:32:19.142000	0:32:20.191000
@@ -8398,18 +8398,18 @@ also	-	-	-	0:32:19.142000	0:32:20.191000
 das	-	-	-	0:32:20.191000	0:32:21.165000
 passt	-	-	-	0:32:20.191000	0:32:21.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:20.191000" end="0:32:21.165000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:20.191000" end="0:32:21.165000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:32:20.191000	0:32:21.165000
 .	-	-	-	0:32:20.191000	0:32:21.165000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:21.165000" end="0:32:22.246000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:21.165000" end="0:32:22.246000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:32:21.165000	0:32:22.246000
 ,	-	-	-	0:32:21.165000	0:32:22.246000
 also	-	-	-	0:32:21.165000	0:32:22.246000
 nein	-	-	-	0:32:21.165000	0:32:22.246000
 .	-	-	-	0:32:21.165000	0:32:22.246000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:22.246000" end="0:32:28.045000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:22.246000" end="0:32:28.045000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:32:22.246000	0:32:23.857000
 .	-	-	-	0:32:22.246000	0:32:23.857000
 <pause duration="1,0s"/>
@@ -8423,16 +8423,16 @@ irgendwas	-	-	-	0:32:26.117000	0:32:28.045000
 wo	-	-	-	0:32:26.117000	0:32:28.045000
 Sie	-	-	-	0:32:26.117000	0:32:28.045000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:28.045000" end="0:32:28.962000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:28.045000" end="0:32:28.962000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:28.045000	0:32:28.962000
 ,	-	-	-	0:32:28.045000	0:32:28.962000
 also	-	-	-	0:32:28.045000	0:32:28.962000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:28.045000" end="0:32:28.962000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:28.045000" end="0:32:28.962000" persName="Informant EXP5" age_lower="" age_upper="999">
 nicht	-	-	-	0:32:28.045000	0:32:28.962000
 /?	-	-	-	0:32:28.045000	0:32:28.962000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:28.962000" end="0:32:30.536000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:28.962000" end="0:32:30.536000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:32:28.962000	0:32:30.091000
 auch	-	-	-	0:32:28.962000	0:32:30.091000
 in	-	-	-	0:32:28.962000	0:32:30.091000
@@ -8442,39 +8442,39 @@ Firma	-	-	-	0:32:28.962000	0:32:30.091000
 also	-	-	-	0:32:30.091000	0:32:30.536000
 mit	-	-	-	0:32:30.091000	0:32:30.536000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:30.091000" end="0:32:30.536000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:30.091000" end="0:32:30.536000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:30.091000	0:32:30.536000
 .	-	-	-	0:32:30.091000	0:32:30.536000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:30.536000" end="0:32:32.399000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:30.536000" end="0:32:32.399000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 den	-	-	-	0:32:30.536000	0:32:31.871000
 Arbeitskollegen	-	-	-	0:32:30.536000	0:32:31.871000
 und	-	-	-	0:32:30.536000	0:32:31.871000
 so	-	-	-	0:32:31.871000	0:32:32.399000
 ,	-	-	-	0:32:31.871000	0:32:32.399000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:31.871000" end="0:32:32.399000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:31.871000" end="0:32:32.399000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:31.871000	0:32:32.399000
 .	-	-	-	0:32:31.871000	0:32:32.399000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:32.399000" end="0:32:33.557000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:32.399000" end="0:32:33.557000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:32:32.399000	0:32:33.557000
 eigentlich	-	-	-	0:32:32.399000	0:32:33.557000
 immer	-	-	-	0:32:32.399000	0:32:33.557000
 Dialekt	-	-	-	0:32:32.399000	0:32:33.557000
 .	-	-	-	0:32:32.399000	0:32:33.557000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:33.557000" end="0:32:33.930000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:33.557000" end="0:32:33.930000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:33.557000	0:32:33.930000
 .	-	-	-	0:32:33.557000	0:32:33.930000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:33.930000" end="0:32:35.029000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:33.930000" end="0:32:35.029000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:32:33.930000	0:32:34.409000
 .	-	-	-	0:32:33.930000	0:32:34.409000
 also	-	-	-	0:32:34.409000	0:32:35.029000
 /.	-	-	-	0:32:34.409000	0:32:35.029000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:34.409000" end="0:32:49.435000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:34.409000" end="0:32:49.435000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:32:34.409000	0:32:35.029000
 .	-	-	-	0:32:34.409000	0:32:35.029000
 ja	-	-	-	0:32:35.029000	0:32:36.080000
@@ -8515,13 +8515,13 @@ privaten	-	-	-	0:32:46.514000	0:32:49.435000
 Rahmen	-	-	-	0:32:46.514000	0:32:49.435000
 .	-	-	-	0:32:46.514000	0:32:49.435000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:49.435000" end="0:32:50.846000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:49.435000" end="0:32:50.846000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:49.435000" end="0:32:50.846000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:49.435000" end="0:32:50.846000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:32:50.846000" end="0:32:58.807000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:32:50.846000" end="0:32:58.807000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:50.846000	0:32:51.773000
 ,	-	-	-	0:32:50.846000	0:32:51.773000
 i/	-	-	-	0:32:50.846000	0:32:51.773000
@@ -8554,11 +8554,11 @@ das	-	-	-	0:32:57.459000	0:32:58.807000
 also	-	-	-	0:32:57.459000	0:32:58.807000
 /.	-	-	-	0:32:57.459000	0:32:58.807000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:32:58.807000" end="0:33:00.079000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:58.807000" end="0:33:00.079000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:32:58.807000	0:33:00.079000
 .	-	-	-	0:32:58.807000	0:33:00.079000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:00.079000" end="0:33:02.051000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:00.079000" end="0:33:02.051000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:33:00.079000	0:33:02.051000
 ,	-	-	-	0:33:00.079000	0:33:02.051000
 (also)	-	-	-	0:33:00.079000	0:33:02.051000
@@ -8569,11 +8569,11 @@ ungewohnt	-	-	-	0:33:00.079000	0:33:02.051000
 also	-	-	-	0:33:00.079000	0:33:02.051000
 ich	-	-	-	0:33:00.079000	0:33:02.051000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:02.051000" end="0:33:02.634000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:02.051000" end="0:33:02.634000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:33:02.051000	0:33:02.634000
 .	-	-	-	0:33:02.051000	0:33:02.634000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:02.634000" end="0:33:06.822000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:02.634000" end="0:33:06.822000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 täte	-	-	-	0:33:02.634000	0:33:03.872000
 mich	-	-	-	0:33:02.634000	0:33:03.872000
 wahrscheinlich	-	-	-	0:33:02.634000	0:33:03.872000
@@ -8592,11 +8592,11 @@ warum	-	-	-	0:33:05.723000	0:33:06.381000
 er	-	-	-	0:33:06.381000	0:33:06.822000
 oder	-	-	-	0:33:06.381000	0:33:06.822000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:06.381000" end="0:33:06.822000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:06.381000" end="0:33:06.822000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:33:06.381000	0:33:06.822000
 .	-	-	-	0:33:06.381000	0:33:06.822000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:06.822000" end="0:33:07.980000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:06.822000" end="0:33:07.980000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sie	-	-	-	0:33:06.822000	0:33:07.980000
 es	-	-	-	0:33:06.822000	0:33:07.980000
 macht	-	-	-	0:33:06.822000	0:33:07.980000
@@ -8604,17 +8604,17 @@ macht	-	-	-	0:33:06.822000	0:33:07.980000
 aber	-	-	-	0:33:06.822000	0:33:07.980000
 /.	-	-	-	0:33:06.822000	0:33:07.980000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:07.980000" end="0:33:08.443000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:07.980000" end="0:33:08.443000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:33:07.980000	0:33:08.443000
 .	-	-	-	0:33:07.980000	0:33:08.443000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:08.443000" end="0:33:10.170000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:08.443000" end="0:33:10.170000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:08.443000" end="0:33:10.170000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:08.443000" end="0:33:10.170000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:10.170000" end="0:33:14.021000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:10.170000" end="0:33:14.021000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:10.170000	0:33:11.439000
 ,	-	-	-	0:33:10.170000	0:33:11.439000
 ich	-	-	-	0:33:10.170000	0:33:11.439000
@@ -8629,7 +8629,7 @@ normal	-	-	-	0:33:11.439000	0:33:12.372000
 also	-	-	-	0:33:12.372000	0:33:14.021000
 /.	-	-	-	0:33:12.372000	0:33:14.021000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:12.372000" end="0:33:17.281000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:12.372000" end="0:33:17.281000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:33:12.372000	0:33:14.021000
 .	-	-	-	0:33:12.372000	0:33:14.021000
 okay	-	-	-	0:33:14.021000	0:33:15.624000
@@ -8638,10 +8638,10 @@ okay	-	-	-	0:33:14.021000	0:33:15.624000
 ähm	-	-	-	0:33:15.624000	0:33:17.281000
 ,	-	-	-	0:33:15.624000	0:33:17.281000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:17.281000" end="0:33:18.838000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:17.281000" end="0:33:18.838000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:17.281000" end="0:33:32.191000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:17.281000" end="0:33:32.191000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 das	-	-	-	0:33:18.838000	0:33:21.219000
 haben	-	-	-	0:33:18.838000	0:33:21.219000
@@ -8696,13 +8696,13 @@ Hochdeutsch	-	-	-	0:33:27.350000	0:33:32.191000
 sprechen	-	-	-	0:33:27.350000	0:33:32.191000
 ?	-	-	-	0:33:27.350000	0:33:32.191000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:32.191000" end="0:33:34.163000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:32.191000" end="0:33:34.163000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:32.191000" end="0:33:34.163000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:32.191000" end="0:33:34.163000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:34.163000" end="0:33:40.821000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:34.163000" end="0:33:40.821000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:34.163000	0:33:35.412000
 ,	-	-	-	0:33:34.163000	0:33:35.412000
 immer	-	-	-	0:33:34.163000	0:33:35.412000
@@ -8728,11 +8728,11 @@ bisschen	-	-	-	0:33:38.730000	0:33:40.821000
 heraus	-	-	-	0:33:38.730000	0:33:40.821000
 ,	-	-	-	0:33:38.730000	0:33:40.821000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:38.730000" end="0:33:40.821000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:38.730000" end="0:33:40.821000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:38.730000	0:33:40.821000
 .	-	-	-	0:33:38.730000	0:33:40.821000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:40.821000" end="0:33:41.944000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:40.821000" end="0:33:41.944000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:33:40.821000	0:33:41.558000
 nicht	-	-	-	0:33:40.821000	0:33:41.558000
 viel	-	-	-	0:33:40.821000	0:33:41.558000
@@ -8740,11 +8740,11 @@ viel	-	-	-	0:33:40.821000	0:33:41.558000
 und	-	-	-	0:33:41.558000	0:33:41.944000
 je	-	-	-	0:33:41.558000	0:33:41.944000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:41.558000" end="0:33:41.944000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:41.558000" end="0:33:41.944000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:41.558000	0:33:41.944000
 .	-	-	-	0:33:41.558000	0:33:41.944000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:41.944000" end="0:33:54.051000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:41.944000" end="0:33:54.051000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mehr	-	-	-	0:33:41.944000	0:33:43.640000
 ,	-	-	-	0:33:41.944000	0:33:43.640000
 man	-	-	-	0:33:41.944000	0:33:43.640000
@@ -8800,11 +8800,11 @@ jetzt	-	-	-	0:33:53.702000	0:33:54.051000
 (daheim)	-	-	-	0:33:53.702000	0:33:54.051000
 .	-	-	-	0:33:53.702000	0:33:54.051000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:53.702000" end="0:33:54.051000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:53.702000" end="0:33:54.051000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:53.702000	0:33:54.051000
 .	-	-	-	0:33:53.702000	0:33:54.051000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:54.051000" end="0:33:58.436000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:54.051000" end="0:33:58.436000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:33:54.051000	0:33:57.107000
 gewisse	-	-	-	0:33:54.051000	0:33:57.107000
 Wörter	-	-	-	0:33:54.051000	0:33:57.107000
@@ -8825,11 +8825,11 @@ sie	-	-	-	0:33:57.107000	0:33:58.436000
 nicht	-	-	-	0:33:57.107000	0:33:58.436000
 .	-	-	-	0:33:57.107000	0:33:58.436000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:33:58.436000" end="0:33:58.911000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:58.436000" end="0:33:58.911000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:33:58.436000	0:33:58.911000
 .	-	-	-	0:33:58.436000	0:33:58.911000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:33:58.911000" end="0:34:05.436000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:33:58.911000" end="0:34:05.436000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:33:58.911000	0:34:00.270000
 wenn	-	-	-	0:33:58.911000	0:34:00.270000
 es	-	-	-	0:33:58.911000	0:34:00.270000
@@ -8863,7 +8863,7 @@ also	-	-	-	0:34:03.425000	0:34:05.436000
 ja	-	-	-	0:34:03.425000	0:34:05.436000
 .	-	-	-	0:34:03.425000	0:34:05.436000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:03.425000" end="0:34:20.958000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:03.425000" end="0:34:20.958000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:34:03.425000	0:34:05.436000
 ,	-	-	-	0:34:03.425000	0:34:05.436000
 hört	-	-	-	0:34:03.425000	0:34:05.436000
@@ -8916,15 +8916,15 @@ sagen	-	-	-	0:34:19.243000	0:34:20.958000
 dass	-	-	-	0:34:19.243000	0:34:20.958000
 Ihnen	-	-	-	0:34:19.243000	0:34:20.958000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:20.958000" end="0:34:21.330000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:20.958000" end="0:34:21.330000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:20.958000	0:34:21.330000
 ,	-	-	-	0:34:20.958000	0:34:21.330000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:20.958000" end="0:34:21.330000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:20.958000" end="0:34:21.330000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:34:20.958000	0:34:21.330000
 /.	-	-	-	0:34:20.958000	0:34:21.330000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:21.330000" end="0:34:23.181000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:21.330000" end="0:34:23.181000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dadurch	-	-	-	0:34:21.330000	0:34:23.181000
 ,	-	-	-	0:34:21.330000	0:34:23.181000
 dass	-	-	-	0:34:21.330000	0:34:23.181000
@@ -8936,13 +8936,13 @@ oft	-	-	-	0:34:21.330000	0:34:23.181000
 mache	-	-	-	0:34:21.330000	0:34:23.181000
 ,	-	-	-	0:34:21.330000	0:34:23.181000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:21.330000" end="0:34:23.835000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:21.330000" end="0:34:23.835000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:21.330000	0:34:23.181000
 .	-	-	-	0:34:21.330000	0:34:23.181000
 mhm	-	-	-	0:34:23.181000	0:34:23.835000
 .	-	-	-	0:34:23.181000	0:34:23.835000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:23.835000" end="0:34:26.658000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:23.835000" end="0:34:26.658000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 glaube	-	-	-	0:34:23.835000	0:34:26.658000
 ich	-	-	-	0:34:23.835000	0:34:26.658000
 schon	-	-	-	0:34:23.835000	0:34:26.658000
@@ -8958,30 +8958,30 @@ heraus	-	-	-	0:34:23.835000	0:34:26.658000
 hört	-	-	-	0:34:23.835000	0:34:26.658000
 .	-	-	-	0:34:23.835000	0:34:26.658000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:26.658000" end="0:34:27.146000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:26.658000" end="0:34:27.146000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:26.658000	0:34:27.146000
 ,	-	-	-	0:34:26.658000	0:34:27.146000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:27.146000" end="0:34:27.505000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:27.146000" end="0:34:27.505000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:34:27.146000	0:34:27.505000
 ,	-	-	-	0:34:27.146000	0:34:27.505000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:27.146000" end="0:34:27.505000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:27.146000" end="0:34:27.505000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:27.146000	0:34:27.505000
 .	-	-	-	0:34:27.146000	0:34:27.505000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:27.505000" end="0:34:28.415000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:27.505000" end="0:34:28.415000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:34:27.505000	0:34:28.415000
 nicht	-	-	-	0:34:27.505000	0:34:28.415000
 viel	-	-	-	0:34:27.505000	0:34:28.415000
 ,	-	-	-	0:34:27.505000	0:34:28.415000
 aber	-	-	-	0:34:27.505000	0:34:28.415000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:28.415000" end="0:34:29.158000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:28.415000" end="0:34:29.158000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:28.415000	0:34:29.158000
 .	-	-	-	0:34:28.415000	0:34:29.158000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:29.158000" end="0:34:31.042000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:29.158000" end="0:34:31.042000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 bei	-	-	-	0:34:29.158000	0:34:31.042000
 so	-	-	-	0:34:29.158000	0:34:31.042000
 einzelnen	-	-	-	0:34:29.158000	0:34:31.042000
@@ -8990,7 +8990,7 @@ oder	-	-	-	0:34:29.158000	0:34:31.042000
 so	-	-	-	0:34:29.158000	0:34:31.042000
 .	-	-	-	0:34:29.158000	0:34:31.042000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:31.042000" end="0:34:35.433000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:31.042000" end="0:34:35.433000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:34:31.042000	0:34:32.264000
 ,	-	-	-	0:34:31.042000	0:34:32.264000
 okay	-	-	-	0:34:31.042000	0:34:32.264000
@@ -9008,11 +9008,11 @@ eine	-	-	-	0:34:33.433000	0:34:35.433000
 Skala	-	-	-	0:34:33.433000	0:34:35.433000
 .	-	-	-	0:34:33.433000	0:34:35.433000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:35.433000" end="0:34:36.925000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:35.433000" end="0:34:36.925000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:34:35.433000	0:34:36.925000
 .	-	-	-	0:34:35.433000	0:34:36.925000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:35.433000" end="0:34:53.442000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:35.433000" end="0:34:53.442000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:34:36.925000	0:34:39.754000
 ,	-	-	-	0:34:36.925000	0:34:39.754000
 wieder	-	-	-	0:34:36.925000	0:34:39.754000
@@ -9073,18 +9073,18 @@ kann	-	-	-	0:34:50.507000	0:34:53.442000
 da	-	-	-	0:34:50.507000	0:34:53.442000
 ,	-	-	-	0:34:50.507000	0:34:53.442000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:53.442000" end="0:34:54.809000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:53.442000" end="0:34:54.809000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:34:53.442000	0:34:54.809000
 .	-	-	-	0:34:53.442000	0:34:54.809000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:34:53.442000" end="0:34:57.089000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:53.442000" end="0:34:57.089000" persName="Informant EXP5" age_lower="" age_upper="999">
 woher	-	-	-	0:34:53.442000	0:34:54.809000
 Sie	-	-	-	0:34:53.442000	0:34:54.809000
 kommen	-	-	-	0:34:53.442000	0:34:54.809000
 .	-	-	-	0:34:53.442000	0:34:54.809000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:34:57.089000" end="0:35:03.465000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:34:57.089000" end="0:35:03.465000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:57.089000	0:34:57.989000
 ,	-	-	-	0:34:57.089000	0:34:57.989000
 schwierig	-	-	-	0:34:57.089000	0:34:57.989000
@@ -9100,10 +9100,10 @@ rede	-	-	-	0:34:57.989000	0:35:00.026000
 .	-	-	-	0:35:00.026000	0:35:01.474000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:01.474000" end="0:35:03.465000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:01.474000" end="0:35:03.465000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:03.465000" end="0:35:06.635000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:03.465000" end="0:35:06.635000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:03.465000	0:35:05.904000
 ,	-	-	-	0:35:03.465000	0:35:05.904000
 so	-	-	-	0:35:03.465000	0:35:05.904000
@@ -9113,11 +9113,11 @@ Mittelmaß	-	-	-	0:35:03.465000	0:35:05.904000
 kommt	-	-	-	0:35:05.904000	0:35:06.635000
 immer	-	-	-	0:35:05.904000	0:35:06.635000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:05.904000" end="0:35:06.635000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:05.904000" end="0:35:06.635000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:05.904000	0:35:06.635000
 .	-	-	-	0:35:05.904000	0:35:06.635000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:06.635000" end="0:35:08.647000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:06.635000" end="0:35:08.647000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 auf	-	-	-	0:35:06.635000	0:35:08.045000
 die	-	-	-	0:35:06.635000	0:35:08.045000
 Situation	-	-	-	0:35:06.635000	0:35:08.045000
@@ -9127,7 +9127,7 @@ darauf	-	-	-	0:35:08.045000	0:35:08.647000
 an	-	-	-	0:35:08.045000	0:35:08.647000
 .	-	-	-	0:35:08.045000	0:35:08.647000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:08.045000" end="0:35:09.602000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:08.045000" end="0:35:09.602000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:35:08.045000	0:35:08.647000
 ,	-	-	-	0:35:08.045000	0:35:08.647000
 ja	-	-	-	0:35:08.647000	0:35:09.602000
@@ -9135,10 +9135,10 @@ ja	-	-	-	0:35:08.647000	0:35:09.602000
 klar	-	-	-	0:35:08.647000	0:35:09.602000
 .	-	-	-	0:35:08.647000	0:35:09.602000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:09.602000" end="0:35:12.691000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:09.602000" end="0:35:12.691000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:09.602000" end="0:35:16.351000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:09.602000" end="0:35:16.351000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 und	-	-	-	0:35:12.691000	0:35:14.479000
 wahrscheinlich	-	-	-	0:35:12.691000	0:35:14.479000
@@ -9160,11 +9160,11 @@ beurteilen	-	-	-	0:35:14.479000	0:35:16.351000
 können	-	-	-	0:35:14.479000	0:35:16.351000
 .	-	-	-	0:35:14.479000	0:35:16.351000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:16.351000" end="0:35:17.145000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:16.351000" end="0:35:17.145000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:16.351000	0:35:17.145000
 .	-	-	-	0:35:16.351000	0:35:17.145000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:16.351000" end="0:35:19.395000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:16.351000" end="0:35:19.395000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	0:35:16.351000	0:35:17.145000
 gut	-	-	-	0:35:16.351000	0:35:17.145000
 die	-	-	-	0:35:16.351000	0:35:17.145000
@@ -9177,7 +9177,7 @@ wie	-	-	-	0:35:17.145000	0:35:19.395000
 Walser	-	-	-	0:35:17.145000	0:35:19.395000
 Dialekte	-	-	-	0:35:17.145000	0:35:19.395000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:19.395000" end="0:35:20.395000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:19.395000" end="0:35:20.395000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:19.395000	0:35:20.395000
 ,	-	-	-	0:35:19.395000	0:35:20.395000
 ja	-	-	-	0:35:19.395000	0:35:20.395000
@@ -9185,7 +9185,7 @@ ja	-	-	-	0:35:19.395000	0:35:20.395000
 genau	-	-	-	0:35:19.395000	0:35:20.395000
 .	-	-	-	0:35:19.395000	0:35:20.395000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:19.395000" end="0:35:22.532000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:19.395000" end="0:35:22.532000" persName="Informant EXP5" age_lower="" age_upper="999">
 klingen	-	-	-	0:35:19.395000	0:35:20.395000
 ,	-	-	-	0:35:19.395000	0:35:20.395000
 nicht	-	-	-	0:35:19.395000	0:35:20.395000
@@ -9203,7 +9203,7 @@ weiß	-	-	-	0:35:20.395000	0:35:22.532000
 ,	-	-	-	0:35:20.395000	0:35:22.532000
 dann	-	-	-	0:35:20.395000	0:35:22.532000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:22.532000" end="0:35:25.303000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:22.532000" end="0:35:25.303000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:22.532000	0:35:25.303000
 ,	-	-	-	0:35:22.532000	0:35:25.303000
 ja	-	-	-	0:35:22.532000	0:35:25.303000
@@ -9220,7 +9220,7 @@ du	-	-	-	0:35:22.532000	0:35:25.303000
 bist	-	-	-	0:35:22.532000	0:35:25.303000
 kein	-	-	-	0:35:22.532000	0:35:25.303000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:22.532000" end="0:35:25.303000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:22.532000" end="0:35:25.303000" persName="Informant EXP5" age_lower="" age_upper="999">
 kann	-	-	-	0:35:22.532000	0:35:25.303000
 er	-	-	-	0:35:22.532000	0:35:25.303000
 das	-	-	-	0:35:22.532000	0:35:25.303000
@@ -9239,7 +9239,7 @@ klar	-	-	-	0:35:22.532000	0:35:25.303000
 das	-	-	-	0:35:22.532000	0:35:25.303000
 /.	-	-	-	0:35:22.532000	0:35:25.303000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:25.303000" end="0:35:27.764000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:25.303000" end="0:35:27.764000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Deutscher	-	-	-	0:35:25.303000	0:35:26.327000
 ,	-	-	-	0:35:25.303000	0:35:26.327000
 aber	-	-	-	0:35:25.303000	0:35:26.327000
@@ -9252,7 +9252,7 @@ kommt	-	-	-	0:35:26.327000	0:35:27.764000
 oder	-	-	-	0:35:26.327000	0:35:27.764000
 ?	-	-	-	0:35:26.327000	0:35:27.764000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:26.327000" end="0:35:41.854000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:26.327000" end="0:35:41.854000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:35:26.327000	0:35:27.764000
 ,	-	-	-	0:35:26.327000	0:35:27.764000
 ja	-	-	-	0:35:26.327000	0:35:27.764000
@@ -9297,7 +9297,7 @@ eh	-	-	-	0:35:38.835000	0:35:41.854000
 gut	-	-	-	0:35:38.835000	0:35:41.854000
 ?	-	-	-	0:35:38.835000	0:35:41.854000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:41.854000" end="0:35:44.043000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:41.854000" end="0:35:44.043000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:35:41.854000	0:35:43.324000
 mich/	-	-	-	0:35:41.854000	0:35:43.324000
 ,	-	-	-	0:35:41.854000	0:35:43.324000
@@ -9313,11 +9313,11 @@ sagt	-	-	-	0:35:41.854000	0:35:43.324000
 du	-	-	-	0:35:43.324000	0:35:44.043000
 bist	-	-	-	0:35:43.324000	0:35:44.043000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:43.324000" end="0:35:44.043000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:43.324000" end="0:35:44.043000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:35:43.324000	0:35:44.043000
 /.	-	-	-	0:35:43.324000	0:35:44.043000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:44.043000" end="0:35:45.270000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:44.043000" end="0:35:45.270000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 keine	-	-	-	0:35:44.043000	0:35:45.270000
 richtige	-	-	-	0:35:44.043000	0:35:45.270000
 Deutsche"	-	-	-	0:35:44.043000	0:35:45.270000
@@ -9325,11 +9325,11 @@ Deutsche"	-	-	-	0:35:44.043000	0:35:45.270000
 oder	-	-	-	0:35:44.043000	0:35:45.270000
 ?	-	-	-	0:35:44.043000	0:35:45.270000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:45.270000" end="0:35:45.439000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:45.270000" end="0:35:45.439000" persName="Informant EXP5" age_lower="" age_upper="999">
 o/	-	-	-	0:35:45.270000	0:35:45.439000
 /.	-	-	-	0:35:45.270000	0:35:45.439000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:45.439000" end="0:35:46.967000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:45.439000" end="0:35:46.967000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:35:45.439000	0:35:46.646000
 ,	-	-	-	0:35:45.439000	0:35:46.646000
 also	-	-	-	0:35:45.439000	0:35:46.646000
@@ -9342,7 +9342,7 @@ nicht	-	-	-	0:35:45.439000	0:35:46.646000
 also	-	-	-	0:35:46.646000	0:35:46.967000
 /.	-	-	-	0:35:46.646000	0:35:46.967000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:46.646000" end="0:35:50.083000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:46.646000" end="0:35:50.083000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:35:46.646000	0:35:46.967000
 ,	-	-	-	0:35:46.646000	0:35:46.967000
 oder	-	-	-	0:35:46.967000	0:35:48.967000
@@ -9360,31 +9360,31 @@ so	-	-	-	0:35:48.967000	0:35:49.507000
 ist	-	-	-	0:35:49.507000	0:35:50.083000
 auch	-	-	-	0:35:49.507000	0:35:50.083000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:50.083000" end="0:35:50.883000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:50.083000" end="0:35:50.883000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:35:50.083000	0:35:50.883000
 ,	-	-	-	0:35:50.083000	0:35:50.883000
 also	-	-	-	0:35:50.083000	0:35:50.883000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:50.083000" end="0:35:50.883000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:50.083000" end="0:35:50.883000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:35:50.083000	0:35:50.883000
 für	-	-	-	0:35:50.083000	0:35:50.883000
 S/	-	-	-	0:35:50.083000	0:35:50.883000
 ,	-	-	-	0:35:50.083000	0:35:50.883000
 also	-	-	-	0:35:50.083000	0:35:50.883000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:50.883000" end="0:35:51.636000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:50.883000" end="0:35:51.636000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:35:50.883000	0:35:51.636000
 finde	-	-	-	0:35:50.883000	0:35:51.636000
 es	-	-	-	0:35:50.883000	0:35:51.636000
 eigentlich	-	-	-	0:35:50.883000	0:35:51.636000
 ,	-	-	-	0:35:50.883000	0:35:51.636000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:50.883000" end="0:35:51.636000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:50.883000" end="0:35:51.636000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:35:50.883000	0:35:51.636000
 passt	-	-	-	0:35:50.883000	0:35:51.636000
 ?	-	-	-	0:35:50.883000	0:35:51.636000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:51.636000" end="0:35:53.784000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:51.636000" end="0:35:53.784000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:35:51.636000	0:35:52.793000
 finde	-	-	-	0:35:51.636000	0:35:52.793000
 es	-	-	-	0:35:51.636000	0:35:52.793000
@@ -9397,16 +9397,16 @@ man	-	-	-	0:35:52.793000	0:35:53.784000
 wenigstens	-	-	-	0:35:52.793000	0:35:53.784000
 ,	-	-	-	0:35:52.793000	0:35:53.784000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:52.793000" end="0:35:53.784000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:52.793000" end="0:35:53.784000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:53.784000" end="0:35:54.534000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:53.784000" end="0:35:54.534000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ((lachen))	-	-	-	0:35:53.784000	0:35:54.534000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:53.784000" end="0:35:54.534000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:53.784000" end="0:35:54.534000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:35:53.784000	0:35:54.534000
 .	-	-	-	0:35:53.784000	0:35:54.534000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:54.534000" end="0:35:57.345000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:54.534000" end="0:35:57.345000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:35:54.534000	0:35:55.707000
 ich	-	-	-	0:35:54.534000	0:35:55.707000
 einen	-	-	-	0:35:54.534000	0:35:55.707000
@@ -9424,11 +9424,11 @@ hört	-	-	-	0:35:55.707000	0:35:57.345000
 also	-	-	-	0:35:55.707000	0:35:57.345000
 /.	-	-	-	0:35:55.707000	0:35:57.345000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:57.345000" end="0:35:57.841000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:57.345000" end="0:35:57.841000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:35:57.345000	0:35:57.841000
 .	-	-	-	0:35:57.345000	0:35:57.841000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:57.841000" end="0:35:59.848000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:57.841000" end="0:35:59.848000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 dann	-	-	-	0:35:57.841000	0:35:59.848000
 passt	-	-	-	0:35:57.841000	0:35:59.848000
@@ -9439,7 +9439,7 @@ gut	-	-	-	0:35:57.841000	0:35:59.848000
 ja	-	-	-	0:35:57.841000	0:35:59.848000
 .	-	-	-	0:35:57.841000	0:35:59.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:57.841000" end="0:35:59.848000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:57.841000" end="0:35:59.848000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 na	-	-	-	0:35:57.841000	0:35:59.848000
 ,	-	-	-	0:35:57.841000	0:35:59.848000
@@ -9448,9 +9448,9 @@ passt	-	-	-	0:35:57.841000	0:35:59.848000
 mhm	-	-	-	0:35:57.841000	0:35:59.848000
 .	-	-	-	0:35:57.841000	0:35:59.848000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:35:59.848000" end="0:36:00.590000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:35:59.848000" end="0:36:00.590000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:35:59.848000" end="0:36:18.625000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:59.848000" end="0:36:18.625000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 okay	-	-	-	0:36:00.590000	0:36:02.035000
 .	-	-	-	0:36:00.590000	0:36:02.035000
@@ -9499,17 +9499,17 @@ verändert	-	-	-	0:36:16.625000	0:36:18.625000
 sich	-	-	-	0:36:16.625000	0:36:18.625000
 das	-	-	-	0:36:16.625000	0:36:18.625000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:18.625000" end="0:36:19.716000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:18.625000" end="0:36:19.716000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:18.625000	0:36:19.716000
 ,	-	-	-	0:36:18.625000	0:36:19.716000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:18.625000" end="0:36:19.716000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:18.625000" end="0:36:19.716000" persName="Informant EXP5" age_lower="" age_upper="999">
 Ihrer	-	-	-	0:36:18.625000	0:36:19.716000
 Meinung	-	-	-	0:36:18.625000	0:36:19.716000
 nach	-	-	-	0:36:18.625000	0:36:19.716000
 ?	-	-	-	0:36:18.625000	0:36:19.716000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:19.716000" end="0:36:24.334000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:19.716000" end="0:36:24.334000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:36:19.716000	0:36:20.514000
 wenn	-	-	-	0:36:19.716000	0:36:20.514000
 jetzt	-	-	-	0:36:19.716000	0:36:20.514000
@@ -9529,13 +9529,13 @@ sicher	-	-	-	0:36:23.280000	0:36:24.334000
 auch	-	-	-	0:36:23.280000	0:36:24.334000
 .	-	-	-	0:36:23.280000	0:36:24.334000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:23.280000" end="0:36:25.092000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:23.280000" end="0:36:25.092000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:23.280000	0:36:24.334000
 .	-	-	-	0:36:23.280000	0:36:24.334000
 mhm	-	-	-	0:36:24.334000	0:36:25.092000
 .	-	-	-	0:36:24.334000	0:36:25.092000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:25.092000" end="0:36:29.283000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:25.092000" end="0:36:29.283000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:36:25.092000	0:36:28.293000
 ich	-	-	-	0:36:25.092000	0:36:28.293000
 glaube	-	-	-	0:36:25.092000	0:36:28.293000
@@ -9549,11 +9549,11 @@ Flüchtlings=	-	-	-	0:36:25.092000	0:36:28.293000
 =sachen	-	-	-	0:36:28.293000	0:36:29.283000
 ,	-	-	-	0:36:28.293000	0:36:29.283000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:28.293000" end="0:36:29.283000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:28.293000" end="0:36:29.283000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:28.293000	0:36:29.283000
 .	-	-	-	0:36:28.293000	0:36:29.283000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:29.283000" end="0:36:41.380000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:29.283000" end="0:36:41.380000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:36:29.283000	0:36:31.418000
 kommen	-	-	-	0:36:29.283000	0:36:31.418000
 natürlich	-	-	-	0:36:29.283000	0:36:31.418000
@@ -9607,13 +9607,13 @@ auch	-	-	-	0:36:39.542000	0:36:41.380000
 kann	-	-	-	0:36:39.542000	0:36:41.380000
 .	-	-	-	0:36:39.542000	0:36:41.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:41.380000" end="0:36:42.372000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:41.380000" end="0:36:42.372000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:41.380000	0:36:42.372000
 ,	-	-	-	0:36:41.380000	0:36:42.372000
 ja	-	-	-	0:36:41.380000	0:36:42.372000
 .	-	-	-	0:36:41.380000	0:36:42.372000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:42.372000" end="0:36:44.721000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:42.372000" end="0:36:44.721000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:36:42.372000	0:36:44.721000
 gerade	-	-	-	0:36:42.372000	0:36:44.721000
 in	-	-	-	0:36:42.372000	0:36:44.721000
@@ -9624,11 +9624,11 @@ oder	-	-	-	0:36:42.372000	0:36:44.721000
 so	-	-	-	0:36:42.372000	0:36:44.721000
 .	-	-	-	0:36:42.372000	0:36:44.721000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:44.721000" end="0:36:45.181000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:44.721000" end="0:36:45.181000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:44.721000	0:36:45.181000
 .	-	-	-	0:36:44.721000	0:36:45.181000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:45.181000" end="0:36:57.132000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:45.181000" end="0:36:57.132000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 klar	-	-	-	0:36:45.181000	0:36:47.019000
 ,	-	-	-	0:36:45.181000	0:36:47.019000
 die	-	-	-	0:36:45.181000	0:36:47.019000
@@ -9679,13 +9679,13 @@ zum	-	-	-	0:36:55.495000	0:36:57.132000
 Reden	-	-	-	0:36:55.495000	0:36:57.132000
 .	-	-	-	0:36:55.495000	0:36:57.132000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:55.495000" end="0:36:57.473000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:55.495000" end="0:36:57.473000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:55.495000	0:36:57.132000
 .	-	-	-	0:36:55.495000	0:36:57.132000
 ja	-	-	-	0:36:57.132000	0:36:57.473000
 .	-	-	-	0:36:57.132000	0:36:57.473000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:57.473000" end="0:36:59.451000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:57.473000" end="0:36:59.451000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:36:57.473000	0:36:58.728000
 der	-	-	-	0:36:57.473000	0:36:58.728000
 ganzen	-	-	-	0:36:57.473000	0:36:58.728000
@@ -9695,13 +9695,13 @@ alles	-	-	-	0:36:58.728000	0:36:59.451000
 ,	-	-	-	0:36:58.728000	0:36:59.451000
 also	-	-	-	0:36:58.728000	0:36:59.451000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:36:58.728000" end="0:36:59.986000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:58.728000" end="0:36:59.986000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:36:58.728000	0:36:59.451000
 ,	-	-	-	0:36:58.728000	0:36:59.451000
 ja	-	-	-	0:36:59.451000	0:36:59.986000
 .	-	-	-	0:36:59.451000	0:36:59.986000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:36:59.986000" end="0:37:05.316000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:36:59.986000" end="0:37:05.316000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 glaube	-	-	-	0:36:59.986000	0:37:01.271000
 ich	-	-	-	0:36:59.986000	0:37:01.271000
@@ -9723,7 +9723,7 @@ schwer)	-	-	-	0:37:03.727000	0:37:05.316000
 verändert	-	-	-	0:37:03.727000	0:37:05.316000
 .	-	-	-	0:37:03.727000	0:37:05.316000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:05.316000" end="0:37:10.213000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:05.316000" end="0:37:10.213000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:37:05.316000	0:37:06.823000
 ,	-	-	-	0:37:05.316000	0:37:06.823000
 ja	-	-	-	0:37:05.316000	0:37:06.823000
@@ -9741,10 +9741,10 @@ mhm	-	-	-	0:37:07.752000	0:37:08.995000
 ähm	-	-	-	0:37:08.995000	0:37:10.213000
 .	-	-	-	0:37:08.995000	0:37:10.213000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:10.213000" end="0:37:11.976000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:10.213000" end="0:37:11.976000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:10.213000" end="0:37:15.966000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:10.213000" end="0:37:15.966000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 ja	-	-	-	0:37:11.976000	0:37:14.903000
 ,	-	-	-	0:37:11.976000	0:37:14.903000
@@ -9763,7 +9763,7 @@ is/	-	-	-	0:37:14.903000	0:37:15.966000
 ist	-	-	-	0:37:14.903000	0:37:15.966000
 sozusagen	-	-	-	0:37:14.903000	0:37:15.966000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:15.966000" end="0:37:17.918000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:15.966000" end="0:37:17.918000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:15.966000	0:37:17.918000
 ,	-	-	-	0:37:15.966000	0:37:17.918000
 zum	-	-	-	0:37:15.966000	0:37:17.918000
@@ -9774,7 +9774,7 @@ oder	-	-	-	0:37:15.966000	0:37:17.918000
 halt	-	-	-	0:37:15.966000	0:37:17.918000
 ,	-	-	-	0:37:15.966000	0:37:17.918000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:15.966000" end="0:37:17.918000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:15.966000" end="0:37:17.918000" persName="Informant EXP5" age_lower="" age_upper="999">
 der	-	-	-	0:37:15.966000	0:37:17.918000
 wichti(())gste	-	-	-	0:37:15.966000	0:37:17.918000
 Punkt	-	-	-	0:37:15.966000	0:37:17.918000
@@ -9782,31 +9782,31 @@ Punkt	-	-	-	0:37:15.966000	0:37:17.918000
 mhm	-	-	-	0:37:15.966000	0:37:17.918000
 .	-	-	-	0:37:15.966000	0:37:17.918000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:17.918000" end="0:37:18.633000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:17.918000" end="0:37:18.633000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:17.918000	0:37:18.633000
 ja	-	-	-	0:37:17.918000	0:37:18.633000
 ,	-	-	-	0:37:17.918000	0:37:18.633000
 jetzt	-	-	-	0:37:17.918000	0:37:18.633000
 /.	-	-	-	0:37:17.918000	0:37:18.633000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:18.633000" end="0:37:19.669000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:18.633000" end="0:37:19.669000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:18.633000	0:37:19.669000
 ,	-	-	-	0:37:18.633000	0:37:19.669000
 ja	-	-	-	0:37:18.633000	0:37:19.669000
 .	-	-	-	0:37:18.633000	0:37:19.669000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:19.669000" end="0:37:20.352000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:19.669000" end="0:37:20.352000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:37:19.669000	0:37:20.352000
 .	-	-	-	0:37:19.669000	0:37:20.352000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:20.352000" end="0:37:21.330000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:20.352000" end="0:37:21.330000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:37:20.352000	0:37:21.330000
 ,	-	-	-	0:37:20.352000	0:37:21.330000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:21.330000" end="0:37:23.802000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:21.330000" end="0:37:23.802000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:21.330000" end="0:37:43.073000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:21.330000" end="0:37:43.073000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,5s"/>
 gibt	-	-	-	0:37:23.802000	0:37:26.835000
 es	-	-	-	0:37:23.802000	0:37:26.835000
@@ -9874,7 +9874,7 @@ das	-	-	-	0:37:42.061000	0:37:43.073000
 ähm	-	-	-	0:37:42.061000	0:37:43.073000
 ,	-	-	-	0:37:42.061000	0:37:43.073000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:43.073000" end="0:37:45.151000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:43.073000" end="0:37:45.151000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:37:43.073000	0:37:45.151000
 ,	-	-	-	0:37:43.073000	0:37:45.151000
 ich	-	-	-	0:37:43.073000	0:37:45.151000
@@ -9882,7 +9882,7 @@ weiß	-	-	-	0:37:43.073000	0:37:45.151000
 nicht	-	-	-	0:37:43.073000	0:37:45.151000
 .	-	-	-	0:37:43.073000	0:37:45.151000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:43.073000" end="0:37:45.972000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:43.073000" end="0:37:45.972000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 Hochdeutsch	-	-	-	0:37:43.073000	0:37:45.151000
 in	-	-	-	0:37:43.073000	0:37:45.151000
@@ -9895,23 +9895,23 @@ nicht	-	-	-	0:37:45.151000	0:37:45.972000
 ,	-	-	-	0:37:45.151000	0:37:45.972000
 ob/	-	-	-	0:37:45.151000	0:37:45.972000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:45.972000" end="0:37:47.237000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:45.972000" end="0:37:47.237000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:45.972000" end="0:37:47.237000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:45.972000" end="0:37:47.237000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:47.237000" end="0:37:47.774000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:47.237000" end="0:37:47.774000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:37:47.237000	0:37:47.774000
 ich	-	-	-	0:37:47.237000	0:37:47.774000
 weiß	-	-	-	0:37:47.237000	0:37:47.774000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:47.237000" end="0:37:47.774000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:47.237000" end="0:37:47.774000" persName="Informant EXP5" age_lower="" age_upper="999">
 o/	-	-	-	0:37:47.237000	0:37:47.774000
 o/	-	-	-	0:37:47.237000	0:37:47.774000
 .	-	-	-	0:37:47.237000	0:37:47.774000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:47.774000" end="0:37:54.644000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:47.774000" end="0:37:54.644000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:37:47.774000	0:37:49.323000
 ,	-	-	-	0:37:47.774000	0:37:49.323000
 i/	-	-	-	0:37:47.774000	0:37:49.323000
@@ -9945,11 +9945,11 @@ zu	-	-	-	0:37:52.156000	0:37:54.644000
 sein	-	-	-	0:37:52.156000	0:37:54.644000
 .	-	-	-	0:37:52.156000	0:37:54.644000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:54.644000" end="0:37:55.076000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:54.644000" end="0:37:55.076000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:54.644000	0:37:55.076000
 .	-	-	-	0:37:54.644000	0:37:55.076000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:55.076000" end="0:37:59.143000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:55.076000" end="0:37:59.143000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:37:55.076000	0:37:56.636000
 die	-	-	-	0:37:55.076000	0:37:56.636000
 sind	-	-	-	0:37:55.076000	0:37:56.636000
@@ -9968,11 +9968,11 @@ Hochdeutsch	-	-	-	0:37:56.636000	0:37:58.549000
 reden	-	-	-	0:37:58.549000	0:37:59.143000
 .	-	-	-	0:37:58.549000	0:37:59.143000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:37:58.549000" end="0:37:59.143000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:58.549000" end="0:37:59.143000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:37:58.549000	0:37:59.143000
 .	-	-	-	0:37:58.549000	0:37:59.143000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:37:59.143000" end="0:38:04.735000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:37:59.143000" end="0:38:04.735000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:37:59.143000	0:38:00.590000
 ,	-	-	-	0:37:59.143000	0:38:00.590000
@@ -9996,7 +9996,7 @@ jetzt	-	-	-	0:38:03.037000	0:38:04.735000
 kenne	-	-	-	0:38:03.037000	0:38:04.735000
 .	-	-	-	0:38:03.037000	0:38:04.735000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:03.037000" end="0:38:05.488000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:03.037000" end="0:38:05.488000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:03.037000	0:38:04.735000
 ,	-	-	-	0:38:03.037000	0:38:04.735000
 ja	-	-	-	0:38:03.037000	0:38:04.735000
@@ -10004,7 +10004,7 @@ ja	-	-	-	0:38:03.037000	0:38:04.735000
 mhm	-	-	-	0:38:04.735000	0:38:05.488000
 .	-	-	-	0:38:04.735000	0:38:05.488000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:05.488000" end="0:38:09.382000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:05.488000" end="0:38:09.382000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:38:05.488000	0:38:07.340000
 dann	-	-	-	0:38:05.488000	0:38:07.340000
 ,	-	-	-	0:38:05.488000	0:38:07.340000
@@ -10012,16 +10012,16 @@ ja	-	-	-	0:38:05.488000	0:38:07.340000
 .	-	-	-	0:38:05.488000	0:38:07.340000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:07.340000" end="0:38:09.382000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:07.340000" end="0:38:09.382000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:09.382000" end="0:38:10.230000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:09.382000" end="0:38:10.230000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (*weiß*)	-	-	-	0:38:09.382000	0:38:10.230000
 auch	-	-	-	0:38:09.382000	0:38:10.230000
 nicht	-	-	-	0:38:09.382000	0:38:10.230000
 .	-	-	-	0:38:09.382000	0:38:10.230000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:10.230000" end="0:38:13.070000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:10.230000" end="0:38:13.070000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:38:10.230000	0:38:11.767000
 das	-	-	-	0:38:10.230000	0:38:11.767000
 nicht	-	-	-	0:38:10.230000	0:38:11.767000
@@ -10038,7 +10038,7 @@ jetzt	-	-	-	0:38:11.767000	0:38:13.070000
 als	-	-	-	0:38:11.767000	0:38:13.070000
 in	-	-	-	0:38:11.767000	0:38:13.070000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:13.070000" end="0:38:14.569000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:13.070000" end="0:38:14.569000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:38:13.070000	0:38:14.569000
 ist	-	-	-	0:38:13.070000	0:38:14.569000
 ,	-	-	-	0:38:13.070000	0:38:14.569000
@@ -10046,7 +10046,7 @@ es	-	-	-	0:38:13.070000	0:38:14.569000
 ist	-	-	-	0:38:13.070000	0:38:14.569000
 ,	-	-	-	0:38:13.070000	0:38:14.569000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:13.070000" end="0:38:14.569000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:13.070000" end="0:38:14.569000" persName="Informant EXP5" age_lower="" age_upper="999">
 Tirol	-	-	-	0:38:13.070000	0:38:14.569000
 zum	-	-	-	0:38:13.070000	0:38:14.569000
 Beispiel	-	-	-	0:38:13.070000	0:38:14.569000
@@ -10054,15 +10054,15 @@ oder	-	-	-	0:38:13.070000	0:38:14.569000
 so	-	-	-	0:38:13.070000	0:38:14.569000
 ?	-	-	-	0:38:13.070000	0:38:14.569000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:14.569000" end="0:38:14.877000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:14.569000" end="0:38:14.877000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:38:14.569000	0:38:14.877000
 glaube	-	-	-	0:38:14.569000	0:38:14.877000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:14.569000" end="0:38:14.877000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:14.569000" end="0:38:14.877000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:38:14.569000	0:38:14.877000
 /.	-	-	-	0:38:14.569000	0:38:14.877000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:14.877000" end="0:38:20.116000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:14.877000" end="0:38:20.116000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:38:14.877000	0:38:18.470000
 ,	-	-	-	0:38:14.877000	0:38:18.470000
 dass	-	-	-	0:38:14.877000	0:38:18.470000
@@ -10084,11 +10084,11 @@ der	-	-	-	0:38:18.470000	0:38:20.116000
 Mentalität	-	-	-	0:38:18.470000	0:38:20.116000
 .	-	-	-	0:38:18.470000	0:38:20.116000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:20.116000" end="0:38:20.679000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:20.116000" end="0:38:20.679000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:20.116000	0:38:20.679000
 .	-	-	-	0:38:20.116000	0:38:20.679000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:20.679000" end="0:38:26.506000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:20.679000" end="0:38:26.506000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ,	-	-	-	0:38:20.679000	0:38:21.367000
 aber	-	-	-	0:38:20.679000	0:38:21.367000
 <pause duration="0,6s"/>
@@ -10108,7 +10108,7 @@ einen	-	-	-	0:38:24.996000	0:38:26.506000
 Dialekt	-	-	-	0:38:24.996000	0:38:26.506000
 haben	-	-	-	0:38:24.996000	0:38:26.506000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:24.996000" end="0:38:27.343000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:24.996000" end="0:38:27.343000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:38:24.996000	0:38:26.506000
 .	-	-	-	0:38:24.996000	0:38:26.506000
 ja	-	-	-	0:38:26.506000	0:38:27.343000
@@ -10116,7 +10116,7 @@ ja	-	-	-	0:38:26.506000	0:38:27.343000
 ja	-	-	-	0:38:26.506000	0:38:27.343000
 .	-	-	-	0:38:26.506000	0:38:27.343000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:27.343000" end="0:38:28.565000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:27.343000" end="0:38:28.565000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:38:27.343000	0:38:28.565000
 dass	-	-	-	0:38:27.343000	0:38:28.565000
 man	-	-	-	0:38:27.343000	0:38:28.565000
@@ -10125,7 +10125,7 @@ sie	-	-	-	0:38:27.343000	0:38:28.565000
 erkennt	-	-	-	0:38:27.343000	0:38:28.565000
 .	-	-	-	0:38:27.343000	0:38:28.565000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:28.565000" end="0:38:38.166000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:28.565000" end="0:38:38.166000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:38:28.565000	0:38:29.405000
 .	-	-	-	0:38:28.565000	0:38:29.405000
 <pause duration="1,3s"/>
@@ -10150,11 +10150,11 @@ Faktoren	-	-	-	0:38:32.336000	0:38:38.166000
 ähm	-	-	-	0:38:32.336000	0:38:38.166000
 ,	-	-	-	0:38:32.336000	0:38:38.166000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:38.166000" end="0:38:38.747000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:38.166000" end="0:38:38.747000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:38.166000	0:38:38.747000
 .	-	-	-	0:38:38.166000	0:38:38.747000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:38.747000" end="0:38:46.939000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:38.747000" end="0:38:46.939000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	0:38:38.747000	0:38:40.368000
 würden	-	-	-	0:38:38.747000	0:38:40.368000
 Sie	-	-	-	0:38:38.747000	0:38:40.368000
@@ -10185,18 +10185,18 @@ hm	-	-	-	0:38:45.378000	0:38:46.939000
 ja	-	-	-	0:38:45.378000	0:38:46.939000
 .	-	-	-	0:38:45.378000	0:38:46.939000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:46.939000" end="0:38:48.381000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:46.939000" end="0:38:48.381000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:38:46.939000	0:38:47.687000
 ,	-	-	-	0:38:46.939000	0:38:47.687000
 (ich	-	-	-	0:38:47.687000	0:38:48.381000
 meine)	-	-	-	0:38:47.687000	0:38:48.381000
 ,	-	-	-	0:38:47.687000	0:38:48.381000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:47.687000" end="0:38:48.381000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:47.687000" end="0:38:48.381000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:38:47.687000	0:38:48.381000
 .	-	-	-	0:38:47.687000	0:38:48.381000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:48.381000" end="0:38:53.354000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:48.381000" end="0:38:53.354000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:38:48.381000	0:38:51.745000
 ist	-	-	-	0:38:48.381000	0:38:51.745000
 ja	-	-	-	0:38:48.381000	0:38:51.745000
@@ -10216,12 +10216,12 @@ sich	-	-	-	0:38:51.745000	0:38:53.354000
 ändert	-	-	-	0:38:51.745000	0:38:53.354000
 .	-	-	-	0:38:51.745000	0:38:53.354000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:38:53.354000" end="0:38:54.375000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:53.354000" end="0:38:54.375000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:38:53.354000	0:38:54.375000
 .	-	-	-	0:38:53.354000	0:38:54.375000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:38:54.375000" end="0:39:01.915000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:38:54.375000" end="0:39:01.915000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 schade	-	-	-	0:38:54.375000	0:38:55.904000
 ,	-	-	-	0:38:54.375000	0:38:55.904000
@@ -10256,11 +10256,11 @@ schöne	-	-	-	0:39:00.378000	0:39:01.915000
 Sprache	-	-	-	0:39:00.378000	0:39:01.915000
 .	-	-	-	0:39:00.378000	0:39:01.915000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:01.915000" end="0:39:02.470000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:01.915000" end="0:39:02.470000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:01.915000	0:39:02.470000
 .	-	-	-	0:39:01.915000	0:39:02.470000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:02.470000" end="0:39:08.861000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:02.470000" end="0:39:08.861000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 und	-	-	-	0:39:02.470000	0:39:04.264000
 ja	-	-	-	0:39:04.264000	0:39:06.087000
@@ -10277,10 +10277,10 @@ ja	-	-	-	0:39:06.087000	0:39:07.674000
 ,	-	-	-	0:39:06.087000	0:39:07.674000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:07.674000" end="0:39:08.861000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:07.674000" end="0:39:08.861000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:08.861000" end="0:39:14.743000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:08.861000" end="0:39:14.743000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:39:08.861000	0:39:10.499000
 wird	-	-	-	0:39:08.861000	0:39:10.499000
 schon	-	-	-	0:39:08.861000	0:39:10.499000
@@ -10307,11 +10307,11 @@ halt	-	-	-	0:39:13.724000	0:39:14.743000
 dann	-	-	-	0:39:13.724000	0:39:14.743000
 schon	-	-	-	0:39:13.724000	0:39:14.743000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:13.724000" end="0:39:14.743000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:13.724000" end="0:39:14.743000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:13.724000	0:39:14.743000
 .	-	-	-	0:39:13.724000	0:39:14.743000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:14.743000" end="0:39:18.522000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:14.743000" end="0:39:18.522000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ein	-	-	-	0:39:14.743000	0:39:17.336000
 bisschen	-	-	-	0:39:14.743000	0:39:17.336000
 schlampiger	-	-	-	0:39:14.743000	0:39:17.336000
@@ -10321,30 +10321,30 @@ gesprochen	-	-	-	0:39:17.336000	0:39:18.522000
 als	-	-	-	0:39:17.336000	0:39:18.522000
 halt	-	-	-	0:39:17.336000	0:39:18.522000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:17.336000" end="0:39:18.522000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:17.336000" end="0:39:18.522000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:17.336000	0:39:18.522000
 .	-	-	-	0:39:17.336000	0:39:18.522000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:18.522000" end="0:39:19.746000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:18.522000" end="0:39:19.746000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:39:18.522000	0:39:19.746000
 mehr	-	-	-	0:39:18.522000	0:39:19.746000
 so	-	-	-	0:39:18.522000	0:39:19.746000
 schön	-	-	-	0:39:18.522000	0:39:19.746000
 .	-	-	-	0:39:18.522000	0:39:19.746000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:18.522000" end="0:39:19.746000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:18.522000" end="0:39:19.746000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:18.522000	0:39:19.746000
 .	-	-	-	0:39:18.522000	0:39:19.746000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:19.746000" end="0:39:20.354000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:19.746000" end="0:39:20.354000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (und	-	-	-	0:39:19.746000	0:39:20.354000
 ich)	-	-	-	0:39:19.746000	0:39:20.354000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:19.746000" end="0:39:20.354000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:19.746000" end="0:39:20.354000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:39:19.746000	0:39:20.354000
 .	-	-	-	0:39:19.746000	0:39:20.354000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:20.354000" end="0:39:22.960000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:20.354000" end="0:39:22.960000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 glaube	-	-	-	0:39:20.354000	0:39:21.724000
 schon	-	-	-	0:39:20.354000	0:39:21.724000
 ,	-	-	-	0:39:20.354000	0:39:21.724000
@@ -10354,10 +10354,10 @@ aber	-	-	-	0:39:20.354000	0:39:21.724000
 /.	-	-	-	0:39:20.354000	0:39:21.724000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:21.724000" end="0:39:22.960000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:21.724000" end="0:39:22.960000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:22.960000" end="0:39:26.659000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:22.960000" end="0:39:26.659000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weiß	-	-	-	0:39:22.960000	0:39:24.147000
 auch	-	-	-	0:39:22.960000	0:39:24.147000
 nicht	-	-	-	0:39:22.960000	0:39:24.147000
@@ -10375,11 +10375,11 @@ Zeit	-	-	-	0:39:24.147000	0:39:26.659000
 gerade	-	-	-	0:39:24.147000	0:39:26.659000
 .	-	-	-	0:39:24.147000	0:39:26.659000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:26.659000" end="0:39:27.393000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:26.659000" end="0:39:27.393000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:39:26.659000	0:39:27.393000
 .	-	-	-	0:39:26.659000	0:39:27.393000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:27.393000" end="0:39:29.868000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:27.393000" end="0:39:29.868000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:39:27.393000	0:39:28.651000
 Wandel	-	-	-	0:39:27.393000	0:39:28.651000
 der	-	-	-	0:39:27.393000	0:39:28.651000
@@ -10391,7 +10391,7 @@ es	-	-	-	0:39:28.651000	0:39:29.868000
 nicht	-	-	-	0:39:28.651000	0:39:29.868000
 ,	-	-	-	0:39:28.651000	0:39:29.868000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:28.651000" end="0:39:43.772000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:28.651000" end="0:39:43.772000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:39:29.868000	0:39:31.741000
 ,	-	-	-	0:39:29.868000	0:39:31.741000
 kann	-	-	-	0:39:29.868000	0:39:31.741000
@@ -10441,7 +10441,7 @@ vom	-	-	-	0:39:41.860000	0:39:43.772000
 Hochdeutschen	-	-	-	0:39:41.860000	0:39:43.772000
 ?	-	-	-	0:39:41.860000	0:39:43.772000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:43.772000" end="0:39:45.576000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:43.772000" end="0:39:45.576000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:43.772000	0:39:44.966000
 ,	-	-	-	0:39:43.772000	0:39:44.966000
 das	-	-	-	0:39:43.772000	0:39:44.966000
@@ -10450,12 +10450,12 @@ schon	-	-	-	0:39:43.772000	0:39:44.966000
 .	-	-	-	0:39:43.772000	0:39:44.966000
 also	-	-	-	0:39:44.966000	0:39:45.576000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:44.966000" end="0:39:45.576000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:44.966000" end="0:39:45.576000" persName="Informant EXP5" age_lower="" age_upper="999">
 bleibt	-	-	-	0:39:44.966000	0:39:45.576000
 schon	-	-	-	0:39:44.966000	0:39:45.576000
 .	-	-	-	0:39:44.966000	0:39:45.576000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:45.576000" end="0:39:47.709000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:45.576000" end="0:39:47.709000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:39:45.576000	0:39:46.371000
 habe	-	-	-	0:39:45.576000	0:39:46.371000
 ich	-	-	-	0:39:45.576000	0:39:46.371000
@@ -10465,21 +10465,21 @@ Bedenken	-	-	-	0:39:46.371000	0:39:47.709000
 also	-	-	-	0:39:46.371000	0:39:47.709000
 de/	-	-	-	0:39:46.371000	0:39:47.709000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:46.371000" end="0:39:47.709000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.371000" end="0:39:47.709000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:39:46.371000	0:39:47.709000
 .	-	-	-	0:39:46.371000	0:39:47.709000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:47.709000" end="0:39:48.405000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:47.709000" end="0:39:48.405000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:47.709000" end="0:39:48.405000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:47.709000" end="0:39:48.405000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:48.405000" end="0:39:48.590000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:48.405000" end="0:39:48.590000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:39:48.405000	0:39:48.590000
 /.	-	-	-	0:39:48.405000	0:39:48.590000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:39:48.590000" end="0:39:51.080000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:48.590000" end="0:39:51.080000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:39:48.590000	0:39:51.080000
 ,	-	-	-	0:39:48.590000	0:39:51.080000
 warum	-	-	-	0:39:48.590000	0:39:51.080000
@@ -10487,7 +10487,7 @@ glaube	-	-	-	0:39:48.590000	0:39:51.080000
 Sie	-	-	-	0:39:48.590000	0:39:51.080000
 ?	-	-	-	0:39:48.590000	0:39:51.080000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:39:51.080000" end="0:40:01.188000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:39:51.080000" end="0:40:01.188000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:51.080000	0:39:51.963000
 ,	-	-	-	0:39:51.080000	0:39:51.963000
 *weiß*	-	-	-	0:39:51.080000	0:39:51.963000
@@ -10519,17 +10519,17 @@ gerade	-	-	-	0:39:58.788000	0:40:00.233000
 Deutschsprachige	-	-	-	0:40:00.233000	0:40:01.188000
 .	-	-	-	0:40:00.233000	0:40:01.188000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:00.233000" end="0:40:01.188000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:00.233000" end="0:40:01.188000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:00.233000	0:40:01.188000
 .	-	-	-	0:40:00.233000	0:40:01.188000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:01.188000" end="0:40:02.452000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:01.188000" end="0:40:02.452000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:01.188000" end="0:40:02.452000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:01.188000" end="0:40:02.452000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:02.452000" end="0:40:06.652000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:02.452000" end="0:40:06.652000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:40:02.452000	0:40:04.222000
 ,	-	-	-	0:40:02.452000	0:40:04.222000
 also	-	-	-	0:40:02.452000	0:40:04.222000
@@ -10550,18 +10550,18 @@ was	-	-	-	0:40:04.222000	0:40:06.652000
 oder	-	-	-	0:40:04.222000	0:40:06.652000
 /.	-	-	-	0:40:04.222000	0:40:06.652000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:06.652000" end="0:40:07.315000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:06.652000" end="0:40:07.315000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:40:06.652000	0:40:07.315000
 .	-	-	-	0:40:06.652000	0:40:07.315000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:07.315000" end="0:40:08.348000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:07.315000" end="0:40:08.348000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:40:07.315000	0:40:08.348000
 glaube	-	-	-	0:40:07.315000	0:40:08.348000
 ich	-	-	-	0:40:07.315000	0:40:08.348000
 nicht	-	-	-	0:40:07.315000	0:40:08.348000
 .	-	-	-	0:40:07.315000	0:40:08.348000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:08.348000" end="0:40:13.060000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:08.348000" end="0:40:13.060000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:40:08.348000	0:40:09.071000
 .	-	-	-	0:40:08.348000	0:40:09.071000
 <pause duration="2,1s"/>
@@ -10570,10 +10570,10 @@ gut	-	-	-	0:40:09.071000	0:40:11.884000
 ähm	-	-	-	0:40:11.884000	0:40:13.060000
 ,	-	-	-	0:40:11.884000	0:40:13.060000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:13.060000" end="0:40:15.725000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:13.060000" end="0:40:15.725000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:13.060000" end="0:40:23.601000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:13.060000" end="0:40:23.601000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 wenn	-	-	-	0:40:15.725000	0:40:17.062000
 Sie	-	-	-	0:40:15.725000	0:40:17.062000
@@ -10600,11 +10600,11 @@ okay	-	-	-	0:40:22.205000	0:40:23.601000
 gut	-	-	-	0:40:22.205000	0:40:23.601000
 ,	-	-	-	0:40:22.205000	0:40:23.601000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:23.601000" end="0:40:24.879000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:23.601000" end="0:40:24.879000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:23.601000	0:40:24.879000
 .	-	-	-	0:40:23.601000	0:40:24.879000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:23.601000" end="0:40:35.547000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:23.601000" end="0:40:35.547000" persName="Informant EXP5" age_lower="" age_upper="999">
 sagen	-	-	-	0:40:23.601000	0:40:24.879000
 wir	-	-	-	0:40:23.601000	0:40:24.879000
 in	-	-	-	0:40:23.601000	0:40:24.879000
@@ -10646,11 +10646,11 @@ nicht	-	-	-	0:40:33.416000	0:40:35.547000
 so	-	-	-	0:40:33.416000	0:40:35.547000
 eine	-	-	-	0:40:33.416000	0:40:35.547000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:35.547000" end="0:40:35.934000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:35.547000" end="0:40:35.934000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:35.547000	0:40:35.934000
 .	-	-	-	0:40:35.547000	0:40:35.934000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:35.547000" end="0:40:39.620000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:35.547000" end="0:40:39.620000" persName="Informant EXP5" age_lower="" age_upper="999">
 Rolle	-	-	-	0:40:35.547000	0:40:35.934000
 ,	-	-	-	0:40:35.547000	0:40:35.934000
 aber	-	-	-	0:40:35.934000	0:40:37.759000
@@ -10672,11 +10672,11 @@ den	-	-	-	0:40:37.759000	0:40:39.620000
 Touristen	-	-	-	0:40:37.759000	0:40:39.620000
 oder	-	-	-	0:40:37.759000	0:40:39.620000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:39.620000" end="0:40:40.746000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:39.620000" end="0:40:40.746000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:39.620000	0:40:40.746000
 .	-	-	-	0:40:39.620000	0:40:40.746000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:39.620000" end="0:40:49.154000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:39.620000" end="0:40:49.154000" persName="Informant EXP5" age_lower="" age_upper="999">
 sonst	-	-	-	0:40:39.620000	0:40:40.746000
 irgendwie	-	-	-	0:40:39.620000	0:40:40.746000
 redet	-	-	-	0:40:39.620000	0:40:40.746000
@@ -10700,7 +10700,7 @@ nicht	-	-	-	0:40:45.813000	0:40:49.154000
 so	-	-	-	0:40:45.813000	0:40:49.154000
 ?	-	-	-	0:40:45.813000	0:40:49.154000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:49.154000" end="0:40:52.393000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:49.154000" end="0:40:52.393000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:40:49.154000	0:40:51.665000
 ,	-	-	-	0:40:49.154000	0:40:51.665000
@@ -10712,11 +10712,11 @@ vor	-	-	-	0:40:49.154000	0:40:51.665000
 ,	-	-	-	0:40:49.154000	0:40:51.665000
 wenn	-	-	-	0:40:51.665000	0:40:52.393000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:51.665000" end="0:40:52.393000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:51.665000" end="0:40:52.393000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:51.665000	0:40:52.393000
 .	-	-	-	0:40:51.665000	0:40:52.393000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:52.393000" end="0:40:58.230000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:52.393000" end="0:40:58.230000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:40:52.393000	0:40:57.840000
 zum	-	-	-	0:40:52.393000	0:40:57.840000
 Beispiel	-	-	-	0:40:52.393000	0:40:57.840000
@@ -10732,11 +10732,11 @@ Land	-	-	-	0:40:52.393000	0:40:57.840000
 .	-	-	-	0:40:52.393000	0:40:57.840000
 dann	-	-	-	0:40:57.840000	0:40:58.230000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:57.840000" end="0:40:58.230000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:57.840000" end="0:40:58.230000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:57.840000	0:40:58.230000
 .	-	-	-	0:40:57.840000	0:40:58.230000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:40:58.230000" end="0:41:00.154000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:40:58.230000" end="0:41:00.154000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:40:58.230000	0:40:59.807000
 bringen	-	-	-	0:40:58.230000	0:40:59.807000
 die	-	-	-	0:40:58.230000	0:40:59.807000
@@ -10747,11 +10747,11 @@ mit	-	-	-	0:40:58.230000	0:40:59.807000
 also	-	-	-	0:40:58.230000	0:40:59.807000
 die	-	-	-	0:40:59.807000	0:41:00.154000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:40:59.807000" end="0:41:00.154000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:59.807000" end="0:41:00.154000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:59.807000	0:41:00.154000
 .	-	-	-	0:40:59.807000	0:41:00.154000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:00.154000" end="0:41:06.287000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:00.154000" end="0:41:06.287000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 reden	-	-	-	0:41:00.154000	0:41:01.969000
 dann	-	-	-	0:41:00.154000	0:41:01.969000
 auch	-	-	-	0:41:00.154000	0:41:01.969000
@@ -10782,20 +10782,20 @@ komme	-	-	-	0:41:05.128000	0:41:06.287000
 gleich"	-	-	-	0:41:05.128000	0:41:06.287000
 ,	-	-	-	0:41:05.128000	0:41:06.287000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:06.287000" end="0:41:06.679000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:06.287000" end="0:41:06.679000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:06.287000	0:41:06.679000
 .	-	-	-	0:41:06.287000	0:41:06.679000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:06.679000" end="0:41:07.155000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:06.679000" end="0:41:07.155000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:41:06.679000	0:41:07.155000
 sowas	-	-	-	0:41:06.679000	0:41:07.155000
 .	-	-	-	0:41:06.679000	0:41:07.155000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:07.155000" end="0:41:07.755000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:07.155000" end="0:41:07.755000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:07.155000	0:41:07.755000
 .	-	-	-	0:41:07.155000	0:41:07.755000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:07.755000" end="0:41:09.191000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:07.755000" end="0:41:09.191000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 den	-	-	-	0:41:07.755000	0:41:09.191000
 Unterschied	-	-	-	0:41:07.755000	0:41:09.191000
 hört	-	-	-	0:41:07.755000	0:41:09.191000
@@ -10804,11 +10804,11 @@ dann	-	-	-	0:41:07.755000	0:41:09.191000
 schon	-	-	-	0:41:07.755000	0:41:09.191000
 .	-	-	-	0:41:07.755000	0:41:09.191000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:09.191000" end="0:41:09.675000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:09.191000" end="0:41:09.675000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:09.191000	0:41:09.675000
 .	-	-	-	0:41:09.191000	0:41:09.675000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:09.675000" end="0:41:12.177000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:09.675000" end="0:41:12.177000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:09.675000	0:41:10.230000
 .	-	-	-	0:41:09.675000	0:41:10.230000
 also	-	-	-	0:41:10.230000	0:41:12.177000
@@ -10817,7 +10817,7 @@ je	-	-	-	0:41:10.230000	0:41:12.177000
 nachdem	-	-	-	0:41:10.230000	0:41:12.177000
 /.	-	-	-	0:41:10.230000	0:41:12.177000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:10.230000" end="0:41:16.134000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:10.230000" end="0:41:16.134000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:41:10.230000	0:41:12.177000
 .	-	-	-	0:41:10.230000	0:41:12.177000
 also	-	-	-	0:41:10.230000	0:41:12.177000
@@ -10834,18 +10834,18 @@ herziehen	-	-	-	0:41:12.177000	0:41:15.393000
 und	-	-	-	0:41:15.393000	0:41:16.134000
 dann	-	-	-	0:41:15.393000	0:41:16.134000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:16.134000" end="0:41:17.128000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:16.134000" end="0:41:17.128000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 zum	-	-	-	0:41:16.134000	0:41:17.128000
 Beispiel	-	-	-	0:41:16.134000	0:41:17.128000
 .	-	-	-	0:41:16.134000	0:41:17.128000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:16.134000" end="0:41:17.410000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:16.134000" end="0:41:17.410000" persName="Informant EXP5" age_lower="" age_upper="999">
 bringen	-	-	-	0:41:16.134000	0:41:17.128000
 sie	-	-	-	0:41:16.134000	0:41:17.128000
 mhm	-	-	-	0:41:17.128000	0:41:17.410000
 .	-	-	-	0:41:17.128000	0:41:17.410000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:17.410000" end="0:41:21.242000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:17.410000" end="0:41:21.242000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:41:17.410000	0:41:19.905000
 das	-	-	-	0:41:17.410000	0:41:19.905000
 übertragen	-	-	-	0:41:17.410000	0:41:19.905000
@@ -10862,11 +10862,11 @@ halt	-	-	-	0:41:19.905000	0:41:21.242000
 übertragen	-	-	-	0:41:19.905000	0:41:21.242000
 .	-	-	-	0:41:19.905000	0:41:21.242000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:21.242000" end="0:41:21.828000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:21.242000" end="0:41:21.828000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:41:21.242000	0:41:21.828000
 .	-	-	-	0:41:21.242000	0:41:21.828000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:21.828000" end="0:41:28.294000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:21.828000" end="0:41:28.294000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:41:21.828000	0:41:23.991000
 du	-	-	-	0:41:21.828000	0:41:23.991000
 immer	-	-	-	0:41:21.828000	0:41:23.991000
@@ -10898,13 +10898,13 @@ komme	-	-	-	0:41:26.392000	0:41:28.294000
 gleich"	-	-	-	0:41:26.392000	0:41:28.294000
 .	-	-	-	0:41:26.392000	0:41:28.294000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:28.294000" end="0:41:29.404000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:28.294000" end="0:41:29.404000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:28.294000	0:41:29.404000
 ,	-	-	-	0:41:28.294000	0:41:29.404000
 mhm	-	-	-	0:41:28.294000	0:41:29.404000
 .	-	-	-	0:41:28.294000	0:41:29.404000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:29.404000" end="0:41:33.036000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:29.404000" end="0:41:33.036000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:41:29.404000	0:41:31.422000
 d/	-	-	-	0:41:29.404000	0:41:31.422000
 ,	-	-	-	0:41:29.404000	0:41:31.422000
@@ -10915,11 +10915,11 @@ Kleinigkeiten	-	-	-	0:41:31.422000	0:41:33.036000
 halt	-	-	-	0:41:31.422000	0:41:33.036000
 .	-	-	-	0:41:31.422000	0:41:33.036000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:31.422000" end="0:41:33.036000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:31.422000" end="0:41:33.036000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:41:31.422000	0:41:33.036000
 .	-	-	-	0:41:31.422000	0:41:33.036000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:33.036000" end="0:41:34.830000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:33.036000" end="0:41:34.830000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:41:33.036000	0:41:34.398000
 das	-	-	-	0:41:33.036000	0:41:34.398000
 ist	-	-	-	0:41:33.036000	0:41:34.398000
@@ -10930,7 +10930,7 @@ das	-	-	-	0:41:33.036000	0:41:34.398000
 selten	-	-	-	0:41:34.398000	0:41:34.830000
 .	-	-	-	0:41:34.398000	0:41:34.830000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:34.398000" end="0:41:46.417000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:34.398000" end="0:41:46.417000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:41:34.398000	0:41:34.830000
 selten	-	-	-	0:41:34.830000	0:41:35.789000
 ,	-	-	-	0:41:34.830000	0:41:35.789000
@@ -10974,13 +10974,13 @@ Sprachformen	-	-	-	0:41:43.525000	0:41:46.417000
 oder	-	-	-	0:41:43.525000	0:41:46.417000
 /?	-	-	-	0:41:43.525000	0:41:46.417000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:46.417000" end="0:41:47.786000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:46.417000" end="0:41:47.786000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:46.417000" end="0:41:47.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:46.417000" end="0:41:47.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:47.786000" end="0:41:51.964000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:47.786000" end="0:41:51.964000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:47.786000	0:41:49.521000
 ,	-	-	-	0:41:47.786000	0:41:49.521000
 hm	-	-	-	0:41:47.786000	0:41:49.521000
@@ -10998,17 +10998,17 @@ zu	-	-	-	0:41:49.521000	0:41:51.964000
 diesen/	-	-	-	0:41:49.521000	0:41:51.964000
 /.	-	-	-	0:41:49.521000	0:41:51.964000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:51.964000" end="0:41:52.286000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:51.964000" end="0:41:52.286000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:51.964000	0:41:52.286000
 .	-	-	-	0:41:51.964000	0:41:52.286000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:52.286000" end="0:41:57.006000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:52.286000" end="0:41:57.006000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:41:52.286000" end="0:41:57.006000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:52.286000" end="0:41:57.006000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:41:57.006000" end="0:42:03.226000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:41:57.006000" end="0:42:03.226000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:41:57.006000	0:41:57.989000
 .	-	-	-	0:41:57.006000	0:41:57.989000
 <pause duration="1,6s"/>
@@ -11036,23 +11036,23 @@ oder	-	-	-	0:42:00.663000	0:42:03.226000
 sowas	-	-	-	0:42:00.663000	0:42:03.226000
 .	-	-	-	0:42:00.663000	0:42:03.226000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:03.226000" end="0:42:03.718000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:03.226000" end="0:42:03.718000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:42:03.226000	0:42:03.718000
 .	-	-	-	0:42:03.226000	0:42:03.718000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:03.718000" end="0:42:04.853000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:03.718000" end="0:42:04.853000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	0:42:03.718000	0:42:04.853000
 Sachen	-	-	-	0:42:03.718000	0:42:04.853000
 .	-	-	-	0:42:03.718000	0:42:04.853000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:04.853000" end="0:42:05.516000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:04.853000" end="0:42:05.516000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:42:04.853000	0:42:05.516000
 .	-	-	-	0:42:04.853000	0:42:05.516000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:05.516000" end="0:42:09.064000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:05.516000" end="0:42:09.064000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:05.516000" end="0:42:15.270000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:05.516000" end="0:42:15.270000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,5s"/>
 gut	-	-	-	0:42:09.064000	0:42:10.735000
 ,	-	-	-	0:42:09.064000	0:42:10.735000
@@ -11077,11 +11077,11 @@ Leute	-	-	-	0:42:13.363000	0:42:15.270000
 ein	-	-	-	0:42:13.363000	0:42:15.270000
 ,	-	-	-	0:42:13.363000	0:42:15.270000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:15.270000" end="0:42:15.807000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:15.270000" end="0:42:15.807000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:15.270000	0:42:15.807000
 .	-	-	-	0:42:15.270000	0:42:15.807000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:15.270000" end="0:42:18.130000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:15.270000" end="0:42:18.130000" persName="Informant EXP5" age_lower="" age_upper="999">
 die	-	-	-	0:42:15.270000	0:42:15.807000
 das	-	-	-	0:42:15.270000	0:42:15.807000
 ,	-	-	-	0:42:15.270000	0:42:15.807000
@@ -11093,10 +11093,10 @@ sprechen	-	-	-	0:42:15.807000	0:42:17.194000
 ähm	-	-	-	0:42:17.194000	0:42:18.130000
 ,	-	-	-	0:42:17.194000	0:42:18.130000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:18.130000" end="0:42:22.429000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:18.130000" end="0:42:22.429000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:18.130000" end="0:42:34.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:18.130000" end="0:42:34.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,3s"/>
 ähm	-	-	-	0:42:22.429000	0:42:24.722000
 ,	-	-	-	0:42:22.429000	0:42:24.722000
@@ -11133,12 +11133,12 @@ Walser	-	-	-	0:42:32.070000	0:42:34.786000
 Dialekt	-	-	-	0:42:32.070000	0:42:34.786000
 .	-	-	-	0:42:32.070000	0:42:34.786000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:34.786000" end="0:42:39.846000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:34.786000" end="0:42:39.846000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:34.786000	0:42:35.335000
 .	-	-	-	0:42:34.786000	0:42:35.335000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:35.335000" end="0:42:49.311000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:35.335000" end="0:42:49.311000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,5s"/>
 und	-	-	-	0:42:39.846000	0:42:41.132000
 ,	-	-	-	0:42:39.846000	0:42:41.132000
@@ -11167,12 +11167,12 @@ so	-	-	-	0:42:46.392000	0:42:49.311000
 ja	-	-	-	0:42:46.392000	0:42:49.311000
 ?	-	-	-	0:42:46.392000	0:42:49.311000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:49.311000" end="0:42:54.706000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:49.311000" end="0:42:54.706000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:49.311000	0:42:49.884000
 .	-	-	-	0:42:49.311000	0:42:49.884000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:49.884000" end="0:42:59.055000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:49.884000" end="0:42:59.055000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="4,8s"/>
 also	-	-	-	0:42:54.706000	0:42:56.885000
 wenn	-	-	-	0:42:54.706000	0:42:56.885000
@@ -11188,11 +11188,11 @@ vom	-	-	-	0:42:56.885000	0:42:59.055000
 Land	-	-	-	0:42:56.885000	0:42:59.055000
 kommenden	-	-	-	0:42:56.885000	0:42:59.055000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:42:59.055000" end="0:42:59.900000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:42:59.055000" end="0:42:59.900000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:59.055000	0:42:59.900000
 .	-	-	-	0:42:59.055000	0:42:59.900000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:42:59.055000" end="0:43:05.712000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:59.055000" end="0:43:05.712000" persName="Informant EXP5" age_lower="" age_upper="999">
 Dialekte	-	-	-	0:42:59.055000	0:42:59.900000
 denken	-	-	-	0:42:59.900000	0:43:00.986000
 ,	-	-	-	0:42:59.900000	0:43:00.986000
@@ -11208,7 +11208,7 @@ könnte	-	-	-	0:43:00.986000	0:43:05.712000
 eventuell	-	-	-	0:43:00.986000	0:43:05.712000
 .	-	-	-	0:43:00.986000	0:43:05.712000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:05.712000" end="0:43:10.301000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:05.712000" end="0:43:10.301000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:43:05.712000	0:43:07.687000
 ,	-	-	-	0:43:05.712000	0:43:07.687000
 das	-	-	-	0:43:05.712000	0:43:07.687000
@@ -11223,9 +11223,9 @@ Hochdeutsch	-	-	-	0:43:07.687000	0:43:09.483000
 reden	-	-	-	0:43:07.687000	0:43:09.483000
 .	-	-	-	0:43:07.687000	0:43:09.483000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:09.483000" end="0:43:10.301000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:09.483000" end="0:43:10.301000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:10.301000" end="0:43:14.426000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:10.301000" end="0:43:14.426000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 also	-	-	-	0:43:10.301000	0:43:13.832000
 ob	-	-	-	0:43:10.301000	0:43:13.832000
@@ -11236,21 +11236,21 @@ Hochdeutsch	-	-	-	0:43:10.301000	0:43:13.832000
 eher	-	-	-	0:43:13.832000	0:43:14.426000
 Wal/)	-	-	-	0:43:13.832000	0:43:14.426000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:13.832000" end="0:43:14.426000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:13.832000" end="0:43:14.426000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:43:13.832000	0:43:14.426000
 .	-	-	-	0:43:13.832000	0:43:14.426000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:14.426000" end="0:43:15.030000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:14.426000" end="0:43:15.030000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:14.426000	0:43:15.030000
 ,	-	-	-	0:43:14.426000	0:43:15.030000
 da	-	-	-	0:43:14.426000	0:43:15.030000
 ist	-	-	-	0:43:14.426000	0:43:15.030000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:14.426000" end="0:43:15.030000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:14.426000" end="0:43:15.030000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:43:14.426000	0:43:15.030000
 .	-	-	-	0:43:14.426000	0:43:15.030000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:15.030000" end="0:43:18.345000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:15.030000" end="0:43:18.345000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:43:15.030000	0:43:16.822000
 eher	-	-	-	0:43:15.030000	0:43:16.822000
 der	-	-	-	0:43:15.030000	0:43:16.822000
@@ -11261,7 +11261,7 @@ also	-	-	-	0:43:15.030000	0:43:16.822000
 /.	-	-	-	0:43:15.030000	0:43:16.822000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:16.822000" end="0:43:20.510000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:16.822000" end="0:43:20.510000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 okay	-	-	-	0:43:18.345000	0:43:20.510000
 ,	-	-	-	0:43:18.345000	0:43:20.510000
@@ -11273,13 +11273,13 @@ so	-	-	-	0:43:18.345000	0:43:20.510000
 stark	-	-	-	0:43:18.345000	0:43:20.510000
 vielleicht	-	-	-	0:43:18.345000	0:43:20.510000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:20.510000" end="0:43:21.492000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:20.510000" end="0:43:21.492000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:43:20.510000	0:43:21.492000
 ,	-	-	-	0:43:20.510000	0:43:21.492000
 ja	-	-	-	0:43:20.510000	0:43:21.492000
 .	-	-	-	0:43:20.510000	0:43:21.492000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:20.510000" end="0:43:22.207000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:20.510000" end="0:43:22.207000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:43:20.510000	0:43:21.492000
 ,	-	-	-	0:43:20.510000	0:43:21.492000
 ja	-	-	-	0:43:20.510000	0:43:21.492000
@@ -11287,13 +11287,13 @@ ja	-	-	-	0:43:20.510000	0:43:21.492000
 mhm	-	-	-	0:43:21.492000	0:43:22.207000
 .	-	-	-	0:43:21.492000	0:43:22.207000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:22.207000" end="0:43:23.551000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:22.207000" end="0:43:23.551000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:22.207000" end="0:43:23.551000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:22.207000" end="0:43:23.551000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:23.551000" end="0:43:26.233000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:23.551000" end="0:43:26.233000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:43:23.551000	0:43:26.233000
 das	-	-	-	0:43:23.551000	0:43:26.233000
 ,	-	-	-	0:43:23.551000	0:43:26.233000
@@ -11306,7 +11306,7 @@ halt	-	-	-	0:43:23.551000	0:43:26.233000
 minimal	-	-	-	0:43:23.551000	0:43:26.233000
 .	-	-	-	0:43:23.551000	0:43:26.233000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:26.233000" end="0:43:30.588000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:26.233000" end="0:43:30.588000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:43:26.233000	0:43:27.849000
 ,	-	-	-	0:43:26.233000	0:43:27.849000
 ja	-	-	-	0:43:26.233000	0:43:27.849000
@@ -11319,10 +11319,10 @@ okay	-	-	-	0:43:27.849000	0:43:29.849000
 ähm	-	-	-	0:43:29.849000	0:43:30.588000
 ,	-	-	-	0:43:29.849000	0:43:30.588000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:30.588000" end="0:43:32.827000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:30.588000" end="0:43:32.827000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:30.588000" end="0:43:38.255000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:30.588000" end="0:43:38.255000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 sprechen	-	-	-	0:43:32.827000	0:43:35.163000
 Sie	-	-	-	0:43:32.827000	0:43:35.163000
@@ -11343,7 +11343,7 @@ nicht	-	-	-	0:43:35.163000	0:43:38.255000
 so	-	-	-	0:43:35.163000	0:43:38.255000
 ?	-	-	-	0:43:35.163000	0:43:38.255000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:38.255000" end="0:43:40.702000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:38.255000" end="0:43:40.702000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:43:38.255000	0:43:40.115000
 ich	-	-	-	0:43:38.255000	0:43:40.115000
 versuche	-	-	-	0:43:38.255000	0:43:40.115000
@@ -11353,11 +11353,11 @@ Vermeiden	-	-	-	0:43:38.255000	0:43:40.115000
 ,	-	-	-	0:43:38.255000	0:43:40.115000
 also	-	-	-	0:43:40.115000	0:43:40.702000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:40.115000" end="0:43:40.702000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:40.115000" end="0:43:40.702000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:43:40.115000	0:43:40.702000
 .	-	-	-	0:43:40.115000	0:43:40.702000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:43:40.702000" end="0:43:46.758000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:43:40.702000" end="0:43:46.758000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 kann	-	-	-	0:43:40.702000	0:43:42.485000
 schon	-	-	-	0:43:40.702000	0:43:42.485000
 sein	-	-	-	0:43:40.702000	0:43:42.485000
@@ -11395,7 +11395,7 @@ vermei/	-	-	-	0:43:44.296000	0:43:46.758000
 mhm	-	-	-	0:43:44.296000	0:43:46.758000
 .	-	-	-	0:43:44.296000	0:43:46.758000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:43:44.296000" end="0:44:09.526000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:44.296000" end="0:44:09.526000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:43:44.296000	0:43:46.758000
 ,	-	-	-	0:43:44.296000	0:43:46.758000
 okay	-	-	-	0:43:44.296000	0:43:46.758000
@@ -11466,11 +11466,11 @@ vermeiden	-	-	-	0:44:07.655000	0:44:09.040000
 ,	-	-	-	0:44:07.655000	0:44:09.040000
 aber	-	-	-	0:44:09.040000	0:44:09.526000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:09.526000" end="0:44:10.495000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:09.526000" end="0:44:10.495000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:09.526000	0:44:10.495000
 .	-	-	-	0:44:09.526000	0:44:10.495000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:09.526000" end="0:44:14.053000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:09.526000" end="0:44:14.053000" persName="Informant EXP5" age_lower="" age_upper="999">
 wenn	-	-	-	0:44:09.526000	0:44:10.495000
 Sie	-	-	-	0:44:09.526000	0:44:10.495000
 es	-	-	-	0:44:09.526000	0:44:10.495000
@@ -11488,7 +11488,7 @@ wie	-	-	-	0:44:12.624000	0:44:14.053000
 oft	-	-	-	0:44:12.624000	0:44:14.053000
 .	-	-	-	0:44:12.624000	0:44:14.053000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:14.053000" end="0:44:18.294000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:14.053000" end="0:44:18.294000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:14.053000	0:44:14.815000
 ,	-	-	-	0:44:14.053000	0:44:14.815000
 (es	-	-	-	0:44:14.053000	0:44:14.815000
@@ -11513,29 +11513,29 @@ weil	-	-	-	0:44:17.746000	0:44:18.294000
 man	-	-	-	0:44:17.746000	0:44:18.294000
 mich	-	-	-	0:44:17.746000	0:44:18.294000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:17.746000" end="0:44:18.294000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:17.746000" end="0:44:18.294000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:17.746000	0:44:18.294000
 .	-	-	-	0:44:17.746000	0:44:18.294000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:18.294000" end="0:44:19.393000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:18.294000" end="0:44:19.393000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:44:18.294000	0:44:19.393000
 versteht	-	-	-	0:44:18.294000	0:44:19.393000
 ,	-	-	-	0:44:18.294000	0:44:19.393000
 aber	-	-	-	0:44:18.294000	0:44:19.393000
 /.	-	-	-	0:44:18.294000	0:44:19.393000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:19.393000" end="0:44:20.231000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:19.393000" end="0:44:20.231000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:44:19.393000	0:44:20.231000
 .	-	-	-	0:44:19.393000	0:44:20.231000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:20.231000" end="0:44:22.524000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:20.231000" end="0:44:22.524000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:20.231000" end="0:44:22.524000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:20.231000" end="0:44:22.524000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:22.524000" end="0:44:26.165000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:22.524000" end="0:44:26.165000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	0:44:22.524000	0:44:23.775000
 oft	-	-	-	0:44:22.524000	0:44:23.775000
 ,	-	-	-	0:44:22.524000	0:44:23.775000
@@ -11550,9 +11550,9 @@ ja	-	-	-	0:44:25.064000	0:44:26.165000
 ,	-	-	-	0:44:25.064000	0:44:26.165000
 so	-	-	-	0:44:25.064000	0:44:26.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:25.064000" end="0:44:26.165000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:25.064000" end="0:44:26.165000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:26.165000" end="0:44:29.190000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:26.165000" end="0:44:29.190000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 zwei	-	-	-	0:44:26.165000	0:44:27.802000
 bis	-	-	-	0:44:26.165000	0:44:27.802000
@@ -11561,7 +11561,7 @@ drei	-	-	-	0:44:26.165000	0:44:27.802000
 so	-	-	-	0:44:27.802000	0:44:29.190000
 .	-	-	-	0:44:27.802000	0:44:29.190000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:29.190000" end="0:44:39.683000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:29.190000" end="0:44:39.683000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 okay	-	-	-	0:44:29.190000	0:44:30.786000
 .	-	-	-	0:44:29.190000	0:44:30.786000
@@ -11588,7 +11588,7 @@ Job	-	-	-	0:44:38.413000	0:44:39.683000
 ist	-	-	-	0:44:38.413000	0:44:39.683000
 das	-	-	-	0:44:38.413000	0:44:39.683000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:39.683000" end="0:44:41.390000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:39.683000" end="0:44:41.390000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 hauptsächlich	-	-	-	0:44:39.683000	0:44:41.390000
 ,	-	-	-	0:44:39.683000	0:44:41.390000
 ja	-	-	-	0:44:39.683000	0:44:41.390000
@@ -11596,7 +11596,7 @@ ja	-	-	-	0:44:39.683000	0:44:41.390000
 mhm	-	-	-	0:44:39.683000	0:44:41.390000
 .	-	-	-	0:44:39.683000	0:44:41.390000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:39.683000" end="0:44:41.390000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:39.683000" end="0:44:41.390000" persName="Informant EXP5" age_lower="" age_upper="999">
 am	-	-	-	0:44:39.683000	0:44:41.390000
 eheste	-	-	-	0:44:39.683000	0:44:41.390000
 ,	-	-	-	0:44:39.683000	0:44:41.390000
@@ -11605,11 +11605,11 @@ hauptsächlich	-	-	-	0:44:39.683000	0:44:41.390000
 mhm	-	-	-	0:44:39.683000	0:44:41.390000
 .	-	-	-	0:44:39.683000	0:44:41.390000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:41.390000" end="0:44:42.061000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:41.390000" end="0:44:42.061000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:44:41.390000	0:44:42.061000
 .	-	-	-	0:44:41.390000	0:44:42.061000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:41.390000" end="0:44:44.091000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:41.390000" end="0:44:44.091000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:44:41.390000	0:44:42.061000
 .	-	-	-	0:44:41.390000	0:44:42.061000
 weil	-	-	-	0:44:42.061000	0:44:44.091000
@@ -11621,7 +11621,7 @@ aus	-	-	-	0:44:42.061000	0:44:44.091000
 anderen	-	-	-	0:44:42.061000	0:44:44.091000
 Gegenden	-	-	-	0:44:42.061000	0:44:44.091000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:44.091000" end="0:44:45.687000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:44.091000" end="0:44:45.687000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:44.091000	0:44:45.687000
 ,	-	-	-	0:44:44.091000	0:44:45.687000
 und	-	-	-	0:44:44.091000	0:44:45.687000
@@ -11631,11 +11631,11 @@ dann	-	-	-	0:44:44.091000	0:44:45.687000
 sagt	-	-	-	0:44:44.091000	0:44:45.687000
 ,	-	-	-	0:44:44.091000	0:44:45.687000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:44.091000" end="0:44:45.687000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:44.091000" end="0:44:45.687000" persName="Informant EXP5" age_lower="" age_upper="999">
 sind	-	-	-	0:44:44.091000	0:44:45.687000
 .	-	-	-	0:44:44.091000	0:44:45.687000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:44:45.687000" end="0:44:48.701000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:44:45.687000" end="0:44:48.701000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 "Entschuldigung	-	-	-	0:44:45.687000	0:44:47.447000
 ,	-	-	-	0:44:45.687000	0:44:47.447000
 ich	-	-	-	0:44:45.687000	0:44:47.447000
@@ -11647,7 +11647,7 @@ verstanden"	-	-	-	0:44:45.687000	0:44:47.447000
 oder	-	-	-	0:44:45.687000	0:44:47.447000
 /.	-	-	-	0:44:45.687000	0:44:47.447000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:44:47.447000" end="0:45:00.919000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:44:47.447000" end="0:45:00.919000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:44:47.447000	0:44:48.701000
 ,	-	-	-	0:44:47.447000	0:44:48.701000
 ja	-	-	-	0:44:47.447000	0:44:48.701000
@@ -11685,13 +11685,13 @@ zu	-	-	-	0:44:56.380000	0:45:00.919000
 wechseln	-	-	-	0:44:56.380000	0:45:00.919000
 ?	-	-	-	0:44:56.380000	0:45:00.919000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:00.919000" end="0:45:02.787000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:00.919000" end="0:45:02.787000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:00.919000" end="0:45:02.787000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:00.919000" end="0:45:02.787000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:02.787000" end="0:45:06.099000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:02.787000" end="0:45:06.099000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:45:02.787000	0:45:03.268000
 k/	-	-	-	0:45:03.268000	0:45:05.605000
 ,	-	-	-	0:45:03.268000	0:45:05.605000
@@ -11702,11 +11702,11 @@ situationsbedingt	-	-	-	0:45:03.268000	0:45:05.605000
 also	-	-	-	0:45:05.605000	0:45:06.099000
 ,	-	-	-	0:45:05.605000	0:45:06.099000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:05.605000" end="0:45:06.099000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:05.605000" end="0:45:06.099000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:05.605000	0:45:06.099000
 .	-	-	-	0:45:05.605000	0:45:06.099000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:06.099000" end="0:45:11.649000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:06.099000" end="0:45:11.649000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 me/	-	-	-	0:45:06.099000	0:45:10.119000
 also	-	-	-	0:45:06.099000	0:45:10.119000
 jetzt	-	-	-	0:45:06.099000	0:45:10.119000
@@ -11725,11 +11725,11 @@ Problem	-	-	-	0:45:10.119000	0:45:11.339000
 .	-	-	-	0:45:10.119000	0:45:11.339000
 und	-	-	-	0:45:11.339000	0:45:11.649000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:11.339000" end="0:45:11.649000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:11.339000" end="0:45:11.649000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:45:11.339000	0:45:11.649000
 .	-	-	-	0:45:11.339000	0:45:11.649000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:11.649000" end="0:45:27.777000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:11.649000" end="0:45:27.777000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:45:11.649000	0:45:12.350000
 also	-	-	-	0:45:11.649000	0:45:12.350000
 .	-	-	-	0:45:11.649000	0:45:12.350000
@@ -11796,12 +11796,12 @@ Kuddelmuddel	-	-	-	0:45:25.591000	0:45:27.777000
 aber	-	-	-	0:45:25.591000	0:45:27.777000
 /.	-	-	-	0:45:25.591000	0:45:27.777000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:27.777000" end="0:45:28.816000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:27.777000" end="0:45:28.816000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:45:27.777000	0:45:28.816000
 .	-	-	-	0:45:27.777000	0:45:28.816000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:28.816000" end="0:45:31.010000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:28.816000" end="0:45:31.010000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:45:28.816000	0:45:31.010000
 kommt	-	-	-	0:45:28.816000	0:45:31.010000
 immer	-	-	-	0:45:28.816000	0:45:31.010000
@@ -11812,7 +11812,7 @@ darauf	-	-	-	0:45:28.816000	0:45:31.010000
 an	-	-	-	0:45:28.816000	0:45:31.010000
 .	-	-	-	0:45:28.816000	0:45:31.010000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:31.010000" end="0:45:40.180000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:31.010000" end="0:45:40.180000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:45:31.010000	0:45:31.562000
 .	-	-	-	0:45:31.010000	0:45:31.562000
 und	-	-	-	0:45:31.562000	0:45:35.167000
@@ -11850,7 +11850,7 @@ oder	-	-	-	0:45:38.110000	0:45:40.180000
 ähm	-	-	-	0:45:38.110000	0:45:40.180000
 ,	-	-	-	0:45:38.110000	0:45:40.180000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:40.180000" end="0:45:42.180000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:40.180000" end="0:45:42.180000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:40.180000	0:45:42.180000
 ,	-	-	-	0:45:40.180000	0:45:42.180000
 mittlerweile	-	-	-	0:45:40.180000	0:45:42.180000
@@ -11858,14 +11858,14 @@ schon	-	-	-	0:45:40.180000	0:45:42.180000
 ,	-	-	-	0:45:40.180000	0:45:42.180000
 also	-	-	-	0:45:40.180000	0:45:42.180000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:40.180000" end="0:45:42.180000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:40.180000" end="0:45:42.180000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:45:40.180000	0:45:42.180000
 es	-	-	-	0:45:40.180000	0:45:42.180000
 /?	-	-	-	0:45:40.180000	0:45:42.180000
 ja	-	-	-	0:45:40.180000	0:45:42.180000
 .	-	-	-	0:45:40.180000	0:45:42.180000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:42.180000" end="0:45:45.984000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:42.180000" end="0:45:45.984000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dadurch	-	-	-	0:45:42.180000	0:45:45.412000
 ,	-	-	-	0:45:42.180000	0:45:45.412000
 dass	-	-	-	0:45:42.180000	0:45:45.412000
@@ -11879,11 +11879,11 @@ bin	-	-	-	0:45:42.180000	0:45:45.412000
 vom	-	-	-	0:45:42.180000	0:45:45.412000
 Walsertal	-	-	-	0:45:45.412000	0:45:45.984000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:45.412000" end="0:45:45.984000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:45.412000" end="0:45:45.984000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:45:45.412000	0:45:45.984000
 .	-	-	-	0:45:45.412000	0:45:45.984000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:45.984000" end="0:45:47.538000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:45.984000" end="0:45:47.538000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mittlerweile	-	-	-	0:45:45.984000	0:45:46.773000
 ,	-	-	-	0:45:45.984000	0:45:46.773000
 geht	-	-	-	0:45:46.773000	0:45:47.538000
@@ -11891,7 +11891,7 @@ es	-	-	-	0:45:46.773000	0:45:47.538000
 gut	-	-	-	0:45:46.773000	0:45:47.538000
 .	-	-	-	0:45:46.773000	0:45:47.538000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:46.773000" end="0:45:48.278000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:46.773000" end="0:45:48.278000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:45:46.773000	0:45:47.538000
 .	-	-	-	0:45:46.773000	0:45:47.538000
 geht	-	-	-	0:45:47.538000	0:45:48.278000
@@ -11900,11 +11900,11 @@ schon	-	-	-	0:45:47.538000	0:45:48.278000
 schnell	-	-	-	0:45:47.538000	0:45:48.278000
 ,	-	-	-	0:45:47.538000	0:45:48.278000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:45:48.278000" end="0:45:48.949000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:45:48.278000" end="0:45:48.949000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:48.278000	0:45:48.949000
 .	-	-	-	0:45:48.278000	0:45:48.949000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:45:48.278000" end="0:46:06.407000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:45:48.278000" end="0:46:06.407000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:45:48.278000	0:45:48.949000
 .	-	-	-	0:45:48.278000	0:45:48.949000
 mhm	-	-	-	0:45:48.949000	0:45:49.874000
@@ -11960,13 +11960,13 @@ am	-	-	-	0:46:02.396000	0:46:06.407000
 liebsten	-	-	-	0:46:02.396000	0:46:06.407000
 ?	-	-	-	0:46:02.396000	0:46:06.407000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:06.407000" end="0:46:07.056000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:06.407000" end="0:46:07.056000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:06.407000" end="0:46:07.056000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:06.407000" end="0:46:07.056000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:07.056000" end="0:46:10.730000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:07.056000" end="0:46:10.730000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:46:07.056000	0:46:10.432000
 ja	-	-	-	0:46:07.056000	0:46:10.432000
 ,	-	-	-	0:46:07.056000	0:46:10.432000
@@ -11982,11 +11982,11 @@ anderen	-	-	-	0:46:07.056000	0:46:10.432000
 ,	-	-	-	0:46:07.056000	0:46:10.432000
 aber	-	-	-	0:46:10.432000	0:46:10.730000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:10.432000" end="0:46:10.730000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:10.432000" end="0:46:10.730000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:10.432000	0:46:10.730000
 .	-	-	-	0:46:10.432000	0:46:10.730000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:10.730000" end="0:46:13.225000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:10.730000" end="0:46:13.225000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:46:10.730000	0:46:12.111000
 spreche	-	-	-	0:46:10.730000	0:46:12.111000
 auch	-	-	-	0:46:10.730000	0:46:12.111000
@@ -11998,13 +11998,13 @@ das	-	-	-	0:46:12.111000	0:46:13.225000
 ist	-	-	-	0:46:12.111000	0:46:13.225000
 /.	-	-	-	0:46:12.111000	0:46:13.225000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:12.111000" end="0:46:13.815000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:12.111000" end="0:46:13.815000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:46:12.111000	0:46:13.225000
 .	-	-	-	0:46:12.111000	0:46:13.225000
 mhm	-	-	-	0:46:13.225000	0:46:13.815000
 .	-	-	-	0:46:13.225000	0:46:13.815000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:13.815000" end="0:46:15.609000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:13.815000" end="0:46:15.609000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:46:13.815000	0:46:14.748000
 zwei	-	-	-	0:46:13.815000	0:46:14.748000
 .	-	-	-	0:46:13.815000	0:46:14.748000
@@ -12014,14 +12014,14 @@ dass	-	-	-	0:46:14.748000	0:46:15.609000
 ich	-	-	-	0:46:14.748000	0:46:15.609000
 halt	-	-	-	0:46:14.748000	0:46:15.609000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:14.748000" end="0:46:15.609000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:14.748000" end="0:46:15.609000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:14.748000	0:46:15.609000
 ,	-	-	-	0:46:14.748000	0:46:15.609000
 die	-	-	-	0:46:14.748000	0:46:15.609000
 zw/	-	-	-	0:46:14.748000	0:46:15.609000
 /.	-	-	-	0:46:14.748000	0:46:15.609000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:15.609000" end="0:46:17.046000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:15.609000" end="0:46:17.046000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:46:15.609000	0:46:17.046000
 sind	-	-	-	0:46:15.609000	0:46:17.046000
 so	-	-	-	0:46:15.609000	0:46:17.046000
@@ -12029,13 +12029,13 @@ aufgewachsen	-	-	-	0:46:15.609000	0:46:17.046000
 bin	-	-	-	0:46:15.609000	0:46:17.046000
 ,	-	-	-	0:46:15.609000	0:46:17.046000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:17.046000" end="0:46:18.064000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:17.046000" end="0:46:18.064000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:17.046000	0:46:18.064000
 ,	-	-	-	0:46:17.046000	0:46:18.064000
 ja	-	-	-	0:46:17.046000	0:46:18.064000
 .	-	-	-	0:46:17.046000	0:46:18.064000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:18.064000" end="0:46:19.774000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:18.064000" end="0:46:19.774000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 meine	-	-	-	0:46:18.064000	0:46:19.235000
 zwei	-	-	-	0:46:18.064000	0:46:19.235000
 Dialekte	-	-	-	0:46:18.064000	0:46:19.235000
@@ -12044,7 +12044,7 @@ halt	-	-	-	0:46:19.235000	0:46:19.774000
 ja	-	-	-	0:46:19.235000	0:46:19.774000
 .	-	-	-	0:46:19.235000	0:46:19.774000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:19.235000" end="0:46:25.448000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:19.235000" end="0:46:25.448000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:19.235000	0:46:19.774000
 ,	-	-	-	0:46:19.235000	0:46:19.774000
 ja	-	-	-	0:46:19.774000	0:46:21.090000
@@ -12069,35 +12069,35 @@ nach	-	-	-	0:46:23.361000	0:46:25.448000
 Tirol	-	-	-	0:46:23.361000	0:46:25.448000
 zu	-	-	-	0:46:23.361000	0:46:25.448000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:25.448000" end="0:46:26.781000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:25.448000" end="0:46:26.781000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:25.448000	0:46:26.781000
 ,	-	-	-	0:46:25.448000	0:46:26.781000
 so	-	-	-	0:46:25.448000	0:46:26.781000
 zwei	-	-	-	0:46:25.448000	0:46:26.781000
 ,	-	-	-	0:46:25.448000	0:46:26.781000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:25.448000" end="0:46:26.781000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:25.448000" end="0:46:26.781000" persName="Informant EXP5" age_lower="" age_upper="999">
 Verwandten	-	-	-	0:46:25.448000	0:46:26.781000
 und	-	-	-	0:46:25.448000	0:46:26.781000
 so	-	-	-	0:46:25.448000	0:46:26.781000
 .	-	-	-	0:46:25.448000	0:46:26.781000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:26.781000" end="0:46:27.934000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:26.781000" end="0:46:27.934000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dreimal	-	-	-	0:46:26.781000	0:46:27.523000
 im	-	-	-	0:46:26.781000	0:46:27.523000
 Jahr	-	-	-	0:46:26.781000	0:46:27.523000
 halt	-	-	-	0:46:27.523000	0:46:27.934000
 .	-	-	-	0:46:27.523000	0:46:27.934000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:27.523000" end="0:46:27.934000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:27.523000" end="0:46:27.934000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:27.523000	0:46:27.934000
 .	-	-	-	0:46:27.523000	0:46:27.934000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:27.934000" end="0:46:28.325000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:27.934000" end="0:46:28.325000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:46:27.934000	0:46:28.325000
 .	-	-	-	0:46:27.934000	0:46:28.325000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:28.325000" end="0:46:29.890000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:28.325000" end="0:46:29.890000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:28.325000	0:46:29.890000
 ,	-	-	-	0:46:28.325000	0:46:29.890000
 und	-	-	-	0:46:28.325000	0:46:29.890000
@@ -12108,20 +12108,20 @@ schon	-	-	-	0:46:28.325000	0:46:29.890000
 so	-	-	-	0:46:28.325000	0:46:29.890000
 oder	-	-	-	0:46:28.325000	0:46:29.890000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:29.890000" end="0:46:30.502000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:29.890000" end="0:46:30.502000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:29.890000	0:46:30.502000
 .	-	-	-	0:46:29.890000	0:46:30.502000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:29.890000" end="0:46:30.502000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:29.890000" end="0:46:30.502000" persName="Informant EXP5" age_lower="" age_upper="999">
 (also)	-	-	-	0:46:29.890000	0:46:30.502000
 /.	-	-	-	0:46:29.890000	0:46:30.502000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:30.502000" end="0:46:31.624000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:30.502000" end="0:46:31.624000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:46:30.502000	0:46:31.624000
 is/	-	-	-	0:46:30.502000	0:46:31.624000
 /.	-	-	-	0:46:30.502000	0:46:31.624000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:30.502000" end="0:46:33.295000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:30.502000" end="0:46:33.295000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:30.502000	0:46:31.624000
 ,	-	-	-	0:46:30.502000	0:46:31.624000
 das	-	-	-	0:46:30.502000	0:46:31.624000
@@ -12135,11 +12135,11 @@ persönliche	-	-	-	0:46:31.624000	0:46:33.295000
 Bezug	-	-	-	0:46:31.624000	0:46:33.295000
 ,	-	-	-	0:46:31.624000	0:46:33.295000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:33.295000" end="0:46:33.961000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:33.295000" end="0:46:33.961000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:33.295000	0:46:33.961000
 .	-	-	-	0:46:33.295000	0:46:33.961000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:33.295000" end="0:46:35.836000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:33.295000" end="0:46:35.836000" persName="Informant EXP5" age_lower="" age_upper="999">
 jetzt	-	-	-	0:46:33.295000	0:46:33.961000
 nicht	-	-	-	0:46:33.295000	0:46:33.961000
 nur	-	-	-	0:46:33.295000	0:46:33.961000
@@ -12153,7 +12153,7 @@ auch	-	-	-	0:46:33.961000	0:46:35.836000
 durch	-	-	-	0:46:33.961000	0:46:35.836000
 andere	-	-	-	0:46:33.961000	0:46:35.836000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:35.836000" end="0:46:37.300000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:35.836000" end="0:46:37.300000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 hm	-	-	-	0:46:35.836000	0:46:37.300000
 ,	-	-	-	0:46:35.836000	0:46:37.300000
 durch	-	-	-	0:46:35.836000	0:46:37.300000
@@ -12161,7 +12161,7 @@ die	-	-	-	0:46:35.836000	0:46:37.300000
 Mama	-	-	-	0:46:35.836000	0:46:37.300000
 .	-	-	-	0:46:35.836000	0:46:37.300000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:35.836000" end="0:46:37.300000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:35.836000" end="0:46:37.300000" persName="Informant EXP5" age_lower="" age_upper="999">
 er	-	-	-	0:46:35.836000	0:46:37.300000
 durc/	-	-	-	0:46:35.836000	0:46:37.300000
 durch	-	-	-	0:46:35.836000	0:46:37.300000
@@ -12171,7 +12171,7 @@ selber	-	-	-	0:46:35.836000	0:46:37.300000
 ,	-	-	-	0:46:35.836000	0:46:37.300000
 so	-	-	-	0:46:35.836000	0:46:37.300000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:37.300000" end="0:46:38.971000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:37.300000" end="0:46:38.971000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:37.300000	0:46:38.971000
 ,	-	-	-	0:46:37.300000	0:46:38.971000
 ja	-	-	-	0:46:37.300000	0:46:38.971000
@@ -12181,7 +12181,7 @@ das	-	-	-	0:46:37.300000	0:46:38.971000
 schon	-	-	-	0:46:37.300000	0:46:38.971000
 .	-	-	-	0:46:37.300000	0:46:38.971000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:37.300000" end="0:46:38.971000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:37.300000" end="0:46:38.971000" persName="Informant EXP5" age_lower="" age_upper="999">
 halt	-	-	-	0:46:37.300000	0:46:38.971000
 durch	-	-	-	0:46:37.300000	0:46:38.971000
 andere	-	-	-	0:46:37.300000	0:46:38.971000
@@ -12189,7 +12189,7 @@ andere	-	-	-	0:46:37.300000	0:46:38.971000
 ja	-	-	-	0:46:37.300000	0:46:38.971000
 .	-	-	-	0:46:37.300000	0:46:38.971000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:38.971000" end="0:46:40.090000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:38.971000" end="0:46:40.090000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:38.971000	0:46:39.408000
 ,	-	-	-	0:46:38.971000	0:46:39.408000
 ja	-	-	-	0:46:38.971000	0:46:39.408000
@@ -12198,16 +12198,16 @@ also	-	-	-	0:46:39.408000	0:46:40.090000
 die	-	-	-	0:46:39.408000	0:46:40.090000
 ganze	-	-	-	0:46:39.408000	0:46:40.090000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:39.408000" end="0:46:40.090000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:39.408000" end="0:46:40.090000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:46:39.408000	0:46:40.090000
 .	-	-	-	0:46:39.408000	0:46:40.090000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:40.090000" end="0:46:41.202000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:40.090000" end="0:46:41.202000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Verwandtschaft	-	-	-	0:46:40.090000	0:46:41.202000
 halt	-	-	-	0:46:40.090000	0:46:41.202000
 und	-	-	-	0:46:40.090000	0:46:41.202000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:40.090000" end="0:46:42.427000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:40.090000" end="0:46:42.427000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:40.090000	0:46:41.202000
 .	-	-	-	0:46:40.090000	0:46:41.202000
 <pause duration="0,5s"/>
@@ -12216,22 +12216,22 @@ ja	-	-	-	0:46:41.202000	0:46:42.427000
 klar	-	-	-	0:46:41.202000	0:46:42.427000
 .	-	-	-	0:46:41.202000	0:46:42.427000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:42.427000" end="0:46:43.479000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:42.427000" end="0:46:43.479000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:42.427000	0:46:43.479000
 ,	-	-	-	0:46:42.427000	0:46:43.479000
 also	-	-	-	0:46:42.427000	0:46:43.479000
 /.	-	-	-	0:46:42.427000	0:46:43.479000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:42.427000" end="0:46:43.479000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:42.427000" end="0:46:43.479000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:46:42.427000	0:46:43.479000
 ,	-	-	-	0:46:42.427000	0:46:43.479000
 schön	-	-	-	0:46:42.427000	0:46:43.479000
 .	-	-	-	0:46:42.427000	0:46:43.479000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:43.479000" end="0:46:45.246000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:43.479000" end="0:46:45.246000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:43.479000" end="0:46:51.477000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:43.479000" end="0:46:51.477000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 und	-	-	-	0:46:45.246000	0:46:46.431000
 ,	-	-	-	0:46:45.246000	0:46:46.431000
@@ -12252,13 +12252,13 @@ sprechen	-	-	-	0:46:46.431000	0:46:51.477000
 irgendwie	-	-	-	0:46:46.431000	0:46:51.477000
 ?	-	-	-	0:46:46.431000	0:46:51.477000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:51.477000" end="0:46:52.857000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:51.477000" end="0:46:52.857000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:51.477000" end="0:46:52.857000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:51.477000" end="0:46:52.857000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:52.857000" end="0:46:54.730000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:52.857000" end="0:46:54.730000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 hm	-	-	-	0:46:52.857000	0:46:54.730000
 ,	-	-	-	0:46:52.857000	0:46:54.730000
 nicht	-	-	-	0:46:52.857000	0:46:54.730000
@@ -12266,20 +12266,20 @@ so	-	-	-	0:46:52.857000	0:46:54.730000
 gern	-	-	-	0:46:52.857000	0:46:54.730000
 .	-	-	-	0:46:52.857000	0:46:54.730000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:54.730000" end="0:46:55.056000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:54.730000" end="0:46:55.056000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:46:54.730000	0:46:55.056000
 /?	-	-	-	0:46:54.730000	0:46:55.056000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:55.056000" end="0:46:58.164000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:55.056000" end="0:46:58.164000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:55.056000	0:46:55.691000
 ,	-	-	-	0:46:55.056000	0:46:55.691000
 also	-	-	-	0:46:55.056000	0:46:55.691000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:55.691000" end="0:46:58.164000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:55.691000" end="0:46:58.164000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:46:58.164000" end="0:47:00.389000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:46:58.164000" end="0:47:00.389000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:46:58.164000	0:46:59.033000
 es	-	-	-	0:46:58.164000	0:46:59.033000
 nicht	-	-	-	0:46:58.164000	0:46:59.033000
@@ -12295,11 +12295,11 @@ und	-	-	-	0:46:59.982000	0:47:00.389000
 wenn	-	-	-	0:46:59.982000	0:47:00.389000
 es	-	-	-	0:46:59.982000	0:47:00.389000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:46:59.982000" end="0:47:00.389000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:46:59.982000" end="0:47:00.389000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:46:59.982000	0:47:00.389000
 .	-	-	-	0:46:59.982000	0:47:00.389000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:00.389000" end="0:47:02.867000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:00.389000" end="0:47:02.867000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:47:00.389000	0:47:02.143000
 sein	-	-	-	0:47:00.389000	0:47:02.143000
 muss	-	-	-	0:47:00.389000	0:47:02.143000
@@ -12320,11 +12320,11 @@ so	-	-	-	0:47:02.523000	0:47:02.867000
 ist	-	-	-	0:47:02.523000	0:47:02.867000
 ,	-	-	-	0:47:02.523000	0:47:02.867000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:02.523000" end="0:47:02.867000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:02.523000" end="0:47:02.867000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:02.523000	0:47:02.867000
 .	-	-	-	0:47:02.523000	0:47:02.867000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:02.867000" end="0:47:04.103000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:02.867000" end="0:47:04.103000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:47:02.867000	0:47:03.608000
 passt	-	-	-	0:47:02.867000	0:47:03.608000
 das	-	-	-	0:47:02.867000	0:47:03.608000
@@ -12332,7 +12332,7 @@ das	-	-	-	0:47:02.867000	0:47:03.608000
 also	-	-	-	0:47:03.608000	0:47:04.103000
 /.	-	-	-	0:47:03.608000	0:47:04.103000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:03.608000" end="0:47:12.886000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:03.608000" end="0:47:12.886000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:47:03.608000	0:47:04.103000
 ,	-	-	-	0:47:03.608000	0:47:04.103000
 okay	-	-	-	0:47:04.103000	0:47:05.406000
@@ -12361,11 +12361,11 @@ was	-	-	-	0:47:11.520000	0:47:12.886000
 gesagt	-	-	-	0:47:11.520000	0:47:12.886000
 ,	-	-	-	0:47:11.520000	0:47:12.886000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:12.886000" end="0:47:14.517000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:12.886000" end="0:47:14.517000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:47:12.886000	0:47:14.517000
 .	-	-	-	0:47:12.886000	0:47:14.517000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:12.886000" end="0:47:20.345000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:12.886000" end="0:47:20.345000" persName="Informant EXP5" age_lower="" age_upper="999">
 aber	-	-	-	0:47:12.886000	0:47:14.517000
 jetzt	-	-	-	0:47:12.886000	0:47:14.517000
 frage	-	-	-	0:47:12.886000	0:47:14.517000
@@ -12396,17 +12396,17 @@ jetzt	-	-	-	0:47:18.453000	0:47:20.345000
 interessant	-	-	-	0:47:18.453000	0:47:20.345000
 ,	-	-	-	0:47:18.453000	0:47:20.345000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:20.345000" end="0:47:21.141000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:20.345000" end="0:47:21.141000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:20.345000	0:47:21.141000
 ,	-	-	-	0:47:20.345000	0:47:21.141000
 also	-	-	-	0:47:20.345000	0:47:21.141000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:20.345000" end="0:47:21.141000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:20.345000" end="0:47:21.141000" persName="Informant EXP5" age_lower="" age_upper="999">
 glaube	-	-	-	0:47:20.345000	0:47:21.141000
 ich	-	-	-	0:47:20.345000	0:47:21.141000
 .	-	-	-	0:47:20.345000	0:47:21.141000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:21.141000" end="0:47:33.626000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:21.141000" end="0:47:33.626000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:47:21.141000	0:47:24.363000
 dem	-	-	-	0:47:21.141000	0:47:24.363000
 Papa	-	-	-	0:47:21.141000	0:47:24.363000
@@ -12448,13 +12448,13 @@ mhm	-	-	-	0:47:32.220000	0:47:33.626000
 ,	-	-	-	0:47:32.220000	0:47:33.626000
 und	-	-	-	0:47:32.220000	0:47:33.626000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:32.220000" end="0:47:33.626000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:32.220000" end="0:47:33.626000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:47:32.220000	0:47:33.626000
 ,	-	-	-	0:47:32.220000	0:47:33.626000
 okay	-	-	-	0:47:32.220000	0:47:33.626000
 .	-	-	-	0:47:32.220000	0:47:33.626000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:33.626000" end="0:47:38.125000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:33.626000" end="0:47:38.125000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:47:33.626000	0:47:36.020000
 und	-	-	-	0:47:33.626000	0:47:36.020000
 also	-	-	-	0:47:33.626000	0:47:36.020000
@@ -12470,21 +12470,21 @@ Großteils	-	-	-	0:47:36.020000	0:47:38.125000
 Tirolerisch	-	-	-	0:47:36.020000	0:47:38.125000
 .	-	-	-	0:47:36.020000	0:47:38.125000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:36.020000" end="0:47:38.125000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:36.020000" end="0:47:38.125000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:47:36.020000	0:47:38.125000
 ,	-	-	-	0:47:36.020000	0:47:38.125000
 mhm	-	-	-	0:47:36.020000	0:47:38.125000
 .	-	-	-	0:47:36.020000	0:47:38.125000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:38.125000" end="0:47:38.756000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:38.125000" end="0:47:38.756000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:47:38.125000	0:47:38.756000
 .	-	-	-	0:47:38.125000	0:47:38.756000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:38.125000" end="0:47:39.485000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:38.125000" end="0:47:39.485000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:47:38.125000	0:47:38.756000
 .	-	-	-	0:47:38.125000	0:47:38.756000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:39.485000" end="0:47:45.959000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:39.485000" end="0:47:45.959000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:47:39.485000	0:47:40.637000
 auch	-	-	-	0:47:39.485000	0:47:40.637000
 mit	-	-	-	0:47:39.485000	0:47:40.637000
@@ -12511,11 +12511,11 @@ wir	-	-	-	0:47:44.801000	0:47:45.959000
 Walserisch	-	-	-	0:47:44.801000	0:47:45.959000
 .	-	-	-	0:47:44.801000	0:47:45.959000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:45.959000" end="0:47:46.470000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:45.959000" end="0:47:46.470000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:45.959000	0:47:46.470000
 .	-	-	-	0:47:45.959000	0:47:46.470000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:46.470000" end="0:47:52.531000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:46.470000" end="0:47:52.531000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:47:46.470000	0:47:47.417000
 wir	-	-	-	0:47:46.470000	0:47:47.417000
 allein	-	-	-	0:47:46.470000	0:47:47.417000
@@ -12539,17 +12539,17 @@ miteinander	-	-	-	0:47:49.138000	0:47:50.684000
 ein	-	-	-	0:47:50.684000	0:47:52.531000
 bisschen	-	-	-	0:47:50.684000	0:47:52.531000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:50.684000" end="0:47:52.531000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:50.684000" end="0:47:52.531000" persName="Informant EXP5" age_lower="" age_upper="999">
 aha	-	-	-	0:47:50.684000	0:47:52.531000
 .	-	-	-	0:47:50.684000	0:47:52.531000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:52.531000" end="0:47:54.639000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:52.531000" end="0:47:54.639000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 durcheinander	-	-	-	0:47:52.531000	0:47:54.639000
 ,	-	-	-	0:47:52.531000	0:47:54.639000
 ja	-	-	-	0:47:52.531000	0:47:54.639000
 .	-	-	-	0:47:52.531000	0:47:54.639000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:52.531000" end="0:47:55.352000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:52.531000" end="0:47:55.352000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	0:47:52.531000	0:47:54.639000
 ist	-	-	-	0:47:52.531000	0:47:54.639000
 lustig	-	-	-	0:47:52.531000	0:47:54.639000
@@ -12557,7 +12557,7 @@ lustig	-	-	-	0:47:52.531000	0:47:54.639000
 okay	-	-	-	0:47:52.531000	0:47:54.639000
 .	-	-	-	0:47:52.531000	0:47:54.639000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:47:55.352000" end="0:47:59.005000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:47:55.352000" end="0:47:59.005000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 situationsbedingt	-	-	-	0:47:55.352000	0:47:59.005000
 reden	-	-	-	0:47:55.352000	0:47:59.005000
 wir	-	-	-	0:47:55.352000	0:47:59.005000
@@ -12568,7 +12568,7 @@ dem	-	-	-	0:47:55.352000	0:47:59.005000
 Dialekt	-	-	-	0:47:55.352000	0:47:59.005000
 .	-	-	-	0:47:55.352000	0:47:59.005000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:47:59.005000" end="0:48:01.074000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:47:59.005000" end="0:48:01.074000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:47:59.005000	0:48:01.074000
 ,	-	-	-	0:47:59.005000	0:48:01.074000
 das	-	-	-	0:47:59.005000	0:48:01.074000
@@ -12578,11 +12578,11 @@ interessant	-	-	-	0:47:59.005000	0:48:01.074000
 ja	-	-	-	0:47:59.005000	0:48:01.074000
 .	-	-	-	0:47:59.005000	0:48:01.074000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:01.074000" end="0:48:02.476000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:01.074000" end="0:48:02.476000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:48:01.074000	0:48:02.476000
 .	-	-	-	0:48:01.074000	0:48:02.476000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:01.074000" end="0:48:07.258000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:01.074000" end="0:48:07.258000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:48:01.074000	0:48:02.476000
 .	-	-	-	0:48:01.074000	0:48:02.476000
 <pause duration="0,6s"/>
@@ -12608,7 +12608,7 @@ kleinen	-	-	-	0:48:03.974000	0:48:07.258000
 Nichte	-	-	-	0:48:03.974000	0:48:07.258000
 ,	-	-	-	0:48:03.974000	0:48:07.258000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:07.258000" end="0:48:08.598000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:07.258000" end="0:48:08.598000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:07.258000	0:48:08.598000
 ,	-	-	-	0:48:07.258000	0:48:08.598000
 genau	-	-	-	0:48:07.258000	0:48:08.598000
@@ -12616,7 +12616,7 @@ genau	-	-	-	0:48:07.258000	0:48:08.598000
 mhm	-	-	-	0:48:07.258000	0:48:08.598000
 .	-	-	-	0:48:07.258000	0:48:08.598000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:07.258000" end="0:48:11.095000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:07.258000" end="0:48:11.095000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:48:07.258000	0:48:08.598000
 ,	-	-	-	0:48:07.258000	0:48:08.598000
 ist	-	-	-	0:48:07.258000	0:48:08.598000
@@ -12636,13 +12636,13 @@ auch	-	-	-	0:48:09.745000	0:48:11.095000
 ähm	-	-	-	0:48:09.745000	0:48:11.095000
 ,	-	-	-	0:48:09.745000	0:48:11.095000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:11.095000" end="0:48:12.405000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:11.095000" end="0:48:12.405000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:11.095000	0:48:12.405000
 ,	-	-	-	0:48:11.095000	0:48:12.405000
 mhm	-	-	-	0:48:11.095000	0:48:12.405000
 .	-	-	-	0:48:11.095000	0:48:12.405000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:11.095000" end="0:48:20.727000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:11.095000" end="0:48:20.727000" persName="Informant EXP5" age_lower="" age_upper="999">
 Tirolerisch	-	-	-	0:48:11.095000	0:48:12.405000
 eigentlich	-	-	-	0:48:11.095000	0:48:12.405000
 ,	-	-	-	0:48:11.095000	0:48:12.405000
@@ -12684,7 +12684,7 @@ Sie	-	-	-	0:48:19.592000	0:48:20.727000
 da	-	-	-	0:48:19.592000	0:48:20.727000
 ,	-	-	-	0:48:19.592000	0:48:20.727000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:20.727000" end="0:48:22.727000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:20.727000" end="0:48:22.727000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:20.727000	0:48:22.727000
 ,	-	-	-	0:48:20.727000	0:48:22.727000
 halt	-	-	-	0:48:20.727000	0:48:22.727000
@@ -12693,14 +12693,14 @@ also	-	-	-	0:48:20.727000	0:48:22.727000
 jetzt	-	-	-	0:48:20.727000	0:48:22.727000
 mit	-	-	-	0:48:20.727000	0:48:22.727000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:20.727000" end="0:48:22.727000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:20.727000" end="0:48:22.727000" persName="Informant EXP5" age_lower="" age_upper="999">
 weiß	-	-	-	0:48:20.727000	0:48:22.727000
 nicht	-	-	-	0:48:20.727000	0:48:22.727000
 /?	-	-	-	0:48:20.727000	0:48:22.727000
 mhm	-	-	-	0:48:20.727000	0:48:22.727000
 .	-	-	-	0:48:20.727000	0:48:22.727000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:22.727000" end="0:48:26.453000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:22.727000" end="0:48:26.453000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 von	-	-	-	0:48:22.727000	0:48:23.908000
 der	-	-	-	0:48:22.727000	0:48:23.908000
@@ -12716,7 +12716,7 @@ oder	-	-	-	0:48:23.908000	0:48:26.453000
 oder	-	-	-	0:48:23.908000	0:48:26.453000
 halt	-	-	-	0:48:23.908000	0:48:26.453000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:23.908000" end="0:48:26.453000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:23.908000" end="0:48:26.453000" persName="Informant EXP5" age_lower="" age_upper="999">
 weiß	-	-	-	0:48:23.908000	0:48:26.453000
 nicht	-	-	-	0:48:23.908000	0:48:26.453000
 ,	-	-	-	0:48:23.908000	0:48:26.453000
@@ -12728,17 +12728,17 @@ so	-	-	-	0:48:23.908000	0:48:26.453000
 mhm	-	-	-	0:48:23.908000	0:48:26.453000
 .	-	-	-	0:48:23.908000	0:48:26.453000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:26.453000" end="0:48:27.979000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:26.453000" end="0:48:27.979000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Nachbarschaft	-	-	-	0:48:26.453000	0:48:27.294000
 .	-	-	-	0:48:26.453000	0:48:27.294000
 das	-	-	-	0:48:27.294000	0:48:27.979000
 ist	-	-	-	0:48:27.294000	0:48:27.979000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:27.294000" end="0:48:27.979000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:27.294000" end="0:48:27.979000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:27.294000	0:48:27.979000
 .	-	-	-	0:48:27.294000	0:48:27.979000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:27.979000" end="0:48:29.952000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:27.979000" end="0:48:29.952000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Walserisch	-	-	-	0:48:27.979000	0:48:28.824000
 ,	-	-	-	0:48:27.979000	0:48:28.824000
 ganz	-	-	-	0:48:27.979000	0:48:28.824000
@@ -12749,7 +12749,7 @@ ja	-	-	-	0:48:28.824000	0:48:29.952000
 mhm	-	-	-	0:48:28.824000	0:48:29.952000
 .	-	-	-	0:48:28.824000	0:48:29.952000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:28.824000" end="0:48:33.330000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:28.824000" end="0:48:33.330000" persName="Informant EXP5" age_lower="" age_upper="999">
 Walserisch	-	-	-	0:48:28.824000	0:48:29.952000
 ,	-	-	-	0:48:28.824000	0:48:29.952000
 okay	-	-	-	0:48:28.824000	0:48:29.952000
@@ -12772,7 +12772,7 @@ Erwachsene	-	-	-	0:48:31.688000	0:48:33.330000
 sind	-	-	-	0:48:31.688000	0:48:33.330000
 ?	-	-	-	0:48:31.688000	0:48:33.330000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:33.330000" end="0:48:35.330000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:33.330000" end="0:48:35.330000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:48:33.330000	0:48:35.330000
 ,	-	-	-	0:48:33.330000	0:48:35.330000
 mm	-	-	-	0:48:33.330000	0:48:35.330000
@@ -12780,7 +12780,7 @@ mm	-	-	-	0:48:33.330000	0:48:35.330000
 mm	-	-	-	0:48:33.330000	0:48:35.330000
 .	-	-	-	0:48:33.330000	0:48:35.330000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:33.330000" end="0:48:39.515000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:33.330000" end="0:48:39.515000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:48:33.330000	0:48:35.330000
 immer	-	-	-	0:48:33.330000	0:48:35.330000
 ,	-	-	-	0:48:33.330000	0:48:35.330000
@@ -12806,13 +12806,13 @@ haben	-	-	-	0:48:37.416000	0:48:39.515000
 Sie	-	-	-	0:48:37.416000	0:48:39.515000
 noch	-	-	-	0:48:37.416000	0:48:39.515000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:39.515000" end="0:48:40.484000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:39.515000" end="0:48:40.484000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:39.515000	0:48:40.484000
 ,	-	-	-	0:48:39.515000	0:48:40.484000
 mhm	-	-	-	0:48:39.515000	0:48:40.484000
 .	-	-	-	0:48:39.515000	0:48:40.484000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:39.515000" end="0:48:43.606000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:39.515000" end="0:48:43.606000" persName="Informant EXP5" age_lower="" age_upper="999">
 Großeltern	-	-	-	0:48:39.515000	0:48:40.484000
 ?	-	-	-	0:48:39.515000	0:48:40.484000
 ja	-	-	-	0:48:39.515000	0:48:40.484000
@@ -12827,15 +12827,15 @@ vielleicht	-	-	-	0:48:40.484000	0:48:42.827000
 oder	-	-	-	0:48:42.827000	0:48:43.606000
 /?	-	-	-	0:48:42.827000	0:48:43.606000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:43.606000" end="0:48:44.292000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:43.606000" end="0:48:44.292000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:48:43.606000	0:48:44.292000
 .	-	-	-	0:48:43.606000	0:48:44.292000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:44.292000" end="0:48:44.660000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:44.292000" end="0:48:44.660000" persName="Informant EXP5" age_lower="" age_upper="999">
 nein	-	-	-	0:48:44.292000	0:48:44.660000
 .	-	-	-	0:48:44.292000	0:48:44.660000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:44.660000" end="0:48:46.747000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:44.660000" end="0:48:46.747000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:48:44.660000	0:48:46.260000
 halt	-	-	-	0:48:44.660000	0:48:46.260000
 auch	-	-	-	0:48:44.660000	0:48:46.260000
@@ -12845,21 +12845,21 @@ die	-	-	-	0:48:46.260000	0:48:46.747000
 ,	-	-	-	0:48:46.260000	0:48:46.747000
 was	-	-	-	0:48:46.260000	0:48:46.747000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:46.260000" end="0:48:46.747000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:46.260000" end="0:48:46.747000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:46.260000	0:48:46.747000
 .	-	-	-	0:48:46.260000	0:48:46.747000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:46.747000" end="0:48:48.362000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:46.747000" end="0:48:48.362000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:48:46.747000	0:48:47.947000
 sind	-	-	-	0:48:46.747000	0:48:47.947000
 Walserisch	-	-	-	0:48:46.747000	0:48:47.947000
 und	-	-	-	0:48:47.947000	0:48:48.362000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:47.947000" end="0:48:48.362000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:47.947000" end="0:48:48.362000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:48:47.947000	0:48:48.362000
 .	-	-	-	0:48:47.947000	0:48:48.362000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:48:48.362000" end="0:48:51.769000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:48:48.362000" end="0:48:51.769000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:48:48.362000	0:48:49.477000
 was	-	-	-	0:48:48.362000	0:48:49.477000
 (drinnen)	-	-	-	0:48:48.362000	0:48:49.477000
@@ -12867,7 +12867,7 @@ sind	-	-	-	0:48:48.362000	0:48:49.477000
 Tirolerisch	-	-	-	0:48:49.477000	0:48:51.769000
 .	-	-	-	0:48:49.477000	0:48:51.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:48:49.477000" end="0:49:02.235000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:48:49.477000" end="0:49:02.235000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:48:49.477000	0:48:51.769000
 ,	-	-	-	0:48:49.477000	0:48:51.769000
 okay	-	-	-	0:48:49.477000	0:48:51.769000
@@ -12893,7 +12893,7 @@ spricht	-	-	-	0:49:00.649000	0:49:02.235000
 auch	-	-	-	0:49:00.649000	0:49:02.235000
 wahrscheinlich	-	-	-	0:49:00.649000	0:49:02.235000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:02.235000" end="0:49:04.436000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:02.235000" end="0:49:04.436000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 mhm	-	-	-	0:49:02.235000	0:49:04.436000
 ,	-	-	-	0:49:02.235000	0:49:04.436000
@@ -12902,7 +12902,7 @@ der	-	-	-	0:49:02.235000	0:49:04.436000
 ist	-	-	-	0:49:02.235000	0:49:04.436000
 da	-	-	-	0:49:02.235000	0:49:04.436000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:02.235000" end="0:49:04.436000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:02.235000" end="0:49:04.436000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 Wals/	-	-	-	0:49:02.235000	0:49:04.436000
 oder	-	-	-	0:49:02.235000	0:49:04.436000
@@ -12917,7 +12917,7 @@ aus	-	-	-	0:49:02.235000	0:49:04.436000
 der	-	-	-	0:49:02.235000	0:49:04.436000
 /?	-	-	-	0:49:02.235000	0:49:04.436000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:04.436000" end="0:49:06.311000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:04.436000" end="0:49:06.311000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sehr	-	-	-	0:49:04.436000	0:49:05.231000
 genau	-	-	-	0:49:04.436000	0:49:05.231000
 .	-	-	-	0:49:04.436000	0:49:05.231000
@@ -12925,11 +12925,11 @@ also	-	-	-	0:49:05.231000	0:49:06.311000
 der	-	-	-	0:49:05.231000	0:49:06.311000
 korrigiert	-	-	-	0:49:05.231000	0:49:06.311000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:05.231000" end="0:49:06.311000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:05.231000" end="0:49:06.311000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:49:05.231000	0:49:06.311000
 .	-	-	-	0:49:05.231000	0:49:06.311000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:06.311000" end="0:49:07.889000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:06.311000" end="0:49:07.889000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mich	-	-	-	0:49:06.311000	0:49:07.406000
 auch	-	-	-	0:49:06.311000	0:49:07.406000
 sehr	-	-	-	0:49:06.311000	0:49:07.406000
@@ -12939,12 +12939,12 @@ also	-	-	-	0:49:06.311000	0:49:07.406000
 dem	-	-	-	0:49:07.406000	0:49:07.889000
 ist	-	-	-	0:49:07.406000	0:49:07.889000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:07.406000" end="0:49:07.889000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:07.406000" end="0:49:07.889000" persName="Informant EXP5" age_lower="" age_upper="999">
 ach	-	-	-	0:49:07.406000	0:49:07.889000
 so	-	-	-	0:49:07.406000	0:49:07.889000
 .	-	-	-	0:49:07.406000	0:49:07.889000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:07.889000" end="0:49:10.045000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:07.889000" end="0:49:10.045000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:49:07.889000	0:49:08.690000
 noch	-	-	-	0:49:07.889000	0:49:08.690000
 sehr	-	-	-	0:49:07.889000	0:49:08.690000
@@ -12953,7 +12953,7 @@ wichtig	-	-	-	0:49:07.889000	0:49:08.690000
 ja	-	-	-	0:49:08.690000	0:49:10.045000
 .	-	-	-	0:49:08.690000	0:49:10.045000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:08.690000" end="0:49:16.468000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:08.690000" end="0:49:16.468000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:49:08.690000	0:49:10.045000
 .	-	-	-	0:49:08.690000	0:49:10.045000
 okay	-	-	-	0:49:10.045000	0:49:12.129000
@@ -12974,7 +12974,7 @@ oder	-	-	-	0:49:12.129000	0:49:16.468000
 so	-	-	-	0:49:12.129000	0:49:16.468000
 ?	-	-	-	0:49:12.129000	0:49:16.468000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:16.468000" end="0:49:17.942000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:16.468000" end="0:49:17.942000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 er	-	-	-	0:49:16.468000	0:49:17.942000
 Walserisch	-	-	-	0:49:16.468000	0:49:17.942000
 und	-	-	-	0:49:16.468000	0:49:17.942000
@@ -12982,7 +12982,7 @@ sie	-	-	-	0:49:16.468000	0:49:17.942000
 Tirolerisch	-	-	-	0:49:16.468000	0:49:17.942000
 .	-	-	-	0:49:16.468000	0:49:17.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:16.468000" end="0:49:19.069000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:16.468000" end="0:49:19.069000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:49:16.468000	0:49:17.942000
 das	-	-	-	0:49:16.468000	0:49:17.942000
 /?	-	-	-	0:49:16.468000	0:49:17.942000
@@ -12994,26 +12994,26 @@ das	-	-	-	0:49:17.942000	0:49:19.069000
 geht	-	-	-	0:49:17.942000	0:49:19.069000
 aber	-	-	-	0:49:17.942000	0:49:19.069000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:19.069000" end="0:49:19.642000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:19.069000" end="0:49:19.642000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:19.069000	0:49:19.642000
 ,	-	-	-	0:49:19.069000	0:49:19.642000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:19.069000" end="0:49:19.642000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:19.069000" end="0:49:19.642000" persName="Informant EXP5" age_lower="" age_upper="999">
 eh	-	-	-	0:49:19.069000	0:49:19.642000
 gut	-	-	-	0:49:19.069000	0:49:19.642000
 ?	-	-	-	0:49:19.069000	0:49:19.642000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:19.642000" end="0:49:20.445000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:19.642000" end="0:49:20.445000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:49:19.642000	0:49:20.445000
 am	-	-	-	0:49:19.642000	0:49:20.445000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:19.642000" end="0:49:20.445000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:19.642000" end="0:49:20.445000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:49:19.642000	0:49:20.445000
 ,	-	-	-	0:49:19.642000	0:49:20.445000
 okay	-	-	-	0:49:19.642000	0:49:20.445000
 .	-	-	-	0:49:19.642000	0:49:20.445000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:20.445000" end="0:49:27.917000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:20.445000" end="0:49:27.917000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Anfang	-	-	-	0:49:20.445000	0:49:22.237000
 *is*	-	-	-	0:49:20.445000	0:49:22.237000
 dann	-	-	-	0:49:20.445000	0:49:22.237000
@@ -13049,11 +13049,11 @@ sie	-	-	-	0:49:26.523000	0:49:27.917000
 nicht	-	-	-	0:49:26.523000	0:49:27.917000
 .	-	-	-	0:49:26.523000	0:49:27.917000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:27.917000" end="0:49:28.303000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:27.917000" end="0:49:28.303000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:49:27.917000	0:49:28.303000
 .	-	-	-	0:49:27.917000	0:49:28.303000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:28.303000" end="0:49:30.908000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:28.303000" end="0:49:30.908000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:49:28.303000	0:49:30.110000
 meine	-	-	-	0:49:28.303000	0:49:30.110000
 Mama	-	-	-	0:49:28.303000	0:49:30.110000
@@ -13062,11 +13062,11 @@ es	-	-	-	0:49:28.303000	0:49:30.110000
 super	-	-	-	0:49:30.110000	0:49:30.908000
 und	-	-	-	0:49:30.110000	0:49:30.908000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:30.110000" end="0:49:30.908000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:30.110000" end="0:49:30.908000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:49:30.110000	0:49:30.908000
 .	-	-	-	0:49:30.110000	0:49:30.908000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:30.908000" end="0:49:34.225000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:30.908000" end="0:49:34.225000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sie	-	-	-	0:49:30.908000	0:49:32.780000
 redet	-	-	-	0:49:30.908000	0:49:32.780000
 ihren	-	-	-	0:49:30.908000	0:49:32.780000
@@ -13080,13 +13080,13 @@ und	-	-	-	0:49:32.780000	0:49:34.225000
 ?)	-	-	-	0:49:32.780000	0:49:34.225000
 .	-	-	-	0:49:32.780000	0:49:34.225000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:32.780000" end="0:49:34.225000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:32.780000" end="0:49:34.225000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:49:32.780000	0:49:34.225000
 ,	-	-	-	0:49:32.780000	0:49:34.225000
 ja	-	-	-	0:49:32.780000	0:49:34.225000
 .	-	-	-	0:49:32.780000	0:49:34.225000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:34.225000" end="0:49:37.190000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:34.225000" end="0:49:37.190000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (ja	-	-	-	0:49:34.225000	0:49:35.437000
 ,	-	-	-	0:49:34.225000	0:49:35.437000
 das)	-	-	-	0:49:34.225000	0:49:35.437000
@@ -13096,7 +13096,7 @@ super	-	-	-	0:49:34.225000	0:49:35.437000
 ja	-	-	-	0:49:35.437000	0:49:37.190000
 .	-	-	-	0:49:35.437000	0:49:37.190000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:35.437000" end="0:49:45.218000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:35.437000" end="0:49:45.218000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:49:35.437000	0:49:37.190000
 .	-	-	-	0:49:35.437000	0:49:37.190000
 <pause duration="0,7s"/>
@@ -13124,7 +13124,7 @@ miteinander	-	-	-	0:49:41.621000	0:49:45.218000
 gesprochen	-	-	-	0:49:41.621000	0:49:45.218000
 ?	-	-	-	0:49:41.621000	0:49:45.218000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:45.218000" end="0:49:49.137000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:45.218000" end="0:49:49.137000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 der	-	-	-	0:49:45.218000	0:49:47.764000
 Papa	-	-	-	0:49:45.218000	0:49:47.764000
@@ -13141,11 +13141,11 @@ Papa	-	-	-	0:49:47.764000	0:49:49.137000
 Tirolerisch	-	-	-	0:49:47.764000	0:49:49.137000
 .	-	-	-	0:49:47.764000	0:49:49.137000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:49.137000" end="0:49:49.697000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:49.137000" end="0:49:49.697000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:49:49.137000	0:49:49.697000
 .	-	-	-	0:49:49.137000	0:49:49.697000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:49.697000" end="0:49:52.243000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:49.697000" end="0:49:52.243000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:49:49.697000	0:49:51.538000
 die	-	-	-	0:49:49.697000	0:49:51.538000
 haben	-	-	-	0:49:49.697000	0:49:51.538000
@@ -13153,15 +13153,15 @@ beide	-	-	-	0:49:49.697000	0:49:51.538000
 ihre	-	-	-	0:49:49.697000	0:49:51.538000
 Dialekte	-	-	-	0:49:51.538000	0:49:52.243000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:51.538000" end="0:49:52.243000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:51.538000" end="0:49:52.243000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:49:51.538000	0:49:52.243000
 .	-	-	-	0:49:51.538000	0:49:52.243000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:52.243000" end="0:49:53.194000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:52.243000" end="0:49:53.194000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 vertreten	-	-	-	0:49:52.243000	0:49:53.194000
 .	-	-	-	0:49:52.243000	0:49:53.194000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:53.194000" end="0:49:59.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:53.194000" end="0:49:59.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 super	-	-	-	0:49:53.194000	0:49:54.290000
 ,	-	-	-	0:49:53.194000	0:49:54.290000
 okay	-	-	-	0:49:53.194000	0:49:54.290000
@@ -13189,24 +13189,24 @@ hat	-	-	-	0:49:58.206000	0:49:59.786000
 mit	-	-	-	0:49:58.206000	0:49:59.786000
 Ihnen	-	-	-	0:49:58.206000	0:49:59.786000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:49:59.786000" end="0:50:00.547000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:49:59.786000" end="0:50:00.547000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:59.786000	0:50:00.547000
 .	-	-	-	0:49:59.786000	0:50:00.547000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:49:59.786000" end="0:50:01.198000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:49:59.786000" end="0:50:01.198000" persName="Informant EXP5" age_lower="" age_upper="999">
 dann	-	-	-	0:49:59.786000	0:50:00.547000
 als	-	-	-	0:49:59.786000	0:50:00.547000
 Kind	-	-	-	0:49:59.786000	0:50:00.547000
 eben	-	-	-	0:50:00.547000	0:50:01.198000
 auch	-	-	-	0:50:00.547000	0:50:01.198000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:01.198000" end="0:50:02.927000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:01.198000" end="0:50:02.927000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 T/	-	-	-	0:50:01.198000	0:50:02.927000
 ,	-	-	-	0:50:01.198000	0:50:02.927000
 ja	-	-	-	0:50:01.198000	0:50:02.927000
 .	-	-	-	0:50:01.198000	0:50:02.927000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:01.198000" end="0:50:05.159000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:01.198000" end="0:50:05.159000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 Tirolerisch	-	-	-	0:50:01.198000	0:50:02.927000
 gesprochen	-	-	-	0:50:01.198000	0:50:02.927000
@@ -13218,13 +13218,13 @@ und	-	-	-	0:50:02.927000	0:50:05.159000
 der	-	-	-	0:50:02.927000	0:50:05.159000
 Vater	-	-	-	0:50:02.927000	0:50:05.159000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:05.159000" end="0:50:07.046000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:05.159000" end="0:50:07.046000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:50:05.159000	0:50:07.046000
 ,	-	-	-	0:50:05.159000	0:50:07.046000
 ja	-	-	-	0:50:05.159000	0:50:07.046000
 .	-	-	-	0:50:05.159000	0:50:07.046000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:05.159000" end="0:50:16.944000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:05.159000" end="0:50:16.944000" persName="Informant EXP5" age_lower="" age_upper="999">
 Walserisch	-	-	-	0:50:05.159000	0:50:07.046000
 ,	-	-	-	0:50:05.159000	0:50:07.046000
 okay	-	-	-	0:50:05.159000	0:50:07.046000
@@ -13266,20 +13266,20 @@ das	-	-	-	0:50:14.456000	0:50:16.944000
 irgendwie	-	-	-	0:50:14.456000	0:50:16.944000
 ganz	-	-	-	0:50:14.456000	0:50:16.944000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:16.944000" end="0:50:18.513000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:16.944000" end="0:50:18.513000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:50:16.944000	0:50:18.513000
 ,	-	-	-	0:50:16.944000	0:50:18.513000
 also	-	-	-	0:50:16.944000	0:50:18.513000
 wi/	-	-	-	0:50:16.944000	0:50:18.513000
 /.	-	-	-	0:50:16.944000	0:50:18.513000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:16.944000" end="0:50:18.513000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:16.944000" end="0:50:18.513000" persName="Informant EXP5" age_lower="" age_upper="999">
 automatisch	-	-	-	0:50:16.944000	0:50:18.513000
 ,	-	-	-	0:50:16.944000	0:50:18.513000
 oder	-	-	-	0:50:16.944000	0:50:18.513000
 /?	-	-	-	0:50:16.944000	0:50:18.513000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:18.513000" end="0:50:21.907000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:18.513000" end="0:50:21.907000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 beim	-	-	-	0:50:18.513000	0:50:21.907000
 Papa	-	-	-	0:50:18.513000	0:50:21.907000
 ,	-	-	-	0:50:18.513000	0:50:21.907000
@@ -13293,11 +13293,11 @@ gewohnt	-	-	-	0:50:18.513000	0:50:21.907000
 haben	-	-	-	0:50:18.513000	0:50:21.907000
 ,	-	-	-	0:50:18.513000	0:50:21.907000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:18.513000" end="0:50:21.907000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:18.513000" end="0:50:21.907000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:18.513000	0:50:21.907000
 .	-	-	-	0:50:18.513000	0:50:21.907000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:21.907000" end="0:50:23.333000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:21.907000" end="0:50:23.333000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 war	-	-	-	0:50:21.907000	0:50:23.333000
 das	-	-	-	0:50:21.907000	0:50:23.333000
 klar	-	-	-	0:50:21.907000	0:50:23.333000
@@ -13305,11 +13305,11 @@ klar	-	-	-	0:50:21.907000	0:50:23.333000
 oder	-	-	-	0:50:21.907000	0:50:23.333000
 ?	-	-	-	0:50:21.907000	0:50:23.333000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:21.907000" end="0:50:23.333000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:21.907000" end="0:50:23.333000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:21.907000	0:50:23.333000
 .	-	-	-	0:50:21.907000	0:50:23.333000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:23.333000" end="0:50:27.957000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:23.333000" end="0:50:27.957000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:50:23.333000	0:50:25.510000
 Mama	-	-	-	0:50:23.333000	0:50:25.510000
 hat	-	-	-	0:50:23.333000	0:50:25.510000
@@ -13327,26 +13327,26 @@ meine	-	-	-	0:50:25.510000	0:50:27.957000
 Kinder	-	-	-	0:50:25.510000	0:50:27.957000
 Tiroler(())isch	-	-	-	0:50:25.510000	0:50:27.957000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:25.510000" end="0:50:27.957000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:25.510000" end="0:50:27.957000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:25.510000	0:50:27.957000
 ,	-	-	-	0:50:25.510000	0:50:27.957000
 ja	-	-	-	0:50:25.510000	0:50:27.957000
 .	-	-	-	0:50:25.510000	0:50:27.957000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:27.957000" end="0:50:29.935000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:27.957000" end="0:50:29.935000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:50:27.957000	0:50:29.935000
 ist	-	-	-	0:50:27.957000	0:50:29.935000
 mein	-	-	-	0:50:27.957000	0:50:29.935000
 Dialekt	-	-	-	0:50:27.957000	0:50:29.935000
 und	-	-	-	0:50:27.957000	0:50:29.935000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:27.957000" end="0:50:30.448000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:27.957000" end="0:50:30.448000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:27.957000	0:50:29.935000
 .	-	-	-	0:50:27.957000	0:50:29.935000
 ja	-	-	-	0:50:29.935000	0:50:30.448000
 .	-	-	-	0:50:29.935000	0:50:30.448000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:30.448000" end="0:50:32.593000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:30.448000" end="0:50:32.593000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (das	-	-	-	0:50:30.448000	0:50:32.593000
 ?)	-	-	-	0:50:30.448000	0:50:32.593000
 ich	-	-	-	0:50:30.448000	0:50:32.593000
@@ -13359,13 +13359,13 @@ nicht	-	-	-	0:50:30.448000	0:50:32.593000
 und	-	-	-	0:50:30.448000	0:50:32.593000
 /.	-	-	-	0:50:30.448000	0:50:32.593000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:32.593000" end="0:50:33.415000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:32.593000" end="0:50:33.415000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:32.593000	0:50:33.415000
 ,	-	-	-	0:50:32.593000	0:50:33.415000
 ja	-	-	-	0:50:32.593000	0:50:33.415000
 .	-	-	-	0:50:32.593000	0:50:33.415000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:33.415000" end="0:50:35.935000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:33.415000" end="0:50:35.935000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:50:33.415000	0:50:34.577000
 war	-	-	-	0:50:33.415000	0:50:34.577000
 ihr	-	-	-	0:50:33.415000	0:50:34.577000
@@ -13381,11 +13381,11 @@ lernen	-	-	-	0:50:34.577000	0:50:35.935000
 ,	-	-	-	0:50:34.577000	0:50:35.935000
 weil	-	-	-	0:50:34.577000	0:50:35.935000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:35.935000" end="0:50:36.603000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:35.935000" end="0:50:36.603000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:35.935000	0:50:36.603000
 .	-	-	-	0:50:35.935000	0:50:36.603000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:36.603000" end="0:50:48.731000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:36.603000" end="0:50:48.731000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gerade	-	-	-	0:50:36.603000	0:50:38.775000
 ,	-	-	-	0:50:36.603000	0:50:38.775000
 wenn	-	-	-	0:50:36.603000	0:50:38.775000
@@ -13438,22 +13438,22 @@ dann	-	-	-	0:50:47.512000	0:50:48.731000
 ne/	-	-	-	0:50:47.512000	0:50:48.731000
 nicht	-	-	-	0:50:47.512000	0:50:48.731000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:48.731000" end="0:50:48.972000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:48.731000" end="0:50:48.972000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:48.731000	0:50:48.972000
 .	-	-	-	0:50:48.731000	0:50:48.972000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:48.972000" end="0:50:50.048000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:48.972000" end="0:50:50.048000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:50:48.972000	0:50:49.763000
 nicht	-	-	-	0:50:48.972000	0:50:49.763000
 gut	-	-	-	0:50:48.972000	0:50:49.763000
 .	-	-	-	0:50:48.972000	0:50:49.763000
 und	-	-	-	0:50:49.763000	0:50:50.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:49.763000" end="0:50:50.048000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:49.763000" end="0:50:50.048000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:49.763000	0:50:50.048000
 .	-	-	-	0:50:49.763000	0:50:50.048000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:50.048000" end="0:50:52.033000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:50.048000" end="0:50:52.033000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Oma	-	-	-	0:50:50.048000	0:50:51.693000
 und	-	-	-	0:50:50.048000	0:50:51.693000
 Opa	-	-	-	0:50:50.048000	0:50:51.693000
@@ -13463,11 +13463,11 @@ schon	-	-	-	0:50:50.048000	0:50:51.693000
 weil	-	-	-	0:50:51.693000	0:50:52.033000
 der	-	-	-	0:50:51.693000	0:50:52.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:51.693000" end="0:50:52.033000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:51.693000" end="0:50:52.033000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:51.693000	0:50:52.033000
 .	-	-	-	0:50:51.693000	0:50:52.033000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:52.033000" end="0:50:54.113000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:52.033000" end="0:50:54.113000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Papa	-	-	-	0:50:52.033000	0:50:54.113000
 auch	-	-	-	0:50:52.033000	0:50:54.113000
 mit	-	-	-	0:50:52.033000	0:50:54.113000
@@ -13476,22 +13476,22 @@ Walserisch	-	-	-	0:50:52.033000	0:50:54.113000
 redet	-	-	-	0:50:52.033000	0:50:54.113000
 ,	-	-	-	0:50:52.033000	0:50:54.113000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:54.113000" end="0:50:54.479000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:54.113000" end="0:50:54.479000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:54.113000	0:50:54.479000
 .	-	-	-	0:50:54.113000	0:50:54.479000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:54.479000" end="0:50:56.866000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:54.479000" end="0:50:56.866000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aber	-	-	-	0:50:54.479000	0:50:55.582000
 <pause duration="0,6s"/>
 sie/	-	-	-	0:50:55.582000	0:50:56.866000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:55.582000" end="0:50:56.866000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:55.582000" end="0:50:56.866000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:50:55.582000	0:50:56.866000
 .	-	-	-	0:50:55.582000	0:50:56.866000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:50:56.866000" end="0:50:59.876000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:50:56.866000" end="0:50:59.876000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ihr	-	-	-	0:50:56.866000	0:50:58.063000
 war	-	-	-	0:50:56.866000	0:50:58.063000
 das	-	-	-	0:50:56.866000	0:50:58.063000
@@ -13507,7 +13507,7 @@ auch	-	-	-	0:50:58.063000	0:50:59.876000
 können	-	-	-	0:50:58.063000	0:50:59.876000
 .	-	-	-	0:50:58.063000	0:50:59.876000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:50:59.876000" end="0:51:01.220000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:50:59.876000" end="0:51:01.220000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:50:59.876000	0:51:01.220000
 ,	-	-	-	0:50:59.876000	0:51:01.220000
 ja	-	-	-	0:50:59.876000	0:51:01.220000
@@ -13517,7 +13517,7 @@ klar	-	-	-	0:50:59.876000	0:51:01.220000
 nein	-	-	-	0:50:59.876000	0:51:01.220000
 ,	-	-	-	0:50:59.876000	0:51:01.220000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:01.220000" end="0:51:02.450000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:01.220000" end="0:51:02.450000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:51:01.220000	0:51:02.450000
 finde	-	-	-	0:51:01.220000	0:51:02.450000
 es	-	-	-	0:51:01.220000	0:51:02.450000
@@ -13527,7 +13527,7 @@ cool	-	-	-	0:51:01.220000	0:51:02.450000
 also	-	-	-	0:51:01.220000	0:51:02.450000
 /.	-	-	-	0:51:01.220000	0:51:02.450000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:01.220000" end="0:51:03.307000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:01.220000" end="0:51:03.307000" persName="Informant EXP5" age_lower="" age_upper="999">
 verstehe	-	-	-	0:51:01.220000	0:51:02.450000
 .	-	-	-	0:51:01.220000	0:51:02.450000
 ja	-	-	-	0:51:02.450000	0:51:03.307000
@@ -13535,11 +13535,11 @@ ja	-	-	-	0:51:02.450000	0:51:03.307000
 schon	-	-	-	0:51:02.450000	0:51:03.307000
 ?	-	-	-	0:51:02.450000	0:51:03.307000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:03.307000" end="0:51:04.847000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:03.307000" end="0:51:04.847000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:03.307000	0:51:04.847000
 .	-	-	-	0:51:03.307000	0:51:04.847000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:03.307000" end="0:51:14.843000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:03.307000" end="0:51:14.843000" persName="Informant EXP5" age_lower="" age_upper="999">
 super	-	-	-	0:51:03.307000	0:51:04.847000
 .	-	-	-	0:51:03.307000	0:51:04.847000
 okay	-	-	-	0:51:04.847000	0:51:06.539000
@@ -13572,10 +13572,10 @@ ein	-	-	-	0:51:11.820000	0:51:14.333000
 ähm	-	-	-	0:51:14.333000	0:51:14.843000
 ,	-	-	-	0:51:14.333000	0:51:14.843000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:14.843000" end="0:51:16.236000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:14.843000" end="0:51:16.236000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:14.843000" end="0:51:24.402000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:14.843000" end="0:51:24.402000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 wenn	-	-	-	0:51:16.236000	0:51:17.838000
 wir	-	-	-	0:51:16.236000	0:51:17.838000
@@ -13609,7 +13609,7 @@ gekommen	-	-	-	0:51:20.445000	0:51:24.402000
 sind	-	-	-	0:51:20.445000	0:51:24.402000
 ?	-	-	-	0:51:20.445000	0:51:24.402000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:24.402000" end="0:51:29.489000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:24.402000" end="0:51:29.489000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:51:24.402000	0:51:25.972000
 ,	-	-	-	0:51:24.402000	0:51:25.972000
 sch/	-	-	-	0:51:24.402000	0:51:25.972000
@@ -13622,10 +13622,10 @@ nicht	-	-	-	0:51:25.972000	0:51:27.176000
 .	-	-	-	0:51:25.972000	0:51:27.176000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:27.176000" end="0:51:29.489000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:27.176000" end="0:51:29.489000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:29.489000" end="0:51:34.116000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:29.489000" end="0:51:34.116000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:29.489000	0:51:30.674000
 ,	-	-	-	0:51:29.489000	0:51:30.674000
 *is*	-	-	-	0:51:29.489000	0:51:30.674000
@@ -13643,11 +13643,11 @@ einen	-	-	-	0:51:30.674000	0:51:32.819000
 Mischmasch	-	-	-	0:51:30.674000	0:51:32.819000
 .	-	-	-	0:51:32.819000	0:51:34.116000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:32.819000" end="0:51:34.116000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:32.819000" end="0:51:34.116000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:32.819000	0:51:34.116000
 .	-	-	-	0:51:32.819000	0:51:34.116000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:34.116000" end="0:51:37.911000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:34.116000" end="0:51:37.911000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:51:34.116000	0:51:37.911000
 ,	-	-	-	0:51:34.116000	0:51:37.911000
 ja	-	-	-	0:51:34.116000	0:51:37.911000
@@ -13658,7 +13658,7 @@ so	-	-	-	0:51:34.116000	0:51:37.911000
 ja	-	-	-	0:51:34.116000	0:51:37.911000
 .	-	-	-	0:51:34.116000	0:51:37.911000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:34.116000" end="0:51:47.482000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:34.116000" end="0:51:47.482000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:51:34.116000	0:51:37.911000
 ,	-	-	-	0:51:34.116000	0:51:37.911000
 zwischen	-	-	-	0:51:34.116000	0:51:37.911000
@@ -13702,13 +13702,13 @@ gekommen	-	-	-	0:51:45.888000	0:51:47.482000
 sind	-	-	-	0:51:45.888000	0:51:47.482000
 ?	-	-	-	0:51:45.888000	0:51:47.482000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:47.482000" end="0:51:49.158000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:47.482000" end="0:51:49.158000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:47.482000" end="0:51:49.158000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:47.482000" end="0:51:49.158000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:49.158000" end="0:51:54.890000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:49.158000" end="0:51:54.890000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 als	-	-	-	0:51:49.158000	0:51:52.289000
 i/	-	-	-	0:51:49.158000	0:51:52.289000
 ,	-	-	-	0:51:49.158000	0:51:52.289000
@@ -13730,11 +13730,11 @@ Vorarlbergerisch	-	-	-	0:51:52.289000	0:51:54.890000
 geredet	-	-	-	0:51:52.289000	0:51:54.890000
 ,	-	-	-	0:51:52.289000	0:51:54.890000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:54.890000" end="0:51:55.385000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:54.890000" end="0:51:55.385000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:54.890000	0:51:55.385000
 .	-	-	-	0:51:54.890000	0:51:55.385000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:51:55.385000" end="0:52:00.458000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:51:55.385000" end="0:52:00.458000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:51:55.385000	0:51:57.100000
 habe	-	-	-	0:51:55.385000	0:51:57.100000
 eigentlich	-	-	-	0:51:55.385000	0:51:57.100000
@@ -13749,11 +13749,11 @@ geredet	-	-	-	0:51:59.854000	0:52:00.458000
 ,	-	-	-	0:51:59.854000	0:52:00.458000
 das	-	-	-	0:51:59.854000	0:52:00.458000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:51:59.854000" end="0:52:00.458000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:51:59.854000" end="0:52:00.458000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:59.854000	0:52:00.458000
 .	-	-	-	0:51:59.854000	0:52:00.458000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:00.458000" end="0:52:01.939000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:00.458000" end="0:52:01.939000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:52:00.458000	0:52:01.939000
 erst	-	-	-	0:52:00.458000	0:52:01.939000
 mit	-	-	-	0:52:00.458000	0:52:01.939000
@@ -13761,11 +13761,11 @@ später	-	-	-	0:52:00.458000	0:52:01.939000
 gekommen	-	-	-	0:52:00.458000	0:52:01.939000
 .	-	-	-	0:52:00.458000	0:52:01.939000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:01.939000" end="0:52:02.636000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:01.939000" end="0:52:02.636000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:52:01.939000	0:52:02.636000
 .	-	-	-	0:52:01.939000	0:52:02.636000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:02.636000" end="0:52:05.732000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:02.636000" end="0:52:05.732000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:52:02.636000	0:52:04.991000
 dann	-	-	-	0:52:02.636000	0:52:04.991000
 in	-	-	-	0:52:02.636000	0:52:04.991000
@@ -13777,7 +13777,7 @@ noch	-	-	-	0:52:04.991000	0:52:05.732000
 mehr	-	-	-	0:52:04.991000	0:52:05.732000
 /.	-	-	-	0:52:04.991000	0:52:05.732000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:04.991000" end="0:52:12.857000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:04.991000" end="0:52:12.857000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:04.991000	0:52:05.732000
 .	-	-	-	0:52:04.991000	0:52:05.732000
 <pause duration="1,5s"/>
@@ -13802,13 +13802,13 @@ gesprochen	-	-	-	0:52:10.306000	0:52:12.857000
 worden	-	-	-	0:52:10.306000	0:52:12.857000
 ?	-	-	-	0:52:10.306000	0:52:12.857000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:12.857000" end="0:52:14.263000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:12.857000" end="0:52:14.263000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:12.857000" end="0:52:14.263000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:12.857000" end="0:52:14.263000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:14.263000" end="0:52:21.493000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:14.263000" end="0:52:21.493000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:52:14.263000	0:52:16.560000
 ,	-	-	-	0:52:14.263000	0:52:16.560000
 das	-	-	-	0:52:14.263000	0:52:16.560000
@@ -13835,7 +13835,7 @@ normal	-	-	-	0:52:18.481000	0:52:21.493000
 mhm	-	-	-	0:52:18.481000	0:52:21.493000
 .	-	-	-	0:52:18.481000	0:52:21.493000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:18.481000" end="0:52:23.229000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:18.481000" end="0:52:23.229000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:18.481000	0:52:21.493000
 ,	-	-	-	0:52:18.481000	0:52:21.493000
 okay	-	-	-	0:52:18.481000	0:52:21.493000
@@ -13848,13 +13848,13 @@ in	-	-	-	0:52:21.493000	0:52:23.229000
 Raggal	-	-	-	0:52:21.493000	0:52:23.229000
 in	-	-	-	0:52:21.493000	0:52:23.229000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:23.229000" end="0:52:24.400000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:23.229000" end="0:52:24.400000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:23.229000	0:52:24.400000
 ,	-	-	-	0:52:23.229000	0:52:24.400000
 mhm	-	-	-	0:52:23.229000	0:52:24.400000
 .	-	-	-	0:52:23.229000	0:52:24.400000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:23.229000" end="0:52:33.757000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:23.229000" end="0:52:33.757000" persName="Informant EXP5" age_lower="" age_upper="999">
 der	-	-	-	0:52:23.229000	0:52:24.400000
 Schule	-	-	-	0:52:23.229000	0:52:24.400000
 ?	-	-	-	0:52:23.229000	0:52:24.400000
@@ -13891,13 +13891,13 @@ so	-	-	-	0:52:32.486000	0:52:33.757000
 eigentlich	-	-	-	0:52:32.486000	0:52:33.757000
 ?	-	-	-	0:52:32.486000	0:52:33.757000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:33.757000" end="0:52:35.656000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:33.757000" end="0:52:35.656000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:33.757000" end="0:52:35.656000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:33.757000" end="0:52:35.656000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:35.656000" end="0:52:40.722000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:35.656000" end="0:52:40.722000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:35.656000	0:52:36.367000
 ,	-	-	-	0:52:35.656000	0:52:36.367000
 also	-	-	-	0:52:36.367000	0:52:40.424000
@@ -13916,11 +13916,11 @@ was	-	-	-	0:52:36.367000	0:52:40.424000
 wir	-	-	-	0:52:36.367000	0:52:40.424000
 jetzt	-	-	-	0:52:40.424000	0:52:40.722000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:40.424000" end="0:52:40.722000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:40.424000" end="0:52:40.722000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:40.424000	0:52:40.722000
 .	-	-	-	0:52:40.424000	0:52:40.722000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:40.722000" end="0:52:42.728000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:40.722000" end="0:52:42.728000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (gehabt	-	-	-	0:52:40.722000	0:52:42.728000
 haben)	-	-	-	0:52:40.722000	0:52:42.728000
 und	-	-	-	0:52:40.722000	0:52:42.728000
@@ -13934,11 +13934,11 @@ gehabt	-	-	-	0:52:40.722000	0:52:42.728000
 und	-	-	-	0:52:40.722000	0:52:42.728000
 das	-	-	-	0:52:40.722000	0:52:42.728000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:42.728000" end="0:52:43.353000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:42.728000" end="0:52:43.353000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:42.728000	0:52:43.353000
 .	-	-	-	0:52:42.728000	0:52:43.353000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:43.353000" end="0:52:44.943000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:43.353000" end="0:52:44.943000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 hat	-	-	-	0:52:43.353000	0:52:44.023000
 gut	-	-	-	0:52:43.353000	0:52:44.023000
 gepasst	-	-	-	0:52:43.353000	0:52:44.023000
@@ -13948,11 +13948,11 @@ ja	-	-	-	0:52:44.023000	0:52:44.943000
 also	-	-	-	0:52:44.023000	0:52:44.943000
 ich	-	-	-	0:52:44.023000	0:52:44.943000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:44.023000" end="0:52:44.943000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:44.023000" end="0:52:44.943000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:52:44.023000	0:52:44.943000
 .	-	-	-	0:52:44.023000	0:52:44.943000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:44.943000" end="0:52:46.396000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:44.943000" end="0:52:46.396000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 habe	-	-	-	0:52:44.943000	0:52:46.396000
 es	-	-	-	0:52:44.943000	0:52:46.396000
 schon	-	-	-	0:52:44.943000	0:52:46.396000
@@ -13960,7 +13960,7 @@ angemessen	-	-	-	0:52:44.943000	0:52:46.396000
 gefunden	-	-	-	0:52:44.943000	0:52:46.396000
 .	-	-	-	0:52:44.943000	0:52:46.396000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:46.396000" end="0:52:52.939000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:46.396000" end="0:52:52.939000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:52:46.396000	0:52:47.420000
 ,	-	-	-	0:52:46.396000	0:52:47.420000
 okay	-	-	-	0:52:46.396000	0:52:47.420000
@@ -13985,7 +13985,7 @@ Schulen	-	-	-	0:52:50.939000	0:52:52.939000
 gemacht	-	-	-	0:52:50.939000	0:52:52.939000
 ?	-	-	-	0:52:50.939000	0:52:52.939000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:52.939000" end="0:52:56.878000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:52.939000" end="0:52:56.878000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 die	-	-	-	0:52:52.939000	0:52:54.751000
 Hauptschule	-	-	-	0:52:52.939000	0:52:54.751000
@@ -13999,16 +13999,16 @@ und	-	-	-	0:52:54.751000	0:52:56.878000
 die	-	-	-	0:52:54.751000	0:52:56.878000
 HLW	-	-	-	0:52:54.751000	0:52:56.878000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:54.751000" end="0:52:56.878000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:54.751000" end="0:52:56.878000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:54.751000	0:52:56.878000
 .	-	-	-	0:52:54.751000	0:52:56.878000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:56.878000" end="0:52:57.183000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:56.878000" end="0:52:57.183000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (und	-	-	-	0:52:56.878000	0:52:57.183000
 sonst)	-	-	-	0:52:56.878000	0:52:57.183000
 /.	-	-	-	0:52:56.878000	0:52:57.183000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:56.878000" end="0:52:59.183000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:56.878000" end="0:52:59.183000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:52:56.878000	0:52:57.183000
 die	-	-	-	0:52:56.878000	0:52:57.183000
 Hauptschule	-	-	-	0:52:57.183000	0:52:59.183000
@@ -14019,7 +14019,7 @@ Raggal	-	-	-	0:52:57.183000	0:52:59.183000
 oder	-	-	-	0:52:57.183000	0:52:59.183000
 /?	-	-	-	0:52:57.183000	0:52:59.183000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:52:59.183000" end="0:53:01.183000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:52:59.183000" end="0:53:01.183000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:52:59.183000	0:53:01.183000
 ,	-	-	-	0:52:59.183000	0:53:01.183000
 die	-	-	-	0:52:59.183000	0:53:01.183000
@@ -14030,7 +14030,7 @@ ORT	ORT	-	-	0:52:59.183000	0:53:01.183000
 ORT	ORT	-	-	0:52:59.183000	0:53:01.183000
 .	-	-	-	0:52:59.183000	0:53:01.183000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:52:59.183000" end="0:53:06.705000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:52:59.183000" end="0:53:06.705000" persName="Informant EXP5" age_lower="" age_upper="999">
 nein	-	-	-	0:52:59.183000	0:53:01.183000
 ,	-	-	-	0:52:59.183000	0:53:01.183000
 ORT	ORT	-	-	0:52:59.183000	0:53:01.183000
@@ -14058,7 +14058,7 @@ so	-	-	-	0:53:01.183000	0:53:06.705000
 oder	-	-	-	0:53:01.183000	0:53:06.705000
 /?	-	-	-	0:53:01.183000	0:53:06.705000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:06.705000" end="0:53:09.100000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:06.705000" end="0:53:09.100000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:53:06.705000	0:53:09.100000
 ,	-	-	-	0:53:06.705000	0:53:09.100000
 die	-	-	-	0:53:06.705000	0:53:09.100000
@@ -14073,19 +14073,19 @@ Dialekt	-	-	-	0:53:06.705000	0:53:09.100000
 geredet	-	-	-	0:53:06.705000	0:53:09.100000
 .	-	-	-	0:53:06.705000	0:53:09.100000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:09.100000" end="0:53:09.987000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:09.100000" end="0:53:09.987000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:09.100000	0:53:09.987000
 ,	-	-	-	0:53:09.100000	0:53:09.987000
 mhm	-	-	-	0:53:09.100000	0:53:09.987000
 .	-	-	-	0:53:09.100000	0:53:09.987000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:09.987000" end="0:53:11.199000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:09.987000" end="0:53:11.199000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:53:09.987000	0:53:11.199000
 ,	-	-	-	0:53:09.987000	0:53:11.199000
 also	-	-	-	0:53:09.987000	0:53:11.199000
 .	-	-	-	0:53:09.987000	0:53:11.199000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:09.987000" end="0:53:13.725000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:09.987000" end="0:53:13.725000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:53:09.987000	0:53:11.199000
 dann	-	-	-	0:53:09.987000	0:53:11.199000
 die	-	-	-	0:53:09.987000	0:53:11.199000
@@ -14099,11 +14099,11 @@ Lehranstalt	-	-	-	0:53:11.199000	0:53:13.725000
 ähm	-	-	-	0:53:11.199000	0:53:13.725000
 ,	-	-	-	0:53:11.199000	0:53:13.725000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:13.725000" end="0:53:14.260000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:13.725000" end="0:53:14.260000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:53:13.725000	0:53:14.260000
 .	-	-	-	0:53:13.725000	0:53:14.260000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:13.725000" end="0:53:14.851000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:13.725000" end="0:53:14.851000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	0:53:13.725000	0:53:14.260000
 war	-	-	-	0:53:13.725000	0:53:14.260000
 das	-	-	-	0:53:13.725000	0:53:14.260000
@@ -14111,13 +14111,13 @@ das	-	-	-	0:53:13.725000	0:53:14.260000
 auch	-	-	-	0:53:14.260000	0:53:14.851000
 .	-	-	-	0:53:14.260000	0:53:14.851000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:14.851000" end="0:53:16.888000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:14.851000" end="0:53:16.888000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:53:14.851000	0:53:15.707000
 im	-	-	-	0:53:14.851000	0:53:15.707000
 Dialekt	-	-	-	0:53:14.851000	0:53:15.707000
 ,	-	-	-	0:53:14.851000	0:53:15.707000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:15.707000" end="0:53:17.822000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:15.707000" end="0:53:17.822000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:53:15.707000	0:53:16.888000
 ,	-	-	-	0:53:15.707000	0:53:16.888000
 und	-	-	-	0:53:15.707000	0:53:16.888000
@@ -14131,7 +14131,7 @@ haben	-	-	-	0:53:16.888000	0:53:17.822000
 Sie	-	-	-	0:53:16.888000	0:53:17.822000
 /?	-	-	-	0:53:16.888000	0:53:17.822000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:17.822000" end="0:53:19.290000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:17.822000" end="0:53:19.290000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:53:17.822000	0:53:19.290000
 ORT	ORT	-	-	0:53:17.822000	0:53:19.290000
 auch	-	-	-	0:53:17.822000	0:53:19.290000
@@ -14139,7 +14139,7 @@ auch	-	-	-	0:53:17.822000	0:53:19.290000
 mhm	-	-	-	0:53:17.822000	0:53:19.290000
 .	-	-	-	0:53:17.822000	0:53:19.290000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:17.822000" end="0:53:21.299000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:17.822000" end="0:53:21.299000" persName="Informant EXP5" age_lower="" age_upper="999">
 i/	-	-	-	0:53:17.822000	0:53:19.290000
 i/	-	-	-	0:53:17.822000	0:53:19.290000
 ORT	ORT	-	-	0:53:17.822000	0:53:19.290000
@@ -14156,18 +14156,18 @@ war	-	-	-	0:53:20.150000	0:53:21.299000
 auch	-	-	-	0:53:20.150000	0:53:21.299000
 Dialekt	-	-	-	0:53:20.150000	0:53:21.299000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:21.299000" end="0:53:22.489000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:21.299000" end="0:53:22.489000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:53:21.299000	0:53:22.489000
 ,	-	-	-	0:53:21.299000	0:53:22.489000
 also	-	-	-	0:53:21.299000	0:53:22.489000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:21.299000" end="0:53:22.489000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:21.299000" end="0:53:22.489000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:53:21.299000	0:53:22.489000
 ,	-	-	-	0:53:21.299000	0:53:22.489000
 mhm	-	-	-	0:53:21.299000	0:53:22.489000
 .	-	-	-	0:53:21.299000	0:53:22.489000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:22.489000" end="0:53:24.448000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:22.489000" end="0:53:24.448000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:53:22.489000	0:53:23.808000
 Lehrer	-	-	-	0:53:22.489000	0:53:23.808000
 haben	-	-	-	0:53:22.489000	0:53:23.808000
@@ -14175,18 +14175,18 @@ eigentlich	-	-	-	0:53:22.489000	0:53:23.808000
 alle	-	-	-	0:53:22.489000	0:53:23.808000
 Großteils	-	-	-	0:53:23.808000	0:53:24.448000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:23.808000" end="0:53:24.448000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:23.808000" end="0:53:24.448000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:23.808000	0:53:24.448000
 .	-	-	-	0:53:23.808000	0:53:24.448000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:24.448000" end="0:53:25.648000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:24.448000" end="0:53:25.648000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:53:24.448000	0:53:25.648000
 mit	-	-	-	0:53:24.448000	0:53:25.648000
 uns	-	-	-	0:53:24.448000	0:53:25.648000
 gesprochen	-	-	-	0:53:24.448000	0:53:25.648000
 .	-	-	-	0:53:24.448000	0:53:25.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:25.648000" end="0:53:40.422000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:25.648000" end="0:53:40.422000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:53:25.648000	0:53:26.756000
 ,	-	-	-	0:53:25.648000	0:53:26.756000
 mhm	-	-	-	0:53:25.648000	0:53:26.756000
@@ -14243,15 +14243,15 @@ oder	-	-	-	0:53:35.230000	0:53:40.422000
 oder	-	-	-	0:53:35.230000	0:53:40.422000
 schon	-	-	-	0:53:35.230000	0:53:40.422000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:40.422000" end="0:53:41.185000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:40.422000" end="0:53:41.185000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:53:40.422000	0:53:41.185000
 ,	-	-	-	0:53:40.422000	0:53:41.185000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:40.422000" end="0:53:41.185000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:40.422000" end="0:53:41.185000" persName="Informant EXP5" age_lower="" age_upper="999">
 auch	-	-	-	0:53:40.422000	0:53:41.185000
 ?	-	-	-	0:53:40.422000	0:53:41.185000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:41.185000" end="0:53:50.112000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:41.185000" end="0:53:50.112000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 doch	-	-	-	0:53:41.185000	0:53:43.338000
 halt	-	-	-	0:53:41.185000	0:53:43.338000
 dadurch	-	-	-	0:53:41.185000	0:53:43.338000
@@ -14280,11 +14280,11 @@ Land	-	-	-	0:53:45.914000	0:53:50.112000
 (hinaus)	-	-	-	0:53:45.914000	0:53:50.112000
 ,	-	-	-	0:53:45.914000	0:53:50.112000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:50.112000" end="0:53:50.597000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:50.112000" end="0:53:50.597000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:50.112000	0:53:50.597000
 .	-	-	-	0:53:50.112000	0:53:50.597000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:50.597000" end="0:53:53.273000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:50.597000" end="0:53:53.273000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 haben	-	-	-	0:53:50.597000	0:53:52.241000
 wir	-	-	-	0:53:50.597000	0:53:52.241000
 uns	-	-	-	0:53:50.597000	0:53:52.241000
@@ -14295,12 +14295,12 @@ also	-	-	-	0:53:52.241000	0:53:53.273000
 es	-	-	-	0:53:52.241000	0:53:53.273000
 ,	-	-	-	0:53:52.241000	0:53:53.273000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:52.241000" end="0:53:53.273000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:52.241000" end="0:53:53.273000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:53:52.241000	0:53:53.273000
 ja	-	-	-	0:53:52.241000	0:53:53.273000
 .	-	-	-	0:53:52.241000	0:53:53.273000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:53.273000" end="0:53:56.833000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:53.273000" end="0:53:56.833000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wie	-	-	-	0:53:53.273000	0:53:56.833000
 gesagt	-	-	-	0:53:53.273000	0:53:56.833000
@@ -14319,11 +14319,11 @@ da	-	-	-	0:53:53.273000	0:53:56.833000
 (drinnen)	-	-	-	0:53:53.273000	0:53:56.833000
 .	-	-	-	0:53:53.273000	0:53:56.833000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:56.833000" end="0:53:57.336000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:56.833000" end="0:53:57.336000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:56.833000	0:53:57.336000
 .	-	-	-	0:53:56.833000	0:53:57.336000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:57.336000" end="0:53:59.292000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:57.336000" end="0:53:59.292000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:53:57.336000	0:53:58.833000
 das	-	-	-	0:53:57.336000	0:53:58.833000
 ist	-	-	-	0:53:57.336000	0:53:58.833000
@@ -14335,11 +14335,11 @@ da	-	-	-	0:53:58.833000	0:53:59.292000
 ha/	-	-	-	0:53:58.833000	0:53:59.292000
 ,	-	-	-	0:53:58.833000	0:53:59.292000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:53:58.833000" end="0:53:59.292000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:53:58.833000" end="0:53:59.292000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:58.833000	0:53:59.292000
 .	-	-	-	0:53:58.833000	0:53:59.292000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:53:59.292000" end="0:54:01.304000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:53:59.292000" end="0:54:01.304000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:53:59.292000	0:54:00.446000
 hat	-	-	-	0:53:59.292000	0:54:00.446000
 sich	-	-	-	0:53:59.292000	0:54:00.446000
@@ -14353,11 +14353,11 @@ sich	-	-	-	0:54:00.446000	0:54:01.304000
 an	-	-	-	0:54:00.446000	0:54:01.304000
 .	-	-	-	0:54:00.446000	0:54:01.304000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:01.304000" end="0:54:01.781000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:01.304000" end="0:54:01.781000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:01.304000	0:54:01.781000
 .	-	-	-	0:54:01.304000	0:54:01.781000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:01.781000" end="0:54:07.292000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:01.781000" end="0:54:07.292000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:54:01.781000	0:54:03.999000
 dadurch	-	-	-	0:54:01.781000	0:54:03.999000
 ,	-	-	-	0:54:01.781000	0:54:03.999000
@@ -14379,19 +14379,19 @@ dich	-	-	-	0:54:03.999000	0:54:07.292000
 anpassen	-	-	-	0:54:03.999000	0:54:07.292000
 ,	-	-	-	0:54:03.999000	0:54:07.292000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:03.999000" end="0:54:07.292000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:03.999000" end="0:54:07.292000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:03.999000	0:54:07.292000
 .	-	-	-	0:54:03.999000	0:54:07.292000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:07.292000" end="0:54:07.942000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:07.292000" end="0:54:07.942000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:54:07.292000	0:54:07.942000
 und	-	-	-	0:54:07.292000	0:54:07.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:07.942000" end="0:54:08.510000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:07.942000" end="0:54:08.510000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:07.942000	0:54:08.510000
 .	-	-	-	0:54:07.942000	0:54:08.510000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:08.510000" end="0:54:10.871000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:08.510000" end="0:54:10.871000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (und	-	-	-	0:54:08.510000	0:54:10.871000
 man)	-	-	-	0:54:08.510000	0:54:10.871000
 (versteht	-	-	-	0:54:08.510000	0:54:10.871000
@@ -14399,7 +14399,7 @@ dich)	-	-	-	0:54:08.510000	0:54:10.871000
 (nicht)	-	-	-	0:54:08.510000	0:54:10.871000
 .	-	-	-	0:54:08.510000	0:54:10.871000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:08.510000" end="0:54:13.148000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:08.510000" end="0:54:13.148000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	0:54:08.510000	0:54:10.871000
 das	-	-	-	0:54:08.510000	0:54:10.871000
 war	-	-	-	0:54:08.510000	0:54:10.871000
@@ -14418,7 +14418,7 @@ schon	-	-	-	0:54:10.871000	0:54:13.148000
 irgendwie	-	-	-	0:54:10.871000	0:54:13.148000
 ?	-	-	-	0:54:10.871000	0:54:13.148000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:13.148000" end="0:54:16.416000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:13.148000" end="0:54:16.416000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 bisschen	-	-	-	0:54:13.148000	0:54:14.087000
 .	-	-	-	0:54:13.148000	0:54:14.087000
@@ -14431,7 +14431,7 @@ ja	-	-	-	0:54:14.087000	0:54:16.416000
 mhm	-	-	-	0:54:14.087000	0:54:16.416000
 .	-	-	-	0:54:14.087000	0:54:16.416000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:14.087000" end="0:54:25.848000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:14.087000" end="0:54:25.848000" persName="Informant EXP5" age_lower="" age_upper="999">
 beides	-	-	-	0:54:14.087000	0:54:16.416000
 ,	-	-	-	0:54:14.087000	0:54:16.416000
 okay	-	-	-	0:54:14.087000	0:54:16.416000
@@ -14472,7 +14472,7 @@ die	-	-	-	0:54:23.349000	0:54:25.848000
 Präsentationen	-	-	-	0:54:23.349000	0:54:25.848000
 und	-	-	-	0:54:23.349000	0:54:25.848000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:25.848000" end="0:54:29.828000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:25.848000" end="0:54:29.828000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:25.848000	0:54:29.828000
 ,	-	-	-	0:54:25.848000	0:54:29.828000
 ja	-	-	-	0:54:25.848000	0:54:29.828000
@@ -14489,7 +14489,7 @@ auf	-	-	-	0:54:25.848000	0:54:29.828000
 Hochdeutsch	-	-	-	0:54:25.848000	0:54:29.828000
 ,	-	-	-	0:54:25.848000	0:54:29.828000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:25.848000" end="0:54:29.828000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:25.848000" end="0:54:29.828000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	0:54:25.848000	0:54:29.828000
 diese	-	-	-	0:54:25.848000	0:54:29.828000
 Dinge	-	-	-	0:54:25.848000	0:54:29.828000
@@ -14503,14 +14503,14 @@ w/	-	-	-	0:54:25.848000	0:54:29.828000
 mhm	-	-	-	0:54:25.848000	0:54:29.828000
 .	-	-	-	0:54:25.848000	0:54:29.828000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:29.828000" end="0:54:30.943000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:29.828000" end="0:54:30.943000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:54:29.828000	0:54:30.943000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:29.828000" end="0:54:30.943000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:29.828000" end="0:54:30.943000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:54:29.828000	0:54:30.943000
 .	-	-	-	0:54:29.828000	0:54:30.943000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:30.943000" end="0:54:37.072000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:30.943000" end="0:54:37.072000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 d/	-	-	-	0:54:30.943000	0:54:36.296000
 die	-	-	-	0:54:30.943000	0:54:36.296000
@@ -14531,11 +14531,11 @@ halt	-	-	-	0:54:30.943000	0:54:36.296000
 die	-	-	-	0:54:36.296000	0:54:37.072000
 verstehen	-	-	-	0:54:36.296000	0:54:37.072000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:36.296000" end="0:54:37.072000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:36.296000" end="0:54:37.072000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:36.296000	0:54:37.072000
 .	-	-	-	0:54:36.296000	0:54:37.072000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:37.072000" end="0:54:40.437000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:37.072000" end="0:54:40.437000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 natürlich	-	-	-	0:54:37.072000	0:54:39.432000
 den	-	-	-	0:54:37.072000	0:54:39.432000
 Walser	-	-	-	0:54:37.072000	0:54:39.432000
@@ -14548,11 +14548,11 @@ die	-	-	-	0:54:39.432000	0:54:40.437000
 Studienkollegen	-	-	-	0:54:39.432000	0:54:40.437000
 .	-	-	-	0:54:39.432000	0:54:40.437000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:40.437000" end="0:54:40.770000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:40.437000" end="0:54:40.770000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:40.437000	0:54:40.770000
 .	-	-	-	0:54:40.437000	0:54:40.770000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:40.770000" end="0:54:42.770000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:40.770000" end="0:54:42.770000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:54:40.770000	0:54:42.770000
 passt	-	-	-	0:54:40.770000	0:54:42.770000
 du	-	-	-	0:54:40.770000	0:54:42.770000
@@ -14565,11 +14565,11 @@ mehr	-	-	-	0:54:40.770000	0:54:42.770000
 an	-	-	-	0:54:40.770000	0:54:42.770000
 .	-	-	-	0:54:40.770000	0:54:42.770000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:42.770000" end="0:54:43.268000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:42.770000" end="0:54:43.268000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:42.770000	0:54:43.268000
 .	-	-	-	0:54:42.770000	0:54:43.268000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:43.268000" end="0:54:51.586000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:43.268000" end="0:54:51.586000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:54:43.268000	0:54:46.966000
 fällst	-	-	-	0:54:43.268000	0:54:46.966000
 eher	-	-	-	0:54:43.268000	0:54:46.966000
@@ -14595,21 +14595,21 @@ Dialektwörter	-	-	-	0:54:46.966000	0:54:51.586000
 drin)	-	-	-	0:54:46.966000	0:54:51.586000
 ,	-	-	-	0:54:46.966000	0:54:51.586000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:51.586000" end="0:54:51.862000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:51.586000" end="0:54:51.862000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:51.586000	0:54:51.862000
 .	-	-	-	0:54:51.586000	0:54:51.862000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:51.862000" end="0:54:53.093000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:51.862000" end="0:54:53.093000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 innerhalb	-	-	-	0:54:51.862000	0:54:53.093000
 von	-	-	-	0:54:51.862000	0:54:53.093000
 Vorarlberg	-	-	-	0:54:51.862000	0:54:53.093000
 .	-	-	-	0:54:51.862000	0:54:53.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:53.093000" end="0:54:53.403000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:53.093000" end="0:54:53.403000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:53.093000	0:54:53.403000
 .	-	-	-	0:54:53.093000	0:54:53.403000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:53.403000" end="0:54:55.266000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:53.403000" end="0:54:55.266000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:54:53.403000	0:54:54.502000
 da	-	-	-	0:54:53.403000	0:54:54.502000
 *machst*	-	-	-	0:54:53.403000	0:54:54.502000
@@ -14618,12 +14618,12 @@ dann	-	-	-	0:54:53.403000	0:54:54.502000
 <pause duration="0,4s"/>
 einen	-	-	-	0:54:54.502000	0:54:55.266000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:54.502000" end="0:54:55.266000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:54.502000" end="0:54:55.266000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,4s"/>
 ja	-	-	-	0:54:54.502000	0:54:55.266000
 .	-	-	-	0:54:54.502000	0:54:55.266000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:54:55.266000" end="0:54:59.686000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:54:55.266000" end="0:54:59.686000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Kuddelmuddel	-	-	-	0:54:55.266000	0:54:56.167000
 daraus	-	-	-	0:54:55.266000	0:54:56.167000
 ,	-	-	-	0:54:55.266000	0:54:56.167000
@@ -14636,7 +14636,7 @@ ja	-	-	-	0:54:57.776000	0:54:59.686000
 ,	-	-	-	0:54:57.776000	0:54:59.686000
 also	-	-	-	0:54:57.776000	0:54:59.686000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:54:57.776000" end="0:55:00.227000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:54:57.776000" end="0:55:00.227000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:54:57.776000	0:54:59.686000
 ,	-	-	-	0:54:57.776000	0:54:59.686000
 okay	-	-	-	0:54:57.776000	0:54:59.686000
@@ -14644,7 +14644,7 @@ okay	-	-	-	0:54:57.776000	0:54:59.686000
 mhm	-	-	-	0:54:59.686000	0:55:00.227000
 .	-	-	-	0:54:59.686000	0:55:00.227000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:00.227000" end="0:55:02.227000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:00.227000" end="0:55:02.227000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:55:00.227000	0:55:02.227000
 sie	-	-	-	0:55:00.227000	0:55:02.227000
 dich	-	-	-	0:55:00.227000	0:55:02.227000
@@ -14653,7 +14653,7 @@ weniger	-	-	-	0:55:00.227000	0:55:02.227000
 verstehen	-	-	-	0:55:00.227000	0:55:02.227000
 .	-	-	-	0:55:00.227000	0:55:02.227000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:02.227000" end="0:55:16.233000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:02.227000" end="0:55:16.233000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:55:02.227000	0:55:03.760000
 ,	-	-	-	0:55:02.227000	0:55:03.760000
 ja	-	-	-	0:55:02.227000	0:55:03.760000
@@ -14702,17 +14702,17 @@ Sprachverhalten	-	-	-	0:55:11.380000	0:55:16.233000
 geändert	-	-	-	0:55:11.380000	0:55:16.233000
 ?	-	-	-	0:55:11.380000	0:55:16.233000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:16.233000" end="0:55:17.206000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:16.233000" end="0:55:17.206000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:55:16.233000	0:55:16.669000
 ,	-	-	-	0:55:16.233000	0:55:16.669000
 mhm	-	-	-	0:55:16.669000	0:55:17.206000
 .	-	-	-	0:55:16.669000	0:55:17.206000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:16.669000" end="0:55:17.206000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:16.669000" end="0:55:17.206000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:55:16.669000	0:55:17.206000
 ?	-	-	-	0:55:16.669000	0:55:17.206000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:17.206000" end="0:55:24.278000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:17.206000" end="0:55:24.278000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:55:17.206000	0:55:19.150000
 ,	-	-	-	0:55:17.206000	0:55:19.150000
 da	-	-	-	0:55:17.206000	0:55:19.150000
@@ -14738,24 +14738,24 @@ dich	-	-	-	0:55:20.359000	0:55:22.507000
 nicht	-	-	-	0:55:20.359000	0:55:22.507000
 ."	-	-	-	0:55:20.359000	0:55:22.507000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:22.507000" end="0:55:24.278000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:22.507000" end="0:55:24.278000" persName="Informant EXP5" age_lower="" age_upper="999">
 oh	-	-	-	0:55:22.507000	0:55:24.278000
 ,	-	-	-	0:55:22.507000	0:55:24.278000
 okay	-	-	-	0:55:22.507000	0:55:24.278000
 .	-	-	-	0:55:22.507000	0:55:24.278000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:24.278000" end="0:55:25.663000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:24.278000" end="0:55:25.663000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:55:24.278000	0:55:25.663000
 i/	-	-	-	0:55:24.278000	0:55:25.663000
 ,	-	-	-	0:55:24.278000	0:55:25.663000
 ja	-	-	-	0:55:24.278000	0:55:25.663000
 .	-	-	-	0:55:24.278000	0:55:25.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:25.663000" end="0:55:26.214000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:25.663000" end="0:55:26.214000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:25.663000	0:55:26.214000
 .	-	-	-	0:55:25.663000	0:55:26.214000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:26.214000" end="0:55:33.032000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:26.214000" end="0:55:33.032000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 i/	-	-	-	0:55:26.214000	0:55:28.026000
 ,	-	-	-	0:55:26.214000	0:55:28.026000
 wie	-	-	-	0:55:26.214000	0:55:28.026000
@@ -14785,11 +14785,11 @@ ich	-	-	-	0:55:32.018000	0:55:33.032000
 komme	-	-	-	0:55:32.018000	0:55:33.032000
 .	-	-	-	0:55:32.018000	0:55:33.032000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:33.032000" end="0:55:33.682000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:33.032000" end="0:55:33.682000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:55:33.032000	0:55:33.682000
 .	-	-	-	0:55:33.032000	0:55:33.682000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:33.682000" end="0:55:37.368000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:33.682000" end="0:55:37.368000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:55:33.682000	0:55:36.339000
 ich	-	-	-	0:55:33.682000	0:55:36.339000
 habe	-	-	-	0:55:33.682000	0:55:36.339000
@@ -14801,13 +14801,13 @@ angepasst	-	-	-	0:55:33.682000	0:55:36.339000
 halt)	-	-	-	0:55:36.339000	0:55:37.368000
 ,	-	-	-	0:55:36.339000	0:55:37.368000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:36.339000" end="0:55:37.847000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:36.339000" end="0:55:37.847000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:36.339000	0:55:37.368000
 .	-	-	-	0:55:36.339000	0:55:37.368000
 mhm	-	-	-	0:55:37.368000	0:55:37.847000
 .	-	-	-	0:55:37.368000	0:55:37.847000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:37.847000" end="0:55:39.312000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:37.847000" end="0:55:39.312000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:55:37.847000	0:55:39.312000
 es	-	-	-	0:55:37.847000	0:55:39.312000
 doch	-	-	-	0:55:37.847000	0:55:39.312000
@@ -14815,7 +14815,7 @@ wichtig	-	-	-	0:55:37.847000	0:55:39.312000
 ist	-	-	-	0:55:37.847000	0:55:39.312000
 .	-	-	-	0:55:37.847000	0:55:39.312000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:39.312000" end="0:55:53.335000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:39.312000" end="0:55:53.335000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:55:39.312000	0:55:41.312000
 ,	-	-	-	0:55:39.312000	0:55:41.312000
 ja	-	-	-	0:55:39.312000	0:55:41.312000
@@ -14855,23 +14855,23 @@ als	-	-	-	0:55:48.518000	0:55:53.335000
 privat	-	-	-	0:55:48.518000	0:55:53.335000
 ?	-	-	-	0:55:48.518000	0:55:53.335000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:53.335000" end="0:55:54.202000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:53.335000" end="0:55:54.202000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:55:53.335000	0:55:54.202000
 .	-	-	-	0:55:53.335000	0:55:54.202000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:53.335000" end="0:55:54.566000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:53.335000" end="0:55:54.566000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	0:55:53.335000	0:55:54.202000
 ?	-	-	-	0:55:53.335000	0:55:54.202000
 ja	-	-	-	0:55:54.202000	0:55:54.566000
 .	-	-	-	0:55:54.202000	0:55:54.566000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:55:54.566000" end="0:55:55.700000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:55:54.566000" end="0:55:55.700000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:55:54.566000	0:55:55.700000
 ,	-	-	-	0:55:54.566000	0:55:55.700000
 schon	-	-	-	0:55:54.566000	0:55:55.700000
 .	-	-	-	0:55:54.566000	0:55:55.700000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:55:55.700000" end="0:56:02.147000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:55:55.700000" end="0:56:02.147000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:55:55.700000	0:55:56.527000
 ,	-	-	-	0:55:55.700000	0:55:56.527000
 ja	-	-	-	0:55:55.700000	0:55:56.527000
@@ -14892,7 +14892,7 @@ oder	-	-	-	0:55:58.940000	0:56:01.613000
 ähm	-	-	-	0:56:01.613000	0:56:02.147000
 .	-	-	-	0:56:01.613000	0:56:02.147000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:02.147000" end="0:56:04.416000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:02.147000" end="0:56:04.416000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:56:02.147000	0:56:03.697000
 ,	-	-	-	0:56:02.147000	0:56:03.697000
 noch	-	-	-	0:56:02.147000	0:56:03.697000
@@ -14905,13 +14905,13 @@ ich	-	-	-	0:56:03.697000	0:56:04.416000
 mich	-	-	-	0:56:03.697000	0:56:04.416000
 dann	-	-	-	0:56:03.697000	0:56:04.416000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:03.697000" end="0:56:04.416000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:03.697000" end="0:56:04.416000" persName="Informant EXP5" age_lower="" age_upper="999">
 d/	-	-	-	0:56:03.697000	0:56:04.416000
 d/	-	-	-	0:56:03.697000	0:56:04.416000
 das	-	-	-	0:56:03.697000	0:56:04.416000
 /.	-	-	-	0:56:03.697000	0:56:04.416000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:04.416000" end="0:56:05.474000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:04.416000" end="0:56:05.474000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:56:04.416000	0:56:04.983000
 noch	-	-	-	0:56:04.416000	0:56:04.983000
 durch	-	-	-	0:56:04.416000	0:56:04.983000
@@ -14920,11 +14920,11 @@ also	-	-	-	0:56:04.983000	0:56:05.474000
 es/	-	-	-	0:56:04.983000	0:56:05.474000
 ,	-	-	-	0:56:04.983000	0:56:05.474000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:04.983000" end="0:56:05.474000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:04.983000" end="0:56:05.474000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:56:04.983000	0:56:05.474000
 ,	-	-	-	0:56:04.983000	0:56:05.474000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:05.474000" end="0:56:13.181000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:05.474000" end="0:56:13.181000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mittlerweile	-	-	-	0:56:05.474000	0:56:06.960000
 *is*	-	-	-	0:56:05.474000	0:56:06.960000
 auch	-	-	-	0:56:05.474000	0:56:06.960000
@@ -14952,11 +14952,11 @@ Wörter	-	-	-	0:56:10.061000	0:56:12.135000
 also	-	-	-	0:56:12.135000	0:56:13.181000
 da	-	-	-	0:56:12.135000	0:56:13.181000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:12.135000" end="0:56:13.181000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:12.135000" end="0:56:13.181000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:56:12.135000	0:56:13.181000
 .	-	-	-	0:56:12.135000	0:56:13.181000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:13.181000" end="0:56:15.828000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:13.181000" end="0:56:15.828000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schaue	-	-	-	0:56:13.181000	0:56:14.353000
 ich	-	-	-	0:56:13.181000	0:56:14.353000
 schon	-	-	-	0:56:13.181000	0:56:14.353000
@@ -14970,12 +14970,12 @@ doch)	-	-	-	0:56:14.353000	0:56:15.828000
 durchsetze	-	-	-	0:56:14.353000	0:56:15.828000
 ,	-	-	-	0:56:14.353000	0:56:15.828000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:14.353000" end="0:56:15.828000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:14.353000" end="0:56:15.828000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:56:14.353000	0:56:15.828000
 ja	-	-	-	0:56:14.353000	0:56:15.828000
 .	-	-	-	0:56:14.353000	0:56:15.828000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:15.828000" end="0:56:17.030000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:15.828000" end="0:56:17.030000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:56:15.828000	0:56:17.030000
 es	-	-	-	0:56:15.828000	0:56:17.030000
 nicht	-	-	-	0:56:15.828000	0:56:17.030000
@@ -14983,7 +14983,7 @@ sein	-	-	-	0:56:15.828000	0:56:17.030000
 muss	-	-	-	0:56:15.828000	0:56:17.030000
 .	-	-	-	0:56:15.828000	0:56:17.030000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:17.030000" end="0:56:22.984000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:17.030000" end="0:56:22.984000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 okay	-	-	-	0:56:17.030000	0:56:18.197000
 .	-	-	-	0:56:17.030000	0:56:18.197000
@@ -14999,7 +14999,7 @@ bisschen	-	-	-	0:56:18.197000	0:56:22.984000
 DIalekt	-	-	-	0:56:18.197000	0:56:22.984000
 ?	-	-	-	0:56:18.197000	0:56:22.984000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:22.984000" end="0:56:25.915000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:22.984000" end="0:56:25.915000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 u/	-	-	-	0:56:22.984000	0:56:25.915000
 also	-	-	-	0:56:22.984000	0:56:25.915000
 ja	-	-	-	0:56:22.984000	0:56:25.915000
@@ -15011,7 +15011,7 @@ also	-	-	-	0:56:22.984000	0:56:25.915000
 mhm	-	-	-	0:56:22.984000	0:56:25.915000
 .	-	-	-	0:56:22.984000	0:56:25.915000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:22.984000" end="0:56:28.943000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:22.984000" end="0:56:28.943000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:56:22.984000	0:56:25.915000
 ,	-	-	-	0:56:22.984000	0:56:25.915000
 ja	-	-	-	0:56:22.984000	0:56:25.915000
@@ -15040,7 +15040,7 @@ wo	-	-	-	0:56:28.344000	0:56:28.943000
 ,	-	-	-	0:56:28.344000	0:56:28.943000
 wo	-	-	-	0:56:28.344000	0:56:28.943000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:28.943000" end="0:56:30.613000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:28.943000" end="0:56:30.613000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:56:28.943000	0:56:30.613000
 ,	-	-	-	0:56:28.943000	0:56:30.613000
 wo	-	-	-	0:56:28.943000	0:56:30.613000
@@ -15048,19 +15048,19 @@ ich	-	-	-	0:56:28.943000	0:56:30.613000
 halt	-	-	-	0:56:28.943000	0:56:30.613000
 /.	-	-	-	0:56:28.943000	0:56:30.613000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:28.943000" end="0:56:30.613000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:28.943000" end="0:56:30.613000" persName="Informant EXP5" age_lower="" age_upper="999">
 sozusagen	-	-	-	0:56:28.943000	0:56:30.613000
 das	-	-	-	0:56:28.943000	0:56:30.613000
 ist	-	-	-	0:56:28.943000	0:56:30.613000
 ,	-	-	-	0:56:28.943000	0:56:30.613000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:30.613000" end="0:56:32.613000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:30.613000" end="0:56:32.613000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 teilweise	-	-	-	0:56:30.613000	0:56:32.613000
 ,	-	-	-	0:56:30.613000	0:56:32.613000
 ja	-	-	-	0:56:30.613000	0:56:32.613000
 .	-	-	-	0:56:30.613000	0:56:32.613000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:30.613000" end="0:56:32.613000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:30.613000" end="0:56:32.613000" persName="Informant EXP5" age_lower="" age_upper="999">
 wo	-	-	-	0:56:30.613000	0:56:32.613000
 man	-	-	-	0:56:30.613000	0:56:32.613000
 so/	-	-	-	0:56:30.613000	0:56:32.613000
@@ -15068,7 +15068,7 @@ so/	-	-	-	0:56:30.613000	0:56:32.613000
 okay	-	-	-	0:56:30.613000	0:56:32.613000
 .	-	-	-	0:56:30.613000	0:56:32.613000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:32.613000" end="0:56:35.861000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:32.613000" end="0:56:35.861000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 wo	-	-	-	0:56:32.613000	0:56:34.599000
 man	-	-	-	0:56:32.613000	0:56:34.599000
@@ -15083,22 +15083,22 @@ darauf	-	-	-	0:56:34.599000	0:56:35.861000
 schaut	-	-	-	0:56:34.599000	0:56:35.861000
 ,	-	-	-	0:56:34.599000	0:56:35.861000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:34.599000" end="0:56:35.861000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:34.599000" end="0:56:35.861000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:56:34.599000	0:56:35.861000
 .	-	-	-	0:56:34.599000	0:56:35.861000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:35.861000" end="0:56:38.041000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:35.861000" end="0:56:38.041000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ,	-	-	-	0:56:35.861000	0:56:36.647000
 also	-	-	-	0:56:35.861000	0:56:36.647000
 sonst	-	-	-	0:56:35.861000	0:56:36.647000
 <pause duration="1,0s"/>
 dann	-	-	-	0:56:36.647000	0:56:38.041000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:36.647000" end="0:56:38.041000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:36.647000" end="0:56:38.041000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:56:36.647000	0:56:38.041000
 .	-	-	-	0:56:36.647000	0:56:38.041000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:38.041000" end="0:56:40.549000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:38.041000" end="0:56:40.549000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schaue	-	-	-	0:56:38.041000	0:56:39.179000
 ich	-	-	-	0:56:38.041000	0:56:39.179000
 ,	-	-	-	0:56:38.041000	0:56:39.179000
@@ -15110,7 +15110,7 @@ normal	-	-	-	0:56:39.179000	0:56:40.549000
 halt	-	-	-	0:56:39.179000	0:56:40.549000
 .	-	-	-	0:56:39.179000	0:56:40.549000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:39.179000" end="0:56:46.250000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:39.179000" end="0:56:46.250000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:56:39.179000	0:56:40.549000
 .	-	-	-	0:56:39.179000	0:56:40.549000
 ja	-	-	-	0:56:40.549000	0:56:41.774000
@@ -15134,7 +15134,7 @@ mit	-	-	-	0:56:43.774000	0:56:46.250000
 mir	-	-	-	0:56:43.774000	0:56:46.250000
 ?	-	-	-	0:56:43.774000	0:56:46.250000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:56:46.250000" end="0:56:55.452000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:56:46.250000" end="0:56:55.452000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:56:46.250000	0:56:48.132000
 ich	-	-	-	0:56:46.250000	0:56:48.132000
@@ -15168,7 +15168,7 @@ das	-	-	-	0:56:53.841000	0:56:55.452000
 _Schaffa_	-	-	-	0:56:53.841000	0:56:55.452000
 .	-	-	-	0:56:53.841000	0:56:55.452000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:56:53.841000" end="0:57:00.199000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:56:53.841000" end="0:57:00.199000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:56:53.841000	0:56:55.452000
 ,	-	-	-	0:56:53.841000	0:56:55.452000
 ja	-	-	-	0:56:53.841000	0:56:55.452000
@@ -15192,7 +15192,7 @@ mit	-	-	-	0:56:58.199000	0:57:00.199000
 Ihnen	-	-	-	0:56:58.199000	0:57:00.199000
 ?	-	-	-	0:56:58.199000	0:57:00.199000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:00.199000" end="0:57:05.073000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:00.199000" end="0:57:05.073000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:57:00.199000	0:57:02.829000
 ,	-	-	-	0:57:00.199000	0:57:02.829000
@@ -15206,17 +15206,17 @@ ich	-	-	-	0:57:02.829000	0:57:05.073000
 gesagt	-	-	-	0:57:02.829000	0:57:05.073000
 .	-	-	-	0:57:02.829000	0:57:05.073000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:02.829000" end="0:57:05.073000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:02.829000" end="0:57:05.073000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	0:57:02.829000	0:57:05.073000
 ,	-	-	-	0:57:02.829000	0:57:05.073000
 ja	-	-	-	0:57:02.829000	0:57:05.073000
 .	-	-	-	0:57:02.829000	0:57:05.073000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:05.073000" end="0:57:08.857000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:05.073000" end="0:57:08.857000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:05.073000	0:57:08.857000
 .	-	-	-	0:57:05.073000	0:57:08.857000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:05.073000" end="0:57:08.857000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:05.073000" end="0:57:08.857000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:57:05.073000	0:57:08.857000
 ,	-	-	-	0:57:05.073000	0:57:08.857000
 ich	-	-	-	0:57:05.073000	0:57:08.857000
@@ -15228,11 +15228,11 @@ nicht	-	-	-	0:57:05.073000	0:57:08.857000
 ,	-	-	-	0:57:05.073000	0:57:08.857000
 also	-	-	-	0:57:05.073000	0:57:08.857000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:08.857000" end="0:57:11.101000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:08.857000" end="0:57:11.101000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:08.857000	0:57:11.101000
 .	-	-	-	0:57:08.857000	0:57:11.101000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:08.857000" end="0:57:18.866000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:08.857000" end="0:57:18.866000" persName="Informant EXP5" age_lower="" age_upper="999">
 bleibt	-	-	-	0:57:08.857000	0:57:11.101000
 mir	-	-	-	0:57:08.857000	0:57:11.101000
 nichts	-	-	-	0:57:08.857000	0:57:11.101000
@@ -15265,36 +15265,36 @@ her	-	-	-	0:57:14.694000	0:57:18.866000
 sozusagen	-	-	-	0:57:14.694000	0:57:18.866000
 ?	-	-	-	0:57:14.694000	0:57:18.866000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:18.866000" end="0:57:19.913000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:18.866000" end="0:57:19.913000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:57:18.866000	0:57:19.913000
 ,	-	-	-	0:57:18.866000	0:57:19.913000
 ORT	ORT	-	-	0:57:18.866000	0:57:19.913000
 ,	-	-	-	0:57:18.866000	0:57:19.913000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:18.866000" end="0:57:19.913000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:18.866000" end="0:57:19.913000" persName="Informant EXP5" age_lower="" age_upper="999">
 welche	-	-	-	0:57:18.866000	0:57:19.913000
 Gegend	-	-	-	0:57:18.866000	0:57:19.913000
 ?	-	-	-	0:57:18.866000	0:57:19.913000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:19.913000" end="0:57:21.613000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:19.913000" end="0:57:21.613000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:57:19.913000	0:57:21.613000
 Bezirk	-	-	-	0:57:19.913000	0:57:21.613000
 ORT	ORT	-	-	0:57:19.913000	0:57:21.613000
 .	-	-	-	0:57:19.913000	0:57:21.613000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:21.613000" end="0:57:22.474000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:21.613000" end="0:57:22.474000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	0:57:21.613000	0:57:22.474000
 ,	-	-	-	0:57:21.613000	0:57:22.474000
 okay	-	-	-	0:57:21.613000	0:57:22.474000
 .	-	-	-	0:57:21.613000	0:57:22.474000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:22.474000" end="0:57:23.769000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:22.474000" end="0:57:23.769000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:57:22.474000	0:57:23.769000
 ,	-	-	-	0:57:22.474000	0:57:23.769000
 mhm	-	-	-	0:57:22.474000	0:57:23.769000
 .	-	-	-	0:57:22.474000	0:57:23.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:22.474000" end="0:57:23.769000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:22.474000" end="0:57:23.769000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:57:22.474000	0:57:23.769000
 ,	-	-	-	0:57:22.474000	0:57:23.769000
 okay	-	-	-	0:57:22.474000	0:57:23.769000
@@ -15302,11 +15302,11 @@ okay	-	-	-	0:57:22.474000	0:57:23.769000
 gut	-	-	-	0:57:22.474000	0:57:23.769000
 ,	-	-	-	0:57:22.474000	0:57:23.769000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:23.769000" end="0:57:26.300000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:23.769000" end="0:57:26.300000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:23.769000	0:57:26.300000
 .	-	-	-	0:57:23.769000	0:57:26.300000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:23.769000" end="0:57:27.041000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:23.769000" end="0:57:27.041000" persName="Informant EXP5" age_lower="" age_upper="999">
 weil	-	-	-	0:57:23.769000	0:57:26.300000
 das	-	-	-	0:57:23.769000	0:57:26.300000
 ist	-	-	-	0:57:23.769000	0:57:26.300000
@@ -15324,11 +15324,11 @@ Sie	-	-	-	0:57:26.300000	0:57:27.041000
 ja	-	-	-	0:57:26.300000	0:57:27.041000
 /.	-	-	-	0:57:26.300000	0:57:27.041000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:27.041000" end="0:57:30.287000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:27.041000" end="0:57:30.287000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:27.041000	0:57:30.287000
 .	-	-	-	0:57:27.041000	0:57:30.287000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:27.041000" end="0:57:32.123000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:27.041000" end="0:57:32.123000" persName="Informant EXP5" age_lower="" age_upper="999">
 Sie	-	-	-	0:57:27.041000	0:57:30.287000
 sind	-	-	-	0:57:27.041000	0:57:30.287000
 ja	-	-	-	0:57:27.041000	0:57:30.287000
@@ -15345,7 +15345,7 @@ Besonderes	-	-	-	0:57:30.287000	0:57:32.123000
 ja	-	-	-	0:57:30.287000	0:57:32.123000
 .	-	-	-	0:57:30.287000	0:57:32.123000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:32.123000" end="0:57:33.576000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:32.123000" end="0:57:33.576000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:57:32.123000	0:57:33.576000
 ,	-	-	-	0:57:32.123000	0:57:33.576000
 ist	-	-	-	0:57:32.123000	0:57:33.576000
@@ -15353,7 +15353,7 @@ schon	-	-	-	0:57:32.123000	0:57:33.576000
 cool	-	-	-	0:57:32.123000	0:57:33.576000
 .	-	-	-	0:57:32.123000	0:57:33.576000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:32.123000" end="0:57:36.149000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:32.123000" end="0:57:36.149000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:57:32.123000	0:57:33.576000
 ,	-	-	-	0:57:32.123000	0:57:33.576000
 ja	-	-	-	0:57:32.123000	0:57:33.576000
@@ -15369,13 +15369,13 @@ nicht	-	-	-	0:57:33.576000	0:57:36.149000
 gehabt	-	-	-	0:57:33.576000	0:57:36.149000
 ,	-	-	-	0:57:33.576000	0:57:36.149000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:36.149000" end="0:57:37.826000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:36.149000" end="0:57:37.826000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:57:36.149000	0:57:37.826000
 ,	-	-	-	0:57:36.149000	0:57:37.826000
 cool	-	-	-	0:57:36.149000	0:57:37.826000
 .	-	-	-	0:57:36.149000	0:57:37.826000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:36.149000" end="0:57:57.798000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:36.149000" end="0:57:57.798000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:57:36.149000	0:57:37.826000
 /.	-	-	-	0:57:36.149000	0:57:37.826000
 <pause duration="1,2s"/>
@@ -15434,24 +15434,24 @@ Jetztzeit	-	-	-	0:57:54.603000	0:57:57.798000
 bezogen	-	-	-	0:57:54.603000	0:57:57.798000
 und	-	-	-	0:57:54.603000	0:57:57.798000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:57.798000" end="0:57:59.378000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:57.798000" end="0:57:59.378000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:57:57.798000	0:57:59.378000
 .	-	-	-	0:57:57.798000	0:57:59.378000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:57.798000" end="0:57:59.378000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:57.798000" end="0:57:59.378000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	0:57:57.798000	0:57:59.378000
 ,	-	-	-	0:57:57.798000	0:57:59.378000
 mal	-	-	-	0:57:57.798000	0:57:59.378000
 /.((0,6s))	-	-	-	0:57:57.798000	0:57:59.378000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:57:59.378000" end="0:58:00.456000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:57:59.378000" end="0:58:00.456000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:57:59.378000" end="0:58:00.456000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:57:59.378000" end="0:58:00.456000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:00.456000" end="0:58:05.135000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:00.456000" end="0:58:05.135000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:58:00.456000	0:58:04.111000
 ,	-	-	-	0:58:00.456000	0:58:04.111000
 dadurch	-	-	-	0:58:00.456000	0:58:04.111000
@@ -15468,11 +15468,11 @@ und	-	-	-	0:58:04.111000	0:58:05.135000
 schneller	-	-	-	0:58:04.111000	0:58:05.135000
 ,	-	-	-	0:58:04.111000	0:58:05.135000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:04.111000" end="0:58:05.135000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:04.111000" end="0:58:05.135000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:04.111000	0:58:05.135000
 .	-	-	-	0:58:04.111000	0:58:05.135000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:05.135000" end="0:58:07.736000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:05.135000" end="0:58:07.736000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:58:05.135000	0:58:05.858000
 ,	-	-	-	0:58:05.135000	0:58:05.858000
 auswandert	-	-	-	0:58:05.858000	0:58:07.736000
@@ -15481,11 +15481,11 @@ so	-	-	-	0:58:05.858000	0:58:07.736000
 halt	-	-	-	0:58:05.858000	0:58:07.736000
 ,	-	-	-	0:58:05.858000	0:58:07.736000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:07.736000" end="0:58:08.233000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:07.736000" end="0:58:08.233000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:07.736000	0:58:08.233000
 .	-	-	-	0:58:07.736000	0:58:08.233000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:08.233000" end="0:58:15.045000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:08.233000" end="0:58:15.045000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:58:08.233000	0:58:08.996000
 ,	-	-	-	0:58:08.233000	0:58:08.996000
 <pause duration="1,2s"/>
@@ -15514,11 +15514,11 @@ wie	-	-	-	0:58:13.753000	0:58:15.045000
 gesagt	-	-	-	0:58:13.753000	0:58:15.045000
 ,	-	-	-	0:58:13.753000	0:58:15.045000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:15.045000" end="0:58:15.689000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:15.045000" end="0:58:15.689000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:15.045000	0:58:15.689000
 .	-	-	-	0:58:15.045000	0:58:15.689000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:15.689000" end="0:58:19.885000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:15.689000" end="0:58:19.885000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:58:15.689000	0:58:18.370000
 ist	-	-	-	0:58:15.689000	0:58:18.370000
 ein	-	-	-	0:58:15.689000	0:58:18.370000
@@ -15542,11 +15542,11 @@ dir	-	-	-	0:58:18.370000	0:58:19.885000
 erlernst	-	-	-	0:58:18.370000	0:58:19.885000
 .	-	-	-	0:58:18.370000	0:58:19.885000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:19.885000" end="0:58:20.454000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:19.885000" end="0:58:20.454000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:58:19.885000	0:58:20.454000
 .	-	-	-	0:58:19.885000	0:58:20.454000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:20.454000" end="0:58:26.127000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:20.454000" end="0:58:26.127000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:58:20.454000	0:58:22.167000
 ,	-	-	-	0:58:20.454000	0:58:22.167000
@@ -15564,18 +15564,18 @@ was	-	-	-	0:58:24.325000	0:58:26.127000
 ändert	-	-	-	0:58:24.325000	0:58:26.127000
 ,	-	-	-	0:58:24.325000	0:58:26.127000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:24.325000" end="0:58:26.127000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:24.325000" end="0:58:26.127000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:24.325000	0:58:26.127000
 .	-	-	-	0:58:24.325000	0:58:26.127000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:26.127000" end="0:58:26.565000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:26.127000" end="0:58:26.565000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:58:26.127000	0:58:26.565000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:26.565000" end="0:58:27.095000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:26.565000" end="0:58:27.095000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:26.565000	0:58:27.095000
 .	-	-	-	0:58:26.565000	0:58:27.095000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:27.095000" end="0:58:30.892000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:27.095000" end="0:58:30.892000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ein	-	-	-	0:58:27.095000	0:58:30.892000
 Unterschied	-	-	-	0:58:27.095000	0:58:30.892000
 ist	-	-	-	0:58:27.095000	0:58:30.892000
@@ -15592,11 +15592,11 @@ zu	-	-	-	0:58:27.095000	0:58:30.892000
 früher	-	-	-	0:58:27.095000	0:58:30.892000
 .	-	-	-	0:58:27.095000	0:58:30.892000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:30.892000" end="0:58:31.265000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:30.892000" end="0:58:31.265000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:30.892000	0:58:31.265000
 .	-	-	-	0:58:30.892000	0:58:31.265000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:31.265000" end="0:58:39.939000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:31.265000" end="0:58:39.939000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:58:31.265000	0:58:32.774000
 früher	-	-	-	0:58:31.265000	0:58:32.774000
 bist	-	-	-	0:58:31.265000	0:58:32.774000
@@ -15629,22 +15629,22 @@ herum	-	-	-	0:58:36.616000	0:58:39.939000
 gekommen	-	-	-	0:58:36.616000	0:58:39.939000
 .	-	-	-	0:58:36.616000	0:58:39.939000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:39.939000" end="0:58:40.252000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:39.939000" end="0:58:40.252000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:58:39.939000	0:58:40.252000
 ,	-	-	-	0:58:39.939000	0:58:40.252000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:40.252000" end="0:58:40.874000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:40.252000" end="0:58:40.874000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:58:40.252000	0:58:40.874000
 ich	-	-	-	0:58:40.252000	0:58:40.874000
 glaube	-	-	-	0:58:40.252000	0:58:40.874000
 schon	-	-	-	0:58:40.252000	0:58:40.874000
 ,	-	-	-	0:58:40.252000	0:58:40.874000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:40.252000" end="0:58:40.874000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:40.252000" end="0:58:40.874000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:58:40.252000	0:58:40.874000
 .	-	-	-	0:58:40.252000	0:58:40.874000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:40.874000" end="0:58:42.025000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:40.874000" end="0:58:42.025000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:58:40.874000	0:58:42.025000
 da	-	-	-	0:58:40.874000	0:58:42.025000
 ein	-	-	-	0:58:40.874000	0:58:42.025000
@@ -15652,7 +15652,7 @@ Unterschied	-	-	-	0:58:40.874000	0:58:42.025000
 ist	-	-	-	0:58:40.874000	0:58:42.025000
 .	-	-	-	0:58:40.874000	0:58:42.025000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:42.025000" end="0:58:58.965000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:42.025000" end="0:58:58.965000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:58:42.025000	0:58:44.025000
 ,	-	-	-	0:58:42.025000	0:58:44.025000
 ja	-	-	-	0:58:42.025000	0:58:44.025000
@@ -15705,11 +15705,11 @@ Rolle	-	-	-	0:58:57.447000	0:58:58.965000
 spielen	-	-	-	0:58:57.447000	0:58:58.965000
 ?	-	-	-	0:58:57.447000	0:58:58.965000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:58:58.965000" end="0:59:01.339000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:58:58.965000" end="0:59:01.339000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 boah	-	-	-	0:58:58.965000	0:59:01.339000
 .	-	-	-	0:58:58.965000	0:59:01.339000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:58:58.965000" end="0:59:01.339000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:58:58.965000" end="0:59:01.339000" persName="Informant EXP5" age_lower="" age_upper="999">
 fällt	-	-	-	0:58:58.965000	0:59:01.339000
 Ihnen	-	-	-	0:58:58.965000	0:59:01.339000
 da	-	-	-	0:58:58.965000	0:59:01.339000
@@ -15719,16 +15719,16 @@ ein	-	-	-	0:58:58.965000	0:59:01.339000
 vielleicht	-	-	-	0:58:58.965000	0:59:01.339000
 ?	-	-	-	0:58:58.965000	0:59:01.339000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:01.339000" end="0:59:05.301000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:01.339000" end="0:59:05.301000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 schwierig	-	-	-	0:59:01.339000	0:59:03.418000
 .	-	-	-	0:59:01.339000	0:59:03.418000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:03.418000" end="0:59:05.301000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:03.418000" end="0:59:05.301000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:05.301000" end="0:59:08.249000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:05.301000" end="0:59:08.249000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:59:05.301000	0:59:07.594000
 dass	-	-	-	0:59:05.301000	0:59:07.594000
 jetzt	-	-	-	0:59:05.301000	0:59:07.594000
@@ -15741,7 +15741,7 @@ in	-	-	-	0:59:05.301000	0:59:07.594000
 Österreich	-	-	-	0:59:07.594000	0:59:08.249000
 ?	-	-	-	0:59:07.594000	0:59:08.249000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:07.594000" end="0:59:15.137000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:07.594000" end="0:59:15.137000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	0:59:07.594000	0:59:08.249000
 ,	-	-	-	0:59:07.594000	0:59:08.249000
 das	-	-	-	0:59:07.594000	0:59:08.249000
@@ -15765,13 +15765,13 @@ drauf	-	-	-	0:59:10.578000	0:59:15.137000
 vielleicht	-	-	-	0:59:10.578000	0:59:15.137000
 ?	-	-	-	0:59:10.578000	0:59:15.137000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:15.137000" end="0:59:18.279000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:15.137000" end="0:59:18.279000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:15.137000" end="0:59:18.279000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:15.137000" end="0:59:18.279000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:18.279000" end="0:59:21.409000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:18.279000" end="0:59:21.409000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:59:18.279000	0:59:20.013000
 ,	-	-	-	0:59:18.279000	0:59:20.013000
 ich	-	-	-	0:59:18.279000	0:59:20.013000
@@ -15783,10 +15783,10 @@ finde	-	-	-	0:59:18.279000	0:59:20.013000
 ,	-	-	-	0:59:18.279000	0:59:20.013000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:20.013000" end="0:59:21.409000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:20.013000" end="0:59:21.409000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:21.409000" end="0:59:30.024000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:21.409000" end="0:59:30.024000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 dadurch	-	-	-	0:59:21.409000	0:59:25.325000
 dass	-	-	-	0:59:21.409000	0:59:25.325000
 d/	-	-	-	0:59:21.409000	0:59:25.325000
@@ -15819,11 +15819,11 @@ und	-	-	-	0:59:28.180000	0:59:29.436000
 halt	-	-	-	0:59:29.436000	0:59:30.024000
 ,	-	-	-	0:59:29.436000	0:59:30.024000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:29.436000" end="0:59:30.024000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:29.436000" end="0:59:30.024000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:59:29.436000	0:59:30.024000
 .	-	-	-	0:59:29.436000	0:59:30.024000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:30.024000" end="0:59:36.174000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:30.024000" end="0:59:36.174000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dass	-	-	-	0:59:30.024000	0:59:32.467000
 das	-	-	-	0:59:30.024000	0:59:32.467000
@@ -15850,13 +15850,13 @@ oder	-	-	-	0:59:34.840000	0:59:36.174000
 oftmals	-	-	-	0:59:34.840000	0:59:36.174000
 .	-	-	-	0:59:34.840000	0:59:36.174000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:34.840000" end="0:59:37.418000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:34.840000" end="0:59:37.418000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:59:36.174000	0:59:37.418000
 ,	-	-	-	0:59:36.174000	0:59:37.418000
 ja	-	-	-	0:59:36.174000	0:59:37.418000
 .	-	-	-	0:59:36.174000	0:59:37.418000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:37.418000" end="0:59:42.716000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:37.418000" end="0:59:42.716000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:59:37.418000	0:59:42.062000
 das/	-	-	-	0:59:37.418000	0:59:42.062000
 und	-	-	-	0:59:37.418000	0:59:42.062000
@@ -15878,11 +15878,11 @@ oder	-	-	-	0:59:42.062000	0:59:42.716000
 (nicht)	-	-	-	0:59:42.062000	0:59:42.716000
 ?	-	-	-	0:59:42.062000	0:59:42.716000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:42.062000" end="0:59:42.716000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:42.062000" end="0:59:42.716000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:59:42.062000	0:59:42.716000
 .	-	-	-	0:59:42.062000	0:59:42.716000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:42.716000" end="0:59:43.772000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:42.716000" end="0:59:43.772000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:59:42.716000	0:59:43.772000
 das	-	-	-	0:59:42.716000	0:59:43.772000
 glaube	-	-	-	0:59:42.716000	0:59:43.772000
@@ -15890,14 +15890,14 @@ ich	-	-	-	0:59:42.716000	0:59:43.772000
 schon	-	-	-	0:59:42.716000	0:59:43.772000
 .	-	-	-	0:59:42.716000	0:59:43.772000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:43.772000" end="0:59:44.693000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:43.772000" end="0:59:44.693000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	0:59:43.772000	0:59:44.693000
 .	-	-	-	0:59:43.772000	0:59:44.693000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:44.693000" end="0:59:46.231000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:44.693000" end="0:59:46.231000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:44.693000" end="0:59:48.706000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:44.693000" end="0:59:48.706000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 und	-	-	-	0:59:46.231000	0:59:48.706000
 ,	-	-	-	0:59:46.231000	0:59:48.706000
@@ -15911,11 +15911,11 @@ da	-	-	-	0:59:46.231000	0:59:48.706000
 besonders/	-	-	-	0:59:46.231000	0:59:48.706000
 ,	-	-	-	0:59:46.231000	0:59:48.706000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:48.706000" end="0:59:53.714000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:48.706000" end="0:59:53.714000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	0:59:48.706000	0:59:53.714000
 .	-	-	-	0:59:48.706000	0:59:53.714000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:48.706000" end="0:59:53.714000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:48.706000" end="0:59:53.714000" persName="Informant EXP5" age_lower="" age_upper="999">
 also	-	-	-	0:59:48.706000	0:59:53.714000
 andere	-	-	-	0:59:48.706000	0:59:53.714000
 Sprachen	-	-	-	0:59:48.706000	0:59:53.714000
@@ -15931,7 +15931,7 @@ Deutsch	-	-	-	0:59:48.706000	0:59:53.714000
 oder	-	-	-	0:59:48.706000	0:59:53.714000
 ?	-	-	-	0:59:48.706000	0:59:53.714000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:53.714000" end="0:59:57.962000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:53.714000" end="0:59:57.962000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 weiß	-	-	-	0:59:53.714000	0:59:56.344000
 auch	-	-	-	0:59:53.714000	0:59:56.344000
@@ -15946,7 +15946,7 @@ nichts	-	-	-	0:59:56.344000	0:59:57.962000
 sagen	-	-	-	0:59:56.344000	0:59:57.962000
 .	-	-	-	0:59:56.344000	0:59:57.962000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:57.962000" end="0:59:59.175000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:57.962000" end="0:59:59.175000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	0:59:57.962000	0:59:59.175000
 ,	-	-	-	0:59:57.962000	0:59:59.175000
 (wenn	-	-	-	0:59:57.962000	0:59:59.175000
@@ -15954,13 +15954,13 @@ Ihnen)	-	-	-	0:59:57.962000	0:59:59.175000
 nichts	-	-	-	0:59:57.962000	0:59:59.175000
 /.	-	-	-	0:59:57.962000	0:59:59.175000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="0:59:59.175000" end="1:00:01.262000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="0:59:59.175000" end="1:00:01.262000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:59:59.175000	1:00:01.262000
 ,	-	-	-	0:59:59.175000	1:00:01.262000
 also	-	-	-	0:59:59.175000	1:00:01.262000
 /.	-	-	-	0:59:59.175000	1:00:01.262000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:59:59.175000" end="1:00:10.159000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:59:59.175000" end="1:00:10.159000" persName="Informant EXP5" age_lower="" age_upper="999">
 ist	-	-	-	0:59:59.175000	1:00:01.262000
 auch	-	-	-	0:59:59.175000	1:00:01.262000
 okay	-	-	-	0:59:59.175000	1:00:01.262000
@@ -15993,11 +15993,11 @@ des	-	-	-	1:00:07.023000	1:00:10.159000
 Deutschen	-	-	-	1:00:07.023000	1:00:10.159000
 ,	-	-	-	1:00:07.023000	1:00:10.159000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:10.159000" end="1:00:14.825000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:10.159000" end="1:00:14.825000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:00:10.159000	1:00:14.825000
 .	-	-	-	1:00:10.159000	1:00:14.825000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:10.159000" end="1:00:20.156000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:10.159000" end="1:00:20.156000" persName="Informant EXP5" age_lower="" age_upper="999">
 wir	-	-	-	1:00:10.159000	1:00:14.825000
 haben	-	-	-	1:00:10.159000	1:00:14.825000
 ja	-	-	-	1:00:10.159000	1:00:14.825000
@@ -16033,13 +16033,13 @@ so	-	-	-	1:00:16.519000	1:00:20.156000
 Veränderungen	-	-	-	1:00:16.519000	1:00:20.156000
 ?	-	-	-	1:00:16.519000	1:00:20.156000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:20.156000" end="1:00:23.545000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:20.156000" end="1:00:23.545000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:20.156000" end="1:00:23.545000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:20.156000" end="1:00:23.545000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:23.545000" end="1:00:36.398000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:23.545000" end="1:00:36.398000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:00:23.545000	1:00:25.416000
 ich	-	-	-	1:00:23.545000	1:00:25.416000
 glaube	-	-	-	1:00:23.545000	1:00:25.416000
@@ -16077,19 +16077,19 @@ muss	-	-	-	1:00:34.573000	1:00:35.775000
 oder	-	-	-	1:00:35.775000	1:00:36.398000
 ?	-	-	-	1:00:35.775000	1:00:36.398000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:35.775000" end="1:00:36.398000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:35.775000" end="1:00:36.398000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:00:35.775000	1:00:36.398000
 .	-	-	-	1:00:35.775000	1:00:36.398000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:36.398000" end="1:00:37.461000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:36.398000" end="1:00:37.461000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	1:00:36.398000	1:00:37.461000
 niemand	-	-	-	1:00:36.398000	1:00:37.461000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:36.398000" end="1:00:37.461000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:36.398000" end="1:00:37.461000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:00:36.398000	1:00:37.461000
 .	-	-	-	1:00:36.398000	1:00:37.461000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:37.461000" end="1:00:43.333000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:37.461000" end="1:00:43.333000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 versteht	-	-	-	1:00:37.461000	1:00:39.163000
 einen	-	-	-	1:00:37.461000	1:00:39.163000
 Walser	-	-	-	1:00:37.461000	1:00:39.163000
@@ -16109,7 +16109,7 @@ so	-	-	-	1:00:42.253000	1:00:43.333000
 gut	-	-	-	1:00:42.253000	1:00:43.333000
 .	-	-	-	1:00:42.253000	1:00:43.333000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:43.333000" end="1:00:44.619000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:43.333000" end="1:00:44.619000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:00:43.333000	1:00:44.619000
 ,	-	-	-	1:00:43.333000	1:00:44.619000
 ja	-	-	-	1:00:43.333000	1:00:44.619000
@@ -16117,7 +16117,7 @@ ja	-	-	-	1:00:43.333000	1:00:44.619000
 mhm	-	-	-	1:00:43.333000	1:00:44.619000
 .	-	-	-	1:00:43.333000	1:00:44.619000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:44.619000" end="1:00:50.694000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:44.619000" end="1:00:50.694000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:00:44.619000	1:00:47.720000
 dann	-	-	-	1:00:44.619000	1:00:47.720000
 ,	-	-	-	1:00:44.619000	1:00:47.720000
@@ -16143,11 +16143,11 @@ verloren	-	-	-	1:00:47.720000	1:00:50.306000
 also	-	-	-	1:00:50.306000	1:00:50.694000
 ,	-	-	-	1:00:50.306000	1:00:50.694000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:50.306000" end="1:00:50.694000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:50.306000" end="1:00:50.694000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:00:50.306000	1:00:50.694000
 .	-	-	-	1:00:50.306000	1:00:50.694000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:50.694000" end="1:00:54.048000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:50.694000" end="1:00:54.048000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 glaube	-	-	-	1:00:50.694000	1:00:53.075000
 ich	-	-	-	1:00:50.694000	1:00:53.075000
@@ -16160,19 +16160,19 @@ ehesten	-	-	-	1:00:50.694000	1:00:53.075000
 (be/)	-	-	-	1:00:50.694000	1:00:53.075000
 oder	-	-	-	1:00:53.075000	1:00:54.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:53.075000" end="1:00:54.048000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:53.075000" end="1:00:54.048000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:00:53.075000	1:00:54.048000
 ,	-	-	-	1:00:53.075000	1:00:54.048000
 mhm	-	-	-	1:00:53.075000	1:00:54.048000
 .	-	-	-	1:00:53.075000	1:00:54.048000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:00:54.048000" end="1:00:55.284000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:00:54.048000" end="1:00:55.284000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 eher	-	-	-	1:00:54.048000	1:00:55.284000
 betroffen	-	-	-	1:00:54.048000	1:00:55.284000
 sind	-	-	-	1:00:54.048000	1:00:55.284000
 .	-	-	-	1:00:54.048000	1:00:55.284000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:55.284000" end="1:01:19.821000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:55.284000" end="1:01:19.821000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:00:55.284000	1:00:57.155000
 ,	-	-	-	1:00:55.284000	1:00:57.155000
 okay	-	-	-	1:00:55.284000	1:00:57.155000
@@ -16246,7 +16246,7 @@ Rolle	-	-	-	1:01:16.139000	1:01:19.821000
 gespielt	-	-	-	1:01:16.139000	1:01:19.821000
 ?	-	-	-	1:01:16.139000	1:01:19.821000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:01:19.821000" end="1:01:26.789000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:01:19.821000" end="1:01:26.789000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 quasi	-	-	-	1:01:19.821000	1:01:21.703000
 wie	-	-	-	1:01:19.821000	1:01:21.703000
@@ -16274,7 +16274,7 @@ jetzt	-	-	-	1:01:24.456000	1:01:26.789000
 ist	-	-	-	1:01:24.456000	1:01:26.789000
 ?	-	-	-	1:01:24.456000	1:01:26.789000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:24.456000" end="1:01:37.182000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:01:24.456000" end="1:01:37.182000" persName="Informant EXP5" age_lower="" age_upper="999">
 genau	-	-	-	1:01:24.456000	1:01:26.789000
 ,	-	-	-	1:01:24.456000	1:01:26.789000
 also	-	-	-	1:01:24.456000	1:01:26.789000
@@ -16325,7 +16325,7 @@ mit	-	-	-	1:01:33.288000	1:01:37.182000
 anderen	-	-	-	1:01:33.288000	1:01:37.182000
 Sprachen	-	-	-	1:01:33.288000	1:01:37.182000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:01:37.182000" end="1:01:39.917000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:01:37.182000" end="1:01:39.917000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 boah	-	-	-	1:01:37.182000	1:01:39.917000
 ,	-	-	-	1:01:37.182000	1:01:39.917000
@@ -16334,7 +16334,7 @@ ist)	-	-	-	1:01:37.182000	1:01:39.917000
 schwierig	-	-	-	1:01:37.182000	1:01:39.917000
 .	-	-	-	1:01:37.182000	1:01:39.917000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:37.182000" end="1:01:39.917000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:01:37.182000" end="1:01:39.917000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 geändert	-	-	-	1:01:37.182000	1:01:39.917000
 hat	-	-	-	1:01:37.182000	1:01:39.917000
@@ -16344,13 +16344,13 @@ so	-	-	-	1:01:37.182000	1:01:39.917000
 schwierig	-	-	-	1:01:37.182000	1:01:39.917000
 .	-	-	-	1:01:37.182000	1:01:39.917000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:01:39.917000" end="1:01:41.333000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:01:39.917000" end="1:01:41.333000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (das	-	-	-	1:01:39.917000	1:01:41.333000
 is/)	-	-	-	1:01:39.917000	1:01:41.333000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:39.917000" end="1:01:41.333000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:01:39.917000" end="1:01:41.333000" persName="Informant EXP5" age_lower="" age_upper="999">
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:01:41.333000" end="1:01:47.119000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:01:41.333000" end="1:01:47.119000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 wah	-	-	-	1:01:41.333000	1:01:43.285000
 ,	-	-	-	1:01:41.333000	1:01:43.285000
@@ -16363,7 +16363,7 @@ da	-	-	-	1:01:44.317000	1:01:47.119000
 wüsste	-	-	-	1:01:44.317000	1:01:47.119000
 ich	-	-	-	1:01:44.317000	1:01:47.119000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:44.317000" end="1:01:47.119000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:01:44.317000" end="1:01:47.119000" persName="Informant EXP5" age_lower="" age_upper="999">
 macht	-	-	-	1:01:44.317000	1:01:47.119000
 auch	-	-	-	1:01:44.317000	1:01:47.119000
 nichts	-	-	-	1:01:44.317000	1:01:47.119000
@@ -16376,12 +16376,12 @@ Problem	-	-	-	1:01:44.317000	1:01:47.119000
 okay	-	-	-	1:01:44.317000	1:01:47.119000
 .	-	-	-	1:01:44.317000	1:01:47.119000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:01:47.119000" end="1:01:47.643000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:01:47.119000" end="1:01:47.643000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 jetzt	-	-	-	1:01:47.119000	1:01:47.643000
 nichts	-	-	-	1:01:47.119000	1:01:47.643000
 .	-	-	-	1:01:47.119000	1:01:47.643000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:01:47.643000" end="1:02:00.410000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:01:47.643000" end="1:02:00.410000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:01:47.643000	1:01:49.130000
 ,	-	-	-	1:01:47.643000	1:01:49.130000
 okay	-	-	-	1:01:47.643000	1:01:49.130000
@@ -16425,11 +16425,11 @@ gleich	-	-	-	1:01:59.250000	1:02:00.410000
 geschafft	-	-	-	1:01:59.250000	1:02:00.410000
 ,	-	-	-	1:01:59.250000	1:02:00.410000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:00.410000" end="1:02:00.978000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:00.410000" end="1:02:00.978000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	1:02:00.410000	1:02:00.978000
 .	-	-	-	1:02:00.410000	1:02:00.978000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:00.410000" end="1:02:06.832000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:00.410000" end="1:02:06.832000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	1:02:00.410000	1:02:00.978000
 Interview	-	-	-	1:02:00.410000	1:02:00.978000
 .	-	-	-	1:02:00.410000	1:02:00.978000
@@ -16452,24 +16452,24 @@ oder	-	-	-	1:02:02.701000	1:02:06.832000
 so	-	-	-	1:02:02.701000	1:02:06.832000
 ?	-	-	-	1:02:02.701000	1:02:06.832000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:06.832000" end="1:02:08.832000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:06.832000" end="1:02:08.832000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:06.832000" end="1:02:08.832000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:06.832000" end="1:02:08.832000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:08.832000" end="1:02:09.930000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:08.832000" end="1:02:09.930000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	1:02:08.832000	1:02:09.420000
 ,	-	-	-	1:02:08.832000	1:02:09.420000
 also	-	-	-	1:02:09.420000	1:02:09.930000
 /.	-	-	-	1:02:09.420000	1:02:09.930000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:09.420000" end="1:02:09.930000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:09.420000" end="1:02:09.930000" persName="Informant EXP5" age_lower="" age_upper="999">
 eher	-	-	-	1:02:09.420000	1:02:09.930000
 nicht	-	-	-	1:02:09.420000	1:02:09.930000
 .	-	-	-	1:02:09.420000	1:02:09.930000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:09.930000" end="1:02:15.410000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:09.930000" end="1:02:15.410000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 nein	-	-	-	1:02:09.930000	1:02:11.694000
 ,	-	-	-	1:02:09.930000	1:02:11.694000
@@ -16491,13 +16491,13 @@ aber	-	-	-	1:02:14.147000	1:02:15.410000
 und	-	-	-	1:02:14.147000	1:02:15.410000
 sonst	-	-	-	1:02:14.147000	1:02:15.410000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:14.147000" end="1:02:15.410000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:14.147000" end="1:02:15.410000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:02:14.147000	1:02:15.410000
 ,	-	-	-	1:02:14.147000	1:02:15.410000
 mhm	-	-	-	1:02:14.147000	1:02:15.410000
 .	-	-	-	1:02:14.147000	1:02:15.410000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:15.410000" end="1:02:16.677000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:15.410000" end="1:02:16.677000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schaue	-	-	-	1:02:15.410000	1:02:16.677000
 ich	-	-	-	1:02:15.410000	1:02:16.677000
 halt	-	-	-	1:02:15.410000	1:02:16.677000
@@ -16506,11 +16506,11 @@ im	-	-	-	1:02:15.410000	1:02:16.677000
 at"	-	-	-	1:02:15.410000	1:02:16.677000
 .	-	-	-	1:02:15.410000	1:02:16.677000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:16.677000" end="1:02:17.160000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:16.677000" end="1:02:17.160000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:16.677000	1:02:17.160000
 .	-	-	-	1:02:16.677000	1:02:17.160000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:17.160000" end="1:02:18.852000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:17.160000" end="1:02:18.852000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:02:17.160000	1:02:18.852000
 Lieblingszeitung	-	-	-	1:02:17.160000	1:02:18.852000
 habe	-	-	-	1:02:17.160000	1:02:18.852000
@@ -16518,15 +16518,15 @@ ich	-	-	-	1:02:17.160000	1:02:18.852000
 nicht	-	-	-	1:02:17.160000	1:02:18.852000
 .	-	-	-	1:02:17.160000	1:02:18.852000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:18.852000" end="1:02:19.121000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:18.852000" end="1:02:19.121000" persName="Informant EXP5" age_lower="" age_upper="999">
 nicht	-	-	-	1:02:18.852000	1:02:19.121000
 .	-	-	-	1:02:18.852000	1:02:19.121000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:19.121000" end="1:02:19.503000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:19.121000" end="1:02:19.503000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mm	-	-	-	1:02:19.121000	1:02:19.503000
 .	-	-	-	1:02:19.121000	1:02:19.503000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:19.503000" end="1:02:24.993000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:19.503000" end="1:02:24.993000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	1:02:19.503000	1:02:22.913000
 ,	-	-	-	1:02:19.503000	1:02:22.913000
 ähm	-	-	-	1:02:19.503000	1:02:22.913000
@@ -16550,7 +16550,7 @@ gerne	-	-	-	1:02:22.913000	1:02:24.993000
 schauen	-	-	-	1:02:22.913000	1:02:24.993000
 ?	-	-	-	1:02:22.913000	1:02:24.993000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:24.993000" end="1:02:28.903000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:24.993000" end="1:02:28.903000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 nein	-	-	-	1:02:24.993000	1:02:27.100000
 ,	-	-	-	1:02:24.993000	1:02:27.100000
@@ -16564,7 +16564,7 @@ wirklich	-	-	-	1:02:27.100000	1:02:28.903000
 Zeit	-	-	-	1:02:27.100000	1:02:28.903000
 .	-	-	-	1:02:27.100000	1:02:28.903000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:27.100000" end="1:02:33.138000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:27.100000" end="1:02:33.138000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	-	-	-	1:02:29.351000	1:02:33.138000
 kommen	-	-	-	1:02:29.351000	1:02:33.138000
 Sie	-	-	-	1:02:29.351000	1:02:33.138000
@@ -16575,7 +16575,7 @@ neuesten	-	-	-	1:02:29.351000	1:02:33.138000
 Nachrichten	-	-	-	1:02:29.351000	1:02:33.138000
 ?	-	-	-	1:02:29.351000	1:02:33.138000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:33.138000" end="1:02:37.744000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:33.138000" end="1:02:37.744000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 eben	-	-	-	1:02:33.138000	1:02:36.180000
 also	-	-	-	1:02:33.138000	1:02:36.180000
@@ -16588,41 +16588,41 @@ die	-	-	-	1:02:36.180000	1:02:37.744000
 Tageszeitung"	-	-	-	1:02:36.180000	1:02:37.744000
 ,	-	-	-	1:02:36.180000	1:02:37.744000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:37.744000" end="1:02:38.230000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:37.744000" end="1:02:38.230000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:37.744000	1:02:38.230000
 .	-	-	-	1:02:37.744000	1:02:38.230000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:38.230000" end="1:02:39.071000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:38.230000" end="1:02:39.071000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Radio	-	-	-	1:02:38.230000	1:02:39.071000
 ,	-	-	-	1:02:38.230000	1:02:39.071000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:39.071000" end="1:02:39.568000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:39.071000" end="1:02:39.568000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:02:39.071000	1:02:39.568000
 .	-	-	-	1:02:39.071000	1:02:39.568000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:39.568000" end="1:02:41.383000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:39.568000" end="1:02:41.383000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sch/	-	-	-	1:02:39.568000	1:02:41.383000
 also	-	-	-	1:02:39.568000	1:02:41.383000
 "Antenne	-	-	-	1:02:39.568000	1:02:41.383000
 Vorarlberg"	-	-	-	1:02:39.568000	1:02:41.383000
 ,	-	-	-	1:02:39.568000	1:02:41.383000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:41.383000" end="1:02:41.765000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:41.383000" end="1:02:41.765000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:41.383000	1:02:41.765000
 .	-	-	-	1:02:41.383000	1:02:41.765000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:41.765000" end="1:02:42.755000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:41.765000" end="1:02:42.755000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 (höre	-	-	-	1:02:41.765000	1:02:42.755000
 ich	-	-	-	1:02:41.765000	1:02:42.755000
 da)	-	-	-	1:02:41.765000	1:02:42.755000
 ,	-	-	-	1:02:41.765000	1:02:42.755000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:42.755000" end="1:02:43.451000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:42.755000" end="1:02:43.451000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	1:02:42.755000	1:02:43.451000
 .	-	-	-	1:02:42.755000	1:02:43.451000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:43.451000" end="1:02:47.343000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:43.451000" end="1:02:47.343000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:02:43.451000	1:02:44.738000
 ,	-	-	-	1:02:43.451000	1:02:44.738000
 ja	-	-	-	1:02:43.451000	1:02:44.738000
@@ -16638,11 +16638,11 @@ ich	-	-	-	1:02:44.738000	1:02:47.054000
 gerade	-	-	-	1:02:47.054000	1:02:47.343000
 im	-	-	-	1:02:47.054000	1:02:47.343000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:47.054000" end="1:02:47.343000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:47.054000" end="1:02:47.343000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:47.054000	1:02:47.343000
 .	-	-	-	1:02:47.054000	1:02:47.343000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:47.343000" end="1:02:48.995000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:47.343000" end="1:02:48.995000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Raum	-	-	-	1:02:47.343000	1:02:48.437000
 bin	-	-	-	1:02:47.343000	1:02:48.437000
 ,	-	-	-	1:02:47.343000	1:02:48.437000
@@ -16655,11 +16655,11 @@ mit	-	-	-	1:02:47.343000	1:02:48.437000
 halt	-	-	-	1:02:48.437000	1:02:48.995000
 ,	-	-	-	1:02:48.437000	1:02:48.995000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:48.437000" end="1:02:48.995000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:48.437000" end="1:02:48.995000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:48.437000	1:02:48.995000
 .	-	-	-	1:02:48.437000	1:02:48.995000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:48.995000" end="1:02:50.274000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:48.995000" end="1:02:50.274000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 höre	-	-	-	1:02:48.995000	1:02:50.274000
 ich	-	-	-	1:02:48.995000	1:02:50.274000
 so	-	-	-	1:02:48.995000	1:02:50.274000
@@ -16667,16 +16667,16 @@ halb	-	-	-	1:02:48.995000	1:02:50.274000
 zu	-	-	-	1:02:48.995000	1:02:50.274000
 .	-	-	-	1:02:48.995000	1:02:50.274000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:50.274000" end="1:02:50.909000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:50.274000" end="1:02:50.909000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:02:50.274000	1:02:50.909000
 .	-	-	-	1:02:50.274000	1:02:50.909000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:02:50.909000" end="1:02:51.525000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:02:50.909000" end="1:02:51.525000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	1:02:50.909000	1:02:51.525000
 halt	-	-	-	1:02:50.909000	1:02:51.525000
 .	-	-	-	1:02:50.909000	1:02:51.525000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:02:51.525000" end="1:03:01.632000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:02:51.525000" end="1:03:01.632000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:02:51.525000	1:02:52.163000
 .	-	-	-	1:02:51.525000	1:02:52.163000
 <pause duration="0,8s"/>
@@ -16711,18 +16711,18 @@ Sie	-	-	-	1:03:00.933000	1:03:01.632000
 sagen	-	-	-	1:03:00.933000	1:03:01.632000
 ,	-	-	-	1:03:00.933000	1:03:01.632000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:01.632000" end="1:03:02.283000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:01.632000" end="1:03:02.283000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:01.632000	1:03:02.283000
 ,	-	-	-	1:03:01.632000	1:03:02.283000
 es	-	-	-	1:03:01.632000	1:03:02.283000
 gibt	-	-	-	1:03:01.632000	1:03:02.283000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:01.632000" end="1:03:02.283000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:01.632000" end="1:03:02.283000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	1:03:01.632000	1:03:02.283000
 is/	-	-	-	1:03:01.632000	1:03:02.283000
 /?	-	-	-	1:03:01.632000	1:03:02.283000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:02.283000" end="1:03:11.786000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:02.283000" end="1:03:11.786000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	1:03:02.283000	1:03:03.732000
 so	-	-	-	1:03:02.283000	1:03:03.732000
 gewisse	-	-	-	1:03:02.283000	1:03:03.732000
@@ -16764,11 +16764,11 @@ dann	-	-	-	1:03:08.599000	1:03:10.951000
 aber	-	-	-	1:03:10.951000	1:03:11.786000
 so	-	-	-	1:03:10.951000	1:03:11.786000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:10.951000" end="1:03:11.786000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:10.951000" end="1:03:11.786000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:03:10.951000	1:03:11.786000
 .	-	-	-	1:03:10.951000	1:03:11.786000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:11.786000" end="1:03:15.444000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:11.786000" end="1:03:15.444000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 speziell	-	-	-	1:03:11.786000	1:03:13.122000
 ,	-	-	-	1:03:11.786000	1:03:13.122000
 dass	-	-	-	1:03:11.786000	1:03:13.122000
@@ -16784,13 +16784,13 @@ jetzt	-	-	-	1:03:13.122000	1:03:15.444000
 Fernsehschauen	-	-	-	1:03:13.122000	1:03:15.444000
 .	-	-	-	1:03:13.122000	1:03:15.444000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:15.444000" end="1:03:16.281000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:15.444000" end="1:03:16.281000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ist	-	-	-	1:03:15.444000	1:03:16.281000
 nicht	-	-	-	1:03:15.444000	1:03:16.281000
 ?	-	-	-	1:03:15.444000	1:03:16.281000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:16.281000" end="1:03:17.744000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:16.281000" end="1:03:17.744000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	1:03:16.281000	1:03:17.744000
 ,	-	-	-	1:03:16.281000	1:03:17.744000
 habe	-	-	-	1:03:16.281000	1:03:17.744000
@@ -16798,7 +16798,7 @@ ich	-	-	-	1:03:16.281000	1:03:17.744000
 nicht	-	-	-	1:03:16.281000	1:03:17.744000
 .	-	-	-	1:03:16.281000	1:03:17.744000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:16.281000" end="1:03:27.376000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:16.281000" end="1:03:27.376000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:03:16.281000	1:03:17.744000
 .	-	-	-	1:03:16.281000	1:03:17.744000
 okay	-	-	-	1:03:17.744000	1:03:18.758000
@@ -16834,16 +16834,16 @@ sowas	-	-	-	1:03:26.275000	1:03:27.376000
 oder	-	-	-	1:03:26.275000	1:03:27.376000
 ?	-	-	-	1:03:26.275000	1:03:27.376000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:27.376000" end="1:03:28.275000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:27.376000" end="1:03:28.275000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:27.376000	1:03:28.275000
 ,	-	-	-	1:03:27.376000	1:03:28.275000
 also	-	-	-	1:03:27.376000	1:03:28.275000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:28.275000" end="1:03:28.760000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:28.275000" end="1:03:28.760000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:28.275000	1:03:28.760000
 .	-	-	-	1:03:28.275000	1:03:28.760000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:28.760000" end="1:03:30.341000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:28.760000" end="1:03:30.341000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 lesen	-	-	-	1:03:28.760000	1:03:30.341000
 tue	-	-	-	1:03:28.760000	1:03:30.341000
 ich	-	-	-	1:03:28.760000	1:03:30.341000
@@ -16851,19 +16851,19 @@ gern	-	-	-	1:03:28.760000	1:03:30.341000
 ,	-	-	-	1:03:28.760000	1:03:30.341000
 also	-	-	-	1:03:28.760000	1:03:30.341000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:30.341000" end="1:03:30.618000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:30.341000" end="1:03:30.618000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:30.341000	1:03:30.618000
 .	-	-	-	1:03:30.341000	1:03:30.618000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:30.618000" end="1:03:31.445000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:30.618000" end="1:03:31.445000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Romane	-	-	-	1:03:30.618000	1:03:31.445000
 ,	-	-	-	1:03:30.618000	1:03:31.445000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:31.445000" end="1:03:31.878000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:31.445000" end="1:03:31.878000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:31.445000	1:03:31.878000
 .	-	-	-	1:03:31.445000	1:03:31.878000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:31.878000" end="1:03:33.114000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:31.878000" end="1:03:33.114000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 quer	-	-	-	1:03:31.878000	1:03:33.114000
 durch	-	-	-	1:03:31.878000	1:03:33.114000
 die	-	-	-	1:03:31.878000	1:03:33.114000
@@ -16871,24 +16871,24 @@ Bank	-	-	-	1:03:31.878000	1:03:33.114000
 eigentlich	-	-	-	1:03:31.878000	1:03:33.114000
 .	-	-	-	1:03:31.878000	1:03:33.114000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:33.114000" end="1:03:33.433000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:33.114000" end="1:03:33.433000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:33.114000	1:03:33.433000
 .	-	-	-	1:03:33.114000	1:03:33.433000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:33.433000" end="1:03:34.861000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:33.433000" end="1:03:34.861000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ganz	-	-	-	1:03:33.433000	1:03:34.861000
 verschieden	-	-	-	1:03:33.433000	1:03:34.861000
 .	-	-	-	1:03:33.433000	1:03:34.861000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:33.433000" end="1:03:34.861000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:33.433000" end="1:03:34.861000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:03:33.433000	1:03:34.861000
 .	-	-	-	1:03:33.433000	1:03:34.861000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:34.861000" end="1:03:35.785000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:34.861000" end="1:03:35.785000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:34.861000	1:03:35.785000
 .	-	-	-	1:03:34.861000	1:03:35.785000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:34.861000" end="1:03:38.768000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:34.861000" end="1:03:38.768000" persName="Informant EXP5" age_lower="" age_upper="999">
 ganz	-	-	-	1:03:34.861000	1:03:35.785000
 verschiedene	-	-	-	1:03:34.861000	1:03:35.785000
 ,	-	-	-	1:03:34.861000	1:03:35.785000
@@ -16905,7 +16905,7 @@ für	-	-	-	1:03:36.663000	1:03:38.768000
 Hobbies	-	-	-	1:03:36.663000	1:03:38.768000
 ?	-	-	-	1:03:36.663000	1:03:38.768000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:38.768000" end="1:03:41.599000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:38.768000" end="1:03:41.599000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	1:03:39.896000	1:03:41.599000
 ,	-	-	-	1:03:39.896000	1:03:41.599000
@@ -16916,22 +16916,22 @@ beim	-	-	-	1:03:39.896000	1:03:41.599000
 Musikverein	-	-	-	1:03:39.896000	1:03:41.599000
 ,	-	-	-	1:03:39.896000	1:03:41.599000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:41.599000" end="1:03:42.141000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:41.599000" end="1:03:42.141000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:41.599000	1:03:42.141000
 .	-	-	-	1:03:41.599000	1:03:42.141000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:42.141000" end="1:03:45.135000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:42.141000" end="1:03:45.135000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	1:03:42.141000	1:03:44.476000
 eben	-	-	-	1:03:42.141000	1:03:44.476000
 lesen	-	-	-	1:03:42.141000	1:03:44.476000
 und	-	-	-	1:03:44.476000	1:03:45.135000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:44.476000" end="1:03:45.135000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:44.476000" end="1:03:45.135000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:44.476000	1:03:45.135000
 .	-	-	-	1:03:44.476000	1:03:45.135000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:45.135000" end="1:03:47.562000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:45.135000" end="1:03:47.562000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:03:45.135000	1:03:46.311000
 halt	-	-	-	1:03:45.135000	1:03:46.311000
 Natur	-	-	-	1:03:45.135000	1:03:46.311000
@@ -16943,19 +16943,19 @@ gerne	-	-	-	1:03:46.311000	1:03:47.562000
 draußen	-	-	-	1:03:46.311000	1:03:47.562000
 .	-	-	-	1:03:46.311000	1:03:47.562000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:47.562000" end="1:03:48.050000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:47.562000" end="1:03:48.050000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:03:47.562000	1:03:48.050000
 .	-	-	-	1:03:47.562000	1:03:48.050000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:48.050000" end="1:03:48.881000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:48.050000" end="1:03:48.881000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:48.050000	1:03:48.881000
 .	-	-	-	1:03:48.050000	1:03:48.881000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:48.881000" end="1:03:49.368000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:48.881000" end="1:03:49.368000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:03:48.881000	1:03:49.368000
 .	-	-	-	1:03:48.881000	1:03:49.368000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:49.368000" end="1:03:50.932000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:49.368000" end="1:03:50.932000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 gemütlich	-	-	-	1:03:49.368000	1:03:49.969000
 .	-	-	-	1:03:49.368000	1:03:49.969000
 schwimmen	-	-	-	1:03:49.969000	1:03:50.932000
@@ -16963,7 +16963,7 @@ und	-	-	-	1:03:49.969000	1:03:50.932000
 so	-	-	-	1:03:49.969000	1:03:50.932000
 .	-	-	-	1:03:49.969000	1:03:50.932000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:49.969000" end="1:03:53.750000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:49.969000" end="1:03:53.750000" persName="Informant EXP5" age_lower="" age_upper="999">
 und	-	-	-	1:03:49.969000	1:03:50.932000
 im	-	-	-	1:03:49.969000	1:03:50.932000
 Musik/	-	-	-	1:03:49.969000	1:03:50.932000
@@ -16980,13 +16980,13 @@ was	-	-	-	1:03:52.045000	1:03:53.750000
 mach/	-	-	-	1:03:52.045000	1:03:53.750000
 /?	-	-	-	1:03:52.045000	1:03:53.750000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:53.750000" end="1:03:55.856000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:53.750000" end="1:03:55.856000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Saxophon	-	-	-	1:03:53.750000	1:03:54.363000
 .	-	-	-	1:03:53.750000	1:03:54.363000
 mhm	-	-	-	1:03:54.363000	1:03:55.856000
 .	-	-	-	1:03:54.363000	1:03:55.856000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:54.363000" end="1:03:55.856000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:54.363000" end="1:03:55.856000" persName="Informant EXP5" age_lower="" age_upper="999">
 oh	-	-	-	1:03:54.363000	1:03:55.856000
 ,	-	-	-	1:03:54.363000	1:03:55.856000
 cool	-	-	-	1:03:54.363000	1:03:55.856000
@@ -16994,7 +16994,7 @@ cool	-	-	-	1:03:54.363000	1:03:55.856000
 toll	-	-	-	1:03:54.363000	1:03:55.856000
 .	-	-	-	1:03:54.363000	1:03:55.856000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:55.856000" end="1:03:57.489000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:55.856000" end="1:03:57.489000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:55.856000	1:03:57.489000
 ,	-	-	-	1:03:55.856000	1:03:57.489000
 also	-	-	-	1:03:55.856000	1:03:57.489000
@@ -17002,19 +17002,19 @@ das	-	-	-	1:03:55.856000	1:03:57.489000
 ist	-	-	-	1:03:55.856000	1:03:57.489000
 so	-	-	-	1:03:55.856000	1:03:57.489000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:55.856000" end="1:03:57.927000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:55.856000" end="1:03:57.927000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:03:55.856000	1:03:57.489000
 .	-	-	-	1:03:55.856000	1:03:57.489000
 mhm	-	-	-	1:03:57.489000	1:03:57.927000
 .	-	-	-	1:03:57.489000	1:03:57.927000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:03:57.927000" end="1:03:59.254000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:03:57.927000" end="1:03:59.254000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	1:03:57.927000	1:03:59.254000
 das	-	-	-	1:03:57.927000	1:03:59.254000
 Haupthobby	-	-	-	1:03:57.927000	1:03:59.254000
 .	-	-	-	1:03:57.927000	1:03:59.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:03:59.254000" end="1:04:04.894000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:03:59.254000" end="1:04:04.894000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:03:59.254000	1:04:00.261000
 .	-	-	-	1:03:59.254000	1:04:00.261000
 <pause duration="0,7s"/>
@@ -17035,22 +17035,22 @@ in	-	-	-	1:04:03.031000	1:04:04.894000
 Raggal	-	-	-	1:04:03.031000	1:04:04.894000
 oder	-	-	-	1:04:03.031000	1:04:04.894000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:04.894000" end="1:04:05.290000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:04.894000" end="1:04:05.290000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	1:04:04.894000	1:04:05.290000
 .	-	-	-	1:04:04.894000	1:04:05.290000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:04.894000" end="1:04:05.290000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:04.894000" end="1:04:05.290000" persName="Informant EXP5" age_lower="" age_upper="999">
 wo	-	-	-	1:04:04.894000	1:04:05.290000
 ?	-	-	-	1:04:04.894000	1:04:05.290000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:05.290000" end="1:04:06.973000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:05.290000" end="1:04:06.973000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:04:05.290000	1:04:06.973000
 ,	-	-	-	1:04:05.290000	1:04:06.973000
 ist	-	-	-	1:04:05.290000	1:04:06.973000
 Raggal	-	-	-	1:04:05.290000	1:04:06.973000
 .	-	-	-	1:04:05.290000	1:04:06.973000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:05.290000" end="1:04:06.973000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:05.290000" end="1:04:06.973000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:04:05.290000	1:04:06.973000
 ,	-	-	-	1:04:05.290000	1:04:06.973000
 mhm	-	-	-	1:04:05.290000	1:04:06.973000
@@ -17058,10 +17058,10 @@ mhm	-	-	-	1:04:05.290000	1:04:06.973000
 mhm	-	-	-	1:04:05.290000	1:04:06.973000
 .	-	-	-	1:04:05.290000	1:04:06.973000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:06.973000" end="1:04:08.364000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:06.973000" end="1:04:08.364000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:06.973000" end="1:04:11.615000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:06.973000" end="1:04:11.615000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 treffen	-	-	-	1:04:08.364000	1:04:10.423000
 Sie	-	-	-	1:04:08.364000	1:04:10.423000
@@ -17074,18 +17074,18 @@ oder	-	-	-	1:04:10.423000	1:04:11.615000
 Bekannten	-	-	-	1:04:10.423000	1:04:11.615000
 ?	-	-	-	1:04:10.423000	1:04:11.615000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:11.615000" end="1:04:13.332000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:11.615000" end="1:04:13.332000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:04:11.615000	1:04:12.322000
 .	-	-	-	1:04:11.615000	1:04:12.322000
 also	-	-	-	1:04:12.322000	1:04:13.332000
 wenn	-	-	-	1:04:12.322000	1:04:13.332000
 es	-	-	-	1:04:12.322000	1:04:13.332000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:12.322000" end="1:04:13.332000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:12.322000" end="1:04:13.332000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:12.322000	1:04:13.332000
 .	-	-	-	1:04:12.322000	1:04:13.332000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:13.332000" end="1:04:16.640000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:13.332000" end="1:04:16.640000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Zei/	-	-	-	1:04:13.332000	1:04:14.694000
 Zeit	-	-	-	1:04:13.332000	1:04:14.694000
 zulässt	-	-	-	1:04:13.332000	1:04:14.694000
@@ -17100,7 +17100,7 @@ also	-	-	-	1:04:14.694000	1:04:16.031000
 mhm	-	-	-	1:04:16.031000	1:04:16.640000
 .	-	-	-	1:04:16.031000	1:04:16.640000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:16.031000" end="1:04:21.652000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:16.031000" end="1:04:21.652000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:16.031000	1:04:16.640000
 .	-	-	-	1:04:16.031000	1:04:16.640000
 und	-	-	-	1:04:16.640000	1:04:19.645000
@@ -17119,7 +17119,7 @@ anderen	-	-	-	1:04:19.645000	1:04:21.652000
 Orten	-	-	-	1:04:19.645000	1:04:21.652000
 ?	-	-	-	1:04:19.645000	1:04:21.652000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:21.652000" end="1:04:26.042000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:21.652000" end="1:04:26.042000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 Großteils	-	-	-	1:04:21.652000	1:04:24.637000
 sind	-	-	-	1:04:21.652000	1:04:24.637000
@@ -17130,22 +17130,22 @@ halt	-	-	-	1:04:24.637000	1:04:26.042000
 Walser	-	-	-	1:04:24.637000	1:04:26.042000
 .	-	-	-	1:04:24.637000	1:04:26.042000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:24.637000" end="1:04:26.042000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:24.637000" end="1:04:26.042000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:24.637000	1:04:26.042000
 ,	-	-	-	1:04:24.637000	1:04:26.042000
 ja	-	-	-	1:04:24.637000	1:04:26.042000
 .	-	-	-	1:04:24.637000	1:04:26.042000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:26.042000" end="1:04:27.135000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:26.042000" end="1:04:27.135000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:04:26.042000	1:04:27.135000
 also	-	-	-	1:04:26.042000	1:04:27.135000
 ,	-	-	-	1:04:26.042000	1:04:27.135000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:26.042000" end="1:04:27.135000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:26.042000" end="1:04:27.135000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:26.042000	1:04:27.135000
 ,	-	-	-	1:04:26.042000	1:04:27.135000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:27.135000" end="1:04:30.876000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:27.135000" end="1:04:30.876000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:04:27.135000	1:04:28.390000
 ,	-	-	-	1:04:27.135000	1:04:28.390000
 ein	-	-	-	1:04:27.135000	1:04:28.390000
@@ -17162,7 +17162,7 @@ Großteils	-	-	-	1:04:29.795000	1:04:30.876000
 Walser	-	-	-	1:04:29.795000	1:04:30.876000
 .	-	-	-	1:04:29.795000	1:04:30.876000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:29.795000" end="1:04:35.464000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:29.795000" end="1:04:35.464000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:29.795000	1:04:30.876000
 .	-	-	-	1:04:29.795000	1:04:30.876000
 Großteils	-	-	-	1:04:30.876000	1:04:32.596000
@@ -17181,13 +17181,13 @@ dann	-	-	-	1:04:32.596000	1:04:35.464000
 wie	-	-	-	1:04:32.596000	1:04:35.464000
 ?	-	-	-	1:04:32.596000	1:04:35.464000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:35.464000" end="1:04:37.802000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:35.464000" end="1:04:37.802000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Walserisch	-	-	-	1:04:35.464000	1:04:36.199000
 .	-	-	-	1:04:35.464000	1:04:36.199000
 ja	-	-	-	1:04:36.199000	1:04:37.802000
 .	-	-	-	1:04:36.199000	1:04:37.802000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:36.199000" end="1:04:45.207000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:36.199000" end="1:04:45.207000" persName="Informant EXP5" age_lower="" age_upper="999">
 Walserisch	-	-	-	1:04:36.199000	1:04:37.802000
 ,	-	-	-	1:04:36.199000	1:04:37.802000
 ja	-	-	-	1:04:36.199000	1:04:37.802000
@@ -17224,7 +17224,7 @@ es	-	-	-	1:04:41.647000	1:04:45.207000
 eher	-	-	-	1:04:41.647000	1:04:45.207000
 nicht	-	-	-	1:04:41.647000	1:04:45.207000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:45.207000" end="1:04:46.521000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:45.207000" end="1:04:46.521000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:04:45.207000	1:04:46.521000
 ,	-	-	-	1:04:45.207000	1:04:46.521000
 gibt	-	-	-	1:04:45.207000	1:04:46.521000
@@ -17232,19 +17232,19 @@ es	-	-	-	1:04:45.207000	1:04:46.521000
 schon	-	-	-	1:04:45.207000	1:04:46.521000
 .	-	-	-	1:04:45.207000	1:04:46.521000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:45.207000" end="1:04:46.521000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:45.207000" end="1:04:46.521000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	-	-	-	1:04:45.207000	1:04:46.521000
 ?	-	-	-	1:04:45.207000	1:04:46.521000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:46.521000" end="1:04:46.936000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:46.521000" end="1:04:46.936000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:04:46.521000	1:04:46.936000
 ,	-	-	-	1:04:46.521000	1:04:46.936000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:46.521000" end="1:04:46.936000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:46.521000" end="1:04:46.936000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:46.521000	1:04:46.936000
 .	-	-	-	1:04:46.521000	1:04:46.936000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:46.936000" end="1:04:50.947000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:46.936000" end="1:04:50.947000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	1:04:46.936000	1:04:48.140000
 denen	-	-	-	1:04:46.936000	1:04:48.140000
 rede	-	-	-	1:04:46.936000	1:04:48.140000
@@ -17266,11 +17266,11 @@ und	-	-	-	1:04:50.257000	1:04:50.947000
 dann	-	-	-	1:04:50.257000	1:04:50.947000
 ,	-	-	-	1:04:50.257000	1:04:50.947000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:50.257000" end="1:04:50.947000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:50.257000" end="1:04:50.947000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:04:50.257000	1:04:50.947000
 .	-	-	-	1:04:50.257000	1:04:50.947000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:50.947000" end="1:04:55.831000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:50.947000" end="1:04:55.831000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	1:04:50.947000	1:04:52.338000
 denen	-	-	-	1:04:50.947000	1:04:52.338000
 rede	-	-	-	1:04:50.947000	1:04:52.338000
@@ -17296,11 +17296,11 @@ ein	-	-	-	1:04:54.401000	1:04:55.831000
 Unterschied	-	-	-	1:04:54.401000	1:04:55.831000
 ,	-	-	-	1:04:54.401000	1:04:55.831000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:54.401000" end="1:04:55.831000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:54.401000" end="1:04:55.831000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:04:54.401000	1:04:55.831000
 .	-	-	-	1:04:54.401000	1:04:55.831000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:04:55.831000" end="1:04:57.581000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:04:55.831000" end="1:04:57.581000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:04:55.831000	1:04:57.581000
 ich	-	-	-	1:04:55.831000	1:04:57.581000
 rede	-	-	-	1:04:55.831000	1:04:57.581000
@@ -17308,7 +17308,7 @@ auch	-	-	-	1:04:55.831000	1:04:57.581000
 Walserisch	-	-	-	1:04:55.831000	1:04:57.581000
 .	-	-	-	1:04:55.831000	1:04:57.581000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:04:55.831000" end="1:05:02.175000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:04:55.831000" end="1:05:02.175000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:04:55.831000	1:04:57.581000
 .	-	-	-	1:04:55.831000	1:04:57.581000
 ah	-	-	-	1:04:57.581000	1:04:59.086000
@@ -17328,20 +17328,20 @@ und	-	-	-	1:05:00.315000	1:05:02.175000
 zu	-	-	-	1:05:00.315000	1:05:02.175000
 ?	-	-	-	1:05:00.315000	1:05:02.175000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:02.175000" end="1:05:04.839000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:02.175000" end="1:05:04.839000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:05:02.175000	1:05:03.066000
 .	-	-	-	1:05:02.175000	1:05:03.066000
 mhm	-	-	-	1:05:03.066000	1:05:04.839000
 .	-	-	-	1:05:03.066000	1:05:04.839000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:03.066000" end="1:05:04.839000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:03.066000" end="1:05:04.839000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:03.066000	1:05:04.839000
 ,	-	-	-	1:05:03.066000	1:05:04.839000
 wohin	-	-	-	1:05:03.066000	1:05:04.839000
 so	-	-	-	1:05:03.066000	1:05:04.839000
 ?	-	-	-	1:05:03.066000	1:05:04.839000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:04.839000" end="1:05:12.798000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:04.839000" end="1:05:12.798000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 verschieden	-	-	-	1:05:04.839000	1:05:07.574000
 ,	-	-	-	1:05:04.839000	1:05:07.574000
@@ -17366,7 +17366,7 @@ verschieden	-	-	-	1:05:07.574000	1:05:10.477000
 ja	-	-	-	1:05:10.477000	1:05:12.798000
 .	-	-	-	1:05:10.477000	1:05:12.798000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:10.477000" end="1:05:17.081000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:10.477000" end="1:05:17.081000" persName="Informant EXP5" age_lower="" age_upper="999">
 schön	-	-	-	1:05:10.477000	1:05:12.798000
 ,	-	-	-	1:05:10.477000	1:05:12.798000
 okay	-	-	-	1:05:10.477000	1:05:12.798000
@@ -17384,7 +17384,7 @@ mal	-	-	-	1:05:15.950000	1:05:17.081000
 beruflicher	-	-	-	1:05:15.950000	1:05:17.081000
 /?	-	-	-	1:05:15.950000	1:05:17.081000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:17.081000" end="1:05:19.263000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:17.081000" end="1:05:19.263000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	1:05:17.081000	1:05:19.263000
 ,	-	-	-	1:05:17.081000	1:05:19.263000
 nur	-	-	-	1:05:17.081000	1:05:19.263000
@@ -17395,7 +17395,7 @@ privat	-	-	-	1:05:17.081000	1:05:19.263000
 mhm	-	-	-	1:05:17.081000	1:05:19.263000
 .	-	-	-	1:05:17.081000	1:05:19.263000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:17.081000" end="1:05:21.798000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:17.081000" end="1:05:21.798000" persName="Informant EXP5" age_lower="" age_upper="999">
 nein	-	-	-	1:05:17.081000	1:05:19.263000
 ,	-	-	-	1:05:17.081000	1:05:19.263000
 privat	-	-	-	1:05:17.081000	1:05:19.263000
@@ -17412,7 +17412,7 @@ circa	-	-	-	1:05:19.263000	1:05:21.798000
 so	-	-	-	1:05:19.263000	1:05:21.798000
 ?	-	-	-	1:05:19.263000	1:05:21.798000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:21.798000" end="1:05:23.770000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:21.798000" end="1:05:23.770000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	1:05:21.798000	1:05:23.770000
 ,	-	-	-	1:05:21.798000	1:05:23.770000
@@ -17423,11 +17423,11 @@ im	-	-	-	1:05:21.798000	1:05:23.770000
 Jahr	-	-	-	1:05:21.798000	1:05:23.770000
 .	-	-	-	1:05:21.798000	1:05:23.770000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:23.770000" end="1:05:24.091000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:23.770000" end="1:05:24.091000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:23.770000	1:05:24.091000
 .	-	-	-	1:05:23.770000	1:05:24.091000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:24.091000" end="1:05:25.983000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:24.091000" end="1:05:25.983000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:05:24.091000	1:05:25.617000
 ,	-	-	-	1:05:24.091000	1:05:25.617000
 ein	-	-	-	1:05:24.091000	1:05:25.617000
@@ -17438,11 +17438,11 @@ Jahr	-	-	-	1:05:24.091000	1:05:25.617000
 .	-	-	-	1:05:24.091000	1:05:25.617000
 wenn	-	-	-	1:05:25.617000	1:05:25.983000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:25.617000" end="1:05:25.983000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:25.617000" end="1:05:25.983000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:25.617000	1:05:25.983000
 .	-	-	-	1:05:25.617000	1:05:25.983000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:25.983000" end="1:05:28.471000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:25.983000" end="1:05:28.471000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 sich	-	-	-	1:05:25.983000	1:05:26.508000
 es	-	-	-	1:05:25.983000	1:05:26.508000
 ausgeht	-	-	-	1:05:25.983000	1:05:26.508000
@@ -17454,13 +17454,13 @@ einmal	-	-	-	1:05:26.508000	1:05:28.471000
 ja	-	-	-	1:05:26.508000	1:05:28.471000
 .	-	-	-	1:05:26.508000	1:05:28.471000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:26.508000" end="1:05:28.471000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:26.508000" end="1:05:28.471000" persName="Informant EXP5" age_lower="" age_upper="999">
 schön	-	-	-	1:05:26.508000	1:05:28.471000
 .	-	-	-	1:05:26.508000	1:05:28.471000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:28.471000" end="1:05:30.329000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:28.471000" end="1:05:30.329000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:28.471000" end="1:05:33.603000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:28.471000" end="1:05:33.603000" persName="Informant EXP5" age_lower="" age_upper="999">
 ähm	-	-	-	1:05:30.329000	1:05:31.406000
 ,	-	-	-	1:05:30.329000	1:05:31.406000
 wohnen	-	-	-	1:05:31.406000	1:05:33.603000
@@ -17470,22 +17470,22 @@ in	-	-	-	1:05:31.406000	1:05:33.603000
 Raggal	-	-	-	1:05:31.406000	1:05:33.603000
 ?	-	-	-	1:05:31.406000	1:05:33.603000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:33.603000" end="1:05:35.518000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:33.603000" end="1:05:35.518000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:05:33.603000	1:05:34.185000
 .	-	-	-	1:05:33.603000	1:05:34.185000
 ja	-	-	-	1:05:34.185000	1:05:35.518000
 .	-	-	-	1:05:34.185000	1:05:35.518000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:34.185000" end="1:05:35.518000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:34.185000" end="1:05:35.518000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:34.185000	1:05:35.518000
 ?	-	-	-	1:05:34.185000	1:05:35.518000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:35.518000" end="1:05:36.690000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:35.518000" end="1:05:36.690000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ganz	-	-	-	1:05:35.518000	1:05:36.690000
 gern	-	-	-	1:05:35.518000	1:05:36.690000
 .	-	-	-	1:05:35.518000	1:05:36.690000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:36.690000" end="1:05:39.543000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:36.690000" end="1:05:39.543000" persName="Informant EXP5" age_lower="" age_upper="999">
 warum	-	-	-	1:05:36.690000	1:05:39.543000
 ist	-	-	-	1:05:36.690000	1:05:39.543000
 es	-	-	-	1:05:36.690000	1:05:39.543000
@@ -17494,7 +17494,7 @@ besonders	-	-	-	1:05:36.690000	1:05:39.543000
 schön	-	-	-	1:05:36.690000	1:05:39.543000
 ?	-	-	-	1:05:36.690000	1:05:39.543000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:39.543000" end="1:05:43.113000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:39.543000" end="1:05:43.113000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:05:39.543000	1:05:41.914000
 ,	-	-	-	1:05:39.543000	1:05:41.914000
 es	-	-	-	1:05:39.543000	1:05:41.914000
@@ -17508,11 +17508,11 @@ kennt	-	-	-	1:05:41.914000	1:05:43.113000
 jeden	-	-	-	1:05:41.914000	1:05:43.113000
 .	-	-	-	1:05:41.914000	1:05:43.113000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:43.113000" end="1:05:43.479000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:43.113000" end="1:05:43.479000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:43.113000	1:05:43.479000
 .	-	-	-	1:05:43.113000	1:05:43.479000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:43.479000" end="1:05:50.866000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:43.479000" end="1:05:50.866000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 hm	-	-	-	1:05:43.479000	1:05:45.014000
 ,	-	-	-	1:05:43.479000	1:05:45.014000
 man	-	-	-	1:05:43.479000	1:05:45.014000
@@ -17542,13 +17542,13 @@ und	-	-	-	1:05:49.044000	1:05:50.866000
 du	-	-	-	1:05:49.044000	1:05:50.866000
 bist	-	-	-	1:05:49.044000	1:05:50.866000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:49.044000" end="1:05:50.866000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:49.044000" end="1:05:50.866000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:05:49.044000	1:05:50.866000
 ,	-	-	-	1:05:49.044000	1:05:50.866000
 mhm	-	-	-	1:05:49.044000	1:05:50.866000
 .	-	-	-	1:05:49.044000	1:05:50.866000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:50.866000" end="1:05:54.977000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:50.866000" end="1:05:54.977000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	1:05:50.866000	1:05:52.834000
 ein	-	-	-	1:05:50.866000	1:05:52.834000
 bisschen	-	-	-	1:05:50.866000	1:05:52.834000
@@ -17562,13 +17562,13 @@ kein	-	-	-	1:05:52.834000	1:05:54.977000
 Stadtmensch	-	-	-	1:05:52.834000	1:05:54.977000
 .	-	-	-	1:05:52.834000	1:05:54.977000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:05:54.977000" end="1:05:56.007000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:05:54.977000" end="1:05:56.007000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:05:54.977000	1:05:56.007000
 ,	-	-	-	1:05:54.977000	1:05:56.007000
 ja	-	-	-	1:05:54.977000	1:05:56.007000
 .	-	-	-	1:05:54.977000	1:05:56.007000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:05:56.007000" end="1:06:00.585000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:05:56.007000" end="1:06:00.585000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:05:56.007000	1:05:59.464000
 du	-	-	-	1:05:56.007000	1:05:59.464000
 hast	-	-	-	1:05:56.007000	1:05:59.464000
@@ -17588,11 +17588,11 @@ auch	-	-	-	1:05:59.464000	1:06:00.585000
 Nachteile	-	-	-	1:05:59.464000	1:06:00.585000
 ,	-	-	-	1:05:59.464000	1:06:00.585000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:00.585000" end="1:06:01.043000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:00.585000" end="1:06:01.043000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:06:00.585000	1:06:01.043000
 .	-	-	-	1:06:00.585000	1:06:01.043000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:01.043000" end="1:06:03.528000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:01.043000" end="1:06:03.528000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:06:01.043000	1:06:01.656000
 /.	-	-	-	1:06:01.043000	1:06:01.656000
 <pause duration="0,6s"/>
@@ -17602,7 +17602,7 @@ täte	-	-	-	1:06:01.656000	1:06:03.528000
 nicht	-	-	-	1:06:01.656000	1:06:03.528000
 hinausziehen	-	-	-	1:06:01.656000	1:06:03.528000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:03.528000" end="1:06:13.093000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:03.528000" end="1:06:13.093000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:06:03.528000	1:06:03.824000
 ,	-	-	-	1:06:03.528000	1:06:03.824000
 das	-	-	-	1:06:03.824000	1:06:05.982000
@@ -17632,7 +17632,7 @@ Raggal	-	-	-	1:06:11.093000	1:06:13.093000
 wegzuziehen	-	-	-	1:06:11.093000	1:06:13.093000
 ?	-	-	-	1:06:11.093000	1:06:13.093000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:13.093000" end="1:06:16.551000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:13.093000" end="1:06:16.551000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 w/	-	-	-	1:06:13.093000	1:06:15.703000
 wenn	-	-	-	1:06:13.093000	1:06:15.703000
@@ -17644,11 +17644,11 @@ geht	-	-	-	1:06:13.093000	1:06:15.703000
 ja	-	-	-	1:06:15.703000	1:06:16.551000
 .	-	-	-	1:06:15.703000	1:06:16.551000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:15.703000" end="1:06:16.551000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:15.703000" end="1:06:16.551000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:06:15.703000	1:06:16.551000
 .	-	-	-	1:06:15.703000	1:06:16.551000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:16.551000" end="1:06:19.491000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:16.551000" end="1:06:19.491000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:06:16.551000	1:06:18.264000
 wenn	-	-	-	1:06:16.551000	1:06:18.264000
 es	-	-	-	1:06:16.551000	1:06:18.264000
@@ -17667,7 +17667,7 @@ schon	-	-	-	1:06:18.264000	1:06:19.491000
 da	-	-	-	1:06:18.264000	1:06:19.491000
 .	-	-	-	1:06:18.264000	1:06:19.491000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:18.264000" end="1:06:25.110000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:18.264000" end="1:06:25.110000" persName="Informant EXP5" age_lower="" age_upper="999">
 dann	-	-	-	1:06:18.264000	1:06:19.491000
 nicht	-	-	-	1:06:18.264000	1:06:19.491000
 ,	-	-	-	1:06:18.264000	1:06:19.491000
@@ -17696,21 +17696,21 @@ würden	-	-	-	1:06:21.157000	1:06:24.745000
 was	-	-	-	1:06:24.745000	1:06:25.110000
 /?	-	-	-	1:06:24.745000	1:06:25.110000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:25.110000" end="1:06:26.620000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:25.110000" end="1:06:26.620000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:25.110000" end="1:06:26.620000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:25.110000" end="1:06:26.620000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:26.620000" end="1:06:27.373000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:26.620000" end="1:06:27.373000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schwierig	-	-	-	1:06:26.620000	1:06:27.373000
 .	-	-	-	1:06:26.620000	1:06:27.373000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:26.620000" end="1:06:27.373000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:26.620000" end="1:06:27.373000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	1:06:26.620000	1:06:27.373000
 /?	-	-	-	1:06:26.620000	1:06:27.373000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:27.373000" end="1:06:35.561000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:27.373000" end="1:06:35.561000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 schwierig	-	-	-	1:06:27.373000	1:06:28.571000
 .	-	-	-	1:06:27.373000	1:06:28.571000
@@ -17741,11 +17741,11 @@ ausziehen	-	-	-	1:06:33.939000	1:06:35.561000
 will	-	-	-	1:06:33.939000	1:06:35.561000
 ,	-	-	-	1:06:33.939000	1:06:35.561000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:35.561000" end="1:06:36.003000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:35.561000" end="1:06:36.003000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:06:35.561000	1:06:36.003000
 .	-	-	-	1:06:35.561000	1:06:36.003000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:36.003000" end="1:06:41.056000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:36.003000" end="1:06:41.056000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 dann	-	-	-	1:06:36.003000	1:06:38.254000
 <pause duration="0,6s"/>
@@ -17761,11 +17761,11 @@ Walsertal	-	-	-	1:06:38.254000	1:06:41.056000
 suchen	-	-	-	1:06:38.254000	1:06:41.056000
 .	-	-	-	1:06:38.254000	1:06:41.056000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:41.056000" end="1:06:41.351000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:41.056000" end="1:06:41.351000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:06:41.056000	1:06:41.351000
 .	-	-	-	1:06:41.056000	1:06:41.351000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:41.351000" end="1:06:42.828000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:41.351000" end="1:06:42.828000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:06:41.351000	1:06:42.363000
 das	-	-	-	1:06:41.351000	1:06:42.363000
 täte	-	-	-	1:06:41.351000	1:06:42.363000
@@ -17775,11 +17775,11 @@ ich	-	-	-	1:06:42.363000	1:06:42.828000
 täte	-	-	-	1:06:42.363000	1:06:42.828000
 ,	-	-	-	1:06:42.363000	1:06:42.828000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:42.363000" end="1:06:42.828000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:42.363000" end="1:06:42.828000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:06:42.363000	1:06:42.828000
 .	-	-	-	1:06:42.363000	1:06:42.828000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:42.828000" end="1:06:46.934000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:42.828000" end="1:06:46.934000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:06:42.828000	1:06:44.772000
 ich	-	-	-	1:06:42.828000	1:06:44.772000
 täte	-	-	-	1:06:42.828000	1:06:44.772000
@@ -17799,13 +17799,13 @@ im	-	-	-	1:06:45.969000	1:06:46.934000
 Tal	-	-	-	1:06:45.969000	1:06:46.934000
 .	-	-	-	1:06:45.969000	1:06:46.934000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:45.969000" end="1:06:47.218000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:45.969000" end="1:06:47.218000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:06:45.969000	1:06:46.934000
 ,	-	-	-	1:06:45.969000	1:06:46.934000
 ja	-	-	-	1:06:46.934000	1:06:47.218000
 .	-	-	-	1:06:46.934000	1:06:47.218000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:47.218000" end="1:06:51.050000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:47.218000" end="1:06:51.050000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:06:47.218000	1:06:49.050000
 sonst	-	-	-	1:06:47.218000	1:06:49.050000
 halt	-	-	-	1:06:47.218000	1:06:49.050000
@@ -17822,7 +17822,7 @@ oder	-	-	-	1:06:49.050000	1:06:51.050000
 so	-	-	-	1:06:49.050000	1:06:51.050000
 .	-	-	-	1:06:49.050000	1:06:51.050000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:49.050000" end="1:06:51.050000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:49.050000" end="1:06:51.050000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:06:49.050000	1:06:51.050000
 ,	-	-	-	1:06:49.050000	1:06:51.050000
 ja	-	-	-	1:06:49.050000	1:06:51.050000
@@ -17830,16 +17830,16 @@ ja	-	-	-	1:06:49.050000	1:06:51.050000
 ja	-	-	-	1:06:49.050000	1:06:51.050000
 .	-	-	-	1:06:49.050000	1:06:51.050000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:51.050000" end="1:06:51.702000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:51.050000" end="1:06:51.702000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:51.050000" end="1:06:53.019000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:51.050000" end="1:06:53.019000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:06:51.050000	1:06:51.702000
 .	-	-	-	1:06:51.050000	1:06:51.702000
 <pause duration="0,7s"/>
 okay	-	-	-	1:06:51.702000	1:06:53.019000
 .	-	-	-	1:06:51.702000	1:06:53.019000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:53.019000" end="1:06:54.997000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:53.019000" end="1:06:54.997000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:06:53.019000	1:06:54.997000
 nur	-	-	-	1:06:53.019000	1:06:54.997000
 ,	-	-	-	1:06:53.019000	1:06:54.997000
@@ -17849,7 +17849,7 @@ sein	-	-	-	1:06:53.019000	1:06:54.997000
 muss	-	-	-	1:06:53.019000	1:06:54.997000
 .	-	-	-	1:06:53.019000	1:06:54.997000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:54.997000" end="1:06:58.683000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:54.997000" end="1:06:58.683000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 genau	-	-	-	1:06:54.997000	1:06:56.368000
 .	-	-	-	1:06:54.997000	1:06:56.368000
@@ -17864,11 +17864,11 @@ im	-	-	-	1:06:56.368000	1:06:58.683000
 Musikverein	-	-	-	1:06:56.368000	1:06:58.683000
 ,	-	-	-	1:06:56.368000	1:06:58.683000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:06:58.683000" end="1:06:59.237000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:06:58.683000" end="1:06:59.237000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	1:06:58.683000	1:06:59.237000
 .	-	-	-	1:06:58.683000	1:06:59.237000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:06:58.683000" end="1:07:03.556000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:06:58.683000" end="1:07:03.556000" persName="Informant EXP5" age_lower="" age_upper="999">
 oder	-	-	-	1:06:58.683000	1:06:59.237000
 ?	-	-	-	1:06:58.683000	1:06:59.237000
 genau	-	-	-	1:06:59.237000	1:07:00.789000
@@ -17883,11 +17883,11 @@ dort	-	-	-	1:07:00.789000	1:07:03.556000
 Saxophon	-	-	-	1:07:00.789000	1:07:03.556000
 ?	-	-	-	1:07:00.789000	1:07:03.556000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:03.556000" end="1:07:04.140000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:03.556000" end="1:07:04.140000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	1:07:03.556000	1:07:04.140000
 .	-	-	-	1:07:03.556000	1:07:04.140000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:04.140000" end="1:07:11.931000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:04.140000" end="1:07:11.931000" persName="Informant EXP5" age_lower="" age_upper="999">
 ah	-	-	-	1:07:04.140000	1:07:05.407000
 ,	-	-	-	1:07:04.140000	1:07:05.407000
 okay	-	-	-	1:07:04.140000	1:07:05.407000
@@ -17917,29 +17917,29 @@ wie	-	-	-	1:07:10.665000	1:07:11.931000
 wie	-	-	-	1:07:10.665000	1:07:11.931000
 funktioniert	-	-	-	1:07:10.665000	1:07:11.931000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:11.931000" end="1:07:13.111000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:11.931000" end="1:07:13.111000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:07:11.931000	1:07:13.111000
 ,	-	-	-	1:07:11.931000	1:07:13.111000
 also	-	-	-	1:07:11.931000	1:07:13.111000
 ich	-	-	-	1:07:11.931000	1:07:13.111000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:11.931000" end="1:07:13.111000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:11.931000" end="1:07:13.111000" persName="Informant EXP5" age_lower="" age_upper="999">
 das	-	-	-	1:07:11.931000	1:07:13.111000
 genau	-	-	-	1:07:11.931000	1:07:13.111000
 ,	-	-	-	1:07:11.931000	1:07:13.111000
 ähm	-	-	-	1:07:11.931000	1:07:13.111000
 /?	-	-	-	1:07:11.931000	1:07:13.111000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:13.111000" end="1:07:13.994000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:13.111000" end="1:07:13.994000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 bin	-	-	-	1:07:13.111000	1:07:13.994000
 im	-	-	-	1:07:13.111000	1:07:13.994000
 SONSTIGE	SONSTIGE	-	-	1:07:13.111000	1:07:13.994000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:13.994000" end="1:07:14.399000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:13.994000" end="1:07:14.399000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:07:13.994000	1:07:14.399000
 .	-	-	-	1:07:13.994000	1:07:14.399000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:14.399000" end="1:07:19.013000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:14.399000" end="1:07:19.013000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:07:14.399000	1:07:16.100000
 bin	-	-	-	1:07:14.399000	1:07:16.100000
 da	-	-	-	1:07:14.399000	1:07:16.100000
@@ -17956,20 +17956,20 @@ zuständig	-	-	-	1:07:16.100000	1:07:18.399000
 dass	-	-	-	1:07:18.399000	1:07:19.013000
 jeder	-	-	-	1:07:18.399000	1:07:19.013000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:18.399000" end="1:07:19.013000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:18.399000" end="1:07:19.013000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:07:18.399000	1:07:19.013000
 .	-	-	-	1:07:18.399000	1:07:19.013000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:19.013000" end="1:07:20.348000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:19.013000" end="1:07:20.348000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 schön	-	-	-	1:07:19.013000	1:07:20.348000
 ist	-	-	-	1:07:19.013000	1:07:20.348000
 und	-	-	-	1:07:19.013000	1:07:20.348000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:20.348000" end="1:07:20.863000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:20.348000" end="1:07:20.863000" persName="Informant EXP5" age_lower="" age_upper="999">
 oh	-	-	-	1:07:20.348000	1:07:20.863000
 .	-	-	-	1:07:20.348000	1:07:20.863000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:20.863000" end="1:07:27.546000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:20.863000" end="1:07:27.546000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 solche	-	-	-	1:07:20.863000	1:07:22.040000
 Sachen	-	-	-	1:07:20.863000	1:07:22.040000
 und	-	-	-	1:07:20.863000	1:07:22.040000
@@ -17996,11 +17996,11 @@ am	-	-	-	1:07:25.758000	1:07:27.546000
 Organisieren	-	-	-	1:07:25.758000	1:07:27.546000
 ,	-	-	-	1:07:25.758000	1:07:27.546000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:27.546000" end="1:07:28.071000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:27.546000" end="1:07:28.071000" persName="Informant EXP5" age_lower="" age_upper="999">
 oh	-	-	-	1:07:27.546000	1:07:28.071000
 .	-	-	-	1:07:27.546000	1:07:28.071000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:28.071000" end="1:07:30.480000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:28.071000" end="1:07:30.480000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	1:07:28.071000	1:07:29.179000
 bin	-	-	-	1:07:28.071000	1:07:29.179000
 ich	-	-	-	1:07:28.071000	1:07:29.179000
@@ -18011,11 +18011,11 @@ ich	-	-	-	1:07:29.179000	1:07:30.480000
 mit	-	-	-	1:07:29.179000	1:07:30.480000
 .	-	-	-	1:07:29.179000	1:07:30.480000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:30.480000" end="1:07:30.850000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:30.480000" end="1:07:30.850000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:07:30.480000	1:07:30.850000
 .	-	-	-	1:07:30.480000	1:07:30.850000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:30.850000" end="1:07:32.960000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:30.850000" end="1:07:32.960000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	1:07:30.850000	1:07:32.960000
 ,	-	-	-	1:07:30.850000	1:07:32.960000
 also	-	-	-	1:07:30.850000	1:07:32.960000
@@ -18024,30 +18024,30 @@ solche	-	-	-	1:07:30.850000	1:07:32.960000
 Sachen	-	-	-	1:07:30.850000	1:07:32.960000
 .	-	-	-	1:07:30.850000	1:07:32.960000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:32.960000" end="1:07:33.518000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:32.960000" end="1:07:33.518000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:07:32.960000	1:07:33.518000
 ,	-	-	-	1:07:32.960000	1:07:33.518000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:33.518000" end="1:07:34.102000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:33.518000" end="1:07:34.102000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	1:07:33.518000	1:07:34.102000
 halt	-	-	-	1:07:33.518000	1:07:34.102000
 ,	-	-	-	1:07:33.518000	1:07:34.102000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:33.518000" end="1:07:34.102000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:33.518000" end="1:07:34.102000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:07:33.518000	1:07:34.102000
 .	-	-	-	1:07:33.518000	1:07:34.102000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:34.102000" end="1:07:35.589000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:34.102000" end="1:07:35.589000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	1:07:34.102000	1:07:35.589000
 halt	-	-	-	1:07:34.102000	1:07:35.589000
 im	-	-	-	1:07:34.102000	1:07:35.589000
 Vorstand	-	-	-	1:07:34.102000	1:07:35.589000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:35.589000" end="1:07:36.054000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:35.589000" end="1:07:36.054000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	-	-	-	1:07:35.589000	1:07:36.054000
 .	-	-	-	1:07:35.589000	1:07:36.054000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:36.054000" end="1:07:39.018000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:36.054000" end="1:07:39.018000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 zum	-	-	-	1:07:36.054000	1:07:38.435000
 Sachen	-	-	-	1:07:36.054000	1:07:38.435000
 organisieren	-	-	-	1:07:36.054000	1:07:38.435000
@@ -18060,23 +18060,23 @@ aufgeteilt	-	-	-	1:07:36.054000	1:07:38.435000
 da	-	-	-	1:07:38.435000	1:07:39.018000
 macht	-	-	-	1:07:38.435000	1:07:39.018000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:38.435000" end="1:07:39.018000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:38.435000" end="1:07:39.018000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:07:38.435000	1:07:39.018000
 .	-	-	-	1:07:38.435000	1:07:39.018000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:39.018000" end="1:07:39.417000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:39.018000" end="1:07:39.417000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 jeder	-	-	-	1:07:39.018000	1:07:39.417000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:39.417000" end="1:07:40.242000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:39.417000" end="1:07:40.242000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	1:07:39.417000	1:07:40.242000
 .	-	-	-	1:07:39.417000	1:07:40.242000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:40.242000" end="1:07:42.610000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:40.242000" end="1:07:42.610000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 alles	-	-	-	1:07:40.242000	1:07:40.809000
 .	-	-	-	1:07:40.242000	1:07:40.809000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:40.809000" end="1:07:48.258000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:40.809000" end="1:07:48.258000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:07:40.809000	1:07:42.610000
 ,	-	-	-	1:07:40.809000	1:07:42.610000
 okay	-	-	-	1:07:40.809000	1:07:42.610000
@@ -18103,7 +18103,7 @@ eh	-	-	-	1:07:47.036000	1:07:48.258000
 schon	-	-	-	1:07:47.036000	1:07:48.258000
 ?	-	-	-	1:07:47.036000	1:07:48.258000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:48.258000" end="1:07:49.801000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:48.258000" end="1:07:49.801000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	1:07:48.258000	1:07:49.801000
 ,	-	-	-	1:07:48.258000	1:07:49.801000
 also	-	-	-	1:07:48.258000	1:07:49.801000
@@ -18112,11 +18112,11 @@ reicht	-	-	-	1:07:48.258000	1:07:49.801000
 es	-	-	-	1:07:48.258000	1:07:49.801000
 .	-	-	-	1:07:48.258000	1:07:49.801000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:48.258000" end="1:07:49.801000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:48.258000" end="1:07:49.801000" persName="Informant EXP5" age_lower="" age_upper="999">
 (also)	-	-	-	1:07:48.258000	1:07:49.801000
 /.	-	-	-	1:07:48.258000	1:07:49.801000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:49.801000" end="1:07:51.739000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:49.801000" end="1:07:51.739000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 Studium	-	-	-	1:07:49.801000	1:07:51.739000
 reicht	-	-	-	1:07:49.801000	1:07:51.739000
 es	-	-	-	1:07:49.801000	1:07:51.739000
@@ -18124,7 +18124,7 @@ es	-	-	-	1:07:49.801000	1:07:51.739000
 ja	-	-	-	1:07:49.801000	1:07:51.739000
 .	-	-	-	1:07:49.801000	1:07:51.739000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:49.801000" end="1:07:54.678000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:49.801000" end="1:07:54.678000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	-	-	-	1:07:49.801000	1:07:51.739000
 ,	-	-	-	1:07:49.801000	1:07:51.739000
 mim/	-	-	-	1:07:49.801000	1:07:51.739000
@@ -18146,9 +18146,9 @@ Sie	-	-	-	1:07:53.056000	1:07:54.678000
 wirklich	-	-	-	1:07:53.056000	1:07:54.678000
 ,	-	-	-	1:07:53.056000	1:07:54.678000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:07:54.678000" end="1:07:56.261000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:07:54.678000" end="1:07:56.261000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:07:54.678000" end="1:08:14.299000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:07:54.678000" end="1:08:14.299000" persName="Informant EXP5" age_lower="" age_upper="999">
 dass	-	-	-	1:07:54.678000	1:07:56.261000
 Sie	-	-	-	1:07:54.678000	1:07:56.261000
 das	-	-	-	1:07:54.678000	1:07:56.261000
@@ -18204,7 +18204,7 @@ würden	-	-	-	1:08:09.766000	1:08:12.457000
 oder	-	-	-	1:08:12.457000	1:08:14.299000
 /?	-	-	-	1:08:12.457000	1:08:14.299000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:08:14.299000" end="1:08:17.109000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:08:14.299000" end="1:08:17.109000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:08:14.299000	1:08:15.698000
 jetzt	-	-	-	1:08:14.299000	1:08:15.698000
 momentan	-	-	-	1:08:14.299000	1:08:15.698000
@@ -18215,11 +18215,11 @@ ein	-	-	-	1:08:15.698000	1:08:17.109000
 (so)	-	-	-	1:08:15.698000	1:08:17.109000
 .	-	-	-	1:08:15.698000	1:08:17.109000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:08:15.698000" end="1:08:17.109000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:08:15.698000" end="1:08:17.109000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:08:15.698000	1:08:17.109000
 .	-	-	-	1:08:15.698000	1:08:17.109000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:08:17.109000" end="1:08:19.935000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:08:17.109000" end="1:08:19.935000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	1:08:17.109000	1:08:18.066000
 ,	-	-	-	1:08:17.109000	1:08:18.066000
 haben	-	-	-	1:08:18.066000	1:08:19.935000
@@ -18229,7 +18229,7 @@ alles	-	-	-	1:08:18.066000	1:08:19.935000
 besprochen	-	-	-	1:08:18.066000	1:08:19.935000
 .	-	-	-	1:08:18.066000	1:08:19.935000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:08:18.066000" end="1:08:27.773000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:08:18.066000" end="1:08:27.773000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	-	-	-	1:08:18.066000	1:08:19.935000
 .	-	-	-	1:08:18.066000	1:08:19.935000
 super	-	-	-	1:08:19.935000	1:08:20.630000
@@ -18254,7 +18254,7 @@ mal	-	-	-	1:08:25.412000	1:08:27.773000
 durch	-	-	-	1:08:25.412000	1:08:27.773000
 .	-	-	-	1:08:25.412000	1:08:27.773000
 </u>
-<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" start="1:08:27.773000" end="1:08:29.773000" persName="Informant 0507">
+<u who="spk_92" sex="female" age="jung (18-35) +matura" name="Informant 0507" location="Raggal, Bludenz, Vorarlberg, 6741, Österreich" lat="47.2098330" lon="9.8374580" start="1:08:27.773000" end="1:08:29.773000" persName="Informant 0507" residence="Raggal, Bludenz, Vorarlberg, 6741, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	1:08:27.773000	1:08:29.773000
 .	-	-	-	1:08:27.773000	1:08:29.773000
 </u>

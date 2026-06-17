@@ -1,12 +1,12 @@
 <doc id="transcript_485" name="0366_PASS_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="485.xml" title="Transcript: Transcript_485">
-<u who="spk_482" sex="female" age="Alt (65+)" name="Informant 0366" start="0:00:19.133000" end="0:00:20.826000" persName="Informant 0366">
+<u who="spk_482" sex="female" age="Alt (65+)" name="Informant 0366" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:19.133000" end="0:00:20.826000" persName="Informant 0366" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="65" age_upper="999">
 Nordwind	-	-	-	0:00:19.133000	0:00:20.826000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:19.133000" end="0:00:20.826000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:19.133000" end="0:00:20.826000" persName="Informant EXP5" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:19.133000	0:00:20.826000
 </u>
-<u who="spk_482" sex="female" age="Alt (65+)" name="Informant 0366" start="0:00:19.133000" end="0:01:15.813000" persName="Informant 0366">
+<u who="spk_482" sex="female" age="Alt (65+)" name="Informant 0366" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:19.133000" end="0:01:15.813000" persName="Informant 0366" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="65" age_upper="999">
 und	-	-	-	0:00:19.133000	0:00:20.826000
 Sonne	-	-	-	0:00:19.133000	0:00:20.826000
 einst	-	-	LautNach LautVor MG Nas Ons Ons- sPal sPal- sPal-t	0:00:20.826000	0:00:24.700000

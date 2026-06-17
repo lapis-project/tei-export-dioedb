@@ -1,15 +1,15 @@
 <doc id="transcript_701" name="0645_HUTT_jungI_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="701.xml" title="Transcript: Transcript_701">
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:00" end="0:00:00.654000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:00" end="0:00:00.654000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:00	0:00:00.654000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:00.654000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:00.654000" persName="Informant EXP9" age_lower="" age_upper="999">
 loslegen	-	-	-	0:00:00	0:00:00.654000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:00" end="0:00:00.654000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:00" end="0:00:00.654000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 .	-	-	-	0:00:00	0:00:00.654000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:05.390000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:05.390000" persName="Informant EXP9" age_lower="" age_upper="999">
 ,	-	-	-	0:00:00	0:00:00.654000
 oder	-	-	-	0:00:00	0:00:00.654000
 ?	-	-	-	0:00:00	0:00:00.654000
@@ -28,7 +28,7 @@ Ihr	-	-	-	0:00:03.390000	0:00:05.390000
 Geburtsdatum	-	-	-	0:00:03.390000	0:00:05.390000
 ?	-	-	-	0:00:03.390000	0:00:05.390000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:05.390000" end="0:00:08.360000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:05.390000" end="0:00:08.360000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:05.390000	0:00:08.360000
 der	-	-	-	0:00:05.390000	0:00:08.360000
 ZAHL	ZAHL	-	-	0:00:05.390000	0:00:08.360000
@@ -37,14 +37,14 @@ neinten/	-	-	-	0:00:05.390000	0:00:08.360000
 ZAHL	ZAHL	-	-	0:00:05.390000	0:00:08.360000
 .	-	-	-	0:00:05.390000	0:00:08.360000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:08.360000" end="0:00:08.972000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:08.360000" end="0:00:08.972000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:08.360000	0:00:08.972000
 .	-	-	-	0:00:08.360000	0:00:08.972000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:08.972000" end="0:00:12.918000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:08.972000" end="0:00:12.918000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:08.972000" end="0:00:13.981000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:08.972000" end="0:00:13.981000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,9s"/>
 das	-	-	-	0:00:12.918000	0:00:13.981000
 ist	-	-	-	0:00:12.918000	0:00:13.981000
@@ -52,21 +52,21 @@ eigentlich	-	-	-	0:00:12.918000	0:00:13.981000
 ein	-	-	-	0:00:12.918000	0:00:13.981000
 nettes	-	-	-	0:00:12.918000	0:00:13.981000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:13.981000" end="0:00:15.578000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:13.981000" end="0:00:15.578000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:13.981000	0:00:15.578000
 ,	-	-	-	0:00:13.981000	0:00:15.578000
 passt	-	-	-	0:00:13.981000	0:00:15.578000
 genau	-	-	-	0:00:13.981000	0:00:15.578000
 .	-	-	-	0:00:13.981000	0:00:15.578000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:13.981000" end="0:00:15.578000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:13.981000" end="0:00:15.578000" persName="Informant EXP9" age_lower="" age_upper="999">
 Datum	-	-	-	0:00:13.981000	0:00:15.578000
 .	-	-	-	0:00:13.981000	0:00:15.578000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:15.578000" end="0:00:16.545000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:15.578000" end="0:00:16.545000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:15.578000" end="0:00:17.739000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:15.578000" end="0:00:17.739000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 und	-	-	-	0:00:16.545000	0:00:17.739000
 wo	-	-	-	0:00:16.545000	0:00:17.739000
@@ -75,19 +75,19 @@ Sie	-	-	-	0:00:16.545000	0:00:17.739000
 geboren	-	-	-	0:00:16.545000	0:00:17.739000
 ?	-	-	-	0:00:16.545000	0:00:17.739000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:17.739000" end="0:00:18.584000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:17.739000" end="0:00:18.584000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:00:17.739000	0:00:18.584000
 ORT	ORT	-	-	0:00:17.739000	0:00:18.584000
 .	-	-	-	0:00:17.739000	0:00:18.584000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:18.584000" end="0:00:19.409000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:18.584000" end="0:00:19.409000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:18.584000	0:00:19.409000
 .	-	-	-	0:00:18.584000	0:00:19.409000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:19.409000" end="0:00:21.263000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:19.409000" end="0:00:21.263000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:19.409000" end="0:00:24.193000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:19.409000" end="0:00:24.193000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 und	-	-	-	0:00:21.262000	0:00:24.193000
 <pause duration="0,5s"/>
@@ -99,11 +99,11 @@ Hüttschlag	-	-	-	0:00:21.262000	0:00:24.193000
 aufgewachsen	-	-	-	0:00:21.262000	0:00:24.193000
 ?	-	-	-	0:00:21.262000	0:00:24.193000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:24.193000" end="0:00:24.548000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:24.193000" end="0:00:24.548000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:24.193000	0:00:24.548000
 .	-	-	-	0:00:24.193000	0:00:24.548000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:24.548000" end="0:00:26.039000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:24.548000" end="0:00:26.039000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:24.548000	0:00:26.039000
 ,	-	-	-	0:00:24.548000	0:00:26.039000
 und	-	-	-	0:00:24.548000	0:00:26.039000
@@ -113,26 +113,26 @@ da	-	-	-	0:00:24.548000	0:00:26.039000
 gewesen	-	-	-	0:00:24.548000	0:00:26.039000
 ,	-	-	-	0:00:24.548000	0:00:26.039000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:26.039000" end="0:00:26.837000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:26.039000" end="0:00:26.837000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:26.039000	0:00:26.837000
 ,	-	-	-	0:00:26.039000	0:00:26.837000
 immer	-	-	-	0:00:26.039000	0:00:26.837000
 .	-	-	-	0:00:26.039000	0:00:26.837000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:26.039000" end="0:00:26.837000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:26.039000" end="0:00:26.837000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:00:26.039000	0:00:26.837000
 /?	-	-	-	0:00:26.039000	0:00:26.837000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:26.837000" end="0:00:27.355000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:26.837000" end="0:00:27.355000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:26.837000" end="0:00:27.355000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:26.837000" end="0:00:27.355000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:26.837000	0:00:27.355000
 .	-	-	-	0:00:26.837000	0:00:27.355000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:27.355000" end="0:00:29.504000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:27.355000" end="0:00:29.504000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:27.355000" end="0:00:31.351000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:27.355000" end="0:00:31.351000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 das	-	-	-	0:00:29.504000	0:00:31.351000
 heißt	-	-	-	0:00:29.504000	0:00:31.351000
@@ -141,20 +141,20 @@ zwischenzeitlich	-	-	-	0:00:29.504000	0:00:31.351000
 nie	-	-	-	0:00:29.504000	0:00:31.351000
 woanders	-	-	-	0:00:29.504000	0:00:31.351000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:31.351000" end="0:00:31.862000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:31.351000" end="0:00:31.862000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:00:31.351000	0:00:31.862000
 .	-	-	-	0:00:31.351000	0:00:31.862000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:31.351000" end="0:00:32.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:31.351000" end="0:00:32.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 gewohnt	-	-	-	0:00:31.351000	0:00:31.862000
 .	-	-	-	0:00:31.351000	0:00:31.862000
 mhm	-	-	-	0:00:31.862000	0:00:32.539000
 .	-	-	-	0:00:31.862000	0:00:32.539000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:32.539000" end="0:00:34.539000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:32.539000" end="0:00:34.539000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:32.539000" end="0:00:36.072000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:32.539000" end="0:00:36.072000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 woher	-	-	-	0:00:34.539000	0:00:36.072000
 kommen	-	-	-	0:00:34.539000	0:00:36.072000
@@ -163,13 +163,13 @@ Ihre	-	-	-	0:00:34.539000	0:00:36.072000
 Eltern	-	-	-	0:00:34.539000	0:00:36.072000
 ?	-	-	-	0:00:34.539000	0:00:36.072000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:36.072000" end="0:00:36.727000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:36.072000" end="0:00:36.727000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:36.072000" end="0:00:36.727000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:36.072000" end="0:00:36.727000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:36.727000" end="0:00:39.113000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:36.727000" end="0:00:39.113000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:36.727000	0:00:38.062000
 meine	-	-	-	0:00:36.727000	0:00:38.062000
 Mama	-	-	-	0:00:36.727000	0:00:38.062000
@@ -180,11 +180,11 @@ da	-	-	-	0:00:36.727000	0:00:38.062000
 aufgewachsen	-	-	-	0:00:38.062000	0:00:39.113000
 und	-	-	-	0:00:38.062000	0:00:39.113000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:38.062000" end="0:00:39.113000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:38.062000" end="0:00:39.113000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:00:38.062000	0:00:39.113000
 .	-	-	-	0:00:38.062000	0:00:39.113000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:39.113000" end="0:00:43.558000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:39.113000" end="0:00:43.558000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mein	-	-	-	0:00:39.113000	0:00:43.081000
 Papa	-	-	-	0:00:39.113000	0:00:43.081000
 wohnt	-	-	-	0:00:39.113000	0:00:43.081000
@@ -199,9 +199,9 @@ weiter	-	-	-	0:00:39.113000	0:00:43.081000
 drinnen	-	-	-	0:00:43.081000	0:00:43.558000
 .	-	-	-	0:00:43.081000	0:00:43.558000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:43.081000" end="0:00:43.558000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:43.081000" end="0:00:43.558000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:43.558000" end="0:00:45.453000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:43.558000" end="0:00:45.453000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:00:43.558000	0:00:45.453000
 beide	-	-	-	0:00:43.558000	0:00:45.453000
 Hüttschlager	-	-	-	0:00:43.558000	0:00:45.453000
@@ -209,7 +209,7 @@ Hüttschlager	-	-	-	0:00:43.558000	0:00:45.453000
 mhm	-	-	-	0:00:43.558000	0:00:45.453000
 .	-	-	-	0:00:43.558000	0:00:45.453000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:43.558000" end="0:00:46.002000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:43.558000" end="0:00:46.002000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:00:43.558000	0:00:45.453000
 ,	-	-	-	0:00:43.558000	0:00:45.453000
 also	-	-	-	0:00:43.558000	0:00:45.453000
@@ -219,10 +219,10 @@ Hüttschlager	-	-	-	0:00:43.558000	0:00:45.453000
 mhm	-	-	-	0:00:45.453000	0:00:46.002000
 .	-	-	-	0:00:45.453000	0:00:46.002000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:46.002000" end="0:00:47.537000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:46.002000" end="0:00:47.537000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:46.002000" end="0:00:49.776000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:46.002000" end="0:00:49.776000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 sehr	-	-	-	0:00:47.537000	0:00:47.932000
 gut	-	-	-	0:00:47.537000	0:00:47.932000
@@ -235,7 +235,7 @@ denn	-	-	-	0:00:47.932000	0:00:49.776000
 beruflich	-	-	-	0:00:47.932000	0:00:49.776000
 ?	-	-	-	0:00:47.932000	0:00:49.776000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:49.776000" end="0:00:53.581000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:49.776000" end="0:00:53.581000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:49.776000	0:00:52.793000
 meine	-	-	-	0:00:49.776000	0:00:52.793000
 Mama	-	-	-	0:00:49.776000	0:00:52.793000
@@ -248,34 +248,34 @@ SONSTIGE	SONSTIGE	-	-	0:00:49.776000	0:00:52.793000
 und	-	-	-	0:00:52.793000	0:00:53.581000
 so	-	-	-	0:00:52.793000	0:00:53.581000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:52.793000" end="0:00:53.581000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:52.793000" end="0:00:53.581000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:52.793000	0:00:53.581000
 .	-	-	-	0:00:52.793000	0:00:53.581000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:53.581000" end="0:00:54.776000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:53.581000" end="0:00:54.776000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Buchhaltung	-	-	-	0:00:53.581000	0:00:54.776000
 oder	-	-	-	0:00:53.581000	0:00:54.776000
 /.	-	-	-	0:00:53.581000	0:00:54.776000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:54.776000" end="0:00:55.688000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:54.776000" end="0:00:55.688000" persName="Informant EXP9" age_lower="" age_upper="999">
 auch	-	-	-	0:00:54.776000	0:00:55.688000
 in	-	-	-	0:00:54.776000	0:00:55.688000
 ORT	ORT	-	-	0:00:54.776000	0:00:55.688000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:55.688000" end="0:00:56.269000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:55.688000" end="0:00:56.269000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:55.688000	0:00:56.269000
 ,	-	-	-	0:00:55.688000	0:00:56.269000
 genau	-	-	-	0:00:55.688000	0:00:56.269000
 .	-	-	-	0:00:55.688000	0:00:56.269000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:55.688000" end="0:00:56.713000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:55.688000" end="0:00:56.713000" persName="Informant EXP9" age_lower="" age_upper="999">
 dann	-	-	-	0:00:55.688000	0:00:56.269000
 wahrscheinlich	-	-	-	0:00:55.688000	0:00:56.269000
 ,	-	-	-	0:00:55.688000	0:00:56.269000
 oder	-	-	-	0:00:56.269000	0:00:56.713000
 ?	-	-	-	0:00:56.269000	0:00:56.713000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:00:56.713000" end="0:01:00.197000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:00:56.713000" end="0:01:00.197000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:56.713000	0:00:59.595000
 mein	-	-	-	0:00:56.713000	0:00:59.595000
 Papa	-	-	-	0:00:56.713000	0:00:59.595000
@@ -287,17 +287,17 @@ SONSTIGE	SONSTIGE	-	-	0:00:56.713000	0:00:59.595000
 .	-	-	-	0:00:56.713000	0:00:59.595000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:59.595000" end="0:01:01.620000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:59.595000" end="0:01:01.620000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:01:00.197000	0:01:01.620000
 ,	-	-	-	0:01:00.197000	0:01:01.620000
 spannend	-	-	-	0:01:00.197000	0:01:01.620000
 .	-	-	-	0:01:00.197000	0:01:01.620000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:01.621000" end="0:01:05.304000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:01.621000" end="0:01:05.304000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:01.621000" end="0:01:07.304000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:01.621000" end="0:01:07.304000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,6s"/>
 haben	-	-	-	0:01:05.304000	0:01:07.304000
 Sie	-	-	-	0:01:05.304000	0:01:07.304000
@@ -306,14 +306,14 @@ festen	-	-	-	0:01:05.304000	0:01:07.304000
 Partner	-	-	-	0:01:05.304000	0:01:07.304000
 ?	-	-	-	0:01:05.304000	0:01:07.304000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:07.303000" end="0:01:09.789000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:07.303000" end="0:01:09.789000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:07.303000	0:01:08.542000
 ,	-	-	-	0:01:07.303000	0:01:08.542000
 zurzeit	-	-	-	0:01:07.303000	0:01:08.542000
 schon	-	-	-	0:01:07.303000	0:01:08.542000
 .	-	-	-	0:01:07.303000	0:01:08.542000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:08.542000" end="0:01:10.978000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:08.542000" end="0:01:10.978000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:08.542000	0:01:09.789000
 .	-	-	-	0:01:08.542000	0:01:09.789000
 darf	-	-	-	0:01:09.789000	0:01:10.978000
@@ -323,13 +323,13 @@ kurz	-	-	-	0:01:09.789000	0:01:10.978000
 nachfragen	-	-	-	0:01:09.789000	0:01:10.978000
 ,	-	-	-	0:01:09.789000	0:01:10.978000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:10.978000" end="0:01:11.781000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:10.978000" end="0:01:11.781000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:10.978000	0:01:11.781000
 ,	-	-	-	0:01:10.978000	0:01:11.781000
 sicher	-	-	-	0:01:10.978000	0:01:11.781000
 .	-	-	-	0:01:10.978000	0:01:11.781000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:10.978000" end="0:01:15.051000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:10.978000" end="0:01:15.051000" persName="Informant EXP9" age_lower="" age_upper="999">
 was	-	-	-	0:01:10.978000	0:01:11.781000
 das	-	-	-	0:01:10.978000	0:01:11.781000
 <pause duration="1,0s"/>
@@ -339,11 +339,11 @@ von	-	-	-	0:01:11.781000	0:01:15.051000
 Ihrem	-	-	-	0:01:11.781000	0:01:15.051000
 Partner	-	-	-	0:01:11.781000	0:01:15.051000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:15.051000" end="0:01:16.072000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:15.051000" end="0:01:16.072000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:01:15.051000	0:01:16.072000
 .	-	-	-	0:01:15.051000	0:01:16.072000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:15.051000" end="0:01:18.890000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:15.051000" end="0:01:18.890000" persName="Informant EXP9" age_lower="" age_upper="999">
 ist	-	-	-	0:01:15.051000	0:01:16.072000
 ?	-	-	-	0:01:15.051000	0:01:16.072000
 mhm	-	-	-	0:01:16.072000	0:01:16.896000
@@ -357,24 +357,24 @@ ein	-	-	-	0:01:16.896000	0:01:18.890000
 Hüttschlager	-	-	-	0:01:16.896000	0:01:18.890000
 oder	-	-	-	0:01:16.896000	0:01:18.890000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:18.890000" end="0:01:19.663000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:18.890000" end="0:01:19.663000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:18.890000	0:01:19.663000
 ,	-	-	-	0:01:18.890000	0:01:19.663000
 das	-	-	-	0:01:18.890000	0:01:19.663000
 ist	-	-	-	0:01:18.890000	0:01:19.663000
 ein	-	-	-	0:01:18.890000	0:01:19.663000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:18.890000" end="0:01:19.663000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:18.890000" end="0:01:19.663000" persName="Informant EXP9" age_lower="" age_upper="999">
 kommt	-	-	-	0:01:18.890000	0:01:19.663000
 er	-	-	-	0:01:18.890000	0:01:19.663000
 von	-	-	-	0:01:18.890000	0:01:19.663000
 /?	-	-	-	0:01:18.890000	0:01:19.663000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:19.663000" end="0:01:20.342000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:19.663000" end="0:01:20.342000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:01:19.663000	0:01:20.342000
 .	-	-	-	0:01:19.663000	0:01:20.342000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:20.342000" end="0:01:25.402000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:20.342000" end="0:01:25.402000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:20.342000	0:01:21.342000
 .	-	-	-	0:01:20.342000	0:01:21.342000
 <pause duration="1,8s"/>
@@ -391,18 +391,18 @@ der	-	-	-	0:01:24.072000	0:01:25.402000
 aus	-	-	-	0:01:24.072000	0:01:25.402000
 ?	-	-	-	0:01:24.072000	0:01:25.402000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:25.402000" end="0:01:26.127000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:25.402000" end="0:01:26.127000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:01:25.402000	0:01:26.127000
 .	-	-	-	0:01:25.402000	0:01:26.127000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:26.127000" end="0:01:26.795000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:26.127000" end="0:01:26.795000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:26.127000	0:01:26.795000
 .	-	-	-	0:01:26.127000	0:01:26.795000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:26.795000" end="0:01:29.612000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:26.795000" end="0:01:29.612000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:26.795000" end="0:01:31.951000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:26.795000" end="0:01:31.951000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,8s"/>
 was	-	-	-	0:01:29.612000	0:01:31.951000
 für	-	-	-	0:01:29.612000	0:01:31.951000
@@ -414,7 +414,7 @@ hinter	-	-	-	0:01:29.612000	0:01:31.951000
 sich	-	-	-	0:01:29.612000	0:01:31.951000
 ?	-	-	-	0:01:29.612000	0:01:31.951000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:31.951000" end="0:01:36.181000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:31.951000" end="0:01:36.181000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:01:31.951000	0:01:34.990000
 zuerst	-	-	-	0:01:31.951000	0:01:34.990000
 bin	-	-	-	0:01:31.951000	0:01:34.990000
@@ -427,13 +427,13 @@ in	-	-	-	0:01:34.990000	0:01:36.181000
 Hüttschlag	-	-	-	0:01:34.990000	0:01:36.181000
 ,	-	-	-	0:01:34.990000	0:01:36.181000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:34.990000" end="0:01:36.181000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:34.990000" end="0:01:36.181000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:01:34.990000	0:01:36.181000
 ,	-	-	-	0:01:34.990000	0:01:36.181000
 mhm	-	-	-	0:01:34.990000	0:01:36.181000
 .	-	-	-	0:01:34.990000	0:01:36.181000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:36.181000" end="0:01:37.969000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:36.181000" end="0:01:37.969000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:01:36.181000	0:01:37.969000
 die	-	-	-	0:01:36.181000	0:01:37.969000
 Hauptschule	-	-	-	0:01:36.181000	0:01:37.969000
@@ -443,11 +443,11 @@ in	-	-	-	0:01:36.181000	0:01:37.969000
 ORT	ORT	-	-	0:01:36.181000	0:01:37.969000
 ,	-	-	-	0:01:36.181000	0:01:37.969000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:37.969000" end="0:01:38.396000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:37.969000" end="0:01:38.396000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:01:37.969000	0:01:38.396000
 .	-	-	-	0:01:37.969000	0:01:38.396000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:38.396000" end="0:01:40.733000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:38.396000" end="0:01:40.733000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:01:38.396000	0:01:40.139000
 habe	-	-	-	0:01:38.396000	0:01:40.139000
 ich	-	-	-	0:01:38.396000	0:01:40.139000
@@ -458,11 +458,11 @@ gemacht	-	-	-	0:01:38.396000	0:01:40.139000
 ,	-	-	-	0:01:38.396000	0:01:40.139000
 und	-	-	-	0:01:40.139000	0:01:40.733000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:40.139000" end="0:01:40.733000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:40.139000" end="0:01:40.733000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:40.139000	0:01:40.733000
 .	-	-	-	0:01:40.139000	0:01:40.733000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:40.733000" end="0:01:44.072000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:40.733000" end="0:01:44.072000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:01:40.733000	0:01:44.072000
 habe	-	-	-	0:01:40.733000	0:01:44.072000
 ich	-	-	-	0:01:40.733000	0:01:44.072000
@@ -478,7 +478,7 @@ zur	-	-	-	0:01:40.733000	0:01:44.072000
 SONSTIGE	SONSTIGE	-	-	0:01:40.733000	0:01:44.072000
 .	-	-	-	0:01:40.733000	0:01:44.072000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:44.072000" end="0:01:45.606000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:44.072000" end="0:01:45.606000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:44.072000	0:01:45.606000
 ,	-	-	-	0:01:44.072000	0:01:45.606000
 genau	-	-	-	0:01:44.072000	0:01:45.606000
@@ -486,10 +486,10 @@ genau	-	-	-	0:01:44.072000	0:01:45.606000
 ja	-	-	-	0:01:44.072000	0:01:45.606000
 .	-	-	-	0:01:44.072000	0:01:45.606000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:45.606000" end="0:01:46.651000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:45.606000" end="0:01:46.651000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:45.606000" end="0:01:49.306000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:45.606000" end="0:01:49.306000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 und	-	-	-	0:01:46.651000	0:01:49.306000
 jetzt	-	-	-	0:01:46.651000	0:01:49.306000
@@ -500,37 +500,37 @@ in	-	-	-	0:01:46.651000	0:01:49.306000
 ORT	ORT	-	-	0:01:46.651000	0:01:49.306000
 ?	-	-	-	0:01:46.651000	0:01:49.306000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:49.306000" end="0:01:50.233000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:49.306000" end="0:01:50.233000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:49.306000	0:01:49.690000
 ,	-	-	-	0:01:49.306000	0:01:49.690000
 also	-	-	-	0:01:49.690000	0:01:50.233000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:49.690000" end="0:01:50.233000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:49.690000" end="0:01:50.233000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:01:49.690000	0:01:50.233000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:50.233000" end="0:01:51.839000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:50.233000" end="0:01:51.839000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:01:50.233000	0:01:51.839000
 ,	-	-	-	0:01:50.233000	0:01:51.839000
 mhm	-	-	-	0:01:50.233000	0:01:51.839000
 .	-	-	-	0:01:50.233000	0:01:51.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:50.233000" end="0:01:51.839000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:50.233000" end="0:01:51.839000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:01:50.233000	0:01:51.839000
 ,	-	-	-	0:01:50.233000	0:01:51.839000
 genau	-	-	-	0:01:50.233000	0:01:51.839000
 .	-	-	-	0:01:50.233000	0:01:51.839000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:51.839000" end="0:01:52.936000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:51.839000" end="0:01:52.936000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:51.839000" end="0:01:52.936000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:51.839000" end="0:01:52.936000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:52.936000" end="0:01:53.503000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:52.936000" end="0:01:53.503000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:52.936000	0:01:53.503000
 .	-	-	-	0:01:52.936000	0:01:53.503000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:52.936000" end="0:01:55.012000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:52.936000" end="0:01:55.012000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:01:52.936000	0:01:53.503000
 was	-	-	-	0:01:52.936000	0:01:53.503000
 sind	-	-	-	0:01:52.936000	0:01:53.503000
@@ -540,13 +540,13 @@ Ihre	-	-	-	0:01:53.503000	0:01:55.012000
 Aufgaben	-	-	-	0:01:53.503000	0:01:55.012000
 ?	-	-	-	0:01:53.503000	0:01:55.012000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:55.012000" end="0:01:56.457000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:55.012000" end="0:01:56.457000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:55.012000" end="0:01:56.457000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:55.012000" end="0:01:56.457000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:01:56.457000" end="0:02:02.484000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:01:56.457000" end="0:02:02.484000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:01:56.457000	0:02:01.924000
 hauptsächlich	-	-	-	0:01:56.457000	0:02:01.924000
 eigentlich	-	-	-	0:01:56.457000	0:02:01.924000
@@ -562,11 +562,11 @@ also	-	-	-	0:02:01.924000	0:02:02.484000
 alles	-	-	-	0:02:01.924000	0:02:02.484000
 ,	-	-	-	0:02:01.924000	0:02:02.484000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:01.924000" end="0:02:02.484000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:01.924000" end="0:02:02.484000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:01.924000	0:02:02.484000
 .	-	-	-	0:02:01.924000	0:02:02.484000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:02.484000" end="0:02:05.403000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:02.484000" end="0:02:05.403000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:02:02.484000	0:02:04.881000
 das	-	-	-	0:02:02.484000	0:02:04.881000
 läuft	-	-	-	0:02:02.484000	0:02:04.881000
@@ -581,11 +581,11 @@ Tag	-	-	-	0:02:02.484000	0:02:04.881000
 .	-	-	-	0:02:02.484000	0:02:04.881000
 nachher	-	-	-	0:02:04.881000	0:02:05.403000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:04.881000" end="0:02:05.403000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:04.881000" end="0:02:05.403000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:04.881000	0:02:05.403000
 .	-	-	-	0:02:04.881000	0:02:05.403000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:05.403000" end="0:02:10.853000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:05.403000" end="0:02:10.853000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 müssen	-	-	-	0:02:05.403000	0:02:09.925000
 wir	-	-	-	0:02:05.403000	0:02:09.925000
 das	-	-	-	0:02:05.403000	0:02:09.925000
@@ -609,12 +609,12 @@ taxieren	-	-	-	0:02:05.403000	0:02:09.925000
 <pause duration="0,6s"/>
 das	-	-	-	0:02:09.925000	0:02:10.853000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:09.925000" end="0:02:10.853000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:09.925000" end="0:02:10.853000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:02:09.925000	0:02:10.853000
 .	-	-	-	0:02:09.925000	0:02:10.853000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:10.853000" end="0:02:15.187000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:10.853000" end="0:02:15.187000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 heißt	-	-	-	0:02:10.853000	0:02:15.187000
 ,	-	-	-	0:02:10.853000	0:02:15.187000
 wenn	-	-	-	0:02:10.853000	0:02:15.187000
@@ -635,11 +635,11 @@ ob	-	-	-	0:02:10.853000	0:02:15.187000
 alles	-	-	-	0:02:10.853000	0:02:15.187000
 richtig	-	-	-	0:02:10.853000	0:02:15.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:15.187000" end="0:02:16.109000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:15.187000" end="0:02:16.109000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:02:15.187000	0:02:16.109000
 .	-	-	-	0:02:15.187000	0:02:16.109000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:15.187000" end="0:02:17.654000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:15.187000" end="0:02:17.654000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 angeben	-	-	-	0:02:15.187000	0:02:16.109000
 worden	-	-	-	0:02:15.187000	0:02:16.109000
 ist	-	-	-	0:02:15.187000	0:02:16.109000
@@ -653,11 +653,11 @@ hat	-	-	-	0:02:16.109000	0:02:17.654000
 ob	-	-	-	0:02:16.109000	0:02:17.654000
 die	-	-	-	0:02:16.109000	0:02:17.654000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:17.654000" end="0:02:17.972000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:17.654000" end="0:02:17.972000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:17.654000	0:02:17.972000
 .	-	-	-	0:02:17.654000	0:02:17.972000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:17.654000" end="0:02:21.978000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:17.654000" end="0:02:21.978000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ganzen	-	-	-	0:02:17.654000	0:02:17.972000
 Rezeptbestandteile	-	-	-	0:02:17.972000	0:02:19.687000
 da	-	-	-	0:02:17.972000	0:02:19.687000
@@ -668,7 +668,7 @@ ja	-	-	-	0:02:19.687000	0:02:21.978000
 .	-	-	-	0:02:19.687000	0:02:21.978000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:21.978000" end="0:02:24.233000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:21.978000" end="0:02:24.233000" persName="Informant EXP9" age_lower="" age_upper="999">
 spannend	-	-	-	0:02:21.978000	0:02:24.233000
 ,	-	-	-	0:02:21.978000	0:02:24.233000
 das	-	-	-	0:02:21.978000	0:02:24.233000
@@ -679,17 +679,17 @@ nicht	-	-	-	0:02:21.978000	0:02:24.233000
 gewusst	-	-	-	0:02:21.978000	0:02:24.233000
 .	-	-	-	0:02:21.978000	0:02:24.233000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:21.978000" end="0:02:24.233000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:21.978000" end="0:02:24.233000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:02:21.978000	0:02:24.233000
 natürlich	-	-	-	0:02:21.978000	0:02:24.233000
 die	-	-	-	0:02:21.978000	0:02:24.233000
 die	-	-	-	0:02:21.978000	0:02:24.233000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:24.233000" end="0:02:24.500000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:24.233000" end="0:02:24.500000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:24.233000	0:02:24.500000
 .	-	-	-	0:02:24.233000	0:02:24.500000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:24.500000" end="0:02:28.572000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:24.500000" end="0:02:28.572000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Leute	-	-	-	0:02:24.500000	0:02:25.230000
 bedienen	-	-	-	0:02:24.500000	0:02:25.230000
 .	-	-	-	0:02:24.500000	0:02:25.230000
@@ -711,11 +711,11 @@ rein	-	-	-	0:02:25.230000	0:02:28.572000
 ,	-	-	-	0:02:25.230000	0:02:28.572000
 und	-	-	-	0:02:25.230000	0:02:28.572000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:28.572000" end="0:02:29.103000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:28.572000" end="0:02:29.103000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:28.572000	0:02:29.103000
 .	-	-	-	0:02:28.572000	0:02:29.103000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:28.572000" end="0:02:31.457000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:28.572000" end="0:02:31.457000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:02:28.572000	0:02:29.103000
 kontrollieren	-	-	-	0:02:28.572000	0:02:29.103000
 wir	-	-	-	0:02:29.103000	0:02:31.457000
@@ -730,13 +730,13 @@ alles	-	-	-	0:02:29.103000	0:02:31.457000
 getan	-	-	-	0:02:29.103000	0:02:31.457000
 .	-	-	-	0:02:29.103000	0:02:31.457000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:31.457000" end="0:02:33.245000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:31.457000" end="0:02:33.245000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:31.457000" end="0:02:33.245000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:31.457000" end="0:02:33.245000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:33.245000" end="0:02:38.200000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:33.245000" end="0:02:38.200000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:02:33.245000	0:02:36.403000
 wie	-	-	-	0:02:33.245000	0:02:36.403000
 schaut	-	-	-	0:02:33.245000	0:02:36.403000
@@ -754,7 +754,7 @@ sowas	-	-	-	0:02:36.403000	0:02:38.200000
 au/	-	-	-	0:02:36.403000	0:02:38.200000
 /?	-	-	-	0:02:36.403000	0:02:38.200000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:36.403000" end="0:02:41.972000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:36.403000" end="0:02:41.972000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:36.403000	0:02:38.200000
 ,	-	-	-	0:02:36.403000	0:02:38.200000
 nein	-	-	-	0:02:36.403000	0:02:38.200000
@@ -772,11 +772,11 @@ oder	-	-	-	0:02:38.200000	0:02:41.972000
 Teemischungen	-	-	-	0:02:38.200000	0:02:41.972000
 .	-	-	-	0:02:38.200000	0:02:41.972000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:41.972000" end="0:02:42.621000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:41.972000" end="0:02:42.621000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:41.972000	0:02:42.621000
 .	-	-	-	0:02:41.972000	0:02:42.621000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:42.621000" end="0:02:46.424000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:42.621000" end="0:02:46.424000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:02:42.621000	0:02:46.424000
 so	-	-	-	0:02:42.621000	0:02:46.424000
 <pause duration="0,5s"/>
@@ -787,11 +787,11 @@ wir	-	-	-	0:02:42.621000	0:02:46.424000
 selber	-	-	-	0:02:42.621000	0:02:46.424000
 ,	-	-	-	0:02:42.621000	0:02:46.424000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:46.424000" end="0:02:47.109000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:46.424000" end="0:02:47.109000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:46.424000	0:02:47.109000
 .	-	-	-	0:02:46.424000	0:02:47.109000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:47.109000" end="0:02:53.781000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:47.109000" end="0:02:53.781000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Tinkturen	-	-	-	0:02:47.109000	0:02:53.781000
 setzen	-	-	-	0:02:47.109000	0:02:53.781000
 wir	-	-	-	0:02:47.109000	0:02:53.781000
@@ -817,19 +817,19 @@ Vorrat	-	-	-	0:02:47.109000	0:02:53.781000
 gemacht	-	-	-	0:02:47.109000	0:02:53.781000
 ,	-	-	-	0:02:47.109000	0:02:53.781000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:53.781000" end="0:02:54.303000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:53.781000" end="0:02:54.303000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:53.781000" end="0:02:54.303000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:53.781000" end="0:02:54.303000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:54.303000" end="0:02:55.127000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:54.303000" end="0:02:55.127000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:02:54.303000	0:02:55.127000
 ,	-	-	-	0:02:54.303000	0:02:55.127000
 mhm	-	-	-	0:02:54.303000	0:02:55.127000
 .	-	-	-	0:02:54.303000	0:02:55.127000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:54.303000" end="0:02:56.381000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:54.303000" end="0:02:56.381000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:02:54.303000	0:02:55.127000
 da	-	-	-	0:02:54.303000	0:02:55.127000
 machen	-	-	-	0:02:54.303000	0:02:55.127000
@@ -843,11 +843,11 @@ ab	-	-	-	0:02:55.127000	0:02:56.381000
 ,	-	-	-	0:02:55.127000	0:02:56.381000
 und	-	-	-	0:02:55.127000	0:02:56.381000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:56.381000" end="0:02:57.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:56.381000" end="0:02:57.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:56.381000	0:02:57.100000
 .	-	-	-	0:02:56.381000	0:02:57.100000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:02:56.381000" end="0:03:01.554000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:02:56.381000" end="0:03:01.554000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:02:56.381000	0:02:57.100000
 /.	-	-	-	0:02:56.381000	0:02:57.100000
 <pause duration="0,9s"/>
@@ -866,7 +866,7 @@ was	-	-	-	0:02:57.100000	0:03:01.554000
 kommt	-	-	-	0:02:57.100000	0:03:01.554000
 .	-	-	-	0:02:57.100000	0:03:01.554000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:01.554000" end="0:03:04.418000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:01.554000" end="0:03:04.418000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:01.554000	0:03:02.227000
 .	-	-	-	0:03:01.554000	0:03:02.227000
 aber	-	-	-	0:03:02.227000	0:03:03.630000
@@ -877,7 +877,7 @@ abwechslungsreich	-	-	-	0:03:02.227000	0:03:03.630000
 eigentlich	-	-	-	0:03:03.630000	0:03:04.418000
 .	-	-	-	0:03:03.630000	0:03:04.418000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:03.630000" end="0:03:05.333000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:03.630000" end="0:03:05.333000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:03.630000	0:03:04.418000
 ,	-	-	-	0:03:03.630000	0:03:04.418000
 es	-	-	-	0:03:03.630000	0:03:04.418000
@@ -890,7 +890,7 @@ voll	-	-	-	0:03:04.418000	0:03:05.333000
 gerne	-	-	-	0:03:04.418000	0:03:05.333000
 .	-	-	-	0:03:04.418000	0:03:05.333000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:05.333000" end="0:03:09.612000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:05.333000" end="0:03:09.612000" persName="Informant EXP9" age_lower="" age_upper="999">
 sehr	-	-	-	0:03:05.333000	0:03:07.612000
 gut	-	-	-	0:03:05.333000	0:03:07.612000
 ,	-	-	-	0:03:05.333000	0:03:07.612000
@@ -904,10 +904,10 @@ mhm	-	-	-	0:03:05.333000	0:03:07.612000
 .	-	-	-	0:03:05.333000	0:03:07.612000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:07.612000" end="0:03:09.612000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:07.612000" end="0:03:09.612000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:09.612000" end="0:03:16.463000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:09.612000" end="0:03:16.463000" persName="Informant EXP9" age_lower="" age_upper="999">
 würden	-	-	-	0:03:09.612000	0:03:14.842000
 Sie	-	-	-	0:03:09.612000	0:03:14.842000
 sagen	-	-	-	0:03:09.612000	0:03:14.842000
@@ -931,7 +931,7 @@ immer	-	-	-	0:03:14.842000	0:03:16.463000
 gleich	-	-	-	0:03:14.842000	0:03:16.463000
 ?	-	-	-	0:03:14.842000	0:03:16.463000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:14.842000" end="0:03:23.251000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:14.842000" end="0:03:23.251000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:14.842000	0:03:16.463000
 ,	-	-	-	0:03:14.842000	0:03:16.463000
 auf	-	-	-	0:03:14.842000	0:03:16.463000
@@ -971,12 +971,12 @@ wo	-	-	-	0:03:16.463000	0:03:23.251000
 trifft	-	-	-	0:03:16.463000	0:03:23.251000
 .	-	-	-	0:03:16.463000	0:03:23.251000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:23.251000" end="0:03:24.612000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:23.251000" end="0:03:24.612000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:03:23.251000	0:03:23.790000
 .	-	-	-	0:03:23.251000	0:03:23.790000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:23.790000" end="0:03:28.754000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:23.790000" end="0:03:28.754000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	-	-	-	0:03:24.612000	0:03:28.754000
 so	-	-	-	0:03:24.612000	0:03:28.754000
@@ -999,11 +999,11 @@ da	-	-	-	0:03:24.612000	0:03:28.754000
 sind	-	-	-	0:03:24.612000	0:03:28.754000
 ,	-	-	-	0:03:24.612000	0:03:28.754000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:28.754000" end="0:03:29.509000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:28.754000" end="0:03:29.509000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:28.754000	0:03:29.509000
 .	-	-	-	0:03:28.754000	0:03:29.509000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:28.754000" end="0:03:31.400000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:28.754000" end="0:03:31.400000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:03:28.754000	0:03:29.509000
 ich	-	-	-	0:03:28.754000	0:03:29.509000
 <pause duration="0,8s"/>
@@ -1014,11 +1014,11 @@ Schrift	-	-	-	0:03:29.509000	0:03:31.400000
 rede	-	-	-	0:03:29.509000	0:03:31.400000
 .	-	-	-	0:03:29.509000	0:03:31.400000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:31.400000" end="0:03:31.945000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:31.400000" end="0:03:31.945000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:31.400000	0:03:31.945000
 .	-	-	-	0:03:31.400000	0:03:31.945000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:31.945000" end="0:03:35.539000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:31.945000" end="0:03:35.539000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:03:31.945000	0:03:35.539000
 im	-	-	-	0:03:31.945000	0:03:35.539000
 <pause duration="0,7s"/>
@@ -1032,15 +1032,15 @@ ist	-	-	-	0:03:31.945000	0:03:35.539000
 das	-	-	-	0:03:31.945000	0:03:35.539000
 nachher	-	-	-	0:03:31.945000	0:03:35.539000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:35.539000" end="0:03:36.054000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:35.539000" end="0:03:36.054000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:35.539000	0:03:36.054000
 .	-	-	-	0:03:35.539000	0:03:36.054000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:36.054000" end="0:03:36.918000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:36.054000" end="0:03:36.918000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 gleich	-	-	-	0:03:36.054000	0:03:36.918000
 .	-	-	-	0:03:36.054000	0:03:36.918000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:36.918000" end="0:03:41.039000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:36.918000" end="0:03:41.039000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:03:36.918000	0:03:38.236000
 heißt	-	-	-	0:03:36.918000	0:03:38.236000
 ,	-	-	-	0:03:36.918000	0:03:38.236000
@@ -1058,7 +1058,7 @@ Touristen	-	-	-	0:03:38.236000	0:03:41.039000
 ja	-	-	-	0:03:38.236000	0:03:41.039000
 .	-	-	-	0:03:38.236000	0:03:41.039000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:38.236000" end="0:03:41.039000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:38.236000" end="0:03:41.039000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:38.236000	0:03:41.039000
 ,	-	-	-	0:03:38.236000	0:03:41.039000
 auf	-	-	-	0:03:38.236000	0:03:41.039000
@@ -1066,16 +1066,16 @@ jeden	-	-	-	0:03:38.236000	0:03:41.039000
 Fall	-	-	-	0:03:38.236000	0:03:41.039000
 .	-	-	-	0:03:38.236000	0:03:41.039000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:41.039000" end="0:03:43.829000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:41.039000" end="0:03:43.829000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:03:41.039000	0:03:42.575000
 .	-	-	-	0:03:41.039000	0:03:42.575000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:42.575000" end="0:03:43.829000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:42.575000" end="0:03:43.829000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:43.829000" end="0:03:50.548000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:43.829000" end="0:03:50.548000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:03:43.829000	0:03:49.263000
 nennen	-	-	-	0:03:43.829000	0:03:49.263000
 Sie	-	-	-	0:03:43.829000	0:03:49.263000
@@ -1093,28 +1093,28 @@ sprechen	-	-	-	0:03:43.829000	0:03:49.263000
 ?	-	-	-	0:03:43.829000	0:03:49.263000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:49.263000" end="0:03:51.845000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:49.263000" end="0:03:51.845000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:03:50.548000	0:03:51.845000
 ,	-	-	-	0:03:50.548000	0:03:51.845000
 Dialekt	-	-	-	0:03:50.548000	0:03:51.845000
 ,	-	-	-	0:03:50.548000	0:03:51.845000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:51.845000" end="0:03:52.857000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:51.845000" end="0:03:52.857000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:51.845000	0:03:52.857000
 .	-	-	-	0:03:51.845000	0:03:52.857000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:51.845000" end="0:03:52.857000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:51.845000" end="0:03:52.857000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:03:51.845000	0:03:52.857000
 .	-	-	-	0:03:51.845000	0:03:52.857000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:52.857000" end="0:03:58.442000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:52.857000" end="0:03:58.442000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="5,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:03:52.857000" end="0:03:58.442000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:03:52.857000" end="0:03:58.442000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:58.442000" end="0:04:00.984000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:58.442000" end="0:04:00.984000" persName="Informant EXP9" age_lower="" age_upper="999">
 können	-	-	-	0:03:58.442000	0:04:00.984000
 Sie	-	-	-	0:03:58.442000	0:04:00.984000
 auch	-	-	-	0:03:58.442000	0:04:00.984000
@@ -1124,15 +1124,15 @@ Mundart	-	-	-	0:03:58.442000	0:04:00.984000
 sprechen	-	-	-	0:03:58.442000	0:04:00.984000
 ?	-	-	-	0:03:58.442000	0:04:00.984000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:00.984000" end="0:04:01.469000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:00.984000" end="0:04:01.469000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:00.984000	0:04:01.469000
 .	-	-	-	0:04:00.984000	0:04:01.469000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:01.469000" end="0:04:02.487000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:01.469000" end="0:04:02.487000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:01.469000" end="0:04:02.487000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:01.469000" end="0:04:02.487000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:02.487000" end="0:04:13.363000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:02.487000" end="0:04:13.363000" persName="Informant EXP9" age_lower="" age_upper="999">
 (ich	-	-	-	0:04:02.487000	0:04:07.472000
 habe	-	-	-	0:04:02.487000	0:04:07.472000
 so	-	-	-	0:04:02.487000	0:04:07.472000
@@ -1169,16 +1169,16 @@ Dialekt	-	-	-	0:04:07.472000	0:04:13.363000
 beherrschen	-	-	-	0:04:07.472000	0:04:13.363000
 .	-	-	-	0:04:07.472000	0:04:13.363000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:13.363000" end="0:04:14.121000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:13.363000" end="0:04:14.121000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:13.363000	0:04:14.121000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:14.121000" end="0:04:15.130000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:14.121000" end="0:04:15.130000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:04:14.121000	0:04:15.130000
 den	-	-	-	0:04:14.121000	0:04:15.130000
 den	-	-	-	0:04:14.121000	0:04:15.130000
 /.	-	-	-	0:04:14.121000	0:04:15.130000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:14.121000" end="0:04:15.663000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:14.121000" end="0:04:15.663000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ach	-	-	-	0:04:14.121000	0:04:15.130000
 so	-	-	-	0:04:14.121000	0:04:15.130000
 ,	-	-	-	0:04:14.121000	0:04:15.130000
@@ -1190,7 +1190,7 @@ selber	-	-	-	0:04:15.130000	0:04:15.663000
 tun	-	-	-	0:04:15.130000	0:04:15.663000
 .	-	-	-	0:04:15.130000	0:04:15.663000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:15.663000" end="0:04:19.923000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:15.663000" end="0:04:19.923000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:04:15.663000	0:04:18.112000
 ,	-	-	-	0:04:15.663000	0:04:18.112000
 den	-	-	-	0:04:15.663000	0:04:18.112000
@@ -1199,17 +1199,17 @@ Dialekt	-	-	-	0:04:15.663000	0:04:18.112000
 .	-	-	-	0:04:15.663000	0:04:18.112000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:18.112000" end="0:04:20.442000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:18.112000" end="0:04:20.442000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 okay	-	-	-	0:04:19.923000	0:04:20.442000
 .	-	-	-	0:04:19.923000	0:04:20.442000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:20.442000" end="0:04:22.584000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:20.442000" end="0:04:22.584000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:20.442000	0:04:21.072000
 .	-	-	-	0:04:20.442000	0:04:21.072000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:21.072000" end="0:04:23.584000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:21.072000" end="0:04:23.584000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 muss	-	-	-	0:04:22.584000	0:04:23.584000
 ich	-	-	-	0:04:22.584000	0:04:23.584000
@@ -1218,13 +1218,13 @@ ich	-	-	-	0:04:22.584000	0:04:23.584000
 nein	-	-	-	0:04:22.584000	0:04:23.584000
 .	-	-	-	0:04:22.584000	0:04:23.584000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:23.584000" end="0:04:24.221000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:23.584000" end="0:04:24.221000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:23.584000" end="0:04:24.221000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:23.584000" end="0:04:24.221000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:24.221000" end="0:04:26.478000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:24.221000" end="0:04:26.478000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:04:24.221000	0:04:25.812000
 brauchen	-	-	-	0:04:24.221000	0:04:25.812000
 tatsächlich	-	-	-	0:04:24.221000	0:04:25.812000
@@ -1234,13 +1234,13 @@ die	-	-	-	0:04:24.221000	0:04:25.812000
 nächste	-	-	-	0:04:25.812000	0:04:26.478000
 .	-	-	-	0:04:25.812000	0:04:26.478000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:25.812000" end="0:04:26.478000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:25.812000" end="0:04:26.478000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:25.812000	0:04:26.478000
 ,	-	-	-	0:04:25.812000	0:04:26.478000
 passt	-	-	-	0:04:25.812000	0:04:26.478000
 .	-	-	-	0:04:25.812000	0:04:26.478000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:26.478000" end="0:04:29.960000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:26.478000" end="0:04:29.960000" persName="Informant EXP9" age_lower="" age_upper="999">
 es	-	-	-	0:04:26.478000	0:04:29.418000
 geht	-	-	-	0:04:26.478000	0:04:29.418000
 nämlich	-	-	-	0:04:26.478000	0:04:29.418000
@@ -1256,11 +1256,11 @@ wie	-	-	-	0:04:29.418000	0:04:29.960000
 den	-	-	-	0:04:29.418000	0:04:29.960000
 die	-	-	-	0:04:29.418000	0:04:29.960000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:29.418000" end="0:04:29.960000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:29.418000" end="0:04:29.960000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:29.418000	0:04:29.960000
 .	-	-	-	0:04:29.418000	0:04:29.960000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:29.960000" end="0:04:36.084000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:29.960000" end="0:04:36.084000" persName="Informant EXP9" age_lower="" age_upper="999">
 alteingesessenen	-	-	-	0:04:29.960000	0:04:33.515000
 Bewohner	-	-	-	0:04:29.960000	0:04:33.515000
 ähm	-	-	-	0:04:29.960000	0:04:33.515000
@@ -1278,7 +1278,7 @@ dem	-	-	-	0:04:33.515000	0:04:36.084000
 Verstehen	-	-	-	0:04:33.515000	0:04:36.084000
 ?	-	-	-	0:04:33.515000	0:04:36.084000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:36.084000" end="0:04:40.939000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:36.084000" end="0:04:40.939000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:36.084000	0:04:40.939000
 ,	-	-	-	0:04:36.084000	0:04:40.939000
 eigentlich	-	-	-	0:04:36.084000	0:04:40.939000
@@ -1298,11 +1298,11 @@ der	-	-	-	0:04:36.084000	0:04:40.939000
 Steiermark	-	-	-	0:04:36.084000	0:04:40.939000
 ,	-	-	-	0:04:36.084000	0:04:40.939000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:40.939000" end="0:04:41.621000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:40.939000" end="0:04:41.621000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:40.939000	0:04:41.621000
 .	-	-	-	0:04:40.939000	0:04:41.621000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:41.621000" end="0:04:46.163000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:41.621000" end="0:04:46.163000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:41.621000	0:04:46.163000
 das	-	-	-	0:04:41.621000	0:04:46.163000
 sind	-	-	-	0:04:41.621000	0:04:46.163000
@@ -1319,10 +1319,10 @@ also	-	-	-	0:04:41.621000	0:04:46.163000
 studiert	-	-	-	0:04:41.621000	0:04:46.163000
 ,	-	-	-	0:04:41.621000	0:04:46.163000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:46.163000" end="0:04:47.036000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:46.163000" end="0:04:47.036000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:46.163000" end="0:04:51.245000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:46.163000" end="0:04:51.245000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	-	-	-	0:04:47.036000	0:04:51.245000
 wenn	-	-	-	0:04:47.036000	0:04:51.245000
@@ -1341,11 +1341,11 @@ aus	-	-	-	0:04:47.036000	0:04:51.245000
 Hüttschlag	-	-	-	0:04:47.036000	0:04:51.245000
 ,	-	-	-	0:04:47.036000	0:04:51.245000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:51.245000" end="0:04:52.251000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:51.245000" end="0:04:52.251000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:04:51.245000	0:04:52.251000
 .	-	-	-	0:04:51.245000	0:04:52.251000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:04:51.245000" end="0:05:00.021000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:04:51.245000" end="0:05:00.021000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:04:51.245000	0:04:52.251000
 dann	-	-	-	0:04:51.245000	0:04:52.251000
 heißt	-	-	-	0:04:51.245000	0:04:52.251000
@@ -1384,11 +1384,11 @@ ein	-	-	-	0:04:55.657000	0:05:00.021000
 paar	-	-	-	0:04:55.657000	0:05:00.021000
 Wörter	-	-	-	0:04:55.657000	0:05:00.021000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:00.021000" end="0:05:00.554000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:00.021000" end="0:05:00.554000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:00.021000	0:05:00.554000
 .	-	-	-	0:05:00.021000	0:05:00.554000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:00.021000" end="0:05:02.915000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:00.021000" end="0:05:02.915000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 versteht	-	-	-	0:05:00.021000	0:05:00.554000
 sie	-	-	-	0:05:00.021000	0:05:00.554000
 nicht	-	-	-	0:05:00.021000	0:05:00.554000
@@ -1404,12 +1404,12 @@ dem	-	-	-	0:05:00.554000	0:05:02.915000
 Zusammenhang	-	-	-	0:05:00.554000	0:05:02.915000
 .	-	-	-	0:05:00.554000	0:05:02.915000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:02.915000" end="0:05:04.463000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:02.915000" end="0:05:04.463000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:02.915000	0:05:03.690000
 .	-	-	-	0:05:02.915000	0:05:03.690000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:03.690000" end="0:05:06.309000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:03.690000" end="0:05:06.309000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	-	-	-	0:05:04.463000	0:05:06.309000
 die	-	-	-	0:05:04.463000	0:05:06.309000
@@ -1422,7 +1422,7 @@ es	-	-	-	0:05:04.463000	0:05:06.309000
 sicher	-	-	-	0:05:04.463000	0:05:06.309000
 .	-	-	-	0:05:04.463000	0:05:06.309000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:06.309000" end="0:05:13.715000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:06.309000" end="0:05:13.715000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:05:07.272000	0:05:12.775000
 Sie	-	-	-	0:05:07.272000	0:05:12.775000
 haben	-	-	-	0:05:07.272000	0:05:12.775000
@@ -1445,7 +1445,7 @@ alteingesessenen	-	-	-	0:05:07.272000	0:05:12.775000
 Bewohner	-	-	-	0:05:12.775000	0:05:13.715000
 .	-	-	-	0:05:12.775000	0:05:13.715000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:12.775000" end="0:05:14.112000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:12.775000" end="0:05:14.112000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:12.775000	0:05:13.715000
 ,	-	-	-	0:05:12.775000	0:05:13.715000
 nein	-	-	-	0:05:12.775000	0:05:13.715000
@@ -1456,7 +1456,7 @@ vollständig	-	-	-	0:05:12.775000	0:05:13.715000
 nein	-	-	-	0:05:13.715000	0:05:14.112000
 .	-	-	-	0:05:13.715000	0:05:14.112000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:14.112000" end="0:05:15.766000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:14.112000" end="0:05:15.766000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:05:14.112000	0:05:15.766000
 sehen	-	-	-	0:05:14.112000	0:05:15.766000
 Sie	-	-	-	0:05:14.112000	0:05:15.766000
@@ -1464,7 +1464,7 @@ da	-	-	-	0:05:14.112000	0:05:15.766000
 Unterschiede	-	-	-	0:05:14.112000	0:05:15.766000
 ?	-	-	-	0:05:14.112000	0:05:15.766000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:15.766000" end="0:05:18.893000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:15.766000" end="0:05:18.893000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:05:15.766000	0:05:18.893000
 ähm	-	-	-	0:05:15.766000	0:05:18.893000
@@ -1479,11 +1479,11 @@ Oma	-	-	-	0:05:15.766000	0:05:18.893000
 wenn	-	-	-	0:05:15.766000	0:05:18.893000
 sie	-	-	-	0:05:15.766000	0:05:18.893000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:18.893000" end="0:05:19.593000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:18.893000" end="0:05:19.593000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:05:18.893000	0:05:19.593000
 ?	-	-	-	0:05:18.893000	0:05:19.593000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:18.893000" end="0:05:22.784000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:18.893000" end="0:05:22.784000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 hier	-	-	-	0:05:18.893000	0:05:19.593000
 und	-	-	-	0:05:18.893000	0:05:19.593000
 da	-	-	-	0:05:18.893000	0:05:19.593000
@@ -1503,11 +1503,11 @@ gehört	-	-	-	0:05:19.593000	0:05:22.784000
 habe	-	-	-	0:05:19.593000	0:05:22.784000
 .	-	-	-	0:05:19.593000	0:05:22.784000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:22.784000" end="0:05:23.224000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:22.784000" end="0:05:23.224000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:22.784000	0:05:23.224000
 .	-	-	-	0:05:22.784000	0:05:23.224000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:23.224000" end="0:05:26.412000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:23.224000" end="0:05:26.412000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nachher	-	-	-	0:05:23.224000	0:05:26.412000
 muss	-	-	-	0:05:23.224000	0:05:26.412000
@@ -1526,11 +1526,11 @@ das	-	-	-	0:05:23.224000	0:05:26.412000
 jetzt	-	-	-	0:05:23.224000	0:05:26.412000
 ?	-	-	-	0:05:23.224000	0:05:26.412000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:26.412000" end="0:05:26.836000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:26.412000" end="0:05:26.836000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:26.412000	0:05:26.836000
 .	-	-	-	0:05:26.412000	0:05:26.836000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:26.836000" end="0:05:28.903000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:26.836000" end="0:05:28.903000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:05:26.836000	0:05:28.903000
 sagt	-	-	-	0:05:26.836000	0:05:28.903000
 sie	-	-	-	0:05:26.836000	0:05:28.903000
@@ -1545,7 +1545,7 @@ und	-	-	-	0:05:26.836000	0:05:28.903000
 da"	-	-	-	0:05:26.836000	0:05:28.903000
 .	-	-	-	0:05:26.836000	0:05:28.903000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:28.903000" end="0:05:30.175000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:28.903000" end="0:05:30.175000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:28.903000	0:05:29.451000
 .	-	-	-	0:05:28.903000	0:05:29.451000
 aber	-	-	-	0:05:29.451000	0:05:30.175000
@@ -1554,7 +1554,7 @@ heißt	-	-	-	0:05:29.451000	0:05:30.175000
 s/	-	-	-	0:05:29.451000	0:05:30.175000
 /?	-	-	-	0:05:29.451000	0:05:30.175000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:29.451000" end="0:05:32.451000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:29.451000" end="0:05:32.451000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:05:29.451000	0:05:30.175000
 nachher	-	-	-	0:05:29.451000	0:05:30.175000
 /,	-	-	-	0:05:29.451000	0:05:30.175000
@@ -1569,11 +1569,11 @@ halt	-	-	-	0:05:30.175000	0:05:32.451000
 meistens	-	-	-	0:05:30.175000	0:05:32.451000
 .	-	-	-	0:05:30.175000	0:05:32.451000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:32.451000" end="0:05:33.409000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:32.451000" end="0:05:33.409000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:32.451000" end="0:05:33.409000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:32.451000" end="0:05:33.409000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:33.409000" end="0:05:36.187000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:33.409000" end="0:05:36.187000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:05:33.409000	0:05:35.009000
 heißt	-	-	-	0:05:33.409000	0:05:35.009000
 ,	-	-	-	0:05:33.409000	0:05:35.009000
@@ -1588,23 +1588,23 @@ dann	-	-	-	0:05:35.009000	0:05:36.187000
 meistens	-	-	-	0:05:35.009000	0:05:36.187000
 .	-	-	-	0:05:35.009000	0:05:36.187000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:35.009000" end="0:05:36.187000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:35.009000" end="0:05:36.187000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:35.009000	0:05:36.187000
 ,	-	-	-	0:05:35.009000	0:05:36.187000
 ja	-	-	-	0:05:35.009000	0:05:36.187000
 .	-	-	-	0:05:35.009000	0:05:36.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:36.187000" end="0:05:39.327000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:36.187000" end="0:05:39.327000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:05:36.187000	0:05:37.327000
 ,	-	-	-	0:05:36.187000	0:05:37.327000
 mhm	-	-	-	0:05:36.187000	0:05:37.327000
 .	-	-	-	0:05:36.187000	0:05:37.327000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:37.327000" end="0:05:39.327000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:37.327000" end="0:05:39.327000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:39.327000" end="0:05:41.839000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:39.327000" end="0:05:41.839000" persName="Informant EXP9" age_lower="" age_upper="999">
 sprechen	-	-	-	0:05:39.327000	0:05:40.930000
 Sie	-	-	-	0:05:39.327000	0:05:40.930000
 gerne	-	-	-	0:05:39.327000	0:05:40.930000
@@ -1614,19 +1614,19 @@ Dialekt	-	-	-	0:05:39.327000	0:05:40.930000
 mhm	-	-	-	0:05:40.930000	0:05:41.839000
 .	-	-	-	0:05:40.930000	0:05:41.839000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:40.930000" end="0:05:41.839000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:40.930000" end="0:05:41.839000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:40.930000	0:05:41.839000
 ,	-	-	-	0:05:40.930000	0:05:41.839000
 voll	-	-	-	0:05:40.930000	0:05:41.839000
 gern	-	-	-	0:05:40.930000	0:05:41.839000
 .	-	-	-	0:05:40.930000	0:05:41.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:41.839000" end="0:05:43.536000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:41.839000" end="0:05:43.536000" persName="Informant EXP9" age_lower="" age_upper="999">
 warum	-	-	-	0:05:41.839000	0:05:42.563000
 ?	-	-	-	0:05:41.839000	0:05:42.563000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:42.563000" end="0:05:45.603000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:42.563000" end="0:05:45.603000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:05:43.536000	0:05:45.603000
 ,	-	-	-	0:05:43.536000	0:05:45.603000
@@ -1638,21 +1638,21 @@ ist	-	-	-	0:05:43.536000	0:05:45.603000
 Heimat	-	-	-	0:05:43.536000	0:05:45.603000
 ,	-	-	-	0:05:43.536000	0:05:45.603000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:45.603000" end="0:05:46.618000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:45.603000" end="0:05:46.618000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:45.603000	0:05:46.618000
 .	-	-	-	0:05:45.603000	0:05:46.618000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:45.603000" end="0:05:46.618000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:45.603000" end="0:05:46.618000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:05:45.603000	0:05:46.618000
 ähm	-	-	-	0:05:45.603000	0:05:46.618000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:46.618000" end="0:05:48.118000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:46.618000" end="0:05:48.118000" persName="Informant EXP9" age_lower="" age_upper="999">
 auf	-	-	-	0:05:46.618000	0:05:48.118000
 jeden	-	-	-	0:05:46.618000	0:05:48.118000
 Fall	-	-	-	0:05:46.618000	0:05:48.118000
 .	-	-	-	0:05:46.618000	0:05:48.118000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:46.618000" end="0:05:51.421000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:46.618000" end="0:05:51.421000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:46.618000	0:05:48.118000
 verbindet	-	-	-	0:05:46.618000	0:05:48.118000
 mich	-	-	-	0:05:46.618000	0:05:48.118000
@@ -1670,18 +1670,18 @@ wo	-	-	-	0:05:48.118000	0:05:51.421000
 ich	-	-	-	0:05:48.118000	0:05:51.421000
 aufgewachsen	-	-	-	0:05:48.118000	0:05:51.421000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:51.421000" end="0:05:51.866000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:51.421000" end="0:05:51.866000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:51.421000	0:05:51.866000
 .	-	-	-	0:05:51.421000	0:05:51.866000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:51.421000" end="0:05:51.866000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:51.421000" end="0:05:51.866000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 bin	-	-	-	0:05:51.421000	0:05:51.866000
 .	-	-	-	0:05:51.421000	0:05:51.866000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:51.866000" end="0:05:52.457000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:51.866000" end="0:05:52.457000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:05:51.866000" end="0:06:00.939000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:05:51.866000" end="0:06:00.939000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	-	-	-	0:05:52.457000	0:05:59.308000
 es	-	-	-	0:05:52.457000	0:05:59.308000
@@ -1730,9 +1730,9 @@ versteht	-	-	-	0:05:59.308000	0:06:00.939000
 ,	-	-	-	0:05:59.308000	0:06:00.939000
 nachher	-	-	-	0:05:59.308000	0:06:00.939000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:00.939000" end="0:06:01.863000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:00.939000" end="0:06:01.863000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:00.939000" end="0:06:04.436000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:00.939000" end="0:06:04.436000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 sollte	-	-	-	0:06:00.939000	0:06:01.863000
 er	-	-	-	0:06:00.939000	0:06:01.863000
 nachfragen	-	-	-	0:06:00.939000	0:06:01.863000
@@ -1745,15 +1745,15 @@ schon	-	-	-	0:06:01.863000	0:06:04.436000
 gern	-	-	-	0:06:01.863000	0:06:04.436000
 ,	-	-	-	0:06:01.863000	0:06:04.436000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:04.436000" end="0:06:04.963000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:04.436000" end="0:06:04.963000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:04.436000	0:06:04.963000
 .	-	-	-	0:06:04.436000	0:06:04.963000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:04.436000" end="0:06:04.963000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:04.436000" end="0:06:04.963000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:04.436000	0:06:04.963000
 .	-	-	-	0:06:04.436000	0:06:04.963000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:04.963000" end="0:06:10.242000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:04.963000" end="0:06:10.242000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sie	-	-	-	0:06:04.963000	0:06:10.242000
 haben	-	-	-	0:06:04.963000	0:06:10.242000
 jetzt	-	-	-	0:06:04.963000	0:06:10.242000
@@ -1775,11 +1775,11 @@ lieb	-	-	-	0:06:04.963000	0:06:10.242000
 klingt	-	-	-	0:06:04.963000	0:06:10.242000
 .	-	-	-	0:06:04.963000	0:06:10.242000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:10.242000" end="0:06:10.693000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:10.242000" end="0:06:10.693000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:10.242000	0:06:10.693000
 .	-	-	-	0:06:10.242000	0:06:10.693000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:10.693000" end="0:06:14.618000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:10.693000" end="0:06:14.618000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:06:10.693000	0:06:13.090000
 ähm	-	-	-	0:06:10.693000	0:06:13.090000
 haben	-	-	-	0:06:10.693000	0:06:13.090000
@@ -1795,13 +1795,13 @@ der	-	-	-	0:06:13.090000	0:06:14.618000
 /,	-	-	-	0:06:13.090000	0:06:14.618000
 also	-	-	-	0:06:13.090000	0:06:14.618000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:13.090000" end="0:06:14.618000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:13.090000" end="0:06:14.618000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:13.090000	0:06:14.618000
 ,	-	-	-	0:06:13.090000	0:06:14.618000
 mhm	-	-	-	0:06:13.090000	0:06:14.618000
 .	-	-	-	0:06:13.090000	0:06:14.618000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:14.618000" end="0:06:21.242000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:14.618000" end="0:06:21.242000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:06:14.618000	0:06:18.481000
 heißt	-	-	-	0:06:14.618000	0:06:18.481000
 ,	-	-	-	0:06:14.618000	0:06:18.481000
@@ -1828,7 +1828,7 @@ schon	-	-	-	0:06:18.481000	0:06:21.242000
 beobachtet	-	-	-	0:06:18.481000	0:06:21.242000
 ?	-	-	-	0:06:18.481000	0:06:21.242000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:21.242000" end="0:06:26.966000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:21.242000" end="0:06:26.966000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:06:21.242000	0:06:23.242000
 ,	-	-	-	0:06:21.242000	0:06:23.242000
 eigent/	-	-	-	0:06:21.242000	0:06:23.242000
@@ -1848,18 +1848,18 @@ bescheuert"	-	-	-	0:06:23.242000	0:06:26.966000
 oder	-	-	-	0:06:23.242000	0:06:26.966000
 so	-	-	-	0:06:23.242000	0:06:26.966000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:26.966000" end="0:06:27.503000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:26.966000" end="0:06:27.503000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:26.966000	0:06:27.503000
 .	-	-	-	0:06:26.966000	0:06:27.503000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:26.966000" end="0:06:27.503000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:26.966000" end="0:06:27.503000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 irgendwas	-	-	-	0:06:26.966000	0:06:27.503000
 .	-	-	-	0:06:26.966000	0:06:27.503000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:27.503000" end="0:06:28.451000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:27.503000" end="0:06:28.451000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:27.503000" end="0:06:31.054000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:27.503000" end="0:06:31.054000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ow/	-	-	-	0:06:28.451000	0:06:29.475000
 nein	-	-	-	0:06:28.451000	0:06:29.475000
@@ -1871,7 +1871,7 @@ Gegenteil	-	-	-	0:06:29.475000	0:06:31.054000
 nicht	-	-	-	0:06:29.475000	0:06:31.054000
 .	-	-	-	0:06:29.475000	0:06:31.054000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:31.054000" end="0:06:40.896000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:31.054000" end="0:06:40.896000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:31.054000	0:06:31.624000
 .	-	-	-	0:06:31.054000	0:06:31.624000
 und	-	-	-	0:06:31.624000	0:06:38.930000
@@ -1904,7 +1904,7 @@ kommt	-	-	-	0:06:38.930000	0:06:40.896000
 oder	-	-	-	0:06:38.930000	0:06:40.896000
 ?	-	-	-	0:06:38.930000	0:06:40.896000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:38.930000" end="0:06:43.187000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:38.930000" end="0:06:43.187000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:38.930000	0:06:40.896000
 ,	-	-	-	0:06:38.930000	0:06:40.896000
 es	-	-	-	0:06:38.930000	0:06:40.896000
@@ -1928,11 +1928,11 @@ ist	-	-	-	0:06:40.896000	0:06:43.187000
 oder	-	-	-	0:06:40.896000	0:06:43.187000
 in	-	-	-	0:06:40.896000	0:06:43.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:43.187000" end="0:06:43.827000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:43.187000" end="0:06:43.827000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:43.187000	0:06:43.827000
 .	-	-	-	0:06:43.187000	0:06:43.827000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:43.187000" end="0:06:47.951000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:43.187000" end="0:06:47.951000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:06:43.187000	0:06:43.827000
 .	-	-	-	0:06:43.187000	0:06:43.827000
 <pause duration="0,6s"/>
@@ -1959,18 +1959,18 @@ von	-	-	-	0:06:43.827000	0:06:47.951000
 ganz	-	-	-	0:06:43.827000	0:06:47.951000
 Salzburg	-	-	-	0:06:43.827000	0:06:47.951000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:47.951000" end="0:06:48.603000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:47.951000" end="0:06:48.603000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:47.951000	0:06:48.603000
 .	-	-	-	0:06:47.951000	0:06:48.603000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:47.951000" end="0:06:48.603000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:47.951000" end="0:06:48.603000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:06:47.951000	0:06:48.603000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:48.603000" end="0:06:52.354000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:48.603000" end="0:06:52.354000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:06:48.603000	0:06:52.354000
 .	-	-	-	0:06:48.603000	0:06:52.354000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:48.603000" end="0:06:54.733000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:48.603000" end="0:06:54.733000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:06:48.603000	0:06:52.354000
 Lehrlinge	-	-	-	0:06:48.603000	0:06:52.354000
 gewesen	-	-	-	0:06:48.603000	0:06:52.354000
@@ -2002,11 +2002,11 @@ ich	-	-	-	0:06:52.354000	0:06:54.733000
 /.	-	-	-	0:06:52.354000	0:06:54.733000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:54.733000" end="0:06:57.003000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:54.733000" end="0:06:57.003000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:06:54.733000	0:06:57.003000
 .	-	-	-	0:06:54.733000	0:06:57.003000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:06:54.733000" end="0:06:59.442000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:06:54.733000" end="0:06:59.442000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:06:54.733000	0:06:57.003000
 mir	-	-	-	0:06:54.733000	0:06:57.003000
 schnell	-	-	-	0:06:54.733000	0:06:57.003000
@@ -2032,15 +2032,15 @@ ich	-	-	-	0:06:57.003000	0:06:59.442000
 sage	-	-	-	0:06:57.003000	0:06:59.442000
 .	-	-	-	0:06:57.003000	0:06:59.442000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:59.442000" end="0:07:02.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:59.442000" end="0:07:02.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:59.442000	0:07:00.072000
 .	-	-	-	0:06:59.442000	0:07:00.072000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:00.072000" end="0:07:02.100000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:00.072000" end="0:07:02.100000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:02.100000" end="0:07:05.809000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:02.100000" end="0:07:05.809000" persName="Informant EXP9" age_lower="" age_upper="999">
 in	-	-	-	0:07:02.100000	0:07:05.809000
 welchen	-	-	-	0:07:02.100000	0:07:05.809000
 Situationen	-	-	-	0:07:02.100000	0:07:05.809000
@@ -2054,7 +2054,7 @@ den	-	-	-	0:07:02.100000	0:07:05.809000
 Dialekt	-	-	-	0:07:02.100000	0:07:05.809000
 ?	-	-	-	0:07:02.100000	0:07:05.809000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:05.809000" end="0:07:08.818000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:05.809000" end="0:07:08.818000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:05.809000	0:07:08.818000
 ,	-	-	-	0:07:05.809000	0:07:08.818000
 wenn	-	-	-	0:07:05.809000	0:07:08.818000
@@ -2072,11 +2072,11 @@ Eltern	-	-	-	0:07:05.809000	0:07:08.818000
 mit	-	-	-	0:07:05.809000	0:07:08.818000
 meiner	-	-	-	0:07:05.809000	0:07:08.818000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:08.818000" end="0:07:09.554000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:08.818000" end="0:07:09.554000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:08.818000	0:07:09.554000
 .	-	-	-	0:07:08.818000	0:07:09.554000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:08.818000" end="0:07:12.484000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:08.818000" end="0:07:12.484000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Oma	-	-	-	0:07:08.818000	0:07:09.554000
 .	-	-	-	0:07:08.818000	0:07:09.554000
 auch	-	-	-	0:07:09.554000	0:07:12.484000
@@ -2094,10 +2094,10 @@ ich	-	-	-	0:07:09.554000	0:07:12.484000
 kenne	-	-	-	0:07:09.554000	0:07:12.484000
 .	-	-	-	0:07:09.554000	0:07:12.484000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:12.484000" end="0:07:13.351000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:12.484000" end="0:07:13.351000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:12.484000" end="0:07:15.351000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:12.484000" end="0:07:15.351000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:07:13.351000	0:07:15.351000
 <pause duration="0,7s"/>
@@ -2105,7 +2105,7 @@ schon	-	-	-	0:07:13.351000	0:07:15.351000
 oft	-	-	-	0:07:13.351000	0:07:15.351000
 .	-	-	-	0:07:13.351000	0:07:15.351000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:15.351000" end="0:07:22.536000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:15.351000" end="0:07:22.536000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:07:15.351000	0:07:15.821000
 .	-	-	-	0:07:15.351000	0:07:15.821000
 <pause duration="0,7s"/>
@@ -2131,7 +2131,7 @@ den	-	-	-	0:07:20.218000	0:07:22.536000
 Dialekt	-	-	-	0:07:20.218000	0:07:22.536000
 ?	-	-	-	0:07:20.218000	0:07:22.536000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:22.536000" end="0:07:24.275000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:22.536000" end="0:07:24.275000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 was	-	-	-	0:07:22.536000	0:07:24.275000
 ,	-	-	-	0:07:22.536000	0:07:24.275000
 in	-	-	-	0:07:22.536000	0:07:24.275000
@@ -2140,7 +2140,7 @@ Prozent	-	-	-	0:07:22.536000	0:07:24.275000
 oder	-	-	-	0:07:22.536000	0:07:24.275000
 /?	-	-	-	0:07:22.536000	0:07:24.275000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:24.275000" end="0:07:29.712000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:24.275000" end="0:07:29.712000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:07:24.275000	0:07:29.712000
 einfach	-	-	-	0:07:24.275000	0:07:29.712000
 mal	-	-	-	0:07:24.275000	0:07:29.712000
@@ -2158,7 +2158,7 @@ so	-	-	-	0:07:24.275000	0:07:29.712000
 /.	-	-	-	0:07:24.275000	0:07:29.712000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:29.712000" end="0:07:35.163000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:29.712000" end="0:07:35.163000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:29.712000	0:07:35.163000
 ähm	-	-	-	0:07:29.712000	0:07:35.163000
 <pause duration="seufzen"/>
@@ -2189,25 +2189,25 @@ nicht	-	-	-	0:07:29.712000	0:07:35.163000
 ,	-	-	-	0:07:29.712000	0:07:35.163000
 siebzig	-	-	-	0:07:29.712000	0:07:35.163000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:35.163000" end="0:07:36.154000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:35.163000" end="0:07:36.154000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:07:35.163000	0:07:36.154000
 ,	-	-	-	0:07:35.163000	0:07:36.154000
 wie	-	-	-	0:07:35.163000	0:07:36.154000
 gesagt	-	-	-	0:07:35.163000	0:07:36.154000
 ,	-	-	-	0:07:35.163000	0:07:36.154000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:35.163000" end="0:07:36.154000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:35.163000" end="0:07:36.154000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Prozent	-	-	-	0:07:35.163000	0:07:36.154000
 .	-	-	-	0:07:35.163000	0:07:36.154000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:36.154000" end="0:07:36.669000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:36.154000" end="0:07:36.669000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:07:36.154000	0:07:36.669000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:36.154000" end="0:07:36.669000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:36.154000" end="0:07:36.669000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:07:36.154000	0:07:36.669000
 .	-	-	-	0:07:36.154000	0:07:36.669000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:36.669000" end="0:07:39.069000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:36.669000" end="0:07:39.069000" persName="Informant EXP9" age_lower="" age_upper="999">
 wollte	-	-	-	0:07:36.669000	0:07:37.454000
 ich	-	-	-	0:07:36.669000	0:07:37.454000
 s/	-	-	-	0:07:36.669000	0:07:37.454000
@@ -2219,7 +2219,7 @@ in	-	-	-	0:07:37.454000	0:07:39.069000
 Prozent	-	-	-	0:07:37.454000	0:07:39.069000
 .	-	-	-	0:07:37.454000	0:07:39.069000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:37.454000" end="0:07:39.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:37.454000" end="0:07:39.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:07:37.454000	0:07:39.069000
 ungefähr	-	-	-	0:07:37.454000	0:07:39.069000
 ,	-	-	-	0:07:37.454000	0:07:39.069000
@@ -2230,7 +2230,7 @@ drei	-	-	-	0:07:37.454000	0:07:39.069000
 Viertel	-	-	-	0:07:37.454000	0:07:39.069000
 .	-	-	-	0:07:37.454000	0:07:39.069000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:39.069000" end="0:07:46.683000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:39.069000" end="0:07:46.683000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:39.069000	0:07:39.493000
 .	-	-	-	0:07:39.069000	0:07:39.493000
 <pause duration="0,5s"/>
@@ -2262,11 +2262,11 @@ Dialekt	-	-	-	0:07:39.493000	0:07:46.683000
 sprechen	-	-	-	0:07:39.493000	0:07:46.683000
 .	-	-	-	0:07:39.493000	0:07:46.683000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:46.683000" end="0:07:47.351000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:46.683000" end="0:07:47.351000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:46.683000	0:07:47.351000
 .	-	-	-	0:07:46.683000	0:07:47.351000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:47.351000" end="0:07:52.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:47.351000" end="0:07:52.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 wenn	-	-	-	0:07:47.351000	0:07:49.942000
 Sie	-	-	-	0:07:47.351000	0:07:49.942000
 da	-	-	-	0:07:47.351000	0:07:49.942000
@@ -2286,7 +2286,7 @@ immer	-	-	-	0:07:49.942000	0:07:51.648000
 .	-	-	-	0:07:49.942000	0:07:51.648000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:51.648000" end="0:07:53.672000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:51.648000" end="0:07:53.672000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 nehmen	-	-	-	0:07:52.539000	0:07:53.672000
 wir	-	-	-	0:07:52.539000	0:07:53.672000
@@ -2294,16 +2294,16 @@ das	-	-	-	0:07:52.539000	0:07:53.672000
 vorletzte	-	-	-	0:07:52.539000	0:07:53.672000
 .	-	-	-	0:07:52.539000	0:07:53.672000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:53.672000" end="0:07:56.169000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:53.672000" end="0:07:56.169000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:07:53.672000	0:07:54.800000
 .	-	-	-	0:07:53.672000	0:07:54.800000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:07:54.800000" end="0:07:56.169000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:07:54.800000" end="0:07:56.169000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:56.169000" end="0:08:02.884000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:56.169000" end="0:08:02.884000" persName="Informant EXP9" age_lower="" age_upper="999">
 gibt	-	-	-	0:07:56.169000	0:08:00.530000
 es	-	-	-	0:07:56.169000	0:08:00.530000
 Situationen	-	-	-	0:07:56.169000	0:08:00.530000
@@ -2321,7 +2321,7 @@ erscheint	-	-	-	0:07:56.169000	0:08:00.530000
 ?	-	-	-	0:07:56.169000	0:08:00.530000
 <pause duration="2,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:00.530000" end="0:08:04.884000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:00.530000" end="0:08:04.884000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 also	-	-	-	0:08:02.884000	0:08:04.884000
 da	-	-	-	0:08:02.884000	0:08:04.884000
@@ -2335,19 +2335,19 @@ eigentlich	-	-	-	0:08:02.884000	0:08:04.884000
 nicht	-	-	-	0:08:02.884000	0:08:04.884000
 .	-	-	-	0:08:02.884000	0:08:04.884000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:04.884000" end="0:08:05.890000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:04.884000" end="0:08:05.890000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:04.884000" end="0:08:05.890000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:04.884000" end="0:08:05.890000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:05.890000" end="0:08:11.748000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:05.890000" end="0:08:11.748000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:05.890000	0:08:11.748000
 ,	-	-	-	0:08:05.890000	0:08:11.748000
 mhm	-	-	-	0:08:05.890000	0:08:11.748000
 .	-	-	-	0:08:05.890000	0:08:11.748000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:05.890000" end="0:08:13.287000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:05.890000" end="0:08:13.287000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:08:05.890000	0:08:11.748000
 ,	-	-	-	0:08:05.890000	0:08:11.748000
 dass	-	-	-	0:08:05.890000	0:08:11.748000
@@ -2384,7 +2384,7 @@ also	-	-	-	0:08:11.748000	0:08:13.287000
 nein	-	-	-	0:08:11.748000	0:08:13.287000
 .	-	-	-	0:08:11.748000	0:08:13.287000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:13.287000" end="0:08:17.627000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:13.287000" end="0:08:17.627000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 das	-	-	-	0:08:13.287000	0:08:16.718000
 heißt	-	-	-	0:08:13.287000	0:08:16.718000
@@ -2397,7 +2397,7 @@ automatisch	-	-	-	0:08:13.287000	0:08:16.718000
 oder	-	-	-	0:08:16.718000	0:08:17.627000
 ?	-	-	-	0:08:16.718000	0:08:17.627000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:16.718000" end="0:08:20.515000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:16.718000" end="0:08:20.515000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:16.718000	0:08:17.627000
 ,	-	-	-	0:08:16.718000	0:08:17.627000
 nein	-	-	-	0:08:16.718000	0:08:17.627000
@@ -2418,24 +2418,24 @@ gut	-	-	-	0:08:17.627000	0:08:20.515000
 nein	-	-	-	0:08:17.627000	0:08:20.515000
 .	-	-	-	0:08:17.627000	0:08:20.515000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:20.515000" end="0:08:20.869000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:20.515000" end="0:08:20.869000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:20.515000	0:08:20.869000
 .	-	-	-	0:08:20.515000	0:08:20.869000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:20.869000" end="0:08:21.587000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:20.869000" end="0:08:21.587000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 überhaupt	-	-	-	0:08:20.869000	0:08:21.587000
 nicht	-	-	-	0:08:20.869000	0:08:21.587000
 .	-	-	-	0:08:20.869000	0:08:21.587000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:21.587000" end="0:08:23.472000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:21.587000" end="0:08:23.472000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:21.587000	0:08:22.160000
 .	-	-	-	0:08:21.587000	0:08:22.160000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:22.160000" end="0:08:23.472000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:22.160000" end="0:08:23.472000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:23.472000" end="0:08:30.581000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:23.472000" end="0:08:30.581000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:08:23.472000	0:08:28.100000
 gibt	-	-	-	0:08:23.472000	0:08:28.100000
 es	-	-	-	0:08:23.472000	0:08:28.100000
@@ -2457,7 +2457,7 @@ passen	-	-	-	0:08:23.472000	0:08:28.100000
 ?	-	-	-	0:08:23.472000	0:08:28.100000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:28.100000" end="0:08:32.730000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:28.100000" end="0:08:32.730000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 ja	-	-	-	0:08:30.581000	0:08:32.730000
 ,	-	-	-	0:08:30.581000	0:08:32.730000
@@ -2471,17 +2471,17 @@ Arbeit	-	-	-	0:08:30.581000	0:08:32.730000
 bezogen	-	-	-	0:08:30.581000	0:08:32.730000
 ,	-	-	-	0:08:30.581000	0:08:32.730000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:32.730000" end="0:08:33.239000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:32.730000" end="0:08:33.239000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:32.730000	0:08:33.239000
 .	-	-	-	0:08:32.730000	0:08:33.239000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:32.730000" end="0:08:33.239000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:32.730000" end="0:08:33.239000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:08:32.730000	0:08:33.239000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:33.239000" end="0:08:34.018000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:33.239000" end="0:08:34.018000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:33.239000" end="0:08:36.854000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:33.239000" end="0:08:36.854000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 das	-	-	-	0:08:34.018000	0:08:36.854000
 kenne	-	-	-	0:08:34.018000	0:08:36.854000
@@ -2498,11 +2498,11 @@ nicht	-	-	-	0:08:34.018000	0:08:36.854000
 alle	-	-	-	0:08:34.018000	0:08:36.854000
 .	-	-	-	0:08:34.018000	0:08:36.854000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:36.854000" end="0:08:37.475000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:36.854000" end="0:08:37.475000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:36.854000	0:08:37.475000
 .	-	-	-	0:08:36.854000	0:08:37.475000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:37.475000" end="0:08:43.590000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:37.475000" end="0:08:43.590000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:08:37.475000	0:08:43.590000
 kommt	-	-	-	0:08:37.475000	0:08:43.590000
 eine	-	-	-	0:08:37.475000	0:08:43.590000
@@ -2527,11 +2527,11 @@ aus	-	-	-	0:08:37.475000	0:08:43.590000
 di"	-	-	-	0:08:37.475000	0:08:43.590000
 .	-	-	-	0:08:37.475000	0:08:43.590000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:43.590000" end="0:08:44.687000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:43.590000" end="0:08:44.687000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:43.590000	0:08:44.687000
 .	-	-	-	0:08:43.590000	0:08:44.687000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:44.687000" end="0:08:47.430000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:44.687000" end="0:08:47.430000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:08:44.687000	0:08:47.430000
 nachher	-	-	-	0:08:44.687000	0:08:47.430000
 *musst*	-	-	-	0:08:44.687000	0:08:47.430000
@@ -2546,14 +2546,14 @@ dich	-	-	-	0:08:44.687000	0:08:47.430000
 versteht	-	-	-	0:08:44.687000	0:08:47.430000
 .	-	-	-	0:08:44.687000	0:08:47.430000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:47.430000" end="0:08:48.627000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:47.430000" end="0:08:48.627000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:08:47.430000	0:08:48.627000
 ,	-	-	-	0:08:47.430000	0:08:48.627000
 ja	-	-	-	0:08:47.430000	0:08:48.627000
 .	-	-	-	0:08:47.430000	0:08:48.627000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:47.430000" end="0:08:49.715000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:47.430000" end="0:08:49.715000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:08:47.430000	0:08:48.627000
 nachher	-	-	-	0:08:47.430000	0:08:48.627000
@@ -2563,15 +2563,15 @@ automatisch	-	-	-	0:08:48.627000	0:08:49.715000
 um	-	-	-	0:08:48.627000	0:08:49.715000
 .	-	-	-	0:08:48.627000	0:08:49.715000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:49.715000" end="0:08:54.157000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:49.715000" end="0:08:54.157000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:49.715000	0:08:50.245000
 .	-	-	-	0:08:49.715000	0:08:50.245000
 <pause duration="3,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:50.245000" end="0:08:54.157000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:50.245000" end="0:08:54.157000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:54.157000" end="0:08:57.839000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:54.157000" end="0:08:57.839000" persName="Informant EXP9" age_lower="" age_upper="999">
 welche	-	-	-	0:08:54.157000	0:08:57.839000
 Personenkreise	-	-	-	0:08:54.157000	0:08:57.839000
 da	-	-	-	0:08:54.157000	0:08:57.839000
@@ -2583,12 +2583,12 @@ den	-	-	-	0:08:54.157000	0:08:57.839000
 Dialekt	-	-	-	0:08:54.157000	0:08:57.839000
 ?	-	-	-	0:08:54.157000	0:08:57.839000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:08:57.839000" end="0:08:58.887000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:08:57.839000" end="0:08:58.887000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 alle	-	-	-	0:08:57.839000	0:08:58.887000
 .	-	-	-	0:08:57.839000	0:08:58.887000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:58.887000" end="0:09:00.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:58.887000" end="0:09:00.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:58.887000	0:09:00.539000
 ,	-	-	-	0:08:58.887000	0:09:00.539000
 gibt	-	-	-	0:08:58.887000	0:09:00.539000
@@ -2598,7 +2598,7 @@ keine	-	-	-	0:08:58.887000	0:09:00.539000
 Ausnahmen	-	-	-	0:08:58.887000	0:09:00.539000
 ?	-	-	-	0:08:58.887000	0:09:00.539000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:00.539000" end="0:09:07.006000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:00.539000" end="0:09:07.006000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:09:00.539000	0:09:07.006000
 ,	-	-	-	0:09:00.539000	0:09:07.006000
@@ -2624,32 +2624,32 @@ Türkei	-	-	-	0:09:00.539000	0:09:07.006000
 oder	-	-	-	0:09:00.539000	0:09:07.006000
 so	-	-	-	0:09:00.539000	0:09:07.006000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:07.006000" end="0:09:07.715000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:07.006000" end="0:09:07.715000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:07.006000	0:09:07.715000
 .	-	-	-	0:09:07.006000	0:09:07.715000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:07.006000" end="0:09:07.715000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:07.006000" end="0:09:07.715000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 irgendwo	-	-	-	0:09:07.006000	0:09:07.715000
 ist	-	-	-	0:09:07.006000	0:09:07.715000
 .	-	-	-	0:09:07.006000	0:09:07.715000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:07.715000" end="0:09:08.833000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:07.715000" end="0:09:08.833000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:09:07.715000	0:09:08.833000
 die	-	-	-	0:09:07.715000	0:09:08.833000
 sch/	-	-	-	0:09:07.715000	0:09:08.833000
 /.	-	-	-	0:09:07.715000	0:09:08.833000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:07.715000" end="0:09:09.545000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:07.715000" end="0:09:09.545000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:09:07.715000	0:09:08.833000
 sonst	-	-	-	0:09:07.715000	0:09:08.833000
 sind	-	-	-	0:09:08.833000	0:09:09.545000
 alle	-	-	-	0:09:08.833000	0:09:09.545000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:09.545000" end="0:09:10.651000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:09.545000" end="0:09:10.651000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:09.545000	0:09:10.651000
 .	-	-	-	0:09:09.545000	0:09:10.651000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:09.545000" end="0:09:11.969000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:09.545000" end="0:09:11.969000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 einheimisch	-	-	-	0:09:09.545000	0:09:10.651000
 .	-	-	-	0:09:09.545000	0:09:10.651000
 oder	-	-	-	0:09:10.651000	0:09:11.969000
@@ -2657,11 +2657,11 @@ halt	-	-	-	0:09:10.651000	0:09:11.969000
 /,	-	-	-	0:09:10.651000	0:09:11.969000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:11.969000" end="0:09:15.748000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:11.969000" end="0:09:15.748000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:09:11.969000	0:09:15.748000
 .	-	-	-	0:09:11.969000	0:09:15.748000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:11.969000" end="0:09:15.748000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:11.969000" end="0:09:15.748000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:09:11.969000	0:09:15.748000
 ,	-	-	-	0:09:11.969000	0:09:15.748000
 ich	-	-	-	0:09:11.969000	0:09:15.748000
@@ -2675,13 +2675,13 @@ Hüttschlagerisch	-	-	-	0:09:11.969000	0:09:15.748000
 _schatzt_	-	-	-	0:09:11.969000	0:09:15.748000
 .	-	-	-	0:09:11.969000	0:09:15.748000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:15.748000" end="0:09:18.345000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:15.748000" end="0:09:18.345000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:16.581000" end="0:09:18.345000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:16.581000" end="0:09:18.345000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:18.345000" end="0:09:26.496000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:18.345000" end="0:09:26.496000" persName="Informant EXP9" age_lower="" age_upper="999">
 was	-	-	-	0:09:18.345000	0:09:25.315000
 glauben	-	-	-	0:09:18.345000	0:09:25.315000
 Sie	-	-	-	0:09:18.345000	0:09:25.315000
@@ -2708,18 +2708,18 @@ gesagt	-	-	-	0:09:25.315000	0:09:26.496000
 oder	-	-	-	0:09:25.315000	0:09:26.496000
 ?	-	-	-	0:09:25.315000	0:09:26.496000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:25.315000" end="0:09:26.496000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:25.315000" end="0:09:26.496000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:25.315000	0:09:26.496000
 ,	-	-	-	0:09:25.315000	0:09:26.496000
 mhm	-	-	-	0:09:25.315000	0:09:26.496000
 .	-	-	-	0:09:25.315000	0:09:26.496000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:26.496000" end="0:09:27.178000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:26.496000" end="0:09:27.178000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:09:26.496000	0:09:27.178000
 wird	-	-	-	0:09:26.496000	0:09:27.178000
 /.	-	-	-	0:09:26.496000	0:09:27.178000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:27.178000" end="0:09:31.148000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:27.178000" end="0:09:31.148000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:09:27.178000	0:09:31.148000
 <pause duration="0,8s"/>
 ich	-	-	-	0:09:27.178000	0:09:31.148000
@@ -2733,11 +2733,11 @@ mehr	-	-	-	0:09:27.178000	0:09:31.148000
 abkommt	-	-	-	0:09:27.178000	0:09:31.148000
 .	-	-	-	0:09:27.178000	0:09:31.148000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:31.148000" end="0:09:31.972000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:31.148000" end="0:09:31.972000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:31.148000	0:09:31.972000
 .	-	-	-	0:09:31.148000	0:09:31.972000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:31.972000" end="0:09:36.957000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:31.972000" end="0:09:36.957000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:09:31.972000	0:09:36.957000
 /,	-	-	-	0:09:31.972000	0:09:36.957000
 <pause duration="0,7s"/>
@@ -2760,11 +2760,11 @@ Oma	-	-	-	0:09:31.972000	0:09:36.957000
 sagt	-	-	-	0:09:31.972000	0:09:36.957000
 .	-	-	-	0:09:31.972000	0:09:36.957000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:36.957000" end="0:09:37.587000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:36.957000" end="0:09:37.587000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:09:36.957000	0:09:37.587000
 .	-	-	-	0:09:36.957000	0:09:37.587000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:37.587000" end="0:09:46.136000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:37.587000" end="0:09:46.136000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:09:37.587000	0:09:40.496000
 wie	-	-	-	0:09:37.587000	0:09:40.496000
@@ -2801,7 +2801,7 @@ eine	-	-	-	0:09:40.496000	0:09:46.136000
 Volksschule	-	-	-	0:09:40.496000	0:09:46.136000
 ,	-	-	-	0:09:40.496000	0:09:46.136000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:46.136000" end="0:09:51.806000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:46.136000" end="0:09:51.806000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:46.136000	0:09:46.824000
 .	-	-	-	0:09:46.136000	0:09:46.824000
 mhm	-	-	-	0:09:46.824000	0:09:51.806000
@@ -2809,7 +2809,7 @@ mhm	-	-	-	0:09:46.824000	0:09:51.806000
 mhm	-	-	-	0:09:46.824000	0:09:51.806000
 .	-	-	-	0:09:46.824000	0:09:51.806000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:46.824000" end="0:09:53.675000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:46.824000" end="0:09:53.675000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:09:46.824000	0:09:51.806000
 in	-	-	-	0:09:46.824000	0:09:51.806000
 ORT	ORT	-	-	0:09:46.824000	0:09:51.806000
@@ -2846,12 +2846,12 @@ viele	-	-	-	0:09:51.806000	0:09:53.675000
 an	-	-	-	0:09:51.806000	0:09:53.675000
 .	-	-	-	0:09:51.806000	0:09:53.675000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:53.675000" end="0:09:55.096000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:53.675000" end="0:09:55.096000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:09:53.675000	0:09:54.054000
 .	-	-	-	0:09:53.675000	0:09:54.054000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:09:54.054000" end="0:09:58.309000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:09:54.054000" end="0:09:58.309000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 aber	-	-	-	0:09:55.096000	0:09:58.309000
 <pause duration="0,8s"/>
@@ -2869,7 +2869,7 @@ keine	-	-	-	0:09:55.096000	0:09:58.309000
 extra	-	-	-	0:09:55.096000	0:09:58.309000
 .	-	-	-	0:09:55.096000	0:09:58.309000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:58.309000" end="0:10:08.187000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:58.309000" end="0:10:08.187000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:58.309000	0:09:59.954000
 ,	-	-	-	0:09:58.309000	0:09:59.954000
 das	-	-	-	0:09:58.309000	0:09:59.954000
@@ -2909,7 +2909,7 @@ Regionen	-	-	-	0:10:06.093000	0:10:08.187000
 mhm	-	-	-	0:10:06.093000	0:10:08.187000
 .	-	-	-	0:10:06.093000	0:10:08.187000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:06.093000" end="0:10:08.187000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:06.093000" end="0:10:08.187000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:10:06.093000	0:10:08.187000
 ,	-	-	-	0:10:06.093000	0:10:08.187000
 generell	-	-	-	0:10:06.093000	0:10:08.187000
@@ -2919,7 +2919,7 @@ ich	-	-	-	0:10:06.093000	0:10:08.187000
 schon	-	-	-	0:10:06.093000	0:10:08.187000
 .	-	-	-	0:10:06.093000	0:10:08.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:08.187000" end="0:10:11.415000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:08.187000" end="0:10:11.415000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:08.187000	0:10:10.915000
 ,	-	-	-	0:10:08.187000	0:10:10.915000
 also	-	-	-	0:10:08.187000	0:10:10.915000
@@ -2930,11 +2930,11 @@ eigentlich	-	-	-	0:10:08.187000	0:10:10.915000
 immer	-	-	-	0:10:08.187000	0:10:10.915000
 bisschen	-	-	-	0:10:10.915000	0:10:11.415000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:10.915000" end="0:10:11.415000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:10.915000" end="0:10:11.415000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:10.915000	0:10:11.415000
 .	-	-	-	0:10:10.915000	0:10:11.415000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:11.415000" end="0:10:16.872000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:11.415000" end="0:10:16.872000" persName="Informant EXP9" age_lower="" age_upper="999">
 weniger	-	-	-	0:10:11.415000	0:10:12.921000
 wird	-	-	-	0:10:11.415000	0:10:12.921000
 eher	-	-	-	0:10:11.415000	0:10:12.921000
@@ -2943,10 +2943,10 @@ mhm	-	-	-	0:10:11.415000	0:10:12.921000
 .	-	-	-	0:10:11.415000	0:10:12.921000
 <pause duration="3,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:12.921000" end="0:10:16.872000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:12.921000" end="0:10:16.872000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:16.872000" end="0:10:22.566000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:16.872000" end="0:10:22.566000" persName="Informant EXP9" age_lower="" age_upper="999">
 bitte	-	-	-	0:10:16.872000	0:10:22.566000
 denken	-	-	-	0:10:16.872000	0:10:22.566000
 Sie	-	-	-	0:10:16.872000	0:10:22.566000
@@ -2966,7 +2966,7 @@ diese	-	-	-	0:10:16.872000	0:10:22.566000
 sprechen	-	-	-	0:10:16.872000	0:10:22.566000
 ?	-	-	-	0:10:16.872000	0:10:22.566000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:22.566000" end="0:10:25.381000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:22.566000" end="0:10:25.381000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:10:22.566000	0:10:25.381000
 ,	-	-	-	0:10:22.566000	0:10:25.381000
@@ -2974,15 +2974,15 @@ ja	-	-	-	0:10:22.566000	0:10:25.381000
 Deutsch	-	-	-	0:10:22.566000	0:10:25.381000
 .	-	-	-	0:10:22.566000	0:10:25.381000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:25.381000" end="0:10:33.030000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:25.381000" end="0:10:33.030000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:25.381000	0:10:26.084000
 .	-	-	-	0:10:25.381000	0:10:26.084000
 <pause duration="6,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:26.084000" end="0:10:33.030000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:26.084000" end="0:10:33.030000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:33.030000" end="0:10:38.613000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:33.030000" end="0:10:38.613000" persName="Informant EXP9" age_lower="" age_upper="999">
 fallen	-	-	-	0:10:33.030000	0:10:37.617000
 Ihnen	-	-	-	0:10:33.030000	0:10:37.617000
 noch	-	-	-	0:10:33.030000	0:10:37.617000
@@ -3001,7 +3001,7 @@ Beispiel	-	-	-	0:10:33.030000	0:10:37.617000
 ?	-	-	-	0:10:33.030000	0:10:37.617000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:37.617000" end="0:10:41.626000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:37.617000" end="0:10:41.626000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:10:38.613000	0:10:41.626000
 weiß	-	-	-	0:10:38.613000	0:10:41.626000
@@ -3024,11 +3024,11 @@ der	-	-	-	0:10:38.613000	0:10:41.626000
 Früh	-	-	-	0:10:38.613000	0:10:41.626000
 .	-	-	-	0:10:38.613000	0:10:41.626000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:41.626000" end="0:10:42.226000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:41.626000" end="0:10:42.226000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:41.626000	0:10:42.226000
 .	-	-	-	0:10:41.626000	0:10:42.226000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:42.226000" end="0:10:48.078000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:42.226000" end="0:10:48.078000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:10:42.226000	0:10:48.078000
 da	-	-	-	0:10:42.226000	0:10:48.078000
 ist	-	-	-	0:10:42.226000	0:10:48.078000
@@ -3058,11 +3058,11 @@ Kärnten	-	-	-	0:10:42.226000	0:10:48.078000
 weil	-	-	-	0:10:42.226000	0:10:48.078000
 die	-	-	-	0:10:42.226000	0:10:48.078000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:48.078000" end="0:10:48.847000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:48.078000" end="0:10:48.847000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:48.078000	0:10:48.847000
 .	-	-	-	0:10:48.078000	0:10:48.847000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:48.078000" end="0:10:49.943000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:48.078000" end="0:10:49.943000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 reden	-	-	-	0:10:48.078000	0:10:48.847000
 alle	-	-	-	0:10:48.847000	0:10:49.943000
 schön	-	-	-	0:10:48.847000	0:10:49.943000
@@ -3071,13 +3071,13 @@ der	-	-	-	0:10:48.847000	0:10:49.943000
 Schrift	-	-	-	0:10:48.847000	0:10:49.943000
 .	-	-	-	0:10:48.847000	0:10:49.943000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:49.943000" end="0:10:50.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:49.943000" end="0:10:50.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:49.943000	0:10:50.700000
 .	-	-	-	0:10:49.943000	0:10:50.700000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:49.943000" end="0:10:50.700000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:49.943000" end="0:10:50.700000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:50.700000" end="0:10:56.647000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:50.700000" end="0:10:56.647000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:10:50.700000	0:10:54.147000
 heißt	-	-	-	0:10:50.700000	0:10:54.147000
 ,	-	-	-	0:10:50.700000	0:10:54.147000
@@ -3099,7 +3099,7 @@ Synonym	-	-	-	0:10:54.147000	0:10:56.647000
 mhm	-	-	-	0:10:54.147000	0:10:56.647000
 .	-	-	-	0:10:54.147000	0:10:56.647000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:54.147000" end="0:10:56.647000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:54.147000" end="0:10:56.647000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:54.147000	0:10:56.647000
 ,	-	-	-	0:10:54.147000	0:10:56.647000
 ja	-	-	-	0:10:54.147000	0:10:56.647000
@@ -3109,13 +3109,13 @@ genau	-	-	-	0:10:54.147000	0:10:56.647000
 ja	-	-	-	0:10:54.147000	0:10:56.647000
 .	-	-	-	0:10:54.147000	0:10:56.647000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:56.647000" end="0:11:02.065000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:56.647000" end="0:11:02.065000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="5,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:10:56.647000" end="0:11:02.065000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:10:56.647000" end="0:11:02.065000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:02.065000" end="0:11:07.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:02.065000" end="0:11:07.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 halten	-	-	-	0:11:02.065000	0:11:07.700000
 Sie	-	-	-	0:11:02.065000	0:11:07.700000
 diese	-	-	-	0:11:02.065000	0:11:07.700000
@@ -3130,19 +3130,19 @@ für	-	-	-	0:11:02.065000	0:11:07.700000
 passend	-	-	-	0:11:02.065000	0:11:07.700000
 ?	-	-	-	0:11:02.065000	0:11:07.700000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:07.700000" end="0:11:08.347000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:07.700000" end="0:11:08.347000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:07.700000	0:11:08.347000
 .	-	-	-	0:11:07.700000	0:11:08.347000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:08.347000" end="0:11:11.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:08.347000" end="0:11:11.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:08.347000	0:11:08.939000
 .	-	-	-	0:11:08.347000	0:11:08.939000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:08.939000" end="0:11:11.752000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:08.939000" end="0:11:11.752000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:11.752000" end="0:11:13.456000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:11.752000" end="0:11:13.456000" persName="Informant EXP9" age_lower="" age_upper="999">
 warum	-	-	-	0:11:11.752000	0:11:13.456000
 finden	-	-	-	0:11:11.752000	0:11:13.456000
 Sie	-	-	-	0:11:11.752000	0:11:13.456000
@@ -3150,7 +3150,7 @@ das	-	-	-	0:11:11.752000	0:11:13.456000
 passend	-	-	-	0:11:11.752000	0:11:13.456000
 ?	-	-	-	0:11:11.752000	0:11:13.456000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:13.456000" end="0:11:15.456000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:13.456000" end="0:11:15.456000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:11:13.456000	0:11:15.456000
 ,	-	-	-	0:11:13.456000	0:11:15.456000
@@ -3160,15 +3160,15 @@ jeder	-	-	-	0:11:13.456000	0:11:15.456000
 versteht	-	-	-	0:11:13.456000	0:11:15.456000
 .	-	-	-	0:11:13.456000	0:11:15.456000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:15.456000" end="0:11:18.913000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:15.456000" end="0:11:18.913000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:11:15.456000	0:11:15.882000
 .	-	-	-	0:11:15.456000	0:11:15.882000
 <pause duration="2,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:15.882000" end="0:11:18.913000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:15.882000" end="0:11:18.913000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:18.913000" end="0:11:30.113000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:18.913000" end="0:11:30.113000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:11:18.913000	0:11:26.460000
 aber	-	-	-	0:11:18.913000	0:11:26.460000
 jetzt	-	-	-	0:11:18.913000	0:11:26.460000
@@ -3196,7 +3196,7 @@ ist	-	-	-	0:11:18.913000	0:11:26.460000
 ?	-	-	-	0:11:18.913000	0:11:26.460000
 <pause duration="3,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:26.460000" end="0:11:32.013000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:26.460000" end="0:11:32.013000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 nein	-	-	-	0:11:30.113000	0:11:32.013000
 ,	-	-	-	0:11:30.113000	0:11:32.013000
@@ -3208,18 +3208,18 @@ nichts	-	-	-	0:11:30.113000	0:11:32.013000
 ein	-	-	-	0:11:30.113000	0:11:32.013000
 .	-	-	-	0:11:30.113000	0:11:32.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:32.013000" end="0:11:32.686000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:32.013000" end="0:11:32.686000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:32.013000	0:11:32.686000
 .	-	-	-	0:11:32.013000	0:11:32.686000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:32.013000" end="0:11:32.686000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:32.013000" end="0:11:32.686000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:11:32.013000	0:11:32.686000
 /.	-	-	-	0:11:32.013000	0:11:32.686000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:32.686000" end="0:11:34.552000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:32.686000" end="0:11:34.552000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:32.686000" end="0:11:37.208000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:32.686000" end="0:11:37.208000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 das	-	-	-	0:11:34.552000	0:11:37.208000
 merkt	-	-	-	0:11:34.552000	0:11:37.208000
@@ -3240,23 +3240,23 @@ oder	-	-	-	0:11:34.552000	0:11:37.208000
 nicht	-	-	-	0:11:34.552000	0:11:37.208000
 .	-	-	-	0:11:34.552000	0:11:37.208000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:37.208000" end="0:11:37.647000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:37.208000" end="0:11:37.647000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:11:37.208000	0:11:37.647000
 .	-	-	-	0:11:37.208000	0:11:37.647000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:37.647000" end="0:11:38.913000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:37.647000" end="0:11:38.913000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:37.647000	0:11:38.913000
 ,	-	-	-	0:11:37.647000	0:11:38.913000
 also	-	-	-	0:11:37.647000	0:11:38.913000
 /.	-	-	-	0:11:37.647000	0:11:38.913000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:38.913000" end="0:11:41.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:38.913000" end="0:11:41.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:38.913000" end="0:11:41.973000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:38.913000" end="0:11:41.973000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:41.973000" end="0:11:45.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:41.973000" end="0:11:45.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:11:41.973000	0:11:44.408000
 bleiben	-	-	-	0:11:41.973000	0:11:44.408000
 noch	-	-	-	0:11:41.973000	0:11:44.408000
@@ -3270,11 +3270,11 @@ schön	-	-	-	0:11:41.973000	0:11:44.408000
 Sprechen	-	-	-	0:11:44.408000	0:11:45.995000
 .	-	-	-	0:11:44.408000	0:11:45.995000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:44.408000" end="0:11:45.995000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:44.408000" end="0:11:45.995000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:44.408000	0:11:45.995000
 .	-	-	-	0:11:44.408000	0:11:45.995000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:45.995000" end="0:11:50.513000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:45.995000" end="0:11:50.513000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:11:45.995000	0:11:47.895000
 gut	-	-	-	0:11:45.995000	0:11:47.895000
 beherrschen	-	-	-	0:11:45.995000	0:11:47.895000
@@ -3284,12 +3284,12 @@ selbst	-	-	-	0:11:45.995000	0:11:47.895000
 ?	-	-	-	0:11:45.995000	0:11:47.895000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:11:47.895000" end="0:11:51.486000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:11:47.895000" end="0:11:51.486000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 mittelgut	-	-	-	0:11:50.513000	0:11:51.486000
 .	-	-	-	0:11:50.513000	0:11:51.486000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:51.486000" end="0:12:04" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:51.486000" end="0:12:04" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:51.486000	0:11:57.308000
 ,	-	-	-	0:11:51.486000	0:11:57.308000
 genau	-	-	-	0:11:51.486000	0:11:57.308000
@@ -3322,10 +3322,10 @@ mhm	-	-	-	0:11:57.308000	0:12:03.169000
 .	-	-	-	0:11:57.308000	0:12:03.169000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:03.169000" end="0:12:04" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:03.169000" end="0:12:04" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:04" end="0:12:07.178000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:04" end="0:12:07.178000" persName="Informant EXP9" age_lower="" age_upper="999">
 auch	-	-	-	0:12:04	0:12:06.513000
 da	-	-	-	0:12:04	0:12:06.513000
 haben	-	-	-	0:12:04	0:12:06.513000
@@ -3339,11 +3339,11 @@ wo	-	-	-	0:12:06.513000	0:12:07.178000
 sehen	-	-	-	0:12:06.513000	0:12:07.178000
 Sie	-	-	-	0:12:06.513000	0:12:07.178000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:06.513000" end="0:12:07.178000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:06.513000" end="0:12:07.178000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:06.513000	0:12:07.178000
 .	-	-	-	0:12:06.513000	0:12:07.178000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:07.178000" end="0:12:12.821000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:07.178000" end="0:12:12.821000" persName="Informant EXP9" age_lower="" age_upper="999">
 denn	-	-	-	0:12:07.178000	0:12:12.821000
 da	-	-	-	0:12:07.178000	0:12:12.821000
 Unterschiede	-	-	-	0:12:07.178000	0:12:12.821000
@@ -3359,7 +3359,7 @@ schön	-	-	-	0:12:07.178000	0:12:12.821000
 Sprechen	-	-	-	0:12:07.178000	0:12:12.821000
 ?	-	-	-	0:12:07.178000	0:12:12.821000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:12.821000" end="0:12:20.204000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:12.821000" end="0:12:20.204000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:12:12.821000	0:12:20.204000
 Unterschiede	-	-	-	0:12:12.821000	0:12:20.204000
 ,	-	-	-	0:12:12.821000	0:12:20.204000
@@ -3388,11 +3388,11 @@ Deutsch	-	-	-	0:12:12.821000	0:12:20.204000
 schreiben	-	-	-	0:12:12.821000	0:12:20.204000
 ,	-	-	-	0:12:12.821000	0:12:20.204000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:20.204000" end="0:12:20.830000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:20.204000" end="0:12:20.830000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:20.204000	0:12:20.830000
 .	-	-	-	0:12:20.204000	0:12:20.830000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:20.830000" end="0:12:25.778000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:20.830000" end="0:12:25.778000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:12:20.830000	0:12:25.778000
 es	-	-	-	0:12:20.830000	0:12:25.778000
 fällt	-	-	-	0:12:20.830000	0:12:25.778000
@@ -3416,11 +3416,11 @@ ich	-	-	-	0:12:20.830000	0:12:25.778000
 auf	-	-	-	0:12:20.830000	0:12:25.778000
 Englisch	-	-	-	0:12:20.830000	0:12:25.778000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:25.778000" end="0:12:26.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:25.778000" end="0:12:26.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:12:25.778000	0:12:26.700000
 .	-	-	-	0:12:25.778000	0:12:26.700000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:25.778000" end="0:12:29.073000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:25.778000" end="0:12:29.073000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 was	-	-	-	0:12:25.778000	0:12:26.700000
 sagen	-	-	-	0:12:25.778000	0:12:26.700000
 _miassad_	-	-	-	0:12:25.778000	0:12:26.700000
@@ -3436,11 +3436,11 @@ oft	-	-	-	0:12:26.700000	0:12:29.073000
 schwer	-	-	-	0:12:26.700000	0:12:29.073000
 .	-	-	-	0:12:26.700000	0:12:29.073000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:29.073000" end="0:12:29.908000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:29.073000" end="0:12:29.908000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:29.073000	0:12:29.908000
 .	-	-	-	0:12:29.073000	0:12:29.908000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:29.908000" end="0:12:32.926000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:29.908000" end="0:12:32.926000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:12:29.908000	0:12:32.926000
 es	-	-	-	0:12:29.908000	0:12:32.926000
 ist	-	-	-	0:12:29.908000	0:12:32.926000
@@ -3451,7 +3451,7 @@ Sprache	-	-	-	0:12:29.908000	0:12:32.926000
 .	-	-	-	0:12:29.908000	0:12:32.926000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:32.926000" end="0:12:36.343000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:32.926000" end="0:12:36.343000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:32.926000	0:12:33.521000
 .	-	-	-	0:12:32.926000	0:12:33.521000
 das	-	-	-	0:12:33.521000	0:12:36.343000
@@ -3467,11 +3467,11 @@ so	-	-	-	0:12:33.521000	0:12:36.343000
 die	-	-	-	0:12:33.521000	0:12:36.343000
 /,	-	-	-	0:12:33.521000	0:12:36.343000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:36.343000" end="0:12:36.808000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:36.343000" end="0:12:36.808000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:36.343000	0:12:36.808000
 .	-	-	-	0:12:36.343000	0:12:36.808000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:36.808000" end="0:12:42.221000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:36.808000" end="0:12:42.221000" persName="Informant EXP9" age_lower="" age_upper="999">
 dass	-	-	-	0:12:36.808000	0:12:41.321000
 Deutsch	-	-	-	0:12:36.808000	0:12:41.321000
 ,	-	-	-	0:12:36.808000	0:12:41.321000
@@ -3489,13 +3489,13 @@ ist	-	-	-	0:12:41.321000	0:12:42.221000
 also	-	-	-	0:12:41.321000	0:12:42.221000
 /.	-	-	-	0:12:41.321000	0:12:42.221000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:41.321000" end="0:12:42.221000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:41.321000" end="0:12:42.221000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:41.321000	0:12:42.221000
 .	-	-	-	0:12:41.321000	0:12:42.221000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:42.221000" end="0:12:44.186000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:42.221000" end="0:12:44.186000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:42.221000" end="0:12:44.186000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:42.221000" end="0:12:44.186000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:12:42.221000	0:12:44.186000
 /,	-	-	-	0:12:42.221000	0:12:44.186000
 es	-	-	-	0:12:42.221000	0:12:44.186000
@@ -3504,7 +3504,7 @@ ungefähr	-	-	-	0:12:42.221000	0:12:44.186000
 so	-	-	-	0:12:42.221000	0:12:44.186000
 .	-	-	-	0:12:42.221000	0:12:44.186000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:44.186000" end="0:12:46.969000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:44.186000" end="0:12:46.969000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:44.186000	0:12:44.643000
 .	-	-	-	0:12:44.186000	0:12:44.643000
 also	-	-	-	0:12:44.643000	0:12:46.300000
@@ -3519,17 +3519,17 @@ an	-	-	-	0:12:44.643000	0:12:46.300000
 mhm	-	-	-	0:12:46.300000	0:12:46.969000
 .	-	-	-	0:12:46.300000	0:12:46.969000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:46.300000" end="0:12:46.969000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:46.300000" end="0:12:46.969000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:46.300000	0:12:46.969000
 .	-	-	-	0:12:46.300000	0:12:46.969000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:46.969000" end="0:12:47.921000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:46.969000" end="0:12:47.921000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:12:46.969000" end="0:12:47.921000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:12:46.969000" end="0:12:47.921000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:47.921000" end="0:13:05.652000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:47.921000" end="0:13:05.652000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:12:47.921000	0:12:50.965000
 heißt	-	-	-	0:12:47.921000	0:12:50.965000
 ,	-	-	-	0:12:47.921000	0:12:50.965000
@@ -3578,7 +3578,7 @@ darauf	-	-	-	0:13:03.152000	0:13:05.652000
 als	-	-	-	0:13:03.152000	0:13:05.652000
 /?	-	-	-	0:13:03.152000	0:13:05.652000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:03.152000" end="0:13:12.313000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:03.152000" end="0:13:12.313000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:03.152000	0:13:05.652000
 ,	-	-	-	0:13:03.152000	0:13:05.652000
 ja	-	-	-	0:13:03.152000	0:13:05.652000
@@ -3618,11 +3618,11 @@ verstanden	-	-	-	0:13:05.652000	0:13:12.313000
 hat	-	-	-	0:13:05.652000	0:13:12.313000
 ,	-	-	-	0:13:05.652000	0:13:12.313000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:12.313000" end="0:13:12.843000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:12.313000" end="0:13:12.843000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:12.313000	0:13:12.843000
 .	-	-	-	0:13:12.313000	0:13:12.843000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:12.843000" end="0:13:14.208000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:12.843000" end="0:13:14.208000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:13:12.843000	0:13:14.208000
 frage	-	-	-	0:13:12.843000	0:13:14.208000
 ich	-	-	-	0:13:12.843000	0:13:14.208000
@@ -3630,11 +3630,11 @@ automatisch	-	-	-	0:13:12.843000	0:13:14.208000
 _gei_	-	-	-	0:13:12.843000	0:13:14.208000
 ,	-	-	-	0:13:12.843000	0:13:14.208000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:14.208000" end="0:13:15.891000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:14.208000" end="0:13:15.891000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:13:14.208000	0:13:15.891000
 .	-	-	-	0:13:14.208000	0:13:15.891000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:14.208000" end="0:13:19.260000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:14.208000" end="0:13:19.260000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:13:14.208000	0:13:15.891000
 *schaus*	-	-	-	0:13:14.208000	0:13:15.891000
 so	-	-	-	0:13:14.208000	0:13:15.891000
@@ -3654,11 +3654,11 @@ Englischen	-	-	-	0:13:15.891000	0:13:19.260000
 auch	-	-	-	0:13:15.891000	0:13:19.260000
 ,	-	-	-	0:13:15.891000	0:13:19.260000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:19.260000" end="0:13:19.734000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:19.260000" end="0:13:19.734000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:19.260000	0:13:19.734000
 .	-	-	-	0:13:19.260000	0:13:19.734000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:19.260000" end="0:13:20.382000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:19.260000" end="0:13:20.382000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:13:19.260000	0:13:19.734000
 die	-	-	-	0:13:19.260000	0:13:19.734000
 sind	-	-	-	0:13:19.260000	0:13:19.734000
@@ -3666,27 +3666,27 @@ einfach	-	-	-	0:13:19.734000	0:13:20.382000
 nur	-	-	-	0:13:19.734000	0:13:20.382000
 so	-	-	-	0:13:19.734000	0:13:20.382000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:20.382000" end="0:13:21.543000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:20.382000" end="0:13:21.543000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:13:20.382000	0:13:21.543000
 .	-	-	-	0:13:20.382000	0:13:21.543000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:20.382000" end="0:13:21.543000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:20.382000" end="0:13:21.543000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 "okay"	-	-	-	0:13:20.382000	0:13:21.543000
 .	-	-	-	0:13:20.382000	0:13:21.543000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:21.543000" end="0:13:22.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:21.543000" end="0:13:22.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:21.543000" end="0:13:22.752000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:21.543000" end="0:13:22.752000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:22.752000" end="0:13:23.939000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:22.752000" end="0:13:23.939000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:22.752000" end="0:13:23.939000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:22.752000" end="0:13:23.939000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:23.939000" end="0:13:25.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:23.939000" end="0:13:25.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 aus	-	-	-	0:13:23.939000	0:13:24.921000
 der	-	-	-	0:13:23.939000	0:13:24.921000
 Gewohnheit	-	-	-	0:13:23.939000	0:13:24.921000
@@ -3695,22 +3695,22 @@ raus	-	-	-	0:13:24.921000	0:13:25.878000
 ja	-	-	-	0:13:24.921000	0:13:25.878000
 .	-	-	-	0:13:24.921000	0:13:25.878000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:24.921000" end="0:13:25.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:24.921000" end="0:13:25.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:24.921000	0:13:25.878000
 ,	-	-	-	0:13:24.921000	0:13:25.878000
 voll	-	-	-	0:13:24.921000	0:13:25.878000
 .	-	-	-	0:13:24.921000	0:13:25.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:25.878000" end="0:13:28.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:25.878000" end="0:13:28.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:13:25.878000	0:13:26.878000
 .	-	-	-	0:13:25.878000	0:13:26.878000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:26.878000" end="0:13:28.534000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:26.878000" end="0:13:28.534000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:28.534000" end="0:13:38.373000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:28.534000" end="0:13:38.373000" persName="Informant EXP9" age_lower="" age_upper="999">
 würden	-	-	-	0:13:28.534000	0:13:36.373000
 Sie	-	-	-	0:13:28.534000	0:13:36.373000
 sagen	-	-	-	0:13:28.534000	0:13:36.373000
@@ -3737,14 +3737,14 @@ Sprechen	-	-	-	0:13:28.534000	0:13:36.373000
 mhm	-	-	-	0:13:36.373000	0:13:38.373000
 .	-	-	-	0:13:36.373000	0:13:38.373000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:36.373000" end="0:13:38.373000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:36.373000" end="0:13:38.373000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 eine	-	-	-	0:13:36.373000	0:13:38.373000
 reinere	-	-	-	0:13:36.373000	0:13:38.373000
 Form	-	-	-	0:13:36.373000	0:13:38.373000
 ?	-	-	-	0:13:36.373000	0:13:38.373000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:38.373000" end="0:13:47.191000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:38.373000" end="0:13:47.191000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:13:38.373000	0:13:43.960000
 im	-	-	-	0:13:38.373000	0:13:43.960000
 Sinne	-	-	-	0:13:38.373000	0:13:43.960000
@@ -3758,7 +3758,7 @@ Echteres	-	-	-	0:13:38.373000	0:13:43.960000
 ?	-	-	-	0:13:38.373000	0:13:43.960000
 <pause duration="3,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:43.960000" end="0:13:52.260000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:43.960000" end="0:13:52.260000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 ähm	-	-	-	0:13:47.191000	0:13:52.260000
 <pause duration="1,2s"/>
@@ -3777,11 +3777,11 @@ sowieso	-	-	-	0:13:47.191000	0:13:52.260000
 nicht	-	-	-	0:13:47.191000	0:13:52.260000
 .	-	-	-	0:13:47.191000	0:13:52.260000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:52.260000" end="0:13:52.895000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:52.260000" end="0:13:52.895000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:52.260000	0:13:52.895000
 .	-	-	-	0:13:52.260000	0:13:52.895000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:52.895000" end="0:13:56.130000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:52.895000" end="0:13:56.130000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:13:52.895000	0:13:56.130000
 ist	-	-	-	0:13:52.895000	0:13:56.130000
 nur	-	-	-	0:13:52.895000	0:13:56.130000
@@ -3796,11 +3796,11 @@ Berlin	-	-	-	0:13:52.895000	0:13:56.130000
 gewohnt	-	-	-	0:13:52.895000	0:13:56.130000
 ,	-	-	-	0:13:52.895000	0:13:56.130000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:56.130000" end="0:13:56.582000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:56.130000" end="0:13:56.582000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:13:56.130000	0:13:56.582000
 .	-	-	-	0:13:56.130000	0:13:56.582000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:56.582000" end="0:13:58.086000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:56.582000" end="0:13:58.086000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:13:56.582000	0:13:58.086000
 kommt	-	-	-	0:13:56.582000	0:13:58.086000
 eigentlich	-	-	-	0:13:56.582000	0:13:58.086000
@@ -3809,11 +3809,11 @@ der	-	-	-	0:13:56.582000	0:13:58.086000
 Steiermark	-	-	-	0:13:56.582000	0:13:58.086000
 ,	-	-	-	0:13:56.582000	0:13:58.086000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:58.086000" end="0:13:58.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:58.086000" end="0:13:58.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:58.086000	0:13:58.700000
 .	-	-	-	0:13:58.086000	0:13:58.700000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:13:58.700000" end="0:14:05.456000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:13:58.700000" end="0:14:05.456000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:13:58.700000	0:14:05.456000
 *merkst*	-	-	-	0:13:58.700000	0:14:05.456000
 voll	-	-	-	0:13:58.700000	0:14:05.456000
@@ -3834,11 +3834,11 @@ schön	-	-	-	0:13:58.700000	0:14:05.456000
 Deutsch	-	-	-	0:13:58.700000	0:14:05.456000
 ,	-	-	-	0:13:58.700000	0:14:05.456000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:05.456000" end="0:14:06.126000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:05.456000" end="0:14:06.126000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:05.456000	0:14:06.126000
 .	-	-	-	0:14:05.456000	0:14:06.126000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:05.456000" end="0:14:08.713000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:05.456000" end="0:14:08.713000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:14:05.456000	0:14:06.126000
 <pause duration="0,5s"/>
 das	-	-	-	0:14:06.126000	0:14:08.713000
@@ -3852,7 +3852,7 @@ leichter	-	-	-	0:14:06.126000	0:14:08.713000
 tut	-	-	-	0:14:06.126000	0:14:08.713000
 .	-	-	-	0:14:06.126000	0:14:08.713000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:08.713000" end="0:14:13.486000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:08.713000" end="0:14:13.486000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:14:08.713000	0:14:11.747000
 ,	-	-	-	0:14:08.713000	0:14:11.747000
 also	-	-	-	0:14:08.713000	0:14:11.747000
@@ -3870,18 +3870,18 @@ anderen	-	-	-	0:14:11.747000	0:14:13.486000
 ja	-	-	-	0:14:11.747000	0:14:13.486000
 .	-	-	-	0:14:11.747000	0:14:13.486000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:11.747000" end="0:14:13.486000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:11.747000" end="0:14:13.486000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:11.747000	0:14:13.486000
 ,	-	-	-	0:14:11.747000	0:14:13.486000
 schon	-	-	-	0:14:11.747000	0:14:13.486000
 eigentlich	-	-	-	0:14:11.747000	0:14:13.486000
 .	-	-	-	0:14:11.747000	0:14:13.486000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:13.486000" end="0:14:13.786000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:13.486000" end="0:14:13.786000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:13.486000	0:14:13.786000
 .	-	-	-	0:14:13.486000	0:14:13.786000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:13.786000" end="0:14:18.908000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:13.786000" end="0:14:18.908000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:14:13.786000	0:14:18.908000
 sie	-	-	-	0:14:13.786000	0:14:18.908000
 hat	-	-	-	0:14:13.786000	0:14:18.908000
@@ -3903,11 +3903,11 @@ die	-	-	-	0:14:13.786000	0:14:18.908000
 ORT	ORT	-	-	0:14:13.786000	0:14:18.908000
 ,	-	-	-	0:14:13.786000	0:14:18.908000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:18.908000" end="0:14:19.769000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:18.908000" end="0:14:19.769000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:18.908000	0:14:19.769000
 .	-	-	-	0:14:18.908000	0:14:19.769000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:18.908000" end="0:14:26.186000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:18.908000" end="0:14:26.186000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:14:18.908000	0:14:19.769000
 sie	-	-	-	0:14:18.908000	0:14:19.769000
 ko/	-	-	-	0:14:18.908000	0:14:19.769000
@@ -3945,19 +3945,19 @@ sie	-	-	-	0:14:22.613000	0:14:26.186000
 Deutsch	-	-	-	0:14:22.613000	0:14:26.186000
 .	-	-	-	0:14:22.613000	0:14:26.186000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:26.186000" end="0:14:26.826000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:26.186000" end="0:14:26.826000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:26.186000	0:14:26.826000
 .	-	-	-	0:14:26.186000	0:14:26.826000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:26.186000" end="0:14:26.826000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:26.186000" end="0:14:26.826000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:26.826000" end="0:14:28.891000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:26.826000" end="0:14:28.891000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:26.826000" end="0:14:28.891000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:26.826000" end="0:14:28.891000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:28.891000" end="0:14:39.369000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:28.891000" end="0:14:39.369000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:14:28.891000	0:14:37.856000
 würden	-	-	-	0:14:28.891000	0:14:37.856000
 Sie	-	-	-	0:14:28.891000	0:14:37.856000
@@ -3993,7 +3993,7 @@ das	-	-	-	0:14:37.856000	0:14:39.369000
 mhm	-	-	-	0:14:37.856000	0:14:39.369000
 .	-	-	-	0:14:37.856000	0:14:39.369000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:37.856000" end="0:14:40.260000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:37.856000" end="0:14:40.260000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:14:37.856000	0:14:39.369000
 ,	-	-	-	0:14:37.856000	0:14:39.369000
 glaube	-	-	-	0:14:37.856000	0:14:39.369000
@@ -4010,17 +4010,17 @@ auch	-	-	-	0:14:39.369000	0:14:40.260000
 Dialekte	-	-	-	0:14:39.369000	0:14:40.260000
 .	-	-	-	0:14:39.369000	0:14:40.260000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:40.260000" end="0:14:42.469000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:40.260000" end="0:14:42.469000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:14:40.260000	0:14:41.300000
 ,	-	-	-	0:14:40.260000	0:14:41.300000
 mhm	-	-	-	0:14:40.260000	0:14:41.300000
 .	-	-	-	0:14:40.260000	0:14:41.300000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:41.300000" end="0:14:42.469000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:41.300000" end="0:14:42.469000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:42.469000" end="0:14:49.282000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:42.469000" end="0:14:49.282000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:14:42.469000	0:14:47.704000
 das	-	-	-	0:14:42.469000	0:14:47.704000
 heißt	-	-	-	0:14:42.469000	0:14:47.704000
@@ -4041,10 +4041,10 @@ Reinste	-	-	-	0:14:42.469000	0:14:47.704000
 ?	-	-	-	0:14:42.469000	0:14:47.704000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:47.704000" end="0:14:49.282000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:47.704000" end="0:14:49.282000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:49.282000" end="0:14:54.947000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:49.282000" end="0:14:54.947000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:14:49.282000	0:14:53.078000
 die	-	-	-	0:14:49.282000	0:14:53.078000
 reinste	-	-	-	0:14:49.282000	0:14:53.078000
@@ -4065,20 +4065,20 @@ können	-	-	-	0:14:53.078000	0:14:54.947000
 mhm	-	-	-	0:14:53.078000	0:14:54.947000
 .	-	-	-	0:14:53.078000	0:14:54.947000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:53.078000" end="0:14:54.947000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:53.078000" end="0:14:54.947000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:53.078000	0:14:54.947000
 ,	-	-	-	0:14:53.078000	0:14:54.947000
 eigentlich	-	-	-	0:14:53.078000	0:14:54.947000
 schon	-	-	-	0:14:53.078000	0:14:54.947000
 .	-	-	-	0:14:53.078000	0:14:54.947000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:54.947000" end="0:15:07.243000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:54.947000" end="0:15:07.243000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="12,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:14:54.947000" end="0:15:07.243000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:14:54.947000" end="0:15:07.243000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="12,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:07.243000" end="0:15:15.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:07.243000" end="0:15:15.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:15:07.243000	0:15:15.995000
 würden	-	-	-	0:15:07.243000	0:15:15.995000
 Sie	-	-	-	0:15:07.243000	0:15:15.995000
@@ -4106,7 +4106,7 @@ nähesten	-	-	-	0:15:07.243000	0:15:15.995000
 kommt	-	-	-	0:15:07.243000	0:15:15.995000
 ?	-	-	-	0:15:07.243000	0:15:15.995000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:15.995000" end="0:15:17.952000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:15.995000" end="0:15:17.952000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:15:15.995000	0:15:17.952000
 ,	-	-	-	0:15:15.995000	0:15:17.952000
 wie	-	-	-	0:15:15.995000	0:15:17.952000
@@ -4116,15 +4116,15 @@ Deutsch	-	-	-	0:15:15.995000	0:15:17.952000
 rede	-	-	-	0:15:15.995000	0:15:17.952000
 ?	-	-	-	0:15:15.995000	0:15:17.952000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:17.952000" end="0:15:19.117000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:17.952000" end="0:15:19.117000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:15:17.952000	0:15:18.382000
 .	-	-	-	0:15:17.952000	0:15:18.382000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:18.382000" end="0:15:19.117000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:18.382000" end="0:15:19.117000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:19.117000" end="0:15:21.217000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:19.117000" end="0:15:21.217000" persName="Informant EXP9" age_lower="" age_upper="999">
 ob	-	-	-	0:15:19.117000	0:15:20.669000
 Sie	-	-	-	0:15:19.117000	0:15:20.669000
 dafür	-	-	-	0:15:19.117000	0:15:20.669000
@@ -4135,11 +4135,11 @@ dann	-	-	-	0:15:19.117000	0:15:20.669000
 haben	-	-	-	0:15:20.669000	0:15:21.217000
 .	-	-	-	0:15:20.669000	0:15:21.217000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:20.669000" end="0:15:21.217000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:20.669000" end="0:15:21.217000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:15:20.669000	0:15:21.217000
 .	-	-	-	0:15:20.669000	0:15:21.217000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:21.217000" end="0:15:22.804000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:21.217000" end="0:15:22.804000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:15:21.217000	0:15:22.804000
 Sie	-	-	-	0:15:21.217000	0:15:22.804000
 würden	-	-	-	0:15:21.217000	0:15:22.804000
@@ -4150,14 +4150,14 @@ sagen	-	-	-	0:15:21.217000	0:15:22.804000
 das	-	-	-	0:15:21.217000	0:15:22.804000
 ist	-	-	-	0:15:21.217000	0:15:22.804000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:21.217000" end="0:15:22.804000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:21.217000" end="0:15:22.804000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:15:21.217000	0:15:22.804000
 nicht	-	-	-	0:15:21.217000	0:15:22.804000
 ,	-	-	-	0:15:21.217000	0:15:22.804000
 ja	-	-	-	0:15:21.217000	0:15:22.804000
 .	-	-	-	0:15:21.217000	0:15:22.804000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:22.804000" end="0:15:24.826000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:22.804000" end="0:15:24.826000" persName="Informant EXP9" age_lower="" age_upper="999">
 Deutsch	-	-	-	0:15:22.804000	0:15:24.826000
 oder	-	-	-	0:15:22.804000	0:15:24.826000
 Sie	-	-	-	0:15:22.804000	0:15:24.826000
@@ -4167,11 +4167,11 @@ schön	-	-	-	0:15:22.804000	0:15:24.826000
 mhm	-	-	-	0:15:22.804000	0:15:24.826000
 .	-	-	-	0:15:22.804000	0:15:24.826000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:24.826000" end="0:15:25.639000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:24.826000" end="0:15:25.639000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:24.826000	0:15:25.639000
 .	-	-	-	0:15:24.826000	0:15:25.639000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:25.639000" end="0:15:49.821000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:25.639000" end="0:15:49.821000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ich	-	-	-	0:15:25.639000	0:15:29.973000
 brauche	-	-	-	0:15:25.639000	0:15:29.973000
@@ -4229,10 +4229,10 @@ ist	-	-	-	0:15:29.973000	0:15:45.643000
 .	-	-	-	0:15:29.973000	0:15:45.643000
 <pause duration="4,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:45.643000" end="0:15:49.821000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:45.643000" end="0:15:49.821000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:49.821000" end="0:15:57.304000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:49.821000" end="0:15:57.304000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:15:49.821000	0:15:51.856000
 ,	-	-	-	0:15:49.821000	0:15:51.856000
 einfach	-	-	-	0:15:49.821000	0:15:51.856000
@@ -4253,17 +4253,17 @@ Deutsch	-	-	-	0:15:51.856000	0:15:56.395000
 sprechen	-	-	-	0:15:56.395000	0:15:57.304000
 ,	-	-	-	0:15:56.395000	0:15:57.304000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:56.395000" end="0:15:57.304000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:56.395000" end="0:15:57.304000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:56.395000	0:15:57.304000
 .	-	-	-	0:15:56.395000	0:15:57.304000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:57.304000" end="0:15:58.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:57.304000" end="0:15:58.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:15:57.304000	0:15:57.934000
 schön	-	-	-	0:15:57.934000	0:15:58.752000
 Sprechen	-	-	-	0:15:57.934000	0:15:58.752000
 .	-	-	-	0:15:57.934000	0:15:58.752000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:15:57.934000" end="0:15:59.717000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:15:57.934000" end="0:15:59.717000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:15:57.934000	0:15:58.752000
 auch	-	-	-	0:15:57.934000	0:15:58.752000
 nicht	-	-	-	0:15:57.934000	0:15:58.752000
@@ -4273,15 +4273,15 @@ der	-	-	-	0:15:58.752000	0:15:59.717000
 Mitte	-	-	-	0:15:58.752000	0:15:59.717000
 .	-	-	-	0:15:58.752000	0:15:59.717000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:59.717000" end="0:16:05.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:59.717000" end="0:16:05.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:59.717000	0:16:00.221000
 .	-	-	-	0:15:59.717000	0:16:00.221000
 <pause duration="5,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:00.221000" end="0:16:05.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:00.221000" end="0:16:05.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:05.878000" end="0:16:13.652000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:05.878000" end="0:16:13.652000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:16:05.878000	0:16:08.565000
 kommen	-	-	-	0:16:05.878000	0:16:08.565000
 wieder	-	-	-	0:16:05.878000	0:16:08.565000
@@ -4304,7 +4304,7 @@ Deutsch	-	-	-	0:16:08.565000	0:16:12.769000
 ?	-	-	-	0:16:08.565000	0:16:12.769000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:12.769000" end="0:16:20.791000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:12.769000" end="0:16:20.791000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:16:13.652000	0:16:20.791000
 ,	-	-	-	0:16:13.652000	0:16:20.791000
@@ -4335,15 +4335,15 @@ siebzig	-	-	-	0:16:13.652000	0:16:20.791000
 Prozent	-	-	-	0:16:13.652000	0:16:20.791000
 .	-	-	-	0:16:13.652000	0:16:20.791000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:20.791000" end="0:16:23.247000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:20.791000" end="0:16:23.247000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:20.791000	0:16:21.334000
 .	-	-	-	0:16:20.791000	0:16:21.334000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:21.334000" end="0:16:23.247000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:21.334000" end="0:16:23.247000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:23.247000" end="0:16:26.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:23.247000" end="0:16:26.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 dazu	-	-	-	0:16:23.247000	0:16:26.700000
 gehört	-	-	-	0:16:23.247000	0:16:26.700000
 Skala	-	-	-	0:16:23.247000	0:16:26.700000
@@ -4358,18 +4358,18 @@ da	-	-	-	0:16:23.247000	0:16:26.700000
 eintragen	-	-	-	0:16:23.247000	0:16:26.700000
 ,	-	-	-	0:16:23.247000	0:16:26.700000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:26.700000" end="0:16:27.239000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:26.700000" end="0:16:27.239000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:16:26.700000	0:16:27.239000
 .	-	-	-	0:16:26.700000	0:16:27.239000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:27.239000" end="0:16:28.734000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:27.239000" end="0:16:28.734000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:16:27.239000	0:16:28.734000
 Sie	-	-	-	0:16:27.239000	0:16:28.734000
 sich	-	-	-	0:16:27.239000	0:16:28.734000
 sehen	-	-	-	0:16:27.239000	0:16:28.734000
 .	-	-	-	0:16:27.239000	0:16:28.734000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:27.239000" end="0:16:29.521000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:27.239000" end="0:16:29.521000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:16:27.239000	0:16:28.734000
 wie	-	-	-	0:16:27.239000	0:16:28.734000
 oft	-	-	-	0:16:27.239000	0:16:28.734000
@@ -4383,12 +4383,12 @@ _schatze_	-	-	-	0:16:28.734000	0:16:29.521000
 ungefähr	-	-	-	0:16:28.734000	0:16:29.521000
 .	-	-	-	0:16:28.734000	0:16:29.521000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:29.521000" end="0:16:32.052000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:29.521000" end="0:16:32.052000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:16:29.521000	0:16:30.286000
 .	-	-	-	0:16:29.521000	0:16:30.286000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:30.286000" end="0:16:34.052000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:30.286000" end="0:16:34.052000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ja	-	-	-	0:16:32.052000	0:16:34.052000
 ,	-	-	-	0:16:32.052000	0:16:34.052000
@@ -4399,16 +4399,16 @@ gleiche	-	-	-	0:16:32.052000	0:16:34.052000
 eigentlich	-	-	-	0:16:32.052000	0:16:34.052000
 .	-	-	-	0:16:32.052000	0:16:34.052000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:34.052000" end="0:16:36.982000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:34.052000" end="0:16:36.982000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:16:34.052000	0:16:35.152000
 .	-	-	-	0:16:34.052000	0:16:35.152000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:35.152000" end="0:16:36.982000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:35.152000" end="0:16:36.982000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:36.982000" end="0:16:41.500000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:36.982000" end="0:16:41.500000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:16:36.982000	0:16:41.500000
 Sie	-	-	-	0:16:36.982000	0:16:41.500000
 haben	-	-	-	0:16:36.982000	0:16:41.500000
@@ -4428,11 +4428,11 @@ mit	-	-	-	0:16:36.982000	0:16:41.500000
 denen	-	-	-	0:16:36.982000	0:16:41.500000
 Sie	-	-	-	0:16:36.982000	0:16:41.500000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:41.500000" end="0:16:41.900000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:41.500000" end="0:16:41.900000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:16:41.500000	0:16:41.900000
 .	-	-	-	0:16:41.500000	0:16:41.900000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:41.900000" end="0:16:52.813000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:41.900000" end="0:16:52.813000" persName="Informant EXP9" age_lower="" age_upper="999">
 ähm	-	-	-	0:16:41.900000	0:16:43.604000
 Deutsch	-	-	-	0:16:41.900000	0:16:43.604000
 sprechen	-	-	-	0:16:41.900000	0:16:43.604000
@@ -4458,12 +4458,12 @@ sprechen	-	-	-	0:16:43.604000	0:16:50.639000
 ?	-	-	-	0:16:43.604000	0:16:50.639000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:50.639000" end="0:16:53.313000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:50.639000" end="0:16:53.313000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 nein	-	-	-	0:16:52.813000	0:16:53.313000
 .	-	-	-	0:16:52.813000	0:16:53.313000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:53.313000" end="0:16:55.839000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:53.313000" end="0:16:55.839000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:16:53.313000	0:16:54.360000
 .	-	-	-	0:16:53.313000	0:16:54.360000
@@ -4474,33 +4474,33 @@ heißt	-	-	-	0:16:54.360000	0:16:55.839000
 das	-	-	-	0:16:54.360000	0:16:55.839000
 /.	-	-	-	0:16:54.360000	0:16:55.839000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:54.360000" end="0:16:55.839000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:54.360000" end="0:16:55.839000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 also	-	-	-	0:16:54.360000	0:16:55.839000
 /.	-	-	-	0:16:54.360000	0:16:55.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:55.839000" end="0:16:57.017000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:55.839000" end="0:16:57.017000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:55.839000" end="0:16:57.017000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:55.839000" end="0:16:57.017000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:57.017000" end="0:16:57.847000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:57.017000" end="0:16:57.847000" persName="Informant EXP9" age_lower="" age_upper="999">
 rein	-	-	-	0:16:57.017000	0:16:57.847000
 auf	-	-	-	0:16:57.017000	0:16:57.847000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:57.017000" end="0:16:57.847000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:57.017000" end="0:16:57.847000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:57.017000	0:16:57.847000
 .	-	-	-	0:16:57.017000	0:16:57.847000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:57.847000" end="0:16:58.200000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:57.847000" end="0:16:58.200000" persName="Informant EXP9" age_lower="" age_upper="999">
 die	-	-	-	0:16:57.847000	0:16:58.200000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:16:58.200000" end="0:16:58.773000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:16:58.200000" end="0:16:58.773000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:58.200000	0:16:58.773000
 .	-	-	-	0:16:58.200000	0:16:58.773000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:58.773000" end="0:17:02.230000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:58.773000" end="0:17:02.230000" persName="Informant EXP9" age_lower="" age_upper="999">
 Touristen	-	-	-	0:16:58.773000	0:16:59.730000
 ,	-	-	-	0:16:58.773000	0:16:59.730000
 mhm	-	-	-	0:16:58.773000	0:16:59.730000
@@ -4515,7 +4515,7 @@ den	-	-	-	0:16:59.730000	0:17:02.230000
 Vertretern	-	-	-	0:16:59.730000	0:17:02.230000
 ?	-	-	-	0:16:59.730000	0:17:02.230000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:02.230000" end="0:17:03.543000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:02.230000" end="0:17:03.543000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:17:02.230000	0:17:03.543000
 ,	-	-	-	0:17:02.230000	0:17:03.543000
 da	-	-	-	0:17:02.230000	0:17:03.543000
@@ -4526,11 +4526,11 @@ _a_	-	-	-	0:17:02.230000	0:17:03.543000
 so	-	-	-	0:17:02.230000	0:17:03.543000
 .	-	-	-	0:17:02.230000	0:17:03.543000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:03.543000" end="0:17:04.367000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:03.543000" end="0:17:04.367000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:03.543000	0:17:04.367000
 .	-	-	-	0:17:03.543000	0:17:04.367000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:03.543000" end="0:17:07.415000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:03.543000" end="0:17:07.415000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:17:03.543000	0:17:04.367000
 die	-	-	-	0:17:04.367000	0:17:05.326000
 ähm	-	-	-	0:17:04.367000	0:17:05.326000
@@ -4547,19 +4547,19 @@ verstehen	-	-	-	0:17:05.326000	0:17:07.415000
 nachfragen	-	-	-	0:17:05.326000	0:17:07.415000
 .	-	-	-	0:17:05.326000	0:17:07.415000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:07.415000" end="0:17:08.960000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:07.415000" end="0:17:08.960000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:17:07.415000	0:17:08.960000
 .	-	-	-	0:17:07.415000	0:17:08.960000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:07.415000" end="0:17:08.960000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:07.415000" end="0:17:08.960000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:08.960000" end="0:17:11.913000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:08.960000" end="0:17:11.913000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:08.960000" end="0:17:11.913000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:08.960000" end="0:17:11.913000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:11.913000" end="0:17:22.595000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:11.913000" end="0:17:22.595000" persName="Informant EXP9" age_lower="" age_upper="999">
 ist	-	-	-	0:17:11.913000	0:17:22.595000
 da/	-	-	-	0:17:11.913000	0:17:22.595000
 <pause duration="0,6s"/>
@@ -4597,7 +4597,7 @@ oder	-	-	-	0:17:11.913000	0:17:22.595000
 ähm	-	-	-	0:17:11.913000	0:17:22.595000
 /?	-	-	-	0:17:11.913000	0:17:22.595000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:22.595000" end="0:17:24.165000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:22.595000" end="0:17:24.165000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:17:22.595000	0:17:24.165000
 ,	-	-	-	0:17:22.595000	0:17:24.165000
 weil	-	-	-	0:17:22.595000	0:17:24.165000
@@ -4608,7 +4608,7 @@ Verständigung	-	-	-	0:17:22.595000	0:17:24.165000
 einfach	-	-	-	0:17:22.595000	0:17:24.165000
 viel	-	-	-	0:17:22.595000	0:17:24.165000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:24.165000" end="0:17:26.056000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:24.165000" end="0:17:26.056000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:17:24.165000	0:17:26.056000
 ,	-	-	-	0:17:24.165000	0:17:26.056000
 das	-	-	-	0:17:24.165000	0:17:26.056000
@@ -4620,7 +4620,7 @@ aber	-	-	-	0:17:24.165000	0:17:26.056000
 wohl	-	-	-	0:17:24.165000	0:17:26.056000
 eine	-	-	-	0:17:24.165000	0:17:26.056000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:24.165000" end="0:17:26.056000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:24.165000" end="0:17:26.056000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 leichter	-	-	-	0:17:24.165000	0:17:26.056000
 ist	-	-	-	0:17:24.165000	0:17:26.056000
 ,	-	-	-	0:17:24.165000	0:17:26.056000
@@ -4631,7 +4631,7 @@ was	-	-	-	0:17:24.165000	0:17:26.056000
 dreimal	-	-	-	0:17:24.165000	0:17:26.056000
 /.	-	-	-	0:17:24.165000	0:17:26.056000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:26.056000" end="0:17:28.652000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:26.056000" end="0:17:28.652000" persName="Informant EXP9" age_lower="" age_upper="999">
 Entscheidung	-	-	-	0:17:26.056000	0:17:27.047000
 von	-	-	-	0:17:26.056000	0:17:27.047000
 Ihnen	-	-	-	0:17:26.056000	0:17:27.047000
@@ -4646,7 +4646,7 @@ okay	-	-	-	0:17:27.047000	0:17:28.652000
 der	-	-	-	0:17:27.047000	0:17:28.652000
 /.	-	-	-	0:17:27.047000	0:17:28.652000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:27.047000" end="0:17:29.378000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:27.047000" end="0:17:29.378000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:27.047000	0:17:28.652000
 ,	-	-	-	0:17:27.047000	0:17:28.652000
 genau	-	-	-	0:17:27.047000	0:17:28.652000
@@ -4660,26 +4660,26 @@ muss	-	-	-	0:17:28.652000	0:17:29.378000
 ,	-	-	-	0:17:28.652000	0:17:29.378000
 nachher	-	-	-	0:17:28.652000	0:17:29.378000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:29.378000" end="0:17:29.739000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:29.378000" end="0:17:29.739000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:17:29.378000	0:17:29.739000
 .	-	-	-	0:17:29.378000	0:17:29.739000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:29.739000" end="0:17:30.547000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:29.739000" end="0:17:30.547000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:17:29.739000	0:17:30.547000
 mir	-	-	-	0:17:29.739000	0:17:30.547000
 das	-	-	-	0:17:29.739000	0:17:30.547000
 auch	-	-	-	0:17:29.739000	0:17:30.547000
 /.	-	-	-	0:17:29.739000	0:17:30.547000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:30.547000" end="0:17:32.186000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:30.547000" end="0:17:32.186000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:30.547000	0:17:31.121000
 .	-	-	-	0:17:30.547000	0:17:31.121000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:31.121000" end="0:17:32.186000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:31.121000" end="0:17:32.186000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:32.186000" end="0:17:39.382000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:32.186000" end="0:17:39.382000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:17:32.186000	0:17:38.069000
 es	-	-	-	0:17:32.186000	0:17:38.069000
 gibt	-	-	-	0:17:32.186000	0:17:38.069000
@@ -4703,10 +4703,10 @@ Deutsch	-	-	-	0:17:32.186000	0:17:38.069000
 ?	-	-	-	0:17:32.186000	0:17:38.069000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:38.069000" end="0:17:39.382000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:38.069000" end="0:17:39.382000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:39.382000" end="0:17:41.156000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:39.382000" end="0:17:41.156000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:17:39.382000	0:17:40.021000
 Stimme:	-	-	-	0:17:39.382000	0:17:40.021000
 Grüß	-	-	IRR	0:17:39.382000	0:17:40.021000
@@ -4717,17 +4717,17 @@ hallo	-	-	-	0:17:40.021000	0:17:41.156000
 hi	-	-	-	0:17:40.021000	0:17:41.156000
 .	-	-	-	0:17:40.021000	0:17:41.156000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:40.021000" end="0:17:41.156000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:40.021000" end="0:17:41.156000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 hi	-	-	-	0:17:40.021000	0:17:41.156000
 .	-	-	-	0:17:40.021000	0:17:41.156000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:41.156000" end="0:17:42.213000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:41.156000" end="0:17:42.213000" persName="Informant EXP9" age_lower="" age_upper="999">
 NAME	NAME	-	-	0:17:41.156000	0:17:42.213000
 ,	-	-	-	0:17:41.156000	0:17:42.213000
 hallo	-	-	-	0:17:41.156000	0:17:42.213000
 .	-	-	-	0:17:41.156000	0:17:42.213000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:41.156000" end="0:17:42.213000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:41.156000" end="0:17:42.213000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:17:41.156000	0:17:42.213000
 Stimme:	-	-	-	0:17:41.156000	0:17:42.213000
 Grüß	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- performativ redupl- sonstForm sonstForm- stdL- tu zeitgeb-	0:17:41.156000	0:17:42.213000
@@ -4736,10 +4736,10 @@ dich	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Gr
 Stefan	-	-	-	0:17:41.156000	0:17:42.213000
 SONSTIGE	SONSTIGE	-	-	0:17:41.156000	0:17:42.213000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:42.213000" end="0:17:42.865000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:42.213000" end="0:17:42.865000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:42.213000" end="0:17:43.865000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:42.213000" end="0:17:43.865000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hi	-	-	-	0:17:42.865000	0:17:43.865000
 ,	-	-	-	0:17:42.865000	0:17:43.865000
@@ -4748,7 +4748,7 @@ geht	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Fr
 es	-	-	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL- zeitgeb-	0:17:42.865000	0:17:43.865000
 ?	-	-	-	0:17:42.865000	0:17:43.865000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:43.865000" end="0:17:46.373000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:43.865000" end="0:17:46.373000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:17:43.865000	0:17:44.982000
 Stimme:	-	-	-	0:17:43.865000	0:17:44.982000
 Passt	-	-	-	0:17:43.865000	0:17:44.982000
@@ -4756,10 +4756,10 @@ schon	-	-	-	0:17:43.865000	0:17:44.982000
 SONSTIGE	SONSTIGE	-	-	0:17:43.865000	0:17:44.982000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:44.982000" end="0:17:46.373000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:44.982000" end="0:17:46.373000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:46.373000" end="0:17:52.778000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:46.373000" end="0:17:52.778000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:17:46.373000	0:17:48.295000
 Stimme:	-	-	-	0:17:46.373000	0:17:48.295000
 Hast	-	-	-	0:17:46.373000	0:17:48.295000
@@ -4771,10 +4771,10 @@ Zeugelwerk	-	-	-	0:17:46.373000	0:17:48.295000
 SONSTIGE	SONSTIGE	-	-	0:17:46.373000	0:17:48.295000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:48.295000" end="0:17:52.778000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:48.295000" end="0:17:52.778000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:52.778000" end="0:17:53.926000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:52.778000" end="0:17:53.926000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:17:52.778000	0:17:53.926000
 Stimme:	-	-	-	0:17:52.778000	0:17:53.926000
 Darf	-	-	-	0:17:52.778000	0:17:53.926000
@@ -4785,14 +4785,14 @@ Tee	-	-	-	0:17:52.778000	0:17:53.926000
 machen	-	-	-	0:17:52.778000	0:17:53.926000
 SONSTIGE	SONSTIGE	-	-	0:17:52.778000	0:17:53.926000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:53.926000" end="0:17:54.500000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:53.926000" end="0:17:54.500000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:53.926000	0:17:54.500000
 .	-	-	-	0:17:53.926000	0:17:54.500000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:54.500000" end="0:17:57.721000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:54.500000" end="0:17:57.721000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:17:54.500000" end="0:18:00.130000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:17:54.500000" end="0:18:00.130000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 welchen	-	-	-	0:17:57.721000	0:18:00.130000
 *magst*	-	-	-	0:17:57.721000	0:18:00.130000
@@ -4808,13 +4808,13 @@ rüber	-	-	-	0:17:57.721000	0:18:00.130000
 magst	-	-	-	0:17:57.721000	0:18:00.130000
 .	-	-	-	0:17:57.721000	0:18:00.130000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:00.130000" end="0:18:01.069000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:00.130000" end="0:18:01.069000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:00.130000" end="0:18:01.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:00.130000" end="0:18:01.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:01.069000" end="0:18:02.834000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:01.069000" end="0:18:02.834000" persName="Informant EXP9" age_lower="" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:18:01.069000	0:18:01.665000
 Stimme:	-	-	-	0:18:01.069000	0:18:01.665000
 Einen	-	-	-	0:18:01.069000	0:18:01.665000
@@ -4822,10 +4822,10 @@ Kamillen	-	-	-	0:18:01.069000	0:18:01.665000
 SONSTIGE	SONSTIGE	-	-	0:18:01.069000	0:18:01.665000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:01.665000" end="0:18:02.834000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:01.665000" end="0:18:02.834000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:02.834000" end="0:18:05.069000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:02.834000" end="0:18:05.069000" persName="Informant EXP9" age_lower="" age_upper="999">
 dann	-	-	-	0:18:02.834000	0:18:04.130000
 geht	-	-	-	0:18:02.834000	0:18:04.130000
 es	-	-	-	0:18:02.834000	0:18:04.130000
@@ -4833,11 +4833,11 @@ wieder	-	-	-	0:18:02.834000	0:18:04.130000
 weiter	-	-	-	0:18:02.834000	0:18:04.130000
 .	-	-	-	0:18:02.834000	0:18:04.130000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:04.130000" end="0:18:05.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:04.130000" end="0:18:05.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 passt	-	-	-	0:18:04.130000	0:18:05.069000
 .	-	-	-	0:18:04.130000	0:18:05.069000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:05.069000" end="0:18:10.147000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:05.069000" end="0:18:10.147000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:18:05.069000	0:18:10.147000
 waren	-	-	-	0:18:05.069000	0:18:10.147000
 grad	-	-	-	0:18:05.069000	0:18:10.147000
@@ -4854,17 +4854,17 @@ schön	-	-	-	0:18:05.069000	0:18:10.147000
 Sprechen	-	-	-	0:18:05.069000	0:18:10.147000
 .	-	-	-	0:18:05.069000	0:18:10.147000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:10.147000" end="0:18:10.882000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:10.147000" end="0:18:10.882000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:10.147000	0:18:10.882000
 .	-	-	-	0:18:10.147000	0:18:10.882000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:10.882000" end="0:18:13.134000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:10.882000" end="0:18:13.134000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:10.882000" end="0:18:13.134000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:10.882000" end="0:18:13.134000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:13.134000" end="0:18:20.882000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:13.134000" end="0:18:20.882000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:18:13.134000	0:18:20.026000
 genau	-	-	-	0:18:13.134000	0:18:20.026000
 ,	-	-	-	0:18:13.134000	0:18:20.026000
@@ -4897,12 +4897,12 @@ Sie	-	-	-	0:18:20.026000	0:18:20.882000
 haben	-	-	-	0:18:20.026000	0:18:20.882000
 aber	-	-	-	0:18:20.026000	0:18:20.882000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:20.026000" end="0:18:20.882000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:20.026000" end="0:18:20.882000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:18:20.026000	0:18:20.882000
 .	-	-	-	0:18:20.026000	0:18:20.882000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:20.882000" end="0:18:24.860000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:20.882000" end="0:18:24.860000" persName="Informant EXP9" age_lower="" age_upper="999">
 gesagt	-	-	-	0:18:20.882000	0:18:24.004000
 ,	-	-	-	0:18:20.882000	0:18:24.004000
 dass	-	-	-	0:18:20.882000	0:18:24.004000
@@ -4919,17 +4919,17 @@ den	-	-	-	0:18:24.004000	0:18:24.860000
 Gästen	-	-	-	0:18:24.004000	0:18:24.860000
 .	-	-	-	0:18:24.004000	0:18:24.860000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:24.004000" end="0:18:24.860000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:24.004000" end="0:18:24.860000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:24.004000	0:18:24.860000
 .	-	-	-	0:18:24.004000	0:18:24.860000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:24.860000" end="0:18:25.917000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:24.860000" end="0:18:25.917000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:24.860000" end="0:18:25.917000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:24.860000" end="0:18:25.917000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:25.917000" end="0:18:31.426000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:25.917000" end="0:18:31.426000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:18:25.917000	0:18:30.091000
 <pause duration="0,5s"/>
 ähm	-	-	-	0:18:25.917000	0:18:30.091000
@@ -4945,10 +4945,10 @@ vor	-	-	-	0:18:25.917000	0:18:30.091000
 .	-	-	-	0:18:25.917000	0:18:30.091000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:30.091000" end="0:18:31.426000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:30.091000" end="0:18:31.426000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:31.426000" end="0:18:41.747000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:31.426000" end="0:18:41.747000" persName="Informant EXP9" age_lower="" age_upper="999">
 s/	-	-	-	0:18:31.426000	0:18:40.743000
 ähm	-	-	-	0:18:31.426000	0:18:40.743000
 Sie	-	-	-	0:18:31.426000	0:18:40.743000
@@ -4984,11 +4984,11 @@ schön	-	-	-	0:18:40.743000	0:18:41.747000
 spricht	-	-	-	0:18:40.743000	0:18:41.747000
 .	-	-	-	0:18:40.743000	0:18:41.747000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:40.743000" end="0:18:41.747000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:40.743000" end="0:18:41.747000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:40.743000	0:18:41.747000
 .	-	-	-	0:18:40.743000	0:18:41.747000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:41.747000" end="0:18:46.086000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:41.747000" end="0:18:46.086000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:18:41.747000	0:18:44.943000
 wirkt	-	-	-	0:18:41.747000	0:18:44.943000
 das	-	-	-	0:18:41.747000	0:18:44.943000
@@ -5008,7 +5008,7 @@ dabei	-	-	-	0:18:41.747000	0:18:44.943000
 ?	-	-	-	0:18:41.747000	0:18:44.943000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:44.943000" end="0:18:46.986000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:44.943000" end="0:18:46.986000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 gar	-	-	-	0:18:46.086000	0:18:46.986000
 nichts	-	-	-	0:18:46.086000	0:18:46.986000
@@ -5016,21 +5016,21 @@ nichts	-	-	-	0:18:46.086000	0:18:46.986000
 eigentlich	-	-	-	0:18:46.086000	0:18:46.986000
 .	-	-	-	0:18:46.086000	0:18:46.986000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:46.986000" end="0:18:47.747000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:46.986000" end="0:18:47.747000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:46.986000	0:18:47.747000
 .	-	-	-	0:18:46.986000	0:18:47.747000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:46.986000" end="0:18:47.747000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:46.986000" end="0:18:47.747000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:18:46.986000	0:18:47.747000
 das	-	-	-	0:18:46.986000	0:18:47.747000
 ist	-	-	-	0:18:46.986000	0:18:47.747000
 /.	-	-	-	0:18:46.986000	0:18:47.747000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:47.747000" end="0:18:48.278000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:47.747000" end="0:18:48.278000" persName="Informant EXP9" age_lower="" age_upper="999">
 ganz	-	-	-	0:18:47.747000	0:18:48.278000
 /.	-	-	-	0:18:47.747000	0:18:48.278000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:48.278000" end="0:18:49.978000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:48.278000" end="0:18:49.978000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:48.278000	0:18:49.978000
 ,	-	-	-	0:18:48.278000	0:18:49.978000
 das	-	-	-	0:18:48.278000	0:18:49.978000
@@ -5038,13 +5038,13 @@ ist	-	-	-	0:18:48.278000	0:18:49.978000
 Alltag	-	-	-	0:18:48.278000	0:18:49.978000
 .	-	-	-	0:18:48.278000	0:18:49.978000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:49.978000" end="0:18:50.408000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:49.978000" end="0:18:50.408000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:49.978000	0:18:50.408000
 .	-	-	-	0:18:49.978000	0:18:50.408000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:49.978000" end="0:18:50.408000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:49.978000" end="0:18:50.408000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:50.408000" end="0:18:52.791000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:50.408000" end="0:18:52.791000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:18:50.408000	0:18:51.856000
 heißt	-	-	-	0:18:50.408000	0:18:51.856000
 ,	-	-	-	0:18:50.408000	0:18:51.856000
@@ -5058,11 +5058,11 @@ würde	-	-	-	0:18:50.408000	0:18:51.856000
 nicht	-	-	-	0:18:51.856000	0:18:52.791000
 weiter	-	-	-	0:18:51.856000	0:18:52.791000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:51.856000" end="0:18:52.791000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:51.856000" end="0:18:52.791000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:51.856000	0:18:52.791000
 .	-	-	-	0:18:51.856000	0:18:52.791000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:52.791000" end="0:18:54.600000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:52.791000" end="0:18:54.600000" persName="Informant EXP9" age_lower="" age_upper="999">
 auffallen	-	-	-	0:18:52.791000	0:18:53.391000
 bei	-	-	-	0:18:53.391000	0:18:54.600000
 Ihnen	-	-	-	0:18:53.391000	0:18:54.600000
@@ -5070,14 +5070,14 @@ Ihnen	-	-	-	0:18:53.391000	0:18:54.600000
 okay	-	-	-	0:18:53.391000	0:18:54.600000
 .	-	-	-	0:18:53.391000	0:18:54.600000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:18:53.391000" end="0:18:54.600000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:18:53.391000" end="0:18:54.600000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:53.391000	0:18:54.600000
 ,	-	-	-	0:18:53.391000	0:18:54.600000
 überhaupt	-	-	-	0:18:53.391000	0:18:54.600000
 nicht	-	-	-	0:18:53.391000	0:18:54.600000
 .	-	-	-	0:18:53.391000	0:18:54.600000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:54.600000" end="0:19:09.473000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:54.600000" end="0:19:09.473000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:54.600000	0:18:57.921000
 ,	-	-	-	0:18:54.600000	0:18:57.921000
 und	-	-	-	0:18:54.600000	0:18:57.921000
@@ -5128,11 +5128,11 @@ spricht	-	-	-	0:18:57.921000	0:19:08.956000
 was	-	-	-	0:19:08.956000	0:19:09.473000
 was	-	-	-	0:19:08.956000	0:19:09.473000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:08.956000" end="0:19:09.473000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:08.956000" end="0:19:09.473000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:08.956000	0:19:09.473000
 .	-	-	-	0:19:08.956000	0:19:09.473000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:09.473000" end="0:19:11.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:09.473000" end="0:19:11.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 denken	-	-	-	0:19:09.473000	0:19:10.495000
 Sie	-	-	-	0:19:09.473000	0:19:10.495000
 sich	-	-	-	0:19:09.473000	0:19:10.495000
@@ -5140,7 +5140,7 @@ dann	-	-	-	0:19:09.473000	0:19:10.495000
 ?	-	-	-	0:19:09.473000	0:19:10.495000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:10.495000" end="0:19:16.157000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:10.495000" end="0:19:16.157000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:19:11.533000	0:19:16.157000
 ,	-	-	-	0:19:11.533000	0:19:16.157000
@@ -5159,11 +5159,11 @@ die	-	-	-	0:19:11.533000	0:19:16.157000
 Leute	-	-	-	0:19:11.533000	0:19:16.157000
 ,	-	-	-	0:19:11.533000	0:19:16.157000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:16.157000" end="0:19:16.621000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:16.157000" end="0:19:16.621000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:16.157000	0:19:16.621000
 .	-	-	-	0:19:16.157000	0:19:16.621000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:16.621000" end="0:19:24.184000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:16.621000" end="0:19:24.184000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:19:16.621000	0:19:19.584000
 *wennst*	-	-	-	0:19:16.621000	0:19:19.584000
 <pause duration="0,7s"/>
@@ -5190,11 +5190,11 @@ automatisch	-	-	-	0:19:19.584000	0:19:24.184000
 um	-	-	-	0:19:19.584000	0:19:24.184000
 ,	-	-	-	0:19:19.584000	0:19:24.184000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:24.184000" end="0:19:24.745000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:24.184000" end="0:19:24.745000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:24.184000	0:19:24.745000
 .	-	-	-	0:19:24.184000	0:19:24.745000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:24.184000" end="0:19:26.281000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:24.184000" end="0:19:26.281000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:19:24.184000	0:19:24.745000
 /,	-	-	-	0:19:24.184000	0:19:24.745000
 weil	-	-	-	0:19:24.184000	0:19:24.745000
@@ -5208,7 +5208,7 @@ nicht	-	-	-	0:19:24.745000	0:19:26.281000
 verstehen	-	-	-	0:19:24.745000	0:19:26.281000
 .	-	-	-	0:19:24.745000	0:19:26.281000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:26.281000" end="0:19:32.484000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:26.281000" end="0:19:32.484000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:26.281000	0:19:27.012000
 .	-	-	-	0:19:26.281000	0:19:27.012000
 aber	-	-	-	0:19:27.012000	0:19:31.381000
@@ -5230,21 +5230,21 @@ um/	-	-	-	0:19:27.012000	0:19:31.381000
 umschaltet	-	-	-	0:19:31.381000	0:19:32.484000
 ?	-	-	-	0:19:31.381000	0:19:32.484000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:31.381000" end="0:19:32.484000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:31.381000" end="0:19:32.484000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:31.381000	0:19:32.484000
 ,	-	-	-	0:19:31.381000	0:19:32.484000
 schon	-	-	-	0:19:31.381000	0:19:32.484000
 .	-	-	-	0:19:31.381000	0:19:32.484000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:32.484000" end="0:19:39.251000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:32.484000" end="0:19:39.251000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:32.484000	0:19:33.203000
 .	-	-	-	0:19:32.484000	0:19:33.203000
 <pause duration="5,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:33.203000" end="0:19:39.251000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:33.203000" end="0:19:39.251000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:39.251000" end="0:19:51.336000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:39.251000" end="0:19:51.336000" persName="Informant EXP9" age_lower="" age_upper="999">
 gibt	-	-	-	0:19:39.251000	0:19:46.933000
 es	-	-	-	0:19:39.251000	0:19:46.933000
 Situationen	-	-	-	0:19:39.251000	0:19:46.933000
@@ -5275,7 +5275,7 @@ sprechen	-	-	-	0:19:39.251000	0:19:46.933000
 ?	-	-	-	0:19:39.251000	0:19:46.933000
 <pause duration="4,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:46.933000" end="0:19:55.675000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:46.933000" end="0:19:55.675000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 ähm	-	-	-	0:19:51.336000	0:19:53.406000
 /.	-	-	-	0:19:51.336000	0:19:53.406000
@@ -5290,11 +5290,11 @@ ist	-	-	-	0:19:53.406000	0:19:55.675000
 ?	-	-	-	0:19:53.406000	0:19:55.675000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:55.675000" end="0:19:55.996000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:55.675000" end="0:19:55.996000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:55.675000	0:19:55.996000
 .	-	-	-	0:19:55.675000	0:19:55.996000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:55.675000" end="0:19:57.021000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:55.675000" end="0:19:57.021000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:19:55.675000	0:19:55.996000
 auf	-	-	-	0:19:55.996000	0:19:57.021000
 jeden	-	-	-	0:19:55.996000	0:19:57.021000
@@ -5303,10 +5303,10 @@ Fall	-	-	-	0:19:55.996000	0:19:57.021000
 aber	-	-	-	0:19:55.996000	0:19:57.021000
 /.	-	-	-	0:19:55.996000	0:19:57.021000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:57.021000" end="0:20:00.660000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:57.021000" end="0:20:00.660000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:19:57.021000" end="0:20:02.236000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:19:57.021000" end="0:20:02.236000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 dass	-	-	-	0:20:00.660000	0:20:02.236000
 ich	-	-	-	0:20:00.660000	0:20:02.236000
@@ -5317,7 +5317,7 @@ oder	-	-	-	0:20:00.660000	0:20:02.236000
 was	-	-	-	0:20:00.660000	0:20:02.236000
 ?	-	-	-	0:20:00.660000	0:20:02.236000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:02.236000" end="0:20:10.603000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:02.236000" end="0:20:10.603000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:20:02.236000	0:20:10.603000
 eine	-	-	-	0:20:02.236000	0:20:10.603000
 Situation	-	-	-	0:20:02.236000	0:20:10.603000
@@ -5347,7 +5347,7 @@ da	-	-	-	0:20:02.236000	0:20:10.603000
 wäre	-	-	-	0:20:02.236000	0:20:10.603000
 .	-	-	-	0:20:02.236000	0:20:10.603000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:10.603000" end="0:20:13.354000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:10.603000" end="0:20:13.354000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:10.603000	0:20:13.354000
 ,	-	-	-	0:20:10.603000	0:20:13.354000
 verwenden	-	-	-	0:20:10.603000	0:20:13.354000
@@ -5364,33 +5364,33 @@ ein	-	-	-	0:20:10.603000	0:20:13.354000
 jeder	-	-	-	0:20:10.603000	0:20:13.354000
 ,	-	-	-	0:20:10.603000	0:20:13.354000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:13.354000" end="0:20:13.887000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:13.354000" end="0:20:13.887000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:13.354000	0:20:13.887000
 .	-	-	-	0:20:13.354000	0:20:13.887000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:13.887000" end="0:20:14.578000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:13.887000" end="0:20:14.578000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:20:13.887000	0:20:14.578000
 bei	-	-	-	0:20:13.887000	0:20:14.578000
 uns	-	-	-	0:20:13.887000	0:20:14.578000
 ,	-	-	-	0:20:13.887000	0:20:14.578000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:14.578000" end="0:20:16.042000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:14.578000" end="0:20:16.042000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:20:14.578000	0:20:16.042000
 .	-	-	-	0:20:14.578000	0:20:16.042000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:14.578000" end="0:20:16.990000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:14.578000" end="0:20:16.990000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:20:16.042000	0:20:16.990000
 es	-	-	-	0:20:16.042000	0:20:16.990000
 ist	-	-	-	0:20:16.042000	0:20:16.990000
 /.	-	-	-	0:20:16.042000	0:20:16.990000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:16.990000" end="0:20:17.745000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:16.990000" end="0:20:17.745000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:16.990000" end="0:20:17.745000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:16.990000" end="0:20:17.745000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:17.745000" end="0:20:18.642000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:17.745000" end="0:20:18.642000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:20:17.745000	0:20:18.642000
 wo	-	-	-	0:20:17.745000	0:20:18.642000
 Sie	-	-	-	0:20:17.745000	0:20:18.642000
@@ -5398,18 +5398,18 @@ es	-	-	-	0:20:17.745000	0:20:18.642000
 vielleicht	-	-	-	0:20:17.745000	0:20:18.642000
 nicht	-	-	-	0:20:17.745000	0:20:18.642000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:17.745000" end="0:20:18.642000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:17.745000" end="0:20:18.642000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:20:17.745000	0:20:18.642000
 sich	-	-	-	0:20:17.745000	0:20:18.642000
 wer	-	-	-	0:20:17.745000	0:20:18.642000
 /.	-	-	-	0:20:17.745000	0:20:18.642000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:18.642000" end="0:20:19.563000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:18.642000" end="0:20:19.563000" persName="Informant EXP9" age_lower="" age_upper="999">
 verwenden	-	-	-	0:20:18.642000	0:20:19.563000
 würden	-	-	-	0:20:18.642000	0:20:19.563000
 .	-	-	-	0:20:18.642000	0:20:19.563000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:19.563000" end="0:20:21.466000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:19.563000" end="0:20:21.466000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:20:19.563000	0:20:21.466000
 ,	-	-	-	0:20:19.563000	0:20:21.466000
 mit	-	-	-	0:20:19.563000	0:20:21.466000
@@ -5419,11 +5419,11 @@ einer	-	-	-	0:20:19.563000	0:20:21.466000
 Hochzeit	-	-	-	0:20:19.563000	0:20:21.466000
 oder	-	-	-	0:20:19.563000	0:20:21.466000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:21.466000" end="0:20:21.915000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:21.466000" end="0:20:21.915000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:21.466000	0:20:21.915000
 .	-	-	-	0:20:21.466000	0:20:21.915000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:21.466000" end="0:20:24.036000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:21.466000" end="0:20:24.036000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 bei	-	-	-	0:20:21.466000	0:20:21.915000
 Sonstigem	-	-	-	0:20:21.915000	0:20:24.036000
 ,	-	-	-	0:20:21.915000	0:20:24.036000
@@ -5433,7 +5433,7 @@ eigentlich	-	-	-	0:20:21.915000	0:20:24.036000
 nie	-	-	-	0:20:21.915000	0:20:24.036000
 .	-	-	-	0:20:21.915000	0:20:24.036000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:24.036000" end="0:20:26.751000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:24.036000" end="0:20:26.751000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:24.036000	0:20:25.530000
 ,	-	-	-	0:20:24.036000	0:20:25.530000
 das	-	-	-	0:20:24.036000	0:20:25.530000
@@ -5447,19 +5447,19 @@ so	-	-	-	0:20:25.530000	0:20:26.751000
 mhm	-	-	-	0:20:25.530000	0:20:26.751000
 .	-	-	-	0:20:25.530000	0:20:26.751000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:25.530000" end="0:20:26.751000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:25.530000" end="0:20:26.751000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:25.530000	0:20:26.751000
 ,	-	-	-	0:20:25.530000	0:20:26.751000
 nein	-	-	-	0:20:25.530000	0:20:26.751000
 .	-	-	-	0:20:25.530000	0:20:26.751000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:26.751000" end="0:20:27.336000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:26.751000" end="0:20:27.336000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:26.751000" end="0:20:27.336000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:26.751000" end="0:20:27.336000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:27.336000" end="0:20:33.178000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:27.336000" end="0:20:33.178000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:20:27.336000	0:20:31.793000
 wie	-	-	-	0:20:27.336000	0:20:31.793000
 würde	-	-	-	0:20:27.336000	0:20:31.793000
@@ -5478,16 +5478,16 @@ schön	-	-	-	0:20:31.793000	0:20:33.178000
 redet	-	-	-	0:20:31.793000	0:20:33.178000
 ?	-	-	-	0:20:31.793000	0:20:33.178000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:31.793000" end="0:20:33.178000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:31.793000" end="0:20:33.178000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 vor	-	-	-	0:20:31.793000	0:20:33.178000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:33.178000" end="0:20:34.490000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:33.178000" end="0:20:34.490000" persName="Informant EXP9" age_lower="" age_upper="999">
 beim	-	-	-	0:20:33.178000	0:20:34.490000
 Fortgehen	-	-	-	0:20:33.178000	0:20:34.490000
 ,	-	-	-	0:20:33.178000	0:20:34.490000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:33.178000" end="0:20:34.490000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:33.178000" end="0:20:34.490000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 vor	-	-	-	0:20:33.178000	0:20:34.490000
 die	-	-	-	0:20:33.178000	0:20:34.490000
 Leute	-	-	-	0:20:33.178000	0:20:34.490000
@@ -5496,12 +5496,12 @@ was	-	-	-	0:20:33.178000	0:20:34.490000
 jetzt	-	-	-	0:20:33.178000	0:20:34.490000
 ?	-	-	-	0:20:33.178000	0:20:34.490000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:34.490000" end="0:20:35.293000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:34.490000" end="0:20:35.293000" persName="Informant EXP9" age_lower="" age_upper="999">
 zum	-	-	-	0:20:34.490000	0:20:35.293000
 Beispiel	-	-	-	0:20:34.490000	0:20:35.293000
 ?	-	-	-	0:20:34.490000	0:20:35.293000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:35.293000" end="0:20:38.239000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:35.293000" end="0:20:38.239000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ((zu	-	-	-	0:20:35.293000	0:20:36.393000
 dritter	-	-	-	0:20:35.293000	0:20:36.393000
 Stimme))	-	-	-	0:20:35.293000	0:20:36.393000
@@ -5519,7 +5519,7 @@ unterwegs	-	-	-	0:20:36.393000	0:20:38.239000
 sind	-	-	-	0:20:36.393000	0:20:38.239000
 ?	-	-	-	0:20:36.393000	0:20:38.239000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:38.239000" end="0:20:39.584000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:38.239000" end="0:20:39.584000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:20:38.239000	0:20:38.778000
 .	-	-	-	0:20:38.239000	0:20:38.778000
 SONSTIGE	SONSTIGE	-	-	0:20:38.778000	0:20:39.584000
@@ -5527,21 +5527,21 @@ Stimme	-	-	-	0:20:38.778000	0:20:39.584000
 _pfiati_	-	-	-	0:20:38.778000	0:20:39.584000
 SONSTIGE	SONSTIGE	-	-	0:20:38.778000	0:20:39.584000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:39.584000" end="0:20:40.533000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:39.584000" end="0:20:40.533000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ((zu	-	-	-	0:20:39.584000	0:20:40.533000
 dritter	-	-	-	0:20:39.584000	0:20:40.533000
 Stimme))	-	-	-	0:20:39.584000	0:20:40.533000
 _pfiati_	-	-	-	0:20:39.584000	0:20:40.533000
 .	-	-	-	0:20:39.584000	0:20:40.533000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:40.533000" end="0:20:42.533000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:40.533000" end="0:20:42.533000" persName="Informant EXP9" age_lower="" age_upper="999">
 ((zu	-	-	-	0:20:40.533000	0:20:42.533000
 dritter	-	-	-	0:20:40.533000	0:20:42.533000
 Stimme))	-	-	-	0:20:40.533000	0:20:42.533000
 _pfiati_	-	-	-	0:20:40.533000	0:20:42.533000
 .	-	-	-	0:20:40.533000	0:20:42.533000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:42.533000" end="0:20:46.627000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:42.533000" end="0:20:46.627000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:20:42.533000	0:20:46.627000
 ähm	-	-	-	0:20:42.533000	0:20:46.627000
 weiß	-	-	-	0:20:42.533000	0:20:46.627000
@@ -5561,11 +5561,11 @@ los	-	-	-	0:20:42.533000	0:20:46.627000
 ist	-	-	-	0:20:42.533000	0:20:46.627000
 .	-	-	-	0:20:42.533000	0:20:46.627000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:46.627000" end="0:20:47.293000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:46.627000" end="0:20:47.293000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:46.627000	0:20:47.293000
 .	-	-	-	0:20:46.627000	0:20:47.293000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:46.627000" end="0:20:49.842000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:46.627000" end="0:20:49.842000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:20:46.627000	0:20:47.293000
 meine	-	-	-	0:20:47.293000	0:20:49.842000
 Freundin	-	-	-	0:20:47.293000	0:20:49.842000
@@ -5580,10 +5580,10 @@ im	-	-	-	0:20:47.293000	0:20:49.842000
 Büro	-	-	-	0:20:47.293000	0:20:49.842000
 ,	-	-	-	0:20:47.293000	0:20:49.842000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:49.842000" end="0:20:50.663000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:49.842000" end="0:20:50.663000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:49.842000" end="0:20:54.012000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:49.842000" end="0:20:54.012000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	-	-	-	0:20:50.663000	0:20:54.012000
 hat	-	-	-	0:20:50.663000	0:20:54.012000
@@ -5604,11 +5604,11 @@ ganz	-	-	-	0:20:50.663000	0:20:54.012000
 oben	-	-	-	0:20:50.663000	0:20:54.012000
 ,	-	-	-	0:20:50.663000	0:20:54.012000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:54.012000" end="0:20:54.663000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:54.012000" end="0:20:54.663000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:54.012000	0:20:54.663000
 .	-	-	-	0:20:54.012000	0:20:54.663000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:54.012000" end="0:20:55.227000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:54.012000" end="0:20:55.227000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:20:54.012000	0:20:54.663000
 ein	-	-	-	0:20:54.012000	0:20:54.663000
 so	-	-	-	0:20:54.012000	0:20:54.663000
@@ -5617,11 +5617,11 @@ SONSTIGE	SONSTIGE	-	-	0:20:54.663000	0:20:55.227000
 dabei	-	-	-	0:20:54.663000	0:20:55.227000
 ,	-	-	-	0:20:54.663000	0:20:55.227000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:55.227000" end="0:20:57.766000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:55.227000" end="0:20:57.766000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:55.227000	0:20:57.766000
 .	-	-	-	0:20:55.227000	0:20:57.766000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:20:55.227000" end="0:21:00.493000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:20:55.227000" end="0:21:00.493000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:20:55.227000	0:20:57.766000
 die	-	-	-	0:20:55.227000	0:20:57.766000
@@ -5647,11 +5647,11 @@ der	-	-	-	0:20:57.766000	0:21:00.493000
 Gastro	-	-	-	0:20:57.766000	0:21:00.493000
 ,	-	-	-	0:20:57.766000	0:21:00.493000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:00.493000" end="0:21:01.357000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:00.493000" end="0:21:01.357000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:21:00.493000	0:21:01.357000
 .	-	-	-	0:21:00.493000	0:21:01.357000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:01.357000" end="0:21:10.133000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:01.357000" end="0:21:10.133000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:21:01.357000	0:21:10.133000
 heißt	-	-	-	0:21:01.357000	0:21:10.133000
 ,	-	-	-	0:21:01.357000	0:21:10.133000
@@ -5683,27 +5683,27 @@ am	-	-	-	0:21:01.357000	0:21:10.133000
 Anfang	-	-	-	0:21:01.357000	0:21:10.133000
 ,	-	-	-	0:21:01.357000	0:21:10.133000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:10.133000" end="0:21:10.727000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:10.133000" end="0:21:10.727000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:21:10.133000	0:21:10.727000
 .	-	-	-	0:21:10.133000	0:21:10.727000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:10.133000" end="0:21:12.172000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:10.133000" end="0:21:12.172000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:21:10.133000	0:21:10.727000
 /,	-	-	-	0:21:10.133000	0:21:10.727000
 <pause duration="1,0s"/>
 also	-	-	-	0:21:10.727000	0:21:12.172000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:12.172000" end="0:21:12.648000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:12.172000" end="0:21:12.648000" persName="Informant EXP9" age_lower="" age_upper="999">
 weil	-	-	-	0:21:12.172000	0:21:12.648000
 man	-	-	-	0:21:12.172000	0:21:12.648000
 es	-	-	-	0:21:12.172000	0:21:12.648000
 im	-	-	-	0:21:12.172000	0:21:12.648000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:12.172000" end="0:21:12.648000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:12.172000" end="0:21:12.648000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:21:12.172000	0:21:12.648000
 /.	-	-	-	0:21:12.172000	0:21:12.648000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:12.648000" end="0:21:15.154000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:12.648000" end="0:21:15.154000" persName="Informant EXP9" age_lower="" age_upper="999">
 Alltag	-	-	-	0:21:12.648000	0:21:13.578000
 halt	-	-	-	0:21:12.648000	0:21:13.578000
 so	-	-	-	0:21:12.648000	0:21:13.578000
@@ -5715,7 +5715,7 @@ dann	-	-	-	0:21:13.578000	0:21:15.154000
 oder	-	-	-	0:21:13.578000	0:21:15.154000
 ?	-	-	-	0:21:13.578000	0:21:15.154000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:13.578000" end="0:21:16.742000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:13.578000" end="0:21:16.742000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:13.578000	0:21:15.154000
 ,	-	-	-	0:21:13.578000	0:21:15.154000
 ja	-	-	-	0:21:13.578000	0:21:15.154000
@@ -5727,9 +5727,9 @@ Wörter	-	-	-	0:21:15.154000	0:21:16.742000
 um	-	-	-	0:21:15.154000	0:21:16.742000
 ,	-	-	-	0:21:15.154000	0:21:16.742000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:16.742000" end="0:21:17.612000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:16.742000" end="0:21:17.612000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:17.612000" end="0:21:21.454000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:17.612000" end="0:21:21.454000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:21:17.612000	0:21:21.454000
 die	-	-	-	0:21:17.612000	0:21:21.454000
 was	-	-	-	0:21:17.612000	0:21:21.454000
@@ -5743,12 +5743,12 @@ klingt	-	-	-	0:21:17.612000	0:21:21.454000
 lustig	-	-	-	0:21:17.612000	0:21:21.454000
 .	-	-	-	0:21:17.612000	0:21:21.454000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:21.454000" end="0:21:22.457000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:21.454000" end="0:21:22.457000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:21:21.454000	0:21:22.457000
 .	-	-	-	0:21:21.454000	0:21:22.457000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:22.457000" end="0:21:26.433000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:22.457000" end="0:21:26.433000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:21:22.457000	0:21:26.433000
 *dass*	-	-	-	0:21:22.457000	0:21:26.433000
 jetzt	-	-	-	0:21:22.457000	0:21:26.433000
@@ -5762,15 +5762,15 @@ nie	-	-	-	0:21:22.457000	0:21:26.433000
 Deutsch	-	-	-	0:21:22.457000	0:21:26.433000
 .	-	-	-	0:21:22.457000	0:21:26.433000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:26.433000" end="0:21:28.993000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:26.433000" end="0:21:28.993000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:21:26.433000	0:21:26.993000
 .	-	-	-	0:21:26.433000	0:21:26.993000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:26.993000" end="0:21:28.993000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:26.993000" end="0:21:28.993000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:28.993000" end="0:21:35.524000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:28.993000" end="0:21:35.524000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:21:28.993000	0:21:33.409000
 wenn	-	-	-	0:21:28.993000	0:21:33.409000
 jemand	-	-	-	0:21:28.993000	0:21:33.409000
@@ -5791,7 +5791,7 @@ undenkbar	-	-	-	0:21:33.409000	0:21:35.524000
 oder	-	-	-	0:21:33.409000	0:21:35.524000
 ?	-	-	-	0:21:33.409000	0:21:35.524000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:33.409000" end="0:21:35.524000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:33.409000" end="0:21:35.524000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:33.409000	0:21:35.524000
 ,	-	-	-	0:21:33.409000	0:21:35.524000
 nachher	-	-	-	0:21:33.409000	0:21:35.524000
@@ -5802,9 +5802,9 @@ das	-	-	-	0:21:33.409000	0:21:35.524000
 ja	-	-	-	0:21:33.409000	0:21:35.524000
 ,	-	-	-	0:21:33.409000	0:21:35.524000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:35.524000" end="0:21:39.763000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:35.524000" end="0:21:39.763000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:35.524000" end="0:21:39.763000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:35.524000" end="0:21:39.763000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:21:35.524000	0:21:39.763000
 ähm	-	-	-	0:21:35.524000	0:21:39.763000
 eine	-	-	-	0:21:35.524000	0:21:39.763000
@@ -5814,13 +5814,13 @@ uns	-	-	-	0:21:35.524000	0:21:39.763000
 alle	-	-	-	0:21:35.524000	0:21:39.763000
 .	-	-	-	0:21:35.524000	0:21:39.763000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:39.763000" end="0:21:43.003000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:39.763000" end="0:21:43.003000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:39.763000" end="0:21:43.003000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:39.763000" end="0:21:43.003000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:43.003000" end="0:21:46.572000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:43.003000" end="0:21:46.572000" persName="Informant EXP9" age_lower="" age_upper="999">
 haben	-	-	-	0:21:43.003000	0:21:46.572000
 Sie	-	-	-	0:21:43.003000	0:21:46.572000
 den	-	-	-	0:21:43.003000	0:21:46.572000
@@ -5840,11 +5840,11 @@ auch	-	-	-	0:21:43.003000	0:21:46.572000
 wenn	-	-	-	0:21:43.003000	0:21:46.572000
 Sie	-	-	-	0:21:43.003000	0:21:46.572000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:46.572000" end="0:21:46.906000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:46.572000" end="0:21:46.906000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:46.572000	0:21:46.906000
 .	-	-	-	0:21:46.572000	0:21:46.906000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:46.906000" end="0:21:48.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:46.906000" end="0:21:48.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 den/	-	-	-	0:21:46.906000	0:21:48.157000
 das	-	-	-	0:21:46.906000	0:21:48.157000
 Deutsch	-	-	-	0:21:46.906000	0:21:48.157000
@@ -5856,11 +5856,11 @@ das	-	-	-	0:21:48.157000	0:21:48.878000
 heißt	-	-	-	0:21:48.157000	0:21:48.878000
 ,	-	-	-	0:21:48.157000	0:21:48.878000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:48.157000" end="0:21:48.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:48.157000" end="0:21:48.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:21:48.157000	0:21:48.878000
 .	-	-	-	0:21:48.157000	0:21:48.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:48.878000" end="0:21:55.096000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:48.878000" end="0:21:55.096000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sie	-	-	-	0:21:48.878000	0:21:54.381000
 haben	-	-	-	0:21:48.878000	0:21:54.381000
 also	-	-	-	0:21:48.878000	0:21:54.381000
@@ -5883,19 +5883,19 @@ Deutsch	-	-	-	0:21:48.878000	0:21:54.381000
 sprechen	-	-	-	0:21:54.381000	0:21:55.096000
 ?	-	-	-	0:21:54.381000	0:21:55.096000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:54.381000" end="0:21:55.096000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:54.381000" end="0:21:55.096000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:54.381000	0:21:55.096000
 .	-	-	-	0:21:54.381000	0:21:55.096000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:55.096000" end="0:21:56.339000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:55.096000" end="0:21:56.339000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:21:55.096000	0:21:55.651000
 .	-	-	-	0:21:55.096000	0:21:55.651000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:55.651000" end="0:21:56.339000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:55.651000" end="0:21:56.339000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:56.339000" end="0:22:05.654000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:56.339000" end="0:22:05.654000" persName="Informant EXP9" age_lower="" age_upper="999">
 gut	-	-	-	0:21:56.339000	0:21:59.630000
 ,	-	-	-	0:21:56.339000	0:21:59.630000
 und	-	-	-	0:21:56.339000	0:21:59.630000
@@ -5909,10 +5909,10 @@ wieder	-	-	-	0:21:56.339000	0:21:59.630000
 .	-	-	-	0:21:56.339000	0:21:59.630000
 <pause duration="6,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:21:59.630000" end="0:22:05.654000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:21:59.630000" end="0:22:05.654000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:05.653000" end="0:22:15.195000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:05.653000" end="0:22:15.195000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:22:05.653000	0:22:14.169000
 Sie	-	-	-	0:22:05.653000	0:22:14.169000
 sich	-	-	-	0:22:05.653000	0:22:14.169000
@@ -5944,7 +5944,7 @@ sehen	-	-	-	0:22:05.653000	0:22:14.169000
 .	-	-	-	0:22:05.653000	0:22:14.169000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:14.169000" end="0:22:16.751000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:14.169000" end="0:22:16.751000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:22:15.195000	0:22:16.751000
 ,	-	-	-	0:22:15.195000	0:22:16.751000
@@ -5955,10 +5955,10 @@ mal	-	-	-	0:22:15.195000	0:22:16.751000
 sagen	-	-	-	0:22:15.195000	0:22:16.751000
 .	-	-	-	0:22:15.195000	0:22:16.751000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:16.751000" end="0:22:19.909000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:16.751000" end="0:22:19.909000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:16.751000" end="0:22:21.712000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:16.751000" end="0:22:21.712000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 je	-	-	-	0:22:19.909000	0:22:21.712000
 nachdem	-	-	-	0:22:19.909000	0:22:21.712000
@@ -5971,13 +5971,13 @@ mich	-	-	-	0:22:19.909000	0:22:21.712000
 zusammenreiße	-	-	-	0:22:19.909000	0:22:21.712000
 .	-	-	-	0:22:19.909000	0:22:21.712000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:21.711000" end="0:22:25.620000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:21.711000" end="0:22:25.620000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:23.350000" end="0:22:25.620000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:23.350000" end="0:22:25.620000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:25.620000" end="0:22:31.562000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:25.620000" end="0:22:31.562000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:22:25.620000	0:22:31.562000
 finden	-	-	-	0:22:25.620000	0:22:31.562000
 Sie	-	-	-	0:22:25.620000	0:22:31.562000
@@ -6001,7 +6001,7 @@ Deutsch	-	-	-	0:22:25.620000	0:22:31.562000
 sprechen	-	-	-	0:22:25.620000	0:22:31.562000
 ?	-	-	-	0:22:25.620000	0:22:31.562000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:31.562000" end="0:22:34.654000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:31.562000" end="0:22:34.654000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:31.562000	0:22:34.654000
 ,	-	-	-	0:22:31.562000	0:22:34.654000
 bis	-	-	-	0:22:31.562000	0:22:34.654000
@@ -6016,11 +6016,11 @@ dabei	-	-	-	0:22:31.562000	0:22:34.654000
 gesehen	-	-	-	0:22:31.562000	0:22:34.654000
 .	-	-	-	0:22:31.562000	0:22:34.654000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:34.654000" end="0:22:35.473000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:34.654000" end="0:22:35.473000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:34.654000	0:22:35.473000
 .	-	-	-	0:22:34.654000	0:22:35.473000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:35.473000" end="0:22:37.441000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:35.473000" end="0:22:37.441000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:22:35.473000	0:22:37.441000
 ist	-	-	-	0:22:35.473000	0:22:37.441000
 auch	-	-	-	0:22:35.473000	0:22:37.441000
@@ -6032,10 +6032,10 @@ oder	-	-	-	0:22:35.473000	0:22:37.441000
 so	-	-	-	0:22:35.473000	0:22:37.441000
 .	-	-	-	0:22:35.473000	0:22:37.441000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:37.441000" end="0:22:38.213000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:37.441000" end="0:22:38.213000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:37.441000" end="0:22:43.073000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:37.441000" end="0:22:43.073000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 wenn	-	-	-	0:22:38.213000	0:22:43.073000
 nachher	-	-	-	0:22:38.213000	0:22:43.073000
@@ -6058,38 +6058,38 @@ ich	-	-	-	0:22:38.213000	0:22:43.073000
 "ja"	-	-	-	0:22:38.213000	0:22:43.073000
 .	-	-	-	0:22:38.213000	0:22:43.073000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:43.073000" end="0:22:43.494000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:43.073000" end="0:22:43.494000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:43.073000	0:22:43.494000
 .	-	-	-	0:22:43.073000	0:22:43.494000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:43.073000" end="0:22:43.901000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:43.073000" end="0:22:43.901000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:22:43.073000	0:22:43.494000
 kennt	-	-	-	0:22:43.073000	0:22:43.494000
 man	-	-	-	0:22:43.494000	0:22:43.901000
 gleich	-	-	-	0:22:43.494000	0:22:43.901000
 .	-	-	-	0:22:43.494000	0:22:43.901000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:43.901000" end="0:22:44.422000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:43.901000" end="0:22:44.422000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:43.901000" end="0:22:44.422000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:43.901000" end="0:22:44.422000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:44.422000" end="0:22:45.016000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:44.422000" end="0:22:45.016000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:22:44.422000	0:22:45.016000
 ,	-	-	-	0:22:44.422000	0:22:45.016000
 das	-	-	-	0:22:44.422000	0:22:45.016000
 heißt	-	-	-	0:22:44.422000	0:22:45.016000
 /.	-	-	-	0:22:44.422000	0:22:45.016000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:44.422000" end="0:22:45.898000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:44.422000" end="0:22:45.898000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:22:44.422000	0:22:45.016000
 so	-	-	-	0:22:44.422000	0:22:45.016000
 /.	-	-	-	0:22:44.422000	0:22:45.016000
 ja	-	-	-	0:22:45.016000	0:22:45.898000
 .	-	-	-	0:22:45.016000	0:22:45.898000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:45.898000" end="0:22:49.203000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:45.898000" end="0:22:49.203000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:22:45.898000	0:22:48.554000
 heißt	-	-	-	0:22:45.898000	0:22:48.554000
 ,	-	-	-	0:22:45.898000	0:22:48.554000
@@ -6103,33 +6103,33 @@ Region	-	-	-	0:22:45.898000	0:22:48.554000
 direkt	-	-	-	0:22:48.554000	0:22:49.203000
 /?	-	-	-	0:22:48.554000	0:22:49.203000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:48.554000" end="0:22:49.203000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:48.554000" end="0:22:49.203000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:48.554000	0:22:49.203000
 .	-	-	-	0:22:48.554000	0:22:49.203000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:49.203000" end="0:22:50.500000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:49.203000" end="0:22:50.500000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:49.203000	0:22:49.679000
 .	-	-	-	0:22:49.203000	0:22:49.679000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:49.679000" end="0:22:51.126000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:49.679000" end="0:22:51.126000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	-	-	-	0:22:50.500000	0:22:51.126000
 das	-	-	-	0:22:50.500000	0:22:51.126000
 /.	-	-	-	0:22:50.500000	0:22:51.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:51.126000" end="0:22:51.771000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:51.126000" end="0:22:51.771000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:51.126000" end="0:22:51.771000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:51.126000" end="0:22:51.771000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:51.771000" end="0:22:53.049000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:51.771000" end="0:22:53.049000" persName="Informant EXP9" age_lower="" age_upper="999">
 zugeordnet	-	-	-	0:22:51.771000	0:22:53.049000
 werden	-	-	-	0:22:51.771000	0:22:53.049000
 ?	-	-	-	0:22:51.771000	0:22:53.049000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:51.771000" end="0:22:55.049000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:51.771000" end="0:22:55.049000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:22:51.771000	0:22:53.049000
 ,	-	-	-	0:22:51.771000	0:22:53.049000
 bis	-	-	-	0:22:51.771000	0:22:53.049000
@@ -6145,15 +6145,15 @@ Schlechtes	-	-	-	0:22:53.049000	0:22:55.049000
 aufgefallen	-	-	-	0:22:53.049000	0:22:55.049000
 .	-	-	-	0:22:53.049000	0:22:55.049000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:55.049000" end="0:23:01.860000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:55.049000" end="0:23:01.860000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:22:55.049000	0:22:55.490000
 .	-	-	-	0:22:55.049000	0:22:55.490000
 <pause duration="6,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:22:55.490000" end="0:23:01.860000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:22:55.490000" end="0:23:01.860000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:01.860000" end="0:23:08.642000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:01.860000" end="0:23:08.642000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:23:01.860000	0:23:07.550000
 haben	-	-	-	0:23:01.860000	0:23:07.550000
 über	-	-	-	0:23:01.860000	0:23:07.550000
@@ -6171,10 +6171,10 @@ gesprochen	-	-	-	0:23:01.860000	0:23:07.550000
 .	-	-	-	0:23:01.860000	0:23:07.550000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:07.550000" end="0:23:08.642000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:07.550000" end="0:23:08.642000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:08.642000" end="0:23:17.696000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:08.642000" end="0:23:17.696000" persName="Informant EXP9" age_lower="" age_upper="999">
 ähm	-	-	-	0:23:08.642000	0:23:15.219000
 würden	-	-	-	0:23:08.642000	0:23:15.219000
 Sie	-	-	-	0:23:08.642000	0:23:15.219000
@@ -6201,7 +6201,7 @@ verändert	-	-	-	0:23:08.642000	0:23:15.219000
 ?	-	-	-	0:23:08.642000	0:23:15.219000
 <pause duration="2,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:15.219000" end="0:23:21.262000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:15.219000" end="0:23:21.262000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 ja	-	-	-	0:23:17.697000	0:23:21.262000
 ,	-	-	-	0:23:17.697000	0:23:21.262000
@@ -6215,18 +6215,18 @@ _bissel_	-	-	-	0:23:17.697000	0:23:21.262000
 aus	-	-	-	0:23:17.697000	0:23:21.262000
 .	-	-	-	0:23:17.697000	0:23:21.262000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:21.262000" end="0:23:22.330000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:21.262000" end="0:23:22.330000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:21.262000	0:23:22.330000
 .	-	-	-	0:23:21.262000	0:23:22.330000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:21.262000" end="0:23:22.330000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:21.262000" end="0:23:22.330000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:23:21.262000	0:23:22.330000
 /.	-	-	-	0:23:21.262000	0:23:22.330000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:22.330000" end="0:23:23.067000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:22.330000" end="0:23:23.067000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:22.330000" end="0:23:35.730000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:22.330000" end="0:23:35.730000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 haben	-	-	-	0:23:23.067000	0:23:35.730000
 wir	-	-	-	0:23:23.067000	0:23:35.730000
@@ -6272,7 +6272,7 @@ mehr	-	-	-	0:23:23.067000	0:23:35.730000
 weitergegeben	-	-	-	0:23:23.067000	0:23:35.730000
 .	-	-	-	0:23:23.067000	0:23:35.730000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:35.730000" end="0:23:44.558000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:35.730000" end="0:23:44.558000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:35.730000	0:23:36.172000
 .	-	-	-	0:23:35.730000	0:23:36.172000
 das	-	-	-	0:23:36.172000	0:23:43.644000
@@ -6299,24 +6299,24 @@ weniger	-	-	-	0:23:36.172000	0:23:43.644000
 gibt	-	-	-	0:23:43.644000	0:23:44.558000
 ,	-	-	-	0:23:43.644000	0:23:44.558000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:43.644000" end="0:23:44.558000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:43.644000" end="0:23:44.558000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:43.644000	0:23:44.558000
 .	-	-	-	0:23:43.644000	0:23:44.558000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:44.558000" end="0:23:45.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:44.558000" end="0:23:45.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:23:44.558000	0:23:45.539000
 meinen	-	-	-	0:23:44.558000	0:23:45.539000
 Sie	-	-	-	0:23:44.558000	0:23:45.539000
 ?	-	-	-	0:23:44.558000	0:23:45.539000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:44.558000" end="0:23:46.832000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:44.558000" end="0:23:46.832000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:23:44.558000	0:23:45.539000
 ähm	-	-	-	0:23:44.558000	0:23:45.539000
 ein	-	-	-	0:23:45.539000	0:23:46.832000
 paar	-	-	-	0:23:45.539000	0:23:46.832000
 Ausdrücke	-	-	-	0:23:45.539000	0:23:46.832000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:46.832000" end="0:23:48.623000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:46.832000" end="0:23:48.623000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:23:46.832000	0:23:48.623000
 ,	-	-	-	0:23:46.832000	0:23:48.623000
 genau	-	-	-	0:23:46.832000	0:23:48.623000
@@ -6326,19 +6326,19 @@ paar	-	-	-	0:23:46.832000	0:23:48.623000
 Ausdrücke	-	-	-	0:23:46.832000	0:23:48.623000
 .	-	-	-	0:23:46.832000	0:23:48.623000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:46.832000" end="0:23:48.623000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:46.832000" end="0:23:48.623000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mindestens	-	-	-	0:23:46.832000	0:23:48.623000
 ,	-	-	-	0:23:46.832000	0:23:48.623000
 mhm	-	-	-	0:23:46.832000	0:23:48.623000
 .	-	-	-	0:23:46.832000	0:23:48.623000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:48.623000" end="0:23:49.367000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:48.623000" end="0:23:49.367000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:48.623000" end="0:23:49.367000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:48.623000" end="0:23:49.367000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:49.367000" end="0:23:53.676000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:49.367000" end="0:23:53.676000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:23:49.367000	0:23:52.716000
 wie	-	-	-	0:23:49.367000	0:23:52.716000
 schaut	-	-	-	0:23:49.367000	0:23:52.716000
@@ -6356,14 +6356,14 @@ aus	-	-	-	0:23:49.367000	0:23:52.716000
 ?	-	-	-	0:23:49.367000	0:23:52.716000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:23:52.716000" end="0:23:54.888000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:23:52.716000" end="0:23:54.888000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ob	-	-	-	0:23:53.676000	0:23:54.888000
 das	-	-	-	0:23:53.676000	0:23:54.888000
 ausstirbt	-	-	-	0:23:53.676000	0:23:54.888000
 ?	-	-	-	0:23:53.676000	0:23:54.888000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:54.888000" end="0:24:00.751000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:54.888000" end="0:24:00.751000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:23:54.888000	0:24:00.162000
 ,	-	-	-	0:23:54.888000	0:24:00.162000
 ob	-	-	-	0:23:54.888000	0:24:00.162000
@@ -6386,7 +6386,7 @@ Deutsch	-	-	-	0:23:54.888000	0:24:00.162000
 .	-	-	-	0:23:54.888000	0:24:00.162000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:00.162000" end="0:24:04.560000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:00.162000" end="0:24:04.560000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	-	-	-	0:24:00.751000	0:24:02.151000
 ,	-	-	-	0:24:00.751000	0:24:02.151000
@@ -6407,21 +6407,21 @@ der	-	-	-	0:24:02.151000	0:24:04.560000
 Schule	-	-	-	0:24:02.151000	0:24:04.560000
 ?	-	-	-	0:24:02.151000	0:24:04.560000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:04.560000" end="0:24:05.486000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:04.560000" end="0:24:05.486000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:04.560000	0:24:05.486000
 .	-	-	-	0:24:04.560000	0:24:05.486000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:04.560000" end="0:24:05.486000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:04.560000" end="0:24:05.486000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:24:04.560000	0:24:05.486000
 so	-	-	-	0:24:04.560000	0:24:05.486000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:05.486000" end="0:24:09.904000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:05.486000" end="0:24:09.904000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:24:05.486000	0:24:06.181000
 .	-	-	-	0:24:05.486000	0:24:06.181000
 mhm	-	-	-	0:24:06.181000	0:24:09.904000
 .	-	-	-	0:24:06.181000	0:24:09.904000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:06.181000" end="0:24:09.904000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:06.181000" end="0:24:09.904000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	0:24:06.181000	0:24:09.904000
 bei	-	-	-	0:24:06.181000	0:24:09.904000
 uns	-	-	-	0:24:06.181000	0:24:09.904000
@@ -6438,11 +6438,11 @@ Mundart	-	-	-	0:24:06.181000	0:24:09.904000
 _geschatzt_	-	-	-	0:24:06.181000	0:24:09.904000
 .	-	-	-	0:24:06.181000	0:24:09.904000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:09.904000" end="0:24:10.151000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:09.904000" end="0:24:10.151000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:09.904000	0:24:10.151000
 .	-	-	-	0:24:09.904000	0:24:10.151000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:09.904000" end="0:24:11.795000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:09.904000" end="0:24:11.795000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:24:09.904000	0:24:10.151000
 der	-	-	-	0:24:10.151000	0:24:11.795000
 Hauptschule	-	-	-	0:24:10.151000	0:24:11.795000
@@ -6454,10 +6454,10 @@ Volksschule	-	-	-	0:24:10.151000	0:24:11.795000
 sowieso	-	-	-	0:24:10.151000	0:24:11.795000
 .	-	-	-	0:24:10.151000	0:24:11.795000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:11.795000" end="0:24:12.711000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:11.795000" end="0:24:12.711000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:11.795000" end="0:24:19.988000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:11.795000" end="0:24:19.988000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	-	-	-	0:24:12.711000	0:24:19.988000
 in	-	-	-	0:24:12.711000	0:24:19.988000
@@ -6478,11 +6478,11 @@ dass	-	-	-	0:24:12.711000	0:24:19.988000
 also	-	-	-	0:24:12.711000	0:24:19.988000
 Hochdeutsch	-	-	-	0:24:12.711000	0:24:19.988000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:19.988000" end="0:24:21.004000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:19.988000" end="0:24:21.004000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:19.988000	0:24:21.004000
 .	-	-	-	0:24:19.988000	0:24:21.004000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:19.988000" end="0:24:21.004000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:19.988000" end="0:24:21.004000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 gesprochen	-	-	-	0:24:19.988000	0:24:21.004000
 worden	-	-	-	0:24:19.988000	0:24:21.004000
 ist	-	-	-	0:24:19.988000	0:24:21.004000
@@ -6490,13 +6490,13 @@ ist	-	-	-	0:24:19.988000	0:24:21.004000
 ge	-	-	-	0:24:19.988000	0:24:21.004000
 ?	-	-	-	0:24:19.988000	0:24:21.004000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:21.004000" end="0:24:25.548000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:21.004000" end="0:24:25.548000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:21.004000" end="0:24:25.548000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:21.004000" end="0:24:25.548000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:25.549000" end="0:24:34.762000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:25.549000" end="0:24:34.762000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:24:25.549000	0:24:29.493000
 wie	-	-	-	0:24:25.549000	0:24:29.493000
 sehen	-	-	-	0:24:25.549000	0:24:29.493000
@@ -6511,10 +6511,10 @@ Deutsch	-	-	-	0:24:25.549000	0:24:29.493000
 ?	-	-	-	0:24:25.549000	0:24:29.493000
 <pause duration="5,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:29.492000" end="0:24:34.762000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:29.492000" end="0:24:34.762000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:34.762000" end="0:24:37.297000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:34.762000" end="0:24:37.297000" persName="Informant EXP9" age_lower="" age_upper="999">
 vielleicht	-	-	-	0:24:34.762000	0:24:36.641000
 auch	-	-	-	0:24:34.762000	0:24:36.641000
 da	-	-	-	0:24:34.762000	0:24:36.641000
@@ -6524,7 +6524,7 @@ Hüttschlag	-	-	-	0:24:34.762000	0:24:36.641000
 ?	-	-	-	0:24:34.762000	0:24:36.641000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:36.641000" end="0:24:42.097000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:36.641000" end="0:24:42.097000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:24:37.297000	0:24:42.097000
 ,	-	-	-	0:24:37.297000	0:24:42.097000
@@ -6545,15 +6545,15 @@ werden	-	-	-	0:24:37.297000	0:24:42.097000
 *mitm*	-	-	-	0:24:37.297000	0:24:42.097000
 Deutsch	-	-	-	0:24:37.297000	0:24:42.097000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:42.097000" end="0:24:42.537000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:42.097000" end="0:24:42.537000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:42.097000	0:24:42.537000
 .	-	-	-	0:24:42.097000	0:24:42.537000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:42.097000" end="0:24:42.537000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:42.097000" end="0:24:42.537000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 _schatzen_	-	-	-	0:24:42.097000	0:24:42.537000
 .	-	-	-	0:24:42.097000	0:24:42.537000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:42.537000" end="0:24:46.258000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:42.537000" end="0:24:46.258000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 das	-	-	-	0:24:42.537000	0:24:45.472000
 heißt	-	-	-	0:24:42.537000	0:24:45.472000
@@ -6572,15 +6572,15 @@ könnte	-	-	-	0:24:45.472000	0:24:46.258000
 auch	-	-	-	0:24:45.472000	0:24:46.258000
 ?	-	-	-	0:24:45.472000	0:24:46.258000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:45.472000" end="0:24:46.258000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:45.472000" end="0:24:46.258000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:45.472000	0:24:46.258000
 .	-	-	-	0:24:45.472000	0:24:46.258000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:46.258000" end="0:24:46.855000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:46.258000" end="0:24:46.855000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:46.258000	0:24:46.855000
 .	-	-	-	0:24:46.258000	0:24:46.855000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:46.855000" end="0:24:49.648000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:46.855000" end="0:24:49.648000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:24:46.855000	0:24:49.648000
 durch	-	-	-	0:24:46.855000	0:24:49.648000
 den	-	-	-	0:24:46.855000	0:24:49.648000
@@ -6596,11 +6596,11 @@ im	-	-	-	0:24:46.855000	0:24:49.648000
 Winter	-	-	-	0:24:46.855000	0:24:49.648000
 .	-	-	-	0:24:46.855000	0:24:49.648000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:49.648000" end="0:24:50.244000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:49.648000" end="0:24:50.244000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:49.648000	0:24:50.244000
 .	-	-	-	0:24:49.648000	0:24:50.244000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:50.244000" end="0:24:52.272000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:50.244000" end="0:24:52.272000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:24:50.244000	0:24:52.272000
 da	-	-	-	0:24:50.244000	0:24:52.272000
 ist	-	-	-	0:24:50.244000	0:24:52.272000
@@ -6610,12 +6610,12 @@ darauf	-	-	-	0:24:50.244000	0:24:52.272000
 angewiesen	-	-	-	0:24:50.244000	0:24:52.272000
 ,	-	-	-	0:24:50.244000	0:24:52.272000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:52.272000" end="0:24:53.148000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:52.272000" end="0:24:53.148000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:24:52.272000	0:24:53.148000
 .	-	-	-	0:24:52.272000	0:24:53.148000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:52.272000" end="0:24:53.706000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:52.272000" end="0:24:53.706000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 dass	-	-	-	0:24:52.272000	0:24:53.148000
 er	-	-	-	0:24:52.272000	0:24:53.148000
@@ -6623,15 +6623,15 @@ Deutsch	-	-	-	0:24:53.148000	0:24:53.706000
 kann	-	-	-	0:24:53.148000	0:24:53.706000
 .	-	-	-	0:24:53.148000	0:24:53.706000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:53.706000" end="0:24:59.230000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:53.706000" end="0:24:59.230000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:24:53.706000	0:24:54.793000
 .	-	-	-	0:24:53.706000	0:24:54.793000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:24:54.793000" end="0:24:59.230000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:24:54.793000" end="0:24:59.230000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:59.230000" end="0:25:17.882000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:59.230000" end="0:25:17.882000" persName="Informant EXP9" age_lower="" age_upper="999">
 bitte	-	-	-	0:24:59.230000	0:25:08.721000
 überlegen	-	-	-	0:24:59.230000	0:25:08.721000
 Sie	-	-	-	0:24:59.230000	0:25:08.721000
@@ -6684,7 +6684,7 @@ andere	-	-	-	0:25:08.721000	0:25:17.882000
 Sprachformen	-	-	-	0:25:08.721000	0:25:17.882000
 ?	-	-	-	0:25:08.721000	0:25:17.882000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:17.882000" end="0:25:21.826000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:17.882000" end="0:25:21.826000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:25:17.882000	0:25:21.826000
 ,	-	-	-	0:25:17.882000	0:25:21.826000
@@ -6698,11 +6698,11 @@ zugeheiratet	-	-	-	0:25:17.882000	0:25:21.826000
 ist	-	-	-	0:25:17.882000	0:25:21.826000
 ,	-	-	-	0:25:17.882000	0:25:21.826000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:21.826000" end="0:25:22.495000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:21.826000" end="0:25:22.495000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:21.826000	0:25:22.495000
 .	-	-	-	0:25:21.826000	0:25:22.495000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:22.495000" end="0:25:24.495000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:22.495000" end="0:25:24.495000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:25:22.495000	0:25:24.495000
 ,	-	-	-	0:25:22.495000	0:25:24.495000
 weiß	-	-	-	0:25:22.495000	0:25:24.495000
@@ -6715,11 +6715,11 @@ aus	-	-	-	0:25:22.495000	0:25:24.495000
 Kärnten	-	-	-	0:25:22.495000	0:25:24.495000
 ,	-	-	-	0:25:22.495000	0:25:24.495000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:24.495000" end="0:25:25.434000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:24.495000" end="0:25:25.434000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:24.495000	0:25:25.434000
 .	-	-	-	0:25:24.495000	0:25:25.434000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:25.434000" end="0:25:27.869000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:25.434000" end="0:25:27.869000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:25:25.434000	0:25:27.869000
 kommt	-	-	-	0:25:25.434000	0:25:27.869000
 da	-	-	-	0:25:25.434000	0:25:27.869000
@@ -6731,7 +6731,7 @@ Dialekt	-	-	-	0:25:25.434000	0:25:27.869000
 raus	-	-	-	0:25:25.434000	0:25:27.869000
 .	-	-	-	0:25:25.434000	0:25:27.869000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:27.869000" end="0:25:30.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:27.869000" end="0:25:30.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:25:27.869000	0:25:29.595000
 ,	-	-	-	0:25:27.869000	0:25:29.595000
 s/	-	-	-	0:25:27.869000	0:25:29.595000
@@ -6743,17 +6743,17 @@ oder	-	-	-	0:25:29.595000	0:25:30.534000
 was	-	-	-	0:25:29.595000	0:25:30.534000
 ?	-	-	-	0:25:29.595000	0:25:30.534000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:29.595000" end="0:25:30.534000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:29.595000" end="0:25:30.534000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:29.595000	0:25:30.534000
 ,	-	-	-	0:25:29.595000	0:25:30.534000
 of/	-	-	-	0:25:29.595000	0:25:30.534000
 /.	-	-	-	0:25:29.595000	0:25:30.534000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:30.534000" end="0:25:30.991000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:30.534000" end="0:25:30.991000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:30.534000	0:25:30.991000
 .	-	-	-	0:25:30.534000	0:25:30.991000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:30.534000" end="0:25:44.900000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:30.534000" end="0:25:44.900000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:25:30.534000	0:25:30.991000
 ist	-	-	-	0:25:30.534000	0:25:30.991000
 auch	-	-	-	0:25:30.991000	0:25:44.900000
@@ -6800,11 +6800,11 @@ auf	-	-	-	0:25:30.991000	0:25:44.900000
 Hochdeutsch	-	-	-	0:25:30.991000	0:25:44.900000
 .	-	-	-	0:25:30.991000	0:25:44.900000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:44.900000" end="0:25:45.678000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:44.900000" end="0:25:45.678000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:44.900000	0:25:45.678000
 .	-	-	-	0:25:44.900000	0:25:45.678000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:45.678000" end="0:25:48.126000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:45.678000" end="0:25:48.126000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:25:45.678000	0:25:48.126000
 das	-	-	-	0:25:45.678000	0:25:48.126000
 ist	-	-	-	0:25:45.678000	0:25:48.126000
@@ -6814,7 +6814,7 @@ ein	-	-	-	0:25:45.678000	0:25:48.126000
 Mischmasch	-	-	-	0:25:45.678000	0:25:48.126000
 .	-	-	-	0:25:45.678000	0:25:48.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:48.126000" end="0:25:53.613000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:48.126000" end="0:25:53.613000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:25:48.126000	0:25:51.434000
 ,	-	-	-	0:25:48.126000	0:25:51.434000
 also	-	-	-	0:25:48.126000	0:25:51.434000
@@ -6836,20 +6836,20 @@ mhm	-	-	-	0:25:51.434000	0:25:53.613000
 ja	-	-	-	0:25:51.434000	0:25:53.613000
 .	-	-	-	0:25:51.434000	0:25:53.613000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:51.434000" end="0:25:53.613000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:51.434000" end="0:25:53.613000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:51.434000	0:25:53.613000
 ,	-	-	-	0:25:51.434000	0:25:53.613000
 so	-	-	-	0:25:51.434000	0:25:53.613000
 ungefähr	-	-	-	0:25:51.434000	0:25:53.613000
 .	-	-	-	0:25:51.434000	0:25:53.613000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:53.613000" end="0:26:01.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:53.613000" end="0:26:01.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="8,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:25:53.613000" end="0:26:01.995000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:25:53.613000" end="0:26:01.995000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="8,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:01.996000" end="0:26:08.662000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:01.996000" end="0:26:08.662000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:26:01.996000	0:26:04.550000
 ,	-	-	-	0:26:01.996000	0:26:04.550000
 <pause duration="0,7s"/>
@@ -6859,10 +6859,10 @@ bitte	-	-	-	0:26:01.996000	0:26:04.550000
 .	-	-	-	0:26:01.996000	0:26:04.550000
 <pause duration="4,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:04.550000" end="0:26:08.662000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:04.550000" end="0:26:08.662000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:08.662000" end="0:26:13.632000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:08.662000" end="0:26:13.632000" persName="Informant EXP9" age_lower="" age_upper="999">
 es	-	-	-	0:26:08.662000	0:26:11.907000
 geht	-	-	-	0:26:08.662000	0:26:11.907000
 wieder	-	-	-	0:26:08.662000	0:26:11.907000
@@ -6874,15 +6874,15 @@ den	-	-	-	0:26:08.662000	0:26:11.907000
 Mischmasch	-	-	-	0:26:08.662000	0:26:11.907000
 .	-	-	-	0:26:08.662000	0:26:11.907000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:11.907000" end="0:26:13.632000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:11.907000" end="0:26:13.632000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:13.633000" end="0:26:26.642000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:13.633000" end="0:26:26.642000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="12,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:13.633000" end="0:26:26.642000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:13.633000" end="0:26:26.642000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="12,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:26.643000" end="0:26:31.269000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:26.643000" end="0:26:31.269000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:26:26.643000	0:26:31.269000
 ,	-	-	-	0:26:26.643000	0:26:31.269000
 ich	-	-	-	0:26:26.643000	0:26:31.269000
@@ -6896,12 +6896,12 @@ Deutsch	-	-	-	0:26:26.643000	0:26:31.269000
 raufgeschrieben	-	-	-	0:26:26.643000	0:26:31.269000
 .	-	-	-	0:26:26.643000	0:26:31.269000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:31.269000" end="0:26:32.591000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:31.269000" end="0:26:32.591000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:31.269000	0:26:32.591000
 .	-	-	-	0:26:31.269000	0:26:32.591000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:32.591000" end="0:26:41.065000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:32.591000" end="0:26:41.065000" persName="Informant EXP9" age_lower="" age_upper="999">
 weil	-	-	-	0:26:32.591000	0:26:39.782000
 wir	-	-	-	0:26:32.591000	0:26:39.782000
 ja	-	-	-	0:26:32.591000	0:26:39.782000
@@ -6928,14 +6928,14 @@ quasi	-	-	-	0:26:39.782000	0:26:41.065000
 genau	-	-	-	0:26:39.782000	0:26:41.065000
 .	-	-	-	0:26:39.782000	0:26:41.065000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:39.782000" end="0:26:41.065000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:39.782000" end="0:26:41.065000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:39.782000	0:26:41.065000
 ,	-	-	-	0:26:39.782000	0:26:41.065000
 so	-	-	-	0:26:39.782000	0:26:41.065000
 ungefähr	-	-	-	0:26:39.782000	0:26:41.065000
 .	-	-	-	0:26:39.782000	0:26:41.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:41.065000" end="0:26:52.473000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:41.065000" end="0:26:52.473000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:26:41.065000	0:26:52.473000
 an	-	-	-	0:26:41.065000	0:26:52.473000
 die	-	-	-	0:26:41.065000	0:26:52.473000
@@ -6982,7 +6982,7 @@ auf	-	-	-	0:26:41.065000	0:26:52.473000
 diesem	-	-	-	0:26:41.065000	0:26:52.473000
 /.	-	-	-	0:26:41.065000	0:26:52.473000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:52.473000" end="0:26:54.900000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:52.473000" end="0:26:54.900000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:52.473000	0:26:54.900000
 ,	-	-	-	0:26:52.473000	0:26:54.900000
 je	-	-	-	0:26:52.473000	0:26:54.900000
@@ -6998,7 +6998,7 @@ da	-	-	-	0:26:52.473000	0:26:54.900000
 sind	-	-	-	0:26:52.473000	0:26:54.900000
 .	-	-	-	0:26:52.473000	0:26:54.900000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:54.900000" end="0:26:57.569000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:54.900000" end="0:26:57.569000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:54.900000	0:26:57.569000
 ,	-	-	-	0:26:54.900000	0:26:57.569000
 das	-	-	-	0:26:54.900000	0:26:57.569000
@@ -7011,17 +7011,17 @@ ganz	-	-	-	0:26:54.900000	0:26:57.569000
 viel	-	-	-	0:26:54.900000	0:26:57.569000
 verschiedene	-	-	-	0:26:54.900000	0:26:57.569000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:57.569000" end="0:26:58.134000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:57.569000" end="0:26:58.134000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:57.569000	0:26:58.134000
 .	-	-	-	0:26:57.569000	0:26:58.134000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:58.134000" end="0:26:59.526000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:58.134000" end="0:26:59.526000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:26:58.134000" end="0:26:59.526000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:26:58.134000" end="0:26:59.526000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:59.526000" end="0:27:01.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:59.526000" end="0:27:01.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 Grade	-	-	-	0:26:59.526000	0:27:00.143000
 von	-	-	-	0:27:00.143000	0:27:01.973000
 dem	-	-	-	0:27:00.143000	0:27:01.973000
@@ -7030,7 +7030,7 @@ Mischmasch	-	-	-	0:27:00.143000	0:27:01.973000
 okay	-	-	-	0:27:00.143000	0:27:01.973000
 .	-	-	-	0:27:00.143000	0:27:01.973000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:00.143000" end="0:27:01.973000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:00.143000" end="0:27:01.973000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:00.143000	0:27:01.973000
 ,	-	-	-	0:27:00.143000	0:27:01.973000
 so/	-	-	-	0:27:00.143000	0:27:01.973000
@@ -7040,7 +7040,7 @@ so	-	-	-	0:27:00.143000	0:27:01.973000
 ungefähr	-	-	-	0:27:00.143000	0:27:01.973000
 .	-	-	-	0:27:00.143000	0:27:01.973000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:01.973000" end="0:27:04.565000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:01.973000" end="0:27:04.565000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:27:01.973000	0:27:04.565000
 heißt	-	-	-	0:27:01.973000	0:27:04.565000
 ,	-	-	-	0:27:01.973000	0:27:04.565000
@@ -7053,7 +7053,7 @@ jetzt	-	-	-	0:27:01.973000	0:27:04.565000
 mhm	-	-	-	0:27:01.973000	0:27:04.565000
 .	-	-	-	0:27:01.973000	0:27:04.565000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:01.973000" end="0:27:04.565000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:01.973000" end="0:27:04.565000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:27:01.973000	0:27:04.565000
 nachher	-	-	-	0:27:01.973000	0:27:04.565000
 nehmen	-	-	-	0:27:01.973000	0:27:04.565000
@@ -7065,13 +7065,13 @@ Mitte	-	-	-	0:27:01.973000	0:27:04.565000
 ja	-	-	-	0:27:01.973000	0:27:04.565000
 .	-	-	-	0:27:01.973000	0:27:04.565000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:04.565000" end="0:27:05.430000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:04.565000" end="0:27:05.430000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:04.565000" end="0:27:05.430000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:04.565000" end="0:27:05.430000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:05.430000" end="0:27:12.526000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:05.430000" end="0:27:12.526000" persName="Informant EXP9" age_lower="" age_upper="999">
 passt	-	-	-	0:27:05.430000	0:27:06.643000
 ,	-	-	-	0:27:05.430000	0:27:06.643000
 sehr	-	-	-	0:27:05.430000	0:27:06.643000
@@ -7079,10 +7079,10 @@ gut	-	-	-	0:27:05.430000	0:27:06.643000
 .	-	-	-	0:27:05.430000	0:27:06.643000
 <pause duration="5,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:06.643000" end="0:27:12.526000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:06.643000" end="0:27:12.526000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:12.526000" end="0:27:18.108000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:12.526000" end="0:27:18.108000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:27:12.526000	0:27:17.052000
 Sie	-	-	-	0:27:12.526000	0:27:17.052000
 selbst	-	-	-	0:27:12.526000	0:27:17.052000
@@ -7103,22 +7103,22 @@ die	-	-	-	0:27:17.052000	0:27:18.108000
 nie	-	-	-	0:27:17.052000	0:27:18.108000
 ?	-	-	-	0:27:17.052000	0:27:18.108000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:17.052000" end="0:27:19.117000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:17.052000" end="0:27:19.117000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:17.052000	0:27:18.108000
 ,	-	-	-	0:27:17.052000	0:27:18.108000
 eigentlich	-	-	-	0:27:17.052000	0:27:18.108000
 nicht	-	-	-	0:27:18.108000	0:27:19.117000
 .	-	-	-	0:27:18.108000	0:27:19.117000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:19.117000" end="0:27:23.991000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:19.117000" end="0:27:23.991000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:19.117000	0:27:19.478000
 .	-	-	-	0:27:19.117000	0:27:19.478000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:19.478000" end="0:27:23.991000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:19.478000" end="0:27:23.991000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:23.991000" end="0:27:31.847000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:23.991000" end="0:27:31.847000" persName="Informant EXP9" age_lower="" age_upper="999">
 fällt	-	-	-	0:27:23.991000	0:27:29.004000
 es	-	-	-	0:27:23.991000	0:27:29.004000
 Ihnen	-	-	-	0:27:23.991000	0:27:29.004000
@@ -7140,7 +7140,7 @@ wechseln	-	-	-	0:27:23.991000	0:27:29.004000
 ?	-	-	-	0:27:23.991000	0:27:29.004000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:29.004000" end="0:27:33.382000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:29.004000" end="0:27:33.382000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 nein	-	-	-	0:27:31.847000	0:27:33.382000
 ,	-	-	-	0:27:31.847000	0:27:33.382000
@@ -7149,7 +7149,7 @@ eigentlich	-	-	-	0:27:31.847000	0:27:33.382000
 leicht	-	-	-	0:27:31.847000	0:27:33.382000
 .	-	-	-	0:27:31.847000	0:27:33.382000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:33.382000" end="0:27:37.460000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:33.382000" end="0:27:37.460000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:33.382000	0:27:34.060000
 .	-	-	-	0:27:33.382000	0:27:34.060000
 geht	-	-	-	0:27:34.060000	0:27:37.460000
@@ -7169,13 +7169,13 @@ ein	-	-	-	0:27:34.060000	0:27:37.460000
 Gast"	-	-	-	0:27:34.060000	0:27:37.460000
 ?	-	-	-	0:27:34.060000	0:27:37.460000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:37.460000" end="0:27:38.139000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:37.460000" end="0:27:38.139000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:37.460000" end="0:27:38.139000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:37.460000" end="0:27:38.139000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:38.139000" end="0:27:40.691000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:38.139000" end="0:27:40.691000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:38.139000	0:27:40.691000
 ,	-	-	-	0:27:38.139000	0:27:40.691000
 die	-	-	-	0:27:38.139000	0:27:40.691000
@@ -7186,21 +7186,21 @@ es	-	-	-	0:27:38.139000	0:27:40.691000
 geht	-	-	-	0:27:38.139000	0:27:40.691000
 alles	-	-	-	0:27:38.139000	0:27:40.691000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:40.691000" end="0:27:41.569000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:40.691000" end="0:27:41.569000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:40.691000	0:27:41.569000
 .	-	-	-	0:27:40.691000	0:27:41.569000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:40.691000" end="0:27:41.569000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:40.691000" end="0:27:41.569000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 automatisch	-	-	-	0:27:40.691000	0:27:41.569000
 .	-	-	-	0:27:40.691000	0:27:41.569000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:41.569000" end="0:27:44.408000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:41.569000" end="0:27:44.408000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:41.569000" end="0:27:44.408000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:41.569000" end="0:27:44.408000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:44.408000" end="0:27:48.117000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:44.408000" end="0:27:48.117000" persName="Informant EXP9" age_lower="" age_upper="999">
 sprechen	-	-	-	0:27:44.408000	0:27:48.117000
 Sie	-	-	-	0:27:44.408000	0:27:48.117000
 eine	-	-	-	0:27:44.408000	0:27:48.117000
@@ -7215,7 +7215,7 @@ die	-	-	-	0:27:44.408000	0:27:48.117000
 andere	-	-	-	0:27:44.408000	0:27:48.117000
 ?	-	-	-	0:27:44.408000	0:27:48.117000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:48.117000" end="0:27:49.660000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:48.117000" end="0:27:49.660000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:48.117000	0:27:49.660000
 ,	-	-	-	0:27:48.117000	0:27:49.660000
 auf	-	-	-	0:27:48.117000	0:27:49.660000
@@ -7224,32 +7224,32 @@ Fall	-	-	-	0:27:48.117000	0:27:49.660000
 Mundart	-	-	-	0:27:48.117000	0:27:49.660000
 .	-	-	-	0:27:48.117000	0:27:49.660000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:48.117000" end="0:27:50.882000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:48.117000" end="0:27:50.882000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:48.117000	0:27:49.660000
 .	-	-	-	0:27:48.117000	0:27:49.660000
 mhm	-	-	-	0:27:49.660000	0:27:50.882000
 .	-	-	-	0:27:49.660000	0:27:50.882000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:50.882000" end="0:27:53.100000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:50.882000" end="0:27:53.100000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:50.882000" end="0:27:54.300000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:50.882000" end="0:27:54.300000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 warum	-	-	-	0:27:53.100000	0:27:54.300000
 bevorzugen	-	-	-	0:27:53.100000	0:27:54.300000
 Sie	-	-	-	0:27:53.100000	0:27:54.300000
 die	-	-	-	0:27:53.100000	0:27:54.300000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:54.300000" end="0:27:54.869000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:54.300000" end="0:27:54.869000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:54.300000	0:27:54.869000
 ,	-	-	-	0:27:54.300000	0:27:54.869000
 weil	-	-	-	0:27:54.300000	0:27:54.869000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:54.300000" end="0:27:54.869000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:54.300000" end="0:27:54.869000" persName="Informant EXP9" age_lower="" age_upper="999">
 Mundart	-	-	-	0:27:54.300000	0:27:54.869000
 ?	-	-	-	0:27:54.300000	0:27:54.869000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:54.869000" end="0:27:56.178000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:54.869000" end="0:27:56.178000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:27:54.869000	0:27:56.178000
 es	-	-	-	0:27:54.869000	0:27:56.178000
 viel	-	-	-	0:27:54.869000	0:27:56.178000
@@ -7260,14 +7260,14 @@ Lippen	-	-	-	0:27:54.869000	0:27:56.178000
 geht	-	-	-	0:27:54.869000	0:27:56.178000
 .	-	-	-	0:27:54.869000	0:27:56.178000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:56.178000" end="0:27:57.565000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:56.178000" end="0:27:57.565000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:56.178000	0:27:57.565000
 .	-	-	-	0:27:56.178000	0:27:57.565000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:27:57.565000" end="0:28:00.252000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:27:57.565000" end="0:28:00.252000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:57.565000" end="0:28:04.043000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:57.565000" end="0:28:04.043000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 mit	-	-	-	0:28:00.252000	0:28:04.043000
 welchen	-	-	-	0:28:00.252000	0:28:04.043000
@@ -7281,32 +7281,32 @@ denn	-	-	-	0:28:00.252000	0:28:04.043000
 wie	-	-	-	0:28:00.252000	0:28:04.043000
 ?	-	-	-	0:28:00.252000	0:28:04.043000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:04.043000" end="0:28:05.108000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:04.043000" end="0:28:05.108000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:04.043000" end="0:28:05.108000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:04.043000" end="0:28:05.108000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:05.108000" end="0:28:06.208000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:05.108000" end="0:28:06.208000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:28:05.108000	0:28:06.208000
 allen	-	-	-	0:28:05.108000	0:28:06.208000
 gleich	-	-	-	0:28:05.108000	0:28:06.208000
 .	-	-	-	0:28:05.108000	0:28:06.208000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:06.208000" end="0:28:07.386000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:06.208000" end="0:28:07.386000" persName="Informant EXP9" age_lower="" age_upper="999">
 auch	-	-	-	0:28:06.208000	0:28:07.386000
 mit	-	-	-	0:28:06.208000	0:28:07.386000
 Oma	-	-	-	0:28:06.208000	0:28:07.386000
 und	-	-	-	0:28:06.208000	0:28:07.386000
 Opa	-	-	-	0:28:06.208000	0:28:07.386000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:07.386000" end="0:28:08.765000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:07.386000" end="0:28:08.765000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:07.386000	0:28:08.765000
 ,	-	-	-	0:28:07.386000	0:28:08.765000
 mhm	-	-	-	0:28:07.386000	0:28:08.765000
 .	-	-	-	0:28:07.386000	0:28:08.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:07.386000" end="0:28:10.591000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:07.386000" end="0:28:10.591000" persName="Informant EXP9" age_lower="" age_upper="999">
 gleich	-	-	-	0:28:07.386000	0:28:08.765000
 wie	-	-	-	0:28:07.386000	0:28:08.765000
 m/	-	-	-	0:28:07.386000	0:28:08.765000
@@ -7320,28 +7320,28 @@ Ihrem	-	-	-	0:28:08.765000	0:28:10.591000
 Freund	-	-	-	0:28:08.765000	0:28:10.591000
 ?	-	-	-	0:28:08.765000	0:28:10.591000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:10.591000" end="0:28:11.808000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:10.591000" end="0:28:11.808000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:10.591000	0:28:11.808000
 ,	-	-	-	0:28:10.591000	0:28:11.808000
 auch	-	-	-	0:28:10.591000	0:28:11.808000
 gleich	-	-	-	0:28:10.591000	0:28:11.808000
 .	-	-	-	0:28:10.591000	0:28:11.808000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:11.808000" end="0:28:12.295000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:11.808000" end="0:28:12.295000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:11.808000	0:28:12.295000
 .	-	-	-	0:28:11.808000	0:28:12.295000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:12.295000" end="0:28:14.665000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:12.295000" end="0:28:14.665000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:28:12.295000	0:28:13.065000
 es	-	-	-	0:28:12.295000	0:28:13.065000
 gibt	-	-	-	0:28:12.295000	0:28:13.065000
 /.	-	-	-	0:28:12.295000	0:28:13.065000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:13.065000" end="0:28:14.665000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:13.065000" end="0:28:14.665000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:14.665000" end="0:28:17.052000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:14.665000" end="0:28:17.052000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:28:14.665000	0:28:17.052000
 gibt	-	-	-	0:28:14.665000	0:28:17.052000
 wieder	-	-	-	0:28:14.665000	0:28:17.052000
@@ -7355,11 +7355,11 @@ nicht	-	-	-	0:28:14.665000	0:28:17.052000
 versteht	-	-	-	0:28:14.665000	0:28:17.052000
 ,	-	-	-	0:28:14.665000	0:28:17.052000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:17.052000" end="0:28:17.465000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:17.052000" end="0:28:17.465000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:17.052000	0:28:17.465000
 .	-	-	-	0:28:17.052000	0:28:17.465000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:17.465000" end="0:28:19.721000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:17.465000" end="0:28:19.721000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 obwohl	-	-	-	0:28:17.465000	0:28:19.721000
 dass	-	-	-	0:28:17.465000	0:28:19.721000
 nur	-	-	-	0:28:17.465000	0:28:19.721000
@@ -7369,23 +7369,23 @@ ist	-	-	-	0:28:17.465000	0:28:19.721000
 ja	-	-	-	0:28:17.465000	0:28:19.721000
 genau	-	-	-	0:28:17.465000	0:28:19.721000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:19.721000" end="0:28:19.926000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:19.721000" end="0:28:19.926000" persName="Informant EXP9" age_lower="" age_upper="999">
 da	-	-	-	0:28:19.721000	0:28:19.926000
 .	-	-	-	0:28:19.721000	0:28:19.926000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:19.926000" end="0:28:21.056000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:19.926000" end="0:28:21.056000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:28:19.926000	0:28:21.056000
 Nachbartal	-	-	-	0:28:19.926000	0:28:21.056000
 ,	-	-	-	0:28:19.926000	0:28:21.056000
 mhm	-	-	-	0:28:19.926000	0:28:21.056000
 .	-	-	-	0:28:19.926000	0:28:21.056000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:21.056000" end="0:28:22.234000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:21.056000" end="0:28:22.234000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:21.056000	0:28:21.491000
 .	-	-	-	0:28:21.056000	0:28:21.491000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:21.491000" end="0:28:25.152000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:21.491000" end="0:28:25.152000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	-	-	-	0:28:22.234000	0:28:25.152000
 nachher	-	-	-	0:28:22.234000	0:28:25.152000
@@ -7403,11 +7403,11 @@ sich	-	-	-	0:28:22.234000	0:28:25.152000
 nicht	-	-	-	0:28:22.234000	0:28:25.152000
 auskennt	-	-	-	0:28:22.234000	0:28:25.152000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:25.152000" end="0:28:25.673000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:25.152000" end="0:28:25.673000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:25.152000	0:28:25.673000
 .	-	-	-	0:28:25.152000	0:28:25.673000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:25.152000" end="0:28:28.217000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:25.152000" end="0:28:28.217000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 hat	-	-	-	0:28:25.152000	0:28:25.673000
 ,	-	-	-	0:28:25.152000	0:28:25.673000
 nachher	-	-	-	0:28:25.152000	0:28:25.673000
@@ -7429,40 +7429,40 @@ so	-	-	-	0:28:25.673000	0:28:28.217000
 cool"	-	-	-	0:28:25.673000	0:28:28.217000
 .	-	-	-	0:28:25.673000	0:28:28.217000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:28.217000" end="0:28:29.713000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:28.217000" end="0:28:29.713000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:28.217000" end="0:28:29.713000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:28.217000" end="0:28:29.713000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:29.713000" end="0:28:31.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:29.713000" end="0:28:31.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:28:29.713000	0:28:30.947000
 prinzipiell	-	-	-	0:28:29.713000	0:28:30.947000
 trotzdem	-	-	-	0:28:30.947000	0:28:31.878000
 /?	-	-	-	0:28:30.947000	0:28:31.878000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:30.947000" end="0:28:31.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:30.947000" end="0:28:31.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:30.947000	0:28:31.878000
 ,	-	-	-	0:28:30.947000	0:28:31.878000
 mache	-	-	-	0:28:30.947000	0:28:31.878000
 ich	-	-	-	0:28:30.947000	0:28:31.878000
 da	-	-	-	0:28:30.947000	0:28:31.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:31.878000" end="0:28:32.947000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:31.878000" end="0:28:32.947000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:31.878000	0:28:32.947000
 .	-	-	-	0:28:31.878000	0:28:32.947000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:31.878000" end="0:28:32.947000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:31.878000" end="0:28:32.947000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 überhaupt	-	-	-	0:28:31.878000	0:28:32.947000
 keinen	-	-	-	0:28:31.878000	0:28:32.947000
 Unterschied	-	-	-	0:28:31.878000	0:28:32.947000
 .	-	-	-	0:28:31.878000	0:28:32.947000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:32.947000" end="0:28:35.613000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:32.947000" end="0:28:35.613000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:32.947000" end="0:28:35.613000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:32.947000" end="0:28:35.613000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:35.613000" end="0:28:41.517000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:35.613000" end="0:28:41.517000" persName="Informant EXP9" age_lower="" age_upper="999">
 denken	-	-	-	0:28:35.613000	0:28:39.860000
 Sie	-	-	-	0:28:35.613000	0:28:39.860000
 jetzt	-	-	-	0:28:35.613000	0:28:39.860000
@@ -7480,20 +7480,20 @@ gesprochen	-	-	-	0:28:35.613000	0:28:39.860000
 ?	-	-	-	0:28:35.613000	0:28:39.860000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:39.860000" end="0:28:42.621000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:39.860000" end="0:28:42.621000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	-	-	-	0:28:41.517000	0:28:42.621000
 ,	-	-	-	0:28:41.517000	0:28:42.621000
 Mundart	-	-	-	0:28:41.517000	0:28:42.621000
 .	-	-	-	0:28:41.517000	0:28:42.621000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:42.621000" end="0:28:43.200000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:42.621000" end="0:28:43.200000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:42.621000	0:28:43.200000
 .	-	-	-	0:28:42.621000	0:28:43.200000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:42.621000" end="0:28:43.200000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:42.621000" end="0:28:43.200000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:43.200000" end="0:28:48.978000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:43.200000" end="0:28:48.978000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:28:43.200000	0:28:47.917000
 <pause duration="0,5s"/>
 ähm	-	-	-	0:28:43.200000	0:28:47.917000
@@ -7516,11 +7516,11 @@ zu/	-	-	-	0:28:47.917000	0:28:48.978000
 zurück	-	-	-	0:28:47.917000	0:28:48.978000
 /.	-	-	-	0:28:47.917000	0:28:48.978000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:47.917000" end="0:28:48.978000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:47.917000" end="0:28:48.978000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:28:47.917000	0:28:48.978000
 .	-	-	-	0:28:47.917000	0:28:48.978000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:48.978000" end="0:28:51.252000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:48.978000" end="0:28:51.252000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:48.978000	0:28:49.352000
 .	-	-	-	0:28:48.978000	0:28:49.352000
 und	-	-	-	0:28:49.352000	0:28:51.252000
@@ -7532,27 +7532,27 @@ dass	-	-	-	0:28:49.352000	0:28:51.252000
 sie	-	-	-	0:28:49.352000	0:28:51.252000
 Mundart	-	-	-	0:28:49.352000	0:28:51.252000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:49.352000" end="0:28:51.252000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:49.352000" end="0:28:51.252000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:28:49.352000	0:28:51.252000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:49.352000" end="0:28:51.252000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:49.352000" end="0:28:51.252000" persName="Informant EXP9" age_lower="" age_upper="999">
 mit	-	-	-	0:28:49.352000	0:28:51.252000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:49.352000" end="0:28:51.252000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:49.352000" end="0:28:51.252000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 .	-	-	-	0:28:49.352000	0:28:51.252000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:49.352000" end="0:28:51.252000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:49.352000" end="0:28:51.252000" persName="Informant EXP9" age_lower="" age_upper="999">
 Ihnen	-	-	-	0:28:49.352000	0:28:51.252000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:51.252000" end="0:28:52.204000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:51.252000" end="0:28:52.204000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:28:51.252000	0:28:52.204000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:51.252000" end="0:28:52.204000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:51.252000" end="0:28:52.204000" persName="Informant EXP9" age_lower="" age_upper="999">
 gesprochen	-	-	-	0:28:51.252000	0:28:52.204000
 hat	-	-	-	0:28:51.252000	0:28:52.204000
 ?	-	-	-	0:28:51.252000	0:28:52.204000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:52.204000" end="0:28:58.578000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:52.204000" end="0:28:58.578000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mein	-	-	-	0:28:52.204000	0:28:58.578000
 Bruder	-	-	-	0:28:52.204000	0:28:58.578000
 <pause duration="0,6s"/>
@@ -7567,18 +7567,18 @@ sind	-	-	-	0:28:52.204000	0:28:58.578000
 <pause duration="1,2s"/>
 eineinhalb	-	-	-	0:28:52.204000	0:28:58.578000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:58.578000" end="0:28:59.334000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:58.578000" end="0:28:59.334000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:58.578000	0:28:59.334000
 .	-	-	-	0:28:58.578000	0:28:59.334000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:58.578000" end="0:28:59.334000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:58.578000" end="0:28:59.334000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 fast	-	-	-	0:28:58.578000	0:28:59.334000
 ,	-	-	-	0:28:58.578000	0:28:59.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:59.334000" end="0:29:00.186000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:59.334000" end="0:29:00.186000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:28:59.334000" end="0:29:01.960000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:28:59.334000" end="0:29:01.960000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 und	-	-	-	0:29:00.186000	0:29:01.960000
 ich	-	-	-	0:29:00.186000	0:29:01.960000
@@ -7593,13 +7593,13 @@ ihnen	-	-	-	0:29:00.186000	0:29:01.960000
 redet	-	-	-	0:29:00.186000	0:29:01.960000
 ,	-	-	-	0:29:00.186000	0:29:01.960000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:01.960000" end="0:29:04.939000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:01.960000" end="0:29:04.939000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:29:01.960000	0:29:04.939000
 ,	-	-	-	0:29:01.960000	0:29:04.939000
 mhm	-	-	-	0:29:01.960000	0:29:04.939000
 .	-	-	-	0:29:01.960000	0:29:04.939000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:01.960000" end="0:29:04.939000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:01.960000" end="0:29:04.939000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:29:01.960000	0:29:04.939000
 gehe	-	-	-	0:29:01.960000	0:29:04.939000
 ich	-	-	-	0:29:01.960000	0:29:04.939000
@@ -7617,13 +7617,13 @@ geredet	-	-	-	0:29:01.960000	0:29:04.939000
 hat	-	-	-	0:29:01.960000	0:29:04.939000
 .	-	-	-	0:29:01.960000	0:29:04.939000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:04.939000" end="0:29:06" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:04.939000" end="0:29:06" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:04.939000" end="0:29:06" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:04.939000" end="0:29:06" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:06" end="0:29:08.656000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:06" end="0:29:08.656000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:29:06	0:29:08.273000
 wie	-	-	-	0:29:06	0:29:08.273000
 war	-	-	-	0:29:06	0:29:08.273000
@@ -7641,18 +7641,18 @@ oder	-	-	-	0:29:08.273000	0:29:08.656000
 hat	-	-	-	0:29:08.273000	0:29:08.656000
 der	-	-	-	0:29:08.273000	0:29:08.656000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:08.273000" end="0:29:08.656000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:08.273000" end="0:29:08.656000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:08.273000	0:29:08.656000
 .	-	-	-	0:29:08.273000	0:29:08.656000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:08.656000" end="0:29:11.356000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:08.656000" end="0:29:11.356000" persName="Informant EXP9" age_lower="" age_upper="999">
 anders	-	-	-	0:29:08.656000	0:29:09.539000
 mit	-	-	-	0:29:08.656000	0:29:09.539000
 Ihnen	-	-	-	0:29:08.656000	0:29:09.539000
 gesprochen	-	-	-	0:29:08.656000	0:29:09.539000
 ?	-	-	-	0:29:08.656000	0:29:09.539000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:09.539000" end="0:29:11.356000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:09.539000" end="0:29:11.356000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:29:09.539000	0:29:11.356000
 hat	-	-	-	0:29:09.539000	0:29:11.356000
 sicher	-	-	-	0:29:09.539000	0:29:11.356000
@@ -7661,13 +7661,13 @@ anders	-	-	-	0:29:09.539000	0:29:11.356000
 geredet	-	-	-	0:29:09.539000	0:29:11.356000
 .	-	-	-	0:29:09.539000	0:29:11.356000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:11.356000" end="0:29:12.543000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:11.356000" end="0:29:12.543000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:11.356000" end="0:29:12.543000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:11.356000" end="0:29:12.543000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:12.543000" end="0:29:14.604000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:12.543000" end="0:29:14.604000" persName="Informant EXP9" age_lower="" age_upper="999">
 wir	-	-	-	0:29:12.543000	0:29:14.604000
 bleiben	-	-	-	0:29:12.543000	0:29:14.604000
 noch	-	-	-	0:29:12.543000	0:29:14.604000
@@ -7678,11 +7678,11 @@ Ihrer	-	-	-	0:29:12.543000	0:29:14.604000
 Kindheit	-	-	-	0:29:12.543000	0:29:14.604000
 .	-	-	-	0:29:12.543000	0:29:14.604000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:14.604000" end="0:29:15.060000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:14.604000" end="0:29:15.060000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:29:14.604000	0:29:15.060000
 .	-	-	-	0:29:14.604000	0:29:15.060000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:15.060000" end="0:29:21.882000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:15.060000" end="0:29:21.882000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:29:15.060000	0:29:21.882000
 wie	-	-	-	0:29:15.060000	0:29:21.882000
@@ -7707,13 +7707,13 @@ gekommen	-	-	-	0:29:15.060000	0:29:21.882000
 sind	-	-	-	0:29:15.060000	0:29:21.882000
 ?	-	-	-	0:29:15.060000	0:29:21.882000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:21.882000" end="0:29:24.534000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:21.882000" end="0:29:24.534000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:21.882000" end="0:29:24.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:21.882000" end="0:29:24.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:24.534000" end="0:29:27.700000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:24.534000" end="0:29:27.700000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 m/	-	-	-	0:29:24.534000	0:29:27.700000
 ja	-	-	-	0:29:24.534000	0:29:27.700000
 ,	-	-	-	0:29:24.534000	0:29:27.700000
@@ -7724,7 +7724,7 @@ wie	-	-	-	0:29:24.534000	0:29:27.700000
 jetzt	-	-	-	0:29:24.534000	0:29:27.700000
 .	-	-	-	0:29:24.534000	0:29:27.700000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:27.700000" end="0:29:30.960000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:27.700000" end="0:29:30.960000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:27.700000	0:29:28.117000
 .	-	-	-	0:29:27.700000	0:29:28.117000
 das	-	-	-	0:29:28.117000	0:29:30.960000
@@ -7742,21 +7742,21 @@ Schuleintritt	-	-	-	0:29:28.117000	0:29:30.960000
 eigentlich	-	-	-	0:29:28.117000	0:29:30.960000
 nichts	-	-	-	0:29:28.117000	0:29:30.960000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:30.960000" end="0:29:31.839000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:30.960000" end="0:29:31.839000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:29:30.960000	0:29:31.839000
 .	-	-	-	0:29:30.960000	0:29:31.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:30.960000" end="0:29:32.730000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:30.960000" end="0:29:32.730000" persName="Informant EXP9" age_lower="" age_upper="999">
 verändert	-	-	-	0:29:30.960000	0:29:31.839000
 hat	-	-	-	0:29:30.960000	0:29:31.839000
 ?	-	-	-	0:29:30.960000	0:29:31.839000
 mhm	-	-	-	0:29:31.839000	0:29:32.730000
 .	-	-	-	0:29:31.839000	0:29:32.730000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:32.730000" end="0:29:34.995000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:32.730000" end="0:29:34.995000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:32.730000" end="0:29:39.060000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:32.730000" end="0:29:39.060000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 wie	-	-	-	0:29:34.995000	0:29:39.060000
 ist	-	-	-	0:29:34.995000	0:29:39.060000
@@ -7777,11 +7777,11 @@ Volksschule	-	-	-	0:29:34.995000	0:29:39.060000
 in	-	-	-	0:29:34.995000	0:29:39.060000
 /.	-	-	-	0:29:34.995000	0:29:39.060000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:39.060000" end="0:29:39.630000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:39.060000" end="0:29:39.630000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:29:39.060000	0:29:39.630000
 .	-	-	-	0:29:39.060000	0:29:39.630000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:39.630000" end="0:29:41.478000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:39.630000" end="0:29:41.478000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:39.630000	0:29:40.130000
 .	-	-	-	0:29:39.630000	0:29:40.130000
 auch	-	-	-	0:29:40.130000	0:29:41.478000
@@ -7790,11 +7790,11 @@ den	-	-	-	0:29:40.130000	0:29:41.478000
 Lehrern	-	-	-	0:29:40.130000	0:29:41.478000
 ?	-	-	-	0:29:40.130000	0:29:41.478000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:41.478000" end="0:29:41.834000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:41.478000" end="0:29:41.834000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:41.478000	0:29:41.834000
 .	-	-	-	0:29:41.478000	0:29:41.834000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:41.834000" end="0:29:44.156000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:41.834000" end="0:29:44.156000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:41.834000	0:29:44.156000
 ,	-	-	-	0:29:41.834000	0:29:44.156000
 und	-	-	-	0:29:41.834000	0:29:44.156000
@@ -7807,11 +7807,11 @@ ja	-	-	-	0:29:41.834000	0:29:44.156000
 schon	-	-	-	0:29:41.834000	0:29:44.156000
 das	-	-	-	0:29:41.834000	0:29:44.156000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:44.156000" end="0:29:44.621000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:44.156000" end="0:29:44.621000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:29:44.156000	0:29:44.621000
 .	-	-	-	0:29:44.156000	0:29:44.621000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:44.156000" end="0:29:45.178000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:44.156000" end="0:29:45.178000" persName="Informant EXP9" age_lower="" age_upper="999">
 Gleiche	-	-	-	0:29:44.156000	0:29:44.621000
 gesagt	-	-	-	0:29:44.156000	0:29:44.621000
 ,	-	-	-	0:29:44.156000	0:29:44.621000
@@ -7819,7 +7819,7 @@ stimmt	-	-	-	0:29:44.621000	0:29:45.178000
 das	-	-	-	0:29:44.621000	0:29:45.178000
 ?	-	-	-	0:29:44.621000	0:29:45.178000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:45.178000" end="0:29:48.943000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:45.178000" end="0:29:48.943000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 naja	-	-	-	0:29:45.178000	0:29:48.943000
 ,	-	-	-	0:29:45.178000	0:29:48.943000
 es	-	-	-	0:29:45.178000	0:29:48.943000
@@ -7844,33 +7844,33 @@ Tal	-	-	-	0:29:45.178000	0:29:48.943000
 sind	-	-	-	0:29:45.178000	0:29:48.943000
 .	-	-	-	0:29:45.178000	0:29:48.943000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:48.943000" end="0:29:49.386000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:48.943000" end="0:29:49.386000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:29:48.943000	0:29:49.386000
 .	-	-	-	0:29:48.943000	0:29:49.386000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:49.386000" end="0:29:50.143000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:49.386000" end="0:29:50.143000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:49.386000" end="0:29:50.143000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:49.386000" end="0:29:50.143000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:50.143000" end="0:29:52.234000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:50.143000" end="0:29:52.234000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:29:50.143000	0:29:51.213000
 ja	-	-	-	0:29:50.143000	0:29:51.213000
 /.	-	-	-	0:29:50.143000	0:29:51.213000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:51.213000" end="0:29:52.234000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:51.213000" end="0:29:52.234000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:52.234000" end="0:29:53.586000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:52.234000" end="0:29:53.586000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:29:52.234000	0:29:53.586000
 war	-	-	-	0:29:52.234000	0:29:53.586000
 Standard	-	-	-	0:29:52.234000	0:29:53.586000
 eigentlich	-	-	-	0:29:52.234000	0:29:53.586000
 .	-	-	-	0:29:52.234000	0:29:53.586000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:53.586000" end="0:29:56.334000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:53.586000" end="0:29:56.334000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:53.586000	0:29:53.978000
 .	-	-	-	0:29:53.586000	0:29:53.978000
 und	-	-	-	0:29:53.978000	0:29:56.334000
@@ -7884,34 +7884,34 @@ ORT	ORT	-	-	0:29:53.978000	0:29:56.334000
 ORT	ORT	-	-	0:29:53.978000	0:29:56.334000
 ?	-	-	-	0:29:53.978000	0:29:56.334000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:56.334000" end="0:29:57.260000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:56.334000" end="0:29:57.260000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:56.334000" end="0:29:57.260000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:56.334000" end="0:29:57.260000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:57.260000" end="0:29:58.752000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:57.260000" end="0:29:58.752000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:29:57.260000	0:29:57.786000
 haben	-	-	-	0:29:57.260000	0:29:57.786000
 die	-	-	-	0:29:57.260000	0:29:57.786000
 Lehrer	-	-	-	0:29:57.786000	0:29:58.752000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:57.786000" end="0:29:58.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:57.786000" end="0:29:58.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 in	-	-	-	0:29:57.786000	0:29:58.752000
 der	-	-	-	0:29:57.786000	0:29:58.752000
 Berufsschule	-	-	-	0:29:57.786000	0:29:58.752000
 ?	-	-	-	0:29:57.786000	0:29:58.752000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:29:58.752000" end="0:30:00.147000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:29:58.752000" end="0:30:00.147000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 schön	-	-	-	0:29:58.752000	0:30:00.147000
 _geschatzt_	-	-	-	0:29:58.752000	0:30:00.147000
 .	-	-	-	0:29:58.752000	0:30:00.147000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:00.147000" end="0:30:00.960000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:00.147000" end="0:30:00.960000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:00.147000	0:30:00.960000
 .	-	-	-	0:30:00.147000	0:30:00.960000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:00.960000" end="0:30:08.604000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:00.960000" end="0:30:08.604000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:30:00.960000	0:30:06.795000
 auch	-	-	-	0:30:00.960000	0:30:06.795000
 die	-	-	-	0:30:00.960000	0:30:06.795000
@@ -7943,14 +7943,14 @@ ORT	ORT	-	-	0:30:06.795000	0:30:08.604000
 ORT	ORT	-	-	0:30:06.795000	0:30:08.604000
 .	-	-	-	0:30:06.795000	0:30:08.604000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:06.795000" end="0:30:08.604000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:06.795000" end="0:30:08.604000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:06.795000	0:30:08.604000
 .	-	-	-	0:30:06.795000	0:30:08.604000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:08.604000" end="0:30:09.930000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:08.604000" end="0:30:09.930000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:08.604000" end="0:30:11.491000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:08.604000" end="0:30:11.491000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:30:09.930000	0:30:11.491000
 ,	-	-	-	0:30:09.930000	0:30:11.491000
@@ -7961,11 +7961,11 @@ Zuge	-	-	-	0:30:09.930000	0:30:11.491000
 der	-	-	-	0:30:09.930000	0:30:11.491000
 Ausbildung	-	-	-	0:30:09.930000	0:30:11.491000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:11.491000" end="0:30:11.978000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:11.491000" end="0:30:11.978000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:11.491000	0:30:11.978000
 .	-	-	-	0:30:11.491000	0:30:11.978000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:11.491000" end="0:30:13.782000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:11.491000" end="0:30:13.782000" persName="Informant EXP9" age_lower="" age_upper="999">
 eigentlich	-	-	-	0:30:11.491000	0:30:11.978000
 hat	-	-	-	0:30:11.978000	0:30:13.782000
 sich	-	-	-	0:30:11.978000	0:30:13.782000
@@ -7977,7 +7977,7 @@ Ihrem	-	-	-	0:30:11.978000	0:30:13.782000
 Sprachverhalten	-	-	-	0:30:11.978000	0:30:13.782000
 .	-	-	-	0:30:11.978000	0:30:13.782000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:13.782000" end="0:30:15.460000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:13.782000" end="0:30:15.460000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	0:30:13.782000	0:30:14.804000
 ein	-	-	-	0:30:13.782000	0:30:14.804000
 _bissel_	-	-	-	0:30:13.782000	0:30:14.804000
@@ -7986,7 +7986,7 @@ ja	-	-	-	0:30:13.782000	0:30:14.804000
 .	-	-	-	0:30:13.782000	0:30:14.804000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:14.804000" end="0:30:20.130000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:14.804000" end="0:30:20.130000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:30:15.460000	0:30:20.130000
 ist	-	-	-	0:30:15.460000	0:30:20.130000
@@ -8007,14 +8007,14 @@ schön	-	-	-	0:30:15.460000	0:30:20.130000
 sprechen	-	-	-	0:30:15.460000	0:30:20.130000
 sollen	-	-	-	0:30:15.460000	0:30:20.130000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:20.130000" end="0:30:20.995000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:20.130000" end="0:30:20.995000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:30:20.130000	0:30:20.995000
 ,	-	-	-	0:30:20.130000	0:30:20.995000
 es	-	-	-	0:30:20.130000	0:30:20.995000
 ist	-	-	-	0:30:20.130000	0:30:20.995000
 /.	-	-	-	0:30:20.130000	0:30:20.995000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:20.130000" end="0:30:21.769000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:20.130000" end="0:30:21.769000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:30:20.130000	0:30:20.995000
 ist	-	-	-	0:30:20.995000	0:30:21.769000
 es	-	-	-	0:30:20.995000	0:30:21.769000
@@ -8024,26 +8024,26 @@ hat	-	-	-	0:30:20.995000	0:30:21.769000
 sich	-	-	-	0:30:20.995000	0:30:21.769000
 das	-	-	-	0:30:20.995000	0:30:21.769000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:21.769000" end="0:30:23.113000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:21.769000" end="0:30:23.113000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:30:21.769000	0:30:23.113000
 ,	-	-	-	0:30:21.769000	0:30:23.113000
 es	-	-	-	0:30:21.769000	0:30:23.113000
 ist	-	-	-	0:30:21.769000	0:30:23.113000
 /.	-	-	-	0:30:21.769000	0:30:23.113000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:21.769000" end="0:30:23.113000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:21.769000" end="0:30:23.113000" persName="Informant EXP9" age_lower="" age_upper="999">
 ergeben	-	-	-	0:30:21.769000	0:30:23.113000
 durch	-	-	-	0:30:21.769000	0:30:23.113000
 die	-	-	-	0:30:21.769000	0:30:23.113000
 /?	-	-	-	0:30:21.769000	0:30:23.113000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:23.113000" end="0:30:23.673000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:23.113000" end="0:30:23.673000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:23.113000" end="0:30:23.673000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:23.113000" end="0:30:23.673000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:23.673000" end="0:30:26.343000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:23.673000" end="0:30:26.343000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:30:23.673000	0:30:26.343000
 ist	-	-	-	0:30:23.673000	0:30:26.343000
 nie	-	-	-	0:30:23.673000	0:30:26.343000
@@ -8060,11 +8060,11 @@ oder	-	-	-	0:30:23.673000	0:30:26.343000
 so	-	-	-	0:30:23.673000	0:30:26.343000
 ,	-	-	-	0:30:23.673000	0:30:26.343000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:23.673000" end="0:30:26.343000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:23.673000" end="0:30:26.343000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:23.673000	0:30:26.343000
 .	-	-	-	0:30:23.673000	0:30:26.343000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:26.343000" end="0:30:27.539000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:26.343000" end="0:30:27.539000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:30:26.343000	0:30:27.539000
 mir	-	-	-	0:30:26.343000	0:30:27.539000
 ist	-	-	-	0:30:26.343000	0:30:27.539000
@@ -8072,9 +8072,9 @@ nachher	-	-	-	0:30:26.343000	0:30:27.539000
 aufgefallen	-	-	-	0:30:26.343000	0:30:27.539000
 ,	-	-	-	0:30:26.343000	0:30:27.539000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:26.343000" end="0:30:27.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:26.343000" end="0:30:27.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:27.539000" end="0:30:33.013000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:27.539000" end="0:30:33.013000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:30:27.539000	0:30:31.186000
 ich	-	-	-	0:30:27.539000	0:30:31.186000
 nachher	-	-	-	0:30:27.539000	0:30:31.186000
@@ -8096,25 +8096,25 @@ das	-	-	-	0:30:31.186000	0:30:33.013000
 gewöhnt	-	-	-	0:30:31.186000	0:30:33.013000
 man	-	-	-	0:30:31.186000	0:30:33.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:31.186000" end="0:30:33.013000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:31.186000" end="0:30:33.013000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:30:31.186000	0:30:33.013000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:31.186000" end="0:30:33.013000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.186000" end="0:30:33.013000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 sich	-	-	-	0:30:31.186000	0:30:33.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:31.186000" end="0:30:33.013000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:31.186000" end="0:30:33.013000" persName="Informant EXP9" age_lower="" age_upper="999">
 .	-	-	-	0:30:31.186000	0:30:33.013000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:31.186000" end="0:30:33.013000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:31.186000" end="0:30:33.013000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:30:31.186000	0:30:33.013000
 automatisch	-	-	-	0:30:31.186000	0:30:33.013000
 ab	-	-	-	0:30:31.186000	0:30:33.013000
 .	-	-	-	0:30:31.186000	0:30:33.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:33.013000" end="0:30:34.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:33.013000" end="0:30:34.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:33.013000" end="0:30:39.391000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:33.013000" end="0:30:39.391000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 *weißt*	-	-	-	0:30:34.100000	0:30:37.539000
 eh	-	-	-	0:30:34.100000	0:30:37.539000
@@ -8145,11 +8145,11 @@ sondern	-	-	-	0:30:37.543000	0:30:39.391000
 "foan"	-	-	-	0:30:37.543000	0:30:39.391000
 .	-	-	-	0:30:37.543000	0:30:39.391000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:39.391000" end="0:30:39.834000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:39.391000" end="0:30:39.834000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:39.391000	0:30:39.834000
 .	-	-	-	0:30:39.391000	0:30:39.834000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:39.834000" end="0:30:44.700000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:39.834000" end="0:30:44.700000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:30:39.834000	0:30:44.700000
 das	-	-	-	0:30:39.834000	0:30:44.700000
 ist	-	-	-	0:30:39.834000	0:30:44.700000
@@ -8175,7 +8175,7 @@ bei	-	-	-	0:30:39.834000	0:30:44.700000
 uns	-	-	-	0:30:39.834000	0:30:44.700000
 .	-	-	-	0:30:39.834000	0:30:44.700000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:44.700000" end="0:30:49.743000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:44.700000" end="0:30:49.743000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:44.700000	0:30:45.343000
 .	-	-	-	0:30:44.700000	0:30:45.343000
 das	-	-	-	0:30:45.343000	0:30:48.100000
@@ -8192,48 +8192,48 @@ nahe	-	-	-	0:30:48.100000	0:30:49.743000
 ,	-	-	-	0:30:48.100000	0:30:49.743000
 also	-	-	-	0:30:48.100000	0:30:49.743000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:48.100000" end="0:30:49.743000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:48.100000" end="0:30:49.743000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:48.100000	0:30:49.743000
 ,	-	-	-	0:30:48.100000	0:30:49.743000
 mhm	-	-	-	0:30:48.100000	0:30:49.743000
 .	-	-	-	0:30:48.100000	0:30:49.743000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:49.743000" end="0:30:51.056000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:49.743000" end="0:30:51.056000" persName="Informant EXP9" age_lower="" age_upper="999">
 relativ	-	-	-	0:30:49.743000	0:30:50.565000
 /,	-	-	-	0:30:49.743000	0:30:50.565000
 ja	-	-	-	0:30:50.565000	0:30:51.056000
 .	-	-	-	0:30:50.565000	0:30:51.056000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:50.565000" end="0:30:51.056000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:50.565000" end="0:30:51.056000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:50.565000	0:30:51.056000
 ,	-	-	-	0:30:50.565000	0:30:51.056000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:51.056000" end="0:30:52.200000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:51.056000" end="0:30:52.200000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:51.056000	0:30:52.200000
 .	-	-	-	0:30:51.056000	0:30:52.200000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:51.056000" end="0:30:52.200000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:51.056000" end="0:30:52.200000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 fünfzehn	-	-	-	0:30:51.056000	0:30:52.200000
 Kilometer	-	-	-	0:30:51.056000	0:30:52.200000
 sind	-	-	-	0:30:51.056000	0:30:52.200000
 es	-	-	-	0:30:51.056000	0:30:52.200000
 .	-	-	-	0:30:51.056000	0:30:52.200000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:52.200000" end="0:30:53.521000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:52.200000" end="0:30:53.521000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:52.200000" end="0:30:53.521000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:52.200000" end="0:30:53.521000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:53.521000" end="0:30:55.426000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:53.521000" end="0:30:55.426000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:53.521000	0:30:53.839000
 .	-	-	-	0:30:53.521000	0:30:53.839000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:30:53.839000" end="0:30:55.426000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:30:53.839000" end="0:30:55.426000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:55.426000" end="0:31:00.930000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:55.426000" end="0:31:00.930000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:30:55.426000	0:31:00.930000
 hat	-	-	-	0:30:55.426000	0:31:00.930000
 sich	-	-	-	0:30:55.426000	0:31:00.930000
@@ -8253,7 +8253,7 @@ Ihrem	-	-	-	0:30:55.426000	0:31:00.930000
 Sprachverhalten	-	-	-	0:30:55.426000	0:31:00.930000
 ?	-	-	-	0:30:55.426000	0:31:00.930000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:00.930000" end="0:31:06.521000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:00.930000" end="0:31:06.521000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:31:00.930000	0:31:06.521000
 ,	-	-	-	0:31:00.930000	0:31:06.521000
 seit	-	-	-	0:31:00.930000	0:31:06.521000
@@ -8275,18 +8275,18 @@ tun	-	-	-	0:31:00.930000	0:31:06.521000
 habe	-	-	-	0:31:00.930000	0:31:06.521000
 .	-	-	-	0:31:00.930000	0:31:06.521000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:06.521000" end="0:31:07.008000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:06.521000" end="0:31:07.008000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:06.521000	0:31:07.008000
 .	-	-	-	0:31:06.521000	0:31:07.008000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:07.008000" end="0:31:07.600000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:07.008000" end="0:31:07.600000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:31:07.008000	0:31:07.600000
 das	-	-	-	0:31:07.008000	0:31:07.600000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:07.600000" end="0:31:10.308000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:07.600000" end="0:31:10.308000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:07.600000" end="0:31:11.739000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:07.600000" end="0:31:11.739000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 hat	-	-	-	0:31:10.308000	0:31:11.739000
 nicht	-	-	-	0:31:10.308000	0:31:11.739000
@@ -8295,15 +8295,15 @@ viel	-	-	-	0:31:10.308000	0:31:11.739000
 ausgemacht	-	-	-	0:31:10.308000	0:31:11.739000
 .	-	-	-	0:31:10.308000	0:31:11.739000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:11.739000" end="0:31:13.304000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:11.739000" end="0:31:13.304000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:31:11.739000	0:31:12.047000
 .	-	-	-	0:31:11.739000	0:31:12.047000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:12.047000" end="0:31:13.304000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:12.047000" end="0:31:13.304000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:13.304000" end="0:31:16.786000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:13.304000" end="0:31:16.786000" persName="Informant EXP9" age_lower="" age_upper="999">
 was	-	-	-	0:31:13.304000	0:31:15.708000
 würden	-	-	-	0:31:13.304000	0:31:15.708000
 Sie	-	-	-	0:31:13.304000	0:31:15.708000
@@ -8318,21 +8318,21 @@ mir	-	-	-	0:31:13.304000	0:31:15.708000
 ?	-	-	-	0:31:13.304000	0:31:15.708000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:15.708000" end="0:31:18.230000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:15.708000" end="0:31:18.230000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 fast	-	-	-	0:31:16.786000	0:31:18.230000
 Mundart	-	-	-	0:31:16.786000	0:31:18.230000
 .	-	-	-	0:31:16.786000	0:31:18.230000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:18.230000" end="0:31:21.021000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:18.230000" end="0:31:21.021000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:18.230000	0:31:19.056000
 .	-	-	-	0:31:18.230000	0:31:19.056000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:19.056000" end="0:31:21.021000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:19.056000" end="0:31:21.021000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:21.021000" end="0:31:27.052000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:21.021000" end="0:31:27.052000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:31:21.021000	0:31:27.052000
 heißt	-	-	-	0:31:21.021000	0:31:27.052000
 ,	-	-	-	0:31:21.021000	0:31:27.052000
@@ -8353,7 +8353,7 @@ Mundart	-	-	-	0:31:21.021000	0:31:27.052000
 oder	-	-	-	0:31:21.021000	0:31:27.052000
 /?	-	-	-	0:31:21.021000	0:31:27.052000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:27.052000" end="0:31:30.800000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:27.052000" end="0:31:30.800000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:31:27.052000	0:31:30.800000
 ,	-	-	-	0:31:27.052000	0:31:30.800000
 schon	-	-	-	0:31:27.052000	0:31:30.800000
@@ -8365,7 +8365,7 @@ und	-	-	-	0:31:27.052000	0:31:30.800000
 Hüttschlagerisch	-	-	-	0:31:27.052000	0:31:30.800000
 .	-	-	-	0:31:27.052000	0:31:30.800000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:30.800000" end="0:31:32.800000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:30.800000" end="0:31:32.800000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:31:30.800000	0:31:32.800000
 ,	-	-	-	0:31:30.800000	0:31:32.800000
 ja	-	-	-	0:31:30.800000	0:31:32.800000
@@ -8375,17 +8375,17 @@ spannend	-	-	-	0:31:30.800000	0:31:32.800000
 mhm	-	-	-	0:31:30.800000	0:31:32.800000
 .	-	-	-	0:31:30.800000	0:31:32.800000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:30.800000" end="0:31:32.800000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:30.800000" end="0:31:32.800000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:30.800000	0:31:32.800000
 .	-	-	-	0:31:30.800000	0:31:32.800000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:32.800000" end="0:31:34.217000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:32.800000" end="0:31:34.217000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:32.800000" end="0:31:34.217000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:32.800000" end="0:31:34.217000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:34.217000" end="0:31:39.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:34.217000" end="0:31:39.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:31:34.217000	0:31:36.091000
 heißt	-	-	-	0:31:34.217000	0:31:36.091000
 ,	-	-	-	0:31:34.217000	0:31:36.091000
@@ -8416,7 +8416,7 @@ anderen	-	-	-	0:31:36.091000	0:31:39.995000
 oder	-	-	-	0:31:36.091000	0:31:39.995000
 /?	-	-	-	0:31:36.091000	0:31:39.995000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:39.995000" end="0:31:44.986000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:39.995000" end="0:31:44.986000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:39.995000	0:31:41.521000
 ,	-	-	-	0:31:39.995000	0:31:41.521000
 wenn	-	-	-	0:31:39.995000	0:31:41.521000
@@ -8439,30 +8439,30 @@ Freunde	-	-	-	0:31:41.521000	0:31:44.986000
 und	-	-	-	0:31:41.521000	0:31:44.986000
 da	-	-	-	0:31:41.521000	0:31:44.986000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:44.986000" end="0:31:46.734000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:44.986000" end="0:31:46.734000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:31:44.986000	0:31:46.734000
 ,	-	-	-	0:31:44.986000	0:31:46.734000
 ja	-	-	-	0:31:44.986000	0:31:46.734000
 .	-	-	-	0:31:44.986000	0:31:46.734000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:44.986000" end="0:31:46.734000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:44.986000" end="0:31:46.734000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:31:44.986000	0:31:46.734000
 auf	-	-	-	0:31:44.986000	0:31:46.734000
 jeden	-	-	-	0:31:44.986000	0:31:46.734000
 Fall	-	-	-	0:31:44.986000	0:31:46.734000
 .	-	-	-	0:31:44.986000	0:31:46.734000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:46.734000" end="0:31:47.856000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:46.734000" end="0:31:47.856000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:46.734000" end="0:31:47.856000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:46.734000" end="0:31:47.856000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:47.856000" end="0:31:48.269000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:47.856000" end="0:31:48.269000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:47.856000	0:31:48.269000
 .	-	-	-	0:31:47.856000	0:31:48.269000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:48.269000" end="0:31:51.839000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:48.269000" end="0:31:51.839000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:31:48.269000	0:31:51.839000
 auch	-	-	-	0:31:48.269000	0:31:51.839000
 beim	-	-	-	0:31:48.269000	0:31:51.839000
@@ -8478,11 +8478,11 @@ SMS	-	-	-	0:31:48.269000	0:31:51.839000
 schreiben	-	-	-	0:31:48.269000	0:31:51.839000
 .	-	-	-	0:31:48.269000	0:31:51.839000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:51.839000" end="0:31:52.569000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:51.839000" end="0:31:52.569000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:51.839000	0:31:52.569000
 .	-	-	-	0:31:51.839000	0:31:52.569000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:52.569000" end="0:31:57.586000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:52.569000" end="0:31:57.586000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:31:52.569000	0:31:55.126000
 wenn	-	-	-	0:31:52.569000	0:31:55.126000
 ich	-	-	-	0:31:52.569000	0:31:55.126000
@@ -8513,21 +8513,21 @@ und	-	-	-	0:31:55.126000	0:31:57.586000
 wenn	-	-	-	0:31:55.126000	0:31:57.586000
 es	-	-	-	0:31:55.126000	0:31:57.586000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:57.586000" end="0:31:58.043000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:57.586000" end="0:31:58.043000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:31:57.586000	0:31:58.043000
 .	-	-	-	0:31:57.586000	0:31:58.043000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:57.586000" end="0:31:59.173000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:57.586000" end="0:31:59.173000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 noch	-	-	-	0:31:57.586000	0:31:58.043000
 so	-	-	-	0:31:57.586000	0:31:58.043000
 blöd	-	-	-	0:31:58.043000	0:31:59.173000
 ausschaut	-	-	-	0:31:58.043000	0:31:59.173000
 ,	-	-	-	0:31:58.043000	0:31:59.173000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:59.173000" end="0:31:59.786000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:59.173000" end="0:31:59.786000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:31:59.173000" end="0:32:05.191000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:31:59.173000" end="0:32:05.191000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:31:59.786000	0:32:05.191000
 wenn	-	-	-	0:31:59.786000	0:32:05.191000
@@ -8551,13 +8551,13 @@ schöner	-	-	-	0:31:59.786000	0:32:05.191000
 aus	-	-	-	0:31:59.786000	0:32:05.191000
 .	-	-	-	0:31:59.786000	0:32:05.191000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:05.191000" end="0:32:06.117000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:05.191000" end="0:32:06.117000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:05.191000	0:32:06.117000
 .	-	-	-	0:32:05.191000	0:32:06.117000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:05.191000" end="0:32:06.117000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:05.191000" end="0:32:06.117000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:06.117000" end="0:32:09.104000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:06.117000" end="0:32:09.104000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:32:06.117000	0:32:08.547000
 trotzdem	-	-	-	0:32:06.117000	0:32:08.547000
 nicht	-	-	-	0:32:06.117000	0:32:08.547000
@@ -8566,19 +8566,19 @@ richtig	-	-	-	0:32:06.117000	0:32:08.547000
 Deutsch	-	-	-	0:32:08.547000	0:32:09.104000
 ?	-	-	-	0:32:08.547000	0:32:09.104000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:08.547000" end="0:32:09.104000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:08.547000" end="0:32:09.104000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:08.547000	0:32:09.104000
 .	-	-	-	0:32:08.547000	0:32:09.104000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:09.104000" end="0:32:11.191000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:09.104000" end="0:32:11.191000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:09.104000	0:32:09.586000
 .	-	-	-	0:32:09.104000	0:32:09.586000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:09.586000" end="0:32:11.191000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:09.586000" end="0:32:11.191000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:11.191000" end="0:32:14.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:11.191000" end="0:32:14.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:32:11.191000	0:32:13.443000
 was	-	-	-	0:32:11.191000	0:32:13.443000
 würden	-	-	-	0:32:11.191000	0:32:13.443000
@@ -8593,17 +8593,17 @@ gerade	-	-	-	0:32:11.191000	0:32:13.443000
 spreche	-	-	-	0:32:11.191000	0:32:13.443000
 ?	-	-	-	0:32:11.191000	0:32:13.443000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:13.443000" end="0:32:14.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:13.443000" end="0:32:14.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Deutsch	-	-	-	0:32:13.443000	0:32:14.878000
 .	-	-	-	0:32:13.443000	0:32:14.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:14.878000" end="0:32:17.069000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:14.878000" end="0:32:17.069000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:14.878000" end="0:32:17.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:14.878000" end="0:32:17.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:17.069000" end="0:32:28.539000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:17.069000" end="0:32:28.539000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:32:17.069000	0:32:18.252000
 .	-	-	-	0:32:17.069000	0:32:18.252000
 <pause duration="0,6s"/>
@@ -8636,19 +8636,19 @@ Sprachkontakt	-	-	-	0:32:21.595000	0:32:27.939000
 .	-	-	-	0:32:21.595000	0:32:27.939000
 oder	-	-	-	0:32:27.939000	0:32:28.539000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:27.939000" end="0:32:28.539000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:27.939000" end="0:32:28.539000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:27.939000	0:32:28.539000
 .	-	-	-	0:32:27.939000	0:32:28.539000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:28.539000" end="0:32:30.056000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:28.539000" end="0:32:30.056000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sprachkontakt	-	-	-	0:32:28.539000	0:32:29.517000
 .	-	-	-	0:32:28.539000	0:32:29.517000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:29.517000" end="0:32:30.056000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:29.517000" end="0:32:30.056000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:30.056000" end="0:32:32.965000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:30.056000" end="0:32:32.965000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:32:30.056000	0:32:31.869000
 dazu	-	-	-	0:32:30.056000	0:32:31.869000
 gibt	-	-	-	0:32:30.056000	0:32:31.869000
@@ -8661,10 +8661,10 @@ Fragen	-	-	-	0:32:30.056000	0:32:31.869000
 .	-	-	-	0:32:30.056000	0:32:31.869000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:31.869000" end="0:32:32.965000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:31.869000" end="0:32:32.965000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:32.965000" end="0:32:40.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:32.965000" end="0:32:40.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 verändert	-	-	-	0:32:32.965000	0:32:40.973000
 sich	-	-	-	0:32:32.965000	0:32:40.973000
 derzeit	-	-	-	0:32:32.965000	0:32:40.973000
@@ -8690,13 +8690,13 @@ anderen	-	-	-	0:32:32.965000	0:32:40.973000
 Sprachen	-	-	-	0:32:32.965000	0:32:40.973000
 ?	-	-	-	0:32:32.965000	0:32:40.973000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:40.973000" end="0:32:42.808000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:40.973000" end="0:32:42.808000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:40.973000" end="0:32:42.808000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:40.973000" end="0:32:42.808000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:42.808000" end="0:32:48.747000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:42.808000" end="0:32:48.747000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:42.808000	0:32:48.747000
 ,	-	-	-	0:32:42.808000	0:32:48.747000
 verändert	-	-	-	0:32:42.808000	0:32:48.747000
@@ -8720,18 +8720,18 @@ Tag	-	-	-	0:32:42.808000	0:32:48.747000
 merkt	-	-	-	0:32:42.808000	0:32:48.747000
 .	-	-	-	0:32:42.808000	0:32:48.747000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:48.747000" end="0:32:49.782000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:48.747000" end="0:32:49.782000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:48.747000	0:32:49.782000
 .	-	-	-	0:32:48.747000	0:32:49.782000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:49.782000" end="0:32:51.782000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:49.782000" end="0:32:51.782000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:32:49.782000	0:32:51.782000
 eher	-	-	-	0:32:49.782000	0:32:51.782000
 <pause duration="0,8s"/>
 langsam	-	-	-	0:32:49.782000	0:32:51.782000
 .	-	-	-	0:32:49.782000	0:32:51.782000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:51.782000" end="0:32:59.900000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:51.782000" end="0:32:59.900000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:32:51.782000	0:32:59.900000
 ,	-	-	-	0:32:51.782000	0:32:59.900000
 aber	-	-	-	0:32:51.782000	0:32:59.900000
@@ -8757,18 +8757,18 @@ Deutsche	-	-	-	0:32:51.782000	0:32:59.900000
 sehen	-	-	-	0:32:51.782000	0:32:59.900000
 ?	-	-	-	0:32:51.782000	0:32:59.900000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:32:59.900000" end="0:33:01.286000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:32:59.900000" end="0:33:01.286000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:59.900000	0:33:01.286000
 ,	-	-	-	0:32:59.900000	0:33:01.286000
 glaube	-	-	-	0:32:59.900000	0:33:01.286000
 nicht	-	-	-	0:32:59.900000	0:33:01.286000
 .	-	-	-	0:32:59.900000	0:33:01.286000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:01.286000" end="0:33:02.082000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:01.286000" end="0:33:02.082000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:01.286000	0:33:02.082000
 .	-	-	-	0:33:01.286000	0:33:02.082000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:02.082000" end="0:33:04.160000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:02.082000" end="0:33:04.160000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:33:02.082000	0:33:04.160000
 n/	-	-	-	0:33:02.082000	0:33:04.160000
 nicht	-	-	-	0:33:02.082000	0:33:04.160000
@@ -8780,15 +8780,15 @@ aufgefallen	-	-	-	0:33:02.082000	0:33:04.160000
 wäre	-	-	-	0:33:02.082000	0:33:04.160000
 .	-	-	-	0:33:02.082000	0:33:04.160000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:04.160000" end="0:33:08.626000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:04.160000" end="0:33:08.626000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:04.160000	0:33:04.782000
 .	-	-	-	0:33:04.160000	0:33:04.782000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:04.782000" end="0:33:08.626000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:04.782000" end="0:33:08.626000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:08.626000" end="0:33:10.439000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:08.626000" end="0:33:10.439000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:33:08.626000	0:33:10.439000
 schaut	-	-	-	0:33:08.626000	0:33:10.439000
 das	-	-	-	0:33:08.626000	0:33:10.439000
@@ -8798,20 +8798,20 @@ Englischen	-	-	-	0:33:08.626000	0:33:10.439000
 aus	-	-	-	0:33:08.626000	0:33:10.439000
 ?	-	-	-	0:33:08.626000	0:33:10.439000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:10.439000" end="0:33:14.769000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:10.439000" end="0:33:14.769000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:10.439000" end="0:33:14.769000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:10.439000" end="0:33:14.769000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="4,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:14.769000" end="0:33:15.760000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:14.769000" end="0:33:15.760000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:14.769000	0:33:15.760000
 .	-	-	-	0:33:14.769000	0:33:15.760000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:15.760000" end="0:33:16.500000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:15.760000" end="0:33:16.500000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:15.760000" end="0:33:20.656000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:15.760000" end="0:33:20.656000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nein	-	-	-	0:33:16.500000	0:33:18.117000
 ,	-	-	-	0:33:16.500000	0:33:18.117000
@@ -8836,11 +8836,11 @@ es	-	-	-	0:33:18.117000	0:33:20.656000
 können	-	-	-	0:33:18.117000	0:33:20.656000
 .	-	-	-	0:33:18.117000	0:33:20.656000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:20.656000" end="0:33:21.639000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:20.656000" end="0:33:21.639000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:20.656000	0:33:21.639000
 .	-	-	-	0:33:20.656000	0:33:21.639000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:21.639000" end="0:33:25.834000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:21.639000" end="0:33:25.834000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:33:21.639000	0:33:25.834000
 <pause duration="1,2s"/>
 ja	-	-	-	0:33:21.639000	0:33:25.834000
@@ -8854,7 +8854,7 @@ für	-	-	-	0:33:21.639000	0:33:25.834000
 mich	-	-	-	0:33:21.639000	0:33:25.834000
 .	-	-	-	0:33:21.639000	0:33:25.834000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:25.834000" end="0:33:34.391000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:25.834000" end="0:33:34.391000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:25.834000	0:33:26.430000
 .	-	-	-	0:33:25.834000	0:33:26.430000
 und	-	-	-	0:33:26.430000	0:33:31.969000
@@ -8879,7 +8879,7 @@ hat	-	-	-	0:33:26.430000	0:33:31.969000
 ja	-	-	-	0:33:31.969000	0:33:34.391000
 .	-	-	-	0:33:31.969000	0:33:34.391000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:31.969000" end="0:33:34.391000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:31.969000" end="0:33:34.391000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 glaube	-	-	-	0:33:31.969000	0:33:34.391000
 ich	-	-	-	0:33:31.969000	0:33:34.391000
 nicht	-	-	-	0:33:31.969000	0:33:34.391000
@@ -8893,15 +8893,15 @@ nicht	-	-	-	0:33:31.969000	0:33:34.391000
 vorstellen	-	-	-	0:33:31.969000	0:33:34.391000
 .	-	-	-	0:33:31.969000	0:33:34.391000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:34.391000" end="0:33:36.200000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:34.391000" end="0:33:36.200000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:34.391000	0:33:35.178000
 .	-	-	-	0:33:34.391000	0:33:35.178000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:35.178000" end="0:33:36.200000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:35.178000" end="0:33:36.200000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:36.200000" end="0:33:46.808000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:36.200000" end="0:33:46.808000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:33:36.200000	0:33:38.356000
 jetzt	-	-	-	0:33:36.200000	0:33:38.356000
 geht	-	-	-	0:33:36.200000	0:33:38.356000
@@ -8941,13 +8941,13 @@ eine	-	-	-	0:33:45.621000	0:33:46.808000
 Idee	-	-	-	0:33:45.621000	0:33:46.808000
 ?	-	-	-	0:33:45.621000	0:33:46.808000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:46.808000" end="0:33:51.330000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:46.808000" end="0:33:51.330000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:46.808000" end="0:33:51.330000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:46.808000" end="0:33:51.330000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:51.330000" end="0:33:53.439000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:51.330000" end="0:33:53.439000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 geschichtlich	-	-	-	0:33:51.330000	0:33:53.439000
 bin	-	-	-	0:33:51.330000	0:33:53.439000
 ich	-	-	-	0:33:51.330000	0:33:53.439000
@@ -8955,19 +8955,19 @@ voll	-	-	-	0:33:51.330000	0:33:53.439000
 schlecht	-	-	-	0:33:51.330000	0:33:53.439000
 .	-	-	-	0:33:51.330000	0:33:53.439000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:51.330000" end="0:33:53.439000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:51.330000" end="0:33:53.439000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:53.439000" end="0:33:56.465000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:53.439000" end="0:33:56.465000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:33:53.439000	0:33:55.465000
 <pause duration="0,5s"/>
 nein	-	-	-	0:33:53.439000	0:33:55.465000
 .	-	-	-	0:33:53.439000	0:33:55.465000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:55.465000" end="0:33:56.465000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:55.465000" end="0:33:56.465000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:56.465000" end="0:33:58.956000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:56.465000" end="0:33:58.956000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:33:56.465000	0:33:58.956000
 ich	-	-	-	0:33:56.465000	0:33:58.956000
 weiß	-	-	-	0:33:56.465000	0:33:58.956000
@@ -8980,18 +8980,18 @@ Deutsch	-	-	-	0:33:56.465000	0:33:58.956000
 irgendwie	-	-	-	0:33:56.465000	0:33:58.956000
 .	-	-	-	0:33:56.465000	0:33:58.956000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:58.956000" end="0:33:59.673000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:58.956000" end="0:33:59.673000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:58.956000	0:33:59.673000
 .	-	-	-	0:33:58.956000	0:33:59.673000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:33:59.673000" end="0:34:00.317000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:33:59.673000" end="0:34:00.317000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:33:59.673000	0:34:00.317000
 /.	-	-	-	0:33:59.673000	0:34:00.317000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:00.317000" end="0:34:02.056000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:00.317000" end="0:34:02.056000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:00.317000" end="0:34:04.086000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:00.317000" end="0:34:04.086000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 glaube	-	-	-	0:34:02.056000	0:34:04.086000
 ich	-	-	-	0:34:02.056000	0:34:04.086000
@@ -9006,7 +9006,7 @@ Einfluss	-	-	-	0:34:02.056000	0:34:04.086000
 hat	-	-	-	0:34:02.056000	0:34:04.086000
 .	-	-	-	0:34:02.056000	0:34:04.086000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:04.086000" end="0:34:07.673000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:04.086000" end="0:34:07.673000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:34:04.086000	0:34:06.786000
 ,	-	-	-	0:34:04.086000	0:34:06.786000
 also	-	-	-	0:34:04.086000	0:34:06.786000
@@ -9020,11 +9020,11 @@ unmittelbar	-	-	-	0:34:06.786000	0:34:07.673000
 wahr	-	-	-	0:34:06.786000	0:34:07.673000
 ,	-	-	-	0:34:06.786000	0:34:07.673000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:06.786000" end="0:34:07.673000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:06.786000" end="0:34:07.673000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:34:06.786000	0:34:07.673000
 .	-	-	-	0:34:06.786000	0:34:07.673000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:07.673000" end="0:34:08.521000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:07.673000" end="0:34:08.521000" persName="Informant EXP9" age_lower="" age_upper="999">
 dass	-	-	-	0:34:07.673000	0:34:08.521000
 da	-	-	-	0:34:07.673000	0:34:08.521000
 was	-	-	-	0:34:07.673000	0:34:08.521000
@@ -9032,11 +9032,11 @@ wäre	-	-	-	0:34:07.673000	0:34:08.521000
 in	-	-	-	0:34:07.673000	0:34:08.521000
 der	-	-	-	0:34:07.673000	0:34:08.521000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:08.521000" end="0:34:09.021000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:08.521000" end="0:34:09.021000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mm	-	-	-	0:34:08.521000	0:34:09.021000
 .	-	-	-	0:34:08.521000	0:34:09.021000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:08.521000" end="0:34:12.043000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:08.521000" end="0:34:12.043000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sprache	-	-	-	0:34:08.521000	0:34:09.021000
 ,	-	-	-	0:34:08.521000	0:34:09.021000
 wo	-	-	-	0:34:09.021000	0:34:12.043000
@@ -9052,11 +9052,11 @@ anderen	-	-	-	0:34:09.021000	0:34:12.043000
 Sprache	-	-	-	0:34:09.021000	0:34:12.043000
 vielleicht	-	-	-	0:34:09.021000	0:34:12.043000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:12.043000" end="0:34:12.652000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:12.043000" end="0:34:12.652000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:34:12.043000	0:34:12.652000
 .	-	-	-	0:34:12.043000	0:34:12.652000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:12.043000" end="0:34:13.434000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:12.043000" end="0:34:13.434000" persName="Informant EXP9" age_lower="" age_upper="999">
 mal	-	-	-	0:34:12.043000	0:34:12.652000
 übernommen	-	-	-	0:34:12.043000	0:34:12.652000
 worden	-	-	-	0:34:12.652000	0:34:13.434000
@@ -9064,13 +9064,13 @@ oder	-	-	-	0:34:12.652000	0:34:13.434000
 so	-	-	-	0:34:12.652000	0:34:13.434000
 .	-	-	-	0:34:12.652000	0:34:13.434000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:13.434000" end="0:34:14.252000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:13.434000" end="0:34:14.252000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:34:13.434000	0:34:14.252000
 glaube	-	-	-	0:34:13.434000	0:34:14.252000
 nicht	-	-	-	0:34:13.434000	0:34:14.252000
 .	-	-	-	0:34:13.434000	0:34:14.252000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:13.434000" end="0:34:19.091000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:13.434000" end="0:34:19.091000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:13.434000	0:34:14.252000
 .	-	-	-	0:34:13.434000	0:34:14.252000
 ja	-	-	-	0:34:14.252000	0:34:15.643000
@@ -9089,10 +9089,10 @@ letzten	-	-	-	0:34:15.643000	0:34:19.091000
 Fragen	-	-	-	0:34:15.643000	0:34:19.091000
 .	-	-	-	0:34:15.643000	0:34:19.091000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:19.091000" end="0:34:20.777000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:19.091000" end="0:34:20.777000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:19.091000" end="0:34:23.408000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:19.091000" end="0:34:23.408000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 und	-	-	-	0:34:20.777000	0:34:23.408000
 da	-	-	-	0:34:20.777000	0:34:23.408000
@@ -9106,13 +9106,13 @@ eine	-	-	-	0:34:20.777000	0:34:23.408000
 Lieblingszeitung	-	-	-	0:34:20.777000	0:34:23.408000
 ?	-	-	-	0:34:20.777000	0:34:23.408000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:23.408000" end="0:34:26.465000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:23.408000" end="0:34:26.465000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:23.408000" end="0:34:26.465000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:23.408000" end="0:34:26.465000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:26.465000" end="0:34:29.386000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:26.465000" end="0:34:29.386000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:34:26.465000	0:34:29.386000
 ,	-	-	-	0:34:26.465000	0:34:29.386000
 dann	-	-	-	0:34:26.465000	0:34:29.386000
@@ -9123,11 +9123,11 @@ nur	-	-	-	0:34:26.465000	0:34:29.386000
 Apothekerzeitschrift	-	-	-	0:34:26.465000	0:34:29.386000
 .	-	-	-	0:34:26.465000	0:34:29.386000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:29.386000" end="0:34:30.639000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:29.386000" end="0:34:30.639000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:29.386000	0:34:30.639000
 .	-	-	-	0:34:29.386000	0:34:30.639000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:30.639000" end="0:34:33.495000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:30.639000" end="0:34:33.495000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:34:30.639000	0:34:33.495000
 was	-	-	-	0:34:30.639000	0:34:33.495000
 ich	-	-	-	0:34:30.639000	0:34:33.495000
@@ -9138,7 +9138,7 @@ die	-	-	-	0:34:30.639000	0:34:33.495000
 Bezirkszeitung	-	-	-	0:34:30.639000	0:34:33.495000
 .	-	-	-	0:34:30.639000	0:34:33.495000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:33.495000" end="0:34:36.234000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:33.495000" end="0:34:36.234000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:34:33.495000	0:34:34.808000
 ,	-	-	-	0:34:33.495000	0:34:34.808000
 mhm	-	-	-	0:34:33.495000	0:34:34.808000
@@ -9149,11 +9149,11 @@ heißt	-	-	-	0:34:34.808000	0:34:36.234000
 für	-	-	-	0:34:34.808000	0:34:36.234000
 /?	-	-	-	0:34:34.808000	0:34:36.234000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:36.234000" end="0:34:36.672000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:36.234000" end="0:34:36.672000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Pongau	-	-	-	0:34:36.234000	0:34:36.672000
 .	-	-	-	0:34:36.234000	0:34:36.672000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:36.672000" end="0:34:40.985000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:36.672000" end="0:34:40.985000" persName="Informant EXP9" age_lower="" age_upper="999">
 Pongau	-	-	-	0:34:36.672000	0:34:37.934000
 ,	-	-	-	0:34:36.672000	0:34:37.934000
 mhm	-	-	-	0:34:36.672000	0:34:37.934000
@@ -9170,25 +9170,25 @@ Hüttschlag	-	-	-	0:34:37.934000	0:34:40.985000
 oder	-	-	-	0:34:37.934000	0:34:40.985000
 /?	-	-	-	0:34:37.934000	0:34:40.985000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:40.985000" end="0:34:41.681000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:40.985000" end="0:34:41.681000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:40.985000	0:34:41.681000
 .	-	-	-	0:34:40.985000	0:34:41.681000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:41.681000" end="0:34:42.382000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:41.681000" end="0:34:42.382000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:42.382000" end="0:34:44.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:42.382000" end="0:34:44.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 manchmal	-	-	-	0:34:42.382000	0:34:43.460000
 schon	-	-	-	0:34:42.382000	0:34:43.460000
 .	-	-	-	0:34:42.382000	0:34:43.460000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:43.460000" end="0:34:44.069000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:43.460000" end="0:34:44.069000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:43.460000	0:34:44.069000
 .	-	-	-	0:34:43.460000	0:34:44.069000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:44.069000" end="0:34:45.264000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:44.069000" end="0:34:45.264000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:44.069000" end="0:34:47.143000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:44.069000" end="0:34:47.143000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 und	-	-	-	0:34:45.264000	0:34:47.143000
 haben	-	-	-	0:34:45.264000	0:34:47.143000
@@ -9198,13 +9198,13 @@ eine	-	-	-	0:34:45.264000	0:34:47.143000
 Lieblingssendung	-	-	-	0:34:45.264000	0:34:47.143000
 ?	-	-	-	0:34:45.264000	0:34:47.143000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:47.143000" end="0:34:48.373000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:47.143000" end="0:34:48.373000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:47.143000" end="0:34:48.373000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:47.143000" end="0:34:48.373000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:48.373000" end="0:34:55.004000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:48.373000" end="0:34:55.004000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:48.373000	0:34:50.021000
 ,	-	-	-	0:34:48.373000	0:34:50.021000
 das	-	-	-	0:34:48.373000	0:34:50.021000
@@ -9232,39 +9232,39 @@ laufen	-	-	-	0:34:50.021000	0:34:54.556000
 so	-	-	-	0:34:54.556000	0:34:55.004000
 das	-	-	-	0:34:54.556000	0:34:55.004000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:54.556000" end="0:34:55.004000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:54.556000" end="0:34:55.004000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:54.556000	0:34:55.004000
 .	-	-	-	0:34:54.556000	0:34:55.004000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:55.004000" end="0:34:55.991000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:55.004000" end="0:34:55.991000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:34:55.004000	0:34:55.991000
 ganze	-	-	-	0:34:55.004000	0:34:55.991000
 /.	-	-	-	0:34:55.004000	0:34:55.991000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:55.991000" end="0:34:57.230000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:55.991000" end="0:34:57.230000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 aber	-	-	-	0:34:55.991000	0:34:57.230000
 keine	-	-	-	0:34:55.991000	0:34:57.230000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:57.230000" end="0:34:57.743000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:57.230000" end="0:34:57.743000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:57.230000" end="0:34:57.743000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:57.230000" end="0:34:57.743000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:57.743000" end="0:34:59.747000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:57.743000" end="0:34:59.747000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:34:57.743000	0:34:59.747000
 ,	-	-	-	0:34:57.743000	0:34:59.747000
 also	-	-	-	0:34:57.743000	0:34:59.747000
 Mundart	-	-	-	0:34:57.743000	0:34:59.747000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:57.743000" end="0:34:59.747000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:57.743000" end="0:34:59.747000" persName="Informant EXP9" age_lower="" age_upper="999">
 konkrete	-	-	-	0:34:57.743000	0:34:59.747000
 ,	-	-	-	0:34:57.743000	0:34:59.747000
 ganz	-	-	-	0:34:57.743000	0:34:59.747000
 /?	-	-	-	0:34:57.743000	0:34:59.747000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:34:59.747000" end="0:35:03.282000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:34:59.747000" end="0:35:03.282000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 gar	-	-	-	0:34:59.747000	0:35:02.178000
 nicht	-	-	-	0:34:59.747000	0:35:02.178000
@@ -9277,7 +9277,7 @@ ich	-	-	-	0:34:59.747000	0:35:02.178000
 gern	-	-	-	0:34:59.747000	0:35:02.178000
 .	-	-	-	0:34:59.747000	0:35:02.178000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:02.178000" end="0:35:07.678000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:02.178000" end="0:35:07.678000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:02.178000	0:35:03.282000
 .	-	-	-	0:35:02.178000	0:35:03.282000
 und	-	-	-	0:35:03.282000	0:35:07.678000
@@ -9289,13 +9289,13 @@ eine	-	-	-	0:35:03.282000	0:35:07.678000
 Lieblingssendung	-	-	-	0:35:03.282000	0:35:07.678000
 ?	-	-	-	0:35:03.282000	0:35:07.678000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:07.678000" end="0:35:08.413000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:07.678000" end="0:35:08.413000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:07.678000" end="0:35:08.413000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:07.678000" end="0:35:08.413000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:08.413000" end="0:35:09.347000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:08.413000" end="0:35:09.347000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:08.413000	0:35:09.347000
 ,	-	-	-	0:35:08.413000	0:35:09.347000
 was	-	-	-	0:35:08.413000	0:35:09.347000
@@ -9303,24 +9303,24 @@ ich	-	-	-	0:35:08.413000	0:35:09.347000
 /,	-	-	-	0:35:08.413000	0:35:09.347000
 w/	-	-	-	0:35:08.413000	0:35:09.347000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:08.413000" end="0:35:09.347000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:08.413000" end="0:35:09.347000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:35:08.413000	0:35:09.347000
 einfach	-	-	-	0:35:08.413000	0:35:09.347000
 was	-	-	-	0:35:08.413000	0:35:09.347000
 so	-	-	-	0:35:08.413000	0:35:09.347000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:09.347000" end="0:35:10.552000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:09.347000" end="0:35:10.552000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weiß	-	-	-	0:35:09.347000	0:35:10.008000
 nicht	-	-	-	0:35:09.347000	0:35:10.008000
 ,	-	-	-	0:35:09.347000	0:35:10.008000
 was	-	-	-	0:35:09.347000	0:35:10.008000
 zurzeit	-	-	-	0:35:10.008000	0:35:10.552000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:10.008000" end="0:35:10.552000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:10.008000" end="0:35:10.552000" persName="Informant EXP9" age_lower="" age_upper="999">
 lauf/	-	-	-	0:35:10.008000	0:35:10.552000
 /?	-	-	-	0:35:10.008000	0:35:10.552000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:10.552000" end="0:35:12.065000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:10.552000" end="0:35:12.065000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 schaue	-	-	-	0:35:10.552000	0:35:12.065000
 ist	-	-	-	0:35:10.552000	0:35:12.065000
 eigentlich	-	-	-	0:35:10.552000	0:35:12.065000
@@ -9329,14 +9329,14 @@ of	-	-	-	0:35:10.552000	0:35:12.065000
 Thrones"	-	-	-	0:35:10.552000	0:35:12.065000
 .	-	-	-	0:35:10.552000	0:35:12.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:12.065000" end="0:35:12.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:12.065000" end="0:35:12.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:12.065000	0:35:12.534000
 .	-	-	-	0:35:12.065000	0:35:12.534000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:12.534000" end="0:35:14.430000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:12.534000" end="0:35:14.430000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:12.534000" end="0:35:16.186000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:12.534000" end="0:35:16.186000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 imf/	-	-	-	0:35:14.430000	0:35:16.186000
 im/	-	-	-	0:35:14.430000	0:35:16.186000
@@ -9347,21 +9347,21 @@ Fernsehen	-	-	-	0:35:14.430000	0:35:16.186000
 oder	-	-	-	0:35:14.430000	0:35:16.186000
 /?	-	-	-	0:35:14.430000	0:35:16.186000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:16.186000" end="0:35:16.952000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:16.186000" end="0:35:16.952000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:35:16.186000	0:35:16.952000
 .	-	-	-	0:35:16.186000	0:35:16.952000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:16.186000" end="0:35:17.591000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:16.186000" end="0:35:17.591000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:35:16.186000	0:35:16.952000
 ist	-	-	-	0:35:16.186000	0:35:16.952000
 das	-	-	-	0:35:16.186000	0:35:16.952000
 on/	-	-	-	0:35:16.952000	0:35:17.591000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:17.591000" end="0:35:18.608000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:17.591000" end="0:35:18.608000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:17.591000	0:35:18.608000
 .	-	-	-	0:35:17.591000	0:35:18.608000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:17.591000" end="0:35:19.456000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:17.591000" end="0:35:19.456000" persName="Informant EXP9" age_lower="" age_upper="999">
 online	-	-	-	0:35:17.591000	0:35:18.608000
 zum	-	-	-	0:35:17.591000	0:35:18.608000
 Nachschauen	-	-	-	0:35:18.608000	0:35:19.456000
@@ -9369,10 +9369,10 @@ Nachschauen	-	-	-	0:35:18.608000	0:35:19.456000
 mhm	-	-	-	0:35:18.608000	0:35:19.456000
 .	-	-	-	0:35:18.608000	0:35:19.456000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:19.456000" end="0:35:20.830000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:19.456000" end="0:35:20.830000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:19.456000" end="0:35:23.230000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:19.456000" end="0:35:23.230000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 wie	-	-	-	0:35:20.830000	0:35:23.230000
 kommen	-	-	-	0:35:20.830000	0:35:23.230000
@@ -9383,33 +9383,33 @@ neusten	-	-	-	0:35:20.830000	0:35:23.230000
 Nachrichten	-	-	-	0:35:20.830000	0:35:23.230000
 ?	-	-	-	0:35:20.830000	0:35:23.230000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:23.230000" end="0:35:25.460000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:23.230000" end="0:35:25.460000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:23.230000" end="0:35:25.460000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:23.230000" end="0:35:25.460000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:25.460000" end="0:35:26.586000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:25.460000" end="0:35:26.586000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Radio	-	-	-	0:35:25.460000	0:35:26.586000
 ,	-	-	-	0:35:25.460000	0:35:26.586000
 Zeitung	-	-	-	0:35:25.460000	0:35:26.586000
 ,	-	-	-	0:35:25.460000	0:35:26.586000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:26.586000" end="0:35:27.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:26.586000" end="0:35:27.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:26.586000	0:35:27.100000
 .	-	-	-	0:35:26.586000	0:35:27.100000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:27.100000" end="0:35:27.739000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:27.100000" end="0:35:27.739000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Facebook	-	-	-	0:35:27.100000	0:35:27.739000
 .	-	-	-	0:35:27.100000	0:35:27.739000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:27.739000" end="0:35:28.182000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:27.739000" end="0:35:28.182000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:35:27.739000	0:35:28.182000
 .	-	-	-	0:35:27.739000	0:35:28.182000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:28.182000" end="0:35:28.560000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:28.182000" end="0:35:28.560000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:28.560000" end="0:35:29.639000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:28.560000" end="0:35:29.639000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:35:28.560000	0:35:29.639000
 heißt	-	-	-	0:35:28.560000	0:35:29.639000
 auch	-	-	-	0:35:28.560000	0:35:29.639000
@@ -9418,18 +9418,18 @@ das	-	-	-	0:35:28.560000	0:35:29.639000
 Internet	-	-	-	0:35:28.560000	0:35:29.639000
 ?	-	-	-	0:35:28.560000	0:35:29.639000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:29.639000" end="0:35:30.030000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:29.639000" end="0:35:30.030000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:29.639000	0:35:30.030000
 .	-	-	-	0:35:29.639000	0:35:30.030000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:30.030000" end="0:35:30.500000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:30.030000" end="0:35:30.500000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:30.030000	0:35:30.500000
 .	-	-	-	0:35:30.030000	0:35:30.500000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:30.500000" end="0:35:34.126000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:30.500000" end="0:35:34.126000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:30.500000" end="0:35:38.400000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:30.500000" end="0:35:38.400000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,6s"/>
 wir	-	-	-	0:35:34.126000	0:35:38.400000
 haben	-	-	-	0:35:34.126000	0:35:38.400000
@@ -9444,11 +9444,11 @@ momentan	-	-	-	0:35:34.126000	0:35:38.400000
 gesprochen	-	-	-	0:35:34.126000	0:35:38.400000
 ,	-	-	-	0:35:34.126000	0:35:38.400000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:38.400000" end="0:35:38.791000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:38.400000" end="0:35:38.791000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:38.400000	0:35:38.791000
 .	-	-	-	0:35:38.400000	0:35:38.791000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:38.400000" end="0:35:40.086000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:38.400000" end="0:35:40.086000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:35:38.400000	0:35:38.791000
 was	-	-	-	0:35:38.400000	0:35:38.791000
 sind	-	-	-	0:35:38.400000	0:35:38.791000
@@ -9457,13 +9457,13 @@ Ihre	-	-	-	0:35:38.791000	0:35:40.086000
 Hobbys	-	-	-	0:35:38.791000	0:35:40.086000
 ?	-	-	-	0:35:38.791000	0:35:40.086000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:40.086000" end="0:35:42.169000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:40.086000" end="0:35:42.169000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:40.086000" end="0:35:42.169000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:40.086000" end="0:35:42.169000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:42.169000" end="0:35:46.413000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:42.169000" end="0:35:46.413000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:35:42.169000	0:35:46.413000
 <pause duration="0,8s"/>
 ja	-	-	-	0:35:42.169000	0:35:46.413000
@@ -9473,11 +9473,11 @@ eigentlich	-	-	-	0:35:42.169000	0:35:46.413000
 Fortgehen	-	-	-	0:35:42.169000	0:35:46.413000
 ,	-	-	-	0:35:42.169000	0:35:46.413000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:46.413000" end="0:35:46.986000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:46.413000" end="0:35:46.986000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:46.413000	0:35:46.986000
 .	-	-	-	0:35:46.413000	0:35:46.986000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:46.986000" end="0:35:54.473000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:46.986000" end="0:35:54.473000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:35:46.986000	0:35:49.878000
 <pause duration="0,6s"/>
 mache	-	-	-	0:35:46.986000	0:35:49.878000
@@ -9513,19 +9513,19 @@ schlafen	-	-	-	0:35:49.878000	0:35:54.473000
 gehen	-	-	-	0:35:49.878000	0:35:54.473000
 .	-	-	-	0:35:49.878000	0:35:54.473000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:49.878000" end="0:35:54.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:49.878000" end="0:35:54.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:35:49.878000	0:35:54.473000
 .	-	-	-	0:35:49.878000	0:35:54.473000
 mhm	-	-	-	0:35:54.473000	0:35:54.973000
 .	-	-	-	0:35:54.473000	0:35:54.973000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:54.973000" end="0:35:55.852000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:54.973000" end="0:35:55.852000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:54.973000" end="0:35:55.852000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:54.973000" end="0:35:55.852000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:55.852000" end="0:35:58.460000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:55.852000" end="0:35:58.460000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:35:55.852000	0:35:57.852000
 im	-	-	-	0:35:55.852000	0:35:57.852000
 Sommer	-	-	-	0:35:55.852000	0:35:57.852000
@@ -9536,20 +9536,20 @@ schwimmen	-	-	-	0:35:55.852000	0:35:57.852000
 .	-	-	-	0:35:55.852000	0:35:57.852000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:57.852000" end="0:35:59" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:57.852000" end="0:35:59" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:35:58.460000	0:35:59
 .	-	-	-	0:35:58.460000	0:35:59
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:35:59" end="0:36:00.886000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:35:59" end="0:36:00.886000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:35:59	0:35:59.530000
 /.	-	-	-	0:35:59	0:35:59.530000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:59.530000" end="0:36:00.886000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:59.530000" end="0:36:00.886000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:00.886000" end="0:36:02.160000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:00.886000" end="0:36:02.160000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:36:00.886000	0:36:02.160000
 ist	-	-	-	0:36:00.886000	0:36:02.160000
 nichts	-	-	-	0:36:00.886000	0:36:02.160000
@@ -9557,7 +9557,7 @@ Besonderes	-	-	-	0:36:00.886000	0:36:02.160000
 dabei	-	-	-	0:36:00.886000	0:36:02.160000
 .	-	-	-	0:36:00.886000	0:36:02.160000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:00.886000" end="0:36:04.160000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:00.886000" end="0:36:04.160000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:36:00.886000	0:36:02.160000
 w/	-	-	-	0:36:00.886000	0:36:02.160000
 wo	-	-	-	0:36:00.886000	0:36:02.160000
@@ -9571,13 +9571,13 @@ in	-	-	-	0:36:02.160000	0:36:04.160000
 Hüttschlag	-	-	-	0:36:02.160000	0:36:04.160000
 ?	-	-	-	0:36:02.160000	0:36:04.160000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:04.160000" end="0:36:05.347000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:04.160000" end="0:36:05.347000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:04.160000" end="0:36:05.347000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:04.160000" end="0:36:05.347000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:05.347000" end="0:36:09.217000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:05.347000" end="0:36:09.217000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:36:05.347000	0:36:09.217000
 Hüttschlag	-	-	-	0:36:05.347000	0:36:09.217000
 ,	-	-	-	0:36:05.347000	0:36:09.217000
@@ -9595,11 +9595,11 @@ ORT	ORT	-	-	0:36:05.347000	0:36:09.217000
 ORT	ORT	-	-	0:36:05.347000	0:36:09.217000
 ,	-	-	-	0:36:05.347000	0:36:09.217000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:09.217000" end="0:36:09.786000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:09.217000" end="0:36:09.786000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:09.217000	0:36:09.786000
 .	-	-	-	0:36:09.217000	0:36:09.786000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:09.786000" end="0:36:11.460000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:09.786000" end="0:36:11.460000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:36:09.786000	0:36:11.460000
 das	-	-	-	0:36:09.786000	0:36:11.460000
 ist	-	-	-	0:36:09.786000	0:36:11.460000
@@ -9607,13 +9607,13 @@ nur	-	-	-	0:36:09.786000	0:36:11.460000
 Gletscherwasser	-	-	-	0:36:09.786000	0:36:11.460000
 .	-	-	-	0:36:09.786000	0:36:11.460000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:11.460000" end="0:36:13.226000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:11.460000" end="0:36:13.226000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:36:11.460000	0:36:13.226000
 ,	-	-	-	0:36:11.460000	0:36:13.226000
 mhm	-	-	-	0:36:11.460000	0:36:13.226000
 .	-	-	-	0:36:11.460000	0:36:13.226000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:13.226000" end="0:36:15.052000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:13.226000" end="0:36:15.052000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:36:13.226000	0:36:15.052000
 sonst	-	-	-	0:36:13.226000	0:36:15.052000
 gibt	-	-	-	0:36:13.226000	0:36:15.052000
@@ -9624,16 +9624,16 @@ ein	-	-	-	0:36:13.226000	0:36:15.052000
 Freibad	-	-	-	0:36:13.226000	0:36:15.052000
 .	-	-	-	0:36:13.226000	0:36:15.052000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:15.052000" end="0:36:16.217000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:15.052000" end="0:36:16.217000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:36:15.052000	0:36:16.217000
 ,	-	-	-	0:36:15.052000	0:36:16.217000
 mhm	-	-	-	0:36:15.052000	0:36:16.217000
 .	-	-	-	0:36:15.052000	0:36:16.217000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:16.217000" end="0:36:17.347000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:16.217000" end="0:36:17.347000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:16.217000" end="0:36:20.652000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:16.217000" end="0:36:20.652000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 das	-	-	-	0:36:17.347000	0:36:20.652000
 habe	-	-	-	0:36:17.347000	0:36:20.652000
@@ -9650,13 +9650,13 @@ ORT	ORT	-	-	0:36:17.347000	0:36:20.652000
 heißt	-	-	-	0:36:17.347000	0:36:20.652000
 ,	-	-	-	0:36:17.347000	0:36:20.652000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:20.652000" end="0:36:21.330000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:20.652000" end="0:36:21.330000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:20.652000	0:36:21.330000
 ,	-	-	-	0:36:20.652000	0:36:21.330000
 genau	-	-	-	0:36:20.652000	0:36:21.330000
 .	-	-	-	0:36:20.652000	0:36:21.330000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:20.652000" end="0:36:25.486000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:20.652000" end="0:36:25.486000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:36:20.652000	0:36:21.330000
 ?	-	-	-	0:36:20.652000	0:36:21.330000
 deshalb	-	-	-	0:36:21.330000	0:36:25.486000
@@ -9668,10 +9668,10 @@ mal	-	-	-	0:36:21.330000	0:36:25.486000
 nachfragen	-	-	-	0:36:21.330000	0:36:25.486000
 .	-	-	-	0:36:21.330000	0:36:25.486000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:25.486000" end="0:36:26.926000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:25.486000" end="0:36:26.926000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:25.486000" end="0:36:33.695000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:25.486000" end="0:36:33.695000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 das	-	-	-	0:36:26.926000	0:36:33.695000
 heißt	-	-	-	0:36:26.926000	0:36:33.695000
@@ -9697,13 +9697,13 @@ auch	-	-	-	0:36:26.926000	0:36:33.695000
 außerhalb	-	-	-	0:36:26.926000	0:36:33.695000
 ?	-	-	-	0:36:26.926000	0:36:33.695000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:33.695000" end="0:36:34.691000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:33.695000" end="0:36:34.691000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:33.695000" end="0:36:34.691000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:33.695000" end="0:36:34.691000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:34.691000" end="0:36:38.282000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:34.691000" end="0:36:38.282000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:34.691000	0:36:38.282000
 ,	-	-	-	0:36:34.691000	0:36:38.282000
 durch	-	-	-	0:36:34.691000	0:36:38.282000
@@ -9724,17 +9724,17 @@ außerhalb	-	-	-	0:36:34.691000	0:36:38.282000
 auch	-	-	-	0:36:34.691000	0:36:38.282000
 .	-	-	-	0:36:34.691000	0:36:38.282000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:38.282000" end="0:36:38.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:38.282000" end="0:36:38.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:38.282000	0:36:38.752000
 .	-	-	-	0:36:38.282000	0:36:38.752000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:38.752000" end="0:36:40.395000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:38.752000" end="0:36:40.395000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:38.752000" end="0:36:40.395000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:38.752000" end="0:36:40.395000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:40.395000" end="0:36:44.578000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:40.395000" end="0:36:44.578000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:36:40.395000	0:36:44.578000
 sonst	-	-	-	0:36:40.395000	0:36:44.578000
 ,	-	-	-	0:36:40.395000	0:36:44.578000
@@ -9753,7 +9753,7 @@ in	-	-	-	0:36:40.395000	0:36:44.578000
 Hüttschlag	-	-	-	0:36:40.395000	0:36:44.578000
 .	-	-	-	0:36:40.395000	0:36:44.578000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:44.578000" end="0:36:46.760000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:44.578000" end="0:36:46.760000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:36:44.578000	0:36:45.104000
 .	-	-	-	0:36:44.578000	0:36:45.104000
 und	-	-	-	0:36:45.104000	0:36:46.760000
@@ -9763,17 +9763,17 @@ fortgehen	-	-	-	0:36:45.104000	0:36:46.760000
 in	-	-	-	0:36:45.104000	0:36:46.760000
 Hüttschlag	-	-	-	0:36:45.104000	0:36:46.760000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:46.760000" end="0:36:47.395000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:46.760000" end="0:36:47.395000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:46.760000	0:36:47.395000
 .	-	-	-	0:36:46.760000	0:36:47.395000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:46.760000" end="0:36:47.395000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:46.760000" end="0:36:47.395000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:36:46.760000	0:36:47.395000
 /?	-	-	-	0:36:46.760000	0:36:47.395000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:47.395000" end="0:36:48.769000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:47.395000" end="0:36:48.769000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:47.395000" end="0:36:48.769000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:47.395000" end="0:36:48.769000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:36:47.395000	0:36:48.769000
 ?	-	-	-	0:36:47.395000	0:36:48.769000
 wohin	-	-	-	0:36:47.395000	0:36:48.769000
@@ -9782,12 +9782,12 @@ man	-	-	-	0:36:47.395000	0:36:48.769000
 gehen	-	-	-	0:36:47.395000	0:36:48.769000
 ?	-	-	-	0:36:47.395000	0:36:48.769000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:48.769000" end="0:36:49.860000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:48.769000" end="0:36:49.860000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:36:48.769000	0:36:49.860000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:48.769000" end="0:36:49.860000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:48.769000" end="0:36:49.860000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:49.860000" end="0:36:53.617000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:49.860000" end="0:36:53.617000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 zwei	-	-	-	0:36:49.860000	0:36:52.826000
 Minuten	-	-	-	0:36:49.860000	0:36:52.826000
 zu	-	-	-	0:36:49.860000	0:36:52.826000
@@ -9799,7 +9799,7 @@ nach	-	-	-	0:36:49.860000	0:36:52.826000
 .	-	-	-	0:36:49.860000	0:36:52.826000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:52.826000" end="0:36:55.443000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:52.826000" end="0:36:55.443000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:36:53.617000	0:36:55.443000
 ,	-	-	-	0:36:53.617000	0:36:55.443000
@@ -9812,7 +9812,7 @@ genau	-	-	-	0:36:53.617000	0:36:55.443000
 gesehen	-	-	-	0:36:53.617000	0:36:55.443000
 ,	-	-	-	0:36:53.617000	0:36:55.443000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:55.443000" end="0:36:57.391000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:55.443000" end="0:36:57.391000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:55.443000	0:36:57.391000
 ,	-	-	-	0:36:55.443000	0:36:57.391000
 der	-	-	-	0:36:55.443000	0:36:57.391000
@@ -9821,7 +9821,7 @@ SONSTIGE	SONSTIGE	-	-	0:36:55.443000	0:36:57.391000
 mhm	-	-	-	0:36:55.443000	0:36:57.391000
 .	-	-	-	0:36:55.443000	0:36:57.391000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:55.443000" end="0:36:57.391000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:55.443000" end="0:36:57.391000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:36:55.443000	0:36:57.391000
 quasi	-	-	-	0:36:55.443000	0:36:57.391000
 gegenüber	-	-	-	0:36:55.443000	0:36:57.391000
@@ -9829,9 +9829,9 @@ gegenüber	-	-	-	0:36:55.443000	0:36:57.391000
 mhm	-	-	-	0:36:55.443000	0:36:57.391000
 .	-	-	-	0:36:55.443000	0:36:57.391000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:36:57.391000" end="0:36:58.156000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:36:57.391000" end="0:36:58.156000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:57.391000" end="0:37:00.230000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:57.391000" end="0:37:00.230000" persName="Informant EXP9" age_lower="" age_upper="999">
 du	-	-	-	0:36:58.156000	0:37:00.230000
 hast	-	-	-	0:36:58.156000	0:37:00.230000
 es	-	-	-	0:36:58.156000	0:37:00.230000
@@ -9840,19 +9840,19 @@ sehr	-	-	-	0:36:58.156000	0:37:00.230000
 praktisch	-	-	-	0:36:58.156000	0:37:00.230000
 .	-	-	-	0:36:58.156000	0:37:00.230000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:00.230000" end="0:37:02.195000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:00.230000" end="0:37:02.195000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 teilweise	-	-	-	0:37:00.230000	0:37:01.430000
 schon	-	-	-	0:37:00.230000	0:37:01.430000
 ,	-	-	-	0:37:00.230000	0:37:01.430000
 ja	-	-	-	0:37:00.230000	0:37:01.430000
 .	-	-	-	0:37:00.230000	0:37:01.430000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:01.430000" end="0:37:02.195000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:01.430000" end="0:37:02.195000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:02.195000" end="0:37:03.069000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:02.195000" end="0:37:03.069000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:02.195000" end="0:37:07.213000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:02.195000" end="0:37:07.213000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 und	-	-	-	0:37:03.069000	0:37:07.213000
 sind	-	-	-	0:37:03.069000	0:37:07.213000
@@ -9874,7 +9874,7 @@ ein	-	-	-	0:37:03.069000	0:37:07.213000
 Club	-	-	-	0:37:03.069000	0:37:07.213000
 ,	-	-	-	0:37:03.069000	0:37:07.213000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:07.213000" end="0:37:08.678000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:07.213000" end="0:37:08.678000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:37:07.213000	0:37:08.678000
 ,	-	-	-	0:37:07.213000	0:37:08.678000
 es	-	-	-	0:37:07.213000	0:37:08.678000
@@ -9882,7 +9882,7 @@ ist	-	-	-	0:37:07.213000	0:37:08.678000
 e/	-	-	-	0:37:07.213000	0:37:08.678000
 /.	-	-	-	0:37:07.213000	0:37:08.678000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:07.213000" end="0:37:09.978000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:07.213000" end="0:37:09.978000" persName="Informant EXP9" age_lower="" age_upper="999">
 dass	-	-	-	0:37:07.213000	0:37:08.678000
 es	-	-	-	0:37:07.213000	0:37:08.678000
 immer	-	-	-	0:37:07.213000	0:37:08.678000
@@ -9895,26 +9895,26 @@ so	-	-	-	0:37:08.678000	0:37:09.978000
 Veranstaltungen	-	-	-	0:37:08.678000	0:37:09.978000
 und	-	-	-	0:37:08.678000	0:37:09.978000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:09.978000" end="0:37:11.004000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:09.978000" end="0:37:11.004000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:09.978000	0:37:11.004000
 /.	-	-	-	0:37:09.978000	0:37:11.004000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:09.978000" end="0:37:11.004000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:09.978000" end="0:37:11.004000" persName="Informant EXP9" age_lower="" age_upper="999">
 Partys	-	-	-	0:37:09.978000	0:37:11.004000
 dort	-	-	-	0:37:09.978000	0:37:11.004000
 ?	-	-	-	0:37:09.978000	0:37:11.004000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:11.004000" end="0:37:11.878000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:11.004000" end="0:37:11.878000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:37:11.004000	0:37:11.878000
 gibt	-	-	-	0:37:11.004000	0:37:11.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:11.004000" end="0:37:11.878000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:11.004000" end="0:37:11.878000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:37:11.004000	0:37:11.878000
 ist	-	-	-	0:37:11.004000	0:37:11.878000
 das	-	-	-	0:37:11.004000	0:37:11.878000
 ?	-	-	-	0:37:11.004000	0:37:11.878000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:11.878000" end="0:37:15.426000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:11.878000" end="0:37:15.426000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 Veranstaltungen	-	-	-	0:37:11.878000	0:37:15.426000
 ,	-	-	-	0:37:11.878000	0:37:15.426000
 wir	-	-	-	0:37:11.878000	0:37:15.426000
@@ -9928,11 +9928,11 @@ einen	-	-	-	0:37:11.878000	0:37:15.426000
 Stammtisch	-	-	-	0:37:11.878000	0:37:15.426000
 .	-	-	-	0:37:11.878000	0:37:15.426000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:15.426000" end="0:37:16.191000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:15.426000" end="0:37:16.191000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:15.426000	0:37:16.191000
 .	-	-	-	0:37:15.426000	0:37:16.191000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:16.191000" end="0:37:18.765000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:16.191000" end="0:37:18.765000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:37:16.191000	0:37:18.765000
 ist	-	-	-	0:37:16.191000	0:37:18.765000
 zum	-	-	-	0:37:16.191000	0:37:18.765000
@@ -9943,11 +9943,11 @@ Schlitten	-	-	-	0:37:16.191000	0:37:18.765000
 fahren	-	-	-	0:37:16.191000	0:37:18.765000
 .	-	-	-	0:37:16.191000	0:37:18.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:18.765000" end="0:37:19.486000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:18.765000" end="0:37:19.486000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:37:18.765000	0:37:19.486000
 .	-	-	-	0:37:18.765000	0:37:19.486000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:19.486000" end="0:37:25.065000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:19.486000" end="0:37:25.065000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:37:19.486000	0:37:25.065000
 ist	-	-	-	0:37:19.486000	0:37:25.065000
 nachher	-	-	-	0:37:19.486000	0:37:25.065000
@@ -9966,11 +9966,11 @@ einzeln	-	-	-	0:37:19.486000	0:37:25.065000
 an	-	-	-	0:37:19.486000	0:37:25.065000
 ,	-	-	-	0:37:19.486000	0:37:25.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:25.065000" end="0:37:25.747000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:25.065000" end="0:37:25.747000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:25.065000	0:37:25.747000
 .	-	-	-	0:37:25.065000	0:37:25.747000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:25.747000" end="0:37:39.408000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:25.747000" end="0:37:39.408000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:37:25.747000	0:37:31.260000
 treffen	-	-	-	0:37:25.747000	0:37:31.260000
 wir	-	-	-	0:37:25.747000	0:37:31.260000
@@ -10029,28 +10029,28 @@ welchem	-	-	-	0:37:34.591000	0:37:39.408000
 Mann	-	-	-	0:37:34.591000	0:37:39.408000
 *dass*	-	-	-	0:37:34.591000	0:37:39.408000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:39.408000" end="0:37:40.360000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:39.408000" end="0:37:40.360000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:39.408000	0:37:40.360000
 .	-	-	-	0:37:39.408000	0:37:40.360000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:39.408000" end="0:37:40.360000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:39.408000" end="0:37:40.360000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 fahren	-	-	-	0:37:39.408000	0:37:40.360000
 müssen	-	-	-	0:37:39.408000	0:37:40.360000
 .	-	-	-	0:37:39.408000	0:37:40.360000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:40.360000" end="0:37:41.365000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:40.360000" end="0:37:41.365000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:37:40.360000	0:37:41.365000
 klingt	-	-	-	0:37:40.360000	0:37:41.365000
 lustig	-	-	-	0:37:40.360000	0:37:41.365000
 .	-	-	-	0:37:40.360000	0:37:41.365000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:40.360000" end="0:37:41.365000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:40.360000" end="0:37:41.365000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:40.360000	0:37:41.365000
 .	-	-	-	0:37:40.360000	0:37:41.365000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:41.365000" end="0:37:42.104000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:41.365000" end="0:37:42.104000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:42.104000" end="0:37:44.782000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:42.104000" end="0:37:44.782000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:37:42.104000	0:37:44.782000
 sowas	-	-	-	0:37:42.104000	0:37:44.782000
 gibt	-	-	-	0:37:42.104000	0:37:44.782000
@@ -10066,18 +10066,18 @@ drei	-	-	-	0:37:42.104000	0:37:44.782000
 Monate	-	-	-	0:37:42.104000	0:37:44.782000
 oder	-	-	-	0:37:42.104000	0:37:44.782000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:44.782000" end="0:37:46.665000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:44.782000" end="0:37:46.665000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:44.782000	0:37:45.391000
 .	-	-	-	0:37:44.782000	0:37:45.391000
 okay	-	-	-	0:37:45.391000	0:37:46.665000
 .	-	-	-	0:37:45.391000	0:37:46.665000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:45.391000" end="0:37:46.665000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:45.391000" end="0:37:46.665000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 zu	-	-	-	0:37:45.391000	0:37:46.665000
 irgendwas	-	-	-	0:37:45.391000	0:37:46.665000
 .	-	-	-	0:37:45.391000	0:37:46.665000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:46.665000" end="0:37:49.256000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:46.665000" end="0:37:49.256000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:37:46.665000	0:37:47.826000
 nicht	-	-	-	0:37:46.665000	0:37:47.826000
 jedes	-	-	-	0:37:46.665000	0:37:47.826000
@@ -10085,18 +10085,18 @@ Wochenende	-	-	-	0:37:47.826000	0:37:49.256000
 eigentlich	-	-	-	0:37:47.826000	0:37:49.256000
 .	-	-	-	0:37:47.826000	0:37:49.256000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:47.826000" end="0:37:49.256000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:47.826000" end="0:37:49.256000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:37:47.826000	0:37:49.256000
 ,	-	-	-	0:37:47.826000	0:37:49.256000
 nein	-	-	-	0:37:47.826000	0:37:49.256000
 ,	-	-	-	0:37:47.826000	0:37:49.256000
 überhaupt	-	-	-	0:37:47.826000	0:37:49.256000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:49.256000" end="0:37:50.078000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:49.256000" end="0:37:50.078000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:37:49.256000	0:37:50.078000
 .	-	-	-	0:37:49.256000	0:37:50.078000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:49.256000" end="0:37:57.326000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:49.256000" end="0:37:57.326000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:37:49.256000	0:37:50.078000
 ,	-	-	-	0:37:49.256000	0:37:50.078000
 man	-	-	-	0:37:49.256000	0:37:50.078000
@@ -10130,20 +10130,20 @@ die	-	-	-	0:37:50.078000	0:37:57.326000
 Wildwochen	-	-	-	0:37:50.078000	0:37:57.326000
 ,	-	-	-	0:37:50.078000	0:37:57.326000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:57.326000" end="0:37:58.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:57.326000" end="0:37:58.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:57.326000	0:37:58.100000
 .	-	-	-	0:37:57.326000	0:37:58.100000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:57.326000" end="0:37:58.100000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:57.326000" end="0:37:58.100000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:37:57.326000	0:37:58.100000
 so	-	-	-	0:37:57.326000	0:37:58.100000
 ,	-	-	-	0:37:57.326000	0:37:58.100000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:58.100000" end="0:38:01.308000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:58.100000" end="0:38:01.308000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:37:58.100000	0:38:01.308000
 .	-	-	-	0:37:58.100000	0:38:01.308000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:37:58.100000" end="0:38:01.308000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:37:58.100000" end="0:38:01.308000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 weiß	-	-	-	0:37:58.100000	0:38:01.308000
 ich	-	-	-	0:37:58.100000	0:38:01.308000
 nicht	-	-	-	0:37:58.100000	0:38:01.308000
@@ -10164,15 +10164,15 @@ Licht	-	-	-	0:37:58.100000	0:38:01.308000
 ein	-	-	-	0:37:58.100000	0:38:01.308000
 _bissel_	-	-	-	0:37:58.100000	0:38:01.308000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:01.308000" end="0:38:03.417000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:01.308000" end="0:38:03.417000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:38:01.308000	0:38:03.417000
 .	-	-	-	0:38:01.308000	0:38:03.417000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:01.308000" end="0:38:03.417000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:01.308000" end="0:38:03.417000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 dunkler	-	-	-	0:38:01.308000	0:38:03.417000
 .	-	-	-	0:38:01.308000	0:38:03.417000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:03.417000" end="0:38:06.560000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:03.417000" end="0:38:06.560000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:38:03.417000	0:38:05.239000
 eigentlich	-	-	-	0:38:03.417000	0:38:05.239000
 toll	-	-	-	0:38:03.417000	0:38:05.239000
@@ -10187,20 +10187,20 @@ wo	-	-	-	0:38:05.239000	0:38:06.560000
 mhm	-	-	-	0:38:05.239000	0:38:06.560000
 .	-	-	-	0:38:05.239000	0:38:06.560000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:05.239000" end="0:38:06.560000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:05.239000" end="0:38:06.560000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:05.239000	0:38:06.560000
 ,	-	-	-	0:38:05.239000	0:38:06.560000
 voll	-	-	-	0:38:05.239000	0:38:06.560000
 cool	-	-	-	0:38:05.239000	0:38:06.560000
 .	-	-	-	0:38:05.239000	0:38:06.560000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:06.560000" end="0:38:07.408000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:06.560000" end="0:38:07.408000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:06.560000" end="0:38:07.408000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:06.560000" end="0:38:07.408000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:07.408000" end="0:38:09.478000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:07.408000" end="0:38:09.478000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:38:07.408000	0:38:08.513000
 man	-	-	-	0:38:07.408000	0:38:08.513000
 hingehen	-	-	-	0:38:07.408000	0:38:08.513000
@@ -10208,34 +10208,34 @@ kann	-	-	-	0:38:07.408000	0:38:08.513000
 .	-	-	-	0:38:07.408000	0:38:08.513000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:08.513000" end="0:38:09.478000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:08.513000" end="0:38:09.478000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:09.478000" end="0:38:11.243000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:09.478000" end="0:38:11.243000" persName="Informant EXP9" age_lower="" age_upper="999">
 reisen	-	-	-	0:38:09.478000	0:38:11.243000
 Sie	-	-	-	0:38:09.478000	0:38:11.243000
 auch	-	-	-	0:38:09.478000	0:38:11.243000
 gelegentlich	-	-	-	0:38:09.478000	0:38:11.243000
 ?	-	-	-	0:38:09.478000	0:38:11.243000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:11.243000" end="0:38:11.882000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:11.243000" end="0:38:11.882000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 reisen	-	-	-	0:38:11.243000	0:38:11.882000
 ?	-	-	-	0:38:11.243000	0:38:11.882000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:11.882000" end="0:38:12.330000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:11.882000" end="0:38:12.330000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:11.882000	0:38:12.330000
 .	-	-	-	0:38:11.882000	0:38:12.330000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:12.330000" end="0:38:12.995000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:12.330000" end="0:38:12.995000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:12.330000	0:38:12.995000
 .	-	-	-	0:38:12.330000	0:38:12.995000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:12.995000" end="0:38:14.356000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:12.995000" end="0:38:14.356000" persName="Informant EXP9" age_lower="" age_upper="999">
 wohin	-	-	-	0:38:12.995000	0:38:14.356000
 denn	-	-	-	0:38:12.995000	0:38:14.356000
 ?	-	-	-	0:38:12.995000	0:38:14.356000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:14.356000" end="0:38:18.195000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:14.356000" end="0:38:18.195000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:14.356000	0:38:18.195000
 <pause duration="0,7s"/>
 mein	-	-	-	0:38:14.356000	0:38:18.195000
@@ -10246,11 +10246,11 @@ Motorrad	-	-	-	0:38:14.356000	0:38:18.195000
 fahren	-	-	-	0:38:14.356000	0:38:18.195000
 ,	-	-	-	0:38:14.356000	0:38:18.195000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:18.195000" end="0:38:18.730000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:18.195000" end="0:38:18.730000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:18.195000	0:38:18.730000
 .	-	-	-	0:38:18.195000	0:38:18.730000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:18.730000" end="0:38:21.265000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:18.730000" end="0:38:21.265000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:38:18.730000	0:38:21.265000
 darf	-	-	-	0:38:18.730000	0:38:21.265000
 ich	-	-	-	0:38:18.730000	0:38:21.265000
@@ -10263,9 +10263,9 @@ muss	-	-	-	0:38:18.730000	0:38:21.265000
 ich	-	-	-	0:38:18.730000	0:38:21.265000
 .	-	-	-	0:38:18.730000	0:38:21.265000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:21.265000" end="0:38:22.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:21.265000" end="0:38:22.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:21.265000" end="0:38:24.047000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:21.265000" end="0:38:24.047000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:38:21.265000	0:38:22.995000
 ,	-	-	-	0:38:21.265000	0:38:22.995000
 es	-	-	-	0:38:21.265000	0:38:22.995000
@@ -10279,10 +10279,10 @@ auch	-	-	-	0:38:22.995000	0:38:24.047000
 Spaß	-	-	-	0:38:22.995000	0:38:24.047000
 .	-	-	-	0:38:22.995000	0:38:24.047000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:24.047000" end="0:38:24.695000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:24.047000" end="0:38:24.695000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:24.047000" end="0:38:28.134000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:24.047000" end="0:38:28.134000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	-	-	-	0:38:24.695000	0:38:28.134000
 nachher	-	-	-	0:38:24.695000	0:38:28.134000
@@ -10303,11 +10303,11 @@ in	-	-	-	0:38:24.695000	0:38:28.134000
 Osttirol	-	-	-	0:38:24.695000	0:38:28.134000
 ,	-	-	-	0:38:24.695000	0:38:28.134000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:28.134000" end="0:38:28.786000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:28.134000" end="0:38:28.786000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:28.134000	0:38:28.786000
 .	-	-	-	0:38:28.134000	0:38:28.786000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:28.786000" end="0:38:32.352000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:28.786000" end="0:38:32.352000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:38:28.786000	0:38:32.352000
 Kroatien	-	-	-	0:38:28.786000	0:38:32.352000
 ,	-	-	-	0:38:28.786000	0:38:32.352000
@@ -10320,7 +10320,7 @@ Reise	-	-	-	0:38:28.786000	0:38:32.352000
 an	-	-	-	0:38:28.786000	0:38:32.352000
 .	-	-	-	0:38:28.786000	0:38:32.352000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:32.352000" end="0:38:33.543000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:32.352000" end="0:38:33.543000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:38:32.352000	0:38:33.543000
 ,	-	-	-	0:38:32.352000	0:38:33.543000
 was	-	-	-	0:38:32.352000	0:38:33.543000
@@ -10329,7 +10329,7 @@ denn	-	-	-	0:38:32.352000	0:38:33.543000
 an	-	-	-	0:38:32.352000	0:38:33.543000
 ?	-	-	-	0:38:32.352000	0:38:33.543000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:33.543000" end="0:38:36.643000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:33.543000" end="0:38:36.643000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:33.543000	0:38:36.643000
 wir	-	-	-	0:38:33.543000	0:38:36.643000
 wissen	-	-	-	0:38:33.543000	0:38:36.643000
@@ -10344,19 +10344,19 @@ halt	-	-	-	0:38:33.543000	0:38:36.643000
 weg	-	-	-	0:38:33.543000	0:38:36.643000
 ,	-	-	-	0:38:33.543000	0:38:36.643000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:36.643000" end="0:38:37.765000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:36.643000" end="0:38:37.765000" persName="Informant EXP9" age_lower="" age_upper="999">
 wow	-	-	-	0:38:36.643000	0:38:37.765000
 .	-	-	-	0:38:36.643000	0:38:37.765000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:36.643000" end="0:38:37.765000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:36.643000" end="0:38:37.765000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 entweder	-	-	-	0:38:36.643000	0:38:37.765000
 Bali	-	-	-	0:38:36.643000	0:38:37.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:37.765000" end="0:38:40.126000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:37.765000" end="0:38:40.126000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:37.765000	0:38:40.126000
 .	-	-	-	0:38:37.765000	0:38:40.126000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:37.765000" end="0:38:40.126000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:37.765000" end="0:38:40.126000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 oder	-	-	-	0:38:37.765000	0:38:40.126000
 Vietnam	-	-	-	0:38:37.765000	0:38:40.126000
@@ -10365,28 +10365,28 @@ so	-	-	-	0:38:37.765000	0:38:40.126000
 irgendwas	-	-	-	0:38:37.765000	0:38:40.126000
 .	-	-	-	0:38:37.765000	0:38:40.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:40.126000" end="0:38:41.939000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:40.126000" end="0:38:41.939000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:38:40.126000	0:38:41.039000
 ein	-	-	-	0:38:40.126000	0:38:41.039000
 _bissel_	-	-	-	0:38:40.126000	0:38:41.039000
 was	-	-	-	0:38:40.126000	0:38:41.039000
 Exotischeres	-	-	-	0:38:41.039000	0:38:41.939000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:41.039000" end="0:38:41.939000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:41.039000" end="0:38:41.939000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:41.039000	0:38:41.939000
 .	-	-	-	0:38:41.039000	0:38:41.939000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:41.939000" end="0:38:44.117000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:41.939000" end="0:38:44.117000" persName="Informant EXP9" age_lower="" age_upper="999">
 sogar	-	-	-	0:38:41.939000	0:38:42.756000
 ,	-	-	-	0:38:41.939000	0:38:42.756000
 mhm	-	-	-	0:38:41.939000	0:38:42.756000
 .	-	-	-	0:38:41.939000	0:38:42.756000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:42.756000" end="0:38:44.117000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:42.756000" end="0:38:44.117000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:44.117000" end="0:38:47.586000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:44.117000" end="0:38:47.586000" persName="Informant EXP9" age_lower="" age_upper="999">
 wohnen	-	-	-	0:38:44.117000	0:38:46.117000
 Sie	-	-	-	0:38:44.117000	0:38:46.117000
 gerne	-	-	-	0:38:44.117000	0:38:46.117000
@@ -10396,12 +10396,12 @@ Hüttschlag	-	-	-	0:38:44.117000	0:38:46.117000
 ?	-	-	-	0:38:44.117000	0:38:46.117000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:46.117000" end="0:38:48.265000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:46.117000" end="0:38:48.265000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	-	-	-	0:38:47.586000	0:38:48.265000
 .	-	-	-	0:38:47.586000	0:38:48.265000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:48.265000" end="0:38:51.134000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:48.265000" end="0:38:51.134000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:48.265000	0:38:50.304000
 ,	-	-	-	0:38:48.265000	0:38:50.304000
 warum	-	-	-	0:38:48.265000	0:38:50.304000
@@ -10414,7 +10414,7 @@ in	-	-	-	0:38:48.265000	0:38:50.304000
 Hüttschlag	-	-	-	0:38:50.304000	0:38:51.134000
 ?	-	-	-	0:38:50.304000	0:38:51.134000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:50.304000" end="0:38:55.352000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:50.304000" end="0:38:55.352000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:50.304000	0:38:51.134000
 ,	-	-	-	0:38:50.304000	0:38:51.134000
 <pause duration="0,5s"/>
@@ -10439,10 +10439,10 @@ gerne	-	-	-	0:38:53.582000	0:38:55.352000
 daheim	-	-	-	0:38:53.582000	0:38:55.352000
 .	-	-	-	0:38:53.582000	0:38:55.352000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:55.352000" end="0:38:56.678000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:55.352000" end="0:38:56.678000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:38:55.352000" end="0:39:02.591000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:38:55.352000" end="0:39:02.591000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 und	-	-	-	0:38:56.678000	0:39:02.591000
 <pause duration="0,8s"/>
@@ -10468,7 +10468,7 @@ her	-	-	-	0:38:56.678000	0:39:02.591000
 auch	-	-	-	0:38:56.678000	0:39:02.591000
 .	-	-	-	0:38:56.678000	0:39:02.591000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:02.591000" end="0:39:04.834000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:02.591000" end="0:39:04.834000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:02.591000	0:39:03.100000
 .	-	-	-	0:39:02.591000	0:39:03.100000
 das	-	-	-	0:39:03.100000	0:39:04.834000
@@ -10476,7 +10476,7 @@ ist	-	-	-	0:39:03.100000	0:39:04.834000
 schön	-	-	-	0:39:03.100000	0:39:04.834000
 .	-	-	-	0:39:03.100000	0:39:04.834000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:03.100000" end="0:39:06.060000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:03.100000" end="0:39:06.060000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:39:03.100000	0:39:04.834000
 da	-	-	-	0:39:03.100000	0:39:04.834000
 bin	-	-	-	0:39:03.100000	0:39:04.834000
@@ -10492,11 +10492,11 @@ auch	-	-	-	0:39:04.834000	0:39:06.060000
 gern	-	-	-	0:39:04.834000	0:39:06.060000
 .	-	-	-	0:39:04.834000	0:39:06.060000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:06.060000" end="0:39:06.547000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:06.060000" end="0:39:06.547000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:06.060000	0:39:06.547000
 .	-	-	-	0:39:06.060000	0:39:06.547000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:06.547000" end="0:39:08.765000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:06.547000" end="0:39:08.765000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:39:06.547000	0:39:08.765000
 meine	-	-	-	0:39:06.547000	0:39:08.765000
 ,	-	-	-	0:39:06.547000	0:39:08.765000
@@ -10514,7 +10514,7 @@ gern	-	-	-	0:39:06.547000	0:39:08.765000
 daheim	-	-	-	0:39:06.547000	0:39:08.765000
 .	-	-	-	0:39:06.547000	0:39:08.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:08.765000" end="0:39:13.543000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:08.765000" end="0:39:13.543000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:08.765000	0:39:09.365000
 .	-	-	-	0:39:08.765000	0:39:09.365000
 aber	-	-	-	0:39:09.365000	0:39:13.543000
@@ -10531,11 +10531,11 @@ Hüttschlag	-	-	-	0:39:09.365000	0:39:13.543000
 wegzuziehen	-	-	-	0:39:09.365000	0:39:13.543000
 ?	-	-	-	0:39:09.365000	0:39:13.543000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:13.543000" end="0:39:14.400000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:13.543000" end="0:39:14.400000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:13.543000	0:39:14.400000
 .	-	-	-	0:39:13.543000	0:39:14.400000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:14.400000" end="0:39:19.773000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:14.400000" end="0:39:19.773000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:14.400000	0:39:15.347000
 .	-	-	-	0:39:14.400000	0:39:15.347000
 auch	-	-	-	0:39:15.347000	0:39:17.543000
@@ -10552,7 +10552,7 @@ Land	-	-	-	0:39:17.543000	0:39:19.773000
 mhm	-	-	-	0:39:17.543000	0:39:19.773000
 .	-	-	-	0:39:17.543000	0:39:19.773000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:17.543000" end="0:39:19.773000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:17.543000" end="0:39:19.773000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:39:17.543000	0:39:19.773000
 ,	-	-	-	0:39:17.543000	0:39:19.773000
 schon	-	-	-	0:39:17.543000	0:39:19.773000
@@ -10563,10 +10563,10 @@ also	-	-	-	0:39:17.543000	0:39:19.773000
 ähm	-	-	-	0:39:17.543000	0:39:19.773000
 /.	-	-	-	0:39:17.543000	0:39:19.773000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:19.773000" end="0:39:21.156000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:19.773000" end="0:39:21.156000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:19.773000" end="0:39:23.926000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:19.773000" end="0:39:23.926000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 *weiß*	-	-	-	0:39:21.156000	0:39:23.926000
 nicht	-	-	-	0:39:21.156000	0:39:23.926000
@@ -10580,15 +10580,15 @@ der	-	-	-	0:39:21.156000	0:39:23.926000
 Stadt	-	-	-	0:39:21.156000	0:39:23.926000
 .	-	-	-	0:39:21.156000	0:39:23.926000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:23.926000" end="0:39:26.421000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:23.926000" end="0:39:26.421000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:23.926000	0:39:25.200000
 .	-	-	-	0:39:23.926000	0:39:25.200000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:25.200000" end="0:39:26.421000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:25.200000" end="0:39:26.421000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:26.421000" end="0:39:30.282000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:26.421000" end="0:39:30.282000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:39:26.421000	0:39:29.343000
 heißt	-	-	-	0:39:26.421000	0:39:29.343000
 ,	-	-	-	0:39:26.421000	0:39:29.343000
@@ -10601,7 +10601,7 @@ Option	-	-	-	0:39:26.421000	0:39:29.343000
 .	-	-	-	0:39:26.421000	0:39:29.343000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:29.343000" end="0:39:32.200000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:29.343000" end="0:39:32.200000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:39:30.282000	0:39:32.200000
 <pause duration="0,6s"/>
@@ -10614,31 +10614,31 @@ nicht	-	-	-	0:39:30.282000	0:39:32.200000
 sagen	-	-	-	0:39:30.282000	0:39:32.200000
 .	-	-	-	0:39:30.282000	0:39:32.200000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:32.200000" end="0:39:34.013000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:32.200000" end="0:39:34.013000" persName="Informant EXP9" age_lower="" age_upper="999">
 zumindest	-	-	-	0:39:32.200000	0:39:34.013000
 der	-	-	-	0:39:32.200000	0:39:34.013000
 Wunsch	-	-	-	0:39:32.200000	0:39:34.013000
 wäre	-	-	-	0:39:32.200000	0:39:34.013000
 jetzt	-	-	-	0:39:32.200000	0:39:34.013000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:32.200000" end="0:39:34.013000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:32.200000" end="0:39:34.013000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 (aber	-	-	-	0:39:32.200000	0:39:34.013000
 es	-	-	-	0:39:32.200000	0:39:34.013000
 ist	-	-	-	0:39:32.200000	0:39:34.013000
 jetzt)	-	-	-	0:39:32.200000	0:39:34.013000
 /.	-	-	-	0:39:32.200000	0:39:34.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:34.013000" end="0:39:35.221000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:34.013000" end="0:39:35.221000" persName="Informant EXP9" age_lower="" age_upper="999">
 nicht	-	-	-	0:39:34.013000	0:39:35.221000
 unbedingt	-	-	-	0:39:34.013000	0:39:35.221000
 da	-	-	-	0:39:34.013000	0:39:35.221000
 .	-	-	-	0:39:34.013000	0:39:35.221000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:34.013000" end="0:39:35.221000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:34.013000" end="0:39:35.221000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:39:34.013000	0:39:35.221000
 .	-	-	-	0:39:34.013000	0:39:35.221000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:35.221000" end="0:39:38.713000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:35.221000" end="0:39:38.713000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:35.221000	0:39:35.756000
 .	-	-	-	0:39:35.221000	0:39:35.756000
 weil	-	-	-	0:39:35.756000	0:39:37.343000
@@ -10654,19 +10654,19 @@ passiert	-	-	-	0:39:35.756000	0:39:37.343000
 ?)	-	-	-	0:39:37.343000	0:39:38.713000
 .	-	-	-	0:39:37.343000	0:39:38.713000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:37.343000" end="0:39:38.713000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:37.343000" end="0:39:38.713000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:37.343000	0:39:38.713000
 ,	-	-	-	0:39:37.343000	0:39:38.713000
 eben	-	-	-	0:39:37.343000	0:39:38.713000
 .	-	-	-	0:39:37.343000	0:39:38.713000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:38.713000" end="0:39:39.730000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:38.713000" end="0:39:39.730000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:38.713000" end="0:39:39.730000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:38.713000" end="0:39:39.730000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:39.730000" end="0:39:44.900000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:39.730000" end="0:39:44.900000" persName="Informant EXP9" age_lower="" age_upper="999">
 ähm	-	-	-	0:39:39.730000	0:39:43.726000
 engagieren	-	-	-	0:39:39.730000	0:39:43.726000
 Sie	-	-	-	0:39:39.730000	0:39:43.726000
@@ -10682,7 +10682,7 @@ Gruppen	-	-	-	0:39:39.730000	0:39:43.726000
 ?	-	-	-	0:39:39.730000	0:39:43.726000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:43.726000" end="0:39:46.578000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:43.726000" end="0:39:46.578000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	-	-	-	0:39:44.900000	0:39:46.578000
 ,	-	-	-	0:39:44.900000	0:39:46.578000
@@ -10695,11 +10695,11 @@ einen	-	-	-	0:39:44.900000	0:39:46.578000
 Stammtisch	-	-	-	0:39:44.900000	0:39:46.578000
 ,	-	-	-	0:39:44.900000	0:39:46.578000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:46.578000" end="0:39:47.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:46.578000" end="0:39:47.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:39:46.578000	0:39:47.100000
 .	-	-	-	0:39:46.578000	0:39:47.100000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:47.100000" end="0:39:48.695000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:47.100000" end="0:39:48.695000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:39:47.100000	0:39:48.695000
 machen	-	-	-	0:39:47.100000	0:39:48.695000
 wir	-	-	-	0:39:47.100000	0:39:48.695000
@@ -10707,10 +10707,10 @@ gelegentlich	-	-	-	0:39:47.100000	0:39:48.695000
 was	-	-	-	0:39:47.100000	0:39:48.695000
 .	-	-	-	0:39:47.100000	0:39:48.695000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:48.695000" end="0:39:49.413000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:48.695000" end="0:39:49.413000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:48.695000" end="0:39:53.291000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:48.695000" end="0:39:53.291000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:39:49.413000	0:39:53.291000
 <pause duration="1,1s"/>
@@ -10723,11 +10723,11 @@ SONSTIGE	SONSTIGE	-	-	0:39:49.413000	0:39:53.291000
 dabei	-	-	-	0:39:49.413000	0:39:53.291000
 .	-	-	-	0:39:49.413000	0:39:53.291000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:53.291000" end="0:39:54.186000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:53.291000" end="0:39:54.186000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:53.291000	0:39:54.186000
 .	-	-	-	0:39:53.291000	0:39:54.186000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:54.186000" end="0:39:58" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:54.186000" end="0:39:58" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:39:54.186000	0:39:58
 bin	-	-	-	0:39:54.186000	0:39:58
 ich	-	-	-	0:39:54.186000	0:39:58
@@ -10741,10 +10741,10 @@ mehr	-	-	-	0:39:54.186000	0:39:58
 Aushilfe	-	-	-	0:39:54.186000	0:39:58
 .	-	-	-	0:39:54.186000	0:39:58
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:58" end="0:39:59.030000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:58" end="0:39:59.030000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:39:58" end="0:40:01.752000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:39:58" end="0:40:01.752000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	-	-	-	0:39:59.030000	0:40:01.752000
 sonst	-	-	-	0:39:59.030000	0:40:01.752000
@@ -10754,7 +10754,7 @@ eigentlich	-	-	-	0:39:59.030000	0:40:01.752000
 wenig	-	-	-	0:39:59.030000	0:40:01.752000
 .	-	-	-	0:39:59.030000	0:40:01.752000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:01.752000" end="0:40:03.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:01.752000" end="0:40:03.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:40:01.752000	0:40:03.100000
 ,	-	-	-	0:40:01.752000	0:40:03.100000
 aber	-	-	-	0:40:01.752000	0:40:03.100000
@@ -10765,11 +10765,11 @@ trotzdem	-	-	-	0:40:01.752000	0:40:03.100000
 schon	-	-	-	0:40:01.752000	0:40:03.100000
 /.	-	-	-	0:40:01.752000	0:40:03.100000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:40:03.100000" end="0:40:03.795000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:03.100000" end="0:40:03.795000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:03.100000	0:40:03.795000
 .	-	-	-	0:40:03.100000	0:40:03.795000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:03.795000" end="0:40:07.247000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:03.795000" end="0:40:07.247000" persName="Informant EXP9" age_lower="" age_upper="999">
 da	-	-	-	0:40:03.795000	0:40:06.469000
 hat	-	-	-	0:40:03.795000	0:40:06.469000
 man	-	-	-	0:40:03.795000	0:40:06.469000
@@ -10781,11 +10781,11 @@ dann	-	-	-	0:40:03.795000	0:40:06.469000
 quasi	-	-	-	0:40:06.469000	0:40:07.247000
 .	-	-	-	0:40:06.469000	0:40:07.247000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:40:06.469000" end="0:40:07.247000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:06.469000" end="0:40:07.247000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:06.469000	0:40:07.247000
 .	-	-	-	0:40:06.469000	0:40:07.247000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:07.247000" end="0:40:13.800000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:07.247000" end="0:40:13.800000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:40:08.143000	0:40:11.769000
 ,	-	-	-	0:40:08.143000	0:40:11.769000
 ähm	-	-	-	0:40:08.143000	0:40:11.769000
@@ -10808,13 +10808,13 @@ spannende	-	-	-	0:40:11.769000	0:40:12.921000
 Gespräch	-	-	-	0:40:12.921000	0:40:13.800000
 .	-	-	-	0:40:12.921000	0:40:13.800000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:40:12.921000" end="0:40:13.800000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:12.921000" end="0:40:13.800000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:12.921000	0:40:13.800000
 ,	-	-	-	0:40:12.921000	0:40:13.800000
 gern	-	-	-	0:40:12.921000	0:40:13.800000
 .	-	-	-	0:40:12.921000	0:40:13.800000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:13.800000" end="0:40:23.078000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:13.800000" end="0:40:23.078000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:40:13.800000	0:40:18.704000
 gibt	-	-	-	0:40:13.800000	0:40:18.704000
 es	-	-	-	0:40:13.800000	0:40:18.704000
@@ -10850,7 +10850,7 @@ gut	-	-	-	0:40:21.373000	0:40:23.078000
 passt	-	-	-	0:40:21.373000	0:40:23.078000
 .	-	-	-	0:40:21.373000	0:40:23.078000
 </u>
-<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" start="0:40:21.373000" end="0:40:23.078000" persName="Informant 0645">
+<u who="spk_294" sex="female" age="jung (18-35) -matura" name="Informant 0645" location="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" lat="47.1761222" lon="13.2325411" start="0:40:21.373000" end="0:40:23.078000" persName="Informant 0645" residence="Hüttschlag, Sankt Johann im Pongau, Salzburg, 5612, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:40:21.373000	0:40:23.078000
 ,	-	-	-	0:40:21.373000	0:40:23.078000
 ich	-	-	-	0:40:21.373000	0:40:23.078000
@@ -10858,7 +10858,7 @@ finde	-	-	-	0:40:21.373000	0:40:23.078000
 nicht	-	-	-	0:40:21.373000	0:40:23.078000
 .	-	-	-	0:40:21.373000	0:40:23.078000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:23.078000" end="0:40:25.078000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:23.078000" end="0:40:25.078000" persName="Informant EXP9" age_lower="" age_upper="999">
 dann	-	-	-	0:40:23.078000	0:40:25.078000
 ,	-	-	-	0:40:23.078000	0:40:25.078000
 stopp	-	-	-	0:40:23.078000	0:40:25.078000

@@ -1,6 +1,6 @@
 <doc id="transcript_224" name="0204_NMYB_jungII_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="224.xml" title="Transcript: Transcript_224">
-<u who="spk_43" sex="male" age="jung (18-35) +matura" name="Informant 0204" start="0:00:00" end="0:01:32.853000" persName="Informant 0204">
+<u who="spk_43" sex="male" age="jung (18-35) +matura" name="Informant 0204" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:00" end="0:01:32.853000" persName="Informant 0204" residence="Neumarkt an der Ybbs" age_lower="18" age_upper="35">
 XXX	XXX	PROPN	-	0:00:00	0:00:46.406000
 Nordwind	Nordwind	NOUN	-	0:00:46.406000	0:00:48.333000
 und	und	CCONJ	-	0:00:46.406000	0:00:48.333000

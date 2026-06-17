@@ -1,6 +1,6 @@
-<doc id="transcript_745" name="0209_NMYB_alt_f_INT_2" erhebung="Interview_2_PP0308" erhebungsart="Interview" ort_namekurz="NMYB" ort_namelang="Neumarkt an der Ybbs, Melk, Niederösterreich, 3371, Österreich" lat="48.1401281" lon="15.0576682">
+<doc id="transcript_745" name="0209_NMYB_alt_f_INT_2" erhebung="Interview_2_PP0308" erhebungsart="Interview">
 <file id="745.xml" title="Transcript: Transcript_745">
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:00:00" end="0:00:05.384000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:05.384000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:00:00	0:00:01.573000
 schauen	-	-	-	0:00:00	0:00:01.573000
 wir	-	-	-	0:00:00	0:00:01.573000
@@ -28,12 +28,12 @@ wieder	-	-	-	0:00:03.018000	0:00:05.384000
 da	-	-	-	0:00:03.018000	0:00:05.384000
 sein	-	-	-	0:00:03.018000	0:00:05.384000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:00:05.384000" end="0:00:06.487000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:05.384000" end="0:00:06.487000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 bitte	-	-	-	0:00:05.384000	0:00:06.487000
 gerne	-	-	-	0:00:05.384000	0:00:06.487000
 .	-	-	-	0:00:05.384000	0:00:06.487000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:00:05.384000" end="0:00:25.941000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:00:05.384000" end="0:00:25.941000" persName="Informant EXP2" age_lower="" age_upper="999">
 dürfen	-	-	-	0:00:05.384000	0:00:06.487000
 .	-	-	-	0:00:05.384000	0:00:06.487000
 ähm	-	-	-	0:00:06.487000	0:00:08.772000
@@ -113,13 +113,13 @@ der	-	-	-	0:00:20.804000	0:00:25.941000
 Ybbs	-	-	-	0:00:20.804000	0:00:25.941000
 ?	-	-	-	0:00:20.804000	0:00:25.941000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:00:25.941000" end="0:00:27.805000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:25.941000" end="0:00:27.805000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:00:25.941000" end="0:00:27.805000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:00:25.941000" end="0:00:27.805000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:00:27.805000" end="0:00:41.415000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:27.805000" end="0:00:41.415000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 man	-	-	-	0:00:27.805000	0:00:29.805000
 grüßt	-	-	-	0:00:27.805000	0:00:29.805000
 sich	-	-	-	0:00:27.805000	0:00:29.805000
@@ -162,11 +162,11 @@ Junge	-	-	-	0:00:37.990000	0:00:41.415000
 "hallo"	-	-	-	0:00:37.990000	0:00:41.415000
 .	-	-	-	0:00:37.990000	0:00:41.415000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:00:41.415000" end="0:00:42.366000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:00:41.415000" end="0:00:42.366000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:41.415000	0:00:42.366000
 .	-	-	-	0:00:41.415000	0:00:42.366000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:00:42.366000" end="0:01:00.299000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:42.366000" end="0:01:00.299000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:00:42.366000	0:00:43.730000
 gefällt	-	-	-	0:00:42.366000	0:00:43.730000
 mir	-	-	-	0:00:42.366000	0:00:43.730000
@@ -249,13 +249,13 @@ wichtig	-	-	-	0:00:58.901000	0:01:00.299000
 finde	-	-	-	0:00:58.901000	0:01:00.299000
 .	-	-	-	0:00:58.901000	0:01:00.299000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:00.299000" end="0:01:01.545000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:00.299000" end="0:01:01.545000" persName="Informant EXP2" age_lower="" age_upper="999">
 den	-	-	-	0:01:00.299000	0:01:01.545000
 Gruß	-	-	-	0:01:00.299000	0:01:01.545000
 selber	-	-	-	0:01:00.299000	0:01:01.545000
 ?	-	-	-	0:01:00.299000	0:01:01.545000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:01.545000" end="0:01:09.787000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:01.545000" end="0:01:09.787000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 den	-	-	-	0:01:01.545000	0:01:04.629000
 Gruß	-	-	-	0:01:01.545000	0:01:04.629000
 selber	-	-	-	0:01:01.545000	0:01:04.629000
@@ -283,13 +283,13 @@ oder	-	-	-	0:01:07.545000	0:01:09.787000
 "servus"	-	-	-	0:01:07.545000	0:01:09.787000
 .	-	-	-	0:01:07.545000	0:01:09.787000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:09.787000" end="0:01:10.586000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:09.787000" end="0:01:10.586000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:09.787000" end="0:01:10.586000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:09.787000" end="0:01:10.586000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:10.586000" end="0:01:12.873000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:10.586000" end="0:01:12.873000" persName="Informant EXP2" age_lower="" age_upper="999">
 zu	-	-	-	0:01:10.586000	0:01:12.873000
 Personen	-	-	-	0:01:10.586000	0:01:12.873000
 ,	-	-	-	0:01:10.586000	0:01:12.873000
@@ -298,7 +298,7 @@ Sie	-	-	-	0:01:10.586000	0:01:12.873000
 kennen	-	-	-	0:01:10.586000	0:01:12.873000
 ?	-	-	-	0:01:10.586000	0:01:12.873000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:10.586000" end="0:01:12.873000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:10.586000" end="0:01:12.873000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 zu	-	-	-	0:01:10.586000	0:01:12.873000
 Personen	-	-	-	0:01:10.586000	0:01:12.873000
 ,	-	-	-	0:01:10.586000	0:01:12.873000
@@ -307,7 +307,7 @@ ich	-	-	-	0:01:10.586000	0:01:12.873000
 kenne	-	-	-	0:01:10.586000	0:01:12.873000
 .	-	-	-	0:01:10.586000	0:01:12.873000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:12.873000" end="0:01:16.560000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:12.873000" end="0:01:16.560000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:01:12.873000	0:01:16.560000
 weil	-	-	-	0:01:12.873000	0:01:16.560000
 Sie	-	-	-	0:01:12.873000	0:01:16.560000
@@ -322,7 +322,7 @@ Sie	-	-	-	0:01:12.873000	0:01:16.560000
 auch	-	-	-	0:01:12.873000	0:01:16.560000
 /.	-	-	-	0:01:12.873000	0:01:16.560000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:16.560000" end="0:01:20.789000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:16.560000" end="0:01:20.789000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 "grüß	-	-	-	0:01:16.560000	0:01:18.858000
 Gott"	-	-	-	0:01:16.560000	0:01:18.858000
 ,	-	-	-	0:01:16.560000	0:01:18.858000
@@ -339,11 +339,11 @@ persönlich	-	-	-	0:01:18.858000	0:01:20.789000
 kenne	-	-	-	0:01:18.858000	0:01:20.789000
 .	-	-	-	0:01:18.858000	0:01:20.789000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:20.789000" end="0:01:21.375000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:20.789000" end="0:01:21.375000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:20.789000	0:01:21.375000
 .	-	-	-	0:01:20.789000	0:01:21.375000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:20.789000" end="0:01:24.320000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:20.789000" end="0:01:24.320000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 oder	-	-	-	0:01:20.789000	0:01:21.375000
 oder	-	-	-	0:01:21.375000	0:01:24.320000
 Personen	-	-	-	0:01:21.375000	0:01:24.320000
@@ -356,13 +356,13 @@ Sie	-	-	-	0:01:21.375000	0:01:24.320000
 bin	-	-	-	0:01:21.375000	0:01:24.320000
 .	-	-	-	0:01:21.375000	0:01:24.320000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:24.320000" end="0:01:25.145000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:24.320000" end="0:01:25.145000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:24.320000" end="0:01:25.145000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:24.320000" end="0:01:25.145000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:25.145000" end="0:01:30.850000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:25.145000" end="0:01:30.850000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:01:25.145000	0:01:26.756000
 "servus"	-	-	-	0:01:25.145000	0:01:26.756000
 und	-	-	-	0:01:25.145000	0:01:26.756000
@@ -383,7 +383,7 @@ Sie	-	-	-	0:01:29.074000	0:01:30.850000
 ja	-	-	-	0:01:29.074000	0:01:30.850000
 /.	-	-	-	0:01:29.074000	0:01:30.850000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:29.074000" end="0:01:32.610000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:29.074000" end="0:01:32.610000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:01:29.074000	0:01:30.850000
 ,	-	-	-	0:01:29.074000	0:01:30.850000
 ja	-	-	-	0:01:29.074000	0:01:30.850000
@@ -397,7 +397,7 @@ oder	-	-	-	0:01:30.850000	0:01:32.610000
 dich"	-	-	-	0:01:30.850000	0:01:32.610000
 .	-	-	-	0:01:30.850000	0:01:32.610000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:01:32.610000" end="0:01:38.539000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:01:32.610000" end="0:01:38.539000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:01:32.610000	0:01:35.198000
 das	-	-	-	0:01:32.610000	0:01:35.198000
 "hallo"	-	-	-	0:01:32.610000	0:01:35.198000
@@ -415,7 +415,7 @@ Jüngeren	-	-	-	0:01:35.198000	0:01:37.607000
 .	-	-	-	0:01:35.198000	0:01:37.607000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:01:37.607000" end="0:02:07.025000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:01:37.607000" end="0:02:07.025000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 ja	-	-	-	0:01:38.539000	0:01:40.399000
 ,	-	-	-	0:01:38.539000	0:01:40.399000
@@ -510,10 +510,10 @@ ganz	-	-	-	0:02:04.105000	0:02:07.025000
 klar	-	-	-	0:02:04.105000	0:02:07.025000
 .	-	-	-	0:02:04.105000	0:02:07.025000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:07.025000" end="0:02:08.070000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:07.025000" end="0:02:08.070000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:07.025000" end="0:02:10.407000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:07.025000" end="0:02:10.407000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,0s"/>
 und	-	-	-	0:02:08.070000	0:02:10.407000
 dann	-	-	-	0:02:08.070000	0:02:10.407000
@@ -523,18 +523,18 @@ halt	-	-	-	0:02:08.070000	0:02:10.407000
 "hallo"	-	-	-	0:02:08.070000	0:02:10.407000
 .	-	-	-	0:02:08.070000	0:02:10.407000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:10.407000" end="0:02:11.097000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:10.407000" end="0:02:11.097000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:10.407000" end="0:02:11.097000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:10.407000" end="0:02:11.097000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:11.097000" end="0:02:12.636000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:11.097000" end="0:02:12.636000" persName="Informant EXP2" age_lower="" age_upper="999">
 also	-	-	-	0:02:11.097000	0:02:12.636000
 ja	-	-	-	0:02:11.097000	0:02:12.636000
 .	-	-	-	0:02:11.097000	0:02:12.636000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:11.097000" end="0:02:12.636000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:11.097000" end="0:02:12.636000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nicht	-	-	-	0:02:11.097000	0:02:12.636000
 ?	-	-	-	0:02:11.097000	0:02:12.636000
 (weil)	-	-	-	0:02:11.097000	0:02:12.636000
@@ -544,7 +544,7 @@ eher	-	-	-	0:02:11.097000	0:02:12.636000
 neutral	-	-	-	0:02:11.097000	0:02:12.636000
 ,	-	-	-	0:02:11.097000	0:02:12.636000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:12.636000" end="0:02:15.140000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:12.636000" end="0:02:15.140000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:12.636000	0:02:15.140000
 ,	-	-	-	0:02:12.636000	0:02:15.140000
 dass	-	-	-	0:02:12.636000	0:02:15.140000
@@ -558,13 +558,13 @@ Seite	-	-	-	0:02:12.636000	0:02:15.140000
 dann	-	-	-	0:02:12.636000	0:02:15.140000
 /.	-	-	-	0:02:12.636000	0:02:15.140000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:12.636000" end="0:02:15.529000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:12.636000" end="0:02:15.529000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:02:12.636000	0:02:15.140000
 /.	-	-	-	0:02:12.636000	0:02:15.140000
 ja	-	-	-	0:02:15.140000	0:02:15.529000
 .	-	-	-	0:02:15.140000	0:02:15.529000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:15.529000" end="0:02:24.055000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:15.529000" end="0:02:24.055000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:02:15.529000	0:02:18.121000
 haben	-	-	-	0:02:15.529000	0:02:18.121000
 Sie	-	-	-	0:02:15.529000	0:02:18.121000
@@ -591,7 +591,7 @@ oder	-	-	-	0:02:18.121000	0:02:22.200000
 mhm	-	-	-	0:02:22.200000	0:02:24.055000
 .	-	-	-	0:02:22.200000	0:02:24.055000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:22.200000" end="0:02:24.055000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:22.200000" end="0:02:24.055000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:02:22.200000	0:02:24.055000
 "hallo"	-	-	-	0:02:22.200000	0:02:24.055000
 ist	-	-	-	0:02:22.200000	0:02:24.055000
@@ -600,10 +600,10 @@ mehr	-	-	-	0:02:22.200000	0:02:24.055000
 geworden	-	-	-	0:02:22.200000	0:02:24.055000
 .	-	-	-	0:02:22.200000	0:02:24.055000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:24.055000" end="0:02:25.394000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:24.055000" end="0:02:25.394000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:24.055000" end="0:02:27.652000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:24.055000" end="0:02:27.652000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 das	-	-	-	0:02:25.394000	0:02:27.652000
 ist	-	-	-	0:02:25.394000	0:02:27.652000
@@ -615,13 +615,13 @@ alle	-	-	-	0:02:25.394000	0:02:27.652000
 Fälle	-	-	-	0:02:25.394000	0:02:27.652000
 .	-	-	-	0:02:25.394000	0:02:27.652000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:27.652000" end="0:02:28.811000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:27.652000" end="0:02:28.811000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:27.652000" end="0:02:28.811000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:27.652000" end="0:02:28.811000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:28.811000" end="0:02:35.245000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:28.811000" end="0:02:35.245000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:02:28.811000	0:02:30.556000
 Sie	-	-	-	0:02:28.811000	0:02:30.556000
 haben	-	-	-	0:02:28.811000	0:02:30.556000
@@ -640,7 +640,7 @@ ab	-	-	-	0:02:30.556000	0:02:33.119000
 ?	-	-	-	0:02:30.556000	0:02:33.119000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:33.119000" end="0:02:44.290000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:33.119000" end="0:02:44.290000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="2,1s"/>
 es	-	-	-	0:02:35.245000	0:02:36.779000
 ist	-	-	-	0:02:35.245000	0:02:36.779000
@@ -679,10 +679,10 @@ gezogen	-	-	-	0:02:41.648000	0:02:42.999000
 ähm	-	-	-	0:02:42.999000	0:02:44.290000
 ,	-	-	-	0:02:42.999000	0:02:44.290000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:02:44.290000" end="0:02:46.562000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:02:44.290000" end="0:02:46.562000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:02:44.290000" end="0:03:03.155000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:02:44.290000" end="0:03:03.155000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="2,3s"/>
 ich	-	-	-	0:02:46.562000	0:02:49.046000
 weiß	-	-	-	0:02:46.562000	0:02:49.046000
@@ -755,7 +755,7 @@ passt	-	-	-	0:03:00.805000	0:03:03.155000
 immer	-	-	-	0:03:00.805000	0:03:03.155000
 .	-	-	-	0:03:00.805000	0:03:03.155000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:03:03.155000" end="0:03:04.828000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:03:03.155000" end="0:03:04.828000" persName="Informant EXP2" age_lower="" age_upper="999">
 wo	-	-	-	0:03:03.155000	0:03:04.828000
 man	-	-	-	0:03:03.155000	0:03:04.828000
 sich	-	-	-	0:03:03.155000	0:03:04.828000
@@ -768,13 +768,13 @@ ist	-	-	-	0:03:03.155000	0:03:04.828000
 ja	-	-	-	0:03:03.155000	0:03:04.828000
 .	-	-	-	0:03:03.155000	0:03:04.828000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:03:03.155000" end="0:03:05.248000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:03.155000" end="0:03:05.248000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:03.155000	0:03:04.828000
 .	-	-	-	0:03:03.155000	0:03:04.828000
 ja	-	-	-	0:03:04.828000	0:03:05.248000
 .	-	-	-	0:03:04.828000	0:03:05.248000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:03:05.248000" end="0:03:16.789000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:03:05.248000" end="0:03:16.789000" persName="Informant EXP2" age_lower="" age_upper="999">
 ähm	-	-	-	0:03:05.248000	0:03:07.794000
 ,	-	-	-	0:03:05.248000	0:03:07.794000
 und	-	-	-	0:03:05.248000	0:03:07.794000
@@ -810,17 +810,17 @@ hat	-	-	-	0:03:07.794000	0:03:15.044000
 ?	-	-	-	0:03:07.794000	0:03:15.044000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:03:15.044000" end="0:03:18.634000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:15.044000" end="0:03:18.634000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,7s"/>
 man	-	-	-	0:03:16.789000	0:03:18.634000
 hat	-	-	-	0:03:16.789000	0:03:18.634000
 ähm	-	-	-	0:03:16.789000	0:03:18.634000
 ,	-	-	-	0:03:16.789000	0:03:18.634000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:03:18.634000" end="0:03:20" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:03:18.634000" end="0:03:20" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:03:18.634000" end="0:03:25.588000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:18.634000" end="0:03:25.588000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 man	-	-	-	0:03:20	0:03:23.030000
 hat	-	-	-	0:03:20	0:03:23.030000
@@ -845,11 +845,11 @@ Abstand	-	-	-	0:03:23.030000	0:03:25.588000
 gehalten	-	-	-	0:03:23.030000	0:03:25.588000
 ,	-	-	-	0:03:23.030000	0:03:25.588000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:03:25.588000" end="0:03:27.588000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:03:25.588000" end="0:03:27.588000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:25.588000	0:03:27.588000
 .	-	-	-	0:03:25.588000	0:03:27.588000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:03:25.588000" end="0:03:39.784000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:25.588000" end="0:03:39.784000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 oder	-	-	-	0:03:25.588000	0:03:27.588000
 nicht	-	-	-	0:03:25.588000	0:03:27.588000
 so	-	-	-	0:03:25.588000	0:03:27.588000
@@ -899,11 +899,11 @@ auf	-	-	-	0:03:37.163000	0:03:39.784000
 der	-	-	-	0:03:37.163000	0:03:39.784000
 Stiege	-	-	-	0:03:37.163000	0:03:39.784000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:03:39.784000" end="0:03:42.611000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:03:39.784000" end="0:03:42.611000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:39.784000	0:03:42.611000
 .	-	-	-	0:03:39.784000	0:03:42.611000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:03:39.784000" end="0:04:02.128000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:03:39.784000" end="0:04:02.128000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 eng	-	-	-	0:03:39.784000	0:03:42.611000
 nebeneinander	-	-	-	0:03:39.784000	0:03:42.611000
 sein	-	-	-	0:03:39.784000	0:03:42.611000
@@ -976,13 +976,13 @@ weniger	-	-	-	0:03:59.821000	0:04:02.128000
 geworden	-	-	-	0:03:59.821000	0:04:02.128000
 .	-	-	-	0:03:59.821000	0:04:02.128000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:02.128000" end="0:04:07.555000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:02.128000" end="0:04:07.555000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:02.128000	0:04:03.287000
 .	-	-	-	0:04:02.128000	0:04:03.287000
 mhm	-	-	-	0:04:03.287000	0:04:07.555000
 .	-	-	-	0:04:03.287000	0:04:07.555000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:03.287000" end="0:04:11.359000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:03.287000" end="0:04:11.359000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ich	-	-	-	0:04:03.287000	0:04:07.555000
 bin	-	-	-	0:04:03.287000	0:04:07.555000
 selber	-	-	-	0:04:03.287000	0:04:07.555000
@@ -1014,13 +1014,13 @@ Leute	-	-	-	0:04:09.834000	0:04:11.359000
 sind	-	-	-	0:04:09.834000	0:04:11.359000
 .	-	-	-	0:04:09.834000	0:04:11.359000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:11.359000" end="0:04:12.290000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:11.359000" end="0:04:12.290000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:11.359000" end="0:04:12.290000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:11.359000" end="0:04:12.290000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:12.290000" end="0:04:16.517000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:12.290000" end="0:04:16.517000" persName="Informant EXP2" age_lower="" age_upper="999">
 e/	-	-	-	0:04:12.290000	0:04:16.517000
 d/	-	-	-	0:04:12.290000	0:04:16.517000
 das	-	-	-	0:04:12.290000	0:04:16.517000
@@ -1039,16 +1039,16 @@ der	-	-	-	0:04:12.290000	0:04:16.517000
 Pandemie	-	-	-	0:04:12.290000	0:04:16.517000
 ?	-	-	-	0:04:12.290000	0:04:16.517000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:12.290000" end="0:04:16.517000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:12.290000" end="0:04:16.517000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 es/	-	-	-	0:04:12.290000	0:04:16.517000
 nein	-	-	-	0:04:12.290000	0:04:16.517000
 .	-	-	-	0:04:12.290000	0:04:16.517000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:16.517000" end="0:04:17.920000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:16.517000" end="0:04:17.920000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:04:16.517000	0:04:17.920000
 .	-	-	-	0:04:16.517000	0:04:17.920000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:16.517000" end="0:04:20.230000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:16.517000" end="0:04:20.230000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nein	-	-	-	0:04:16.517000	0:04:17.920000
 ,	-	-	-	0:04:16.517000	0:04:17.920000
 da	-	-	-	0:04:16.517000	0:04:17.920000
@@ -1065,11 +1065,11 @@ weniger	-	-	-	0:04:17.920000	0:04:20.230000
 geworden	-	-	-	0:04:17.920000	0:04:20.230000
 .	-	-	-	0:04:17.920000	0:04:20.230000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:20.230000" end="0:04:20.834000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:20.230000" end="0:04:20.834000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:20.230000	0:04:20.834000
 .	-	-	-	0:04:20.230000	0:04:20.834000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:20.834000" end="0:04:50.648000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:20.834000" end="0:04:50.648000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 de/	-	-	-	0:04:20.834000	0:04:23.582000
 der	-	-	-	0:04:20.834000	0:04:23.582000
 Kirchenbesuch	-	-	-	0:04:20.834000	0:04:23.582000
@@ -1179,13 +1179,13 @@ gefallen	-	-	-	0:04:48.929000	0:04:50.648000
 sind	-	-	-	0:04:48.929000	0:04:50.648000
 .	-	-	-	0:04:48.929000	0:04:50.648000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:04:50.648000" end="0:04:51.614000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:04:50.648000" end="0:04:51.614000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:50.648000	0:04:51.614000
 ,	-	-	-	0:04:50.648000	0:04:51.614000
 ja	-	-	-	0:04:50.648000	0:04:51.614000
 .	-	-	-	0:04:50.648000	0:04:51.614000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:04:51.614000" end="0:05:06.310000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:04:51.614000" end="0:05:06.310000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 mei	-	-	-	0:04:51.614000	0:04:53.703000
 ,	-	-	-	0:04:51.614000	0:04:53.703000
 endlich	-	-	-	0:04:51.614000	0:04:53.703000
@@ -1246,7 +1246,7 @@ normal	-	-	-	0:05:03.119000	0:05:06.310000
 wird	-	-	-	0:05:03.119000	0:05:06.310000
 .	-	-	-	0:05:03.119000	0:05:06.310000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:06.310000" end="0:05:12.125000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:06.310000" end="0:05:12.125000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:05:06.310000	0:05:08.331000
 ,	-	-	-	0:05:06.310000	0:05:08.331000
 und	-	-	-	0:05:06.310000	0:05:08.331000
@@ -1271,7 +1271,7 @@ wie	-	-	-	0:05:08.331000	0:05:12.125000
 früher	-	-	-	0:05:08.331000	0:05:12.125000
 ?	-	-	-	0:05:08.331000	0:05:12.125000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:12.125000" end="0:05:15.081000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:12.125000" end="0:05:15.081000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:05:12.125000	0:05:15.081000
 ist	-	-	-	0:05:12.125000	0:05:15.081000
 jetzt	-	-	-	0:05:12.125000	0:05:15.081000
@@ -1282,11 +1282,11 @@ wie	-	-	-	0:05:12.125000	0:05:15.081000
 früher	-	-	-	0:05:12.125000	0:05:15.081000
 .	-	-	-	0:05:12.125000	0:05:15.081000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:15.081000" end="0:05:16.693000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:15.081000" end="0:05:16.693000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:15.081000	0:05:16.693000
 .	-	-	-	0:05:15.081000	0:05:16.693000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:15.081000" end="0:05:22.176000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:15.081000" end="0:05:22.176000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 man	-	-	-	0:05:15.081000	0:05:16.693000
 redet	-	-	-	0:05:15.081000	0:05:16.693000
 wieder	-	-	-	0:05:15.081000	0:05:16.693000
@@ -1312,11 +1312,11 @@ zu	-	-	-	0:05:19.842000	0:05:22.176000
 geben	-	-	-	0:05:19.842000	0:05:22.176000
 .	-	-	-	0:05:19.842000	0:05:22.176000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:22.176000" end="0:05:22.668000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:22.176000" end="0:05:22.668000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:22.176000	0:05:22.668000
 .	-	-	-	0:05:22.176000	0:05:22.668000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:22.668000" end="0:05:31.978000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:22.668000" end="0:05:31.978000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 da	-	-	-	0:05:22.668000	0:05:24.262000
 ist	-	-	-	0:05:22.668000	0:05:24.262000
@@ -1348,18 +1348,18 @@ auch	-	-	-	0:05:26.018000	0:05:31.978000
 genügt	-	-	-	0:05:26.018000	0:05:31.978000
 ."	-	-	-	0:05:26.018000	0:05:31.978000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:31.978000" end="0:05:32.597000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:31.978000" end="0:05:32.597000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:05:31.978000	0:05:32.597000
 .	-	-	-	0:05:31.978000	0:05:32.597000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:31.978000" end="0:05:32.597000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:31.978000" end="0:05:32.597000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:31.978000	0:05:32.597000
 .	-	-	-	0:05:31.978000	0:05:32.597000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:32.597000" end="0:05:33.432000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:32.597000" end="0:05:33.432000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:32.597000" end="0:05:36.857000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:32.597000" end="0:05:36.857000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 aber	-	-	-	0:05:33.432000	0:05:35.469000
 auch	-	-	-	0:05:33.432000	0:05:35.469000
@@ -1374,13 +1374,13 @@ wird	-	-	-	0:05:35.469000	0:05:36.857000
 wieder	-	-	-	0:05:35.469000	0:05:36.857000
 .	-	-	-	0:05:35.469000	0:05:36.857000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:36.857000" end="0:05:37.730000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:36.857000" end="0:05:37.730000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:36.857000" end="0:05:37.730000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:36.857000" end="0:05:37.730000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:37.730000" end="0:05:40.799000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:37.730000" end="0:05:40.799000" persName="Informant EXP2" age_lower="" age_upper="999">
 genau	-	-	-	0:05:37.730000	0:05:40.799000
 ,	-	-	-	0:05:37.730000	0:05:40.799000
 also	-	-	-	0:05:37.730000	0:05:40.799000
@@ -1395,11 +1395,11 @@ weniger	-	-	-	0:05:37.730000	0:05:40.799000
 und	-	-	-	0:05:37.730000	0:05:40.799000
 jetzt	-	-	-	0:05:37.730000	0:05:40.799000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:40.799000" end="0:05:41.110000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:40.799000" end="0:05:41.110000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:40.799000	0:05:41.110000
 .	-	-	-	0:05:40.799000	0:05:41.110000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:41.110000" end="0:05:42.868000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:41.110000" end="0:05:42.868000" persName="Informant EXP2" age_lower="" age_upper="999">
 wieder	-	-	-	0:05:41.110000	0:05:41.810000
 /?	-	-	-	0:05:41.110000	0:05:41.810000
 okay	-	-	-	0:05:41.110000	0:05:41.810000
@@ -1407,7 +1407,7 @@ okay	-	-	-	0:05:41.110000	0:05:41.810000
 mhm	-	-	-	0:05:41.810000	0:05:42.868000
 .	-	-	-	0:05:41.810000	0:05:42.868000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:41.810000" end="0:05:44.140000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:41.810000" end="0:05:44.140000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:05:41.810000	0:05:42.868000
 we/	-	-	-	0:05:41.810000	0:05:42.868000
 ändert	-	-	-	0:05:42.868000	0:05:44.140000
@@ -1416,7 +1416,7 @@ das	-	-	-	0:05:42.868000	0:05:44.140000
 wieder	-	-	-	0:05:42.868000	0:05:44.140000
 .	-	-	-	0:05:42.868000	0:05:44.140000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:05:44.140000" end="0:05:55.026000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:05:44.140000" end="0:05:55.026000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:05:44.140000	0:05:47.124000
 ähm	-	-	-	0:05:44.140000	0:05:47.124000
 genau	-	-	-	0:05:44.140000	0:05:47.124000
@@ -1459,7 +1459,7 @@ schon	-	-	-	0:05:52.940000	0:05:55.026000
 angesprochen	-	-	-	0:05:52.940000	0:05:55.026000
 .	-	-	-	0:05:52.940000	0:05:55.026000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:05:55.026000" end="0:06:01.021000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:05:55.026000" end="0:06:01.021000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:55.026000	0:05:56.616000
 ,	-	-	-	0:05:55.026000	0:05:56.616000
 wir	-	-	-	0:05:55.026000	0:05:56.616000
@@ -1482,10 +1482,10 @@ Wohnung	-	-	-	0:05:58.659000	0:06:01.021000
 gezogen	-	-	-	0:05:58.659000	0:06:01.021000
 .	-	-	-	0:05:58.659000	0:06:01.021000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:06:01.021000" end="0:06:01.745000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:06:01.021000" end="0:06:01.745000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:06:01.021000" end="0:06:11.354000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:01.021000" end="0:06:11.354000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:06:01.745000	0:06:03.760000
 ,	-	-	-	0:06:01.745000	0:06:03.760000
@@ -1533,11 +1533,11 @@ unserem	-	-	-	0:06:08.132000	0:06:11.354000
 Alter	-	-	-	0:06:08.132000	0:06:11.354000
 .	-	-	-	0:06:08.132000	0:06:11.354000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:06:11.354000" end="0:06:11.970000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:06:11.354000" end="0:06:11.970000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:11.354000	0:06:11.970000
 .	-	-	-	0:06:11.354000	0:06:11.970000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:06:11.970000" end="0:06:31.792000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:11.970000" end="0:06:31.792000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:06:11.970000	0:06:13.373000
 ob	-	-	-	0:06:11.970000	0:06:13.373000
 man	-	-	-	0:06:11.970000	0:06:13.373000
@@ -1619,11 +1619,11 @@ Hausgemeinschaft	-	-	-	0:06:29.352000	0:06:31.792000
 da	-	-	-	0:06:29.352000	0:06:31.792000
 .	-	-	-	0:06:29.352000	0:06:31.792000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:06:31.792000" end="0:06:32.993000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:06:31.792000" end="0:06:32.993000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:31.792000	0:06:32.993000
 .	-	-	-	0:06:31.792000	0:06:32.993000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:06:31.792000" end="0:06:38.750000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:31.792000" end="0:06:38.750000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:06:31.792000	0:06:32.993000
 ist	-	-	-	0:06:31.792000	0:06:32.993000
 auch	-	-	-	0:06:31.792000	0:06:32.993000
@@ -1648,7 +1648,7 @@ große	-	-	-	0:06:36.585000	0:06:38.750000
 Veränderung	-	-	-	0:06:36.585000	0:06:38.750000
 .	-	-	-	0:06:36.585000	0:06:38.750000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:06:38.750000" end="0:06:46.657000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:06:38.750000" end="0:06:46.657000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:06:38.750000	0:06:41.586000
 ,	-	-	-	0:06:38.750000	0:06:41.586000
@@ -1679,7 +1679,7 @@ irgendwie	-	-	-	0:06:41.586000	0:06:46.657000
 auch	-	-	-	0:06:41.586000	0:06:46.657000
 .	-	-	-	0:06:41.586000	0:06:46.657000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:06:46.657000" end="0:07:11.442000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:06:46.657000" end="0:07:11.442000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 na	-	-	-	0:06:46.657000	0:06:47.794000
 ja	-	-	-	0:06:46.657000	0:06:47.794000
 ,	-	-	-	0:06:46.657000	0:06:47.794000
@@ -1771,11 +1771,11 @@ auf	-	-	-	0:07:09.549000	0:07:11.442000
 ein	-	-	-	0:07:09.549000	0:07:11.442000
 Gläschen	-	-	-	0:07:09.549000	0:07:11.442000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:11.443000" end="0:07:12.699000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:11.443000" end="0:07:12.699000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:11.443000	0:07:12.699000
 .	-	-	-	0:07:11.443000	0:07:12.699000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:11.443000" end="0:07:19.010000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:11.443000" end="0:07:19.010000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 irgendwas	-	-	-	0:07:11.443000	0:07:12.699000
 ,	-	-	-	0:07:11.443000	0:07:12.699000
 Bier	-	-	-	0:07:11.443000	0:07:12.699000
@@ -1814,9 +1814,9 @@ heimgekommen	-	-	-	0:07:17.838000	0:07:19.010000
 sind	-	-	-	0:07:17.838000	0:07:19.010000
 .	-	-	-	0:07:17.838000	0:07:19.010000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:19.010000" end="0:07:19.510000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:19.010000" end="0:07:19.510000" persName="Informant EXP2" age_lower="" age_upper="999">
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:19.510000" end="0:07:24.873000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:19.510000" end="0:07:24.873000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:07:19.510000	0:07:21.006000
 wir	-	-	-	0:07:19.510000	0:07:21.006000
 haben	-	-	-	0:07:19.510000	0:07:21.006000
@@ -1843,11 +1843,11 @@ gar	-	-	-	0:07:22.945000	0:07:24.873000
 nicht	-	-	-	0:07:22.945000	0:07:24.873000
 ,	-	-	-	0:07:22.945000	0:07:24.873000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:24.873000" end="0:07:25.735000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:24.873000" end="0:07:25.735000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:07:24.873000	0:07:25.735000
 .	-	-	-	0:07:24.873000	0:07:25.735000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:24.873000" end="0:07:37.471000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:24.873000" end="0:07:37.471000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 die	-	-	-	0:07:24.873000	0:07:25.735000
 man	-	-	-	0:07:24.873000	0:07:25.735000
 alle	-	-	-	0:07:24.873000	0:07:25.735000
@@ -1901,11 +1901,11 @@ es	-	-	-	0:07:35.642000	0:07:37.471000
 vorbei	-	-	-	0:07:35.642000	0:07:37.471000
 .	-	-	-	0:07:35.642000	0:07:37.471000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:37.471000" end="0:07:38.174000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:37.471000" end="0:07:38.174000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:37.471000	0:07:38.174000
 .	-	-	-	0:07:37.471000	0:07:38.174000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:37.471000" end="0:07:45.291000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:37.471000" end="0:07:45.291000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:07:37.471000	0:07:38.174000
 su/	-	-	-	0:07:38.174000	0:07:41.759000
 sonst	-	-	-	0:07:38.174000	0:07:41.759000
@@ -1936,10 +1936,10 @@ nicht	-	-	-	0:07:44.241000	0:07:45.291000
 möglich	-	-	-	0:07:44.241000	0:07:45.291000
 .	-	-	-	0:07:44.241000	0:07:45.291000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:45.291000" end="0:07:46.501000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:45.291000" end="0:07:46.501000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:45.291000" end="0:07:50.037000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:45.291000" end="0:07:50.037000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,2s"/>
 und	-	-	-	0:07:46.501000	0:07:50.037000
 wir	-	-	-	0:07:46.501000	0:07:50.037000
@@ -1954,11 +1954,11 @@ dann	-	-	-	0:07:46.501000	0:07:50.037000
 gemacht	-	-	-	0:07:46.501000	0:07:50.037000
 .	-	-	-	0:07:46.501000	0:07:50.037000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:50.037000" end="0:07:51.787000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:50.037000" end="0:07:51.787000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:07:50.037000	0:07:51.787000
 .	-	-	-	0:07:50.037000	0:07:51.787000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:50.037000" end="0:07:59.555000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:50.037000" end="0:07:59.555000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:07:50.037000	0:07:51.787000
 war	-	-	-	0:07:50.037000	0:07:51.787000
 am	-	-	-	0:07:50.037000	0:07:51.787000
@@ -1997,10 +1997,10 @@ krank	-	-	-	0:07:58	0:07:59.555000
 werden	-	-	-	0:07:58	0:07:59.555000
 .	-	-	-	0:07:58	0:07:59.555000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:07:59.555000" end="0:08:01.179000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:07:59.555000" end="0:08:01.179000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:07:59.555000" end="0:08:06.086000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:07:59.555000" end="0:08:06.086000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 jetzt	-	-	-	0:08:01.179000	0:08:02.040000
 /.	-	-	-	0:08:01.179000	0:08:02.040000
@@ -2023,12 +2023,12 @@ eingeladen	-	-	-	0:08:04.298000	0:08:06.086000
 hätten	-	-	-	0:08:04.298000	0:08:06.086000
 .	-	-	-	0:08:04.298000	0:08:06.086000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:06.086000" end="0:08:07.217000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:06.086000" end="0:08:07.217000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:08:06.086000	0:08:07.217000
 .	-	-	-	0:08:06.086000	0:08:07.217000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:07.217000" end="0:08:11.229000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:07.217000" end="0:08:11.229000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 es	-	-	-	0:08:07.217000	0:08:11.229000
 war	-	-	-	0:08:07.217000	0:08:11.229000
 eigentlich	-	-	-	0:08:07.217000	0:08:11.229000
@@ -2048,7 +2048,7 @@ der	-	-	-	0:08:07.217000	0:08:11.229000
 Wohnung	-	-	-	0:08:07.217000	0:08:11.229000
 .	-	-	-	0:08:07.217000	0:08:11.229000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:11.229000" end="0:08:14.042000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:11.229000" end="0:08:14.042000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:08:11.229000	0:08:14.042000
 ,	-	-	-	0:08:11.229000	0:08:14.042000
 so	-	-	-	0:08:11.229000	0:08:14.042000
@@ -2062,7 +2062,7 @@ Gegenüber	-	-	-	0:08:11.229000	0:08:14.042000
 das	-	-	-	0:08:11.229000	0:08:14.042000
 /.	-	-	-	0:08:11.229000	0:08:14.042000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:14.042000" end="0:08:19.631000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:14.042000" end="0:08:19.631000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:08:14.042000	0:08:16.021000
 ,	-	-	-	0:08:14.042000	0:08:16.021000
 das	-	-	-	0:08:14.042000	0:08:16.021000
@@ -2085,7 +2085,7 @@ uns	-	-	-	0:08:17.707000	0:08:19.631000
 kennenlernen	-	-	-	0:08:17.707000	0:08:19.631000
 .	-	-	-	0:08:17.707000	0:08:19.631000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:19.631000" end="0:08:21.822000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:19.631000" end="0:08:21.822000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:08:19.631000	0:08:21.822000
 ,	-	-	-	0:08:19.631000	0:08:21.822000
 so	-	-	-	0:08:19.631000	0:08:21.822000
@@ -2095,7 +2095,7 @@ der	-	-	-	0:08:19.631000	0:08:21.822000
 Hausgemeinschaft	-	-	-	0:08:19.631000	0:08:21.822000
 .	-	-	-	0:08:19.631000	0:08:21.822000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:19.631000" end="0:08:24.484000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:19.631000" end="0:08:24.484000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:08:19.631000	0:08:21.822000
 so	-	-	-	0:08:19.631000	0:08:21.822000
 hat	-	-	-	0:08:19.631000	0:08:21.822000
@@ -2114,11 +2114,11 @@ im	-	-	-	0:08:21.822000	0:08:24.484000
 Vorhaus	-	-	-	0:08:21.822000	0:08:24.484000
 .	-	-	-	0:08:21.822000	0:08:24.484000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:24.484000" end="0:08:24.871000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:24.484000" end="0:08:24.871000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:08:24.484000	0:08:24.871000
 .	-	-	-	0:08:24.484000	0:08:24.871000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:24.871000" end="0:08:27.953000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:24.871000" end="0:08:27.953000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 da	-	-	-	0:08:24.871000	0:08:26.823000
 plaudern	-	-	-	0:08:24.871000	0:08:26.823000
 wir	-	-	-	0:08:24.871000	0:08:26.823000
@@ -2131,13 +2131,13 @@ aber	-	-	-	0:08:24.871000	0:08:26.823000
 aber	-	-	-	0:08:26.823000	0:08:27.953000
 /.	-	-	-	0:08:26.823000	0:08:27.953000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:27.953000" end="0:08:28.874000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:27.953000" end="0:08:28.874000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:27.953000" end="0:08:28.874000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:27.953000" end="0:08:28.874000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:28.874000" end="0:08:30.728000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:28.874000" end="0:08:30.728000" persName="Informant EXP2" age_lower="" age_upper="999">
 aber	-	-	-	0:08:28.874000	0:08:30.728000
 so	-	-	-	0:08:28.874000	0:08:30.728000
 eher	-	-	-	0:08:28.874000	0:08:30.728000
@@ -2146,19 +2146,19 @@ dann	-	-	-	0:08:28.874000	0:08:30.728000
 wahrscheinlich	-	-	-	0:08:28.874000	0:08:30.728000
 .	-	-	-	0:08:28.874000	0:08:30.728000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:28.874000" end="0:08:30.728000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:28.874000" end="0:08:30.728000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:08:28.874000	0:08:30.728000
 ,	-	-	-	0:08:28.874000	0:08:30.728000
 ja	-	-	-	0:08:28.874000	0:08:30.728000
 ,	-	-	-	0:08:28.874000	0:08:30.728000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:30.728000" end="0:08:32.615000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:30.728000" end="0:08:32.615000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:08:30.728000	0:08:32.615000
 ,	-	-	-	0:08:30.728000	0:08:32.615000
 ja	-	-	-	0:08:30.728000	0:08:32.615000
 .	-	-	-	0:08:30.728000	0:08:32.615000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:30.728000" end="0:08:32.615000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:30.728000" end="0:08:32.615000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:08:30.728000	0:08:32.615000
 ,	-	-	-	0:08:30.728000	0:08:32.615000
 halt	-	-	-	0:08:30.728000	0:08:32.615000
@@ -2168,7 +2168,7 @@ alltägliches	-	-	-	0:08:30.728000	0:08:32.615000
 ja	-	-	-	0:08:30.728000	0:08:32.615000
 .	-	-	-	0:08:30.728000	0:08:32.615000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:32.615000" end="0:08:38.741000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:32.615000" end="0:08:38.741000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:08:32.615000	0:08:32.984000
 .	-	-	-	0:08:32.615000	0:08:32.984000
 und	-	-	-	0:08:32.984000	0:08:38.741000
@@ -2191,7 +2191,7 @@ generell	-	-	-	0:08:32.984000	0:08:38.741000
 geändert	-	-	-	0:08:32.984000	0:08:38.741000
 ?	-	-	-	0:08:32.984000	0:08:38.741000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:38.741000" end="0:08:46.586000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:38.741000" end="0:08:46.586000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:08:38.741000	0:08:41.448000
 ,	-	-	-	0:08:38.741000	0:08:41.448000
 für	-	-	-	0:08:38.741000	0:08:41.448000
@@ -2227,11 +2227,11 @@ Radl	-	-	-	0:08:45.205000	0:08:46.586000
 gefahren	-	-	-	0:08:45.205000	0:08:46.586000
 .	-	-	-	0:08:45.205000	0:08:46.586000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:46.586000" end="0:08:47.110000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:46.586000" end="0:08:47.110000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:46.586000	0:08:47.110000
 .	-	-	-	0:08:46.586000	0:08:47.110000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:47.110000" end="0:08:51.599000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:47.110000" end="0:08:51.599000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:08:47.110000	0:08:51.599000
 das	-	-	-	0:08:47.110000	0:08:51.599000
 heuer	-	-	-	0:08:47.110000	0:08:51.599000
@@ -2245,11 +2245,11 @@ machen	-	-	-	0:08:47.110000	0:08:51.599000
 können	-	-	-	0:08:47.110000	0:08:51.599000
 .	-	-	-	0:08:47.110000	0:08:51.599000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:51.599000" end="0:08:52.233000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:51.599000" end="0:08:52.233000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:51.599000	0:08:52.233000
 .	-	-	-	0:08:51.599000	0:08:52.233000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:51.599000" end="0:08:58.296000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:51.599000" end="0:08:58.296000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:08:51.599000	0:08:52.233000
 bin	-	-	-	0:08:52.233000	0:08:53.111000
 ich	-	-	-	0:08:52.233000	0:08:53.111000
@@ -2278,11 +2278,11 @@ mithalten	-	-	-	0:08:55.106000	0:08:58.296000
 ja	-	-	-	0:08:55.106000	0:08:58.296000
 .	-	-	-	0:08:55.106000	0:08:58.296000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:08:58.296000" end="0:08:59.241000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:08:58.296000" end="0:08:59.241000" persName="Informant EXP2" age_lower="" age_upper="999">
 also/	-	-	-	0:08:58.296000	0:08:59.241000
 /.	-	-	-	0:08:58.296000	0:08:59.241000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:08:58.296000" end="0:09:02.433000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:08:58.296000" end="0:09:02.433000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:08:58.296000	0:08:59.241000
 hat	-	-	-	0:08:58.296000	0:08:59.241000
 sich	-	-	-	0:08:59.241000	0:09:00.302000
@@ -2295,10 +2295,10 @@ sonst	-	-	-	0:09:00.302000	0:09:02.433000
 freizeitmäßig	-	-	-	0:09:00.302000	0:09:02.433000
 /.	-	-	-	0:09:00.302000	0:09:02.433000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:02.433000" end="0:09:04.319000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:02.433000" end="0:09:04.319000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:02.433000" end="0:09:06.951000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:02.433000" end="0:09:06.951000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,9s"/>
 ja	-	-	-	0:09:04.319000	0:09:05.662000
 ,	-	-	-	0:09:04.319000	0:09:05.662000
@@ -2317,11 +2317,11 @@ gerne	-	-	-	0:09:05.662000	0:09:06.951000
 ja	-	-	-	0:09:05.662000	0:09:06.951000
 .	-	-	-	0:09:05.662000	0:09:06.951000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:06.951000" end="0:09:07.302000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:06.951000" end="0:09:07.302000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:09:06.951000	0:09:07.302000
 .	-	-	-	0:09:06.951000	0:09:07.302000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:07.302000" end="0:09:12.204000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:07.302000" end="0:09:12.204000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 Pandemie	-	-	-	0:09:07.302000	0:09:08.419000
 ,	-	-	-	0:09:07.302000	0:09:08.419000
 nichts	-	-	-	0:09:07.302000	0:09:08.419000
@@ -2343,7 +2343,7 @@ abgesagt	-	-	-	0:09:09.443000	0:09:12.204000
 nichts	-	-	-	0:09:09.443000	0:09:12.204000
 .	-	-	-	0:09:09.443000	0:09:12.204000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:12.204000" end="0:09:13.742000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:12.204000" end="0:09:13.742000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:09:12.204000	0:09:13.742000
 ,	-	-	-	0:09:12.204000	0:09:13.742000
 wo	-	-	-	0:09:12.204000	0:09:13.742000
@@ -2352,7 +2352,7 @@ Sie	-	-	-	0:09:12.204000	0:09:13.742000
 hingefahren	-	-	-	0:09:12.204000	0:09:13.742000
 ?	-	-	-	0:09:12.204000	0:09:13.742000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:12.204000" end="0:09:18.929000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:12.204000" end="0:09:18.929000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:09:12.204000	0:09:13.742000
 es	-	-	-	0:09:12.204000	0:09:13.742000
 /.	-	-	-	0:09:12.204000	0:09:13.742000
@@ -2383,11 +2383,11 @@ nach	-	-	-	0:09:17.823000	0:09:18.929000
 Polen	-	-	-	0:09:17.823000	0:09:18.929000
 .	-	-	-	0:09:17.823000	0:09:18.929000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:18.929000" end="0:09:19.410000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:18.929000" end="0:09:19.410000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:18.929000	0:09:19.410000
 .	-	-	-	0:09:18.929000	0:09:19.410000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:19.410000" end="0:09:24.580000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:19.410000" end="0:09:24.580000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 dann	-	-	-	0:09:19.410000	0:09:21.185000
 wäre	-	-	-	0:09:19.410000	0:09:21.185000
 noch	-	-	-	0:09:19.410000	0:09:21.185000
@@ -2408,7 +2408,7 @@ die	-	-	-	0:09:22.241000	0:09:24.580000
 Toskana	-	-	-	0:09:22.241000	0:09:24.580000
 ,	-	-	-	0:09:22.241000	0:09:24.580000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:24.580000" end="0:09:27.568000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:24.580000" end="0:09:27.568000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:09:24.580000	0:09:27.568000
 schön	-	-	-	0:09:24.580000	0:09:27.568000
 ,	-	-	-	0:09:24.580000	0:09:27.568000
@@ -2416,7 +2416,7 @@ ah	-	-	-	0:09:24.580000	0:09:27.568000
 ja	-	-	-	0:09:24.580000	0:09:27.568000
 .	-	-	-	0:09:24.580000	0:09:27.568000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:24.580000" end="0:09:29.057000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:24.580000" end="0:09:29.057000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:09:24.580000	0:09:27.568000
 ist	-	-	-	0:09:24.580000	0:09:27.568000
 überhaupt	-	-	-	0:09:24.580000	0:09:27.568000
@@ -2432,17 +2432,17 @@ worden	-	-	-	0:09:24.580000	0:09:27.568000
 ähm	-	-	-	0:09:27.568000	0:09:29.057000
 ,	-	-	-	0:09:27.568000	0:09:29.057000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:29.057000" end="0:09:29.974000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:29.057000" end="0:09:29.974000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:29.057000" end="0:09:29.974000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:29.057000" end="0:09:29.974000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:29.974000" end="0:09:33.082000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:29.974000" end="0:09:33.082000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:29.974000	0:09:33.082000
 .	-	-	-	0:09:29.974000	0:09:33.082000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:29.974000" end="0:09:35.867000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:29.974000" end="0:09:35.867000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:09:29.974000	0:09:33.082000
 war	-	-	-	0:09:29.974000	0:09:33.082000
 ,	-	-	-	0:09:29.974000	0:09:33.082000
@@ -2472,12 +2472,12 @@ in	-	-	-	0:09:35.095000	0:09:35.867000
 Kroatien	-	-	-	0:09:35.095000	0:09:35.867000
 .	-	-	-	0:09:35.095000	0:09:35.867000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:35.867000" end="0:09:36.663000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:35.867000" end="0:09:36.663000" persName="Informant EXP2" age_lower="" age_upper="999">
 sehr	-	-	-	0:09:35.867000	0:09:36.663000
 schön	-	-	-	0:09:35.867000	0:09:36.663000
 .	-	-	-	0:09:35.867000	0:09:36.663000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:36.663000" end="0:09:42" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:36.663000" end="0:09:42" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ähm	-	-	-	0:09:36.663000	0:09:40.351000
 und	-	-	-	0:09:36.663000	0:09:40.351000
 jetzt	-	-	-	0:09:36.663000	0:09:40.351000
@@ -2499,7 +2499,7 @@ nach	-	-	-	0:09:40.351000	0:09:42
 Danzig	-	-	-	0:09:40.351000	0:09:42
 .	-	-	-	0:09:40.351000	0:09:42
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:42" end="0:09:47.375000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:42" end="0:09:47.375000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:09:42	0:09:43.852000
 ,	-	-	-	0:09:42	0:09:43.852000
 ja	-	-	-	0:09:42	0:09:43.852000
@@ -2526,7 +2526,7 @@ der	-	-	-	0:09:45.804000	0:09:47.375000
 Bernsteingegend	-	-	-	0:09:45.804000	0:09:47.375000
 .	-	-	-	0:09:45.804000	0:09:47.375000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:45.804000" end="0:09:48.472000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:45.804000" end="0:09:48.472000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:09:45.804000	0:09:47.375000
 ich	-	-	-	0:09:45.804000	0:09:47.375000
 mache	-	-	-	0:09:45.804000	0:09:47.375000
@@ -2541,11 +2541,11 @@ der	-	-	-	0:09:47.375000	0:09:48.472000
 sportliche	-	-	-	0:09:47.375000	0:09:48.472000
 ,	-	-	-	0:09:47.375000	0:09:48.472000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:48.472000" end="0:09:49.814000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:48.472000" end="0:09:49.814000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:48.472000	0:09:49.814000
 .	-	-	-	0:09:48.472000	0:09:49.814000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:48.472000" end="0:09:51.890000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:48.472000" end="0:09:51.890000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 der	-	-	-	0:09:48.472000	0:09:49.814000
 macht	-	-	-	0:09:48.472000	0:09:49.814000
 sportliche	-	-	-	0:09:48.472000	0:09:49.814000
@@ -2559,11 +2559,11 @@ so	-	-	-	0:09:49.815000	0:09:51.890000
 sehr	-	-	-	0:09:49.815000	0:09:51.890000
 .	-	-	-	0:09:49.815000	0:09:51.890000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:51.890000" end="0:09:54.589000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:51.890000" end="0:09:54.589000" persName="Informant EXP2" age_lower="" age_upper="999">
 okay	-	-	-	0:09:51.890000	0:09:54.589000
 .	-	-	-	0:09:51.890000	0:09:54.589000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:51.890000" end="0:09:57.725000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:51.890000" end="0:09:57.725000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 der	-	-	-	0:09:51.890000	0:09:54.589000
 will	-	-	-	0:09:51.890000	0:09:54.589000
 lieber	-	-	-	0:09:51.890000	0:09:54.589000
@@ -2593,11 +2593,11 @@ Frau	-	-	-	0:09:56.201000	0:09:57.725000
 allein	-	-	-	0:09:56.201000	0:09:57.725000
 ,	-	-	-	0:09:56.201000	0:09:57.725000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:09:57.725000" end="0:10:01.098000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:09:57.725000" end="0:10:01.098000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:57.725000	0:10:01.098000
 .	-	-	-	0:09:57.725000	0:10:01.098000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:09:57.725000" end="0:10:02.870000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:09:57.725000" end="0:10:02.870000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 als	-	-	-	0:09:57.725000	0:10:01.098000
 Alleinreisende	-	-	-	0:09:57.725000	0:10:01.098000
 ,	-	-	-	0:09:57.725000	0:10:01.098000
@@ -2611,7 +2611,7 @@ der	-	-	-	0:10:01.098000	0:10:02.870000
 Gruppe	-	-	-	0:10:01.098000	0:10:02.870000
 .	-	-	-	0:10:01.098000	0:10:02.870000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:03.190000" end="0:10:05.236000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:03.190000" end="0:10:05.236000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:10:03.190000	0:10:05.236000
 ,	-	-	-	0:10:03.190000	0:10:05.236000
 das	-	-	-	0:10:03.190000	0:10:05.236000
@@ -2621,18 +2621,18 @@ dann	-	-	-	0:10:03.190000	0:10:05.236000
 Gruppenbusreise	-	-	-	0:10:03.190000	0:10:05.236000
 ?	-	-	-	0:10:03.190000	0:10:05.236000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:03.190000" end="0:10:05.236000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:03.190000" end="0:10:05.236000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 Gruppen/	-	-	-	0:10:03.190000	0:10:05.236000
 .	-	-	-	0:10:03.190000	0:10:05.236000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:05.236000" end="0:10:08.422000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:05.236000" end="0:10:08.422000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:05.236000	0:10:08.422000
 ja	-	-	-	0:10:05.236000	0:10:08.422000
 ,	-	-	-	0:10:05.236000	0:10:08.422000
 mhm	-	-	-	0:10:05.236000	0:10:08.422000
 .	-	-	-	0:10:05.236000	0:10:08.422000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:05.236000" end="0:10:12.913000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:05.236000" end="0:10:12.913000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:05.236000	0:10:08.422000
 ,	-	-	-	0:10:05.236000	0:10:08.422000
 oder	-	-	-	0:10:05.236000	0:10:08.422000
@@ -2653,16 +2653,16 @@ oder	-	-	-	0:10:08.422000	0:10:12.913000
 Pilgerreisen	-	-	-	0:10:08.422000	0:10:12.913000
 ,	-	-	-	0:10:08.422000	0:10:12.913000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:12.913000" end="0:10:13.908000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:12.913000" end="0:10:13.908000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:12.913000	0:10:13.908000
 .	-	-	-	0:10:12.913000	0:10:13.908000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:12.913000" end="0:10:13.908000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:12.913000" end="0:10:13.908000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 solche	-	-	-	0:10:12.913000	0:10:13.908000
 Sachen	-	-	-	0:10:12.913000	0:10:13.908000
 .	-	-	-	0:10:12.913000	0:10:13.908000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:13.908000" end="0:10:19.217000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:13.908000" end="0:10:19.217000" persName="Informant EXP2" age_lower="" age_upper="999">
 wo	-	-	-	0:10:13.908000	0:10:17.961000
 man	-	-	-	0:10:13.908000	0:10:17.961000
 wahrscheinlich	-	-	-	0:10:13.908000	0:10:17.961000
@@ -2684,7 +2684,7 @@ sind	-	-	-	0:10:17.961000	0:10:19.217000
 findet	-	-	-	0:10:17.961000	0:10:19.217000
 .	-	-	-	0:10:17.961000	0:10:19.217000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:17.961000" end="0:10:21.182000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:17.961000" end="0:10:21.182000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:17.961000	0:10:19.217000
 ,	-	-	-	0:10:17.961000	0:10:19.217000
 dazu	-	-	-	0:10:17.961000	0:10:19.217000
@@ -2699,7 +2699,7 @@ beim	-	-	-	0:10:19.217000	0:10:21.182000
 Organisieren	-	-	-	0:10:19.217000	0:10:21.182000
 .	-	-	-	0:10:19.217000	0:10:21.182000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:21.182000" end="0:10:22.117000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:21.182000" end="0:10:22.117000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:10:21.182000	0:10:22.117000
 ,	-	-	-	0:10:21.182000	0:10:22.117000
 okay	-	-	-	0:10:21.182000	0:10:22.117000
@@ -2707,7 +2707,7 @@ okay	-	-	-	0:10:21.182000	0:10:22.117000
 mhm	-	-	-	0:10:21.182000	0:10:22.117000
 .	-	-	-	0:10:21.182000	0:10:22.117000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:22.117000" end="0:10:32.965000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:22.117000" end="0:10:32.965000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ähm	-	-	-	0:10:22.117000	0:10:23.115000
 ,	-	-	-	0:10:22.117000	0:10:23.115000
 dadurch	-	-	-	0:10:22.117000	0:10:23.115000
@@ -2744,7 +2744,7 @@ Leute	-	-	-	0:10:30.830000	0:10:32.965000
 Kennenlernen	-	-	-	0:10:30.830000	0:10:32.965000
 .	-	-	-	0:10:30.830000	0:10:32.965000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:32.965000" end="0:10:45.463000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:32.965000" end="0:10:45.463000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:10:32.965000	0:10:37.091000
 ähm	-	-	-	0:10:32.965000	0:10:37.091000
 wenn	-	-	-	0:10:32.965000	0:10:37.091000
@@ -2782,7 +2782,7 @@ Personen	-	-	-	0:10:39.456000	0:10:43.576000
 ?	-	-	-	0:10:39.456000	0:10:43.576000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:10:43.576000" end="0:10:59.580000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:10:43.576000" end="0:10:59.580000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,9s"/>
 nein	-	-	-	0:10:45.463000	0:10:46.506000
 ,	-	-	-	0:10:45.463000	0:10:46.506000
@@ -2836,11 +2836,11 @@ Leute	-	-	-	0:10:56.915000	0:10:59.580000
 reden	-	-	-	0:10:56.915000	0:10:59.580000
 .	-	-	-	0:10:56.915000	0:10:59.580000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:10:59.580000" end="0:11:00.090000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:10:59.580000" end="0:11:00.090000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:59.580000	0:11:00.090000
 .	-	-	-	0:10:59.580000	0:11:00.090000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:00.090000" end="0:11:08.788000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:00.090000" end="0:11:08.788000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nicht	-	-	-	0:11:00.090000	0:11:00.809000
 ?	-	-	-	0:11:00.090000	0:11:00.809000
 Wenn	-	-	-	0:11:00.809000	0:11:01.733000
@@ -2877,11 +2877,11 @@ ein	-	-	-	0:11:07.661000	0:11:08.788000
 Pole	-	-	-	0:11:07.661000	0:11:08.788000
 ,	-	-	-	0:11:07.661000	0:11:08.788000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:08.788000" end="0:11:09.198000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:08.788000" end="0:11:09.198000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:08.788000	0:11:09.198000
 .	-	-	-	0:11:08.788000	0:11:09.198000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:09.198000" end="0:11:17.978000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:09.198000" end="0:11:17.978000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ähm	-	-	-	0:11:09.198000	0:11:09.890000
 ,	-	-	-	0:11:09.198000	0:11:09.890000
 dann	-	-	-	0:11:09.890000	0:11:11.610000
@@ -2907,10 +2907,10 @@ noch	-	-	-	0:11:15.841000	0:11:17.978000
 nicht	-	-	-	0:11:15.841000	0:11:17.978000
 .	-	-	-	0:11:15.841000	0:11:17.978000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:17.978000" end="0:11:18.652000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:17.978000" end="0:11:18.652000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:17.978000" end="0:11:23.468000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:17.978000" end="0:11:23.468000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 und	-	-	-	0:11:18.652000	0:11:21.186000
 der	-	-	-	0:11:18.652000	0:11:21.186000
@@ -2936,10 +2936,10 @@ Hochdeutsch	-	-	-	0:11:21.186000	0:11:23.468000
 gesprochen	-	-	-	0:11:21.186000	0:11:23.468000
 ,	-	-	-	0:11:21.186000	0:11:23.468000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:23.468000" end="0:11:24.110000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:23.468000" end="0:11:24.110000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:23.468000" end="0:11:28.530000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:23.468000" end="0:11:28.530000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 damit	-	-	-	0:11:24.110000	0:11:25.046000
 er	-	-	-	0:11:24.110000	0:11:25.046000
@@ -2959,11 +2959,11 @@ die	-	-	-	0:11:25.046000	0:11:28.530000
 Mundart	-	-	-	0:11:25.046000	0:11:28.530000
 ,	-	-	-	0:11:25.046000	0:11:28.530000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:28.530000" end="0:11:30.603000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:28.530000" end="0:11:30.603000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:28.530000	0:11:30.603000
 .	-	-	-	0:11:28.530000	0:11:30.603000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:28.530000" end="0:11:36.339000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:28.530000" end="0:11:36.339000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:11:28.530000	0:11:30.603000
 er	-	-	-	0:11:28.530000	0:11:30.603000
 ja	-	-	-	0:11:28.530000	0:11:30.603000
@@ -3002,13 +3002,13 @@ in	-	-	-	0:11:32.759000	0:11:36.339000
 Hochdeutsch	-	-	-	0:11:32.759000	0:11:36.339000
 .	-	-	-	0:11:32.759000	0:11:36.339000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:36.339000" end="0:11:37.136000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:36.339000" end="0:11:37.136000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:36.339000" end="0:11:37.136000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:36.339000" end="0:11:37.136000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:37.136000" end="0:11:41.328000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:37.136000" end="0:11:41.328000" persName="Informant EXP2" age_lower="" age_upper="999">
 aber	-	-	-	0:11:37.136000	0:11:38.488000
 aber	-	-	-	0:11:37.136000	0:11:38.488000
 sonst	-	-	-	0:11:37.136000	0:11:38.488000
@@ -3020,7 +3020,7 @@ eher	-	-	-	0:11:38.488000	0:11:41.328000
 mhm	-	-	-	0:11:38.488000	0:11:41.328000
 .	-	-	-	0:11:38.488000	0:11:41.328000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:38.488000" end="0:11:41.328000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:38.488000" end="0:11:41.328000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 mit	-	-	-	0:11:38.488000	0:11:41.328000
 die	-	-	-	0:11:38.488000	0:11:41.328000
 mit	-	-	-	0:11:38.488000	0:11:41.328000
@@ -3033,7 +3033,7 @@ der	-	-	-	0:11:38.488000	0:11:41.328000
 Mundart	-	-	-	0:11:38.488000	0:11:41.328000
 .	-	-	-	0:11:38.488000	0:11:41.328000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:11:41.328000" end="0:11:53.773000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:11:41.328000" end="0:11:53.773000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:11:41.328000	0:11:42.830000
 .	-	-	-	0:11:41.328000	0:11:42.830000
@@ -3082,7 +3082,7 @@ verändert	-	-	-	0:11:49.561000	0:11:53.773000
 hat	-	-	-	0:11:49.561000	0:11:53.773000
 ?	-	-	-	0:11:49.561000	0:11:53.773000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:11:53.773000" end="0:12:04.434000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:11:53.773000" end="0:12:04.434000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,5s"/>
 ähm	-	-	-	0:11:53.773000	0:11:56.150000
 ,	-	-	-	0:11:53.773000	0:11:56.150000
@@ -3114,11 +3114,11 @@ nicht	-	-	-	0:12:02.833000	0:12:04.434000
 gemacht	-	-	-	0:12:02.833000	0:12:04.434000
 .	-	-	-	0:12:02.833000	0:12:04.434000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:04.434000" end="0:12:04.770000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:04.434000" end="0:12:04.770000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:12:04.434000	0:12:04.770000
 .	-	-	-	0:12:04.434000	0:12:04.770000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:04.770000" end="0:12:14.186000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:04.770000" end="0:12:14.186000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 na	-	-	-	0:12:04.770000	0:12:07.216000
 dann	-	-	-	0:12:04.770000	0:12:07.216000
 habe	-	-	-	0:12:04.770000	0:12:07.216000
@@ -3145,10 +3145,10 @@ im	-	-	-	0:12:12.396000	0:12:14.186000
 Fernsehen	-	-	-	0:12:12.396000	0:12:14.186000
 .	-	-	-	0:12:12.396000	0:12:14.186000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:14.186000" end="0:12:15.877000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:14.186000" end="0:12:15.877000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:14.186000" end="0:12:21.126000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:14.186000" end="0:12:21.126000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,7s"/>
 ansonsten	-	-	-	0:12:15.877000	0:12:17.583000
 ,	-	-	-	0:12:15.877000	0:12:17.583000
@@ -3167,11 +3167,11 @@ deswegen	-	-	-	0:12:17.583000	0:12:21.126000
 nicht	-	-	-	0:12:17.583000	0:12:21.126000
 ,	-	-	-	0:12:17.583000	0:12:21.126000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:21.126000" end="0:12:22.586000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:21.126000" end="0:12:22.586000" persName="Informant EXP2" age_lower="" age_upper="999">
 okay	-	-	-	0:12:21.126000	0:12:22.586000
 .	-	-	-	0:12:21.126000	0:12:22.586000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:21.126000" end="0:12:22.586000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:21.126000" end="0:12:22.586000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:12:21.126000	0:12:22.586000
 da	-	-	-	0:12:21.126000	0:12:22.586000
 beschäftige	-	-	-	0:12:21.126000	0:12:22.586000
@@ -3180,11 +3180,11 @@ mich	-	-	-	0:12:21.126000	0:12:22.586000
 anders	-	-	-	0:12:21.126000	0:12:22.586000
 ,	-	-	-	0:12:21.126000	0:12:22.586000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:22.586000" end="0:12:25.124000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:22.586000" end="0:12:25.124000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:12:22.586000	0:12:25.124000
 .	-	-	-	0:12:22.586000	0:12:25.124000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:22.586000" end="0:12:29.713000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:22.586000" end="0:12:29.713000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 tue	-	-	-	0:12:22.586000	0:12:25.124000
 ich	-	-	-	0:12:22.586000	0:12:25.124000
 lesen	-	-	-	0:12:22.586000	0:12:25.124000
@@ -3218,11 +3218,11 @@ gerne	-	-	-	0:12:28.416000	0:12:29.713000
 fotografieren	-	-	-	0:12:28.416000	0:12:29.713000
 .	-	-	-	0:12:28.416000	0:12:29.713000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:29.713000" end="0:12:30.210000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:29.713000" end="0:12:30.210000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:29.713000	0:12:30.210000
 .	-	-	-	0:12:29.713000	0:12:30.210000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:30.210000" end="0:12:35.887000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:30.210000" end="0:12:35.887000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:12:30.210000	0:12:32.524000
 habe	-	-	-	0:12:30.210000	0:12:32.524000
 dann	-	-	-	0:12:30.210000	0:12:32.524000
@@ -3247,11 +3247,11 @@ mache	-	-	-	0:12:32.524000	0:12:35.887000
 ein	-	-	-	0:12:32.524000	0:12:35.887000
 Fotobuch	-	-	-	0:12:32.524000	0:12:35.887000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:35.887000" end="0:12:40.388000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:35.887000" end="0:12:40.388000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:35.887000	0:12:40.388000
 .	-	-	-	0:12:35.887000	0:12:40.388000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:35.887000" end="0:12:46.056000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:35.887000" end="0:12:46.056000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 oder	-	-	-	0:12:35.887000	0:12:40.388000
 mache	-	-	-	0:12:35.887000	0:12:40.388000
 immer	-	-	-	0:12:35.887000	0:12:40.388000
@@ -3286,13 +3286,13 @@ Bilder	-	-	-	0:12:43.346000	0:12:46.056000
 gehabt	-	-	-	0:12:43.346000	0:12:46.056000
 .	-	-	-	0:12:43.346000	0:12:46.056000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:46.056000" end="0:12:46.783000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:46.056000" end="0:12:46.783000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:12:46.056000	0:12:46.783000
 ,	-	-	-	0:12:46.056000	0:12:46.783000
 sicher	-	-	-	0:12:46.056000	0:12:46.783000
 .	-	-	-	0:12:46.056000	0:12:46.783000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:46.783000" end="0:12:48.991000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:46.783000" end="0:12:48.991000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 außer	-	-	-	0:12:46.783000	0:12:48.991000
 bin	-	-	-	0:12:46.783000	0:12:48.991000
 ich	-	-	-	0:12:46.783000	0:12:48.991000
@@ -3302,10 +3302,10 @@ Natur	-	-	-	0:12:46.783000	0:12:48.991000
 gegangen	-	-	-	0:12:46.783000	0:12:48.991000
 .	-	-	-	0:12:46.783000	0:12:48.991000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:12:48.991000" end="0:12:50.582000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:12:48.991000" end="0:12:50.582000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:12:48.991000" end="0:13:03.693000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:12:48.991000" end="0:13:03.693000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 ich	-	-	-	0:12:50.582000	0:12:54.122000
 auch	-	-	-	0:12:50.582000	0:12:54.122000
@@ -3349,13 +3349,13 @@ in	-	-	-	0:13:00.975000	0:13:03.693000
 der	-	-	-	0:13:00.975000	0:13:03.693000
 Öffentlichkeitsarbeit	-	-	-	0:13:00.975000	0:13:03.693000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:03.693000" end="0:13:08.551000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:03.693000" end="0:13:08.551000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:03.693000	0:13:08.551000
 ,	-	-	-	0:13:03.693000	0:13:08.551000
 mhm	-	-	-	0:13:03.693000	0:13:08.551000
 .	-	-	-	0:13:03.693000	0:13:08.551000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:03.693000" end="0:13:21.964000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:03.693000" end="0:13:21.964000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 oder	-	-	-	0:13:03.693000	0:13:08.551000
 den	-	-	-	0:13:03.693000	0:13:08.551000
 Pfarrboten	-	-	-	0:13:03.693000	0:13:08.551000
@@ -3427,7 +3427,7 @@ ganz	-	-	-	0:13:19.776000	0:13:21.964000
 einroste	-	-	-	0:13:19.776000	0:13:21.964000
 .	-	-	-	0:13:19.776000	0:13:21.964000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:21.964000" end="0:13:25.119000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:21.964000" end="0:13:25.119000" persName="Informant EXP2" age_lower="" age_upper="999">
 Und	-	-	-	0:13:21.964000	0:13:23.415000
 ist	-	-	-	0:13:21.964000	0:13:23.415000
 das	-	-	-	0:13:21.964000	0:13:23.415000
@@ -3442,7 +3442,7 @@ immer	-	-	-	0:13:23.415000	0:13:25.119000
 gemacht	-	-	-	0:13:23.415000	0:13:25.119000
 ?	-	-	-	0:13:23.415000	0:13:25.119000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:23.415000" end="0:13:25.119000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:23.415000" end="0:13:25.119000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nein	-	-	-	0:13:23.415000	0:13:25.119000
 ,	-	-	-	0:13:23.415000	0:13:25.119000
 das	-	-	-	0:13:23.415000	0:13:25.119000
@@ -3451,17 +3451,17 @@ ich	-	-	-	0:13:23.415000	0:13:25.119000
 eigentlich	-	-	-	0:13:23.415000	0:13:25.119000
 schon	-	-	-	0:13:23.415000	0:13:25.119000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:25.119000" end="0:13:26.008000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:25.119000" end="0:13:26.008000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:13:25.119000	0:13:26.008000
 .	-	-	-	0:13:25.119000	0:13:26.008000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:25.119000" end="0:13:26.008000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:25.119000" end="0:13:26.008000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 vorher	-	-	-	0:13:25.119000	0:13:26.008000
 auch	-	-	-	0:13:25.119000	0:13:26.008000
 gemacht	-	-	-	0:13:25.119000	0:13:26.008000
 .	-	-	-	0:13:25.119000	0:13:26.008000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:26.008000" end="0:13:31.087000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:26.008000" end="0:13:31.087000" persName="Informant EXP2" age_lower="" age_upper="999">
 also	-	-	-	0:13:26.008000	0:13:27.990000
 das	-	-	-	0:13:26.008000	0:13:27.990000
 ist	-	-	-	0:13:26.008000	0:13:27.990000
@@ -3472,7 +3472,7 @@ irgendwie	-	-	-	0:13:26.008000	0:13:27.990000
 ja	-	-	-	0:13:27.990000	0:13:31.087000
 .	-	-	-	0:13:27.990000	0:13:31.087000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:27.990000" end="0:13:35.042000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:27.990000" end="0:13:35.042000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nein	-	-	-	0:13:27.990000	0:13:31.087000
 ,	-	-	-	0:13:27.990000	0:13:31.087000
 das	-	-	-	0:13:27.990000	0:13:31.087000
@@ -3502,11 +3502,11 @@ viel	-	-	-	0:13:32.538000	0:13:35.042000
 Zeit	-	-	-	0:13:32.538000	0:13:35.042000
 ,	-	-	-	0:13:32.538000	0:13:35.042000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:35.042000" end="0:13:37.396000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:35.042000" end="0:13:37.396000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:13:35.042000	0:13:37.396000
 .	-	-	-	0:13:35.042000	0:13:37.396000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:35.042000" end="0:13:47.427000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:35.042000" end="0:13:47.427000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 die	-	-	-	0:13:35.042000	0:13:37.396000
 die	-	-	-	0:13:35.042000	0:13:37.396000
 ich	-	-	-	0:13:35.042000	0:13:37.396000
@@ -3557,11 +3557,11 @@ Gutes	-	-	-	0:13:44.258000	0:13:47.427000
 tun	-	-	-	0:13:44.258000	0:13:47.427000
 .	-	-	-	0:13:44.258000	0:13:47.427000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:47.427000" end="0:13:49.010000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:47.427000" end="0:13:49.010000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:13:47.427000	0:13:49.010000
 .	-	-	-	0:13:47.427000	0:13:49.010000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:47.427000" end="0:13:56.014000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:47.427000" end="0:13:56.014000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 d/	-	-	-	0:13:47.427000	0:13:49.010000
 die	-	-	-	0:13:47.427000	0:13:49.010000
 Pfarre	-	-	-	0:13:47.427000	0:13:49.010000
@@ -3596,7 +3596,7 @@ anschauen	-	-	-	0:13:53.026000	0:13:56.014000
 können	-	-	-	0:13:53.026000	0:13:56.014000
 .	-	-	-	0:13:53.026000	0:13:56.014000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:56.014000" end="0:13:57.114000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:56.014000" end="0:13:57.114000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:13:56.014000	0:13:57.114000
 ,	-	-	-	0:13:56.014000	0:13:57.114000
 auf	-	-	-	0:13:56.014000	0:13:57.114000
@@ -3604,16 +3604,16 @@ jeden	-	-	-	0:13:56.014000	0:13:57.114000
 Fall	-	-	-	0:13:56.014000	0:13:57.114000
 .	-	-	-	0:13:56.014000	0:13:57.114000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:56.014000" end="0:13:57.114000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:56.014000" end="0:13:57.114000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 damit	-	-	-	0:13:56.014000	0:13:57.114000
 kann	-	-	-	0:13:56.014000	0:13:57.114000
 ich	-	-	-	0:13:56.014000	0:13:57.114000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:57.114000" end="0:13:59.665000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:57.114000" end="0:13:59.665000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:13:57.114000	0:13:59.665000
 .	-	-	-	0:13:57.114000	0:13:59.665000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:57.114000" end="0:13:59.665000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:57.114000" end="0:13:59.665000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 Leuten	-	-	-	0:13:57.114000	0:13:59.665000
 eine	-	-	-	0:13:57.114000	0:13:59.665000
 Freude	-	-	-	0:13:57.114000	0:13:59.665000
@@ -3627,12 +3627,12 @@ eine	-	-	-	0:13:57.114000	0:13:59.665000
 Freude	-	-	-	0:13:57.114000	0:13:59.665000
 .	-	-	-	0:13:57.114000	0:13:59.665000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:13:59.665000" end="0:14:00.364000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:13:59.665000" end="0:14:00.364000" persName="Informant EXP2" age_lower="" age_upper="999">
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:13:59.665000" end="0:14:00.364000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:13:59.665000" end="0:14:00.364000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 also	-	-	-	0:13:59.665000	0:14:00.364000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:14:00.364000" end="0:14:02.664000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:14:00.364000" end="0:14:02.664000" persName="Informant EXP2" age_lower="" age_upper="999">
 also	-	-	-	0:14:00.364000	0:14:02.664000
 es	-	-	-	0:14:00.364000	0:14:02.664000
 ist	-	-	-	0:14:00.364000	0:14:02.664000
@@ -3644,7 +3644,7 @@ Nehmen	-	-	-	0:14:00.364000	0:14:02.664000
 gleichzeitig	-	-	-	0:14:00.364000	0:14:02.664000
 .	-	-	-	0:14:00.364000	0:14:02.664000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:14:00.364000" end="0:14:02.664000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:00.364000" end="0:14:02.664000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 es	-	-	-	0:14:00.364000	0:14:02.664000
 ist	-	-	-	0:14:00.364000	0:14:02.664000
 ein	-	-	-	0:14:00.364000	0:14:02.664000
@@ -3652,17 +3652,17 @@ ein	-	-	-	0:14:00.364000	0:14:02.664000
 ja	-	-	-	0:14:00.364000	0:14:02.664000
 .	-	-	-	0:14:00.364000	0:14:02.664000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:14:02.664000" end="0:14:04.081000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:14:02.664000" end="0:14:04.081000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:14:02.664000	0:14:04.081000
 ähm	-	-	-	0:14:02.664000	0:14:04.081000
 genau	-	-	-	0:14:02.664000	0:14:04.081000
 ,	-	-	-	0:14:02.664000	0:14:04.081000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:14:02.664000" end="0:14:04.081000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:02.664000" end="0:14:04.081000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 genau	-	-	-	0:14:02.664000	0:14:04.081000
 .	-	-	-	0:14:02.664000	0:14:04.081000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:14:04.081000" end="0:14:20.628000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:14:04.081000" end="0:14:20.628000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:14:04.081000	0:14:05.178000
 Sie	-	-	-	0:14:04.081000	0:14:05.178000
 haben	-	-	-	0:14:04.081000	0:14:05.178000
@@ -3724,7 +3724,7 @@ miteinander	-	-	-	0:14:11.667000	0:14:20.628000
 sprechen	-	-	-	0:14:11.667000	0:14:20.628000
 ?	-	-	-	0:14:11.667000	0:14:20.628000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:14:20.628000" end="0:14:28.658000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:20.628000" end="0:14:28.658000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 nein	-	-	-	0:14:20.628000	0:14:23.058000
 ,	-	-	-	0:14:20.628000	0:14:23.058000
 da	-	-	-	0:14:20.628000	0:14:23.058000
@@ -3756,10 +3756,10 @@ tun	-	-	-	0:14:25.224000	0:14:28.658000
 das	-	-	-	0:14:25.224000	0:14:28.658000
 .	-	-	-	0:14:25.224000	0:14:28.658000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:14:28.658000" end="0:14:29.364000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:14:28.658000" end="0:14:29.364000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:14:28.658000" end="0:14:42.825000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:28.658000" end="0:14:42.825000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 Einflüsse	-	-	-	0:14:29.364000	0:14:32.991000
 kommen	-	-	-	0:14:29.364000	0:14:32.991000
@@ -3807,11 +3807,11 @@ die	-	-	-	0:14:41.470000	0:14:42.825000
 Wiener	-	-	-	0:14:41.470000	0:14:42.825000
 ,	-	-	-	0:14:41.470000	0:14:42.825000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:14:42.825000" end="0:14:46.381000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:14:42.825000" end="0:14:46.381000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:42.825000	0:14:46.381000
 .	-	-	-	0:14:42.825000	0:14:46.381000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:14:42.825000" end="0:15:05.960000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:14:42.825000" end="0:15:05.960000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 die	-	-	-	0:14:42.825000	0:14:46.381000
 Kinder	-	-	-	0:14:42.825000	0:14:46.381000
 haben	-	-	-	0:14:42.825000	0:14:46.381000
@@ -3888,11 +3888,11 @@ ganz	-	-	-	0:15:03.935000	0:15:05.960000
 anders	-	-	-	0:15:03.935000	0:15:05.960000
 .	-	-	-	0:15:03.935000	0:15:05.960000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:05.960000" end="0:15:07.378000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:05.960000" end="0:15:07.378000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:05.960000	0:15:07.378000
 .	-	-	-	0:15:05.960000	0:15:07.378000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:05.960000" end="0:15:14.529000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:05.960000" end="0:15:14.529000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ich	-	-	-	0:15:05.960000	0:15:07.378000
 meine	-	-	-	0:15:05.960000	0:15:07.378000
 ,	-	-	-	0:15:05.960000	0:15:07.378000
@@ -3930,12 +3930,12 @@ ganz	-	-	-	0:15:12.109000	0:15:14.529000
 anders	-	-	-	0:15:12.109000	0:15:14.529000
 .	-	-	-	0:15:12.109000	0:15:14.529000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:14.529000" end="0:15:16.484000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:14.529000" end="0:15:16.484000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:14.529000	0:15:15.074000
 .	-	-	-	0:15:14.529000	0:15:15.074000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:15.074000" end="0:15:27.229000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:15.074000" end="0:15:27.229000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 und	-	-	-	0:15:16.484000	0:15:21.448000
 das	-	-	-	0:15:16.484000	0:15:21.448000
@@ -3972,7 +3972,7 @@ anders	-	-	-	0:15:22.751000	0:15:25.090000
 .	-	-	-	0:15:22.751000	0:15:25.090000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:27.229000" end="0:15:32.674000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:27.229000" end="0:15:32.674000" persName="Informant EXP2" age_lower="" age_upper="999">
 okay	-	-	-	0:15:27.229000	0:15:30.950000
 ,	-	-	-	0:15:27.229000	0:15:30.950000
 also	-	-	-	0:15:27.229000	0:15:30.950000
@@ -3998,7 +3998,7 @@ letzter	-	-	-	0:15:30.950000	0:15:32.674000
 Zeit	-	-	-	0:15:30.950000	0:15:32.674000
 .	-	-	-	0:15:30.950000	0:15:32.674000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:30.950000" end="0:15:33.390000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:30.950000" end="0:15:33.390000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:15:30.950000	0:15:32.674000
 ,	-	-	-	0:15:30.950000	0:15:32.674000
 aber	-	-	-	0:15:30.950000	0:15:32.674000
@@ -4011,7 +4011,7 @@ der	-	-	-	0:15:32.674000	0:15:33.390000
 Pandemie	-	-	-	0:15:32.674000	0:15:33.390000
 .	-	-	-	0:15:32.674000	0:15:33.390000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:33.390000" end="0:15:34.022000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:33.390000" end="0:15:34.022000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:15:33.390000	0:15:34.022000
 ,	-	-	-	0:15:33.390000	0:15:34.022000
 ja	-	-	-	0:15:33.390000	0:15:34.022000
@@ -4019,15 +4019,15 @@ ja	-	-	-	0:15:33.390000	0:15:34.022000
 ja	-	-	-	0:15:33.390000	0:15:34.022000
 .	-	-	-	0:15:33.390000	0:15:34.022000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:33.390000" end="0:15:34.022000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:33.390000" end="0:15:34.022000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:15:33.390000	0:15:34.022000
 ist	-	-	-	0:15:33.390000	0:15:34.022000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:34.022000" end="0:15:35.106000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:34.022000" end="0:15:35.106000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:34.022000	0:15:35.106000
 .	-	-	-	0:15:34.022000	0:15:35.106000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:34.022000" end="0:15:43.570000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:34.022000" end="0:15:43.570000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 Allgemein	-	-	-	0:15:34.022000	0:15:35.106000
 .	-	-	-	0:15:34.022000	0:15:35.106000
 ja	-	-	-	0:15:35.106000	0:15:35.690000
@@ -4054,11 +4054,11 @@ sich	-	-	-	0:15:37.621000	0:15:43.570000
 auf	-	-	-	0:15:37.621000	0:15:43.570000
 .	-	-	-	0:15:37.621000	0:15:43.570000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:43.570000" end="0:15:44.196000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:43.570000" end="0:15:44.196000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:15:43.570000	0:15:44.196000
 .	-	-	-	0:15:43.570000	0:15:44.196000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:44.196000" end="0:15:52.087000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:44.196000" end="0:15:52.087000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 wenn	-	-	-	0:15:44.196000	0:15:48.384000
 die	-	-	-	0:15:44.196000	0:15:48.384000
 die	-	-	-	0:15:44.196000	0:15:48.384000
@@ -4089,13 +4089,13 @@ gekriegt	-	-	-	0:15:48.384000	0:15:52.087000
 wird	-	-	-	0:15:48.384000	0:15:52.087000
 .	-	-	-	0:15:48.384000	0:15:52.087000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:15:52.087000" end="0:15:53.251000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:15:52.087000" end="0:15:53.251000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:15:52.087000	0:15:53.251000
 ,	-	-	-	0:15:52.087000	0:15:53.251000
 ja	-	-	-	0:15:52.087000	0:15:53.251000
 .	-	-	-	0:15:52.087000	0:15:53.251000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:15:53.251000" end="0:16:03.574000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:15:53.251000" end="0:16:03.574000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:15:53.251000	0:15:55.746000
 auch	-	-	-	0:15:53.251000	0:15:55.746000
 ,	-	-	-	0:15:53.251000	0:15:55.746000
@@ -4134,11 +4134,11 @@ abgewandelte	-	-	-	0:16:00.329000	0:16:03.574000
 Form	-	-	-	0:16:00.329000	0:16:03.574000
 .	-	-	-	0:16:00.329000	0:16:03.574000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:03.574000" end="0:16:04.230000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:03.574000" end="0:16:04.230000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:03.574000	0:16:04.230000
 .	-	-	-	0:16:03.574000	0:16:04.230000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:04.230000" end="0:16:06.330000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:04.230000" end="0:16:06.330000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:16:04.230000	0:16:06.330000
 das/	-	-	-	0:16:04.230000	0:16:06.330000
 so	-	-	-	0:16:04.230000	0:16:06.330000
@@ -4146,7 +4146,7 @@ wird	-	-	-	0:16:04.230000	0:16:06.330000
 geredet	-	-	-	0:16:04.230000	0:16:06.330000
 .	-	-	-	0:16:04.230000	0:16:06.330000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:06.330000" end="0:16:16.581000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:06.330000" end="0:16:16.581000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:16:06.330000	0:16:09.017000
 weil	-	-	-	0:16:06.330000	0:16:09.017000
 Sie	-	-	-	0:16:06.330000	0:16:09.017000
@@ -4178,10 +4178,10 @@ hat	-	-	-	0:16:11.574000	0:16:15.452000
 ?	-	-	-	0:16:11.574000	0:16:15.452000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:15.452000" end="0:16:16.581000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:15.452000" end="0:16:16.581000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:16.581000" end="0:16:21.988000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:16.581000" end="0:16:21.988000" persName="Informant EXP2" age_lower="" age_upper="999">
 jetzt	-	-	-	0:16:16.581000	0:16:18.227000
 in	-	-	-	0:16:16.581000	0:16:18.227000
 le/	-	-	-	0:16:16.581000	0:16:18.227000
@@ -4191,7 +4191,7 @@ Zeit	-	-	-	0:16:16.581000	0:16:18.227000
 ?	-	-	-	0:16:16.581000	0:16:18.227000
 <pause duration="3,8s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:18.227000" end="0:16:28.768000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:18.227000" end="0:16:28.768000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="3,8s"/>
 ähm	-	-	-	0:16:21.988000	0:16:24.003000
 ,	-	-	-	0:16:21.988000	0:16:24.003000
@@ -4217,10 +4217,10 @@ Pandemie	-	-	-	0:16:25.997000	0:16:27.532000
 dass	-	-	-	0:16:27.532000	0:16:28.768000
 /.	-	-	-	0:16:27.532000	0:16:28.768000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:28.768000" end="0:16:30.862000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:28.768000" end="0:16:30.862000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:28.768000" end="0:16:35.136000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:28.768000" end="0:16:35.136000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="2,1s"/>
 weil	-	-	-	0:16:30.862000	0:16:32.181000
 jetzt	-	-	-	0:16:30.862000	0:16:32.181000
@@ -4250,11 +4250,11 @@ ORT	ORT	-	-	0:16:33.706000	0:16:35.136000
 ORT	ORT	-	-	0:16:33.706000	0:16:35.136000
 .	-	-	-	0:16:33.706000	0:16:35.136000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:35.136000" end="0:16:35.696000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:35.136000" end="0:16:35.696000" persName="Informant EXP2" age_lower="" age_upper="999">
 ah	-	-	-	0:16:35.136000	0:16:35.696000
 .	-	-	-	0:16:35.136000	0:16:35.696000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:35.696000" end="0:16:41.975000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:35.696000" end="0:16:41.975000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ich	-	-	-	0:16:35.696000	0:16:39.966000
 war	-	-	-	0:16:35.696000	0:16:39.966000
 einmal	-	-	-	0:16:35.696000	0:16:39.966000
@@ -4278,11 +4278,11 @@ eigentlich	-	-	-	0:16:39.966000	0:16:41.975000
 enttäuscht	-	-	-	0:16:39.966000	0:16:41.975000
 ,	-	-	-	0:16:39.966000	0:16:41.975000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:41.975000" end="0:16:46.822000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:41.975000" end="0:16:46.822000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:41.975000	0:16:46.822000
 .	-	-	-	0:16:41.975000	0:16:46.822000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:41.975000" end="0:16:56.570000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:41.975000" end="0:16:56.570000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 wie	-	-	-	0:16:41.975000	0:16:46.822000
 schlampig	-	-	-	0:16:41.975000	0:16:46.822000
 die	-	-	-	0:16:41.975000	0:16:46.822000
@@ -4320,11 +4320,11 @@ Hochdeutsch	-	-	-	0:16:53.851000	0:16:56.570000
 ,	-	-	-	0:16:53.851000	0:16:56.570000
 unser	-	-	-	0:16:53.851000	0:16:56.570000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:56.570000" end="0:16:59.124000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:56.570000" end="0:16:59.124000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:16:56.570000	0:16:59.124000
 .	-	-	-	0:16:56.570000	0:16:59.124000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:56.570000" end="0:16:59.124000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:56.570000" end="0:16:59.124000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 das	-	-	-	0:16:56.570000	0:16:59.124000
 Burgtheaterdeutsch	-	-	-	0:16:56.570000	0:16:59.124000
 hat	-	-	-	0:16:56.570000	0:16:59.124000
@@ -4335,10 +4335,10 @@ sogar	-	-	-	0:16:56.570000	0:16:59.124000
 genannt	-	-	-	0:16:56.570000	0:16:59.124000
 .	-	-	-	0:16:56.570000	0:16:59.124000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:16:59.124000" end="0:17:00.255000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:16:59.124000" end="0:17:00.255000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:16:59.124000" end="0:17:08.905000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:16:59.124000" end="0:17:08.905000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 aber	-	-	-	0:17:00.255000	0:17:01.665000
 wahrscheinlich	-	-	-	0:17:00.255000	0:17:01.665000
@@ -4378,10 +4378,10 @@ mehr	-	-	-	0:17:07.608000	0:17:08.905000
 dieses	-	-	-	0:17:07.608000	0:17:08.905000
 .	-	-	-	0:17:07.608000	0:17:08.905000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:08.905000" end="0:17:09.814000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:08.905000" end="0:17:09.814000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:08.905000" end="0:17:19.076000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:08.905000" end="0:17:19.076000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 da	-	-	-	0:17:09.814000	0:17:11.419000
 war	-	-	-	0:17:09.814000	0:17:11.419000
@@ -4419,11 +4419,11 @@ gar	-	-	-	0:17:16.637000	0:17:19.076000
 nicht	-	-	-	0:17:16.637000	0:17:19.076000
 ."	-	-	-	0:17:16.637000	0:17:19.076000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:19.076000" end="0:17:19.538000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:19.076000" end="0:17:19.538000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:17:19.076000	0:17:19.538000
 .	-	-	-	0:17:19.076000	0:17:19.538000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:19.538000" end="0:17:23.307000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:19.538000" end="0:17:23.307000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:19.538000	0:17:20.290000
 .	-	-	-	0:17:19.538000	0:17:20.290000
 aber	-	-	-	0:17:20.290000	0:17:23.307000
@@ -4438,11 +4438,11 @@ nicht	-	-	-	0:17:20.290000	0:17:23.307000
 mehr	-	-	-	0:17:20.290000	0:17:23.307000
 ,	-	-	-	0:17:20.290000	0:17:23.307000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:23.307000" end="0:17:25.286000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:23.307000" end="0:17:25.286000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:23.307000	0:17:25.286000
 .	-	-	-	0:17:23.307000	0:17:25.286000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:23.307000" end="0:17:34.426000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:23.307000" end="0:17:34.426000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 der	-	-	-	0:17:23.307000	0:17:25.286000
 Pen/	-	-	-	0:17:23.307000	0:17:25.286000
 Pandemie	-	-	-	0:17:23.307000	0:17:25.286000
@@ -4491,11 +4491,11 @@ okay	-	-	-	0:17:33.526000	0:17:34.426000
 ja	-	-	-	0:17:33.526000	0:17:34.426000
 .	-	-	-	0:17:33.526000	0:17:34.426000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:34.426000" end="0:17:35.370000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:34.426000" end="0:17:35.370000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:17:34.426000	0:17:35.370000
 .	-	-	-	0:17:34.426000	0:17:35.370000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:35.370000" end="0:17:48.802000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:35.370000" end="0:17:48.802000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 dass	-	-	-	0:17:35.370000	0:17:37.997000
 das	-	-	-	0:17:35.370000	0:17:37.997000
 Deutsch	-	-	-	0:17:35.370000	0:17:37.997000
@@ -4541,12 +4541,12 @@ nicht	-	-	-	0:17:46.662000	0:17:48.802000
 geben	-	-	-	0:17:46.662000	0:17:48.802000
 .	-	-	-	0:17:46.662000	0:17:48.802000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:48.802000" end="0:17:51.471000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:48.802000" end="0:17:51.471000" persName="Informant EXP2" age_lower="" age_upper="999">
 also	-	-	-	0:17:48.802000	0:17:51.471000
 Sie/	-	-	-	0:17:48.802000	0:17:51.471000
 /.	-	-	-	0:17:48.802000	0:17:51.471000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:48.802000" end="0:17:53.428000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:48.802000" end="0:17:53.428000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 da	-	-	-	0:17:48.802000	0:17:51.471000
 müsste	-	-	-	0:17:48.802000	0:17:51.471000
@@ -4570,7 +4570,7 @@ ich	-	-	-	0:17:51.471000	0:17:53.428000
 mir	-	-	-	0:17:51.471000	0:17:53.428000
 .	-	-	-	0:17:51.471000	0:17:53.428000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:53.428000" end="0:17:57.242000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:53.428000" end="0:17:57.242000" persName="Informant EXP2" age_lower="" age_upper="999">
 Also	-	-	-	0:17:53.428000	0:17:57.242000
 sie	-	-	-	0:17:53.428000	0:17:57.242000
 wären	-	-	-	0:17:53.428000	0:17:57.242000
@@ -4585,11 +4585,11 @@ möglich	-	-	-	0:17:53.428000	0:17:57.242000
 klingt	-	-	-	0:17:53.428000	0:17:57.242000
 .	-	-	-	0:17:53.428000	0:17:57.242000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:53.428000" end="0:17:57.242000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:53.428000" end="0:17:57.242000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:53.428000	0:17:57.242000
 .	-	-	-	0:17:53.428000	0:17:57.242000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:57.242000" end="0:17:59.981000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:57.242000" end="0:17:59.981000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:17:57.242000	0:17:57.743000
 .	-	-	-	0:17:57.242000	0:17:57.743000
 dass	-	-	-	0:17:57.743000	0:17:59.981000
@@ -4599,15 +4599,15 @@ zuordnen	-	-	-	0:17:57.743000	0:17:59.981000
 kann	-	-	-	0:17:57.743000	0:17:59.981000
 .	-	-	-	0:17:57.743000	0:17:59.981000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:57.743000" end="0:17:59.981000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:57.743000" end="0:17:59.981000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 auf	-	-	-	0:17:57.743000	0:17:59.981000
 auf	-	-	-	0:17:57.743000	0:17:59.981000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:17:59.981000" end="0:18:01.825000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:17:59.981000" end="0:18:01.825000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:17:59.981000	0:18:01.825000
 .	-	-	-	0:17:59.981000	0:18:01.825000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:17:59.981000" end="0:18:07.396000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:17:59.981000" end="0:18:07.396000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 auf	-	-	-	0:17:59.981000	0:18:01.825000
 auf	-	-	-	0:17:59.981000	0:18:01.825000
 Bühnen	-	-	-	0:17:59.981000	0:18:01.825000
@@ -4631,10 +4631,10 @@ oder	-	-	-	0:18:01.825000	0:18:07.396000
 kommen	-	-	-	0:18:01.825000	0:18:07.396000
 vo/	-	-	-	0:18:01.825000	0:18:07.396000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:07.396000" end="0:18:09.557000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:07.396000" end="0:18:09.557000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:07.396000" end="0:18:17.335000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:07.396000" end="0:18:17.335000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="2,2s"/>
 ja	-	-	-	0:18:09.557000	0:18:09.955000
 .	-	-	-	0:18:09.557000	0:18:09.955000
@@ -4661,11 +4661,11 @@ die	-	-	-	0:18:15.360000	0:18:17.335000
 Bühnen	-	-	-	0:18:15.360000	0:18:17.335000
 .	-	-	-	0:18:15.360000	0:18:17.335000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:17.335000" end="0:18:18.976000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:17.335000" end="0:18:18.976000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:17.335000	0:18:18.976000
 .	-	-	-	0:18:17.335000	0:18:18.976000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:17.335000" end="0:18:21.214000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:17.335000" end="0:18:21.214000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 oder	-	-	-	0:18:17.335000	0:18:18.976000
 zu	-	-	-	0:18:17.335000	0:18:18.976000
 schnell	-	-	-	0:18:17.335000	0:18:18.976000
@@ -4681,7 +4681,7 @@ gut	-	-	-	0:18:18.976000	0:18:21.214000
 versteht	-	-	-	0:18:18.976000	0:18:21.214000
 .	-	-	-	0:18:18.976000	0:18:21.214000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:21.214000" end="0:18:25.285000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:21.214000" end="0:18:25.285000" persName="Informant EXP2" age_lower="" age_upper="999">
 also	-	-	-	0:18:21.214000	0:18:25.285000
 klar	-	-	-	0:18:21.214000	0:18:25.285000
 und	-	-	-	0:18:21.214000	0:18:25.285000
@@ -4692,7 +4692,7 @@ Region	-	-	-	0:18:21.214000	0:18:25.285000
 zuordnen	-	-	-	0:18:21.214000	0:18:25.285000
 .	-	-	-	0:18:21.214000	0:18:25.285000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:21.214000" end="0:18:25.285000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:21.214000" end="0:18:25.285000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:21.214000	0:18:25.285000
 ,	-	-	-	0:18:21.214000	0:18:25.285000
 ja	-	-	-	0:18:21.214000	0:18:25.285000
@@ -4700,7 +4700,7 @@ ja	-	-	-	0:18:21.214000	0:18:25.285000
 ja	-	-	-	0:18:21.214000	0:18:25.285000
 .	-	-	-	0:18:21.214000	0:18:25.285000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:25.285000" end="0:18:26.772000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:25.285000" end="0:18:26.772000" persName="Informant EXP2" age_lower="" age_upper="999">
 ja	-	-	-	0:18:25.285000	0:18:26.772000
 ,	-	-	-	0:18:25.285000	0:18:26.772000
 ja	-	-	-	0:18:25.285000	0:18:26.772000
@@ -4708,11 +4708,11 @@ ja	-	-	-	0:18:25.285000	0:18:26.772000
 okay	-	-	-	0:18:25.285000	0:18:26.772000
 .	-	-	-	0:18:25.285000	0:18:26.772000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:26.772000" end="0:18:27.175000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:26.772000" end="0:18:27.175000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 mhm	-	-	-	0:18:26.772000	0:18:27.175000
 .	-	-	-	0:18:26.772000	0:18:27.175000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:27.175000" end="0:18:37.406000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:27.175000" end="0:18:37.406000" persName="Informant EXP2" age_lower="" age_upper="999">
 und	-	-	-	0:18:27.175000	0:18:29.073000
 so	-	-	-	0:18:27.175000	0:18:29.073000
 ganz	-	-	-	0:18:27.175000	0:18:29.073000
@@ -4739,7 +4739,7 @@ festgestellt	-	-	-	0:18:29.073000	0:18:36.043000
 ?	-	-	-	0:18:29.073000	0:18:36.043000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:36.043000" end="0:18:44.951000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:36.043000" end="0:18:44.951000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 nein	-	-	-	0:18:37.406000	0:18:40.337000
 ,	-	-	-	0:18:37.406000	0:18:40.337000
@@ -4773,11 +4773,11 @@ das	-	-	-	0:18:44.081000	0:18:44.951000
 heute	-	-	-	0:18:44.081000	0:18:44.951000
 ?	-	-	-	0:18:44.081000	0:18:44.951000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:44.951000" end="0:18:47.954000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:44.951000" end="0:18:47.954000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:44.951000	0:18:47.954000
 .	-	-	-	0:18:44.951000	0:18:47.954000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:44.951000" end="0:18:50.516000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:44.951000" end="0:18:50.516000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 Wörter	-	-	-	0:18:44.951000	0:18:47.954000
 ,	-	-	-	0:18:44.951000	0:18:47.954000
 die	-	-	-	0:18:44.951000	0:18:47.954000
@@ -4794,10 +4794,10 @@ werden	-	-	-	0:18:47.954000	0:18:49.959000
 weil	-	-	-	0:18:49.959000	0:18:50.516000
 es	-	-	-	0:18:49.959000	0:18:50.516000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:18:50.516000" end="0:18:51.904000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:18:50.516000" end="0:18:51.904000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:18:50.516000" end="0:19:03.370000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:18:50.516000" end="0:19:03.370000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 durch	-	-	-	0:18:51.904000	0:18:57.749000
 die	-	-	-	0:18:51.904000	0:18:57.749000
@@ -4835,11 +4835,11 @@ cool	-	-	-	0:19:02.406000	0:19:03.370000
 ist	-	-	-	0:19:02.406000	0:19:03.370000
 .	-	-	-	0:19:02.406000	0:19:03.370000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:03.370000" end="0:19:04.402000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:03.370000" end="0:19:04.402000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:03.370000	0:19:04.402000
 .	-	-	-	0:19:03.370000	0:19:04.402000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:03.370000" end="0:19:10.112000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:03.370000" end="0:19:10.112000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ja	-	-	-	0:19:03.370000	0:19:04.402000
 .	-	-	-	0:19:03.370000	0:19:04.402000
 braucht	-	-	-	0:19:04.403000	0:19:05.815000
@@ -4860,10 +4860,10 @@ weil	-	-	-	0:19:09.615000	0:19:10.112000
 dann	-	-	-	0:19:09.615000	0:19:10.112000
 /.	-	-	-	0:19:09.615000	0:19:10.112000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:10.112000" end="0:19:11.182000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:10.112000" end="0:19:11.182000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:10.112000" end="0:19:25.266000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:10.112000" end="0:19:25.266000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 und	-	-	-	0:19:11.182000	0:19:12.303000
 dann	-	-	-	0:19:11.182000	0:19:12.303000
@@ -4910,11 +4910,11 @@ das	-	-	-	0:19:22.806000	0:19:25.266000
 bedeutet	-	-	-	0:19:22.806000	0:19:25.266000
 .	-	-	-	0:19:22.806000	0:19:25.266000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:25.266000" end="0:19:25.976000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:25.266000" end="0:19:25.976000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:25.266000	0:19:25.976000
 .	-	-	-	0:19:25.266000	0:19:25.976000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:25.976000" end="0:19:37.680000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:25.976000" end="0:19:37.680000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 also	-	-	-	0:19:25.976000	0:19:27.670000
 das	-	-	-	0:19:25.976000	0:19:27.670000
@@ -4955,10 +4955,10 @@ jungen	-	-	-	0:19:36.272000	0:19:37.680000
 Leute	-	-	-	0:19:36.272000	0:19:37.680000
 .	-	-	-	0:19:36.272000	0:19:37.680000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:37.680000" end="0:19:38.825000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:37.680000" end="0:19:38.825000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:37.680000" end="0:19:44.023000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:37.680000" end="0:19:44.023000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 ja	-	-	-	0:19:38.825000	0:19:41.649000
 <pause duration="0,5s"/>
@@ -4978,7 +4978,7 @@ Ausdruck	-	-	-	0:19:41.649000	0:19:44.023000
 ein	-	-	-	0:19:41.649000	0:19:44.023000
 .	-	-	-	0:19:41.649000	0:19:44.023000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:44.023000" end="0:19:52.411000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:44.023000" end="0:19:52.411000" persName="Informant EXP2" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 also	-	-	-	0:19:44.023000	0:19:47.911000
 Sie	-	-	-	0:19:44.023000	0:19:47.911000
@@ -5010,14 +5010,14 @@ bewerten	-	-	-	0:19:50.310000	0:19:52.411000
 Sie	-	-	-	0:19:50.310000	0:19:52.411000
 das	-	-	-	0:19:50.310000	0:19:52.411000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:50.310000" end="0:19:52.411000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:50.310000" end="0:19:52.411000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 und	-	-	-	0:19:50.310000	0:19:52.411000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:52.411000" end="0:19:53.903000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:52.411000" end="0:19:53.903000" persName="Informant EXP2" age_lower="" age_upper="999">
 gen/	-	-	-	0:19:52.411000	0:19:53.903000
 ?	-	-	-	0:19:52.411000	0:19:53.903000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:52.411000" end="0:19:53.903000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:52.411000" end="0:19:53.903000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 ich	-	-	-	0:19:52.411000	0:19:53.903000
 glaube	-	-	-	0:19:52.411000	0:19:53.903000
 auch	-	-	-	0:19:52.411000	0:19:53.903000
@@ -5027,11 +5027,11 @@ die	-	-	-	0:19:52.411000	0:19:53.903000
 Jugend	-	-	-	0:19:52.411000	0:19:53.903000
 ,	-	-	-	0:19:52.411000	0:19:53.903000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:19:53.903000" end="0:19:56.060000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:19:53.903000" end="0:19:56.060000" persName="Informant EXP2" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:53.903000	0:19:56.060000
 .	-	-	-	0:19:53.903000	0:19:56.060000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:19:53.903000" end="0:20:13.671000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:19:53.903000" end="0:20:13.671000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 weil	-	-	-	0:19:53.903000	0:19:56.060000
 wir	-	-	-	0:19:53.903000	0:19:56.060000
 alten	-	-	-	0:19:53.903000	0:19:56.060000
@@ -5098,7 +5098,7 @@ ich	-	-	-	0:20:11.934000	0:20:13.671000
 nicht	-	-	-	0:20:11.934000	0:20:13.671000
 .	-	-	-	0:20:11.934000	0:20:13.671000
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:20:13.671000" end="0:20:17.552000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:20:13.671000" end="0:20:17.552000" persName="Informant EXP2" age_lower="" age_upper="999">
 okay	-	-	-	0:20:13.671000	0:20:16.783000
 ,	-	-	-	0:20:13.671000	0:20:16.783000
 perfekt	-	-	-	0:20:13.671000	0:20:16.783000
@@ -5114,9 +5114,9 @@ gewesen	-	-	-	0:20:13.671000	0:20:16.783000
 Dankeschön	-	-	-	0:20:16.783000	0:20:17.552000
 .	-	-	-	0:20:16.783000	0:20:17.552000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:20:16.783000" end="0:20:17.552000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:16.783000" end="0:20:17.552000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 </u>
-<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" start="0:20:17.552000" end="0:20:18.993000" persName="Informant EXP2">
+<u who="spk_617" sex="female" age="UNK" name="Informant EXP2" location="UNK" lat="None" lon="None" start="0:20:17.552000" end="0:20:18.993000" persName="Informant EXP2" age_lower="" age_upper="999">
 ich	-	-	-	0:20:17.552000	0:20:18.993000
 stoppe	-	-	-	0:20:17.552000	0:20:18.993000
 mal	-	-	-	0:20:17.552000	0:20:18.993000
@@ -5124,7 +5124,7 @@ ganz	-	-	-	0:20:17.552000	0:20:18.993000
 kurz	-	-	-	0:20:17.552000	0:20:18.993000
 .	-	-	-	0:20:17.552000	0:20:18.993000
 </u>
-<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" start="0:20:17.552000" end="0:20:18.993000" persName="Informant 0209">
+<u who="spk_49" sex="female" age="Alt (65+)" name="Informant 0209" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:20:17.552000" end="0:20:18.993000" persName="Informant 0209" residence="Neumarkt an der Ybbs" age_lower="65" age_upper="999">
 .	-	-	-	0:20:17.552000	0:20:18.993000
 bitte	-	-	-	0:20:17.552000	0:20:18.993000
 gerne	-	-	-	0:20:17.552000	0:20:18.993000

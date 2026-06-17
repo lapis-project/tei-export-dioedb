@@ -1,6 +1,6 @@
 <doc id="transcript_51" name="0535_0536_GFG" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="51.xml" title="Transcript: Transcript_51">
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:00" end="0:00:02.912000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:00" end="0:00:02.912000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:00	0:00:01.953000
 ,	-	-	-	0:00:00	0:00:01.953000
 na	na	PROPN	-	0:00:00	0:00:01.953000
@@ -16,37 +16,37 @@ an	an	ADP	-	0:00:01.953000	0:00:02.912000
 NAME	NAME	PROPN	?? DIM -i Interf Interf- IRR sd- SDent Suff U- Uml	0:00:01.953000	0:00:02.912000
 ?	-	-	-	0:00:01.953000	0:00:02.912000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:02.912000" end="0:00:04.529000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:02.912000" end="0:00:04.529000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 prost	prost	PROPN	-	0:00:02.912000	0:00:04.529000
 !	-	-	-	0:00:02.912000	0:00:04.529000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:02.912000" end="0:00:04.529000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:02.912000" end="0:00:04.529000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 prost	prost	PROPN	-	0:00:02.912000	0:00:04.529000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:04.529000" end="0:00:05.583000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:04.529000" end="0:00:05.583000" persName="Informant EXP5" age_lower="" age_upper="999">
 viel	viel	DET	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:04.529000	0:00:05.583000
 Spaß	Spaß	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	0:00:04.529000	0:00:05.583000
 !	-	-	-	0:00:04.529000	0:00:05.583000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:04.529000" end="0:00:06.862000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:04.529000" end="0:00:06.862000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:00:04.529000	0:00:05.583000
 <pause duration="0,6s"/>
 die	der	DET	-	0:00:05.583000	0:00:06.862000
 Tür	Tür	NOUN	-	0:00:05.583000	0:00:06.862000
 ,	-	-	-	0:00:05.583000	0:00:06.862000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:06.862000" end="0:00:07.499000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:06.862000" end="0:00:07.499000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:00:06.862000	0:00:07.499000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:06.862000" end="0:00:07.499000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:06.862000" end="0:00:07.499000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 warte	warten	VERB	-	0:00:06.862000	0:00:07.499000
 ,	-	-	-	0:00:06.862000	0:00:07.499000
 dann	dann	ADV	-	0:00:06.862000	0:00:07.499000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:07.499000" end="0:00:08.270000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:07.499000" end="0:00:08.270000" persName="Informant EXP5" age_lower="" age_upper="999">
 aso	aso	PROPN	-	0:00:07.499000	0:00:08.270000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:07.499000" end="0:00:09.695000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:07.499000" end="0:00:09.695000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sperre	sperren	VERB	-	0:00:07.499000	0:00:08.270000
 ich	ich	PRON	-	0:00:07.499000	0:00:08.270000
 die	der	DET	-	0:00:07.499000	0:00:08.270000
@@ -63,7 +63,7 @@ hinein	hinein	ADV	-	0:00:08.270000	0:00:09.695000
 jederzeit	jederzeit	ADV	-	0:00:08.270000	0:00:09.695000
 .	-	-	-	0:00:08.270000	0:00:09.695000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:09.695000" end="0:00:13.662000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:09.695000" end="0:00:13.662000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:00:09.695000	0:00:10.941000
 super	super	PROPN	-	0:00:09.695000	0:00:10.941000
 ,	-	-	-	0:00:09.695000	0:00:10.941000
@@ -84,7 +84,7 @@ das	der	DET	-	0:00:12.833000	0:00:13.662000
 passt	passt	PROPN	-	0:00:12.833000	0:00:13.662000
 .	-	-	-	0:00:12.833000	0:00:13.662000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:13.662000" end="0:00:28.299000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:13.662000" end="0:00:28.299000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 okay	okay	NOUN	-	0:00:13.662000	0:00:16.712000
 <pause duration="2,3s"/>
@@ -108,15 +108,15 @@ nur	nur	ADV	-	0:00:20.859000	0:00:26.699000
 zumachen	zumachen	VERB	-	0:00:20.859000	0:00:26.699000
 und	und	CCONJ	-	0:00:20.859000	0:00:26.699000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:28.299000" end="0:00:29.053000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:28.299000" end="0:00:29.053000" persName="Informant EXP5" age_lower="" age_upper="999">
 wunderbar	wunderbar	ADJ	-	0:00:28.299000	0:00:29.053000
 .	-	-	-	0:00:28.299000	0:00:29.053000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:28.299000" end="0:00:29.053000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:28.299000" end="0:00:29.053000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:28.299000	0:00:29.053000
 ?	-	-	-	0:00:28.299000	0:00:29.053000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:29.053000" end="0:00:34.328000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:29.053000" end="0:00:34.328000" persName="Informant EXP5" age_lower="" age_upper="999">
 mhm	mhm	X	-	0:00:29.053000	0:00:29.606000
 <pause duration="1,8s"/>
 den	der	DET	-	0:00:29.606000	0:00:33.533000
@@ -128,28 +128,28 @@ kurz	kurz	ADJ	-	0:00:29.606000	0:00:33.533000
 noch	-	-	-	0:00:29.606000	0:00:33.533000
 .	-	-	-	0:00:29.606000	0:00:33.533000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:33.533000" end="0:00:34.328000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:33.533000" end="0:00:34.328000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:33.533000	0:00:34.328000
 ,	-	-	-	0:00:33.533000	0:00:34.328000
 entschuldige	entschuldigen	ADJ	-	0:00:33.533000	0:00:34.328000
 .	-	-	-	0:00:33.533000	0:00:34.328000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="0:00:34.328000" end="0:00:39.793000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:34.328000" end="0:00:39.793000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	ja	PART	-	0:00:34.328000	0:00:35.288000
 passt	passt	PROPN	-	0:00:34.328000	0:00:35.288000
 .	-	-	-	0:00:34.328000	0:00:35.288000
 <pause duration="4,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:39.793000" end="0:00:41.033000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:39.793000" end="0:00:41.033000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:41.033000" end="0:00:43.370000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:41.033000" end="0:00:43.370000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:41.033000	0:00:43.370000
 ,	-	-	-	0:00:41.033000	0:00:43.370000
 keine	kein	DET	-	0:00:41.033000	0:00:43.370000
 Ahnung	Ahnung	NOUN	-	0:00:41.033000	0:00:43.370000
 .	-	-	-	0:00:41.033000	0:00:43.370000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:43.370000" end="0:00:47.674000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:43.370000" end="0:00:47.674000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 ich	ich	PRON	-	0:00:43.370000	0:00:46.608000
 schau	schau	VERB	-	0:00:43.370000	0:00:46.608000
@@ -162,7 +162,7 @@ erzählen	erzählen	VERB	-	0:00:46.608000	0:00:47.674000
 kann	können	VERB	-	0:00:46.608000	0:00:47.674000
 .	-	-	-	0:00:46.608000	0:00:47.674000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:47.674000" end="0:00:50.859000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:47.674000" end="0:00:50.859000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 na	na	X	-	0:00:47.674000	0:00:50.179000
 Dorffeste	Dorffeste	PROPN	-	0:00:47.674000	0:00:50.179000
@@ -174,7 +174,7 @@ mir	sich	PRON	Aux HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth hab
 gedacht	gedenken	VERB	Aux HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth habenAux std stdL+	0:00:50.179000	0:00:50.859000
 .	-	-	-	0:00:50.179000	0:00:50.859000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:50.859000" end="0:00:52.786000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:50.859000" end="0:00:52.786000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:00:50.859000	0:00:52.786000
 ,	-	-	-	0:00:50.859000	0:00:52.786000
 ich	ich	PRON	-	0:00:50.859000	0:00:52.786000
@@ -186,7 +186,7 @@ anderes	ander	PRON	-	0:00:50.859000	0:00:52.786000
 aus	aus	ADP	-	0:00:50.859000	0:00:52.786000
 .	-	-	-	0:00:50.859000	0:00:52.786000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:52.786000" end="0:00:54.413000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:52.786000" end="0:00:54.413000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 vom	vom	ADP	-	0:00:52.786000	0:00:54.413000
 Maibaum	Maibaum	NOUN	-	0:00:52.786000	0:00:54.413000
 Aufstellen	Aufstellen	NOUN	-	0:00:52.786000	0:00:54.413000
@@ -194,7 +194,7 @@ ein	einen	DET	-	0:00:52.786000	0:00:54.413000
 Geschichtel	Geschichtel	NOUN	DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:00:52.786000	0:00:54.413000
 .	-	-	-	0:00:52.786000	0:00:54.413000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:00:52.786000" end="0:00:59.406000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:52.786000" end="0:00:59.406000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 vom	vom	ADP	-	0:00:54.413000	0:00:56.006000
 Maibaum	Maibaum	NOUN	-	0:00:54.413000	0:00:56.006000
@@ -214,11 +214,11 @@ schon	schon	ADV	-	0:00:58.006000	0:00:59.406000
 dabei	dabei	ADV	-	0:00:58.006000	0:00:59.406000
 ?	-	-	-	0:00:58.006000	0:00:59.406000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:00:59.406000" end="0:01:01.393000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:59.406000" end="0:01:01.393000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:00:59.406000	0:01:00.099000
 .	-	-	-	0:00:59.406000	0:01:00.099000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:00.099000" end="0:01:01.393000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:00.099000" end="0:01:01.393000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:01:00.099000	0:01:01.393000
 ?	-	-	-	0:01:00.099000	0:01:01.393000
 na	na	X	-	0:01:00.099000	0:01:01.393000
@@ -230,14 +230,14 @@ schon	schon	ADV	-	0:01:00.099000	0:01:01.393000
 erzählen	erzählen	VERB	-	0:01:00.099000	0:01:01.393000
 .	-	-	-	0:01:00.099000	0:01:01.393000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:01.393000" end="0:01:02.886000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:01.393000" end="0:01:02.886000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:01:01.393000	0:01:02.886000
 wirklich	-	-	-	0:01:01.393000	0:01:02.886000
 gleich	-	-	-	0:01:01.393000	0:01:02.886000
 erzählen	-	-	-	0:01:01.393000	0:01:02.886000
 .	-	-	-	0:01:01.393000	0:01:02.886000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:01.393000" end="0:01:11.982000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:01.393000" end="0:01:11.982000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:01:02.886000	0:01:04.819000
 wir	ich	PRON	-	0:01:02.886000	0:01:04.819000
 bei	bei	ADP	-	0:01:02.886000	0:01:04.819000
@@ -278,13 +278,13 @@ schlafen	schlafen	VERB	-	0:01:10.455000	0:01:11.982000
 gehen	gehen	VERB	-	0:01:10.455000	0:01:11.982000
 ,	-	-	-	0:01:10.455000	0:01:11.982000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:11.982000" end="0:01:13.541000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:11.982000" end="0:01:13.541000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 n/	-	-	-	0:01:11.982000	0:01:13.541000
 dass	-	-	-	0:01:11.982000	0:01:13.541000
 das	-	-	-	0:01:11.982000	0:01:13.541000
 *gibt*!	-	-	-	0:01:11.982000	0:01:13.541000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:11.982000" end="0:01:20.300000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:11.982000" end="0:01:20.300000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:01:11.982000	0:01:13.541000
 hat	haben	AUX	-	0:01:11.982000	0:01:13.541000
 uns	sich	PRON	-	0:01:11.982000	0:01:13.541000
@@ -326,10 +326,10 @@ draußen	draußen	ADV	-	0:01:18.500000	0:01:20.300000
 (eingelegt)	einlegen	VERB	-	0:01:18.500000	0:01:20.300000
 ,	-	-	-	0:01:18.500000	0:01:20.300000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:20.300000" end="0:01:21.368000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:20.300000" end="0:01:21.368000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:01:20.300000	0:01:21.368000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:20.300000" end="0:01:21.368000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:20.300000" end="0:01:21.368000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:01:20.300000	0:01:21.368000
 haben	haben	AUX	-	0:01:20.300000	0:01:21.368000
 wir	ich	PRON	-	0:01:20.300000	0:01:21.368000
@@ -340,12 +340,12 @@ draußen	draußen	ADV	-	0:01:20.300000	0:01:21.368000
 gehabt	haben	AUX	-	0:01:20.300000	0:01:21.368000
 ,	-	-	-	0:01:20.300000	0:01:21.368000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:21.368000" end="0:01:22.678000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:21.368000" end="0:01:22.678000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aso	-	-	-	0:01:21.368000	0:01:22.678000
 ja	-	-	-	0:01:21.368000	0:01:22.678000
 !	-	-	-	0:01:21.368000	0:01:22.678000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:21.368000" end="0:01:29.420000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:21.368000" end="0:01:29.420000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:01:21.368000	0:01:22.678000
 haben	haben	AUX	-	0:01:21.368000	0:01:22.678000
 wir	ich	PRON	-	0:01:21.368000	0:01:22.678000
@@ -378,12 +378,12 @@ NAME	NAME	PROPN	-	0:01:26.189000	0:01:29.420000
 ich	ich	PRON	-	0:01:26.189000	0:01:29.420000
 ,	-	-	-	0:01:26.189000	0:01:29.420000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:29.420000" end="0:01:32.235000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:29.420000" end="0:01:32.235000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:01:29.420000	0:01:32.235000
 NAME	NAME	PROPN	-	0:01:29.420000	0:01:32.235000
 ,	-	-	-	0:01:29.420000	0:01:32.235000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:29.420000" end="0:01:55.354000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:29.420000" end="0:01:55.354000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 war	sein	AUX	-	0:01:29.420000	0:01:32.235000
 noch	noch	ADV	-	0:01:29.420000	0:01:32.235000
@@ -490,9 +490,9 @@ in	in	ADP	-	0:01:53.299000	0:01:55.354000
 der	der	DET	-	0:01:53.299000	0:01:55.354000
 Hand	Hand	NOUN	-	0:01:53.299000	0:01:55.354000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:01:55.354000" end="0:01:56.598000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:55.354000" end="0:01:56.598000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:01:56.598000" end="0:02:00.429000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:01:56.598000" end="0:02:00.429000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	der	PRON	-	0:01:56.598000	0:01:57.473000
 dem	-	-	-	0:01:56.598000	0:01:57.473000
 kommt	kommen	VERB	-	0:01:56.598000	0:01:57.473000
@@ -517,12 +517,12 @@ brechen	brechen	VERB	KONJ	0:01:59.019000	0:02:00.429000
 können	können	VERB	KONJ	0:01:59.019000	0:02:00.429000
 .	-	-	-	0:01:59.019000	0:02:00.429000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:00.429000" end="0:02:02.369000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:00.429000" end="0:02:02.369000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 bist	-	-	-	0:02:00.429000	0:02:02.369000
 du	-	-	-	0:02:00.429000	0:02:02.369000
 _narrisch_!	-	-	-	0:02:00.429000	0:02:02.369000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:00.429000" end="0:02:15.679000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:00.429000" end="0:02:15.679000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:02:00.429000	0:02:02.369000
 *ist*	-	-	-	0:02:00.429000	0:02:02.369000
 nichts	-	-	-	0:02:00.429000	0:02:02.369000
@@ -593,13 +593,13 @@ Tank	Tank	NOUN	-	0:02:13.529000	0:02:15.679000
 ausgesoffen	aussaufen	VERB	-	0:02:13.529000	0:02:15.679000
 ,	-	-	-	0:02:13.529000	0:02:15.679000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:15.679000" end="0:02:16.709000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:15.679000" end="0:02:16.709000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 der	-	-	-	0:02:15.679000	0:02:16.709000
 große	-	-	-	0:02:15.679000	0:02:16.709000
 ?	-	-	-	0:02:15.679000	0:02:16.709000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:16.709000" end="0:02:18.719000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:16.709000" end="0:02:18.719000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:02:16.709000	0:02:17.494000
 kleine	kleine	NOUN	-	0:02:16.709000	0:02:17.494000
 .	-	-	-	0:02:16.709000	0:02:17.494000
@@ -610,7 +610,7 @@ erst	erst	ADV	-	0:02:17.494000	0:02:18.719000
 vierzehn	vierzehn	NUM	-	0:02:17.494000	0:02:18.719000
 ,	-	-	-	0:02:17.494000	0:02:18.719000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:18.719000" end="0:02:19.799000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:18.719000" end="0:02:19.799000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:02:18.719000	0:02:19.799000
 war	sein	AUX	-	0:02:18.719000	0:02:19.799000
 da	da	ADV	-	0:02:18.719000	0:02:19.799000
@@ -618,7 +618,7 @@ schon	schon	ADV	-	0:02:18.719000	0:02:19.799000
 dabei	dabei	ADV	-	0:02:18.719000	0:02:19.799000
 ?	-	-	-	0:02:18.719000	0:02:19.799000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:18.719000" end="0:02:23.974000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:18.719000" end="0:02:23.974000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (also)	also	ADV	-	0:02:18.719000	0:02:19.799000
 <pause duration="0,5s"/>
 ah	ah	X	-	0:02:19.799000	0:02:21.529000
@@ -648,12 +648,12 @@ noch	noch	ADV	-	0:02:22.579000	0:02:23.974000
 dabei	dabei	ADV	-	0:02:22.579000	0:02:23.974000
 ,	-	-	-	0:02:22.579000	0:02:23.974000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:23.974000" end="0:02:24.949000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:23.974000" end="0:02:24.949000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:23.974000	0:02:24.949000
 ja	-	-	-	0:02:23.974000	0:02:24.949000
 ja	-	-	-	0:02:23.974000	0:02:24.949000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:23.974000" end="0:02:35.599000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:23.974000" end="0:02:35.599000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:02:23.974000	0:02:24.949000
 .	-	-	-	0:02:23.974000	0:02:24.949000
 <pause duration="0,6s"/>
@@ -702,18 +702,18 @@ aufpassen	aufpassen	VERB	-	0:02:34.199000	0:02:35.599000
 drauf	drauf	ADV	-	0:02:34.199000	0:02:35.599000
 ,	-	-	-	0:02:34.199000	0:02:35.599000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:35.599000" end="0:02:37.599000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:35.599000" end="0:02:37.599000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:35.599000" end="0:02:37.599000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:35.599000" end="0:02:37.599000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hinaus	hinaus	ADV	-	0:02:35.599000	0:02:37.599000
 genommen	nehmen	VERB	-	0:02:35.599000	0:02:37.599000
 ,	-	-	-	0:02:35.599000	0:02:37.599000
 (genippt)	nippen	VERB	-	0:02:35.599000	0:02:37.599000
 ,	-	-	-	0:02:35.599000	0:02:37.599000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:37.599000" end="0:02:39.499000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:37.599000" end="0:02:39.499000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:37.599000" end="0:02:39.499000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:37.599000" end="0:02:39.499000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:02:37.599000	0:02:39.499000
 Achtel	Achtel	NOUN	-	0:02:37.599000	0:02:39.499000
 auf	auf	ADP	-	0:02:37.599000	0:02:39.499000
@@ -723,9 +723,9 @@ den	der	DET	-	0:02:37.599000	0:02:39.499000
 nächsten	nächst	ADJ	-	0:02:37.599000	0:02:39.499000
 .	-	-	-	0:02:37.599000	0:02:39.499000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:39.499000" end="0:02:41.879000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:39.499000" end="0:02:41.879000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:39.499000" end="0:02:42.913000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:39.499000" end="0:02:42.913000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:02:39.499000	0:02:41.879000
 hat	haben	AUX	-	0:02:39.499000	0:02:41.879000
 da	da	ADV	-	0:02:39.499000	0:02:41.879000
@@ -738,7 +738,7 @@ miteinander	miteinander	ADV	-	0:02:41.879000	0:02:42.913000
 gesoffen	saufen	VERB	-	0:02:41.879000	0:02:42.913000
 .	-	-	-	0:02:41.879000	0:02:42.913000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:42.913000" end="0:02:46.379000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:42.913000" end="0:02:46.379000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 na	-	-	-	0:02:42.913000	0:02:44.566000
 *siehst*	-	-	-	0:02:42.913000	0:02:44.566000
@@ -753,7 +753,7 @@ Geschichte	Geschichte	NOUN	-	0:02:44.566000	0:02:46.379000
 gekommen	kommen	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum seinAux std stdL-	0:02:44.566000	0:02:46.379000
 ?	-	-	-	0:02:44.566000	0:02:46.379000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:46.379000" end="0:02:52.413000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:46.379000" end="0:02:52.413000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	KONJ	0:02:46.379000	0:02:48.379000
 wäre	sein	AUX	KONJ	0:02:46.379000	0:02:48.379000
 das	der	PRON	KONJ	0:02:46.379000	0:02:48.379000
@@ -780,7 +780,7 @@ als	als	CCONJ	-	0:02:50.779000	0:02:52.413000
 ich	ich	PRON	-	0:02:50.779000	0:02:52.413000
 .	-	-	-	0:02:50.779000	0:02:52.413000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:02:52.413000" end="0:02:59.426000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:52.413000" end="0:02:59.426000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:02:52.413000	0:02:54.399000
 aber	aber	ADV	-	0:02:52.413000	0:02:54.399000
@@ -801,7 +801,7 @@ noch	noch	ADV	-	0:02:56.859000	0:02:58.446000
 Dorffest	Dorffest	NOUN	-	0:02:56.859000	0:02:58.446000
 ?	-	-	-	0:02:56.859000	0:02:58.446000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:02:59.426000" end="0:03:02.053000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:02:59.426000" end="0:03:02.053000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 in	in	ADP	KONJ	0:02:59.426000	0:03:02.053000
 ORT	ORT	PROPN	KONJ	0:02:59.426000	0:03:02.053000
@@ -813,7 +813,7 @@ nicht	nicht	PART	KONJ	0:02:59.426000	0:03:02.053000
 gegeben	geben	VERB	KONJ	0:02:59.426000	0:03:02.053000
 ?	-	-	-	0:02:59.426000	0:03:02.053000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:02.053000" end="0:03:05.299000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:02.053000" end="0:03:05.299000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 in	in	ADP	-	0:03:02.053000	0:03:04.486000
 ORT	ORT	PROPN	-	0:03:02.053000	0:03:04.486000
@@ -825,7 +825,7 @@ viel	viel	PRON	-	0:03:02.053000	0:03:04.486000
 gegeben	geben	VERB	-	0:03:02.053000	0:03:04.486000
 .	-	-	-	0:03:02.053000	0:03:04.486000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:04.486000" end="0:03:09.699000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:04.486000" end="0:03:09.699000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:04.486000	0:03:05.299000
 eben	eben	ADV	-	0:03:04.486000	0:03:05.299000
 .	-	-	-	0:03:04.486000	0:03:05.299000
@@ -847,7 +847,7 @@ interessiert	interessieren	ADJ	-	0:03:08.033000	0:03:09.699000
 oder	oder	CCONJ	-	0:03:08.033000	0:03:09.699000
 ?	-	-	-	0:03:08.033000	0:03:09.699000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:09.699000" end="0:03:16.686000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:09.699000" end="0:03:16.686000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:09.699000	0:03:10.659000
 ich	ich	PRON	-	0:03:09.699000	0:03:10.659000
 weiß	weiß	VERB	-	0:03:09.699000	0:03:10.659000
@@ -875,11 +875,11 @@ ich	ich	PRON	-	0:03:15.806000	0:03:16.226000
 .	-	-	-	0:03:15.806000	0:03:16.226000
 und	und	CCONJ	-	0:03:16.226000	0:03:16.686000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:16.226000" end="0:03:16.686000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:16.226000" end="0:03:16.686000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:03:16.226000	0:03:16.686000
 .	-	-	-	0:03:16.226000	0:03:16.686000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:16.686000" end="0:03:20.773000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:16.686000" end="0:03:20.773000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 von	von	ADP	-	0:03:16.686000	0:03:18.633000
 unserer	mein	DET	-	0:03:16.686000	0:03:18.633000
 Klasse	Klasse	NOUN	-	0:03:16.686000	0:03:18.633000
@@ -893,11 +893,11 @@ NAME	NAME	NOUN	-	0:03:18.633000	0:03:20.773000
 NAME	NAME	PROPN	?? DIM Diph Diph- Interf Interf- IRR -li Rund Rund+ sd+ SDent Suff U+ Uml	0:03:18.633000	0:03:20.773000
 .	-	-	-	0:03:18.633000	0:03:20.773000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:20.773000" end="0:03:23.506000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:20.773000" end="0:03:23.506000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:03:20.773000	0:03:23.506000
 NAME	NAME	NOUN	DIM	0:03:20.773000	0:03:23.506000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:23.506000" end="0:03:27.586000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:23.506000" end="0:03:27.586000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:03:23.506000	0:03:25.213000
 ich	ich	PRON	-	0:03:23.506000	0:03:25.213000
 weiß	weiß	VERB	-	0:03:23.506000	0:03:25.213000
@@ -915,18 +915,18 @@ gut	gut	ADJ	-	0:03:25.213000	0:03:27.213000
 .	-	-	-	0:03:25.213000	0:03:27.213000
 *war*	-	-	3 EnKl Ge imp Klitik KlPos mask Num Pers Pronom sg	0:03:27.213000	0:03:27.586000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:27.213000" end="0:03:27.586000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:27.213000" end="0:03:27.586000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:27.213000	0:03:27.586000
 .	-	-	-	0:03:27.213000	0:03:27.586000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:27.586000" end="0:03:28.986000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:27.586000" end="0:03:28.986000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:03:27.586000	0:03:28.986000
 manchmal ein	-	-	-	0:03:27.586000	0:03:28.986000
 bissel	-	-	DIM -(e)l Interf Interf- IRR sd- SDent Suff U- Uml	0:03:27.586000	0:03:28.986000
 sonderbar	-	-	-	0:03:27.586000	0:03:28.986000
 .	-	-	-	0:03:27.586000	0:03:28.986000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:28.986000" end="0:03:30.473000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:28.986000" end="0:03:30.473000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:28.986000	0:03:30.473000
 der	der	PRON	-	0:03:28.986000	0:03:30.473000
 ist	sein	AUX	-	0:03:28.986000	0:03:30.473000
@@ -936,11 +936,11 @@ sonderbar	sonderbar	ADJ	-	0:03:28.986000	0:03:30.473000
 ja	ja	PART	-	0:03:28.986000	0:03:30.473000
 .	-	-	-	0:03:28.986000	0:03:30.473000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:30.473000" end="0:03:30.826000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:30.473000" end="0:03:30.826000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:30.473000	0:03:30.826000
 .	-	-	-	0:03:30.473000	0:03:30.826000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:30.826000" end="0:03:33.939000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:30.826000" end="0:03:33.939000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:03:30.826000	0:03:33.939000
 heißt	heißen	VERB	-	0:03:30.826000	0:03:33.939000
 ,	-	-	-	0:03:30.826000	0:03:33.939000
@@ -949,17 +949,17 @@ ist	sein	AUX	-	0:03:30.826000	0:03:33.939000
 jünger	jung	ADJ	-	0:03:30.826000	0:03:33.939000
 als	als	CCONJ	-	0:03:30.826000	0:03:33.939000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:33.939000" end="0:03:34.446000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:33.939000" end="0:03:34.446000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:03:33.939000	0:03:34.446000
 ist	sein	AUX	-	0:03:33.939000	0:03:34.446000
 ein	einen	DET	-	0:03:33.939000	0:03:34.446000
 Jahr	Jahr	NOUN	-	0:03:33.939000	0:03:34.446000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:33.939000" end="0:03:34.446000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:33.939000" end="0:03:34.446000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 du	du	PRON	-	0:03:33.939000	0:03:34.446000
 .	-	-	-	0:03:33.939000	0:03:34.446000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:34.446000" end="0:03:35.093000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:34.446000" end="0:03:35.093000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 jünger	jung	ADJ	-	0:03:34.446000	0:03:35.093000
 wie	wie	CCONJ	-	0:03:34.446000	0:03:35.093000
 ich	ich	PRON	-	0:03:34.446000	0:03:35.093000
@@ -967,7 +967,7 @@ ich	ich	PRON	-	0:03:34.446000	0:03:35.093000
 genau	genau	ADJ	-	0:03:34.446000	0:03:35.093000
 .	-	-	-	0:03:34.446000	0:03:35.093000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:35.093000" end="0:03:36.179000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:35.093000" end="0:03:36.179000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:03:35.093000	0:03:36.179000
 der	der	PRON	-	0:03:35.093000	0:03:36.179000
 ist	sein	AUX	-	0:03:35.093000	0:03:36.179000
@@ -978,7 +978,7 @@ als	als	CCONJ	-	0:03:35.093000	0:03:36.179000
 du	du	PRON	-	0:03:35.093000	0:03:36.179000
 .	-	-	-	0:03:35.093000	0:03:36.179000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:36.179000" end="0:03:51.418000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:36.179000" end="0:03:51.418000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 und	und	CCONJ	-	0:03:36.179000	0:03:41.666000
 ja	ja	ADV	-	0:03:36.179000	0:03:41.666000
@@ -1023,17 +1023,17 @@ Krampus	Krampus	NOUN	-	0:03:45.339000	0:03:50.546000
 Party	Party	NOUN	-	0:03:45.339000	0:03:50.546000
 .	-	-	-	0:03:45.339000	0:03:50.546000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:50.546000" end="0:03:51.418000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:50.546000" end="0:03:51.418000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (Krambambuli)	Krambambuli	NOUN	-	0:03:50.546000	0:03:51.418000
 ?	-	-	-	0:03:50.546000	0:03:51.418000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:51.418000" end="0:03:52.612000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:51.418000" end="0:03:52.612000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:51.418000	0:03:52.612000
 genau	genau	ADJ	-	0:03:51.418000	0:03:52.612000
 genau	genau	ADJ	-	0:03:51.418000	0:03:52.612000
 .	-	-	-	0:03:51.418000	0:03:52.612000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:51.418000" end="0:03:53.812000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:51.418000" end="0:03:53.812000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:03:51.418000	0:03:52.612000
 dem	der	PRON	-	0:03:51.418000	0:03:52.612000
 ja	ja	NOUN	-	0:03:51.418000	0:03:52.612000
@@ -1045,7 +1045,7 @@ oben	oben	ADV	-	0:03:52.612000	0:03:53.812000
 drauf	drauf	ADP	-	0:03:52.612000	0:03:53.812000
 .	-	-	-	0:03:52.612000	0:03:53.812000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:03:53.812000" end="0:04:00.799000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:53.812000" end="0:04:00.799000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:03:53.812000	0:03:55.512000
 weiß	weiß	VERB	-	0:03:53.812000	0:03:55.512000
@@ -1070,20 +1070,20 @@ oder	oder	CCONJ	-	0:03:59.106000	0:04:00.799000
 irgendsowas	irgendsowas	ADV	-	0:03:59.106000	0:04:00.799000
 .	-	-	-	0:03:59.106000	0:04:00.799000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:03:59.106000" end="0:04:00.799000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:03:59.106000" end="0:04:00.799000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:59.106000	0:04:00.799000
 den	der	DET	-	0:03:59.106000	0:04:00.799000
 Krambambuli	Krambambuli	NOUN	-	0:03:59.106000	0:04:00.799000
 ja	ja	ADV	-	0:03:59.106000	0:04:00.799000
 .	-	-	-	0:03:59.106000	0:04:00.799000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:00.799000" end="0:04:01.712000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:00.799000" end="0:04:01.712000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:04:00.799000	0:04:01.712000
 eh	eh	X	-	0:04:00.799000	0:04:01.712000
 okay	okay	VERB	-	0:04:00.799000	0:04:01.712000
 .	-	-	-	0:04:00.799000	0:04:01.712000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:01.712000" end="0:04:06.519000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:01.712000" end="0:04:06.519000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 für	für	ADP	-	0:04:01.712000	0:04:02.739000
 eine	einen	DET	-	0:04:01.712000	0:04:02.739000
 macht	machen	VERB	-	0:04:01.712000	0:04:02.739000
@@ -1105,10 +1105,10 @@ reine	reine	ADJ	-	0:04:04.319000	0:04:06.519000
 Zuckerpyramide	Zuckerpyramide	NOUN	-	0:04:04.319000	0:04:06.519000
 .	-	-	-	0:04:04.319000	0:04:06.519000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:06.519000" end="0:04:06.959000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:06.519000" end="0:04:06.959000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:04:06.519000	0:04:06.959000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:06.959000" end="0:04:16.286000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:06.959000" end="0:04:16.286000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:06.959000	0:04:10.412000
 über	über	ADP	-	0:04:06.959000	0:04:10.412000
 diese	dies	DET	-	0:04:06.959000	0:04:10.412000
@@ -1144,11 +1144,11 @@ da	da	ADV	-	0:04:13.232000	0:04:16.286000
 unten	unten	ADV	-	0:04:13.232000	0:04:16.286000
 .	-	-	-	0:04:13.232000	0:04:16.286000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:16.286000" end="0:04:17.892000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:16.286000" end="0:04:17.892000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:04:16.286000	0:04:17.892000
 .	-	-	-	0:04:16.286000	0:04:17.892000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:16.286000" end="0:04:21.418000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:16.286000" end="0:04:21.418000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:04:16.286000	0:04:17.892000
 der	der	PRON	-	0:04:16.286000	0:04:17.892000
 sch/	-	-	-	0:04:16.286000	0:04:17.892000
@@ -1174,7 +1174,7 @@ gewesen	sein	AUX	-	0:04:19.619000	0:04:21.418000
 sein	mein	AUX	-	0:04:19.619000	0:04:21.418000
 .	-	-	-	0:04:19.619000	0:04:21.418000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:21.418000" end="0:04:27.812000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:21.418000" end="0:04:27.812000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	0:04:21.418000	0:04:23.812000
 da	da	ADV	-	0:04:21.418000	0:04:23.812000
@@ -1205,7 +1205,7 @@ sicher	sichern	ADJ	-	0:04:25.219000	0:04:27.812000
 ja	ja	PART	-	0:04:25.219000	0:04:27.812000
 .	-	-	-	0:04:25.219000	0:04:27.812000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:25.219000" end="0:04:27.812000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:25.219000" end="0:04:27.812000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:25.219000	0:04:27.812000
 na	na	INTJ	-	0:04:25.219000	0:04:27.812000
 dann	dann	ADV	-	0:04:25.219000	0:04:27.812000
@@ -1217,7 +1217,7 @@ gewesen	sein	AUX	-	0:04:25.219000	0:04:27.812000
 sein	mein	AUX	-	0:04:25.219000	0:04:27.812000
 .	-	-	-	0:04:25.219000	0:04:27.812000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:27.812000" end="0:04:29.812000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:27.812000" end="0:04:29.812000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:04:27.812000	0:04:29.812000
 sonst	sonst	ADV	-	0:04:27.812000	0:04:29.812000
 hätte	haben	AUX	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:04:27.812000	0:04:29.812000
@@ -1229,20 +1229,20 @@ sicher	sichern	ADJ	-	0:04:27.812000	0:04:29.812000
 gesehen	sehen	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:04:27.812000	0:04:29.812000
 .	-	-	-	0:04:27.812000	0:04:29.812000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:29.812000" end="0:04:30.506000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:29.812000" end="0:04:30.506000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:29.812000	0:04:30.506000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:30.506000" end="0:04:30.992000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:30.506000" end="0:04:30.992000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:04:30.506000	0:04:30.992000
 war	sein	AUX	-	0:04:30.506000	0:04:30.992000
 die	der	DET	-	0:04:30.506000	0:04:30.992000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:30.506000" end="0:04:30.992000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:30.506000" end="0:04:30.992000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schätze	schätze	VERB	-	0:04:30.506000	0:04:30.992000
 ich	ich	PRON	-	0:04:30.506000	0:04:30.992000
 .	-	-	-	0:04:30.506000	0:04:30.992000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:30.992000" end="0:04:32.992000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:30.992000" end="0:04:32.992000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Idee	Idee	NOUN	-	0:04:30.992000	0:04:32.992000
 für	für	ADP	-	0:04:30.992000	0:04:32.992000
 das	der	DET	-	0:04:30.992000	0:04:32.992000
@@ -1251,21 +1251,21 @@ Krampus	Krampus	NOUN	-	0:04:30.992000	0:04:32.992000
 für	für	ADP	-	0:04:30.992000	0:04:32.992000
 den	der	DET	-	0:04:30.992000	0:04:32.992000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:32.992000" end="0:04:33.786000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:32.992000" end="0:04:33.786000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Perchtendorf	Perchtendorf	PROPN	-	0:04:32.992000	0:04:33.786000
 ?	-	-	-	0:04:32.992000	0:04:33.786000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:33.786000" end="0:04:34.432000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:33.786000" end="0:04:34.432000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Perchtendorf	Perchtendorf	NOUN	-	0:04:33.786000	0:04:34.432000
 .	-	-	-	0:04:33.786000	0:04:34.432000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:33.786000" end="0:04:35.179000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:33.786000" end="0:04:35.179000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:04:33.786000	0:04:34.432000
 *kannst*	-	-	-	0:04:34.432000	0:04:35.179000
 machen	-	-	-	0:04:34.432000	0:04:35.179000
 .	-	-	-	0:04:34.432000	0:04:35.179000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:35.179000" end="0:04:48.326000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:35.179000" end="0:04:48.326000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:04:35.179000	0:04:37.799000
 na	na	PROPN	-	0:04:35.179000	0:04:37.799000
@@ -1318,10 +1318,10 @@ drinnen	drinnen	ADV	-	0:04:47.558000	0:04:48.326000
 .	-	-	-	0:04:47.558000	0:04:48.326000
 das	-	-	-	0:04:47.558000	0:04:48.326000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:47.558000" end="0:04:48.326000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:47.558000" end="0:04:48.326000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 jaja	jaja	PROPN	-	0:04:47.558000	0:04:48.326000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:48.326000" end="0:04:49.426000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:48.326000" end="0:04:49.426000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:04:48.326000	0:04:49.426000
 dir	-	-	-	0:04:48.326000	0:04:49.426000
 nicht	-	-	-	0:04:48.326000	0:04:49.426000
@@ -1329,11 +1329,11 @@ vorstellen	-	-	-	0:04:48.326000	0:04:49.426000
 dann	-	-	-	0:04:48.326000	0:04:49.426000
 .	-	-	-	0:04:48.326000	0:04:49.426000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:49.426000" end="0:04:49.872000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:49.426000" end="0:04:49.872000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:04:49.426000	0:04:49.872000
 ?	-	-	-	0:04:49.426000	0:04:49.872000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:49.872000" end="0:04:53.379000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:49.872000" end="0:04:53.379000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:04:49.872000	0:04:51.499000
 sie	ich	PRON	-	0:04:49.872000	0:04:51.499000
 irgendso	irgendso	PROPN	-	0:04:49.872000	0:04:51.499000
@@ -1354,11 +1354,11 @@ Tisch	Tisch	NOUN	-	0:04:51.499000	0:04:53.379000
 gehauen	hauen	VERB	-	0:04:51.499000	0:04:53.379000
 .	-	-	-	0:04:51.499000	0:04:53.379000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:53.379000" end="0:04:54.132000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:53.379000" end="0:04:54.132000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:04:53.379000	0:04:54.132000
 .	-	-	-	0:04:53.379000	0:04:54.132000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:54.132000" end="0:04:55.532000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:54.132000" end="0:04:55.532000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:04:54.132000	0:04:55.532000
 hat	haben	AUX	-	0:04:54.132000	0:04:55.532000
 eine	einen	PRON	-	0:04:54.132000	0:04:55.532000
@@ -1366,14 +1366,14 @@ Schepperer	-	-	-	0:04:54.132000	0:04:55.532000
 gemacht	machen	VERB	-	0:04:54.132000	0:04:55.532000
 .	-	-	-	0:04:54.132000	0:04:55.532000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:04:55.532000" end="0:04:56.459000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:55.532000" end="0:04:56.459000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:55.532000	0:04:56.459000
 das	der	PRON	-	0:04:55.532000	0:04:56.459000
 ist	sein	AUX	-	0:04:55.532000	0:04:56.459000
 normal	normal	ADJ	-	0:04:55.532000	0:04:56.459000
 .	-	-	-	0:04:55.532000	0:04:56.459000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:04:56.459000" end="0:05:03.692000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:04:56.459000" end="0:05:03.692000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:04:56.459000	0:04:59.359000
 ja	ja	ADV	-	0:04:56.459000	0:04:59.359000
@@ -1399,7 +1399,7 @@ noch	noch	ADV	-	0:05:02.519000	0:05:03.692000
 weitergefahren	weiterfahren	VERB	-	0:05:02.519000	0:05:03.692000
 .	-	-	-	0:05:02.519000	0:05:03.692000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:03.692000" end="0:05:05.312000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:03.692000" end="0:05:05.312000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:05:03.692000	0:05:05.312000
 wie	wie	CCONJ	-	0:05:03.692000	0:05:05.312000
@@ -1407,7 +1407,7 @@ immer	immer	ADV	-	0:05:03.692000	0:05:05.312000
 halt	halt	ADV	-	0:05:03.692000	0:05:05.312000
 .	-	-	-	0:05:03.692000	0:05:05.312000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:05.312000" end="0:05:15.172000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:05.312000" end="0:05:15.172000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:05:05.312000	0:05:06.572000
 wi/	-	-	-	0:05:05.312000	0:05:06.572000
 wir	ich	PRON	-	0:05:05.312000	0:05:06.572000
@@ -1459,7 +1459,7 @@ so	so	ADV	-	0:05:12.492000	0:05:14.612000
 ungut	ungut	ADJ	-	0:05:14.612000	0:05:15.172000
 .	-	-	-	0:05:14.612000	0:05:15.172000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:14.612000" end="0:05:20.212000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:14.612000" end="0:05:20.212000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:05:14.612000	0:05:15.172000
 das	der	PRON	-	0:05:14.612000	0:05:15.172000
 muss	muss	NOUN	-	0:05:14.612000	0:05:15.172000
@@ -1497,15 +1497,15 @@ der	der	DET	-	0:05:18.812000	0:05:20.212000
 am	am	ADP	-	0:05:18.812000	0:05:20.212000
 Tisch	Tisch	NOUN	-	0:05:18.812000	0:05:20.212000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:20.212000" end="0:05:20.486000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:20.212000" end="0:05:20.486000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:05:20.212000	0:05:20.486000
 ja	ja	ADV	-	0:05:20.212000	0:05:20.486000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:20.212000" end="0:05:20.486000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:20.212000" end="0:05:20.486000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 kommt	kommen	VERB	-	0:05:20.212000	0:05:20.486000
 .	-	-	-	0:05:20.212000	0:05:20.486000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:20.486000" end="0:05:24.192000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:20.486000" end="0:05:24.192000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 uns	sich	PRON	-	0:05:20.486000	0:05:22.399000
 hat	haben	AUX	-	0:05:20.486000	0:05:22.399000
 das	der	PRON	-	0:05:20.486000	0:05:22.399000
@@ -1520,10 +1520,10 @@ Ahnung	Ahnung	NOUN	-	0:05:22.399000	0:05:24.192000
 gehabt	haben	AUX	-	0:05:22.399000	0:05:24.192000
 .	-	-	-	0:05:22.399000	0:05:24.192000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:24.192000" end="0:05:24.966000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:24.192000" end="0:05:24.966000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (still)	stillen	ADJ	-	0:05:24.192000	0:05:24.966000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:24.966000" end="0:05:28.939000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:24.966000" end="0:05:28.939000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:05:24.966000	0:05:28.939000
 der	-	-	-	0:05:24.966000	0:05:28.939000
 _ding_	-	-	-	0:05:24.966000	0:05:28.939000
@@ -1537,7 +1537,7 @@ der	-	-	-	0:05:24.966000	0:05:28.939000
 Oberchecker	-	-	-	0:05:24.966000	0:05:28.939000
 .	-	-	-	0:05:24.966000	0:05:28.939000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:28.939000" end="0:05:36.746000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:28.939000" end="0:05:36.746000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:05:28.939000	0:05:31.119000
 Problem	Problem	NOUN	-	0:05:28.939000	0:05:31.119000
 beim	beim	ADP	-	0:05:28.939000	0:05:31.119000
@@ -1570,7 +1570,7 @@ Wirklichkeit	Wirklichkeit	NOUN	-	0:05:35.519000	0:05:36.746000
 ist	sein	AUX	-	0:05:35.519000	0:05:36.746000
 .	-	-	-	0:05:35.519000	0:05:36.746000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:36.746000" end="0:05:40.126000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:36.746000" end="0:05:40.126000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:05:36.746000	0:05:37.239000
 ich	ich	PRON	-	0:05:36.746000	0:05:37.239000
 glaube	glauben	VERB	-	0:05:36.746000	0:05:37.239000
@@ -1592,12 +1592,12 @@ in	in	ADP	-	0:05:38.292000	0:05:40.126000
 ORT	ORT	PROPN	-	0:05:38.292000	0:05:40.126000
 ,	-	-	-	0:05:38.292000	0:05:40.126000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:40.126000" end="0:05:41.006000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:40.126000" end="0:05:41.006000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:05:40.126000	0:05:41.006000
 .	-	-	-	0:05:40.126000	0:05:41.006000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:41.006000" end="0:05:55.619000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:41.006000" end="0:05:55.619000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:05:41.006000	0:05:44.252000
 war	sein	AUX	-	0:05:41.006000	0:05:44.252000
 der	der	PRON	-	0:05:41.006000	0:05:44.252000
@@ -1659,11 +1659,11 @@ oder	oder	CCONJ	-	0:05:51.232000	0:05:55.619000
 so	so	ADV	-	0:05:51.232000	0:05:55.619000
 .	-	-	-	0:05:51.232000	0:05:55.619000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:05:55.619000" end="0:05:55.959000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:55.619000" end="0:05:55.959000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:55.619000	0:05:55.959000
 .	-	-	-	0:05:55.619000	0:05:55.959000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:05:55.959000" end="0:06:06.152000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:05:55.959000" end="0:06:06.152000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:05:55.959000	0:05:57.619000
 dann	dann	ADV	-	0:05:55.959000	0:05:57.619000
@@ -1713,14 +1713,14 @@ machen	machen	VERB	-	0:06:04.899000	0:06:06.152000
 nachher	nachher	ADV	-	0:06:04.899000	0:06:06.152000
 .	-	-	-	0:06:04.899000	0:06:06.152000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:06.152000" end="0:06:06.786000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:06.152000" end="0:06:06.786000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:06:06.152000	0:06:06.786000
 ,	-	-	-	0:06:06.152000	0:06:06.786000
 eh	eh	X	-	0:06:06.152000	0:06:06.786000
 nicht	nicht	PART	-	0:06:06.152000	0:06:06.786000
 .	-	-	-	0:06:06.152000	0:06:06.786000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:06.786000" end="0:06:09.866000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:06.786000" end="0:06:09.866000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:06:06.786000	0:06:09.866000
 ja	ja	ADV	-	0:06:06.786000	0:06:09.866000
@@ -1733,7 +1733,7 @@ eh	eh	ADV	-	0:06:06.786000	0:06:09.866000
 gescheiter	gescheit	ADJ	-	0:06:06.786000	0:06:09.866000
 .	-	-	-	0:06:06.786000	0:06:09.866000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:09.866000" end="0:06:27.779000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:09.866000" end="0:06:27.779000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 na	-	-	-	0:06:09.866000	0:06:15.232000
 weil	-	-	-	0:06:09.866000	0:06:15.232000
@@ -1803,20 +1803,20 @@ Frau	Frau	NOUN	-	0:06:24.186000	0:06:27.779000
 NAME	NAME	PROPN	-	0:06:24.186000	0:06:27.779000
 .	-	-	-	0:06:24.186000	0:06:27.779000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:27.779000" end="0:06:28.559000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:27.779000" end="0:06:28.559000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:06:27.779000	0:06:28.559000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:27.779000" end="0:06:28.559000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:27.779000" end="0:06:28.559000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:06:27.779000	0:06:28.559000
 bitte	bitte	ADV	-	0:06:27.779000	0:06:28.559000
 .	-	-	-	0:06:27.779000	0:06:28.559000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:28.559000" end="0:06:29.426000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:28.559000" end="0:06:29.426000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	PROPN	-	0:06:28.559000	0:06:29.426000
 ja	ja	ADV	-	0:06:28.559000	0:06:29.426000
 .	-	-	-	0:06:28.559000	0:06:29.426000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:29.426000" end="0:06:32.299000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:29.426000" end="0:06:32.299000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 so	so	ADV	-	0:06:29.426000	0:06:31.619000
 ,	-	-	-	0:06:29.426000	0:06:31.619000
@@ -1833,7 +1833,7 @@ gereade	gereade	VERB	-	0:06:31.619000	0:06:32.299000
 hast	haben	AUX	-	0:06:31.619000	0:06:32.299000
 .	-	-	-	0:06:31.619000	0:06:32.299000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:32.299000" end="0:06:35.159000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:32.299000" end="0:06:35.159000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:06:32.299000	0:06:34.112000
 das	der	PRON	-	0:06:32.299000	0:06:34.112000
 reden	reden	VERB	-	0:06:32.299000	0:06:34.112000
@@ -1849,7 +1849,7 @@ es	ich	PRON	-	0:06:34.112000	0:06:35.159000
 länger	lang	ADJ	-	0:06:34.112000	0:06:35.159000
 .	-	-	-	0:06:34.112000	0:06:35.159000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:35.159000" end="0:06:39.392000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:35.159000" end="0:06:39.392000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 Fremdsprachen	Fremdsprachen	NOUN	-	0:06:35.159000	0:06:37.252000
 in	in	ADP	-	0:06:35.159000	0:06:37.252000
@@ -1863,7 +1863,7 @@ in	in	ADP	-	0:06:37.252000	0:06:39.392000
 sagen	sagen	VERB	-	0:06:37.252000	0:06:39.392000
 .	-	-	-	0:06:37.252000	0:06:39.392000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:39.392000" end="0:06:41.599000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:39.392000" end="0:06:41.599000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	-	-	-	0:06:39.392000	0:06:41.599000
 *hast*	-	-	-	0:06:39.392000	0:06:41.599000
 schon	-	-	-	0:06:39.392000	0:06:41.599000
@@ -1873,7 +1873,7 @@ NAME	NAME	-	-	0:06:39.392000	0:06:41.599000
 zugehört	-	-	-	0:06:39.392000	0:06:41.599000
 ?	-	-	-	0:06:39.392000	0:06:41.599000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:41.599000" end="0:06:44.532000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:41.599000" end="0:06:44.532000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 NAME	NAME	PROPN	-	0:06:41.599000	0:06:43.512000
 zugehört	zuhören	VERB	-	0:06:41.599000	0:06:43.512000
@@ -1885,17 +1885,17 @@ die	der	DET	-	0:06:43.512000	0:06:44.532000
 da	da	ADV	-	0:06:43.512000	0:06:44.532000
 oben	oben	ADV	-	0:06:43.512000	0:06:44.532000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:44.532000" end="0:06:44.739000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:44.532000" end="0:06:44.739000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:44.532000	0:06:44.739000
 .	-	-	-	0:06:44.532000	0:06:44.739000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:44.532000" end="0:06:45.072000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:44.532000" end="0:06:45.072000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:06:44.532000	0:06:44.739000
 .	-	-	-	0:06:44.532000	0:06:44.739000
 wieso	wieso	ADV	-	0:06:44.739000	0:06:45.072000
 ?	-	-	-	0:06:44.739000	0:06:45.072000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:45.072000" end="0:06:48.879000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:45.072000" end="0:06:48.879000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 na	na	X	-	0:06:45.072000	0:06:47.659000
 ja	ja	ADV	-	0:06:45.072000	0:06:47.659000
@@ -1907,14 +1907,14 @@ mit	mit	ADP	-	0:06:45.072000	0:06:47.659000
 den	der	DET	-	0:06:45.072000	0:06:47.659000
 (vielen)	viel	PRON	-	0:06:45.072000	0:06:47.659000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:47.659000" end="0:06:48.879000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:47.659000" end="0:06:48.879000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:47.659000	0:06:48.879000
 das	der	PRON	-	0:06:47.659000	0:06:48.879000
 ist	sein	AUX	-	0:06:47.659000	0:06:48.879000
 Computersprache	Computersprache	NOUN	-	0:06:47.659000	0:06:48.879000
 .	-	-	-	0:06:47.659000	0:06:48.879000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:48.879000" end="0:06:50.439000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:48.879000" end="0:06:50.439000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:48.879000	0:06:50.106000
 das	der	PRON	-	0:06:48.879000	0:06:50.106000
 ist	sein	AUX	-	0:06:48.879000	0:06:50.106000
@@ -1926,11 +1926,11 @@ wie	wie	ADV	-	0:06:48.879000	0:06:50.106000
 viel	viel	DET	-	0:06:50.106000	0:06:50.439000
 Englisch	Englisch	NOUN	-	0:06:50.106000	0:06:50.439000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:50.106000" end="0:06:50.439000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:50.106000" end="0:06:50.439000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:50.106000	0:06:50.439000
 .	-	-	-	0:06:50.106000	0:06:50.439000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:06:50.439000" end="0:06:52.239000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:50.439000" end="0:06:52.239000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:06:50.439000	0:06:51.412000
 schon	schon	ADV	-	0:06:50.439000	0:06:51.412000
 im	im	ADP	-	0:06:51.412000	0:06:52.239000
@@ -1938,7 +1938,7 @@ Deutschen	Deutsche	NOUN	-	0:06:51.412000	0:06:52.239000
 ist	sein	AUX	-	0:06:51.412000	0:06:52.239000
 .	-	-	-	0:06:51.412000	0:06:52.239000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:06:51.412000" end="0:07:00.159000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:06:51.412000" end="0:07:00.159000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mich	sich	PRON	-	0:06:51.412000	0:06:52.239000
 hat	haben	AUX	-	0:06:51.412000	0:06:52.239000
 der	der	DET	-	0:06:51.412000	0:06:52.239000
@@ -1977,7 +1977,7 @@ Deutsch	Deutsch	NOUN	-	0:06:57.726000	0:07:00.159000
 reden"	reden	VERB	-	0:06:57.726000	0:07:00.159000
 .	-	-	-	0:06:57.726000	0:07:00.159000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:00.159000" end="0:07:10.639000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:00.159000" end="0:07:10.639000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:07:00.159000	0:07:02.486000
 ich	ich	PRON	-	0:07:00.159000	0:07:02.486000
@@ -2017,7 +2017,7 @@ immens	immens	ADJ	-	0:07:08.079000	0:07:10.639000
 gell	gell	ADJ	-	0:07:08.079000	0:07:10.639000
 ?	-	-	-	0:07:08.079000	0:07:10.639000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:08.079000" end="0:07:14.572000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:08.079000" end="0:07:14.572000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:08.079000	0:07:10.639000
 aber	aber	ADV	-	0:07:08.079000	0:07:10.639000
 wenn	wenn	SCONJ	-	0:07:08.079000	0:07:10.639000
@@ -2053,12 +2053,12 @@ alle	all	PRON	-	0:07:13.432000	0:07:14.572000
 schon	schon	ADV	-	0:07:13.432000	0:07:14.572000
 .	-	-	-	0:07:13.432000	0:07:14.572000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:14.572000" end="0:07:15.652000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:14.572000" end="0:07:15.652000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:07:14.572000	0:07:15.652000
 .	-	-	-	0:07:14.572000	0:07:15.652000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:14.572000" end="0:07:18.466000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:14.572000" end="0:07:18.466000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 weil	-	-	-	0:07:14.572000	0:07:15.652000
 zum	-	-	-	0:07:14.572000	0:07:15.652000
@@ -2074,7 +2074,7 @@ jetzt	jetzt	ADV	-	0:07:16.939000	0:07:18.466000
 ein	einen	DET	-	0:07:16.939000	0:07:18.466000
 blödes	blöd	ADJ	-	0:07:16.939000	0:07:18.466000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:18.466000" end="0:07:20.466000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:18.466000" end="0:07:20.466000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:07:18.466000	0:07:20.466000
 so	so	ADV	-	0:07:18.466000	0:07:20.466000
 ja	ja	ADV	-	0:07:18.466000	0:07:20.466000
@@ -2082,7 +2082,7 @@ ja	ja	ADV	-	0:07:18.466000	0:07:20.466000
 okay	okay	VERB	-	0:07:18.466000	0:07:20.466000
 .	-	-	-	0:07:18.466000	0:07:20.466000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:18.466000" end="0:07:30.666000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:18.466000" end="0:07:30.666000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Beispiel	Beispiel	NOUN	-	0:07:18.466000	0:07:20.466000
 .	-	-	-	0:07:18.466000	0:07:20.466000
 ist	sein	AUX	-	0:07:18.466000	0:07:20.466000
@@ -2140,7 +2140,7 @@ aber	aber	CCONJ	-	0:07:29.166000	0:07:30.666000
 ja	ja	ADV	-	0:07:29.166000	0:07:30.666000
 .	-	-	-	0:07:29.166000	0:07:30.666000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:30.666000" end="0:07:41.346000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:30.666000" end="0:07:41.346000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:30.666000	0:07:31.946000
 eh	eh	ADV	-	0:07:30.666000	0:07:31.946000
 aber	aber	ADV	-	0:07:30.666000	0:07:31.946000
@@ -2185,7 +2185,7 @@ Fachthema	-	-	-	0:07:39.132000	0:07:41.346000
 bist	-	-	-	0:07:39.132000	0:07:41.346000
 .	-	-	-	0:07:39.132000	0:07:41.346000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:41.346000" end="0:07:42.899000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:41.346000" end="0:07:42.899000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	INTJ	-	0:07:41.346000	0:07:42.899000
 eh	eh	X	-	0:07:41.346000	0:07:42.899000
 ,	-	-	-	0:07:41.346000	0:07:42.899000
@@ -2193,7 +2193,7 @@ das	der	PRON	-	0:07:41.346000	0:07:42.899000
 schon	schon	ADV	-	0:07:41.346000	0:07:42.899000
 .	-	-	-	0:07:41.346000	0:07:42.899000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:42.899000" end="0:07:47.745000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:42.899000" end="0:07:47.745000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:07:42.899000	0:07:45.292000
 natürlich	natürlich	ADV	-	0:07:42.899000	0:07:45.292000
 ,	-	-	-	0:07:42.899000	0:07:45.292000
@@ -2212,7 +2212,7 @@ wie	wie	CCONJ	-	0:07:45.972000	0:07:47.745000
 Deutsch	Deutsch	NOUN	-	0:07:45.972000	0:07:47.745000
 .	-	-	-	0:07:45.972000	0:07:47.745000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:45.972000" end="0:07:49.325000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:45.972000" end="0:07:49.325000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:07:45.972000	0:07:47.745000
 war	sein	AUX	-	0:07:45.972000	0:07:47.745000
 da	da	ADV	-	0:07:45.972000	0:07:47.745000
@@ -2227,7 +2227,7 @@ gespielt	spielen	VERB	-	0:07:47.745000	0:07:49.325000
 haben	haben	AUX	-	0:07:47.745000	0:07:49.325000
 .	-	-	-	0:07:47.745000	0:07:49.325000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:49.325000" end="0:07:52.365000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:49.325000" end="0:07:52.365000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 na	na	PROPN	-	0:07:49.325000	0:07:51.845000
 w/	-	-	-	0:07:49.325000	0:07:51.845000
@@ -2237,7 +2237,7 @@ nicht	nicht	PART	-	0:07:51.845000	0:07:52.365000
 ,	-	-	-	0:07:51.845000	0:07:52.365000
 wenn	wenn	SCONJ	-	0:07:51.845000	0:07:52.365000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:51.845000" end="0:07:54.279000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:51.845000" end="0:07:54.279000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:07:51.845000	0:07:52.365000
 *warst*	-	-	-	0:07:51.845000	0:07:52.365000
 tuen	-	-	-	0:07:52.365000	0:07:54.279000
@@ -2246,17 +2246,17 @@ noch	-	-	-	0:07:52.365000	0:07:54.279000
 viel	-	-	-	0:07:52.365000	0:07:54.279000
 miteinander	-	-	-	0:07:52.365000	0:07:54.279000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:54.279000" end="0:07:55.039000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:54.279000" end="0:07:55.039000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:07:54.279000	0:07:55.039000
 ,	-	-	-	0:07:54.279000	0:07:55.039000
 meistens	meistens	ADV	-	0:07:54.279000	0:07:55.039000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:07:54.279000" end="0:07:55.039000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:54.279000" end="0:07:55.039000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 spielen	-	-	-	0:07:54.279000	0:07:55.039000
 oder	-	-	-	0:07:54.279000	0:07:55.039000
 ?	-	-	-	0:07:54.279000	0:07:55.039000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:07:55.039000" end="0:08:07.325000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:07:55.039000" end="0:08:07.325000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 tuen	tuen	VERB	-	0:07:55.039000	0:07:56.284000
 sie	ich	PRON	-	0:07:55.039000	0:07:56.284000
 eh	eh	ADV	-	0:07:55.039000	0:07:56.284000
@@ -2312,7 +2312,7 @@ können	-	-	-	0:08:04.832000	0:08:07.039000
 also/	-	-	-	0:08:07.039000	0:08:07.325000
 .	-	-	-	0:08:07.039000	0:08:07.325000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:07.325000" end="0:08:09.139000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:07.325000" end="0:08:09.139000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:07.325000	0:08:09.139000
 aber	aber	CCONJ	-	0:08:07.325000	0:08:09.139000
 du	du	PRON	-	0:08:07.325000	0:08:09.139000
@@ -2327,12 +2327,12 @@ Computerfreak	Computerfreak	NOUN	-	0:08:07.325000	0:08:09.139000
 oder	oder	CCONJ	-	0:08:07.325000	0:08:09.139000
 ?	-	-	-	0:08:07.325000	0:08:09.139000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:09.139000" end="0:08:10.079000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:09.139000" end="0:08:10.079000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:08:09.139000	0:08:10.079000
 ja	ja	PART	-	0:08:09.139000	0:08:10.079000
 .	-	-	-	0:08:09.139000	0:08:10.079000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:10.079000" end="0:08:11.392000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:10.079000" end="0:08:11.392000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:08:10.079000	0:08:11.392000
 nicht	-	-	-	0:08:10.079000	0:08:11.392000
 auch	-	-	-	0:08:10.079000	0:08:11.392000
@@ -2342,7 +2342,7 @@ denen	-	-	-	0:08:10.079000	0:08:11.392000
 mitgespielt	-	-	-	0:08:10.079000	0:08:11.392000
 ?	-	-	-	0:08:10.079000	0:08:11.392000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:11.392000" end="0:08:17.405000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:11.392000" end="0:08:17.405000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:08:11.392000	0:08:12.105000
 im	im	ADP	-	0:08:11.392000	0:08:12.105000
 Spiel	Spiel	NOUN	-	0:08:11.392000	0:08:12.105000
@@ -2364,14 +2364,14 @@ bissel	bissel	NOUN	IRR	0:08:16.739000	0:08:17.405000
 ein	einen	DET	IRR	0:08:16.739000	0:08:17.405000
 Sucht=	Suchtfaktor	NOUN	IRR	0:08:16.739000	0:08:17.405000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:16.739000" end="0:08:17.405000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:16.739000" end="0:08:17.405000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:16.739000	0:08:17.405000
 denke	denken	VERB	-	0:08:16.739000	0:08:17.405000
 ich	ich	PRON	-	0:08:16.739000	0:08:17.405000
 mir	sich	PRON	-	0:08:16.739000	0:08:17.405000
 .	-	-	-	0:08:16.739000	0:08:17.405000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:17.405000" end="0:08:18.839000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:17.405000" end="0:08:18.839000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 faktor	-	SPACE	IRR	0:08:17.405000	0:08:18.352000
 hat	haben	AUX	-	0:08:17.405000	0:08:18.352000
 es	ich	PRON	-	0:08:17.405000	0:08:18.352000
@@ -2382,26 +2382,26 @@ muss	muss	VERB	-	0:08:18.352000	0:08:18.839000
 ich	ich	PRON	-	0:08:18.352000	0:08:18.839000
 schon	schon	ADV	-	0:08:18.352000	0:08:18.839000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:18.352000" end="0:08:18.839000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:18.352000" end="0:08:18.839000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 denke	denken	VERB	-	0:08:18.352000	0:08:18.839000
 ich	ich	PRON	-	0:08:18.352000	0:08:18.839000
 mir	sich	PRON	-	0:08:18.352000	0:08:18.839000
 .	-	-	-	0:08:18.352000	0:08:18.839000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:18.839000" end="0:08:19.359000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:18.839000" end="0:08:19.359000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zugeben	zugeben	VERB	-	0:08:18.839000	0:08:19.359000
 .	-	-	-	0:08:18.839000	0:08:19.359000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:19.359000" end="0:08:20.059000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:19.359000" end="0:08:20.059000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 denke	denken	VERB	-	0:08:19.359000	0:08:20.059000
 ich	ich	PRON	-	0:08:19.359000	0:08:20.059000
 mir	sich	PRON	-	0:08:19.359000	0:08:20.059000
 .	-	-	-	0:08:19.359000	0:08:20.059000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:20.059000" end="0:08:20.799000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:20.059000" end="0:08:20.799000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:08:20.059000	0:08:20.799000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:20.799000" end="0:08:22.159000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:20.799000" end="0:08:22.159000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 für	für	ADP	-	0:08:20.799000	0:08:22.159000
 mich	sich	PRON	-	0:08:20.799000	0:08:22.159000
 war	sein	AUX	-	0:08:20.799000	0:08:22.159000
@@ -2410,7 +2410,7 @@ nie	nie	ADV	-	0:08:20.799000	0:08:22.159000
 was	was	PRON	-	0:08:20.799000	0:08:22.159000
 .	-	-	-	0:08:20.799000	0:08:22.159000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:22.159000" end="0:08:24.779000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:22.159000" end="0:08:24.779000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:08:22.159000	0:08:24.279000
 ja	ja	ADV	-	0:08:22.159000	0:08:24.279000
 du	du	PRON	-	0:08:22.159000	0:08:24.279000
@@ -2424,7 +2424,7 @@ oder	oder	CCONJ	-	0:08:24.279000	0:08:24.779000
 was	was	PRON	-	0:08:24.279000	0:08:24.779000
 ?	-	-	-	0:08:24.279000	0:08:24.779000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:24.279000" end="0:08:28.872000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:24.279000" end="0:08:28.872000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:24.279000	0:08:24.779000
 das	der	PRON	-	0:08:24.279000	0:08:24.779000
 stimmt	stimmen	VERB	-	0:08:24.779000	0:08:26.399000
@@ -2447,26 +2447,26 @@ ich	ich	PRON	-	0:08:27.899000	0:08:28.872000
 nicht	nicht	PART	-	0:08:27.899000	0:08:28.872000
 ,	-	-	-	0:08:27.899000	0:08:28.872000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:28.872000" end="0:08:29.592000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:28.872000" end="0:08:29.592000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:08:28.872000	0:08:29.592000
 das	der	PRON	-	0:08:28.872000	0:08:29.592000
 (jetzt)	jetzt	ADV	-	0:08:28.872000	0:08:29.592000
 das	der	DET	-	0:08:28.872000	0:08:29.592000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:28.872000" end="0:08:29.592000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:28.872000" end="0:08:29.592000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:08:28.872000	0:08:29.592000
 Beispiel	Beispiel	NOUN	-	0:08:28.872000	0:08:29.592000
 ,	-	-	-	0:08:28.872000	0:08:29.592000
 wir	ich	PRON	-	0:08:28.872000	0:08:29.592000
 haben	haben	AUX	-	0:08:28.872000	0:08:29.592000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:29.592000" end="0:08:30.452000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:29.592000" end="0:08:30.452000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Gleiche	gleichen	NOUN	-	0:08:29.592000	0:08:30.452000
 oder	oder	CCONJ	-	0:08:29.592000	0:08:30.452000
 was	was	PRON	-	0:08:29.592000	0:08:30.452000
 ?	-	-	-	0:08:29.592000	0:08:30.452000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:30.452000" end="0:08:32.679000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:30.452000" end="0:08:32.679000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir/	-	-	-	0:08:30.452000	0:08:31.832000
 .	-	-	-	0:08:30.452000	0:08:31.832000
 nein	nein	PART	-	0:08:30.452000	0:08:31.832000
@@ -2483,12 +2483,12 @@ das	der	DET	-	0:08:31.832000	0:08:32.679000
 Deutsch	Deutsch	NOUN	-	0:08:31.832000	0:08:32.679000
 .	-	-	-	0:08:31.832000	0:08:32.679000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:32.679000" end="0:08:33.552000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:32.679000" end="0:08:33.552000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:08:32.679000	0:08:33.552000
 so	so	ADV	-	0:08:32.679000	0:08:33.552000
 .	-	-	-	0:08:32.679000	0:08:33.552000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:33.552000" end="0:08:36.698000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:33.552000" end="0:08:36.698000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:08:33.552000	0:08:36.119000
 mir	sich	PRON	-	0:08:33.552000	0:08:36.119000
 war	sein	AUX	-	0:08:33.552000	0:08:36.119000
@@ -2507,7 +2507,7 @@ das	der	DET	-	0:08:36.119000	0:08:36.698000
 Einzige	Einzige	ADJ	-	0:08:36.119000	0:08:36.698000
 ,	-	-	-	0:08:36.119000	0:08:36.698000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:36.698000" end="0:08:37.698000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:36.698000" end="0:08:37.698000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:36.698000	0:08:37.698000
 ,	-	-	-	0:08:36.698000	0:08:37.698000
 das	der	PRON	-	0:08:36.698000	0:08:37.698000
@@ -2515,25 +2515,25 @@ haben	haben	AUX	-	0:08:36.698000	0:08:37.698000
 wir	ich	PRON	-	0:08:36.698000	0:08:37.698000
 auch	auch	ADV	-	0:08:36.698000	0:08:37.698000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:36.698000" end="0:08:37.698000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:36.698000" end="0:08:37.698000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:08:36.698000	0:08:37.698000
 ich	ich	PRON	-	0:08:36.698000	0:08:37.698000
 gespielt	spielen	VERB	-	0:08:36.698000	0:08:37.698000
 habe	habe	AUX	-	0:08:36.698000	0:08:37.698000
 .	-	-	-	0:08:36.698000	0:08:37.698000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:37.698000" end="0:08:37.979000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:37.698000" end="0:08:37.979000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gespielt	spielen	VERB	-	0:08:37.698000	0:08:37.979000
 .	-	-	-	0:08:37.698000	0:08:37.979000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:37.698000" end="0:08:38.485000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:37.698000" end="0:08:38.485000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:08:37.698000	0:08:37.979000
 war	sein	AUX	-	0:08:37.698000	0:08:37.979000
 das	der	DET	-	0:08:37.698000	0:08:37.979000
 Einzige	Einzige	NOUN	-	0:08:37.979000	0:08:38.485000
 .	-	-	-	0:08:37.979000	0:08:38.485000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:38.485000" end="0:08:48.419000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:38.485000" end="0:08:48.419000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 bei	bei	ADP	-	0:08:38.485000	0:08:42.565000
 uns	sich	PRON	-	0:08:38.485000	0:08:42.565000
 in	in	ADP	-	0:08:38.485000	0:08:42.565000
@@ -2568,18 +2568,18 @@ das	der	PRON	-	0:08:44.939000	0:08:48.234000
 installiert	installieren	ADJ	-	0:08:44.939000	0:08:48.234000
 im	im	ADP	-	0:08:48.234000	0:08:48.419000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:48.234000" end="0:08:48.419000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:48.234000" end="0:08:48.419000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:08:48.234000	0:08:48.419000
 ?	-	-	-	0:08:48.234000	0:08:48.419000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:48.419000" end="0:08:49.239000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:48.419000" end="0:08:49.239000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Klassenordner	Klassenordner	NOUN	-	0:08:48.419000	0:08:49.239000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:49.239000" end="0:08:49.679000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:49.239000" end="0:08:49.679000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:08:49.239000	0:08:49.679000
 .	-	-	-	0:08:49.239000	0:08:49.679000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:49.679000" end="0:08:52.072000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:49.679000" end="0:08:52.072000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:08:49.679000	0:08:51.145000
 nachher	nachher	ADV	-	0:08:49.679000	0:08:51.145000
 ist	sein	AUX	-	0:08:49.679000	0:08:51.145000
@@ -2593,10 +2593,10 @@ das	der	PRON	-	0:08:51.145000	0:08:52.072000
 installiert	installieren	VERB	-	0:08:51.145000	0:08:52.072000
 ist	sein	AUX	-	0:08:51.145000	0:08:52.072000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:52.072000" end="0:08:52.512000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:52.072000" end="0:08:52.512000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhmdas	mhmdas	PROPN	-	0:08:52.072000	0:08:52.512000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:08:52.512000" end="0:08:59.299000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:52.512000" end="0:08:59.299000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:08:52.512000	0:08:54.159000
 dann	dann	ADV	-	0:08:52.512000	0:08:54.159000
 haben	haben	AUX	-	0:08:52.512000	0:08:54.159000
@@ -2627,7 +2627,7 @@ Klassenordner	Klassenordner	NOUN	-	0:08:55.679000	0:08:59.299000
 oben	oben	ADV	-	0:08:55.679000	0:08:59.299000
 .	-	-	-	0:08:55.679000	0:08:59.299000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:08:59.299000" end="0:09:01.732000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:08:59.299000" end="0:09:01.732000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:08:59.299000	0:09:00.459000
 kann	können	VERB	-	0:08:59.299000	0:09:00.459000
 ich	ich	PRON	-	0:08:59.299000	0:09:00.459000
@@ -2645,7 +2645,7 @@ so	-	-	KONJ	0:09:00.459000	0:09:01.732000
 lange	-	-	KONJ	0:09:00.459000	0:09:01.732000
 (?))	-	-	KONJ	0:09:00.459000	0:09:01.732000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:01.732000" end="0:09:03.625000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:01.732000" end="0:09:03.625000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:09:01.732000	0:09:03.625000
 age	age	PROPN	-	0:09:01.732000	0:09:03.625000
@@ -2657,14 +2657,14 @@ auch	auch	ADV	-	0:09:01.732000	0:09:03.625000
 gespielt	spielen	VERB	-	0:09:01.732000	0:09:03.625000
 .	-	-	-	0:09:01.732000	0:09:03.625000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:03.625000" end="0:09:05.979000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:03.625000" end="0:09:05.979000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 age	-	-	-	0:09:03.625000	0:09:05.979000
 oft	-	-	-	0:09:03.625000	0:09:05.979000
 empires	-	-	-	0:09:03.625000	0:09:05.979000
 .	-	-	-	0:09:03.625000	0:09:05.979000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:05.979000" end="0:09:07.725000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:05.979000" end="0:09:07.725000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:09:05.979000	0:09:06.659000
 .	-	-	-	0:09:05.979000	0:09:06.659000
 das	-	-	-	0:09:06.659000	0:09:07.725000
@@ -2673,7 +2673,7 @@ aber	-	-	-	0:09:06.659000	0:09:07.725000
 schon	-	-	-	0:09:06.659000	0:09:07.725000
 .	-	-	-	0:09:06.659000	0:09:07.725000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:07.725000" end="0:09:09.419000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:07.725000" end="0:09:09.419000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:07.725000	0:09:08.899000
 oh	oh	X	-	0:09:07.725000	0:09:08.899000
 ja	ja	ADV	-	0:09:07.725000	0:09:08.899000
@@ -2687,7 +2687,7 @@ schon	schon	ADV	-	0:09:07.725000	0:09:08.899000
 eh	-	-	-	0:09:08.899000	0:09:09.419000
 .	-	-	-	0:09:08.899000	0:09:09.419000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:09.419000" end="0:09:12.652000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:09.419000" end="0:09:12.652000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 das	der	PRON	-	0:09:09.419000	0:09:12.652000
 war	sein	AUX	-	0:09:09.419000	0:09:12.652000
@@ -2699,7 +2699,7 @@ meiner	sich	DET	-	0:09:09.419000	0:09:12.652000
 Jugend	Jugend	NOUN	-	0:09:09.419000	0:09:12.652000
 .	-	-	-	0:09:09.419000	0:09:12.652000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:12.652000" end="0:09:15.339000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:12.652000" end="0:09:15.339000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 deiner	sich	DET	-	0:09:12.652000	0:09:15.339000
 Jugend	Jugend	NOUN	-	0:09:12.652000	0:09:15.339000
@@ -2711,12 +2711,12 @@ alleweil	alleweil	NOUN	-	0:09:12.652000	0:09:15.339000
 jung	jung	ADJ	-	0:09:12.652000	0:09:15.339000
 .	-	-	-	0:09:12.652000	0:09:15.339000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:15.339000" end="0:09:16.499000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:15.339000" end="0:09:16.499000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:09:15.339000	0:09:16.499000
 gut	gut	ADJ	-	0:09:15.339000	0:09:16.499000
 .	-	-	-	0:09:15.339000	0:09:16.499000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:16.499000" end="0:09:18.185000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:16.499000" end="0:09:18.185000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 kein	kein	DET	-	0:09:16.499000	0:09:18.185000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:09:16.499000	0:09:18.185000
 mehr	mehr	ADV	-	0:09:16.499000	0:09:18.185000
@@ -2724,7 +2724,7 @@ in	in	ADP	-	0:09:16.499000	0:09:18.185000
 Österreich	Österreich	PROPN	-	0:09:16.499000	0:09:18.185000
 .	-	-	-	0:09:16.499000	0:09:18.185000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:18.185000" end="0:09:20.792000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:18.185000" end="0:09:20.792000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ich	ich	PRON	-	0:09:18.185000	0:09:19.559000
 weiß	weiß	VERB	-	0:09:18.185000	0:09:19.559000
@@ -2736,7 +2736,7 @@ das	der	PRON	-	0:09:19.559000	0:09:20.792000
 umgekehrt	umkehren	ADJ	-	0:09:19.559000	0:09:20.792000
 .	-	-	-	0:09:19.559000	0:09:20.792000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:20.792000" end="0:09:25.212000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:20.792000" end="0:09:25.212000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 *siehst*	-	-	-	0:09:20.792000	0:09:25.212000
 ,	-	-	-	0:09:20.792000	0:09:25.212000
@@ -2745,10 +2745,10 @@ wollte	wollen	VERB	-	0:09:20.792000	0:09:25.212000
 ich	ich	PRON	-	0:09:20.792000	0:09:25.212000
 zum	zum	ADP	-	0:09:20.792000	0:09:25.212000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:25.212000" end="0:09:26.092000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:25.212000" end="0:09:26.092000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="hustet"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:25.212000" end="0:09:27.925000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:25.212000" end="0:09:27.925000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:09:25.212000	0:09:26.092000
 passt	passt	PROPN	-	0:09:25.212000	0:09:26.092000
 gleich	gleichen	ADV	-	0:09:26.092000	0:09:26.959000
@@ -2756,11 +2756,11 @@ dazu	dazu	ADV	-	0:09:26.092000	0:09:26.959000
 .	-	-	-	0:09:26.092000	0:09:26.959000
 wie	wie	ADV	-	0:09:26.959000	0:09:27.925000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:27.925000" end="0:09:28.212000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:27.925000" end="0:09:28.212000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 bitte	bitte	PART	-	0:09:27.925000	0:09:28.212000
 .	-	-	-	0:09:27.925000	0:09:28.212000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:28.212000" end="0:09:36.712000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:28.212000" end="0:09:36.712000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 wie	wie	ADV	-	0:09:28.212000	0:09:31.225000
 haben	haben	AUX	-	0:09:28.212000	0:09:31.225000
@@ -2794,7 +2794,7 @@ irgendwie	irgendwie	ADV	-	0:09:32.932000	0:09:36.712000
 geredet	reden	VERB	-	0:09:32.932000	0:09:36.712000
 ?	-	-	-	0:09:32.932000	0:09:36.712000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:36.712000" end="0:09:39.065000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:36.712000" end="0:09:39.065000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 auf	-	-	-	0:09:36.712000	0:09:39.065000
 der	-	-	-	0:09:36.712000	0:09:39.065000
@@ -2803,14 +2803,14 @@ oder	-	-	-	0:09:36.712000	0:09:39.065000
 in	-	-	-	0:09:36.712000	0:09:39.065000
 NAME	NAME	-	-	0:09:36.712000	0:09:39.065000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:39.065000" end="0:09:40.565000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:39.065000" end="0:09:40.565000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:09:39.065000	0:09:40.565000
 ,	-	-	-	0:09:39.065000	0:09:40.565000
 auf	auf	ADP	-	0:09:39.065000	0:09:40.565000
 der	der	DET	-	0:09:39.065000	0:09:40.565000
 Boku	Boku	NOUN	-	0:09:39.065000	0:09:40.565000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:40.565000" end="0:09:42.799000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:40.565000" end="0:09:42.799000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:09:40.565000	0:09:42.799000
 auf	-	-	-	0:09:40.565000	0:09:42.799000
 der	-	-	-	0:09:40.565000	0:09:42.799000
@@ -2819,7 +2819,7 @@ der	-	-	-	0:09:40.565000	0:09:42.799000
 Boku	-	-	-	0:09:40.565000	0:09:42.799000
 .	-	-	-	0:09:40.565000	0:09:42.799000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:40.565000" end="0:09:42.799000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:40.565000" end="0:09:42.799000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:09:40.565000	0:09:42.799000
 der	der	DET	-	0:09:40.565000	0:09:42.799000
 ja	ja	ADV	-	0:09:40.565000	0:09:42.799000
@@ -2828,7 +2828,7 @@ der	der	DET	-	0:09:40.565000	0:09:42.799000
 Boku	Boku	NOUN	-	0:09:40.565000	0:09:42.799000
 .	-	-	-	0:09:40.565000	0:09:42.799000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:42.799000" end="0:09:49.085000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:42.799000" end="0:09:49.085000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,8s"/>
 ja	ja	ADV	-	0:09:42.799000	0:09:49.085000
 <pause duration="0,5s"/>
@@ -2837,7 +2837,7 @@ meisten	meist	DET	-	0:09:42.799000	0:09:49.085000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:09:42.799000	0:09:49.085000
 .	-	-	-	0:09:42.799000	0:09:49.085000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:49.085000" end="0:09:51.572000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:49.085000" end="0:09:51.572000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 so	so	ADV	-	0:09:49.085000	0:09:51.572000
 richtig	richtig	ADJ	-	0:09:49.085000	0:09:51.572000
@@ -2845,7 +2845,7 @@ Hochdeutsch	Hochdeutsch	ADJ	-	0:09:49.085000	0:09:51.572000
 oder	oder	CCONJ	-	0:09:49.085000	0:09:51.572000
 ?	-	-	-	0:09:49.085000	0:09:51.572000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:51.572000" end="0:09:55.365000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:51.572000" end="0:09:55.365000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 nicht	nicht	PART	-	0:09:51.572000	0:09:53.805000
 ganz	ganz	ADV	-	0:09:51.572000	0:09:53.805000
@@ -2855,7 +2855,7 @@ aber	aber	CCONJ	-	0:09:53.805000	0:09:55.365000
 ziemlich	ziemlich	ADV	-	0:09:53.805000	0:09:55.365000
 .	-	-	-	0:09:53.805000	0:09:55.365000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:55.365000" end="0:09:57.272000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:55.365000" end="0:09:57.272000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:09:55.365000	0:09:57.272000
 hast	haben	AUX	-	0:09:55.365000	0:09:57.272000
 du	du	PRON	-	0:09:55.365000	0:09:57.272000
@@ -2866,19 +2866,19 @@ dabei	dabei	ADV	-	0:09:55.365000	0:09:57.272000
 gehabt	haben	AUX	-	0:09:55.365000	0:09:57.272000
 ?	-	-	-	0:09:55.365000	0:09:57.272000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:09:57.272000" end="0:09:59.179000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:57.272000" end="0:09:59.179000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:09:57.272000	0:09:59.179000
 .	-	-	-	0:09:57.272000	0:09:59.179000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:09:59.179000" end="0:10:00.205000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:09:59.179000" end="0:10:00.205000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:09:59.179000	0:10:00.205000
 hat	haben	AUX	-	0:09:59.179000	0:10:00.205000
 da	da	ADV	-	0:09:59.179000	0:10:00.205000
 unterrichtet	unterrichten	VERB	-	0:09:59.179000	0:10:00.205000
 ?	-	-	-	0:09:59.179000	0:10:00.205000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:00.205000" end="0:10:03.045000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:00.205000" end="0:10:03.045000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	der	DET	-	0:10:00.205000	0:10:01.932000
 NAME	NAME	NOUN	-	0:10:00.205000	0:10:01.932000
@@ -2889,25 +2889,25 @@ und	und	CCONJ	-	0:10:01.932000	0:10:03.045000
 die	der	DET	-	0:10:01.932000	0:10:03.045000
 NAME	NAME	PROPN	-	0:10:01.932000	0:10:03.045000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:01.932000" end="0:10:03.045000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:01.932000" end="0:10:03.045000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 kenne	kennen	VERB	-	0:10:01.932000	0:10:03.045000
 ich	ich	PRON	-	0:10:01.932000	0:10:03.045000
 nicht	nicht	PART	-	0:10:01.932000	0:10:03.045000
 .	-	-	-	0:10:01.932000	0:10:03.045000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:03.045000" end="0:10:03.972000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:03.045000" end="0:10:03.972000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Schödel_	Schödel	PROPN	-	0:10:03.045000	0:10:03.972000
 NAME	NAME	NOUN	-	0:10:03.045000	0:10:03.972000
 .	-	-	-	0:10:03.045000	0:10:03.972000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:03.972000" end="0:10:06.459000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:03.972000" end="0:10:06.459000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 NAME	NAME	PROPN	-	0:10:03.972000	0:10:06.459000
 Schödel_	Schödel	PROPN	-	0:10:03.972000	0:10:06.459000
 NAME	NAME	NOUN	-	0:10:03.972000	0:10:06.459000
 .	-	-	-	0:10:03.972000	0:10:06.459000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:06.459000" end="0:10:14.919000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:06.459000" end="0:10:14.919000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:10:06.459000	0:10:12.959000
 eh	-	-	-	0:10:06.459000	0:10:12.959000
 von	-	-	-	0:10:06.459000	0:10:12.959000
@@ -2938,7 +2938,7 @@ verheiratet	verheiraten	VERB	-	0:10:12.959000	0:10:14.452000
 ist	sein	AUX	-	0:10:14.452000	0:10:14.919000
 .	-	-	-	0:10:14.452000	0:10:14.919000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:14.452000" end="0:10:16.992000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:14.452000" end="0:10:16.992000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:10:14.452000	0:10:14.919000
 die	der	PRON	-	0:10:14.919000	0:10:16.992000
 unterrichtet	unterrichten	ADJ	-	0:10:14.919000	0:10:16.992000
@@ -2947,10 +2947,10 @@ der	der	DET	-	0:10:14.919000	0:10:16.992000
 Boku	Boku	NOUN	-	0:10:14.919000	0:10:16.992000
 ?	-	-	-	0:10:14.919000	0:10:16.992000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:16.992000" end="0:10:17.345000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:16.992000" end="0:10:17.345000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:10:16.992000	0:10:17.345000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:17.345000" end="0:10:25.372000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:17.345000" end="0:10:25.372000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:17.345000	0:10:18.479000
 habe	habe	AUX	-	0:10:17.345000	0:10:18.479000
 ich	ich	PRON	-	0:10:17.345000	0:10:18.479000
@@ -2994,7 +2994,7 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:10:23.985000	0:10:25.372000
 geredet	reden	VERB	-	0:10:23.985000	0:10:25.372000
 .	-	-	-	0:10:23.985000	0:10:25.372000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:25.372000" end="0:10:35.339000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:25.372000" end="0:10:35.339000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 nein	nein	PART	-	0:10:25.372000	0:10:27.925000
 ,	-	-	-	0:10:25.372000	0:10:27.925000
@@ -3025,19 +3025,19 @@ gestorben	sterben	VERB	-	0:10:32.585000	0:10:35.339000
 ist	sein	AUX	-	0:10:32.585000	0:10:35.339000
 .	-	-	-	0:10:32.585000	0:10:35.339000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:35.339000" end="0:10:37.372000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:35.339000" end="0:10:37.372000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ah	ah	X	-	0:10:35.339000	0:10:37.372000
 der	der	DET	-	0:10:35.339000	0:10:37.372000
 NAME	NAME	NOUN	-	0:10:35.339000	0:10:37.372000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:37.372000" end="0:10:38.185000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:37.372000" end="0:10:38.185000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:10:37.372000	0:10:38.185000
 NAME	NAME	NOUN	-	0:10:37.372000	0:10:38.185000
 ja	ja	PART	-	0:10:37.372000	0:10:38.185000
 .	-	-	-	0:10:37.372000	0:10:38.185000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:38.185000" end="0:10:39.699000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:38.185000" end="0:10:39.699000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:10:38.185000	0:10:39.699000
 der	der	PRON	-	0:10:38.185000	0:10:39.699000
@@ -3048,7 +3048,7 @@ geredet	reden	VERB	-	0:10:38.185000	0:10:39.699000
 haben	haben	AUX	-	0:10:38.185000	0:10:39.699000
 .	-	-	-	0:10:38.185000	0:10:39.699000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:39.699000" end="0:10:47.679000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:39.699000" end="0:10:47.679000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	0:10:39.699000	0:10:44.345000
 ziemlich	ziemlich	ADV	-	0:10:39.699000	0:10:44.345000
@@ -3073,7 +3073,7 @@ schon	schon	ADV	-	0:10:44.345000	0:10:47.679000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:10:44.345000	0:10:47.679000
 .	-	-	-	0:10:44.345000	0:10:47.679000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:47.679000" end="0:10:52.952000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:47.679000" end="0:10:52.952000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 okay	okay	NOUN	-	0:10:47.679000	0:10:48.959000
 .	-	-	-	0:10:47.679000	0:10:48.959000
@@ -3099,15 +3099,15 @@ ich	ich	PRON	-	0:10:51.292000	0:10:52.952000
 mir	sich	PRON	-	0:10:51.292000	0:10:52.952000
 nicht	nicht	PART	-	0:10:51.292000	0:10:52.952000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:52.952000" end="0:10:53.245000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:52.952000" end="0:10:53.245000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:10:52.952000	0:10:53.245000
 ,	-	-	-	0:10:52.952000	0:10:53.245000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:52.952000" end="0:10:53.245000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:52.952000" end="0:10:53.245000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 vorstellen	vorstellen	VERB	-	0:10:52.952000	0:10:53.245000
 .	-	-	-	0:10:52.952000	0:10:53.245000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:53.245000" end="0:10:55.965000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:53.245000" end="0:10:55.965000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:53.245000	0:10:54.165000
 kann	können	VERB	-	0:10:53.245000	0:10:54.165000
 ich	ich	PRON	-	0:10:53.245000	0:10:54.165000
@@ -3127,27 +3127,27 @@ Richtung	-	-	-	0:10:54.459000	0:10:55.965000
 geht	-	-	-	0:10:54.459000	0:10:55.965000
 .	-	-	-	0:10:54.459000	0:10:55.965000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:55.965000" end="0:10:56.545000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:55.965000" end="0:10:56.545000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (kann	können	VERB	-	0:10:55.965000	0:10:56.545000
 man)	man	PRON	-	0:10:55.965000	0:10:56.545000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:56.545000" end="0:10:57.225000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:56.545000" end="0:10:57.225000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:10:56.545000	0:10:57.225000
 da	-	-	-	0:10:56.545000	0:10:57.225000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:56.545000" end="0:10:57.225000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:56.545000" end="0:10:57.225000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (mal)	mal	ADV	-	0:10:56.545000	0:10:57.225000
 später	spät	ADJ	-	0:10:56.545000	0:10:57.225000
 .	-	-	-	0:10:56.545000	0:10:57.225000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:10:57.225000" end="0:10:59.092000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:57.225000" end="0:10:59.092000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weiter	-	-	-	0:10:57.225000	0:10:59.092000
 Richtung	-	-	-	0:10:57.225000	0:10:59.092000
 Wien	-	-	-	0:10:57.225000	0:10:59.092000
 reinkommst	-	-	-	0:10:57.225000	0:10:59.092000
 .	-	-	-	0:10:57.225000	0:10:59.092000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:10:59.092000" end="0:11:03.092000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:10:59.092000" end="0:11:03.092000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:10:59.092000	0:10:59.999000
 haben	haben	AUX	-	0:10:59.092000	0:10:59.999000
 vorher	vorher	ADV	-	0:10:59.092000	0:10:59.999000
@@ -3165,11 +3165,11 @@ die	-	-	-	0:10:59.999000	0:11:03.092000
 die	-	-	-	0:10:59.999000	0:11:03.092000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:03.092000" end="0:11:04.145000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:03.092000" end="0:11:04.145000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:11:03.092000	0:11:04.145000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:03.092000" end="0:11:08.359000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:03.092000" end="0:11:08.359000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	-	-	-	0:11:03.092000	0:11:04.145000
 in	-	-	-	0:11:04.145000	0:11:06.185000
@@ -3184,11 +3184,11 @@ die	der	DET	-	0:11:06.185000	0:11:08.359000
 meiste	meist	DET	-	0:11:06.185000	0:11:08.359000
 Zeit	Zeit	NOUN	-	0:11:06.185000	0:11:08.359000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:08.359000" end="0:11:09.112000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:08.359000" end="0:11:09.112000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:11:08.359000	0:11:09.112000
 .	-	-	-	0:11:08.359000	0:11:09.112000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:08.359000" end="0:11:14.119000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:08.359000" end="0:11:14.119000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 redet	reden	VERB	-	0:11:08.359000	0:11:09.112000
 sie	ich	PRON	-	0:11:09.112000	0:11:09.919000
 eigentlich	eigentlich	ADV	-	0:11:09.112000	0:11:09.919000
@@ -3209,7 +3209,7 @@ ja	ja	ADV	-	0:11:09.919000	0:11:14.119000
 schon	schon	ADV	-	0:11:09.919000	0:11:14.119000
 .	-	-	-	0:11:09.919000	0:11:14.119000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:14.119000" end="0:11:16.185000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:14.119000" end="0:11:16.185000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:11:14.119000	0:11:15.765000
 mit	mit	ADP	-	0:11:14.119000	0:11:15.765000
 uns	sich	PRON	-	0:11:14.119000	0:11:15.765000
@@ -3219,19 +3219,19 @@ Mundart	Mundart	NOUN	-	0:11:14.119000	0:11:15.765000
 aber/	-	-	-	0:11:15.765000	0:11:16.185000
 .	-	-	-	0:11:15.765000	0:11:16.185000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:16.185000" end="0:11:17.679000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:16.185000" end="0:11:17.679000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:11:16.185000	0:11:17.679000
 sonst	sonst	ADV	-	0:11:16.185000	0:11:17.679000
 manchmal	manchmal	ADV	-	0:11:16.185000	0:11:17.679000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:17.679000" end="0:11:18.739000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:17.679000" end="0:11:18.739000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:11:17.679000	0:11:18.739000
 das	der	PRON	-	0:11:17.679000	0:11:18.739000
 die	der	DET	-	0:11:17.679000	0:11:18.739000
 Frage	Frage	NOUN	-	0:11:17.679000	0:11:18.739000
 ?	-	-	-	0:11:17.679000	0:11:18.739000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:17.679000" end="0:11:29.919000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:17.679000" end="0:11:29.919000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eher	eher	ADV	-	0:11:17.679000	0:11:18.739000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:11:17.679000	0:11:18.739000
 .	-	-	-	0:11:17.679000	0:11:18.739000
@@ -3268,11 +3268,11 @@ NAME	NAME	NOUN	-	0:11:28.299000	0:11:29.919000
 erzählt	erzählen	VERB	-	0:11:28.299000	0:11:29.919000
 .	-	-	-	0:11:28.299000	0:11:29.919000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:29.919000" end="0:11:30.505000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:29.919000" end="0:11:30.505000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 im	im	ADP	-	0:11:29.919000	0:11:30.505000
 ?	-	-	-	0:11:29.919000	0:11:30.505000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:30.505000" end="0:11:32.205000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:30.505000" end="0:11:32.205000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:11:30.505000	0:11:32.205000
 wie	wie	ADV	-	0:11:30.505000	0:11:32.205000
 wie	wie	ADV	-	0:11:30.505000	0:11:32.205000
@@ -3283,7 +3283,7 @@ mitgefahren	mitfahren	VERB	-	0:11:30.505000	0:11:32.205000
 sind	sein	AUX	-	0:11:30.505000	0:11:32.205000
 .	-	-	-	0:11:30.505000	0:11:32.205000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:32.205000" end="0:11:35.085000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:32.205000" end="0:11:35.085000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:11:32.205000	0:11:33.672000
 ich	ich	PRON	-	0:11:32.205000	0:11:33.672000
@@ -3300,7 +3300,7 @@ Nase	Nase	NOUN	-	0:11:33.672000	0:11:35.085000
 gekriegt	kriegen	VERB	-	0:11:33.672000	0:11:35.085000
 .	-	-	-	0:11:33.672000	0:11:35.085000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:33.672000" end="0:11:36.585000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:33.672000" end="0:11:36.585000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:11:33.672000	0:11:35.085000
 eh	eh	X	-	0:11:33.672000	0:11:35.085000
 ,	-	-	-	0:11:33.672000	0:11:35.085000
@@ -3313,7 +3313,7 @@ mitgefahren	mitfahren	VERB	-	0:11:35.085000	0:11:36.585000
 bin	sein	AUX	-	0:11:35.085000	0:11:36.585000
 .	-	-	-	0:11:35.085000	0:11:36.585000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:36.585000" end="0:11:39.765000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:36.585000" end="0:11:39.765000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:11:36.585000	0:11:39.765000
 den	der	PRON	-	0:11:36.585000	0:11:39.765000
 <pause duration="1,9s"/>
@@ -3321,20 +3321,20 @@ die	der	DET	-	0:11:36.585000	0:11:39.765000
 NAME	NAME	PROPN	-	0:11:36.585000	0:11:39.765000
 ?	-	-	-	0:11:36.585000	0:11:39.765000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:39.765000" end="0:11:40.978000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:39.765000" end="0:11:40.978000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:11:39.765000	0:11:40.978000
 ,	-	-	-	0:11:39.765000	0:11:40.978000
 die	der	DET	-	0:11:39.765000	0:11:40.978000
 NAME	NAME	NOUN	-	0:11:39.765000	0:11:40.978000
 .	-	-	-	0:11:39.765000	0:11:40.978000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:40.978000" end="0:11:42.312000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:40.978000" end="0:11:42.312000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 die	der	DET	-	0:11:40.978000	0:11:42.312000
 NAME	NAME	NOUN	-	0:11:40.978000	0:11:42.312000
 ?	-	-	-	0:11:40.978000	0:11:42.312000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:42.312000" end="0:11:46.972000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:42.312000" end="0:11:46.972000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:42.312000	0:11:42.698000
 .	-	-	-	0:11:42.312000	0:11:42.698000
 weil	weil	SCONJ	-	0:11:42.698000	0:11:44.185000
@@ -3356,7 +3356,7 @@ immer	immer	ADV	-	0:11:46.325000	0:11:46.972000
 war)	sein	AUX	-	0:11:46.325000	0:11:46.972000
 .	-	-	-	0:11:46.325000	0:11:46.972000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:46.972000" end="0:11:50.732000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:46.972000" end="0:11:50.732000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oh	oh	X	-	0:11:46.972000	0:11:50.732000
 je	je	ADV	-	0:11:46.972000	0:11:50.732000
 ,	-	-	-	0:11:46.972000	0:11:50.732000
@@ -3372,7 +3372,7 @@ ihr	mein	PRON	-	0:11:46.972000	0:11:50.732000
 besprochen	besprechen	VERB	-	0:11:46.972000	0:11:50.732000
 .	-	-	-	0:11:46.972000	0:11:50.732000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:50.732000" end="0:11:53.358000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:50.732000" end="0:11:53.358000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oh	oh	X	-	0:11:50.732000	0:11:53.358000
 NAME	NAME	PROPN	-	0:11:50.732000	0:11:53.358000
 ,	-	-	-	0:11:50.732000	0:11:53.358000
@@ -3388,7 +3388,7 @@ Blödsinn	Blödsinn	NOUN	-	0:11:50.732000	0:11:53.358000
 gemacht	machen	VERB	-	0:11:50.732000	0:11:53.358000
 ?	-	-	-	0:11:50.732000	0:11:53.358000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:11:53.358000" end="0:11:57.892000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:53.358000" end="0:11:57.892000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:53.358000	0:11:54.498000
 ,	-	-	-	0:11:53.358000	0:11:54.498000
 ich	ich	PRON	-	0:11:53.358000	0:11:54.498000
@@ -3413,7 +3413,7 @@ so	so	ADV	-	0:11:55.332000	0:11:57.892000
 anstellen	anstellen	VERB	-	0:11:55.332000	0:11:57.892000
 .	-	-	-	0:11:55.332000	0:11:57.892000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:11:57.892000" end="0:12:00.205000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:11:57.892000" end="0:12:00.205000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 was	was	PRON	-	0:11:57.892000	0:12:00.205000
 (heißt)	heißen	VERB	-	0:11:57.892000	0:12:00.205000
@@ -3427,7 +3427,7 @@ ach	ach	INTJ	-	0:11:57.892000	0:12:00.205000
 so	so	ADV	-	0:11:57.892000	0:12:00.205000
 .	-	-	-	0:11:57.892000	0:12:00.205000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:00.205000" end="0:12:06.785000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:00.205000" end="0:12:06.785000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:12:00.205000	0:12:04.785000
 alter	altern	PROPN	-	0:12:00.205000	0:12:04.785000
 ,	-	-	-	0:12:00.205000	0:12:04.785000
@@ -3453,19 +3453,19 @@ Traktor	Traktor	NOUN	-	0:12:04.785000	0:12:06.785000
 mitfahren	mitfahren	VERB	IndK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV stV std stdL+ würdeK	0:12:04.785000	0:12:06.785000
 .	-	-	-	0:12:04.785000	0:12:06.785000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:06.785000" end="0:12:07.952000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:06.785000" end="0:12:07.952000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 eh	eh	SCONJ	-	0:12:06.785000	0:12:07.952000
 sie	ich	PRON	-	0:12:06.785000	0:12:07.952000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:07.952000" end="0:12:09.012000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:07.952000" end="0:12:09.012000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:12:07.952000	0:12:09.012000
 dann	-	-	-	0:12:07.952000	0:12:09.012000
 *ist*	-	-	-	0:12:07.952000	0:12:09.012000
 mitgefahren	-	-	-	0:12:07.952000	0:12:09.012000
 .	-	-	-	0:12:07.952000	0:12:09.012000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:07.952000" end="0:12:10.312000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:07.952000" end="0:12:10.312000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:12:07.952000	0:12:09.012000
 ist	sein	AUX	-	0:12:07.952000	0:12:09.012000
 eineinhalb	eineinhalb	NUM	-	0:12:07.952000	0:12:09.012000
@@ -3480,14 +3480,14 @@ mitgefahren	mitfahren	VERB	-	0:12:09.012000	0:12:10.025000
 ich	ich	PRON	-	0:12:10.025000	0:12:10.312000
 habe	habe	AUX	-	0:12:10.025000	0:12:10.312000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:10.312000" end="0:12:11.325000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:10.312000" end="0:12:11.325000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	INTJ	-	0:12:10.312000	0:12:11.325000
 eh	eh	X	-	0:12:10.312000	0:12:11.325000
 .	-	-	-	0:12:10.312000	0:12:11.325000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:10.312000" end="0:12:11.325000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:10.312000" end="0:12:11.325000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:11.325000" end="0:12:13.065000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:11.325000" end="0:12:13.065000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:12:11.325000	0:12:13.065000
 aber	aber	CCONJ	-	0:12:11.325000	0:12:13.065000
 ich	ich	PRON	-	0:12:11.325000	0:12:13.065000
@@ -3499,7 +3499,7 @@ das	der	PRON	-	0:12:11.325000	0:12:13.065000
 machen	machen	VERB	-	0:12:11.325000	0:12:13.065000
 ?	-	-	-	0:12:11.325000	0:12:13.065000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:13.065000" end="0:12:13.912000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:13.065000" end="0:12:13.912000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:12:13.065000	0:12:13.912000
 "kann	können	VERB	-	0:12:13.065000	0:12:13.912000
 ich	ich	PRON	-	0:12:13.065000	0:12:13.912000
@@ -3507,7 +3507,7 @@ das	der	PRON	-	0:12:13.065000	0:12:13.912000
 machen"	machen	VERB	-	0:12:13.065000	0:12:13.912000
 ?	-	-	-	0:12:13.065000	0:12:13.912000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:13.912000" end="0:12:17.192000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:13.912000" end="0:12:17.192000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 na	na	X	-	0:12:13.912000	0:12:16.812000
 <pause duration="0,5s"/>
@@ -3521,11 +3521,11 @@ ihm	ich	PRON	-	0:12:13.912000	0:12:16.812000
 ,	-	-	-	0:12:13.912000	0:12:16.812000
 dann	-	-	-	0:12:16.812000	0:12:17.192000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:16.812000" end="0:12:17.192000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:16.812000" end="0:12:17.192000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:12:16.812000	0:12:17.192000
 so	so	ADV	-	0:12:16.812000	0:12:17.192000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:17.192000" end="0:12:20.325000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:17.192000" end="0:12:20.325000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *sollst*	-	-	-	0:12:17.192000	0:12:19.338000
 halt	-	-	-	0:12:17.192000	0:12:19.338000
 einmal	-	-	-	0:12:17.192000	0:12:19.338000
@@ -3540,10 +3540,10 @@ weil	weil	SCONJ	-	0:12:19.338000	0:12:20.325000
 der	der	PRON	-	0:12:19.338000	0:12:20.325000
 der	der	DET	-	0:12:19.338000	0:12:20.325000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:20.325000" end="0:12:20.685000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:20.325000" end="0:12:20.685000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	PROPN	-	0:12:20.325000	0:12:20.685000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:20.685000" end="0:12:22.592000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:20.685000" end="0:12:22.592000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mei	mei	VERB	-	0:12:20.685000	0:12:21.372000
 ,	-	-	-	0:12:20.685000	0:12:21.372000
 ich	ich	PRON	-	0:12:20.685000	0:12:21.372000
@@ -3556,7 +3556,7 @@ nicht	nicht	PART	-	0:12:21.372000	0:12:22.592000
 auskennt	auskennen	VERB	-	0:12:21.372000	0:12:22.592000
 .	-	-	-	0:12:21.372000	0:12:22.592000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:22.592000" end="0:12:30.025000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:22.592000" end="0:12:30.025000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:12:22.592000	0:12:27.558000
 warst	sein	AUX	-	0:12:22.592000	0:12:27.558000
 du	du	PRON	-	0:12:22.592000	0:12:27.558000
@@ -3585,18 +3585,18 @@ ich	ich	PRON	-	0:12:29.472000	0:12:30.025000
 nicht	nicht	PART	-	0:12:29.472000	0:12:30.025000
 ,	-	-	-	0:12:29.472000	0:12:30.025000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:30.025000" end="0:12:30.305000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.025000" end="0:12:30.305000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wann	wann	ADV	-	0:12:30.025000	0:12:30.305000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:30.025000" end="0:12:30.305000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.025000" end="0:12:30.305000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:12:30.025000	0:12:30.305000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:30.305000" end="0:12:30.705000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.305000" end="0:12:30.705000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:12:30.305000	0:12:30.705000
 das	der	PRON	-	0:12:30.305000	0:12:30.705000
 ?	-	-	-	0:12:30.305000	0:12:30.705000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:30.705000" end="0:12:33.345000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:30.705000" end="0:12:33.345000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:12:30.705000	0:12:32.172000
 ,	-	-	-	0:12:30.705000	0:12:32.172000
 wie	-	-	-	0:12:30.705000	0:12:32.172000
@@ -3613,7 +3613,7 @@ sauspät	sauspät	PROPN	-	0:12:32.172000	0:12:33.345000
 gekommen	kommen	VERB	-	0:12:32.172000	0:12:33.345000
 .	-	-	-	0:12:32.172000	0:12:33.345000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:33.345000" end="0:12:35.418000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:33.345000" end="0:12:35.418000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ah	ah	X	-	0:12:33.345000	0:12:35.418000
 ja	ja	PART	-	0:12:33.345000	0:12:35.418000
@@ -3626,7 +3626,7 @@ Knoblauch	Knoblauch	NOUN	-	0:12:33.345000	0:12:35.418000
 geredet	reden	VERB	-	0:12:33.345000	0:12:35.418000
 .	-	-	-	0:12:33.345000	0:12:35.418000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:35.418000" end="0:12:37.532000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:35.418000" end="0:12:37.532000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:35.418000	0:12:37.532000
 und	und	CCONJ	-	0:12:35.418000	0:12:37.532000
 er	ich	PRON	-	0:12:35.418000	0:12:37.532000
@@ -3636,24 +3636,24 @@ mir	sich	PRON	-	0:12:35.418000	0:12:37.532000
 heimgegangen	heimgegangen	VERB	-	0:12:35.418000	0:12:37.532000
 .	-	-	-	0:12:35.418000	0:12:37.532000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:37.532000" end="0:12:38.945000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:37.532000" end="0:12:38.945000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 der	der	DET	-	0:12:37.532000	0:12:38.945000
 NAME	NAME	NOUN	-	0:12:37.532000	0:12:38.945000
 ?	-	-	-	0:12:37.532000	0:12:38.945000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:38.945000" end="0:12:39.712000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:38.945000" end="0:12:39.712000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:12:38.945000	0:12:39.712000
 NAME	NAME	NOUN	-	0:12:38.945000	0:12:39.712000
 ist	sein	AUX	-	0:12:38.945000	0:12:39.712000
 mit	mit	ADP	-	0:12:38.945000	0:12:39.712000
 mir	sich	PRON	-	0:12:38.945000	0:12:39.712000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:39.712000" end="0:12:40.072000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:39.712000" end="0:12:40.072000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:12:39.712000	0:12:40.072000
 .	-	-	-	0:12:39.712000	0:12:40.072000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:39.712000" end="0:12:48.878000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:39.712000" end="0:12:48.878000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:12:39.712000	0:12:40.072000
 der	der	DET	-	0:12:39.712000	0:12:40.072000
 NAME	NAME	NOUN	-	0:12:39.712000	0:12:40.072000
@@ -3701,10 +3701,10 @@ da	da	ADV	-	0:12:46.878000	0:12:48.878000
 zu	zu	ADP	-	0:12:46.878000	0:12:48.878000
 ihm	ich	PRON	-	0:12:46.878000	0:12:48.878000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:48.878000" end="0:12:49.938000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:48.878000" end="0:12:49.938000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:12:48.878000	0:12:49.938000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:48.878000" end="0:12:49.938000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:48.878000" end="0:12:49.938000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 "na	na	X	-	0:12:48.878000	0:12:49.938000
 was	was	PRON	-	0:12:48.878000	0:12:49.938000
 ist	sein	AUX	-	0:12:48.878000	0:12:49.938000
@@ -3712,12 +3712,12 @@ jetzt	jetzt	ADV	-	0:12:48.878000	0:12:49.938000
 da	da	ADV	-	0:12:48.878000	0:12:49.938000
 ?"	-	-	-	0:12:48.878000	0:12:49.938000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:49.938000" end="0:12:50.638000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:49.938000" end="0:12:50.638000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:12:49.938000	0:12:50.638000
 ja	ja	PART	-	0:12:49.938000	0:12:50.638000
 .	-	-	-	0:12:49.938000	0:12:50.638000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:50.638000" end="0:12:58.358000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:50.638000" end="0:12:58.358000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 "wie	-	-	-	0:12:50.638000	0:12:52.638000
 schaut	-	-	-	0:12:50.638000	0:12:52.638000
 es	-	-	-	0:12:50.638000	0:12:52.638000
@@ -3762,12 +3762,12 @@ so	so	ADV	-	0:12:57.158000	0:12:58.358000
 zu	zu	ADP	-	0:12:57.158000	0:12:58.358000
 ihm	ich	PRON	-	0:12:57.158000	0:12:58.358000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:12:58.358000" end="0:12:59.145000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:58.358000" end="0:12:59.145000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:12:58.358000	0:12:59.145000
 eh	eh	X	-	0:12:58.358000	0:12:59.145000
 .	-	-	-	0:12:58.358000	0:12:59.145000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:12:58.358000" end="0:13:08.832000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:12:58.358000" end="0:13:08.832000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gesagt	sagen	VERB	-	0:12:58.358000	0:12:59.145000
 ja	ja	PART	-	0:12:58.358000	0:12:59.145000
 .	-	-	-	0:12:58.358000	0:12:59.145000
@@ -3812,7 +3812,7 @@ mehr	-	-	-	0:13:08.265000	0:13:08.832000
 tuen	-	-	-	0:13:08.265000	0:13:08.832000
 ."	-	-	-	0:13:08.265000	0:13:08.832000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:13:08.832000" end="0:13:10.572000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:08.832000" end="0:13:10.572000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 alter	altern	NOUN	-	0:13:08.832000	0:13:10.092000
 ,	-	-	-	0:13:08.832000	0:13:10.092000
 die	der	PRON	-	0:13:08.832000	0:13:10.092000
@@ -3823,7 +3823,7 @@ lassen	lassen	VERB	-	0:13:08.832000	0:13:10.092000
 bitte	bitte	PART	-	0:13:10.092000	0:13:10.572000
 .	-	-	-	0:13:10.092000	0:13:10.572000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:13:10.092000" end="0:13:28.152000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:10.092000" end="0:13:28.152000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:13:10.092000	0:13:10.572000
 er	ich	PRON	-	0:13:10.572000	0:13:11.452000
 hat	haben	AUX	-	0:13:10.572000	0:13:11.452000
@@ -3904,7 +3904,7 @@ keine	kein	DET	-	0:13:26.272000	0:13:28.152000
 Ahnung	Ahnung	NOUN	-	0:13:26.272000	0:13:28.152000
 .	-	-	-	0:13:26.272000	0:13:28.152000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:13:28.152000" end="0:13:29.318000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:28.152000" end="0:13:29.318000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:13:28.152000	0:13:29.318000
 ist	sein	AUX	-	0:13:28.152000	0:13:29.318000
 eh	eh	ADV	-	0:13:28.152000	0:13:29.318000
@@ -3912,12 +3912,12 @@ das	der	DET	-	0:13:28.152000	0:13:29.318000
 gescheiteste	gescheit	NOUN	-	0:13:28.152000	0:13:29.318000
 .	-	-	-	0:13:28.152000	0:13:29.318000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:13:29.318000" end="0:13:29.818000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:29.318000" end="0:13:29.818000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:13:29.318000	0:13:29.818000
 eh	eh	X	-	0:13:29.318000	0:13:29.818000
 .	-	-	-	0:13:29.318000	0:13:29.818000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:13:29.818000" end="0:13:37.752000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:29.818000" end="0:13:37.752000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 aber	aber	CCONJ	-	0:13:29.818000	0:13:32.658000
 ich	ich	PRON	-	0:13:29.818000	0:13:32.658000
@@ -3947,7 +3947,7 @@ viel	viel	PRON	-	0:13:37.218000	0:13:37.752000
 tun/	-	-	-	0:13:37.218000	0:13:37.752000
 .	-	-	-	0:13:37.218000	0:13:37.752000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:13:37.218000" end="0:13:38.898000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:37.218000" end="0:13:38.898000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:13:37.218000	0:13:37.752000
 die	der	DET	-	0:13:37.218000	0:13:37.752000
 schreiben	schreiben	NOUN	-	0:13:37.218000	0:13:37.752000
@@ -3956,7 +3956,7 @@ andauernd	andauern	ADJ	-	0:13:37.752000	0:13:38.898000
 miteinander	miteinander	ADV	-	0:13:37.752000	0:13:38.898000
 .	-	-	-	0:13:37.752000	0:13:38.898000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:13:38.898000" end="0:13:50.772000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:38.898000" end="0:13:50.772000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:13:38.898000	0:13:40.158000
 die	der	DET	-	0:13:38.898000	0:13:40.158000
 schreiben	schreiben	NOUN	-	0:13:38.898000	0:13:40.158000
@@ -4010,9 +4010,9 @@ dann	dann	ADV	-	0:13:49.065000	0:13:50.772000
 bald	bald	ADV	-	0:13:49.065000	0:13:50.772000
 .	-	-	-	0:13:49.065000	0:13:50.772000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:13:50.772000" end="0:13:51.218000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:50.772000" end="0:13:51.218000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:13:51.218000" end="0:13:59.778000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:51.218000" end="0:13:59.778000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 von	-	-	-	0:13:51.218000	0:13:53.218000
 was	-	-	-	0:13:51.218000	0:13:53.218000
 *hast*	-	-	-	0:13:51.218000	0:13:53.218000
@@ -4057,7 +4057,7 @@ gesagt	sagen	VERB	-	0:13:58.278000	0:13:59.778000
 hat	haben	AUX	-	0:13:58.278000	0:13:59.778000
 .	-	-	-	0:13:58.278000	0:13:59.778000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:13:59.778000" end="0:14:06.525000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:13:59.778000" end="0:14:06.525000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 okay	okay	NOUN	-	0:13:59.778000	0:14:00.992000
 .	-	-	-	0:13:59.778000	0:14:00.992000
@@ -4079,18 +4079,18 @@ wieder	wieder	ADV	-	0:14:05.592000	0:14:06.525000
 aufregen	-	-	-	0:14:05.592000	0:14:06.525000
 .	-	-	-	0:14:05.592000	0:14:06.525000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:06.525000" end="0:14:09.578000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:06.525000" end="0:14:09.578000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 ach	ach	X	-	0:14:06.525000	0:14:09.578000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:09.578000" end="0:14:10.225000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:09.578000" end="0:14:10.225000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:14:09.578000	0:14:10.225000
 ruft	rufen	VERB	-	0:14:09.578000	0:14:10.225000
 dich	sich	PRON	-	0:14:09.578000	0:14:10.225000
 an	an	ADP	-	0:14:09.578000	0:14:10.225000
 .	-	-	-	0:14:09.578000	0:14:10.225000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:10.225000" end="0:14:15.072000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:10.225000" end="0:14:15.072000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Gott	Gott	NOUN	-	0:14:10.225000	0:14:10.772000
 .	-	-	-	0:14:10.225000	0:14:10.772000
 <pause duration="1,0s"/>
@@ -4103,7 +4103,7 @@ gut	gut	ADJ	-	0:14:13.645000	0:14:14.105000
 .	-	-	-	0:14:13.645000	0:14:14.105000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:15.072000" end="0:14:16.145000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:15.072000" end="0:14:16.145000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sag	sag	X	-	0:14:15.072000	0:14:16.145000
 ihr	mein	PRON	-	0:14:15.072000	0:14:16.145000
 ,	-	-	-	0:14:15.072000	0:14:16.145000
@@ -4114,7 +4114,7 @@ einem	einer	DET	-	0:14:15.072000	0:14:16.145000
 Gespräch	Gespräch	NOUN	-	0:14:15.072000	0:14:16.145000
 .	-	-	-	0:14:15.072000	0:14:16.145000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:16.145000" end="0:14:26.325000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:16.145000" end="0:14:26.325000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:14:16.145000	0:14:16.852000
 NAME	NAME	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:14:16.145000	0:14:16.852000
 .	-	-	-	0:14:16.145000	0:14:16.852000
@@ -4153,12 +4153,12 @@ alles	alle	PRON	-	0:14:24.772000	0:14:26.325000
 aufgenommen	aufnehmen	VERB	-	0:14:24.772000	0:14:26.325000
 .	-	-	-	0:14:24.772000	0:14:26.325000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:24.772000" end="0:14:27.552000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:24.772000" end="0:14:27.552000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:14:26.325000	0:14:27.552000
 NAME	NAME	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:14:26.325000	0:14:27.552000
 .	-	-	-	0:14:26.325000	0:14:27.552000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:27.552000" end="0:14:31.812000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:27.552000" end="0:14:31.812000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:14:27.552000	0:14:29.885000
 .	-	-	-	0:14:27.552000	0:14:29.885000
@@ -4169,7 +4169,7 @@ später	spät	ADJ	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprk
 tschüss	tschüss	PROPN	-	0:14:30.658000	0:14:31.812000
 .	-	-	-	0:14:30.658000	0:14:31.812000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:31.812000" end="0:14:35.032000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:31.812000" end="0:14:35.032000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 wo	wo	ADV	-	0:14:31.812000	0:14:34.432000
 ist	sein	AUX	-	0:14:31.812000	0:14:34.432000
@@ -4179,15 +4179,15 @@ NAME	NAME	PROPN	-	0:14:31.812000	0:14:34.432000
 ah	ah	X	-	0:14:34.432000	0:14:35.032000
 in	in	ADP	-	0:14:34.432000	0:14:35.032000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:35.032000" end="0:14:35.898000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:35.032000" end="0:14:35.898000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	NOUN	-	0:14:35.032000	0:14:35.898000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:35.032000" end="0:14:35.898000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:35.032000" end="0:14:35.898000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Kärnten	Kärnten	PROPN	-	0:14:35.032000	0:14:35.898000
 oder	oder	CCONJ	-	0:14:35.032000	0:14:35.898000
 ?	-	-	-	0:14:35.032000	0:14:35.898000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:35.898000" end="0:14:37.625000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:35.898000" end="0:14:37.625000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	ADV	-	0:14:35.898000	0:14:36.792000
 in	in	ADP	-	0:14:35.898000	0:14:36.792000
 ORT	ORT	NOUN	-	0:14:35.898000	0:14:36.792000
@@ -4202,7 +4202,7 @@ Wohnung	Wohnung	NOUN	-	0:14:36.792000	0:14:37.625000
 jetzt	jetzt	ADV	-	0:14:36.792000	0:14:37.625000
 .	-	-	-	0:14:36.792000	0:14:37.625000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:37.625000" end="0:14:39.605000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:37.625000" end="0:14:39.605000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:14:37.625000	0:14:39.605000
 in	in	ADP	-	0:14:37.625000	0:14:39.605000
@@ -4210,7 +4210,7 @@ Kärnten	Kärnten	PROPN	-	0:14:37.625000	0:14:39.605000
 dahin	dahin	ADV	-	0:14:37.625000	0:14:39.605000
 .	-	-	-	0:14:37.625000	0:14:39.605000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:39.605000" end="0:14:41.818000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:39.605000" end="0:14:41.818000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eh	eh	X	-	0:14:39.605000	0:14:41.445000
 ,	-	-	-	0:14:39.605000	0:14:41.445000
 aber	aber	CCONJ	-	0:14:39.605000	0:14:41.445000
@@ -4222,11 +4222,11 @@ gesagt	sagen	VERB	-	0:14:39.605000	0:14:41.445000
 .	-	-	-	0:14:39.605000	0:14:41.445000
 deswegen	deswegen	ADV	-	0:14:41.445000	0:14:41.818000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:41.445000" end="0:14:41.818000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:41.445000" end="0:14:41.818000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (was)	was	PRON	-	0:14:41.445000	0:14:41.818000
 ?	-	-	-	0:14:41.445000	0:14:41.818000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:41.818000" end="0:14:43.498000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:41.818000" end="0:14:43.498000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 weil	weil	SCONJ	-	0:14:41.818000	0:14:43.498000
 da	da	ADV	-	0:14:41.818000	0:14:43.498000
@@ -4236,7 +4236,7 @@ die	der	DET	-	0:14:41.818000	0:14:43.498000
 Klinik	Klinik	NOUN	-	0:14:41.818000	0:14:43.498000
 .	-	-	-	0:14:41.818000	0:14:43.498000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:43.498000" end="0:14:47.585000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:43.498000" end="0:14:47.585000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:14:43.498000	0:14:45.498000
 jeden	jed	DET	-	0:14:43.498000	0:14:45.498000
 Fall	Fall	NOUN	-	0:14:43.498000	0:14:45.498000
@@ -4253,18 +4253,18 @@ ist	sein	AUX	-	0:14:45.498000	0:14:47.585000
 der	der	DET	-	0:14:45.498000	0:14:47.585000
 schönste	schönste	ADJ	-	0:14:45.498000	0:14:47.585000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:47.585000" end="0:14:48.185000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:47.585000" end="0:14:48.185000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:14:47.585000	0:14:48.185000
 ja	ja	ADV	-	0:14:47.585000	0:14:48.185000
 das	der	DET	-	0:14:47.585000	0:14:48.185000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:47.585000" end="0:14:48.185000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:47.585000" end="0:14:48.185000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Ort	Ort	NOUN	-	0:14:47.585000	0:14:48.185000
 der	der	DET	-	0:14:47.585000	0:14:48.185000
 Welt	Welt	NOUN	-	0:14:47.585000	0:14:48.185000
 ?	-	-	-	0:14:47.585000	0:14:48.185000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:48.185000" end="0:14:50.545000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:48.185000" end="0:14:50.545000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Weinviertel	Weinviertel	NOUN	-	0:14:48.185000	0:14:49.278000
 natürlich	natürlich	ADV	-	0:14:48.185000	0:14:49.278000
 .	-	-	-	0:14:48.185000	0:14:49.278000
@@ -4275,7 +4275,7 @@ da	-	-	-	0:14:49.278000	0:14:50.545000
 umeinander	-	-	-	0:14:49.278000	0:14:50.545000
 ?	-	-	-	0:14:49.278000	0:14:50.545000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:49.278000" end="0:14:51.732000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:49.278000" end="0:14:51.732000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:49.278000	0:14:50.545000
 weiß	weiß	VERB	-	0:14:49.278000	0:14:50.545000
 ich	ich	PRON	-	0:14:49.278000	0:14:50.545000
@@ -4289,19 +4289,19 @@ ich	ich	PRON	-	0:14:50.545000	0:14:51.732000
 schon	schon	ADV	-	0:14:50.545000	0:14:51.732000
 so	so	ADV	-	0:14:50.545000	0:14:51.732000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:51.732000" end="0:14:52.112000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:51.732000" end="0:14:52.112000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:14:51.732000	0:14:52.112000
 ich	ich	PRON	-	0:14:51.732000	0:14:52.112000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:51.732000" end="0:14:52.112000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:51.732000" end="0:14:52.112000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 viel	viel	PRON	-	0:14:51.732000	0:14:52.112000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:52.112000" end="0:14:52.665000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:52.112000" end="0:14:52.665000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:14:52.112000	0:14:52.432000
 nicht	nicht	PART	-	0:14:52.432000	0:14:52.665000
 .	-	-	-	0:14:52.432000	0:14:52.665000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:52.432000" end="0:14:55.745000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:52.432000" end="0:14:55.745000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:14:52.432000	0:14:52.665000
 habe	habe	AUX	-	0:14:52.665000	0:14:53.745000
 ich	ich	PRON	-	0:14:52.665000	0:14:53.745000
@@ -4320,7 +4320,7 @@ auf	auf	ADP	-	0:14:53.745000	0:14:55.745000
 Südafrika	Südafrika	PROPN	-	0:14:53.745000	0:14:55.745000
 .	-	-	-	0:14:53.745000	0:14:55.745000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:14:55.745000" end="0:14:57.392000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:55.745000" end="0:14:57.392000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:14:55.745000	0:14:57.392000
 ja	ja	PART	-	0:14:55.745000	0:14:57.392000
 ,	-	-	-	0:14:55.745000	0:14:57.392000
@@ -4330,7 +4330,7 @@ ja	ja	ADV	-	0:14:55.745000	0:14:57.392000
 hin	hin	ADP	-	0:14:55.745000	0:14:57.392000
 .	-	-	-	0:14:55.745000	0:14:57.392000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:14:57.392000" end="0:15:04.132000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:14:57.392000" end="0:15:04.132000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:14:57.392000	0:14:59.265000
 dauert	dauern	VERB	-	0:14:57.392000	0:14:59.265000
 zwar	zwar	ADV	-	0:14:57.392000	0:14:59.265000
@@ -4359,14 +4359,14 @@ Hotels	Hotel	NOUN	-	0:15:00.758000	0:15:04.132000
 gebucht	buchen	VERB	-	0:15:00.758000	0:15:04.132000
 .	-	-	-	0:15:00.758000	0:15:04.132000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:04.132000" end="0:15:05.878000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:04.132000" end="0:15:05.878000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:05.878000" end="0:15:06.945000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:05.878000" end="0:15:06.945000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 warum	warum	ADV	-	0:15:05.878000	0:15:06.945000
 ?	-	-	-	0:15:05.878000	0:15:06.945000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:06.945000" end="0:15:08.952000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:06.945000" end="0:15:08.952000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:15:06.945000	0:15:08.952000
 ja	ja	PART	-	0:15:06.945000	0:15:08.952000
@@ -4379,7 +4379,7 @@ Urlaub	-	-	-	0:15:06.945000	0:15:08.952000
 fährst	-	-	-	0:15:06.945000	0:15:08.952000
 .	-	-	-	0:15:06.945000	0:15:08.952000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:08.952000" end="0:15:13.278000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:08.952000" end="0:15:13.278000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 na	na	X	-	0:15:08.952000	0:15:11.285000
 wenn	wenn	SCONJ	-	0:15:08.952000	0:15:11.285000
@@ -4405,7 +4405,7 @@ Gas	Gas	NOUN	-	0:15:11.285000	0:15:13.278000
 geben	geben	VERB	-	0:15:11.285000	0:15:13.278000
 .	-	-	-	0:15:11.285000	0:15:13.278000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:13.278000" end="0:15:14.898000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:13.278000" end="0:15:14.898000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 am	am	ADP	-	0:15:13.278000	0:15:14.898000
 vierundzwanzigsten	vierundzwanzigsten	ADJ	-	0:15:13.278000	0:15:14.898000
 März	März	NOUN	-	0:15:13.278000	0:15:14.898000
@@ -4413,7 +4413,7 @@ fliegst	fliegen	VERB	-	0:15:13.278000	0:15:14.898000
 du	du	PRON	-	0:15:13.278000	0:15:14.898000
 ?	-	-	-	0:15:13.278000	0:15:14.898000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:14.898000" end="0:15:17.472000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:14.898000" end="0:15:17.472000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 vierundzwanzigsten	vierundzwanzigsten	ADJ	-	0:15:14.898000	0:15:17.472000
 März	März	NOUN	-	0:15:14.898000	0:15:17.472000
 bis	bis	ADP	-	0:15:14.898000	0:15:17.472000
@@ -4428,7 +4428,7 @@ wir	ich	PRON	-	0:15:14.898000	0:15:17.472000
 weg	weg	ADV	-	0:15:14.898000	0:15:17.472000
 .	-	-	-	0:15:14.898000	0:15:17.472000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:17.472000" end="0:15:19.465000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:17.472000" end="0:15:19.465000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	ADV	-	0:15:17.472000	0:15:19.465000
 da	da	ADV	-	0:15:17.472000	0:15:19.465000
@@ -4438,14 +4438,14 @@ gerade	gerade	ADV	-	0:15:17.472000	0:15:19.465000
 heim	heim	ADP	-	0:15:17.472000	0:15:19.465000
 .	-	-	-	0:15:17.472000	0:15:19.465000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:19.465000" end="0:15:20.532000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:19.465000" end="0:15:20.532000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wann	wann	ADV	-	0:15:19.465000	0:15:20.532000
 kommst	kommen	PROPN	-	0:15:19.465000	0:15:20.532000
 du	du	PRON	-	0:15:19.465000	0:15:20.532000
 heim	heim	ADP	-	0:15:19.465000	0:15:20.532000
 ?	-	-	-	0:15:19.465000	0:15:20.532000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:20.532000" end="0:15:23.365000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:20.532000" end="0:15:23.365000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 am	am	ADP	-	0:15:20.532000	0:15:23.365000
 siebenundzwanzigsten	siebenundzwanzigsten	ADJ	-	0:15:20.532000	0:15:23.365000
 oder	oder	CCONJ	-	0:15:20.532000	0:15:23.365000
@@ -4453,14 +4453,14 @@ achtundzwanzigsten	achtundzwanzigsten	ADJ	-	0:15:20.532000	0:15:23.365000
 März	März	NOUN	-	0:15:20.532000	0:15:23.365000
 .	-	-	-	0:15:20.532000	0:15:23.365000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:23.365000" end="0:15:23.978000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:23.365000" end="0:15:23.978000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:15:23.365000	0:15:23.978000
 das	der	PRON	-	0:15:23.365000	0:15:23.978000
 ist	sein	AUX	-	0:15:23.365000	0:15:23.978000
 blöd	blöd	ADJ	-	0:15:23.365000	0:15:23.978000
 .	-	-	-	0:15:23.365000	0:15:23.978000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:23.978000" end="0:15:25.925000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:23.978000" end="0:15:25.925000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sehen	sehen	VERB	-	0:15:23.978000	0:15:25.925000
 wir	ich	PRON	-	0:15:23.978000	0:15:25.925000
 uns	sich	PRON	-	0:15:23.978000	0:15:25.925000
@@ -4470,7 +4470,7 @@ nicht	nicht	PART	-	0:15:23.978000	0:15:25.925000
 NAME	NAME	PROPN	-	0:15:23.978000	0:15:25.925000
 .	-	-	-	0:15:23.978000	0:15:25.925000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:25.925000" end="0:15:28.065000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:25.925000" end="0:15:28.065000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 wieso	wieso	ADV	-	0:15:25.925000	0:15:28.065000
 ?	-	-	-	0:15:25.925000	0:15:28.065000
@@ -4481,12 +4481,12 @@ Monat	Monat	NOUN	-	0:15:25.925000	0:15:28.065000
 fort	fort	ADP	-	0:15:25.925000	0:15:28.065000
 ?	-	-	-	0:15:25.925000	0:15:28.065000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:28.065000" end="0:15:28.738000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:28.065000" end="0:15:28.738000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 fünf	fünf	NUM	-	0:15:28.065000	0:15:28.738000
 Wochen	Woche	NOUN	-	0:15:28.065000	0:15:28.738000
 .	-	-	-	0:15:28.065000	0:15:28.738000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:28.738000" end="0:15:31.151000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:28.738000" end="0:15:31.151000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 musst	-	-	-	0:15:28.738000	0:15:31.151000
 du	-	-	-	0:15:28.738000	0:15:31.151000
@@ -4495,7 +4495,7 @@ beim	-	-	-	0:15:28.738000	0:15:31.151000
 _anzahen_	-	-	-	0:15:28.738000	0:15:31.151000
 .	-	-	-	0:15:28.738000	0:15:31.151000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:31.151000" end="0:15:35.911000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:31.151000" end="0:15:35.911000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:15:31.151000	0:15:34.298000
 ,	-	-	-	0:15:31.151000	0:15:34.298000
 jetzt	jetzt	ADV	-	0:15:31.151000	0:15:34.298000
@@ -4513,7 +4513,7 @@ was	was	PRON	-	0:15:34.298000	0:15:35.911000
 da	da	ADP	-	0:15:34.298000	0:15:35.911000
 .	-	-	-	0:15:34.298000	0:15:35.911000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:35.911000" end="0:15:37.771000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:35.911000" end="0:15:37.771000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *tust*	-	-	-	0:15:35.911000	0:15:37.771000
 noch	-	-	-	0:15:35.911000	0:15:37.771000
 alleweil	-	-	-	0:15:35.911000	0:15:37.771000
@@ -4524,7 +4524,7 @@ Bohnen	-	-	-	0:15:35.911000	0:15:37.771000
 zählen	-	-	-	0:15:35.911000	0:15:37.771000
 ?	-	-	-	0:15:35.911000	0:15:37.771000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:37.771000" end="0:15:44.738000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:37.771000" end="0:15:44.738000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:15:37.771000	0:15:40.378000
 ,	-	-	-	0:15:37.771000	0:15:40.378000
 da	da	ADV	-	0:15:37.771000	0:15:40.378000
@@ -4552,7 +4552,7 @@ analysieren	analysieren	VERB	-	0:15:42.738000	0:15:44.738000
 und/	-	-	-	0:15:42.738000	0:15:44.738000
 .	-	-	-	0:15:42.738000	0:15:44.738000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:44.738000" end="0:15:53.078000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:44.738000" end="0:15:53.078000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:15:44.738000	0:15:46.018000
 dir	sich	PRON	-	0:15:44.738000	0:15:46.018000
 eigentlich	eigentlich	ADV	-	0:15:44.738000	0:15:46.018000
@@ -4592,25 +4592,25 @@ ich	ich	PRON	-	0:15:52.305000	0:15:53.078000
 die	der	DET	-	0:15:52.305000	0:15:53.078000
 Karte	Karte	NOUN	-	0:15:52.305000	0:15:53.078000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:53.078000" end="0:15:53.458000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.078000" end="0:15:53.458000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schönste	schönste	ADJ	-	0:15:53.078000	0:15:53.458000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:53.078000" end="0:15:53.458000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.078000" end="0:15:53.458000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (ablegen)	ablegen	VERB	-	0:15:53.078000	0:15:53.458000
 .	-	-	-	0:15:53.078000	0:15:53.458000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:15:53.458000" end="0:15:54.311000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:53.458000" end="0:15:54.311000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Ort	Ort	NOUN	-	0:15:53.458000	0:15:54.311000
 der	der	DET	-	0:15:53.458000	0:15:54.311000
 Welt	Welt	NOUN	-	0:15:53.458000	0:15:54.311000
 .	-	-	-	0:15:53.458000	0:15:54.311000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:15:54.311000" end="0:16:00.351000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:15:54.311000" end="0:16:00.351000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 ähm	ähm	PROPN	-	0:15:54.311000	0:16:00.351000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:00.351000" end="0:16:08.198000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:00.351000" end="0:16:08.198000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:16:00.351000	0:16:00.978000
 weiß	weiß	VERB	-	0:16:00.351000	0:16:00.978000
 nicht	nicht	PART	-	0:16:00.351000	0:16:00.978000
@@ -4657,35 +4657,35 @@ wenn	wenn	SCONJ	-	0:16:07.898000	0:16:08.198000
 es	ich	PRON	-	0:16:07.898000	0:16:08.198000
 noch	noch	ADV	-	0:16:07.898000	0:16:08.198000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:07.898000" end="0:16:08.198000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:07.898000" end="0:16:08.198000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:07.898000	0:16:08.198000
 .	-	-	-	0:16:07.898000	0:16:08.198000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:08.198000" end="0:16:09.025000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:08.198000" end="0:16:09.025000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 finster	finster	ADJ	-	0:16:08.198000	0:16:08.625000
 ist	sein	AUX	-	0:16:08.198000	0:16:08.625000
 und	und	CCONJ	-	0:16:08.625000	0:16:09.025000
 dann	dann	ADV	-	0:16:08.625000	0:16:09.025000
 wird	werden	AUX	-	0:16:08.625000	0:16:09.025000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:08.625000" end="0:16:09.025000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:08.625000" end="0:16:09.025000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:08.625000	0:16:09.025000
 .	-	-	-	0:16:08.625000	0:16:09.025000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:09.025000" end="0:16:09.551000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:09.025000" end="0:16:09.551000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:16:09.025000	0:16:09.551000
 hell	hellen	ADJ	-	0:16:09.025000	0:16:09.551000
 ,	-	-	-	0:16:09.025000	0:16:09.551000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:09.551000" end="0:16:09.985000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:09.551000" end="0:16:09.985000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:16:09.551000	0:16:09.985000
 ist	sein	AUX	-	0:16:09.551000	0:16:09.985000
 das	der	PRON	-	0:16:09.551000	0:16:09.985000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:09.985000" end="0:16:10.171000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:09.985000" end="0:16:10.171000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:09.985000	0:16:10.171000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:09.985000" end="0:16:11.398000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:09.985000" end="0:16:11.398000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 für	für	ADP	-	0:16:09.985000	0:16:10.171000
 dich	sich	PRON	-	0:16:09.985000	0:16:10.171000
 der	der	DET	-	0:16:10.171000	0:16:10.958000
@@ -4696,7 +4696,7 @@ passt	passt	PROPN	-	0:16:10.958000	0:16:11.398000
 eh	eh	X	-	0:16:10.958000	0:16:11.398000
 .	-	-	-	0:16:10.958000	0:16:11.398000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:11.398000" end="0:16:18.591000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:11.398000" end="0:16:18.591000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:11.398000	0:16:13.285000
 du	du	PRON	-	0:16:11.398000	0:16:13.285000
 stehst	stehen	ADV	-	0:16:11.398000	0:16:13.285000
@@ -4719,13 +4719,13 @@ ja	ja	ADV	-	0:16:15.125000	0:16:18.071000
 arbeitest	arbeiten	NOUN	-	0:16:15.125000	0:16:18.071000
 natürlich	natürlich	ADV	-	0:16:18.071000	0:16:18.591000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:18.071000" end="0:16:18.965000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:18.071000" end="0:16:18.965000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 arbeitest	arbeiten	NOUN	-	0:16:18.071000	0:16:18.591000
 da	da	ADV	-	0:16:18.591000	0:16:18.965000
 eh	eh	ADV	-	0:16:18.591000	0:16:18.965000
 .	-	-	-	0:16:18.591000	0:16:18.965000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:18.965000" end="0:16:24.605000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:18.965000" end="0:16:24.605000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 fahrst	fahrst	NOUN	-	0:16:18.965000	0:16:20.765000
 mit	mit	ADP	-	0:16:18.965000	0:16:20.765000
 der	der	DET	-	0:16:18.965000	0:16:20.765000
@@ -4751,13 +4751,13 @@ ich	ich	PRON	-	0:16:22.765000	0:16:24.605000
 sagen	sagen	VERB	-	0:16:22.765000	0:16:24.605000
 .	-	-	-	0:16:22.765000	0:16:24.605000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:24.605000" end="0:16:25.051000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:24.605000" end="0:16:25.051000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:16:24.605000	0:16:25.051000
 glaube	glauben	VERB	-	0:16:24.605000	0:16:25.051000
 ich	ich	PRON	-	0:16:24.605000	0:16:25.051000
 .	-	-	-	0:16:24.605000	0:16:25.051000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:25.051000" end="0:16:27.071000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:25.051000" end="0:16:27.071000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:16:25.051000	0:16:26.085000
 habe	habe	AUX	-	0:16:25.051000	0:16:26.085000
 ich	ich	PRON	-	0:16:25.051000	0:16:26.085000
@@ -4774,7 +4774,7 @@ gut	gut	ADJ	-	0:16:26.691000	0:16:27.071000
 aus	aus	ADP	-	0:16:26.691000	0:16:27.071000
 .	-	-	-	0:16:26.691000	0:16:27.071000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:26.691000" end="0:16:29.545000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:26.691000" end="0:16:29.545000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:26.691000	0:16:27.071000
 .	-	-	-	0:16:26.691000	0:16:27.071000
 das	der	PRON	-	0:16:27.071000	0:16:28.231000
@@ -4794,20 +4794,20 @@ bei	bei	ADP	-	0:16:28.231000	0:16:29.545000
 uns	sich	PRON	-	0:16:28.231000	0:16:29.545000
 .	-	-	-	0:16:28.231000	0:16:29.545000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:29.545000" end="0:16:30.211000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:29.545000" end="0:16:30.211000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:16:29.545000	0:16:30.211000
 haben	haben	AUX	-	0:16:29.545000	0:16:30.211000
 jetzt	jetzt	ADV	-	0:16:29.545000	0:16:30.211000
 schon	schon	ADV	-	0:16:29.545000	0:16:30.211000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:29.545000" end="0:16:30.211000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:29.545000" end="0:16:30.211000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:16:29.545000	0:16:30.211000
 es	ich	PRON	-	0:16:29.545000	0:16:30.211000
 eh	eh	ADV	-	0:16:29.545000	0:16:30.211000
 nichts	nichts	PRON	-	0:16:29.545000	0:16:30.211000
 .	-	-	-	0:16:29.545000	0:16:30.211000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:30.211000" end="0:16:34.078000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:30.211000" end="0:16:34.078000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 angenehm	angenehm	ADJ	-	0:16:30.211000	0:16:31.345000
 warm	warm	ADJ	-	0:16:30.211000	0:16:31.345000
 und	und	CCONJ	-	0:16:30.211000	0:16:31.345000
@@ -4826,21 +4826,21 @@ geht	gehen	VERB	-	0:16:31.345000	0:16:34.078000
 dann	-	-	-	0:16:31.345000	0:16:34.078000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:34.078000" end="0:16:35.158000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:34.078000" end="0:16:35.158000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 gibt	geben	VERB	-	0:16:34.078000	0:16:35.158000
 es	ich	PRON	-	0:16:34.078000	0:16:35.158000
 eh	eh	ADV	-	0:16:34.078000	0:16:35.158000
 nichts	nichts	PRON	-	0:16:34.078000	0:16:35.158000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:35.158000" end="0:16:35.505000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:35.158000" end="0:16:35.505000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:16:35.158000	0:16:35.505000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:35.158000" end="0:16:35.505000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:35.158000" end="0:16:35.505000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:16:35.158000	0:16:35.505000
 .	-	-	-	0:16:35.158000	0:16:35.505000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:35.505000" end="0:16:39.065000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:35.505000" end="0:16:39.065000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 überhaupt	-	-	-	0:16:35.505000	0:16:36.218000
 _leiwand_	-	-	-	0:16:35.505000	0:16:36.218000
 .	-	-	-	0:16:35.505000	0:16:36.218000
@@ -4852,7 +4852,7 @@ mir	sich	PRON	-	0:16:36.218000	0:16:39.065000
 schon	schon	ADV	-	0:16:36.218000	0:16:39.065000
 .	-	-	-	0:16:36.218000	0:16:39.065000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:36.218000" end="0:16:44.798000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:36.218000" end="0:16:44.798000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 gerade	gerade	ADV	-	0:16:36.218000	0:16:39.065000
 vorher	vorher	ADV	-	0:16:36.218000	0:16:39.065000
@@ -4880,10 +4880,10 @@ haben	haben	AUX	-	0:16:41.098000	0:16:44.798000
 und	und	CCONJ	-	0:16:41.098000	0:16:44.798000
 hin	hin	ADV	-	0:16:41.098000	0:16:44.798000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:44.798000" end="0:16:45.205000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:44.798000" end="0:16:45.205000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:44.798000	0:16:45.205000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:44.798000" end="0:16:52.105000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:44.798000" end="0:16:52.105000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:44.798000	0:16:45.205000
 her	her	ADV	-	0:16:44.798000	0:16:45.205000
 .	-	-	-	0:16:44.798000	0:16:45.205000
@@ -4911,7 +4911,7 @@ mit	mit	ADP	-	0:16:47.118000	0:16:52.105000
 und	und	CCONJ	-	0:16:47.118000	0:16:52.105000
 .	-	-	-	0:16:47.118000	0:16:52.105000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:52.105000" end="0:16:56.425000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:52.105000" end="0:16:56.425000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	VERB	-	0:16:52.105000	0:16:54.751000
 so	so	ADV	-	0:16:52.105000	0:16:54.751000
 ja	ja	ADV	-	0:16:52.105000	0:16:54.751000
@@ -4933,16 +4933,16 @@ mehr	mehr	ADV	-	0:16:54.751000	0:16:56.018000
 oder	oder	CCONJ	-	0:16:56.018000	0:16:56.425000
 ?	-	-	-	0:16:56.018000	0:16:56.425000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:56.018000" end="0:16:56.918000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:56.018000" end="0:16:56.918000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 doch	doch	CCONJ	-	0:16:56.018000	0:16:56.425000
 das	der	DET	-	0:16:56.425000	0:16:56.918000
 glaubst	glauben	ADV	-	0:16:56.425000	0:16:56.918000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:16:56.918000" end="0:16:57.285000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:56.918000" end="0:16:57.285000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:16:56.918000	0:16:57.285000
 ?	-	-	-	0:16:56.918000	0:16:57.285000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:16:56.918000" end="0:17:04.405000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:16:56.918000" end="0:17:04.405000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:16:56.918000	0:16:57.285000
 nur	nur	ADV	-	0:16:56.918000	0:16:57.285000
 du	du	PRON	-	0:16:57.285000	0:16:57.531000
@@ -4978,12 +4978,12 @@ sagt	sagen	VERB	-	0:17:02.151000	0:17:04.405000
 auch	auch	ADV	-	0:17:02.151000	0:17:04.405000
 .	-	-	-	0:17:02.151000	0:17:04.405000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:04.405000" end="0:17:05.431000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:04.405000" end="0:17:05.431000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:17:04.405000	0:17:05.431000
 .	-	-	-	0:17:04.405000	0:17:05.431000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:05.431000" end="0:17:09.915000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:05.431000" end="0:17:09.915000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:17:05.431000	0:17:06.877000
 ist	sein	AUX	-	0:17:05.431000	0:17:06.877000
 so	so	ADV	-	0:17:05.431000	0:17:06.877000
@@ -5005,21 +5005,21 @@ kein	-	-	-	0:17:08.631000	0:17:09.915000
 richtiger	-	-	-	0:17:08.631000	0:17:09.915000
 [Ruppersdorfer]S	-	-	-	0:17:08.631000	0:17:09.915000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:09.920000" end="0:17:10.586000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:09.920000" end="0:17:10.586000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:17:09.920000	0:17:10.586000
 so	so	ADV	-	0:17:09.920000	0:17:10.586000
 .	-	-	-	0:17:09.920000	0:17:10.586000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:09.920000" end="0:17:10.586000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:09.920000" end="0:17:10.586000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 glaube	-	-	-	0:17:09.920000	0:17:10.586000
 ich	-	-	-	0:17:09.920000	0:17:10.586000
 .	-	-	-	0:17:09.920000	0:17:10.586000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:10.586000" end="0:17:11.656000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:10.586000" end="0:17:11.656000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:10.586000	0:17:11.656000
 .	-	-	-	0:17:10.586000	0:17:11.656000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:10.586000" end="0:17:11.656000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:10.586000" end="0:17:11.656000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *kennst*	-	-	-	0:17:10.586000	0:17:11.656000
 es	-	-	-	0:17:10.586000	0:17:11.656000
 ja	-	-	-	0:17:10.586000	0:17:11.656000
@@ -5027,21 +5027,21 @@ eh	-	-	-	0:17:10.586000	0:17:11.656000
 die	-	-	-	0:17:10.586000	0:17:11.656000
 .	-	-	-	0:17:10.586000	0:17:11.656000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:11.656000" end="0:17:13.358000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:11.656000" end="0:17:13.358000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 so	so	ADV	-	0:17:11.656000	0:17:13.358000
 ist	sein	AUX	-	0:17:11.656000	0:17:13.358000
 anders	anders	ADV	-	0:17:11.656000	0:17:13.358000
 ,	-	-	-	0:17:11.656000	0:17:13.358000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:11.656000" end="0:17:13.358000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:11.656000" end="0:17:13.358000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	DET	-	0:17:11.656000	0:17:13.358000
 komische	komische	ADJ	-	0:17:11.656000	0:17:13.358000
 Volk	Volk	NOUN	-	0:17:11.656000	0:17:13.358000
 .	-	-	-	0:17:11.656000	0:17:13.358000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:13.358000" end="0:17:15.877000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:13.358000" end="0:17:15.877000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:13.358000	0:17:13.671000
 .	-	-	-	0:17:13.358000	0:17:13.671000
 <pause duration="1,1s"/>
@@ -5051,7 +5051,7 @@ eh	eh	ADV	-	0:17:13.671000	0:17:15.877000
 halber	halb	ADV	-	0:17:13.671000	0:17:15.877000
 .	-	-	-	0:17:13.671000	0:17:15.877000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:15.877000" end="0:17:18.871000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:15.877000" end="0:17:18.871000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:17:15.877000	0:17:18.871000
 ,	-	-	-	0:17:15.877000	0:17:18.871000
 nicht	nicht	PART	-	0:17:15.877000	0:17:18.871000
@@ -5063,15 +5063,15 @@ ein	einen	DET	-	0:17:15.877000	0:17:18.871000
 zehntel	zehntel	NOUN	-	0:17:15.877000	0:17:18.871000
 .	-	-	-	0:17:15.877000	0:17:18.871000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:18.871000" end="0:17:20.098000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:18.871000" end="0:17:20.098000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:20.098000" end="0:17:20.698000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:20.098000" end="0:17:20.698000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Deppen	Deppen	NOUN	-	0:17:20.098000	0:17:20.698000
 .	-	-	-	0:17:20.098000	0:17:20.698000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:20.698000" end="0:17:22.089000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:20.698000" end="0:17:22.089000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:22.089000" end="0:17:27.483000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:22.089000" end="0:17:27.483000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:17:22.089000	0:17:24.589000
 sonst	sonst	ADV	-	0:17:22.089000	0:17:24.589000
 im	im	ADP	-	0:17:22.089000	0:17:24.589000
@@ -5092,7 +5092,7 @@ bissel	-	-	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:17:24.589000	0:17:27.4
 eine	-	-	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:17:24.589000	0:17:27.483000
 komische	-	-	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:17:24.589000	0:17:27.483000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:27.483000" end="0:17:30.278000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:27.483000" end="0:17:30.278000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:17:27.483000	0:17:29.418000
 die	der	PRON	-	0:17:27.483000	0:17:29.418000
 ORT	-	-	-	0:17:27.483000	0:17:29.418000
@@ -5108,12 +5108,12 @@ mir	sich	PRON	-	0:17:29.418000	0:17:29.911000
 vor	vor	ADP	-	0:17:29.911000	0:17:30.278000
 .	-	-	-	0:17:29.911000	0:17:30.278000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:29.911000" end="0:17:30.645000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:29.911000" end="0:17:30.645000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *findest*	-	-	-	0:17:29.911000	0:17:30.278000
 schon	-	-	-	0:17:30.278000	0:17:30.645000
 ?	-	-	-	0:17:30.278000	0:17:30.645000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:30.645000" end="0:17:36.111000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:30.645000" end="0:17:36.111000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:17:30.645000	0:17:32.258000
 die	der	PRON	-	0:17:30.645000	0:17:32.258000
@@ -5132,11 +5132,11 @@ gut	gut	ADJ	-	0:17:32.258000	0:17:35.205000
 früher	früh	ADJ	-	0:17:35.205000	0:17:36.111000
 .	-	-	-	0:17:35.205000	0:17:36.111000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:36.111000" end="0:17:36.518000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:36.111000" end="0:17:36.518000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:36.111000	0:17:36.518000
 .	-	-	-	0:17:36.111000	0:17:36.518000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:36.518000" end="0:17:39.711000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:36.518000" end="0:17:39.711000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 was	was	PRON	-	0:17:36.518000	0:17:39.711000
 hat	haben	AUX	-	0:17:36.518000	0:17:39.711000
@@ -5145,7 +5145,7 @@ immer	immer	ADV	-	0:17:36.518000	0:17:39.711000
 gesagt	sagen	VERB	-	0:17:36.518000	0:17:39.711000
 ?	-	-	-	0:17:36.518000	0:17:39.711000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:36.518000" end="0:17:39.711000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:36.518000" end="0:17:39.711000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 die	der	DET	-	0:17:36.518000	0:17:39.711000
 wer	wer	PRON	-	0:17:36.518000	0:17:39.711000
@@ -5153,7 +5153,7 @@ anti	anti	VERB	-	0:17:36.518000	0:17:39.711000
 gell	gell	ADJ	-	0:17:36.518000	0:17:39.711000
 ?	-	-	-	0:17:36.518000	0:17:39.711000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:39.711000" end="0:17:42.418000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:39.711000" end="0:17:42.418000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:17:39.711000	0:17:42.418000
 na	na	X	-	0:17:39.711000	0:17:42.418000
 ,	-	-	-	0:17:39.711000	0:17:42.418000
@@ -5168,7 +5168,7 @@ und	und	CCONJ	-	0:17:39.711000	0:17:42.418000
 da	da	ADV	-	0:17:39.711000	0:17:42.418000
 .	-	-	-	0:17:39.711000	0:17:42.418000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:42.418000" end="0:17:44.218000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:42.418000" end="0:17:44.218000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:17:42.418000	0:17:44.218000
 habe	habe	AUX	-	0:17:42.418000	0:17:44.218000
 ich	ich	PRON	-	0:17:42.418000	0:17:44.218000
@@ -5182,7 +5182,7 @@ mehr	mehr	ADV	-	0:17:42.418000	0:17:44.218000
 gesehen	sehen	VERB	-	0:17:42.418000	0:17:44.218000
 .	-	-	-	0:17:42.418000	0:17:44.218000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:44.218000" end="0:17:55.658000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:44.218000" end="0:17:55.658000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:17:44.218000	0:17:46.158000
 ja	ja	ADV	-	0:17:44.218000	0:17:46.158000
 oft	oft	ADV	-	0:17:44.218000	0:17:46.158000
@@ -5227,7 +5227,7 @@ ja	ja	ADV	-	0:17:54.945000	0:17:55.658000
 nicht	nicht	PART	-	0:17:54.945000	0:17:55.658000
 .	-	-	-	0:17:54.945000	0:17:55.658000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:54.945000" end="0:17:57.138000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:54.945000" end="0:17:57.138000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:17:54.945000	0:17:55.658000
 sonst	sonst	ADV	KONJ ProgKon ProgKonTyp ProgLes TunPProg tun_konj	0:17:54.945000	0:17:55.658000
 täten	tun	VERB	KONJ ProgKon ProgKonTyp ProgLes TunPProg tun_konj	0:17:54.945000	0:17:55.658000
@@ -5243,7 +5243,7 @@ es)	ich	PRON	-	0:17:56.118000	0:17:57.138000
 kommen	kommen	VERB	-	0:17:56.118000	0:17:57.138000
 .	-	-	-	0:17:56.118000	0:17:57.138000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:17:57.138000" end="0:17:59.585000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:57.138000" end="0:17:59.585000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	0:17:57.138000	0:17:59.585000
 .	-	-	-	0:17:57.138000	0:17:59.585000
 <pause duration="0,6s"/>
@@ -5253,10 +5253,10 @@ drei	drei	NUM	-	0:17:57.138000	0:17:59.585000
 Wünschen	Wunsch	NOUN	-	0:17:57.138000	0:17:59.585000
 .	-	-	-	0:17:57.138000	0:17:59.585000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:17:59.585000" end="0:18:00.105000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:17:59.585000" end="0:18:00.105000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:17:59.585000	0:18:00.105000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:00.105000" end="0:18:03.505000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:00.105000" end="0:18:03.505000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 was	-	-	-	0:18:00.105000	0:18:03.505000
 *wünschst*	-	-	-	0:18:00.105000	0:18:03.505000
@@ -5264,7 +5264,7 @@ dir	-	-	-	0:18:00.105000	0:18:03.505000
 denn	-	-	-	0:18:00.105000	0:18:03.505000
 ?	-	-	-	0:18:00.105000	0:18:03.505000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:03.505000" end="0:18:08.978000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:03.505000" end="0:18:08.978000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,8s"/>
 was	was	PRON	-	0:18:03.505000	0:18:07.538000
 ?	-	-	-	0:18:03.505000	0:18:07.538000
@@ -5272,21 +5272,21 @@ was	was	PRON	-	0:18:03.505000	0:18:07.538000
 was	was	PRON	-	0:18:07.538000	0:18:08.978000
 ich	ich	PRON	-	0:18:07.538000	0:18:08.978000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:08.978000" end="0:18:09.998000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:08.978000" end="0:18:09.998000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:18:08.978000	0:18:09.998000
 jetzt	jetzt	ADV	-	0:18:08.978000	0:18:09.998000
 keiner	kein	PRON	-	0:18:08.978000	0:18:09.998000
 einbricht	einbrechen	VERB	-	0:18:08.978000	0:18:09.998000
 ?	-	-	-	0:18:08.978000	0:18:09.998000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:08.978000" end="0:18:09.998000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:08.978000" end="0:18:09.998000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:18:08.978000	0:18:09.998000
 wünsche	wünsche	VERB	-	0:18:08.978000	0:18:09.998000
 ?	-	-	-	0:18:08.978000	0:18:09.998000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:09.998000" end="0:18:10.551000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:09.998000" end="0:18:10.551000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:10.551000" end="0:18:15.305000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:10.551000" end="0:18:15.305000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:18:10.551000	0:18:12.358000
 jetzt	jetzt	ADV	-	0:18:10.551000	0:18:12.358000
 gerade	gerade	ADV	-	0:18:10.551000	0:18:12.358000
@@ -5307,7 +5307,7 @@ Terasse	Terasse	NOUN	-	0:18:12.358000	0:18:15.305000
 oder	oder	CCONJ	-	0:18:12.358000	0:18:15.305000
 ?	-	-	-	0:18:12.358000	0:18:15.305000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:15.305000" end="0:18:19.945000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:15.305000" end="0:18:19.945000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 sperrt	sperren	VERB	-	0:18:15.305000	0:18:19.945000
 sie	ich	PRON	-	0:18:15.305000	0:18:19.945000
@@ -5318,7 +5318,7 @@ Stübel	Stübel	NOUN	-	0:18:15.305000	0:18:19.945000
 auf	auf	ADP	-	0:18:15.305000	0:18:19.945000
 ?	-	-	-	0:18:15.305000	0:18:19.945000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:19.945000" end="0:18:24.998000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:19.945000" end="0:18:24.998000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:18:19.945000	0:18:20.885000
 glaube	glauben	VERB	-	0:18:19.945000	0:18:20.885000
 ich	ich	PRON	-	0:18:19.945000	0:18:20.885000
@@ -5328,21 +5328,21 @@ auch	auch	ADV	-	0:18:19.945000	0:18:20.885000
 <pause duration="0,6s"/>
 <pause duration="0,7s"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:24.998000" end="0:18:26.705000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:24.998000" end="0:18:26.705000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ähm	ähm	X	-	0:18:24.998000	0:18:26.705000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:26.705000" end="0:18:32.478000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:26.705000" end="0:18:32.478000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,9s"/>
 (hast	haben	AUX	-	0:18:26.705000	0:18:32.478000
 du	du	PRON	-	0:18:26.705000	0:18:32.478000
 die	der	DET	-	0:18:26.705000	0:18:32.478000
 Mama)	Mama	NOUN	-	0:18:26.705000	0:18:32.478000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:32.478000" end="0:18:34.218000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:32.478000" end="0:18:34.218000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:34.218000" end="0:18:36.131000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:34.218000" end="0:18:36.131000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 du	du	PRON	-	0:18:34.218000	0:18:36.131000
 darfst	dürfen	VERB	-	0:18:34.218000	0:18:36.131000
 jetzt	jetzt	ADV	-	0:18:34.218000	0:18:36.131000
@@ -5355,10 +5355,10 @@ die	der	DET	-	0:18:34.218000	0:18:36.131000
 Küche	Küche	NOUN	-	0:18:34.218000	0:18:36.131000
 .	-	-	-	0:18:34.218000	0:18:36.131000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:36.131000" end="0:18:36.911000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:36.131000" end="0:18:36.911000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:36.911000" end="0:18:39.005000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:36.911000" end="0:18:39.005000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:18:36.911000	0:18:39.005000
 der	der	DET	-	0:18:36.911000	0:18:39.005000
 NAME	NAME	NOUN	-	0:18:36.911000	0:18:39.005000
@@ -5370,10 +5370,10 @@ machen	machen	VERB	-	0:18:36.911000	0:18:39.005000
 müssen	müssen	VERB	-	0:18:36.911000	0:18:39.005000
 .	-	-	-	0:18:36.911000	0:18:39.005000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:39.005000" end="0:18:39.991000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:39.005000" end="0:18:39.991000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:39.991000" end="0:18:46.745000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:39.991000" end="0:18:46.745000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 na	na	INTJ	-	0:18:39.991000	0:18:46.745000
 doch	doch	ADV	-	0:18:39.991000	0:18:46.745000
@@ -5388,13 +5388,13 @@ Postkasten	Postkasten	NOUN	-	0:18:39.991000	0:18:46.745000
 an	an	ADP	-	0:18:39.991000	0:18:46.745000
 .	-	-	-	0:18:39.991000	0:18:46.745000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:46.745000" end="0:18:48.771000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:46.745000" end="0:18:48.771000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 na	na	X	-	0:18:46.745000	0:18:48.771000
 dann	dann	ADV	-	0:18:46.745000	0:18:48.771000
 .	-	-	-	0:18:46.745000	0:18:48.771000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:48.771000" end="0:18:50.098000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:48.771000" end="0:18:50.098000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:18:48.771000	0:18:50.098000
 *hast*	-	-	-	0:18:48.771000	0:18:50.098000
 schon	-	-	-	0:18:48.771000	0:18:50.098000
@@ -5403,15 +5403,15 @@ Wünsche	-	-	-	0:18:48.771000	0:18:50.098000
 frei	-	-	-	0:18:48.771000	0:18:50.098000
 ?	-	-	-	0:18:48.771000	0:18:50.098000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:50.098000" end="0:18:51.025000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:50.098000" end="0:18:51.025000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:18:50.098000	0:18:51.025000
 ?	-	-	-	0:18:50.098000	0:18:51.025000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:51.025000" end="0:18:51.558000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:51.025000" end="0:18:51.558000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:51.025000	0:18:51.558000
 .	-	-	-	0:18:51.025000	0:18:51.558000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:51.558000" end="0:18:56.198000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:51.558000" end="0:18:56.198000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:18:51.558000	0:18:52.638000
 wünsche	wünsche	VERB	-	0:18:51.558000	0:18:52.638000
 ich	ich	PRON	-	0:18:51.558000	0:18:52.638000
@@ -5421,18 +5421,18 @@ mir	sich	PRON	-	0:18:51.558000	0:18:52.638000
 ähm	ähm	PROPN	-	0:18:52.638000	0:18:56.198000
 .	-	-	-	0:18:52.638000	0:18:56.198000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:56.198000" end="0:18:57.411000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:56.198000" end="0:18:57.411000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:18:56.198000	0:18:57.411000
 dein	mein	DET	-	0:18:56.198000	0:18:57.411000
 Knoblauch	Knoblauch	NOUN	-	0:18:56.198000	0:18:57.411000
 wächst	wachsen	VERB	-	0:18:56.198000	0:18:57.411000
 .	-	-	-	0:18:56.198000	0:18:57.411000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:57.411000" end="0:18:59.411000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:57.411000" end="0:18:59.411000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:18:57.411000" end="0:18:59.411000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:57.411000" end="0:18:59.411000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:18:59.411000" end="0:19:01.738000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:18:59.411000" end="0:19:01.738000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:18:59.411000	0:19:01.738000
 es	ich	PRON	-	0:18:59.411000	0:19:01.738000
 viel	viel	ADV	-	0:18:59.411000	0:19:01.738000
@@ -5444,7 +5444,7 @@ zur	zur	ADP	-	0:18:59.411000	0:19:01.738000
 Abwechslung	Abwechslung	NOUN	-	0:18:59.411000	0:19:01.738000
 .	-	-	-	0:18:59.411000	0:19:01.738000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:01.738000" end="0:19:03.391000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:01.738000" end="0:19:03.391000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:01.738000	0:19:03.391000
 ,	-	-	-	0:19:01.738000	0:19:03.391000
 das	der	PRON	KONJ	0:19:01.738000	0:19:03.391000
@@ -5457,7 +5457,7 @@ schlecht	schlecht	ADJ	KONJ	0:19:01.738000	0:19:03.391000
 ja	ja	PART	-	0:19:01.738000	0:19:03.391000
 .	-	-	-	0:19:01.738000	0:19:03.391000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:03.391000" end="0:19:07.158000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:03.391000" end="0:19:07.158000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:19:03.391000	0:19:05.858000
 ,	-	-	-	0:19:03.391000	0:19:05.858000
@@ -5476,7 +5476,7 @@ echt	echt	ADJ	-	0:19:05.858000	0:19:07.158000
 taugen	taugen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK ProgKon ProgKonTyp ProgLes TunPProg VV circum std stdL- swV tunK tun_konj	0:19:05.858000	0:19:07.158000
 .	-	-	-	0:19:05.858000	0:19:07.158000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:07.158000" end="0:19:08.331000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:07.158000" end="0:19:08.331000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:19:07.158000	0:19:08.331000
 das	der	PRON	-	0:19:07.158000	0:19:08.331000
 glaube	glauben	VERB	-	0:19:07.158000	0:19:08.331000
@@ -5485,7 +5485,7 @@ eh	eh	ADV	-	0:19:07.158000	0:19:08.331000
 gleich	gleichen	ADV	-	0:19:07.158000	0:19:08.331000
 .	-	-	-	0:19:07.158000	0:19:08.331000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:08.331000" end="0:19:14.258000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:08.331000" end="0:19:14.258000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:19:08.331000	0:19:09.051000
 wird	werden	AUX	-	0:19:08.331000	0:19:09.051000
 ,	-	-	-	0:19:08.331000	0:19:09.051000
@@ -5502,7 +5502,7 @@ wirtschaftlichen	wirtschaftlich	ADJ	-	0:19:10.178000	0:19:14.258000
 Erfolg	Erfolg	NOUN	-	0:19:10.178000	0:19:14.258000
 .	-	-	-	0:19:10.178000	0:19:14.258000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:14.258000" end="0:19:15.651000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:14.258000" end="0:19:15.651000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:14.258000	0:19:15.651000
 den	der	PRON	-	0:19:14.258000	0:19:15.651000
 wünsche	wünsche	VERB	-	0:19:14.258000	0:19:15.651000
@@ -5511,7 +5511,7 @@ mir	sich	PRON	-	0:19:14.258000	0:19:15.651000
 auch	auch	ADV	-	0:19:14.258000	0:19:15.651000
 .	-	-	-	0:19:14.258000	0:19:15.651000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:15.651000" end="0:19:23.804000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:15.651000" end="0:19:23.804000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 was	was	PRON	-	0:19:15.651000	0:19:19.118000
 wünsche	wünsche	VERB	-	0:19:15.651000	0:19:19.118000
@@ -5522,24 +5522,24 @@ noch	noch	ADV	-	0:19:15.651000	0:19:19.118000
 <pause duration="4,2s"/>
 tja	tja	X	-	0:19:19.118000	0:19:23.804000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:23.804000" end="0:19:24.524000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:23.804000" end="0:19:24.524000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:24.524000" end="0:19:25.684000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:24.524000" end="0:19:25.684000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:19:24.524000	0:19:25.018000
 ist	sein	AUX	-	0:19:24.524000	0:19:25.018000
 die	der	DET	-	0:19:24.524000	0:19:25.018000
 Frage	Frage	NOUN	-	0:19:25.018000	0:19:25.684000
 .	-	-	-	0:19:25.018000	0:19:25.684000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:25.018000" end="0:19:25.684000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:25.018000" end="0:19:25.684000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:19:25.018000	0:19:25.684000
 Frau	Frau	NOUN	-	0:19:25.018000	0:19:25.684000
 für	für	ADP	-	0:19:25.018000	0:19:25.684000
 das	der	DET	-	0:19:25.018000	0:19:25.684000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:25.684000" end="0:19:27.264000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:25.684000" end="0:19:27.264000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:25.684000" end="0:19:27.264000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:25.684000" end="0:19:27.264000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Leben	Leben	NOUN	-	0:19:25.684000	0:19:27.264000
 wünscht	wünschen	VERB	-	0:19:25.684000	0:19:27.264000
 sich	sich	PRON	-	0:19:25.684000	0:19:27.264000
@@ -5548,7 +5548,7 @@ NAME	NAME	NOUN	-	0:19:25.684000	0:19:27.264000
 oder	oder	CCONJ	-	0:19:25.684000	0:19:27.264000
 ?	-	-	-	0:19:25.684000	0:19:27.264000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:27.264000" end="0:19:29.398000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:27.264000" end="0:19:29.398000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:27.264000	0:19:29.398000
 ,	-	-	-	0:19:27.264000	0:19:29.398000
 die	der	PRON	-	0:19:27.264000	0:19:29.398000
@@ -5560,7 +5560,7 @@ nicht	nicht	PART	-	0:19:27.264000	0:19:29.398000
 gefunden	finden	VERB	-	0:19:27.264000	0:19:29.398000
 .	-	-	-	0:19:27.264000	0:19:29.398000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:29.398000" end="0:19:30.964000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:29.398000" end="0:19:30.964000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:19:29.398000	0:19:30.964000
 die	-	-	-	0:19:29.398000	0:19:30.964000
 *wirst*	-	-	-	0:19:29.398000	0:19:30.964000
@@ -5569,12 +5569,12 @@ noch	-	-	-	0:19:29.398000	0:19:30.964000
 finden	-	-	-	0:19:29.398000	0:19:30.964000
 .	-	-	-	0:19:29.398000	0:19:30.964000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:30.964000" end="0:19:31.978000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:30.964000" end="0:19:31.978000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:19:30.964000	0:19:31.978000
 eh	eh	X	-	0:19:30.964000	0:19:31.978000
 .	-	-	-	0:19:30.964000	0:19:31.978000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:31.978000" end="0:19:34.831000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:31.978000" end="0:19:34.831000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 *brauchst*	-	-	-	0:19:31.978000	0:19:33.538000
 nicht	-	-	-	0:19:31.978000	0:19:33.538000
@@ -5591,22 +5591,22 @@ immer	immer	ADV	-	0:19:33.538000	0:19:34.831000
 dazu/	-	-	-	0:19:33.538000	0:19:34.831000
 .	-	-	-	0:19:33.538000	0:19:34.831000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:34.831000" end="0:19:35.824000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:34.831000" end="0:19:35.824000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (was	-	-	-	0:19:34.831000	0:19:35.824000
 hat	-	-	-	0:19:34.831000	0:19:35.824000
 denn	-	-	-	0:19:34.831000	0:19:35.824000
 dazu?)	-	-	-	0:19:34.831000	0:19:35.824000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:35.824000" end="0:19:36.471000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:35.824000" end="0:19:36.471000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	0:19:35.824000	0:19:36.471000
 ?	-	-	-	0:19:35.824000	0:19:36.471000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:36.471000" end="0:19:37.091000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:36.471000" end="0:19:37.091000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	-	-	-	0:19:36.471000	0:19:37.091000
 ich	-	-	-	0:19:36.471000	0:19:37.091000
 mir	-	-	-	0:19:36.471000	0:19:37.091000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:37.091000" end="0:19:38.811000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:37.091000" end="0:19:38.811000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass_du	dass	SCONJ	-	0:19:37.091000	0:19:38.811000
 dir	sich	PRON	-	0:19:37.091000	0:19:38.811000
 endlich	endlich	ADV	-	0:19:37.091000	0:19:38.811000
@@ -5615,7 +5615,7 @@ suchen	suchen	VERB	-	0:19:37.091000	0:19:38.811000
 sollst	sollen	NOUN	-	0:19:37.091000	0:19:38.811000
 .	-	-	-	0:19:37.091000	0:19:38.811000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:38.811000" end="0:19:40.004000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:38.811000" end="0:19:40.004000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:19:38.811000	0:19:40.004000
 warum	-	-	-	0:19:38.811000	0:19:40.004000
 hat	-	-	-	0:19:38.811000	0:19:40.004000
@@ -5624,7 +5624,7 @@ das	-	-	-	0:19:38.811000	0:19:40.004000
 gesagt	-	-	-	0:19:38.811000	0:19:40.004000
 ?	-	-	-	0:19:38.811000	0:19:40.004000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:40.004000" end="0:19:47.171000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:40.004000" end="0:19:47.171000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *weils*	-	-	-	0:19:40.004000	0:19:41.524000
 du	-	-	-	0:19:40.004000	0:19:41.524000
 gefragt	-	-	-	0:19:40.004000	0:19:41.524000
@@ -5658,14 +5658,14 @@ mir	sich	PRON	-	0:19:45.011000	0:19:47.171000
 gesagt	sagen	VERB	-	0:19:45.011000	0:19:47.171000
 ,	-	-	-	0:19:45.011000	0:19:47.171000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:47.171000" end="0:19:48.664000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:47.171000" end="0:19:48.664000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oh	oh	X	-	0:19:47.171000	0:19:48.664000
 je	je	X	-	0:19:47.171000	0:19:48.664000
 oh	oh	X	-	0:19:47.171000	0:19:48.664000
 je	je	ADV	-	0:19:47.171000	0:19:48.664000
 .	-	-	-	0:19:47.171000	0:19:48.664000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:47.171000" end="0:19:50.724000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:47.171000" end="0:19:50.724000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:19:47.171000	0:19:48.664000
 ist	sein	AUX	-	0:19:47.171000	0:19:48.664000
 denn	denn	ADV	-	0:19:47.171000	0:19:48.664000
@@ -5684,9 +5684,9 @@ ihren	mein	DET	-	0:19:48.664000	0:19:50.724000
 Beeren	Beere	NOUN	-	0:19:48.664000	0:19:50.724000
 ?	-	-	-	0:19:48.664000	0:19:50.724000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:19:50.724000" end="0:19:51.538000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:50.724000" end="0:19:51.538000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:19:51.538000" end="0:20:01.438000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:19:51.538000" end="0:20:01.438000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:19:51.538000	0:19:51.958000
 ich	ich	PRON	-	0:19:51.538000	0:19:51.958000
 habe	habe	AUX	-	0:19:51.538000	0:19:51.958000
@@ -5744,11 +5744,11 @@ geht	gehen	VERB	-	0:19:59.944000	0:20:00.984000
 dann	-	-	-	0:20:00.984000	0:20:01.438000
 *kannst*	-	-	-	0:20:00.984000	0:20:01.438000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:01.438000" end="0:20:03.131000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:01.438000" end="0:20:03.131000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:20:01.438000	0:20:03.131000
 .	-	-	-	0:20:01.438000	0:20:03.131000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:01.438000" end="0:20:06.411000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:01.438000" end="0:20:06.411000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (anfangen)	-	-	-	0:20:01.438000	0:20:03.131000
 Erdbeeren	-	-	-	0:20:01.438000	0:20:03.131000
 anpflanzen	-	-	-	0:20:01.438000	0:20:03.131000
@@ -5771,7 +5771,7 @@ gefunden	finden	VERB	-	0:20:04.918000	0:20:06.411000
 hat	haben	AUX	-	0:20:04.918000	0:20:06.411000
 .	-	-	-	0:20:04.918000	0:20:06.411000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:06.411000" end="0:20:11.598000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:06.411000" end="0:20:11.598000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:20:06.411000	0:20:09.344000
 das	der	PRON	-	0:20:06.411000	0:20:09.344000
 stimmt	stimmen	VERB	-	0:20:06.411000	0:20:09.344000
@@ -5779,7 +5779,7 @@ anscheinend	anscheinen	ADJ	-	0:20:06.411000	0:20:09.344000
 ja	ja	PART	-	0:20:06.411000	0:20:09.344000
 .	-	-	-	0:20:06.411000	0:20:09.344000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:09.344000" end="0:20:24.118000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:09.344000" end="0:20:24.118000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 _leiwand_	-	-	-	0:20:11.598000	0:20:12.478000
 .	-	-	-	0:20:11.598000	0:20:12.478000
 nein	nein	PART	-	0:20:12.478000	0:20:15.424000
@@ -5820,7 +5820,7 @@ ich	ich	PRON	-	0:20:23.484000	0:20:24.118000
 Ruhe	Ruhe	NOUN	-	0:20:23.484000	0:20:24.118000
 .	-	-	-	0:20:23.484000	0:20:24.118000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:24.118000" end="0:20:31.278000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:24.118000" end="0:20:31.278000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	ADV	-	0:20:24.118000	0:20:26.864000
 NAME	NAME	PROPN	-	0:20:24.118000	0:20:26.864000
@@ -5847,11 +5847,11 @@ zum	zum	ADP	-	0:20:29.811000	0:20:31.278000
 leben	leben	NOUN	-	0:20:29.811000	0:20:31.278000
 und	und	CCONJ	-	0:20:29.811000	0:20:31.278000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:31.278000" end="0:20:31.558000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:31.278000" end="0:20:31.558000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:20:31.278000	0:20:31.558000
 .	-	-	-	0:20:31.278000	0:20:31.558000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:31.558000" end="0:20:46.651000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:31.558000" end="0:20:46.651000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 natürlich	natürlich	ADV	-	0:20:31.558000	0:20:34.238000
 will	wollen	VERB	-	0:20:31.558000	0:20:34.238000
@@ -5918,32 +5918,32 @@ umhergefahren	umherfahren	VERB	-	0:20:46.038000	0:20:46.651000
 wenn	wenn	SCONJ	-	0:20:46.038000	0:20:46.651000
 es	ich	PRON	-	0:20:46.038000	0:20:46.651000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:46.038000" end="0:20:46.651000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:46.038000" end="0:20:46.651000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:20:46.038000	0:20:46.651000
 so	so	ADV	-	0:20:46.038000	0:20:46.651000
 .	-	-	-	0:20:46.038000	0:20:46.651000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:46.651000" end="0:20:47.204000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:46.651000" end="0:20:47.204000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:20:46.651000	0:20:47.204000
 vier	vier	NUM	-	0:20:46.651000	0:20:47.204000
 Stunden	Stunde	NOUN	-	0:20:46.651000	0:20:47.204000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:46.651000" end="0:20:47.204000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:46.651000" end="0:20:47.204000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:46.651000	0:20:47.204000
 .	-	-	-	0:20:46.651000	0:20:47.204000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:47.204000" end="0:20:47.964000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:47.204000" end="0:20:47.964000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 finster	finster	ADJ	-	0:20:47.204000	0:20:47.611000
 ist	sein	AUX	-	0:20:47.204000	0:20:47.611000
 .	-	-	-	0:20:47.204000	0:20:47.611000
 ich	ich	PRON	-	0:20:47.611000	0:20:47.964000
 meine	meinen	VERB	-	0:20:47.611000	0:20:47.964000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:47.964000" end="0:20:48.404000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:47.964000" end="0:20:48.404000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:47.964000	0:20:48.404000
 .	-	-	-	0:20:47.964000	0:20:48.404000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:20:48.404000" end="0:20:52.438000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:48.404000" end="0:20:52.438000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:20:48.404000	0:20:49.464000
 brauche	brauche	VERB	-	0:20:48.404000	0:20:49.464000
 ich	ich	PRON	-	0:20:48.404000	0:20:49.464000
@@ -5958,7 +5958,7 @@ weniger	wenig	ADV	-	0:20:49.464000	0:20:51.464000
 und	und	CCONJ	-	0:20:51.464000	0:20:52.438000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:20:52.438000" end="0:21:08.844000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:20:52.438000" end="0:21:08.844000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:20:52.438000	0:20:53.978000
 ,	-	-	-	0:20:52.438000	0:20:53.978000
 *wennst*	-	-	-	0:20:52.438000	0:20:53.978000
@@ -6042,13 +6042,13 @@ machen	machen	VERB	-	0:21:07.738000	0:21:08.844000
 oder	oder	CCONJ	-	0:21:07.738000	0:21:08.844000
 ?	-	-	-	0:21:07.738000	0:21:08.844000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:08.844000" end="0:21:09.931000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:08.844000" end="0:21:09.931000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:21:08.844000	0:21:09.931000
 eh	eh	ADV	-	0:21:08.844000	0:21:09.931000
 .	-	-	-	0:21:08.844000	0:21:09.931000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:08.844000" end="0:21:12.424000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:08.844000" end="0:21:12.424000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:21:09.931000	0:21:12.424000
 der	der	PRON	-	0:21:09.931000	0:21:12.424000
@@ -6065,12 +6065,12 @@ leben	leben	VERB	-	0:21:09.931000	0:21:12.424000
 ja	ja	PART	-	0:21:09.931000	0:21:12.424000
 .	-	-	-	0:21:09.931000	0:21:12.424000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:12.424000" end="0:21:13.191000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:12.424000" end="0:21:13.191000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:21:12.424000	0:21:13.191000
 sicher	sichern	ADJ	-	0:21:12.424000	0:21:13.191000
 .	-	-	-	0:21:12.424000	0:21:13.191000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:12.424000" end="0:21:19.938000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:12.424000" end="0:21:19.938000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 warum	warum	ADV	-	0:21:12.424000	0:21:13.191000
 muss	muss	VERB	-	0:21:12.424000	0:21:13.191000
 ich	ich	PRON	-	0:21:12.424000	0:21:13.191000
@@ -6103,7 +6103,7 @@ keine	kein	DET	-	0:21:18.398000	0:21:19.938000
 Ahnung	Ahnung	NOUN	-	0:21:18.398000	0:21:19.938000
 .	-	-	-	0:21:18.398000	0:21:19.938000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:19.938000" end="0:21:21.371000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:19.938000" end="0:21:21.371000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:21:19.938000	0:21:21.371000
 aber	aber	CCONJ	-	0:21:19.938000	0:21:21.371000
@@ -6114,7 +6114,7 @@ doch	doch	ADV	-	0:21:19.938000	0:21:21.371000
 eh	eh	ADV	-	0:21:19.938000	0:21:21.371000
 .	-	-	-	0:21:19.938000	0:21:21.371000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:21.371000" end="0:21:26.564000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:21.371000" end="0:21:26.564000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	ADV	-	0:21:21.371000	0:21:23.818000
 aber	aber	ADV	-	0:21:21.371000	0:21:23.818000
@@ -6138,7 +6138,7 @@ noch	noch	ADV	-	0:21:23.818000	0:21:26.564000
 mehr	mehr	PRON	-	0:21:23.818000	0:21:26.564000
 .	-	-	-	0:21:23.818000	0:21:26.564000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:26.564000" end="0:21:36.718000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:26.564000" end="0:21:36.718000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:21:26.564000	0:21:27.584000
 sicher	sichern	ADJ	-	0:21:26.564000	0:21:27.584000
 ,	-	-	-	0:21:26.564000	0:21:27.584000
@@ -6186,11 +6186,11 @@ zu	zu	PART	-	0:21:35.304000	0:21:36.718000
 viel	viel	PRON	-	0:21:35.304000	0:21:36.718000
 .	-	-	-	0:21:35.304000	0:21:36.718000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:36.718000" end="0:21:37.238000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:36.718000" end="0:21:37.238000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:21:36.718000	0:21:37.238000
 .	-	-	-	0:21:36.718000	0:21:37.238000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:37.238000" end="0:21:52.431000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:37.238000" end="0:21:52.431000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:21:37.238000	0:21:37.744000
 ich	ich	PRON	-	0:21:37.238000	0:21:37.744000
 mir	sich	PRON	-	0:21:37.238000	0:21:37.744000
@@ -6253,7 +6253,7 @@ einen	ein	DET	-	0:21:46.971000	0:21:52.431000
 brauchen	brauchen	VERB	-	0:21:46.971000	0:21:52.431000
 .	-	-	-	0:21:46.971000	0:21:52.431000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:52.431000" end="0:21:55.324000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:52.431000" end="0:21:55.324000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:21:52.431000	0:21:53.138000
 gesagt	sagen	VERB	-	0:21:52.431000	0:21:53.138000
 ,	-	-	-	0:21:52.431000	0:21:53.138000
@@ -6267,41 +6267,41 @@ Taschen	Tasche	VERB	-	0:21:54.244000	0:21:55.324000
 drin	drin	ADV	-	0:21:54.244000	0:21:55.324000
 .	-	-	-	0:21:54.244000	0:21:55.324000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:55.324000" end="0:21:55.871000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:55.324000" end="0:21:55.871000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:21:55.324000	0:21:55.871000
 ?	-	-	-	0:21:55.324000	0:21:55.871000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:55.871000" end="0:21:56.151000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:55.871000" end="0:21:56.151000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:55.871000	0:21:56.151000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:56.151000" end="0:21:56.744000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:56.151000" end="0:21:56.744000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:21:56.151000	0:21:56.744000
 .	-	-	-	0:21:56.151000	0:21:56.744000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:56.744000" end="0:21:58.478000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:56.744000" end="0:21:58.478000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (na	na	PROPN	-	0:21:56.744000	0:21:57.178000
 sicher	sichern	ADJ	-	0:21:56.744000	0:21:57.178000
 .)	-	-	-	0:21:56.744000	0:21:57.178000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:58.478000" end="0:21:58.964000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:58.478000" end="0:21:58.964000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:21:58.964000" end="0:21:59.724000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:58.964000" end="0:21:59.724000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:21:59.724000" end="0:22:01.951000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:21:59.724000" end="0:22:01.951000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hallo	hallo	PROPN	-	0:22:00.384000	0:22:00.984000
 .	-	-	-	0:22:00.384000	0:22:00.984000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:01.951000" end="0:22:02.791000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:01.951000" end="0:22:02.791000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 glaube	glauben	VERB	-	0:22:01.951000	0:22:02.791000
 ich	ich	PRON	-	0:22:01.951000	0:22:02.791000
 schon	schon	ADV	-	0:22:01.951000	0:22:02.791000
 .	-	-	-	0:22:01.951000	0:22:02.791000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:02.791000" end="0:22:04.231000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:02.791000" end="0:22:04.231000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:02.791000	0:22:04.231000
 ,	-	-	-	0:22:02.791000	0:22:04.231000
 *weiß*	-	-	-	0:22:02.791000	0:22:04.231000
@@ -6309,7 +6309,7 @@ es	-	-	-	0:22:02.791000	0:22:04.231000
 nicht	-	-	-	0:22:02.791000	0:22:04.231000
 .	-	-	-	0:22:02.791000	0:22:04.231000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:04.231000" end="0:22:06.924000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:04.231000" end="0:22:06.924000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 aber	aber	CCONJ	-	0:22:04.231000	0:22:06.924000
 du	du	PRON	KONJ	0:22:04.231000	0:22:06.924000
@@ -6319,10 +6319,10 @@ noch	noch	ADV	KONJ	0:22:04.231000	0:22:06.924000
 erfüllen	erfüllen	VERB	KONJ	0:22:04.231000	0:22:06.924000
 .	-	-	-	0:22:04.231000	0:22:06.924000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:06.926000" end="0:22:09.526000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:06.926000" end="0:22:09.526000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:09.526000" end="0:22:12.911000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:09.526000" end="0:22:12.911000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:22:09.526000	0:22:10.184000
 .	-	-	-	0:22:09.526000	0:22:10.184000
 ja	ja	ADV	-	0:22:10.184000	0:22:12.911000
@@ -6333,38 +6333,38 @@ weiß	weiß	VERB	-	0:22:10.184000	0:22:12.911000
 zwei	zwei	NUM	-	0:22:10.184000	0:22:12.911000
 .	-	-	-	0:22:10.184000	0:22:12.911000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:12.911000" end="0:22:14.558000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:12.911000" end="0:22:14.558000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:14.558000" end="0:22:15.984000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:14.558000" end="0:22:15.984000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:15.984000" end="0:22:17.124000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:15.984000" end="0:22:17.124000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:17.124000" end="0:22:17.911000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:17.124000" end="0:22:17.911000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sein	mein	DET	-	0:22:17.124000	0:22:17.911000
 Ex	Ex	NOUN	-	0:22:17.124000	0:22:17.911000
 .	-	-	-	0:22:17.124000	0:22:17.911000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:17.911000" end="0:22:19.151000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:17.911000" end="0:22:19.151000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:19.151000" end="0:22:19.504000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:19.151000" end="0:22:19.504000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:19.151000	0:22:19.504000
 .	-	-	-	0:22:19.151000	0:22:19.504000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:19.504000" end="0:22:21.331000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:19.504000" end="0:22:21.331000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:21.331000" end="0:22:22.731000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:21.331000" end="0:22:22.731000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 fort	fort	ADP	-	0:22:21.331000	0:22:22.731000
 .	-	-	-	0:22:21.331000	0:22:22.731000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:22.733000" end="0:22:27.640000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:22.733000" end="0:22:27.640000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:27.626000" end="0:22:31.738000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:27.626000" end="0:22:31.738000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:27.626000	0:22:31.738000
 ,	-	-	-	0:22:27.626000	0:22:31.738000
 das	der	DET	-	0:22:27.626000	0:22:31.738000
@@ -6379,20 +6379,20 @@ Laib	Laib	NOUN	-	0:22:27.626000	0:22:31.738000
 abholen	abholen	VERB	-	0:22:27.626000	0:22:31.738000
 .	-	-	-	0:22:27.626000	0:22:31.738000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:31.738000" end="0:22:33.398000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:31.738000" end="0:22:33.398000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:33.398000" end="0:22:34.338000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:33.398000" end="0:22:34.338000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:22:33.398000	0:22:34.338000
 steht	stehen	VERB	-	0:22:33.398000	0:22:34.338000
 bei	bei	ADP	-	0:22:33.398000	0:22:34.338000
 ihr	mein	PRON	-	0:22:33.398000	0:22:34.338000
 .	-	-	-	0:22:33.398000	0:22:34.338000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:34.340000" end="0:22:40.180000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:34.340000" end="0:22:40.180000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,8s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:40.173000" end="0:22:47.891000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:40.173000" end="0:22:47.891000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:22:40.173000	0:22:41.224000
 ,	-	-	-	0:22:40.173000	0:22:41.224000
 das	der	PRON	-	0:22:40.173000	0:22:41.224000
@@ -6416,10 +6416,10 @@ nach	nach	ADP	-	0:22:44.764000	0:22:47.891000
 Deutschland	Deutschland	PROPN	-	0:22:44.764000	0:22:47.891000
 .	-	-	-	0:22:44.764000	0:22:47.891000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:47.891000" end="0:22:49.638000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:47.891000" end="0:22:49.638000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:47.891000	0:22:49.638000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:47.891000" end="0:22:52.324000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:47.891000" end="0:22:52.324000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	KONJ	0:22:47.891000	0:22:49.638000
 könnte	können	VERB	KONJ	0:22:47.891000	0:22:49.638000
 ich	ich	PRON	KONJ	0:22:47.891000	0:22:49.638000
@@ -6442,12 +6442,12 @@ Betrieb	Betrieb	NOUN	KONJ	0:22:50.844000	0:22:52.324000
 wäre	sein	AUX	KONJ	0:22:50.844000	0:22:52.324000
 .	-	-	-	0:22:50.844000	0:22:52.324000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:52.324000" end="0:22:52.984000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:52.324000" end="0:22:52.984000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	VERB	-	0:22:52.324000	0:22:52.984000
 so	so	ADV	-	0:22:52.324000	0:22:52.984000
 .	-	-	-	0:22:52.324000	0:22:52.984000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:52.984000" end="0:22:59.824000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:52.984000" end="0:22:59.824000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sage	sage	VERB	-	0:22:52.984000	0:22:53.771000
 ich	ich	PRON	-	0:22:52.984000	0:22:53.771000
 jetzt	jetzt	ADV	-	0:22:52.984000	0:22:53.771000
@@ -6482,10 +6482,10 @@ mich	sich	PRON	-	0:22:58.911000	0:22:59.824000
 abgeholt	abholen	VERB	-	0:22:58.911000	0:22:59.824000
 ,	-	-	-	0:22:58.911000	0:22:59.824000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:22:59.824000" end="0:23:00.658000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:59.824000" end="0:23:00.658000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:59.824000	0:23:00.658000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:22:59.824000" end="0:23:11.951000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:22:59.824000" end="0:23:11.951000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:22:59.824000	0:23:00.658000
 gesagt	sagen	VERB	-	0:23:00.658000	0:23:00.944000
 ,	-	-	-	0:23:00.658000	0:23:00.944000
@@ -6545,9 +6545,9 @@ gesagt	-	-	-	0:23:10.511000	0:23:10.944000
 das	-	-	KONJ	0:23:10.944000	0:23:11.951000
 gleich	-	-	KONJ	0:23:10.944000	0:23:11.951000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:11.951000" end="0:23:13.098000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:11.951000" end="0:23:13.098000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:11.951000" end="0:23:18.464000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:11.951000" end="0:23:18.464000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (?)"	-	-	KONJ	0:23:11.951000	0:23:13.098000
 .	-	-	-	0:23:11.951000	0:23:13.098000
 noch	noch	ADV	-	0:23:13.098000	0:23:14.697000
@@ -6571,12 +6571,12 @@ auch	auch	ADV	-	0:23:14.697000	0:23:18.464000
 ((0,6s))/	-	-	-	0:23:14.697000	0:23:18.464000
 .	-	-	-	0:23:14.697000	0:23:18.464000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:18.464000" end="0:23:19.417000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:18.464000" end="0:23:19.417000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:23:18.464000	0:23:19.417000
 sicher	sichern	ADJ	-	0:23:18.464000	0:23:19.417000
 .	-	-	-	0:23:18.464000	0:23:19.417000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:19.417000" end="0:23:22.637000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:19.417000" end="0:23:22.637000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:23:19.417000	0:23:20.237000
 *weiß*	-	-	-	0:23:19.417000	0:23:20.237000
@@ -6594,7 +6594,7 @@ oder	oder	CCONJ	-	0:23:20.844000	0:23:22.637000
 was	was	PRON	-	0:23:20.844000	0:23:22.637000
 da	da	ADV	-	0:23:20.844000	0:23:22.637000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:22.637000" end="0:23:24.184000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:22.637000" end="0:23:24.184000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:23:22.637000	0:23:24.184000
 ja	ja	ADV	-	0:23:22.637000	0:23:24.184000
 da	da	ADV	-	0:23:22.637000	0:23:24.184000
@@ -6603,7 +6603,7 @@ sie	ich	PRON	-	0:23:22.637000	0:23:24.184000
 immer/	-	-	-	0:23:22.637000	0:23:24.184000
 .	-	-	-	0:23:22.637000	0:23:24.184000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:22.637000" end="0:23:24.837000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:22.637000" end="0:23:24.837000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Deutschland	Deutschland	PROPN	-	0:23:22.637000	0:23:24.184000
 und	und	CCONJ	-	0:23:22.637000	0:23:24.184000
 lauter	laut	DET	-	0:23:22.637000	0:23:24.184000
@@ -6611,7 +6611,7 @@ so	so	ADV	-	0:23:24.184000	0:23:24.837000
 Sachen	Sache	NOUN	-	0:23:24.184000	0:23:24.837000
 .	-	-	-	0:23:24.184000	0:23:24.837000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:24.837000" end="0:23:26.064000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:24.837000" end="0:23:26.064000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:23:24.837000	0:23:26.064000
 haben	haben	AUX	-	0:23:24.837000	0:23:26.064000
 sie	ich	PRON	-	0:23:24.837000	0:23:26.064000
@@ -6620,7 +6620,7 @@ die	der	DET	-	0:23:24.837000	0:23:26.064000
 Richtigen	Richtige	NOUN	-	0:23:24.837000	0:23:26.064000
 .	-	-	-	0:23:24.837000	0:23:26.064000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:26.064000" end="0:23:42.337000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:26.064000" end="0:23:42.337000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:23:26.064000	0:23:26.351000
 meine	meinen	VERB	-	0:23:26.064000	0:23:26.351000
 ,	-	-	-	0:23:26.064000	0:23:26.351000
@@ -6684,10 +6684,10 @@ oder	oder	CCONJ	-	0:23:40.084000	0:23:42.337000
 so	so	ADV	-	0:23:40.084000	0:23:42.337000
 .	-	-	-	0:23:40.084000	0:23:42.337000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:42.337000" end="0:23:42.864000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:42.337000" end="0:23:42.864000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:42.337000	0:23:42.864000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:42.864000" end="0:23:52.404000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:42.864000" end="0:23:52.404000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:23:42.864000	0:23:43.611000
 muss	muss	NOUN	-	0:23:42.864000	0:23:43.611000
 schon	schon	ADV	-	0:23:42.864000	0:23:43.611000
@@ -6727,7 +6727,7 @@ der	der	DET	-	0:23:50.384000	0:23:52.404000
 Stress	Stress	NOUN	-	0:23:50.384000	0:23:52.404000
 .	-	-	-	0:23:50.384000	0:23:52.404000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:52.404000" end="0:23:54.597000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:52.404000" end="0:23:54.597000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:23:52.404000	0:23:54.597000
 sicher	sichern	ADJ	-	0:23:52.404000	0:23:54.597000
@@ -6737,7 +6737,7 @@ nur	nur	ADV	-	0:23:52.404000	0:23:54.597000
 zur/	-	-	-	0:23:52.404000	0:23:54.597000
 .	-	-	-	0:23:52.404000	0:23:54.597000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:54.597000" end="0:23:56.737000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:54.597000" end="0:23:56.737000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ich	ich	PRON	-	0:23:54.597000	0:23:55.477000
 glaube	glauben	VERB	-	0:23:54.597000	0:23:55.477000
@@ -6751,7 +6751,7 @@ dahin	dahin	ADV	-	0:23:55.477000	0:23:56.737000
 legen	legen	VERB	-	0:23:55.477000	0:23:56.737000
 .	-	-	-	0:23:55.477000	0:23:56.737000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:56.737000" end="0:23:59.017000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:56.737000" end="0:23:59.017000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ha	ha	PRON	-	0:23:56.737000	0:23:59.017000
 haben	haben	AUX	-	0:23:56.737000	0:23:59.017000
@@ -6762,15 +6762,15 @@ die	der	DET	-	0:23:56.737000	0:23:59.017000
 Arbeit	Arbeit	NOUN	-	0:23:56.737000	0:23:59.017000
 .	-	-	-	0:23:56.737000	0:23:59.017000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:23:56.737000" end="0:23:59.617000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:56.737000" end="0:23:59.617000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:23:59.617000" end="0:24:00.797000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:23:59.617000" end="0:24:00.797000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:23:59.617000	0:24:00.797000
 gut	gut	ADJ	-	0:23:59.617000	0:24:00.797000
 .	-	-	-	0:23:59.617000	0:24:00.797000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:00.797000" end="0:24:03.837000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:00.797000" end="0:24:03.837000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 darfst	dürfen	PROPN	-	0:24:00.797000	0:24:02.171000
 dir	sich	PRON	-	0:24:00.797000	0:24:02.171000
 was	was	PRON	-	0:24:00.797000	0:24:02.171000
@@ -6783,7 +6783,7 @@ was	was	PRON	-	0:24:02.171000	0:24:03.837000
 nehmen	nehmen	VERB	-	0:24:02.171000	0:24:03.837000
 .	-	-	-	0:24:02.171000	0:24:03.837000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:03.837000" end="0:24:06.097000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:03.837000" end="0:24:06.097000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Deutsch	Deutsch	ADJ	-	0:24:03.837000	0:24:06.097000
 in	in	ADP	-	0:24:03.837000	0:24:06.097000
 Österreich	Österreich	PROPN	-	0:24:03.837000	0:24:06.097000
@@ -6798,13 +6798,13 @@ oder	oder	CCONJ	-	0:24:03.837000	0:24:06.097000
 ?	-	-	-	0:24:03.837000	0:24:06.097000
 .	-	-	-	0:24:03.837000	0:24:06.097000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:06.097000" end="0:24:08.591000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:06.097000" end="0:24:08.591000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 eigentlich	eigentlich	ADV	-	0:24:06.097000	0:24:08.591000
 schon	schon	ADV	-	0:24:06.097000	0:24:08.591000
 .	-	-	-	0:24:06.097000	0:24:08.591000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:08.591000" end="0:24:11.037000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:08.591000" end="0:24:11.037000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ich	ich	PRON	-	0:24:08.591000	0:24:10.277000
 lege	legen	VERB	-	0:24:08.591000	0:24:10.277000
@@ -6813,9 +6813,9 @@ gerade	gerade	ADV	-	0:24:08.591000	0:24:10.277000
 dazu	dazu	ADV	-	0:24:10.277000	0:24:11.037000
 .	-	-	-	0:24:10.277000	0:24:11.037000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:10.277000" end="0:24:11.617000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:10.277000" end="0:24:11.617000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:11.617000" end="0:24:19.804000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:11.617000" end="0:24:19.804000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 machen	machen	VERB	-	0:24:11.617000	0:24:14.011000
 wir	ich	PRON	-	0:24:11.617000	0:24:14.011000
@@ -6848,7 +6848,7 @@ nicht	nicht	PART	-	0:24:16.931000	0:24:19.804000
 so	so	ADV	-	0:24:16.931000	0:24:19.804000
 ?	-	-	-	0:24:16.931000	0:24:19.804000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:19.804000" end="0:24:22.344000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:19.804000" end="0:24:22.344000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 was	was	PRON	-	0:24:19.804000	0:24:21.517000
 heißt	heißen	VERB	-	0:24:19.804000	0:24:21.517000
@@ -6863,10 +6863,10 @@ reden	-	-	-	0:24:21.517000	0:24:22.344000
 miteinander	-	-	-	0:24:21.517000	0:24:22.344000
 ?	-	-	-	0:24:21.517000	0:24:22.344000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:22.344000" end="0:24:22.884000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:22.344000" end="0:24:22.884000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:22.344000	0:24:22.884000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:22.884000" end="0:24:23.817000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:22.884000" end="0:24:23.817000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:22.884000	0:24:23.817000
 sicher	sichern	ADJ	-	0:24:22.884000	0:24:23.817000
 verstehe	verstehen	VERB	-	0:24:22.884000	0:24:23.817000
@@ -6874,7 +6874,7 @@ ich	ich	PRON	-	0:24:22.884000	0:24:23.817000
 es	ich	PRON	-	0:24:22.884000	0:24:23.817000
 .	-	-	-	0:24:22.884000	0:24:23.817000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:23.817000" end="0:24:30.891000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:23.817000" end="0:24:30.891000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	ADV	-	0:24:25.304000	0:24:30.891000
 also	also	ADV	-	0:24:25.304000	0:24:30.891000
@@ -6885,7 +6885,7 @@ reden	reden	VERB	-	0:24:25.304000	0:24:30.891000
 ja	ja	PART	-	0:24:25.304000	0:24:30.891000
 .	-	-	-	0:24:25.304000	0:24:30.891000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:30.891000" end="0:24:32.991000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:30.891000" end="0:24:32.991000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:24:30.891000	0:24:32.991000
 rede	rede	VERB	-	0:24:30.891000	0:24:32.991000
 oft	oft	ADV	-	0:24:30.891000	0:24:32.991000
@@ -6896,7 +6896,7 @@ meine	meinen	DET	-	0:24:30.891000	0:24:32.991000
 Eltern	Eltern	NOUN	-	0:24:30.891000	0:24:32.991000
 .	-	-	-	0:24:30.891000	0:24:32.991000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:32.991000" end="0:24:38.217000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:32.991000" end="0:24:38.217000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:32.991000	0:24:35.244000
 ,	-	-	-	0:24:32.991000	0:24:35.244000
 das	der	PRON	-	0:24:32.991000	0:24:35.244000
@@ -6919,7 +6919,7 @@ die	der	DET	-	0:24:35.244000	0:24:38.217000
 Eltern	Eltern	NOUN	-	0:24:35.244000	0:24:38.217000
 .	-	-	-	0:24:35.244000	0:24:38.217000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:38.217000" end="0:24:40.657000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:38.217000" end="0:24:40.657000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:38.217000	0:24:40.657000
 aber	aber	ADV	-	0:24:38.217000	0:24:40.657000
 deine	mein	DET	-	0:24:38.217000	0:24:40.657000
@@ -6934,12 +6934,12 @@ Dialekt	Dialekt	NOUN	-	0:24:38.217000	0:24:40.657000
 oder	oder	CCONJ	-	0:24:38.217000	0:24:40.657000
 ?	-	-	-	0:24:38.217000	0:24:40.657000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:40.657000" end="0:24:41.637000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:40.657000" end="0:24:41.637000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	was	PRON	-	0:24:40.657000	0:24:41.637000
 ?	-	-	-	0:24:40.657000	0:24:41.637000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:41.637000" end="0:24:51.271000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:41.637000" end="0:24:51.271000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 jedes	jed	DET	-	0:24:41.637000	0:24:43.044000
 Mal	Mal	NOUN	-	0:24:41.637000	0:24:43.044000
 ,	-	-	-	0:24:41.637000	0:24:43.044000
@@ -6980,21 +6980,21 @@ oh	-	-	-	0:24:43.784000	0:24:51.271000
 ja	-	-	-	0:24:43.784000	0:24:51.271000
 ja	-	-	-	0:24:43.784000	0:24:51.271000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:51.271000" end="0:24:51.951000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:51.271000" end="0:24:51.951000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gehobenes	gehoben	ADJ	-	0:24:51.271000	0:24:51.951000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:51.271000" end="0:24:54.024000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:51.271000" end="0:24:54.024000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 geschwungenes	-	-	-	0:24:51.271000	0:24:51.951000
 Hochdeutsch	-	-	-	0:24:51.951000	0:24:54.024000
 ge/	-	-	-	0:24:51.951000	0:24:54.024000
 gehobener	-	-	-	0:24:51.951000	0:24:54.024000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:54.024000" end="0:24:55.511000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:54.024000" end="0:24:55.511000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gehobene	gehoben	ADJ	-	0:24:54.024000	0:24:55.511000
 Umgangssprache	Umgangssprache	NOUN	-	0:24:54.024000	0:24:55.511000
 .	-	-	-	0:24:54.024000	0:24:55.511000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:54.024000" end="0:24:58.924000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:54.024000" end="0:24:58.924000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:24:54.024000	0:24:55.511000
 *kannst*	-	-	-	0:24:54.024000	0:24:55.511000
 auch	-	-	-	0:24:54.024000	0:24:55.511000
@@ -7015,22 +7015,22 @@ weiß	weiß	VERB	-	0:24:57.591000	0:24:58.924000
 nicht	nicht	PART	-	0:24:57.591000	0:24:58.924000
 .	-	-	-	0:24:57.591000	0:24:58.924000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:24:58.924000" end="0:24:59.791000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:58.924000" end="0:24:59.791000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:58.924000	0:24:59.791000
 .	-	-	-	0:24:58.924000	0:24:59.791000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:24:59.791000" end="0:25:00.317000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:24:59.791000" end="0:25:00.317000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:24:59.791000	0:25:00.317000
 habe	habe	AUX	-	0:24:59.791000	0:25:00.317000
 deine	mein	DET	-	0:24:59.791000	0:25:00.317000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:00.317000" end="0:25:00.957000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:00.317000" end="0:25:00.957000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:25:00.317000	0:25:00.957000
 ich	ich	PRON	-	0:25:00.317000	0:25:00.957000
 nicht	nicht	PART	-	0:25:00.317000	0:25:00.957000
 .	-	-	-	0:25:00.317000	0:25:00.957000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:00.317000" end="0:25:02.031000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:00.317000" end="0:25:02.031000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Mama	Mama	NOUN	-	0:25:00.317000	0:25:00.957000
 noch	noch	ADV	-	0:25:00.317000	0:25:00.957000
 nie	nie	ADV	-	0:25:00.317000	0:25:00.957000
@@ -7041,7 +7041,7 @@ reden	reden	NOUN	-	0:25:00.957000	0:25:02.031000
 gehört	hören	VERB	-	0:25:00.957000	0:25:02.031000
 .	-	-	-	0:25:00.957000	0:25:02.031000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:02.031000" end="0:25:12.324000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:02.031000" end="0:25:12.324000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,5s"/>
 fällt	fällen	VERB	-	0:25:02.031000	0:25:09.957000
 mir	sich	PRON	-	0:25:02.031000	0:25:09.957000
@@ -7062,7 +7062,7 @@ im	im	ADP	-	0:25:09.957000	0:25:12.324000
 Dialekt	Dialekt	NOUN	-	0:25:09.957000	0:25:12.324000
 .	-	-	-	0:25:09.957000	0:25:12.324000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:12.324000" end="0:25:16.811000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:12.324000" end="0:25:16.811000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:12.324000	0:25:16.811000
 eh	eh	ADV	-	0:25:12.324000	0:25:16.811000
 nein	nein	ADV	-	0:25:12.324000	0:25:16.811000
@@ -7076,7 +7076,7 @@ so	-	-	-	0:25:12.324000	0:25:16.811000
 "(?)"	-	-	-	0:25:12.324000	0:25:16.811000
 .	-	-	-	0:25:12.324000	0:25:16.811000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:16.811000" end="0:25:19.837000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:16.811000" end="0:25:19.837000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 na	na	X	-	0:25:16.811000	0:25:19.837000
 ja	ja	ADV	-	0:25:16.811000	0:25:19.837000
@@ -7088,7 +7088,7 @@ halt	halt	ADV	-	0:25:16.811000	0:25:19.837000
 nicht	nicht	PART	-	0:25:16.811000	0:25:19.837000
 .	-	-	-	0:25:16.811000	0:25:19.837000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:19.837000" end="0:25:21.497000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:19.837000" end="0:25:21.497000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 redet	reden	VERB	-	0:25:19.837000	0:25:20.924000
 meine	meinen	DET	-	0:25:19.837000	0:25:20.924000
 Mama	Mama	NOUN	-	0:25:19.837000	0:25:20.924000
@@ -7100,12 +7100,12 @@ nicht	nicht	PART	-	0:25:19.837000	0:25:20.924000
 recht	-	-	-	0:25:20.924000	0:25:21.497000
 .	-	-	-	0:25:20.924000	0:25:21.497000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:21.497000" end="0:25:22.724000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:21.497000" end="0:25:22.724000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:25:21.497000	0:25:22.724000
 eben	eben	ADV	-	0:25:21.497000	0:25:22.724000
 .	-	-	-	0:25:21.497000	0:25:22.724000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:22.724000" end="0:25:30.337000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:22.724000" end="0:25:30.337000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 aber	aber	CCONJ	-	0:25:22.724000	0:25:25.837000
 deine	mein	DET	-	0:25:22.724000	0:25:25.837000
@@ -7124,7 +7124,7 @@ Hochdeutsch	Hochdeutsch	ADJ	-	0:25:25.837000	0:25:30.337000
 oder	oder	CCONJ	-	0:25:25.837000	0:25:30.337000
 ?	-	-	-	0:25:25.837000	0:25:30.337000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:30.337000" end="0:25:38.377000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:30.337000" end="0:25:38.377000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:25:30.337000	0:25:32.897000
 ,	-	-	-	0:25:30.337000	0:25:32.897000
@@ -7161,7 +7161,7 @@ Zeit	-	-	-	0:25:36.077000	0:25:38.377000
 einmal	-	-	-	0:25:36.077000	0:25:38.377000
 .	-	-	-	0:25:36.077000	0:25:38.377000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:38.377000" end="0:25:40.211000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:38.377000" end="0:25:40.211000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:38.377000	0:25:39.204000
 ist	sein	AUX	-	0:25:38.377000	0:25:39.204000
 eh	eh	ADV	-	0:25:38.377000	0:25:39.204000
@@ -7170,26 +7170,26 @@ klar	klaren	ADJ	-	0:25:38.377000	0:25:39.204000
 <pause duration="0,7s"/>
 *musst*	-	-	-	0:25:39.204000	0:25:40.211000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:40.211000" end="0:25:40.911000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:40.211000" end="0:25:40.911000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:25:40.211000	0:25:40.911000
 ich	ich	PRON	-	0:25:40.211000	0:25:40.911000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:40.211000" end="0:25:40.911000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:40.211000" end="0:25:40.911000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 fast	-	-	-	0:25:40.211000	0:25:40.911000
 ja	-	-	-	0:25:40.211000	0:25:40.911000
 .	-	-	-	0:25:40.211000	0:25:40.911000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:40.911000" end="0:25:41.844000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:40.911000" end="0:25:41.844000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:25:40.911000	0:25:41.844000
 wieder	wieder	ADV	-	0:25:40.911000	0:25:41.844000
 nicht	nicht	PART	-	0:25:40.911000	0:25:41.844000
 .	-	-	-	0:25:40.911000	0:25:41.844000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:41.844000" end="0:25:42.311000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:41.844000" end="0:25:42.311000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:41.844000	0:25:42.311000
 .	-	-	-	0:25:41.844000	0:25:42.311000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:42.311000" end="0:25:48.577000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:42.311000" end="0:25:48.577000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 außerdem	außerdem	ADV	-	0:25:42.311000	0:25:45.677000
 im	im	ADP	-	0:25:42.311000	0:25:45.677000
@@ -7213,18 +7213,18 @@ gewünscht	wünschen	VERB	-	0:25:47.004000	0:25:48.577000
 ist	sein	AUX	-	0:25:47.004000	0:25:48.577000
 .	-	-	-	0:25:47.004000	0:25:48.577000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:48.577000" end="0:25:50.524000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:48.577000" end="0:25:50.524000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 *wennst*	-	-	-	0:25:48.577000	0:25:50.524000
 Mundart	-	-	-	0:25:48.577000	0:25:50.524000
 redest	-	-	-	0:25:48.577000	0:25:50.524000
 ?	-	-	-	0:25:48.577000	0:25:50.524000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:50.524000" end="0:25:50.711000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:50.524000" end="0:25:50.711000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:50.524000	0:25:50.711000
 .	-	-	-	0:25:50.524000	0:25:50.711000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:50.711000" end="0:25:53.843000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:50.711000" end="0:25:53.843000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 <pause duration="hustet"/>
 .	-	-	-	0:25:50.711000	0:25:52.364000
@@ -7237,7 +7237,7 @@ sein	mein	AUX	-	0:25:52.364000	0:25:53.843000
 ja	ja	PART	-	0:25:52.364000	0:25:53.843000
 .	-	-	-	0:25:52.364000	0:25:53.843000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:25:53.843000" end="0:25:59.927000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:53.843000" end="0:25:59.927000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:25:53.843000	0:25:57.807000
 so	so	ADV	-	0:25:53.843000	0:25:57.807000
@@ -7260,18 +7260,18 @@ mehr	mehr	DET	-	0:25:57.807000	0:25:59.927000
 Dialekt	Dialekt	NOUN	-	0:25:57.807000	0:25:59.927000
 .	-	-	-	0:25:57.807000	0:25:59.927000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:25:59.927000" end="0:26:01.231000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:25:59.927000" end="0:26:01.231000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:25:59.927000	0:26:01.231000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:01.231000" end="0:26:01.879000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:01.231000" end="0:26:01.879000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:26:01.231000	0:26:01.879000
 ändert	ändern	VERB	-	0:26:01.231000	0:26:01.879000
 sich	sich	PRON	-	0:26:01.231000	0:26:01.879000
 schon	schon	ADV	-	0:26:01.231000	0:26:01.879000
 .	-	-	-	0:26:01.231000	0:26:01.879000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:01.231000" end="0:26:02.899000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:01.231000" end="0:26:02.899000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 denke	denken	VERB	-	0:26:01.231000	0:26:01.879000
 ich	ich	PRON	-	0:26:01.231000	0:26:01.879000
 mir	sich	PRON	-	0:26:01.231000	0:26:01.879000
@@ -7287,14 +7287,14 @@ schon	schon	ADV	-	0:26:01.879000	0:26:02.899000
 ja	ja	PART	-	0:26:01.879000	0:26:02.899000
 .	-	-	-	0:26:01.879000	0:26:02.899000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:02.899000" end="0:26:06.515000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:02.899000" end="0:26:06.515000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 du	du	PRON	-	0:26:02.899000	0:26:06.515000
 bist	sein	AUX	-	0:26:02.899000	0:26:06.515000
 dran	dran	ADV	-	0:26:02.899000	0:26:06.515000
 .	-	-	-	0:26:02.899000	0:26:06.515000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:06.515000" end="0:26:19.991000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:06.515000" end="0:26:19.991000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:26:06.515000	0:26:07.295000
 glaube	glauben	VERB	-	0:26:06.515000	0:26:07.295000
 ich	ich	PRON	-	0:26:06.515000	0:26:07.295000
@@ -7363,11 +7363,11 @@ lustiger	lustig	ADJ	-	0:26:17.295000	0:26:19.991000
 Teil	Teil	NOUN	-	0:26:17.295000	0:26:19.991000
 .	-	-	-	0:26:17.295000	0:26:19.991000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:19.991000" end="0:26:21.599000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:19.991000" end="0:26:21.599000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 mhm	mhm	PROPN	-	0:26:19.991000	0:26:21.599000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:21.599000" end="0:26:26.419000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:21.599000" end="0:26:26.419000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:26:21.599000	0:26:23.027000
 sind	sein	AUX	-	0:26:21.599000	0:26:23.027000
 schon	schon	ADV	-	0:26:21.599000	0:26:23.027000
@@ -7383,7 +7383,7 @@ aber	aber	CCONJ	-	0:26:23.027000	0:26:26.419000
 ja	ja	ADV	-	0:26:23.027000	0:26:26.419000
 .	-	-	-	0:26:23.027000	0:26:26.419000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:26.419000" end="0:26:28.947000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:26.419000" end="0:26:28.947000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:26:26.419000	0:26:28.947000
 miteinander	miteinander	ADV	-	0:26:26.419000	0:26:28.947000
 Reden	Rede	NOUN	-	0:26:26.419000	0:26:28.947000
@@ -7393,7 +7393,7 @@ schon	schon	ADV	-	0:26:26.419000	0:26:28.947000
 bemühen	bemühen	VERB	-	0:26:26.419000	0:26:28.947000
 .	-	-	-	0:26:26.419000	0:26:28.947000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:28.947000" end="0:26:45.915000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:28.947000" end="0:26:45.915000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:28.947000	0:26:29.251000
 .	-	-	-	0:26:28.947000	0:26:29.251000
 <pause duration="0,8s"/>
@@ -7478,10 +7478,10 @@ Bruder	Bruder	NOUN	-	0:26:43.827000	0:26:45.915000
 angerufen	anrufen	VERB	-	0:26:43.827000	0:26:45.915000
 .	-	-	-	0:26:43.827000	0:26:45.915000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:45.915000" end="0:26:46.243000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:45.915000" end="0:26:46.243000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:45.915000	0:26:46.243000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:46.243000" end="0:26:47.651000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:46.243000" end="0:26:47.651000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *habe*	-	-	-	0:26:46.243000	0:26:46.587000
 geglaubt	-	-	-	0:26:46.243000	0:26:46.587000
 ,	-	-	-	0:26:46.243000	0:26:46.587000
@@ -7492,14 +7492,14 @@ anderen	-	-	-	0:26:46.587000	0:26:47.651000
 Film	-	-	-	0:26:46.587000	0:26:47.651000
 .	-	-	-	0:26:46.587000	0:26:47.651000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:47.651000" end="0:26:50.691000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:47.651000" end="0:26:50.691000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:26:47.651000	0:26:49.819000
 .	-	-	-	0:26:47.651000	0:26:49.819000
 ja	ja	ADV	-	0:26:49.819000	0:26:50.691000
 voll	voll	ADJ	-	0:26:49.819000	0:26:50.691000
 .	-	-	-	0:26:49.819000	0:26:50.691000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:49.819000" end="0:26:52.235000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:49.819000" end="0:26:52.235000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:26:49.819000	0:26:50.691000
 ist	sein	AUX	-	0:26:49.819000	0:26:50.691000
 das	der	PRON	-	0:26:49.819000	0:26:50.691000
@@ -7511,11 +7511,11 @@ ich	ich	PRON	-	0:26:50.691000	0:26:52.235000
 auch	auch	ADV	-	0:26:50.691000	0:26:52.235000
 .	-	-	-	0:26:50.691000	0:26:52.235000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:52.235000" end="0:26:52.735000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:52.235000" end="0:26:52.735000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:52.235000	0:26:52.735000
 .	-	-	-	0:26:52.235000	0:26:52.735000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:52.235000" end="0:26:55.239000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:52.235000" end="0:26:55.239000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:26:52.235000	0:26:52.735000
 <pause duration="0,5s"/>
 wenn	wenn	SCONJ	-	0:26:52.735000	0:26:54.663000
@@ -7532,18 +7532,18 @@ glaube	glauben	VERB	-	0:26:54.663000	0:26:55.239000
 ich/	-	-	-	0:26:54.663000	0:26:55.239000
 .	-	-	-	0:26:54.663000	0:26:55.239000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:55.239000" end="0:26:56.035000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:55.239000" end="0:26:56.035000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *glaube*	-	-	-	0:26:55.239000	0:26:56.035000
 am	-	-	-	0:26:55.239000	0:26:56.035000
 schlimmsten	-	-	-	0:26:55.239000	0:26:56.035000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:55.239000" end="0:26:56.035000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:55.239000" end="0:26:56.035000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:26:55.239000	0:26:56.035000
 eben	eben	ADV	-	0:26:55.239000	0:26:56.035000
 genau	genau	ADJ	-	0:26:55.239000	0:26:56.035000
 .	-	-	-	0:26:55.239000	0:26:56.035000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:26:56.035000" end="0:27:00.243000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:56.035000" end="0:27:00.243000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sind	-	-	-	0:26:56.035000	0:26:56.975000
 sie	-	-	-	0:26:56.035000	0:26:56.975000
 von	-	-	-	0:26:56.035000	0:26:56.975000
@@ -7565,11 +7565,11 @@ gehabt	haben	AUX	-	0:26:56.975000	0:26:59.907000
 wenn	wenn	SCONJ	-	0:26:59.907000	0:27:00.243000
 die	der	PRON	-	0:26:59.907000	0:27:00.243000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:26:59.907000" end="0:27:00.243000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:26:59.907000" end="0:27:00.243000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:59.907000	0:27:00.243000
 .	-	-	-	0:26:59.907000	0:27:00.243000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:00.243000" end="0:27:03.187000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:00.243000" end="0:27:03.187000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 miteinander	miteinander	ADV	-	0:27:00.243000	0:27:01.139000
 geredet	reden	VERB	-	0:27:00.243000	0:27:01.139000
 haben	haben	AUX	-	0:27:00.243000	0:27:01.139000
@@ -7585,11 +7585,11 @@ jetzt	jetzt	ADV	-	0:27:01.891000	0:27:03.187000
 reden	reden	VERB	-	0:27:01.891000	0:27:03.187000
 .	-	-	-	0:27:01.891000	0:27:03.187000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:03.187000" end="0:27:03.575000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:03.187000" end="0:27:03.575000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:27:03.187000	0:27:03.575000
 .	-	-	-	0:27:03.187000	0:27:03.575000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:03.575000" end="0:27:05.499000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:03.575000" end="0:27:05.499000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *obst*	-	-	-	0:27:03.575000	0:27:04.503000
 Englisch	-	-	-	0:27:03.575000	0:27:04.503000
 mit	-	-	-	0:27:03.575000	0:27:04.503000
@@ -7598,7 +7598,7 @@ reden	-	-	-	0:27:04.503000	0:27:05.499000
 sollst	-	-	-	0:27:04.503000	0:27:05.499000
 .	-	-	-	0:27:04.503000	0:27:05.499000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:05.499000" end="0:27:08.603000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:05.499000" end="0:27:08.603000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:27:05.499000	0:27:06.107000
 .	-	-	-	0:27:05.499000	0:27:06.107000
 <pause duration="1,6s"/>
@@ -7606,18 +7606,18 @@ keine	kein	DET	-	0:27:06.107000	0:27:08.603000
 Ahnung	Ahnung	NOUN	-	0:27:06.107000	0:27:08.603000
 .	-	-	-	0:27:06.107000	0:27:08.603000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:08.603000" end="0:27:09.339000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:08.603000" end="0:27:09.339000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber/	-	-	-	0:27:08.603000	0:27:09.339000
 .	-	-	-	0:27:08.603000	0:27:09.339000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:09.339000" end="0:27:10.515000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:09.339000" end="0:27:10.515000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 weiß	weiß	VERB	-	0:27:09.339000	0:27:10.515000
 ich	ich	PRON	-	0:27:09.339000	0:27:10.515000
 nicht	nicht	PART	-	0:27:09.339000	0:27:10.515000
 .	-	-	-	0:27:09.339000	0:27:10.515000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:10.515000" end="0:27:12.507000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:10.515000" end="0:27:12.507000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 die	der	PRON	-	0:27:10.515000	0:27:12.507000
 hast	haben	AUX	-	0:27:10.515000	0:27:12.507000
@@ -7625,31 +7625,31 @@ du	du	PRON	-	0:27:10.515000	0:27:12.507000
 an	an	ADP	-	0:27:10.515000	0:27:12.507000
 .	-	-	-	0:27:10.515000	0:27:12.507000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:12.507000" end="0:27:13.227000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:12.507000" end="0:27:13.227000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:12.507000	0:27:13.227000
 .	-	-	-	0:27:12.507000	0:27:13.227000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:13.226000" end="0:27:16.140000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:13.226000" end="0:27:16.140000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:16.133000" end="0:27:16.807000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:16.133000" end="0:27:16.807000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:27:16.133000	0:27:16.807000
 weiß	weiß	VERB	-	0:27:16.133000	0:27:16.807000
 es	ich	PRON	-	0:27:16.133000	0:27:16.807000
 nicht	nicht	PART	-	0:27:16.133000	0:27:16.807000
 .	-	-	-	0:27:16.133000	0:27:16.807000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:16.806000" end="0:27:18.966000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:16.806000" end="0:27:18.966000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:18.973000" end="0:27:19.779000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:18.973000" end="0:27:19.779000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:27:18.973000	0:27:19.779000
 .	-	-	-	0:27:18.973000	0:27:19.779000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:19.779000" end="0:27:20.555000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:19.779000" end="0:27:20.555000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:20.555000" end="0:27:23.131000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:20.555000" end="0:27:23.131000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:27:20.555000	0:27:21.355000
 ich	ich	PRON	-	0:27:20.555000	0:27:21.355000
 nicht	nicht	PART	-	0:27:20.555000	0:27:21.355000
@@ -7663,10 +7663,10 @@ oder	oder	CCONJ	-	0:27:21.355000	0:27:23.131000
 nicht	nicht	PART	-	0:27:21.355000	0:27:23.131000
 ?	-	-	-	0:27:21.355000	0:27:23.131000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:23.131000" end="0:27:25.083000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:23.131000" end="0:27:25.083000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:25.083000" end="0:27:31.471000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:25.083000" end="0:27:31.471000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 man	man	PRON	-	0:27:25.083000	0:27:26.547000
 .	-	-	-	0:27:25.083000	0:27:26.547000
@@ -7685,7 +7685,7 @@ einen	ein	DET	-	0:27:26.547000	0:27:31.471000
 Dialekt	Dialekt	NOUN	-	0:27:26.547000	0:27:31.471000
 ?	-	-	-	0:27:26.547000	0:27:31.471000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:31.471000" end="0:27:34.871000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:31.471000" end="0:27:34.871000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:27:31.471000	0:27:34.871000
 das	der	PRON	-	0:27:31.471000	0:27:34.871000
@@ -7697,12 +7697,12 @@ Tirolerisch	Tirolerisch	NOUN	-	0:27:31.471000	0:27:34.871000
 Vorarlbergerisch	Vorarlbergerisch	NOUN	-	0:27:31.471000	0:27:34.871000
 .	-	-	-	0:27:31.471000	0:27:34.871000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:34.871000" end="0:27:35.871000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:34.871000" end="0:27:35.871000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	0:27:34.871000	0:27:35.871000
 .	-	-	-	0:27:34.871000	0:27:35.871000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:35.871000" end="0:27:37.427000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:35.871000" end="0:27:37.427000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Schweizerisch	Schweizerisch	ADJ	-	0:27:35.871000	0:27:37.047000
 ,	-	-	-	0:27:35.871000	0:27:37.047000
 so	so	ADV	-	0:27:35.871000	0:27:37.047000
@@ -7710,24 +7710,24 @@ auf	auf	ADP	-	0:27:37.047000	0:27:37.427000
 die	der	DET	-	0:27:37.047000	0:27:37.427000
 Art	Art	NOUN	-	0:27:37.047000	0:27:37.427000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:37.047000" end="0:27:37.427000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:37.047000" end="0:27:37.427000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:27:37.047000	0:27:37.427000
 .	-	-	-	0:27:37.047000	0:27:37.427000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:37.427000" end="0:27:38.375000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:37.427000" end="0:27:38.375000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:27:37.427000	0:27:38.375000
 mir	sich	PRON	-	0:27:37.427000	0:27:38.375000
 vorgekommen	vorkommen	VERB	-	0:27:37.427000	0:27:38.375000
 .	-	-	-	0:27:37.427000	0:27:38.375000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:38.375000" end="0:27:38.887000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:38.375000" end="0:27:38.887000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:38.375000	0:27:38.887000
 die	der	PRON	-	0:27:38.375000	0:27:38.887000
 waren	sein	AUX	-	0:27:38.375000	0:27:38.887000
 ja/	-	-	-	0:27:38.375000	0:27:38.887000
 .	-	-	-	0:27:38.375000	0:27:38.887000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:38.887000" end="0:27:49.031000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:38.887000" end="0:27:49.031000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:38.887000	0:27:40.219000
 da	da	ADV	-	0:27:38.887000	0:27:40.219000
 hat	haben	AUX	-	0:27:38.887000	0:27:40.219000
@@ -7779,11 +7779,11 @@ oder	oder	CCONJ	-	0:27:46.099000	0:27:49.031000
 so	so	ADV	-	0:27:46.099000	0:27:49.031000
 .	-	-	-	0:27:46.099000	0:27:49.031000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:49.031000" end="0:27:49.575000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:49.031000" end="0:27:49.575000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:27:49.031000	0:27:49.575000
 .	-	-	-	0:27:49.031000	0:27:49.575000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:49.575000" end="0:27:54.123000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:49.575000" end="0:27:54.123000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:27:49.575000	0:27:51.771000
 *wennst*	-	-	-	0:27:49.575000	0:27:51.771000
 ein	-	-	-	0:27:49.575000	0:27:51.771000
@@ -7808,11 +7808,11 @@ sagen	sagen	VERB	-	0:27:52.791000	0:27:53.239000
 .	-	-	-	0:27:52.791000	0:27:53.239000
 also	-	-	-	0:27:53.239000	0:27:54.123000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:53.239000" end="0:27:54.123000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:53.239000" end="0:27:54.123000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:27:53.239000	0:27:54.123000
 .	-	-	-	0:27:53.239000	0:27:54.123000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:54.123000" end="0:27:56.203000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:54.123000" end="0:27:56.203000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:27:54.123000	0:27:55.147000
 *kommst*	-	-	-	0:27:54.123000	0:27:55.147000
 schon	-	-	-	0:27:54.123000	0:27:55.147000
@@ -7826,19 +7826,19 @@ es	ich	PRON	-	0:27:55.147000	0:27:56.203000
 eh	eh	ADV	-	0:27:55.147000	0:27:56.203000
 ,	-	-	-	0:27:55.147000	0:27:56.203000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:55.147000" end="0:27:56.203000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:55.147000" end="0:27:56.203000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:55.147000	0:27:56.203000
 .	-	-	-	0:27:55.147000	0:27:56.203000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:56.203000" end="0:27:56.395000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:56.203000" end="0:27:56.395000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:27:56.203000	0:27:56.395000
 man	man	PRON	-	0:27:56.203000	0:27:56.395000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:56.203000" end="0:27:56.395000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:56.203000" end="0:27:56.395000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber/	-	-	-	0:27:56.203000	0:27:56.395000
 .	-	-	-	0:27:56.203000	0:27:56.395000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:56.395000" end="0:27:57.415000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:56.395000" end="0:27:57.415000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sich	sich	PRON	-	0:27:56.395000	0:27:57.015000
 Mühe	Mühe	NOUN	-	0:27:56.395000	0:27:57.015000
 gibt	geben	VERB	-	0:27:56.395000	0:27:57.015000
@@ -7846,7 +7846,7 @@ gibt	geben	VERB	-	0:27:56.395000	0:27:57.015000
 aber/	-	-	-	0:27:57.015000	0:27:57.415000
 .	-	-	-	0:27:57.015000	0:27:57.415000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:57.015000" end="0:27:58.391000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:57.015000" end="0:27:58.391000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:57.015000	0:27:57.415000
 ja	ja	PART	-	0:27:57.415000	0:27:58.391000
 ,	-	-	-	0:27:57.415000	0:27:58.391000
@@ -7854,20 +7854,20 @@ ja	ja	PART	-	0:27:57.415000	0:27:58.391000
 dir	-	-	-	0:27:57.415000	0:27:58.391000
 Mühe	-	-	-	0:27:57.415000	0:27:58.391000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:58.391000" end="0:27:58.715000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.391000" end="0:27:58.715000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:58.391000	0:27:58.715000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:58.391000" end="0:27:58.715000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.391000" end="0:27:58.715000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gibst	-	-	-	0:27:58.391000	0:27:58.715000
 .	-	-	-	0:27:58.391000	0:27:58.715000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:58.715000" end="0:27:59.191000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.715000" end="0:27:59.191000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:27:58.715000	0:27:59.191000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:27:58.715000" end="0:27:59.191000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:58.715000" end="0:27:59.191000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:27:58.715000	0:27:59.191000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:27:59.191000" end="0:28:06.783000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:27:59.191000" end="0:28:06.783000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:27:59.191000	0:28:00.551000
 hat	haben	AUX	-	0:27:59.191000	0:28:00.551000
 mir	sich	PRON	-	0:27:59.191000	0:28:00.551000
@@ -7904,9 +7904,9 @@ reden	reden	VERB	-	0:28:04.903000	0:28:06.783000
 können	können	VERB	-	0:28:04.903000	0:28:06.783000
 .	-	-	-	0:28:04.903000	0:28:06.783000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:06.783000" end="0:28:07.087000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:06.783000" end="0:28:07.087000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:07.087000" end="0:28:14.719000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:07.087000" end="0:28:14.719000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:28:07.087000	0:28:08.271000
 die	der	DET	-	0:28:07.087000	0:28:08.271000
 Sache	Sache	NOUN	-	0:28:07.087000	0:28:08.271000
@@ -7946,7 +7946,7 @@ dich	sich	PRON	-	0:28:13.227000	0:28:14.719000
 nicht	nicht	PART	-	0:28:13.227000	0:28:14.719000
 .	-	-	-	0:28:13.227000	0:28:14.719000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:14.719000" end="0:28:16.339000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:14.719000" end="0:28:16.339000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:28:14.719000	0:28:16.339000
 gescheit	-	-	-	0:28:14.719000	0:28:16.339000
 redest	-	-	-	0:28:14.719000	0:28:16.339000
@@ -7955,7 +7955,7 @@ nicht	-	-	-	0:28:14.719000	0:28:16.339000
 nein	nein	PART	-	0:28:14.719000	0:28:16.339000
 .	-	-	-	0:28:14.719000	0:28:16.339000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:16.339000" end="0:28:24.115000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:16.339000" end="0:28:24.115000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:28:16.339000	0:28:18.463000
 wenn	wenn	SCONJ	-	0:28:16.339000	0:28:18.463000
 wir	ich	PRON	-	0:28:16.339000	0:28:18.463000
@@ -7987,12 +7987,12 @@ so	so	ADV	-	0:28:22.115000	0:28:24.115000
 schlecht	schlecht	ADJ	-	0:28:22.115000	0:28:24.115000
 .	-	-	-	0:28:22.115000	0:28:24.115000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:24.115000" end="0:28:25.475000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:24.115000" end="0:28:25.475000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 achso	achso	NOUN	-	0:28:24.115000	0:28:25.475000
 .	-	-	-	0:28:24.115000	0:28:25.475000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:25.475000" end="0:28:26.339000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:25.475000" end="0:28:26.339000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:28:25.475000	0:28:26.339000
 hat	haben	AUX	-	0:28:25.475000	0:28:26.339000
 mir	sich	PRON	-	0:28:25.475000	0:28:26.339000
@@ -8001,7 +8001,7 @@ einer	einer	PRON	-	0:28:25.475000	0:28:26.339000
 erklärt	erklären	VERB	-	0:28:25.475000	0:28:26.339000
 .	-	-	-	0:28:25.475000	0:28:26.339000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:26.339000" end="0:28:28.443000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:26.339000" end="0:28:28.443000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 du	du	PRON	-	0:28:26.339000	0:28:26.815000
 meinst	meinen	VERB	-	0:28:26.339000	0:28:26.815000
 ,	-	-	-	0:28:26.339000	0:28:26.815000
@@ -8011,21 +8011,21 @@ Mundart	Mundart	NOUN	-	0:28:26.815000	0:28:28.443000
 reden	reden	VERB	-	0:28:26.815000	0:28:28.443000
 ,	-	-	-	0:28:26.815000	0:28:28.443000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:28.443000" end="0:28:29.271000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:28.443000" end="0:28:29.271000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:28:28.443000	0:28:29.271000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:28.443000" end="0:28:29.967000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:28.443000" end="0:28:29.967000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 verstehen	verstehen	VERB	-	0:28:28.443000	0:28:29.271000
 uns	sich	PRON	-	0:28:29.271000	0:28:29.967000
 alle	all	PRON	-	0:28:29.271000	0:28:29.967000
 .	-	-	-	0:28:29.271000	0:28:29.967000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:29.967000" end="0:28:30.691000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:29.967000" end="0:28:30.691000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:28:29.967000	0:28:30.691000
 .	-	-	-	0:28:29.967000	0:28:30.691000
 wenn	wenn	SCONJ	-	0:28:29.967000	0:28:30.691000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:30.691000" end="0:28:33.379000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:30.691000" end="0:28:33.379000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 deswegen	deswegen	ADV	-	0:28:30.691000	0:28:32.123000
 strengen	streng	VERB	-	0:28:30.691000	0:28:32.123000
 wir	ich	PRON	-	0:28:30.691000	0:28:32.123000
@@ -8039,7 +8039,7 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:28:32.123000	0:28:33.379000
 reden	reden	VERB	-	0:28:32.123000	0:28:33.379000
 .	-	-	-	0:28:32.123000	0:28:33.379000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:33.379000" end="0:28:34.483000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:33.379000" end="0:28:34.483000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:28:33.379000	0:28:34.483000
 wir	ich	PRON	-	0:28:33.379000	0:28:34.483000
 es	ich	PRON	-	0:28:33.379000	0:28:34.483000
@@ -8047,7 +8047,7 @@ nicht	nicht	PART	-	0:28:33.379000	0:28:34.483000
 müssen	müssen	VERB	-	0:28:33.379000	0:28:34.483000
 .	-	-	-	0:28:33.379000	0:28:34.483000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:34.483000" end="0:28:40.523000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:34.483000" end="0:28:40.523000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:28:34.483000	0:28:36.403000
 ein	einen	DET	-	0:28:34.483000	0:28:36.403000
 Vorarlberger	Vorarlberger	NOUN	-	0:28:34.483000	0:28:36.403000
@@ -8073,7 +8073,7 @@ anstrengen	anstrengen	VERB	-	0:28:39.443000	0:28:40.523000
 muss	muss	VERB	-	0:28:39.443000	0:28:40.523000
 .	-	-	-	0:28:39.443000	0:28:40.523000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:40.523000" end="0:28:42.519000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:40.523000" end="0:28:42.519000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:28:40.523000	0:28:42.519000
 ,	-	-	-	0:28:40.523000	0:28:42.519000
 weil	weil	SCONJ	-	0:28:40.523000	0:28:42.519000
@@ -8083,7 +8083,7 @@ keiner	kein	PRON	-	0:28:40.523000	0:28:42.519000
 versteht	verstehen	VERB	-	0:28:40.523000	0:28:42.519000
 .	-	-	-	0:28:40.523000	0:28:42.519000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:42.519000" end="0:28:45.471000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:42.519000" end="0:28:45.471000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:28:42.519000	0:28:43.275000
 .	-	-	-	0:28:42.519000	0:28:43.275000
 so	so	ADV	-	0:28:43.275000	0:28:44.923000
@@ -8099,17 +8099,17 @@ aber	aber	CCONJ	-	0:28:44.923000	0:28:45.471000
 das	der	PRON	KONJ	0:28:44.923000	0:28:45.471000
 könnte	können	VERB	KONJ	0:28:44.923000	0:28:45.471000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:45.471000" end="0:28:46.003000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:45.471000" end="0:28:46.003000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:28:45.471000	0:28:46.003000
 hat	haben	AUX	-	0:28:45.471000	0:28:46.003000
 mir	sich	PRON	-	0:28:45.471000	0:28:46.003000
 mal	mal	ADV	-	0:28:45.471000	0:28:46.003000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:45.471000" end="0:28:46.003000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:45.471000" end="0:28:46.003000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eigentlich/	-	-	KONJ	0:28:45.471000	0:28:46.003000
 .	-	-	-	0:28:45.471000	0:28:46.003000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:28:46.003000" end="0:28:52.311000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:46.003000" end="0:28:52.311000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 einer	einer	DET	-	0:28:46.003000	0:28:46.979000
 gesagt	sagen	VERB	-	0:28:46.003000	0:28:46.979000
 von	von	ADP	-	0:28:46.003000	0:28:46.979000
@@ -8136,7 +8136,7 @@ wie	wie	CCONJ	-	0:28:46.979000	0:28:52.311000
 wir	ich	PRON	-	0:28:46.979000	0:28:52.311000
 .	-	-	-	0:28:46.979000	0:28:52.311000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:28:52.311000" end="0:29:07.719000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:28:52.311000" end="0:29:07.719000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:28:52.311000	0:28:53.915000
 das	der	PRON	-	0:28:52.311000	0:28:53.915000
@@ -8184,11 +8184,11 @@ eigene	eigene	ADJ	-	0:29:03.775000	0:29:07.719000
 Fernsehsendung	Fernsehsendung	NOUN	-	0:29:03.775000	0:29:07.719000
 .	-	-	-	0:29:03.775000	0:29:07.719000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:07.719000" end="0:29:08.731000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:07.719000" end="0:29:08.731000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:29:07.719000	0:29:08.731000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:08.731000" end="0:29:11.787000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:08.731000" end="0:29:11.787000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 stell	stell	ADJ	-	0:29:08.731000	0:29:09.559000
 dir	sich	PRON	-	0:29:08.731000	0:29:09.559000
 vor	vor	ADP	-	0:29:08.731000	0:29:09.559000
@@ -8205,12 +8205,12 @@ gestern	-	-	-	0:29:10.663000	0:29:11.787000
 angeschaut	-	-	-	0:29:10.663000	0:29:11.787000
 ?	-	-	-	0:29:10.663000	0:29:11.787000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:11.787000" end="0:29:12.667000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:11.787000" end="0:29:12.667000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 bissel	bissel	PROPN	-	0:29:11.787000	0:29:12.667000
 ja	ja	ADP	-	0:29:11.787000	0:29:12.667000
 .	-	-	-	0:29:11.787000	0:29:12.667000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:12.667000" end="0:29:27.123000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:12.667000" end="0:29:27.123000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ich	-	-	-	0:29:12.667000	0:29:14.839000
 finde	-	-	-	0:29:12.667000	0:29:14.839000
@@ -8262,7 +8262,7 @@ nächster	nächst	ADJ	-	0:29:24.679000	0:29:27.123000
 Topwinzer	Topwinzer	NOUN	-	0:29:24.679000	0:29:27.123000
 .	-	-	-	0:29:24.679000	0:29:27.123000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:27.123000" end="0:29:29.411000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:27.123000" end="0:29:29.411000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:27.123000	0:29:28.999000
 das	der	PRON	-	0:29:27.123000	0:29:28.999000
 ist	sein	AUX	-	0:29:27.123000	0:29:28.999000
@@ -8274,7 +8274,7 @@ englischer	englisch	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:2
 Einschlag	Einschlag	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:29:28.999000	0:29:29.411000
 .	-	-	-	0:29:28.999000	0:29:29.411000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:28.999000" end="0:29:30.723000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:28.999000" end="0:29:30.723000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:28.999000	0:29:29.411000
 .	-	-	-	0:29:28.999000	0:29:29.411000
 aber	aber	CCONJ	-	0:29:29.411000	0:29:29.847000
@@ -8286,15 +8286,15 @@ heißt	heißen	VERB	-	0:29:29.847000	0:29:30.723000
 Austria's	Austria's	ADP	-	0:29:29.847000	0:29:30.723000
 next	next	ADJ	-	0:29:29.847000	0:29:30.723000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:30.723000" end="0:29:31.195000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:30.723000" end="0:29:31.195000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber/	-	-	-	0:29:30.723000	0:29:31.195000
 .	-	-	-	0:29:30.723000	0:29:31.195000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:30.723000" end="0:29:31.195000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:30.723000" end="0:29:31.195000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Topwinzer	Topwinzer	NOUN	-	0:29:30.723000	0:29:31.195000
 .	-	-	-	0:29:30.723000	0:29:31.195000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:31.195000" end="0:29:33.139000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:31.195000" end="0:29:33.139000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 j/	-	-	-	0:29:31.195000	0:29:32.379000
 ja	ja	ADV	-	0:29:31.195000	0:29:32.379000
 sicher	sichern	ADJ	-	0:29:31.195000	0:29:32.379000
@@ -8305,13 +8305,13 @@ geht	gehen	VERB	-	0:29:32.379000	0:29:33.139000
 ja	ja	ADV	-	0:29:32.379000	0:29:33.139000
 sicher	sichern	ADJ	-	0:29:32.379000	0:29:33.139000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:32.379000" end="0:29:33.139000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:32.379000" end="0:29:33.139000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:32.379000	0:29:33.139000
 heißt	heißen	VERB	-	0:29:32.379000	0:29:33.139000
 es	ich	PRON	-	0:29:32.379000	0:29:33.139000
 .	-	-	-	0:29:32.379000	0:29:33.139000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:33.139000" end="0:29:35.699000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:33.139000" end="0:29:35.699000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 darum	darum	ADV	-	0:29:33.139000	0:29:35.699000
 ,	-	-	-	0:29:33.139000	0:29:35.699000
 dass	dass	SCONJ	-	0:29:33.139000	0:29:35.699000
@@ -8323,18 +8323,18 @@ das	der	DET	-	0:29:33.139000	0:29:35.699000
 Topmodel	Topmodel	NOUN	-	0:29:33.139000	0:29:35.699000
 .	-	-	-	0:29:33.139000	0:29:35.699000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:35.699000" end="0:29:36.775000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:35.699000" end="0:29:36.775000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:35.699000	0:29:36.775000
 eh	eh	X	-	0:29:35.699000	0:29:36.775000
 .	-	-	-	0:29:35.699000	0:29:36.775000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:36.775000" end="0:29:38.491000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:36.775000" end="0:29:38.491000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nächstes	nächst	ADJ	-	0:29:36.775000	0:29:38.491000
 Mal	Mal	NOUN	-	0:29:36.775000	0:29:38.491000
 beim	beim	ADP	-	0:29:36.775000	0:29:38.491000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:36.775000" end="0:29:38.491000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:36.775000" end="0:29:38.491000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	aber	CCONJ	-	0:29:36.775000	0:29:38.491000
 warum	warum	ADV	-	0:29:36.775000	0:29:38.491000
@@ -8342,7 +8342,7 @@ heißt	heißen	VERB	-	0:29:36.775000	0:29:38.491000
 das/	-	-	-	0:29:36.775000	0:29:38.491000
 .	-	-	-	0:29:36.775000	0:29:38.491000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:38.491000" end="0:29:40.987000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:38.491000" end="0:29:40.987000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Topmodel	Topmodel	NOUN	-	0:29:38.491000	0:29:38.987000
 ,	-	-	-	0:29:38.491000	0:29:38.987000
 vielleicht	-	-	-	0:29:38.987000	0:29:40.987000
@@ -8351,7 +8351,7 @@ da	-	-	-	0:29:38.987000	0:29:40.987000
 mehr	-	-	-	0:29:38.987000	0:29:40.987000
 .	-	-	-	0:29:38.987000	0:29:40.987000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:40.987000" end="0:29:48.179000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:40.987000" end="0:29:48.179000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 warum	warum	ADV	-	0:29:40.987000	0:29:43.299000
 heißt	heißen	VERB	-	0:29:40.987000	0:29:43.299000
 das	der	DET	-	0:29:40.987000	0:29:43.299000
@@ -8374,11 +8374,11 @@ Englisch	Englisch	NOUN	-	0:29:46.175000	0:29:48.179000
 ja	ja	PART	-	0:29:46.175000	0:29:48.179000
 .	-	-	-	0:29:46.175000	0:29:48.179000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:48.179000" end="0:29:49.099000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:48.179000" end="0:29:49.099000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Supermodel	Supermodel	NOUN	-	0:29:48.179000	0:29:49.099000
 .	-	-	-	0:29:48.179000	0:29:49.099000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:49.099000" end="0:29:50.771000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:49.099000" end="0:29:50.771000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:49.099000	0:29:49.359000
 .	-	-	-	0:29:49.099000	0:29:49.359000
 <pause duration="0,7s"/>
@@ -8387,11 +8387,11 @@ auf	-	-	-	0:29:49.359000	0:29:50.771000
 jeden	-	-	-	0:29:49.359000	0:29:50.771000
 Fall	-	-	-	0:29:49.359000	0:29:50.771000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:29:50.771000" end="0:29:51.527000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:50.771000" end="0:29:51.527000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Supermodell	Supermodell	ADJ	-	0:29:50.771000	0:29:51.527000
 .	-	-	-	0:29:50.771000	0:29:51.527000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:29:50.771000" end="0:30:05.015000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:29:50.771000" end="0:30:05.015000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:29:50.771000	0:29:51.527000
 finde	-	-	-	0:29:50.771000	0:29:51.527000
 ich	-	-	-	0:29:51.527000	0:29:53.619000
@@ -8450,7 +8450,7 @@ gut	gut	ADJ	-	0:30:03.515000	0:30:05.015000
 präsentieren	präsentieren	VERB	-	0:30:03.515000	0:30:05.015000
 .	-	-	-	0:30:03.515000	0:30:05.015000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:05.015000" end="0:30:09.099000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:05.015000" end="0:30:09.099000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:30:05.015000	0:30:05.871000
 habe	habe	AUX	-	0:30:05.015000	0:30:05.871000
 ich	ich	PRON	-	0:30:05.015000	0:30:05.871000
@@ -8474,7 +8474,7 @@ schwer	schwer	ADJ	Adj Expr Int Komp WA WBA Wert level neg	0:30:07.767000	0:30:09
 ist	sein	AUX	-	0:30:07.767000	0:30:09.099000
 .	-	-	-	0:30:07.767000	0:30:09.099000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:09.099000" end="0:30:11.703000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:09.099000" end="0:30:11.703000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Weinservice	Weinservice	PROPN	-	0:30:09.099000	0:30:09.979000
 ?	-	-	-	0:30:09.099000	0:30:09.979000
 ah	ah	X	-	0:30:09.979000	0:30:11.703000
@@ -8487,7 +8487,7 @@ dem	der	DET	-	0:30:09.979000	0:30:11.703000
 Sommelier	Sommelier	NOUN	-	0:30:09.979000	0:30:11.703000
 .	-	-	-	0:30:09.979000	0:30:11.703000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:11.703000" end="0:30:12.755000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:11.703000" end="0:30:12.755000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:30:11.703000	0:30:12.755000
 habe	habe	AUX	-	0:30:11.703000	0:30:12.755000
 ich	ich	PRON	-	0:30:11.703000	0:30:12.755000
@@ -8495,7 +8495,7 @@ also	also	ADV	-	0:30:11.703000	0:30:12.755000
 ich	ich	PRON	-	0:30:11.703000	0:30:12.755000
 habe	habe	AUX	-	0:30:11.703000	0:30:12.755000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:12.755000" end="0:30:14.971000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:12.755000" end="0:30:14.971000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:30:12.755000	0:30:13.791000
 kannst	können	NOUN	-	0:30:12.755000	0:30:13.791000
 doch	doch	ADV	-	0:30:12.755000	0:30:13.791000
@@ -8514,7 +8514,7 @@ Feuerwehrhaus	Feuerwehrhaus	NOUN	-	0:30:13.791000	0:30:14.971000
 gewesen	sein	AUX	-	0:30:13.791000	0:30:14.971000
 .	-	-	-	0:30:13.791000	0:30:14.971000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:14.971000" end="0:30:17.943000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:14.971000" end="0:30:17.943000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:30:14.971000	0:30:16.823000
 ,	-	-	-	0:30:14.971000	0:30:16.823000
@@ -8531,14 +8531,14 @@ nein	nein	PART	-	0:30:16.823000	0:30:17.943000
 eh	eh	X	-	0:30:16.823000	0:30:17.943000
 ,	-	-	-	0:30:16.823000	0:30:17.943000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:16.823000" end="0:30:17.943000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:16.823000" end="0:30:17.943000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 aha	aha	X	-	0:30:16.823000	0:30:17.943000
 den	der	DET	-	0:30:16.823000	0:30:17.943000
 Schluss	Schluss	PROPN	-	0:30:16.823000	0:30:17.943000
 .	-	-	-	0:30:16.823000	0:30:17.943000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:17.943000" end="0:30:20.079000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:17.943000" end="0:30:20.079000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:30:17.943000	0:30:19.167000
 war	sein	AUX	-	0:30:17.943000	0:30:19.167000
 ja	ja	ADV	-	0:30:17.943000	0:30:19.167000
@@ -8550,18 +8550,18 @@ Feuerwehrhaus	Feuerwehrhaus	NOUN	-	0:30:17.943000	0:30:19.167000
 ich	ich	PRON	-	0:30:19.167000	0:30:20.079000
 bin	sein	AUX	-	0:30:19.167000	0:30:20.079000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:19.167000" end="0:30:20.079000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:19.167000" end="0:30:20.079000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:30:19.167000	0:30:20.079000
 ja	ja	ADV	-	0:30:19.167000	0:30:20.079000
 .	-	-	-	0:30:19.167000	0:30:20.079000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:20.079000" end="0:30:20.811000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:20.079000" end="0:30:20.811000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:30:20.079000	0:30:20.811000
 gleich	gleichen	ADJ	-	0:30:20.079000	0:30:20.811000
 heimgefahren	heimgefahren	VERB	-	0:30:20.079000	0:30:20.811000
 .	-	-	-	0:30:20.079000	0:30:20.811000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:20.811000" end="0:30:28.263000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:20.811000" end="0:30:28.263000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 du	du	PRON	-	0:30:20.811000	0:30:22.675000
 hast	haben	AUX	-	0:30:20.811000	0:30:22.675000
 dich	sich	PRON	-	0:30:20.811000	0:30:22.675000
@@ -8608,7 +8608,7 @@ ich	ich	PRON	-	0:30:26.263000	0:30:28.263000
 eingestiegen	einsteigen	VERB	-	0:30:26.263000	0:30:28.263000
 .	-	-	-	0:30:26.263000	0:30:28.263000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:28.263000" end="0:30:30.395000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:28.263000" end="0:30:30.395000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:30:28.263000	0:30:30.395000
 ,	-	-	-	0:30:28.263000	0:30:30.395000
 da	da	ADV	-	0:30:28.263000	0:30:30.395000
@@ -8623,11 +8623,11 @@ Schluss	Schluss	PROPN	-	0:30:28.263000	0:30:30.395000
 gekommen	kommen	VERB	-	0:30:28.263000	0:30:30.395000
 .	-	-	-	0:30:28.263000	0:30:30.395000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:30.395000" end="0:30:31.123000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:30.395000" end="0:30:31.123000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:30.395000	0:30:31.123000
 .	-	-	-	0:30:30.395000	0:30:31.123000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:31.123000" end="0:30:32.651000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:31.123000" end="0:30:32.651000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:30:31.123000	0:30:32.651000
 das	der	PRON	-	0:30:31.123000	0:30:32.651000
 mit	mit	ADP	-	0:30:31.123000	0:30:32.651000
@@ -8636,10 +8636,10 @@ Weinservice	Weinservice	NOUN	-	0:30:31.123000	0:30:32.651000
 war	sein	AUX	-	0:30:31.123000	0:30:32.651000
 .	-	-	-	0:30:31.123000	0:30:32.651000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:32.651000" end="0:30:33.027000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:32.651000" end="0:30:33.027000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:30:32.651000	0:30:33.027000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:33.027000" end="0:30:37.067000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:33.027000" end="0:30:37.067000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:30:33.027000	0:30:34.599000
 da	-	-	-	0:30:33.027000	0:30:34.599000
 *siehst*	-	-	-	0:30:33.027000	0:30:34.599000
@@ -8657,7 +8657,7 @@ auch	auch	ADV	-	0:30:35.507000	0:30:37.067000
 keiner	kein	PRON	-	0:30:35.507000	0:30:37.067000
 .	-	-	-	0:30:35.507000	0:30:37.067000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:37.067000" end="0:30:43.687000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:37.067000" end="0:30:43.687000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:30:37.067000	0:30:37.791000
 ,	-	-	-	0:30:37.067000	0:30:37.791000
 eh	eh	X	-	0:30:37.067000	0:30:37.791000
@@ -8681,14 +8681,14 @@ kann	können	VERB	-	0:30:41.535000	0:30:42.899000
 <pause duration="0,7s"/>
 der	der	PRON	-	0:30:42.899000	0:30:43.687000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:43.687000" end="0:30:44.051000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.687000" end="0:30:44.051000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:30:43.687000	0:30:44.051000
 *musst*	-	-	-	0:30:43.687000	0:30:44.051000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:43.687000" end="0:30:44.051000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:43.687000" end="0:30:44.051000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 kann	können	VERB	-	0:30:43.687000	0:30:44.051000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:44.051000" end="0:30:46.951000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:44.051000" end="0:30:46.951000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dir	-	-	-	0:30:44.051000	0:30:44.739000
 mal	-	-	-	0:30:44.051000	0:30:44.739000
 anschauen	-	-	-	0:30:44.051000	0:30:44.739000
@@ -8709,11 +8709,11 @@ alles	alle	PRON	-	0:30:45.767000	0:30:46.691000
 .	-	-	-	0:30:45.767000	0:30:46.691000
 und	und	CCONJ	-	0:30:46.691000	0:30:46.951000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:46.691000" end="0:30:46.951000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.691000" end="0:30:46.951000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:30:46.691000	0:30:46.951000
 .	-	-	-	0:30:46.691000	0:30:46.951000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:46.951000" end="0:30:52.275000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:46.951000" end="0:30:52.275000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:30:46.951000	0:30:48.779000
 mit	mit	ADP	-	0:30:46.951000	0:30:48.779000
 dem	der	DET	-	0:30:46.951000	0:30:48.779000
@@ -8741,7 +8741,7 @@ länger	lang	ADJ	-	0:30:48.779000	0:30:52.275000
 braucht	brauchen	VERB	-	0:30:48.779000	0:30:52.275000
 .	-	-	-	0:30:48.779000	0:30:52.275000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:52.275000" end="0:30:54.851000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:52.275000" end="0:30:54.851000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 okay	okay	NOUN	-	0:30:52.275000	0:30:53.943000
 .	-	-	-	0:30:52.275000	0:30:53.943000
@@ -8752,13 +8752,13 @@ nicht	nicht	PART	-	0:30:53.943000	0:30:54.851000
 wie	wie	ADV	-	0:30:53.943000	0:30:54.851000
 das	der	PRON	-	0:30:53.943000	0:30:54.851000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:54.851000" end="0:30:55.407000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.851000" end="0:30:55.407000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:30:54.851000	0:30:55.407000
 sie	ich	PRON	-	0:30:54.851000	0:30:55.407000
 halt	halt	ADV	-	0:30:54.851000	0:30:55.407000
 nichts	nichts	PRON	-	0:30:54.851000	0:30:55.407000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:54.851000" end="0:30:55.407000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:54.851000" end="0:30:55.407000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:30:54.851000	0:30:55.407000
 habe	habe	AUX	-	0:30:54.851000	0:30:55.407000
 ich	ich	PRON	-	0:30:54.851000	0:30:55.407000
@@ -8766,15 +8766,15 @@ nicht	nicht	PART	-	0:30:54.851000	0:30:55.407000
 gesehen	sehen	VERB	-	0:30:54.851000	0:30:55.407000
 .	-	-	-	0:30:54.851000	0:30:55.407000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:55.407000" end="0:30:56.483000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:55.407000" end="0:30:56.483000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 vergessen	vergessen	VERB	-	0:30:55.407000	0:30:56.483000
 wollten	wollen	VERB	-	0:30:55.407000	0:30:56.483000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:30:56.483000" end="0:30:56.979000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:56.483000" end="0:30:56.979000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:56.483000	0:30:56.979000
 .	-	-	-	0:30:56.483000	0:30:56.979000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:30:56.979000" end="0:31:02.631000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:30:56.979000" end="0:31:02.631000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:30:56.979000	0:30:59.839000
 das	der	PRON	-	0:30:56.979000	0:30:59.839000
 hat	haben	AUX	-	0:30:56.979000	0:30:59.839000
@@ -8795,7 +8795,7 @@ sieben	sieben	NUM	-	0:30:59.839000	0:31:02.631000
 statt	statt	ADP	-	0:30:59.839000	0:31:02.631000
 fünf	fünf	NUM	-	0:30:59.839000	0:31:02.631000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:02.631000" end="0:31:07.475000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:02.631000" end="0:31:07.475000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wer	wer	PRON	-	0:31:02.631000	0:31:04.851000
 hat	haben	AUX	-	0:31:02.631000	0:31:04.851000
@@ -8812,17 +8812,17 @@ junge	junge	ADJ	-	0:31:05.931000	0:31:07.475000
 Steirer	Steirer	NOUN	-	0:31:05.931000	0:31:07.475000
 .	-	-	-	0:31:05.931000	0:31:07.475000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:07.475000" end="0:31:09.495000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:07.475000" end="0:31:09.495000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 boah	boah	NOUN	-	0:31:07.475000	0:31:08.559000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:08.559000" end="0:31:09.495000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:08.559000" end="0:31:09.495000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oh	oh	X	-	0:31:08.559000	0:31:09.495000
 ja	ja	ADV	-	0:31:08.559000	0:31:09.495000
 ganz	ganz	ADV	-	0:31:08.559000	0:31:09.495000
 sicher	sichern	ADJ	-	0:31:08.559000	0:31:09.495000
 .	-	-	-	0:31:08.559000	0:31:09.495000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:09.495000" end="0:31:10.871000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:09.495000" end="0:31:10.871000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:31:09.495000	0:31:10.871000
 habe	habe	AUX	-	0:31:09.495000	0:31:10.871000
 nicht	nicht	PART	-	0:31:09.495000	0:31:10.871000
@@ -8831,7 +8831,7 @@ ganze	ganze	ADJ	-	0:31:09.495000	0:31:10.871000
 gesehen	sehen	VERB	-	0:31:09.495000	0:31:10.871000
 .	-	-	-	0:31:09.495000	0:31:10.871000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:10.871000" end="0:31:18.251000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:10.871000" end="0:31:18.251000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	X	-	0:31:10.871000	0:31:16.719000
 oh	oh	X	-	0:31:10.871000	0:31:16.719000
@@ -8857,11 +8857,11 @@ dazu	dazu	ADV	-	0:31:16.719000	0:31:18.251000
 verkostet	verkosten	VERB	-	0:31:16.719000	0:31:18.251000
 .	-	-	-	0:31:16.719000	0:31:18.251000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:18.251000" end="0:31:19.399000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:18.251000" end="0:31:19.399000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 mhm	mhm	X	-	0:31:18.251000	0:31:19.399000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:18.251000" end="0:31:20.147000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:18.251000" end="0:31:20.147000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:31:18.251000	0:31:19.399000
 .	-	-	-	0:31:18.251000	0:31:19.399000
@@ -8869,7 +8869,7 @@ sowas	sowas	PROPN	-	0:31:19.399000	0:31:20.147000
 ja	ja	PART	-	0:31:19.399000	0:31:20.147000
 .	-	-	-	0:31:19.399000	0:31:20.147000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:20.147000" end="0:31:26.747000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:20.147000" end="0:31:26.747000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	ich	PRON	-	0:31:20.147000	0:31:21.431000
 habe	habe	AUX	-	0:31:20.147000	0:31:21.431000
@@ -8892,7 +8892,7 @@ da	da	ADV	-	0:31:21.431000	0:31:26.747000
 hat	haben	AUX	-	0:31:21.431000	0:31:26.747000
 das	der	PRON	-	0:31:21.431000	0:31:26.747000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:26.747000" end="0:31:29.075000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:26.747000" end="0:31:29.075000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:31:26.747000	0:31:27.911000
 das	der	PRON	-	0:31:26.747000	0:31:27.911000
 ist	sein	AUX	-	0:31:26.747000	0:31:27.911000
@@ -8907,14 +8907,14 @@ NAME	NAME	PROPN	-	0:31:27.911000	0:31:29.075000
 ja	ja	PART	-	0:31:27.911000	0:31:29.075000
 .	-	-	-	0:31:27.911000	0:31:29.075000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:29.075000" end="0:31:30.003000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:29.075000" end="0:31:30.003000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:31:29.075000	0:31:30.003000
 das	der	PRON	-	0:31:29.075000	0:31:30.003000
 eh	eh	ADV	-	0:31:29.075000	0:31:30.003000
 der	der	PRON	-	0:31:29.075000	0:31:30.003000
 ?	-	-	-	0:31:29.075000	0:31:30.003000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:30.003000" end="0:31:30.915000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:30.003000" end="0:31:30.915000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:31:30.003000	0:31:30.915000
 ist	sein	AUX	-	0:31:30.003000	0:31:30.915000
 eh	eh	ADV	-	0:31:30.003000	0:31:30.915000
@@ -8923,7 +8923,7 @@ Steirer	Steirer	NOUN	-	0:31:30.003000	0:31:30.915000
 ja	ja	PART	-	0:31:30.003000	0:31:30.915000
 .	-	-	-	0:31:30.003000	0:31:30.915000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:30.915000" end="0:31:36.059000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:30.915000" end="0:31:36.059000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:31:30.915000	0:31:32.431000
 war	sein	AUX	-	0:31:30.915000	0:31:32.431000
 ja	ja	ADV	-	0:31:30.915000	0:31:32.431000
@@ -8948,14 +8948,14 @@ dachte	denken	VERB	-	0:31:35.515000	0:31:36.059000
 ich	ich	PRON	-	0:31:35.515000	0:31:36.059000
 ,	-	-	-	0:31:35.515000	0:31:36.059000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:36.059000" end="0:31:36.723000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:36.059000" end="0:31:36.723000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:31:36.059000	0:31:36.723000
 ja	ja	PART	-	0:31:36.059000	0:31:36.723000
 .	-	-	-	0:31:36.059000	0:31:36.723000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:36.723000" end="0:31:37.639000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:36.723000" end="0:31:37.639000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:37.639000" end="0:31:42.927000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:37.639000" end="0:31:42.927000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 nein	nein	PART	-	0:31:37.639000	0:31:41.103000
 aber	aber	ADV	-	0:31:37.639000	0:31:41.103000
@@ -8984,7 +8984,7 @@ glaube	glauben	VERB	-	0:31:42.515000	0:31:42.927000
 ich	ich	PRON	-	0:31:42.515000	0:31:42.927000
 .	-	-	-	0:31:42.515000	0:31:42.927000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:42.927000" end="0:31:46.099000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:42.927000" end="0:31:46.099000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:31:42.927000	0:31:46.099000
 ich	ich	PRON	-	0:31:42.927000	0:31:46.099000
@@ -8997,11 +8997,11 @@ sympathisch	sympathisch	ADJ	-	0:31:42.927000	0:31:46.099000
 rüber	rüber	ADP	-	0:31:42.927000	0:31:46.099000
 .	-	-	-	0:31:42.927000	0:31:46.099000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:46.099000" end="0:31:46.767000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:46.099000" end="0:31:46.767000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:46.099000	0:31:46.767000
 .	-	-	-	0:31:46.099000	0:31:46.767000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:46.767000" end="0:31:48.767000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:46.767000" end="0:31:48.767000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:31:46.767000	0:31:48.767000
 das	der	PRON	-	0:31:46.767000	0:31:48.767000
 mit	mit	ADP	-	0:31:46.767000	0:31:48.767000
@@ -9011,7 +9011,7 @@ mit	mit	ADP	-	0:31:46.767000	0:31:48.767000
 der/	-	-	-	0:31:46.767000	0:31:48.767000
 .	-	-	-	0:31:46.767000	0:31:48.767000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:46.767000" end="0:31:49.311000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:46.767000" end="0:31:49.311000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:31:46.767000	0:31:48.767000
 es	ich	PRON	-	0:31:46.767000	0:31:48.767000
 ist	sein	AUX	-	0:31:46.767000	0:31:48.767000
@@ -9027,7 +9027,7 @@ für	für	ADP	-	0:31:48.767000	0:31:49.311000
 ihn	ich	PRON	-	0:31:48.767000	0:31:49.311000
 .	-	-	-	0:31:48.767000	0:31:49.311000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:49.311000" end="0:31:50.719000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:49.311000" end="0:31:50.719000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:31:49.311000	0:31:49.907000
 sicher	sichern	ADJ	-	0:31:49.311000	0:31:49.907000
 .	-	-	-	0:31:49.311000	0:31:49.907000
@@ -9036,7 +9036,7 @@ ist	-	-	-	0:31:49.907000	0:31:50.719000
 ja)	-	-	-	0:31:49.907000	0:31:50.719000
 komplett	-	-	-	0:31:49.907000	0:31:50.719000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:49.907000" end="0:31:50.719000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:49.907000" end="0:31:50.719000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:31:49.907000	0:31:50.719000
 muss	muss	VERB	-	0:31:49.907000	0:31:50.719000
 man	man	PRON	-	0:31:49.907000	0:31:50.719000
@@ -9044,7 +9044,7 @@ schon	schon	ADV	-	0:31:49.907000	0:31:50.719000
 auch	auch	ADV	-	0:31:49.907000	0:31:50.719000
 dazu	dazu	ADV	-	0:31:49.907000	0:31:50.719000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:50.719000" end="0:31:58.803000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:50.719000" end="0:31:58.803000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:31:50.719000	0:31:51.591000
 *weißt*	-	-	-	0:31:50.719000	0:31:51.591000
 ,	-	-	-	0:31:50.719000	0:31:51.591000
@@ -9080,21 +9080,21 @@ was	was	PRON	-	0:31:57.935000	0:31:58.803000
 gewinnt	gewinnen	VERB	-	0:31:57.935000	0:31:58.803000
 .	-	-	-	0:31:57.935000	0:31:58.803000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:57.935000" end="0:31:58.803000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:57.935000" end="0:31:58.803000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:31:57.935000	0:31:58.803000
 genau	genau	ADJ	-	0:31:57.935000	0:31:58.803000
 ja	ja	ADV	-	0:31:57.935000	0:31:58.803000
 .	-	-	-	0:31:57.935000	0:31:58.803000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:58.803000" end="0:31:59.067000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.803000" end="0:31:59.067000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:58.803000	0:31:59.067000
 .	-	-	-	0:31:58.803000	0:31:59.067000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:31:58.803000" end="0:31:59.067000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:58.803000" end="0:31:59.067000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:58.803000	0:31:59.067000
 .	-	-	-	0:31:58.803000	0:31:59.067000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:31:59.067000" end="0:32:02.535000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:31:59.067000" end="0:32:02.535000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:31:59.067000	0:32:01.459000
 das	der	DET	-	0:31:59.067000	0:32:01.459000
 flat	flat	NOUN	-	0:31:59.067000	0:32:01.459000
@@ -9119,16 +9119,16 @@ wie	wie	ADV	-	0:32:01.459000	0:32:02.211000
 so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:32:02.211000	0:32:02.535000
 eine	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:32:02.211000	0:32:02.535000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:02.211000" end="0:32:02.535000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:02.211000" end="0:32:02.535000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:02.211000	0:32:02.535000
 .	-	-	-	0:32:02.211000	0:32:02.535000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:02.535000" end="0:32:04.703000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:02.535000" end="0:32:04.703000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Gebietsbezogene	Gebietsbezogene	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:32:02.535000	0:32:03.615000
 Ortsangabe	Ortsangabe	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:32:03.615000	0:32:04.703000
 .	-	-	-	0:32:03.615000	0:32:04.703000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:03.615000" end="0:32:06.799000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:03.615000" end="0:32:06.799000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:03.615000	0:32:04.703000
 .	-	-	-	0:32:03.615000	0:32:04.703000
 aber	aber	CCONJ	-	0:32:04.703000	0:32:05.667000
@@ -9143,7 +9143,7 @@ Herz	Herz	NOUN	-	0:32:05.667000	0:32:06.799000
 begehrt	begehren	VERB	-	0:32:05.667000	0:32:06.799000
 .	-	-	-	0:32:05.667000	0:32:06.799000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:06.799000" end="0:32:09.183000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:06.799000" end="0:32:09.183000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:32:06.799000	0:32:08.663000
 was	was	PRON	-	0:32:06.799000	0:32:08.663000
 das	der	DET	-	0:32:06.799000	0:32:08.663000
@@ -9155,7 +9155,7 @@ oder	oder	CCONJ	-	0:32:08.663000	0:32:09.183000
 was	was	PRON	-	0:32:08.663000	0:32:09.183000
 ?	-	-	-	0:32:08.663000	0:32:09.183000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:08.663000" end="0:32:28.117000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:08.663000" end="0:32:28.117000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:08.663000	0:32:09.183000
 genau	genau	ADJ	-	0:32:09.183000	0:32:10.455000
 so	so	ADV	-	0:32:09.183000	0:32:10.455000
@@ -9231,19 +9231,19 @@ da	da	ADV	-	0:32:27.370000	0:32:28.117000
 wird	werden	AUX	-	0:32:27.370000	0:32:28.117000
 der	der	DET	-	0:32:27.370000	0:32:28.117000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:28.117000" end="0:32:28.363000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:28.117000" end="0:32:28.363000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:32:28.117000	0:32:28.363000
 ist	sein	AUX	-	0:32:28.117000	0:32:28.363000
 eine	einen	DET	-	0:32:28.117000	0:32:28.363000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:28.117000" end="0:32:28.363000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:28.117000" end="0:32:28.363000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Hoferja	Hoferja	PROPN	-	0:32:28.117000	0:32:28.363000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:28.363000" end="0:32:29.023000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:28.363000" end="0:32:29.023000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Billigmarke	Billigmarke	NOUN	-	0:32:28.363000	0:32:29.023000
 ?	-	-	-	0:32:28.363000	0:32:29.023000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:29.023000" end="0:32:31.190000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:29.023000" end="0:32:31.190000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:29.023000	0:32:30.710000
 ,	-	-	-	0:32:29.023000	0:32:30.710000
 da	da	SCONJ	-	0:32:29.023000	0:32:30.710000
@@ -9257,12 +9257,12 @@ mitscheiden	mitscheiden	VERB	-	0:32:29.023000	0:32:30.710000
 ja	ja	PART	-	0:32:30.710000	0:32:31.190000
 .	-	-	-	0:32:30.710000	0:32:31.190000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:31.190000" end="0:32:31.757000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:31.190000" end="0:32:31.757000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:31.190000	0:32:31.757000
 sicher	sichern	ADJ	-	0:32:31.190000	0:32:31.757000
 .	-	-	-	0:32:31.190000	0:32:31.757000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:31.190000" end="0:32:34.977000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:31.190000" end="0:32:34.977000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Billigmarke	Billigmarke	NOUN	-	0:32:31.190000	0:32:31.757000
 .	-	-	-	0:32:31.190000	0:32:31.757000
 *bist*	-	-	-	0:32:31.757000	0:32:34.977000
@@ -9279,7 +9279,7 @@ sowas	-	-	-	0:32:31.757000	0:32:34.977000
 ja	-	-	-	0:32:31.757000	0:32:34.977000
 .	-	-	-	0:32:31.757000	0:32:34.977000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:34.977000" end="0:32:38.623000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:34.977000" end="0:32:38.623000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	ADV	-	0:32:34.977000	0:32:36.830000
 na	na	X	-	0:32:34.977000	0:32:36.830000
@@ -9293,11 +9293,11 @@ nachher	nachher	ADV	-	0:32:36.830000	0:32:38.623000
 nicht	nicht	PART	-	0:32:36.830000	0:32:38.623000
 ?	-	-	-	0:32:36.830000	0:32:38.623000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:38.623000" end="0:32:38.943000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:38.623000" end="0:32:38.943000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:38.623000	0:32:38.943000
 .	-	-	-	0:32:38.623000	0:32:38.943000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:38.943000" end="0:32:43.243000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:38.943000" end="0:32:43.243000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:32:38.943000	0:32:39.883000
 heißt	heißen	VERB	-	0:32:38.943000	0:32:39.883000
@@ -9313,7 +9313,7 @@ na	na	INTJ	-	0:32:41.750000	0:32:43.243000
 denn	denn	ADV	-	0:32:41.750000	0:32:43.243000
 .	-	-	-	0:32:41.750000	0:32:43.243000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:41.750000" end="0:32:44.070000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:41.750000" end="0:32:44.070000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:32:41.750000	0:32:43.243000
 die	der	DET	-	0:32:41.750000	0:32:43.243000
@@ -9323,13 +9323,13 @@ die	der	DET	-	0:32:43.243000	0:32:44.070000
 Hälfte	Hälfte	NOUN	-	0:32:43.243000	0:32:44.070000
 .	-	-	-	0:32:43.243000	0:32:44.070000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:44.070000" end="0:32:45.310000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:44.070000" end="0:32:45.310000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	na	X	-	0:32:44.070000	0:32:45.310000
 eben	eben	ADV	-	0:32:44.070000	0:32:45.310000
 .	-	-	-	0:32:44.070000	0:32:45.310000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:44.070000" end="0:32:47.817000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:44.070000" end="0:32:47.817000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:32:44.070000	0:32:45.310000
 heißt	heißen	VERB	-	0:32:44.070000	0:32:45.310000
@@ -9353,7 +9353,7 @@ drei	drei	NUM	-	0:32:47.163000	0:32:47.817000
 Euro	Euro	NOUN	-	0:32:47.163000	0:32:47.817000
 .	-	-	-	0:32:47.163000	0:32:47.817000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:47.817000" end="0:32:56.143000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:47.817000" end="0:32:56.143000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:32:47.817000	0:32:49.530000
 .	-	-	-	0:32:47.817000	0:32:49.530000
@@ -9382,12 +9382,12 @@ dann	-	-	-	0:32:53.277000	0:32:55.083000
 <pause duration="0,6s"/>
 *musst*	-	-	-	0:32:55.083000	0:32:56.143000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:55.083000" end="0:32:56.143000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:55.083000" end="0:32:56.143000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 sicher	sichern	ADJ	-	0:32:55.083000	0:32:56.143000
 .	-	-	-	0:32:55.083000	0:32:56.143000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:56.143000" end="0:32:58.250000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:56.143000" end="0:32:58.250000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Geld	-	-	-	0:32:56.143000	0:32:57.303000
 produzieren	-	-	-	0:32:56.143000	0:32:57.303000
 muss	-	-	-	0:32:56.143000	0:32:57.303000
@@ -9395,13 +9395,13 @@ muss	-	-	-	0:32:56.143000	0:32:57.303000
 und	-	-	-	0:32:57.303000	0:32:58.250000
 *wennst*	-	-	-	0:32:57.303000	0:32:58.250000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:32:57.303000" end="0:32:58.250000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:57.303000" end="0:32:58.250000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:32:57.303000	0:32:58.250000
 habe	habe	AUX	-	0:32:57.303000	0:32:58.250000
 gestern/	-	-	-	0:32:57.303000	0:32:58.250000
 .	-	-	-	0:32:57.303000	0:32:58.250000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:32:58.250000" end="0:33:01.443000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:32:58.250000" end="0:33:01.443000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nachher	-	-	-	0:32:58.250000	0:32:59.843000
 eine	-	-	-	0:32:58.250000	0:32:59.843000
 Aktion	-	-	-	0:32:58.250000	0:32:59.843000
@@ -9417,7 +9417,7 @@ die	-	-	-	0:32:59.843000	0:33:01.443000
 zahlen	-	-	-	0:32:59.843000	0:33:01.443000
 .	-	-	-	0:32:59.843000	0:33:01.443000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:33:01.443000" end="0:33:31.670000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:01.443000" end="0:33:31.670000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ich	ich	PRON	-	0:33:01.443000	0:33:03.103000
 habe	-	-	-	0:33:01.443000	0:33:03.103000
@@ -9511,10 +9511,10 @@ für	-	-	-	0:33:29.097000	0:33:31.670000
 die	-	-	-	0:33:29.097000	0:33:31.670000
 .	-	-	-	0:33:29.097000	0:33:31.670000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:33:31.670000" end="0:33:32.263000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:31.670000" end="0:33:32.263000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 puh	puh	NOUN	-	0:33:31.670000	0:33:32.263000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:33:32.263000" end="0:33:33.423000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:32.263000" end="0:33:33.423000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:33:32.263000	0:33:33.423000
 macht	machen	VERB	-	0:33:32.263000	0:33:33.423000
 das	der	PRON	-	0:33:32.263000	0:33:33.423000
@@ -9523,10 +9523,10 @@ mit	mit	ADP	-	0:33:32.263000	0:33:33.423000
 Menge	Menge	NOUN	-	0:33:32.263000	0:33:33.423000
 .	-	-	-	0:33:32.263000	0:33:33.423000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:33:33.423000" end="0:33:35.277000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:33.423000" end="0:33:35.277000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:33:35.277000" end="0:33:40.097000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:35.277000" end="0:33:40.097000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 keine	kein	DET	-	0:33:35.277000	0:33:37.743000
 Ahnung	Ahnung	NOUN	-	0:33:35.277000	0:33:37.743000
@@ -9547,7 +9547,7 @@ zu	zu	PART	-	0:33:37.743000	0:33:40.097000
 angeblich	angeblich	ADJ	-	0:33:37.743000	0:33:40.097000
 .	-	-	-	0:33:37.743000	0:33:40.097000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:33:40.097000" end="0:33:44.037000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:40.097000" end="0:33:44.037000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ja	ja	PART	-	0:33:40.097000	0:33:44.037000
 bei	bei	ADP	-	0:33:40.097000	0:33:44.037000
@@ -9561,7 +9561,7 @@ ist	sein	AUX	-	0:33:40.097000	0:33:44.037000
 ja/	-	-	-	0:33:40.097000	0:33:44.037000
 .	-	-	-	0:33:40.097000	0:33:44.037000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:33:40.097000" end="0:33:50.837000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:40.097000" end="0:33:50.837000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ja	ja	PART	-	0:33:40.097000	0:33:44.037000
 .	-	-	-	0:33:40.097000	0:33:44.037000
@@ -9599,13 +9599,13 @@ rechnen	-	-	-	0:33:49.610000	0:33:50.837000
 ja	ja	PART	-	0:33:49.610000	0:33:50.837000
 .	-	-	-	0:33:49.610000	0:33:50.837000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:33:50.837000" end="0:33:52.303000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:50.837000" end="0:33:52.303000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 die	der	DET	-	0:33:50.837000	0:33:52.303000
 Arbeit	Arbeit	NOUN	-	0:33:50.837000	0:33:52.303000
 .	-	-	-	0:33:50.837000	0:33:52.303000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:33:52.303000" end="0:33:57.403000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:52.303000" end="0:33:57.403000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:33:52.303000	0:33:53.943000
 Arbeit	Arbeit	NOUN	-	0:33:52.303000	0:33:53.943000
 musst	musst	PROPN	-	0:33:52.303000	0:33:53.943000
@@ -9632,7 +9632,7 @@ mit	mit	ADP	-	0:33:56.503000	0:33:57.403000
 dem	der	PRON	-	0:33:56.503000	0:33:57.403000
 .	-	-	-	0:33:56.503000	0:33:57.403000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:33:57.403000" end="0:34:07.150000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:33:57.403000" end="0:34:07.150000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	ADV	-	0:33:57.403000	0:34:01.690000
 aber	aber	ADV	-	0:33:57.403000	0:34:01.690000
@@ -9649,7 +9649,7 @@ aber	aber	CCONJ	-	0:34:04.170000	0:34:07.150000
 wohin	wohin	ADV	-	0:34:04.170000	0:34:07.150000
 ?	-	-	-	0:34:04.170000	0:34:07.150000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:04.170000" end="0:34:07.997000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:04.170000" end="0:34:07.997000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ich	ich	PRON	-	0:34:04.170000	0:34:07.150000
 habe	habe	AUX	-	0:34:04.170000	0:34:07.150000
@@ -9664,7 +9664,7 @@ dem	der	DET	-	0:34:07.150000	0:34:07.997000
 NAME	NAME	PROPN	-	0:34:07.150000	0:34:07.997000
 .	-	-	-	0:34:07.150000	0:34:07.997000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:07.997000" end="0:34:12.743000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:07.997000" end="0:34:12.743000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 <pause duration="1,0s"/>
 fünfzehner	fünfzehner	NOUN	-	0:34:10.717000	0:34:12.743000
@@ -9672,23 +9672,23 @@ glaube	glauben	VERB	-	0:34:10.717000	0:34:12.743000
 ich	ich	PRON	-	0:34:10.717000	0:34:12.743000
 .	-	-	-	0:34:10.717000	0:34:12.743000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:12.743000" end="0:34:14.183000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:12.743000" end="0:34:14.183000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:34:12.743000	0:34:14.183000
 auch	auch	ADV	-	0:34:12.743000	0:34:14.183000
 noch	noch	ADV	-	0:34:12.743000	0:34:14.183000
 mhm	mhm	PROPN	-	0:34:12.743000	0:34:14.183000
 .	-	-	-	0:34:12.743000	0:34:14.183000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:14.183000" end="0:34:15.183000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:14.183000" end="0:34:15.183000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:34:14.183000	0:34:15.183000
 vierzehner	vierzehner	NOUN	-	0:34:14.183000	0:34:15.183000
 ?	-	-	-	0:34:14.183000	0:34:15.183000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:15.183000" end="0:34:17.937000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:15.183000" end="0:34:17.937000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 .	-	-	-	0:34:15.183000	0:34:17.937000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:17.937000" end="0:34:21.983000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:17.937000" end="0:34:21.983000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 Urlaubsziele	Urlaubsziele	NOUN	-	0:34:17.937000	0:34:20.803000
 ,	-	-	-	0:34:17.937000	0:34:20.803000
@@ -9705,19 +9705,19 @@ gell	gell	ADJ	-	0:34:17.937000	0:34:20.803000
 ah	ah	X	-	0:34:20.803000	0:34:21.983000
 ich	ich	PRON	-	0:34:20.803000	0:34:21.983000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:20.803000" end="0:34:21.983000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:20.803000" end="0:34:21.983000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nein	nein	PART	-	0:34:20.803000	0:34:21.983000
 .	-	-	-	0:34:20.803000	0:34:21.983000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:21.983000" end="0:34:23.170000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:21.983000" end="0:34:23.170000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 erzähle	erzählen	VERB	-	0:34:21.983000	0:34:23.170000
 einfach	einfach	ADV	-	0:34:21.983000	0:34:23.170000
 mein	meinen	DET	-	0:34:21.983000	0:34:23.170000
 Urlaubsziel	Urlaubsziel	NOUN	-	0:34:21.983000	0:34:23.170000
 .	-	-	-	0:34:21.983000	0:34:23.170000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:23.170000" end="0:34:24.429000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:23.170000" end="0:34:24.429000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:34:23.170000	0:34:24.429000
 ja	ja	ADV	-	0:34:23.170000	0:34:24.429000
 was	was	PRON	-	0:34:23.170000	0:34:24.429000
@@ -9726,21 +9726,21 @@ dein	mein	DET	-	0:34:23.170000	0:34:24.429000
 Urlaubsziel	Urlaubsziel	NOUN	-	0:34:23.170000	0:34:24.429000
 ?	-	-	-	0:34:23.170000	0:34:24.429000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:24.429000" end="0:34:25.717000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:24.429000" end="0:34:25.717000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mein	meinen	DET	-	0:34:24.429000	0:34:25.717000
 Urlaubsziel	Urlaubsziel	NOUN	-	0:34:24.429000	0:34:25.717000
 ist	sein	AUX	-	0:34:24.429000	0:34:25.717000
 Boston	Boston	PROPN	-	0:34:24.429000	0:34:25.717000
 .	-	-	-	0:34:24.429000	0:34:25.717000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:25.717000" end="0:34:27.382000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:25.717000" end="0:34:27.382000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:34:25.717000	0:34:27.382000
 Boston	Boston	PROPN	-	0:34:25.717000	0:34:27.382000
 ?	-	-	-	0:34:25.717000	0:34:27.382000
 nein	nein	PART	-	0:34:25.717000	0:34:27.382000
 .	-	-	-	0:34:25.717000	0:34:27.382000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:27.382000" end="0:34:32.677000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:27.382000" end="0:34:32.677000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:27.382000	0:34:28.016000
 <pause duration="1,0s"/>
 na	na	PROPN	-	0:34:28.016000	0:34:30.797000
@@ -9757,7 +9757,7 @@ das	der	PRON	-	0:34:30.797000	0:34:32.677000
 nicht	nicht	PART	-	0:34:30.797000	0:34:32.677000
 ?	-	-	-	0:34:30.797000	0:34:32.677000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:32.677000" end="0:34:35.456000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:32.677000" end="0:34:35.456000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:34:32.677000	0:34:35.456000
 ja	-	-	-	0:34:32.677000	0:34:35.456000
 es	-	-	-	0:34:32.677000	0:34:35.456000
@@ -9767,19 +9767,19 @@ jetzt	-	-	-	0:34:32.677000	0:34:35.456000
 fort	-	-	-	0:34:32.677000	0:34:35.456000
 .	-	-	-	0:34:32.677000	0:34:35.456000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:35.456000" end="0:34:36.922000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:35.456000" end="0:34:36.922000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:34:35.456000	0:34:36.922000
 voll	voll	ADJ	-	0:34:35.456000	0:34:36.922000
 .	-	-	-	0:34:35.456000	0:34:36.922000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:36.922000" end="0:34:37.902000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:36.922000" end="0:34:37.902000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	0:34:36.922000	0:34:37.902000
 lange	-	-	-	0:34:36.922000	0:34:37.902000
 *fliegts*	-	-	-	0:34:36.922000	0:34:37.902000
 ?	-	-	-	0:34:36.922000	0:34:37.902000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:37.902000" end="0:34:44.330000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:37.902000" end="0:34:44.330000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 bis	bis	ADP	-	0:34:37.902000	0:34:44.330000
 am	am	ADP	-	0:34:37.902000	0:34:44.330000
@@ -9802,17 +9802,17 @@ erst	erst	ADV	-	0:34:37.902000	0:34:44.330000
 heim	heim	ADP	-	0:34:37.902000	0:34:44.330000
 .	-	-	-	0:34:37.902000	0:34:44.330000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:44.330000" end="0:34:44.743000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:44.330000" end="0:34:44.743000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:44.330000	0:34:44.743000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:44.743000" end="0:34:47.016000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:44.743000" end="0:34:47.016000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 wegen	wegen	ADP	-	0:34:44.743000	0:34:47.016000
 der	der	DET	-	0:34:44.743000	0:34:47.016000
 Zeitverschiebung	Zeitverschiebung	NOUN	-	0:34:44.743000	0:34:47.016000
 und	und	CCONJ	-	0:34:44.743000	0:34:47.016000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:44.743000" end="0:34:47.016000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:44.743000" end="0:34:47.016000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 am	am	ADP	-	0:34:44.743000	0:34:47.016000
 fix	fixen	ADJ	-	0:34:44.743000	0:34:47.016000
@@ -9820,7 +9820,7 @@ am	am	ADP	-	0:34:44.743000	0:34:47.016000
 Donnerstag	Donnerstag	NOUN	-	0:34:44.743000	0:34:47.016000
 ?	-	-	-	0:34:44.743000	0:34:47.016000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:47.016000" end="0:34:50.429000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:47.016000" end="0:34:50.429000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:34:47.016000	0:34:49.016000
 .	-	-	-	0:34:47.016000	0:34:49.016000
 ja	ja	PART	-	0:34:49.016000	0:34:49.797000
@@ -9828,21 +9828,21 @@ ja	ja	PART	-	0:34:49.016000	0:34:49.797000
 sechs	sechs	NUM	-	0:34:49.797000	0:34:50.429000
 Tage	Tag	NOUN	-	0:34:49.797000	0:34:50.429000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:49.797000" end="0:34:50.429000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:49.797000" end="0:34:50.429000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:34:49.797000	0:34:50.429000
 .	-	-	-	0:34:49.797000	0:34:50.429000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:50.429000" end="0:34:51.016000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:50.429000" end="0:34:51.016000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:34:50.429000	0:34:51.016000
 wir	ich	PRON	-	0:34:50.429000	0:34:51.016000
 dort	dort	ADV	-	0:34:50.429000	0:34:51.016000
 .	-	-	-	0:34:50.429000	0:34:51.016000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:51.016000" end="0:34:51.503000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:51.016000" end="0:34:51.503000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:34:51.016000	0:34:51.503000
 .	-	-	-	0:34:51.016000	0:34:51.503000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:51.503000" end="0:34:52.610000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:51.503000" end="0:34:52.610000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:34:51.503000	0:34:52.356000
 einen	ein	DET	-	0:34:51.503000	0:34:52.356000
 Tag	Tag	NOUN	-	0:34:51.503000	0:34:52.356000
@@ -9851,13 +9851,13 @@ wir	ich	PRON	-	0:34:51.503000	0:34:52.356000
 heim	heim	ADP	-	0:34:52.356000	0:34:52.610000
 .	-	-	-	0:34:52.356000	0:34:52.610000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:52.356000" end="0:34:53.303000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:52.356000" end="0:34:53.303000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wer	-	-	-	0:34:52.356000	0:34:52.610000
 *seits*	-	-	-	0:34:52.610000	0:34:53.303000
 alle	-	-	-	0:34:52.610000	0:34:53.303000
 ?	-	-	-	0:34:52.610000	0:34:53.303000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:53.303000" end="0:34:57.203000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:53.303000" end="0:34:57.203000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:34:53.303000	0:34:55.496000
 NAME	NAME	PROPN	-	0:34:53.303000	0:34:55.496000
 und	und	CCONJ	-	0:34:53.303000	0:34:55.496000
@@ -9871,7 +9871,7 @@ der	der	DET	-	0:34:55.496000	0:34:57.203000
 Studienkollege	Studienkollege	NOUN	-	0:34:55.496000	0:34:57.203000
 .	-	-	-	0:34:55.496000	0:34:57.203000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:55.496000" end="0:34:58.576000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:55.496000" end="0:34:58.576000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:34:55.496000	0:34:57.203000
 nur	nur	ADV	-	0:34:55.496000	0:34:57.203000
 ihr	mein	DET	-	0:34:55.496000	0:34:57.203000
@@ -9881,11 +9881,11 @@ der	der	DET	-	0:34:57.203000	0:34:58.576000
 Studienkollege	Studienkollege	NOUN	-	0:34:57.203000	0:34:58.576000
 .	-	-	-	0:34:57.203000	0:34:58.576000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:34:58.576000" end="0:34:58.936000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:58.576000" end="0:34:58.936000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:58.576000	0:34:58.936000
 .	-	-	-	0:34:58.576000	0:34:58.936000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:34:58.936000" end="0:35:00.950000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:34:58.936000" end="0:35:00.950000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 warum	warum	ADV	-	0:34:58.936000	0:35:00.950000
 fliegt	fliegen	VERB	-	0:34:58.936000	0:35:00.950000
@@ -9895,7 +9895,7 @@ auch	auch	ADV	-	0:34:58.936000	0:35:00.950000
 mit	mit	ADP	-	0:34:58.936000	0:35:00.950000
 ?	-	-	-	0:34:58.936000	0:35:00.950000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:00.950000" end="0:35:06.410000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:00.950000" end="0:35:06.410000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:00.950000	0:35:01.930000
 ich	ich	PRON	-	0:35:00.950000	0:35:01.930000
 weiß	weiß	VERB	-	0:35:00.950000	0:35:01.930000
@@ -9925,7 +9925,7 @@ gerne	gerne	ADV	IndK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ProgKon 
 mitfliegen	mitfliegen	NOUN	IndK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ProgKon ProgKonTyp ProgLes TunPProg VV stV std stdL- tunK tun_konj	0:35:05.136000	0:35:06.410000
 .	-	-	-	0:35:05.136000	0:35:06.410000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:06.410000" end="0:35:07.910000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:06.410000" end="0:35:07.910000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:35:06.410000	0:35:07.910000
 die	der	DET	-	0:35:06.410000	0:35:07.910000
 NAME	NAME	NOUN	-	0:35:06.410000	0:35:07.910000
@@ -9937,16 +9937,16 @@ freuen	freuen	VERB	-	0:35:06.410000	0:35:07.910000
 oder	oder	CCONJ	-	0:35:06.410000	0:35:07.910000
 ?	-	-	-	0:35:06.410000	0:35:07.910000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:07.910000" end="0:35:08.843000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:07.910000" end="0:35:08.843000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:35:07.910000	0:35:08.843000
 voll	voll	ADJ	-	0:35:07.910000	0:35:08.843000
 .	-	-	-	0:35:07.910000	0:35:08.843000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:08.843000" end="0:35:09.310000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:08.843000" end="0:35:09.310000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:08.843000	0:35:09.310000
 .	-	-	-	0:35:08.843000	0:35:09.310000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:09.310000" end="0:35:20.616000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:09.310000" end="0:35:20.616000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:35:09.310000	0:35:11.803000
 kriegen	kriegen	VERB	-	0:35:09.310000	0:35:11.803000
 dort	dort	ADV	-	0:35:09.310000	0:35:11.803000
@@ -9984,24 +9984,24 @@ sie	ich	PRON	-	0:35:17.443000	0:35:20.616000
 wechseln	wechseln	VERB	-	0:35:17.443000	0:35:20.616000
 .	-	-	-	0:35:17.443000	0:35:20.616000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:20.616000" end="0:35:22.630000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:20.616000" end="0:35:22.630000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 die	-	-	-	0:35:20.616000	0:35:22.630000
 Familie	-	-	-	0:35:20.616000	0:35:22.630000
 *tuts*	-	-	-	0:35:20.616000	0:35:22.630000
 wechseln	-	-	-	0:35:20.616000	0:35:22.630000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:22.630000" end="0:35:23.056000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:22.630000" end="0:35:23.056000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:35:22.630000	0:35:23.056000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:22.630000" end="0:35:23.676000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:22.630000" end="0:35:23.676000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:35:22.630000	0:35:23.056000
 (was)	-	-	-	0:35:22.630000	0:35:23.056000
 ?	-	-	-	0:35:22.630000	0:35:23.056000
 wieso	wieso	ADV	-	0:35:23.056000	0:35:23.676000
 ?	-	-	-	0:35:23.056000	0:35:23.676000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:23.676000" end="0:35:25.390000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:23.676000" end="0:35:25.390000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:23.676000	0:35:25.390000
 ,	-	-	-	0:35:23.676000	0:35:25.390000
 das	der	PRON	-	0:35:23.676000	0:35:25.390000
@@ -10010,11 +10010,11 @@ nicht	nicht	PART	-	0:35:23.676000	0:35:25.390000
 gepasst	gepasst	VERB	-	0:35:23.676000	0:35:25.390000
 .	-	-	-	0:35:23.676000	0:35:25.390000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:25.390000" end="0:35:26.010000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:25.390000" end="0:35:26.010000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:35:25.390000	0:35:26.010000
 .	-	-	-	0:35:25.390000	0:35:26.010000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:26.010000" end="0:35:29.290000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:26.010000" end="0:35:29.290000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Kinder	Kind	NOUN	-	0:35:26.010000	0:35:29.290000
 waren	sein	AUX	-	0:35:26.010000	0:35:29.290000
@@ -10025,7 +10025,7 @@ nicht	nicht	PART	-	0:35:26.010000	0:35:29.290000
 gefolgt	folgen	VERB	-	0:35:26.010000	0:35:29.290000
 .	-	-	-	0:35:26.010000	0:35:29.290000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:29.290000" end="0:35:30.923000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:29.290000" end="0:35:30.923000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:35:29.290000	0:35:30.923000
 Kinder	Kind	NOUN	-	0:35:29.290000	0:35:30.923000
 haben	haben	AUX	-	0:35:29.290000	0:35:30.923000
@@ -10033,30 +10033,30 @@ nicht	nicht	PART	-	0:35:29.290000	0:35:30.923000
 gefolgt	folgen	VERB	-	0:35:29.290000	0:35:30.923000
 ?	-	-	-	0:35:29.290000	0:35:30.923000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:30.923000" end="0:35:32.010000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:30.923000" end="0:35:32.010000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:35:30.923000	0:35:32.010000
 waren	sein	AUX	-	0:35:30.923000	0:35:32.010000
 bissel	bissel	NOUN	-	0:35:30.923000	0:35:32.010000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:30.923000" end="0:35:32.010000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:30.923000" end="0:35:32.010000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:35:30.923000	0:35:32.010000
 ist	sein	AUX	-	0:35:30.923000	0:35:32.010000
 nicht	nicht	PART	-	0:35:30.923000	0:35:32.010000
 gut	gut	ADJ	-	0:35:30.923000	0:35:32.010000
 .	-	-	-	0:35:30.923000	0:35:32.010000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:32.010000" end="0:35:33.623000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:32.010000" end="0:35:33.623000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zu	zu	ADP	-	0:35:32.010000	0:35:33.623000
 liberal	-	-	-	0:35:32.010000	0:35:33.623000
 zu	zu	ADP	-	0:35:32.010000	0:35:33.623000
 .	-	-	-	0:35:32.010000	0:35:33.623000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:33.623000" end="0:35:34.596000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:33.623000" end="0:35:34.596000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aha	aha	PROPN	-	0:35:33.623000	0:35:34.596000
 okay	okay	PROPN	-	0:35:33.623000	0:35:34.596000
 .	-	-	-	0:35:33.623000	0:35:34.596000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:34.596000" end="0:35:43.783000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:34.596000" end="0:35:43.783000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 also	-	-	-	0:35:34.596000	0:35:37.216000
 mit	-	-	-	0:35:34.596000	0:35:37.216000
@@ -10096,11 +10096,11 @@ super	-	-	-	0:35:42.690000	0:35:43.783000
 gepasst	-	-	-	0:35:42.690000	0:35:43.783000
 .	-	-	-	0:35:42.690000	0:35:43.783000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:43.783000" end="0:35:44.783000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:43.783000" end="0:35:44.783000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 <pause duration="hustet"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:44.783000" end="0:35:51.923000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:44.783000" end="0:35:51.923000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:35:44.783000	0:35:45.870000
 die	der	DET	-	0:35:44.783000	0:35:45.870000
 Mutter	Mutter	NOUN	-	0:35:44.783000	0:35:45.870000
@@ -10138,11 +10138,11 @@ keine	kein	DET	-	0:35:50.776000	0:35:51.923000
 Ahnung	Ahnung	NOUN	-	0:35:50.776000	0:35:51.923000
 .	-	-	-	0:35:50.776000	0:35:51.923000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:51.923000" end="0:35:52.603000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:51.923000" end="0:35:52.603000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:35:51.923000	0:35:52.603000
 .	-	-	-	0:35:51.923000	0:35:52.603000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:35:52.603000" end="0:35:59.623000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:52.603000" end="0:35:59.623000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 die	der	DET	-	0:35:52.603000	0:35:55.416000
 NAME	NAME	NOUN	-	0:35:52.603000	0:35:55.416000
@@ -10173,7 +10173,7 @@ und	und	CCONJ	-	0:35:58.010000	0:35:59.623000
 alles	alle	PRON	-	0:35:58.010000	0:35:59.623000
 .	-	-	-	0:35:58.010000	0:35:59.623000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:35:59.623000" end="0:36:01.210000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:35:59.623000" end="0:36:01.210000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:35:59.623000	0:36:01.210000
 die	der	PRON	-	0:35:59.623000	0:36:01.210000
@@ -10182,15 +10182,15 @@ es	ich	PRON	-	0:35:59.623000	0:36:01.210000
 nicht	nicht	PART	-	0:35:59.623000	0:36:01.210000
 wertgeschetzt	wertgeschetzt	ADJ	-	0:35:59.623000	0:36:01.210000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:01.210000" end="0:36:01.636000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:01.210000" end="0:36:01.636000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:36:01.210000	0:36:01.636000
 .	-	-	-	0:36:01.210000	0:36:01.636000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:01.210000" end="0:36:01.636000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:01.210000" end="0:36:01.636000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wahrscheinlich	wahrscheinlich	ADJ	-	0:36:01.210000	0:36:01.636000
 .	-	-	-	0:36:01.210000	0:36:01.636000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:01.636000" end="0:36:09.090000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:01.636000" end="0:36:09.090000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:36:01.636000	0:36:03.203000
 haben	haben	AUX	-	0:36:01.636000	0:36:03.203000
 das	der	DET	-	0:36:01.636000	0:36:03.203000
@@ -10232,7 +10232,7 @@ arg	arg	X	-	0:36:06.463000	0:36:09.090000
 oder	oder	CCONJ	-	0:36:06.463000	0:36:09.090000
 ?	-	-	-	0:36:06.463000	0:36:09.090000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:09.090000" end="0:36:10.850000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:09.090000" end="0:36:10.850000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:36:09.090000	0:36:10.850000
 wir	ich	PRON	-	0:36:09.090000	0:36:10.850000
 bei	bei	ADP	-	0:36:09.090000	0:36:10.850000
@@ -10242,7 +10242,7 @@ fünfzig	fünfzig	NUM	-	0:36:09.090000	0:36:10.850000
 Jahren	Jahr	NOUN	-	0:36:09.090000	0:36:10.850000
 .	-	-	-	0:36:09.090000	0:36:10.850000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:10.850000" end="0:36:14.183000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:10.850000" end="0:36:14.183000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:36:10.850000	0:36:14.183000
 am	am	ADP	-	0:36:10.850000	0:36:14.183000
@@ -10257,11 +10257,11 @@ Sonntag	Sonntag	NOUN	-	0:36:10.850000	0:36:14.183000
 mache	machen	VERB	-	0:36:10.850000	0:36:14.183000
 ?	-	-	-	0:36:10.850000	0:36:14.183000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:14.183000" end="0:36:14.863000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:14.183000" end="0:36:14.863000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	0:36:14.183000	0:36:14.863000
 ?	-	-	-	0:36:14.183000	0:36:14.863000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:14.863000" end="0:36:16.503000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:14.863000" end="0:36:16.503000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schaue	schauen	VERB	-	0:36:14.863000	0:36:16.503000
 ich	ich	PRON	-	0:36:14.863000	0:36:16.503000
 mir	sich	PRON	-	0:36:14.863000	0:36:16.503000
@@ -10271,11 +10271,11 @@ Spiel	Spiel	NOUN	-	0:36:14.863000	0:36:16.503000
 an	an	ADP	-	0:36:14.863000	0:36:16.503000
 .	-	-	-	0:36:14.863000	0:36:16.503000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:16.503000" end="0:36:16.963000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:16.503000" end="0:36:16.963000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 geil	geil	NOUN	-	0:36:16.503000	0:36:16.963000
 .	-	-	-	0:36:16.503000	0:36:16.963000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:16.963000" end="0:36:23.343000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:16.963000" end="0:36:23.343000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 Stadion	-	-	-	0:36:16.963000	0:36:20.110000
 *kannst*	-	-	-	0:36:16.963000	0:36:20.110000
@@ -10291,13 +10291,13 @@ die	der	DET	-	0:36:20.110000	0:36:23.343000
 Dolphins	Dolphins	NOUN	-	0:36:20.110000	0:36:23.343000
 .	-	-	-	0:36:20.110000	0:36:23.343000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:23.343000" end="0:36:25.276000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:23.343000" end="0:36:25.276000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:25.276000" end="0:36:26.436000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:25.276000" end="0:36:26.436000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:25.276000" end="0:36:26.436000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:25.276000" end="0:36:26.436000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:26.436000" end="0:36:28.996000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:26.436000" end="0:36:28.996000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:36:26.436000	0:36:28.996000
 hätte	haben	AUX	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:36:26.436000	0:36:28.996000
 ich	ich	PRON	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:36:26.436000	0:36:28.996000
@@ -10314,7 +10314,7 @@ das	der	DET	-	0:36:26.436000	0:36:28.996000
 Leben	Leben	NOUN	-	0:36:26.436000	0:36:28.996000
 .	-	-	-	0:36:26.436000	0:36:28.996000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:28.996000" end="0:36:32.310000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:28.996000" end="0:36:32.310000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:28.996000	0:36:32.310000
 ,	-	-	-	0:36:28.996000	0:36:32.310000
 wo	wo	ADV	-	0:36:28.996000	0:36:32.310000
@@ -10326,7 +10326,7 @@ wie	wie	CCONJ	-	0:36:28.996000	0:36:32.310000
 ihr	mein	PRON	-	0:36:28.996000	0:36:32.310000
 .	-	-	-	0:36:28.996000	0:36:32.310000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:32.310000" end="0:36:36.643000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:32.310000" end="0:36:36.643000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 das	der	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:36:32.310000	0:36:36.030000
 wäre	sein	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL-	0:36:32.310000	0:36:36.030000
@@ -10337,7 +10337,7 @@ lustig	lustig	ADJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV ci
 was	was	PRON	-	0:36:36.030000	0:36:36.643000
 ?	-	-	-	0:36:36.030000	0:36:36.643000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:36.030000" end="0:36:45.923000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:36.030000" end="0:36:45.923000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:36:36.030000	0:36:36.643000
 aber	aber	CCONJ	-	0:36:36.643000	0:36:37.263000
 ich	ich	PRON	-	0:36:36.643000	0:36:37.263000
@@ -10379,7 +10379,7 @@ kriegen	kriegen	VERB	-	0:36:43.143000	0:36:44.336000
 <pause duration="0,9s"/>
 oder	oder	CCONJ	-	0:36:44.336000	0:36:45.923000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:45.923000" end="0:36:49.616000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:45.923000" end="0:36:49.616000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:36:45.923000	0:36:46.816000
 aber	aber	CCONJ	-	0:36:45.923000	0:36:46.816000
 ich	ich	PRON	-	0:36:45.923000	0:36:46.816000
@@ -10398,7 +10398,7 @@ das	der	DET	-	0:36:48.656000	0:36:49.616000
 Regionale	regional	NOUN	-	0:36:48.656000	0:36:49.616000
 .	-	-	-	0:36:48.656000	0:36:49.616000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:49.616000" end="0:36:55.203000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:49.616000" end="0:36:55.203000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:36:49.616000	0:36:51.396000
 aber	aber	ADV	-	0:36:49.616000	0:36:51.396000
 nur	nur	ADV	-	0:36:49.616000	0:36:51.396000
@@ -10429,11 +10429,11 @@ nicht	nicht	PART	-	0:36:54.050000	0:36:55.203000
 mehr	mehr	ADV	-	0:36:54.050000	0:36:55.203000
 .	-	-	-	0:36:54.050000	0:36:55.203000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:36:55.203000" end="0:36:57.710000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:55.203000" end="0:36:57.710000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 (wohl)	wohl	ADV	-	0:36:55.203000	0:36:57.710000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:36:55.203000" end="0:37:10.976000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:36:55.203000" end="0:37:10.976000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 mach	-	-	-	0:36:55.203000	0:36:57.710000
 dir	-	-	-	0:36:55.203000	0:36:57.710000
@@ -10473,7 +10473,7 @@ irgendwas	-	-	KONJ	0:37:06.510000	0:37:10.976000
 gehört	-	-	KONJ	0:37:06.510000	0:37:10.976000
 .	-	-	-	0:37:06.510000	0:37:10.976000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:10.976000" end="0:37:16.536000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:10.976000" end="0:37:16.536000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:10.976000	0:37:14.470000
 sicher	sichern	ADJ	-	0:37:10.976000	0:37:14.470000
 aber	aber	ADV	-	0:37:10.976000	0:37:14.470000
@@ -10499,7 +10499,7 @@ glaube	glauben	VERB	-	0:37:16.016000	0:37:16.536000
 ich	ich	PRON	-	0:37:16.016000	0:37:16.536000
 .	-	-	-	0:37:16.016000	0:37:16.536000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:16.016000" end="0:37:25.016000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:16.016000" end="0:37:25.016000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:37:16.016000	0:37:16.536000
 kommt	kommen	VERB	-	0:37:16.016000	0:37:16.536000
 auf	auf	ADP	-	0:37:16.016000	0:37:16.536000
@@ -10542,7 +10542,7 @@ da	da	ADP	-	0:37:22.810000	0:37:25.016000
 ja	ja	PART	-	0:37:22.810000	0:37:25.016000
 .	-	-	-	0:37:22.810000	0:37:25.016000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:25.016000" end="0:37:26.216000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:25.016000" end="0:37:26.216000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:37:25.016000	0:37:26.216000
 ist	sein	AUX	-	0:37:25.016000	0:37:26.216000
 der	der	DET	-	0:37:25.016000	0:37:26.216000
@@ -10550,7 +10550,7 @@ Pascha	Pascha	NOUN	-	0:37:25.016000	0:37:26.216000
 NAME	NAME	PROPN	-	0:37:25.016000	0:37:26.216000
 ?	-	-	-	0:37:25.016000	0:37:26.216000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:26.216000" end="0:37:29.010000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:26.216000" end="0:37:29.010000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:37:26.216000	0:37:27.683000
 ja	ja	ADV	-	0:37:26.216000	0:37:27.683000
 der	der	DET	-	0:37:26.216000	0:37:27.683000
@@ -10565,7 +10565,7 @@ beim	beim	ADP	-	0:37:27.683000	0:37:29.010000
 arbeitet	arbeiten	VERB	-	0:37:27.683000	0:37:29.010000
 .	-	-	-	0:37:27.683000	0:37:29.010000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:29.010000" end="0:37:30.863000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:29.010000" end="0:37:30.863000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 der	der	PRON	-	0:37:29.010000	0:37:30.863000
 was	was	PRON	-	0:37:29.010000	0:37:30.863000
@@ -10573,7 +10573,7 @@ nichts	nichts	PRON	-	0:37:29.010000	0:37:30.863000
 kann	können	VERB	-	0:37:29.010000	0:37:30.863000
 ?	-	-	-	0:37:29.010000	0:37:30.863000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:30.863000" end="0:37:46.536000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:30.863000" end="0:37:46.536000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:30.863000	0:37:31.450000
 genau	genau	ADJ	-	0:37:30.863000	0:37:31.450000
 .	-	-	-	0:37:30.863000	0:37:31.450000
@@ -10646,10 +10646,10 @@ anderes	ander	PRON	KONJ	0:37:45.070000	0:37:46.536000
 gesagt	sagen	VERB	KONJ	0:37:45.070000	0:37:46.536000
 .	-	-	-	0:37:45.070000	0:37:46.536000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:46.536000" end="0:37:47.416000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:46.536000" end="0:37:47.416000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:46.536000	0:37:47.416000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:46.536000" end="0:37:47.416000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:46.536000" end="0:37:47.416000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:37:46.536000	0:37:47.416000
 ,	-	-	-	0:37:46.536000	0:37:47.416000
 was	was	PRON	-	0:37:46.536000	0:37:47.416000
@@ -10657,7 +10657,7 @@ ich	ich	PRON	-	0:37:46.536000	0:37:47.416000
 meine	meinen	VERB	-	0:37:46.536000	0:37:47.416000
 ?	-	-	-	0:37:46.536000	0:37:47.416000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:47.416000" end="0:37:55.263000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:47.416000" end="0:37:55.263000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:37:47.416000	0:37:48.196000
 .	-	-	-	0:37:47.416000	0:37:48.196000
 gebe	geben	VERB	-	0:37:48.196000	0:37:49.570000
@@ -10689,7 +10689,7 @@ Eltern	Eltern	NOUN	-	0:37:52.763000	0:37:55.263000
 liegt	liegen	VERB	-	0:37:52.763000	0:37:55.263000
 .	-	-	-	0:37:52.763000	0:37:55.263000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:55.263000" end="0:37:57.516000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:55.263000" end="0:37:57.516000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 überhaupt	überhaupt	ADV	-	0:37:55.263000	0:37:56.363000
 nicht	nicht	PART	-	0:37:55.263000	0:37:56.363000
 .	-	-	-	0:37:55.263000	0:37:56.363000
@@ -10706,10 +10706,10 @@ Jungend	-	-	-	0:37:56.363000	0:37:57.516000
 liegt	-	-	-	0:37:56.363000	0:37:57.516000
 .	-	-	-	0:37:56.363000	0:37:57.516000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:57.516000" end="0:37:58.203000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:57.516000" end="0:37:58.203000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:37:57.516000	0:37:58.203000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:37:57.516000" end="0:37:59.536000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:57.516000" end="0:37:59.536000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:37:57.516000	0:37:58.203000
 kann	können	VERB	-	0:37:57.516000	0:37:58.203000
 ja	ja	ADV	-	0:37:57.516000	0:37:58.203000
@@ -10723,7 +10723,7 @@ erzogen	erziehen	VERB	-	0:37:58.903000	0:37:59.536000
 wird	werden	AUX	-	0:37:58.903000	0:37:59.536000
 .	-	-	-	0:37:58.903000	0:37:59.536000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:37:59.536000" end="0:38:14.523000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:37:59.536000" end="0:38:14.523000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:37:59.536000	0:38:01.976000
 <pause duration="0,5s"/>
 das	der	PRON	-	0:37:59.536000	0:38:01.976000
@@ -10794,12 +10794,12 @@ schon	schon	ADV	-	0:38:12.483000	0:38:14.523000
 manchmal	manchmal	ADV	-	0:38:12.483000	0:38:14.523000
 .	-	-	-	0:38:12.483000	0:38:14.523000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:14.523000" end="0:38:15.383000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:14.523000" end="0:38:15.383000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:38:14.523000	0:38:15.383000
 eh	eh	X	-	0:38:14.523000	0:38:15.383000
 .	-	-	-	0:38:14.523000	0:38:15.383000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:15.383000" end="0:38:23.423000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:15.383000" end="0:38:23.423000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:38:15.383000	0:38:18.343000
 andererseits	-	-	-	0:38:15.383000	0:38:18.343000
 <pause duration="0,6s"/>
@@ -10828,11 +10828,11 @@ und	-	-	-	0:38:22.096000	0:38:23.070000
 <pause duration="0,7s"/>
 nur	-	-	-	0:38:23.070000	0:38:23.423000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:23.070000" end="0:38:23.423000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:23.070000" end="0:38:23.423000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:38:23.070000	0:38:23.423000
 .	-	-	-	0:38:23.070000	0:38:23.423000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:23.423000" end="0:38:26.170000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:23.423000" end="0:38:26.170000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:38:23.423000	0:38:24.663000
 *vergisst*	-	-	-	0:38:23.423000	0:38:24.663000
 halt	-	-	-	0:38:23.423000	0:38:24.663000
@@ -10842,7 +10842,7 @@ glaube	-	-	-	0:38:24.663000	0:38:26.170000
 ich	-	-	-	0:38:24.663000	0:38:26.170000
 .	-	-	-	0:38:24.663000	0:38:26.170000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:26.170000" end="0:38:35.403000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:26.170000" end="0:38:35.403000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ich	ich	PRON	-	0:38:26.170000	0:38:27.443000
 glaube	glauben	VERB	-	0:38:26.170000	0:38:27.443000
@@ -10879,10 +10879,10 @@ ja	-	-	-	0:38:31.923000	0:38:35.403000
 also	-	-	-	0:38:31.923000	0:38:35.403000
 .	-	-	-	0:38:31.923000	0:38:35.403000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:35.403000" end="0:38:36.203000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:35.403000" end="0:38:36.203000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:38:35.403000	0:38:36.203000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:36.203000" end="0:38:37.956000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:36.203000" end="0:38:37.956000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:38:36.203000	0:38:37.956000
 haben	haben	AUX	-	0:38:36.203000	0:38:37.956000
 schon	schon	ADV	-	0:38:36.203000	0:38:37.956000
@@ -10891,12 +10891,12 @@ Blödsinn	Blödsinn	NOUN	-	0:38:36.203000	0:38:37.956000
 gemacht	machen	VERB	-	0:38:36.203000	0:38:37.956000
 .	-	-	-	0:38:36.203000	0:38:37.956000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:37.956000" end="0:38:38.950000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:37.956000" end="0:38:38.950000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	PROPN	-	0:38:37.956000	0:38:38.950000
 sicher	sichern	ADJ	-	0:38:37.956000	0:38:38.950000
 .	-	-	-	0:38:37.956000	0:38:38.950000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:37.956000" end="0:38:46.743000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:37.956000" end="0:38:46.743000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:37.956000	0:38:38.950000
 .	-	-	-	0:38:37.956000	0:38:38.950000
 definitiv	definitiv	ADJ	-	0:38:38.950000	0:38:39.723000
@@ -10932,11 +10932,11 @@ ich	ich	PRON	-	0:38:45.649000	0:38:46.743000
 meine	meinen	VERB	-	0:38:45.649000	0:38:46.743000
 ?	-	-	-	0:38:45.649000	0:38:46.743000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:46.743000" end="0:38:47.269000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:46.743000" end="0:38:47.269000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:46.743000	0:38:47.269000
 .	-	-	-	0:38:46.743000	0:38:47.269000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:47.269000" end="0:38:56.476000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:47.269000" end="0:38:56.476000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:38:47.269000	0:38:48.816000
 das	der	PRON	-	0:38:47.269000	0:38:48.816000
 hat	haben	AUX	-	0:38:47.269000	0:38:48.816000
@@ -10979,14 +10979,14 @@ sagen	sagen	VERB	-	0:38:54.723000	0:38:56.476000
 soll	soll	VERB	-	0:38:54.723000	0:38:56.476000
 .	-	-	-	0:38:54.723000	0:38:56.476000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:38:56.476000" end="0:38:58.576000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:56.476000" end="0:38:58.576000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:38:56.476000	0:38:58.576000
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:38:56.476000	0:38:58.576000
 .	-	-	-	0:38:56.476000	0:38:58.576000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:38:58.576000" end="0:39:07.889000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:38:58.576000" end="0:39:07.889000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:38:58.576000	0:39:01.403000
 ja	ja	ADV	-	0:38:58.576000	0:39:01.403000
@@ -11025,7 +11025,7 @@ glaube	glauben	VERB	-	0:39:05.396000	0:39:07.889000
 ich	ich	PRON	-	0:39:05.396000	0:39:07.889000
 .	-	-	-	0:39:05.396000	0:39:07.889000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:39:07.889000" end="0:39:18.443000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:07.889000" end="0:39:18.443000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:39:07.889000	0:39:09.569000
 ich	ich	PRON	-	0:39:07.889000	0:39:09.569000
@@ -11076,13 +11076,13 @@ nicht	nicht	PART	-	0:39:17.643000	0:39:18.443000
 auf	auf	ADP	-	0:39:17.643000	0:39:18.443000
 .	-	-	-	0:39:17.643000	0:39:18.443000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:39:18.443000" end="0:39:19.103000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:18.443000" end="0:39:19.103000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:39:18.443000	0:39:19.103000
 stimmt	stimmen	VERB	-	0:39:18.443000	0:39:19.103000
 ja	ja	ADV	-	0:39:18.443000	0:39:19.103000
 .	-	-	-	0:39:18.443000	0:39:19.103000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:39:19.103000" end="0:39:26.196000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:19.103000" end="0:39:26.196000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 das	der	PRON	-	0:39:19.103000	0:39:21.089000
 ist	sein	AUX	-	0:39:19.103000	0:39:21.089000
@@ -11111,13 +11111,13 @@ und	und	CCONJ	-	0:39:21.089000	0:39:26.196000
 alles	alle	PRON	-	0:39:21.089000	0:39:26.196000
 .	-	-	-	0:39:21.089000	0:39:26.196000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:39:26.196000" end="0:39:27.403000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:26.196000" end="0:39:27.403000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:39:26.196000	0:39:27.403000
 eh	eh	X	-	0:39:26.196000	0:39:27.403000
 .	-	-	-	0:39:26.196000	0:39:27.403000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:39:27.403000" end="0:39:56.336000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:27.403000" end="0:39:56.336000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:39:27.403000	0:39:28.763000
 due	due	PROPN	-	0:39:27.403000	0:39:28.763000
 fallen	fallen	VERB	-	0:39:27.403000	0:39:28.763000
@@ -11225,11 +11225,11 @@ wie	wie	CCONJ	-	0:39:52.763000	0:39:56.336000
 heute	heute	ADV	-	0:39:52.763000	0:39:56.336000
 .	-	-	-	0:39:52.763000	0:39:56.336000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:39:56.336000" end="0:39:56.609000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:56.336000" end="0:39:56.609000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:39:56.336000	0:39:56.609000
 .	-	-	-	0:39:56.336000	0:39:56.609000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:39:56.609000" end="0:40:05.749000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:39:56.609000" end="0:40:05.749000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:39:56.609000	0:39:57.576000
 denkst	-	-	-	0:39:56.609000	0:39:57.576000
 ,	-	-	-	0:39:56.609000	0:39:57.576000
@@ -11259,11 +11259,11 @@ die	der	PRON	-	0:40:03.129000	0:40:05.749000
 einschreibst	einschreiben	ADV	-	0:40:03.129000	0:40:05.749000
 ,	-	-	-	0:40:03.129000	0:40:05.749000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:05.749000" end="0:40:06.476000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:05.749000" end="0:40:06.476000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:40:05.749000	0:40:06.476000
 .	-	-	-	0:40:05.749000	0:40:06.476000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:06.476000" end="0:40:14.129000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:06.476000" end="0:40:14.129000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:40:06.476000	0:40:08.496000
 hat	haben	AUX	-	0:40:06.476000	0:40:08.496000
 es	ich	PRON	-	0:40:06.476000	0:40:08.496000
@@ -11300,12 +11300,12 @@ für	für	ADP	-	0:40:13.536000	0:40:14.129000
 das	der	PRON	-	0:40:13.536000	0:40:14.129000
 gegeben	geben	VERB	-	0:40:13.536000	0:40:14.129000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:13.536000" end="0:40:14.129000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:13.536000" end="0:40:14.129000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:40:13.536000	0:40:14.129000
 sicher	sichern	ADJ	-	0:40:13.536000	0:40:14.129000
 .	-	-	-	0:40:13.536000	0:40:14.129000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:14.129000" end="0:40:17.769000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:14.129000" end="0:40:17.769000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:40:14.129000	0:40:14.289000
 .	-	-	-	0:40:14.129000	0:40:14.289000
 weil	weil	SCONJ	-	0:40:14.289000	0:40:16.109000
@@ -11326,11 +11326,11 @@ können	können	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth Mod
 daneben	daneben	ADV	-	0:40:16.109000	0:40:17.769000
 .	-	-	-	0:40:16.109000	0:40:17.769000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:17.769000" end="0:40:17.963000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:17.769000" end="0:40:17.963000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:17.769000	0:40:17.963000
 .	-	-	-	0:40:17.769000	0:40:17.963000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:17.963000" end="0:40:27.583000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:17.963000" end="0:40:27.583000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:40:17.963000	0:40:20.563000
 da	da	ADV	-	0:40:17.963000	0:40:20.563000
@@ -11380,11 +11380,11 @@ halt	halt	ADV	-	0:40:25.896000	0:40:27.583000
 gepasst	gepasst	VERB	-	0:40:25.896000	0:40:27.583000
 .	-	-	-	0:40:25.896000	0:40:27.583000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:27.583000" end="0:40:28.323000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:27.583000" end="0:40:28.323000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:40:27.583000	0:40:28.323000
 .	-	-	-	0:40:27.583000	0:40:28.323000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:28.323000" end="0:40:31.376000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:28.323000" end="0:40:31.376000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:40:28.323000	0:40:29.983000
 ich	ich	PRON	-	0:40:28.323000	0:40:29.983000
@@ -11399,7 +11399,7 @@ besser	-	-	-	0:40:29.983000	0:40:31.376000
 war	-	-	-	0:40:29.983000	0:40:31.376000
 .	-	-	-	0:40:29.983000	0:40:31.376000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:31.376000" end="0:40:36.923000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:31.376000" end="0:40:36.923000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:40:31.376000	0:40:32.283000
 eh	eh	ADV	-	0:40:31.376000	0:40:32.283000
 nicht	nicht	PART	-	0:40:31.376000	0:40:32.283000
@@ -11422,11 +11422,11 @@ Weltuntergang	Weltuntergang	NOUN	-	0:40:34.796000	0:40:36.923000
 entgegen	entgegen	ADP	-	0:40:34.796000	0:40:36.923000
 ,	-	-	-	0:40:34.796000	0:40:36.923000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:36.923000" end="0:40:37.503000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:36.923000" end="0:40:37.503000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:40:36.923000	0:40:37.503000
 .	-	-	-	0:40:36.923000	0:40:37.503000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:36.923000" end="0:40:58.856000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:36.923000" end="0:40:58.856000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:36.923000	0:40:37.503000
 .	-	-	-	0:40:36.923000	0:40:37.503000
 aber	-	-	-	0:40:37.503000	0:40:40.376000
@@ -11510,14 +11510,14 @@ nichts	nichts	PRON	-	0:40:57.816000	0:40:58.856000
 passiert	passieren	VERB	-	0:40:57.816000	0:40:58.856000
 .	-	-	-	0:40:57.816000	0:40:58.856000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:58.856000" end="0:40:59.516000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:58.856000" end="0:40:59.516000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:40:58.856000	0:40:59.516000
 es	ich	PRON	-	0:40:58.856000	0:40:59.516000
 gibt	geben	VERB	-	0:40:58.856000	0:40:59.516000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:40:58.856000" end="0:40:59.516000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:58.856000" end="0:40:59.516000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:40:59.516000" end="0:41:02.149000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:40:59.516000" end="0:41:02.149000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 fünfhundert	fünfhundert	VERB	-	0:40:59.516000	0:41:01.829000
 ,	-	-	-	0:40:59.516000	0:41:01.829000
@@ -11527,7 +11527,7 @@ passiert	passieren	VERB	-	0:40:59.516000	0:41:01.829000
 .	-	-	-	0:40:59.516000	0:41:01.829000
 und	und	CCONJ	-	0:41:01.829000	0:41:02.149000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:02.149000" end="0:41:03.789000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:02.149000" end="0:41:03.789000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:41:02.149000	0:41:03.789000
 die	der	DET	-	0:41:02.149000	0:41:03.789000
 fünf	fünf	NUM	-	0:41:02.149000	0:41:03.789000
@@ -11538,7 +11538,7 @@ passiert	passieren	VERB	-	0:41:02.149000	0:41:03.789000
 ist	sein	AUX	-	0:41:02.149000	0:41:03.789000
 ,	-	-	-	0:41:02.149000	0:41:03.789000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:03.789000" end="0:41:05.583000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:03.789000" end="0:41:05.583000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:41:03.789000	0:41:04.416000
 sind	sein	AUX	-	0:41:03.789000	0:41:04.416000
 alle	all	PRON	-	0:41:03.789000	0:41:04.416000
@@ -11546,7 +11546,7 @@ alle	all	PRON	-	0:41:04.416000	0:41:05.583000
 ja	ja	PART	-	0:41:04.416000	0:41:05.583000
 .	-	-	-	0:41:04.416000	0:41:05.583000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:04.416000" end="0:41:10.876000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:04.416000" end="0:41:10.876000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:41:04.416000	0:41:05.583000
 stehen	stehen	VERB	-	0:41:04.416000	0:41:05.583000
 halt	halt	ADV	-	0:41:04.416000	0:41:05.583000
@@ -11578,16 +11578,16 @@ so	so	ADV	-	0:41:09.643000	0:41:10.876000
 ja	ja	ADV	-	0:41:09.643000	0:41:10.876000
 .	-	-	-	0:41:09.643000	0:41:10.876000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:10.876000" end="0:41:11.389000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:10.876000" end="0:41:11.389000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:10.876000	0:41:11.389000
 .	-	-	-	0:41:10.876000	0:41:11.389000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:11.389000" end="0:41:12.436000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:11.389000" end="0:41:12.436000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:41:11.389000	0:41:12.436000
 .	-	-	-	0:41:11.389000	0:41:12.436000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:12.436000" end="0:41:26.536000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:12.436000" end="0:41:26.536000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:41:12.436000	0:41:12.909000
 meine	meinen	VERB	-	0:41:12.436000	0:41:12.909000
 ,	-	-	-	0:41:12.436000	0:41:12.909000
@@ -11634,10 +11634,10 @@ alles	alle	PRON	-	0:41:24.943000	0:41:26.169000
 vorgeschrieben	vorschreiben	VERB	-	0:41:24.943000	0:41:26.169000
 und	und	CCONJ	-	0:41:26.169000	0:41:26.536000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:26.169000" end="0:41:26.536000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:26.169000" end="0:41:26.536000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:41:26.169000	0:41:26.536000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:26.536000" end="0:41:37.689000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:26.536000" end="0:41:37.689000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:41:26.536000	0:41:30.423000
 halt	halt	ADV	-	0:41:26.536000	0:41:30.423000
 der	der	DET	-	0:41:26.536000	0:41:30.423000
@@ -11682,12 +11682,12 @@ das	der	DET	-	0:41:36.996000	0:41:37.689000
 Gefühl	Gefühl	NOUN	-	0:41:36.996000	0:41:37.689000
 .	-	-	-	0:41:36.996000	0:41:37.689000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:37.689000" end="0:41:38.609000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:37.689000" end="0:41:38.609000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:41:37.689000	0:41:38.609000
 .	-	-	-	0:41:37.689000	0:41:38.609000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:38.609000" end="0:41:43.369000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:38.609000" end="0:41:43.369000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 obwohl	obwohl	SCONJ	-	0:41:38.609000	0:41:40.289000
 es	ich	PRON	-	0:41:38.609000	0:41:40.289000
@@ -11706,7 +11706,7 @@ der	der	DET	-	0:41:40.729000	0:41:43.369000
 (Schilder)macher	Schildermacher	NOUN	-	0:41:40.729000	0:41:43.369000
 Firmenchef	Firmenchef	NOUN	-	0:41:40.729000	0:41:43.369000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:43.369000" end="0:41:50.203000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:43.369000" end="0:41:50.203000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 na	na	X	-	0:41:43.369000	0:41:45.929000
 ja	ja	PART	-	0:41:43.369000	0:41:45.929000
@@ -11745,17 +11745,17 @@ schaffen	schaffen	VERB	-	0:41:49.283000	0:41:49.876000
 *musst*	-	-	-	0:41:49.876000	0:41:50.203000
 halt	-	-	-	0:41:49.876000	0:41:50.203000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:50.203000" end="0:41:51.049000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:50.203000" end="0:41:51.049000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:50.203000	0:41:51.049000
 .	-	-	-	0:41:50.203000	0:41:51.049000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:50.203000" end="0:41:51.049000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:50.203000" end="0:41:51.049000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 überall	-	-	-	0:41:50.203000	0:41:51.049000
 Schilder	-	-	-	0:41:50.203000	0:41:51.049000
 aufstellen	-	-	-	0:41:50.203000	0:41:51.049000
 .	-	-	-	0:41:50.203000	0:41:51.049000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:51.049000" end="0:41:52.483000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:51.049000" end="0:41:52.483000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:41:51.049000	0:41:52.483000
 kann	können	VERB	-	0:41:51.049000	0:41:52.483000
 mich	sich	PRON	-	0:41:51.049000	0:41:52.483000
@@ -11763,11 +11763,11 @@ nicht	nicht	PART	-	0:41:51.049000	0:41:52.483000
 an	an	ADP	-	0:41:51.049000	0:41:52.483000
 ich	ich	PRON	-	0:41:51.049000	0:41:52.483000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:51.049000" end="0:41:52.483000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:51.049000" end="0:41:52.483000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:41:51.049000	0:41:52.483000
 du	du	PRON	-	0:41:51.049000	0:41:52.483000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:52.483000" end="0:41:57.076000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:52.483000" end="0:41:57.076000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:41:52.483000	0:41:54.643000
 ja	ja	ADV	-	0:41:52.483000	0:41:54.643000
 eh	eh	ADV	-	0:41:52.483000	0:41:54.643000
@@ -11794,19 +11794,19 @@ Trotteln	Trotteln	NOUN	-	0:41:54.643000	0:41:57.076000
 ausrichten	ausrichten	VERB	-	0:41:54.643000	0:41:57.076000
 .	-	-	-	0:41:54.643000	0:41:57.076000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:57.076000" end="0:41:58.509000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:57.076000" end="0:41:58.509000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nein	nein	PART	-	0:41:57.076000	0:41:58.509000
 aber	aber	CCONJ	-	0:41:57.076000	0:41:58.509000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:41:58.509000" end="0:41:59.743000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:58.509000" end="0:41:59.743000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:41:58.509000	0:41:59.743000
 meine	meinen	DET	-	0:41:58.509000	0:41:59.743000
 sonst	sonst	ADV	-	0:41:58.509000	0:41:59.743000
 werden	werden	AUX	-	0:41:58.509000	0:41:59.743000
 es	ich	PRON	-	0:41:58.509000	0:41:59.743000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:41:58.509000" end="0:42:09.136000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:41:58.509000" end="0:42:09.136000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:41:58.509000	0:41:59.743000
 meine	meinen	VERB	-	0:41:58.509000	0:41:59.743000
 zum	zum	ADP	-	0:41:58.509000	0:41:59.743000
@@ -11850,11 +11850,11 @@ ORT	ORT	NOUN	-	0:42:03.023000	0:42:09.136000
 da	da	ADV	-	0:42:03.023000	0:42:09.136000
 ,	-	-	-	0:42:03.023000	0:42:09.136000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:09.136000" end="0:42:09.629000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:09.136000" end="0:42:09.629000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:09.136000	0:42:09.629000
 .	-	-	-	0:42:09.136000	0:42:09.629000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:09.629000" end="0:42:13.963000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:09.629000" end="0:42:13.963000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:42:09.629000	0:42:12.829000
 die	der	PRON	-	0:42:09.629000	0:42:12.829000
 nicht	nicht	PART	-	0:42:09.629000	0:42:12.829000
@@ -11875,11 +11875,11 @@ trotzdem	-	-	-	0:42:12.829000	0:42:13.963000
 steht	-	-	-	0:42:12.829000	0:42:13.963000
 es	-	-	-	0:42:12.829000	0:42:13.963000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:13.963000" end="0:42:14.496000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:13.963000" end="0:42:14.496000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:42:13.963000	0:42:14.496000
 ?	-	-	-	0:42:13.963000	0:42:14.496000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:13.963000" end="0:42:20.036000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:13.963000" end="0:42:20.036000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (eh)	-	-	-	0:42:13.963000	0:42:14.496000
 na	-	-	-	0:42:14.496000	0:42:17.556000
 *wennst*	-	-	-	0:42:14.496000	0:42:17.556000
@@ -11904,11 +11904,11 @@ oder	oder	CCONJ	-	0:42:19.403000	0:42:20.036000
 du	du	PRON	-	0:42:19.403000	0:42:20.036000
 kommst	kommen	VERB	-	0:42:19.403000	0:42:20.036000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:20.036000" end="0:42:21.449000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:20.036000" end="0:42:21.449000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:42:20.036000	0:42:21.449000
 .	-	-	-	0:42:20.036000	0:42:21.449000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:20.036000" end="0:42:28.869000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:20.036000" end="0:42:28.869000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:42:21.449000	0:42:23.943000
 verträgt	vertragen	VERB	-	0:42:21.449000	0:42:23.943000
 mit	mit	ADP	-	0:42:21.449000	0:42:23.943000
@@ -11947,11 +11947,11 @@ bin	sein	AUX	-	0:42:27.316000	0:42:28.869000
 ich	ich	PRON	-	0:42:27.316000	0:42:28.869000
 einmal	einmal	ADV	-	0:42:27.316000	0:42:28.869000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:28.869000" end="0:42:29.249000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:28.869000" end="0:42:29.249000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:28.869000	0:42:29.249000
 .	-	-	-	0:42:28.869000	0:42:29.249000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:28.869000" end="0:42:36.256000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:28.869000" end="0:42:36.256000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gefahren	gefahren	VERB	-	0:42:28.869000	0:42:29.249000
 ,	-	-	-	0:42:28.869000	0:42:29.249000
 die	der	PRON	-	0:42:29.249000	0:42:30.109000
@@ -12000,7 +12000,7 @@ auch	auch	ADV	-	0:42:35.462000	0:42:36.256000
 schon	schon	ADV	-	0:42:35.462000	0:42:36.256000
 .	-	-	-	0:42:35.462000	0:42:36.256000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:36.256000" end="0:42:39.609000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:36.256000" end="0:42:39.609000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:42:36.256000	0:42:37.356000
 .	-	-	-	0:42:36.256000	0:42:37.356000
@@ -12011,7 +12011,7 @@ glaube	glauben	VERB	-	0:42:37.356000	0:42:39.609000
 ich	ich	PRON	-	0:42:37.356000	0:42:39.609000
 .	-	-	-	0:42:37.356000	0:42:39.609000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:39.609000" end="0:42:45.482000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:39.609000" end="0:42:45.482000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:39.609000	0:42:39.862000
 .	-	-	-	0:42:39.609000	0:42:39.862000
 <pause duration="1,2s"/>
@@ -12039,10 +12039,10 @@ habe	habe	AUX	-	0:42:44.322000	0:42:45.482000
 heute	heute	ADV	-	0:42:44.322000	0:42:45.482000
 im	im	ADP	-	0:42:44.322000	0:42:45.482000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:42:45.482000" end="0:42:45.909000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.482000" end="0:42:45.909000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:45.482000	0:42:45.909000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:42:45.909000" end="0:43:07.256000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:42:45.909000" end="0:43:07.256000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Verein	Verein	NOUN	-	0:42:45.909000	0:42:48.182000
 ich	ich	PRON	-	0:42:45.909000	0:42:48.182000
 habe	habe	AUX	-	0:42:45.909000	0:42:48.182000
@@ -12130,20 +12130,20 @@ dass	dass	SCONJ	-	0:43:05.936000	0:43:07.256000
 halt	halt	ADV	-	0:43:05.936000	0:43:07.256000
 nichts	nichts	PRON	-	0:43:05.936000	0:43:07.256000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:07.256000" end="0:43:07.562000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:07.256000" end="0:43:07.562000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:43:07.256000	0:43:07.562000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:07.256000" end="0:43:07.562000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:07.256000" end="0:43:07.562000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:43:07.256000	0:43:07.562000
 .	-	-	-	0:43:07.256000	0:43:07.562000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:07.562000" end="0:43:08.296000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:07.562000" end="0:43:08.296000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:43:07.562000	0:43:08.296000
 mehr	mehr	ADV	-	0:43:07.562000	0:43:08.296000
 sind	sein	AUX	-	0:43:07.562000	0:43:08.296000
 .	-	-	-	0:43:07.562000	0:43:08.296000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:08.296000" end="0:43:19.996000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:08.296000" end="0:43:19.996000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:43:08.296000	0:43:10.302000
 jetzt	jetzt	ADV	-	0:43:08.296000	0:43:10.302000
 haben	haben	AUX	-	0:43:08.296000	0:43:10.302000
@@ -12200,7 +12200,7 @@ uns	sich	PRON	-	0:43:19.109000	0:43:19.996000
 reden	reden	VERB	-	0:43:19.109000	0:43:19.996000
 .	-	-	-	0:43:19.109000	0:43:19.996000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:19.996000" end="0:43:23.962000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:19.996000" end="0:43:23.962000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	-	-	-	0:43:19.996000	0:43:20.989000
 *meinst*	-	-	-	0:43:19.996000	0:43:20.989000
@@ -12211,7 +12211,7 @@ dass	dass	NOUN	-	0:43:20.989000	0:43:22.642000
 der	der	DET	-	0:43:20.989000	0:43:22.642000
 .	-	-	-	0:43:22.642000	0:43:23.962000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:22.642000" end="0:43:43.776000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:22.642000" end="0:43:43.776000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:43:22.642000	0:43:23.962000
 genau	genau	ADJ	-	0:43:22.642000	0:43:23.962000
 .	-	-	-	0:43:22.642000	0:43:23.962000
@@ -12301,10 +12301,10 @@ frostig	frostig	ADJ	Adj Expr Int Komp WA WBA Wert level neg	0:43:38.622000	0:43:
 war	sein	AUX	-	0:43:38.622000	0:43:43.776000
 ,	-	-	-	0:43:38.622000	0:43:43.776000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:43.776000" end="0:43:44.356000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:43.776000" end="0:43:44.356000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:43:43.776000	0:43:44.356000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:44.356000" end="0:43:57.522000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:44.356000" end="0:43:57.522000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:43:44.356000	0:43:46.876000
 die	der	PRON	-	0:43:44.356000	0:43:46.876000
 wie	wie	CCONJ	-	0:43:44.356000	0:43:46.876000
@@ -12363,18 +12363,18 @@ gestritten	streiten	VERB	-	0:43:56.029000	0:43:57.522000
 haben	haben	AUX	-	0:43:56.029000	0:43:57.522000
 ,	-	-	-	0:43:56.029000	0:43:57.522000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:57.522000" end="0:43:57.742000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:57.522000" end="0:43:57.742000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:43:57.522000	0:43:57.742000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:57.522000" end="0:43:57.742000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:57.522000" end="0:43:57.742000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:57.522000	0:43:57.742000
 .	-	-	-	0:43:57.522000	0:43:57.742000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:43:57.742000" end="0:43:58.256000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:57.742000" end="0:43:58.256000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:43:57.742000	0:43:58.256000
 .	-	-	-	0:43:57.742000	0:43:58.256000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:43:58.256000" end="0:44:00.529000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:43:58.256000" end="0:44:00.529000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:43:58.256000	0:43:58.762000
 *weißt*	-	-	-	0:43:58.256000	0:43:58.762000
 ,	-	-	-	0:43:58.256000	0:43:58.762000
@@ -12391,7 +12391,7 @@ bissel	bissel	NOUN	-	0:43:59.549000	0:44:00.529000
 arg	arg	PROPN	-	0:43:59.549000	0:44:00.529000
 .	-	-	-	0:43:59.549000	0:44:00.529000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:00.529000" end="0:44:07.062000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:00.529000" end="0:44:07.062000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:44:00.529000	0:44:03.329000
 weil	weil	SCONJ	-	0:44:00.529000	0:44:03.329000
@@ -12417,13 +12417,13 @@ nur	nur	ADV	-	0:44:05.569000	0:44:07.062000
 Blödsinn	Blödsinn	NOUN	-	0:44:05.569000	0:44:07.062000
 .	-	-	-	0:44:05.569000	0:44:07.062000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:07.062000" end="0:44:08.069000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:07.062000" end="0:44:08.069000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:44:07.062000	0:44:08.069000
 es	ich	PRON	-	0:44:07.062000	0:44:08.069000
 ist	sein	AUX	-	0:44:07.062000	0:44:08.069000
 ja	ja	ADV	-	0:44:07.062000	0:44:08.069000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:08.069000" end="0:44:09.429000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:08.069000" end="0:44:09.429000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:44:08.069000	0:44:09.429000
 *haltest*	-	-	-	0:44:08.069000	0:44:09.429000
 nicht	-	-	-	0:44:08.069000	0:44:09.429000
@@ -12431,7 +12431,7 @@ mehr	-	-	-	0:44:08.069000	0:44:09.429000
 aus	-	-	-	0:44:08.069000	0:44:09.429000
 .	-	-	-	0:44:08.069000	0:44:09.429000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:08.069000" end="0:44:18.482000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:08.069000" end="0:44:18.482000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (auch)	auch	ADV	-	0:44:08.069000	0:44:09.429000
 sonst	sonst	ADV	-	0:44:08.069000	0:44:09.429000
 so	so	ADV	-	0:44:08.069000	0:44:09.429000
@@ -12477,23 +12477,23 @@ wir	ich	PRON	-	0:44:17.502000	0:44:18.482000
 haben	haben	AUX	-	0:44:17.502000	0:44:18.482000
 sie	ich	PRON	-	0:44:17.502000	0:44:18.482000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:18.482000" end="0:44:18.956000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.482000" end="0:44:18.956000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:44:18.482000	0:44:18.956000
 er	ich	PRON	-	0:44:18.482000	0:44:18.956000
 nicht	nicht	PART	-	0:44:18.482000	0:44:18.956000
 mehr	mehr	ADV	-	0:44:18.482000	0:44:18.956000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:18.482000" end="0:44:18.956000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.482000" end="0:44:18.956000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 früher/	-	-	-	0:44:18.482000	0:44:18.956000
 .	-	-	-	0:44:18.482000	0:44:18.956000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:18.956000" end="0:44:19.862000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:18.956000" end="0:44:19.862000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 offiziell	offiziell	ADJ	-	0:44:18.956000	0:44:19.862000
 oder	oder	CCONJ	-	0:44:18.956000	0:44:19.862000
 was	was	PRON	-	0:44:18.956000	0:44:19.862000
 ?	-	-	-	0:44:18.956000	0:44:19.862000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:19.862000" end="0:44:20.629000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:19.862000" end="0:44:20.629000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:44:19.862000	0:44:20.629000
 ja	ja	ADV	-	0:44:19.862000	0:44:20.629000
 er	ich	PRON	-	0:44:19.862000	0:44:20.629000
@@ -12502,12 +12502,12 @@ nicht	nicht	PART	-	0:44:19.862000	0:44:20.629000
 mehr	mehr	ADV	-	0:44:19.862000	0:44:20.629000
 .	-	-	-	0:44:19.862000	0:44:20.629000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:20.629000" end="0:44:21.362000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:20.629000" end="0:44:21.362000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:44:20.629000	0:44:21.362000
 ja	ja	PART	-	0:44:20.629000	0:44:21.362000
 .	-	-	-	0:44:20.629000	0:44:21.362000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:20.629000" end="0:44:27.922000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:20.629000" end="0:44:27.922000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:44:20.629000	0:44:21.362000
 habe	habe	AUX	-	0:44:20.629000	0:44:21.362000
 ich	ich	PRON	-	0:44:20.629000	0:44:21.362000
@@ -12542,29 +12542,29 @@ ihm	-	-	-	0:44:26.362000	0:44:27.922000
 geredet	-	-	-	0:44:26.362000	0:44:27.922000
 .	-	-	-	0:44:26.362000	0:44:27.922000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:27.922000" end="0:44:28.316000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:27.922000" end="0:44:28.316000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:27.922000	0:44:28.316000
 .	-	-	-	0:44:27.922000	0:44:28.316000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:27.922000" end="0:44:28.996000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:27.922000" end="0:44:28.996000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:44:27.922000	0:44:28.316000
 war	sein	AUX	-	0:44:28.316000	0:44:28.996000
 nie	nie	ADV	-	0:44:28.316000	0:44:28.996000
 was	was	PRON	-	0:44:28.316000	0:44:28.996000
 .	-	-	-	0:44:28.316000	0:44:28.996000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:28.996000" end="0:44:29.942000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:28.996000" end="0:44:29.942000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:44:28.996000	0:44:29.942000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:28.996000" end="0:44:29.942000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:28.996000" end="0:44:29.942000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:44:28.996000	0:44:29.942000
 war	sein	AUX	-	0:44:28.996000	0:44:29.942000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:29.942000" end="0:44:30.242000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:29.942000" end="0:44:30.242000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eh	eh	X	-	0:44:29.942000	0:44:30.242000
 .	-	-	-	0:44:29.942000	0:44:30.242000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:30.242000" end="0:44:37.182000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:30.242000" end="0:44:37.182000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:44:30.242000	0:44:31.982000
 wer	wer	PRON	-	0:44:30.242000	0:44:31.982000
 immer	immer	ADV	-	0:44:30.242000	0:44:31.982000
@@ -12603,7 +12603,7 @@ NAME	NAME	NOUN	-	0:44:35.716000	0:44:37.182000
 NAME	NAME	NOUN	-	0:44:35.716000	0:44:37.182000
 .	-	-	-	0:44:35.716000	0:44:37.182000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:37.182000" end="0:44:45.389000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:37.182000" end="0:44:45.389000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:44:37.182000	0:44:38.662000
 so	so	ADV	-	0:44:37.182000	0:44:38.662000
 ungefähr	ungefähr	ADJ	-	0:44:37.182000	0:44:38.662000
@@ -12634,7 +12634,7 @@ einen	ein	DET	-	0:44:42.169000	0:44:45.389000
 Blödsinn	Blödsinn	NOUN	-	0:44:42.169000	0:44:45.389000
 .	-	-	-	0:44:42.169000	0:44:45.389000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:45.389000" end="0:44:56.949000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:45.389000" end="0:44:56.949000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	ich	PRON	-	0:44:45.389000	0:44:46.802000
 weiß	weiß	VERB	-	0:44:45.389000	0:44:46.802000
@@ -12692,22 +12692,22 @@ viel	viel	ADV	-	0:44:56.009000	0:44:56.949000
 blöder	blöd	ADJ	-	0:44:56.009000	0:44:56.949000
 noch	noch	CCONJ	-	0:44:56.009000	0:44:56.949000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:56.949000" end="0:44:57.469000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:56.949000" end="0:44:57.469000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:44:56.949000	0:44:57.469000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:56.949000" end="0:44:57.469000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:56.949000" end="0:44:57.469000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aufgeführt	aufführen	VERB	-	0:44:56.949000	0:44:57.469000
 ja	ja	PART	-	0:44:56.949000	0:44:57.469000
 .	-	-	-	0:44:56.949000	0:44:57.469000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:44:57.469000" end="0:44:58.469000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:57.469000" end="0:44:58.469000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 viel	viel	ADV	-	0:44:57.469000	0:44:58.469000
 blöder	blöd	ADJ	-	0:44:57.469000	0:44:58.469000
 ,	-	-	-	0:44:57.469000	0:44:58.469000
 ja	ja	PART	-	0:44:57.469000	0:44:58.469000
 .	-	-	-	0:44:57.469000	0:44:58.469000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:44:58.469000" end="0:45:02.796000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:44:58.469000" end="0:45:02.796000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:44:58.469000	0:45:01.622000
 bei	bei	ADP	-	0:44:58.469000	0:45:01.622000
 uns	sich	PRON	-	0:44:58.469000	0:45:01.622000
@@ -12724,13 +12724,13 @@ weiß	weiß	VERB	-	0:45:01.622000	0:45:02.796000
 ich	ich	PRON	-	0:45:01.622000	0:45:02.796000
 nicht	nicht	PART	-	0:45:01.622000	0:45:02.796000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:02.796000" end="0:45:03.802000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:02.796000" end="0:45:03.802000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (was	was	PRON	-	0:45:02.796000	0:45:03.802000
 die)	der	DET	-	0:45:02.796000	0:45:03.802000
 Wettkampfgruppen	Wettkampfgruppen	NOUN	-	0:45:02.796000	0:45:03.802000
 ?	-	-	-	0:45:02.796000	0:45:03.802000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:02.796000" end="0:45:13.856000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:02.796000" end="0:45:13.856000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:45:02.796000	0:45:03.802000
 habe	habe	AUX	-	0:45:02.796000	0:45:03.802000
 keine	kein	DET	-	0:45:02.796000	0:45:03.802000
@@ -12774,15 +12774,15 @@ einmal	einmal	ADV	-	0:45:13.209000	0:45:13.856000
 so	so	ADV	-	0:45:13.209000	0:45:13.856000
 .	-	-	-	0:45:13.209000	0:45:13.856000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:13.856000" end="0:45:14.449000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:13.856000" end="0:45:14.449000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:14.449000" end="0:45:15.062000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:14.449000" end="0:45:15.062000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	INTJ	-	0:45:14.449000	0:45:15.062000
 ist	sein	AUX	-	0:45:14.449000	0:45:15.062000
 so	so	ADV	-	0:45:14.449000	0:45:15.062000
 .	-	-	-	0:45:14.449000	0:45:15.062000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:15.062000" end="0:45:17.556000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:15.062000" end="0:45:17.556000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:45:15.062000	0:45:16.409000
 täten	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK ProgKon ProgKonTyp ProgLes TunPProg VV circum std stdL- swV tunK tun_konj	0:45:15.062000	0:45:16.409000
 wir	ich	PRON	-	0:45:15.062000	0:45:16.409000
@@ -12796,7 +12796,7 @@ machen	machen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK ProgK
 täten	tun	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK ProgKon ProgKonTyp ProgLes TunPProg VV circum std stdL- swV tunK tun_konj	0:45:16.409000	0:45:17.556000
 .	-	-	-	0:45:16.409000	0:45:17.556000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:17.556000" end="0:45:21.396000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:17.556000" end="0:45:21.396000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:45:17.556000	0:45:21.396000
 .	-	-	-	0:45:17.556000	0:45:21.396000
 aber	aber	CCONJ	-	0:45:17.556000	0:45:21.396000
@@ -12812,7 +12812,7 @@ richtig	richtig	ADJ	-	0:45:17.556000	0:45:21.396000
 ja	ja	PART	-	0:45:17.556000	0:45:21.396000
 .	-	-	-	0:45:17.556000	0:45:21.396000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:21.396000" end="0:45:22.642000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:21.396000" end="0:45:22.642000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	INTJ	-	0:45:21.396000	0:45:22.642000
 eh	eh	X	-	0:45:21.396000	0:45:22.642000
 nicht	nicht	PART	-	0:45:21.396000	0:45:22.642000
@@ -12820,7 +12820,7 @@ nicht	nicht	PART	-	0:45:21.396000	0:45:22.642000
 aber/	-	-	-	0:45:21.396000	0:45:22.642000
 .	-	-	-	0:45:21.396000	0:45:22.642000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:22.642000" end="0:45:25.369000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:22.642000" end="0:45:25.369000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 *meine*	-	-	-	0:45:22.642000	0:45:23.376000
 ,	-	-	-	0:45:22.642000	0:45:23.376000
@@ -12838,11 +12838,11 @@ noch	noch	ADV	-	0:45:24.522000	0:45:25.369000
 einmal	einmal	ADV	-	0:45:24.522000	0:45:25.369000
 probieren	probieren	VERB	-	0:45:24.522000	0:45:25.369000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:25.369000" end="0:45:26.156000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:25.369000" end="0:45:26.156000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:45:25.369000	0:45:26.156000
 ja	ja	ADV	-	0:45:25.369000	0:45:26.156000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:25.369000" end="0:45:27.076000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:25.369000" end="0:45:27.076000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:45:25.369000	0:45:26.156000
 wir	ich	PRON	-	0:45:25.369000	0:45:26.156000
 Burschen	Burschen	NOUN	-	0:45:25.369000	0:45:26.156000
@@ -12852,11 +12852,11 @@ wir	ich	PRON	-	0:45:26.156000	0:45:27.076000
 alleinig	alleinig	VERB	-	0:45:26.156000	0:45:27.076000
 .	-	-	-	0:45:26.156000	0:45:27.076000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:27.076000" end="0:45:27.749000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.076000" end="0:45:27.749000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:27.076000	0:45:27.749000
 .	-	-	-	0:45:27.076000	0:45:27.749000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:27.076000" end="0:45:28.936000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:27.076000" end="0:45:28.936000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:45:27.076000	0:45:27.749000
 das	der	PRON	-	0:45:27.076000	0:45:27.749000
 sind	sein	AUX	-	0:45:27.076000	0:45:27.749000
@@ -12870,7 +12870,7 @@ halt	halt	ADV	-	0:45:28.136000	0:45:28.936000
 einfach	einfach	ADJ	-	0:45:28.136000	0:45:28.936000
 .	-	-	-	0:45:28.136000	0:45:28.936000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:28.936000" end="0:45:38.442000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:28.936000" end="0:45:38.442000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:45:28.936000	0:45:30.296000
 eh	eh	X	-	0:45:28.936000	0:45:30.296000
 ,	-	-	-	0:45:28.936000	0:45:30.296000
@@ -12903,14 +12903,14 @@ Personen	Person	NOUN	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:4
 die	der	DET	-	0:45:38.076000	0:45:38.442000
 was	was	PRON	-	0:45:38.076000	0:45:38.442000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:38.076000" end="0:45:38.442000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:38.076000" end="0:45:38.442000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:45:38.076000	0:45:38.442000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:38.442000" end="0:45:38.789000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:38.442000" end="0:45:38.789000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da/	-	-	-	0:45:38.442000	0:45:38.789000
 .	-	-	-	0:45:38.442000	0:45:38.789000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:38.789000" end="0:45:52.309000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:38.789000" end="0:45:52.309000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:45:38.789000	0:45:39.836000
 eh	eh	ADV	-	0:45:38.789000	0:45:39.836000
 ja	ja	ADV	-	0:45:38.789000	0:45:39.836000
@@ -12968,7 +12968,7 @@ nicht	-	-	-	0:45:48.229000	0:45:50.282000
 .	-	-	-	0:45:48.229000	0:45:50.282000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:52.309000" end="0:45:53.816000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:52.309000" end="0:45:53.816000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:45:52.309000	0:45:53.816000
 warte	warten	VERB	-	0:45:52.309000	0:45:53.816000
 ,	-	-	-	0:45:52.309000	0:45:53.816000
@@ -12982,12 +12982,12 @@ Verein	Verein	NOUN	-	0:45:52.309000	0:45:53.816000
 sagen	sagen	VERB	-	0:45:52.309000	0:45:53.816000
 .	-	-	-	0:45:52.309000	0:45:53.816000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:53.816000" end="0:45:54.556000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:53.816000" end="0:45:54.556000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:45:53.816000	0:45:54.556000
 okay	okay	VERB	-	0:45:53.816000	0:45:54.556000
 .	-	-	-	0:45:53.816000	0:45:54.556000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:54.556000" end="0:45:56.669000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:54.556000" end="0:45:56.669000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mich/	-	-	-	0:45:54.556000	0:45:56.669000
 ich	-	-	-	0:45:54.556000	0:45:56.669000
 habe	-	-	-	0:45:54.556000	0:45:56.669000
@@ -13002,12 +13002,12 @@ NAME	NAME	-	-	0:45:54.556000	0:45:56.669000
 geredet	-	-	-	0:45:54.556000	0:45:56.669000
 .	-	-	-	0:45:54.556000	0:45:56.669000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:45:56.669000" end="0:45:58.189000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:56.669000" end="0:45:58.189000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:45:56.669000	0:45:58.189000
 .	-	-	-	0:45:56.669000	0:45:58.189000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:45:58.189000" end="0:46:05.949000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:45:58.189000" end="0:46:05.949000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:45:58.189000	0:46:01.302000
 <pause duration="1,0s"/>
@@ -13036,7 +13036,7 @@ ORT	ORT	-	-	0:46:04.562000	0:46:05.949000
 Sportverein	-	-	-	0:46:04.562000	0:46:05.949000
 und	-	-	-	0:46:04.562000	0:46:05.949000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:04.562000" end="0:46:06.689000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:04.562000" end="0:46:06.689000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:46:04.562000	0:46:05.949000
 ja	ja	ADV	-	0:46:04.562000	0:46:05.949000
 ja	ja	ADV	-	0:46:04.562000	0:46:05.949000
@@ -13044,7 +13044,7 @@ ja	ja	ADV	-	0:46:04.562000	0:46:05.949000
 ja	ja	ADV	-	0:46:05.949000	0:46:06.689000
 ja	ja	ADV	-	0:46:05.949000	0:46:06.689000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:06.689000" end="0:46:16.736000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:06.689000" end="0:46:16.736000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hat	-	-	-	0:46:06.689000	0:46:07.376000
 ihm	-	-	-	0:46:06.689000	0:46:07.376000
 voll	-	-	-	0:46:06.689000	0:46:07.376000
@@ -13086,11 +13086,11 @@ jetzt	jetzt	ADV	-	0:46:14.596000	0:46:16.362000
 sind	sein	AUX	-	0:46:16.362000	0:46:16.736000
 halt	halt	ADV	-	0:46:16.362000	0:46:16.736000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:16.362000" end="0:46:16.736000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:16.362000" end="0:46:16.736000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:16.362000	0:46:16.736000
 .	-	-	-	0:46:16.362000	0:46:16.736000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:16.736000" end="0:46:29.775000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:16.736000" end="0:46:29.775000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:46:16.736000	0:46:19.389000
 mehr	mehr	PRON	-	0:46:16.736000	0:46:19.389000
 und	und	CCONJ	-	0:46:16.736000	0:46:19.389000
@@ -13143,7 +13143,7 @@ ja	-	-	-	0:46:28.909000	0:46:29.775000
 wirklich	-	-	-	0:46:28.909000	0:46:29.775000
 keiner	-	-	-	0:46:28.909000	0:46:29.775000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:29.775000" end="0:46:31.075000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:29.775000" end="0:46:31.075000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 na	na	X	-	0:46:29.775000	0:46:31.075000
 es	ich	PRON	-	0:46:29.775000	0:46:31.075000
@@ -13151,17 +13151,17 @@ ist	sein	AUX	-	0:46:29.775000	0:46:31.075000
 so	so	ADV	-	0:46:29.775000	0:46:31.075000
 ,	-	-	-	0:46:29.775000	0:46:31.075000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:31.075000" end="0:46:31.562000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:31.075000" end="0:46:31.562000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dabei	-	-	-	0:46:31.075000	0:46:31.562000
 .	-	-	-	0:46:31.075000	0:46:31.562000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:31.075000" end="0:46:31.969000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:31.075000" end="0:46:31.969000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:31.075000	0:46:31.562000
 .	-	-	-	0:46:31.075000	0:46:31.562000
 ja	ja	PART	-	0:46:31.562000	0:46:31.969000
 .	-	-	-	0:46:31.562000	0:46:31.969000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:31.969000" end="0:46:35.169000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:31.969000" end="0:46:35.169000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 na	na	X	-	0:46:31.969000	0:46:34.329000
 gut	gut	ADJ	-	0:46:31.969000	0:46:34.329000
@@ -13171,7 +13171,7 @@ geht	gehen	VERB	-	0:46:34.329000	0:46:35.169000
 es	ich	PRON	-	0:46:34.329000	0:46:35.169000
 .	-	-	-	0:46:34.329000	0:46:35.169000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:35.169000" end="0:46:37.275000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:35.169000" end="0:46:37.275000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Freizeit	Freizeit	NOUN	-	0:46:35.169000	0:46:37.275000
 ,	-	-	-	0:46:35.169000	0:46:37.275000
 Hobby	Hobby	NOUN	-	0:46:35.169000	0:46:37.275000
@@ -13184,11 +13184,11 @@ schon	schon	ADV	-	0:46:35.169000	0:46:37.275000
 geredet	reden	VERB	-	0:46:35.169000	0:46:37.275000
 .	-	-	-	0:46:35.169000	0:46:37.275000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:37.275000" end="0:46:38.549000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:37.275000" end="0:46:38.549000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Landwirtschaft	Landwirtschaft	NOUN	-	0:46:37.275000	0:46:38.549000
 .	-	-	-	0:46:37.275000	0:46:38.549000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:38.549000" end="0:46:41.835000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:38.549000" end="0:46:41.835000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:46:38.549000	0:46:41.049000
 haben	haben	AUX	-	0:46:38.549000	0:46:41.049000
 keine	kein	DET	-	0:46:38.549000	0:46:41.049000
@@ -13200,24 +13200,24 @@ aber	aber	CCONJ	-	0:46:41.049000	0:46:41.835000
 bei	bei	ADP	-	0:46:41.049000	0:46:41.835000
 der	der	DET	-	0:46:41.049000	0:46:41.835000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:41.835000" end="0:46:42.835000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:41.835000" end="0:46:42.835000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 manchmal	manchmal	ADV	-	0:46:41.835000	0:46:42.835000
 denke	denken	VERB	-	0:46:41.835000	0:46:42.835000
 ich	ich	PRON	-	0:46:41.835000	0:46:42.835000
 es	sich	PRON	-	0:46:41.835000	0:46:42.835000
 mir	ich	PRON	-	0:46:41.835000	0:46:42.835000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:41.835000" end="0:46:42.835000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:41.835000" end="0:46:42.835000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Musik	Musik	NOUN	-	0:46:41.835000	0:46:42.835000
 ist	sein	AUX	-	0:46:41.835000	0:46:42.835000
 es	ich	PRON	-	0:46:41.835000	0:46:42.835000
 eh	eh	ADV	-	0:46:41.835000	0:46:42.835000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:42.835000" end="0:46:43.289000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:42.835000" end="0:46:43.289000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:46:42.835000	0:46:43.289000
 .	-	-	-	0:46:42.835000	0:46:43.289000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:43.289000" end="0:46:47.589000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:43.289000" end="0:46:47.589000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 bei	bei	ADP	-	0:46:43.289000	0:46:44.509000
 der	der	DET	-	0:46:43.289000	0:46:44.509000
 Musik	Musik	NOUN	-	0:46:43.289000	0:46:44.509000
@@ -13243,11 +13243,11 @@ auf	-	-	-	0:46:46.562000	0:46:47.589000
 die	-	-	-	0:46:46.562000	0:46:47.589000
 Proben	-	-	-	0:46:46.562000	0:46:47.589000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:47.589000" end="0:46:48.415000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:47.589000" end="0:46:48.415000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wirklich	wirklich	ADJ	-	0:46:47.589000	0:46:48.415000
 ?	-	-	-	0:46:47.589000	0:46:48.415000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:47.589000" end="0:46:59.449000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:47.589000" end="0:46:59.449000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:46:47.589000	0:46:48.415000
 da	-	-	-	0:46:47.589000	0:46:48.415000
 bist	-	-	-	0:46:47.589000	0:46:48.415000
@@ -13306,11 +13306,11 @@ sechs	sechs	NUM	-	0:46:57.895000	0:46:59.449000
 reingehts	reingehts	NOUN	-	0:46:57.895000	0:46:59.449000
 ,	-	-	-	0:46:57.895000	0:46:59.449000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:46:59.449000" end="0:46:59.915000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:59.449000" end="0:46:59.915000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:59.449000	0:46:59.915000
 .	-	-	-	0:46:59.449000	0:46:59.915000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:46:59.449000" end="0:47:12.969000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:46:59.449000" end="0:47:12.969000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:59.449000	0:46:59.915000
 .	-	-	-	0:46:59.449000	0:46:59.915000
 <pause duration="0,6s"/>
@@ -13371,11 +13371,11 @@ Richtung	Richtung	NOUN	-	0:47:12.222000	0:47:12.969000
 ja	ja	ADV	-	0:47:12.222000	0:47:12.969000
 .	-	-	-	0:47:12.222000	0:47:12.969000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:47:12.969000" end="0:47:13.289000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:12.969000" end="0:47:13.289000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:12.969000	0:47:13.289000
 .	-	-	-	0:47:12.969000	0:47:13.289000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:47:13.289000" end="0:47:41.482000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:13.289000" end="0:47:41.482000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:47:13.289000	0:47:14.835000
 jetzt	jetzt	ADV	-	0:47:13.289000	0:47:14.835000
 habe	habe	AUX	-	0:47:13.289000	0:47:14.835000
@@ -13492,7 +13492,7 @@ mich	sich	PRON	-	0:47:40.502000	0:47:41.482000
 schon	schon	ADV	-	0:47:40.502000	0:47:41.482000
 .	-	-	-	0:47:40.502000	0:47:41.482000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:47:41.482000" end="0:47:43.842000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:41.482000" end="0:47:43.842000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:41.482000	0:47:43.582000
 aber	aber	ADV	-	0:47:41.482000	0:47:43.582000
 ist	sein	AUX	-	0:47:41.482000	0:47:43.582000
@@ -13509,11 +13509,11 @@ so	so	ADV	-	0:47:41.482000	0:47:43.582000
 .	-	-	-	0:47:41.482000	0:47:43.582000
 jetzt	jetzt	ADV	-	0:47:43.582000	0:47:43.842000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:47:43.582000" end="0:47:43.842000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:43.582000" end="0:47:43.842000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:43.582000	0:47:43.842000
 .	-	-	-	0:47:43.582000	0:47:43.842000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:47:43.842000" end="0:47:48.795000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:43.842000" end="0:47:48.795000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:47:43.842000	0:47:45.949000
 das	der	PRON	-	0:47:43.842000	0:47:45.949000
 mit	mit	ADP	-	0:47:43.842000	0:47:45.949000
@@ -13537,7 +13537,7 @@ Jugend	Jugend	NOUN	-	0:47:45.949000	0:47:48.795000
 noch	noch	ADV	-	0:47:45.949000	0:47:48.795000
 ?	-	-	-	0:47:45.949000	0:47:48.795000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:47:48.795000" end="0:47:54.482000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:48.795000" end="0:47:54.482000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:47:48.795000	0:47:49.209000
 gar	gar	ADV	-	0:47:48.795000	0:47:49.209000
 nichts	nichts	PRON	-	0:47:48.795000	0:47:49.209000
@@ -13559,15 +13559,15 @@ keine	kein	DET	-	0:47:51.162000	0:47:54.482000
 ähm	ähm	NOUN	-	0:47:51.162000	0:47:54.482000
 ähm	ähm	PROPN	-	0:47:51.162000	0:47:54.482000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:47:54.482000" end="0:47:55.009000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:54.482000" end="0:47:55.009000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 servus	servus	PROPN	-	0:47:54.482000	0:47:55.009000
 .	-	-	-	0:47:54.482000	0:47:55.009000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:47:55.009000" end="0:47:55.515000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:55.009000" end="0:47:55.515000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	-	0:47:55.009000	0:47:55.515000
 .	-	-	-	0:47:55.009000	0:47:55.515000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:47:55.515000" end="0:47:59.209000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:55.515000" end="0:47:59.209000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 wir	-	-	-	0:47:57.162000	0:47:59.209000
 haben	-	-	-	0:47:57.162000	0:47:59.209000
@@ -13576,7 +13576,7 @@ vorhin	-	-	-	0:47:57.162000	0:47:59.209000
 das	-	-	-	0:47:57.162000	0:47:59.209000
 Gespräch	-	-	-	0:47:57.162000	0:47:59.209000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:47:57.162000" end="0:48:02.242000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:47:57.162000" end="0:48:02.242000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:47:57.162000	0:47:59.209000
 die	der	DET	-	0:47:57.162000	0:47:59.209000
 Dame	Dame	NOUN	-	0:47:57.162000	0:47:59.209000
@@ -13598,10 +13598,10 @@ circa	circa	ADV	-	0:48:00.009000	0:48:02.242000
 reden	reden	VERB	-	0:48:00.009000	0:48:02.242000
 .	-	-	-	0:48:00.009000	0:48:02.242000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:02.242000" end="0:48:03.375000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:02.242000" end="0:48:03.375000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:03.375000" end="0:48:12.955000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:03.375000" end="0:48:12.955000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 zur	zur	ADP	-	0:48:03.375000	0:48:05.642000
 NAME	NAME	PROPN	-	0:48:03.375000	0:48:05.642000
@@ -13640,14 +13640,14 @@ das	-	-	-	0:48:11.509000	0:48:12.955000
 halt	-	-	-	0:48:11.509000	0:48:12.955000
 .	-	-	-	0:48:11.509000	0:48:12.955000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:12.955000" end="0:48:13.202000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:12.955000" end="0:48:13.202000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:48:12.955000	0:48:13.202000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:12.955000" end="0:48:13.202000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:12.955000" end="0:48:13.202000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:12.955000	0:48:13.202000
 .	-	-	-	0:48:12.955000	0:48:13.202000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:13.202000" end="0:48:14.629000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:13.202000" end="0:48:14.629000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *spürst*	-	-	-	0:48:13.202000	0:48:14.142000
 nämlich	-	-	-	0:48:13.202000	0:48:14.142000
 voll	-	-	-	0:48:13.202000	0:48:14.142000
@@ -13656,11 +13656,11 @@ weil	weil	SCONJ	-	0:48:14.142000	0:48:14.295000
 einfach	einfach	ADJ	-	0:48:14.295000	0:48:14.629000
 ,	-	-	-	0:48:14.295000	0:48:14.629000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:14.295000" end="0:48:14.629000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:14.295000" end="0:48:14.629000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:14.295000	0:48:14.629000
 .	-	-	-	0:48:14.295000	0:48:14.629000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:14.629000" end="0:48:16.949000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:14.629000" end="0:48:16.949000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:48:14.629000	0:48:15.962000
 du	du	PRON	-	0:48:14.629000	0:48:15.962000
 sie	ich	PRON	-	0:48:14.629000	0:48:15.962000
@@ -13676,7 +13676,7 @@ schon	schon	ADV	-	0:48:15.962000	0:48:16.949000
 wichtig	wichtig	ADJ	-	0:48:15.962000	0:48:16.949000
 .	-	-	-	0:48:15.962000	0:48:16.949000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:15.962000" end="0:48:23.042000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:15.962000" end="0:48:23.042000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:48:15.962000	0:48:16.949000
 das	der	DET	-	0:48:15.962000	0:48:16.949000
 bissel	bissel	NOUN	-	0:48:15.962000	0:48:16.949000
@@ -13701,15 +13701,15 @@ sage	sage	VERB	-	0:48:22.275000	0:48:23.042000
 ich	ich	PRON	-	0:48:22.275000	0:48:23.042000
 jetzt	jetzt	ADV	-	0:48:22.275000	0:48:23.042000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:23.042000" end="0:48:23.642000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:23.042000" end="0:48:23.642000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:23.042000	0:48:23.642000
 .	-	-	-	0:48:23.042000	0:48:23.642000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:23.042000" end="0:48:23.642000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:23.042000" end="0:48:23.642000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 (einmal)	einmal	ADV	-	0:48:23.042000	0:48:23.642000
 .	-	-	-	0:48:23.042000	0:48:23.642000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:23.642000" end="0:48:30.362000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:23.642000" end="0:48:30.362000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 eh	eh	X	-	0:48:23.642000	0:48:25.702000
 und	und	CCONJ	-	0:48:23.642000	0:48:25.702000
@@ -13739,21 +13739,21 @@ Monat	Monat	NOUN	-	0:48:29.269000	0:48:30.362000
 nichts	nichts	PRON	-	0:48:29.269000	0:48:30.362000
 .	-	-	-	0:48:29.269000	0:48:30.362000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:30.362000" end="0:48:30.595000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:30.362000" end="0:48:30.595000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:30.362000	0:48:30.595000
 .	-	-	-	0:48:30.362000	0:48:30.595000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:30.595000" end="0:48:31.289000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:30.595000" end="0:48:31.289000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:48:30.595000	0:48:31.289000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:30.595000" end="0:48:31.289000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:30.595000" end="0:48:31.289000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:48:30.595000	0:48:31.289000
 ,	-	-	-	0:48:30.595000	0:48:31.289000
 weil	weil	SCONJ	-	0:48:30.595000	0:48:31.289000
 es/	-	-	-	0:48:30.595000	0:48:31.289000
 .	-	-	-	0:48:30.595000	0:48:31.289000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:31.289000" end="0:48:32.362000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:31.289000" end="0:48:32.362000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:48:31.289000	0:48:32.362000
 viele	viel	DET	-	0:48:31.289000	0:48:32.362000
 Leute	Leute	NOUN	-	0:48:31.289000	0:48:32.362000
@@ -13761,7 +13761,7 @@ sind	sein	AUX	-	0:48:31.289000	0:48:32.362000
 dort	dort	ADV	-	0:48:31.289000	0:48:32.362000
 ?	-	-	-	0:48:31.289000	0:48:32.362000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:32.362000" end="0:48:55.849000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:32.362000" end="0:48:55.849000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:48:32.362000	0:48:33.162000
 es	ich	PRON	-	0:48:32.362000	0:48:33.162000
 war	sein	AUX	-	0:48:32.362000	0:48:33.162000
@@ -13852,14 +13852,14 @@ wer	wer	PRON	-	0:48:53.869000	0:48:55.849000
 ,	-	-	-	0:48:53.869000	0:48:55.849000
 aber	aber	CCONJ	-	0:48:53.869000	0:48:55.849000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:55.849000" end="0:48:56.949000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:55.849000" end="0:48:56.949000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:48:55.849000	0:48:56.949000
 ja	ja	ADV	-	0:48:55.849000	0:48:56.949000
 der	der	DET	-	0:48:55.849000	0:48:56.949000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:55.849000" end="0:48:56.949000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:55.849000" end="0:48:56.949000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:48:56.949000" end="0:48:59.975000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:56.949000" end="0:48:59.975000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 NAME	NAME	PROPN	-	0:48:56.949000	0:48:59.975000
 ,	-	-	-	0:48:56.949000	0:48:59.975000
 der	der	DET	-	0:48:56.949000	0:48:59.975000
@@ -13871,13 +13871,13 @@ und	und	CCONJ	-	0:48:56.949000	0:48:59.975000
 ich	ich	PRON	-	0:48:56.949000	0:48:59.975000
 .	-	-	-	0:48:56.949000	0:48:59.975000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:48:59.975000" end="0:49:00.395000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:48:59.975000" end="0:49:00.395000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:59.975000	0:49:00.395000
 .	-	-	-	0:48:59.975000	0:49:00.395000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:00.395000" end="0:49:01.015000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:00.395000" end="0:49:01.015000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:00.395000" end="0:49:02.442000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:00.395000" end="0:49:02.442000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:49:00.395000	0:49:01.015000
 war	-	-	-	0:49:00.395000	0:49:01.015000
 es	-	-	-	0:49:01.015000	0:49:01.869000
@@ -13890,14 +13890,14 @@ geschrieben	-	-	-	0:49:01.015000	0:49:01.869000
 zum	-	-	-	0:49:01.869000	0:49:02.442000
 Heurigen	-	-	-	0:49:01.869000	0:49:02.442000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:02.442000" end="0:49:03.502000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:02.442000" end="0:49:03.502000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:49:02.442000	0:49:03.502000
 voll	voll	ADJ	-	0:49:02.442000	0:49:03.502000
 genau	genau	ADJ	-	0:49:02.442000	0:49:03.502000
 ja	ja	PART	-	0:49:02.442000	0:49:03.502000
 .	-	-	-	0:49:02.442000	0:49:03.502000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:02.442000" end="0:49:17.229000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:02.442000" end="0:49:17.229000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 fährst	-	-	-	0:49:02.442000	0:49:03.502000
 ja	-	-	-	0:49:02.442000	0:49:03.502000
 .	-	-	-	0:49:02.442000	0:49:03.502000
@@ -13979,11 +13979,11 @@ der	der	DET	-	0:49:15.835000	0:49:17.229000
 Party	Party	NOUN	-	0:49:15.835000	0:49:17.229000
 .	-	-	-	0:49:15.835000	0:49:17.229000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:17.229000" end="0:49:17.589000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:17.229000" end="0:49:17.589000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:17.229000	0:49:17.589000
 .	-	-	-	0:49:17.229000	0:49:17.589000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:17.589000" end="0:49:21.535000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:17.589000" end="0:49:21.535000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:49:17.589000	0:49:19.949000
 ,	-	-	-	0:49:17.589000	0:49:19.949000
 ähm	ähm	PROPN	-	0:49:17.589000	0:49:19.949000
@@ -14003,10 +14003,10 @@ gemeinsam	gemeinsam	ADJ	-	0:49:19.949000	0:49:21.535000
 nach	nach	ADP	-	0:49:19.949000	0:49:21.535000
 dem	der	DET	-	0:49:19.949000	0:49:21.535000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:21.535000" end="0:49:22.302000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:21.535000" end="0:49:22.302000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 eh	eh	X	-	0:49:21.535000	0:49:22.302000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:21.535000" end="0:49:24.542000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:21.535000" end="0:49:24.542000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Jugendheimbesuch	Jugendheimbesuch	NOUN	-	0:49:21.535000	0:49:22.302000
 hingefahren	hinfahren	VERB	-	0:49:22.302000	0:49:22.855000
 sind	sein	AUX	-	0:49:22.302000	0:49:22.855000
@@ -14020,12 +14020,12 @@ zwanzig	zwanzig	NUM	-	0:49:23.855000	0:49:24.542000
 Leute	Leute	NOUN	-	0:49:23.855000	0:49:24.542000
 .	-	-	-	0:49:23.855000	0:49:24.542000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:24.542000" end="0:49:25.335000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:24.542000" end="0:49:25.335000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 echt	echt	ADJ	-	0:49:24.542000	0:49:25.335000
 ?	-	-	-	0:49:24.542000	0:49:25.335000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:25.335000" end="0:49:27.222000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:25.335000" end="0:49:27.222000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	0:49:25.335000	0:49:26.089000
 war	sein	AUX	-	0:49:25.335000	0:49:26.089000
 niemand	niemand	PRON	-	0:49:25.335000	0:49:26.089000
@@ -14036,9 +14036,9 @@ wirklich	wirklich	ADJ	-	0:49:26.089000	0:49:27.222000
 schlimm	schlimm	ADJ	-	0:49:26.089000	0:49:27.222000
 .	-	-	-	0:49:26.089000	0:49:27.222000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:27.222000" end="0:49:28.175000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:27.222000" end="0:49:28.175000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:27.222000" end="0:49:30.449000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:27.222000" end="0:49:30.449000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:49:27.222000	0:49:28.175000
 ich	ich	PRON	-	0:49:27.222000	0:49:28.175000
 gar	gar	ADV	-	0:49:27.222000	0:49:28.175000
@@ -14055,18 +14055,18 @@ ist	sein	AUX	-	0:49:28.175000	0:49:29.115000
 <pause duration="0,9s"/>
 aber	aber	CCONJ	-	0:49:29.115000	0:49:30.449000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:30.449000" end="0:49:31.309000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:30.449000" end="0:49:31.309000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:30.449000	0:49:31.042000
 ,	-	-	-	0:49:30.449000	0:49:31.042000
 wird	werden	AUX	-	0:49:30.449000	0:49:31.042000
 halt	halt	ADV	-	0:49:30.449000	0:49:31.042000
 auch	auch	ADV	-	0:49:31.042000	0:49:31.309000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:31.042000" end="0:49:31.309000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:31.042000" end="0:49:31.309000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:49:31.042000	0:49:31.309000
 .	-	-	-	0:49:31.042000	0:49:31.309000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:31.309000" end="0:49:32.409000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:31.309000" end="0:49:32.409000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 einnmal	einnmal	ADV	-	0:49:31.309000	0:49:32.409000
 so	so	ADV	-	0:49:31.309000	0:49:32.409000
 und	und	CCONJ	-	0:49:31.309000	0:49:32.409000
@@ -14075,11 +14075,11 @@ so	so	ADV	-	0:49:31.309000	0:49:32.409000
 sein	mein	AUX	-	0:49:31.309000	0:49:32.409000
 .	-	-	-	0:49:31.309000	0:49:32.409000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:32.409000" end="0:49:32.655000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:32.409000" end="0:49:32.655000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:32.409000	0:49:32.655000
 .	-	-	-	0:49:32.409000	0:49:32.655000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:32.655000" end="0:49:36.309000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:32.655000" end="0:49:36.309000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:49:32.655000	0:49:33.935000
 mir	sich	PRON	-	0:49:32.655000	0:49:33.935000
 ist	sein	AUX	-	0:49:32.655000	0:49:33.935000
@@ -14100,7 +14100,7 @@ wir	ich	PRON	-	0:49:35.362000	0:49:36.309000
 und/	-	-	-	0:49:35.362000	0:49:36.309000
 .	-	-	-	0:49:35.362000	0:49:36.309000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:35.362000" end="0:49:36.602000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:35.362000" end="0:49:36.602000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:35.362000	0:49:36.309000
 er	ich	PRON	-	0:49:35.362000	0:49:36.309000
 hat	haben	AUX	-	0:49:35.362000	0:49:36.309000
@@ -14109,7 +14109,7 @@ erzählt	erzählen	VERB	-	0:49:35.362000	0:49:36.309000
 ja	ja	PART	-	0:49:36.309000	0:49:36.602000
 .	-	-	-	0:49:36.309000	0:49:36.602000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:36.602000" end="0:49:39.735000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:36.602000" end="0:49:39.735000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 keiner	kein	PRON	-	0:49:36.602000	0:49:38.949000
 hat	haben	AUX	-	0:49:36.602000	0:49:38.949000
@@ -14121,10 +14121,10 @@ wer	wer	PRON	-	0:49:38.949000	0:49:39.735000
 tut	tun	VERB	-	0:49:38.949000	0:49:39.735000
 .	-	-	-	0:49:38.949000	0:49:39.735000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:39.735000" end="0:49:40.029000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:39.735000" end="0:49:40.029000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:49:39.735000	0:49:40.029000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:40.029000" end="0:49:43.869000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:40.029000" end="0:49:43.869000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 keiner	kein	PRON	-	0:49:40.029000	0:49:41.122000
 hat	haben	AUX	-	0:49:40.029000	0:49:41.122000
 was	was	PRON	-	0:49:40.029000	0:49:41.122000
@@ -14143,7 +14143,7 @@ allem	alle	PRON	-	0:49:43.015000	0:49:43.869000
 der/	-	-	-	0:49:43.015000	0:49:43.869000
 .	-	-	-	0:49:43.015000	0:49:43.869000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:43.015000" end="0:49:44.369000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:43.015000" end="0:49:44.369000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:49:43.015000	0:49:43.869000
 nicht	nicht	PART	-	0:49:43.015000	0:49:43.869000
 berauschend	berauschend	ADJ	-	0:49:43.015000	0:49:43.869000
@@ -14153,7 +14153,7 @@ ich	ich	PRON	-	0:49:43.869000	0:49:44.369000
 gehört	hören	VERB	-	0:49:43.869000	0:49:44.369000
 .	-	-	-	0:49:43.869000	0:49:44.369000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:44.369000" end="0:49:47.135000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:44.369000" end="0:49:47.135000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:49:44.369000	0:49:46.769000
 eine	einen	DET	-	0:49:44.369000	0:49:46.769000
 (Stunde)	Stunde	NOUN	-	0:49:44.369000	0:49:46.769000
@@ -14164,41 +14164,41 @@ schon	schon	ADV	-	0:49:44.369000	0:49:46.769000
 aber/	-	-	-	0:49:46.769000	0:49:47.135000
 .	-	-	-	0:49:46.769000	0:49:47.135000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:47.135000" end="0:49:47.609000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:47.135000" end="0:49:47.609000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:49:47.135000	0:49:47.609000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:47.609000" end="0:49:48.122000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:47.609000" end="0:49:48.122000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:48.122000" end="0:49:48.975000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:48.122000" end="0:49:48.975000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:49:48.122000	0:49:48.975000
 ist	sein	AUX	-	0:49:48.122000	0:49:48.975000
 denn	denn	ADV	-	0:49:48.122000	0:49:48.975000
 gefahren	gefahren	VERB	-	0:49:48.122000	0:49:48.975000
 ?	-	-	-	0:49:48.122000	0:49:48.975000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:48.975000" end="0:49:49.955000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:48.975000" end="0:49:49.955000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:49:48.975000	0:49:49.955000
 NAME	NAME	PROPN	-	0:49:48.975000	0:49:49.955000
 .	-	-	-	0:49:48.975000	0:49:49.955000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:49.955000" end="0:49:51.429000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:49.955000" end="0:49:51.429000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 mit	mit	ADP	-	0:49:49.955000	0:49:51.429000
 dem	der	DET	-	0:49:49.955000	0:49:51.429000
 Auto	Auto	NOUN	-	0:49:49.955000	0:49:51.429000
 ?	-	-	-	0:49:49.955000	0:49:51.429000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:51.429000" end="0:49:52.075000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:51.429000" end="0:49:52.075000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:51.429000	0:49:52.075000
 .	-	-	-	0:49:51.429000	0:49:52.075000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:52.075000" end="0:49:52.769000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:52.075000" end="0:49:52.769000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:49:52.075000	0:49:52.769000
 das	der	PRON	-	0:49:52.075000	0:49:52.769000
 ist/	-	-	-	0:49:52.075000	0:49:52.769000
 .	-	-	-	0:49:52.075000	0:49:52.769000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:49:52.769000" end="0:49:59.355000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:52.769000" end="0:49:59.355000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 voll	voll	ADJ	-	0:49:52.769000	0:49:55.835000
 geil	geil	NOUN	-	0:49:52.769000	0:49:55.835000
@@ -14227,7 +14227,7 @@ von	von	ADP	-	0:49:58.155000	0:49:59.355000
 uns	sich	PRON	-	0:49:58.155000	0:49:59.355000
 .	-	-	-	0:49:58.155000	0:49:59.355000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:49:59.355000" end="0:50:02.742000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:49:59.355000" end="0:50:02.742000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:49:59.355000	0:50:02.742000
 ,	-	-	-	0:49:59.355000	0:50:02.742000
 es	-	-	-	0:49:59.355000	0:50:02.742000
@@ -14239,7 +14239,7 @@ so	-	-	-	0:49:59.355000	0:50:02.742000
 durch	-	-	-	0:49:59.355000	0:50:02.742000
 so	-	-	-	0:49:59.355000	0:50:02.742000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:02.742000" end="0:50:04.202000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:02.742000" end="0:50:04.202000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:50:02.742000	0:50:04.202000
 es	ich	PRON	-	0:50:02.742000	0:50:04.202000
 war	sein	AUX	-	0:50:02.742000	0:50:04.202000
@@ -14251,14 +14251,14 @@ wie	wie	ADV	-	0:50:02.742000	0:50:04.202000
 viele	viel	DET	-	0:50:02.742000	0:50:04.202000
 Leute	Leute	NOUN	-	0:50:02.742000	0:50:04.202000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:02.742000" end="0:50:04.202000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:02.742000" end="0:50:04.202000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Zufälle	-	-	-	0:50:02.742000	0:50:04.202000
 (*kommst*)	-	-	-	0:50:02.742000	0:50:04.202000
 (so	-	-	-	0:50:02.742000	0:50:04.202000
 zusammen)	-	-	-	0:50:02.742000	0:50:04.202000
 .	-	-	-	0:50:02.742000	0:50:04.202000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:04.202000" end="0:50:06.555000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:04.202000" end="0:50:06.555000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 kenne	kennen	VERB	-	0:50:04.202000	0:50:05.469000
 ich	ich	PRON	-	0:50:04.202000	0:50:05.469000
 noch	noch	ADV	-	0:50:04.202000	0:50:05.469000
@@ -14272,7 +14272,7 @@ ORT	ORT	PROPN	-	0:50:05.469000	0:50:06.555000
 Mensch	Mensch	NOUN	-	0:50:05.469000	0:50:06.555000
 .	-	-	-	0:50:05.469000	0:50:06.555000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:05.469000" end="0:50:07.262000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:05.469000" end="0:50:07.262000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:50:05.469000	0:50:06.555000
 NAME	NAME	NOUN	-	0:50:05.469000	0:50:06.555000
 hat	haben	AUX	-	0:50:05.469000	0:50:06.555000
@@ -14285,7 +14285,7 @@ er	ich	PRON	-	0:50:06.555000	0:50:07.262000
 gekannt	kennen	VERB	-	0:50:06.555000	0:50:07.262000
 .	-	-	-	0:50:06.555000	0:50:07.262000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:07.262000" end="0:50:11.135000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:07.262000" end="0:50:11.135000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:50:07.262000	0:50:10.049000
 sicher	sichern	ADJ	-	0:50:07.262000	0:50:10.049000
 .	-	-	-	0:50:07.262000	0:50:10.049000
@@ -14304,9 +14304,9 @@ was	-	-	-	0:50:10.049000	0:50:11.135000
 mit	-	-	-	0:50:10.049000	0:50:11.135000
 der	-	-	-	0:50:10.049000	0:50:11.135000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:10.049000" end="0:50:11.135000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:10.049000" end="0:50:11.135000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:11.135000" end="0:50:14.335000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:11.135000" end="0:50:14.335000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 SONSTIGE	SONSTIGE	-	-	0:50:11.135000	0:50:14.335000
 ,	-	-	-	0:50:11.135000	0:50:14.335000
@@ -14322,7 +14322,7 @@ gegangen	gehen	VERB	-	0:50:11.135000	0:50:14.335000
 ist	sein	AUX	-	0:50:11.135000	0:50:14.335000
 .	-	-	-	0:50:11.135000	0:50:14.335000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:14.335000" end="0:50:17.029000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:14.335000" end="0:50:17.029000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:50:14.335000	0:50:15.775000
 er	ich	PRON	-	0:50:14.335000	0:50:15.775000
 mir	sich	PRON	-	0:50:14.335000	0:50:15.775000
@@ -14339,14 +14339,14 @@ gesagt	sagen	VERB	-	0:50:15.775000	0:50:17.029000
 er	ich	PRON	-	0:50:15.775000	0:50:17.029000
 kennt	kennen	VERB	-	0:50:15.775000	0:50:17.029000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:17.029000" end="0:50:17.289000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:17.029000" end="0:50:17.289000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:50:17.029000	0:50:17.289000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:17.029000" end="0:50:17.289000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:17.029000" end="0:50:17.289000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 keinen	kein	PRON	-	0:50:17.029000	0:50:17.289000
 .	-	-	-	0:50:17.029000	0:50:17.289000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:17.289000" end="0:50:18.149000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:17.289000" end="0:50:18.149000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:50:17.289000	0:50:18.149000
 er	ich	PRON	-	0:50:17.289000	0:50:18.149000
 es	ich	PRON	-	0:50:17.289000	0:50:18.149000
@@ -14354,7 +14354,7 @@ nicht	nicht	PART	-	0:50:17.289000	0:50:18.149000
 mehr	mehr	ADV	-	0:50:17.289000	0:50:18.149000
 .	-	-	-	0:50:17.289000	0:50:18.149000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:18.149000" end="0:50:19.149000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:18.149000" end="0:50:19.149000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:50:18.149000	0:50:19.149000
 das	der	PRON	-	0:50:18.149000	0:50:19.149000
 kann	können	VERB	-	0:50:18.149000	0:50:19.149000
@@ -14362,7 +14362,7 @@ auch	auch	ADV	-	0:50:18.149000	0:50:19.149000
 sein	mein	AUX	-	0:50:18.149000	0:50:19.149000
 .	-	-	-	0:50:18.149000	0:50:19.149000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:19.149000" end="0:50:23.102000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:19.149000" end="0:50:23.102000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 keine	kein	DET	-	0:50:19.149000	0:50:20.422000
 Ahnung	Ahnung	NOUN	-	0:50:19.149000	0:50:20.422000
@@ -14372,7 +14372,7 @@ na	na	X	-	0:50:20.422000	0:50:23.102000
 gut	gut	ADJ	-	0:50:20.422000	0:50:23.102000
 .	-	-	-	0:50:20.422000	0:50:23.102000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:23.102000" end="0:50:25.328000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:23.102000" end="0:50:25.328000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 orange	orange	NOUN	-	0:50:23.102000	0:50:25.328000
 haben	haben	AUX	-	0:50:23.102000	0:50:25.328000
 wir	ich	PRON	-	0:50:23.102000	0:50:25.328000
@@ -14387,11 +14387,11 @@ viel	viel	PRON	-	0:50:23.102000	0:50:25.328000
 hm	hm	X	-	0:50:23.102000	0:50:25.328000
 ?	-	-	-	0:50:23.102000	0:50:25.328000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:25.328000" end="0:50:26.568000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:25.328000" end="0:50:26.568000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Österreich	Österreich	PROPN	-	0:50:25.328000	0:50:26.568000
 als	als	ADP	-	0:50:25.328000	0:50:26.568000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:25.328000" end="0:50:26.568000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:25.328000" end="0:50:26.568000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:50:25.328000	0:50:26.568000
 wir	ich	PRON	-	0:50:25.328000	0:50:26.568000
 eh	eh	ADV	-	0:50:25.328000	0:50:26.568000
@@ -14399,17 +14399,17 @@ schon	schon	ADV	-	0:50:25.328000	0:50:26.568000
 das	der	DET	-	0:50:25.328000	0:50:26.568000
 meiste	meist	PRON	-	0:50:25.328000	0:50:26.568000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:26.568000" end="0:50:27.782000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:26.568000" end="0:50:27.782000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Fußballweltmeister	Fußballweltmeister	NOUN	-	0:50:26.568000	0:50:27.782000
 .	-	-	-	0:50:26.568000	0:50:27.782000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:27.782000" end="0:50:29.188000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:27.782000" end="0:50:29.188000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 steht	stehen	VERB	-	0:50:27.782000	0:50:29.188000
 da	da	ADV	-	0:50:27.782000	0:50:29.188000
 ?	-	-	-	0:50:27.782000	0:50:29.188000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:29.188000" end="0:50:31.588000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:29.188000" end="0:50:31.588000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 also	also	ADV	-	0:50:29.188000	0:50:31.588000
 die	der	PRON	-	0:50:29.188000	0:50:31.588000
@@ -14418,7 +14418,7 @@ ja	ja	ADV	-	0:50:29.188000	0:50:31.588000
 lieb	lieben	NOUN	-	0:50:29.188000	0:50:31.588000
 .	-	-	-	0:50:29.188000	0:50:31.588000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:31.588000" end="0:50:35.028000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:31.588000" end="0:50:35.028000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:50:31.588000	0:50:33.428000
 wirst	werden	AUX	-	0:50:31.588000	0:50:33.428000
@@ -14434,23 +14434,23 @@ auch	auch	ADV	-	0:50:33.428000	0:50:35.028000
 nicht	nicht	PART	-	0:50:33.428000	0:50:35.028000
 erleben	erleben	VERB	-	0:50:33.428000	0:50:35.028000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:35.028000" end="0:50:35.822000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:35.028000" end="0:50:35.822000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:35.028000" end="0:50:35.822000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:35.028000" end="0:50:35.822000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 glaube	glauben	VERB	-	0:50:35.028000	0:50:35.822000
 ich	ich	PRON	-	0:50:35.028000	0:50:35.822000
 .	-	-	-	0:50:35.028000	0:50:35.822000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:35.822000" end="0:50:38.288000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:35.822000" end="0:50:38.288000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 na	na	X	-	0:50:35.822000	0:50:38.288000
 ich	ich	PRON	-	0:50:35.822000	0:50:38.288000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:35.822000" end="0:50:38.288000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:35.822000" end="0:50:38.288000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 aber	-	-	-	0:50:35.822000	0:50:38.288000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:38.288000" end="0:50:45.275000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:38.288000" end="0:50:45.275000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:50:38.288000	0:50:39.448000
 weiß	weiß	VERB	-	0:50:38.288000	0:50:39.448000
 nicht	nicht	PART	-	0:50:38.288000	0:50:39.448000
@@ -14485,7 +14485,7 @@ immer	immer	ADV	-	0:50:44.142000	0:50:45.275000
 gut	gut	ADJ	-	0:50:44.142000	0:50:45.275000
 .	-	-	-	0:50:44.142000	0:50:45.275000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:44.142000" end="0:50:46.522000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:44.142000" end="0:50:46.522000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:50:44.142000	0:50:45.275000
 *musst*	-	-	-	0:50:44.142000	0:50:45.275000
 ja	-	-	-	0:50:44.142000	0:50:45.275000
@@ -14496,7 +14496,7 @@ uach	-	-	-	0:50:45.275000	0:50:46.522000
 noch	-	-	-	0:50:45.275000	0:50:46.522000
 .	-	-	-	0:50:45.275000	0:50:46.522000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:46.522000" end="0:50:50.782000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:46.522000" end="0:50:50.782000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:50:46.522000	0:50:50.202000
 dann	dann	ADV	-	0:50:46.522000	0:50:50.202000
 ,	-	-	-	0:50:46.522000	0:50:50.202000
@@ -14514,23 +14514,23 @@ nicht	nicht	PART	-	0:50:50.202000	0:50:50.782000
 mehr	mehr	ADV	-	0:50:50.202000	0:50:50.782000
 .	-	-	-	0:50:50.202000	0:50:50.782000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:50.782000" end="0:50:51.782000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:50.782000" end="0:50:51.782000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:50:50.782000	0:50:51.782000
 ist	sein	AUX	-	0:50:50.782000	0:50:51.782000
 in	in	ADP	-	0:50:50.782000	0:50:51.782000
 ORT	ORT	PROPN	-	0:50:50.782000	0:50:51.782000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:51.782000" end="0:50:52.255000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:51.782000" end="0:50:52.255000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:50:51.782000	0:50:52.255000
 habe	habe	AUX	-	0:50:51.782000	0:50:52.255000
 in	in	ADP	-	0:50:51.782000	0:50:52.255000
 ORT	ORT	PROPN	-	0:50:51.782000	0:50:52.255000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:50:51.782000" end="0:50:52.255000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:51.782000" end="0:50:52.255000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dasselbe	derselbe	PRON	-	0:50:51.782000	0:50:52.255000
 .	-	-	-	0:50:51.782000	0:50:52.255000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:50:52.255000" end="0:51:04.548000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:50:52.255000" end="0:51:04.548000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:50:52.255000	0:50:53.375000
 habe	habe	AUX	-	0:50:52.255000	0:50:53.375000
 immer	immer	ADV	-	0:50:52.255000	0:50:53.375000
@@ -14585,7 +14585,7 @@ gewinnen	gewinnen	VERB	-	0:51:03.268000	0:51:03.948000
 und	und	CCONJ	-	0:51:03.948000	0:51:04.548000
 alles	alle	PRON	-	0:51:03.948000	0:51:04.548000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:03.948000" end="0:51:04.808000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:03.948000" end="0:51:04.808000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:51:03.948000	0:51:04.548000
 bringen	bringen	VERB	-	0:51:03.948000	0:51:04.548000
 wir	ich	PRON	-	0:51:03.948000	0:51:04.548000
@@ -14593,7 +14593,7 @@ nichts	nichts	PRON	-	0:51:03.948000	0:51:04.548000
 zusammen	zusammen	ADP	-	0:51:04.548000	0:51:04.808000
 .	-	-	-	0:51:04.548000	0:51:04.808000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:04.808000" end="0:51:10.315000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:04.808000" end="0:51:10.315000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:51:04.808000	0:51:06.148000
 bringen	bringen	VERB	-	0:51:04.808000	0:51:06.148000
 wir	ich	PRON	-	0:51:04.808000	0:51:06.148000
@@ -14619,7 +14619,7 @@ noch	-	-	-	0:51:08.502000	0:51:10.315000
 rausgehauen	-	-	-	0:51:08.502000	0:51:10.315000
 .	-	-	-	0:51:08.502000	0:51:10.315000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:10.315000" end="0:51:12.648000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:10.315000" end="0:51:12.648000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:51:10.315000	0:51:12.648000
 ja	ja	ADV	-	0:51:10.315000	0:51:12.648000
@@ -14631,7 +14631,7 @@ nicht	nicht	PART	-	0:51:10.315000	0:51:12.648000
 schlecht	schlecht	ADJ	-	0:51:10.315000	0:51:12.648000
 .	-	-	-	0:51:10.315000	0:51:12.648000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:12.648000" end="0:51:14.075000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:12.648000" end="0:51:14.075000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 eh	eh	X	-	0:51:12.648000	0:51:14.075000
 nicht	nicht	PART	-	0:51:12.648000	0:51:14.075000
@@ -14639,14 +14639,14 @@ nicht	nicht	PART	-	0:51:12.648000	0:51:14.075000
 aber	aber	CCONJ	-	0:51:12.648000	0:51:14.075000
 der	der	DET	-	0:51:12.648000	0:51:14.075000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:12.648000" end="0:51:14.075000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:12.648000" end="0:51:14.075000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	aber	CCONJ	-	0:51:12.648000	0:51:14.075000
 das	der	PRON	-	0:51:12.648000	0:51:14.075000
 ist/	-	-	-	0:51:12.648000	0:51:14.075000
 .	-	-	-	0:51:12.648000	0:51:14.075000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:14.075000" end="0:51:16.302000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:14.075000" end="0:51:16.302000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:51:14.075000	0:51:14.728000
 ich	ich	PRON	-	0:51:14.075000	0:51:14.728000
 weiß	weiß	VERB	-	0:51:14.075000	0:51:14.728000
@@ -14663,7 +14663,7 @@ voll	voll	ADJ	-	0:51:14.728000	0:51:16.302000
 sympathisch	sympathisch	ADJ	-	0:51:14.728000	0:51:16.302000
 .	-	-	-	0:51:14.728000	0:51:16.302000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:16.302000" end="0:51:27.535000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:16.302000" end="0:51:27.535000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:51:16.302000	0:51:18.108000
 ist	sein	AUX	-	0:51:16.302000	0:51:18.108000
 halt	halt	ADV	-	0:51:16.302000	0:51:18.108000
@@ -14729,13 +14729,13 @@ Sturm	Sturm	NOUN	-	0:51:26.702000	0:51:27.535000
 Fan	Fan	PROPN	-	0:51:26.702000	0:51:27.535000
 .	-	-	-	0:51:26.702000	0:51:27.535000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:27.535000" end="0:51:29.655000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:27.535000" end="0:51:29.655000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:51:27.535000	0:51:28.695000
 .	-	-	-	0:51:27.535000	0:51:28.695000
 schon	schon	ADV	-	0:51:28.695000	0:51:29.655000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:28.695000" end="0:51:34.422000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:28.695000" end="0:51:34.422000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:51:28.695000	0:51:29.655000
 aber	aber	ADV	-	0:51:29.655000	0:51:31.702000
 das	der	PRON	-	0:51:29.655000	0:51:31.702000
@@ -14760,7 +14760,7 @@ bissel	bissel	NOUN	-	0:51:32.975000	0:51:34.422000
 komischer	komisch	NOUN	-	0:51:32.975000	0:51:34.422000
 .	-	-	-	0:51:32.975000	0:51:34.422000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:34.422000" end="0:51:45.415000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:34.422000" end="0:51:45.415000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:51:34.422000	0:51:35.048000
 ich	ich	PRON	-	0:51:34.422000	0:51:35.048000
 meine	meinen	VERB	-	0:51:34.422000	0:51:35.048000
@@ -14822,11 +14822,11 @@ Kohler	Kohler	NOUN	-	0:51:43.822000	0:51:45.148000
 und/	-	-	-	0:51:45.148000	0:51:45.415000
 .	-	-	-	0:51:45.148000	0:51:45.415000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:45.148000" end="0:51:45.415000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:45.148000" end="0:51:45.415000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:45.148000	0:51:45.415000
 .	-	-	-	0:51:45.148000	0:51:45.415000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:45.415000" end="0:51:48.928000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:45.415000" end="0:51:48.928000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 der	der	PRON	-	0:51:45.415000	0:51:47.495000
 wollte	wollen	VERB	-	0:51:45.415000	0:51:47.495000
@@ -14838,7 +14838,7 @@ noch	noch	ADV	-	0:51:47.495000	0:51:48.928000
 weiter	weit	ADV	-	0:51:47.495000	0:51:48.928000
 .	-	-	-	0:51:47.495000	0:51:48.928000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:48.928000" end="0:51:52.808000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:48.928000" end="0:51:52.808000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:51:48.928000	0:51:52.808000
 aber	aber	ADV	-	0:51:48.928000	0:51:52.808000
@@ -14852,7 +14852,7 @@ ist	sein	AUX	-	0:51:48.928000	0:51:52.808000
 nein	nein	PART	-	0:51:48.928000	0:51:52.808000
 .	-	-	-	0:51:48.928000	0:51:52.808000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:52.808000" end="0:51:54.268000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:52.808000" end="0:51:54.268000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:51:52.808000	0:51:53.375000
 ist	sein	AUX	-	0:51:52.808000	0:51:53.375000
 eh	eh	ADV	-	0:51:52.808000	0:51:53.375000
@@ -14865,7 +14865,7 @@ ist	sein	AUX	-	0:51:53.375000	0:51:53.895000
 aber/	-	-	-	0:51:53.895000	0:51:54.268000
 .	-	-	-	0:51:53.895000	0:51:54.268000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:51:53.895000" end="0:51:59.142000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:53.895000" end="0:51:59.142000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ganz	ganz	ADV	-	0:51:53.895000	0:51:54.268000
 einfach	einfach	ADJ	-	0:51:54.268000	0:51:54.688000
 .	-	-	-	0:51:54.268000	0:51:54.688000
@@ -14883,13 +14883,13 @@ unsere	mein	DET	-	0:51:56.762000	0:51:59.142000
 Kindheit	Kindheit	NOUN	-	0:51:56.762000	0:51:59.142000
 ?	-	-	-	0:51:56.762000	0:51:59.142000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:51:59.142000" end="0:52:01.822000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:51:59.142000" end="0:52:01.822000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 Kindheit	Kindheit	ADJ	-	0:51:59.142000	0:52:01.822000
 ja	ja	PART	-	0:51:59.142000	0:52:01.822000
 .	-	-	-	0:51:59.142000	0:52:01.822000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:01.822000" end="0:52:14.055000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:01.822000" end="0:52:14.055000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 wie	wie	ADV	-	0:52:01.822000	0:52:04.222000
 war	sein	AUX	-	0:52:01.822000	0:52:04.222000
@@ -14932,14 +14932,14 @@ Fergel	-	-	-	0:52:11.802000	0:52:14.055000
 gehabt	-	-	-	0:52:11.802000	0:52:14.055000
 ,	-	-	-	0:52:11.802000	0:52:14.055000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:14.055000" end="0:52:14.328000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:14.055000" end="0:52:14.328000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:52:14.055000	0:52:14.328000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:14.055000" end="0:52:14.328000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:14.055000" end="0:52:14.328000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:52:14.055000	0:52:14.328000
 ?	-	-	-	0:52:14.055000	0:52:14.328000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:14.328000" end="0:52:16.468000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:14.328000" end="0:52:16.468000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:52:14.328000	0:52:16.468000
 .	-	-	-	0:52:14.328000	0:52:16.468000
 den	der	PRON	-	0:52:14.328000	0:52:16.468000
@@ -14953,7 +14953,7 @@ Jahren	Jahr	NOUN	-	0:52:14.328000	0:52:16.468000
 gehabt	haben	AUX	-	0:52:14.328000	0:52:16.468000
 .	-	-	-	0:52:14.328000	0:52:16.468000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:16.468000" end="0:52:20.382000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:16.468000" end="0:52:20.382000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:52:16.468000	0:52:20.382000
 <pause duration="0,6s"/>
 und	-	-	-	0:52:16.468000	0:52:20.382000
@@ -14969,7 +14969,7 @@ gehabt	-	-	-	0:52:16.468000	0:52:20.382000
 oder	oder	CCONJ	-	0:52:16.468000	0:52:20.382000
 ?	-	-	-	0:52:16.468000	0:52:20.382000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:20.382000" end="0:52:25.115000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:20.382000" end="0:52:25.115000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	nein	PART	-	0:52:20.382000	0:52:21.882000
 ,	-	-	-	0:52:20.382000	0:52:21.882000
@@ -14993,15 +14993,15 @@ Welt	Welt	NOUN	-	0:52:23.982000	0:52:25.115000
 bin	sein	AUX	-	0:52:23.982000	0:52:25.115000
 .	-	-	-	0:52:23.982000	0:52:25.115000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:25.115000" end="0:52:25.982000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:25.115000" end="0:52:25.982000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:52:25.115000	0:52:25.982000
 .	-	-	-	0:52:25.115000	0:52:25.982000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:25.982000" end="0:52:28.875000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:25.982000" end="0:52:28.875000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 und	und	CCONJ	-	0:52:25.982000	0:52:28.875000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:28.875000" end="0:52:32.268000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:28.875000" end="0:52:32.268000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 das	der	PRON	-	0:52:28.875000	0:52:32.268000
 war	sein	AUX	-	0:52:28.875000	0:52:32.268000
@@ -15017,15 +15017,15 @@ hat	haben	AUX	-	0:52:28.875000	0:52:32.268000
 oder	oder	CCONJ	-	0:52:28.875000	0:52:32.268000
 ?	-	-	-	0:52:28.875000	0:52:32.268000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:32.268000" end="0:52:33.022000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:32.268000" end="0:52:33.022000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:52:32.268000	0:52:33.022000
 genau	genau	ADJ	-	0:52:32.268000	0:52:33.022000
 .	-	-	-	0:52:32.268000	0:52:33.022000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:33.022000" end="0:52:33.415000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:33.022000" end="0:52:33.415000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:33.022000	0:52:33.415000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:33.415000" end="0:52:42.322000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:33.415000" end="0:52:42.322000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:52:33.415000	0:52:34.595000
 der	der	DET	-	0:52:33.415000	0:52:34.595000
 gleiche	gleich	ADJ	-	0:52:33.415000	0:52:34.595000
@@ -15054,11 +15054,11 @@ ich	ich	PRON	-	0:52:40.455000	0:52:42.322000
 gehört	hören	VERB	-	0:52:40.455000	0:52:42.322000
 .	-	-	-	0:52:40.455000	0:52:42.322000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:40.455000" end="0:52:42.322000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:40.455000" end="0:52:42.322000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 he	he	PROPN	-	0:52:40.455000	0:52:42.322000
 he	he	PROPN	-	0:52:40.455000	0:52:42.322000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:42.322000" end="0:52:49.975000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:42.322000" end="0:52:49.975000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:52:42.322000	0:52:44.022000
 dann	dann	ADV	-	0:52:42.322000	0:52:44.022000
 haben	haben	AUX	-	0:52:42.322000	0:52:44.022000
@@ -15091,13 +15091,13 @@ PS	PS	NOUN	-	0:52:46.655000	0:52:49.548000
 gehabt	haben	AUX	-	0:52:49.548000	0:52:49.975000
 .	-	-	-	0:52:49.548000	0:52:49.975000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:49.548000" end="0:52:50.775000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:49.548000" end="0:52:50.775000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:49.548000	0:52:49.975000
 sowas	sowas	PROPN	-	0:52:49.975000	0:52:50.775000
 ja	ja	PART	-	0:52:49.975000	0:52:50.775000
 .	-	-	-	0:52:49.975000	0:52:50.775000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:52:50.775000" end="0:53:00.828000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:50.775000" end="0:53:00.828000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:52:50.775000	0:52:52.762000
 mit	mit	ADP	-	0:52:50.775000	0:52:52.762000
 dem	der	PRON	-	0:52:50.775000	0:52:52.762000
@@ -15144,11 +15144,11 @@ gefahren	gefahren	VERB	-	0:52:57.342000	0:52:59.942000
 .	-	-	-	0:52:57.342000	0:52:59.942000
 (mehr)	mehr	ADV	-	0:52:59.942000	0:53:00.828000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:52:59.942000" end="0:53:00.828000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:52:59.942000" end="0:53:00.828000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:52:59.942000	0:53:00.828000
 .	-	-	-	0:52:59.942000	0:53:00.828000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:00.828000" end="0:53:04.342000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:00.828000" end="0:53:04.342000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:53:00.828000	0:53:01.435000
 Steirer	Steirer	NOUN	-	0:53:00.828000	0:53:01.435000
 .	-	-	-	0:53:00.828000	0:53:01.435000
@@ -15161,7 +15161,7 @@ haben	haben	AUX	-	0:53:01.435000	0:53:03.228000
 heruntergefahren	heruntergefahren	VERB	-	0:53:03.228000	0:53:04.342000
 .	-	-	-	0:53:03.228000	0:53:04.342000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:03.228000" end="0:53:07.155000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:03.228000" end="0:53:07.155000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *glaube*	-	-	-	0:53:03.228000	0:53:04.342000
 ,	-	-	-	0:53:03.228000	0:53:04.342000
 das	der	PRON	-	0:53:03.228000	0:53:04.342000
@@ -15181,7 +15181,7 @@ oder	-	-	-	0:53:04.582000	0:53:07.155000
 den/	-	-	-	0:53:04.582000	0:53:07.155000
 .	-	-	-	0:53:04.582000	0:53:07.155000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:07.155000" end="0:53:10.922000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:07.155000" end="0:53:10.922000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:53:07.155000	0:53:08.582000
 Ahnung	Ahnung	NOUN	-	0:53:07.155000	0:53:08.582000
 ,	-	-	-	0:53:07.155000	0:53:08.582000
@@ -15204,23 +15204,23 @@ der	der	DET	-	0:53:08.922000	0:53:10.922000
 kleine	kleine	ADJ	-	0:53:08.922000	0:53:10.922000
 NAME	NAME	NOUN	-	0:53:08.922000	0:53:10.922000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:10.922000" end="0:53:11.342000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:10.922000" end="0:53:11.342000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:53:10.922000	0:53:11.342000
 kleine	kleine	ADJ	-	0:53:10.922000	0:53:11.342000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:11.342000" end="0:53:11.888000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:11.342000" end="0:53:11.888000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:53:11.342000	0:53:11.888000
 ist	sein	AUX	-	0:53:11.342000	0:53:11.888000
 mit	mit	ADP	-	0:53:11.342000	0:53:11.888000
 dem	der	DET	-	0:53:11.342000	0:53:11.888000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:11.342000" end="0:53:11.888000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:11.342000" end="0:53:11.888000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 NAME	NAME	NOUN	-	0:53:11.342000	0:53:11.888000
 ist	sein	AUX	-	0:53:11.342000	0:53:11.888000
 gerade/	-	-	-	0:53:11.342000	0:53:11.888000
 .	-	-	-	0:53:11.342000	0:53:11.888000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:11.888000" end="0:53:24.022000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:11.888000" end="0:53:24.022000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:53:11.888000	0:53:12.715000
 dem	der	DET	-	0:53:11.888000	0:53:12.715000
 alten	alt	ADJ	-	0:53:11.888000	0:53:12.715000
@@ -15272,10 +15272,10 @@ probiert	probieren	VERB	-	0:53:21.708000	0:53:23.628000
 so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:53:23.628000	0:53:24.022000
 einen	ein	DET	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:53:23.628000	0:53:24.022000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:24.022000" end="0:53:24.588000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:24.022000" end="0:53:24.588000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm((1,3s))	-	-	-	0:53:24.022000	0:53:24.588000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:24.588000" end="0:53:28.448000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:24.588000" end="0:53:28.448000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 alten	alt	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:53:24.588000	0:53:26.048000
 Renault	Renault	PROPN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:53:24.588000	0:53:26.048000
 Traktor	Traktor	PROPN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:53:24.588000	0:53:26.048000
@@ -15289,7 +15289,7 @@ noch	noch	ADV	-	0:53:26.048000	0:53:26.875000
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:53:26.875000	0:53:28.448000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:26.875000" end="0:53:29.495000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:26.875000" end="0:53:29.495000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:53:26.875000	0:53:28.448000
 und	und	CCONJ	-	0:53:26.875000	0:53:28.448000
@@ -15301,15 +15301,15 @@ dann	dann	ADV	-	0:53:28.448000	0:53:29.495000
 der	der	DET	-	0:53:28.448000	0:53:29.495000
 Fendt	Fendt	NOUN	-	0:53:28.448000	0:53:29.495000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:29.495000" end="0:53:29.822000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:29.495000" end="0:53:29.822000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 einen	ein	DET	-	0:53:29.495000	0:53:29.822000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:29.495000" end="0:53:29.822000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:29.495000" end="0:53:29.822000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 geworden	werden	AUX	-	0:53:29.495000	0:53:29.822000
 oder	oder	CCONJ	-	0:53:29.495000	0:53:29.822000
 ?	-	-	-	0:53:29.495000	0:53:29.822000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:29.822000" end="0:53:34.508000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:29.822000" end="0:53:34.508000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Fendt	Fendt	NOUN	-	0:53:29.822000	0:53:32.315000
 haben	haben	AUX	-	0:53:29.822000	0:53:32.315000
 wir	ich	PRON	-	0:53:29.822000	0:53:32.315000
@@ -15328,22 +15328,22 @@ vom	vom	ADP	-	0:53:32.315000	0:53:33.768000
 NAME	NAME	NOUN	-	0:53:33.768000	0:53:34.508000
 .	-	-	-	0:53:33.768000	0:53:34.508000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:33.768000" end="0:53:35.042000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:33.768000" end="0:53:35.042000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:33.768000	0:53:34.508000
 .	-	-	-	0:53:33.768000	0:53:34.508000
 ja	ja	PART	-	0:53:34.508000	0:53:35.042000
 .	-	-	-	0:53:34.508000	0:53:35.042000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:35.042000" end="0:53:37.868000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:35.042000" end="0:53:37.868000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 einen	ein	DET	-	0:53:35.042000	0:53:37.868000
 fünfhunderter	fünfhunderter	NOUN	-	0:53:35.042000	0:53:37.868000
 .	-	-	-	0:53:35.042000	0:53:37.868000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:53:37.868000" end="0:53:38.355000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:37.868000" end="0:53:38.355000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oh	oh	PROPN	-	0:53:37.868000	0:53:38.355000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:53:38.355000" end="0:54:03.028000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:53:38.355000" end="0:54:03.028000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:53:38.355000	0:53:41.982000
 <pause duration="0,6s"/>
@@ -15446,10 +15446,10 @@ Billigen	Billige	NOUN	-	0:54:01.255000	0:54:02.475000
 .	-	-	-	0:54:01.255000	0:54:02.475000
 und	und	CCONJ	-	0:54:02.475000	0:54:03.028000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:02.475000" end="0:54:03.028000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:02.475000" end="0:54:03.028000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:54:02.475000	0:54:03.028000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:03.028000" end="0:54:07.695000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:03.028000" end="0:54:07.695000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 halt	halt	ADV	-	0:54:03.028000	0:54:03.808000
 gut	gut	ADJ	-	0:54:03.028000	0:54:03.808000
 auch	auch	ADV	-	0:54:03.028000	0:54:03.808000
@@ -15467,10 +15467,10 @@ Vertrag	Vertrag	NOUN	-	0:54:03.808000	0:54:07.695000
 unterschrieben	unterschreiben	VERB	-	0:54:03.808000	0:54:07.695000
 .	-	-	-	0:54:03.808000	0:54:07.695000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:07.695000" end="0:54:08.235000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:07.695000" end="0:54:08.235000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:07.695000	0:54:08.235000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:08.235000" end="0:54:15.195000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:08.235000" end="0:54:15.195000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:54:08.235000	0:54:10.628000
 dann	dann	ADV	-	0:54:08.235000	0:54:10.628000
@@ -15497,10 +15497,10 @@ machen	-	-	-	0:54:11.148000	0:54:15.195000
 wollen	-	-	-	0:54:11.148000	0:54:15.195000
 ?	-	-	-	0:54:11.148000	0:54:15.195000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:15.195000" end="0:54:15.715000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:15.195000" end="0:54:15.715000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:15.195000	0:54:15.715000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:15.715000" end="0:54:24.261000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:15.715000" end="0:54:24.261000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:54:15.715000	0:54:17.615000
 dann	-	-	-	0:54:15.715000	0:54:17.615000
 *habens*	-	-	-	0:54:15.715000	0:54:17.615000
@@ -15527,7 +15527,7 @@ gemeinsam	gemeinsam	ADJ	-	0:54:19.908000	0:54:24.261000
 mit	mit	ADP	-	0:54:19.908000	0:54:24.261000
 .	-	-	-	0:54:19.908000	0:54:24.261000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:24.261000" end="0:54:25.695000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:24.261000" end="0:54:25.695000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 der	der	PRON	-	0:54:24.261000	0:54:25.695000
 war	sein	AUX	-	0:54:24.261000	0:54:25.695000
@@ -15536,7 +15536,7 @@ kein	kein	DET	-	0:54:24.261000	0:54:25.695000
 Wario	Wario	NOUN	-	0:54:24.261000	0:54:25.695000
 ?	-	-	-	0:54:24.261000	0:54:25.695000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:25.695000" end="0:54:29.368000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:25.695000" end="0:54:29.368000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 oh	oh	X	-	0:54:25.695000	0:54:28.075000
 ja	ja	PART	-	0:54:25.695000	0:54:28.075000
@@ -15553,11 +15553,11 @@ keiner	kein	PRON	-	0:54:28.075000	0:54:29.368000
 gewesen	sein	AUX	-	0:54:28.075000	0:54:29.368000
 .	-	-	-	0:54:28.075000	0:54:29.368000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:29.368000" end="0:54:30.501000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:29.368000" end="0:54:30.501000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:54:29.368000	0:54:30.501000
 .	-	-	-	0:54:29.368000	0:54:30.501000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:30.501000" end="0:54:36.335000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:30.501000" end="0:54:36.335000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:54:30.501000	0:54:31.455000
 der	der	PRON	-	0:54:30.501000	0:54:31.455000
 war	sein	AUX	-	0:54:30.501000	0:54:31.455000
@@ -15577,10 +15577,10 @@ gegeben	-	-	-	0:54:34.115000	0:54:36.335000
 hat	-	-	-	0:54:34.115000	0:54:36.335000
 .	-	-	-	0:54:34.115000	0:54:36.335000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:54:36.335000" end="0:54:36.828000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:36.335000" end="0:54:36.828000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:36.335000	0:54:36.828000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:54:36.828000" end="0:55:16.809000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:54:36.828000" end="0:55:16.809000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:54:36.828000	0:54:39.261000
 den	der	PRON	-	0:54:36.828000	0:54:39.261000
@@ -15713,11 +15713,11 @@ einen	ein	PRON	-	0:55:14.121000	0:55:16.809000
 kaufen	kaufen	VERB	-	0:55:14.121000	0:55:16.809000
 .	-	-	-	0:55:14.121000	0:55:16.809000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:16.809000" end="0:55:17.403000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:16.809000" end="0:55:17.403000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:55:16.809000	0:55:17.403000
 .	-	-	-	0:55:16.809000	0:55:17.403000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:17.403000" end="0:55:21.615000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:17.403000" end="0:55:21.615000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:55:17.403000	0:55:19.707000
 dann	dann	ADV	-	0:55:17.403000	0:55:19.707000
@@ -15733,7 +15733,7 @@ nicht	nicht	PART	-	0:55:19.707000	0:55:21.615000
 mehr	mehr	ADV	-	0:55:19.707000	0:55:21.615000
 .	-	-	-	0:55:19.707000	0:55:21.615000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:21.615000" end="0:55:25.059000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:21.615000" end="0:55:25.059000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:55:21.615000	0:55:23.223000
 aber	aber	ADV	-	0:55:21.615000	0:55:23.223000
 die	der	DET	-	0:55:21.615000	0:55:23.223000
@@ -15758,7 +15758,7 @@ noch	noch	ADV	-	0:55:23.223000	0:55:25.059000
 derselbe	derselbe	PRON	-	0:55:23.223000	0:55:25.059000
 .	-	-	-	0:55:23.223000	0:55:25.059000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:25.059000" end="0:55:30.729000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:25.059000" end="0:55:30.729000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	PART	-	0:55:25.059000	0:55:27.219000
 ich	ich	PRON	-	0:55:25.059000	0:55:27.219000
@@ -15785,7 +15785,7 @@ der	der	DET	-	0:55:29.337000	0:55:30.729000
 gleiche	gleich	ADJ	-	0:55:29.337000	0:55:30.729000
 .	-	-	-	0:55:29.337000	0:55:30.729000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:30.729000" end="0:55:34.467000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:30.729000" end="0:55:34.467000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:55:30.729000	0:55:32.901000
 .	-	-	-	0:55:30.729000	0:55:32.901000
 aber	aber	CCONJ	-	0:55:30.729000	0:55:32.901000
@@ -15813,14 +15813,14 @@ Fendt	Fendt	NOUN	-	0:55:33.387000	0:55:34.467000
 noch	noch	ADV	-	0:55:33.387000	0:55:34.467000
 gefahren	gefahren	VERB	-	0:55:33.387000	0:55:34.467000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:34.467000" end="0:55:35.253000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:34.467000" end="0:55:35.253000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:55:34.467000	0:55:35.253000
 der	der	DET	-	0:55:34.467000	0:55:35.253000
 Kreisler	Kreisler	NOUN	-	0:55:34.467000	0:55:35.253000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:34.467000" end="0:55:35.253000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:34.467000" end="0:55:35.253000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:35.253000" end="0:55:36.519000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:35.253000" end="0:55:36.519000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:55:35.253000	0:55:36.519000
 Maschinen	Maschine	NOUN	-	0:55:35.253000	0:55:36.519000
 haben	haben	AUX	-	0:55:35.253000	0:55:36.519000
@@ -15828,11 +15828,11 @@ wir	ich	PRON	-	0:55:35.253000	0:55:36.519000
 jetzt	jetzt	ADV	-	0:55:35.253000	0:55:36.519000
 .	-	-	-	0:55:35.253000	0:55:36.519000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:36.519000" end="0:55:37.431000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:36.519000" end="0:55:37.431000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aha	aha	X	-	0:55:36.519000	0:55:37.431000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:37.431000" end="0:55:50.025000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:37.431000" end="0:55:50.025000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:55:37.431000	0:55:42.477000
 die	der	PRON	-	0:55:37.431000	0:55:42.477000
@@ -15880,7 +15880,7 @@ Steiermark	Steiermark	NOUN	-	0:55:48.075000	0:55:50.025000
 verkauft	verkaufen	VERB	-	0:55:48.075000	0:55:50.025000
 .	-	-	-	0:55:48.075000	0:55:50.025000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:50.025000" end="0:55:54.633000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:50.025000" end="0:55:54.633000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	ja	ADV	-	0:55:50.025000	0:55:54.633000
 so	so	ADV	-	0:55:50.025000	0:55:54.633000
@@ -15897,23 +15897,23 @@ großen	groß	ADJ	-	0:55:50.025000	0:55:54.633000
 Traktoren	Traktor	NOUN	-	0:55:50.025000	0:55:54.633000
 .	-	-	-	0:55:50.025000	0:55:54.633000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:54.633000" end="0:55:56.013000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:54.633000" end="0:55:56.013000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 na	na	X	-	0:55:54.633000	0:55:56.013000
 ja	ja	ADV	-	0:55:54.633000	0:55:56.013000
 groß	groß	ADJ	-	0:55:54.633000	0:55:56.013000
 .	-	-	-	0:55:54.633000	0:55:56.013000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:56.013000" end="0:55:57.879000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:56.013000" end="0:55:57.879000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ich	ich	PRON	-	0:55:56.013000	0:55:57.879000
 habe	habe	AUX	-	0:55:56.013000	0:55:57.879000
 in	in	ADP	-	0:55:56.013000	0:55:57.879000
 meiner	sich	DET	-	0:55:56.013000	0:55:57.879000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:55:57.879000" end="0:55:58.341000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:57.879000" end="0:55:58.341000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:55:57.879000" end="0:56:09.543000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:55:57.879000" end="0:56:09.543000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Kindheit	Kindheit	NOUN	-	0:55:57.879000	0:55:58.341000
 immer	immer	ADV	-	0:55:58.341000	0:55:59.415000
 da	da	ADV	-	0:55:58.341000	0:55:59.415000
@@ -15964,7 +15964,7 @@ kleinen	klein	ADJ	-	0:56:07.383000	0:56:09.543000
 Stückel	Stückel	NOUN	-	0:56:07.383000	0:56:09.543000
 .	-	-	-	0:56:07.383000	0:56:09.543000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:09.543000" end="0:56:11.073000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:09.543000" end="0:56:11.073000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	also	ADV	-	0:56:09.543000	0:56:11.073000
 hinten	hinten	ADV	-	0:56:09.543000	0:56:11.073000
@@ -15972,7 +15972,7 @@ oder	oder	CCONJ	-	0:56:09.543000	0:56:11.073000
 was	was	PRON	-	0:56:09.543000	0:56:11.073000
 ?	-	-	-	0:56:09.543000	0:56:11.073000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:11.073000" end="0:56:13.437000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:11.073000" end="0:56:13.437000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:11.073000	0:56:11.751000
 nur	nur	ADV	-	0:56:11.073000	0:56:11.751000
 bis	bis	ADP	-	0:56:11.073000	0:56:11.751000
@@ -15990,11 +15990,11 @@ weitergegangen	weitergehen	VERB	-	0:56:12.645000	0:56:13.437000
 ist	sein	AUX	-	0:56:12.645000	0:56:13.437000
 es	ich	PRON	-	0:56:12.645000	0:56:13.437000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:13.437000" end="0:56:13.659000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:13.437000" end="0:56:13.659000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:13.437000	0:56:13.659000
 .	-	-	-	0:56:13.437000	0:56:13.659000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:13.437000" end="0:56:15.675000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:13.437000" end="0:56:15.675000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:56:13.437000	0:56:13.659000
 ,	-	-	-	0:56:13.437000	0:56:13.659000
 da	-	-	-	0:56:13.659000	0:56:14.505000
@@ -16008,23 +16008,23 @@ aber	aber	CCONJ	-	0:56:14.505000	0:56:15.675000
 <pause duration="0,9s"/>
 die	der	DET	-	0:56:14.505000	0:56:15.675000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:15.675000" end="0:56:16.473000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:15.675000" end="0:56:16.473000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:56:15.675000	0:56:16.473000
 ist	sein	AUX	-	0:56:15.675000	0:56:16.473000
 der	der	DET	-	0:56:15.675000	0:56:16.473000
 Schupfen	Schupfen	NOUN	-	0:56:15.675000	0:56:16.473000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:15.675000" end="0:56:16.473000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:15.675000" end="0:56:16.473000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 meiste	meist	DET	-	0:56:15.675000	0:56:16.473000
 Zeit	Zeit	NOUN	-	0:56:15.675000	0:56:16.473000
 über/	-	-	-	0:56:15.675000	0:56:16.473000
 .	-	-	-	0:56:15.675000	0:56:16.473000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:16.473000" end="0:56:16.911000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:16.473000" end="0:56:16.911000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 gestanden	stehen	VERB	-	0:56:16.473000	0:56:16.911000
 ?	-	-	-	0:56:16.473000	0:56:16.911000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:16.911000" end="0:56:18.128000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:16.911000" end="0:56:18.128000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:56:16.911000	0:56:18.128000
 da	da	ADV	-	0:56:16.911000	0:56:18.128000
 ,	-	-	-	0:56:16.911000	0:56:18.128000
@@ -16035,7 +16035,7 @@ Halle	Halle	NOUN	-	0:56:16.911000	0:56:18.128000
 steht	stehen	VERB	-	0:56:16.911000	0:56:18.128000
 .	-	-	-	0:56:16.911000	0:56:18.128000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:18.128000" end="0:56:21.776000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:18.128000" end="0:56:21.776000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ach	ach	X	-	0:56:18.128000	0:56:20.546000
 so	so	ADV	-	0:56:18.128000	0:56:20.546000
 ja	ja	PART	-	0:56:18.128000	0:56:20.546000
@@ -16056,7 +16056,7 @@ einer	einer	DET	-	0:56:20.546000	0:56:21.278000
 ungefähr	ungefähr	ADJ	-	0:56:21.278000	0:56:21.776000
 .	-	-	-	0:56:21.278000	0:56:21.776000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:21.278000" end="0:56:26.714000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:21.278000" end="0:56:26.714000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:21.278000	0:56:21.776000
 genau	genau	ADJ	-	0:56:21.776000	0:56:22.172000
 .	-	-	-	0:56:21.776000	0:56:22.172000
@@ -16078,7 +16078,7 @@ noch	noch	ADV	-	0:56:25.010000	0:56:26.714000
 immer	immer	ADV	-	0:56:25.010000	0:56:26.714000
 .	-	-	-	0:56:25.010000	0:56:26.714000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:26.714000" end="0:56:30.656000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:26.714000" end="0:56:30.656000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	ja	ADV	-	0:56:26.714000	0:56:29.696000
 ihr	mein	PRON	-	0:56:26.714000	0:56:29.696000
@@ -16094,11 +16094,11 @@ noch	noch	ADV	-	0:56:29.696000	0:56:30.326000
 .	-	-	-	0:56:29.696000	0:56:30.326000
 den	der	PRON	-	0:56:30.326000	0:56:30.656000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:30.326000" end="0:56:30.656000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:30.326000" end="0:56:30.656000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:30.326000	0:56:30.656000
 .	-	-	-	0:56:30.326000	0:56:30.656000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:30.656000" end="0:56:31.634000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:30.656000" end="0:56:31.634000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 habt	haben	AUX	-	0:56:30.656000	0:56:31.634000
 ihr	mein	PRON	-	0:56:30.656000	0:56:31.634000
 ja	ja	ADV	-	0:56:30.656000	0:56:31.634000
@@ -16107,7 +16107,7 @@ lange	lang	ADV	-	0:56:30.656000	0:56:31.634000
 gehabt	haben	AUX	-	0:56:30.656000	0:56:31.634000
 .	-	-	-	0:56:30.656000	0:56:31.634000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:31.634000" end="0:56:35.996000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:31.634000" end="0:56:35.996000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:31.634000	0:56:35.996000
 ,	-	-	-	0:56:31.634000	0:56:35.996000
 den	der	PRON	-	0:56:31.634000	0:56:35.996000
@@ -16119,15 +16119,15 @@ eben	eben	ADV	-	0:56:31.634000	0:56:35.996000
 zweitausendzehn	zweitausendzehn	NUM	-	0:56:31.634000	0:56:35.996000
 zweitausendelf	zweitausendelf	NOUN	-	0:56:31.634000	0:56:35.996000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:35.996000" end="0:56:36.524000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:35.996000" end="0:56:36.524000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:56:35.996000	0:56:36.524000
 wie	-	-	-	0:56:35.996000	0:56:36.524000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:35.996000" end="0:56:36.524000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:35.996000" end="0:56:36.524000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 irgendso	irgendso	PROPN	-	0:56:35.996000	0:56:36.524000
 .	-	-	-	0:56:35.996000	0:56:36.524000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:36.524000" end="0:56:37.910000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:36.524000" end="0:56:37.910000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ihr	-	-	-	0:56:36.524000	0:56:37.910000
 den	-	-	-	0:56:36.524000	0:56:37.910000
 gekriegt	-	-	-	0:56:36.524000	0:56:37.910000
@@ -16135,7 +16135,7 @@ gekriegt	-	-	-	0:56:36.524000	0:56:37.910000
 noch	-	-	-	0:56:36.524000	0:56:37.910000
 .	-	-	-	0:56:36.524000	0:56:37.910000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:37.910000" end="0:56:40.508000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:37.910000" end="0:56:40.508000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:56:37.910000	0:56:39.542000
 ,	-	-	-	0:56:37.910000	0:56:39.542000
 der	der	PRON	-	0:56:37.910000	0:56:39.542000
@@ -16148,23 +16148,23 @@ noch	noch	ADV	-	0:56:39.542000	0:56:40.508000
 alleweil	alleweil	NOUN	-	0:56:39.542000	0:56:40.508000
 .	-	-	-	0:56:39.542000	0:56:40.508000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:40.508000" end="0:56:41.684000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:40.508000" end="0:56:41.684000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 wo	wo	ADV	-	0:56:40.508000	0:56:41.684000
 denn	denn	ADV	-	0:56:40.508000	0:56:41.684000
 ?	-	-	-	0:56:40.508000	0:56:41.684000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:40.508000" end="0:56:42.308000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:40.508000" end="0:56:42.308000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 in	in	ADP	-	0:56:40.508000	0:56:41.684000
 stehen	stehen	VERB	-	0:56:41.684000	0:56:42.308000
 .	-	-	-	0:56:41.684000	0:56:42.308000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:42.308000" end="0:56:43.190000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:42.308000" end="0:56:43.190000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:56:42.308000	0:56:43.190000
 .	-	-	-	0:56:42.308000	0:56:43.190000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:43.190000" end="0:56:46.064000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:43.190000" end="0:56:46.064000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:43.190000	0:56:44.030000
 als	als	ADP	-	0:56:43.190000	0:56:44.030000
 Kulturtraktor	Kulturtraktor	NOUN	-	0:56:43.190000	0:56:44.030000
@@ -16176,14 +16176,14 @@ ihn	-	-	-	0:56:44.030000	0:56:46.064000
 ja	-	-	-	0:56:44.030000	0:56:46.064000
 .	-	-	-	0:56:44.030000	0:56:46.064000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:46.064000" end="0:56:46.916000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:46.064000" end="0:56:46.916000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 beim	beim	ADP	-	0:56:46.064000	0:56:46.916000
 NAME	-	-	-	0:56:46.064000	0:56:46.916000
 oder	oder	CCONJ	-	0:56:46.064000	0:56:46.916000
 was	was	PRON	-	0:56:46.064000	0:56:46.916000
 ?	-	-	-	0:56:46.064000	0:56:46.916000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:46.916000" end="0:56:54.455000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:46.916000" end="0:56:54.455000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:56:46.916000	0:56:51.986000
 ,	-	-	-	0:56:46.916000	0:56:51.986000
 beim	beim	ADP	-	0:56:46.916000	0:56:51.986000
@@ -16206,7 +16206,7 @@ Kind	Kind	NOUN	-	0:56:51.986000	0:56:54.455000
 gekriegt	kriegen	VERB	-	0:56:51.986000	0:56:54.455000
 .	-	-	-	0:56:51.986000	0:56:54.455000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:56:54.455000" end="0:56:59.368000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:54.455000" end="0:56:59.368000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:54.455000	0:56:55.775000
 habe	habe	AUX	-	0:56:54.455000	0:56:55.775000
 ich	ich	PRON	-	0:56:54.455000	0:56:55.775000
@@ -16222,7 +16222,7 @@ Haus	Haus	NOUN	-	0:56:55.775000	0:56:59.368000
 gekauft	kaufen	VERB	-	0:56:55.775000	0:56:59.368000
 .	-	-	-	0:56:55.775000	0:56:59.368000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:56:59.368000" end="0:57:01.528000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:56:59.368000" end="0:57:01.528000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:56:59.368000	0:56:59.748000
 <pause duration="0,8s"/>
 das	der	PRON	-	0:56:59.748000	0:57:01.528000
@@ -16233,7 +16233,7 @@ nicht	nicht	PART	-	0:56:59.748000	0:57:01.528000
 gewusst	gewusst	VERB	-	0:56:59.748000	0:57:01.528000
 .	-	-	-	0:56:59.748000	0:57:01.528000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:01.528000" end="0:57:03.948000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:01.528000" end="0:57:03.948000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:57:01.528000	0:57:03.948000
 hat	haben	AUX	-	0:57:01.528000	0:57:03.948000
 er	ich	PRON	-	0:57:01.528000	0:57:03.948000
@@ -16243,7 +16243,7 @@ beim	beim	ADP	-	0:57:01.528000	0:57:03.948000
 dreschen	dreschen	VERB	-	0:57:01.528000	0:57:03.948000
 .	-	-	-	0:57:01.528000	0:57:03.948000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:03.948000" end="0:57:18.128000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:03.948000" end="0:57:18.128000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 warte	warten	VERB	-	0:57:03.948000	0:57:09.441000
 jetzt	jetzt	ADV	-	0:57:03.948000	0:57:09.441000
@@ -16279,13 +16279,13 @@ noch	noch	ADV	-	0:57:17.395000	0:57:18.128000
 reden	reden	VERB	-	0:57:17.395000	0:57:18.128000
 .	-	-	-	0:57:17.395000	0:57:18.128000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:18.126000" end="0:57:22.295000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:18.126000" end="0:57:22.295000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 Heimat	Heimat	NOUN	-	0:57:21.040000	0:57:21.581000
 .	-	-	-	0:57:21.040000	0:57:21.581000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:22.295000" end="0:57:24.868000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:22.295000" end="0:57:24.868000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 Heimat	Heimat	NOUN	-	0:57:22.295000	0:57:23.568000
 ,	-	-	-	0:57:22.295000	0:57:23.568000
 was	was	PRON	-	0:57:22.295000	0:57:23.568000
@@ -16300,10 +16300,10 @@ Heimat	-	-	-	0:57:23.568000	0:57:24.868000
 erzählen	-	-	-	0:57:23.568000	0:57:24.868000
 .	-	-	-	0:57:23.568000	0:57:24.868000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:24.868000" end="0:57:26.475000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:24.868000" end="0:57:26.475000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:26.475000" end="0:57:28.888000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:26.475000" end="0:57:28.888000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:57:26.475000	0:57:27.428000
 finde	-	-	-	0:57:26.475000	0:57:27.428000
 das	-	-	-	0:57:26.475000	0:57:27.428000
@@ -16318,10 +16318,10 @@ Heimat	Heimat	NOUN	-	0:57:27.428000	0:57:28.888000
 reden	reden	VERB	-	0:57:27.428000	0:57:28.888000
 ,	-	-	-	0:57:27.428000	0:57:28.888000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:28.888000" end="0:57:29.841000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:28.888000" end="0:57:29.841000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:28.888000	0:57:29.841000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:29.841000" end="0:57:41.255000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:29.841000" end="0:57:41.255000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 dass/	-	-	-	0:57:29.841000	0:57:32.268000
 das	der	PRON	-	0:57:29.841000	0:57:32.268000
 wirst	werden	AUX	-	0:57:29.841000	0:57:32.268000
@@ -16370,7 +16370,7 @@ auf	auf	ADP	-	0:57:40.175000	0:57:41.255000
 regional	regional	ADJ	-	0:57:40.175000	0:57:41.255000
 .	-	-	-	0:57:40.175000	0:57:41.255000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:41.255000" end="0:57:44.641000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:41.255000" end="0:57:44.641000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:57:41.255000	0:57:44.121000
 ja	ja	ADV	-	0:57:41.255000	0:57:44.121000
 jetzt	jetzt	ADV	-	0:57:41.255000	0:57:44.121000
@@ -16384,15 +16384,15 @@ stark	stark	ADJ	-	0:57:41.255000	0:57:44.121000
 das	der	PRON	-	0:57:44.121000	0:57:44.641000
 stimmt	stimmen	VERB	-	0:57:44.121000	0:57:44.641000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:44.121000" end="0:57:44.641000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:44.121000" end="0:57:44.641000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:57:44.121000	0:57:44.641000
 .	-	-	-	0:57:44.121000	0:57:44.641000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:57:44.641000" end="0:57:45.048000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:44.641000" end="0:57:45.048000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:57:44.641000	0:57:45.048000
 .	-	-	-	0:57:44.641000	0:57:45.048000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:57:45.048000" end="0:58:00.401000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:57:45.048000" end="0:58:00.401000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ich	ich	PRON	-	0:57:45.048000	0:57:46.268000
 meine	meinen	VERB	-	0:57:45.048000	0:57:46.268000
@@ -16467,10 +16467,10 @@ Vogel	Vogel	NOUN	-	0:57:59.415000	0:58:00.401000
 ja	ja	PART	-	0:57:59.415000	0:58:00.401000
 .	-	-	-	0:57:59.415000	0:58:00.401000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:00.401000" end="0:58:01.148000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:00.401000" end="0:58:01.148000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:00.401000	0:58:01.148000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:00.401000" end="0:58:15.608000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:00.401000" end="0:58:15.608000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 manchmal	manchmal	ADV	-	0:58:00.401000	0:58:01.148000
 denke	denken	VERB	-	0:58:01.148000	0:58:01.641000
 ich	ich	PRON	-	0:58:01.148000	0:58:01.641000
@@ -16522,10 +16522,10 @@ fünft	fünft	NOUN	-	0:58:12.448000	0:58:15.608000
 (anschauen)	anschauen	VERB	-	0:58:12.448000	0:58:15.608000
 .	-	-	-	0:58:12.448000	0:58:15.608000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:15.608000" end="0:58:16.181000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:15.608000" end="0:58:16.181000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:15.608000	0:58:16.181000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:16.181000" end="0:58:19.088000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:16.181000" end="0:58:19.088000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:58:16.181000	0:58:16.648000
 ich	ich	PRON	-	0:58:16.181000	0:58:16.648000
 habe	habe	AUX	-	0:58:16.181000	0:58:16.648000
@@ -16543,10 +16543,10 @@ ja	ja	ADV	-	0:58:16.648000	0:58:19.088000
 eh	eh	ADV	-	0:58:16.648000	0:58:19.088000
 klar	klaren	ADJ	-	0:58:16.648000	0:58:19.088000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:19.088000" end="0:58:19.914000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:19.088000" end="0:58:19.914000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:19.088000	0:58:19.914000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:19.914000" end="0:58:22.588000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:19.914000" end="0:58:22.588000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:58:19.914000	0:58:22.588000
 <pause duration="1,0s"/>
 dann	dann	ADV	-	0:58:19.914000	0:58:22.588000
@@ -16558,7 +16558,7 @@ der	der	PRON	-	0:58:19.914000	0:58:22.588000
 NAME	-	-	-	0:58:19.914000	0:58:22.588000
 .	-	-	-	0:58:19.914000	0:58:22.588000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:22.588000" end="0:58:24.661000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:22.588000" end="0:58:24.661000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:22.588000	0:58:24.661000
 genau	genau	ADJ	-	0:58:22.588000	0:58:24.661000
 der	der	PRON	-	0:58:22.588000	0:58:24.661000
@@ -16571,7 +16571,7 @@ auch	auch	ADV	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circu
 gesagt	sagen	VERB	Aux KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK circum habenAux std stdL+	0:58:22.588000	0:58:24.661000
 .	-	-	-	0:58:22.588000	0:58:24.661000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:24.661000" end="0:58:29.301000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:24.661000" end="0:58:29.301000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:58:24.661000	0:58:25.721000
 dann	dann	ADV	-	0:58:24.661000	0:58:25.721000
 hat	haben	AUX	-	0:58:24.661000	0:58:25.721000
@@ -16596,10 +16596,10 @@ auch	auch	ADV	-	0:58:27.301000	0:58:29.301000
 raus	raus	ADP	-	0:58:27.301000	0:58:29.301000
 .	-	-	-	0:58:27.301000	0:58:29.301000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:29.301000" end="0:58:29.908000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:29.301000" end="0:58:29.908000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:29.301000	0:58:29.908000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:29.908000" end="0:58:49.501000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:29.908000" end="0:58:49.501000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:58:29.908000	0:58:30.994000
 alte	alt	ADJ	-	0:58:29.908000	0:58:30.994000
 NAME	NAME	NOUN	-	0:58:29.908000	0:58:30.994000
@@ -16671,15 +16671,15 @@ bissel	bissel	NOUN	-	0:58:44.754000	0:58:49.501000
 bekennt	bekennen	VERB	-	0:58:44.754000	0:58:49.501000
 .	-	-	-	0:58:44.754000	0:58:49.501000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:49.501000" end="0:58:50.301000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:49.501000" end="0:58:50.301000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:49.501000	0:58:50.301000
 .	-	-	-	0:58:49.501000	0:58:50.301000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:50.301000" end="0:58:50.901000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:50.301000" end="0:58:50.901000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:58:50.301000	0:58:50.901000
 ich	ich	PRON	-	0:58:50.301000	0:58:50.901000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:50.901000" end="0:58:51.981000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:50.901000" end="0:58:51.981000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:58:50.901000	0:58:51.981000
 ich	ich	PRON	-	0:58:50.901000	0:58:51.981000
 eine	einen	DET	-	0:58:50.901000	0:58:51.981000
@@ -16687,7 +16687,7 @@ gute	gut	ADJ	-	0:58:50.901000	0:58:51.981000
 Idee	Idee	NOUN	-	0:58:50.901000	0:58:51.981000
 .	-	-	-	0:58:50.901000	0:58:51.981000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:50.901000" end="0:58:52.334000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:50.901000" end="0:58:52.334000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:58:50.901000	0:58:51.981000
 das	der	PRON	-	0:58:50.901000	0:58:51.981000
 gar	gar	ADV	-	0:58:50.901000	0:58:51.981000
@@ -16696,14 +16696,14 @@ blöde	blöde	ADJ	-	0:58:50.901000	0:58:51.981000
 Idee	Idee	NOUN	-	0:58:51.981000	0:58:52.334000
 .	-	-	-	0:58:51.981000	0:58:52.334000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:52.334000" end="0:58:53.508000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:52.334000" end="0:58:53.508000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 finde	finden	VERB	-	0:58:52.334000	0:58:53.508000
 ich	ich	PRON	-	0:58:52.334000	0:58:53.508000
 auch	auch	ADV	-	0:58:52.334000	0:58:53.508000
 .	-	-	-	0:58:52.334000	0:58:53.508000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:52.334000" end="0:58:58.094000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:52.334000" end="0:58:58.094000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 er	ich	PRON	-	0:58:53.508000	0:58:55.621000
 will	wollen	VERB	-	0:58:53.508000	0:58:55.621000
@@ -16725,35 +16725,35 @@ eine	einen	DET	-	0:58:56.014000	0:58:58.094000
 hinaushängen	hinaushängen	VERB	-	0:58:56.014000	0:58:58.094000
 ,	-	-	-	0:58:56.014000	0:58:58.094000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:58.094000" end="0:58:58.634000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:58.094000" end="0:58:58.634000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:58:58.094000	0:58:58.634000
 ,	-	-	-	0:58:58.094000	0:58:58.634000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:58.094000" end="0:58:58.634000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:58.094000" end="0:58:58.634000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:58:58.094000	0:58:58.634000
 sollen	sollen	VERB	-	0:58:58.094000	0:58:58.634000
 machen	machen	VERB	-	0:58:58.094000	0:58:58.634000
 ,	-	-	-	0:58:58.094000	0:58:58.634000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:58.634000" end="0:58:59.441000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:58.634000" end="0:58:59.441000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:58:58.634000	0:58:59.441000
 ist	sein	AUX	-	0:58:58.634000	0:58:59.441000
 ja	ja	ADV	-	0:58:58.634000	0:58:59.441000
 eh	eh	ADV	-	0:58:58.634000	0:58:59.441000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:58:58.634000" end="0:58:59.441000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:58.634000" end="0:58:59.441000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:58:58.634000	0:58:59.441000
 sie	ich	PRON	-	0:58:58.634000	0:58:59.441000
 wollen	wollen	VERB	-	0:58:58.634000	0:58:59.441000
 .	-	-	-	0:58:58.634000	0:58:59.441000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:58:59.441000" end="0:59:00.008000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:58:59.441000" end="0:59:00.008000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 klar	klaren	ADJ	-	0:58:59.441000	0:59:00.008000
 ,	-	-	-	0:58:59.441000	0:59:00.008000
 aber/	-	-	-	0:58:59.441000	0:59:00.008000
 .	-	-	-	0:58:59.441000	0:59:00.008000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:00.008000" end="0:59:08.514000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:00.008000" end="0:59:08.514000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	aber	CCONJ	-	0:59:00.008000	0:59:01.201000
 er	ich	PRON	-	0:59:00.008000	0:59:01.201000
@@ -16787,7 +16787,7 @@ nicht	nicht	PART	-	0:59:06.514000	0:59:08.514000
 schlecht	schlecht	ADJ	-	0:59:06.514000	0:59:08.514000
 .	-	-	-	0:59:06.514000	0:59:08.514000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:08.514000" end="0:59:26.401000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:08.514000" end="0:59:26.401000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:59:08.514000	0:59:10.761000
 finde	finden	VERB	-	0:59:08.514000	0:59:10.761000
@@ -16854,24 +16854,24 @@ da	-	-	-	0:59:24.601000	0:59:25.914000
 da	-	-	-	0:59:25.914000	0:59:26.401000
 *musst*	-	-	-	0:59:25.914000	0:59:26.401000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:25.914000" end="0:59:26.401000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:25.914000" end="0:59:26.401000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:59:25.914000	0:59:26.401000
 .	-	-	-	0:59:25.914000	0:59:26.401000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:26.401000" end="0:59:27.974000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:26.401000" end="0:59:27.974000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:59:26.401000	0:59:27.974000
 was	-	-	-	0:59:26.401000	0:59:27.974000
 ich	-	-	-	0:59:26.401000	0:59:27.974000
 was	-	-	-	0:59:26.401000	0:59:27.974000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:26.401000" end="0:59:27.974000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:26.401000" end="0:59:27.974000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 gehören	gehören	VERB	-	0:59:26.401000	0:59:27.974000
 dazu	dazu	ADV	-	0:59:26.401000	0:59:27.974000
 .	-	-	-	0:59:26.401000	0:59:27.974000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:27.974000" end="0:59:42.568000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:27.974000" end="0:59:42.568000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:59:27.974000	0:59:29.021000
 voll	-	-	-	0:59:27.974000	0:59:29.021000
 blöd	-	-	-	0:59:27.974000	0:59:29.021000
@@ -16923,10 +16923,10 @@ typisch	-	-	-	0:59:39.681000	0:59:42.114000
 das	der	PRON	-	0:59:42.114000	0:59:42.568000
 ist	sein	AUX	-	0:59:42.114000	0:59:42.568000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:42.114000" end="0:59:42.568000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:42.114000" end="0:59:42.568000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:59:42.114000	0:59:42.568000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:42.568000" end="0:59:49.094000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:42.568000" end="0:59:49.094000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 alles	alle	PRON	-	0:59:42.568000	0:59:43.594000
 negativ	negativ	ADJ	-	0:59:42.568000	0:59:43.594000
 besetzt	besetzen	VERB	-	0:59:42.568000	0:59:43.594000
@@ -16951,13 +16951,13 @@ gemeint	meinen	VERB	-	0:59:46.954000	0:59:48.268000
 <pause duration="0,5s"/>
 und	-	-	-	0:59:48.268000	0:59:49.094000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:48.268000" end="0:59:49.094000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:48.268000" end="0:59:49.094000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 na	na	PROPN	-	0:59:48.268000	0:59:49.094000
 ja	ja	ADV	-	0:59:48.268000	0:59:49.094000
 .	-	-	-	0:59:48.268000	0:59:49.094000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:49.094000" end="0:59:51.961000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:49.094000" end="0:59:51.961000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:59:49.094000	0:59:50.688000
 was	-	-	-	0:59:49.094000	0:59:50.688000
 *solltens*	-	-	-	0:59:49.094000	0:59:50.688000
@@ -16974,7 +16974,7 @@ nie	nie	ADV	-	0:59:50.688000	0:59:51.961000
 besser	gut	ADJ	-	0:59:50.688000	0:59:51.961000
 .	-	-	-	0:59:50.688000	0:59:51.961000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:51.961000" end="0:59:53.861000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:51.961000" end="0:59:53.861000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:59:51.961000	0:59:53.861000
 deutsche	deutsch	ADJ	-	0:59:51.961000	0:59:53.861000
 Weg	Weg	NOUN	-	0:59:51.961000	0:59:53.861000
@@ -16986,9 +16986,9 @@ etwas	etwas	DET	-	0:59:51.961000	0:59:53.861000
 Anderes	ander	PRON	-	0:59:51.961000	0:59:53.861000
 .	-	-	-	0:59:51.961000	0:59:53.861000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:53.861000" end="0:59:55.688000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:53.861000" end="0:59:55.688000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="0:59:55.688000" end="0:59:57.754000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:55.688000" end="0:59:57.754000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:59:55.688000	0:59:55.928000
 eh	-	-	-	0:59:55.688000	0:59:55.928000
 ,	-	-	-	0:59:55.688000	0:59:55.928000
@@ -17002,7 +17002,7 @@ die	der	DET	-	0:59:56.874000	0:59:57.754000
 Ehre	Ehre	NOUN	-	0:59:56.874000	0:59:57.754000
 .	-	-	-	0:59:56.874000	0:59:57.754000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="0:59:57.754000" end="1:00:01.281000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:59:57.754000" end="1:00:01.281000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ach	ach	X	-	0:59:57.754000	1:00:00.434000
 so	so	ADV	-	0:59:57.754000	1:00:00.434000
@@ -17011,14 +17011,14 @@ der	der	DET	-	0:59:57.754000	1:00:00.434000
 Jamaika	Jamaika	PROPN	-	1:00:00.434000	1:00:01.281000
 ?	-	-	-	1:00:00.434000	1:00:01.281000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:00.434000" end="1:00:01.281000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:00.434000" end="1:00:01.281000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:01.281000" end="1:00:01.641000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:01.281000" end="1:00:01.641000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	1:00:01.281000	1:00:01.641000
 was	was	PRON	-	1:00:01.281000	1:00:01.641000
 ?	-	-	-	1:00:01.281000	1:00:01.641000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:01.641000" end="1:00:03.474000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:01.641000" end="1:00:03.474000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:00:01.641000	1:00:02.641000
 ,	-	-	-	1:00:01.641000	1:00:02.641000
 die	der	PRON	-	1:00:01.641000	1:00:02.641000
@@ -17032,12 +17032,12 @@ denn	denn	ADV	-	1:00:02.641000	1:00:03.474000
 machen	machen	VERB	-	1:00:02.641000	1:00:03.474000
 ?	-	-	-	1:00:02.641000	1:00:03.474000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:03.474000" end="1:00:04.748000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:03.474000" end="1:00:04.748000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	1:00:03.474000	1:00:04.748000
 .	-	-	-	1:00:03.474000	1:00:04.748000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:04.748000" end="1:00:13.521000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:04.748000" end="1:00:13.521000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	KONJ	1:00:04.748000	1:00:06.014000
 würde	werden	AUX	KONJ	1:00:04.748000	1:00:06.014000
 ich	ich	PRON	KONJ	1:00:04.748000	1:00:06.014000
@@ -17084,19 +17084,19 @@ dieser	dies	DET	-	1:00:11.841000	1:00:13.521000
 Welt	Welt	NOUN	-	1:00:11.841000	1:00:13.521000
 .	-	-	-	1:00:11.841000	1:00:13.521000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:13.521000" end="1:00:15.034000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:13.521000" end="1:00:15.034000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 Bundespräsident	Bundespräsident	NOUN	-	1:00:13.521000	1:00:15.034000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:15.034000" end="1:00:15.381000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:15.034000" end="1:00:15.381000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:00:15.034000	1:00:15.381000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:15.381000" end="1:00:16.121000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:15.381000" end="1:00:16.121000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	1:00:15.381000	1:00:16.121000
 Österreich	Österreich	PROPN	-	1:00:15.381000	1:00:16.121000
 ?	-	-	-	1:00:15.381000	1:00:16.121000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:16.121000" end="1:00:35.921000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:16.121000" end="1:00:35.921000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 also	-	-	-	1:00:16.121000	1:00:20.094000
 da	-	-	-	1:00:16.121000	1:00:20.094000
@@ -17175,41 +17175,41 @@ zusammen	-	-	-	1:00:33.400000	1:00:35.401000
 *tuts*	-	-	-	1:00:35.401000	1:00:35.921000
 nochmal	-	-	-	1:00:35.401000	1:00:35.921000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:35.921000" end="1:00:36.754000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:35.921000" end="1:00:36.754000" persName="Informant EXP5" age_lower="" age_upper="999">
 so	so	ADV	-	1:00:35.921000	1:00:36.754000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:35.921000" end="1:00:36.754000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:35.921000" end="1:00:36.754000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 was	-	-	-	1:00:35.921000	1:00:36.754000
 ,	-	-	-	1:00:35.921000	1:00:36.754000
 weil/	-	-	-	1:00:35.921000	1:00:36.754000
 .	-	-	-	1:00:35.921000	1:00:36.754000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:36.754000" end="1:00:38.181000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:36.754000" end="1:00:38.181000" persName="Informant EXP5" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 Grüß	Grüß	PROPN	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	1:00:36.754000	1:00:38.181000
 Gott	Gott	NOUN	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdL+ zeitgeb-	1:00:36.754000	1:00:38.181000
 .	-	-	-	1:00:36.754000	1:00:38.181000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:38.181000" end="1:00:38.721000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:38.181000" end="1:00:38.721000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	-	1:00:38.181000	1:00:38.721000
 .	-	-	-	1:00:38.181000	1:00:38.721000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:38.721000" end="1:00:39.141000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:38.721000" end="1:00:39.141000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:39.141000" end="1:00:40.314000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:39.141000" end="1:00:40.314000" persName="Informant EXP5" age_lower="" age_upper="999">
 wie	wie	ADV	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	1:00:39.141000	1:00:40.314000
 geht	gehen	VERB	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	1:00:39.141000	1:00:40.314000
 es	ich	PRON	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	1:00:39.141000	1:00:40.314000
 ihnen	ich	PRON	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro+ Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut vous zeitgeb-	1:00:39.141000	1:00:40.314000
 ?	-	-	-	1:00:39.141000	1:00:40.314000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:40.314000" end="1:00:41.501000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:40.314000" end="1:00:41.501000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:00:40.314000	1:00:41.501000
 eh	eh	ADV	-	1:00:40.314000	1:00:41.501000
 gut	gut	ADJ	-	1:00:40.314000	1:00:41.501000
 .	-	-	-	1:00:40.314000	1:00:41.501000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:40.314000" end="1:00:42.254000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:40.314000" end="1:00:42.254000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 wir	ich	PRON	-	1:00:40.314000	1:00:41.501000
 haben	haben	AUX	-	1:00:40.314000	1:00:41.501000
 schon	schon	ADV	-	1:00:40.314000	1:00:41.501000
@@ -17218,12 +17218,12 @@ alles	alle	PRON	-	1:00:41.501000	1:00:42.254000
 durch	durch	ADP	-	1:00:41.501000	1:00:42.254000
 .	-	-	-	1:00:41.501000	1:00:42.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:42.254000" end="1:00:43.014000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:42.254000" end="1:00:43.014000" persName="Informant EXP5" age_lower="" age_upper="999">
 ja	ja	ADV	-	1:00:42.254000	1:00:43.014000
 super	super	PROPN	-	1:00:42.254000	1:00:43.014000
 .	-	-	-	1:00:42.254000	1:00:43.014000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:42.254000" end="1:00:43.448000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:42.254000" end="1:00:43.448000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *sind*	-	-	-	1:00:42.254000	1:00:43.014000
 nicht	-	-	-	1:00:42.254000	1:00:43.014000
 einmal	-	-	-	1:00:42.254000	1:00:43.014000
@@ -17231,7 +17231,7 @@ fertig	-	-	-	1:00:43.014000	1:00:43.448000
 geworden	-	-	-	1:00:43.014000	1:00:43.448000
 .	-	-	-	1:00:43.014000	1:00:43.448000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:43.448000" end="1:00:45.361000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:43.448000" end="1:00:45.361000" persName="Informant EXP5" age_lower="" age_upper="999">
 soll	soll	VERB	-	1:00:43.448000	1:00:44.808000
 ich	ich	PRON	-	1:00:43.448000	1:00:44.808000
 noch	noch	ADV	-	1:00:43.448000	1:00:44.808000
@@ -17241,34 +17241,34 @@ raus	raus	ADP	-	1:00:43.448000	1:00:44.808000
 oder	oder	CCONJ	-	1:00:44.808000	1:00:45.361000
 ?	-	-	-	1:00:44.808000	1:00:45.361000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:44.808000" end="1:00:45.361000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:44.808000" end="1:00:45.361000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:00:44.808000	1:00:45.361000
 ,	-	-	-	1:00:44.808000	1:00:45.361000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:45.361000" end="1:00:45.728000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:45.361000" end="1:00:45.728000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:00:45.361000	1:00:45.728000
 .	-	-	-	1:00:45.361000	1:00:45.728000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:45.361000" end="1:00:45.728000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:45.361000" end="1:00:45.728000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 geht	gehen	VERB	-	1:00:45.361000	1:00:45.728000
 schon	schon	ADV	-	1:00:45.361000	1:00:45.728000
 .	-	-	-	1:00:45.361000	1:00:45.728000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:45.728000" end="1:00:46.461000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:45.728000" end="1:00:46.461000" persName="Informant EXP5" age_lower="" age_upper="999">
 passt	passt	PROPN	-	1:00:45.728000	1:00:46.461000
 schon	schon	ADV	-	1:00:45.728000	1:00:46.461000
 .	-	-	-	1:00:45.728000	1:00:46.461000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:45.728000" end="1:00:46.461000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:45.728000" end="1:00:46.461000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 *glaube*	-	-	-	1:00:45.728000	1:00:46.461000
 wir	-	-	-	1:00:45.728000	1:00:46.461000
 haben	-	-	-	1:00:45.728000	1:00:46.461000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:46.461000" end="1:00:47.114000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:46.461000" end="1:00:47.114000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:00:46.461000	1:00:47.114000
 .	-	-	-	1:00:46.461000	1:00:47.114000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:46.461000" end="1:00:47.574000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:46.461000" end="1:00:47.574000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 schon	-	-	-	1:00:46.461000	1:00:47.114000
 das	-	-	-	1:00:46.461000	1:00:47.114000
 meinste	-	-	-	1:00:46.461000	1:00:47.114000
@@ -17277,12 +17277,12 @@ geredet	-	-	-	1:00:47.114000	1:00:47.574000
 ja	ja	PART	-	1:00:47.114000	1:00:47.574000
 .	-	-	-	1:00:47.114000	1:00:47.574000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:47.574000" end="1:00:48.441000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:47.574000" end="1:00:48.441000" persName="Informant EXP5" age_lower="" age_upper="999">
 na	na	X	-	1:00:47.574000	1:00:48.441000
 super	super	PROPN	-	1:00:47.574000	1:00:48.441000
 .	-	-	-	1:00:47.574000	1:00:48.441000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:48.441000" end="1:00:50.121000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:48.441000" end="1:00:50.121000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 auf	auf	ADP	-	1:00:48.441000	1:00:50.121000
 jeden	jed	DET	-	1:00:48.441000	1:00:50.121000
 Fall	Fall	NOUN	-	1:00:48.441000	1:00:50.121000
@@ -17295,17 +17295,17 @@ Machtwort	Machtwort	NOUN	KONJ	1:00:48.441000	1:00:50.121000
 sprechen	sprechen	VERB	KONJ	1:00:48.441000	1:00:50.121000
 .	-	-	-	1:00:48.441000	1:00:50.121000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" start="1:00:50.121000" end="1:00:51.501000" persName="Informant 0536">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:50.121000" end="1:00:51.501000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	1:00:50.121000	1:00:51.501000
 ja	ja	PART	-	1:00:50.121000	1:00:51.501000
 .	-	-	-	1:00:50.121000	1:00:51.501000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:51.501000" end="1:00:53.161000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:51.501000" end="1:00:53.161000" persName="Informant EXP5" age_lower="" age_upper="999">
 wunderbar	wunderbar	ADJ	-	1:00:51.501000	1:00:53.161000
 .	-	-	-	1:00:51.501000	1:00:53.161000
 </u>
-<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" start="1:00:53.161000" end="1:00:55.461000" persName="Informant 0535">
+<u who="spk_257" sex="male" age="jung (18-35) +matura" name="Informant 0535" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="1:00:53.161000" end="1:00:55.461000" persName="Informant 0535" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	1:00:53.161000	1:00:54.541000
 Packel	Packel	NOUN	-	1:00:53.161000	1:00:54.541000
 haben	haben	AUX	-	1:00:53.161000	1:00:54.541000
@@ -17318,7 +17318,7 @@ wir	ich	PRON	-	1:00:54.541000	1:00:55.461000
 übergelassen	übergelassen	VERB	-	1:00:54.541000	1:00:55.461000
 .	-	-	-	1:00:54.541000	1:00:55.461000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" start="1:00:55.461000" end="1:00:58.814000" persName="Informant EXP5">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="1:00:55.461000" end="1:00:58.814000" persName="Informant EXP5" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:00:55.461000	1:00:57.388000
 passt	passt	PROPN	-	1:00:55.461000	1:00:57.388000
 .	-	-	-	1:00:55.461000	1:00:57.388000

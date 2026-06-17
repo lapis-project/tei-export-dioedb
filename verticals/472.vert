@@ -1,12 +1,12 @@
 <doc id="transcript_472" name="0482_TAUF_jungII_f_INT" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="472.xml" title="Transcript: Transcript_472">
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:08.046000" persName="Informant 0482">
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:08.046000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 Nordwind	Nordwind	NOUN	-	0:00:06.240000	0:00:08.046000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" start="0:00:06.240000" end="0:00:08.046000" persName="Informant EXP11">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:06.240000" end="0:00:08.046000" persName="Informant EXP11" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:06.240000	0:00:08.046000
 </u>
-<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" start="0:00:06.240000" end="0:00:53.233000" persName="Informant 0482">
+<u who="spk_490" sex="female" age="jung (18-35) +matura" name="Informant 0482" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:06.240000" end="0:00:53.233000" persName="Informant 0482" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:00:06.240000	0:00:08.046000
 Sonne	sonnen	NOUN	-	0:00:06.240000	0:00:08.046000
 einst	einen	ADV	-	0:00:08.046000	0:00:10.840000

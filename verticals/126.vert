@@ -1,6 +1,6 @@
 <doc id="transcript_126" name="0319_OBER_jungII_M_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="126.xml" title="Transcript: Transcript_126">
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:00" end="0:00:05.933000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:05.933000" persName="Informant EXP4" age_lower="" age_upper="999">
 starten	starten	VERB	-	0:00:00	0:00:01.779000
 wir	ich	PRON	-	0:00:00	0:00:01.779000
 jetzt	jetzt	ADV	-	0:00:00	0:00:01.779000
@@ -24,23 +24,23 @@ mit	mit	ADP	-	0:00:05.166000	0:00:05.933000
 zu	zu	PART	-	0:00:05.166000	0:00:05.933000
 machen	machen	VERB	-	0:00:05.166000	0:00:05.933000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:05.933000" end="0:00:06.726000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:05.933000" end="0:00:06.726000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 kein	kein	DET	-	0:00:05.933000	0:00:06.293000
 Problem	Problem	NOUN	-	0:00:06.293000	0:00:06.726000
 .	-	-	-	0:00:06.293000	0:00:06.726000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:06.293000" end="0:00:07.719000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:06.293000" end="0:00:07.719000" persName="Informant EXP4" age_lower="" age_upper="999">
 bei	bei	ADP	-	0:00:06.293000	0:00:06.726000
 bei	bei	ADP	-	0:00:06.726000	0:00:07.719000
 unserer	mein	DET	-	0:00:06.726000	0:00:07.719000
 Erhebung	Erhebung	NOUN	-	0:00:06.726000	0:00:07.719000
 .	-	-	-	0:00:06.726000	0:00:07.719000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:07.719000" end="0:00:08.113000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:07.719000" end="0:00:08.113000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:07.719000	0:00:08.113000
 .	-	-	-	0:00:07.719000	0:00:08.113000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:08.113000" end="0:00:15.513000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:08.113000" end="0:00:15.513000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:00:08.113000	0:00:12.879000
 wir	ich	PRON	-	0:00:08.113000	0:00:12.879000
 starten	starten	VERB	-	0:00:08.113000	0:00:12.879000
@@ -71,13 +71,13 @@ Name	Name	NOUN	-	0:00:12.879000	0:00:15.513000
 bitte	bitte	PART	-	0:00:12.879000	0:00:15.513000
 ?	-	-	-	0:00:12.879000	0:00:15.513000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:15.513000" end="0:00:16.859000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:15.513000" end="0:00:16.859000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:00:15.513000	0:00:16.859000
 NAME	NAME	PROPN	-	0:00:15.513000	0:00:16.859000
 NAME	NAME	PROPN	-	0:00:15.513000	0:00:16.859000
 .	-	-	-	0:00:15.513000	0:00:16.859000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:16.859000" end="0:00:22.059000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:16.859000" end="0:00:22.059000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:00:16.859000	0:00:18.333000
 <pause duration="0,5s"/>
 Dankeschön	Dankeschön	PROPN	-	0:00:16.859000	0:00:18.333000
@@ -93,7 +93,7 @@ ihr	mein	DET	-	0:00:18.333000	0:00:22.059000
 Geburtsort	Geburtsort	NOUN	-	0:00:18.333000	0:00:22.059000
 ?	-	-	-	0:00:18.333000	0:00:22.059000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:22.059000" end="0:00:27.033000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:22.059000" end="0:00:27.033000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:00:22.059000	0:00:27.033000
 bin	sein	AUX	-	0:00:22.059000	0:00:27.033000
 am	am	ADP	-	0:00:22.059000	0:00:27.033000
@@ -105,15 +105,15 @@ ORT	ORT	PROPN	-	0:00:22.059000	0:00:27.033000
 geboren	gebären	VERB	-	0:00:22.059000	0:00:27.033000
 .	-	-	-	0:00:22.059000	0:00:27.033000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:27.033000" end="0:00:27.466000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:27.033000" end="0:00:27.466000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:00:27.033000	0:00:27.466000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:27.466000" end="0:00:28.219000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:27.466000" end="0:00:28.219000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:00:27.466000	0:00:28.219000
 .	-	-	-	0:00:27.466000	0:00:28.219000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:28.219000" end="0:00:32.519000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:28.219000" end="0:00:32.519000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:00:28.219000	0:00:32.519000
 okay	okay	ADJ	-	0:00:28.219000	0:00:32.519000
 und	und	CCONJ	-	0:00:28.219000	0:00:32.519000
@@ -129,26 +129,26 @@ sie	ich	PRON	-	0:00:28.219000	0:00:32.519000
 aufgewachsen	aufwachsen	VERB	-	0:00:28.219000	0:00:32.519000
 ?	-	-	-	0:00:28.219000	0:00:32.519000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:32.519000" end="0:00:33.593000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:32.519000" end="0:00:33.593000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:32.519000	0:00:33.593000
 [Oberwölz]O	Oberwölz	PROPN	-	0:00:32.519000	0:00:33.593000
 .	-	-	-	0:00:32.519000	0:00:33.593000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:33.593000" end="0:00:33.986000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:33.593000" end="0:00:33.986000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:00:33.593000	0:00:33.986000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:33.986000" end="0:00:34.446000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:33.986000" end="0:00:34.446000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:33.986000	0:00:34.446000
 .	-	-	-	0:00:33.986000	0:00:34.446000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:34.446000" end="0:00:36.226000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:34.446000" end="0:00:36.226000" persName="Informant EXP4" age_lower="" age_upper="999">
 in	in	ADP	-	0:00:34.446000	0:00:36.226000
 [Oberwölz]O	Oberwölz	PROPN	-	0:00:34.446000	0:00:36.226000
 direkt	direkt	ADJ	-	0:00:34.446000	0:00:36.226000
 oder/	-	-	-	0:00:34.446000	0:00:36.226000
 .	-	-	-	0:00:34.446000	0:00:36.226000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:36.226000" end="0:00:45.606000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:36.226000" end="0:00:45.606000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:00:36.226000	0:00:41.746000
 ja	ja	ADV	-	0:00:36.226000	0:00:41.746000
 so	so	ADV	-	0:00:36.226000	0:00:41.746000
@@ -175,10 +175,10 @@ Umgebung	Umgebung	NOUN	-	0:00:43.746000	0:00:45.606000
 gehört	hören	VERB	-	0:00:43.746000	0:00:45.606000
 .	-	-	-	0:00:43.746000	0:00:45.606000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:45.606000" end="0:00:45.926000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:45.606000" end="0:00:45.926000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:45.606000	0:00:45.926000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:45.926000" end="0:00:56.213000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:45.926000" end="0:00:56.213000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:00:45.926000	0:00:48.459000
 ist	sein	AUX	-	0:00:45.926000	0:00:48.459000
@@ -208,18 +208,18 @@ Schul/	-	-	-	0:00:53.299000	0:00:55.839000
 Schulzeit	Schulzeit	NOUN	-	0:00:53.299000	0:00:55.839000
 war	sein	AUX	-	0:00:55.839000	0:00:56.213000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:55.839000" end="0:00:56.213000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:55.839000" end="0:00:56.213000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:55.839000	0:00:56.213000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:56.213000" end="0:00:56.793000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:56.213000" end="0:00:56.793000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:00:56.213000	0:00:56.793000
 ORT	ORT	PROPN	-	0:00:56.213000	0:00:56.793000
 .	-	-	-	0:00:56.213000	0:00:56.793000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:00:56.793000" end="0:00:57.526000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:56.793000" end="0:00:57.526000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:56.793000	0:00:57.526000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:00:57.526000" end="0:01:05.059000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:57.526000" end="0:01:05.059000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 bis	bis	SCONJ	-	0:00:57.526000	0:00:59.553000
 ähm	ähm	PROPN	-	0:00:57.526000	0:00:59.553000
 vierzehn	vierzehn	PROPN	-	0:00:57.526000	0:00:59.553000
@@ -242,17 +242,17 @@ Schule	Schule	NOUN	-	0:01:03.246000	0:01:05.059000
 gegangen	gehen	VERB	-	0:01:03.246000	0:01:05.059000
 .	-	-	-	0:01:03.246000	0:01:05.059000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:05.059000" end="0:01:06.693000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:05.059000" end="0:01:06.693000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	-	-	-	0:01:05.059000	0:01:06.079000
 okay	-	-	-	0:01:05.059000	0:01:06.079000
 *verstehe*	-	-	1 EnKl imp Klitik KlPos Num Pers Pronom sg	0:01:06.079000	0:01:06.693000
 .	-	-	-	0:01:06.079000	0:01:06.693000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:06.079000" end="0:01:06.693000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:06.079000" end="0:01:06.693000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:01:06.079000	0:01:06.693000
 .	-	-	-	0:01:06.079000	0:01:06.693000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:06.693000" end="0:01:11.873000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:06.693000" end="0:01:11.873000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	0:01:06.693000	0:01:09.959000
 darf	dürfen	VERB	-	0:01:06.693000	0:01:09.959000
@@ -270,7 +270,7 @@ Eltern	Eltern	NOUN	-	0:01:09.959000	0:01:11.873000
 stammen	stammen	VERB	-	0:01:09.959000	0:01:11.873000
 ?	-	-	-	0:01:09.959000	0:01:11.873000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:11.873000" end="0:01:13.659000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:11.873000" end="0:01:13.659000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 die	der	PRON	-	0:01:11.873000	0:01:13.659000
 sind	sein	AUX	-	0:01:11.873000	0:01:13.659000
@@ -279,15 +279,15 @@ aus	aus	ADP	-	0:01:11.873000	0:01:13.659000
 ORT	ORT	NOUN	-	0:01:11.873000	0:01:13.659000
 .	-	-	-	0:01:11.873000	0:01:13.659000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:13.659000" end="0:01:14.246000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:13.659000" end="0:01:14.246000" persName="Informant EXP4" age_lower="" age_upper="999">
 beide	beid	PRON	-	0:01:13.659000	0:01:14.246000
 aus	aus	ADP	-	0:01:13.659000	0:01:14.246000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:14.246000" end="0:01:14.653000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:14.246000" end="0:01:14.653000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:14.246000	0:01:14.653000
 .	-	-	-	0:01:14.246000	0:01:14.653000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:14.246000" end="0:01:18.066000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:14.246000" end="0:01:18.066000" persName="Informant EXP4" age_lower="" age_upper="999">
 ORT	ORT	NOUN	-	0:01:14.246000	0:01:14.653000
 .	-	-	-	0:01:14.246000	0:01:14.653000
 ideal	ideal	ADJ	-	0:01:14.653000	0:01:15.339000
@@ -304,16 +304,16 @@ dort	dort	ADV	-	0:01:15.339000	0:01:18.066000
 aufgewachsen	aufwachsen	VERB	-	0:01:15.339000	0:01:18.066000
 ?	-	-	-	0:01:15.339000	0:01:18.066000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:18.066000" end="0:01:18.493000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:18.066000" end="0:01:18.493000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:18.066000	0:01:18.493000
 ja	ja	PART	-	0:01:18.066000	0:01:18.493000
 .	-	-	-	0:01:18.066000	0:01:18.493000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:18.493000" end="0:01:19.419000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:18.493000" end="0:01:19.419000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:01:18.493000	0:01:19.419000
 .	-	-	-	0:01:18.493000	0:01:19.419000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:19.419000" end="0:01:22.652000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:19.419000" end="0:01:22.652000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:01:19.419000	0:01:21.393000
 sind	sein	AUX	-	0:01:19.419000	0:01:21.393000
 beide	beid	PRON	-	0:01:19.419000	0:01:21.393000
@@ -325,15 +325,15 @@ dort	dort	ADV	-	0:01:21.393000	0:01:22.652000
 aufgewachsen	aufwachsen	VERB	-	0:01:21.393000	0:01:22.652000
 .	-	-	-	0:01:21.393000	0:01:22.652000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:22.652000" end="0:01:23.019000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:22.652000" end="0:01:23.019000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:01:22.652000	0:01:23.019000
 .	-	-	-	0:01:22.652000	0:01:23.019000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:23.019000" end="0:01:23.579000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:23.019000" end="0:01:23.579000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:23.019000	0:01:23.579000
 .	-	-	-	0:01:23.019000	0:01:23.579000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:23.019000" end="0:01:26.673000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:23.019000" end="0:01:26.673000" persName="Informant EXP4" age_lower="" age_upper="999">
 ideal	ideal	ADJ	-	0:01:23.019000	0:01:23.579000
 .	-	-	-	0:01:23.019000	0:01:23.579000
 ja	ja	ADV	-	0:01:23.579000	0:01:24.158000
@@ -348,7 +348,7 @@ Eltern	Eltern	NOUN	-	0:01:24.158000	0:01:26.673000
 beruflich	beruflich	ADJ	-	0:01:24.158000	0:01:26.673000
 ?	-	-	-	0:01:24.158000	0:01:26.673000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:26.673000" end="0:01:33.126000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:26.673000" end="0:01:33.126000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	X	-	0:01:26.673000	0:01:29.773000
 die	der	DET	-	0:01:26.673000	0:01:29.773000
@@ -369,15 +369,15 @@ in	in	ADP	-	0:01:31.853000	0:01:33.126000
 Pension	Pension	NOUN	-	0:01:31.853000	0:01:33.126000
 .	-	-	-	0:01:31.853000	0:01:33.126000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:33.126000" end="0:01:33.626000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:33.126000" end="0:01:33.626000" persName="Informant EXP4" age_lower="" age_upper="999">
 aha	aha	X	-	0:01:33.126000	0:01:33.626000
 .	-	-	-	0:01:33.126000	0:01:33.626000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:33.626000" end="0:01:33.872000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:33.626000" end="0:01:33.872000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:33.626000	0:01:33.872000
 .	-	-	-	0:01:33.626000	0:01:33.872000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:33.872000" end="0:01:38.926000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:33.872000" end="0:01:38.926000" persName="Informant EXP4" age_lower="" age_upper="999">
 schön	schön	ADJ	-	0:01:33.872000	0:01:34.566000
 .	-	-	-	0:01:33.872000	0:01:34.566000
 cool	cool	PROPN	-	0:01:33.872000	0:01:34.566000
@@ -396,7 +396,7 @@ einer	einer	DET	-	0:01:37.619000	0:01:38.926000
 Partnerschaft	Partnerschaft	NOUN	-	0:01:37.619000	0:01:38.926000
 ?	-	-	-	0:01:37.619000	0:01:38.926000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:38.926000" end="0:01:42.939000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:38.926000" end="0:01:42.939000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:01:38.926000	0:01:41.033000
 ich	ich	PRON	-	0:01:38.926000	0:01:41.033000
 lebe	leben	VERB	-	0:01:38.926000	0:01:41.033000
@@ -413,7 +413,7 @@ verheiratet	verheiraten	VERB	-	0:01:41.033000	0:01:42.473000
 ja	ja	PART	-	0:01:42.473000	0:01:42.939000
 .	-	-	-	0:01:42.473000	0:01:42.939000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:42.473000" end="0:01:47.359000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:42.473000" end="0:01:47.359000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:01:42.473000	0:01:42.939000
 und	und	CCONJ	-	0:01:42.939000	0:01:47.359000
 wie	wie	ADV	-	0:01:42.939000	0:01:47.359000
@@ -427,13 +427,13 @@ ihres	mein	DET	-	0:01:42.939000	0:01:47.359000
 Partners	Partner	NOUN	-	0:01:42.939000	0:01:47.359000
 ?	-	-	-	0:01:42.939000	0:01:47.359000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:47.359000" end="0:01:48.726000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:47.359000" end="0:01:48.726000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	ADV	-	0:01:47.359000	0:01:48.079000
 .	-	-	-	0:01:47.359000	0:01:48.079000
 ja	ja	PART	-	0:01:48.079000	0:01:48.726000
 .	-	-	-	0:01:48.079000	0:01:48.726000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:48.079000" end="0:01:53.439000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:48.079000" end="0:01:53.439000" persName="Informant EXP4" age_lower="" age_upper="999">
 ZAHL	ZAHL	ADV	-	0:01:48.079000	0:01:48.726000
 okay	okay	VERB	-	0:01:48.726000	0:01:49.039000
 .	-	-	-	0:01:48.726000	0:01:49.039000
@@ -450,26 +450,26 @@ stammt	stammen	VERB	-	0:01:49.039000	0:01:53.439000
 ihr	mein	DET	-	0:01:49.039000	0:01:53.439000
 Partner	Partner	NOUN	-	0:01:49.039000	0:01:53.439000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:53.439000" end="0:01:53.959000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:53.439000" end="0:01:53.959000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aus	aus	ADP	-	0:01:53.439000	0:01:53.959000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:53.439000" end="0:01:53.959000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:53.439000" end="0:01:53.959000" persName="Informant EXP4" age_lower="" age_upper="999">
 ihre	mein	DET	-	0:01:53.439000	0:01:53.959000
 Partnerin	Partnerin	NOUN	-	0:01:53.439000	0:01:53.959000
 ?	-	-	-	0:01:53.439000	0:01:53.959000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:53.959000" end="0:01:54.346000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:53.959000" end="0:01:54.346000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	PROPN	-	0:01:53.959000	0:01:54.346000
 .	-	-	-	0:01:53.959000	0:01:54.346000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:54.346000" end="0:01:54.979000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:54.346000" end="0:01:54.979000" persName="Informant EXP4" age_lower="" age_upper="999">
 aus	aus	ADP	-	0:01:54.346000	0:01:54.979000
 ORT	ORT	PROPN	-	0:01:54.346000	0:01:54.979000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:54.979000" end="0:01:55.372000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:54.979000" end="0:01:55.372000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:54.979000	0:01:55.372000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:54.979000" end="0:01:57.786000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:54.979000" end="0:01:57.786000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:01:54.979000	0:01:55.372000
 .	-	-	-	0:01:54.979000	0:01:55.372000
 <pause duration="0,9s"/>
@@ -480,21 +480,21 @@ dort	dort	ADV	-	0:01:55.372000	0:01:57.786000
 aufgewachsen	aufwachsen	VERB	-	0:01:55.372000	0:01:57.786000
 ?	-	-	-	0:01:55.372000	0:01:57.786000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:57.786000" end="0:01:58.059000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:57.786000" end="0:01:58.059000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:57.786000	0:01:58.059000
 .	-	-	-	0:01:57.786000	0:01:58.059000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:58.059000" end="0:01:59.459000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:58.059000" end="0:01:59.459000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	okay	PROPN	-	0:01:58.059000	0:01:59.459000
 passt	passt	PROPN	-	0:01:58.059000	0:01:59.459000
 .	-	-	-	0:01:58.059000	0:01:59.459000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:01:59.459000" end="0:01:59.878000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:59.459000" end="0:01:59.878000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:01:59.459000	0:01:59.878000
 .	-	-	-	0:01:59.459000	0:01:59.878000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:01:59.878000" end="0:02:05.999000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:59.878000" end="0:02:05.999000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	X	-	0:01:59.878000	0:02:05.999000
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:01:59.878000	0:02:05.999000
@@ -513,28 +513,28 @@ Beruf	Beruf	NOUN	-	0:01:59.878000	0:02:05.999000
 sagen	sagen	VERB	-	0:01:59.878000	0:02:05.999000
 ?	-	-	-	0:01:59.878000	0:02:05.999000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:05.999000" end="0:02:07.213000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:05.999000" end="0:02:07.213000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	NOUN	-	0:02:05.999000	0:02:07.213000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:07.213000" end="0:02:08.019000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:07.213000" end="0:02:08.019000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 also	also	ADV	-	0:02:07.213000	0:02:08.019000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:08.019000" end="0:02:10.413000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:08.019000" end="0:02:10.413000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 zu	zu	PART	-	0:02:08.019000	0:02:09.506000
 zu	zu	PART	-	0:02:08.019000	0:02:09.506000
 meinem	mein	VERB	-	0:02:08.019000	0:02:09.506000
 ?	-	-	-	0:02:08.019000	0:02:09.506000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:09.506000" end="0:02:10.413000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:09.506000" end="0:02:10.413000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:02:09.506000	0:02:10.413000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:10.413000" end="0:02:11.419000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:10.413000" end="0:02:11.419000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:10.413000	0:02:11.419000
 also	also	ADV	-	0:02:10.413000	0:02:11.419000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:10.413000" end="0:02:11.653000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:10.413000" end="0:02:11.653000" persName="Informant EXP4" age_lower="" age_upper="999">
 genau	genau	ADJ	-	0:02:10.413000	0:02:11.419000
 also	also	ADV	-	0:02:10.413000	0:02:11.419000
 zu	zu	PART	-	0:02:10.413000	0:02:11.419000
@@ -542,16 +542,16 @@ beiden	beid	PRON	-	0:02:10.413000	0:02:11.419000
 .	-	-	-	0:02:10.413000	0:02:11.419000
 sowohl	sowohl	CCONJ	-	0:02:11.419000	0:02:11.653000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:11.653000" end="0:02:12.333000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:11.653000" end="0:02:12.333000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:02:11.653000	0:02:12.333000
 studiere	studieren	VERB	-	0:02:11.653000	0:02:12.333000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:11.653000" end="0:02:12.333000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:11.653000" end="0:02:12.333000" persName="Informant EXP4" age_lower="" age_upper="999">
 als	als	CCONJ	-	0:02:11.653000	0:02:12.333000
 auch	auch	ADV	-	0:02:11.653000	0:02:12.333000
 .	-	-	-	0:02:11.653000	0:02:12.333000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:12.333000" end="0:02:15.353000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:12.333000" end="0:02:15.353000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:02:12.333000	0:02:15.353000
 studiere	studieren	ADJ	-	0:02:12.333000	0:02:15.353000
 Volkswirtschaft	Volkswirtschaft	NOUN	-	0:02:12.333000	0:02:15.353000
@@ -561,10 +561,10 @@ der	der	DET	-	0:02:12.333000	0:02:15.353000
 SONSTIGE	SONSTIGE	PROPN	-	0:02:12.333000	0:02:15.353000
 .	-	-	-	0:02:12.333000	0:02:15.353000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:15.353000" end="0:02:15.859000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:15.353000" end="0:02:15.859000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:02:15.353000	0:02:15.859000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:15.859000" end="0:02:18.506000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:15.859000" end="0:02:18.506000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:02:15.859000	0:02:18.506000
 die	der	DET	-	0:02:15.859000	0:02:18.506000
 NAME	NAME	NOUN	-	0:02:15.859000	0:02:18.506000
@@ -575,15 +575,15 @@ in	in	ADP	-	0:02:15.859000	0:02:18.506000
 ORT	ORT	PROPN	-	0:02:15.859000	0:02:18.506000
 .	-	-	-	0:02:15.859000	0:02:18.506000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:18.506000" end="0:02:19.133000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:18.506000" end="0:02:19.133000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:02:18.506000	0:02:19.133000
 .	-	-	-	0:02:18.506000	0:02:19.133000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:19.133000" end="0:02:19.553000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:19.133000" end="0:02:19.553000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:02:19.133000	0:02:19.553000
 .	-	-	-	0:02:19.133000	0:02:19.553000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:19.133000" end="0:02:24.233000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:19.133000" end="0:02:24.233000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:02:19.133000	0:02:19.553000
 mhm	mhm	PROPN	-	0:02:19.553000	0:02:20.053000
 <pause duration="0,5s"/>
@@ -603,21 +603,21 @@ keine	kein	DET	-	0:02:23.186000	0:02:24.233000
 Kinder	Kind	NOUN	-	0:02:23.186000	0:02:24.233000
 ?	-	-	-	0:02:23.186000	0:02:24.233000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:24.233000" end="0:02:24.966000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:24.233000" end="0:02:24.966000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:02:24.233000	0:02:24.526000
 wir	ich	PRON	-	0:02:24.233000	0:02:24.526000
 haben	haben	AUX	-	0:02:24.526000	0:02:24.966000
 keine	kein	DET	-	0:02:24.526000	0:02:24.966000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:24.526000" end="0:02:24.966000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:24.526000" end="0:02:24.966000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:02:24.526000	0:02:24.966000
 .	-	-	-	0:02:24.526000	0:02:24.966000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:24.966000" end="0:02:25.393000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:24.966000" end="0:02:25.393000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Kinder	Kind	NOUN	-	0:02:24.966000	0:02:25.393000
 .	-	-	-	0:02:24.966000	0:02:25.393000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:25.393000" end="0:02:30.273000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:25.393000" end="0:02:30.273000" persName="Informant EXP4" age_lower="" age_upper="999">
 gut	gut	ADJ	-	0:02:25.393000	0:02:30.273000
 ähm	ähm	PROPN	-	0:02:25.393000	0:02:30.273000
 <pause duration="0,6s"/>
@@ -634,27 +634,27 @@ höchster	hoch	ADJ	-	0:02:25.393000	0:02:30.273000
 Ausbildungsgrad	Ausbildungsgrad	NOUN	-	0:02:25.393000	0:02:30.273000
 ?	-	-	-	0:02:25.393000	0:02:30.273000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:30.273000" end="0:02:31.879000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:30.273000" end="0:02:31.879000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:02:30.273000	0:02:31.879000
 Matura	Matura	PROPN	-	0:02:30.273000	0:02:31.879000
 ist	sein	AUX	-	0:02:30.273000	0:02:31.879000
 das	der	PRON	-	0:02:30.273000	0:02:31.879000
 .	-	-	-	0:02:30.273000	0:02:31.879000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:31.879000" end="0:02:32.326000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:31.879000" end="0:02:32.326000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:02:31.879000	0:02:32.326000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:32.326000" end="0:02:32.726000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:32.326000" end="0:02:32.726000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:02:32.326000	0:02:32.726000
 .	-	-	-	0:02:32.326000	0:02:32.726000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:32.726000" end="0:02:34.413000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:32.726000" end="0:02:34.413000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:02:32.726000	0:02:34.413000
 und	und	CCONJ	-	0:02:32.726000	0:02:34.413000
 hoffentlich	hoffentlich	ADV	-	0:02:32.726000	0:02:34.413000
 baldalso	baldalso	ADV	-	0:02:32.726000	0:02:34.413000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:34.413000" end="0:02:36.119000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:34.413000" end="0:02:36.119000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:34.413000	0:02:35.286000
 genau	genau	ADJ	-	0:02:34.413000	0:02:35.286000
 ja	ja	ADV	-	0:02:34.413000	0:02:35.286000
@@ -663,18 +663,18 @@ am	am	ADP	-	0:02:35.286000	0:02:36.119000
 Weg	Weg	NOUN	-	0:02:35.286000	0:02:36.119000
 .	-	-	-	0:02:35.286000	0:02:36.119000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:35.286000" end="0:02:36.593000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:35.286000" end="0:02:36.593000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:02:35.286000	0:02:36.119000
 der	der	DET	-	0:02:35.286000	0:02:36.119000
 Bachelor	Bachelor	NOUN	-	0:02:36.119000	0:02:36.593000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:36.593000" end="0:02:37.386000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:36.593000" end="0:02:37.386000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:36.593000	0:02:37.386000
 ja	ja	ADV	-	0:02:36.593000	0:02:37.386000
 genau	genau	ADJ	-	0:02:36.593000	0:02:37.386000
 .	-	-	-	0:02:36.593000	0:02:37.386000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:36.593000" end="0:02:45.493000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:36.593000" end="0:02:45.493000" persName="Informant EXP4" age_lower="" age_upper="999">
 wahrscheinlich	wahrscheinlich	ADJ	-	0:02:36.593000	0:02:37.386000
 ist	sein	AUX	-	0:02:36.593000	0:02:37.386000
 das	der	PRON	-	0:02:36.593000	0:02:37.386000
@@ -706,7 +706,7 @@ aus	aus	ADP	-	0:02:42.273000	0:02:44.746000
 ?	-	-	-	0:02:42.273000	0:02:44.746000
 ähm	ähm	X	-	0:02:44.746000	0:02:45.493000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:45.493000" end="0:02:57.206000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:45.493000" end="0:02:57.206000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:02:45.493000	0:02:48.913000
 ja	ja	PART	-	0:02:45.493000	0:02:48.913000
 ,	-	-	-	0:02:45.493000	0:02:48.913000
@@ -741,10 +741,10 @@ Moment	Moment	NOUN	-	0:02:51.293000	0:02:56.053000
 .	-	-	-	0:02:51.293000	0:02:56.053000
 ähm	ähm	PROPN	-	0:02:56.053000	0:02:57.206000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:02:56.053000" end="0:02:57.206000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:02:56.053000" end="0:02:57.206000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:02:56.053000	0:02:57.206000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:02:57.206000" end="0:03:01.666000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:57.206000" end="0:03:01.666000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:02:57.206000	0:03:01.666000
 aber	aber	ADV	-	0:02:57.206000	0:03:01.666000
 das	der	DET	-	0:02:57.206000	0:03:01.666000
@@ -762,10 +762,10 @@ in	in	ADP	-	0:02:57.206000	0:03:01.666000
 ORT	ORT	PROPN	-	0:02:57.206000	0:03:01.666000
 .	-	-	-	0:02:57.206000	0:03:01.666000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:01.666000" end="0:03:02.293000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:01.666000" end="0:03:02.293000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:01.666000	0:03:02.293000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:02.293000" end="0:03:07.053000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:02.293000" end="0:03:07.053000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:03:02.293000	0:03:07.053000
 Wochenende	Wochenend	NOUN	-	0:03:02.293000	0:03:07.053000
 sind	sein	AUX	-	0:03:02.293000	0:03:07.053000
@@ -783,15 +783,15 @@ in	in	ADP	-	0:03:02.293000	0:03:07.053000
 ORT	ORT	PROPN	-	0:03:02.293000	0:03:07.053000
 .	-	-	-	0:03:02.293000	0:03:07.053000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:07.053000" end="0:03:07.526000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:07.053000" end="0:03:07.526000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:03:07.053000	0:03:07.526000
 .	-	-	-	0:03:07.053000	0:03:07.526000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:07.526000" end="0:03:07.919000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:07.526000" end="0:03:07.919000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:07.526000	0:03:07.919000
 .	-	-	-	0:03:07.526000	0:03:07.919000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:07.919000" end="0:03:10.439000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:07.919000" end="0:03:10.439000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:03:07.919000	0:03:10.439000
 das	der	PRON	-	0:03:07.919000	0:03:10.439000
 ist	sein	AUX	-	0:03:07.919000	0:03:10.439000
@@ -804,7 +804,7 @@ Lebensjahr	Lebensjahr	NOUN	-	0:03:07.919000	0:03:10.439000
 so	so	ADV	-	0:03:07.919000	0:03:10.439000
 ?	-	-	-	0:03:07.919000	0:03:10.439000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:10.439000" end="0:03:16.319000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:10.439000" end="0:03:16.319000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 im	im	ADP	-	0:03:10.439000	0:03:11.499000
 Grunde	Grund	NOUN	-	0:03:10.439000	0:03:11.499000
 ja	ja	ADV	-	0:03:10.439000	0:03:11.499000
@@ -824,11 +824,11 @@ ORT	ORT	PROPN	-	0:03:11.499000	0:03:16.319000
 ORT	ORT	PROPN	-	0:03:11.499000	0:03:16.319000
 .	-	-	-	0:03:11.499000	0:03:16.319000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:16.319000" end="0:03:17.559000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:16.319000" end="0:03:17.559000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:16.319000	0:03:17.559000
 hm	hm	PROPN	-	0:03:16.319000	0:03:17.559000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:17.559000" end="0:03:21.699000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:17.559000" end="0:03:21.699000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:03:17.559000	0:03:19.893000
 habe	habe	AUX	-	0:03:17.559000	0:03:19.893000
 dort	dort	ADV	-	0:03:17.559000	0:03:19.893000
@@ -847,10 +847,10 @@ jetzt	jetzt	ADV	-	0:03:19.893000	0:03:21.699000
 arbeite	arbeiten	VERB	-	0:03:19.893000	0:03:21.699000
 .	-	-	-	0:03:19.893000	0:03:21.699000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:21.699000" end="0:03:22.333000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:21.699000" end="0:03:22.333000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:21.699000	0:03:22.333000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:22.333000" end="0:03:27.193000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:22.333000" end="0:03:27.193000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:03:22.333000	0:03:27.193000
 <pause duration="1,0s"/>
 genau	genau	ADJ	-	0:03:22.333000	0:03:27.193000
@@ -866,16 +866,16 @@ dem	der	DET	-	0:03:22.333000	0:03:27.193000
 vierzehnten	vierzehnten	NOUN	-	0:03:22.333000	0:03:27.193000
 .	-	-	-	0:03:22.333000	0:03:27.193000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:27.193000" end="0:03:28.393000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:27.193000" end="0:03:28.393000" persName="Informant EXP4" age_lower="" age_upper="999">
 wow	wow	PROPN	-	0:03:27.193000	0:03:27.673000
 okay	okay	PROPN	-	0:03:27.673000	0:03:28.393000
 .	-	-	-	0:03:27.673000	0:03:28.393000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:27.673000" end="0:03:28.393000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:27.673000" end="0:03:28.393000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:03:27.673000	0:03:28.393000
 .	-	-	-	0:03:27.673000	0:03:28.393000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:28.393000" end="0:03:32.206000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:28.393000" end="0:03:32.206000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:03:28.393000	0:03:32.206000
 heißt	heißen	VERB	-	0:03:28.393000	0:03:32.206000
@@ -891,7 +891,7 @@ die	der	DET	-	0:03:28.393000	0:03:32.206000
 Schule	Schule	NOUN	-	0:03:28.393000	0:03:32.206000
 .	-	-	-	0:03:28.393000	0:03:32.206000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:32.206000" end="0:03:36.759000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:32.206000" end="0:03:36.759000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 genau	genau	ADJ	-	0:03:32.206000	0:03:36.759000
 ,	-	-	-	0:03:32.206000	0:03:36.759000
@@ -908,10 +908,10 @@ in	in	ADP	-	0:03:32.206000	0:03:36.759000
 SONSTIGE	SONSTIGE	PROPN	-	0:03:32.206000	0:03:36.759000
 .	-	-	-	0:03:32.206000	0:03:36.759000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:36.759000" end="0:03:37.299000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:36.759000" end="0:03:37.299000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:36.759000	0:03:37.299000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:37.299000" end="0:03:43.133000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:37.299000" end="0:03:43.133000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 also	also	ADV	-	0:03:37.299000	0:03:40.113000
 habe	habe	AUX	-	0:03:37.299000	0:03:40.113000
@@ -932,19 +932,19 @@ dann	dann	ADV	-	0:03:42.113000	0:03:43.133000
 SONSTIGE	SONSTIGE	PROPN	-	0:03:42.113000	0:03:43.133000
 .	-	-	-	0:03:42.113000	0:03:43.133000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:43.133000" end="0:03:44.786000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:43.133000" end="0:03:44.786000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:43.133000	0:03:43.873000
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:03:43.873000	0:03:44.786000
 das	der	PRON	-	0:03:43.873000	0:03:44.786000
 heißt	heißen	VERB	-	0:03:43.873000	0:03:44.786000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:43.873000" end="0:03:44.786000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:43.873000" end="0:03:44.786000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 genau	genau	ADJ	-	0:03:43.873000	0:03:44.786000
 .	-	-	-	0:03:43.873000	0:03:44.786000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:44.786000" end="0:03:46.679000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:44.786000" end="0:03:46.679000" persName="Informant EXP4" age_lower="" age_upper="999">
 aber	aber	ADV	-	0:03:44.786000	0:03:46.679000
 ihre	mein	DET	-	0:03:44.786000	0:03:46.679000
 Familie	Familie	NOUN	-	0:03:44.786000	0:03:46.679000
@@ -954,20 +954,20 @@ in	in	ADP	-	0:03:44.786000	0:03:46.679000
 geblieben	bleiben	VERB	-	0:03:44.786000	0:03:46.679000
 ?	-	-	-	0:03:44.786000	0:03:46.679000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:46.679000" end="0:03:47.319000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:46.679000" end="0:03:47.319000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:46.679000	0:03:47.319000
 ja	ja	ADV	-	0:03:46.679000	0:03:47.319000
 genau	genau	ADJ	-	0:03:46.679000	0:03:47.319000
 .	-	-	-	0:03:46.679000	0:03:47.319000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:47.319000" end="0:03:48.953000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:47.319000" end="0:03:48.953000" persName="Informant EXP4" age_lower="" age_upper="999">
 au/	-	-	-	0:03:47.319000	0:03:48.246000
 außer	außer	ADP	-	0:03:47.319000	0:03:48.246000
 die	der	DET	-	0:03:47.319000	0:03:48.246000
 Brüder	Bruder	NOUN	-	0:03:48.246000	0:03:48.953000
 ?	-	-	-	0:03:48.246000	0:03:48.953000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:48.246000" end="0:03:54.546000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:48.246000" end="0:03:54.546000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:03:48.246000	0:03:48.953000
 war	sein	AUX	-	0:03:48.246000	0:03:48.953000
 genau	genau	ADJ	-	0:03:48.953000	0:03:51.692000
@@ -990,10 +990,10 @@ Jahre	Jahr	NOUN	-	0:03:51.692000	0:03:54.546000
 älter	alt	ADJ	-	0:03:51.692000	0:03:54.546000
 .	-	-	-	0:03:51.692000	0:03:54.546000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:03:54.546000" end="0:03:54.959000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:03:54.546000" end="0:03:54.959000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:03:54.546000	0:03:54.959000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:03:54.959000" end="0:04:03.939000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:54.959000" end="0:04:03.939000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:03:54.959000	0:04:01.506000
 <pause duration="0,6s"/>
@@ -1020,10 +1020,10 @@ aus	aus	ADP	-	0:04:01.506000	0:04:03.939000
 Berufsgründen	Berufsgründen	NOUN	-	0:04:01.506000	0:04:03.939000
 .	-	-	-	0:04:01.506000	0:04:03.939000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:03.939000" end="0:04:04.473000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:03.939000" end="0:04:04.473000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:04:03.939000	0:04:04.473000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:04.473000" end="0:04:11.739000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:04.473000" end="0:04:11.739000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:04:04.473000	0:04:07.786000
 der	der	DET	-	0:04:04.473000	0:04:07.786000
 NAME	NAME	PROPN	-	0:04:04.473000	0:04:07.786000
@@ -1048,12 +1048,12 @@ und	und	CCONJ	-	0:04:07.786000	0:04:11.739000
 ich	ich	PRON	-	0:04:07.786000	0:04:11.739000
 .	-	-	-	0:04:07.786000	0:04:11.739000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:11.739000" end="0:04:13.346000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:11.739000" end="0:04:13.346000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 verstehe	verstehen	VERB	-	0:04:11.739000	0:04:13.346000
 .	-	-	-	0:04:11.739000	0:04:13.346000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:11.739000" end="0:04:15.059000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:11.739000" end="0:04:15.059000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	ähm	X	-	0:04:11.739000	0:04:13.346000
 da	da	ADV	-	0:04:11.739000	0:04:13.346000
@@ -1065,7 +1065,7 @@ zumindest	zumindest	ADV	-	0:04:13.346000	0:04:15.059000
 genau	genau	ADJ	-	0:04:13.346000	0:04:15.059000
 .	-	-	-	0:04:13.346000	0:04:15.059000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:15.059000" end="0:04:21.099000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:15.059000" end="0:04:21.099000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	X	-	0:04:15.059000	0:04:19.099000
 das	der	PRON	-	0:04:15.059000	0:04:19.099000
 heißt	heißen	VERB	-	0:04:15.059000	0:04:19.099000
@@ -1088,7 +1088,7 @@ sagen	sagen	VERB	-	0:04:19.099000	0:04:21.099000
 okay	okay	NOUN	-	0:04:19.099000	0:04:21.099000
 na	na	PROPN	-	0:04:19.099000	0:04:21.099000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:19.099000" end="0:04:21.099000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:19.099000" end="0:04:21.099000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:19.099000	0:04:21.099000
 kann	können	VERB	-	0:04:19.099000	0:04:21.099000
 man	man	PRON	-	0:04:19.099000	0:04:21.099000
@@ -1098,15 +1098,15 @@ ja	ja	ADV	-	0:04:19.099000	0:04:21.099000
 genau	genau	ADJ	-	0:04:19.099000	0:04:21.099000
 .	-	-	-	0:04:19.099000	0:04:21.099000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:21.099000" end="0:04:21.539000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:21.099000" end="0:04:21.539000" persName="Informant EXP4" age_lower="" age_upper="999">
 super	super	PROPN	-	0:04:21.099000	0:04:21.539000
 .	-	-	-	0:04:21.099000	0:04:21.539000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:21.539000" end="0:04:22.199000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:21.539000" end="0:04:22.199000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:04:21.539000	0:04:22.199000
 .	-	-	-	0:04:21.539000	0:04:22.199000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:22.199000" end="0:04:29.539000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:22.199000" end="0:04:29.539000" persName="Informant EXP4" age_lower="" age_upper="999">
 super	super	PROPN	-	0:04:22.199000	0:04:26.666000
 .	-	-	-	0:04:22.199000	0:04:26.666000
 <pause duration="0,5s"/>
@@ -1133,7 +1133,7 @@ dem	der	PRON	-	0:04:28.513000	0:04:29.539000
 Elternhaus/	-	-	-	0:04:28.513000	0:04:29.539000
 .	-	-	-	0:04:28.513000	0:04:29.539000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:28.513000" end="0:04:34.626000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:28.513000" end="0:04:34.626000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:04:28.513000	0:04:29.539000
 ja	ja	ADV	-	0:04:29.539000	0:04:30.373000
 es	ich	PRON	-	0:04:29.539000	0:04:30.373000
@@ -1156,10 +1156,10 @@ so	so	ADV	-	0:04:31.199000	0:04:34.626000
 wie	wie	CCONJ	-	0:04:31.199000	0:04:34.626000
 so	so	ADV	-	0:04:31.199000	0:04:34.626000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:34.626000" end="0:04:35.252000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:34.626000" end="0:04:35.252000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:04:34.626000	0:04:35.252000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:34.626000" end="0:04:52.779000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:34.626000" end="0:04:52.779000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 für	für	ADP	-	0:04:34.626000	0:04:35.252000
 junge	junge	ADJ	-	0:04:34.626000	0:04:35.252000
 Leute	Leute	NOUN	-	0:04:35.252000	0:04:35.586000
@@ -1221,10 +1221,10 @@ dann	dann	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV sein
 ORT	ORT	NOUN	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:04:48.219000	0:04:52.779000
 .	-	-	-	0:04:48.219000	0:04:52.779000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:52.779000" end="0:04:53.366000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:52.779000" end="0:04:53.366000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:04:52.779000	0:04:53.366000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:53.366000" end="0:04:58.786000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:53.366000" end="0:04:58.786000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:04:53.366000	0:04:54.212000
 es	ich	PRON	-	0:04:53.366000	0:04:54.212000
 ist	sein	AUX	-	0:04:53.366000	0:04:54.212000
@@ -1247,10 +1247,10 @@ in	in	ADP	-	0:04:56.586000	0:04:58.786000
 [Klagenfurt]O	Klagenfurt	PROPN	-	0:04:56.586000	0:04:58.786000
 oder	oder	CCONJ	-	0:04:56.586000	0:04:58.786000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:04:58.786000" end="0:04:59.392000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:04:58.786000" end="0:04:59.392000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:04:58.786000	0:04:59.392000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:04:59.392000" end="0:05:08.786000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:59.392000" end="0:05:08.786000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	ähm	PROPN	-	0:04:59.392000	0:05:08.786000
 ist	sein	AUX	-	0:04:59.392000	0:05:08.786000
@@ -1270,10 +1270,10 @@ oder	oder	CCONJ	-	0:04:59.392000	0:05:08.786000
 [Judenburg]O	Judenburg	PROPN	-	0:04:59.392000	0:05:08.786000
 .	-	-	-	0:04:59.392000	0:05:08.786000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:08.786000" end="0:05:09.599000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:08.786000" end="0:05:09.599000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:05:08.786000	0:05:09.599000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:08.786000" end="0:05:11.752000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:08.786000" end="0:05:11.752000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:05:08.786000	0:05:09.599000
 genau	genau	ADJ	-	0:05:09.599000	0:05:11.752000
 für	für	ADP	-	0:05:09.599000	0:05:11.752000
@@ -1283,17 +1283,17 @@ es	ich	PRON	-	0:05:09.599000	0:05:11.752000
 halt	halt	ADV	-	0:05:09.599000	0:05:11.752000
 dann	dann	ADV	-	0:05:09.599000	0:05:11.752000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:11.752000" end="0:05:12.526000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:11.752000" end="0:05:12.526000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:05:11.752000	0:05:12.526000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:12.526000" end="0:05:12.832000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:12.526000" end="0:05:12.832000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:05:12.526000	0:05:12.832000
 .	-	-	-	0:05:12.526000	0:05:12.832000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:12.832000" end="0:05:13.152000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:12.832000" end="0:05:13.152000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:05:12.832000	0:05:13.152000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:13.152000" end="0:05:21.899000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:13.152000" end="0:05:21.899000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 man	man	PRON	-	0:05:13.152000	0:05:14.492000
 muss	muss	VERB	-	0:05:13.152000	0:05:14.492000
@@ -1318,11 +1318,11 @@ Pädak	-	-	-	0:05:14.492000	0:05:21.899000
 gemacht	machen	VERB	-	0:05:14.492000	0:05:21.899000
 .	-	-	-	0:05:14.492000	0:05:21.899000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:21.899000" end="0:05:23.052000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:21.899000" end="0:05:23.052000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:05:21.899000	0:05:23.052000
 mhm	mhm	PROPN	-	0:05:21.899000	0:05:23.052000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:21.899000" end="0:05:26.532000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:21.899000" end="0:05:26.532000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:05:21.899000	0:05:23.052000
 Papa	Papa	NOUN	-	0:05:21.899000	0:05:23.052000
 hat	haben	AUX	-	0:05:21.899000	0:05:23.052000
@@ -1343,10 +1343,10 @@ in	in	ADP	-	0:05:24.992000	0:05:26.532000
 ORT	ORT	PROPN	-	0:05:24.992000	0:05:26.532000
 .	-	-	-	0:05:24.992000	0:05:26.532000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:26.532000" end="0:05:27.546000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:26.532000" end="0:05:27.546000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:05:26.532000	0:05:27.546000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:26.532000" end="0:05:28.419000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:26.532000" end="0:05:28.419000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:05:26.532000	0:05:27.546000
 haben	haben	AUX	-	0:05:26.532000	0:05:27.546000
 eine	einen	DET	-	0:05:26.532000	0:05:27.546000
@@ -1356,7 +1356,7 @@ zu	zu	ADP	-	0:05:27.546000	0:05:28.419000
 ORT	ORT	PROPN	-	0:05:27.546000	0:05:28.419000
 .	-	-	-	0:05:27.546000	0:05:28.419000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:28.419000" end="0:05:30.806000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:28.419000" end="0:05:30.806000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:05:28.419000	0:05:30.306000
 und	und	CCONJ	-	0:05:28.419000	0:05:30.306000
 zumindest	zumindest	ADV	-	0:05:28.419000	0:05:30.306000
@@ -1364,31 +1364,31 @@ emotional	emotional	ADJ	-	0:05:28.419000	0:05:30.306000
 vielleicht	vielleicht	ADV	-	0:05:30.306000	0:05:30.806000
 .	-	-	-	0:05:30.306000	0:05:30.806000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:30.306000" end="0:05:30.806000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:30.306000" end="0:05:30.806000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:05:30.306000	0:05:30.806000
 .	-	-	-	0:05:30.306000	0:05:30.806000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:30.806000" end="0:05:31.959000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:30.806000" end="0:05:31.959000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:05:30.806000	0:05:31.559000
 verstehe	verstehen	VERB	-	0:05:30.806000	0:05:31.559000
 .	-	-	-	0:05:30.806000	0:05:31.559000
 mhm	mhm	PROPN	-	0:05:31.559000	0:05:31.959000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:31.559000" end="0:05:31.959000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:31.559000" end="0:05:31.959000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:05:31.559000	0:05:31.959000
 ist	sein	AUX	-	0:05:31.559000	0:05:31.959000
 es	ich	PRON	-	0:05:31.559000	0:05:31.959000
 .	-	-	-	0:05:31.559000	0:05:31.959000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:31.959000" end="0:05:32.832000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:31.959000" end="0:05:32.832000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:05:31.959000	0:05:32.832000
 .	-	-	-	0:05:31.959000	0:05:32.832000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:32.832000" end="0:05:33.239000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:32.832000" end="0:05:33.239000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:32.832000	0:05:33.239000
 .	-	-	-	0:05:32.832000	0:05:33.239000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:33.239000" end="0:05:40.112000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:33.239000" end="0:05:40.112000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:05:33.239000	0:05:34.572000
 na	na	X	-	0:05:33.239000	0:05:34.572000
 schön	schön	ADJ	-	0:05:33.239000	0:05:34.572000
@@ -1408,34 +1408,34 @@ gefallen	fallen	VERB	-	0:05:34.572000	0:05:39.479000
 also	also	ADV	-	0:05:34.572000	0:05:39.479000
 offensichtlich	offensichtlich	ADJ	-	0:05:39.479000	0:05:40.112000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:39.479000" end="0:05:40.532000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:39.479000" end="0:05:40.532000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:05:39.479000	0:05:40.112000
 das	der	PRON	-	0:05:39.479000	0:05:40.112000
 das	der	PRON	-	0:05:40.112000	0:05:40.532000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:40.532000" end="0:05:41.406000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:40.532000" end="0:05:41.406000" persName="Informant EXP4" age_lower="" age_upper="999">
 war	sein	AUX	-	0:05:40.532000	0:05:41.406000
 das	der	PRON	-	0:05:40.532000	0:05:41.406000
 jetzt	jetzt	ADV	-	0:05:40.532000	0:05:41.406000
 nicht/	-	-	-	0:05:40.532000	0:05:41.406000
 .	-	-	-	0:05:40.532000	0:05:41.406000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:40.532000" end="0:05:41.759000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:40.532000" end="0:05:41.759000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:05:40.532000	0:05:41.406000
 jedenfalls	jedenfalls	ADV	-	0:05:40.532000	0:05:41.406000
 genau	genau	ADJ	-	0:05:41.406000	0:05:41.759000
 .	-	-	-	0:05:41.406000	0:05:41.759000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:41.759000" end="0:05:42.359000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:41.759000" end="0:05:42.359000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:05:41.759000	0:05:42.359000
 .	-	-	-	0:05:41.759000	0:05:42.359000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:42.359000" end="0:05:43.386000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:42.359000" end="0:05:43.386000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:05:42.359000	0:05:43.386000
 ja	ja	PART	-	0:05:42.359000	0:05:43.386000
 .	-	-	-	0:05:42.359000	0:05:43.386000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:43.386000" end="0:05:57.326000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:43.386000" end="0:05:57.326000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:05:43.386000	0:05:44.772000
 super	super	PROPN	-	0:05:43.386000	0:05:44.772000
 .	-	-	-	0:05:43.386000	0:05:44.772000
@@ -1482,16 +1482,16 @@ immer	immer	ADV	-	0:05:51.779000	0:05:57.326000
 gleich	gleichen	ADJ	-	0:05:51.779000	0:05:57.326000
 ?	-	-	-	0:05:51.779000	0:05:57.326000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:57.326000" end="0:05:58.906000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:57.326000" end="0:05:58.906000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sehr	sehr	ADV	-	0:05:57.326000	0:05:58.906000
 unterschiedlich	unterschiedlich	ADJ	-	0:05:57.326000	0:05:58.906000
 .	-	-	-	0:05:57.326000	0:05:58.906000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:05:58.906000" end="0:05:59.339000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:05:58.906000" end="0:05:59.339000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:05:58.906000	0:05:59.339000
 ?	-	-	-	0:05:58.906000	0:05:59.339000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:05:59.339000" end="0:06:03.646000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:59.339000" end="0:06:03.646000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:59.339000	0:05:59.999000
 .	-	-	-	0:05:59.339000	0:05:59.999000
 und	und	CCONJ	-	0:05:59.999000	0:06:02.206000
@@ -1512,17 +1512,17 @@ ablegen	ablegen	VERB	-	0:06:02.206000	0:06:03.646000
 kann	können	VERB	-	0:06:02.206000	0:06:03.646000
 .	-	-	-	0:06:02.206000	0:06:03.646000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:03.646000" end="0:06:04.979000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:03.646000" end="0:06:04.979000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:06:03.646000	0:06:04.419000
 .	-	-	-	0:06:03.646000	0:06:04.419000
 okay	okay	NOUN	-	0:06:04.419000	0:06:04.979000
 .	-	-	-	0:06:04.419000	0:06:04.979000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:04.419000" end="0:06:04.979000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:04.419000" end="0:06:04.979000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:04.419000	0:06:04.979000
 .	-	-	-	0:06:04.419000	0:06:04.979000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:04.979000" end="0:06:08.232000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:04.979000" end="0:06:08.232000" persName="Informant EXP4" age_lower="" age_upper="999">
 wir	ich	PRON	-	0:06:04.979000	0:06:06.046000
 kommen	kommen	VERB	-	0:06:04.979000	0:06:06.046000
 noch	noch	ADV	-	0:06:04.979000	0:06:06.046000
@@ -1536,13 +1536,13 @@ sprechen	sprechen	VERB	-	0:06:06.046000	0:06:08.232000
 .	-	-	-	0:06:06.046000	0:06:08.232000
 ähm	ähm	X	-	0:06:06.046000	0:06:08.232000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:06.046000" end="0:06:08.232000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:06.046000" end="0:06:08.232000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:06.046000	0:06:08.232000
 okay	okay	VERB	-	0:06:06.046000	0:06:08.232000
 ja	ja	ADV	-	0:06:06.046000	0:06:08.232000
 .	-	-	-	0:06:06.046000	0:06:08.232000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:08.232000" end="0:06:12.186000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:08.232000" end="0:06:12.186000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:06:08.232000	0:06:10.812000
 wä/	-	-	-	0:06:08.232000	0:06:10.812000
 was	was	PRON	-	0:06:08.232000	0:06:10.812000
@@ -1557,18 +1557,18 @@ ihnen	ich	PRON	-	0:06:10.812000	0:06:12.186000
 auffällt	auffallen	VERB	-	0:06:10.812000	0:06:12.186000
 ?	-	-	-	0:06:10.812000	0:06:12.186000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:12.186000" end="0:06:13.419000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:12.186000" end="0:06:13.419000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:12.186000	0:06:13.419000
 jetzt	jetzt	ADV	-	0:06:12.186000	0:06:13.419000
 zum	zum	ADP	-	0:06:12.186000	0:06:13.419000
 Beispiel	Beispiel	NOUN	-	0:06:12.186000	0:06:13.419000
 .	-	-	-	0:06:12.186000	0:06:13.419000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:13.419000" end="0:06:14.146000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:13.419000" end="0:06:14.146000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:06:13.419000	0:06:14.146000
 .	-	-	-	0:06:13.419000	0:06:14.146000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:13.419000" end="0:06:16.506000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:13.419000" end="0:06:16.506000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:06:13.419000	0:06:14.146000
 ich	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:06:13.419000	0:06:14.146000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:06:13.419000	0:06:14.146000
@@ -1583,12 +1583,12 @@ so	so	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std 
 reden	reden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:06:14.146000	0:06:16.506000
 .	-	-	-	0:06:14.146000	0:06:16.506000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:16.506000" end="0:06:17.486000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:16.506000" end="0:06:17.486000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:06:16.506000	0:06:17.486000
 mhm	mhm	PROPN	-	0:06:16.506000	0:06:17.486000
 .	-	-	-	0:06:16.506000	0:06:17.486000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:17.486000" end="0:06:28.952000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:17.486000" end="0:06:28.952000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:06:17.486000	0:06:19.939000
 <pause duration="1,1s"/>
 oder	oder	CCONJ	-	0:06:17.486000	0:06:19.939000
@@ -1622,10 +1622,10 @@ anders	anders	ADV	-	0:06:24.426000	0:06:27.612000
 genau	genau	ADJ	-	0:06:27.612000	0:06:28.952000
 .	-	-	-	0:06:27.612000	0:06:28.952000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:28.952000" end="0:06:29.752000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:28.952000" end="0:06:29.752000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:06:28.952000	0:06:29.752000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:29.752000" end="0:06:33.979000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:29.752000" end="0:06:33.979000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:29.752000	0:06:31.286000
 ich	ich	PRON	-	0:06:29.752000	0:06:31.286000
 kenne	kennen	VERB	-	0:06:29.752000	0:06:31.286000
@@ -1646,10 +1646,10 @@ irgendwie	irgendwie	ADV	-	0:06:32.239000	0:06:33.979000
 selber	selber	ADV	-	0:06:32.239000	0:06:33.979000
 .	-	-	-	0:06:32.239000	0:06:33.979000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:33.979000" end="0:06:34.552000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:33.979000" end="0:06:34.552000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:06:33.979000	0:06:34.552000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:33.979000" end="0:06:40.359000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:33.979000" end="0:06:40.359000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:33.979000	0:06:34.552000
 selber	selber	ADV	-	0:06:34.552000	0:06:36.172000
 mache	machen	VERB	-	0:06:34.552000	0:06:36.172000
@@ -1676,7 +1676,7 @@ ist	sein	AUX	-	0:06:38.319000	0:06:40.359000
 so	so	ADV	-	0:06:38.319000	0:06:40.359000
 .	-	-	-	0:06:38.319000	0:06:40.359000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:40.359000" end="0:06:41.666000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:40.359000" end="0:06:41.666000" persName="Informant EXP4" age_lower="" age_upper="999">
 es	ich	PRON	-	0:06:40.359000	0:06:41.112000
 ist	sein	AUX	-	0:06:40.359000	0:06:41.112000
 so	so	ADV	-	0:06:40.359000	0:06:41.112000
@@ -1684,22 +1684,22 @@ so	so	ADV	-	0:06:40.359000	0:06:41.112000
 okay	okay	NOUN	-	0:06:41.112000	0:06:41.666000
 .	-	-	-	0:06:41.112000	0:06:41.666000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:41.112000" end="0:06:41.666000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:41.112000" end="0:06:41.666000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:06:41.112000	0:06:41.666000
 .	-	-	-	0:06:41.112000	0:06:41.666000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:41.666000" end="0:06:44.026000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:41.666000" end="0:06:44.026000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:06:41.666000	0:06:42.486000
 okay	okay	VERB	-	0:06:41.666000	0:06:42.486000
 .	-	-	-	0:06:41.666000	0:06:42.486000
 na	na	X	-	0:06:42.486000	0:06:44.026000
 also	also	ADV	-	0:06:42.486000	0:06:44.026000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:44.026000" end="0:06:44.346000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:44.026000" end="0:06:44.346000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:44.026000	0:06:44.346000
 .	-	-	-	0:06:44.026000	0:06:44.346000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:06:44.346000" end="0:06:52.146000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:06:44.346000" end="0:06:52.146000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:06:44.346000	0:06:47.506000
 ähm	ähm	ADJ	-	0:06:44.346000	0:06:47.506000
 wie	wie	ADV	-	0:06:44.346000	0:06:47.506000
@@ -1722,7 +1722,7 @@ miteinander	miteinander	ADV	-	0:06:47.506000	0:06:52.146000
 sprechen	sprechen	VERB	-	0:06:47.506000	0:06:52.146000
 ?	-	-	-	0:06:47.506000	0:06:52.146000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:06:52.146000" end="0:07:10.639000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:52.146000" end="0:07:10.639000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 hm	hm	X	-	0:06:52.146000	0:06:56.939000
 <pause duration="1,3s"/>
@@ -1770,7 +1770,7 @@ eine	einen	PRON	-	0:07:06.819000	0:07:10.639000
 sehr/	-	-	-	0:07:06.819000	0:07:10.639000
 .	-	-	-	0:07:06.819000	0:07:10.639000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:10.639000" end="0:07:12.359000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:10.639000" end="0:07:12.359000" persName="Informant EXP4" age_lower="" age_upper="999">
 wenn	wenn	SCONJ	-	0:07:10.639000	0:07:12.039000
 ich	ich	PRON	-	0:07:10.639000	0:07:12.039000
 mir	sich	PRON	-	0:07:10.639000	0:07:12.039000
@@ -1782,11 +1782,11 @@ notieren	notieren	VERB	-	0:07:10.639000	0:07:12.039000
 darf	dürfen	VERB	-	0:07:12.039000	0:07:12.359000
 .	-	-	-	0:07:12.039000	0:07:12.359000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:12.039000" end="0:07:12.359000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:12.039000" end="0:07:12.359000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:12.039000	0:07:12.359000
 .	-	-	-	0:07:12.039000	0:07:12.359000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:12.359000" end="0:07:15.092000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:12.359000" end="0:07:15.092000" persName="Informant EXP4" age_lower="" age_upper="999">
 [Oberwölzerisch]S	Oberwölzerisch	ADJ	-	0:07:12.359000	0:07:14.159000
 oder	oder	CCONJ	-	0:07:12.359000	0:07:14.159000
 kann	können	VERB	-	0:07:12.359000	0:07:14.159000
@@ -1800,19 +1800,19 @@ sagen	sagen	VERB	-	0:07:14.159000	0:07:15.092000
 ja	ja	PART	-	0:07:14.159000	0:07:15.092000
 mhm	mhm	PROPN	-	0:07:14.159000	0:07:15.092000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:14.159000" end="0:07:15.092000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:14.159000" end="0:07:15.092000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:07:14.159000	0:07:15.092000
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:07:14.159000	0:07:15.092000
 so	so	ADV	-	0:07:14.159000	0:07:15.092000
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:07:14.159000	0:07:15.092000
 .	-	-	-	0:07:14.159000	0:07:15.092000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:15.092000" end="0:07:15.839000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:15.092000" end="0:07:15.839000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:07:15.092000	0:07:15.839000
 ja	ja	ADV	-	0:07:15.092000	0:07:15.839000
 mhm	mhm	PROPN	-	0:07:15.092000	0:07:15.839000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:15.839000" end="0:07:21.126000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:15.839000" end="0:07:21.126000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:07:15.839000	0:07:18.112000
 <pause duration="0,7s"/>
 Steirisch	Steirisch	NOUN	-	0:07:15.839000	0:07:18.112000
@@ -1830,11 +1830,11 @@ Untersteirische	Untersteirische	NOUN	-	0:07:18.112000	0:07:21.126000
 wahrgenommen	wahrnehmen	VERB	-	0:07:18.112000	0:07:21.126000
 .	-	-	-	0:07:18.112000	0:07:21.126000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:21.126000" end="0:07:22.572000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:21.126000" end="0:07:22.572000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:07:21.126000	0:07:21.699000
 mhm	mhm	PROPN	-	0:07:21.699000	0:07:22.572000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:21.699000" end="0:07:23.972000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:21.699000" end="0:07:23.972000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:07:21.699000	0:07:22.572000
 <pause duration="0,7s"/>
 sprich	sprechen	ADV	-	0:07:22.572000	0:07:23.972000
@@ -1842,10 +1842,10 @@ das	der	DET	-	0:07:22.572000	0:07:23.972000
 Bellen	Bellen	NOUN	-	0:07:22.572000	0:07:23.972000
 .	-	-	-	0:07:22.572000	0:07:23.972000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:23.972000" end="0:07:24.739000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:23.972000" end="0:07:24.739000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:07:23.972000	0:07:24.739000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:24.739000" end="0:07:39.326000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:24.739000" end="0:07:39.326000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:07:24.739000	0:07:28.192000
 <pause duration="0,9s"/>
 die	der	DET	-	0:07:24.739000	0:07:28.192000
@@ -1891,14 +1891,14 @@ relativ	relativ	ADJ	-	0:07:37.132000	0:07:39.326000
 speziell	speziell	ADJ	-	0:07:37.132000	0:07:39.326000
 .	-	-	-	0:07:37.132000	0:07:39.326000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:39.326000" end="0:07:39.792000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:39.326000" end="0:07:39.792000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:07:39.326000	0:07:39.792000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:39.792000" end="0:07:40.099000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:39.792000" end="0:07:40.099000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:39.792000	0:07:40.099000
 .	-	-	-	0:07:39.792000	0:07:40.099000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:40.099000" end="0:07:45.232000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:40.099000" end="0:07:45.232000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:07:40.099000	0:07:45.232000
 <pause duration="0,8s"/>
 ähm	ähm	PROPN	-	0:07:40.099000	0:07:45.232000
@@ -1912,11 +1912,11 @@ auch	auch	ADV	-	0:07:40.099000	0:07:45.232000
 sprechen	sprechen	VERB	-	0:07:40.099000	0:07:45.232000
 ?	-	-	-	0:07:40.099000	0:07:45.232000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:45.232000" end="0:07:45.612000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:45.232000" end="0:07:45.612000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:45.232000	0:07:45.612000
 .	-	-	-	0:07:45.232000	0:07:45.612000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:45.612000" end="0:07:50.066000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:45.612000" end="0:07:50.066000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:07:45.612000	0:07:46.026000
 ?	-	-	-	0:07:45.612000	0:07:46.026000
 <pause duration="0,6s"/>
@@ -1931,7 +1931,7 @@ gut	-	-	-	0:07:46.026000	0:07:48.826000
 <pause duration="0,7s"/>
 also	-	-	-	0:07:48.826000	0:07:50.066000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:50.066000" end="0:07:54.459000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:50.066000" end="0:07:54.459000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:07:50.066000	0:07:52.326000
 schon	schon	ADV	-	0:07:50.066000	0:07:52.326000
 gut	gut	ADJ	-	0:07:50.066000	0:07:52.326000
@@ -1944,15 +1944,15 @@ Beispiel	Beispiel	NOUN	-	0:07:52.326000	0:07:54.459000
 behaupten	behaupten	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:07:52.326000	0:07:54.459000
 ,	-	-	-	0:07:52.326000	0:07:54.459000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:54.459000" end="0:07:55.686000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:54.459000" end="0:07:55.686000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 wir	-	-	-	0:07:54.459000	0:07:55.686000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:07:54.459000" end="0:07:55.686000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:54.459000" end="0:07:55.686000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:07:54.459000	0:07:55.686000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:07:55.686000" end="0:08:02.486000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:07:55.686000" end="0:08:02.486000" persName="Informant EXP4" age_lower="" age_upper="999">
 wir	-	-	-	0:07:55.686000	0:07:59.759000
 hätten	-	-	-	0:07:55.686000	0:07:59.759000
 da	-	-	-	0:07:55.686000	0:07:59.759000
@@ -1982,7 +1982,7 @@ da	da	ADV	-	0:08:01.006000	0:08:02.486000
 einteilen	einteilen	VERB	-	0:08:01.006000	0:08:02.486000
 ?	-	-	-	0:08:01.006000	0:08:02.486000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:01.006000" end="0:08:04.966000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:01.006000" end="0:08:04.966000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:08:01.006000	0:08:02.486000
 würde	werden	AUX	KONJ	0:08:01.006000	0:08:02.486000
 ich	ich	PRON	KONJ	0:08:01.006000	0:08:02.486000
@@ -1994,14 +1994,14 @@ Kreuz	Kreuz	NOUN	-	0:08:02.486000	0:08:04.966000
 nehmen	nehmen	VERB	-	0:08:02.486000	0:08:04.966000
 .	-	-	-	0:08:02.486000	0:08:04.966000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:04.966000" end="0:08:06.586000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:04.966000" end="0:08:06.586000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:08:04.966000	0:08:05.979000
 fast	fast	ADV	-	0:08:04.966000	0:08:05.979000
 vollständig	vollständig	ADJ	-	0:08:04.966000	0:08:05.979000
 .	-	-	-	0:08:04.966000	0:08:05.979000
 mhm	mhm	PROPN	-	0:08:05.979000	0:08:06.586000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:05.979000" end="0:08:15.426000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:05.979000" end="0:08:15.426000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:08:05.979000	0:08:06.586000
 genau	genau	ADJ	-	0:08:06.586000	0:08:08.679000
 .	-	-	-	0:08:06.586000	0:08:08.679000
@@ -2028,10 +2028,10 @@ vom	vom	ADP	-	0:08:08.679000	0:08:15.426000
 Vokabular	Vokabular	NOUN	-	0:08:08.679000	0:08:15.426000
 .	-	-	-	0:08:08.679000	0:08:15.426000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:15.426000" end="0:08:16.059000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:15.426000" end="0:08:16.059000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:15.426000	0:08:16.059000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:16.059000" end="0:08:23.459000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:16.059000" end="0:08:23.459000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:08:16.059000	0:08:16.712000
 <pause duration="2,2s"/>
 ich	ich	PRON	-	0:08:16.712000	0:08:19.519000
@@ -2049,10 +2049,10 @@ am	am	ADP	-	0:08:19.519000	0:08:23.459000
 Bauernhof	Bauernhof	NOUN	-	0:08:19.519000	0:08:23.459000
 aufgewachsen	aufwachsen	VERB	-	0:08:19.519000	0:08:23.459000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:23.459000" end="0:08:23.879000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:23.459000" end="0:08:23.879000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:23.459000	0:08:23.879000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:23.459000" end="0:08:30.726000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:23.459000" end="0:08:30.726000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:08:23.459000	0:08:23.879000
 <pause duration="0,6s"/>
 irgendwie	irgendwie	ADV	-	0:08:23.879000	0:08:30.726000
@@ -2078,10 +2078,10 @@ Dialekt	Dialekt	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:08:23.879000
 ist	sein	AUX	-	0:08:23.879000	0:08:30.726000
 .	-	-	-	0:08:23.879000	0:08:30.726000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:30.726000" end="0:08:31.606000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:30.726000" end="0:08:31.606000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:30.726000	0:08:31.606000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:30.726000" end="0:08:39.986000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:30.726000" end="0:08:39.986000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:08:30.726000	0:08:31.606000
 <pause duration="1,0s"/>
 den	der	DET	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:08:31.606000	0:08:35.679000
@@ -2115,16 +2115,16 @@ schon	schon	ADV	-	0:08:38.606000	0:08:39.986000
 noch	noch	ADV	-	0:08:38.606000	0:08:39.986000
 .	-	-	-	0:08:38.606000	0:08:39.986000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:39.986000" end="0:08:41.152000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:39.986000" end="0:08:41.152000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:39.986000	0:08:41.152000
 mhm	mhm	PROPN	-	0:08:39.986000	0:08:41.152000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:41.152000" end="0:08:42.392000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:41.152000" end="0:08:42.392000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:08:41.152000	0:08:42.392000
 genau	genau	ADJ	-	0:08:41.152000	0:08:42.392000
 .	-	-	-	0:08:41.152000	0:08:42.392000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:42.392000" end="0:08:49.006000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:42.392000" end="0:08:49.006000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:08:42.392000	0:08:45.812000
 kann	können	VERB	-	0:08:42.392000	0:08:45.812000
@@ -2150,7 +2150,7 @@ dann	dann	ADV	-	0:08:45.812000	0:08:49.006000
 bezeichnen	bezeichnen	VERB	-	0:08:45.812000	0:08:49.006000
 ?	-	-	-	0:08:45.812000	0:08:49.006000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:49.006000" end="0:08:54.352000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:49.006000" end="0:08:54.352000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	0:08:49.006000	0:08:50.452000
 ,	-	-	-	0:08:49.006000	0:08:50.452000
 bezeichnen	bezeichnen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:08:49.006000	0:08:50.452000
@@ -2172,10 +2172,10 @@ mit	mit	ADP	-	0:08:50.452000	0:08:54.352000
 Freunden	Freund	NOUN	-	0:08:50.452000	0:08:54.352000
 ,	-	-	-	0:08:50.452000	0:08:54.352000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:54.352000" end="0:08:55.019000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:54.352000" end="0:08:55.019000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:54.352000	0:08:55.019000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:54.352000" end="0:08:58.226000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:54.352000" end="0:08:58.226000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:08:54.352000	0:08:55.019000
 schon	schon	ADV	-	0:08:55.019000	0:08:56.119000
 ein	einen	DET	-	0:08:55.019000	0:08:56.119000
@@ -2192,10 +2192,10 @@ stärker	stark	ADJ	-	0:08:56.119000	0:08:58.226000
 sind	sein	AUX	-	0:08:56.119000	0:08:58.226000
 .	-	-	-	0:08:56.119000	0:08:58.226000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:08:58.226000" end="0:08:58.806000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:08:58.226000" end="0:08:58.806000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:08:58.226000	0:08:58.806000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:08:58.806000" end="0:09:05.879000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:58.806000" end="0:09:05.879000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:08:58.806000	0:09:03.952000
 eben	eben	ADV	-	0:08:58.806000	0:09:03.952000
 zum	zum	ADP	-	0:08:58.806000	0:09:03.952000
@@ -2220,10 +2220,10 @@ oder	oder	CCONJ	-	0:09:03.952000	0:09:05.879000
 so	so	ADV	-	0:09:03.952000	0:09:05.879000
 ,	-	-	-	0:09:03.952000	0:09:05.879000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:05.879000" end="0:09:06.486000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:05.879000" end="0:09:06.486000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:05.879000	0:09:06.486000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:05.879000" end="0:09:19.672000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:05.879000" end="0:09:19.672000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:09:05.879000	0:09:06.486000
 es	ich	PRON	-	0:09:05.879000	0:09:06.486000
 kommen	kommen	VERB	-	0:09:06.486000	0:09:08.939000
@@ -2261,10 +2261,10 @@ gemacht	machen	VERB	-	0:09:10.319000	0:09:19.152000
 .	-	-	-	0:09:10.319000	0:09:19.152000
 und	und	CCONJ	-	0:09:19.152000	0:09:19.672000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:19.672000" end="0:09:20.132000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:19.672000" end="0:09:20.132000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:19.672000	0:09:20.132000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:19.672000" end="0:09:21.899000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:19.672000" end="0:09:21.899000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:09:19.672000	0:09:20.132000
 viele	viel	PRON	-	0:09:20.132000	0:09:21.899000
 sind	sein	AUX	-	0:09:20.132000	0:09:21.899000
@@ -2275,10 +2275,10 @@ Städte	Stadt	NOUN	-	0:09:20.132000	0:09:21.899000
 gegangen	gehen	VERB	-	0:09:20.132000	0:09:21.899000
 .	-	-	-	0:09:20.132000	0:09:21.899000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:21.899000" end="0:09:22.612000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:21.899000" end="0:09:22.612000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:21.899000	0:09:22.612000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:22.612000" end="0:09:24.605000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:22.612000" end="0:09:24.605000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:09:22.612000	0:09:23.745000
 es	ich	PRON	-	0:09:22.612000	0:09:23.745000
 schwächt	schwächen	VERB	-	0:09:22.612000	0:09:23.745000
@@ -2292,10 +2292,10 @@ merkt	merken	VERB	-	0:09:23.745000	0:09:24.605000
 schon	schon	ADV	-	0:09:23.745000	0:09:24.605000
 ,	-	-	-	0:09:23.745000	0:09:24.605000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:24.605000" end="0:09:25.339000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:24.605000" end="0:09:25.339000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm((0,7s))	-	-	-	0:09:24.605000	0:09:25.339000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:24.605000" end="0:09:26.152000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:24.605000" end="0:09:26.152000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:09:24.605000	0:09:25.339000
 es	ich	PRON	-	0:09:24.605000	0:09:25.339000
 ein	einen	DET	-	0:09:24.605000	0:09:25.339000
@@ -2305,7 +2305,7 @@ ist	sein	AUX	-	0:09:25.339000	0:09:26.152000
 dann	dann	ADV	-	0:09:25.339000	0:09:26.152000
 .	-	-	-	0:09:25.339000	0:09:26.152000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:26.152000" end="0:09:36.172000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:26.152000" end="0:09:36.172000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:09:26.152000	0:09:27.412000
 heißt	heißen	VERB	-	0:09:26.152000	0:09:27.412000
@@ -2341,7 +2341,7 @@ sozusagen	sozusagen	ADV	-	0:09:31.799000	0:09:35.499000
 also/	-	-	-	0:09:35.499000	0:09:36.172000
 .	-	-	-	0:09:35.499000	0:09:36.172000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:36.172000" end="0:09:41.679000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:36.172000" end="0:09:41.679000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:09:36.172000	0:09:37.985000
 das	der	PRON	-	0:09:36.172000	0:09:37.985000
 ist	sein	AUX	-	0:09:36.172000	0:09:37.985000
@@ -2368,10 +2368,10 @@ sich	sich	PRON	-	0:09:40.739000	0:09:41.679000
 halt	halt	ADV	-	0:09:40.739000	0:09:41.679000
 .	-	-	-	0:09:40.739000	0:09:41.679000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:41.679000" end="0:09:42.312000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:41.679000" end="0:09:42.312000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:41.679000	0:09:42.312000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:42.312000" end="0:09:54.245000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:42.312000" end="0:09:54.245000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:09:42.312000	0:09:45.192000
 <pause duration="0,9s"/>
 man	man	PRON	-	0:09:42.312000	0:09:45.192000
@@ -2414,10 +2414,10 @@ betonen	betonen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV 
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:09:51.692000	0:09:54.245000
 .	-	-	-	0:09:51.692000	0:09:54.245000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:09:54.245000" end="0:09:55.019000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:09:54.245000" end="0:09:55.019000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:09:54.245000	0:09:55.019000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:09:55.019000" end="0:10:05.052000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:55.019000" end="0:10:05.052000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:09:55.019000	0:09:55.699000
 ich	ich	PRON	-	0:09:55.019000	0:09:55.699000
 weiß	weiß	VERB	-	0:09:55.019000	0:09:55.699000
@@ -2460,14 +2460,14 @@ so	so	ADV	-	0:10:04.465000	0:10:05.052000
 nicht	nicht	PART	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:10:04.465000	0:10:05.052000
 mehr	mehr	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:10:04.465000	0:10:05.052000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:05.052000" end="0:10:05.672000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:05.052000" end="0:10:05.672000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:10:05.052000	0:10:05.672000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:05.052000" end="0:10:05.672000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:05.052000" end="0:10:05.672000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 machen	machen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:10:05.052000	0:10:05.672000
 .	-	-	-	0:10:05.052000	0:10:05.672000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:05.672000" end="0:10:09.099000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:05.672000" end="0:10:09.099000" persName="Informant EXP4" age_lower="" age_upper="999">
 wie	wie	CCONJ	-	0:10:05.672000	0:10:07.385000
 wissen	wissen	VERB	-	0:10:05.672000	0:10:07.385000
 sie	ich	PRON	-	0:10:05.672000	0:10:07.385000
@@ -2479,7 +2479,7 @@ war	sein	AUX	-	0:10:07.385000	0:10:08.119000
 ?	-	-	-	0:10:07.385000	0:10:08.119000
 oderah	oderah	PROPN	-	0:10:08.119000	0:10:09.099000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:08.119000" end="0:10:16.619000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:08.119000" end="0:10:16.619000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:10:08.119000	0:10:09.099000
 <pause duration="2,2s"/>
 ist	sein	AUX	-	0:10:09.099000	0:10:13.592000
@@ -2497,20 +2497,20 @@ Beispiel	-	-	-	0:10:13.592000	0:10:16.619000
 "darfst"	-	-	-	0:10:13.592000	0:10:16.619000
 .	-	-	-	0:10:13.592000	0:10:16.619000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:16.619000" end="0:10:18.272000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:16.619000" end="0:10:18.272000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:10:16.619000	0:10:18.272000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:16.619000" end="0:10:18.272000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:16.619000" end="0:10:18.272000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:10:16.619000	0:10:18.272000
 so	-	-	-	0:10:16.619000	0:10:18.272000
 "R"	-	-	-	0:10:16.619000	0:10:18.272000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:18.272000" end="0:10:20.225000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:18.272000" end="0:10:20.225000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:10:18.272000	0:10:19.212000
 mhm	mhm	PROPN	-	0:10:19.212000	0:10:20.225000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:19.212000" end="0:10:31.905000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:19.212000" end="0:10:31.905000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:10:19.212000	0:10:20.225000
 ähm	-	-	-	0:10:20.225000	0:10:22.352000
 <pause duration="0,5s"/>
@@ -2538,7 +2538,7 @@ komisch	-	-	-	0:10:27.945000	0:10:31.905000
 ausgesprochen	-	-	-	0:10:27.945000	0:10:31.905000
 .	-	-	-	0:10:27.945000	0:10:31.905000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:31.905000" end="0:10:34.432000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:31.905000" end="0:10:34.432000" persName="Informant EXP4" age_lower="" age_upper="999">
 so	so	ADV	-	0:10:31.905000	0:10:33.719000
 ein	einen	DET	-	0:10:31.905000	0:10:33.719000
 bisschen	bisschen	NOUN	-	0:10:31.905000	0:10:33.719000
@@ -2551,39 +2551,39 @@ ein	einen	DET	-	0:10:33.719000	0:10:34.432000
 bisschen	bisschen	NOUN	-	0:10:33.719000	0:10:34.432000
 .	-	-	-	0:10:33.719000	0:10:34.432000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:33.719000" end="0:10:34.432000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:33.719000" end="0:10:34.432000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	0:10:33.719000	0:10:34.432000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:34.432000" end="0:10:35.432000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:34.432000" end="0:10:35.432000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:10:34.432000	0:10:35.432000
 vielleicht	vielleicht	ADV	-	0:10:34.432000	0:10:35.432000
 ?	-	-	-	0:10:34.432000	0:10:35.432000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:34.432000" end="0:10:36.025000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:34.432000" end="0:10:36.025000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:10:34.432000	0:10:35.432000
 weiß	weiß	VERB	-	0:10:35.432000	0:10:36.025000
 ich	ich	PRON	-	0:10:35.432000	0:10:36.025000
 nicht	nicht	PART	-	0:10:35.432000	0:10:36.025000
 .	-	-	-	0:10:35.432000	0:10:36.025000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:36.025000" end="0:10:37.245000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:36.025000" end="0:10:37.245000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:10:36.025000	0:10:37.245000
 aber	aber	ADV	-	0:10:36.025000	0:10:37.245000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:36.025000" end="0:10:37.245000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:36.025000" end="0:10:37.245000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:10:36.025000	0:10:37.245000
 ja	ja	PART	-	0:10:36.025000	0:10:37.245000
 ,	-	-	-	0:10:36.025000	0:10:37.245000
 es	ich	PRON	-	0:10:36.025000	0:10:37.245000
 ist	sein	AUX	-	0:10:36.025000	0:10:37.245000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:37.245000" end="0:10:37.912000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:37.245000" end="0:10:37.912000" persName="Informant EXP4" age_lower="" age_upper="999">
 spannend	spannen	ADJ	-	0:10:37.245000	0:10:37.912000
 ,	-	-	-	0:10:37.245000	0:10:37.912000
 ja	ja	PART	-	0:10:37.245000	0:10:37.912000
 .	-	-	-	0:10:37.245000	0:10:37.912000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:37.912000" end="0:10:49.685000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:37.912000" end="0:10:49.685000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:10:37.912000	0:10:43.005000
 es	ich	PRON	-	0:10:37.912000	0:10:43.005000
 wir	ich	PRON	-	0:10:37.912000	0:10:43.005000
@@ -2628,7 +2628,7 @@ nicht	nicht	PART	-	0:10:48.032000	0:10:49.685000
 mehr	mehr	ADV	-	0:10:48.032000	0:10:49.685000
 .	-	-	-	0:10:48.032000	0:10:49.685000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:49.685000" end="0:10:53.765000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:49.685000" end="0:10:53.765000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:10:49.685000	0:10:50.372000
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:10:50.372000	0:10:53.205000
@@ -2639,31 +2639,31 @@ Großelterngeneration	Großelterngeneration	NOUN	-	0:10:50.372000	0:10:53.205000
 schon	schon	ADV	-	0:10:53.205000	0:10:53.765000
 .	-	-	-	0:10:53.205000	0:10:53.765000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:53.205000" end="0:10:55.019000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:53.205000" end="0:10:55.019000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wird	werden	AUX	-	0:10:53.205000	0:10:53.765000
 es	ich	PRON	-	0:10:53.205000	0:10:53.765000
 sicher	sichern	ADJ	-	0:10:53.765000	0:10:55.019000
 weniger	wenig	PRON	-	0:10:53.765000	0:10:55.019000
 .	-	-	-	0:10:53.765000	0:10:55.019000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:55.019000" end="0:10:55.659000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:55.019000" end="0:10:55.659000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:10:55.019000	0:10:55.659000
 .	-	-	-	0:10:55.019000	0:10:55.659000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:55.019000" end="0:10:55.659000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.019000" end="0:10:55.659000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:10:55.019000	0:10:55.659000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:55.659000" end="0:10:56.252000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:55.659000" end="0:10:56.252000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:10:55.659000	0:10:56.252000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:10:55.659000" end="0:10:57.192000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.659000" end="0:10:57.192000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:10:55.659000	0:10:56.252000
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:10:55.659000	0:10:56.252000
 behaupten	behaupten	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:10:56.252000	0:10:57.192000
 zumindest	zumindest	ADV	-	0:10:56.252000	0:10:57.192000
 .	-	-	-	0:10:56.252000	0:10:57.192000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:10:57.192000" end="0:11:01.465000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:10:57.192000" end="0:11:01.465000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:10:57.192000	0:10:59.272000
 würden	werden	AUX	-	0:10:57.192000	0:10:59.272000
 finden	finden	VERB	-	0:10:57.192000	0:10:59.272000
@@ -2682,7 +2682,7 @@ reden	reden	VERB	-	0:10:59.272000	0:11:00.732000
 oder	oder	CCONJ	-	0:11:00.732000	0:11:01.465000
 ?	-	-	-	0:11:00.732000	0:11:01.465000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:01.465000" end="0:11:25.972000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:01.465000" end="0:11:25.972000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:11:01.465000	0:11:05.185000
 <pause duration="2,7s"/>
 weiß	weiß	VERB	-	0:11:01.465000	0:11:05.185000
@@ -2751,10 +2751,10 @@ wohl	wohl	ADV	-	0:11:22.359000	0:11:25.972000
 darin	darin	ADV	-	0:11:22.359000	0:11:25.972000
 .	-	-	-	0:11:22.359000	0:11:25.972000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:25.972000" end="0:11:26.525000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:25.972000" end="0:11:26.525000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:25.972000	0:11:26.525000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:25.972000" end="0:11:31.705000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:25.972000" end="0:11:31.705000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:11:25.972000	0:11:26.525000
 es	ich	PRON	-	0:11:25.972000	0:11:26.525000
 ist	sein	AUX	-	0:11:25.972000	0:11:26.525000
@@ -2784,10 +2784,10 @@ man	man	PRON	-	0:11:31.112000	0:11:31.705000
 redet	reden	VERB	-	0:11:31.112000	0:11:31.705000
 .	-	-	-	0:11:31.112000	0:11:31.705000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:31.705000" end="0:11:32.245000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:31.705000" end="0:11:32.245000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:31.705000	0:11:32.245000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:32.245000" end="0:11:40.872000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:32.245000" end="0:11:40.872000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:11:32.245000	0:11:35.925000
 <pause duration="1,2s"/>
 und	und	CCONJ	-	0:11:32.245000	0:11:35.925000
@@ -2813,10 +2813,10 @@ halt	halt	ADV	-	0:11:35.925000	0:11:40.872000
 verloren	verlieren	VERB	-	0:11:35.925000	0:11:40.872000
 .	-	-	-	0:11:35.925000	0:11:40.872000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:40.872000" end="0:11:41.625000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:40.872000" end="0:11:41.625000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:40.872000	0:11:41.625000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:41.625000" end="0:11:46.212000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:41.625000" end="0:11:46.212000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:11:41.625000	0:11:44.385000
 <pause duration="1,2s"/>
 ich	ich	PRON	-	0:11:41.625000	0:11:44.385000
@@ -2832,17 +2832,17 @@ weiterentwickelt	weiterentwickel	VERB	-	0:11:44.385000	0:11:46.212000
 hat	haben	AUX	-	0:11:44.385000	0:11:46.212000
 .	-	-	-	0:11:44.385000	0:11:46.212000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:46.212000" end="0:11:46.819000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:46.212000" end="0:11:46.819000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:46.212000	0:11:46.819000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:46.212000" end="0:11:46.819000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:46.212000" end="0:11:46.819000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:11:46.212000	0:11:46.819000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:46.819000" end="0:11:47.859000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:46.819000" end="0:11:47.859000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	0:11:46.819000	0:11:47.859000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:46.819000" end="0:11:52.679000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:46.819000" end="0:11:52.679000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	ich	PRON	-	0:11:46.819000	0:11:47.859000
 glaube	glauben	VERB	-	0:11:47.859000	0:11:48.365000
@@ -2869,23 +2869,23 @@ halt	halt	ADV	-	0:11:51.159000	0:11:52.679000
 weiter	weit	ADP	-	0:11:51.159000	0:11:52.679000
 .	-	-	-	0:11:51.159000	0:11:52.679000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:52.679000" end="0:11:53.285000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:52.679000" end="0:11:53.285000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:52.679000	0:11:53.285000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:53.285000" end="0:11:54.959000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:53.285000" end="0:11:54.959000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:11:53.285000	0:11:54.959000
 <pause duration="0,6s"/>
 genau	genau	ADJ	-	0:11:53.285000	0:11:54.959000
 .	-	-	-	0:11:53.285000	0:11:54.959000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:11:54.959000" end="0:11:57.512000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:11:54.959000" end="0:11:57.512000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:11:54.959000	0:11:55.972000
 mhm	mhm	PROPN	-	0:11:54.959000	0:11:55.972000
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:11:55.972000	0:11:57.512000
 ähm	ähm	PROPN	-	0:11:55.972000	0:11:57.512000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:11:57.512000" end="0:12:09.345000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:57.512000" end="0:12:09.345000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:11:57.512000	0:11:59.512000
 man	man	PRON	-	0:11:57.512000	0:11:59.512000
@@ -2936,11 +2936,11 @@ das	der	DET	-	0:12:08.132000	0:12:09.345000
 Gefühl	Gefühl	NOUN	-	0:12:08.132000	0:12:09.345000
 .	-	-	-	0:12:08.132000	0:12:09.345000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:09.345000" end="0:12:09.799000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:09.345000" end="0:12:09.799000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:12:09.345000	0:12:09.799000
 ?	-	-	-	0:12:09.345000	0:12:09.799000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:09.799000" end="0:12:17.972000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:09.799000" end="0:12:17.972000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:12:09.799000	0:12:10.965000
 zwischen	zwischen	ADP	-	0:12:09.799000	0:12:10.965000
 weiß	weiß	VERB	-	0:12:09.799000	0:12:10.965000
@@ -2971,10 +2971,10 @@ ganz	ganz	ADV	-	0:12:16.092000	0:12:17.972000
 gleich	gleichen	ADV	-	0:12:16.092000	0:12:17.972000
 .	-	-	-	0:12:16.092000	0:12:17.972000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:17.972000" end="0:12:18.592000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:17.972000" end="0:12:18.592000" persName="Informant EXP4" age_lower="" age_upper="999">
 sozusagen	sozusagen	ADV	-	0:12:17.972000	0:12:18.592000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:17.972000" end="0:12:22.019000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:17.972000" end="0:12:22.019000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:12:17.972000	0:12:18.592000
 könnte	können	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:12:17.972000	0:12:18.592000
 es	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:12:17.972000	0:12:18.592000
@@ -2991,7 +2991,7 @@ aber	aber	CCONJ	-	0:12:20.752000	0:12:22.019000
 ja	ja	ADV	-	0:12:20.752000	0:12:22.019000
 .	-	-	-	0:12:20.752000	0:12:22.019000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:22.019000" end="0:12:25.912000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:22.019000" end="0:12:25.912000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 je	je	ADV	-	0:12:22.019000	0:12:25.479000
 nachdem	nachdem	ADV	-	0:12:22.019000	0:12:25.479000
@@ -3006,29 +3006,29 @@ Tal	Tal	NOUN	-	0:12:22.019000	0:12:25.479000
 auch	auch	ADV	-	0:12:22.019000	0:12:25.479000
 ist	sein	AUX	-	0:12:25.479000	0:12:25.912000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:25.479000" end="0:12:25.912000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:25.479000" end="0:12:25.912000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:12:25.479000	0:12:25.912000
 ja	ja	PART	-	0:12:25.479000	0:12:25.912000
 .	-	-	-	0:12:25.479000	0:12:25.912000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:25.912000" end="0:12:26.565000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:25.912000" end="0:12:26.565000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:12:25.912000	0:12:26.299000
 ?	-	-	-	0:12:25.912000	0:12:26.299000
 oder	oder	CCONJ	-	0:12:26.299000	0:12:26.565000
 ?	-	-	-	0:12:26.299000	0:12:26.565000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:26.565000" end="0:12:26.912000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:26.565000" end="0:12:26.912000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:12:26.565000	0:12:26.912000
 .	-	-	-	0:12:26.565000	0:12:26.912000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:26.912000" end="0:12:28.305000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:26.912000" end="0:12:28.305000" persName="Informant EXP4" age_lower="" age_upper="999">
 woran	woran	ADV	-	0:12:26.912000	0:12:27.939000
 würden	werden	AUX	-	0:12:26.912000	0:12:27.939000
 sie	ich	PRON	-	0:12:27.939000	0:12:28.305000
 das/	-	-	-	0:12:27.939000	0:12:28.305000
 ?	-	-	-	0:12:27.939000	0:12:28.305000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:27.939000" end="0:12:38.465000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:27.939000" end="0:12:38.465000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:12:27.939000	0:12:28.305000
 der	der	DET	-	0:12:28.305000	0:12:30.999000
 stärkste	stark	ADJ	-	0:12:28.305000	0:12:30.999000
@@ -3066,10 +3066,10 @@ Ort	Ort	NOUN	-	0:12:36.425000	0:12:38.465000
 sind	sein	AUX	-	0:12:36.425000	0:12:38.465000
 .	-	-	-	0:12:36.425000	0:12:38.465000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:38.465000" end="0:12:39.119000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:38.465000" end="0:12:39.119000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:12:38.465000	0:12:39.119000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:38.465000" end="0:12:41.052000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:38.465000" end="0:12:41.052000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:12:38.465000	0:12:39.119000
 da	da	ADV	-	0:12:38.465000	0:12:39.119000
 ist	sein	AUX	-	0:12:38.465000	0:12:39.119000
@@ -3083,7 +3083,7 @@ finde	finden	VERB	-	0:12:40.619000	0:12:41.052000
 ich	ich	PRON	-	0:12:40.619000	0:12:41.052000
 .	-	-	-	0:12:40.619000	0:12:41.052000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:41.052000" end="0:12:46.005000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:41.052000" end="0:12:46.005000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:12:41.052000	0:12:46.005000
 und	und	CCONJ	-	0:12:41.052000	0:12:46.005000
 wie	wie	ADV	-	0:12:41.052000	0:12:46.005000
@@ -3104,7 +3104,7 @@ dort	dort	ADV	-	0:12:41.052000	0:12:46.005000
 zuordnen	zuordnen	VERB	-	0:12:41.052000	0:12:46.005000
 ?	-	-	-	0:12:41.052000	0:12:46.005000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:46.005000" end="0:12:59.965000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:46.005000" end="0:12:59.965000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:12:46.005000	0:12:48.259000
 <pause duration="1,0s"/>
 das	der	PRON	-	0:12:46.005000	0:12:48.259000
@@ -3153,29 +3153,29 @@ so	so	ADV	-	0:12:57.905000	0:12:59.632000
 ,	-	-	-	0:12:57.905000	0:12:59.632000
 dass	dass	SCONJ	-	0:12:59.632000	0:12:59.965000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:12:59.965000" end="0:13:01.145000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:12:59.965000" end="0:13:01.145000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 [O/Oberwölz]O	OOberwölz	ADJ	-	0:12:59.965000	0:13:01.145000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:12:59.965000" end="0:13:01.145000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:59.965000" end="0:13:01.145000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 jetzt	jetzt	ADV	-	0:12:59.965000	0:13:01.145000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:01.145000" end="0:13:01.959000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:01.145000" end="0:13:01.959000" persName="Informant EXP4" age_lower="" age_upper="999">
 Stadt	Stadt	NOUN	-	0:13:01.145000	0:13:01.632000
 oder	oder	CCONJ	-	0:13:01.145000	0:13:01.632000
 jetzt	jetzt	ADV	-	0:13:01.632000	0:13:01.959000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:01.632000" end="0:13:01.959000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:01.632000" end="0:13:01.959000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:13:01.632000	0:13:01.959000
 .	-	-	-	0:13:01.632000	0:13:01.959000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:01.959000" end="0:13:02.712000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:01.959000" end="0:13:02.712000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:13:01.959000	0:13:02.712000
 mhm	mhm	PROPN	-	0:13:01.959000	0:13:02.712000
 .	-	-	-	0:13:01.959000	0:13:02.712000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:02.712000" end="0:13:08.599000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:02.712000" end="0:13:08.599000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:13:02.712000	0:13:08.599000
 ähm	ähm	PROPN	-	0:13:02.712000	0:13:08.599000
 <pause duration="1,5s"/>
@@ -3193,16 +3193,16 @@ sondern	sondern	CCONJ	-	0:13:02.712000	0:13:08.599000
 ein	einen	DET	-	0:13:02.712000	0:13:08.599000
 Berg	Berg	NOUN	-	0:13:02.712000	0:13:08.599000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:08.599000" end="0:13:09.339000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:08.599000" end="0:13:09.339000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:08.599000	0:13:09.339000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:08.599000" end="0:13:09.339000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:08.599000" end="0:13:09.339000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:13:08.599000	0:13:09.339000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:09.339000" end="0:13:09.752000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:09.339000" end="0:13:09.752000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:09.339000	0:13:09.752000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:09.339000" end="0:13:15.579000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:09.339000" end="0:13:15.579000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:13:09.339000	0:13:09.752000
 nicht	nicht	PART	-	0:13:09.339000	0:13:09.752000
 so	so	ADV	-	0:13:09.752000	0:13:10.579000
@@ -3235,10 +3235,10 @@ eigene	eigene	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:13:13.205000	0:
 Gemeinschaft	Gemeinschaft	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj dopp spe-	0:13:13.205000	0:13:15.579000
 .	-	-	-	0:13:13.205000	0:13:15.579000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:15.579000" end="0:13:16.425000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:15.579000" end="0:13:16.425000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:15.579000	0:13:16.425000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:15.579000" end="0:13:18.012000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:15.579000" end="0:13:18.012000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:13:15.579000	0:13:16.425000
 von	von	ADP	-	0:13:16.425000	0:13:18.012000
 den	der	DET	-	0:13:16.425000	0:13:18.012000
@@ -3249,10 +3249,10 @@ dort	dort	ADV	-	0:13:16.425000	0:13:18.012000
 wohnen	wohnen	VERB	-	0:13:16.425000	0:13:18.012000
 .	-	-	-	0:13:16.425000	0:13:18.012000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:18.012000" end="0:13:18.492000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:18.012000" end="0:13:18.492000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:18.012000	0:13:18.492000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:18.492000" end="0:13:23.999000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:18.492000" end="0:13:23.999000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:13:18.492000	0:13:21.432000
 <pause duration="1,0s"/>
 so	so	ADV	-	0:13:18.492000	0:13:21.432000
@@ -3274,11 +3274,11 @@ auch	auch	ADV	-	0:13:21.432000	0:13:23.239000
 deshalb	deshalb	ADV	-	0:13:23.239000	0:13:23.999000
 ähm	ähm	VERB	-	0:13:23.239000	0:13:23.999000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:23.999000" end="0:13:24.965000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:23.999000" end="0:13:24.965000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:23.999000	0:13:24.965000
 mhm	mhm	PROPN	-	0:13:23.999000	0:13:24.965000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:24.965000" end="0:13:33.239000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:24.965000" end="0:13:33.239000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 obwohl	obwohl	SCONJ	-	0:13:24.965000	0:13:27.959000
 es	ich	PRON	-	0:13:24.965000	0:13:27.959000
@@ -3312,11 +3312,11 @@ nicht	nicht	PART	-	0:13:30.632000	0:13:32.552000
 .	-	-	-	0:13:30.632000	0:13:32.552000
 ähm	ähm	X	-	0:13:32.552000	0:13:33.239000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:33.239000" end="0:13:34.465000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:33.239000" end="0:13:34.465000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 mhmmhm	mhmmhm	PROPN	-	0:13:33.239000	0:13:34.465000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:33.239000" end="0:13:38.152000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:33.239000" end="0:13:38.152000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 da	da	ADV	-	0:13:33.239000	0:13:34.465000
 ist	sein	AUX	-	0:13:33.239000	0:13:34.465000
@@ -3336,20 +3336,20 @@ eher	eher	ADV	-	0:13:36.452000	0:13:38.152000
 ausschlaggebend	ausschlaggebend	ADJ	-	0:13:36.452000	0:13:38.152000
 .	-	-	-	0:13:36.452000	0:13:38.152000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:38.152000" end="0:13:38.579000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:38.152000" end="0:13:38.579000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:38.152000	0:13:38.579000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:38.152000" end="0:13:39.412000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:38.152000" end="0:13:39.412000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:13:38.152000	0:13:38.579000
 meinem	mein	DET	-	0:13:38.579000	0:13:39.412000
 Fall	Fall	NOUN	-	0:13:38.579000	0:13:39.412000
 jetzt	jetzt	ADV	-	0:13:38.579000	0:13:39.412000
 .	-	-	-	0:13:38.579000	0:13:39.412000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:39.412000" end="0:13:40.045000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:39.412000" end="0:13:40.045000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:13:39.412000	0:13:40.045000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:40.045000" end="0:13:42.418000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:40.045000" end="0:13:42.418000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 als	als	SCONJ	-	0:13:40.045000	0:13:42.418000
 jetzt	jetzt	ADV	-	0:13:40.045000	0:13:42.418000
 nur	nur	ADV	-	0:13:40.045000	0:13:42.418000
@@ -3358,7 +3358,7 @@ geographische	geographisch	ADJ	-	0:13:40.045000	0:13:42.418000
 Verortung	Verortung	NOUN	-	0:13:40.045000	0:13:42.418000
 .	-	-	-	0:13:40.045000	0:13:42.418000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:42.418000" end="0:13:49.718000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:42.418000" end="0:13:49.718000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 aber	aber	ADV	-	0:13:42.418000	0:13:45.012000
 haben	haben	AUX	-	0:13:42.418000	0:13:45.012000
@@ -3385,7 +3385,7 @@ nicht	nicht	PART	-	0:13:47.272000	0:13:49.718000
 oder	oder	CCONJ	-	0:13:47.272000	0:13:49.718000
 ?	-	-	-	0:13:47.272000	0:13:49.718000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:49.718000" end="0:13:50.845000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:49.718000" end="0:13:50.845000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:13:49.718000	0:13:50.845000
 ,	-	-	-	0:13:49.718000	0:13:50.845000
 das	der	PRON	-	0:13:49.718000	0:13:50.845000
@@ -3394,19 +3394,19 @@ ich	ich	PRON	-	0:13:49.718000	0:13:50.845000
 nicht	nicht	PART	-	0:13:49.718000	0:13:50.845000
 .	-	-	-	0:13:49.718000	0:13:50.845000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:50.845000" end="0:13:51.432000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:50.845000" end="0:13:51.432000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:13:50.845000	0:13:51.432000
 .	-	-	-	0:13:50.845000	0:13:51.432000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:51.432000" end="0:13:51.712000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:51.432000" end="0:13:51.712000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:13:51.432000	0:13:51.712000
 .	-	-	-	0:13:51.432000	0:13:51.712000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:51.712000" end="0:13:52.112000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:51.712000" end="0:13:52.112000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:13:51.712000	0:13:52.112000
 .	-	-	-	0:13:51.712000	0:13:52.112000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:52.112000" end="0:13:56.452000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:52.112000" end="0:13:56.452000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:13:52.112000	0:13:53.265000
 so	so	ADV	-	0:13:52.112000	0:13:53.265000
 stark	stark	ADJ	-	0:13:52.112000	0:13:53.265000
@@ -3432,11 +3432,11 @@ von	von	ADP	-	0:13:55.572000	0:13:56.452000
 dort	dort	ADV	-	0:13:55.572000	0:13:56.452000
 .	-	-	-	0:13:55.572000	0:13:56.452000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:13:56.452000" end="0:13:56.992000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:13:56.452000" end="0:13:56.992000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:13:56.452000	0:13:56.992000
 .	-	-	-	0:13:56.452000	0:13:56.992000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:13:56.992000" end="0:14:04.018000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:56.992000" end="0:14:04.018000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:13:56.992000	0:13:57.892000
 das	der	PRON	-	0:13:56.992000	0:13:57.892000
 nicht	nicht	PART	-	0:13:56.992000	0:13:57.892000
@@ -3467,26 +3467,26 @@ fällt	fällen	VERB	-	0:14:03.325000	0:14:04.018000
 auf	auf	ADP	-	0:14:03.325000	0:14:04.018000
 ,	-	-	-	0:14:03.325000	0:14:04.018000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:04.018000" end="0:14:04.832000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:04.018000" end="0:14:04.832000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:14:04.018000	0:14:04.832000
 .	-	-	-	0:14:04.018000	0:14:04.832000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:04.018000" end="0:14:05.358000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:04.018000" end="0:14:05.358000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:14:04.018000	0:14:04.832000
 es	ich	PRON	-	0:14:04.018000	0:14:04.832000
 Unterschiede	Unterschied	NOUN	-	0:14:04.018000	0:14:04.832000
 gibt	geben	VERB	-	0:14:04.832000	0:14:05.358000
 .	-	-	-	0:14:04.832000	0:14:05.358000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:05.358000" end="0:14:06.245000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:05.358000" end="0:14:06.245000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:14:05.358000	0:14:06.245000
 .	-	-	-	0:14:05.358000	0:14:06.245000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:05.358000" end="0:14:06.245000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:05.358000" end="0:14:06.245000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:05.358000	0:14:06.245000
 .	-	-	-	0:14:05.358000	0:14:06.245000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:06.245000" end="0:14:08.958000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:06.245000" end="0:14:08.958000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:14:06.245000	0:14:08.958000
 sprechen	sprechen	VERB	-	0:14:06.245000	0:14:08.958000
 sie	ich	PRON	-	0:14:06.245000	0:14:08.958000
@@ -3494,7 +3494,7 @@ gerne	gerne	ADV	-	0:14:06.245000	0:14:08.958000
 SONSTIGE	SONSTIGE	NOUN	-	0:14:06.245000	0:14:08.958000
 ?	-	-	-	0:14:06.245000	0:14:08.958000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:08.958000" end="0:14:15.325000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:08.958000" end="0:14:15.325000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:14:08.958000	0:14:09.958000
 eigentlich	eigentlich	ADV	-	0:14:08.958000	0:14:09.958000
 schon	schon	ADV	-	0:14:08.958000	0:14:09.958000
@@ -3517,10 +3517,10 @@ spricht	sprechen	VERB	-	0:14:09.958000	0:14:14.798000
 .	-	-	-	0:14:09.958000	0:14:14.798000
 also	also	ADV	-	0:14:14.798000	0:14:15.325000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:15.325000" end="0:14:15.932000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:15.325000" end="0:14:15.932000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:14:15.325000	0:14:15.932000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:15.932000" end="0:14:27.145000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:15.932000" end="0:14:27.145000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:14:15.932000	0:14:17.932000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:14:15.932000	0:14:17.932000
 mir	sich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:14:15.932000	0:14:17.932000
@@ -3560,10 +3560,10 @@ spricht	sprechen	VERB	-	0:14:24.498000	0:14:26.765000
 ,	-	-	-	0:14:24.498000	0:14:26.765000
 aber	aber	CCONJ	-	0:14:26.765000	0:14:27.145000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:27.145000" end="0:14:27.852000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:27.145000" end="0:14:27.852000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:14:27.145000	0:14:27.852000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:27.145000" end="0:14:30.805000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:27.145000" end="0:14:30.805000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:14:27.145000	0:14:27.852000
 vielleicht	vielleicht	ADV	-	0:14:27.852000	0:14:30.805000
 fällt	fällen	VERB	-	0:14:27.852000	0:14:30.805000
@@ -3573,15 +3573,15 @@ so	so	ADV	-	0:14:27.852000	0:14:30.805000
 schwer	schwer	ADJ	-	0:14:27.852000	0:14:30.805000
 .	-	-	-	0:14:27.852000	0:14:30.805000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:30.805000" end="0:14:31.672000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:30.805000" end="0:14:31.672000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:14:30.805000	0:14:31.672000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:30.805000" end="0:14:31.672000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:30.805000" end="0:14:31.672000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 keine	kein	DET	-	0:14:30.805000	0:14:31.672000
 Ahnung	Ahnung	NOUN	-	0:14:30.805000	0:14:31.672000
 .	-	-	-	0:14:30.805000	0:14:31.672000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:14:31.672000" end="0:14:37.378000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:14:31.672000" end="0:14:37.378000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:14:31.672000	0:14:32.118000
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:14:32.118000	0:14:33.665000
@@ -3602,7 +3602,7 @@ vor	vor	ADP	-	0:14:33.665000	0:14:37.378000
 allem	alle	PRON	-	0:14:33.665000	0:14:37.378000
 ?	-	-	-	0:14:33.665000	0:14:37.378000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:14:37.378000" end="0:15:15.665000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:37.378000" end="0:15:15.665000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ähm	ähm	X	-	0:14:37.378000	0:14:44.605000
 ja	ja	ADV	-	0:14:37.378000	0:14:44.605000
@@ -3719,14 +3719,14 @@ dann	dann	ADV	-	0:15:14.418000	0:15:15.665000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:15:14.418000	0:15:15.665000
 .	-	-	-	0:15:14.418000	0:15:15.665000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:15.665000" end="0:15:16.285000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:15.665000" end="0:15:16.285000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:15:15.665000	0:15:16.285000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:16.285000" end="0:15:16.458000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:16.285000" end="0:15:16.458000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:16.285000	0:15:16.458000
 .	-	-	-	0:15:16.285000	0:15:16.458000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:16.458000" end="0:15:26.532000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:16.458000" end="0:15:26.532000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:15:16.458000	0:15:16.905000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:15:16.905000	0:15:21.085000
@@ -3756,10 +3756,10 @@ noch	noch	ADV	-	0:15:21.085000	0:15:26.078000
 vergessen	vergessen	VERB	-	0:15:26.078000	0:15:26.532000
 .	-	-	-	0:15:26.078000	0:15:26.532000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:26.078000" end="0:15:26.532000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:26.078000" end="0:15:26.532000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:26.078000	0:15:26.532000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:26.532000" end="0:15:34.465000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:26.532000" end="0:15:34.465000" persName="Informant EXP4" age_lower="" age_upper="999">
 nämlich	nämlich	ADV	-	0:15:26.532000	0:15:29.218000
 bei	bei	ADP	-	0:15:26.532000	0:15:29.218000
 der	der	DET	-	0:15:26.532000	0:15:29.218000
@@ -3786,7 +3786,7 @@ verstehen	verstehen	VERB	-	0:15:29.218000	0:15:33.205000
 <pause duration="0,9s"/>
 ähm	ähm	PROPN	-	0:15:33.205000	0:15:34.465000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:34.465000" end="0:15:36.538000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:34.465000" end="0:15:36.538000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:15:34.465000	0:15:36.538000
 also	also	ADV	-	0:15:34.465000	0:15:36.538000
 da	da	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:15:34.465000	0:15:36.538000
@@ -3797,17 +3797,17 @@ sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV st
 vollständig	vollständig	ADJ	-	0:15:34.465000	0:15:36.538000
 .	-	-	-	0:15:34.465000	0:15:36.538000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:36.538000" end="0:15:37.452000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:36.538000" end="0:15:37.452000" persName="Informant EXP4" age_lower="" age_upper="999">
 vollständig	vollständig	ADJ	-	0:15:36.538000	0:15:36.992000
 .	-	-	-	0:15:36.538000	0:15:36.992000
 okay	okay	NOUN	-	0:15:36.992000	0:15:37.452000
 .	-	-	-	0:15:36.992000	0:15:37.452000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:36.992000" end="0:15:37.452000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:36.992000" end="0:15:37.452000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:36.992000	0:15:37.452000
 .	-	-	-	0:15:36.992000	0:15:37.452000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:37.452000" end="0:15:42.192000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:37.452000" end="0:15:42.192000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:15:37.452000	0:15:40.192000
 und	und	CCONJ	-	0:15:37.452000	0:15:40.192000
@@ -3827,7 +3827,7 @@ sie	ich	PRON	-	0:15:40.192000	0:15:42.192000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:15:40.192000	0:15:42.192000
 ?	-	-	-	0:15:40.192000	0:15:42.192000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:42.192000" end="0:15:46.292000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:42.192000" end="0:15:46.292000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 jetzt	jetzt	ADV	-	0:15:42.192000	0:15:46.292000
 auf	auf	ADP	-	0:15:42.192000	0:15:46.292000
@@ -3838,18 +3838,18 @@ ich	ich	PRON	-	0:15:42.192000	0:15:46.292000
 nicht	nicht	PART	-	0:15:42.192000	0:15:46.292000
 .	-	-	-	0:15:42.192000	0:15:46.292000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:46.292000" end="0:15:47.925000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:46.292000" end="0:15:47.925000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ähm	ähm	X	-	0:15:46.292000	0:15:47.925000
 ja	ja	PART	-	0:15:46.292000	0:15:47.925000
 .	-	-	-	0:15:46.292000	0:15:47.925000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:46.292000" end="0:15:47.925000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:46.292000" end="0:15:47.925000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 oder	oder	CCONJ	-	0:15:46.292000	0:15:47.925000
 ?	-	-	-	0:15:46.292000	0:15:47.925000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:15:47.925000" end="0:15:53.178000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:15:47.925000" end="0:15:53.178000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:15:47.925000	0:15:53.178000
 oder	oder	CCONJ	-	0:15:47.925000	0:15:53.178000
@@ -3869,7 +3869,7 @@ leichtesten	leicht	NOUN	-	0:15:47.925000	0:15:53.178000
 ja	ja	PART	-	0:15:47.925000	0:15:53.178000
 .	-	-	-	0:15:47.925000	0:15:53.178000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:15:53.178000" end="0:16:02.612000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:53.178000" end="0:16:02.612000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:15:53.178000	0:15:59.565000
 <pause duration="0,9s"/>
 na	na	X	-	0:15:53.178000	0:15:59.565000
@@ -3899,10 +3899,10 @@ oder	oder	CCONJ	-	0:16:00.205000	0:16:02.612000
 irgendsowas	irgendsowas	ADV	-	0:16:00.205000	0:16:02.612000
 .	-	-	-	0:16:00.205000	0:16:02.612000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:02.612000" end="0:16:03.152000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:02.612000" end="0:16:03.152000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:16:02.612000	0:16:03.152000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:03.152000" end="0:16:10.365000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:03.152000" end="0:16:10.365000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:16:03.152000	0:16:08.678000
 <pause duration="2,4s"/>
 und	und	CCONJ	-	0:16:03.152000	0:16:08.678000
@@ -3924,18 +3924,18 @@ am	am	ADP	-	0:16:08.678000	0:16:10.365000
 Wochenende	Wochenend	NOUN	-	0:16:08.678000	0:16:10.365000
 .	-	-	-	0:16:08.678000	0:16:10.365000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:10.365000" end="0:16:10.905000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:10.365000" end="0:16:10.905000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:16:10.365000	0:16:10.905000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:10.905000" end="0:16:11.725000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:10.905000" end="0:16:11.725000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 genau	genau	ADJ	-	0:16:10.905000	0:16:11.725000
 .	-	-	-	0:16:10.905000	0:16:11.725000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:11.725000" end="0:16:12.445000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:11.725000" end="0:16:12.445000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:16:11.725000	0:16:12.445000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:11.725000" end="0:16:13.325000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:11.725000" end="0:16:13.325000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:11.725000	0:16:12.445000
 da	da	ADV	-	0:16:11.725000	0:16:12.445000
 halt	halt	ADV	-	0:16:11.725000	0:16:12.445000
@@ -3944,15 +3944,15 @@ immer	immer	ADV	-	0:16:12.445000	0:16:13.325000
 quasi	quasi	ADV	-	0:16:12.445000	0:16:13.325000
 .	-	-	-	0:16:12.445000	0:16:13.325000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:13.325000" end="0:16:14.252000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:13.325000" end="0:16:14.252000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:16:13.325000	0:16:14.252000
 .	-	-	-	0:16:13.325000	0:16:14.252000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:14.252000" end="0:16:14.432000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:14.252000" end="0:16:14.432000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:14.252000	0:16:14.432000
 .	-	-	-	0:16:14.252000	0:16:14.432000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:14.432000" end="0:16:22.818000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:14.432000" end="0:16:22.818000" persName="Informant EXP4" age_lower="" age_upper="999">
 das	der	PRON	-	0:16:14.432000	0:16:17.692000
 heißt	heißen	VERB	-	0:16:14.432000	0:16:17.692000
 ,	-	-	-	0:16:14.432000	0:16:17.692000
@@ -3987,10 +3987,10 @@ aber	aber	CCONJ	-	0:16:21.072000	0:16:22.258000
 wenn	wenn	SCONJ	-	0:16:22.258000	0:16:22.818000
 wir	ich	PRON	-	0:16:22.258000	0:16:22.818000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:22.258000" end="0:16:22.818000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:22.258000" end="0:16:22.818000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	0:16:22.258000	0:16:22.818000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:22.818000" end="0:16:25.885000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:22.818000" end="0:16:25.885000" persName="Informant EXP4" age_lower="" age_upper="999">
 so	so	ADV	-	0:16:22.818000	0:16:25.885000
 eine	einen	DET	-	0:16:22.818000	0:16:25.885000
 Art	Art	NOUN	-	0:16:22.818000	0:16:25.885000
@@ -3999,7 +3999,7 @@ irgendwie	irgendwie	ADV	-	0:16:22.818000	0:16:25.885000
 finden	finden	VERB	-	0:16:22.818000	0:16:25.885000
 kann	können	VERB	-	0:16:22.818000	0:16:25.885000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:25.885000" end="0:16:37.305000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:25.885000" end="0:16:37.305000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ja	ja	ADV	-	0:16:25.885000	0:16:29.505000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:16:25.885000	0:16:29.505000
@@ -4020,15 +4020,15 @@ die	der	DET	-	0:16:29.505000	0:16:37.305000
 Hälfte	Hälfte	NOUN	-	0:16:29.505000	0:16:37.305000
 .	-	-	-	0:16:29.505000	0:16:37.305000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:37.305000" end="0:16:37.938000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:37.305000" end="0:16:37.938000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	ADJ	-	0:16:37.305000	0:16:37.938000
 .	-	-	-	0:16:37.305000	0:16:37.938000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:37.305000" end="0:16:38.198000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:37.305000" end="0:16:38.198000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:37.938000	0:16:38.198000
 .	-	-	-	0:16:37.938000	0:16:38.198000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:16:38.198000" end="0:16:45.025000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:16:38.198000" end="0:16:45.025000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:16:38.198000	0:16:40.678000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:16:38.198000	0:16:40.678000
@@ -4050,7 +4050,7 @@ passend	passen	ADJ	-	0:16:40.678000	0:16:45.025000
 erscheint	erscheinen	VERB	-	0:16:40.678000	0:16:45.025000
 ?	-	-	-	0:16:40.678000	0:16:45.025000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:16:45.025000" end="0:17:02.885000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:45.025000" end="0:17:02.885000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:16:45.025000	0:16:49.658000
 <pause duration="1,6s"/>
 habe	habe	AUX	-	0:16:45.025000	0:16:49.658000
@@ -4095,10 +4095,10 @@ selbst	selbst	ADV	-	0:17:01.152000	0:17:02.885000
 jetzt	jetzt	ADV	-	0:17:01.152000	0:17:02.885000
 grundsätzlich	grundsätzlich	ADJ	-	0:17:01.152000	0:17:02.885000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:02.885000" end="0:17:03.218000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:02.885000" end="0:17:03.218000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:02.885000	0:17:03.218000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:03.218000" end="0:17:10.983000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:03.218000" end="0:17:10.983000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	ADJ	-	0:17:03.218000	0:17:04.932000
 wie	wie	CCONJ	-	0:17:03.218000	0:17:04.932000
 ich	ich	PRON	-	0:17:03.218000	0:17:04.932000
@@ -4127,11 +4127,11 @@ verständigen	verständigen	VERB	-	0:17:09.152000	0:17:10.983000
 kann	können	VERB	-	0:17:09.152000	0:17:10.983000
 .	-	-	-	0:17:09.152000	0:17:10.983000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:10.983000" end="0:17:11.656000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:10.983000" end="0:17:11.656000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:10.983000	0:17:11.385000
 mhm	mhm	PROPN	-	0:17:11.385000	0:17:11.656000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:11.385000" end="0:17:14.998000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:11.385000" end="0:17:14.998000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:17:11.385000	0:17:11.656000
 ich	ich	PRON	-	0:17:11.656000	0:17:12.872000
 schaffe	schaffen	VERB	-	0:17:11.656000	0:17:12.872000
@@ -4148,11 +4148,11 @@ zu	zu	PART	-	0:17:12.872000	0:17:14.998000
 reden	reden	VERB	-	0:17:12.872000	0:17:14.998000
 .	-	-	-	0:17:12.872000	0:17:14.998000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:14.998000" end="0:17:16.098000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:14.998000" end="0:17:16.098000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:14.998000	0:17:15.438000
 mhm	mhm	PROPN	-	0:17:15.438000	0:17:16.098000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:15.438000" end="0:17:21.938000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:15.438000" end="0:17:21.938000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:17:15.438000	0:17:16.098000
 <pause duration="1,0s"/>
 das	der	PRON	-	0:17:16.098000	0:17:17.698000
@@ -4174,10 +4174,10 @@ im	im	ADP	-	0:17:19.978000	0:17:21.938000
 Zwiegespräch	Zwiegespräch	NOUN	-	0:17:19.978000	0:17:21.938000
 .	-	-	-	0:17:19.978000	0:17:21.938000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:21.938000" end="0:17:22.625000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:21.938000" end="0:17:22.625000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:21.938000	0:17:22.625000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:22.625000" end="0:17:29.112000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:22.625000" end="0:17:29.112000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:17:22.625000	0:17:24.145000
 es	ich	PRON	-	0:17:22.625000	0:17:24.145000
 halt	halt	ADV	-	0:17:22.625000	0:17:24.145000
@@ -4199,10 +4199,10 @@ nicht	nicht	PART	-	0:17:24.145000	0:17:28.678000
 .	-	-	-	0:17:24.145000	0:17:28.678000
 also	also	ADV	-	0:17:28.678000	0:17:29.112000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:29.112000" end="0:17:29.445000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:29.112000" end="0:17:29.445000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:29.112000	0:17:29.445000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:29.445000" end="0:17:40.978000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:29.445000" end="0:17:40.978000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:17:29.445000	0:17:30.252000
 weiß	weiß	VERB	-	0:17:29.445000	0:17:30.252000
 ich	ich	PRON	-	0:17:29.445000	0:17:30.252000
@@ -4241,10 +4241,10 @@ so	so	ADV	-	0:17:35.538000	0:17:40.978000
 halt	halt	ADV	-	0:17:35.538000	0:17:40.978000
 geschöntem	geschöntem	ADJ	-	0:17:35.538000	0:17:40.978000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:40.978000" end="0:17:41.758000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:40.978000" end="0:17:41.758000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:40.978000	0:17:41.758000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:41.758000" end="0:17:46.165000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:41.758000" end="0:17:46.165000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:17:41.758000	0:17:42.718000
 Dialekt	Dialekt	NOUN	-	0:17:41.758000	0:17:42.718000
 .	-	-	-	0:17:41.758000	0:17:42.718000
@@ -4263,11 +4263,11 @@ im	im	ADP	-	0:17:44.038000	0:17:46.165000
 Dialekt	Dialekt	NOUN	-	0:17:44.038000	0:17:46.165000
 .	-	-	-	0:17:44.038000	0:17:46.165000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:46.165000" end="0:17:47.085000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:46.165000" end="0:17:47.085000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:46.165000	0:17:47.085000
 mhm	mhm	PROPN	-	0:17:46.165000	0:17:47.085000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:47.085000" end="0:17:55.445000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:47.085000" end="0:17:55.445000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:17:47.085000	0:17:48.678000
 aber	aber	ADV	-	0:17:47.085000	0:17:48.678000
 es	ich	PRON	-	0:17:47.085000	0:17:48.678000
@@ -4298,10 +4298,10 @@ passt	passt	PROPN	-	0:17:54.058000	0:17:55.445000
 auch	auch	ADV	-	0:17:54.058000	0:17:55.445000
 .	-	-	-	0:17:54.058000	0:17:55.445000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:17:55.445000" end="0:17:56.138000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:17:55.445000" end="0:17:56.138000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:17:55.445000	0:17:56.138000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:17:55.445000" end="0:18:00.032000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:55.445000" end="0:18:00.032000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:17:55.445000	0:17:56.138000
 es	ich	PRON	-	0:17:55.445000	0:17:56.138000
 gibt	geben	VERB	-	0:17:55.445000	0:17:56.138000
@@ -4324,7 +4324,7 @@ aber	aber	CCONJ	-	0:17:58.105000	0:18:00.032000
 ja	ja	ADV	-	0:17:58.105000	0:18:00.032000
 .	-	-	-	0:17:58.105000	0:18:00.032000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:00.032000" end="0:18:08.505000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:00.032000" end="0:18:08.505000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	okay	PROPN	-	0:18:00.032000	0:18:01.892000
 .	-	-	-	0:18:00.032000	0:18:01.892000
@@ -4350,7 +4350,7 @@ unpassend	unpassend	ADJ	-	0:18:04.585000	0:18:08.505000
 erscheint	erscheinen	VERB	-	0:18:04.585000	0:18:08.505000
 .	-	-	-	0:18:04.585000	0:18:08.505000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:08.505000" end="0:18:15.058000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:08.505000" end="0:18:15.058000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:18:08.505000	0:18:11.198000
 ähm	ähm	PROPN	-	0:18:08.505000	0:18:11.198000
@@ -4369,10 +4369,10 @@ es	ich	PRON	-	0:18:12.752000	0:18:15.058000
 irgendwie	irgendwie	ADV	-	0:18:12.752000	0:18:15.058000
 Verständigkeitspro/	-	-	-	0:18:12.752000	0:18:15.058000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:15.058000" end="0:18:16.312000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:15.058000" end="0:18:16.312000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	X	-	0:18:15.058000	0:18:16.312000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:15.058000" end="0:18:21.038000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:15.058000" end="0:18:21.038000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Verständigungsprobleme	Verständigungsprobleme	NOUN	-	0:18:15.058000	0:18:16.312000
 gibt	geben	VERB	-	0:18:16.312000	0:18:16.598000
 .	-	-	-	0:18:16.312000	0:18:16.598000
@@ -4392,10 +4392,10 @@ relativ	relativ	ADJ	-	0:18:19.065000	0:18:21.038000
 lange	lang	ADV	-	0:18:19.065000	0:18:21.038000
 ,	-	-	-	0:18:19.065000	0:18:21.038000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:21.038000" end="0:18:21.525000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:21.038000" end="0:18:21.525000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:18:21.038000	0:18:21.525000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:21.038000" end="0:18:24.331000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:21.038000" end="0:18:24.331000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:18:21.038000	0:18:21.525000
 halt	halt	ADV	-	0:18:21.038000	0:18:21.525000
 Leute	Leute	NOUN	-	0:18:21.525000	0:18:23.258000
@@ -4411,18 +4411,18 @@ nichts	nichts	PRON	-	0:18:23.258000	0:18:24.331000
 versteht	verstehen	VERB	-	0:18:23.258000	0:18:24.331000
 .	-	-	-	0:18:23.258000	0:18:24.331000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:24.331000" end="0:18:25.218000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:24.331000" end="0:18:25.218000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:18:24.331000	0:18:25.218000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:24.331000" end="0:18:25.218000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:24.331000" end="0:18:25.218000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:18:24.331000	0:18:25.218000
 halt	halt	ADV	-	0:18:24.331000	0:18:25.218000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:25.218000" end="0:18:25.845000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:25.218000" end="0:18:25.845000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:18:25.218000	0:18:25.845000
 .	-	-	-	0:18:25.218000	0:18:25.845000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:25.218000" end="0:18:53.325000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:25.218000" end="0:18:53.325000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 für	für	ADP	-	0:18:25.218000	0:18:25.845000
 sie	ich	PRON	-	0:18:25.218000	0:18:25.845000
 ist	sein	AUX	-	0:18:25.845000	0:18:27.065000
@@ -4517,10 +4517,10 @@ nicht	nicht	PART	-	0:18:49.558000	0:18:53.325000
 ja	ja	ADV	-	0:18:49.558000	0:18:53.325000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:53.325000" end="0:18:53.731000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:53.325000" end="0:18:53.731000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:18:53.325000	0:18:53.731000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:18:53.731000" end="0:18:54.965000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:53.731000" end="0:18:54.965000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 gewünscht	wünschen	VERB	-	0:18:53.731000	0:18:54.965000
 ist	sein	AUX	-	0:18:53.731000	0:18:54.965000
 oder	oder	CCONJ	-	0:18:53.731000	0:18:54.965000
@@ -4529,7 +4529,7 @@ so	so	ADV	-	0:18:53.731000	0:18:54.965000
 ja	ja	PART	-	0:18:53.731000	0:18:54.965000
 .	-	-	-	0:18:53.731000	0:18:54.965000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:18:54.965000" end="0:19:05.005000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:18:54.965000" end="0:19:05.005000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:18:54.965000	0:18:59.845000
 mhm	mhm	PROPN	-	0:18:54.965000	0:18:59.845000
 <pause duration="1,0s"/>
@@ -4558,7 +4558,7 @@ nicht	nicht	PART	-	0:19:02.018000	0:19:05.005000
 sprechen	sprechen	VERB	-	0:19:02.018000	0:19:05.005000
 ?	-	-	-	0:19:02.018000	0:19:05.005000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:05.005000" end="0:19:27.185000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:05.005000" end="0:19:27.185000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	ähm	X	-	0:19:05.005000	0:19:13.765000
 <pause duration="3,0s"/>
@@ -4615,7 +4615,7 @@ Anführungszeichen	Anführungszeichen	NOUN	-	0:19:20.425000	0:19:24.705000
 <pause duration="1,6s"/>
 ähm	ähm	X	-	0:19:24.705000	0:19:27.185000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:19:27.185000" end="0:19:29.711000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:19:27.185000" end="0:19:29.711000" persName="Informant EXP4" age_lower="" age_upper="999">
 haben	haben	AUX	-	0:19:27.185000	0:19:29.711000
 sie	ich	PRON	-	0:19:27.185000	0:19:29.711000
 da	da	ADV	-	0:19:27.185000	0:19:29.711000
@@ -4626,7 +4626,7 @@ eh	eh	ADV	-	0:19:27.185000	0:19:29.711000
 zum/	-	-	-	0:19:27.185000	0:19:29.711000
 ?	-	-	-	0:19:27.185000	0:19:29.711000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:29.711000" end="0:19:38.751000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:29.711000" end="0:19:38.751000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:19:29.711000	0:19:31.125000
 wenn	wenn	SCONJ	-	0:19:29.711000	0:19:31.125000
@@ -4655,24 +4655,24 @@ Kärntner	Kärntner	NOUN	-	0:19:34.891000	0:19:38.751000
 eingestuft	einstufen	VERB	-	0:19:34.891000	0:19:38.751000
 .	-	-	-	0:19:34.891000	0:19:38.751000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:19:38.751000" end="0:19:40.745000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:19:38.751000" end="0:19:40.745000" persName="Informant EXP4" age_lower="" age_upper="999">
 aha	aha	X	-	0:19:38.751000	0:19:39.818000
 interessant	interessant	ADJ	-	0:19:38.751000	0:19:39.818000
 .	-	-	-	0:19:38.751000	0:19:39.818000
 okay	okay	NOUN	-	0:19:39.818000	0:19:40.745000
 .	-	-	-	0:19:39.818000	0:19:40.745000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:39.818000" end="0:19:40.745000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:39.818000" end="0:19:40.745000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:19:39.818000	0:19:40.745000
 am	am	PART	-	0:19:39.818000	0:19:40.745000
 ehesten	ehesten	ADJ	-	0:19:39.818000	0:19:40.745000
 .	-	-	-	0:19:39.818000	0:19:40.745000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:19:40.745000" end="0:19:41.778000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:19:40.745000" end="0:19:41.778000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:19:40.745000	0:19:41.778000
 mhm	mhm	PROPN	-	0:19:40.745000	0:19:41.778000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:41.778000" end="0:19:46.271000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:41.778000" end="0:19:46.271000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:19:41.778000	0:19:44.271000
 die	der	DET	-	0:19:41.778000	0:19:44.271000
 meisten	meist	DET	-	0:19:41.778000	0:19:44.271000
@@ -4689,14 +4689,14 @@ einordnen	einordnen	VERB	-	0:19:44.271000	0:19:46.271000
 sollen	sollen	VERB	-	0:19:44.271000	0:19:46.271000
 .	-	-	-	0:19:44.271000	0:19:46.271000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:19:46.271000" end="0:19:48.218000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:19:46.271000" end="0:19:48.218000" persName="Informant EXP4" age_lower="" age_upper="999">
 interessant	interessant	ADJ	-	0:19:46.271000	0:19:47.238000
 okay	okay	VERB	-	0:19:46.271000	0:19:47.238000
 .	-	-	-	0:19:46.271000	0:19:47.238000
 ja	ja	PART	-	0:19:47.238000	0:19:48.218000
 .	-	-	-	0:19:47.238000	0:19:48.218000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:47.238000" end="0:19:52.131000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:47.238000" end="0:19:52.131000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:19:47.238000	0:19:48.218000
 oder	oder	CCONJ	-	0:19:48.218000	0:19:50.945000
 manchmal	manchmal	ADV	-	0:19:48.218000	0:19:50.945000
@@ -4713,10 +4713,10 @@ nicht	nicht	PART	-	0:19:50.945000	0:19:52.131000
 ist	sein	AUX	-	0:19:50.945000	0:19:52.131000
 .	-	-	-	0:19:50.945000	0:19:52.131000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:19:52.131000" end="0:19:52.785000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:19:52.131000" end="0:19:52.785000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:19:52.131000	0:19:52.785000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:19:52.131000" end="0:20:10.498000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:52.131000" end="0:20:10.498000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:19:52.131000	0:19:52.785000
 <pause duration="0,8s"/>
 es	ich	PRON	-	0:19:52.785000	0:19:54.858000
@@ -4771,11 +4771,11 @@ oder	oder	CCONJ	-	0:20:05.838000	0:20:10.498000
 so	so	ADV	-	0:20:05.838000	0:20:10.498000
 .	-	-	-	0:20:05.838000	0:20:10.498000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:10.498000" end="0:20:11.625000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:10.498000" end="0:20:11.625000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:10.498000	0:20:10.998000
 mhm	mhm	PROPN	-	0:20:10.998000	0:20:11.625000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:10.998000" end="0:20:18.791000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:10.998000" end="0:20:18.791000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:20:10.998000	0:20:11.625000
 heißt	heißen	VERB	-	0:20:10.998000	0:20:11.625000
 ,	-	-	-	0:20:10.998000	0:20:11.625000
@@ -4802,10 +4802,10 @@ sehr	sehr	ADV	-	0:20:17.891000	0:20:18.791000
 klein	klein	ADJ	-	0:20:17.891000	0:20:18.791000
 .	-	-	-	0:20:17.891000	0:20:18.791000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:18.791000" end="0:20:19.605000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:18.791000" end="0:20:19.605000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:18.791000	0:20:19.605000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:19.605000" end="0:20:24.478000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:19.605000" end="0:20:24.478000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dementsprechend	dementsprechend	ADJ	-	0:20:19.605000	0:20:21.958000
 ist	sein	AUX	-	0:20:19.605000	0:20:21.958000
 mir	sich	PRON	-	0:20:19.605000	0:20:21.958000
@@ -4828,23 +4828,23 @@ oder	oder	CCONJ	-	0:20:21.958000	0:20:24.478000
 so	so	ADV	-	0:20:21.958000	0:20:24.478000
 .	-	-	-	0:20:21.958000	0:20:24.478000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:24.478000" end="0:20:24.985000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:24.478000" end="0:20:24.985000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:20:24.478000	0:20:24.985000
 .	-	-	-	0:20:24.478000	0:20:24.985000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:24.478000" end="0:20:24.985000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:24.478000" end="0:20:24.985000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:24.478000	0:20:24.985000
 .	-	-	-	0:20:24.478000	0:20:24.985000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:24.985000" end="0:20:25.585000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:24.985000" end="0:20:25.585000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:24.985000	0:20:25.585000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:25.585000" end="0:20:27.205000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:25.585000" end="0:20:27.205000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 genau	genau	ADJ	-	0:20:25.585000	0:20:27.205000
 .	-	-	-	0:20:25.585000	0:20:27.205000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:27.205000" end="0:20:33.445000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:27.205000" end="0:20:33.445000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:20:27.205000	0:20:28.925000
 das	der	PRON	-	0:20:27.205000	0:20:28.925000
 heißt	heißen	VERB	-	0:20:27.205000	0:20:28.925000
@@ -4869,10 +4869,10 @@ einen	ein	DET	-	0:20:28.925000	0:20:33.445000
 Salzburger	Salzburger	NOUN	-	0:20:28.925000	0:20:33.445000
 ,	-	-	-	0:20:28.925000	0:20:33.445000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:33.445000" end="0:20:33.738000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:33.445000" end="0:20:33.738000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:33.445000	0:20:33.738000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:33.738000" end="0:20:40.978000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:33.738000" end="0:20:40.978000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:20:33.738000	0:20:36.958000
 wie	wie	ADV	-	0:20:33.738000	0:20:36.958000
 ist	sein	AUX	-	0:20:33.738000	0:20:36.958000
@@ -4896,7 +4896,7 @@ das	der	PRON	-	0:20:38.731000	0:20:40.978000
 wahrnehmen	wahrnehmen	VERB	-	0:20:38.731000	0:20:40.978000
 ?	-	-	-	0:20:38.731000	0:20:40.978000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:40.978000" end="0:20:46.438000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:40.978000" end="0:20:46.438000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ähm	ähm	PROPN	-	0:20:40.978000	0:20:46.438000
 das	der	DET	-	0:20:40.978000	0:20:46.438000
@@ -4909,10 +4909,10 @@ das	der	DET	-	0:20:40.978000	0:20:46.438000
 Salzburgerische	Salzburgerische	NOUN	-	0:20:40.978000	0:20:46.438000
 ,	-	-	-	0:20:40.978000	0:20:46.438000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:46.438000" end="0:20:47.438000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:46.438000" end="0:20:47.438000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:46.438000	0:20:47.438000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:46.438000" end="0:20:49.158000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:46.438000" end="0:20:49.158000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:20:46.438000	0:20:47.438000
 ich	ich	PRON	-	0:20:46.438000	0:20:47.438000
 weiß	weiß	VERB	-	0:20:46.438000	0:20:47.438000
@@ -4926,11 +4926,11 @@ eine	einen	DET	-	0:20:47.438000	0:20:49.158000
 Einschätzung	Einschätzung	NOUN	-	0:20:47.438000	0:20:49.158000
 .	-	-	-	0:20:47.438000	0:20:49.158000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:49.158000" end="0:20:50.718000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:49.158000" end="0:20:50.718000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:49.158000	0:20:49.738000
 mhm	mhm	PROPN	-	0:20:49.738000	0:20:50.718000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:49.738000" end="0:20:56.585000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:49.738000" end="0:20:56.585000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:20:49.738000	0:20:50.718000
 <pause duration="1,7s"/>
 ich	ich	PRON	-	0:20:50.718000	0:20:53.345000
@@ -4950,13 +4950,13 @@ wahrgenommen	wahrnehmen	VERB	-	0:20:53.345000	0:20:56.585000
 wird	werden	AUX	-	0:20:53.345000	0:20:56.585000
 .	-	-	-	0:20:53.345000	0:20:56.585000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:56.585000" end="0:20:57.225000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:56.585000" end="0:20:57.225000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:56.585000	0:20:57.225000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:20:56.585000" end="0:20:57.225000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:56.585000" end="0:20:57.225000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:20:56.585000	0:20:57.225000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:20:57.225000" end="0:21:05.945000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:20:57.225000" end="0:21:05.945000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:20:57.225000	0:20:58.085000
 das	der	PRON	-	0:20:58.085000	0:20:58.611000
 heißt	heißen	VERB	-	0:20:58.085000	0:20:58.611000
@@ -4985,24 +4985,24 @@ wahrgenommen	wahrnehmen	VERB	-	0:20:59.478000	0:21:05.945000
 wird	werden	AUX	-	0:20:59.478000	0:21:05.945000
 oder	oder	CCONJ	-	0:20:59.478000	0:21:05.945000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:05.945000" end="0:21:06.418000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:05.945000" end="0:21:06.418000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:21:05.945000	0:21:06.418000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:06.418000" end="0:21:06.731000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:06.418000" end="0:21:06.731000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder/	-	-	-	0:21:06.418000	0:21:06.731000
 ?	-	-	-	0:21:06.418000	0:21:06.731000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:06.418000" end="0:21:07.238000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:06.418000" end="0:21:07.238000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:21:06.418000	0:21:06.731000
 .	-	-	-	0:21:06.418000	0:21:06.731000
 eigentlich	eigentlich	ADV	-	0:21:06.731000	0:21:07.238000
 nicht	nicht	PART	-	0:21:06.731000	0:21:07.238000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:07.238000" end="0:21:08.110000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:07.238000" end="0:21:08.110000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:21:07.238000	0:21:08.110000
 .	-	-	-	0:21:07.238000	0:21:08.110000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:07.238000" end="0:21:12.334000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:07.238000" end="0:21:12.334000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:21:07.238000	0:21:08.110000
 nicht	nicht	PART	-	0:21:07.238000	0:21:08.110000
 .	-	-	-	0:21:07.238000	0:21:08.110000
@@ -5019,31 +5019,31 @@ Gefühl	Gefühl	NOUN	-	0:21:08.110000	0:21:11.894000
 dass	dass	SCONJ	-	0:21:11.894000	0:21:12.334000
 es	ich	PRON	-	0:21:11.894000	0:21:12.334000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:12.334000" end="0:21:12.902000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:12.334000" end="0:21:12.902000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:21:12.334000	0:21:12.902000
 .	-	-	-	0:21:12.334000	0:21:12.902000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:12.334000" end="0:21:13.662000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:12.334000" end="0:21:13.662000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 grundsätzlich	grundsätzlich	ADJ	-	0:21:12.334000	0:21:12.902000
 negativ	negativ	ADJ	-	0:21:12.902000	0:21:13.662000
 wahrgenommen	wahrnehmen	VERB	-	0:21:12.902000	0:21:13.662000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:13.662000" end="0:21:14.334000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:13.662000" end="0:21:14.334000" persName="Informant EXP4" age_lower="" age_upper="999">
 das	der	PRON	-	0:21:13.662000	0:21:14.334000
 heißt	heißen	VERB	-	0:21:13.662000	0:21:14.334000
 auch	auch	ADV	-	0:21:13.662000	0:21:14.334000
 in	in	ADP	-	0:21:13.662000	0:21:14.334000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:13.662000" end="0:21:14.334000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:13.662000" end="0:21:14.334000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wird	werden	AUX	-	0:21:13.662000	0:21:14.334000
 nein	nein	PART	-	0:21:13.662000	0:21:14.334000
 .	-	-	-	0:21:13.662000	0:21:14.334000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:14.334000" end="0:21:15.542000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:14.334000" end="0:21:15.542000" persName="Informant EXP4" age_lower="" age_upper="999">
 ORT	ORT	PROPN	-	0:21:14.334000	0:21:15.542000
 ähm	ähm	PROPN	-	0:21:14.334000	0:21:15.542000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:15.542000" end="0:21:22.526000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:15.542000" end="0:21:22.526000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:21:15.542000	0:21:21.382000
 .	-	-	-	0:21:15.542000	0:21:21.382000
 also	also	ADV	-	0:21:15.542000	0:21:21.382000
@@ -5069,7 +5069,7 @@ das	der	DET	-	0:21:21.382000	0:21:22.526000
 Gefühl	Gefühl	NOUN	-	0:21:21.382000	0:21:22.526000
 .	-	-	-	0:21:21.382000	0:21:22.526000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:22.526000" end="0:21:29.918000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:22.526000" end="0:21:29.918000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:21:22.526000	0:21:23.182000
 .	-	-	-	0:21:22.526000	0:21:23.182000
 und	und	CCONJ	-	0:21:23.182000	0:21:29.918000
@@ -5087,7 +5087,7 @@ vor	vor	ADP	-	0:21:23.182000	0:21:29.918000
 allem	alle	PRON	-	0:21:23.182000	0:21:29.918000
 ?	-	-	-	0:21:23.182000	0:21:29.918000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:29.918000" end="0:21:55.150000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:29.918000" end="0:21:55.150000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	X	-	0:21:29.918000	0:21:37.518000
 <pause duration="1,2s"/>
@@ -5158,10 +5158,10 @@ weiter	weit	ADV	-	0:21:48.782000	0:21:55.150000
 gesprochen	sprechen	VERB	-	0:21:48.782000	0:21:55.150000
 .	-	-	-	0:21:48.782000	0:21:55.150000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:21:55.150000" end="0:21:55.582000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:21:55.150000" end="0:21:55.582000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:21:55.150000	0:21:55.582000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:21:55.582000" end="0:22:10.254000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:55.582000" end="0:22:10.254000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:21:55.582000	0:22:00.422000
 und	und	CCONJ	-	0:21:55.582000	0:22:00.422000
 so	so	ADV	-	0:21:55.582000	0:22:00.422000
@@ -5201,10 +5201,10 @@ und	und	CCONJ	-	0:22:00.422000	0:22:10.254000
 Bäuerinnen	Bäuerin	NOUN	-	0:22:00.422000	0:22:10.254000
 .	-	-	-	0:22:00.422000	0:22:10.254000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:10.254000" end="0:22:10.942000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:10.254000" end="0:22:10.942000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:22:10.254000	0:22:10.942000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:10.942000" end="0:22:15.437000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:10.942000" end="0:22:15.437000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:22:10.942000	0:22:13.805000
 also	also	ADV	-	0:22:10.942000	0:22:13.805000
 das	der	PRON	-	0:22:10.942000	0:22:13.805000
@@ -5224,15 +5224,15 @@ stärker	stark	ADJ	-	0:22:13.805000	0:22:15.437000
 haben	haben	AUX	-	0:22:13.805000	0:22:15.437000
 .	-	-	-	0:22:13.805000	0:22:15.437000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:15.437000" end="0:22:16.765000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:15.437000" end="0:22:16.765000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:22:15.437000	0:22:16.149000
 mhm	mhm	PROPN	-	0:22:16.149000	0:22:16.765000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:16.149000" end="0:22:16.765000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:16.149000" end="0:22:16.765000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:22:16.149000	0:22:16.765000
 .	-	-	-	0:22:16.149000	0:22:16.765000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:16.765000" end="0:22:22.285000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:16.765000" end="0:22:22.285000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 können	können	VERB	-	0:22:16.765000	0:22:19.189000
 wir	ich	PRON	-	0:22:16.765000	0:22:19.189000
@@ -5250,7 +5250,7 @@ urige	urige	ADJ	-	0:22:19.189000	0:22:22.285000
 SONSTIGE	SONSTIGE	NOUN	-	0:22:19.189000	0:22:22.285000
 und	und	CCONJ	-	0:22:19.189000	0:22:22.285000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:22.285000" end="0:22:24.181000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:22.285000" end="0:22:24.181000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:22:22.285000	0:22:24.181000
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:22:22.285000	0:22:24.181000
 schon	schon	ADV	-	0:22:22.285000	0:22:24.181000
@@ -5259,21 +5259,21 @@ behaupten	behaupten	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kpe
 ja	ja	PART	-	0:22:22.285000	0:22:24.181000
 .	-	-	-	0:22:22.285000	0:22:24.181000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:24.181000" end="0:22:24.565000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:24.181000" end="0:22:24.565000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:22:24.181000	0:22:24.565000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:24.181000" end="0:22:25.101000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:24.181000" end="0:22:25.101000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:22:24.181000	0:22:24.565000
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:22:24.181000	0:22:24.565000
 schon	schon	ADV	-	0:22:24.181000	0:22:24.565000
 behaupten	behaupten	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:22:24.565000	0:22:25.101000
 .	-	-	-	0:22:24.565000	0:22:25.101000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:25.101000" end="0:22:25.509000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:25.101000" end="0:22:25.509000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:22:25.101000	0:22:25.509000
 .	-	-	-	0:22:25.101000	0:22:25.509000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:25.509000" end="0:22:51.581000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:25.509000" end="0:22:51.581000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:22:25.509000	0:22:29.477000
 es	ich	PRON	-	0:22:25.509000	0:22:29.477000
 hat	haben	AUX	-	0:22:25.509000	0:22:29.477000
@@ -5355,17 +5355,17 @@ mehr	mehr	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum 
 verwenden	verwenden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:22:46.877000	0:22:51.581000
 würden	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:22:46.877000	0:22:51.581000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:51.581000" end="0:22:52.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:51.581000" end="0:22:52.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:51.581000	0:22:52.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:51.581000" end="0:22:52.269000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:51.581000" end="0:22:52.269000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wahrscheinlich	wahrscheinlich	ADJ	-	0:22:51.581000	0:22:52.269000
 .	-	-	-	0:22:51.581000	0:22:52.269000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:52.269000" end="0:22:52.693000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:52.269000" end="0:22:52.693000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:52.269000	0:22:52.693000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:52.693000" end="0:22:57.469000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:52.693000" end="0:22:57.469000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:22:52.693000	0:22:55.301000
 die	der	PRON	-	0:22:52.693000	0:22:55.301000
 auch	auch	ADV	-	0:22:52.693000	0:22:55.301000
@@ -5385,15 +5385,15 @@ der	der	DET	-	0:22:55.301000	0:22:57.469000
 Umgebung	Umgebung	NOUN	-	0:22:55.301000	0:22:57.469000
 .	-	-	-	0:22:55.301000	0:22:57.469000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:57.469000" end="0:22:58.573000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:57.469000" end="0:22:58.573000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:57.469000	0:22:57.973000
 mhm	-	-	-	0:22:57.973000	0:22:58.573000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:22:57.973000" end="0:22:58.573000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:57.973000" end="0:22:58.573000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:57.973000	0:22:58.573000
 .	-	-	-	0:22:57.973000	0:22:58.573000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:22:58.573000" end="0:23:01.165000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:22:58.573000" end="0:23:01.165000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	-	-	-	0:22:58.573000	0:23:00.645000
 das	-	-	-	0:22:58.573000	0:23:00.645000
 wäre	-	-	-	0:22:58.573000	0:23:00.645000
@@ -5404,23 +5404,23 @@ dieses	-	-	-	0:22:58.573000	0:23:00.645000
 ,	-	-	-	0:22:58.573000	0:23:00.645000
 was	was	PRON	-	0:23:00.645000	0:23:01.165000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:00.645000" end="0:23:01.165000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:00.645000" end="0:23:01.165000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:23:00.645000	0:23:01.165000
 .	-	-	-	0:23:00.645000	0:23:01.165000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:01.165000" end="0:23:02.605000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:01.165000" end="0:23:02.605000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:23:01.165000	0:23:01.517000
 .	-	-	-	0:23:01.165000	0:23:01.517000
 ah	ah	ADJ	-	0:23:01.517000	0:23:02.605000
 ja	ja	ADV	-	0:23:01.517000	0:23:02.605000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:01.517000" end="0:23:02.605000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:01.517000" end="0:23:02.605000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:23:01.517000	0:23:02.605000
 das	der	PRON	-	0:23:01.517000	0:23:02.605000
 genau	genau	ADJ	-	0:23:01.517000	0:23:02.605000
 .	-	-	-	0:23:01.517000	0:23:02.605000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:02.605000" end="0:23:05.629000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:02.605000" end="0:23:05.629000" persName="Informant EXP4" age_lower="" age_upper="999">
 gibt	geben	VERB	-	0:23:02.605000	0:23:04.341000
 es	ich	PRON	-	0:23:02.605000	0:23:04.341000
 da	da	ADV	-	0:23:02.605000	0:23:04.341000
@@ -5431,7 +5431,7 @@ Beispiele	Beispiel	NOUN	-	0:23:02.605000	0:23:04.341000
 vielleicht	vielleicht	ADV	-	0:23:04.341000	0:23:05.629000
 ?	-	-	-	0:23:04.341000	0:23:05.629000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:04.341000" end="0:23:08.229000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:04.341000" end="0:23:08.229000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:23:04.341000	0:23:05.629000
 <pause duration="1,3s"/>
@@ -5442,7 +5442,7 @@ jetzt	jetzt	ADV	-	0:23:05.629000	0:23:08.229000
 schwer	schwer	ADJ	-	0:23:05.629000	0:23:08.229000
 .	-	-	-	0:23:05.629000	0:23:08.229000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:08.229000" end="0:23:09.685000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:08.229000" end="0:23:09.685000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:23:08.229000	0:23:08.869000
 es	ich	PRON	-	0:23:08.229000	0:23:08.869000
 ist	sein	AUX	-	0:23:08.229000	0:23:08.869000
@@ -5451,17 +5451,17 @@ so	so	ADV	-	0:23:08.869000	0:23:09.685000
 schwer	schwer	ADJ	-	0:23:08.869000	0:23:09.685000
 auf	auf	ADP	-	0:23:08.869000	0:23:09.685000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:08.869000" end="0:23:09.685000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:08.869000" end="0:23:09.685000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:23:08.869000	0:23:09.685000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:09.685000" end="0:23:11.605000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:09.685000" end="0:23:11.605000" persName="Informant EXP4" age_lower="" age_upper="999">
 auf	auf	ADP	-	0:23:09.685000	0:23:10.637000
 Knopfdruck	Knopfdruck	NOUN	-	0:23:09.685000	0:23:10.637000
 sowas	sowas	VERB	-	0:23:10.637000	0:23:11.605000
 aber/	-	-	-	0:23:10.637000	0:23:11.605000
 .	-	-	-	0:23:10.637000	0:23:11.605000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:10.637000" end="0:23:19.485000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:10.637000" end="0:23:19.485000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:23:10.637000	0:23:11.605000
 .	-	-	-	0:23:10.637000	0:23:11.605000
 <pause duration="0,7s"/>
@@ -5492,10 +5492,10 @@ ist	-	-	-	0:23:11.605000	0:23:19.485000
 fahren"	-	-	-	0:23:11.605000	0:23:19.485000
 .	-	-	-	0:23:11.605000	0:23:19.485000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:19.485000" end="0:23:20.173000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:19.485000" end="0:23:20.173000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	X	-	0:23:19.485000	0:23:20.173000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:19.485000" end="0:23:22.909000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:19.485000" end="0:23:22.909000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:23:19.485000	0:23:20.173000
 im	-	-	-	0:23:19.485000	0:23:20.173000
 im	-	-	-	0:23:20.173000	0:23:22.909000
@@ -5510,38 +5510,38 @@ man	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std st
 sagen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:23:20.173000	0:23:22.909000
 .	-	-	-	0:23:20.173000	0:23:22.909000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:22.909000" end="0:23:25.341000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:22.909000" end="0:23:25.341000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:23:22.909000	0:23:24.045000
 ah	ah	X	-	0:23:24.045000	0:23:25.341000
 spannend	spannen	ADJ	-	0:23:24.045000	0:23:25.341000
 .	-	-	-	0:23:24.045000	0:23:25.341000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:24.045000" end="0:23:25.341000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:24.045000" end="0:23:25.341000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:23:24.045000	0:23:25.341000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:25.341000" end="0:23:25.605000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:25.341000" end="0:23:25.605000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:23:25.341000	0:23:25.605000
 .	-	-	-	0:23:25.341000	0:23:25.605000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:25.605000" end="0:23:27.965000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:25.605000" end="0:23:27.965000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:23:25.605000	0:23:27.965000
 "fort"	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:23:25.605000	0:23:27.965000
 wäre	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:23:25.605000	0:23:27.965000
 dann	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:23:25.605000	0:23:27.965000
 "fort"	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:23:25.605000	0:23:27.965000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:27.965000" end="0:23:29.037000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:27.965000" end="0:23:29.037000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:23:27.965000	0:23:29.037000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:29.037000" end="0:23:29.437000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:29.037000" end="0:23:29.437000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:23:29.037000	0:23:29.437000
 es	-	-	-	0:23:29.037000	0:23:29.437000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:29.437000" end="0:23:30.165000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:29.437000" end="0:23:30.165000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:23:29.437000	0:23:30.165000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:30.165000" end="0:23:33.693000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:30.165000" end="0:23:33.693000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:23:30.165000	0:23:33.693000
 verändert	-	-	-	0:23:30.165000	0:23:33.693000
 sich	-	-	-	0:23:30.165000	0:23:33.693000
@@ -5552,10 +5552,10 @@ relativ	-	-	-	0:23:30.165000	0:23:33.693000
 stark	-	-	-	0:23:30.165000	0:23:33.693000
 .	-	-	-	0:23:30.165000	0:23:33.693000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:33.693000" end="0:23:34.541000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:33.693000" end="0:23:34.541000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:23:33.693000	0:23:34.541000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:33.693000" end="0:23:47.173000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:33.693000" end="0:23:47.173000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:23:33.693000	0:23:34.541000
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:23:34.541000	0:23:37.685000
@@ -5586,11 +5586,11 @@ deutsche	deutsch	ADJ	-	0:23:41.269000	0:23:47.173000
 Begriffe	Begriff	NOUN	-	0:23:41.269000	0:23:47.173000
 oder	oder	CCONJ	-	0:23:41.269000	0:23:47.173000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:47.173000" end="0:23:48.005000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:47.173000" end="0:23:48.005000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:23:47.173000	0:23:47.701000
 mhm	mhm	PROPN	-	0:23:47.701000	0:23:48.005000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:47.701000" end="0:23:50.485000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:47.701000" end="0:23:50.485000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:23:47.701000	0:23:48.005000
 unbedingt	unbedingt	ADV	-	0:23:48.005000	0:23:50.485000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:23:48.005000	0:23:50.485000
@@ -5603,11 +5603,11 @@ mehr	mehr	ADV	-	0:23:48.005000	0:23:50.485000
 diese	dies	PRON	-	0:23:48.005000	0:23:50.485000
 ganz	ganz	ADV	-	0:23:48.005000	0:23:50.485000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:50.485000" end="0:23:52.125000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:50.485000" end="0:23:52.125000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 mhm	mhm	PROPN	-	0:23:50.485000	0:23:52.125000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:50.485000" end="0:23:53.973000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:50.485000" end="0:23:53.973000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	ähm	ADJ	-	0:23:50.485000	0:23:52.125000
 ja	ja	ADV	-	0:23:52.125000	0:23:53.973000
@@ -5621,27 +5621,27 @@ genannt	nennen	VERB	-	0:23:52.125000	0:23:53.973000
 haben	haben	AUX	-	0:23:52.125000	0:23:53.973000
 ,	-	-	-	0:23:52.125000	0:23:53.973000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:53.973000" end="0:23:54.549000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:53.973000" end="0:23:54.549000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:23:53.973000	0:23:54.549000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:53.973000" end="0:23:54.549000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:53.973000" end="0:23:54.549000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Begriffe	Begriff	NOUN	-	0:23:53.973000	0:23:54.549000
 .	-	-	-	0:23:53.973000	0:23:54.549000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:54.549000" end="0:23:55.469000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:54.549000" end="0:23:55.469000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:23:54.549000	0:23:55.469000
 mhm	mhm	PROPN	-	0:23:54.549000	0:23:55.469000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:54.549000" end="0:23:55.469000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:54.549000" end="0:23:55.469000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:23:54.549000	0:23:55.469000
 .	-	-	-	0:23:54.549000	0:23:55.469000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:23:55.469000" end="0:23:57.101000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:23:55.469000" end="0:23:57.101000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:23:55.469000	0:23:57.101000
 .	-	-	-	0:23:55.469000	0:23:57.101000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:23:55.469000" end="0:24:04.285000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:55.469000" end="0:24:04.285000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	ähm	X	-	0:23:55.469000	0:23:57.101000
 <pause duration="0,8s"/>
@@ -5667,10 +5667,10 @@ und	-	-	-	0:24:00.965000	0:24:04.285000
 "herüben"	-	-	-	0:24:00.965000	0:24:04.285000
 .	-	-	-	0:24:00.965000	0:24:04.285000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:04.285000" end="0:24:04.661000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:04.285000" end="0:24:04.661000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:04.285000	0:24:04.661000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:04.661000" end="0:24:07.205000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:04.661000" end="0:24:07.205000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 also	also	ADV	-	0:24:04.661000	0:24:07.205000
 drüben	drüben	ADV	-	0:24:04.661000	0:24:07.205000
@@ -5678,10 +5678,10 @@ und	und	CCONJ	-	0:24:04.661000	0:24:07.205000
 herüben	herüben	VERB	-	0:24:04.661000	0:24:07.205000
 .	-	-	-	0:24:04.661000	0:24:07.205000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:07.205000" end="0:24:07.749000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:07.205000" end="0:24:07.749000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:07.205000	0:24:07.749000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:07.205000" end="0:24:09.853000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:07.205000" end="0:24:09.853000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:24:07.205000	0:24:07.749000
 da	-	-	KONJ	0:24:07.749000	0:24:09.853000
 würde	-	-	KONJ	0:24:07.749000	0:24:09.853000
@@ -5693,26 +5693,26 @@ jeder	-	-	KONJ	0:24:07.749000	0:24:09.853000
 sagen	-	-	KONJ	0:24:07.749000	0:24:09.853000
 .	-	-	-	0:24:07.749000	0:24:09.853000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:09.853000" end="0:24:10.589000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:09.853000" end="0:24:10.589000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:09.853000	0:24:10.589000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:09.853000" end="0:24:11.637000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:09.853000" end="0:24:11.637000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:24:09.853000	0:24:10.589000
 die	der	DET	-	0:24:10.589000	0:24:11.637000
 jüngeren	jung	NOUN	-	0:24:10.589000	0:24:11.637000
 zumindest	zumindest	ADV	-	0:24:10.589000	0:24:11.637000
 .	-	-	-	0:24:10.589000	0:24:11.637000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:11.637000" end="0:24:13.157000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:11.637000" end="0:24:13.157000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:11.637000	0:24:12.861000
 mhm	mhm	PROPN	-	0:24:11.637000	0:24:12.861000
 und	und	CCONJ	-	0:24:12.861000	0:24:13.157000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:12.861000" end="0:24:13.157000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:12.861000" end="0:24:13.157000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:12.861000	0:24:13.157000
 .	-	-	-	0:24:12.861000	0:24:13.157000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:13.157000" end="0:24:15.093000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:13.157000" end="0:24:15.093000" persName="Informant EXP4" age_lower="" age_upper="999">
 würden	werden	AUX	-	0:24:13.157000	0:24:15.093000
 das	der	PRON	-	0:24:13.157000	0:24:15.093000
 ihre	mein	DET	-	0:24:13.157000	0:24:15.093000
@@ -5723,18 +5723,18 @@ die	der	PRON	-	0:24:13.157000	0:24:15.093000
 noch	noch	ADV	-	0:24:13.157000	0:24:15.093000
 die	der	PRON	-	0:24:13.157000	0:24:15.093000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:15.093000" end="0:24:15.597000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:15.093000" end="0:24:15.597000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:15.093000	0:24:15.597000
 ja	ja	ADV	-	0:24:15.093000	0:24:15.597000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:15.597000" end="0:24:15.973000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:15.597000" end="0:24:15.973000" persName="Informant EXP4" age_lower="" age_upper="999">
 die	der	DET	-	0:24:15.597000	0:24:15.973000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:15.597000" end="0:24:15.973000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:15.597000" end="0:24:15.973000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:24:15.597000	0:24:15.973000
 .	-	-	-	0:24:15.597000	0:24:15.973000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:15.973000" end="0:24:16.765000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:15.973000" end="0:24:16.765000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:24:15.973000	0:24:16.765000
 ,	-	-	-	0:24:15.973000	0:24:16.765000
 die	der	PRON	-	0:24:15.973000	0:24:16.765000
@@ -5742,7 +5742,7 @@ würden	werden	AUX	-	0:24:15.973000	0:24:16.765000
 noch	noch	ADV	-	0:24:15.973000	0:24:16.765000
 die	der	DET	-	0:24:15.973000	0:24:16.765000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:16.765000" end="0:24:18.981000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:16.765000" end="0:24:18.981000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:24:16.765000	0:24:18.981000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:24:16.765000	0:24:18.981000
 es	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:24:16.765000	0:24:18.981000
@@ -5756,7 +5756,7 @@ so	so	ADV	-	0:24:16.765000	0:24:18.981000
 sprechen	sprechen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:24:16.765000	0:24:18.981000
 .	-	-	-	0:24:16.765000	0:24:18.981000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:18.981000" end="0:24:20.669000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:18.981000" end="0:24:20.669000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PRON	-	0:24:18.981000	0:24:19.213000
 wirklich	wirklich	ADJ	-	0:24:19.213000	0:24:20.669000
 ?	-	-	-	0:24:19.213000	0:24:20.669000
@@ -5764,7 +5764,7 @@ aha	aha	X	-	0:24:19.213000	0:24:20.669000
 interessant	interessant	ADJ	-	0:24:19.213000	0:24:20.669000
 .	-	-	-	0:24:19.213000	0:24:20.669000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:19.213000" end="0:24:20.669000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:19.213000" end="0:24:20.669000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:24:19.213000	0:24:20.669000
 ja	ja	ADV	-	0:24:19.213000	0:24:20.669000
 doch	doch	ADV	-	0:24:19.213000	0:24:20.669000
@@ -5772,11 +5772,11 @@ das	der	PRON	-	0:24:19.213000	0:24:20.669000
 schon	schon	ADV	-	0:24:19.213000	0:24:20.669000
 .	-	-	-	0:24:19.213000	0:24:20.669000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:20.669000" end="0:24:21.197000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:20.669000" end="0:24:21.197000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:24:20.669000	0:24:21.197000
 .	-	-	-	0:24:20.669000	0:24:21.197000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:21.197000" end="0:24:28.621000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:21.197000" end="0:24:28.621000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:21.197000	0:24:24.525000
 mit	mit	ADP	-	0:24:21.197000	0:24:24.525000
 Freunden	Freund	NOUN	-	0:24:21.197000	0:24:24.525000
@@ -5793,10 +5793,10 @@ oder	oder	CCONJ	-	0:24:24.525000	0:24:28.621000
 so	so	ADV	-	0:24:24.525000	0:24:28.621000
 .	-	-	-	0:24:24.525000	0:24:28.621000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:28.621000" end="0:24:28.933000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:28.621000" end="0:24:28.933000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:28.621000	0:24:28.933000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:28.621000" end="0:24:31.317000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:28.621000" end="0:24:31.317000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:24:28.621000	0:24:28.933000
 es	ich	PRON	-	0:24:28.621000	0:24:28.933000
 ist	sein	AUX	-	0:24:28.621000	0:24:28.933000
@@ -5807,14 +5807,14 @@ im	im	ADP	-	0:24:28.933000	0:24:31.317000
 Sprachgebrauch	Sprachgebrauch	NOUN	-	0:24:28.933000	0:24:31.317000
 .	-	-	-	0:24:28.933000	0:24:31.317000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:31.317000" end="0:24:31.869000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:31.317000" end="0:24:31.869000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:31.317000	0:24:31.869000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:31.317000" end="0:24:31.869000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:31.317000" end="0:24:31.869000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:31.317000	0:24:31.869000
 .	-	-	-	0:24:31.317000	0:24:31.869000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:31.869000" end="0:24:37.997000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:31.869000" end="0:24:37.997000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:31.869000	0:24:33.477000
 ich	ich	PRON	-	0:24:31.869000	0:24:33.477000
 ich	ich	PRON	-	0:24:31.869000	0:24:33.477000
@@ -5836,7 +5836,7 @@ vom	vom	ADP	-	0:24:35.165000	0:24:37.997000
 [Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:24:35.165000	0:24:37.997000
 ?	-	-	-	0:24:35.165000	0:24:37.997000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:37.997000" end="0:24:46.765000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:37.997000" end="0:24:46.765000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ähm	ähm	X	-	0:24:37.997000	0:24:42.301000
 ja	ja	ADV	-	0:24:37.997000	0:24:42.301000
@@ -5860,10 +5860,10 @@ verloren	verlieren	VERB	-	0:24:42.301000	0:24:46.765000
 gehen	gehen	VERB	-	0:24:42.301000	0:24:46.765000
 .	-	-	-	0:24:42.301000	0:24:46.765000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:46.765000" end="0:24:47.461000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:46.765000" end="0:24:47.461000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:46.765000	0:24:47.461000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:47.461000" end="0:24:52.149000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:47.461000" end="0:24:52.149000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 einfach	einfach	ADV	-	0:24:47.461000	0:24:52.149000
 weil	weil	SCONJ	-	0:24:47.461000	0:24:52.149000
 halt	halt	ADV	-	0:24:47.461000	0:24:52.149000
@@ -5876,19 +5876,19 @@ Begriffe	Begriff	NOUN	-	0:24:47.461000	0:24:52.149000
 ersetzen	ersetzen	VERB	-	0:24:47.461000	0:24:52.149000
 .	-	-	-	0:24:47.461000	0:24:52.149000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:52.149000" end="0:24:52.957000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:52.149000" end="0:24:52.957000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:24:52.149000	0:24:52.957000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:52.957000" end="0:24:54.245000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:52.957000" end="0:24:54.245000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:24:52.957000	0:24:54.245000
 ja	ja	PART	-	0:24:52.957000	0:24:54.245000
 .	-	-	-	0:24:52.957000	0:24:54.245000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:24:54.245000" end="0:24:55.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:24:54.245000" end="0:24:55.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:24:54.245000	0:24:55.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:24:55.269000" end="0:25:00.069000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:55.269000" end="0:25:00.069000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:24:55.269000	0:24:58.645000
 <pause duration="1,6s"/>
 sieht	sehen	VERB	-	0:24:55.269000	0:24:58.645000
@@ -5904,14 +5904,14 @@ finde	finden	VERB	-	0:24:58.645000	0:25:00.069000
 ich	ich	PRON	-	0:24:58.645000	0:25:00.069000
 .	-	-	-	0:24:58.645000	0:25:00.069000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:00.069000" end="0:25:00.661000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:00.069000" end="0:25:00.661000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:25:00.069000	0:25:00.661000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:00.661000" end="0:25:00.933000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:00.661000" end="0:25:00.933000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:00.661000	0:25:00.933000
 .	-	-	-	0:25:00.661000	0:25:00.933000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:00.933000" end="0:25:06.261000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:00.933000" end="0:25:06.261000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:25:00.933000	0:25:03.525000
 ja	ja	ADV	-	0:25:00.933000	0:25:03.525000
 würden	werden	AUX	-	0:25:00.933000	0:25:03.525000
@@ -5934,7 +5934,7 @@ beschränkt	beschränken	VERB	-	0:25:04.693000	0:25:06.261000
 ist	sein	AUX	-	0:25:04.693000	0:25:06.261000
 ?	-	-	-	0:25:04.693000	0:25:06.261000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:06.261000" end="0:25:10.701000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:06.261000" end="0:25:10.701000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	X	-	0:25:06.261000	0:25:08.893000
 das	der	PRON	-	0:25:06.261000	0:25:08.893000
@@ -5950,10 +5950,10 @@ nicht	nicht	PART	-	0:25:08.893000	0:25:10.701000
 vorstellen	vorstellen	VERB	-	0:25:08.893000	0:25:10.701000
 .	-	-	-	0:25:08.893000	0:25:10.701000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:10.701000" end="0:25:11.021000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:10.701000" end="0:25:11.021000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:25:10.701000	0:25:11.021000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:10.701000" end="0:25:30.381000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:10.701000" end="0:25:30.381000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:25:10.701000	0:25:11.021000
 kenne	kennen	VERB	-	0:25:11.021000	0:25:13.061000
 mich	sich	PRON	-	0:25:11.021000	0:25:13.061000
@@ -6016,15 +6016,15 @@ stärker	stark	ADJ	-	0:25:26.269000	0:25:30.381000
 passiert	passieren	VERB	-	0:25:26.269000	0:25:30.381000
 .	-	-	-	0:25:26.269000	0:25:30.381000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:30.381000" end="0:25:31.141000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:30.381000" end="0:25:31.141000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:25:30.381000	0:25:31.141000
 und	und	CCONJ	-	0:25:30.381000	0:25:31.141000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:31.141000" end="0:25:31.349000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:31.141000" end="0:25:31.349000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:31.141000	0:25:31.349000
 .	-	-	-	0:25:31.141000	0:25:31.349000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:31.349000" end="0:25:34.181000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:31.349000" end="0:25:34.181000" persName="Informant EXP4" age_lower="" age_upper="999">
 warum	warum	ADV	-	0:25:31.349000	0:25:32.477000
 denken	denken	VERB	-	0:25:31.349000	0:25:32.477000
 sie	ich	PRON	-	0:25:31.349000	0:25:32.477000
@@ -6036,7 +6036,7 @@ das	der	PRON	-	0:25:32.477000	0:25:34.181000
 also/	-	-	-	0:25:32.477000	0:25:34.181000
 .	-	-	-	0:25:32.477000	0:25:34.181000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:34.181000" end="0:25:59.269000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:34.181000" end="0:25:59.269000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:25:34.181000	0:25:37.957000
 <pause duration="2,2s"/>
 das	der	PRON	-	0:25:34.181000	0:25:37.957000
@@ -6111,10 +6111,10 @@ zurückkommen	zurückkommen	VERB	-	0:25:56.981000	0:25:58.685000
 ich	ich	PRON	-	0:25:58.685000	0:25:59.269000
 jetzt)	jetzt	ADV	-	0:25:58.685000	0:25:59.269000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:25:59.269000" end="0:25:59.997000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:25:59.269000" end="0:25:59.997000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:25:59.269000	0:25:59.997000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:25:59.269000" end="0:26:02.424000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:59.269000" end="0:26:02.424000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:25:59.269000	0:25:59.997000
 ähm	ähm	DET	-	0:25:59.997000	0:26:02.424000
 vielleicht	vielleicht	ADV	-	0:25:59.997000	0:26:02.424000
@@ -6123,11 +6123,11 @@ wo	wo	ADV	-	0:25:59.997000	0:26:02.424000
 anders	anders	ADV	-	0:25:59.997000	0:26:02.424000
 machen	machen	VERB	-	0:25:59.997000	0:26:02.424000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:02.424000" end="0:26:03.285000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:02.424000" end="0:26:03.285000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:26:02.424000	0:26:03.285000
 mhm	mhm	PROPN	-	0:26:02.424000	0:26:03.285000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:03.285000" end="0:26:14.229000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:03.285000" end="0:26:14.229000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:26:03.285000	0:26:04.661000
 sind	sein	AUX	-	0:26:03.285000	0:26:04.661000
 halt	halt	ADV	-	0:26:03.285000	0:26:04.661000
@@ -6163,10 +6163,10 @@ dort	dort	ADV	-	0:26:05.237000	0:26:14.229000
 bleiben	bleiben	VERB	-	0:26:05.237000	0:26:14.229000
 ,	-	-	-	0:26:05.237000	0:26:14.229000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:14.229000" end="0:26:14.973000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:14.229000" end="0:26:14.973000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:26:14.229000	0:26:14.973000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:14.973000" end="0:26:23.277000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:14.973000" end="0:26:23.277000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 halt	halt	ADV	-	0:26:14.973000	0:26:16.301000
 ziemlich	ziemlich	ADV	-	0:26:14.973000	0:26:16.301000
 gering	gering	ADJ	-	0:26:14.973000	0:26:16.301000
@@ -6191,17 +6191,17 @@ den	der	DET	-	0:26:17.677000	0:26:23.277000
 von	von	ADP	-	0:26:17.677000	0:26:23.277000
 Begriffen	Begriff	NOUN	-	0:26:17.677000	0:26:23.277000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:23.277000" end="0:26:23.877000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:23.277000" end="0:26:23.877000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:26:23.277000	0:26:23.877000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:23.277000" end="0:26:23.877000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:23.277000" end="0:26:23.877000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 her	her	ADP	-	0:26:23.277000	0:26:23.877000
 .	-	-	-	0:26:23.277000	0:26:23.877000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:23.877000" end="0:26:24.469000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:23.877000" end="0:26:24.469000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:26:23.877000	0:26:24.469000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:24.469000" end="0:26:29.765000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:24.469000" end="0:26:29.765000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 genau	genau	ADJ	-	0:26:24.469000	0:26:29.765000
 und	und	CCONJ	-	0:26:24.469000	0:26:29.765000
@@ -6218,7 +6218,7 @@ und	und	CCONJ	-	0:26:24.469000	0:26:29.765000
 ja	ja	ADV	-	0:26:24.469000	0:26:29.765000
 .	-	-	-	0:26:24.469000	0:26:29.765000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:29.765000" end="0:26:33.149000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:29.765000" end="0:26:33.149000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:26:29.765000	0:26:31.901000
 breitet	breiten	VERB	-	0:26:29.765000	0:26:31.901000
@@ -6229,7 +6229,7 @@ sozusagen	sozusagen	ADV	-	0:26:31.901000	0:26:33.149000
 mhm	mhm	PROPN	-	0:26:31.901000	0:26:33.149000
 .	-	-	-	0:26:31.901000	0:26:33.149000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:31.901000" end="0:26:35.445000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:31.901000" end="0:26:35.445000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:26:31.901000	0:26:33.149000
 und	und	CCONJ	-	0:26:31.901000	0:26:33.149000
 natürlich	natürlich	ADV	-	0:26:31.901000	0:26:33.149000
@@ -6245,11 +6245,11 @@ sicher	sichern	ADV	-	0:26:34.405000	0:26:35.445000
 Medien	Medium	NOUN	-	0:26:34.405000	0:26:35.445000
 .	-	-	-	0:26:34.405000	0:26:35.445000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:35.445000" end="0:26:36.981000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:35.445000" end="0:26:36.981000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 mhm	mhm	PROPN	-	0:26:35.445000	0:26:36.981000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:35.445000" end="0:26:42.629000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:35.445000" end="0:26:42.629000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	ähm	X	-	0:26:35.445000	0:26:36.981000
 <pause duration="2,1s"/>
@@ -6266,20 +6266,20 @@ Medien	Medium	NOUN	-	0:26:36.981000	0:26:42.269000
 es	ich	PRON	-	0:26:42.269000	0:26:42.629000
 gibt	geben	VERB	-	0:26:42.269000	0:26:42.629000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:42.629000" end="0:26:43.493000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:42.629000" end="0:26:43.493000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	0:26:42.629000	0:26:43.493000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:42.629000" end="0:26:44.077000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:42.629000" end="0:26:44.077000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 Volkslieder	Volkslieder	NOUN	-	0:26:42.629000	0:26:43.493000
 schon	schon	ADV	-	0:26:43.493000	0:26:44.077000
 .	-	-	-	0:26:43.493000	0:26:44.077000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:44.077000" end="0:26:44.661000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:44.077000" end="0:26:44.661000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:26:44.077000	0:26:44.661000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:44.661000" end="0:26:48.725000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:44.661000" end="0:26:48.725000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:26:44.661000	0:26:48.725000
 es	ich	PRON	-	0:26:44.661000	0:26:48.725000
 gibt	geben	VERB	-	0:26:44.661000	0:26:48.725000
@@ -6291,10 +6291,10 @@ aus	aus	ADP	-	0:26:44.661000	0:26:48.725000
 ORT	ORT	PROPN	-	0:26:44.661000	0:26:48.725000
 .	-	-	-	0:26:44.661000	0:26:48.725000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:26:48.725000" end="0:26:49.821000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:26:48.725000" end="0:26:49.821000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:26:48.725000	0:26:49.821000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:26:49.821000" end="0:27:02.421000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:49.821000" end="0:27:02.421000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:26:49.821000	0:26:51.757000
 halt	halt	ADV	-	0:26:49.821000	0:26:51.757000
 Lieder	Lied	NOUN	-	0:26:49.821000	0:26:51.757000
@@ -6340,11 +6340,11 @@ unserem	mein	DET	-	0:26:59.965000	0:27:02.421000
 Dialekt	Dialekt	NOUN	-	0:26:59.965000	0:27:02.421000
 .	-	-	-	0:26:59.965000	0:27:02.421000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:02.421000" end="0:27:03.391000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:02.421000" end="0:27:03.391000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:27:02.421000	0:27:03.391000
 mhm	mhm	PROPN	-	0:27:02.421000	0:27:03.391000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:03.391000" end="0:27:07.204000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:03.391000" end="0:27:07.204000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:27:03.391000	0:27:07.204000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:27:03.391000	0:27:07.204000
@@ -6355,10 +6355,10 @@ eh	eh	ADV	-	0:27:03.391000	0:27:07.204000
 klar	klaren	ADJ	-	0:27:03.391000	0:27:07.204000
 ,	-	-	-	0:27:03.391000	0:27:07.204000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:07.204000" end="0:27:07.918000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:07.204000" end="0:27:07.918000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:27:07.204000	0:27:07.918000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:07.204000" end="0:27:08.751000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:07.204000" end="0:27:08.751000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:27:07.204000	0:27:07.918000
 es	ich	PRON	-	0:27:07.204000	0:27:07.918000
 die	der	PRON	-	0:27:07.204000	0:27:07.918000
@@ -6367,27 +6367,27 @@ wirklich	wirklich	ADJ	-	0:27:07.918000	0:27:08.751000
 gibt	geben	VERB	-	0:27:07.918000	0:27:08.751000
 .	-	-	-	0:27:07.918000	0:27:08.751000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:08.751000" end="0:27:09.091000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:08.751000" end="0:27:09.091000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:27:08.751000	0:27:09.091000
 .	-	-	-	0:27:08.751000	0:27:09.091000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:09.091000" end="0:27:09.438000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:09.091000" end="0:27:09.438000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:09.091000	0:27:09.438000
 .	-	-	-	0:27:09.091000	0:27:09.438000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:09.438000" end="0:27:11.624000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:09.438000" end="0:27:11.624000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:27:09.438000	0:27:10.971000
 sehr	sehr	ADV	-	0:27:09.438000	0:27:10.971000
 wenig	wenig	ADV	-	0:27:09.438000	0:27:10.971000
 wahrschein/	-	-	-	0:27:10.971000	0:27:11.624000
 ja	ja	ADV	-	0:27:10.971000	0:27:11.624000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:10.971000" end="0:27:11.624000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:10.971000" end="0:27:11.624000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:10.971000	0:27:11.624000
 genau	genau	ADJ	-	0:27:10.971000	0:27:11.624000
 .	-	-	-	0:27:10.971000	0:27:11.624000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:11.624000" end="0:27:23.311000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:11.624000" end="0:27:23.311000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:27:11.624000	0:27:13.831000
 .	-	-	-	0:27:11.624000	0:27:13.831000
 <pause duration="0,8s"/>
@@ -6421,10 +6421,10 @@ im	im	ADP	-	0:27:19.518000	0:27:23.311000
 Fernsehen	Fernsehen	NOUN	-	0:27:19.518000	0:27:23.311000
 ,	-	-	-	0:27:19.518000	0:27:23.311000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:23.311000" end="0:27:23.764000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:23.311000" end="0:27:23.764000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	-	-	-	0:27:23.311000	0:27:23.764000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:23.764000" end="0:27:26.011000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:23.764000" end="0:27:26.011000" persName="Informant EXP4" age_lower="" age_upper="999">
 wie	wie	ADV	-	0:27:23.764000	0:27:24.811000
 würden	werden	AUX	-	0:27:23.764000	0:27:24.811000
 sie	ich	PRON	-	0:27:23.764000	0:27:24.811000
@@ -6436,7 +6436,7 @@ diese	dies	PRON	-	0:27:24.811000	0:27:26.011000
 sprechen	sprechen	VERB	-	0:27:24.811000	0:27:26.011000
 ?	-	-	-	0:27:24.811000	0:27:26.011000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:26.011000" end="0:27:30.657000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:26.011000" end="0:27:30.657000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	-	-	-	0:27:26.011000	0:27:29.564000
 <pause duration="1,5s"/>
@@ -6447,18 +6447,18 @@ nicht	-	-	-	0:27:26.011000	0:27:29.564000
 Deutsch	Deutsch	NOUN	-	0:27:29.564000	0:27:30.657000
 ?	-	-	-	0:27:29.564000	0:27:30.657000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:30.657000" end="0:27:31.337000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:30.657000" end="0:27:31.337000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:27:30.657000	0:27:31.337000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:31.337000" end="0:27:31.584000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.337000" end="0:27:31.584000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:31.337000	0:27:31.584000
 .	-	-	-	0:27:31.337000	0:27:31.584000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:31.584000" end="0:27:31.897000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:31.584000" end="0:27:31.897000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:27:31.584000	0:27:31.897000
 .	-	-	-	0:27:31.584000	0:27:31.897000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:31.584000" end="0:27:34.904000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.584000" end="0:27:34.904000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:27:31.584000	0:27:31.897000
 österreichisches	österreichisch	ADJ	-	0:27:31.897000	0:27:34.904000
 Hochdeutsch	Hochdeutsch	NOUN	-	0:27:31.897000	0:27:34.904000
@@ -6473,17 +6473,17 @@ nicht	nicht	PART	-	0:27:31.897000	0:27:34.904000
 Deutsch	Deutsch	NOUN	-	0:27:31.897000	0:27:34.904000
 .	-	-	-	0:27:31.897000	0:27:34.904000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:34.904000" end="0:27:35.777000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:34.904000" end="0:27:35.777000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:27:34.904000	0:27:35.457000
 .	-	-	-	0:27:34.904000	0:27:35.457000
 ja	ja	PART	-	0:27:35.457000	0:27:35.777000
 .	-	-	-	0:27:35.457000	0:27:35.777000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:35.457000" end="0:27:35.777000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:35.457000" end="0:27:35.777000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:35.457000	0:27:35.777000
 .	-	-	-	0:27:35.457000	0:27:35.777000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:35.777000" end="0:27:39.731000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:35.777000" end="0:27:39.731000" persName="Informant EXP4" age_lower="" age_upper="999">
 na	na	INTJ	-	0:27:35.777000	0:27:39.731000
 also	also	ADV	-	0:27:35.777000	0:27:39.731000
 das	der	PRON	-	0:27:35.777000	0:27:39.731000
@@ -6501,11 +6501,11 @@ kein	kein	DET	-	0:27:35.777000	0:27:39.731000
 richtig	richtig	ADJ	-	0:27:35.777000	0:27:39.731000
 oder	oder	CCONJ	-	0:27:35.777000	0:27:39.731000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:39.731000" end="0:27:40.044000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:39.731000" end="0:27:40.044000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:39.731000	0:27:40.044000
 .	-	-	-	0:27:39.731000	0:27:40.044000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:40.044000" end="0:27:44.217000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:40.044000" end="0:27:44.217000" persName="Informant EXP4" age_lower="" age_upper="999">
 irgend	irgend	ADV	-	0:27:40.044000	0:27:41.257000
 ähm	ähm	ADJ	-	0:27:40.044000	0:27:41.257000
 falsch	falsch	ADJ	-	0:27:40.044000	0:27:41.257000
@@ -6524,19 +6524,19 @@ wir	ich	PRON	-	0:27:42.077000	0:27:42.477000
 so	so	ADV	-	0:27:42.077000	0:27:42.477000
 .	-	-	-	0:27:42.077000	0:27:42.477000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:42.477000" end="0:27:44.217000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:42.477000" end="0:27:44.217000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:44.217000" end="0:27:45.624000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:44.217000" end="0:27:45.624000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:27:44.217000	0:27:45.624000
 österreichisches	österreichisch	ADJ	-	0:27:44.217000	0:27:45.624000
 Deu/	-	-	-	0:27:44.217000	0:27:45.624000
 Deutsch	Deutsch	NOUN	-	0:27:44.217000	0:27:45.624000
 ?	-	-	-	0:27:44.217000	0:27:45.624000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:45.624000" end="0:27:45.984000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:45.624000" end="0:27:45.984000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:27:45.624000	0:27:45.984000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:45.984000" end="0:27:50.624000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:45.984000" end="0:27:50.624000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:27:45.984000	0:27:49.611000
 und	und	CCONJ	-	0:27:45.984000	0:27:49.611000
 ähm	ähm	ADJ	-	0:27:45.984000	0:27:49.611000
@@ -6554,7 +6554,7 @@ so	so	ADV	-	0:27:49.611000	0:27:50.624000
 spricht	sprechen	VERB	-	0:27:49.611000	0:27:50.624000
 ?	-	-	-	0:27:49.611000	0:27:50.624000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:50.624000" end="0:27:54.784000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:50.624000" end="0:27:54.784000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 wer	wer	PRON	-	0:27:50.624000	0:27:54.784000
 wer	wer	PRON	-	0:27:50.624000	0:27:54.784000
@@ -6563,12 +6563,12 @@ Deutsch	Deutsch	NOUN	-	0:27:50.624000	0:27:54.784000
 spricht	sprechen	VERB	-	0:27:50.624000	0:27:54.784000
 ?	-	-	-	0:27:50.624000	0:27:54.784000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:27:54.784000" end="0:27:55.637000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:27:54.784000" end="0:27:55.637000" persName="Informant EXP4" age_lower="" age_upper="999">
 genau	genau	ADJ	-	0:27:54.784000	0:27:55.637000
 ja	ja	PART	-	0:27:54.784000	0:27:55.637000
 .	-	-	-	0:27:54.784000	0:27:55.637000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:27:55.637000" end="0:28:13.984000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:55.637000" end="0:28:13.984000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:27:55.637000	0:28:01.797000
 <pause duration="2,2s"/>
 nicht	nicht	PART	-	0:27:55.637000	0:28:01.797000
@@ -6615,10 +6615,10 @@ trotzdem	trotzdem	ADV	-	0:28:11.777000	0:28:13.984000
 ist	sein	AUX	-	0:28:11.777000	0:28:13.984000
 .	-	-	-	0:28:11.777000	0:28:13.984000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:28:13.984000" end="0:28:14.617000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:28:13.984000" end="0:28:14.617000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:28:13.984000	0:28:14.617000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:28:14.617000" end="0:28:18.504000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:14.617000" end="0:28:18.504000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:28:14.617000	0:28:15.964000
 ich	ich	PRON	-	0:28:14.617000	0:28:15.964000
 glaube	glauben	VERB	-	0:28:14.617000	0:28:15.964000
@@ -6634,16 +6634,16 @@ so	so	ADV	-	0:28:15.964000	0:28:18.504000
 redet	reden	VERB	-	0:28:15.964000	0:28:18.504000
 .	-	-	-	0:28:15.964000	0:28:18.504000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:28:18.504000" end="0:28:19.277000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:28:18.504000" end="0:28:19.277000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:28:18.504000	0:28:19.277000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:28:18.504000" end="0:28:19.731000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:18.504000" end="0:28:19.731000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	0:28:18.504000	0:28:19.277000
 eher	eher	ADV	-	0:28:19.277000	0:28:19.731000
 nicht	nicht	PART	-	0:28:19.277000	0:28:19.731000
 .	-	-	-	0:28:19.277000	0:28:19.731000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:28:19.731000" end="0:28:23.637000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:28:19.731000" end="0:28:23.637000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:28:19.731000	0:28:23.637000
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:28:19.731000	0:28:23.637000
@@ -6657,7 +6657,7 @@ Wiener	Wiener	NOUN	-	0:28:19.731000	0:28:23.637000
 oder	oder	CCONJ	-	0:28:19.731000	0:28:23.637000
 ?	-	-	-	0:28:19.731000	0:28:23.637000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:28:23.637000" end="0:28:58.971000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.637000" end="0:28:58.971000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 *weiß*	-	-	-	0:28:23.637000	0:28:24.271000
 nicht	-	-	-	0:28:23.637000	0:28:24.271000
 .	-	-	-	0:28:23.637000	0:28:24.271000
@@ -6758,10 +6758,10 @@ schöner	schön	ADJ	-	0:28:50.177000	0:28:58.971000
 österreichisches	österreichisch	ADJ	-	0:28:50.177000	0:28:58.971000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:28:58.971000" end="0:28:59.437000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:28:58.971000" end="0:28:59.437000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:28:58.971000	0:28:59.437000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:28:58.971000" end="0:29:02.117000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:58.971000" end="0:29:02.117000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Deutsch	Deutsch	NOUN	-	0:28:58.971000	0:28:59.437000
 oder	oder	CCONJ	-	0:28:59.437000	0:29:01.164000
 in	in	ADP	-	0:28:59.437000	0:29:01.164000
@@ -6773,13 +6773,13 @@ reden	reden	VERB	-	0:28:59.437000	0:29:01.164000
 genau	genau	ADJ	-	0:29:01.164000	0:29:02.117000
 .	-	-	-	0:29:01.164000	0:29:02.117000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:02.117000" end="0:29:03.784000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:02.117000" end="0:29:03.784000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:29:02.117000	0:29:03.784000
 mhm	mhm	PROPN	-	0:29:02.117000	0:29:03.784000
 ja	ja	ADV	-	0:29:02.117000	0:29:03.784000
 .	-	-	-	0:29:02.117000	0:29:03.784000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:03.784000" end="0:29:04.864000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:03.784000" end="0:29:04.864000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:29:03.784000	0:29:04.864000
 habe	habe	AUX	-	0:29:03.784000	0:29:04.864000
 jetzt	jetzt	ADV	-	0:29:03.784000	0:29:04.864000
@@ -6787,24 +6787,24 @@ nur	nur	ADV	-	0:29:03.784000	0:29:04.864000
 eine	einen	DET	-	0:29:03.784000	0:29:04.864000
 Einschätzung	Einschätzung	NOUN	-	0:29:03.784000	0:29:04.864000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:04.864000" end="0:29:05.344000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:04.864000" end="0:29:05.344000" persName="Informant EXP4" age_lower="" age_upper="999">
 ab/	-	-	-	0:29:04.864000	0:29:05.344000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:04.864000" end="0:29:05.344000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:04.864000" end="0:29:05.344000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:29:04.864000	0:29:05.344000
 ich	ich	PRON	-	0:29:04.864000	0:29:05.344000
 nicht	nicht	PART	-	0:29:04.864000	0:29:05.344000
 ,	-	-	-	0:29:04.864000	0:29:05.344000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:05.344000" end="0:29:05.831000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:05.344000" end="0:29:05.831000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	X	-	0:29:05.344000	0:29:05.831000
 also	also	ADV	-	0:29:05.344000	0:29:05.831000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:05.344000" end="0:29:05.831000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:05.344000" end="0:29:05.831000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ob	ob	SCONJ	-	0:29:05.344000	0:29:05.831000
 das	der	PRON	-	0:29:05.344000	0:29:05.831000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:05.831000" end="0:29:07.671000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:05.831000" end="0:29:07.671000" persName="Informant EXP4" age_lower="" age_upper="999">
 deshalb	deshalb	ADV	-	0:29:05.831000	0:29:06.811000
 bin	sein	AUX	-	0:29:05.831000	0:29:06.811000
 ich	ich	PRON	-	0:29:05.831000	0:29:06.811000
@@ -6812,11 +6812,11 @@ da	da	ADV	-	0:29:05.831000	0:29:06.811000
 also	also	ADV	-	0:29:06.811000	0:29:07.671000
 ich	ich	PRON	-	0:29:06.811000	0:29:07.671000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:06.811000" end="0:29:07.671000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:06.811000" end="0:29:07.671000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:06.811000	0:29:07.671000
 .	-	-	-	0:29:06.811000	0:29:07.671000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:07.671000" end="0:29:12.197000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:07.671000" end="0:29:12.197000" persName="Informant EXP4" age_lower="" age_upper="999">
 das	der	PRON	-	0:29:07.671000	0:29:11.337000
 ist	sein	AUX	-	0:29:07.671000	0:29:11.337000
 eh	eh	ADV	-	0:29:07.671000	0:29:11.337000
@@ -6833,11 +6833,11 @@ die	der	DET	-	0:29:07.671000	0:29:11.337000
 persönliche	persönlich	ADJ	-	0:29:07.671000	0:29:11.337000
 Perspektive	Perspektive	NOUN	-	0:29:11.337000	0:29:12.197000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:11.337000" end="0:29:12.197000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:11.337000" end="0:29:12.197000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:11.337000	0:29:12.197000
 .	-	-	-	0:29:11.337000	0:29:12.197000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:12.197000" end="0:29:20.584000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:12.197000" end="0:29:20.584000" persName="Informant EXP4" age_lower="" age_upper="999">
 auf	auf	ADP	-	0:29:12.197000	0:29:13.051000
 die	der	DET	-	0:29:12.197000	0:29:13.051000
 Sache	Sache	NOUN	-	0:29:12.197000	0:29:13.051000
@@ -6864,20 +6864,20 @@ für	für	ADP	-	0:29:13.051000	0:29:20.584000
 passend	passen	ADJ	-	0:29:13.051000	0:29:20.584000
 ?	-	-	-	0:29:13.051000	0:29:20.584000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:20.584000" end="0:29:21.864000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:20.584000" end="0:29:21.864000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:29:20.584000	0:29:21.864000
 schon	schon	ADV	-	0:29:20.584000	0:29:21.864000
 .	-	-	-	0:29:20.584000	0:29:21.864000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:21.864000" end="0:29:23.137000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:21.864000" end="0:29:23.137000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:29:21.864000	0:29:23.137000
 ?	-	-	-	0:29:21.864000	0:29:23.137000
 wa/	-	-	-	0:29:21.864000	0:29:23.137000
 warum	warum	ADV	-	0:29:21.864000	0:29:23.137000
 ?	-	-	-	0:29:21.864000	0:29:23.137000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:23.137000" end="0:29:58.937000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:23.137000" end="0:29:58.937000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:29:23.137000	0:29:30.257000
 <pause duration="2,3s"/>
@@ -6979,10 +6979,10 @@ sehr	sehr	ADV	-	0:29:55.804000	0:29:58.937000
 wohl	wohl	ADV	-	0:29:55.804000	0:29:58.937000
 .	-	-	-	0:29:55.804000	0:29:58.937000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:29:58.937000" end="0:29:59.544000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:29:58.937000" end="0:29:59.544000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:29:58.937000	0:29:59.544000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:29:59.544000" end="0:30:11.491000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:59.544000" end="0:30:11.491000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:29:59.544000	0:30:06.044000
 <pause duration="2,0s"/>
 aber	aber	ADV	-	0:29:59.544000	0:30:06.044000
@@ -7025,10 +7025,10 @@ sehr	sehr	ADV	-	0:30:08.691000	0:30:11.491000
 seriös	seriös	ADJ	-	0:30:08.691000	0:30:11.491000
 .	-	-	-	0:30:08.691000	0:30:11.491000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:30:11.491000" end="0:30:12.277000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:30:11.491000" end="0:30:12.277000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:30:11.491000	0:30:12.277000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:30:12.277000" end="0:30:33.691000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:12.277000" end="0:30:33.691000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 gleichzeitig	gleichzeitig	ADJ	-	0:30:12.277000	0:30:20.917000
 ist	sein	AUX	-	0:30:12.277000	0:30:20.917000
@@ -7100,14 +7100,14 @@ so	so	ADV	-	0:30:32.931000	0:30:33.691000
 ist	sein	AUX	-	0:30:32.931000	0:30:33.691000
 .	-	-	-	0:30:32.931000	0:30:33.691000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:30:33.691000" end="0:30:34.177000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:30:33.691000" end="0:30:34.177000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:30:33.691000	0:30:34.177000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:30:33.691000" end="0:30:34.177000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:33.691000" end="0:30:34.177000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:33.691000	0:30:34.177000
 .	-	-	-	0:30:33.691000	0:30:34.177000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:30:34.177000" end="0:30:46.551000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:30:34.177000" end="0:30:46.551000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:30:34.177000	0:30:39.564000
 <pause duration="0,7s"/>
 ähm	ähm	PROPN	-	0:30:34.177000	0:30:39.564000
@@ -7141,7 +7141,7 @@ Nachrichtensendungen	Nachrichtensendungen	NOUN	-	0:30:41.364000	0:30:45.704000
 ja	ja	PART	-	0:30:45.704000	0:30:46.551000
 .	-	-	-	0:30:45.704000	0:30:46.551000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:30:46.551000" end="0:31:05.184000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:46.551000" end="0:31:05.184000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:30:46.551000	0:30:47.757000
 na	na	X	-	0:30:46.551000	0:30:47.757000
 ich	ich	PRON	-	0:30:46.551000	0:30:47.757000
@@ -7201,14 +7201,14 @@ angemessene	angemessen	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:31:
 Form	Form	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe-	0:31:02.151000	0:31:05.184000
 .	-	-	-	0:31:02.151000	0:31:05.184000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:05.184000" end="0:31:05.911000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:05.184000" end="0:31:05.911000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:05.184000	0:31:05.911000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:05.911000" end="0:31:06.357000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:05.911000" end="0:31:06.357000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:05.911000	0:31:06.357000
 .	-	-	-	0:31:05.911000	0:31:06.357000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:06.357000" end="0:31:11.037000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:06.357000" end="0:31:11.037000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:06.357000	0:31:11.037000
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:31:06.357000	0:31:11.037000
@@ -7222,7 +7222,7 @@ das	der	DET	-	0:31:06.357000	0:31:11.037000
 Deutsch	Deutsch	NOUN	-	0:31:06.357000	0:31:11.037000
 ?	-	-	-	0:31:06.357000	0:31:11.037000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:11.037000" end="0:31:24.437000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:11.037000" end="0:31:24.437000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	ähm	PROPN	-	0:31:11.037000	0:31:14.244000
 weiß	weiß	VERB	-	0:31:11.037000	0:31:14.244000
@@ -7258,10 +7258,10 @@ Freunden	Freund	NOUN	-	0:31:18.624000	0:31:24.437000
 in	in	ADP	-	0:31:18.624000	0:31:24.437000
 Wien	Wien	PROPN	-	0:31:18.624000	0:31:24.437000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:24.437000" end="0:31:25.124000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:24.437000" end="0:31:25.124000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:24.437000	0:31:25.124000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:25.124000" end="0:31:33.177000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:25.124000" end="0:31:33.177000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:31:25.124000	0:31:32.151000
 <pause duration="1,0s"/>
 also	also	ADV	-	0:31:25.124000	0:31:32.151000
@@ -7285,11 +7285,11 @@ zum	zum	ADP	-	0:31:32.151000	0:31:33.177000
 Beispiel	Beispiel	NOUN	-	0:31:32.151000	0:31:33.177000
 .	-	-	-	0:31:32.151000	0:31:33.177000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:33.177000" end="0:31:34.397000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:33.177000" end="0:31:34.397000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:33.177000	0:31:33.797000
 mhm	mhm	PROPN	-	0:31:33.797000	0:31:34.397000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:33.797000" end="0:31:41.691000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:33.797000" end="0:31:41.691000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:31:33.797000	0:31:34.397000
 genau	genau	ADJ	-	0:31:34.397000	0:31:34.837000
 .	-	-	-	0:31:34.397000	0:31:34.837000
@@ -7317,14 +7317,14 @@ es	ich	PRON	-	0:31:40.957000	0:31:41.691000
 beherrsche	beherrschen	VERB	-	0:31:40.957000	0:31:41.691000
 .	-	-	-	0:31:40.957000	0:31:41.691000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:41.691000" end="0:31:42.304000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:41.691000" end="0:31:42.304000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:31:41.691000	0:31:42.304000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:42.304000" end="0:31:42.617000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:42.304000" end="0:31:42.617000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:42.304000	0:31:42.617000
 .	-	-	-	0:31:42.304000	0:31:42.617000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:42.617000" end="0:31:44.731000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:42.617000" end="0:31:44.731000" persName="Informant EXP4" age_lower="" age_upper="999">
 vielleicht	vielleicht	ADV	-	0:31:42.617000	0:31:43.757000
 hilft	helfen	VERB	-	0:31:42.617000	0:31:43.757000
 da	da	ADV	-	0:31:42.617000	0:31:43.757000
@@ -7333,23 +7333,23 @@ eine	einen	DET	-	0:31:42.617000	0:31:43.757000
 Skala	Skala	NOUN	-	0:31:43.757000	0:31:44.731000
 .	-	-	-	0:31:43.757000	0:31:44.731000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:43.757000" end="0:31:45.137000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:43.757000" end="0:31:45.137000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:43.757000	0:31:44.731000
 .	-	-	-	0:31:43.757000	0:31:44.731000
 okay	okay	NOUN	-	0:31:44.731000	0:31:45.137000
 .	-	-	-	0:31:44.731000	0:31:45.137000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:45.137000" end="0:31:45.744000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:45.137000" end="0:31:45.744000" persName="Informant EXP4" age_lower="" age_upper="999">
 zwischen	zwischen	ADP	-	0:31:45.137000	0:31:45.744000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:45.137000" end="0:31:46.324000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:45.137000" end="0:31:46.324000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 versuchen	versuchen	VERB	-	0:31:45.137000	0:31:45.744000
 wir	ich	PRON	-	0:31:45.744000	0:31:46.324000
 es	ich	PRON	-	0:31:45.744000	0:31:46.324000
 so	so	ADV	-	0:31:45.744000	0:31:46.324000
 .	-	-	-	0:31:45.744000	0:31:46.324000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:46.324000" end="0:31:48.697000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:46.324000" end="0:31:48.697000" persName="Informant EXP4" age_lower="" age_upper="999">
 zwischen	zwischen	ADP	-	0:31:46.324000	0:31:48.697000
 gar	gar	ADV	-	0:31:46.324000	0:31:48.697000
 nicht	nicht	PART	-	0:31:46.324000	0:31:48.697000
@@ -7357,7 +7357,7 @@ und	und	CCONJ	-	0:31:46.324000	0:31:48.697000
 vollständig	vollständig	ADJ	-	0:31:46.324000	0:31:48.697000
 .	-	-	-	0:31:46.324000	0:31:48.697000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:48.697000" end="0:31:53.744000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:48.697000" end="0:31:53.744000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	ähm	X	-	0:31:48.697000	0:31:53.744000
 ja	ja	ADV	-	0:31:48.697000	0:31:53.744000
@@ -7367,25 +7367,25 @@ sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV st
 so	so	ADV	-	0:31:48.697000	0:31:53.744000
 .	-	-	-	0:31:48.697000	0:31:53.744000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:53.744000" end="0:31:55.557000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:53.744000" end="0:31:55.557000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:31:53.744000	0:31:54.771000
 fast	fast	ADV	-	0:31:53.744000	0:31:54.771000
 vollständig	vollständig	ADJ	-	0:31:54.771000	0:31:55.557000
 .	-	-	-	0:31:54.771000	0:31:55.557000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:54.771000" end="0:31:55.557000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:54.771000" end="0:31:55.557000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:31:54.771000	0:31:55.557000
 .	-	-	-	0:31:54.771000	0:31:55.557000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:55.557000" end="0:31:56.077000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:55.557000" end="0:31:56.077000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:31:55.557000	0:31:56.077000
 .	-	-	-	0:31:55.557000	0:31:56.077000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:31:55.557000" end="0:31:56.077000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:55.557000" end="0:31:56.077000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:31:55.557000	0:31:56.077000
 .	-	-	-	0:31:55.557000	0:31:56.077000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:31:56.077000" end="0:32:05.170000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:31:56.077000" end="0:32:05.170000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:31:56.077000	0:32:05.170000
 ähm	ähm	PROPN	-	0:31:56.077000	0:32:05.170000
@@ -7408,7 +7408,7 @@ Nachrichtensprechers	Nachrichtensprechers	NOUN	-	0:31:56.077000	0:32:05.170000
 beispielsweise	beispielsweise	ADV	-	0:31:56.077000	0:32:05.170000
 ?	-	-	-	0:31:56.077000	0:32:05.170000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:05.170000" end="0:32:18.290000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:05.170000" end="0:32:18.290000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	ähm	X	-	0:32:05.170000	0:32:09.564000
 ja	ja	ADV	-	0:32:05.170000	0:32:09.564000
@@ -7441,10 +7441,10 @@ Dialekt	Dialekt	NOUN	-	0:32:15.797000	0:32:18.290000
 kommen	kommen	VERB	-	0:32:15.797000	0:32:18.290000
 .	-	-	-	0:32:15.797000	0:32:18.290000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:32:18.290000" end="0:32:18.724000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:32:18.290000" end="0:32:18.724000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:32:18.290000	0:32:18.724000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:18.724000" end="0:32:20.317000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:18.724000" end="0:32:20.317000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:32:18.724000	0:32:19.124000
 ich	ich	PRON	-	0:32:18.724000	0:32:19.124000
 nicht	nicht	PART	-	0:32:18.724000	0:32:19.124000
@@ -7455,10 +7455,10 @@ wie	-	-	-	0:32:19.124000	0:32:20.317000
 oder/	-	-	-	0:32:19.124000	0:32:20.317000
 .	-	-	-	0:32:19.124000	0:32:20.317000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:32:20.317000" end="0:32:20.730000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:32:20.317000" end="0:32:20.730000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:32:20.317000	0:32:20.730000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:20.730000" end="0:32:24.150000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:20.730000" end="0:32:24.150000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:32:20.730000	0:32:24.150000
 das	der	PRON	-	0:32:20.730000	0:32:24.150000
 <pause duration="1,3s"/>
@@ -7468,14 +7468,14 @@ natürlich	natürlich	ADV	-	0:32:20.730000	0:32:24.150000
 schon	schon	ADV	-	0:32:20.730000	0:32:24.150000
 .	-	-	-	0:32:20.730000	0:32:24.150000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:32:24.150000" end="0:32:24.930000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:32:24.150000" end="0:32:24.930000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:32:24.150000	0:32:24.930000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:24.930000" end="0:32:25.530000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:24.930000" end="0:32:25.530000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:32:24.930000	0:32:25.530000
 .	-	-	-	0:32:24.930000	0:32:25.530000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:32:25.530000" end="0:32:33.830000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:32:25.530000" end="0:32:33.830000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ähm	ähm	PROPN	-	0:32:25.530000	0:32:27.624000
 würden	werden	AUX	-	0:32:25.530000	0:32:27.624000
@@ -7502,7 +7502,7 @@ das	der	DET	-	0:32:28.597000	0:32:33.830000
 Deutsch	Deutsch	NOUN	-	0:32:28.597000	0:32:33.830000
 ?	-	-	-	0:32:28.597000	0:32:33.830000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:33.830000" end="0:32:40.817000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:33.830000" end="0:32:40.817000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 ähm	ähm	X	-	0:32:33.830000	0:32:40.817000
 <pause duration="1,1s"/>
@@ -7513,10 +7513,10 @@ gesprochenen	gesprochen	ADJ	-	0:32:33.830000	0:32:40.817000
 Deutsch	Deutsch	NOUN	-	0:32:33.830000	0:32:40.817000
 ?	-	-	-	0:32:33.830000	0:32:40.817000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:32:40.817000" end="0:32:41.677000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:32:40.817000" end="0:32:41.677000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:32:40.817000	0:32:41.677000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:32:40.817000" end="0:33:04.204000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:40.817000" end="0:33:04.204000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:32:40.817000	0:32:41.677000
 <pause duration="0,5s"/>
 ähm	ähm	PROPN	-	0:32:41.677000	0:32:44.477000
@@ -7596,15 +7596,15 @@ zu	zu	PART	-	0:33:01.924000	0:33:04.204000
 wollen	wollen	VERB	-	0:33:01.924000	0:33:04.204000
 .	-	-	-	0:33:01.924000	0:33:04.204000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:04.204000" end="0:33:05.337000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:04.204000" end="0:33:05.337000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:33:04.204000	0:33:04.837000
 mhm	mhm	PROPN	-	0:33:04.837000	0:33:05.337000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:04.837000" end="0:33:05.337000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:04.837000" end="0:33:05.337000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:04.837000	0:33:05.337000
 .	-	-	-	0:33:04.837000	0:33:05.337000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:05.337000" end="0:33:10.377000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:05.337000" end="0:33:10.377000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 wü/	-	-	-	0:33:05.337000	0:33:07.404000
 könnten	können	VERB	-	0:33:05.337000	0:33:07.404000
@@ -7621,7 +7621,7 @@ oder/	-	-	-	0:33:07.404000	0:33:09.197000
 oder/	-	-	-	0:33:09.197000	0:33:10.377000
 ?	-	-	-	0:33:09.197000	0:33:10.377000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:10.377000" end="0:33:23.090000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:10.377000" end="0:33:23.090000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 man	man	PRON	-	0:33:10.377000	0:33:12.137000
 behauptet	behaupten	VERB	-	0:33:10.377000	0:33:12.137000
 ja	ja	ADV	-	0:33:10.377000	0:33:12.137000
@@ -7674,7 +7674,7 @@ das	der	PRON	-	0:33:22.017000	0:33:23.090000
 jetzt/	-	-	-	0:33:22.017000	0:33:23.090000
 .	-	-	-	0:33:22.017000	0:33:23.090000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:23.090000" end="0:33:29.437000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:23.090000" end="0:33:29.437000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:33:23.090000	0:33:29.437000
 und	und	CCONJ	-	0:33:23.090000	0:33:29.437000
 und	und	CCONJ	-	0:33:23.090000	0:33:29.437000
@@ -7689,7 +7689,7 @@ Sprachform	Sprachform	NOUN	-	0:33:23.090000	0:33:29.437000
 bezeichnen	bezeichnen	VERB	-	0:33:23.090000	0:33:29.437000
 ?	-	-	-	0:33:23.090000	0:33:29.437000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:29.437000" end="0:33:31.857000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:29.437000" end="0:33:31.857000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:33:29.437000	0:33:31.857000
 das	der	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:33:29.437000	0:33:31.857000
@@ -7699,27 +7699,27 @@ wahrscheinlich	wahrscheinlich	ADJ	HöflK KForm KKon KKt KLaut KMark KONJ KPrät 
 Hochdeutsch	Hochdeutsch	PROPN	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:33:29.437000	0:33:31.857000
 .	-	-	-	0:33:29.437000	0:33:31.857000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:31.857000" end="0:33:32.824000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:31.857000" end="0:33:32.824000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:33:31.857000	0:33:32.450000
 .	-	-	-	0:33:31.857000	0:33:32.450000
 das	der	PRON	-	0:33:32.450000	0:33:32.824000
 wäre	sein	AUX	-	0:33:32.450000	0:33:32.824000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:32.450000" end="0:33:32.824000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:32.450000" end="0:33:32.824000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:32.450000	0:33:32.824000
 .	-	-	-	0:33:32.450000	0:33:32.824000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:32.824000" end="0:33:33.917000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:32.824000" end="0:33:33.917000" persName="Informant EXP4" age_lower="" age_upper="999">
 dann	dann	ADV	-	0:33:32.824000	0:33:33.504000
 Hochdeutsch	Hochdeutsch	PROPN	-	0:33:32.824000	0:33:33.504000
 .	-	-	-	0:33:32.824000	0:33:33.504000
 mhm	mhm	PROPN	-	0:33:33.504000	0:33:33.917000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:33.504000" end="0:33:33.917000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:33.504000" end="0:33:33.917000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:33.504000	0:33:33.917000
 .	-	-	-	0:33:33.504000	0:33:33.917000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:33.917000" end="0:33:40.490000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:33.917000" end="0:33:40.490000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:33:33.917000	0:33:37.630000
 können	können	VERB	-	0:33:33.917000	0:33:37.630000
@@ -7737,7 +7737,7 @@ dann	dann	ADV	-	0:33:37.630000	0:33:40.490000
 beherrschen	beherrschen	VERB	-	0:33:37.630000	0:33:40.490000
 ?	-	-	-	0:33:37.630000	0:33:40.490000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:40.490000" end="0:33:52.304000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:40.490000" end="0:33:52.304000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	ähm	X	-	0:33:40.490000	0:33:44.264000
 <pause duration="2,0s"/>
@@ -7776,16 +7776,16 @@ kann	können	VERB	-	0:33:50.484000	0:33:52.304000
 oder	oder	CCONJ	-	0:33:50.484000	0:33:52.304000
 ?	-	-	-	0:33:50.484000	0:33:52.304000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:52.304000" end="0:33:52.710000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:52.304000" end="0:33:52.710000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:33:52.304000	0:33:52.710000
 .	-	-	-	0:33:52.304000	0:33:52.710000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:52.710000" end="0:33:53.157000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:52.710000" end="0:33:53.157000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:33:52.710000	0:33:53.157000
 genau	genau	ADJ	-	0:33:52.710000	0:33:53.157000
 .	-	-	-	0:33:52.710000	0:33:53.157000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:33:53.157000" end="0:33:57.497000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:33:53.157000" end="0:33:57.497000" persName="Informant EXP4" age_lower="" age_upper="999">
 genau	genau	ADJ	-	0:33:53.157000	0:33:57.497000
 also	also	ADV	-	0:33:53.157000	0:33:57.497000
 es	ich	PRON	-	0:33:53.157000	0:33:57.497000
@@ -7801,7 +7801,7 @@ Mitte	Mitte	NOUN	-	0:33:53.157000	0:33:57.497000
 so	so	ADV	-	0:33:53.157000	0:33:57.497000
 .	-	-	-	0:33:53.157000	0:33:57.497000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:33:57.497000" end="0:34:04.057000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:57.497000" end="0:34:04.057000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:33:57.497000	0:33:59.170000
 ähm	ähm	PROPN	-	0:33:57.497000	0:33:59.170000
 einfach	einfach	ADV	-	0:33:57.497000	0:33:59.170000
@@ -7827,12 +7827,12 @@ wäre	sein	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circu
 <pause duration="0,5s"/>
 ähm	ähm	X	-	0:34:02.930000	0:34:04.057000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:04.057000" end="0:34:05.370000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:04.057000" end="0:34:05.370000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:34:04.057000	0:34:05.370000
 warum	warum	ADV	-	0:34:04.057000	0:34:05.370000
 ?	-	-	-	0:34:04.057000	0:34:05.370000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:34:05.370000" end="0:34:19.877000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:05.370000" end="0:34:19.877000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:34:05.370000	0:34:07.517000
 weil	weil	SCONJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:34:05.370000	0:34:07.517000
 es	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:34:05.370000	0:34:07.517000
@@ -7881,15 +7881,15 @@ konstruiert	konstruieren	VERB	-	0:34:16.077000	0:34:19.877000
 ist	sein	AUX	-	0:34:16.077000	0:34:19.877000
 ,	-	-	-	0:34:16.077000	0:34:19.877000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:19.877000" end="0:34:21.010000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:19.877000" end="0:34:21.010000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:34:19.877000	0:34:20.496000
 mhm	mhm	PROPN	-	0:34:20.496000	0:34:21.010000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:34:20.496000" end="0:34:21.010000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:20.496000" end="0:34:21.010000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:20.496000	0:34:21.010000
 .	-	-	-	0:34:20.496000	0:34:21.010000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:21.010000" end="0:34:30.924000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:21.010000" end="0:34:30.924000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:34:21.010000	0:34:30.924000
 <pause duration="0,6s"/>
@@ -7914,7 +7914,7 @@ dem	der	DET	-	0:34:21.010000	0:34:30.924000
 Deutsch	Deutsch	NOUN	-	0:34:21.010000	0:34:30.924000
 ?	-	-	-	0:34:21.010000	0:34:30.924000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:34:30.924000" end="0:34:41.016000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:30.924000" end="0:34:41.016000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	ähm	X	-	0:34:30.924000	0:34:34.597000
 ja	ja	ADV	-	0:34:30.924000	0:34:34.597000
@@ -7941,10 +7941,10 @@ weiß	weiß	VERB	-	0:34:40.083000	0:34:41.016000
 nicht	nicht	PART	-	0:34:40.083000	0:34:41.016000
 .	-	-	-	0:34:40.083000	0:34:41.016000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:41.016000" end="0:34:41.570000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:41.016000" end="0:34:41.570000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:34:41.016000	0:34:41.570000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:34:41.570000" end="0:34:57.584000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:41.570000" end="0:34:57.584000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:34:41.570000	0:34:47.157000
 <pause duration="2,4s"/>
 ähm	ähm	VERB	-	0:34:41.570000	0:34:47.157000
@@ -7993,17 +7993,17 @@ oder	oder	CCONJ	-	0:34:54.377000	0:34:57.584000
 so	so	ADV	-	0:34:54.377000	0:34:57.584000
 .	-	-	-	0:34:54.377000	0:34:57.584000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:57.584000" end="0:34:58.344000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:57.584000" end="0:34:58.344000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:34:57.584000	0:34:58.344000
 .	-	-	-	0:34:57.584000	0:34:58.344000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:34:57.584000" end="0:34:58.344000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:57.584000" end="0:34:58.344000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:34:57.584000	0:34:58.344000
 ist	sein	AUX	-	0:34:57.584000	0:34:58.344000
 ja	ja	ADV	-	0:34:57.584000	0:34:58.344000
 .	-	-	-	0:34:57.584000	0:34:58.344000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:34:58.344000" end="0:35:08.750000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:34:58.344000" end="0:35:08.750000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:34:58.344000	0:35:02.268000
 okay	okay	ADJ	-	0:34:58.344000	0:35:02.268000
@@ -8032,7 +8032,7 @@ sozusagen	sozusagen	ADV	-	0:35:06.204000	0:35:08.750000
 was	was	PRON	-	0:35:06.204000	0:35:08.750000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:08.750000" end="0:35:11.030000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:08.750000" end="0:35:11.030000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:35:08.750000	0:35:11.030000
 das	der	DET	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:35:08.750000	0:35:11.030000
 na	na	PROPN	-	0:35:08.750000	0:35:11.030000
@@ -8042,7 +8042,7 @@ schon	schon	ADV	-	0:35:08.750000	0:35:11.030000
 Hochdeutsch	Hochdeutsch	PROPN	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:35:08.750000	0:35:11.030000
 .	-	-	-	0:35:08.750000	0:35:11.030000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:11.030000" end="0:35:12.604000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:11.030000" end="0:35:12.604000" persName="Informant EXP4" age_lower="" age_upper="999">
 wäre	sein	AUX	-	0:35:11.030000	0:35:12.604000
 schon	schon	ADV	-	0:35:11.030000	0:35:12.604000
 Hochdeutsch	Hochdeutsch	PROPN	-	0:35:11.030000	0:35:12.604000
@@ -8050,14 +8050,14 @@ Hochdeutsch	Hochdeutsch	PROPN	-	0:35:11.030000	0:35:12.604000
 okay	okay	NOUN	-	0:35:11.030000	0:35:12.604000
 .	-	-	-	0:35:11.030000	0:35:12.604000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:11.030000" end="0:35:12.604000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:11.030000" end="0:35:12.604000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:35:11.030000	0:35:12.604000
 ja	ja	ADV	-	0:35:11.030000	0:35:12.604000
 das	der	PRON	-	0:35:11.030000	0:35:12.604000
 schon	schon	ADV	-	0:35:11.030000	0:35:12.604000
 .	-	-	-	0:35:11.030000	0:35:12.604000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:12.604000" end="0:35:16.504000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:12.604000" end="0:35:16.504000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:35:12.604000	0:35:16.170000
 das	der	PRON	-	0:35:12.604000	0:35:16.170000
 ist	sein	AUX	-	0:35:12.604000	0:35:16.170000
@@ -8070,24 +8070,24 @@ Form	Form	NOUN	-	0:35:12.604000	0:35:16.170000
 sozusagen	sozusagen	ADV	-	0:35:16.170000	0:35:16.504000
 .	-	-	-	0:35:16.170000	0:35:16.504000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:16.170000" end="0:35:16.504000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:16.170000" end="0:35:16.504000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:16.170000	0:35:16.504000
 .	-	-	-	0:35:16.170000	0:35:16.504000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:16.504000" end="0:35:17.150000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:16.504000" end="0:35:17.150000" persName="Informant EXP4" age_lower="" age_upper="999">
 in	in	ADP	-	0:35:16.504000	0:35:17.150000
 ihren	mein	DET	-	0:35:16.504000	0:35:17.150000
 Augen	Auge	NOUN	-	0:35:16.504000	0:35:17.150000
 .	-	-	-	0:35:16.504000	0:35:17.150000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:16.504000" end="0:35:17.150000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:16.504000" end="0:35:17.150000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:35:16.504000	0:35:17.150000
 .	-	-	-	0:35:16.504000	0:35:17.150000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:17.150000" end="0:35:17.924000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:17.150000" end="0:35:17.924000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:35:17.150000	0:35:17.924000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:17.924000" end="0:35:32.257000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:17.924000" end="0:35:32.257000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:35:17.924000	0:35:22.584000
 vielleicht	vielleicht	ADV	-	0:35:17.924000	0:35:22.584000
 auch	auch	ADV	-	0:35:17.924000	0:35:22.584000
@@ -8136,15 +8136,15 @@ reine	reine	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	0:35:29.964
 Form	Form	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	0:35:29.964000	0:35:32.257000
 irgendwie	irgendwie	ADV	-	0:35:29.964000	0:35:32.257000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:32.257000" end="0:35:33.084000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:32.257000" end="0:35:33.084000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:35:32.257000	0:35:33.084000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:32.257000" end="0:35:33.084000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:32.257000" end="0:35:33.084000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:35:32.257000	0:35:33.084000
 Aussprache	Aussprache	NOUN	-	0:35:32.257000	0:35:33.084000
 .	-	-	-	0:35:32.257000	0:35:33.084000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:33.084000" end="0:35:36.370000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:33.084000" end="0:35:36.370000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:35:33.084000	0:35:34.370000
 kann	können	VERB	-	0:35:33.084000	0:35:34.370000
 man	man	PRON	-	0:35:33.084000	0:35:34.370000
@@ -8159,11 +8159,11 @@ Personen	Person	NOUN	-	0:35:34.370000	0:35:36.370000
 sprechen	sprechen	VERB	-	0:35:34.370000	0:35:36.370000
 ?	-	-	-	0:35:34.370000	0:35:36.370000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:36.370000" end="0:35:39.184000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:36.370000" end="0:35:39.184000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ähm	ähm	X	-	0:35:36.370000	0:35:39.184000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:39.184000" end="0:35:40.890000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:39.184000" end="0:35:40.890000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 oder	oder	CCONJ	-	0:35:39.184000	0:35:40.630000
 gilt	gelten	VERB	-	0:35:39.184000	0:35:40.630000
@@ -8171,10 +8171,10 @@ das	der	PRON	-	0:35:39.184000	0:35:40.630000
 zum	zum	ADP	-	0:35:40.630000	0:35:40.890000
 Beisp/	-	-	-	0:35:40.630000	0:35:40.890000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:40.630000" end="0:35:40.890000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:40.630000" end="0:35:40.890000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:35:40.630000	0:35:40.890000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:35:40.890000" end="0:35:46.324000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:35:40.890000" end="0:35:46.324000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:35:40.890000	0:35:43.990000
 gilt	gelten	VERB	-	0:35:40.890000	0:35:43.990000
 das	der	PRON	-	0:35:40.890000	0:35:43.990000
@@ -8196,7 +8196,7 @@ also	also	ADV	-	0:35:43.990000	0:35:46.324000
 sehen	sehen	VERB	-	0:35:43.990000	0:35:46.324000
 ?	-	-	-	0:35:43.990000	0:35:46.324000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:35:46.324000" end="0:36:03.430000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:46.324000" end="0:36:03.430000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	ADJ	-	0:35:46.324000	0:35:48.444000
 das	der	PRON	-	0:35:46.324000	0:35:48.444000
@@ -8260,10 +8260,10 @@ Leute	Leute	NOUN	-	0:35:59.270000	0:36:03.137000
 ,	-	-	-	0:35:59.270000	0:36:03.137000
 die	der	DET	-	0:36:03.137000	0:36:03.430000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:03.430000" end="0:36:04.097000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:03.430000" end="0:36:04.097000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:36:03.430000	0:36:04.097000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:03.430000" end="0:36:05.477000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:03.430000" end="0:36:05.477000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:36:03.430000	0:36:04.097000
 das	der	PRON	-	0:36:04.097000	0:36:05.477000
 können	können	VERB	-	0:36:04.097000	0:36:05.477000
@@ -8271,11 +8271,11 @@ oder	oder	CCONJ	-	0:36:04.097000	0:36:05.477000
 machen	machen	VERB	-	0:36:04.097000	0:36:05.477000
 .	-	-	-	0:36:04.097000	0:36:05.477000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:05.477000" end="0:36:06.884000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:05.477000" end="0:36:06.884000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:36:05.477000	0:36:06.204000
 mhm	mhm	PROPN	-	0:36:06.204000	0:36:06.884000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:06.204000" end="0:36:08.270000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:06.204000" end="0:36:08.270000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:36:06.204000	0:36:06.884000
 eben	eben	ADV	-	0:36:06.204000	0:36:06.884000
 Sachen	Sache	NOUN	-	0:36:06.204000	0:36:06.884000
@@ -8284,7 +8284,7 @@ oder	oder	CCONJ	-	0:36:06.884000	0:36:08.270000
 ja	ja	ADV	-	0:36:06.884000	0:36:08.270000
 .	-	-	-	0:36:06.884000	0:36:08.270000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:08.270000" end="0:36:28.150000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:08.270000" end="0:36:28.150000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:36:08.270000	0:36:11.197000
 okay	okay	PROPN	-	0:36:08.270000	0:36:11.197000
 <pause duration="0,6s"/>
@@ -8338,15 +8338,15 @@ festmachen	festmachen	ADJ	-	0:36:21.924000	0:36:26.917000
 <pause duration="0,8s"/>
 also	also	ADV	-	0:36:26.917000	0:36:28.150000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:26.917000" end="0:36:28.150000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:26.917000" end="0:36:28.150000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	ähm	X	-	0:36:26.917000	0:36:28.150000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:28.150000" end="0:36:29.690000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:28.150000" end="0:36:29.690000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:36:28.150000	0:36:29.690000
 .	-	-	-	0:36:28.150000	0:36:29.690000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:29.690000" end="0:36:33.503000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:29.690000" end="0:36:33.503000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:36:29.690000	0:36:30.737000
 es	ich	PRON	-	0:36:29.690000	0:36:30.737000
 ist	sein	AUX	-	0:36:29.690000	0:36:30.737000
@@ -8359,10 +8359,10 @@ irgendwie	irgendwie	ADV	-	0:36:30.737000	0:36:33.503000
 zugänglicher	zugänglich	ADJ	-	0:36:30.737000	0:36:33.503000
 .	-	-	-	0:36:30.737000	0:36:33.503000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:33.503000" end="0:36:34.150000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:33.503000" end="0:36:34.150000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:36:33.503000	0:36:34.150000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:34.150000" end="0:36:39.563000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:34.150000" end="0:36:39.563000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:36:34.150000	0:36:37.663000
 <pause duration="1,0s"/>
 es	ich	PRON	-	0:36:34.150000	0:36:37.663000
@@ -8376,20 +8376,20 @@ behaupten	behaupten	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kpe
 .	-	-	-	0:36:37.663000	0:36:38.723000
 ähm	ähm	PROPN	-	0:36:38.723000	0:36:39.563000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:39.563000" end="0:36:40.050000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:39.563000" end="0:36:40.050000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	VERB	-	0:36:39.563000	0:36:40.050000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:40.050000" end="0:36:44.551000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:40.050000" end="0:36:44.551000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 und	und	CCONJ	-	0:36:40.050000	0:36:44.551000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:44.551000" end="0:36:45.563000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:44.551000" end="0:36:45.563000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:36:44.551000	0:36:45.563000
 das	der	DET	-	0:36:44.551000	0:36:45.563000
 also	also	ADV	-	0:36:44.551000	0:36:45.563000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:44.551000" end="0:36:45.563000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:44.551000" end="0:36:45.563000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:36:44.551000	0:36:45.563000
 es	ich	PRON	-	0:36:44.551000	0:36:45.563000
 gibt	geben	VERB	-	0:36:44.551000	0:36:45.563000
@@ -8397,7 +8397,7 @@ halt	halt	ADV	-	0:36:44.551000	0:36:45.563000
 sch/	-	-	-	0:36:44.551000	0:36:45.563000
 .	-	-	-	0:36:44.551000	0:36:45.563000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:45.563000" end="0:36:47.490000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:45.563000" end="0:36:47.490000" persName="Informant EXP4" age_lower="" age_upper="999">
 wa/	-	-	-	0:36:45.563000	0:36:46.410000
 welches	welch	PRON	-	0:36:45.563000	0:36:46.410000
 jetzt	jetzt	ADV	-	0:36:45.563000	0:36:46.410000
@@ -8406,12 +8406,12 @@ weicher	weich	ADJ	-	0:36:46.410000	0:36:47.490000
 und/	-	-	-	0:36:46.410000	0:36:47.490000
 ?	-	-	-	0:36:46.410000	0:36:47.490000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:46.410000" end="0:36:47.490000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:46.410000" end="0:36:47.490000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	0:36:46.410000	0:36:47.490000
 Österreichische	Österreichische	NOUN	-	0:36:46.410000	0:36:47.490000
 .	-	-	-	0:36:46.410000	0:36:47.490000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:47.490000" end="0:36:49.390000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:47.490000" end="0:36:49.390000" persName="Informant EXP4" age_lower="" age_upper="999">
 ach	ach	X	-	0:36:47.490000	0:36:48.517000
 das	der	DET	-	0:36:47.490000	0:36:48.517000
 Österreichische	Österreichische	NOUN	-	0:36:47.490000	0:36:48.517000
@@ -8421,20 +8421,20 @@ ah	ah	PROPN	-	0:36:48.517000	0:36:49.390000
 okay	okay	NOUN	-	0:36:48.517000	0:36:49.390000
 .	-	-	-	0:36:48.517000	0:36:49.390000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:48.517000" end="0:36:49.390000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:48.517000" end="0:36:49.390000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 fin/	-	-	-	0:36:48.517000	0:36:49.390000
 finde	finden	VERB	-	0:36:48.517000	0:36:49.390000
 ich	ich	PRON	-	0:36:48.517000	0:36:49.390000
 schon	schon	ADV	-	0:36:48.517000	0:36:49.390000
 .	-	-	-	0:36:48.517000	0:36:49.390000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:49.390000" end="0:36:50.203000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:49.390000" end="0:36:50.203000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:36:49.390000	0:36:50.203000
 okay	okay	PROPN	-	0:36:49.390000	0:36:50.203000
 mhm	mhm	PROPN	-	0:36:49.390000	0:36:50.203000
 .	-	-	-	0:36:49.390000	0:36:50.203000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:50.203000" end="0:36:58.223000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:50.203000" end="0:36:58.223000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:36:50.203000	0:36:56.483000
 <pause duration="0,7s"/>
 genau	genau	ADJ	-	0:36:50.203000	0:36:56.483000
@@ -8454,7 +8454,7 @@ genauer	genau	ADJ	-	0:36:56.483000	0:36:58.223000
 darauf/	-	-	-	0:36:56.483000	0:36:58.223000
 .	-	-	-	0:36:56.483000	0:36:58.223000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:58.223000" end="0:36:59.963000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:58.223000" end="0:36:59.963000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:36:58.223000	0:36:59.483000
 na	na	PROPN	-	0:36:58.223000	0:36:59.483000
 gut	gut	ADJ	-	0:36:58.223000	0:36:59.483000
@@ -8462,9 +8462,9 @@ gut	gut	ADJ	-	0:36:58.223000	0:36:59.483000
 okay	okay	NOUN	-	0:36:59.483000	0:36:59.963000
 .	-	-	-	0:36:59.483000	0:36:59.963000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:36:59.483000" end="0:36:59.963000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:59.483000" end="0:36:59.963000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:36:59.963000" end="0:37:02.170000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:36:59.963000" end="0:37:02.170000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:36:59.963000	0:37:01.403000
 das	der	PRON	-	0:36:59.963000	0:37:01.403000
 das	der	DET	-	0:36:59.963000	0:37:01.403000
@@ -8475,9 +8475,9 @@ ganz	ganz	ADV	-	0:37:01.403000	0:37:02.170000
 gut	gut	ADJ	-	0:37:01.403000	0:37:02.170000
 und	und	CCONJ	-	0:37:01.403000	0:37:02.170000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:01.403000" end="0:37:02.170000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:01.403000" end="0:37:02.170000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:02.170000" end="0:37:12.997000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:02.170000" end="0:37:12.997000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	ADJ	-	0:37:02.170000	0:37:06.663000
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:37:02.170000	0:37:06.663000
@@ -8505,7 +8505,7 @@ nächsten	nächst	VERB	-	0:37:07.770000	0:37:12.997000
 kommt	kommen	VERB	-	0:37:07.770000	0:37:12.997000
 ?	-	-	-	0:37:07.770000	0:37:12.997000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:12.997000" end="0:37:17.750000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:12.997000" end="0:37:17.750000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:37:12.997000	0:37:15.650000
 das	der	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:37:12.997000	0:37:15.650000
@@ -8519,17 +8519,17 @@ Dialekteinflüssen	Dialekteinflüssen	NOUN	-	0:37:15.650000	0:37:17.750000
 noch	noch	ADV	-	0:37:15.650000	0:37:17.750000
 .	-	-	-	0:37:15.650000	0:37:17.750000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:17.750000" end="0:37:19.150000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:17.750000" end="0:37:19.150000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:37:17.750000	0:37:18.557000
 .	-	-	-	0:37:17.750000	0:37:18.557000
 mhm	mhm	PROPN	-	0:37:18.557000	0:37:19.150000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:18.557000" end="0:37:19.817000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:18.557000" end="0:37:19.817000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:37:18.557000	0:37:19.150000
 ja	ja	PART	-	0:37:19.150000	0:37:19.817000
 .	-	-	-	0:37:19.150000	0:37:19.817000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:19.817000" end="0:37:22.383000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:19.817000" end="0:37:22.383000" persName="Informant EXP4" age_lower="" age_upper="999">
 sollen	sollen	VERB	-	0:37:19.817000	0:37:21.037000
 wir	ich	PRON	-	0:37:19.817000	0:37:21.037000
 das	der	PRON	-	0:37:19.817000	0:37:21.037000
@@ -8545,7 +8545,7 @@ passt	passt	PROPN	-	0:37:21.037000	0:37:22.383000
 ,	-	-	-	0:37:21.037000	0:37:22.383000
 dann	dann	ADV	-	0:37:21.037000	0:37:22.383000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:21.037000" end="0:37:22.383000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:21.037000" end="0:37:22.383000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:21.037000	0:37:22.383000
 schon	schon	ADV	-	0:37:21.037000	0:37:22.383000
 ,	-	-	-	0:37:21.037000	0:37:22.383000
@@ -8553,7 +8553,7 @@ können	können	VERB	-	0:37:21.037000	0:37:22.383000
 wir	ich	PRON	-	0:37:21.037000	0:37:22.383000
 .	-	-	-	0:37:21.037000	0:37:22.383000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:22.383000" end="0:37:27.770000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:22.383000" end="0:37:27.770000" persName="Informant EXP4" age_lower="" age_upper="999">
 sagen	sagen	VERB	-	0:37:22.383000	0:37:23.797000
 wir	ich	PRON	-	0:37:22.383000	0:37:23.797000
 ähm	ähm	PRON	-	0:37:22.383000	0:37:23.797000
@@ -8567,18 +8567,18 @@ mit	mit	ADP	-	0:37:23.797000	0:37:27.770000
 Dialekteinflüssen	Dialekteinflüssen	NOUN	-	0:37:23.797000	0:37:27.770000
 .	-	-	-	0:37:23.797000	0:37:27.770000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:27.770000" end="0:37:28.223000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:27.770000" end="0:37:28.223000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:37:27.770000	0:37:28.223000
 .	-	-	-	0:37:27.770000	0:37:28.223000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:28.223000" end="0:37:29.383000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:28.223000" end="0:37:29.383000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:37:28.223000	0:37:29.383000
 passt	passt	PROPN	-	0:37:28.223000	0:37:29.383000
 .	-	-	-	0:37:28.223000	0:37:29.383000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:28.223000" end="0:37:29.383000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:28.223000" end="0:37:29.383000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:29.383000" end="0:37:42.143000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:29.383000" end="0:37:42.143000" persName="Informant EXP4" age_lower="" age_upper="999">
 gut	gut	ADJ	-	0:37:29.383000	0:37:38.303000
 ähm	ähm	ADJ	-	0:37:29.383000	0:37:38.303000
 <pause duration="1,0s"/>
@@ -8614,10 +8614,10 @@ nicht	nicht	PART	-	0:37:40.923000	0:37:42.143000
 verwendet	verwenden	VERB	-	0:37:40.923000	0:37:42.143000
 .	-	-	-	0:37:40.923000	0:37:42.143000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:42.143000" end="0:37:42.517000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:42.143000" end="0:37:42.517000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:42.143000	0:37:42.517000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:42.517000" end="0:37:50.143000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:42.517000" end="0:37:50.143000" persName="Informant EXP4" age_lower="" age_upper="999">
 sozusagen	sozusagen	ADV	-	0:37:42.517000	0:37:49.537000
 wenn	wenn	SCONJ	-	0:37:42.517000	0:37:49.537000
 wir	ich	PRON	-	0:37:42.517000	0:37:49.537000
@@ -8640,10 +8640,10 @@ das	der	DET	-	0:37:42.517000	0:37:49.537000
 SONSTIGE	SONSTIGE	NOUN	-	0:37:42.517000	0:37:49.537000
 also	also	ADV	-	0:37:49.537000	0:37:50.143000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:37:49.537000" end="0:37:50.143000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:49.537000" end="0:37:50.143000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:49.537000	0:37:50.143000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:37:50.143000" end="0:38:20.043000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:37:50.143000" end="0:38:20.043000" persName="Informant EXP4" age_lower="" age_upper="999">
 tragen	tragen	VERB	-	0:37:50.143000	0:37:51.610000
 wir	ich	PRON	-	0:37:50.143000	0:37:51.610000
 es	ich	PRON	-	0:37:50.143000	0:37:51.610000
@@ -8697,7 +8697,7 @@ und	und	CCONJ	-	0:38:09.363000	0:38:19.470000
 rechts	rechts	ADV	-	0:38:09.363000	0:38:19.470000
 .	-	-	-	0:38:09.363000	0:38:19.470000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:19.470000" end="0:38:23.803000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:19.470000" end="0:38:23.803000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:38:19.470000	0:38:20.043000
 was	was	PRON	-	0:38:19.470000	0:38:20.043000
 ?	-	-	-	0:38:19.470000	0:38:20.043000
@@ -8716,16 +8716,16 @@ wovon	wovon	ADV	-	0:38:22.003000	0:38:23.803000
 spr/	-	-	-	0:38:22.003000	0:38:23.803000
 ?	-	-	-	0:38:22.003000	0:38:23.803000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:23.803000" end="0:38:24.903000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:23.803000" end="0:38:24.903000" persName="Informant EXP4" age_lower="" age_upper="999">
 achso	achso	NOUN	-	0:38:23.803000	0:38:24.903000
 ah	ah	X	-	0:38:23.803000	0:38:24.903000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:23.803000" end="0:38:24.903000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:23.803000" end="0:38:24.903000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 spreche	sprechen	NOUN	-	0:38:23.803000	0:38:24.903000
 oder	oder	CCONJ	-	0:38:23.803000	0:38:24.903000
 ?	-	-	-	0:38:23.803000	0:38:24.903000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:24.903000" end="0:38:27.283000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:24.903000" end="0:38:27.283000" persName="Informant EXP4" age_lower="" age_upper="999">
 Entschuldigung	Entschuldigung	NOUN	-	0:38:24.903000	0:38:26.610000
 ,	-	-	-	0:38:24.903000	0:38:26.610000
 jetzt	jetzt	ADV	-	0:38:24.903000	0:38:26.610000
@@ -8741,12 +8741,12 @@ vertan	vertuen	VERB	-	0:38:24.903000	0:38:26.610000
 nämlich	nämlich	ADV	-	0:38:26.610000	0:38:27.283000
 das	der	PRON	-	0:38:26.610000	0:38:27.283000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:26.610000" end="0:38:27.283000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:26.610000" end="0:38:27.283000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ah	ah	X	-	0:38:26.610000	0:38:27.283000
 okay	okay	NOUN	-	0:38:26.610000	0:38:27.283000
 .	-	-	-	0:38:26.610000	0:38:27.283000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:27.283000" end="0:38:42.943000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:27.283000" end="0:38:42.943000" persName="Informant EXP4" age_lower="" age_upper="999">
 so	so	ADV	-	0:38:27.283000	0:38:34.490000
 gedacht	gedenken	VERB	-	0:38:27.283000	0:38:34.490000
 war	sein	AUX	-	0:38:27.283000	0:38:34.490000
@@ -8787,14 +8787,14 @@ da	da	ADV	-	0:38:38.030000	0:38:42.230000
 dazwischen	dazwischen	ADV	-	0:38:38.030000	0:38:42.230000
 liegen	liegen	VERB	-	0:38:42.230000	0:38:42.943000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:42.230000" end="0:38:42.943000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:42.230000" end="0:38:42.943000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:38:42.230000	0:38:42.943000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:42.943000" end="0:38:43.350000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:42.943000" end="0:38:43.350000" persName="Informant EXP4" age_lower="" age_upper="999">
 würde	werden	AUX	-	0:38:42.943000	0:38:43.350000
 .	-	-	-	0:38:42.943000	0:38:43.350000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:43.350000" end="0:38:50.163000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:43.350000" end="0:38:50.163000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	aber	ADV	-	0:38:43.350000	0:38:50.163000
 das	der	PRON	-	0:38:43.350000	0:38:50.163000
@@ -8817,13 +8817,13 @@ darauf	darauf	ADV	-	0:38:43.350000	0:38:50.163000
 an	an	ADP	-	0:38:43.350000	0:38:50.163000
 .	-	-	-	0:38:43.350000	0:38:50.163000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:50.163000" end="0:38:51.677000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:50.163000" end="0:38:51.677000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:38:50.163000	0:38:50.843000
 .	-	-	-	0:38:50.163000	0:38:50.843000
 ja	ja	PART	-	0:38:50.843000	0:38:51.677000
 ?	-	-	-	0:38:50.843000	0:38:51.677000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:50.843000" end="0:38:59.337000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:50.843000" end="0:38:59.337000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:38:50.843000	0:38:51.677000
 ähm	ähm	ADJ	-	0:38:51.677000	0:38:57.797000
 <pause duration="1,9s"/>
@@ -8845,20 +8845,20 @@ mit	mit	ADP	-	0:38:57.797000	0:38:59.337000
 wem	wer	PRON	-	0:38:57.797000	0:38:59.337000
 ich	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:38:57.797000	0:38:59.337000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:38:59.337000" end="0:38:59.957000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:38:59.337000" end="0:38:59.957000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:38:59.337000	0:38:59.957000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:38:59.957000" end="0:39:01.163000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:59.957000" end="0:39:01.163000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 reden	reden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:38:59.957000	0:39:01.163000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:38:59.957000	0:39:01.163000
 .	-	-	-	0:38:59.957000	0:39:01.163000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:01.163000" end="0:39:02.190000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:01.163000" end="0:39:02.190000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:39:01.163000	0:39:02.190000
 .	-	-	-	0:39:01.163000	0:39:02.190000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:01.163000" end="0:39:03.237000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:01.163000" end="0:39:03.237000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:39:01.163000	0:39:02.190000
 ich	ich	PRON	-	0:39:01.163000	0:39:02.190000
 halt	halt	ADV	-	0:39:01.163000	0:39:02.190000
@@ -8868,7 +8868,7 @@ gleich	gleichen	ADV	-	0:39:02.190000	0:39:03.237000
 rede	rede	VERB	-	0:39:02.190000	0:39:03.237000
 .	-	-	-	0:39:02.190000	0:39:03.237000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:03.237000" end="0:39:09.757000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:03.237000" end="0:39:09.757000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:39:03.237000	0:39:09.757000
 wa/	-	-	-	0:39:03.237000	0:39:09.757000
 mit	mit	ADP	-	0:39:03.237000	0:39:09.757000
@@ -8885,7 +8885,7 @@ Form	Form	NOUN	-	0:39:03.237000	0:39:09.757000
 sprechen	sprechen	VERB	-	0:39:03.237000	0:39:09.757000
 ?	-	-	-	0:39:03.237000	0:39:09.757000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:09.757000" end="0:39:13.570000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:09.757000" end="0:39:13.570000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 quasi	quasi	ADV	-	0:39:09.757000	0:39:13.570000
 vom	vom	ADP	-	0:39:09.757000	0:39:13.570000
@@ -8895,12 +8895,12 @@ also	also	ADV	-	0:39:09.757000	0:39:13.570000
 Deutsch	Deutsch	NOUN	-	0:39:09.757000	0:39:13.570000
 ?	-	-	-	0:39:09.757000	0:39:13.570000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:13.570000" end="0:39:14.950000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:13.570000" end="0:39:14.950000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:39:13.570000	0:39:14.950000
 genau	genau	ADJ	-	0:39:13.570000	0:39:14.950000
 .	-	-	-	0:39:13.570000	0:39:14.950000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:13.570000" end="0:39:18.670000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:13.570000" end="0:39:18.670000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 quasi	quasi	ADV	-	0:39:13.570000	0:39:14.950000
 ähm	ähm	PROPN	-	0:39:13.570000	0:39:14.950000
 ähm	ähm	PROPN	-	0:39:14.950000	0:39:17.330000
@@ -8919,10 +8919,10 @@ Uni	Uni	NOUN	-	0:39:17.330000	0:39:18.670000
 zum	zum	ADP	-	0:39:17.330000	0:39:18.670000
 Beispiel	Beispiel	NOUN	-	0:39:17.330000	0:39:18.670000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:18.670000" end="0:39:19.283000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:18.670000" end="0:39:19.283000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:39:18.670000	0:39:19.283000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:19.283000" end="0:39:24.623000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:19.283000" end="0:39:24.623000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 oder	oder	CCONJ	-	0:39:19.283000	0:39:22.430000
 eben	eben	ADV	-	0:39:19.283000	0:39:22.430000
@@ -8943,11 +8943,11 @@ ich	ich	PRON	-	0:39:22.430000	0:39:24.623000
 mache	machen	VERB	-	0:39:22.430000	0:39:24.623000
 .	-	-	-	0:39:22.430000	0:39:24.623000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:24.623000" end="0:39:26.037000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:24.623000" end="0:39:26.037000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:39:24.623000	0:39:26.037000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:24.623000" end="0:39:32.897000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:24.623000" end="0:39:32.897000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:39:24.623000	0:39:26.037000
 <pause duration="0,5s"/>
@@ -8978,10 +8978,10 @@ so	so	ADV	-	0:39:32.248000	0:39:32.897000
 weiter	weit	ADV	-	0:39:32.248000	0:39:32.897000
 .	-	-	-	0:39:32.248000	0:39:32.897000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:32.897000" end="0:39:33.490000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:32.897000" end="0:39:33.490000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:39:32.897000	0:39:33.490000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:32.897000" end="0:39:39.223000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:32.897000" end="0:39:39.223000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:39:32.897000	0:39:33.490000
 <pause duration="0,7s"/>
 dort	dort	ADV	-	0:39:33.490000	0:39:39.223000
@@ -8997,21 +8997,21 @@ irgendwie	irgendwie	ADV	-	0:39:33.490000	0:39:39.223000
 Deutsch	Deutsch	NOUN	-	0:39:33.490000	0:39:39.223000
 zu	zu	PART	-	0:39:33.490000	0:39:39.223000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:39.223000" end="0:39:39.850000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:39.223000" end="0:39:39.850000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:39:39.223000	0:39:39.850000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:39.223000" end="0:39:39.850000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:39.223000" end="0:39:39.850000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 reden	reden	VERB	-	0:39:39.223000	0:39:39.850000
 .	-	-	-	0:39:39.223000	0:39:39.850000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:39.850000" end="0:39:40.357000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:39.850000" end="0:39:40.357000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:39:39.850000	0:39:40.357000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:40.357000" end="0:39:40.837000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:40.357000" end="0:39:40.837000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:39:40.357000	0:39:40.837000
 .	-	-	-	0:39:40.357000	0:39:40.837000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:40.837000" end="0:39:48.910000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:40.837000" end="0:39:48.910000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:39:40.837000	0:39:43.530000
 heißt	heißen	VERB	-	0:39:40.837000	0:39:43.530000
@@ -9039,12 +9039,12 @@ Seite	Seite	NOUN	-	0:39:43.530000	0:39:48.910000
 hat	haben	AUX	-	0:39:43.530000	0:39:48.910000
 man	man	PRON	-	0:39:43.530000	0:39:48.910000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:48.910000" end="0:39:49.417000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:48.910000" end="0:39:49.417000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:39:48.910000	0:39:49.417000
 ja	ja	PART	-	0:39:48.910000	0:39:49.417000
 .	-	-	-	0:39:48.910000	0:39:49.417000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:49.417000" end="0:39:52.430000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:49.417000" end="0:39:52.430000" persName="Informant EXP4" age_lower="" age_upper="999">
 jetzt	jetzt	ADV	-	0:39:49.417000	0:39:52.430000
 SONSTIGE	SONSTIGE	ADJ	-	0:39:49.417000	0:39:52.430000
 <pause duration="0,5s"/>
@@ -9057,7 +9057,7 @@ selbst	selbst	ADV	-	0:39:49.417000	0:39:52.430000
 dann/	-	-	-	0:39:49.417000	0:39:52.430000
 ?	-	-	-	0:39:49.417000	0:39:52.430000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:52.430000" end="0:39:56.030000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:52.430000" end="0:39:56.030000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dann	dann	ADV	-	0:39:52.430000	0:39:54.997000
 wäre	sein	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:39:52.430000	0:39:54.997000
@@ -9068,20 +9068,20 @@ ich	ich	PRON	-	0:39:54.997000	0:39:56.030000
 nicht	nicht	PART	-	0:39:54.997000	0:39:56.030000
 da	da	ADV	-	0:39:54.997000	0:39:56.030000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:56.030000" end="0:39:57.263000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:56.030000" end="0:39:57.263000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:39:56.030000	0:39:57.263000
 .	-	-	-	0:39:56.030000	0:39:57.263000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:56.030000" end="0:39:57.263000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:56.030000" end="0:39:57.263000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 so	so	ADV	-	0:39:56.030000	0:39:57.263000
 .	-	-	-	0:39:56.030000	0:39:57.263000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:39:57.263000" end="0:39:57.910000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:39:57.263000" end="0:39:57.910000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:39:57.263000	0:39:57.910000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:39:57.263000" end="0:40:00.837000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:57.263000" end="0:40:00.837000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:39:57.263000	0:39:57.910000
 heißt	heißen	VERB	-	0:39:57.910000	0:39:58.177000
 ,	-	-	-	0:39:57.910000	0:39:58.177000
@@ -9097,7 +9097,7 @@ aber	aber	CCONJ	-	0:39:59.910000	0:40:00.837000
 genau	genau	ADJ	-	0:39:59.910000	0:40:00.837000
 .	-	-	-	0:39:59.910000	0:40:00.837000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:00.837000" end="0:40:05.817000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:00.837000" end="0:40:05.817000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:00.837000	0:40:05.817000
 <pause duration="0,7s"/>
 okay	okay	PROPN	-	0:40:00.837000	0:40:05.817000
@@ -9114,7 +9114,7 @@ für	für	ADP	-	0:40:00.837000	0:40:05.817000
 Einflüsse	Einfluß	NOUN	-	0:40:00.837000	0:40:05.817000
 ?	-	-	-	0:40:00.837000	0:40:05.817000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:05.817000" end="0:40:13.857000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:05.817000" end="0:40:13.857000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ja	ja	ADV	-	0:40:05.817000	0:40:13.857000
 eben	eben	ADV	-	0:40:05.817000	0:40:13.857000
@@ -9133,10 +9133,10 @@ im	im	ADP	-	0:40:05.817000	0:40:13.857000
 Redefluss	Redefluss	NOUN	-	0:40:05.817000	0:40:13.857000
 ,	-	-	-	0:40:05.817000	0:40:13.857000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:13.857000" end="0:40:14.483000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:13.857000" end="0:40:14.483000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:13.857000	0:40:14.483000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:14.483000" end="0:40:19.423000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:14.483000" end="0:40:19.423000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	PRON	-	0:40:14.483000	0:40:17.657000
 halt	halt	ADV	-	0:40:14.483000	0:40:17.657000
 eigentlich	eigentlich	ADV	-	0:40:14.483000	0:40:17.657000
@@ -9160,15 +9160,15 @@ dann	dann	ADV	-	0:40:17.657000	0:40:19.423000
 kommen	kommen	VERB	-	0:40:17.657000	0:40:19.423000
 .	-	-	-	0:40:17.657000	0:40:19.423000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:19.423000" end="0:40:20.037000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:19.423000" end="0:40:20.037000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:19.423000	0:40:20.037000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:20.037000" end="0:40:21.457000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:20.037000" end="0:40:21.457000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:40:20.037000	0:40:21.457000
 genau	genau	ADJ	-	0:40:20.037000	0:40:21.457000
 .	-	-	-	0:40:20.037000	0:40:21.457000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:21.457000" end="0:40:26.390000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:21.457000" end="0:40:26.390000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:40:21.457000	0:40:22.643000
 und	und	CCONJ	-	0:40:21.457000	0:40:22.643000
 sie	ich	PRON	-	0:40:21.457000	0:40:22.643000
@@ -9189,7 +9189,7 @@ sozusagen	sozusagen	ADV	-	0:40:22.643000	0:40:25.783000
 oder	oder	CCONJ	-	0:40:25.783000	0:40:26.390000
 ?	-	-	-	0:40:25.783000	0:40:26.390000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:25.783000" end="0:40:30.157000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:25.783000" end="0:40:30.157000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:25.783000	0:40:26.390000
 und	und	CCONJ	-	0:40:25.783000	0:40:26.390000
 die	der	DET	-	0:40:25.783000	0:40:26.390000
@@ -9204,15 +9204,15 @@ oder	oder	CCONJ	-	0:40:26.390000	0:40:30.157000
 irgendwie	irgendwie	ADV	-	0:40:26.390000	0:40:30.157000
 .	-	-	-	0:40:26.390000	0:40:30.157000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:30.157000" end="0:40:30.797000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:30.157000" end="0:40:30.797000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:30.157000	0:40:30.797000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:30.157000" end="0:40:31.183000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:30.157000" end="0:40:31.183000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:40:30.157000	0:40:30.797000
 genau	genau	ADJ	-	0:40:30.797000	0:40:31.183000
 .	-	-	-	0:40:30.797000	0:40:31.183000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:31.183000" end="0:40:34.210000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:31.183000" end="0:40:34.210000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 gibt	geben	VERB	-	0:40:31.183000	0:40:33.370000
 es	ich	PRON	-	0:40:31.183000	0:40:33.370000
@@ -9223,7 +9223,7 @@ Beispiel	Beispiel	NOUN	-	0:40:31.183000	0:40:33.370000
 vielleicht	vielleicht	ADV	-	0:40:33.370000	0:40:34.210000
 ?	-	-	-	0:40:33.370000	0:40:34.210000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:33.370000" end="0:40:48.117000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:33.370000" end="0:40:48.117000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:40:33.370000	0:40:34.210000
 <pause duration="1,0s"/>
 müsste	müsste	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:40:34.210000	0:40:35.963000
@@ -9262,10 +9262,10 @@ oder	oder	CCONJ	-	0:40:41.750000	0:40:48.117000
 so	so	ADV	-	0:40:41.750000	0:40:48.117000
 .	-	-	-	0:40:41.750000	0:40:48.117000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:40:48.117000" end="0:40:49.130000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:40:48.117000" end="0:40:49.130000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:40:48.117000	0:40:49.130000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:40:48.117000" end="0:41:04.297000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:48.117000" end="0:41:04.297000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:40:48.117000	0:40:49.130000
 <pause duration="0,7s"/>
 "gibt	geben	VERB	-	0:40:49.130000	0:40:55.077000
@@ -9314,11 +9314,11 @@ aussprechen	aussprechen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi 
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:40:57.903000	0:41:04.297000
 .	-	-	-	0:40:57.903000	0:41:04.297000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:04.297000" end="0:41:05.243000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:04.297000" end="0:41:05.243000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:04.297000	0:41:05.243000
 mhm	mhm	PROPN	-	0:41:04.297000	0:41:05.243000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:05.243000" end="0:41:08.163000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:05.243000" end="0:41:08.163000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:41:05.243000	0:41:08.163000
 oder	-	-	-	0:41:05.243000	0:41:08.163000
 da	-	-	-	0:41:05.243000	0:41:08.163000
@@ -9327,32 +9327,32 @@ gutes	-	-	-	0:41:05.243000	0:41:08.163000
 Beispiel	-	-	-	0:41:05.243000	0:41:08.163000
 "i"	-	-	-	0:41:05.243000	0:41:08.163000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:08.163000" end="0:41:08.790000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:08.163000" end="0:41:08.790000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:08.163000	0:41:08.790000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:08.163000" end="0:41:08.790000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:08.163000" end="0:41:08.790000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:41:08.163000	0:41:08.790000
 für	-	-	-	0:41:08.163000	0:41:08.790000
 "ich"	-	-	-	0:41:08.163000	0:41:08.790000
 .	-	-	-	0:41:08.163000	0:41:08.790000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:08.790000" end="0:41:09.983000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:08.790000" end="0:41:09.983000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:08.790000	0:41:09.983000
 mhm	mhm	PROPN	-	0:41:08.790000	0:41:09.983000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:09.983000" end="0:41:10.770000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:09.983000" end="0:41:10.770000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 solche	solche	DET	-	0:41:09.983000	0:41:10.770000
 Sachen	Sache	NOUN	-	0:41:09.983000	0:41:10.770000
 .	-	-	-	0:41:09.983000	0:41:10.770000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:10.770000" end="0:41:11.263000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:10.770000" end="0:41:11.263000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:10.770000	0:41:11.263000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:10.770000" end="0:41:11.263000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:10.770000" end="0:41:11.263000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:10.770000	0:41:11.263000
 .	-	-	-	0:41:10.770000	0:41:11.263000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:11.263000" end="0:41:16.036000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:11.263000" end="0:41:16.036000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:41:11.263000	0:41:15.296000
 ja	ja	ADV	-	0:41:11.263000	0:41:15.296000
 dann	dann	ADV	-	0:41:11.263000	0:41:15.296000
@@ -9371,11 +9371,11 @@ also	also	ADV	-	0:41:11.263000	0:41:15.296000
 ja	ja	ADV	-	0:41:15.296000	0:41:16.036000
 .	-	-	-	0:41:15.296000	0:41:16.036000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:15.296000" end="0:41:16.036000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:15.296000" end="0:41:16.036000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:41:15.296000	0:41:16.036000
 .	-	-	-	0:41:15.296000	0:41:16.036000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:16.036000" end="0:41:23.323000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:16.036000" end="0:41:23.323000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:41:16.036000	0:41:20.023000
 ähm	ähm	PROPN	-	0:41:16.036000	0:41:20.023000
@@ -9396,10 +9396,10 @@ im	im	ADP	-	0:41:20.023000	0:41:23.323000
 Grunde	Grund	NOUN	-	0:41:20.023000	0:41:23.323000
 .	-	-	-	0:41:20.023000	0:41:23.323000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:23.323000" end="0:41:23.723000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:23.323000" end="0:41:23.723000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:41:23.323000	0:41:23.723000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:23.723000" end="0:41:32.090000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:23.723000" end="0:41:32.090000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:41:23.723000	0:41:26.856000
 <pause duration="0,5s"/>
 wenn	wenn	SCONJ	-	0:41:23.723000	0:41:26.856000
@@ -9425,7 +9425,7 @@ mit	mit	ADP	-	0:41:26.856000	0:41:32.090000
 Dialekteinflüssen	Dialekteinflüssen	NOUN	-	0:41:26.856000	0:41:32.090000
 ?	-	-	-	0:41:26.856000	0:41:32.090000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:32.090000" end="0:41:35.123000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:32.090000" end="0:41:35.123000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 immer	immer	ADV	-	0:41:32.090000	0:41:35.123000
 unter	unter	ADP	-	0:41:32.090000	0:41:35.123000
@@ -9434,18 +9434,18 @@ Woche	Woche	NOUN	-	0:41:32.090000	0:41:35.123000
 eigentlich	eigentlich	ADV	-	0:41:32.090000	0:41:35.123000
 .	-	-	-	0:41:32.090000	0:41:35.123000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:35.123000" end="0:41:35.803000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:35.123000" end="0:41:35.803000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	0:41:35.123000	0:41:35.803000
 .	-	-	-	0:41:35.123000	0:41:35.803000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:35.123000" end="0:41:35.803000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:35.123000" end="0:41:35.803000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:41:35.123000	0:41:35.803000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:35.803000" end="0:41:36.230000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:35.803000" end="0:41:36.230000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:41:35.803000	0:41:36.230000
 .	-	-	-	0:41:35.803000	0:41:36.230000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:36.230000" end="0:41:54.570000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:36.230000" end="0:41:54.570000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 fünf	fünf	NUM	-	0:41:36.230000	0:41:39.423000
 Tage	Tag	NOUN	-	0:41:36.230000	0:41:39.423000
@@ -9496,10 +9496,10 @@ rede	rede	VERB	-	0:41:44.363000	0:41:53.276000
 oder	oder	CCONJ	-	0:41:53.276000	0:41:54.570000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:54.570000" end="0:41:54.870000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:54.570000" end="0:41:54.870000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:54.570000	0:41:54.870000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:54.570000" end="0:41:56.503000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:54.570000" end="0:41:56.503000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 der	der	DET	-	0:41:54.570000	0:41:54.870000
 Dialekt	Dialekt	NOUN	-	0:41:54.870000	0:41:56.503000
 zumindest	zumindest	ADV	-	0:41:54.870000	0:41:56.503000
@@ -9508,10 +9508,10 @@ abgeschwächt	abschwächen	VERB	-	0:41:54.870000	0:41:56.503000
 wird	werden	AUX	-	0:41:54.870000	0:41:56.503000
 .	-	-	-	0:41:54.870000	0:41:56.503000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:41:56.503000" end="0:41:57.356000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:41:56.503000" end="0:41:57.356000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:41:56.503000	0:41:57.356000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:41:57.356000" end="0:42:01.523000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:57.356000" end="0:42:01.523000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:41:57.356000	0:41:58.556000
 eigentlich	eigentlich	ADV	-	0:41:57.356000	0:41:58.556000
 interessant	interessant	ADJ	-	0:41:57.356000	0:41:58.556000
@@ -9527,10 +9527,10 @@ Dialekte	Dialekt	NOUN	-	0:41:58.556000	0:42:01.523000
 haben	haben	AUX	-	0:41:58.556000	0:42:01.523000
 .	-	-	-	0:41:58.556000	0:42:01.523000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:01.523000" end="0:42:02.003000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:01.523000" end="0:42:02.003000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:42:01.523000	0:42:02.003000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:02.003000" end="0:42:08.343000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:02.003000" end="0:42:08.343000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:42:02.003000	0:42:02.863000
 es	ich	PRON	-	0:42:02.003000	0:42:02.863000
 weiß	weiß	VERB	-	0:42:02.003000	0:42:02.863000
@@ -9558,27 +9558,27 @@ dieses	dies	DET	-	0:42:03.763000	0:42:08.343000
 österreichische	österreichisch	ADJ	-	0:42:03.763000	0:42:08.343000
 Deutsch	Deutsch	NOUN	-	0:42:03.763000	0:42:08.343000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:08.343000" end="0:42:09.523000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:08.343000" end="0:42:09.523000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:42:08.343000	0:42:08.890000
 ja	ja	ADV	-	0:42:08.890000	0:42:09.523000
 das	der	PRON	-	0:42:08.890000	0:42:09.523000
 ist	sein	AUX	-	0:42:08.890000	0:42:09.523000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:08.890000" end="0:42:09.523000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:08.890000" end="0:42:09.523000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	0:42:08.890000	0:42:09.523000
 Wien	Wien	PROPN	-	0:42:08.890000	0:42:09.523000
 .	-	-	-	0:42:08.890000	0:42:09.523000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:09.523000" end="0:42:10.376000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:09.523000" end="0:42:10.376000" persName="Informant EXP4" age_lower="" age_upper="999">
 spannend	spannen	ADJ	-	0:42:09.523000	0:42:10.063000
 ja	ja	ADV	-	0:42:10.063000	0:42:10.376000
 .	-	-	-	0:42:10.063000	0:42:10.376000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:10.063000" end="0:42:10.376000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:10.063000" end="0:42:10.376000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:10.063000	0:42:10.376000
 .	-	-	-	0:42:10.063000	0:42:10.376000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:10.376000" end="0:42:20.810000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:10.376000" end="0:42:20.810000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:42:10.376000	0:42:11.476000
 heißt	heißen	VERB	-	0:42:10.376000	0:42:11.476000
@@ -9617,23 +9617,23 @@ und	-	-	-	0:42:16.268000	0:42:20.810000
 "immer"	-	-	-	0:42:16.268000	0:42:20.810000
 ?	-	-	-	0:42:16.268000	0:42:20.810000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:20.810000" end="0:42:23.363000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:20.810000" end="0:42:23.363000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 das	der	DET	-	0:42:20.810000	0:42:23.363000
 österreichische	österreichisch	ADJ	-	0:42:20.810000	0:42:23.363000
 Deutsch	Deutsch	NOUN	-	0:42:20.810000	0:42:23.363000
 ?	-	-	-	0:42:20.810000	0:42:23.363000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:23.363000" end="0:42:24.970000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:23.363000" end="0:42:24.970000" persName="Informant EXP4" age_lower="" age_upper="999">
 genau	genau	ADJ	-	0:42:23.363000	0:42:24.223000
 .	-	-	-	0:42:23.363000	0:42:24.223000
 also	also	ADV	-	0:42:24.223000	0:42:24.490000
 das	der	DET	-	0:42:24.490000	0:42:24.970000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:24.490000" end="0:42:24.970000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:24.490000" end="0:42:24.970000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:42:24.490000	0:42:24.970000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:24.970000" end="0:42:28.810000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:24.970000" end="0:42:28.810000" persName="Informant EXP4" age_lower="" age_upper="999">
 ihr	mein	DET	-	0:42:24.970000	0:42:28.810000
 persönliches	persönlich	ADJ	-	0:42:24.970000	0:42:28.810000
 österreichisches	österreichisch	ADJ	-	0:42:24.970000	0:42:28.810000
@@ -9643,7 +9643,7 @@ Dialekteinflüssen	Dialekteinflüssen	NOUN	-	0:42:24.970000	0:42:28.810000
 sozusagen	sozusagen	ADV	-	0:42:24.970000	0:42:28.810000
 .	-	-	-	0:42:24.970000	0:42:28.810000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:28.810000" end="0:42:34.843000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:28.810000" end="0:42:34.843000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:28.810000	0:42:29.143000
 .	-	-	-	0:42:28.810000	0:42:29.143000
 <pause duration="1,0s"/>
@@ -9670,10 +9670,10 @@ telefoniere	telefonieren	NOUN	-	0:42:33.203000	0:42:34.843000
 zum	zum	ADP	-	0:42:33.203000	0:42:34.843000
 Beispiel	Beispiel	NOUN	-	0:42:33.203000	0:42:34.843000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:34.843000" end="0:42:35.436000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:34.843000" end="0:42:35.436000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:42:34.843000	0:42:35.436000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:35.436000" end="0:42:38.363000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:35.436000" end="0:42:38.363000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	ADJ	-	0:42:35.436000	0:42:36.470000
 aus	aus	ADP	-	0:42:35.436000	0:42:36.470000
 Wien	Wien	PROPN	-	0:42:35.436000	0:42:36.470000
@@ -9685,14 +9685,14 @@ es	ich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum st
 anwenden	anwenden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:42:36.470000	0:42:38.363000
 .	-	-	-	0:42:36.470000	0:42:38.363000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:38.363000" end="0:42:38.710000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:38.363000" end="0:42:38.710000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:42:38.363000	0:42:38.710000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:38.710000" end="0:42:38.890000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:38.710000" end="0:42:38.890000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:38.710000	0:42:38.890000
 .	-	-	-	0:42:38.710000	0:42:38.890000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:38.890000" end="0:42:40.823000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:38.890000" end="0:42:40.823000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:42:38.890000	0:42:40.170000
 deshalb	deshalb	ADV	-	0:42:38.890000	0:42:40.170000
 fast	fast	ADV	-	0:42:38.890000	0:42:40.170000
@@ -9700,20 +9700,20 @@ immer	immer	ADV	-	0:42:38.890000	0:42:40.170000
 sozusagen	sozusagen	ADV	-	0:42:40.170000	0:42:40.823000
 .	-	-	-	0:42:40.170000	0:42:40.823000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:40.170000" end="0:42:40.823000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:40.170000" end="0:42:40.823000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:42:40.170000	0:42:40.823000
 schon	schon	ADV	-	0:42:40.170000	0:42:40.823000
 .	-	-	-	0:42:40.170000	0:42:40.823000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:40.823000" end="0:42:41.736000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:40.823000" end="0:42:41.736000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:42:40.823000	0:42:41.336000
 ja	ja	PART	-	0:42:41.336000	0:42:41.736000
 .	-	-	-	0:42:41.336000	0:42:41.736000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:41.336000" end="0:42:41.736000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:41.336000" end="0:42:41.736000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:41.336000	0:42:41.736000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:41.736000" end="0:42:49.056000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:41.736000" end="0:42:49.056000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ähm	ähm	NOUN	-	0:42:41.736000	0:42:48.243000
 <pause duration="1,3s"/>
@@ -9736,10 +9736,10 @@ wir	ich	PRON	-	0:42:48.243000	0:42:49.056000
 jetzt	jetzt	ADV	-	0:42:48.243000	0:42:49.056000
 schon	schon	ADV	-	0:42:48.243000	0:42:49.056000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:49.056000" end="0:42:49.476000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:49.056000" end="0:42:49.476000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:49.056000	0:42:49.476000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:42:49.476000" end="0:42:53.770000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:42:49.476000" end="0:42:53.770000" persName="Informant EXP4" age_lower="" age_upper="999">
 ein	einen	DET	-	0:42:49.476000	0:42:50.703000
 bisschen	bisschen	ADJ	-	0:42:49.476000	0:42:50.703000
 besprochen	besprechen	VERB	-	0:42:49.476000	0:42:50.703000
@@ -9761,7 +9761,7 @@ etwas	etwas	PRON	-	0:42:51.903000	0:42:53.770000
 ein	einen	ADP	-	0:42:51.903000	0:42:53.770000
 ?	-	-	-	0:42:51.903000	0:42:53.770000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:42:53.770000" end="0:43:06.036000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:53.770000" end="0:43:06.036000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	0:42:53.770000	0:42:57.010000
 nein	nein	PART	-	0:42:53.770000	0:42:57.010000
@@ -9793,16 +9793,16 @@ in	in	ADP	-	0:42:57.010000	0:43:06.036000
 Wien	Wien	PROPN	-	0:42:57.010000	0:43:06.036000
 .	-	-	-	0:42:57.010000	0:43:06.036000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:06.036000" end="0:43:06.756000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:06.036000" end="0:43:06.756000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:43:06.036000	0:43:06.756000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:06.756000" end="0:43:07.103000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:06.756000" end="0:43:07.103000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:43:06.756000	0:43:07.103000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:07.103000" end="0:43:07.456000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:07.103000" end="0:43:07.456000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:43:07.103000	0:43:07.456000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:07.456000" end="0:43:10.003000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:07.456000" end="0:43:10.003000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 da	da	ADV	-	0:43:07.456000	0:43:10.003000
 eigentlich	eigentlich	ADV	-	0:43:07.456000	0:43:10.003000
@@ -9811,7 +9811,7 @@ eigentlich	eigentlich	ADV	-	0:43:07.456000	0:43:10.003000
 immer	immer	ADV	-	0:43:07.456000	0:43:10.003000
 .	-	-	-	0:43:07.456000	0:43:10.003000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:10.003000" end="0:43:16.690000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:10.003000" end="0:43:16.690000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:43:10.003000	0:43:12.583000
 und	und	CCONJ	-	0:43:10.003000	0:43:12.583000
 in	in	ADP	-	0:43:10.003000	0:43:12.583000
@@ -9836,7 +9836,7 @@ Telefon	Telefon	NOUN	-	0:43:12.583000	0:43:16.690000
 oder	oder	CCONJ	-	0:43:12.583000	0:43:16.690000
 ?	-	-	-	0:43:12.583000	0:43:16.690000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:16.690000" end="0:43:22.076000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:16.690000" end="0:43:22.076000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ähm	ähm	X	-	0:43:16.690000	0:43:20.743000
 na	na	X	-	0:43:16.690000	0:43:20.743000
@@ -9857,7 +9857,7 @@ ist	sein	AUX	-	0:43:20.743000	0:43:21.656000
 oder	oder	CCONJ	-	0:43:21.656000	0:43:22.076000
 ?	-	-	-	0:43:21.656000	0:43:22.076000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:22.076000" end="0:43:25.590000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:22.076000" end="0:43:25.590000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	X	-	0:43:22.076000	0:43:23.170000
 ich	ich	PRON	-	0:43:22.076000	0:43:23.170000
 habe	habe	AUX	-	0:43:22.076000	0:43:23.170000
@@ -9871,7 +9871,7 @@ sozusagen	sozusagen	ADV	-	0:43:23.170000	0:43:25.590000
 mit	mit	ADP	-	0:43:23.170000	0:43:25.590000
 mit	mit	ADP	-	0:43:23.170000	0:43:25.590000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:23.170000" end="0:43:26.830000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:23.170000" end="0:43:26.830000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:43:23.170000	0:43:25.590000
 achso	achso	NOUN	-	0:43:23.170000	0:43:25.590000
 mit	mit	ADP	-	0:43:23.170000	0:43:25.590000
@@ -9882,11 +9882,11 @@ als	als	CCONJ	-	0:43:25.590000	0:43:26.830000
 auch	auch	ADV	-	0:43:25.590000	0:43:26.830000
 .	-	-	-	0:43:25.590000	0:43:26.830000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:26.830000" end="0:43:27.576000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:26.830000" end="0:43:27.576000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:43:26.830000	0:43:27.576000
 .	-	-	-	0:43:26.830000	0:43:27.576000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:26.830000" end="0:43:33.430000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:26.830000" end="0:43:33.430000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:43:26.830000	0:43:27.576000
 <pause duration="1,3s"/>
 den	der	DET	-	0:43:27.576000	0:43:31.163000
@@ -9909,10 +9909,10 @@ Politik	Politik	NOUN	-	0:43:32.390000	0:43:33.430000
 ist	sein	AUX	-	0:43:32.390000	0:43:33.430000
 natürlich	natürlich	ADV	-	0:43:32.390000	0:43:33.430000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:33.430000" end="0:43:34.290000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:33.430000" end="0:43:34.290000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	X	-	0:43:33.430000	0:43:34.290000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:33.430000" end="0:43:35.076000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:33.430000" end="0:43:35.076000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 immer	immer	ADV	-	0:43:33.430000	0:43:34.290000
 praktisch	praktisch	ADJ	-	0:43:33.430000	0:43:34.290000
 immer	immer	ADV	-	0:43:34.290000	0:43:35.076000
@@ -9920,11 +9920,11 @@ in	in	ADP	-	0:43:34.290000	0:43:35.076000
 Wien	Wien	PROPN	-	0:43:34.290000	0:43:35.076000
 .	-	-	-	0:43:34.290000	0:43:35.076000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:35.076000" end="0:43:36.390000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:35.076000" end="0:43:36.390000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:43:35.076000	0:43:35.710000
 mhm	mhm	PROPN	-	0:43:35.710000	0:43:36.390000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:35.710000" end="0:43:39.236000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:35.710000" end="0:43:39.236000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:43:35.710000	0:43:36.390000
 heißt	heißen	VERB	-	0:43:35.710000	0:43:36.390000
 ,	-	-	-	0:43:35.710000	0:43:36.390000
@@ -9938,13 +9938,13 @@ die	der	DET	-	0:43:36.390000	0:43:39.236000
 Sprache	Sprache	NOUN	-	0:43:36.390000	0:43:39.236000
 .	-	-	-	0:43:36.390000	0:43:39.236000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:39.236000" end="0:43:40.450000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:39.236000" end="0:43:40.450000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:43:39.236000	0:43:40.036000
 .	-	-	-	0:43:39.236000	0:43:40.036000
 ja	ja	PART	-	0:43:40.036000	0:43:40.450000
 .	-	-	-	0:43:40.036000	0:43:40.450000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:40.036000" end="0:43:45.590000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:40.036000" end="0:43:45.590000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:43:40.036000	0:43:40.450000
 es	ich	PRON	-	0:43:40.450000	0:43:41.310000
 kommt	kommen	VERB	-	0:43:40.450000	0:43:41.310000
@@ -9968,10 +9968,10 @@ bissel	bissel	NOUN	-	0:43:43.996000	0:43:45.590000
 zurückfällt	zurückfallen	VERB	-	0:43:43.996000	0:43:45.590000
 .	-	-	-	0:43:43.996000	0:43:45.590000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:45.590000" end="0:43:46.896000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:45.590000" end="0:43:46.896000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	X	-	0:43:45.590000	0:43:46.896000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:45.590000" end="0:43:46.896000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:45.590000" end="0:43:46.896000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:43:45.590000	0:43:46.896000
 wieder	wieder	ADV	-	0:43:45.590000	0:43:46.896000
 ein	-	-	-	0:43:45.590000	0:43:46.896000
@@ -9979,32 +9979,32 @@ bissel	bissel	VERB	-	0:43:45.590000	0:43:46.896000
 mehr	mehr	DET	-	0:43:45.590000	0:43:46.896000
 Dialekt	Dialekt	NOUN	-	0:43:45.590000	0:43:46.896000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:46.896000" end="0:43:47.636000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:46.896000" end="0:43:47.636000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:43:46.896000	0:43:47.636000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:46.896000" end="0:43:47.636000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:46.896000" end="0:43:47.636000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 redet	reden	VERB	-	0:43:46.896000	0:43:47.636000
 .	-	-	-	0:43:46.896000	0:43:47.636000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:47.636000" end="0:43:48.310000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:47.636000" end="0:43:48.310000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	0:43:47.636000	0:43:48.310000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:47.636000" end="0:43:48.310000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:47.636000" end="0:43:48.310000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:48.310000" end="0:43:48.983000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:48.310000" end="0:43:48.983000" persName="Informant EXP4" age_lower="" age_upper="999">
 spannend	spannen	ADJ	-	0:43:48.310000	0:43:48.983000
 ja	ja	PART	-	0:43:48.310000	0:43:48.983000
 .	-	-	-	0:43:48.310000	0:43:48.983000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:48.310000" end="0:43:49.503000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:48.310000" end="0:43:49.503000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:43:48.310000	0:43:48.983000
 genau	genau	ADJ	-	0:43:48.983000	0:43:49.503000
 .	-	-	-	0:43:48.983000	0:43:49.503000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:49.503000" end="0:43:49.923000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:49.503000" end="0:43:49.923000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:43:49.503000	0:43:49.923000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:49.503000" end="0:43:55.276000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.503000" end="0:43:55.276000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sonst	sonst	ADV	-	0:43:49.503000	0:43:49.923000
 ist	sein	AUX	-	0:43:49.923000	0:43:55.276000
 es	ich	PRON	-	0:43:49.923000	0:43:55.276000
@@ -10023,15 +10023,15 @@ dieses	dies	DET	-	0:43:49.923000	0:43:55.276000
 Deutsch	Deutsch	NOUN	-	0:43:49.923000	0:43:55.276000
 .	-	-	-	0:43:49.923000	0:43:55.276000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:55.276000" end="0:43:56.003000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:55.276000" end="0:43:56.003000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:43:55.276000	0:43:56.003000
 .	-	-	-	0:43:55.276000	0:43:56.003000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:43:55.276000" end="0:43:56.003000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:55.276000" end="0:43:56.003000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:55.276000	0:43:56.003000
 .	-	-	-	0:43:55.276000	0:43:56.003000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:43:56.003000" end="0:44:02.636000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:43:56.003000" end="0:44:02.636000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:43:56.003000	0:43:56.670000
 .	-	-	-	0:43:56.003000	0:43:56.670000
 <pause duration="0,7s"/>
@@ -10056,7 +10056,7 @@ gefordert	fordern	VERB	-	0:44:01.403000	0:44:02.636000
 ist	sein	AUX	-	0:44:01.403000	0:44:02.636000
 ?	-	-	-	0:44:01.403000	0:44:02.636000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:02.636000" end="0:44:20.263000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:02.636000" end="0:44:20.263000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ähm	ähm	PROPN	-	0:44:02.636000	0:44:07.090000
 <pause duration="1,5s"/>
@@ -10105,10 +10105,10 @@ angebrachter	angebracht	VERB	-	0:44:16.376000	0:44:19.863000
 also	also	ADV	-	0:44:19.863000	0:44:20.263000
 das	der	DET	-	0:44:19.863000	0:44:20.263000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:20.263000" end="0:44:21.016000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:20.263000" end="0:44:21.016000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:44:20.263000	0:44:21.016000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:21.016000" end="0:44:28.423000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:21.016000" end="0:44:28.423000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	NOUN	-	0:44:21.016000	0:44:24.070000
 in	in	ADP	-	0:44:21.016000	0:44:24.070000
 solchen	solch	DET	-	0:44:21.016000	0:44:24.070000
@@ -10132,10 +10132,10 @@ oder	oder	CCONJ	-	0:44:26.996000	0:44:28.423000
 so	so	ADV	-	0:44:26.996000	0:44:28.423000
 .	-	-	-	0:44:26.996000	0:44:28.423000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:28.423000" end="0:44:29.203000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:28.423000" end="0:44:29.203000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:44:28.423000	0:44:29.203000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:28.423000" end="0:44:31.623000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:28.423000" end="0:44:31.623000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:44:28.423000	0:44:29.203000
 da	da	ADV	-	0:44:29.203000	0:44:31.090000
 muss	muss	VERB	-	0:44:29.203000	0:44:31.090000
@@ -10147,17 +10147,17 @@ finde	finden	VERB	-	0:44:31.090000	0:44:31.623000
 ich	ich	PRON	-	0:44:31.090000	0:44:31.623000
 .	-	-	-	0:44:31.090000	0:44:31.623000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:31.623000" end="0:44:32.236000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:31.623000" end="0:44:32.236000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:44:31.623000	0:44:32.236000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:31.623000" end="0:44:33.070000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:31.623000" end="0:44:33.070000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sonst	sonst	ADV	-	0:44:31.623000	0:44:32.236000
 ist	sein	AUX	-	0:44:31.623000	0:44:32.236000
 es	ich	PRON	-	0:44:31.623000	0:44:32.236000
 genau	genau	ADJ	-	0:44:32.236000	0:44:33.070000
 .	-	-	-	0:44:32.236000	0:44:33.070000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:33.070000" end="0:44:39.890000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:33.070000" end="0:44:39.890000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:44:33.070000	0:44:33.823000
 <pause duration="0,9s"/>
 ähm	ähm	PROPN	-	0:44:33.823000	0:44:37.183000
@@ -10179,10 +10179,10 @@ einer	einer	DET	-	0:44:37.183000	0:44:39.890000
 Situation	Situation	NOUN	-	0:44:37.183000	0:44:39.890000
 ,	-	-	-	0:44:37.183000	0:44:39.890000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:39.890000" end="0:44:40.330000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:39.890000" end="0:44:40.330000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:39.890000	0:44:40.330000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:40.330000" end="0:44:47.970000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:40.330000" end="0:44:47.970000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	X	-	0:44:40.330000	0:44:42.056000
 die	der	DET	-	0:44:40.330000	0:44:42.056000
 sie	ich	PRON	-	0:44:40.330000	0:44:42.056000
@@ -10212,10 +10212,10 @@ oder	oder	CCONJ	-	0:44:46.063000	0:44:47.583000
 zuerst	zuerst	ADV	-	0:44:46.063000	0:44:47.583000
 die	der	PRON	-	0:44:47.583000	0:44:47.970000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:47.583000" end="0:44:47.970000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:47.583000" end="0:44:47.970000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:47.583000	0:44:47.970000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:47.970000" end="0:44:51.530000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:47.970000" end="0:44:51.530000" persName="Informant EXP4" age_lower="" age_upper="999">
 die	der	DET	-	0:44:47.970000	0:44:48.923000
 so	so	ADV	-	0:44:47.970000	0:44:48.923000
 sprechen	sprechen	VERB	-	0:44:47.970000	0:44:48.923000
@@ -10230,7 +10230,7 @@ so	so	ADV	-	0:44:48.923000	0:44:51.530000
 sprechen	sprechen	VERB	-	0:44:48.923000	0:44:51.530000
 .	-	-	-	0:44:48.923000	0:44:51.530000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:51.530000" end="0:44:56.450000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:51.530000" end="0:44:56.450000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 also	also	ADV	-	0:44:51.530000	0:44:53.483000
 die	der	DET	-	0:44:51.530000	0:44:53.483000
@@ -10247,10 +10247,10 @@ Norm	Norm	NOUN	-	0:44:53.990000	0:44:55.916000
 .	-	-	-	0:44:53.990000	0:44:55.916000
 zumindest	zumindest	ADV	-	0:44:55.916000	0:44:56.450000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:44:56.450000" end="0:44:57.003000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:44:56.450000" end="0:44:57.003000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:56.450000	0:44:57.003000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:44:57.003000" end="0:45:07.416000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:57.003000" end="0:45:07.416000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 auf	auf	ADP	-	0:44:57.003000	0:44:58.970000
 meiner	sich	DET	-	0:44:57.003000	0:44:58.970000
@@ -10285,10 +10285,10 @@ es	ich	PRON	-	0:45:06.150000	0:45:07.416000
 nicht	nicht	PART	-	0:45:06.150000	0:45:07.416000
 .	-	-	-	0:45:06.150000	0:45:07.416000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:07.416000" end="0:45:08.103000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:07.416000" end="0:45:08.103000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:07.416000	0:45:08.103000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:07.416000" end="0:45:18.390000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:07.416000" end="0:45:18.390000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:45:07.416000	0:45:08.103000
 es	ich	PRON	-	0:45:08.103000	0:45:10.283000
 gibt	geben	VERB	-	0:45:08.103000	0:45:10.283000
@@ -10318,10 +10318,10 @@ so	so	ADV	-	0:45:10.963000	0:45:18.390000
 beeinflussen	beeinflussen	VERB	-	0:45:10.963000	0:45:18.390000
 .	-	-	-	0:45:10.963000	0:45:18.390000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:18.390000" end="0:45:18.896000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:18.390000" end="0:45:18.896000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:18.390000	0:45:18.896000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:18.896000" end="0:45:23.723000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:18.896000" end="0:45:23.723000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	also	ADV	-	0:45:18.896000	0:45:20.383000
 weiß	weiß	VERB	-	0:45:18.896000	0:45:20.383000
@@ -10339,10 +10339,10 @@ oder	oder	CCONJ	-	0:45:20.383000	0:45:23.723000
 Vorarlbergerisch	Vorarlbergerisch	NOUN	-	0:45:20.383000	0:45:23.723000
 .	-	-	-	0:45:20.383000	0:45:23.723000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:23.723000" end="0:45:24.270000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:23.723000" end="0:45:24.270000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:23.723000	0:45:24.270000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:24.270000" end="0:45:26.090000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:24.270000" end="0:45:26.090000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:45:24.270000	0:45:26.090000
 man	man	PRON	-	0:45:24.270000	0:45:26.090000
 es	ich	PRON	-	0:45:24.270000	0:45:26.090000
@@ -10353,10 +10353,10 @@ sofort	sofort	ADV	-	0:45:24.270000	0:45:26.090000
 hört	hören	VERB	-	0:45:24.270000	0:45:26.090000
 ,	-	-	-	0:45:24.270000	0:45:26.090000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:26.090000" end="0:45:26.730000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:26.090000" end="0:45:26.730000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:26.090000	0:45:26.730000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:26.090000" end="0:45:47.723000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:26.090000" end="0:45:47.723000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:45:26.090000	0:45:26.730000
 wenn	wenn	SCONJ	-	0:45:26.090000	0:45:26.730000
 jemand	jemand	PRON	-	0:45:26.730000	0:45:28.316000
@@ -10428,25 +10428,25 @@ ganz	-	-	-	0:45:46.356000	0:45:47.723000
 stark	-	-	-	0:45:46.356000	0:45:47.723000
 .	-	-	-	0:45:46.356000	0:45:47.723000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:47.723000" end="0:45:48.483000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:47.723000" end="0:45:48.483000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:47.723000	0:45:48.483000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:47.723000" end="0:45:48.483000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:47.723000" end="0:45:48.483000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:45:47.723000	0:45:48.483000
 ich	ich	PRON	-	0:45:47.723000	0:45:48.483000
 .	-	-	-	0:45:47.723000	0:45:48.483000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:48.483000" end="0:45:50.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:48.483000" end="0:45:50.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:48.483000	0:45:49.889000
 *verstehe*	-	-	-	0:45:48.483000	0:45:49.889000
 ja	-	-	-	0:45:49.889000	0:45:50.269000
 .	-	-	-	0:45:49.889000	0:45:50.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:49.889000" end="0:45:50.269000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:49.889000" end="0:45:50.269000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:49.889000	0:45:50.269000
 .	-	-	-	0:45:49.889000	0:45:50.269000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:45:50.269000" end="0:45:55.143000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:45:50.269000" end="0:45:55.143000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 ähm	ähm	PROPN	-	0:45:50.269000	0:45:55.143000
 und	und	CCONJ	-	0:45:50.269000	0:45:55.143000
@@ -10464,7 +10464,7 @@ das	der	PRON	-	0:45:50.269000	0:45:55.143000
 dann	dann	ADV	-	0:45:50.269000	0:45:55.143000
 ?	-	-	-	0:45:50.269000	0:45:55.143000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:45:55.143000" end="0:46:02.756000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:55.143000" end="0:46:02.756000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ähm	ähm	PROPN	-	0:45:55.143000	0:45:58.876000
 <pause duration="0,8s"/>
@@ -10491,10 +10491,10 @@ angemessen	anmessen	ADJ	-	0:45:58.876000	0:46:02.756000
 ist	sein	AUX	-	0:45:58.876000	0:46:02.756000
 ,	-	-	-	0:45:58.876000	0:46:02.756000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:02.756000" end="0:46:03.583000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:02.756000" end="0:46:03.583000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:02.756000	0:46:03.583000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:03.583000" end="0:46:08.236000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:03.583000" end="0:46:08.236000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	NOUN	-	0:46:03.583000	0:46:08.236000
 zu	zu	PART	-	0:46:03.583000	0:46:08.236000
 ver/	-	-	-	0:46:03.583000	0:46:08.236000
@@ -10505,10 +10505,10 @@ möglichst	möglichst	ADV	-	0:46:03.583000	0:46:08.236000
 <pause duration="0,7s"/>
 reines	rein	ADJ	-	0:46:03.583000	0:46:08.236000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:08.236000" end="0:46:09.376000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:08.236000" end="0:46:09.376000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:08.236000	0:46:09.376000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:08.236000" end="0:46:18.629000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:08.236000" end="0:46:18.629000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 österreichisches	österreichisch	ADJ	-	0:46:08.236000	0:46:09.376000
 Deutsch	Deutsch	NOUN	-	0:46:09.376000	0:46:13.823000
 oder	oder	CCONJ	-	0:46:09.376000	0:46:13.823000
@@ -10541,10 +10541,10 @@ negativ	negativ	ADJ	-	0:46:17.203000	0:46:18.629000
 finde	finden	VERB	-	0:46:17.203000	0:46:18.629000
 .	-	-	-	0:46:17.203000	0:46:18.629000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:18.629000" end="0:46:19.289000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:18.629000" end="0:46:19.289000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:18.629000	0:46:19.289000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:19.289000" end="0:46:27.023000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:19.289000" end="0:46:27.023000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:46:19.289000	0:46:25.549000
 ,	-	-	-	0:46:19.289000	0:46:25.549000
 es	ich	PRON	-	0:46:19.289000	0:46:25.549000
@@ -10566,11 +10566,11 @@ oder	oder	CCONJ	-	0:46:26.016000	0:46:27.023000
 so	so	ADV	-	0:46:26.016000	0:46:27.023000
 .	-	-	-	0:46:26.016000	0:46:27.023000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:27.023000" end="0:46:28.003000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:27.023000" end="0:46:28.003000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:27.023000	0:46:28.003000
 mhm	-	-	-	0:46:27.023000	0:46:28.003000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:28.003000" end="0:46:35.716000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:28.003000" end="0:46:35.716000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:46:28.003000	0:46:29.176000
 kann	können	VERB	-	0:46:28.003000	0:46:29.176000
 halt	halt	ADV	-	0:46:28.003000	0:46:29.176000
@@ -10600,33 +10600,33 @@ Inhalt	Inhalt	NOUN	-	0:46:34.409000	0:46:35.716000
 oder	oder	CCONJ	-	0:46:34.409000	0:46:35.716000
 dem	der	DET	-	0:46:34.409000	0:46:35.716000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:35.716000" end="0:46:36.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:35.716000" end="0:46:36.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:35.716000	0:46:36.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:35.716000" end="0:46:36.829000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:35.716000" end="0:46:36.829000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:46:35.716000	0:46:36.269000
 der	der	DET	-	0:46:35.716000	0:46:36.269000
 Qualität	Qualität	NOUN	-	0:46:36.269000	0:46:36.829000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:36.829000" end="0:46:37.503000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:36.829000" end="0:46:37.503000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:36.829000	0:46:37.503000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:36.829000" end="0:46:37.503000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:36.829000" end="0:46:37.503000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sagen	sagen	VERB	-	0:46:36.829000	0:46:37.503000
 wir	ich	PRON	-	0:46:36.829000	0:46:37.503000
 es	ich	PRON	-	0:46:36.829000	0:46:37.503000
 so	so	ADV	-	0:46:36.829000	0:46:37.503000
 .	-	-	-	0:46:36.829000	0:46:37.503000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:37.503000" end="0:46:38.569000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:37.503000" end="0:46:38.569000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:37.503000	0:46:38.003000
 *verstehe*	-	-	-	0:46:38.003000	0:46:38.569000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:38.003000" end="0:46:38.569000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:38.003000" end="0:46:38.569000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:38.003000	0:46:38.569000
 .	-	-	-	0:46:38.003000	0:46:38.569000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:38.569000" end="0:46:53.076000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:38.569000" end="0:46:53.076000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	-	-	-	0:46:38.569000	0:46:38.929000
 .	-	-	-	0:46:38.569000	0:46:38.929000
 <pause duration="0,6s"/>
@@ -10666,7 +10666,7 @@ beziehungsweise	beziehungsweise	CCONJ	-	0:46:50.489000	0:46:53.076000
 wann	wann	ADV	-	0:46:50.489000	0:46:53.076000
 ?	-	-	-	0:46:50.489000	0:46:53.076000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:53.076000" end="0:46:59.169000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:53.076000" end="0:46:59.169000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	X	-	0:46:53.076000	0:46:59.169000
 ja	ja	ADV	-	0:46:53.076000	0:46:59.169000
@@ -10680,10 +10680,10 @@ mit	mit	ADP	-	0:46:53.076000	0:46:59.169000
 oder	oder	CCONJ	-	0:46:53.076000	0:46:59.169000
 [Oberwölzerinnen]S	Oberwölzerinnen	NOUN	-	0:46:53.076000	0:46:59.169000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:46:59.169000" end="0:46:59.723000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:46:59.169000" end="0:46:59.723000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:46:59.169000	0:46:59.723000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:46:59.723000" end="0:47:04.729000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:59.723000" end="0:47:04.729000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:46:59.723000	0:47:03.103000
 es	ich	PRON	-	0:46:59.723000	0:47:03.103000
 <pause duration="1,3s"/>
@@ -10700,10 +10700,10 @@ plözlich	plözlich	ADJ	-	0:47:03.103000	0:47:04.729000
 österreichisched	österreichisched	DET	-	0:47:03.103000	0:47:04.729000
 Deutsch	Deutsch	NOUN	-	0:47:03.103000	0:47:04.729000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:04.729000" end="0:47:05.356000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:04.729000" end="0:47:05.356000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:47:04.729000	0:47:05.356000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:04.729000" end="0:47:11.536000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:04.729000" end="0:47:11.536000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 reden	reden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:47:04.729000	0:47:05.356000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:47:04.729000	0:47:05.356000
 .	-	-	-	0:47:04.729000	0:47:05.356000
@@ -10727,9 +10727,9 @@ sitzt	sitzen	VERB	-	0:47:08.949000	0:47:10.696000
 und	und	CCONJ	-	0:47:10.696000	0:47:11.536000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:11.536000" end="0:47:12.503000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:11.536000" end="0:47:12.503000" persName="Informant EXP4" age_lower="" age_upper="999">
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:11.536000" end="0:47:15.936000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:11.536000" end="0:47:15.936000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:47:11.536000	0:47:12.503000
 anfängst	anfangen	ADV	-	0:47:11.536000	0:47:12.503000
 also	also	ADV	-	0:47:12.503000	0:47:13.603000
@@ -10745,10 +10745,10 @@ nicht	nicht	PART	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV cir
 passend	passen	ADJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:47:13.603000	0:47:15.936000
 eigentlich	eigentlich	ADV	-	0:47:13.603000	0:47:15.936000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:15.936000" end="0:47:16.469000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:15.936000" end="0:47:16.469000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:47:15.936000	0:47:16.469000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:16.469000" end="0:47:19.289000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:16.469000" end="0:47:19.289000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:47:16.469000	0:47:17.783000
 würde	werden	AUX	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:47:16.469000	0:47:17.783000
@@ -10761,11 +10761,11 @@ komisch	komisch	ADJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV c
 machen	machen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	0:47:17.783000	0:47:19.289000
 .	-	-	-	0:47:17.783000	0:47:19.289000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:19.289000" end="0:47:19.749000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:19.289000" end="0:47:19.749000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:47:19.289000	0:47:19.749000
 .	-	-	-	0:47:19.289000	0:47:19.749000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:19.749000" end="0:47:22.896000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:19.749000" end="0:47:22.896000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:47:19.749000	0:47:21.203000
 weil	weil	SCONJ	-	0:47:19.749000	0:47:21.203000
 das	der	PRON	-	0:47:19.749000	0:47:21.203000
@@ -10786,16 +10786,16 @@ so	so	ADV	-	0:47:22.029000	0:47:22.896000
 macht	machen	VERB	-	0:47:22.029000	0:47:22.896000
 .	-	-	-	0:47:22.029000	0:47:22.896000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:22.896000" end="0:47:23.976000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:22.896000" end="0:47:23.976000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:47:22.896000	0:47:23.489000
 .	-	-	-	0:47:22.896000	0:47:23.489000
 mhm	mhm	PROPN	-	0:47:23.489000	0:47:23.976000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:23.489000" end="0:47:23.976000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:23.489000" end="0:47:23.976000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:23.489000	0:47:23.976000
 .	-	-	-	0:47:23.489000	0:47:23.976000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:23.976000" end="0:47:29.063000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:23.976000" end="0:47:29.063000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:47:23.976000	0:47:25.063000
 oder	oder	CCONJ	-	0:47:25.063000	0:47:26.243000
 wie	wie	ADV	-	0:47:25.063000	0:47:26.243000
@@ -10818,7 +10818,7 @@ nicht	nicht	PART	-	0:47:26.243000	0:47:29.063000
 kann	können	VERB	-	0:47:26.243000	0:47:29.063000
 ?	-	-	-	0:47:26.243000	0:47:29.063000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:29.063000" end="0:47:49.223000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:29.063000" end="0:47:49.223000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:47:29.063000	0:47:30.849000
 das	der	PRON	-	0:47:29.063000	0:47:30.849000
@@ -10888,18 +10888,18 @@ manchmal	manchmal	ADV	-	0:47:46.289000	0:47:49.223000
 Gesprächsthema	Gesprächsthema	NOUN	-	0:47:46.289000	0:47:49.223000
 .	-	-	-	0:47:46.289000	0:47:49.223000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:49.223000" end="0:47:50.156000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:49.223000" end="0:47:50.156000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	X	-	0:47:49.223000	0:47:50.156000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:49.223000" end="0:47:50.456000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:49.223000" end="0:47:50.456000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:47:49.223000	0:47:50.156000
 das	der	DET	-	0:47:49.223000	0:47:50.156000
 jemand	jemand	PRON	-	0:47:50.156000	0:47:50.456000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:50.456000" end="0:47:51.276000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:50.456000" end="0:47:51.276000" persName="Informant EXP4" age_lower="" age_upper="999">
 aha	aha	PROPN	-	0:47:50.456000	0:47:51.276000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:50.456000" end="0:47:53.623000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:50.456000" end="0:47:53.623000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:47:50.456000	0:47:51.276000
 der	der	PRON	-	0:47:50.456000	0:47:51.276000
 kann	können	VERB	-	0:47:51.276000	0:47:52.883000
@@ -10916,10 +10916,10 @@ auch	auch	ADV	-	0:47:52.883000	0:47:53.623000
 nicht	nicht	PART	-	0:47:52.883000	0:47:53.623000
 mehr	mehr	ADV	-	0:47:52.883000	0:47:53.623000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:53.623000" end="0:47:54.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:53.623000" end="0:47:54.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:47:53.623000	0:47:54.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:53.623000" end="0:47:55.996000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:53.623000" end="0:47:55.996000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 der	der	PRON	-	0:47:53.623000	0:47:54.269000
 redet	reden	VERB	-	0:47:53.623000	0:47:54.269000
 nicht	nicht	PART	-	0:47:54.269000	0:47:55.163000
@@ -10930,7 +10930,7 @@ wir	ich	PRON	-	0:47:54.269000	0:47:55.163000
 .	-	-	-	0:47:54.269000	0:47:55.163000
 also	also	ADV	-	0:47:55.163000	0:47:55.996000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:55.996000" end="0:47:57.889000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:55.996000" end="0:47:57.889000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:47:55.996000	0:47:56.869000
 wie	wie	ADV	-	0:47:55.996000	0:47:56.869000
@@ -10939,13 +10939,13 @@ das	der	PRON	-	0:47:56.869000	0:47:57.889000
 die	der	PRON	-	0:47:56.869000	0:47:57.889000
 Leu/	-	-	-	0:47:56.869000	0:47:57.889000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:56.869000" end="0:47:57.889000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:56.869000" end="0:47:57.889000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:47:56.869000	0:47:57.889000
 ist	sein	AUX	-	0:47:56.869000	0:47:57.889000
 dann	dann	ADV	-	0:47:56.869000	0:47:57.889000
 schon	schon	ADV	-	0:47:56.869000	0:47:57.889000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:47:57.889000" end="0:47:59.229000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:47:57.889000" end="0:47:59.229000" persName="Informant EXP4" age_lower="" age_upper="999">
 die	der	DET	-	0:47:57.889000	0:47:59.229000
 Leute	Leute	NOUN	-	0:47:57.889000	0:47:59.229000
 wahr	wahren	ADP	-	0:47:57.889000	0:47:59.229000
@@ -10953,7 +10953,7 @@ wahr	wahren	ADP	-	0:47:57.889000	0:47:59.229000
 also/	-	-	-	0:47:57.889000	0:47:59.229000
 ?	-	-	-	0:47:57.889000	0:47:59.229000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:47:59.229000" end="0:48:04.769000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:59.229000" end="0:48:04.769000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 die	der	DET	-	0:47:59.229000	0:48:03.856000
 <pause duration="0,6s"/>
@@ -10970,10 +10970,10 @@ fällt	fällen	VERB	-	0:48:03.856000	0:48:04.769000
 auf	auf	ADP	-	0:48:03.856000	0:48:04.769000
 .	-	-	-	0:48:03.856000	0:48:04.769000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:04.769000" end="0:48:05.663000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:04.769000" end="0:48:05.663000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:48:04.769000	0:48:05.663000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:04.769000" end="0:48:14.369000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:04.769000" end="0:48:14.369000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:48:04.769000	0:48:05.663000
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:48:05.663000	0:48:09.523000
@@ -11007,10 +11007,10 @@ Deutsch	Deutsch	NOUN	-	0:48:13.176000	0:48:14.369000
 redet	reden	VERB	-	0:48:13.176000	0:48:14.369000
 .	-	-	-	0:48:13.176000	0:48:14.369000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:14.369000" end="0:48:15.136000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:14.369000" end="0:48:15.136000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:48:14.369000	0:48:15.136000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:14.369000" end="0:48:20.256000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:14.369000" end="0:48:20.256000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:48:14.369000	0:48:15.136000
 <pause duration="1,3s"/>
 die	der	PRON	-	0:48:15.136000	0:48:20.256000
@@ -11022,16 +11022,16 @@ manche	manch	DET	-	0:48:15.136000	0:48:20.256000
 Leute	Leute	NOUN	-	0:48:15.136000	0:48:20.256000
 .	-	-	-	0:48:15.136000	0:48:20.256000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:20.256000" end="0:48:20.949000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:20.256000" end="0:48:20.949000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:48:20.256000	0:48:20.949000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:20.256000" end="0:48:20.949000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:20.256000" end="0:48:20.949000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:48:20.256000	0:48:20.949000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:20.949000" end="0:48:21.509000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:20.949000" end="0:48:21.509000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:48:20.949000	0:48:21.509000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:21.509000" end="0:48:28.636000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:21.509000" end="0:48:28.636000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:48:21.509000	0:48:24.763000
 das	der	PRON	-	0:48:21.509000	0:48:24.763000
 halt	halt	ADV	-	0:48:21.509000	0:48:24.763000
@@ -11058,17 +11058,17 @@ da	da	ADV	-	0:48:27.423000	0:48:28.636000
 ist	sein	AUX	-	0:48:27.423000	0:48:28.636000
 .	-	-	-	0:48:27.423000	0:48:28.636000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:28.636000" end="0:48:30.129000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:28.636000" end="0:48:30.129000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:48:28.636000	0:48:29.336000
 .	-	-	-	0:48:28.636000	0:48:29.336000
 mhm	mhm	VERB	-	0:48:29.336000	0:48:30.129000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:29.336000" end="0:48:30.529000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:29.336000" end="0:48:30.529000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:48:29.336000	0:48:30.129000
 genau	genau	ADJ	-	0:48:30.129000	0:48:30.529000
 .	-	-	-	0:48:30.129000	0:48:30.529000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:30.529000" end="0:48:32.656000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:30.529000" end="0:48:32.656000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:48:30.529000	0:48:32.656000
 diese	dies	DET	-	0:48:30.529000	0:48:32.656000
 Assoziation	Assoziation	NOUN	-	0:48:30.529000	0:48:32.656000
@@ -11076,16 +11076,16 @@ entsteht	entstehen	VERB	-	0:48:30.529000	0:48:32.656000
 dann	dann	ADV	-	0:48:30.529000	0:48:32.656000
 .	-	-	-	0:48:30.529000	0:48:32.656000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:32.656000" end="0:48:33.549000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:32.656000" end="0:48:33.549000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:48:32.656000	0:48:33.549000
 ,	-	-	-	0:48:32.656000	0:48:33.549000
 schon	schon	ADV	-	0:48:32.656000	0:48:33.549000
 .	-	-	-	0:48:32.656000	0:48:33.549000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:33.549000" end="0:48:34.149000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:33.549000" end="0:48:34.149000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:33.549000	0:48:34.149000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:33.549000" end="0:48:40.456000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:33.549000" end="0:48:40.456000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:33.549000	0:48:34.149000
 .	-	-	-	0:48:33.549000	0:48:34.149000
 das	der	PRON	-	0:48:34.149000	0:48:34.969000
@@ -11114,19 +11114,19 @@ oder	oder	CCONJ	-	0:48:38.409000	0:48:40.456000
 so	so	ADV	-	0:48:38.409000	0:48:40.456000
 .	-	-	-	0:48:38.409000	0:48:40.456000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:40.456000" end="0:48:41.183000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:40.456000" end="0:48:41.183000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:40.456000	0:48:41.183000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:40.456000" end="0:48:41.529000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:40.456000" end="0:48:41.529000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:48:40.456000	0:48:41.183000
 überhaupt	überhaupt	ADV	-	0:48:40.456000	0:48:41.183000
 nicht	nicht	PART	-	0:48:41.183000	0:48:41.529000
 .	-	-	-	0:48:41.183000	0:48:41.529000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:41.529000" end="0:48:41.996000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:41.529000" end="0:48:41.996000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:41.529000	0:48:41.996000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:41.996000" end="0:48:52.483000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:41.996000" end="0:48:52.483000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:48:41.996000	0:48:44.649000
 sondern	sondern	CCONJ	-	0:48:41.996000	0:48:44.649000
 ,	-	-	-	0:48:41.996000	0:48:44.649000
@@ -11161,16 +11161,16 @@ ich	ich	PRON	-	0:48:51.416000	0:48:52.483000
 eigenartig	eigenartig	ADJ	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth ModK VV circum seinVV std stdL+	0:48:51.416000	0:48:52.483000
 .	-	-	-	0:48:51.416000	0:48:52.483000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:52.483000" end="0:48:54.176000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:52.483000" end="0:48:54.176000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	-	-	-	0:48:52.483000	0:48:53.636000
 *verstehe*	-	-	-	0:48:52.483000	0:48:53.636000
 ja	-	-	-	0:48:53.636000	0:48:54.176000
 mhm	-	-	-	0:48:53.636000	0:48:54.176000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:48:53.636000" end="0:48:54.176000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:53.636000" end="0:48:54.176000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:48:53.636000	0:48:54.176000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:48:54.176000" end="0:49:02.269000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:48:54.176000" end="0:49:02.269000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:48:54.176000	0:48:57.309000
 ähm	-	-	-	0:48:54.176000	0:48:57.309000
@@ -11197,7 +11197,7 @@ Deutsch	Deutsch	NOUN	-	0:48:59.169000	0:49:02.269000
 sprechen	sprechen	VERB	-	0:48:59.169000	0:49:02.269000
 ?	-	-	-	0:48:59.169000	0:49:02.269000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:02.269000" end="0:49:07.016000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:02.269000" end="0:49:07.016000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 woher	woher	ADV	-	0:49:02.269000	0:49:07.016000
 ich	ich	PRON	-	0:49:02.269000	0:49:07.016000
@@ -11212,7 +11212,7 @@ aus	aus	ADP	-	0:49:02.269000	0:49:07.016000
 komme	kommen	VERB	-	0:49:02.269000	0:49:07.016000
 ?	-	-	-	0:49:02.269000	0:49:07.016000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:07.016000" end="0:49:10.829000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:07.016000" end="0:49:10.829000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 eher	eher	ADV	-	0:49:07.016000	0:49:10.316000
 noch	noch	ADV	-	0:49:07.016000	0:49:10.316000
@@ -11227,7 +11227,7 @@ als	als	CCONJ	-	0:49:07.016000	0:49:10.316000
 auch	auch	ADV	-	0:49:10.316000	0:49:10.829000
 .	-	-	-	0:49:10.316000	0:49:10.829000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:10.316000" end="0:49:16.903000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:10.316000" end="0:49:16.903000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	VERB	-	0:49:10.316000	0:49:10.829000
 ich	ich	PRON	-	0:49:10.829000	0:49:12.036000
 glaube	glauben	VERB	-	0:49:10.829000	0:49:12.036000
@@ -11251,11 +11251,11 @@ nicht	nicht	PART	-	0:49:14.716000	0:49:16.903000
 definitiv	definitiv	ADJ	-	0:49:14.716000	0:49:16.903000
 .	-	-	-	0:49:14.716000	0:49:16.903000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:16.903000" end="0:49:17.883000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:16.903000" end="0:49:17.883000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:16.903000	0:49:17.883000
 mhm	mhm	PROPN	-	0:49:16.903000	0:49:17.883000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:17.883000" end="0:49:29.689000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:17.883000" end="0:49:29.689000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:49:17.883000	0:49:25.169000
 <pause duration="0,5s"/>
 man	man	PRON	-	0:49:17.883000	0:49:25.169000
@@ -11292,10 +11292,10 @@ wiener	wiener	ADJ	-	0:49:27.796000	0:49:29.689000
 Dialekt	Dialekt	NOUN	-	0:49:27.796000	0:49:29.689000
 ist	sein	AUX	-	0:49:27.796000	0:49:29.689000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:29.689000" end="0:49:30.196000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:29.689000" end="0:49:30.196000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:29.689000	0:49:30.196000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:29.689000" end="0:49:35.443000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:29.689000" end="0:49:35.443000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	ADJ	-	0:49:29.689000	0:49:30.196000
 und	und	CCONJ	-	0:49:30.196000	0:49:31.543000
 da	da	ADV	-	0:49:30.196000	0:49:31.543000
@@ -11316,11 +11316,11 @@ nicht	nicht	PART	-	0:49:31.543000	0:49:35.443000
 zuortbar	zuordenbar	ADJ	-	0:49:31.543000	0:49:35.443000
 .	-	-	-	0:49:31.543000	0:49:35.443000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:35.443000" end="0:49:36.556000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:35.443000" end="0:49:36.556000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:35.443000	0:49:36.556000
 mhm	mhm	PROPN	-	0:49:35.443000	0:49:36.556000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:36.556000" end="0:49:38.943000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:36.556000" end="0:49:38.943000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:49:36.556000	0:49:37.316000
 es	ich	PRON	-	0:49:36.556000	0:49:37.316000
 gibt	geben	VERB	-	0:49:36.556000	0:49:37.316000
@@ -11337,10 +11337,10 @@ kurz	kurz	ADJ	-	0:49:37.316000	0:49:38.943000
 angeschnitten	anschneiden	VERB	-	0:49:37.316000	0:49:38.943000
 ,	-	-	-	0:49:37.316000	0:49:38.943000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:38.943000" end="0:49:39.183000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:38.943000" end="0:49:39.183000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:38.943000	0:49:39.183000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:38.943000" end="0:49:45.080000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:38.943000" end="0:49:45.080000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:49:38.943000	0:49:39.183000
 glaube	glauben	VERB	-	0:49:38.943000	0:49:39.183000
 schon	schon	ADV	-	0:49:39.183000	0:49:39.409000
@@ -11368,10 +11368,10 @@ so	so	ADV	-	0:49:42.556000	0:49:45.080000
 gemacht	machen	VERB	-	0:49:42.556000	0:49:45.080000
 .	-	-	-	0:49:42.556000	0:49:45.080000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:45.080000" end="0:49:45.863000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:45.080000" end="0:49:45.863000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:45.080000	0:49:45.863000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:45.080000" end="0:49:48.556000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:45.080000" end="0:49:48.556000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:49:45.080000	0:49:45.863000
 zum	zum	ADP	-	0:49:45.080000	0:49:45.863000
 Beispiel	Beispiel	NOUN	-	0:49:45.080000	0:49:45.863000
@@ -11382,10 +11382,10 @@ das	der	DET	-	0:49:45.863000	0:49:48.556000
 Vorarlbergerisch	Vorarlbergerisch	NOUN	-	0:49:45.863000	0:49:48.556000
 .	-	-	-	0:49:45.863000	0:49:48.556000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:48.556000" end="0:49:49.089000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:48.556000" end="0:49:49.089000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:48.556000	0:49:49.089000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:48.556000" end="0:49:52.903000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:48.556000" end="0:49:52.903000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:49:48.556000	0:49:49.089000
 da	da	ADV	-	0:49:48.556000	0:49:49.089000
 habe	habe	AUX	-	0:49:48.556000	0:49:49.089000
@@ -11402,10 +11402,10 @@ zum	zum	ADP	-	0:49:51.016000	0:49:52.903000
 Beispiel	Beispiel	NOUN	-	0:49:51.016000	0:49:52.903000
 ,	-	-	-	0:49:51.016000	0:49:52.903000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:52.903000" end="0:49:53.283000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:52.903000" end="0:49:53.283000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:52.903000	0:49:53.283000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:53.283000" end="0:49:55.296000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:53.283000" end="0:49:55.296000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 merkt	merken	VERB	-	0:49:53.283000	0:49:55.296000
 man	man	PRON	-	0:49:53.283000	0:49:55.296000
 das	der	PRON	-	0:49:53.283000	0:49:55.296000
@@ -11415,10 +11415,10 @@ fast	fast	ADV	-	0:49:53.283000	0:49:55.296000
 immer	immer	ADV	-	0:49:53.283000	0:49:55.296000
 .	-	-	-	0:49:53.283000	0:49:55.296000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:55.296000" end="0:49:55.769000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:55.296000" end="0:49:55.769000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:55.296000	0:49:55.769000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:55.296000" end="0:49:57.515000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:55.296000" end="0:49:57.515000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:49:55.296000	0:49:55.769000
 glaube	glauben	VERB	-	0:49:55.769000	0:49:57.515000
 ,	-	-	-	0:49:55.769000	0:49:57.515000
@@ -11432,10 +11432,10 @@ sagen	sagen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi MV ModK circ
 können	können	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi MV ModK circum std stdL+ würdeK	0:49:55.769000	0:49:57.515000
 ,	-	-	-	0:49:55.769000	0:49:57.515000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:49:57.515000" end="0:49:57.956000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:57.515000" end="0:49:57.956000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:49:57.515000	0:49:57.956000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:49:57.956000" end="0:50:01.769000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:57.956000" end="0:50:01.769000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:49:57.956000	0:49:58.683000
 natürlich	natürlich	ADV	-	0:49:57.956000	0:49:58.683000
 ,	-	-	-	0:49:57.956000	0:49:58.683000
@@ -11457,7 +11457,7 @@ oder	oder	CCONJ	-	0:49:59.636000	0:50:01.769000
 so	so	ADV	-	0:49:59.636000	0:50:01.769000
 .	-	-	-	0:49:59.636000	0:50:01.769000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:01.769000" end="0:50:13.389000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:01.769000" end="0:50:13.389000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:50:01.769000	0:50:07.169000
 mhm	mhm	PROPN	-	0:50:01.769000	0:50:07.169000
 <pause duration="0,8s"/>
@@ -11492,7 +11492,7 @@ Deutsch	Deutsch	NOUN	-	0:50:11.116000	0:50:12.916000
 sprechen	sprechen	VERB	-	0:50:12.916000	0:50:13.389000
 ?	-	-	-	0:50:12.916000	0:50:13.389000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:12.916000" end="0:50:14.263000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:12.916000" end="0:50:14.263000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:50:12.916000	0:50:13.389000
 kann	können	VERB	-	0:50:12.916000	0:50:13.389000
 man	man	PRON	-	0:50:12.916000	0:50:13.389000
@@ -11504,7 +11504,7 @@ sagen	sagen	VERB	-	0:50:13.389000	0:50:14.263000
 ja	ja	PART	-	0:50:13.389000	0:50:14.263000
 .	-	-	-	0:50:13.389000	0:50:14.263000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:14.263000" end="0:50:20.362000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:14.263000" end="0:50:20.362000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:50:14.263000	0:50:19.369000
 ähm	ähm	ADJ	-	0:50:14.263000	0:50:19.369000
 wenn	wenn	SCONJ	-	0:50:14.263000	0:50:19.369000
@@ -11525,10 +11525,10 @@ das	der	PRON	-	0:50:19.369000	0:50:20.362000
 ist	sein	AUX	-	0:50:19.369000	0:50:20.362000
 leider	leider	ADV	-	0:50:19.369000	0:50:20.362000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:19.369000" end="0:50:20.362000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:19.369000" end="0:50:20.362000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:19.369000	0:50:20.362000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:20.362000" end="0:50:22.156000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:20.362000" end="0:50:22.156000" persName="Informant EXP4" age_lower="" age_upper="999">
 schlecht	schlecht	ADJ	-	0:50:20.362000	0:50:21.329000
 lesbar	lesbar	ADJ	-	0:50:20.362000	0:50:21.329000
 ,	-	-	-	0:50:20.362000	0:50:21.329000
@@ -11537,10 +11537,10 @@ da	-	-	-	0:50:21.329000	0:50:21.776000
 ist	-	-	-	0:50:21.329000	0:50:21.776000
 "kein"	-	-	-	0:50:21.776000	0:50:22.156000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:21.776000" end="0:50:22.156000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:21.776000" end="0:50:22.156000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:21.776000	0:50:22.156000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:22.156000" end="0:50:25.129000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:22.156000" end="0:50:25.129000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	-	-	-	0:50:22.156000	0:50:25.129000
 da	-	-	-	0:50:22.156000	0:50:25.129000
 wäre	-	-	-	0:50:22.156000	0:50:25.129000
@@ -11549,7 +11549,7 @@ regionaler	-	-	-	0:50:22.156000	0:50:25.129000
 Akzent"	-	-	-	0:50:22.156000	0:50:25.129000
 .	-	-	-	0:50:22.156000	0:50:25.129000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:25.129000" end="0:50:26.849000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:25.129000" end="0:50:26.849000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:50:25.129000	0:50:26.849000
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:50:25.129000	0:50:26.849000
@@ -11558,17 +11558,17 @@ so	so	ADV	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:50:25.129000	0:50:26.849000
 .	-	-	-	0:50:25.129000	0:50:26.849000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:26.849000" end="0:50:27.196000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:26.849000" end="0:50:27.196000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:50:26.849000	0:50:27.196000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:27.196000" end="0:50:27.649000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:27.196000" end="0:50:27.649000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ungefähr	ungefähr	ADJ	-	0:50:27.196000	0:50:27.649000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:27.649000" end="0:50:28.762000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:27.649000" end="0:50:28.762000" persName="Informant EXP4" age_lower="" age_upper="999">
 fast	fast	ADV	-	0:50:27.649000	0:50:28.056000
 keiner	kein	PRON	-	0:50:28.056000	0:50:28.762000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:28.056000" end="0:50:39.616000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:28.056000" end="0:50:39.616000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:50:28.056000	0:50:28.762000
 genau	genau	ADJ	-	0:50:28.762000	0:50:29.556000
 .	-	-	-	0:50:28.762000	0:50:29.556000
@@ -11610,7 +11610,7 @@ zuordnen	zuordnen	VERB	-	0:50:38.345000	0:50:39.616000
 kann	können	VERB	-	0:50:38.345000	0:50:39.616000
 .	-	-	-	0:50:38.345000	0:50:39.616000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:39.616000" end="0:50:41.942000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:39.616000" end="0:50:41.942000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:50:39.616000	0:50:41.556000
 darf	dürfen	VERB	-	0:50:39.616000	0:50:41.556000
 ich	ich	PRON	-	0:50:39.616000	0:50:41.556000
@@ -11624,10 +11624,10 @@ da	da	ADV	-	0:50:41.556000	0:50:41.749000
 haben	haben	AUX	-	0:50:41.556000	0:50:41.749000
 sie	ich	PRON	-	0:50:41.749000	0:50:41.942000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:41.749000" end="0:50:41.942000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:41.749000" end="0:50:41.942000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:41.749000	0:50:41.942000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:41.942000" end="0:50:45.516000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:41.942000" end="0:50:45.516000" persName="Informant EXP4" age_lower="" age_upper="999">
 nämlich	nämlich	ADV	-	0:50:41.942000	0:50:42.976000
 vorhin	vorhin	ADV	-	0:50:41.942000	0:50:42.976000
 erwähnt	erwähnen	VERB	-	0:50:41.942000	0:50:42.976000
@@ -11640,10 +11640,10 @@ neuen	neu	ADJ	-	0:50:42.976000	0:50:45.516000
 wiener	Wiener	ADJ	-	0:50:42.976000	0:50:45.516000
 Dialekt	Dialekt	NOUN	-	0:50:42.976000	0:50:45.516000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:45.516000" end="0:50:45.902000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:45.516000" end="0:50:45.902000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:45.516000	0:50:45.902000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:50:45.902000" end="0:50:48.056000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:45.902000" end="0:50:48.056000" persName="Informant EXP4" age_lower="" age_upper="999">
 gibt	geben	VERB	-	0:50:45.902000	0:50:46.409000
 .	-	-	-	0:50:45.902000	0:50:46.409000
 was	was	PRON	-	0:50:46.409000	0:50:48.056000
@@ -11654,7 +11654,7 @@ ihren	mein	DET	-	0:50:46.409000	0:50:48.056000
 Augen	Auge	NOUN	-	0:50:46.409000	0:50:48.056000
 ?	-	-	-	0:50:46.409000	0:50:48.056000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:50:48.056000" end="0:51:10.836000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:48.056000" end="0:51:10.836000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	0:50:48.056000	0:50:51.396000
 <pause duration="1,1s"/>
@@ -11718,10 +11718,10 @@ und	-	-	-	0:51:05.269000	0:51:10.836000
 so	-	-	-	0:51:05.269000	0:51:10.836000
 .	-	-	-	0:51:05.269000	0:51:10.836000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:10.836000" end="0:51:11.576000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:10.836000" end="0:51:11.576000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:51:10.836000	0:51:11.576000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:10.836000" end="0:51:20.602000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:10.836000" end="0:51:20.602000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:51:10.836000	0:51:11.576000
 das	der	PRON	-	0:51:10.836000	0:51:11.576000
 und	und	CCONJ	-	0:51:11.576000	0:51:14.029000
@@ -11752,7 +11752,7 @@ stärker	stark	ADJ	-	0:51:16.522000	0:51:20.602000
 ist	sein	AUX	-	0:51:16.522000	0:51:20.602000
 .	-	-	-	0:51:16.522000	0:51:20.602000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:20.602000" end="0:51:23.956000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:20.602000" end="0:51:23.956000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:51:20.602000	0:51:23.956000
 das	der	PRON	-	0:51:20.602000	0:51:23.956000
@@ -11767,7 +11767,7 @@ dann	dann	ADV	-	0:51:20.602000	0:51:23.956000
 Deutsch	Deutsch	NOUN	-	0:51:20.602000	0:51:23.956000
 ?	-	-	-	0:51:20.602000	0:51:23.956000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:23.956000" end="0:51:25.376000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:23.956000" end="0:51:25.376000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 n/	-	-	-	0:51:23.956000	0:51:25.376000
 nein	nein	PART	-	0:51:23.956000	0:51:25.376000
 ,	-	-	-	0:51:23.956000	0:51:25.376000
@@ -11776,26 +11776,26 @@ ist	sein	AUX	-	0:51:23.956000	0:51:25.376000
 nicht	nicht	PART	-	0:51:23.956000	0:51:25.376000
 österreichisches	österreichisch	ADJ	-	0:51:23.956000	0:51:25.376000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:25.376000" end="0:51:25.769000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:25.376000" end="0:51:25.769000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:51:25.376000	0:51:25.769000
 .	-	-	-	0:51:25.376000	0:51:25.769000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:25.376000" end="0:51:26.042000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:25.376000" end="0:51:26.042000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Deutsch	Deutsch	NOUN	-	0:51:25.376000	0:51:25.769000
 .	-	-	-	0:51:25.376000	0:51:25.769000
 nein	nein	PART	-	0:51:25.769000	0:51:26.042000
 .	-	-	-	0:51:25.769000	0:51:26.042000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:26.042000" end="0:51:27.722000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:26.042000" end="0:51:27.722000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:51:26.042000	0:51:26.876000
 okay	okay	PROPN	-	0:51:26.042000	0:51:26.876000
 .	-	-	-	0:51:26.042000	0:51:26.876000
 ja	ja	PART	-	0:51:26.876000	0:51:27.722000
 .	-	-	-	0:51:26.876000	0:51:27.722000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:26.876000" end="0:51:27.722000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:26.876000" end="0:51:27.722000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:27.722000" end="0:51:39.629000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:27.722000" end="0:51:39.629000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:51:27.722000	0:51:29.729000
 finden	finden	VERB	-	0:51:27.722000	0:51:29.729000
 sie	ich	PRON	-	0:51:27.722000	0:51:29.729000
@@ -11834,16 +11834,16 @@ jetzt	jetzt	ADV	-	0:51:37.422000	0:51:39.302000
 zum	zum	ADP	-	0:51:37.422000	0:51:39.302000
 Beispiel	Beispiel	NOUN	-	0:51:39.302000	0:51:39.629000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:39.302000" end="0:51:39.629000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:39.302000" end="0:51:39.629000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:51:39.302000	0:51:39.629000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:39.629000" end="0:51:40.836000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:39.629000" end="0:51:40.836000" persName="Informant EXP4" age_lower="" age_upper="999">
 österreichisches	österreichisch	ADJ	-	0:51:39.629000	0:51:40.836000
 Deutsch	Deutsch	NOUN	-	0:51:39.629000	0:51:40.836000
 sprechen	sprechen	VERB	-	0:51:39.629000	0:51:40.836000
 ?	-	-	-	0:51:39.629000	0:51:40.836000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:40.836000" end="0:51:43.389000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:40.836000" end="0:51:43.389000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:51:40.836000	0:51:43.389000
 nein	nein	PART	-	0:51:40.836000	0:51:43.389000
 ,	-	-	-	0:51:40.836000	0:51:43.389000
@@ -11855,11 +11855,11 @@ nicht	nicht	PART	-	0:51:40.836000	0:51:43.389000
 schade	schaden	ADJ	-	0:51:40.836000	0:51:43.389000
 .	-	-	-	0:51:40.836000	0:51:43.389000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:43.389000" end="0:51:43.902000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:43.389000" end="0:51:43.902000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:51:43.389000	0:51:43.902000
 .	-	-	-	0:51:43.389000	0:51:43.902000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:43.902000" end="0:51:52.549000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:43.902000" end="0:51:52.549000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:51:43.902000	0:51:48.109000
 <pause duration="1,5s"/>
 also	also	ADV	-	0:51:43.902000	0:51:48.109000
@@ -11887,26 +11887,26 @@ zu	zu	PART	-	0:51:49.236000	0:51:52.549000
 können	können	VERB	-	0:51:49.236000	0:51:52.549000
 ,	-	-	-	0:51:49.236000	0:51:52.549000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:52.549000" end="0:51:53.829000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:52.549000" end="0:51:53.829000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:51:52.549000	0:51:53.829000
 mhm	mhm	PROPN	-	0:51:52.549000	0:51:53.829000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:52.549000" end="0:51:53.829000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:52.549000" end="0:51:53.829000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wenn	wenn	SCONJ	-	0:51:52.549000	0:51:53.829000
 ich	ich	PRON	-	0:51:52.549000	0:51:53.829000
 das	der	PRON	-	0:51:52.549000	0:51:53.829000
 will	wollen	VERB	-	0:51:52.549000	0:51:53.829000
 .	-	-	-	0:51:52.549000	0:51:53.829000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:53.829000" end="0:51:54.396000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:53.829000" end="0:51:54.396000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	0:51:53.829000	0:51:54.396000
 .	-	-	-	0:51:53.829000	0:51:54.396000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:51:54.396000" end="0:51:55.062000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:51:54.396000" end="0:51:55.062000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:51:54.396000	0:51:55.062000
 .	-	-	-	0:51:54.396000	0:51:55.062000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:51:55.062000" end="0:52:03.989000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:51:55.062000" end="0:52:03.989000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:51:55.062000	0:51:59.369000
 entsprechend	entsprechen	ADJ	-	0:51:55.062000	0:51:59.369000
 ähm	ähm	ADJ	-	0:51:55.062000	0:51:59.369000
@@ -11929,7 +11929,7 @@ identifizieren	identifizieren	VERB	-	0:51:59.369000	0:52:03.989000
 können	können	VERB	-	0:51:59.369000	0:52:03.989000
 ?	-	-	-	0:51:59.369000	0:52:03.989000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:03.989000" end="0:52:20.462000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:03.989000" end="0:52:20.462000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	X	-	0:52:03.989000	0:52:10.502000
 <pause duration="2,2s"/>
@@ -11983,10 +11983,10 @@ Kärntnerisch	Kärntnerisch	NOUN	-	0:52:16.969000	0:52:20.462000
 redet	reden	VERB	-	0:52:16.969000	0:52:20.462000
 .	-	-	-	0:52:16.969000	0:52:20.462000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:20.462000" end="0:52:20.969000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:20.462000" end="0:52:20.969000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:52:20.462000	0:52:20.969000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:20.969000" end="0:52:23.762000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:20.969000" end="0:52:23.762000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:52:20.969000	0:52:23.056000
 halt	halt	ADV	-	0:52:20.969000	0:52:23.056000
 dann	dann	ADV	-	0:52:20.969000	0:52:23.056000
@@ -11999,20 +11999,20 @@ also	also	ADV	-	0:52:23.056000	0:52:23.762000
 nicht	nicht	PART	-	0:52:23.056000	0:52:23.762000
 jetzt	jetzt	ADV	-	0:52:23.056000	0:52:23.762000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:23.762000" end="0:52:24.142000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:23.762000" end="0:52:24.142000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:52:23.762000	0:52:24.142000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:24.142000" end="0:52:25.276000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:24.142000" end="0:52:25.276000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 schlimm	schlimm	ADJ	-	0:52:24.142000	0:52:25.276000
 oder	oder	CCONJ	-	0:52:24.142000	0:52:25.276000
 was	was	PRON	-	0:52:24.142000	0:52:25.276000
 auch	auch	ADV	-	0:52:24.142000	0:52:25.276000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:25.276000" end="0:52:26.089000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:25.276000" end="0:52:26.089000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:52:25.276000	0:52:26.089000
 hm	hm	PROPN	-	0:52:25.276000	0:52:26.089000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:25.276000" end="0:52:32.656000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:25.276000" end="0:52:32.656000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:52:25.276000	0:52:26.089000
 halt	halt	ADV	-	0:52:25.276000	0:52:26.089000
 so	so	ADV	-	0:52:25.276000	0:52:26.089000
@@ -12030,10 +12030,10 @@ so	so	ADV	-	0:52:26.089000	0:52:32.656000
 lieber	lieb	ADJ	-	0:52:26.089000	0:52:32.656000
 ,	-	-	-	0:52:26.089000	0:52:32.656000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:32.656000" end="0:52:33.129000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:32.656000" end="0:52:33.129000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:52:32.656000	0:52:33.129000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:32.656000" end="0:52:34.036000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:32.656000" end="0:52:34.036000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:52:32.656000	0:52:33.129000
 ich	ich	PRON	-	0:52:32.656000	0:52:33.129000
 dass	dass	VERB	-	0:52:33.129000	0:52:34.036000
@@ -12041,7 +12041,7 @@ es	ich	PRON	-	0:52:33.129000	0:52:34.036000
 genau	genau	ADJ	-	0:52:33.129000	0:52:34.036000
 .	-	-	-	0:52:33.129000	0:52:34.036000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:34.036000" end="0:52:46.936000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:34.036000" end="0:52:46.936000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:52:34.036000	0:52:34.942000
 okay	okay	PROPN	-	0:52:34.036000	0:52:34.942000
 .	-	-	-	0:52:34.036000	0:52:34.942000
@@ -12077,7 +12077,7 @@ sie	ich	PRON	-	0:52:45.749000	0:52:46.936000
 das	der	PRON	-	0:52:45.749000	0:52:46.936000
 ?	-	-	-	0:52:45.749000	0:52:46.936000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:46.936000" end="0:52:53.176000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:46.936000" end="0:52:53.176000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	X	-	0:52:46.936000	0:52:51.829000
 ja	ja	ADV	-	0:52:46.936000	0:52:51.829000
@@ -12091,16 +12091,16 @@ Einflüssen	Einfluß	NOUN	-	0:52:46.936000	0:52:51.829000
 <pause duration="0,6s"/>
 ähm	ähm	X	-	0:52:51.829000	0:52:53.176000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:53.176000" end="0:52:54.816000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:53.176000" end="0:52:54.816000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 w/	-	-	-	0:52:53.176000	0:52:54.449000
 welche	welch	PRON	-	0:52:53.176000	0:52:54.449000
 sind	sein	AUX	-	0:52:54.449000	0:52:54.816000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:54.449000" end="0:52:54.816000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:54.449000" end="0:52:54.816000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:52:54.449000	0:52:54.816000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:52:54.816000" end="0:52:57.622000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:52:54.816000" end="0:52:57.622000" persName="Informant EXP4" age_lower="" age_upper="999">
 da	da	ADV	-	0:52:54.816000	0:52:57.622000
 für	für	ADP	-	0:52:54.816000	0:52:57.622000
 sie	ich	PRON	-	0:52:54.816000	0:52:57.622000
@@ -12109,7 +12109,7 @@ sie	ich	PRON	-	0:52:54.816000	0:52:57.622000
 entscheidend	entscheiden	ADJ	-	0:52:54.816000	0:52:57.622000
 ?	-	-	-	0:52:54.816000	0:52:57.622000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:52:57.622000" end="0:53:16.909000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:52:57.622000" end="0:53:16.909000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ich	ich	PRON	-	0:52:57.622000	0:52:59.682000
 glaube	glauben	VERB	-	0:52:57.622000	0:52:59.682000
@@ -12162,17 +12162,17 @@ finden	finden	VERB	-	0:53:10.462000	0:53:15.389000
 <pause duration="0,6s"/>
 und	und	CCONJ	-	0:53:15.389000	0:53:16.909000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:53:16.909000" end="0:53:18.222000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:53:16.909000" end="0:53:18.222000" persName="Informant EXP4" age_lower="" age_upper="999">
 wie	wie	ADV	-	0:53:16.909000	0:53:17.456000
 wie	wie	CCONJ	-	0:53:16.909000	0:53:17.456000
 zum	zum	ADP	-	0:53:16.909000	0:53:17.456000
 Beispiel	Beispiel	NOUN	-	0:53:17.456000	0:53:18.222000
 ?	-	-	-	0:53:17.456000	0:53:18.222000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:53:17.456000" end="0:53:18.222000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:53:17.456000" end="0:53:18.222000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:53:17.456000	0:53:18.222000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:53:18.222000" end="0:53:19.056000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:53:18.222000" end="0:53:19.056000" persName="Informant EXP4" age_lower="" age_upper="999">
 können	können	VERB	-	0:53:18.222000	0:53:19.056000
 sie	ich	PRON	-	0:53:18.222000	0:53:19.056000
 mir	sich	PRON	-	0:53:18.222000	0:53:19.056000
@@ -12180,7 +12180,7 @@ da	da	ADP	-	0:53:18.222000	0:53:19.056000
 irgendein/	-	-	-	0:53:18.222000	0:53:19.056000
 ?	-	-	-	0:53:18.222000	0:53:19.056000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:53:19.056000" end="0:53:41.349000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:53:19.056000" end="0:53:41.349000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	ADJ	-	0:53:19.056000	0:53:23.549000
 <pause duration="2,8s"/>
 na	na	PROPN	-	0:53:19.056000	0:53:23.549000
@@ -12220,19 +12220,19 @@ englischen	englisch	ADJ	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:53:
 ähm	ähm	PROPN	-	0:53:26.709000	0:53:41.349000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:53:41.349000" end="0:53:42.289000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:53:41.349000" end="0:53:42.289000" persName="Informant EXP4" age_lower="" age_upper="999">
 Begriff	Begriff	NOUN	-	0:53:41.349000	0:53:41.902000
 oder	oder	CCONJ	-	0:53:41.902000	0:53:42.289000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:53:41.902000" end="0:53:42.636000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:53:41.902000" end="0:53:42.636000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Begriff	Begriff	NOUN	2ArtSPE ?? AKon DArt EAdj EPart ESubj postpon spe-	0:53:41.902000	0:53:42.289000
 hat	haben	AUX	-	0:53:42.289000	0:53:42.636000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:53:42.636000" end="0:53:43.369000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:53:42.636000" end="0:53:43.369000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:53:42.636000	0:53:43.369000
 mhm	mhm	PROPN	-	0:53:42.636000	0:53:43.369000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:53:42.636000" end="0:53:56.242000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:53:42.636000" end="0:53:56.242000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:53:42.636000	0:53:43.369000
 .	-	-	-	0:53:42.636000	0:53:43.369000
 ähm	ähm	PROPN	-	0:53:43.369000	0:53:46.849000
@@ -12276,10 +12276,10 @@ Beispiel	Beispiel	NOUN	-	0:53:54.589000	0:53:56.242000
 die	der	DET	-	0:53:54.589000	0:53:56.242000
 so	so	ADV	-	0:53:54.589000	0:53:56.242000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:53:56.242000" end="0:53:57.676000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:53:56.242000" end="0:53:57.676000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:53:56.242000	0:53:57.676000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:53:56.242000" end="0:54:03.309000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:53:56.242000" end="0:54:03.309000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Fernsehsprache	Fernsehsprache	NOUN	-	0:53:56.242000	0:53:57.676000
 so	so	ADV	-	0:53:57.676000	0:53:58.356000
 angeht	angehen	VERB	-	0:53:57.676000	0:53:58.356000
@@ -12303,11 +12303,11 @@ zum	zum	ADP	-	0:54:01.749000	0:54:03.309000
 Dialekt	Dialekt	NOUN	-	0:54:01.749000	0:54:03.309000
 .	-	-	-	0:54:01.749000	0:54:03.309000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:03.309000" end="0:54:04.302000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:03.309000" end="0:54:04.302000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:54:03.309000	0:54:03.996000
 mhm	mhm	PROPN	-	0:54:03.996000	0:54:04.302000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:03.996000" end="0:54:06.396000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:03.996000" end="0:54:06.396000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:54:03.996000	0:54:04.302000
 gibt	geben	VERB	-	0:54:03.996000	0:54:04.302000
 sicher	sichern	ADV	-	0:54:04.302000	0:54:05.362000
@@ -12320,21 +12320,21 @@ glaube	glauben	VERB	-	0:54:05.362000	0:54:06.396000
 weniger	wenig	PRON	-	0:54:05.362000	0:54:06.396000
 .	-	-	-	0:54:05.362000	0:54:06.396000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:06.396000" end="0:54:07.359000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:06.396000" end="0:54:07.359000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:54:06.396000	0:54:07.359000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:07.359000" end="0:54:08.069000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:07.359000" end="0:54:08.069000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:54:07.359000	0:54:08.069000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:08.069000" end="0:54:08.582000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:08.069000" end="0:54:08.582000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:54:08.069000	0:54:08.582000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:08.582000" end="0:54:08.822000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:08.582000" end="0:54:08.822000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:08.582000	0:54:08.822000
 .	-	-	-	0:54:08.582000	0:54:08.822000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:08.822000" end="0:54:27.309000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:08.822000" end="0:54:27.309000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ähm	ähm	PROPN	-	0:54:08.822000	0:54:09.922000
 <pause duration="3,2s"/>
@@ -12378,7 +12378,7 @@ Deu/	-	-	-	0:54:19.062000	0:54:27.309000
 Deutsch	Deutsch	NOUN	-	0:54:19.062000	0:54:27.309000
 .	-	-	-	0:54:19.062000	0:54:27.309000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:27.309000" end="0:54:42.222000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:27.309000" end="0:54:42.222000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	NOUN	-	0:54:27.309000	0:54:31.562000
 ja	ja	ADV	-	0:54:27.309000	0:54:31.562000
@@ -12422,10 +12422,10 @@ sprechen	sprechen	VERB	-	0:54:39.169000	0:54:41.842000
 glaube	glauben	VERB	-	0:54:41.842000	0:54:42.222000
 ich	ich	PRON	-	0:54:41.842000	0:54:42.222000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:42.222000" end="0:54:42.862000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:42.222000" end="0:54:42.862000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:54:42.222000	0:54:42.862000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:42.862000" end="0:54:50.042000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:42.862000" end="0:54:50.042000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:54:42.862000	0:54:48.489000
 <pause duration="2,7s"/>
 also	also	ADV	-	0:54:42.862000	0:54:48.489000
@@ -12444,7 +12444,7 @@ nicht	nicht	PART	-	0:54:48.489000	0:54:50.042000
 negativ	negativ	ADJ	-	0:54:48.489000	0:54:50.042000
 .	-	-	-	0:54:48.489000	0:54:50.042000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:50.042000" end="0:54:53.809000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:50.042000" end="0:54:53.809000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	0:54:50.042000	0:54:53.809000
 und	und	CCONJ	-	0:54:50.042000	0:54:53.809000
 sehen	sehen	VERB	-	0:54:50.042000	0:54:53.809000
@@ -12457,7 +12457,7 @@ Hochdeutsch	Hochdeutsch	NOUN	-	0:54:50.042000	0:54:53.809000
 betreffend	betreffen	ADJ	-	0:54:50.042000	0:54:53.809000
 ?	-	-	-	0:54:50.042000	0:54:53.809000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:53.809000" end="0:54:59.329000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:53.809000" end="0:54:59.329000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ähm	ähm	PROPN	-	0:54:53.809000	0:54:59.329000
 <pause duration="1,4s"/>
@@ -12470,19 +12470,19 @@ könnte	können	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth 
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV std stdL+	0:54:53.809000	0:54:59.329000
 nicht	nicht	PART	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV std stdL+	0:54:53.809000	0:54:59.329000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:54:59.329000" end="0:55:00.155000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:54:59.329000" end="0:55:00.155000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:54:59.329000	0:55:00.155000
 .	-	-	-	0:54:59.329000	0:55:00.155000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:54:59.329000" end="0:55:00.489000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:54:59.329000" end="0:55:00.489000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV std stdL+	0:54:59.329000	0:55:00.155000
 .	-	-	-	0:54:59.329000	0:55:00.155000
 also	also	ADV	-	0:55:00.155000	0:55:00.489000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:00.489000" end="0:55:00.902000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:00.489000" end="0:55:00.902000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:55:00.489000	0:55:00.902000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:00.902000" end="0:55:05.355000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:00.902000" end="0:55:05.355000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ich	ich	PRON	-	0:55:00.902000	0:55:03.269000
 sehe	sehen	VERB	-	0:55:00.902000	0:55:03.269000
@@ -12501,7 +12501,7 @@ damit	damit	ADV	-	0:55:03.269000	0:55:05.355000
 aus	aus	ADP	-	0:55:03.269000	0:55:05.355000
 .	-	-	-	0:55:03.269000	0:55:05.355000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:05.355000" end="0:55:07.289000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:05.355000" end="0:55:07.289000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:55:05.355000	0:55:06.895000
 na	na	PROPN	-	0:55:05.355000	0:55:06.895000
 mach/	-	-	-	0:55:05.355000	0:55:06.895000
@@ -12511,11 +12511,11 @@ nichts	nichts	PRON	-	0:55:05.355000	0:55:06.895000
 .	-	-	-	0:55:05.355000	0:55:06.895000
 und	und	CCONJ	-	0:55:06.895000	0:55:07.289000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:06.895000" end="0:55:07.289000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:06.895000" end="0:55:07.289000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:55:06.895000	0:55:07.289000
 .	-	-	-	0:55:06.895000	0:55:07.289000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:07.289000" end="0:55:10.235000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:07.289000" end="0:55:10.235000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:55:07.289000	0:55:09.715000
 und	und	CCONJ	-	0:55:07.289000	0:55:09.715000
 wenn	wenn	SCONJ	-	0:55:07.289000	0:55:09.715000
@@ -12529,10 +12529,10 @@ gibt	geben	VERB	-	0:55:09.715000	0:55:09.989000
 es	ich	PRON	-	0:55:09.715000	0:55:09.989000
 noch	noch	ADV	-	0:55:09.989000	0:55:10.235000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:09.989000" end="0:55:10.235000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:09.989000" end="0:55:10.235000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:55:09.989000	0:55:10.235000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:10.235000" end="0:55:18.882000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:10.235000" end="0:55:18.882000" persName="Informant EXP4" age_lower="" age_upper="999">
 andere	ander	ADJ	-	0:55:10.235000	0:55:14.075000
 Sprachformen	Sprachformen	NOUN	-	0:55:10.235000	0:55:14.075000
 des	der	DET	-	0:55:10.235000	0:55:14.075000
@@ -12558,7 +12558,7 @@ gesprochen	sprechen	VERB	-	0:55:16.914000	0:55:18.882000
 haben	haben	AUX	-	0:55:16.914000	0:55:18.882000
 ?	-	-	-	0:55:16.914000	0:55:18.882000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:18.882000" end="0:55:29.182000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:18.882000" end="0:55:29.182000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ähm	ähm	PROPN	-	0:55:18.882000	0:55:25.735000
 <pause duration="1,9s"/>
@@ -12582,7 +12582,7 @@ als	als	CCONJ	-	0:55:25.735000	0:55:29.182000
 ((0,9s))/	-	-	-	0:55:25.735000	0:55:29.182000
 .	-	-	-	0:55:25.735000	0:55:29.182000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:29.182000" end="0:55:32.255000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:29.182000" end="0:55:32.255000" persName="Informant EXP4" age_lower="" age_upper="999">
 gibt	geben	VERB	-	0:55:29.182000	0:55:31.195000
 es	ich	PRON	-	0:55:29.182000	0:55:31.195000
 noch	noch	ADV	-	0:55:29.182000	0:55:31.195000
@@ -12594,10 +12594,10 @@ haben	haben	AUX	-	0:55:31.195000	0:55:32.002000
 jetzt	jetzt	ADV	-	0:55:31.195000	0:55:32.002000
 wir	ich	PRON	-	0:55:32.002000	0:55:32.255000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:32.002000" end="0:55:32.255000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:32.002000" end="0:55:32.255000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:55:32.002000	0:55:32.255000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:32.255000" end="0:55:39.095000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:32.255000" end="0:55:39.095000" persName="Informant EXP4" age_lower="" age_upper="999">
 haben	haben	AUX	-	0:55:32.255000	0:55:34.329000
 haben	haben	AUX	-	0:55:32.255000	0:55:34.329000
 das	der	DET	-	0:55:32.255000	0:55:34.329000
@@ -12623,7 +12623,7 @@ weitere	weit	ADJ	-	0:55:36.942000	0:55:39.095000
 Formen	Form	NOUN	-	0:55:36.942000	0:55:39.095000
 ?	-	-	-	0:55:36.942000	0:55:39.095000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:39.095000" end="0:55:44.851000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:39.095000" end="0:55:44.851000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:55:39.095000	0:55:41.815000
 na	na	PROPN	-	0:55:39.095000	0:55:41.815000
 ,	-	-	-	0:55:39.095000	0:55:41.815000
@@ -12643,16 +12643,16 @@ von	von	ADP	-	0:55:41.815000	0:55:44.851000
 Einwanderern	Einwanderer	NOUN	-	0:55:41.815000	0:55:44.851000
 .	-	-	-	0:55:41.815000	0:55:44.851000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:44.851000" end="0:55:45.575000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:44.851000" end="0:55:45.575000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:55:44.851000	0:55:45.575000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:44.851000" end="0:55:45.575000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:44.851000" end="0:55:45.575000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	0:55:44.851000	0:55:45.575000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:45.575000" end="0:55:46.095000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:45.575000" end="0:55:46.095000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:55:45.575000	0:55:46.095000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:46.095000" end="0:55:50.815000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:46.095000" end="0:55:50.815000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:55:46.095000	0:55:47.782000
 gibt	geben	VERB	-	0:55:46.095000	0:55:47.782000
 ein	einen	DET	-	0:55:46.095000	0:55:47.782000
@@ -12667,10 +12667,10 @@ dem	der	DET	-	0:55:47.782000	0:55:50.815000
 Jugoslavien	Jugoslavien	PROPN	-	0:55:47.782000	0:55:50.815000
 Krieg	Krieg	NOUN	-	0:55:47.782000	0:55:50.815000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:55:50.815000" end="0:55:51.262000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:55:50.815000" end="0:55:51.262000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:55:50.815000	0:55:51.262000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:55:50.815000" end="0:56:02.395000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:55:50.815000" end="0:56:02.395000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nach	nach	ADP	-	0:55:50.815000	0:55:51.262000
 ORT	ORT	PROPN	-	0:55:51.262000	0:55:52.375000
 gekommen	kommen	VERB	-	0:55:51.262000	0:55:52.375000
@@ -12698,11 +12698,11 @@ ihrer	sich	DET	-	0:55:58.202000	0:56:02.395000
 Muttersprache	Muttersprache	NOUN	-	0:55:58.202000	0:56:02.395000
 .	-	-	-	0:55:58.202000	0:56:02.395000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:02.395000" end="0:56:03.502000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:02.395000" end="0:56:03.502000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:02.395000	0:56:03.502000
 mhm	mhm	PROPN	-	0:56:02.395000	0:56:03.502000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:03.502000" end="0:56:07.669000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:03.502000" end="0:56:07.669000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 genau	genau	ADJ	-	0:56:03.502000	0:56:07.349000
 so	so	ADV	-	0:56:03.502000	0:56:07.349000
@@ -12714,18 +12714,18 @@ Deutschland	Deutschland	PROPN	-	0:56:03.502000	0:56:07.349000
 .	-	-	-	0:56:03.502000	0:56:07.349000
 also	also	ADV	-	0:56:07.349000	0:56:07.669000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:07.669000" end="0:56:08.102000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:07.669000" end="0:56:08.102000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:07.669000	0:56:08.102000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:07.669000" end="0:56:08.635000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:07.669000" end="0:56:08.635000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 immer	immer	ADV	-	0:56:07.669000	0:56:08.102000
 wieder	wieder	ADV	-	0:56:07.669000	0:56:08.102000
 einmal	einmal	ADV	-	0:56:08.102000	0:56:08.635000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:08.635000" end="0:56:09.435000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:08.635000" end="0:56:09.435000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:08.635000	0:56:09.435000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:08.635000" end="0:56:12.062000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:08.635000" end="0:56:12.062000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	ADJ	-	0:56:08.635000	0:56:09.435000
 <pause duration="1,0s"/>
 genau	genau	ADJ	-	0:56:09.435000	0:56:12.062000
@@ -12738,7 +12738,7 @@ kleine	kleine	ADJ	-	0:56:09.435000	0:56:12.062000
 Gruppen	Gruppe	NOUN	-	0:56:09.435000	0:56:12.062000
 .	-	-	-	0:56:09.435000	0:56:12.062000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:12.062000" end="0:56:20.729000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:12.062000" end="0:56:20.729000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:12.062000	0:56:12.622000
 und	und	CCONJ	-	0:56:12.622000	0:56:13.395000
 würden	werden	AUX	-	0:56:12.622000	0:56:13.395000
@@ -12766,7 +12766,7 @@ dem	der	DET	-	0:56:13.395000	0:56:20.729000
 Deutsch	Deutsch	NOUN	-	0:56:13.395000	0:56:20.729000
 ?	-	-	-	0:56:13.395000	0:56:20.729000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:20.729000" end="0:56:28.582000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:20.729000" end="0:56:28.582000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	ähm	X	-	0:56:20.729000	0:56:25.602000
 ja	ja	ADV	-	0:56:20.729000	0:56:25.602000
@@ -12790,10 +12790,10 @@ noch	noch	ADV	-	0:56:25.602000	0:56:28.582000
 Zwischenstufen	Zwischenstufen	NOUN	-	0:56:25.602000	0:56:28.582000
 .	-	-	-	0:56:25.602000	0:56:28.582000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:28.582000" end="0:56:29.002000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:28.582000" end="0:56:29.002000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:28.582000	0:56:29.002000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:29.002000" end="0:56:42.169000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:29.002000" end="0:56:42.169000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:56:29.002000	0:56:34.975000
 was	was	PRON	-	0:56:29.002000	0:56:34.975000
 <pause duration="0,5s"/>
@@ -12827,14 +12827,14 @@ ursprünglichen	ursprünglich	ADJ	-	0:56:34.975000	0:56:42.169000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:56:34.975000	0:56:42.169000
 .	-	-	-	0:56:34.975000	0:56:42.169000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:42.169000" end="0:56:42.689000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:42.169000" end="0:56:42.689000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:56:42.169000	0:56:42.689000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:42.689000" end="0:56:43.082000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:42.689000" end="0:56:43.082000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:42.689000	0:56:43.082000
 .	-	-	-	0:56:42.689000	0:56:43.082000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:43.082000" end="0:56:52.389000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:43.082000" end="0:56:52.389000" persName="Informant EXP4" age_lower="" age_upper="999">
 aber	aber	ADV	-	0:56:43.082000	0:56:45.002000
 sie	ich	PRON	-	0:56:43.082000	0:56:45.002000
 haben	haben	AUX	-	0:56:43.082000	0:56:45.002000
@@ -12860,15 +12860,15 @@ verwenden	verwenden	VERB	-	0:56:45.002000	0:56:52.389000
 vielleicht	vielleicht	ADV	-	0:56:45.002000	0:56:52.389000
 .	-	-	-	0:56:45.002000	0:56:52.389000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:52.389000" end="0:56:52.882000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:52.389000" end="0:56:52.882000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:52.389000	0:56:52.882000
 das	der	PRON	-	0:56:52.389000	0:56:52.882000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:52.882000" end="0:56:53.229000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:52.882000" end="0:56:53.229000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	0:56:52.882000	0:56:53.229000
 ?	-	-	-	0:56:52.882000	0:56:53.229000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:52.882000" end="0:56:55.489000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:52.882000" end="0:56:55.489000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:56:52.882000	0:56:53.229000
 kann	können	VERB	-	0:56:53.229000	0:56:53.795000
 gut	gut	ADJ	-	0:56:53.229000	0:56:53.795000
@@ -12878,10 +12878,10 @@ also	also	ADV	-	0:56:53.795000	0:56:55.489000
 d/	-	-	-	0:56:53.795000	0:56:55.489000
 ähm	ähm	ADJ	-	0:56:53.795000	0:56:55.489000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:56:55.489000" end="0:56:56.302000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:56:55.489000" end="0:56:56.302000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	0:56:55.489000	0:56:56.302000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:56:56.302000" end="0:57:01.242000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:56:56.302000" end="0:57:01.242000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 insofern	insofern	ADV	-	0:56:56.302000	0:56:58.102000
 als	als	ADP	-	0:56:56.302000	0:56:58.102000
 dann	dann	ADV	-	0:56:56.302000	0:56:58.102000
@@ -12905,10 +12905,10 @@ anders	anders	ADV	-	0:56:59.082000	0:57:01.242000
 rede	rede	VERB	-	0:56:59.082000	0:57:01.242000
 als	als	CCONJ	-	0:56:59.082000	0:57:01.242000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:01.242000" end="0:57:01.762000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:01.242000" end="0:57:01.762000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:57:01.242000	0:57:01.762000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:01.242000" end="0:57:08.922000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:01.242000" end="0:57:08.922000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:57:01.242000	0:57:01.762000
 den	der	DET	-	0:57:01.242000	0:57:01.762000
 Freunden	Freund	NOUN	-	0:57:01.762000	0:57:02.402000
@@ -12928,10 +12928,10 @@ dem	der	DET	-	0:57:02.402000	0:57:08.922000
 [Oberwölzerischen]S	Oberwölzerischen	NOUN	-	0:57:02.402000	0:57:08.922000
 ,	-	-	-	0:57:02.402000	0:57:08.922000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:08.922000" end="0:57:09.529000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:08.922000" end="0:57:09.529000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:57:08.922000	0:57:09.529000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:09.529000" end="0:57:12.095000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:09.529000" end="0:57:12.095000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	0:57:09.529000	0:57:12.095000
 nicht	nicht	PART	-	0:57:09.529000	0:57:12.095000
 mehr	mehr	ADV	-	0:57:09.529000	0:57:12.095000
@@ -12942,11 +12942,11 @@ Verwendung	Verwendung	NOUN	-	0:57:09.529000	0:57:12.095000
 sind	sein	AUX	-	0:57:09.529000	0:57:12.095000
 .	-	-	-	0:57:09.529000	0:57:12.095000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:12.095000" end="0:57:13.256000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:12.095000" end="0:57:13.256000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:57:12.095000	0:57:13.256000
 mhm	mhm	PROPN	-	0:57:12.095000	0:57:13.256000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:13.256000" end="0:57:20.462000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:13.256000" end="0:57:20.462000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:57:13.256000	0:57:14.462000
 ich	ich	PRON	IRR	0:57:13.256000	0:57:14.462000
 könnte	können	VERB	IRR	0:57:13.256000	0:57:14.462000
@@ -12982,7 +12982,7 @@ dann	dann	ADV	-	0:57:19.589000	0:57:20.462000
 ist	sein	AUX	-	0:57:19.589000	0:57:20.462000
 .	-	-	-	0:57:19.589000	0:57:20.462000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:20.462000" end="0:57:22.095000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:20.462000" end="0:57:22.095000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:57:20.462000	0:57:21.075000
 ,	-	-	-	0:57:20.462000	0:57:21.075000
 weil	weil	SCONJ	-	0:57:20.462000	0:57:21.075000
@@ -12993,10 +12993,10 @@ nächste	nächst	ADJ	-	0:57:21.075000	0:57:22.095000
 Frage	Frage	NOUN	-	0:57:21.075000	0:57:22.095000
 .	-	-	-	0:57:21.075000	0:57:22.095000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:21.075000" end="0:57:22.095000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:21.075000" end="0:57:22.095000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:57:21.075000	0:57:22.095000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:22.095000" end="0:57:23.989000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:22.095000" end="0:57:23.989000" persName="Informant EXP4" age_lower="" age_upper="999">
 wie	wie	ADV	-	0:57:22.095000	0:57:23.989000
 würden	werden	AUX	-	0:57:22.095000	0:57:23.989000
 sie	ich	PRON	-	0:57:22.095000	0:57:23.989000
@@ -13006,7 +13006,7 @@ nennen	nennen	VERB	-	0:57:22.095000	0:57:23.989000
 das/	-	-	-	0:57:22.095000	0:57:23.989000
 .	-	-	-	0:57:22.095000	0:57:23.989000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:22.095000" end="0:57:23.989000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:22.095000" end="0:57:23.989000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:57:22.095000	0:57:23.989000
 ,	-	-	-	0:57:22.095000	0:57:23.989000
 das	der	DET	-	0:57:22.095000	0:57:23.989000
@@ -13018,7 +13018,7 @@ leider	leider	ADV	-	0:57:22.095000	0:57:23.989000
 nicht	nicht	PART	-	0:57:22.095000	0:57:23.989000
 .	-	-	-	0:57:22.095000	0:57:23.989000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:23.989000" end="0:57:30.675000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:23.989000" end="0:57:30.675000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:57:23.989000	0:57:25.289000
 ,	-	-	-	0:57:23.989000	0:57:25.289000
 an	an	ADP	-	0:57:23.989000	0:57:25.289000
@@ -13040,10 +13040,10 @@ müssten	müssten	NOUN	-	0:57:25.289000	0:57:30.162000
 das	der	DET	-	0:57:30.162000	0:57:30.675000
 sozusagen	sozusagen	ADV	-	0:57:30.162000	0:57:30.675000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:30.162000" end="0:57:30.675000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:30.162000" end="0:57:30.675000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:30.162000	0:57:30.675000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:30.675000" end="0:57:37.235000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:30.675000" end="0:57:37.235000" persName="Informant EXP4" age_lower="" age_upper="999">
 auf	auf	ADP	-	0:57:30.675000	0:57:32.555000
 der	der	DET	-	0:57:30.675000	0:57:32.555000
 nächsten	nächst	ADJ	-	0:57:30.675000	0:57:32.555000
@@ -13063,10 +13063,10 @@ das	der	DET	-	0:57:32.555000	0:57:36.709000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:57:32.555000	0:57:36.709000
 eben	eben	ADV	-	0:57:36.709000	0:57:37.235000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:36.709000" end="0:57:37.235000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:36.709000" end="0:57:37.235000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:36.709000	0:57:37.235000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:37.235000" end="0:57:51.202000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:37.235000" end="0:57:51.202000" persName="Informant EXP4" age_lower="" age_upper="999">
 hier	hier	ADV	-	0:57:37.235000	0:57:51.202000
 hätten	haben	AUX	-	0:57:37.235000	0:57:51.202000
 wir	ich	PRON	-	0:57:37.235000	0:57:51.202000
@@ -13093,10 +13093,10 @@ das	der	DET	-	0:57:37.235000	0:57:51.202000
 österreichische	österreichisch	ADJ	-	0:57:37.235000	0:57:51.202000
 Deutsch	Deutsch	NOUN	-	0:57:37.235000	0:57:51.202000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:57:51.202000" end="0:57:51.835000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:57:51.202000" end="0:57:51.835000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:51.202000	0:57:51.835000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:57:51.835000" end="0:58:01.249000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:57:51.835000" end="0:58:01.249000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:57:51.835000	0:57:55.895000
 jetzt	jetzt	ADV	-	0:57:51.835000	0:57:55.895000
@@ -13126,7 +13126,7 @@ dann	dann	ADV	-	0:57:58.022000	0:58:01.249000
 einordnen	einordnen	VERB	-	0:57:58.022000	0:58:01.249000
 ?	-	-	-	0:57:58.022000	0:58:01.249000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:01.249000" end="0:58:06.995000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:01.249000" end="0:58:06.995000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:01.249000	0:58:04.729000
 o/	-	-	-	0:58:01.249000	0:58:04.729000
 okay	okay	VERB	-	0:58:01.249000	0:58:04.729000
@@ -13148,10 +13148,10 @@ Freunden	Freund	NOUN	-	0:58:04.729000	0:58:06.995000
 rede	rede	VERB	-	0:58:04.729000	0:58:06.995000
 ,	-	-	-	0:58:04.729000	0:58:06.995000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:06.995000" end="0:58:07.582000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:06.995000" end="0:58:07.582000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:58:06.995000	0:58:07.582000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:06.995000" end="0:58:12.415000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:06.995000" end="0:58:12.415000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	0:58:06.995000	0:58:07.582000
 ja	ja	ADV	-	0:58:06.995000	0:58:07.582000
 eine	einen	DET	-	0:58:06.995000	0:58:07.582000
@@ -13171,17 +13171,17 @@ am	am	ADP	-	0:58:08.409000	0:58:12.415000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:58:08.409000	0:58:12.415000
 .	-	-	-	0:58:08.409000	0:58:12.415000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:12.415000" end="0:58:13.082000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:12.415000" end="0:58:13.082000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:58:12.415000	0:58:12.769000
 .	-	-	-	0:58:12.415000	0:58:12.769000
 da	da	ADV	-	0:58:12.769000	0:58:13.082000
 ist	sein	AUX	-	0:58:12.769000	0:58:13.082000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:12.769000" end="0:58:13.082000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:12.769000" end="0:58:13.082000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:12.769000	0:58:13.082000
 .	-	-	-	0:58:12.769000	0:58:13.082000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:13.082000" end="0:58:15.562000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:13.082000" end="0:58:15.562000" persName="Informant EXP4" age_lower="" age_upper="999">
 aber	aber	ADV	-	0:58:13.082000	0:58:14.882000
 das	der	DET	-	0:58:13.082000	0:58:14.882000
 urige	urige	ADJ	-	0:58:13.082000	0:58:14.882000
@@ -13189,15 +13189,15 @@ urige	urige	ADJ	-	0:58:13.082000	0:58:14.882000
 gemeint	meinen	VERB	-	0:58:14.882000	0:58:15.562000
 ?	-	-	-	0:58:14.882000	0:58:15.562000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:14.882000" end="0:58:15.562000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:14.882000" end="0:58:15.562000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:58:14.882000	0:58:15.562000
 .	-	-	-	0:58:14.882000	0:58:15.562000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:15.562000" end="0:58:16.022000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:15.562000" end="0:58:16.022000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:58:15.562000	0:58:16.022000
 .	-	-	-	0:58:15.562000	0:58:16.022000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:15.562000" end="0:58:19.922000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:15.562000" end="0:58:19.922000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:15.562000	0:58:16.022000
 .	-	-	-	0:58:15.562000	0:58:16.022000
 also	also	ADV	-	0:58:16.022000	0:58:19.922000
@@ -13216,10 +13216,10 @@ Deutsch	Deutsch	NOUN	-	0:58:16.022000	0:58:19.922000
 ,	-	-	-	0:58:16.022000	0:58:19.922000
 zumindest	zumindest	ADV	-	0:58:16.022000	0:58:19.922000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:19.922000" end="0:58:20.375000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:19.922000" end="0:58:20.375000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:58:19.922000	0:58:20.375000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:19.922000" end="0:58:20.782000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:19.922000" end="0:58:20.782000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	0:58:19.922000	0:58:20.375000
 ,	-	-	-	0:58:19.922000	0:58:20.375000
 was	was	PRON	-	0:58:19.922000	0:58:20.375000
@@ -13227,10 +13227,10 @@ ich	ich	PRON	-	0:58:19.922000	0:58:20.375000
 spreche	sprechen	VERB	-	0:58:20.375000	0:58:20.782000
 .	-	-	-	0:58:20.375000	0:58:20.782000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:20.782000" end="0:58:21.082000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:20.782000" end="0:58:21.082000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	0:58:20.782000	0:58:21.082000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:21.082000" end="0:58:22.635000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:21.082000" end="0:58:22.635000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 würde	werden	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:58:21.082000	0:58:21.669000
 ich	ich	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:58:21.082000	0:58:21.669000
 sagen	sagen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:58:21.082000	0:58:21.669000
@@ -13241,7 +13241,7 @@ nicht	nicht	PART	-	0:58:21.669000	0:58:22.635000
 da	da	ADV	-	0:58:21.669000	0:58:22.635000
 .	-	-	-	0:58:21.669000	0:58:22.635000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:22.635000" end="0:58:27.849000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:22.635000" end="0:58:27.849000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	0:58:22.635000	0:58:24.089000
 ,	-	-	-	0:58:22.635000	0:58:24.089000
 dann	dann	ADV	-	0:58:22.635000	0:58:24.089000
@@ -13265,12 +13265,12 @@ okay	okay	VERB	-	0:58:26.409000	0:58:27.849000
 oder	oder	CCONJ	-	0:58:26.409000	0:58:27.849000
 ?	-	-	-	0:58:26.409000	0:58:27.849000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:26.409000" end="0:58:27.849000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:26.409000" end="0:58:27.849000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:58:26.409000	0:58:27.849000
 genau	genau	ADJ	-	0:58:26.409000	0:58:27.849000
 .	-	-	-	0:58:26.409000	0:58:27.849000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:27.849000" end="0:58:39.295000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:27.849000" end="0:58:39.295000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:58:27.849000	0:58:35.002000
 ähm	ähm	PROPN	-	0:58:27.849000	0:58:35.002000
@@ -13308,10 +13308,10 @@ und	und	CCONJ	-	0:58:38.635000	0:58:39.295000
 mit	mit	ADP	-	0:58:38.635000	0:58:39.295000
 Leuten	Leute	NOUN	-	0:58:38.635000	0:58:39.295000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:38.635000" end="0:58:39.295000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:38.635000" end="0:58:39.295000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:58:38.635000	0:58:39.295000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:39.295000" end="0:58:43.462000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:39.295000" end="0:58:43.462000" persName="Informant EXP4" age_lower="" age_upper="999">
 aus	aus	ADP	-	0:58:39.295000	0:58:43.462000
 anderen	ander	ADJ	-	0:58:39.295000	0:58:43.462000
 österreichischen	österreichisch	ADJ	-	0:58:39.295000	0:58:43.462000
@@ -13321,7 +13321,7 @@ zum	zum	ADP	-	0:58:39.295000	0:58:43.462000
 Beispiel	Beispiel	NOUN	-	0:58:39.295000	0:58:43.462000
 ?	-	-	-	0:58:39.295000	0:58:43.462000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:43.462000" end="0:58:50.515000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:43.462000" end="0:58:50.515000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 das	der	PRON	-	0:58:43.462000	0:58:46.329000
 ist	sein	AUX	-	0:58:43.462000	0:58:46.329000
@@ -13349,10 +13349,10 @@ Freunde	Freund	NOUN	-	0:58:47.795000	0:58:50.515000
 sind	sein	AUX	-	0:58:47.795000	0:58:50.515000
 ,	-	-	-	0:58:47.795000	0:58:50.515000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:58:50.515000" end="0:58:50.889000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:58:50.515000" end="0:58:50.889000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	-	-	-	0:58:50.515000	0:58:50.889000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:58:50.889000" end="0:59:07.002000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:58:50.889000" end="0:59:07.002000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wird	werden	AUX	-	0:58:50.889000	0:58:55.142000
 es	ich	PRON	-	0:58:50.889000	0:58:55.142000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:58:50.889000	0:58:55.142000
@@ -13406,7 +13406,7 @@ benennen	-	-	-	0:59:04.855000	0:59:07.002000
 kann	-	-	-	0:59:04.855000	0:59:07.002000
 .	-	-	-	0:59:04.855000	0:59:07.002000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:07.002000" end="0:59:08.469000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:07.002000" end="0:59:08.469000" persName="Informant EXP4" age_lower="" age_upper="999">
 aber	-	-	-	0:59:07.002000	0:59:07.969000
 wir	-	-	-	0:59:07.002000	0:59:07.969000
 können	-	-	-	0:59:07.002000	0:59:07.969000
@@ -13415,37 +13415,37 @@ den	-	-	-	0:59:07.002000	0:59:07.969000
 Begriff	-	-	-	0:59:07.002000	0:59:07.969000
 "Mischung"	-	-	-	0:59:07.969000	0:59:08.469000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:07.969000" end="0:59:09.109000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:07.969000" end="0:59:09.109000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Dialekt	Dialekt	ADJ	-	0:59:07.969000	0:59:08.469000
 einfach	einfach	ADJ	-	0:59:08.469000	0:59:09.109000
 und	und	CCONJ	-	0:59:08.469000	0:59:09.109000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:09.109000" end="0:59:09.415000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:09.109000" end="0:59:09.415000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	-	-	-	0:59:09.109000	0:59:09.415000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:09.109000" end="0:59:10.062000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:09.109000" end="0:59:10.062000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:59:09.109000	0:59:09.415000
 genau	genau	ADJ	-	0:59:09.415000	0:59:10.062000
 ja	ja	PART	-	0:59:09.415000	0:59:10.062000
 .	-	-	-	0:59:09.415000	0:59:10.062000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:10.062000" end="0:59:10.949000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:10.062000" end="0:59:10.949000" persName="Informant EXP4" age_lower="" age_upper="999">
 irgendwie	-	-	-	0:59:10.062000	0:59:10.949000
 oder	-	-	-	0:59:10.062000	0:59:10.949000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:10.062000" end="0:59:12.815000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:10.062000" end="0:59:12.815000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:10.062000	0:59:10.949000
 .	-	-	-	0:59:10.062000	0:59:10.949000
 <pause duration="1,0s"/>
 ähm	ähm	PROPN	-	0:59:10.949000	0:59:12.815000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:12.815000" end="0:59:14.335000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:12.815000" end="0:59:14.335000" persName="Informant EXP4" age_lower="" age_upper="999">
 o/	-	-	-	0:59:12.815000	0:59:14.335000
 o/	-	-	-	0:59:12.815000	0:59:14.335000
 ja	-	-	-	0:59:12.815000	0:59:14.335000
 ?	-	-	-	0:59:12.815000	0:59:14.335000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:14.335000" end="0:59:23.482000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:14.335000" end="0:59:23.482000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:59:14.335000	0:59:21.822000
 und	und	CCONJ	-	0:59:14.335000	0:59:21.822000
 <pause duration="1,3s"/>
@@ -13470,14 +13470,14 @@ als	als	CCONJ	-	0:59:21.822000	0:59:23.482000
 jetzt	jetzt	ADV	-	0:59:21.822000	0:59:23.482000
 zum	zum	ADP	-	0:59:21.822000	0:59:23.482000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:23.482000" end="0:59:23.802000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:23.482000" end="0:59:23.802000" persName="Informant EXP4" age_lower="" age_upper="999">
 dann	dann	ADV	-	0:59:23.482000	0:59:23.802000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:23.802000" end="0:59:24.448000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:23.802000" end="0:59:24.448000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	0:59:23.802000	0:59:24.448000
 .	-	-	-	0:59:23.802000	0:59:24.448000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:24.448000" end="0:59:27.195000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:24.448000" end="0:59:27.195000" persName="Informant EXP4" age_lower="" age_upper="999">
 vielleicht	vielleicht	ADV	-	0:59:24.448000	0:59:26.328000
 würde	werden	AUX	-	0:59:24.448000	0:59:26.328000
 ich	ich	PRON	-	0:59:24.448000	0:59:26.328000
@@ -13492,10 +13492,10 @@ drunter	drunter	ADV	-	0:59:26.328000	0:59:26.775000
 da	da	ADV	-	0:59:26.775000	0:59:27.195000
 noch	noch	ADV	-	0:59:26.775000	0:59:27.195000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:26.775000" end="0:59:27.195000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:26.775000" end="0:59:27.195000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:59:26.775000	0:59:27.195000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:27.195000" end="0:59:32.155000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:27.195000" end="0:59:32.155000" persName="Informant EXP4" age_lower="" age_upper="999">
 sozusagen	sozusagen	ADV	-	0:59:27.195000	0:59:28.962000
 nocheinmal	nocheinmal	ADV	-	0:59:27.195000	0:59:28.962000
 so	so	ADV	-	0:59:27.195000	0:59:28.962000
@@ -13513,7 +13513,7 @@ er	ich	PRON	-	0:59:28.962000	0:59:32.155000
 ja	ja	PART	-	0:59:28.962000	0:59:32.155000
 .	-	-	-	0:59:28.962000	0:59:32.155000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:32.155000" end="0:59:36.548000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:32.155000" end="0:59:36.548000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 das	der	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:59:32.155000	0:59:34.488000
 wäre	sein	AUX	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth VV seinVV std stdL+	0:59:32.155000	0:59:34.488000
@@ -13528,7 +13528,7 @@ am	am	PART	-	0:59:34.488000	0:59:36.548000
 ehesten	ehesten	ADJ	-	0:59:34.488000	0:59:36.548000
 .	-	-	-	0:59:34.488000	0:59:36.548000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:36.548000" end="0:59:39.675000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:36.548000" end="0:59:39.675000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	okay	NOUN	-	0:59:36.548000	0:59:39.135000
 und	und	CCONJ	-	0:59:36.548000	0:59:39.135000
@@ -13542,15 +13542,15 @@ nur	nur	ADV	-	0:59:39.135000	0:59:39.675000
 dass	dass	SCONJ	-	0:59:39.135000	0:59:39.675000
 ich	ich	PRON	-	0:59:39.135000	0:59:39.675000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:39.675000" end="0:59:40.002000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:39.675000" end="0:59:40.002000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:40.002000" end="0:59:41.122000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:40.002000" end="0:59:41.122000" persName="Informant EXP4" age_lower="" age_upper="999">
 was	was	PRON	-	0:59:40.002000	0:59:41.122000
 aufschreiben	aufschreiben	VERB	-	0:59:40.002000	0:59:41.122000
 kann	können	VERB	-	0:59:40.002000	0:59:41.122000
 .	-	-	-	0:59:40.002000	0:59:41.122000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:40.002000" end="0:59:47.735000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:40.002000" end="0:59:47.735000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:59:40.002000	0:59:41.122000
 ich	ich	PRON	-	0:59:40.002000	0:59:41.122000
 nicht	nicht	PART	-	0:59:40.002000	0:59:41.122000
@@ -13575,7 +13575,7 @@ es	ich	PRON	-	0:59:45.942000	0:59:47.735000
 ist	sein	AUX	-	0:59:45.942000	0:59:47.735000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:47.735000" end="0:59:49.108000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:47.735000" end="0:59:49.108000" persName="Informant EXP4" age_lower="" age_upper="999">
 ist	sein	AUX	-	0:59:47.735000	0:59:49.108000
 in	in	ADP	-	0:59:47.735000	0:59:49.108000
 Ordnung	Ordnung	NOUN	-	0:59:47.735000	0:59:49.108000
@@ -13583,7 +13583,7 @@ ja	ja	PART	-	0:59:47.735000	0:59:49.108000
 dann/	-	-	-	0:59:47.735000	0:59:49.108000
 .	-	-	-	0:59:47.735000	0:59:49.108000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:47.735000" end="0:59:52.435000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:47.735000" end="0:59:52.435000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 man	man	PRON	-	0:59:47.735000	0:59:49.108000
 kann	können	VERB	-	0:59:47.735000	0:59:49.108000
 es	ich	PRON	-	0:59:47.735000	0:59:49.108000
@@ -13599,13 +13599,13 @@ so	so	ADV	-	0:59:49.108000	0:59:52.435000
 zuordnen	zuordnen	VERB	-	0:59:49.108000	0:59:52.435000
 ,	-	-	-	0:59:49.108000	0:59:52.435000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:52.435000" end="0:59:53.195000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:52.435000" end="0:59:53.195000" persName="Informant EXP4" age_lower="" age_upper="999">
 ich	ich	PRON	-	0:59:52.435000	0:59:53.195000
 mache	machen	VERB	-	0:59:52.435000	0:59:53.195000
 es	ich	PRON	-	0:59:52.435000	0:59:53.195000
 in	in	ADP	-	0:59:52.435000	0:59:53.195000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:52.435000" end="0:59:53.195000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:52.435000" end="0:59:53.195000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:59:52.435000	0:59:53.195000
 es	ich	PRON	-	0:59:52.435000	0:59:53.195000
 ist	sein	AUX	-	0:59:52.435000	0:59:53.195000
@@ -13613,18 +13613,18 @@ auch	auch	ADV	-	0:59:52.435000	0:59:53.195000
 nicht/	-	-	-	0:59:52.435000	0:59:53.195000
 .	-	-	-	0:59:52.435000	0:59:53.195000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:53.195000" end="0:59:54.342000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:53.195000" end="0:59:54.342000" persName="Informant EXP4" age_lower="" age_upper="999">
 Anführungszeichen	Anführungszeichen	NOUN	-	0:59:53.195000	0:59:53.648000
 okay	okay	VERB	-	0:59:53.648000	0:59:54.342000
 ?	-	-	-	0:59:53.648000	0:59:54.342000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:53.648000" end="0:59:54.342000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:53.648000" end="0:59:54.342000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:59:53.648000	0:59:54.342000
 .	-	-	-	0:59:53.648000	0:59:54.342000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:54.342000" end="0:59:54.802000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:54.342000" end="0:59:54.802000" persName="Informant EXP4" age_lower="" age_upper="999">
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:54.802000" end="0:59:58.915000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:54.802000" end="0:59:58.915000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:59:54.802000	0:59:58.915000
 es	ich	PRON	-	0:59:54.802000	0:59:58.915000
 ist	sein	AUX	-	0:59:54.802000	0:59:58.915000
@@ -13643,15 +13643,15 @@ der	der	DET	-	0:59:54.802000	0:59:58.915000
 Form	Form	NOUN	-	0:59:54.802000	0:59:58.915000
 .	-	-	-	0:59:54.802000	0:59:58.915000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:58.915000" end="0:59:59.668000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:58.915000" end="0:59:59.668000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:59:58.915000	0:59:59.668000
 .	-	-	-	0:59:58.915000	0:59:59.668000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="0:59:58.915000" end="0:59:59.668000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:59:58.915000" end="0:59:59.668000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:58.915000	0:59:59.668000
 .	-	-	-	0:59:58.915000	0:59:59.668000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="0:59:59.668000" end="1:00:04.702000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:59:59.668000" end="1:00:04.702000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	0:59:59.668000	1:00:00.508000
 das/	-	-	-	0:59:59.668000	1:00:00.508000
 .	-	-	-	0:59:59.668000	1:00:00.508000
@@ -13672,7 +13672,7 @@ da/	-	-	-	1:00:00.508000	1:00:04.215000
 oder	oder	CCONJ	-	1:00:04.215000	1:00:04.702000
 ?	-	-	-	1:00:04.215000	1:00:04.702000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:04.215000" end="1:00:05.588000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:04.215000" end="1:00:05.588000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:00:04.215000	1:00:04.702000
 das	der	PRON	-	1:00:04.215000	1:00:04.702000
 kann	können	VERB	-	1:00:04.702000	1:00:05.588000
@@ -13681,7 +13681,7 @@ passieren	passieren	VERB	-	1:00:04.702000	1:00:05.588000
 ja	ja	PART	-	1:00:04.702000	1:00:05.588000
 .	-	-	-	1:00:04.702000	1:00:05.588000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:00:05.588000" end="1:00:16.022000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:00:05.588000" end="1:00:16.022000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:00:05.588000	1:00:09.455000
 okay	okay	VERB	-	1:00:05.588000	1:00:09.455000
 ja	ja	ADV	-	1:00:05.588000	1:00:09.455000
@@ -13707,7 +13707,7 @@ diese	dies	DET	-	1:00:09.455000	1:00:16.022000
 Dialektmischung	Dialektmischung	NOUN	-	1:00:09.455000	1:00:16.022000
 ?	-	-	-	1:00:09.455000	1:00:16.022000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:16.022000" end="1:00:32.375000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:16.022000" end="1:00:32.375000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 eigentlich	eigentlich	ADV	-	1:00:16.022000	1:00:19.822000
 selten	selten	ADJ	-	1:00:16.022000	1:00:19.822000
@@ -13765,10 +13765,10 @@ Situation	Situation	NOUN	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth Mod
 wo	wo	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:00:32.122000	1:00:32.375000
 das	der	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:00:32.122000	1:00:32.375000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:00:32.375000" end="1:00:33.075000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:00:32.375000" end="1:00:33.075000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:00:32.375000	1:00:33.075000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:32.375000" end="1:00:40.622000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:32.375000" end="1:00:40.622000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 passieren	passieren	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:00:32.375000	1:00:33.075000
 könnte	können	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:00:32.375000	1:00:33.075000
 .	-	-	-	1:00:32.375000	1:00:33.075000
@@ -13799,25 +13799,25 @@ mehr	mehr	DET	-	1:00:39.408000	1:00:40.622000
 Dialekt	Dialekt	NOUN	-	1:00:39.408000	1:00:40.622000
 ,	-	-	-	1:00:39.408000	1:00:40.622000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:00:40.622000" end="1:00:41.195000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:00:40.622000" end="1:00:41.195000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:00:40.622000	1:00:41.195000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:41.195000" end="1:00:42.495000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:41.195000" end="1:00:42.495000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:00:41.195000	1:00:42.495000
 eben	eben	ADV	-	1:00:41.195000	1:00:42.495000
 diese	dies	DET	-	1:00:41.195000	1:00:42.495000
 Mischform	Mischform	NOUN	-	1:00:41.195000	1:00:42.495000
 .	-	-	-	1:00:41.195000	1:00:42.495000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:00:42.495000" end="1:00:43.595000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:00:42.495000" end="1:00:43.595000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:00:42.495000	1:00:42.975000
 mhm	mhm	PROPN	-	1:00:42.975000	1:00:43.595000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:42.975000" end="1:00:43.595000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:42.975000" end="1:00:43.595000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	1:00:42.975000	1:00:43.595000
 .	-	-	-	1:00:42.975000	1:00:43.595000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:00:43.595000" end="1:00:52.322000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:00:43.595000" end="1:00:52.322000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:00:43.595000	1:00:47.702000
 ähm	ähm	PROPN	-	1:00:43.595000	1:00:47.702000
 fällt	fällen	VERB	-	1:00:43.595000	1:00:47.702000
@@ -13844,7 +13844,7 @@ und	und	CCONJ	-	1:00:47.702000	1:00:52.322000
 herzuwechseln	herzuwechseln	VERB	-	1:00:47.702000	1:00:52.322000
 ?	-	-	-	1:00:47.702000	1:00:52.322000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:00:52.322000" end="1:01:00.968000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:00:52.322000" end="1:01:00.968000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	ähm	X	-	1:00:52.322000	1:00:55.382000
 das	der	PRON	-	1:00:52.322000	1:00:55.382000
@@ -13878,10 +13878,10 @@ so	so	ADV	-	1:00:57.675000	1:01:00.968000
 gerne	gerne	ADV	-	1:00:57.675000	1:01:00.968000
 .	-	-	-	1:00:57.675000	1:01:00.968000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:00.968000" end="1:01:02.795000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:00.968000" end="1:01:02.795000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:01:00.968000	1:01:02.795000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:00.968000" end="1:01:05.935000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:00.968000" end="1:01:05.935000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:01:00.968000	1:01:02.795000
 wenn	wenn	SCONJ	-	1:01:00.968000	1:01:02.795000
 ich	ich	PRON	-	1:01:00.968000	1:01:02.795000
@@ -13901,10 +13901,10 @@ reden	reden	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circ
 glaube	glauben	VERB	-	1:01:05.482000	1:01:05.935000
 ich	ich	PRON	-	1:01:05.482000	1:01:05.935000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:05.935000" end="1:01:06.548000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:05.935000" end="1:01:06.548000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:05.935000	1:01:06.548000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:06.548000" end="1:01:10.382000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:06.548000" end="1:01:10.382000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	ADV	-	1:01:06.548000	1:01:08.962000
 das	der	PRON	-	1:01:06.548000	1:01:08.962000
 ähm	ähm	NOUN	-	1:01:06.548000	1:01:08.962000
@@ -13918,11 +13918,11 @@ es	ich	PRON	-	1:01:08.962000	1:01:10.382000
 ist	sein	AUX	-	1:01:08.962000	1:01:10.382000
 automatisch	automatisch	ADJ	-	1:01:08.962000	1:01:10.382000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:10.382000" end="1:01:11.295000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:10.382000" end="1:01:11.295000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	1:01:10.382000	1:01:11.295000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:10.382000" end="1:01:12.555000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:10.382000" end="1:01:12.555000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 so	so	ADV	-	1:01:10.382000	1:01:11.295000
 .	-	-	-	1:01:10.382000	1:01:11.295000
@@ -13930,7 +13930,7 @@ so	so	ADV	-	1:01:10.382000	1:01:11.295000
 genau	genau	ADJ	-	1:01:11.295000	1:01:12.555000
 .	-	-	-	1:01:11.295000	1:01:12.555000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:12.555000" end="1:01:15.322000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:12.555000" end="1:01:15.322000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:12.555000	1:01:15.322000
 und	und	CCONJ	-	1:01:12.555000	1:01:15.322000
 haben	haben	AUX	-	1:01:12.555000	1:01:15.322000
@@ -13940,7 +13940,7 @@ Erklärung	Erklärung	NOUN	-	1:01:12.555000	1:01:15.322000
 dafür	dafür	ADV	-	1:01:12.555000	1:01:15.322000
 ?	-	-	-	1:01:12.555000	1:01:15.322000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:15.322000" end="1:01:21.042000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:15.322000" end="1:01:21.042000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	ähm	X	-	1:01:15.322000	1:01:17.822000
 nein	nein	PART	-	1:01:15.322000	1:01:17.822000
@@ -13963,10 +13963,10 @@ dafür	dafür	ADV	-	1:01:18.382000	1:01:21.042000
 nein	nein	PART	-	1:01:18.382000	1:01:21.042000
 .	-	-	-	1:01:18.382000	1:01:21.042000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:21.042000" end="1:01:21.628000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:21.042000" end="1:01:21.628000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:21.042000	1:01:21.628000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:21.042000" end="1:01:24.442000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:21.042000" end="1:01:24.442000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:01:21.042000	1:01:21.628000
 es	ich	PRON	-	1:01:21.042000	1:01:21.628000
 ist	sein	AUX	-	1:01:21.628000	1:01:24.442000
@@ -13982,16 +13982,16 @@ bissel	bissel	NOUN	-	1:01:21.628000	1:01:24.442000
 an	an	ADP	-	1:01:21.628000	1:01:24.442000
 .	-	-	-	1:01:21.628000	1:01:24.442000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:24.442000" end="1:01:25.055000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:24.442000" end="1:01:25.055000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:24.442000	1:01:25.055000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:25.055000" end="1:01:26.435000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:25.055000" end="1:01:26.435000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:01:25.055000	1:01:26.435000
 vielleicht	vielleicht	ADV	-	1:01:25.055000	1:01:26.435000
 deswegen	deswegen	ADV	-	1:01:25.055000	1:01:26.435000
 .	-	-	-	1:01:25.055000	1:01:26.435000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:26.435000" end="1:01:34.915000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:26.435000" end="1:01:34.915000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:26.435000	1:01:26.915000
 <pause duration="1,5s"/>
 ähm	ähm	PROPN	-	1:01:26.915000	1:01:32.248000
@@ -14020,16 +14020,16 @@ eine	einen	DET	-	1:01:33.495000	1:01:34.915000
 andere	ander	ADJ	-	1:01:33.495000	1:01:34.915000
 ?	-	-	-	1:01:33.495000	1:01:34.915000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:34.915000" end="1:01:36.728000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:34.915000" end="1:01:36.728000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 [Oberwölzerisch]S	Oberwölzerisch	ADJ	-	1:01:34.915000	1:01:36.728000
 .	-	-	-	1:01:34.915000	1:01:36.728000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:36.728000" end="1:01:37.842000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:36.728000" end="1:01:37.842000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:01:36.728000	1:01:37.842000
 mhm	mhm	PROPN	-	1:01:36.728000	1:01:37.842000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:37.842000" end="1:01:45.155000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:37.842000" end="1:01:45.155000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:01:37.842000	1:01:45.155000
 es	ich	PRON	-	1:01:37.842000	1:01:45.155000
 ist	sein	AUX	-	1:01:37.842000	1:01:45.155000
@@ -14049,23 +14049,23 @@ am	am	ADP	-	1:01:37.842000	1:01:45.155000
 leichtesten	leicht	NOUN	-	1:01:37.842000	1:01:45.155000
 .	-	-	-	1:01:37.842000	1:01:45.155000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:45.155000" end="1:01:45.608000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:45.155000" end="1:01:45.608000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:01:45.155000	1:01:45.608000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:45.155000" end="1:01:45.608000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:45.155000" end="1:01:45.608000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	1:01:45.155000	1:01:45.608000
 .	-	-	-	1:01:45.155000	1:01:45.608000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:45.608000" end="1:01:46.788000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:45.608000" end="1:01:46.788000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 mhm	mhm	PROPN	-	1:01:45.608000	1:01:46.788000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:45.608000" end="1:01:46.788000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:45.608000" end="1:01:46.788000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	1:01:45.608000	1:01:46.788000
 .	-	-	-	1:01:45.608000	1:01:46.788000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:01:46.788000" end="1:01:53.275000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:01:46.788000" end="1:01:53.275000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 das	der	PRON	-	1:01:46.788000	1:01:48.435000
 heißt	heißen	VERB	-	1:01:46.788000	1:01:48.435000
@@ -14085,7 +14085,7 @@ dann	dann	ADV	-	1:01:48.435000	1:01:53.275000
 wie	wie	CCONJ	-	1:01:48.435000	1:01:53.275000
 ?	-	-	-	1:01:48.435000	1:01:53.275000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:01:53.275000" end="1:02:02.582000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:01:53.275000" end="1:02:02.582000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ähm	ähm	X	-	1:01:53.275000	1:02:02.582000
 <pause duration="0,8s"/>
@@ -14104,10 +14104,10 @@ allen	alle	DET	-	1:01:53.275000	1:02:02.582000
 [Oberwölzerisch]S	Oberwölzerisch	NOUN	-	1:01:53.275000	1:02:02.582000
 .	-	-	-	1:01:53.275000	1:02:02.582000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:02.582000" end="1:02:02.948000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:02.582000" end="1:02:02.948000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:02.582000	1:02:02.948000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:02.948000" end="1:02:10.182000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:02.948000" end="1:02:10.182000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	PROPN	-	1:02:02.948000	1:02:10.182000
 mit	mit	ADP	-	1:02:02.948000	1:02:10.182000
@@ -14124,10 +14124,10 @@ eher	eher	ADV	-	1:02:02.948000	1:02:10.182000
 Deutsch	Deutsch	NOUN	-	1:02:02.948000	1:02:10.182000
 .	-	-	-	1:02:02.948000	1:02:10.182000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:10.182000" end="1:02:10.608000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:10.182000" end="1:02:10.608000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:10.182000	1:02:10.608000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:10.608000" end="1:02:23.228000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:10.608000" end="1:02:23.228000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	1:02:10.608000	1:02:12.428000
 genau	genau	ADJ	-	1:02:10.608000	1:02:12.428000
 .	-	-	-	1:02:10.608000	1:02:12.428000
@@ -14174,10 +14174,10 @@ sehr	sehr	ADV	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	1:02:21.12800
 Dialekt	Dialekt	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj präpon spe+ spe-	1:02:21.128000	1:02:23.228000
 .	-	-	-	1:02:21.128000	1:02:23.228000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:23.228000" end="1:02:23.868000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:23.228000" end="1:02:23.868000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:23.228000	1:02:23.868000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:23.868000" end="1:02:28.742000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:23.868000" end="1:02:28.742000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:02:23.868000	1:02:28.742000
 sicher	sichern	ADV	-	1:02:23.868000	1:02:28.742000
 weniger	wenig	ADV	-	1:02:23.868000	1:02:28.742000
@@ -14194,7 +14194,7 @@ so	so	ADV	-	1:02:23.868000	1:02:28.742000
 entwickelt	entwickeln	VERB	-	1:02:23.868000	1:02:28.742000
 .	-	-	-	1:02:23.868000	1:02:28.742000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:28.742000" end="1:02:35.188000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:28.742000" end="1:02:35.188000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:28.742000	1:02:29.650000
 mhm	mhm	PROPN	-	1:02:28.742000	1:02:29.650000
 <pause duration="0,9s"/>
@@ -14216,19 +14216,19 @@ miteinander	miteinander	ADV	-	1:02:33.068000	1:02:35.188000
 gesprochen	sprechen	VERB	-	1:02:33.068000	1:02:35.188000
 ?	-	-	-	1:02:33.068000	1:02:35.188000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:35.188000" end="1:02:36.524000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:35.188000" end="1:02:36.524000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 SONSTIGE	SONSTIGE	ADJ	-	1:02:35.188000	1:02:36.524000
 .	-	-	-	1:02:35.188000	1:02:36.524000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:36.524000" end="1:02:37.182000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:36.524000" end="1:02:37.182000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:36.524000	1:02:37.182000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:37.182000" end="1:02:37.575000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:37.182000" end="1:02:37.575000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:02:37.182000	1:02:37.575000
 .	-	-	-	1:02:37.182000	1:02:37.575000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:37.575000" end="1:02:41.122000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:37.575000" end="1:02:41.122000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:02:37.575000	1:02:40.495000
 d/	-	-	-	1:02:37.575000	1:02:40.495000
 die	der	DET	-	1:02:37.575000	1:02:40.495000
@@ -14243,7 +14243,7 @@ ihrem	mein	DET	-	1:02:37.575000	1:02:40.495000
 Freundeskreis	Freundeskreis	NOUN	-	1:02:40.495000	1:02:41.122000
 ?	-	-	-	1:02:40.495000	1:02:41.122000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:40.495000" end="1:02:46.642000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:40.495000" end="1:02:46.642000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 die	der	DET	-	1:02:40.495000	1:02:41.122000
 gl/	-	-	-	1:02:40.495000	1:02:41.122000
 gleiche	gleich	ADJ	-	1:02:41.122000	1:02:46.642000
@@ -14261,10 +14261,10 @@ vom	vom	ADP	-	1:02:41.122000	1:02:46.642000
 urigeren	urig	NOUN	-	1:02:41.122000	1:02:46.642000
 .	-	-	-	1:02:41.122000	1:02:46.642000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:46.642000" end="1:02:47.162000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:46.642000" end="1:02:47.162000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:46.642000	1:02:47.162000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:47.162000" end="1:02:49.335000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:47.162000" end="1:02:49.335000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:02:47.162000	1:02:49.335000
 aber	aber	ADV	-	1:02:47.162000	1:02:49.335000
 nicht	nicht	PART	-	1:02:47.162000	1:02:49.335000
@@ -14275,10 +14275,10 @@ die	der	DET	-	1:02:47.162000	1:02:49.335000
 Großeltern	Großeltern	NOUN	-	1:02:47.162000	1:02:49.335000
 .	-	-	-	1:02:47.162000	1:02:49.335000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:49.335000" end="1:02:49.815000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:49.335000" end="1:02:49.815000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:49.335000	1:02:49.815000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:49.335000" end="1:02:55.835000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:49.335000" end="1:02:55.835000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:02:49.335000	1:02:49.815000
 die	der	DET	-	1:02:49.815000	1:02:52.215000
 <pause duration="1,6s"/>
@@ -14295,10 +14295,10 @@ Großeltern	Großeltern	NOUN	-	1:02:52.215000	1:02:55.835000
 und	und	CCONJ	-	1:02:52.215000	1:02:55.835000
 Elterngeneration	Elterngeneration	NOUN	-	1:02:52.215000	1:02:55.835000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:55.835000" end="1:02:56.542000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:55.835000" end="1:02:56.542000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:55.835000	1:02:56.542000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:02:55.835000" end="1:02:57.855000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:02:55.835000" end="1:02:57.855000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 als	als	CCONJ	-	1:02:55.835000	1:02:56.542000
 jetzt	jetzt	ADV	-	1:02:55.835000	1:02:56.542000
 von	von	ADP	-	1:02:56.542000	1:02:57.855000
@@ -14308,7 +14308,7 @@ zu	zu	ADP	-	1:02:56.542000	1:02:57.855000
 uns	sich	PRON	-	1:02:56.542000	1:02:57.855000
 .	-	-	-	1:02:56.542000	1:02:57.855000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:02:57.855000" end="1:03:04.762000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:02:57.855000" end="1:03:04.762000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:02:57.855000	1:02:59.115000
 okay	okay	PROPN	-	1:02:57.855000	1:02:59.115000
 ,	-	-	-	1:02:57.855000	1:02:59.115000
@@ -14333,22 +14333,22 @@ Kind	Kind	NOUN	-	1:02:59.115000	1:03:04.762000
 gesprochen	sprechen	VERB	-	1:02:59.115000	1:03:04.762000
 ?	-	-	-	1:02:59.115000	1:03:04.762000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:04.762000" end="1:03:07.182000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:04.762000" end="1:03:07.182000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 SONSTIGE	SONSTIGE	ADJ	-	1:03:04.762000	1:03:07.182000
 .	-	-	-	1:03:04.762000	1:03:07.182000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:07.182000" end="1:03:08.622000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:07.182000" end="1:03:08.622000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:07.182000	1:03:08.255000
 und	und	CCONJ	-	1:03:07.182000	1:03:08.255000
 und	und	CCONJ	-	1:03:07.182000	1:03:08.255000
 warum	warum	ADV	-	1:03:08.255000	1:03:08.622000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:08.255000" end="1:03:08.622000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:08.255000" end="1:03:08.622000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:03:08.255000	1:03:08.622000
 es	ich	PRON	-	1:03:08.255000	1:03:08.622000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:08.622000" end="1:03:11.255000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:08.622000" end="1:03:11.255000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 glauben	glauben	VERB	-	1:03:08.622000	1:03:09.855000
 sie	ich	PRON	-	1:03:08.622000	1:03:09.855000
@@ -14360,7 +14360,7 @@ gesprochen	sprechen	VERB	-	1:03:09.855000	1:03:11.255000
 hat	haben	AUX	-	1:03:09.855000	1:03:11.255000
 ?	-	-	-	1:03:09.855000	1:03:11.255000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:11.255000" end="1:03:22.722000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:11.255000" end="1:03:22.722000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ähm	ähm	PRON	-	1:03:11.255000	1:03:17.775000
 <pause duration="1,3s"/>
@@ -14397,19 +14397,19 @@ sehr	sehr	ADV	-	1:03:20.035000	1:03:22.722000
 speziell	speziell	ADJ	-	1:03:20.035000	1:03:22.722000
 redet	reden	VERB	-	1:03:20.035000	1:03:22.722000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:22.722000" end="1:03:23.328000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:22.722000" end="1:03:23.328000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:22.722000	1:03:23.328000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:22.722000" end="1:03:24.115000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:22.722000" end="1:03:24.115000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sondern	sondern	CCONJ	-	1:03:22.722000	1:03:23.328000
 ganz	ganz	ADV	-	1:03:23.328000	1:03:24.115000
 normal	normal	ADJ	-	1:03:23.328000	1:03:24.115000
 ,	-	-	-	1:03:23.328000	1:03:24.115000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:24.115000" end="1:03:24.782000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:24.115000" end="1:03:24.782000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:24.115000	1:03:24.782000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:24.782000" end="1:03:26.868000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:24.782000" end="1:03:26.868000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 wie	wie	ADV	-	1:03:24.782000	1:03:26.868000
 mit	mit	ADP	-	1:03:24.782000	1:03:26.868000
 Erwachsenen	Erwachsene	NOUN	-	1:03:24.782000	1:03:26.868000
@@ -14417,10 +14417,10 @@ unter	unter	ADP	-	1:03:24.782000	1:03:26.868000
 Anführungszeichen	Anführungszeichen	NOUN	-	1:03:24.782000	1:03:26.868000
 .	-	-	-	1:03:24.782000	1:03:26.868000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:26.868000" end="1:03:27.328000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:26.868000" end="1:03:27.328000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:26.868000	1:03:27.328000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:27.328000" end="1:03:29.422000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:27.328000" end="1:03:29.422000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 insofern	insofern	ADV	-	1:03:27.328000	1:03:29.422000
 war	sein	AUX	-	1:03:27.328000	1:03:29.422000
 das	der	PRON	-	1:03:27.328000	1:03:29.422000
@@ -14429,14 +14429,14 @@ immer	immer	ADV	-	1:03:27.328000	1:03:29.422000
 SONSTIGE	SONSTIGE	NOUN	-	1:03:27.328000	1:03:29.422000
 .	-	-	-	1:03:27.328000	1:03:29.422000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:29.422000" end="1:03:30.055000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:29.422000" end="1:03:30.055000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:29.422000	1:03:30.055000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:29.422000" end="1:03:30.055000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:29.422000" end="1:03:30.055000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:03:29.422000	1:03:30.055000
 .	-	-	-	1:03:29.422000	1:03:30.055000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:30.055000" end="1:03:34.308000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:30.055000" end="1:03:34.308000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:03:30.055000	1:03:33.668000
 ihr	mein	DET	-	1:03:30.055000	1:03:33.668000
 Vater	Vater	NOUN	-	1:03:30.055000	1:03:33.668000
@@ -14454,19 +14454,19 @@ Kind	Kind	NOUN	-	1:03:30.055000	1:03:33.668000
 gesprochen	sprechen	VERB	-	1:03:33.668000	1:03:34.308000
 ?	-	-	-	1:03:33.668000	1:03:34.308000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:33.668000" end="1:03:34.308000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:33.668000" end="1:03:34.308000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	1:03:33.668000	1:03:34.308000
 so	so	ADV	-	1:03:33.668000	1:03:34.308000
 .	-	-	-	1:03:33.668000	1:03:34.308000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:34.308000" end="1:03:34.935000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:34.308000" end="1:03:34.935000" persName="Informant EXP4" age_lower="" age_upper="999">
 genauso	genauso	ADV	-	1:03:34.308000	1:03:34.935000
 .	-	-	-	1:03:34.308000	1:03:34.935000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:34.308000" end="1:03:34.935000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:34.308000" end="1:03:34.935000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:03:34.308000	1:03:34.935000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:34.935000" end="1:03:44.315000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:34.935000" end="1:03:44.315000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:03:34.935000	1:03:39.808000
 .	-	-	-	1:03:34.935000	1:03:39.808000
 <pause duration="0,7s"/>
@@ -14496,7 +14496,7 @@ gekommen	kommen	VERB	-	1:03:41.462000	1:03:44.315000
 sind	sein	AUX	-	1:03:41.462000	1:03:44.315000
 ?	-	-	-	1:03:41.462000	1:03:44.315000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:44.315000" end="1:03:52.262000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:44.315000" end="1:03:52.262000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ähm	ähm	PROPN	-	1:03:44.315000	1:03:48.822000
 <pause duration="0,9s"/>
@@ -14521,10 +14521,10 @@ viel	viel	PRON	-	1:03:48.822000	1:03:52.262000
 verändert	verändern	VERB	-	1:03:48.822000	1:03:52.262000
 .	-	-	-	1:03:48.822000	1:03:52.262000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:52.262000" end="1:03:52.742000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:52.262000" end="1:03:52.742000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:52.262000	1:03:52.742000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:52.742000" end="1:03:59.468000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:52.742000" end="1:03:59.468000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:03:52.742000	1:03:53.328000
 wie	wie	ADV	-	1:03:52.742000	1:03:53.328000
 gesagt	sagen	VERB	-	1:03:52.742000	1:03:53.328000
@@ -14556,10 +14556,10 @@ mittleren	mittler	ADJ	-	1:03:57.875000	1:03:59.468000
 Schule	Schule	NOUN	-	1:03:57.875000	1:03:59.468000
 .	-	-	-	1:03:57.875000	1:03:59.468000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:03:59.468000" end="1:03:59.961000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:03:59.468000" end="1:03:59.961000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:03:59.468000	1:03:59.961000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:03:59.961000" end="1:04:03.101000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:03:59.961000" end="1:04:03.101000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:03:59.961000	1:04:03.101000
 Volksschule	Volksschule	NOUN	-	1:03:59.961000	1:04:03.101000
 ,	-	-	-	1:03:59.961000	1:04:03.101000
@@ -14569,10 +14569,10 @@ ganz	ganz	ADV	-	1:03:59.961000	1:04:03.101000
 normal	normal	ADJ	-	1:03:59.961000	1:04:03.101000
 ,	-	-	-	1:03:59.961000	1:04:03.101000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:03.101000" end="1:04:03.515000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:03.101000" end="1:04:03.515000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:04:03.101000	1:04:03.515000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:03.101000" end="1:04:07.695000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:03.101000" end="1:04:07.695000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	1:04:03.101000	1:04:03.515000
 irgendwie	irgendwie	ADV	-	1:04:03.515000	1:04:07.695000
 jeder	jed	PRON	-	1:04:03.515000	1:04:07.695000
@@ -14587,10 +14587,10 @@ auch	auch	ADV	-	1:04:03.515000	1:04:07.695000
 die	der	DET	-	1:04:03.515000	1:04:07.695000
 Lehrer	Lehrer	NOUN	-	1:04:03.515000	1:04:07.695000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:07.695000" end="1:04:08.541000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:07.695000" end="1:04:08.541000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:04:07.695000	1:04:08.541000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:08.541000" end="1:04:16.041000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:08.541000" end="1:04:16.041000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:04:08.541000	1:04:15.428000
 Lehrerinnen	Lehrerin	NOUN	-	1:04:08.541000	1:04:15.428000
 und	und	CCONJ	-	1:04:08.541000	1:04:15.428000
@@ -14613,23 +14613,23 @@ aber	aber	CCONJ	-	1:04:15.428000	1:04:16.041000
 auch	auch	ADV	-	1:04:15.428000	1:04:16.041000
 nicht	nicht	PART	-	1:04:15.428000	1:04:16.041000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:16.041000" end="1:04:16.715000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:16.041000" end="1:04:16.715000" persName="Informant EXP4" age_lower="" age_upper="999">
 aha	aha	PROPN	-	1:04:16.041000	1:04:16.715000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:16.041000" end="1:04:17.081000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:16.041000" end="1:04:17.081000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 erzwungen	erzwingen	VERB	-	1:04:16.041000	1:04:16.715000
 oder	oder	CCONJ	-	1:04:16.715000	1:04:17.081000
 so	so	ADV	-	1:04:16.715000	1:04:17.081000
 .	-	-	-	1:04:16.715000	1:04:17.081000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:17.081000" end="1:04:19.248000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:17.081000" end="1:04:19.248000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 wie	wie	CCONJ	-	1:04:17.081000	1:04:19.248000
 inwiefern	inwiefern	NOUN	-	1:04:17.081000	1:04:19.248000
 verändert	verändern	VERB	-	1:04:17.081000	1:04:19.248000
 ?	-	-	-	1:04:17.081000	1:04:19.248000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:19.248000" end="1:04:25.121000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:19.248000" end="1:04:25.121000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:04:19.248000	1:04:22.301000
 ja	ja	PART	-	1:04:19.248000	1:04:22.301000
 ,	-	-	-	1:04:19.248000	1:04:22.301000
@@ -14657,11 +14657,11 @@ Klagenfurt	Klagenfurt	PROPN	-	1:04:23.895000	1:04:25.121000
 ist	sein	AUX	-	1:04:23.895000	1:04:25.121000
 .	-	-	-	1:04:23.895000	1:04:25.121000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:25.121000" end="1:04:26.908000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:25.121000" end="1:04:26.908000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 ah	ah	X	-	1:04:25.121000	1:04:26.908000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:25.121000" end="1:04:28.821000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:25.121000" end="1:04:28.821000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	1:04:25.121000	1:04:26.908000
 sind	sein	AUX	-	1:04:25.121000	1:04:26.908000
@@ -14673,7 +14673,7 @@ Begriffe	Begriff	NOUN	-	1:04:26.908000	1:04:28.821000
 dazugekommen	dazukommen	VERB	-	1:04:26.908000	1:04:28.821000
 .	-	-	-	1:04:26.908000	1:04:28.821000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:28.821000" end="1:04:33.121000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:28.821000" end="1:04:33.121000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:04:28.821000	1:04:32.715000
 und	und	CCONJ	-	1:04:28.821000	1:04:32.715000
 das	der	DET	-	1:04:28.821000	1:04:32.715000
@@ -14686,12 +14686,12 @@ Freundeskreis	Freundeskreis	NOUN	-	1:04:28.821000	1:04:32.715000
 aufgef/	-	-	-	1:04:28.821000	1:04:32.715000
 nommen	nommen	VERB	-	1:04:32.715000	1:04:33.121000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:32.715000" end="1:04:33.121000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:32.715000" end="1:04:33.121000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 schon	schon	ADV	-	1:04:32.715000	1:04:33.121000
 ja	ja	PART	-	1:04:32.715000	1:04:33.121000
 .	-	-	-	1:04:32.715000	1:04:33.121000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:33.121000" end="1:04:34.455000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:33.121000" end="1:04:34.455000" persName="Informant EXP4" age_lower="" age_upper="999">
 wurde	werden	AUX	-	1:04:33.121000	1:04:33.401000
 .	-	-	-	1:04:33.121000	1:04:33.401000
 okay	okay	NOUN	-	1:04:33.401000	1:04:33.861000
@@ -14700,10 +14700,10 @@ ja	ja	PART	-	1:04:33.401000	1:04:33.861000
 spannend	spannen	ADJ	-	1:04:33.861000	1:04:34.455000
 .	-	-	-	1:04:33.861000	1:04:34.455000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:33.861000" end="1:04:34.455000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:33.861000" end="1:04:34.455000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:04:33.861000	1:04:34.455000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:34.455000" end="1:04:39.401000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:34.455000" end="1:04:39.401000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	1:04:34.455000	1:04:36.241000
 ähm	ähm	PROPN	-	1:04:34.455000	1:04:36.241000
@@ -14726,10 +14726,10 @@ nach	nach	ADP	-	1:04:36.241000	1:04:39.401000
 Wien	Wien	PROPN	-	1:04:36.241000	1:04:39.401000
 ,	-	-	-	1:04:36.241000	1:04:39.401000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:39.401000" end="1:04:39.661000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:39.401000" end="1:04:39.661000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:04:39.401000	1:04:39.661000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:39.661000" end="1:04:43.395000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:39.661000" end="1:04:43.395000" persName="Informant EXP4" age_lower="" age_upper="999">
 wie	wie	ADV	-	1:04:39.661000	1:04:40.468000
 war	sein	AUX	-	1:04:39.661000	1:04:40.468000
 das	der	PRON	-	1:04:39.661000	1:04:40.468000
@@ -14746,7 +14746,7 @@ im	im	ADP	-	1:04:40.468000	1:04:43.395000
 Sprachgebrauch	Sprachgebrauch	NOUN	-	1:04:40.468000	1:04:43.395000
 ?	-	-	-	1:04:40.468000	1:04:43.395000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:43.395000" end="1:04:51.048000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:43.395000" end="1:04:51.048000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 also	also	ADV	-	1:04:43.395000	1:04:51.048000
 nicht	nicht	PART	-	1:04:43.395000	1:04:51.048000
@@ -14769,18 +14769,18 @@ Deutsch	Deutsch	NOUN	-	1:04:43.395000	1:04:51.048000
 verwendet	verwenden	VERB	-	1:04:43.395000	1:04:51.048000
 .	-	-	-	1:04:43.395000	1:04:51.048000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:51.048000" end="1:04:51.748000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:51.048000" end="1:04:51.748000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:04:51.048000	1:04:51.748000
 .	-	-	-	1:04:51.048000	1:04:51.748000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:51.048000" end="1:04:52.448000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:51.048000" end="1:04:52.448000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	1:04:51.048000	1:04:51.748000
 der	der	DET	-	1:04:51.748000	1:04:52.448000
 Schule	Schule	NOUN	-	1:04:51.748000	1:04:52.448000
 oder/	-	-	-	1:04:51.748000	1:04:52.448000
 .	-	-	-	1:04:51.748000	1:04:52.448000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:52.448000" end="1:04:53.881000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:52.448000" end="1:04:53.881000" persName="Informant EXP4" age_lower="" age_upper="999">
 auch	auch	ADV	-	1:04:52.448000	1:04:53.268000
 in	in	ADP	-	1:04:52.448000	1:04:53.268000
 der	der	DET	-	1:04:52.448000	1:04:53.268000
@@ -14790,17 +14790,17 @@ in	in	ADP	-	1:04:53.268000	1:04:53.881000
 Wien	Wien	PROPN	-	1:04:53.268000	1:04:53.881000
 .	-	-	-	1:04:53.268000	1:04:53.881000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:53.268000" end="1:04:53.881000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:53.268000" end="1:04:53.881000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	1:04:53.268000	1:04:53.881000
 ja	ja	ADV	-	1:04:53.268000	1:04:53.881000
 ja	ja	PART	-	1:04:53.268000	1:04:53.881000
 .	-	-	-	1:04:53.268000	1:04:53.881000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:53.881000" end="1:04:54.508000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:53.881000" end="1:04:54.508000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:04:53.881000	1:04:54.508000
 mhm	mhm	PROPN	-	1:04:53.881000	1:04:54.508000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:54.508000" end="1:04:55.708000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:54.508000" end="1:04:55.708000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 da	da	ADV	-	1:04:54.508000	1:04:55.708000
 war	sein	AUX	-	1:04:54.508000	1:04:55.708000
 das	der	PRON	-	1:04:54.508000	1:04:55.708000
@@ -14809,10 +14809,10 @@ eine	einen	DET	-	1:04:54.508000	1:04:55.708000
 Anforderung	Anforderung	NOUN	-	1:04:54.508000	1:04:55.708000
 .	-	-	-	1:04:54.508000	1:04:55.708000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:04:55.708000" end="1:04:56.215000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:04:55.708000" end="1:04:56.215000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:04:55.708000	1:04:56.215000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:04:55.708000" end="1:05:11.628000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:04:55.708000" end="1:05:11.628000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:04:55.708000	1:04:56.215000
 da	da	ADV	-	1:04:56.215000	1:04:57.028000
 war	sein	AUX	-	1:04:56.215000	1:04:57.028000
@@ -14854,11 +14854,11 @@ Umschalten	Umschalten	NOUN	-	1:05:08.968000	1:05:11.628000
 schafft	schaffen	VERB	-	1:05:08.968000	1:05:11.628000
 .	-	-	-	1:05:08.968000	1:05:11.628000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:11.628000" end="1:05:12.701000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:11.628000" end="1:05:12.701000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:05:11.628000	1:05:12.701000
 mhm	mhm	PROPN	-	1:05:11.628000	1:05:12.701000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:12.701000" end="1:05:13.855000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:12.701000" end="1:05:13.855000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	1:05:12.701000	1:05:13.855000
 war	sein	AUX	-	1:05:12.701000	1:05:13.855000
 dann	dann	ADV	-	1:05:12.701000	1:05:13.855000
@@ -14868,14 +14868,14 @@ Thema	Thema	NOUN	-	1:05:12.701000	1:05:13.855000
 ja	ja	PART	-	1:05:12.701000	1:05:13.855000
 .	-	-	-	1:05:12.701000	1:05:13.855000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:13.855000" end="1:05:14.521000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:13.855000" end="1:05:14.521000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	1:05:13.855000	1:05:14.521000
 .	-	-	-	1:05:13.855000	1:05:14.521000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:14.521000" end="1:05:14.848000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:14.521000" end="1:05:14.848000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:05:14.521000	1:05:14.848000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:14.848000" end="1:05:19.868000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:14.848000" end="1:05:19.868000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:05:14.848000	1:05:15.655000
 verstehe	verstehen	VERB	-	1:05:14.848000	1:05:15.655000
 .	-	-	-	1:05:14.848000	1:05:15.655000
@@ -14894,7 +14894,7 @@ gesprochen	sprechen	VERB	-	1:05:17.515000	1:05:19.868000
 wurde	werden	AUX	-	1:05:17.515000	1:05:19.868000
 ?	-	-	-	1:05:17.515000	1:05:19.868000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:19.868000" end="1:05:21.695000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:19.868000" end="1:05:21.695000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 in	in	ADP	-	1:05:19.868000	1:05:21.695000
 welcher	welch	DET	-	1:05:19.868000	1:05:21.695000
@@ -14902,7 +14902,7 @@ Stufe	Stufe	NOUN	-	1:05:19.868000	1:05:21.695000
 jetzt	jetzt	ADV	-	1:05:19.868000	1:05:21.695000
 ?	-	-	-	1:05:19.868000	1:05:21.695000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:21.695000" end="1:05:25.375000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:21.695000" end="1:05:25.375000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	X	-	1:05:21.695000	1:05:23.601000
 <pause duration="0,5s"/>
 Un/	-	-	-	1:05:21.695000	1:05:23.601000
@@ -14913,7 +14913,7 @@ also	also	ADV	-	1:05:23.601000	1:05:25.375000
 beides	beide	PRON	-	1:05:23.601000	1:05:25.375000
 .	-	-	-	1:05:23.601000	1:05:25.375000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:23.601000" end="1:05:42.735000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:23.601000" end="1:05:42.735000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 na	na	X	-	1:05:23.601000	1:05:25.375000
 es	ich	PRON	-	1:05:23.601000	1:05:25.375000
 wurde	werden	AUX	-	1:05:23.601000	1:05:25.375000
@@ -14964,18 +14964,18 @@ ablegt	ablegen	VERB	-	1:05:40.161000	1:05:42.735000
 zumindest	zumindest	ADV	-	1:05:40.161000	1:05:42.735000
 .	-	-	-	1:05:40.161000	1:05:42.735000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:42.735000" end="1:05:43.261000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:42.735000" end="1:05:43.261000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:05:42.735000	1:05:43.261000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:43.261000" end="1:05:43.628000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:43.261000" end="1:05:43.628000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:05:43.261000	1:05:43.628000
 .	-	-	-	1:05:43.261000	1:05:43.628000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:43.628000" end="1:05:44.488000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:43.628000" end="1:05:44.488000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:05:43.628000	1:05:44.488000
 mhm	mhm	PROPN	-	1:05:43.628000	1:05:44.488000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:44.488000" end="1:05:50.388000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:44.488000" end="1:05:50.388000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:05:44.488000	1:05:48.388000
 davor	davor	ADV	-	1:05:44.488000	1:05:48.388000
 war	sein	AUX	-	1:05:44.488000	1:05:48.388000
@@ -14997,7 +14997,7 @@ darüber	darüber	ADV	-	1:05:48.388000	1:05:50.388000
 gemacht	machen	VERB	-	1:05:48.388000	1:05:50.388000
 .	-	-	-	1:05:48.388000	1:05:50.388000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:50.388000" end="1:05:55.975000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:50.388000" end="1:05:55.975000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:05:50.388000	1:05:51.895000
 mhm	mhm	PROPN	-	1:05:50.388000	1:05:51.895000
 .	-	-	-	1:05:50.388000	1:05:51.895000
@@ -15013,20 +15013,20 @@ am	am	ADP	-	1:05:51.895000	1:05:55.975000
 Anfang	Anfang	NOUN	-	1:05:51.895000	1:05:55.975000
 ?	-	-	-	1:05:51.895000	1:05:55.975000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:55.975000" end="1:05:56.275000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:55.975000" end="1:05:56.275000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:05:55.975000	1:05:56.275000
 .	-	-	-	1:05:55.975000	1:05:56.275000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:56.275000" end="1:05:57.001000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:56.275000" end="1:05:57.001000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:05:56.275000	1:05:57.001000
 .	-	-	-	1:05:56.275000	1:05:57.001000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:05:56.275000" end="1:05:57.001000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:05:56.275000" end="1:05:57.001000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 gar	gar	ADV	-	1:05:56.275000	1:05:57.001000
 nicht	nicht	PART	-	1:05:56.275000	1:05:57.001000
 .	-	-	-	1:05:56.275000	1:05:57.001000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:05:57.001000" end="1:06:10.128000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:05:57.001000" end="1:06:10.128000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 haben	haben	AUX	-	1:05:57.001000	1:06:02.835000
 sie	ich	PRON	-	1:05:57.001000	1:06:02.835000
@@ -15069,7 +15069,7 @@ der	der	DET	-	1:06:09.315000	1:06:10.128000
 Arbeit	Arbeit	NOUN	-	1:06:09.315000	1:06:10.128000
 .	-	-	-	1:06:09.315000	1:06:10.128000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:09.315000" end="1:06:14.168000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:09.315000" end="1:06:14.168000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:06:09.315000	1:06:10.128000
 <pause duration="1,7s"/>
 ich	ich	PRON	-	1:06:10.128000	1:06:14.168000
@@ -15081,12 +15081,12 @@ das	der	DET	-	1:06:10.128000	1:06:14.168000
 Auslandsjahr	Auslandsjahr	NOUN	-	1:06:10.128000	1:06:14.168000
 .	-	-	-	1:06:10.128000	1:06:14.168000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:14.168000" end="1:06:15.301000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:14.168000" end="1:06:15.301000" persName="Informant EXP4" age_lower="" age_upper="999">
 aha	aha	X	-	1:06:14.168000	1:06:15.301000
 ja	ja	ADV	-	1:06:14.168000	1:06:15.301000
 .	-	-	-	1:06:14.168000	1:06:15.301000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:15.301000" end="1:06:26.535000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:15.301000" end="1:06:26.535000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:06:15.301000	1:06:19.401000
 <pause duration="2,2s"/>
 dass	dass	VERB	-	1:06:15.301000	1:06:19.401000
@@ -15125,10 +15125,10 @@ so	so	ADV	-	1:06:24.195000	1:06:26.281000
 al/	-	-	-	1:06:26.281000	1:06:26.535000
 das	der	PRON	-	1:06:26.281000	1:06:26.535000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:26.535000" end="1:06:26.888000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:26.535000" end="1:06:26.888000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:06:26.535000	1:06:26.888000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:26.535000" end="1:06:35.435000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:26.535000" end="1:06:35.435000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:06:26.535000	1:06:26.888000
 das	der	PRON	-	1:06:26.535000	1:06:26.888000
 passiert	passieren	VERB	-	1:06:26.888000	1:06:27.635000
@@ -15155,27 +15155,27 @@ konsumieren	konsumieren	VERB	-	1:06:27.635000	1:06:35.435000
 so)	so	ADV	-	1:06:27.635000	1:06:35.435000
 .	-	-	-	1:06:27.635000	1:06:35.435000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:35.435000" end="1:06:36.548000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:35.435000" end="1:06:36.548000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:06:35.435000	1:06:36.101000
 auch	auch	ADV	-	1:06:36.101000	1:06:36.548000
 bis	bis	ADP	-	1:06:36.101000	1:06:36.548000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:36.101000" end="1:06:36.548000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:36.101000" end="1:06:36.548000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:06:36.101000	1:06:36.548000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:36.548000" end="1:06:37.468000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:36.548000" end="1:06:37.468000" persName="Informant EXP4" age_lower="" age_upper="999">
 heute	heute	ADV	-	1:06:36.548000	1:06:37.001000
 sozusagen	sozusagen	ADV	-	1:06:37.001000	1:06:37.468000
 .	-	-	-	1:06:37.001000	1:06:37.468000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:37.001000" end="1:06:37.468000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:37.001000" end="1:06:37.468000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:06:37.001000	1:06:37.468000
 .	-	-	-	1:06:37.001000	1:06:37.468000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:37.468000" end="1:06:37.828000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:37.468000" end="1:06:37.828000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:06:37.468000	1:06:37.828000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:37.828000" end="1:06:45.095000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:37.828000" end="1:06:45.095000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	-	1:06:37.828000	1:06:41.501000
 glaube	glauben	VERB	-	1:06:37.828000	1:06:41.501000
@@ -15197,14 +15197,14 @@ viel	viel	PRON	-	1:06:43.968000	1:06:45.095000
 verändert	verändern	VERB	-	1:06:43.968000	1:06:45.095000
 .	-	-	-	1:06:43.968000	1:06:45.095000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:45.095000" end="1:06:45.668000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:45.095000" end="1:06:45.668000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:06:45.095000	1:06:45.668000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:45.668000" end="1:06:46.021000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:45.668000" end="1:06:46.021000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:06:45.668000	1:06:46.021000
 .	-	-	-	1:06:45.668000	1:06:46.021000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:46.021000" end="1:06:49.901000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:46.021000" end="1:06:49.901000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:06:46.021000	1:06:49.901000
 durch	durch	ADP	-	1:06:46.021000	1:06:49.901000
 die	der	DET	-	1:06:46.021000	1:06:49.901000
@@ -15217,7 +15217,7 @@ dem	der	DET	-	1:06:46.021000	1:06:49.901000
 Gedänkdienst	Gedenkdienst	NOUN	-	1:06:46.021000	1:06:49.901000
 ?	-	-	-	1:06:46.021000	1:06:49.901000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:49.901000" end="1:06:54.615000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:49.901000" end="1:06:54.615000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:06:49.901000	1:06:51.148000
 es	ich	PRON	-	1:06:49.901000	1:06:51.148000
 ist	sein	AUX	-	1:06:49.901000	1:06:51.148000
@@ -15239,10 +15239,10 @@ das	der	DET	-	1:06:53.148000	1:06:54.615000
 Deutsch	Deutsch	NOUN	-	1:06:53.148000	1:06:54.615000
 ist	sein	AUX	-	1:06:53.148000	1:06:54.615000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:06:54.615000" end="1:06:55.348000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:06:54.615000" end="1:06:55.348000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:06:54.615000	1:06:55.348000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:06:54.615000" end="1:07:00.721000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:06:54.615000" end="1:07:00.721000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 halt/	-	-	-	1:06:54.615000	1:06:55.348000
 .	-	-	-	1:06:54.615000	1:06:55.348000
 <pause duration="3,1s"/>
@@ -15258,17 +15258,17 @@ der	der	DET	-	1:06:55.348000	1:07:00.721000
 Schulzeit	Schulzeit	NOUN	-	1:06:55.348000	1:07:00.721000
 .	-	-	-	1:06:55.348000	1:07:00.721000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:00.721000" end="1:07:01.255000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:00.721000" end="1:07:01.255000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:00.721000	1:07:01.255000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:00.721000" end="1:07:01.255000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:00.721000" end="1:07:01.255000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:07:00.721000	1:07:01.255000
 .	-	-	-	1:07:00.721000	1:07:01.255000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:01.255000" end="1:07:01.855000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:01.255000" end="1:07:01.855000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:01.255000	1:07:01.855000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:01.855000" end="1:07:08.948000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:01.855000" end="1:07:08.948000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:07:01.855000	1:07:02.328000
 ich	ich	PRON	-	1:07:01.855000	1:07:02.328000
 glaube	glauben	VERB	-	1:07:01.855000	1:07:02.328000
@@ -15296,7 +15296,7 @@ das	der	PRON	-	1:07:02.328000	1:07:08.948000
 nicht	nicht	PART	-	1:07:02.328000	1:07:08.948000
 .	-	-	-	1:07:02.328000	1:07:08.948000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:08.948000" end="1:07:16.388000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:08.948000" end="1:07:16.388000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:08.948000	1:07:10.355000
 okay	okay	PROPN	-	1:07:08.948000	1:07:10.355000
 .	-	-	-	1:07:08.948000	1:07:10.355000
@@ -15321,15 +15321,15 @@ so	so	ADV	-	1:07:15.055000	1:07:16.388000
 sagen	sagen	VERB	-	1:07:15.055000	1:07:16.388000
 ?	-	-	-	1:07:15.055000	1:07:16.388000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:16.388000" end="1:07:17.921000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:16.388000" end="1:07:17.921000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	PROPN	-	1:07:16.388000	1:07:17.921000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:17.921000" end="1:07:18.615000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:17.921000" end="1:07:18.615000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:07:17.921000	1:07:18.615000
 be/	-	-	-	1:07:17.921000	1:07:18.615000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:17.921000" end="1:07:21.968000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:17.921000" end="1:07:21.968000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 kommt	kommen	VERB	-	1:07:17.921000	1:07:18.615000
 auf	auf	ADP	-	1:07:18.615000	1:07:19.621000
 die	der	PRON	-	1:07:18.615000	1:07:19.621000
@@ -15350,10 +15350,10 @@ schon	schon	ADV	-	1:07:20.828000	1:07:21.968000
 passieren	passieren	VERB	-	1:07:20.828000	1:07:21.968000
 .	-	-	-	1:07:20.828000	1:07:21.968000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:21.968000" end="1:07:22.535000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:21.968000" end="1:07:22.535000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:21.968000	1:07:22.535000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:21.968000" end="1:07:24.535000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:21.968000" end="1:07:24.535000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:07:21.968000	1:07:22.535000
 mit	mit	ADP	-	1:07:22.535000	1:07:24.535000
 der	der	DET	-	1:07:22.535000	1:07:24.535000
@@ -15366,10 +15366,10 @@ doch	doch	CCONJ	-	1:07:22.535000	1:07:24.535000
 schon	schon	ADV	-	1:07:22.535000	1:07:24.535000
 .	-	-	-	1:07:22.535000	1:07:24.535000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:24.535000" end="1:07:25.128000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:24.535000" end="1:07:25.128000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:24.535000	1:07:25.128000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:25.128000" end="1:07:26.061000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:25.128000" end="1:07:26.061000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 es	ich	PRON	-	1:07:25.128000	1:07:26.061000
 ist	sein	AUX	-	1:07:25.128000	1:07:26.061000
 schon	schon	ADV	-	1:07:25.128000	1:07:26.061000
@@ -15378,10 +15378,10 @@ anders	anders	ADV	-	1:07:25.128000	1:07:26.061000
 ja	ja	PART	-	1:07:25.128000	1:07:26.061000
 .	-	-	-	1:07:25.128000	1:07:26.061000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:26.061000" end="1:07:26.628000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:26.061000" end="1:07:26.628000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:26.061000	1:07:26.628000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:26.628000" end="1:07:29.748000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:26.628000" end="1:07:29.748000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV std stdL+	1:07:26.628000	1:07:29.748000
 könnte	können	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV std stdL+	1:07:26.628000	1:07:29.748000
@@ -15393,7 +15393,7 @@ zusammenfassen	zusammenfassen	VERB	HöflK KForm KKon KKt KLaut KMark KONJ KPrät
 ja	ja	PART	-	1:07:26.628000	1:07:29.748000
 .	-	-	-	1:07:26.628000	1:07:29.748000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:29.748000" end="1:07:33.968000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:29.748000" end="1:07:33.968000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:07:29.748000	1:07:30.921000
 mhm	mhm	PROPN	-	1:07:29.748000	1:07:30.921000
 .	-	-	-	1:07:29.748000	1:07:30.921000
@@ -15409,7 +15409,7 @@ mir	sich	PRON	-	1:07:30.921000	1:07:33.055000
 <pause duration="0,7s"/>
 (wie)	wie	ADV	-	1:07:33.055000	1:07:33.968000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:33.968000" end="1:07:39.741000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:33.968000" end="1:07:39.741000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 am	am	PART	-	1:07:33.968000	1:07:39.741000
 ehesten	ehesten	ADJ	-	1:07:33.968000	1:07:39.741000
@@ -15424,10 +15424,10 @@ Deutsch	Deutsch	NOUN	-	1:07:33.968000	1:07:39.741000
 Deutsch	Deutsch	NOUN	-	1:07:33.968000	1:07:39.741000
 .	-	-	-	1:07:33.968000	1:07:39.741000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:39.741000" end="1:07:40.228000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:39.741000" end="1:07:40.228000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:39.741000	1:07:40.228000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:40.228000" end="1:07:42.295000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:40.228000" end="1:07:42.295000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	1:07:40.228000	1:07:42.295000
 oder	oder	CCONJ	-	1:07:40.228000	1:07:42.295000
 die	der	DET	-	1:07:40.228000	1:07:42.295000
@@ -15435,30 +15435,30 @@ Mischform	Mischform	NOUN	-	1:07:40.228000	1:07:42.295000
 vielleicht	vielleicht	ADV	-	1:07:40.228000	1:07:42.295000
 .	-	-	-	1:07:40.228000	1:07:42.295000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:42.295000" end="1:07:42.835000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:42.295000" end="1:07:42.835000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:07:42.295000	1:07:42.835000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:42.835000" end="1:07:43.548000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:42.835000" end="1:07:43.548000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	1:07:42.835000	1:07:43.548000
 .	-	-	-	1:07:42.835000	1:07:43.548000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:43.548000" end="1:07:44.008000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:43.548000" end="1:07:44.008000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:07:43.548000	1:07:44.008000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:43.548000" end="1:07:45.221000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:43.548000" end="1:07:45.221000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:07:43.548000	1:07:44.008000
 sicher	sichern	ADV	-	1:07:44.008000	1:07:45.221000
 nicht	nicht	PART	-	1:07:44.008000	1:07:45.221000
 SONSTIGE	SONSTIGE	NOUN	-	1:07:44.008000	1:07:45.221000
 .	-	-	-	1:07:44.008000	1:07:45.221000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:45.221000" end="1:07:46.568000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:45.221000" end="1:07:46.568000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:07:45.221000	1:07:46.568000
 .	-	-	-	1:07:45.221000	1:07:46.568000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:45.221000" end="1:07:46.568000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:45.221000" end="1:07:46.568000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:46.568000" end="1:07:48.681000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:46.568000" end="1:07:48.681000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	1:07:46.568000	1:07:47.441000
 zu	zu	ADP	-	1:07:46.568000	1:07:47.441000
 dem	der	PRON	-	1:07:46.568000	1:07:47.441000
@@ -15469,13 +15469,13 @@ später	spät	ADJ	-	1:07:47.441000	1:07:48.681000
 noch	noch	ADV	-	1:07:47.441000	1:07:48.681000
 .	-	-	-	1:07:47.441000	1:07:48.681000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:47.441000" end="1:07:48.681000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:47.441000" end="1:07:48.681000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:07:47.441000	1:07:48.681000
 ja	ja	ADV	-	1:07:47.441000	1:07:48.681000
 genau	genau	ADJ	-	1:07:47.441000	1:07:48.681000
 .	-	-	-	1:07:47.441000	1:07:48.681000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:48.681000" end="1:07:50.981000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:48.681000" end="1:07:50.981000" persName="Informant EXP4" age_lower="" age_upper="999">
 ähm	ähm	NOUN	-	1:07:48.681000	1:07:50.981000
 wie	wie	CCONJ	-	1:07:48.681000	1:07:50.981000
 und	und	CCONJ	-	1:07:48.681000	1:07:50.981000
@@ -15486,7 +15486,7 @@ mit	mit	ADP	-	1:07:48.681000	1:07:50.981000
 ihnen	ich	PRON	-	1:07:48.681000	1:07:50.981000
 ?	-	-	-	1:07:48.681000	1:07:50.981000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:50.981000" end="1:07:54.001000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:50.981000" end="1:07:54.001000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 österreichisches	österreichisch	ADJ	-	1:07:50.981000	1:07:54.001000
 Deutsch	Deutsch	NOUN	-	1:07:50.981000	1:07:54.001000
@@ -15494,17 +15494,17 @@ wahrscheinlich	wahrscheinlich	ADJ	-	1:07:50.981000	1:07:54.001000
 auch	auch	ADV	-	1:07:50.981000	1:07:54.001000
 .	-	-	-	1:07:50.981000	1:07:54.001000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:54.001000" end="1:07:55.141000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:54.001000" end="1:07:55.141000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 okay	okay	NOUN	-	1:07:54.001000	1:07:55.141000
 .	-	-	-	1:07:54.001000	1:07:55.141000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:54.001000" end="1:07:55.141000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:54.001000" end="1:07:55.141000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	1:07:54.001000	1:07:55.141000
 .	-	-	-	1:07:54.001000	1:07:55.141000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:55.141000" end="1:07:58.788000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:55.141000" end="1:07:58.788000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:07:55.141000	1:07:58.788000
 und	und	CCONJ	-	1:07:55.141000	1:07:58.788000
 gut	gut	ADJ	-	1:07:55.141000	1:07:58.788000
@@ -15518,10 +15518,10 @@ es	ich	PRON	-	1:07:55.141000	1:07:58.788000
 jetzt	jetzt	ADV	-	1:07:55.141000	1:07:58.788000
 fast	fast	ADV	-	1:07:55.141000	1:07:58.788000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:07:58.788000" end="1:07:59.168000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:07:58.788000" end="1:07:59.168000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:07:58.788000	1:07:59.168000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:07:59.168000" end="1:08:10.195000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:59.168000" end="1:08:10.195000" persName="Informant EXP4" age_lower="" age_upper="999">
 fertig	fertigen	ADJ	-	1:07:59.168000	1:07:59.655000
 .	-	-	-	1:07:59.168000	1:07:59.655000
 ähm	ähm	X	-	1:07:59.655000	1:08:01.861000
@@ -15562,16 +15562,16 @@ anderen	ander	ADJ	-	1:08:01.861000	1:08:10.195000
 Sprachen	Sprache	NOUN	-	1:08:01.861000	1:08:10.195000
 ?	-	-	-	1:08:01.861000	1:08:10.195000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:10.195000" end="1:08:11.848000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:10.195000" end="1:08:11.848000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 schon	schon	ADV	-	1:08:10.195000	1:08:11.848000
 ja	ja	ADV	-	1:08:10.195000	1:08:11.848000
 .	-	-	-	1:08:10.195000	1:08:11.848000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:11.848000" end="1:08:12.481000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:11.848000" end="1:08:12.481000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:11.848000	1:08:12.481000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:12.481000" end="1:08:14.868000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:12.481000" end="1:08:14.868000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:08:12.481000	1:08:14.868000
 eben	eben	ADV	-	1:08:12.481000	1:08:14.868000
 <pause duration="0,7s"/>
@@ -15579,28 +15579,28 @@ Englisch	Englisch	NOUN	-	1:08:12.481000	1:08:14.868000
 natürlich	natürlich	ADV	-	1:08:12.481000	1:08:14.868000
 ähm	ähm	ADJ	-	1:08:12.481000	1:08:14.868000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:14.868000" end="1:08:15.215000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:14.868000" end="1:08:15.215000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:14.868000	1:08:15.215000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:15.215000" end="1:08:15.941000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:15.215000" end="1:08:15.941000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 zum	zum	ADP	-	1:08:15.215000	1:08:15.941000
 Beispiel	Beispiel	NOUN	-	1:08:15.215000	1:08:15.941000
 .	-	-	-	1:08:15.215000	1:08:15.941000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:15.941000" end="1:08:17.520000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:15.941000" end="1:08:17.520000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,3s"/>
 ja	ja	ADV	-	1:08:15.941000	1:08:17.520000
 .	-	-	-	1:08:15.941000	1:08:17.520000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:17.520000" end="1:08:18.035000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:17.520000" end="1:08:18.035000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:08:17.520000	1:08:18.035000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:18.035000" end="1:08:19.201000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:18.035000" end="1:08:19.201000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 also/	-	-	-	1:08:18.035000	1:08:19.201000
 .	-	-	-	1:08:18.035000	1:08:19.201000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:19.201000" end="1:08:26.581000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:19.201000" end="1:08:26.581000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 von	von	ADP	-	1:08:19.201000	1:08:20.941000
 der	der	DET	-	1:08:19.201000	1:08:20.941000
 Zuwanderung	Zuwanderung	NOUN	-	1:08:19.201000	1:08:20.941000
@@ -15626,12 +15626,12 @@ neunzigern	neunzigern	NOUN	-	1:08:23.928000	1:08:26.581000
 (eigentlich)	eigentlich	ADV	-	1:08:23.928000	1:08:26.581000
 .	-	-	-	1:08:23.928000	1:08:26.581000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:26.581000" end="1:08:27.928000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:26.581000" end="1:08:27.928000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:26.581000	1:08:27.928000
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	1:08:26.581000	1:08:27.928000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:27.928000" end="1:08:35.747000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:27.928000" end="1:08:35.747000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:08:27.928000	1:08:35.747000
 dass	dass	SCONJ	-	1:08:27.928000	1:08:35.747000
 halt	halt	ADV	-	1:08:27.928000	1:08:35.747000
@@ -15650,10 +15650,10 @@ und	und	CCONJ	-	1:08:27.928000	1:08:35.747000
 so	so	ADV	-	1:08:27.928000	1:08:35.747000
 .	-	-	-	1:08:27.928000	1:08:35.747000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:35.747000" end="1:08:36.421000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:35.747000" end="1:08:36.421000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:35.747000	1:08:36.421000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:36.421000" end="1:08:37.961000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:36.421000" end="1:08:37.961000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 *hats*	-	-	-	1:08:36.421000	1:08:37.961000
 sicher	-	-	-	1:08:36.421000	1:08:37.961000
 auch	-	-	-	1:08:36.421000	1:08:37.961000
@@ -15662,7 +15662,7 @@ gegeben	-	-	-	1:08:36.421000	1:08:37.961000
 ja	ja	PART	-	1:08:36.421000	1:08:37.961000
 .	-	-	-	1:08:36.421000	1:08:37.961000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:37.961000" end="1:08:39.828000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:37.961000" end="1:08:39.828000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 fällt	fällen	VERB	-	1:08:37.961000	1:08:39.828000
 ihnen	ich	PRON	-	1:08:37.961000	1:08:39.828000
@@ -15672,12 +15672,12 @@ Beispiel	Beispiel	NOUN	-	1:08:37.961000	1:08:39.828000
 ein	einen	ADP	-	1:08:37.961000	1:08:39.828000
 ?	-	-	-	1:08:37.961000	1:08:39.828000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:39.828000" end="1:08:41.121000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:39.828000" end="1:08:41.121000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:41.121000" end="1:08:42.008000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:41.121000" end="1:08:42.008000" persName="Informant EXP4" age_lower="" age_upper="999">
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:42.008000" end="1:08:50.608000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:42.008000" end="1:08:50.608000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	ähm	PROPN	-	1:08:42.828000	1:08:47.741000
 <pause duration="0,7s"/>
@@ -15703,20 +15703,20 @@ irgendetwas	irgendetwas	PRON	-	1:08:49.701000	1:08:50.608000
 gibt	geben	VERB	-	1:08:49.701000	1:08:50.608000
 ,	-	-	-	1:08:49.701000	1:08:50.608000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:50.608000" end="1:08:51.148000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:50.608000" end="1:08:51.148000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:50.608000	1:08:51.148000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:50.608000" end="1:08:51.568000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:50.608000" end="1:08:51.568000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	1:08:50.608000	1:08:51.148000
 ich	-	-	IRR	1:08:50.608000	1:08:51.148000
 könnte	-	-	IRR	1:08:50.608000	1:08:51.148000
 jetzt	-	-	-	1:08:51.148000	1:08:51.568000
 nicht	-	-	IRR	1:08:51.148000	1:08:51.568000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:51.568000" end="1:08:52.341000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:51.568000" end="1:08:52.341000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:51.568000	1:08:52.341000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:51.568000" end="1:08:53.541000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:51.568000" end="1:08:53.541000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 *weiß*	-	-	-	1:08:51.568000	1:08:52.341000
 auch	-	-	-	1:08:52.341000	1:08:52.560000
 nicht	-	-	-	1:08:52.341000	1:08:52.560000
@@ -15727,10 +15727,10 @@ verwenden	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum 
 würde	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum std stdL+ swV würdeK	1:08:52.560000	1:08:53.541000
 .	-	-	-	1:08:52.560000	1:08:53.541000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:53.541000" end="1:08:54.134000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:53.541000" end="1:08:54.134000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:53.541000	1:08:54.134000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:53.541000" end="1:08:56.714000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:53.541000" end="1:08:56.714000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:08:53.541000	1:08:54.134000
 ich	ich	PRON	-	1:08:53.541000	1:08:54.134000
 glaube	glauben	VERB	-	1:08:54.134000	1:08:54.388000
@@ -15747,14 +15747,14 @@ Sprache	Sprache	NOUN	-	1:08:54.388000	1:08:56.714000
 hat	haben	AUX	-	1:08:54.388000	1:08:56.714000
 .	-	-	-	1:08:54.388000	1:08:56.714000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:56.714000" end="1:08:57.188000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:56.714000" end="1:08:57.188000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:56.714000	1:08:57.188000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:08:56.714000" end="1:08:57.188000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:08:56.714000" end="1:08:57.188000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	1:08:56.714000	1:08:57.188000
 .	-	-	-	1:08:56.714000	1:08:57.188000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:08:57.188000" end="1:09:06.100000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:08:57.188000" end="1:09:06.100000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:08:57.188000	1:09:03.428000
 <pause duration="0,8s"/>
 und	und	CCONJ	-	1:08:57.188000	1:09:03.428000
@@ -15782,7 +15782,7 @@ hauptsächlich	hauptsächlich	ADJ	-	1:09:03.428000	1:09:06.100000
 dann	dann	ADV	-	1:09:03.428000	1:09:06.100000
 ?	-	-	-	1:09:03.428000	1:09:06.100000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:06.100000" end="1:09:26.854000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:06.100000" end="1:09:26.854000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ähm	ähm	PROPN	-	1:09:06.100000	1:09:12.720000
 <pause duration="1,7s"/>
@@ -15828,10 +15828,10 @@ anderen	ander	ADJ	-	1:09:20.054000	1:09:26.854000
 Sprachen	Sprache	NOUN	-	1:09:20.054000	1:09:26.854000
 .	-	-	-	1:09:20.054000	1:09:26.854000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:26.854000" end="1:09:27.308000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:26.854000" end="1:09:27.308000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:09:26.854000	1:09:27.308000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:27.308000" end="1:09:36.961000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:27.308000" end="1:09:36.961000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:09:27.308000	1:09:28.854000
 <pause duration="0,6s"/>
 ich	ich	PRON	-	1:09:27.308000	1:09:28.854000
@@ -15859,13 +15859,13 @@ kleinere	klein	ADJ	-	1:09:32.108000	1:09:36.961000
 Dialekte	Dialekt	NOUN	-	1:09:32.108000	1:09:36.961000
 .	-	-	-	1:09:32.108000	1:09:36.961000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:36.961000" end="1:09:37.508000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:36.961000" end="1:09:37.508000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:09:36.961000	1:09:37.508000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:37.508000" end="1:09:37.953000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:37.508000" end="1:09:37.953000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 hm	hm	X	-	1:09:37.508000	1:09:37.953000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:37.953000" end="1:09:46.868000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:37.953000" end="1:09:46.868000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:09:37.953000	1:09:39.961000
 und	und	CCONJ	-	1:09:37.953000	1:09:39.961000
 und	und	CCONJ	-	1:09:37.953000	1:09:39.961000
@@ -15896,7 +15896,7 @@ das	der	DET	-	1:09:39.961000	1:09:46.868000
 Deutsch	Deutsch	NOUN	-	1:09:39.961000	1:09:46.868000
 ?	-	-	-	1:09:39.961000	1:09:46.868000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:46.868000" end="1:09:53.154000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:46.868000" end="1:09:53.154000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ich	ich	PRON	-	1:09:46.868000	1:09:49.993000
 glaube	glauben	VERB	-	1:09:46.868000	1:09:49.993000
@@ -15919,10 +15919,10 @@ durch	durch	ADP	-	1:09:49.993000	1:09:53.154000
 Fremdsprachen	Fremdsprachen	NOUN	-	1:09:49.993000	1:09:53.154000
 .	-	-	-	1:09:49.993000	1:09:53.154000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:53.154000" end="1:09:53.654000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:53.154000" end="1:09:53.654000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:09:53.154000	1:09:53.654000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:53.154000" end="1:09:54.928000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:53.154000" end="1:09:54.928000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 eben	eben	ADV	-	1:09:53.154000	1:09:53.654000
 zum	zum	ADP	-	1:09:53.654000	1:09:54.928000
 Beispiel	Beispiel	NOUN	-	1:09:53.654000	1:09:54.928000
@@ -15930,14 +15930,14 @@ durch	durch	ADP	-	1:09:53.654000	1:09:54.928000
 Zuwanderung	Zuwanderung	NOUN	-	1:09:53.654000	1:09:54.928000
 .	-	-	-	1:09:53.654000	1:09:54.928000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:54.928000" end="1:09:55.514000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:54.928000" end="1:09:55.514000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:09:54.928000	1:09:55.514000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:09:55.514000" end="1:09:55.854000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:09:55.514000" end="1:09:55.854000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:09:55.514000	1:09:55.854000
 .	-	-	-	1:09:55.514000	1:09:55.854000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:09:55.854000" end="1:10:05.268000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:09:55.854000" end="1:10:05.268000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:09:55.854000	1:09:56.288000
 <pause duration="0,8s"/>
 und	und	CCONJ	-	1:09:56.288000	1:10:02.308000
@@ -15965,7 +15965,7 @@ Sicht	Sicht	NOUN	-	1:10:02.308000	1:10:05.268000
 entscheidend	entscheiden	ADJ	-	1:10:02.308000	1:10:05.268000
 ?	-	-	-	1:10:02.308000	1:10:05.268000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:05.268000" end="1:10:13.441000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:05.268000" end="1:10:13.441000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ähm	ähm	X	-	1:10:05.268000	1:10:13.441000
 <pause duration="0,7s"/>
@@ -15985,13 +15985,13 @@ viele	viel	DET	-	1:10:05.268000	1:10:13.441000
 Einflüsse	Einfluß	NOUN	-	1:10:05.268000	1:10:13.441000
 .	-	-	-	1:10:05.268000	1:10:13.441000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:13.441000" end="1:10:13.834000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:13.441000" end="1:10:13.834000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:13.441000	1:10:13.834000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:13.834000" end="1:10:14.928000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:13.834000" end="1:10:14.928000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:10:13.834000	1:10:14.928000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:14.928000" end="1:10:18.001000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:14.928000" end="1:10:18.001000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 fallen	fallen	VERB	-	1:10:14.928000	1:10:18.001000
 ihnen	ich	PRON	-	1:10:14.928000	1:10:18.001000
@@ -16002,7 +16002,7 @@ ein	einen	ADP	-	1:10:14.928000	1:10:18.001000
 zufällig	zufällig	ADJ	-	1:10:14.928000	1:10:18.001000
 ?	-	-	-	1:10:14.928000	1:10:18.001000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:18.001000" end="1:10:19.801000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:18.001000" end="1:10:19.801000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:10:18.001000	1:10:19.801000
 ,	-	-	-	1:10:18.001000	1:10:19.801000
 sowas	-	-	-	1:10:18.001000	1:10:19.801000
@@ -16010,11 +16010,11 @@ wie	-	-	-	1:10:18.001000	1:10:19.801000
 "Trottoir"	-	-	-	1:10:18.001000	1:10:19.801000
 oder	-	-	-	1:10:18.001000	1:10:19.801000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:19.801000" end="1:10:20.881000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:19.801000" end="1:10:20.881000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:19.801000	1:10:20.881000
 mhm	mhm	PROPN	-	1:10:19.801000	1:10:20.881000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:20.881000" end="1:10:24.134000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:20.881000" end="1:10:24.134000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	1:10:20.881000	1:10:21.901000
 <pause duration="1,2s"/>
 "Plafond"	-	-	-	1:10:21.901000	1:10:24.134000
@@ -16022,19 +16022,19 @@ und	-	-	-	1:10:21.901000	1:10:24.134000
 sowas	-	-	-	1:10:21.901000	1:10:24.134000
 .	-	-	-	1:10:21.901000	1:10:24.134000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:24.134000" end="1:10:24.608000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:24.134000" end="1:10:24.608000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:24.134000	1:10:24.608000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:24.608000" end="1:10:26.001000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:24.608000" end="1:10:26.001000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 genau	genau	ADJ	-	1:10:24.608000	1:10:26.001000
 .	-	-	-	1:10:24.608000	1:10:26.001000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:26.001000" end="1:10:27.794000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:26.001000" end="1:10:27.794000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 mhm	mhm	PROPN	-	1:10:26.001000	1:10:27.794000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:26.001000" end="1:10:32.614000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:26.001000" end="1:10:32.614000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 und	und	CCONJ	-	1:10:26.001000	1:10:27.794000
 weiß	weiß	VERB	-	1:10:27.794000	1:10:28.334000
@@ -16057,14 +16057,14 @@ ich	ich	PRON	-	1:10:32.008000	1:10:32.614000
 nicht	nicht	PART	-	1:10:32.008000	1:10:32.614000
 .	-	-	-	1:10:32.008000	1:10:32.614000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:32.614000" end="1:10:33.068000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:32.614000" end="1:10:33.068000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:32.614000	1:10:33.068000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:32.614000" end="1:10:33.068000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:32.614000" end="1:10:33.068000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:10:32.614000	1:10:33.068000
 .	-	-	-	1:10:32.614000	1:10:33.068000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:33.068000" end="1:10:43.528000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:33.068000" end="1:10:43.528000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:33.068000	1:10:40.161000
 <pause duration="0,9s"/>
 und	und	CCONJ	-	1:10:33.068000	1:10:40.161000
@@ -16095,7 +16095,7 @@ im	im	ADP	-	1:10:40.161000	1:10:43.528000
 Allgemeinen	Allgemeine	NOUN	-	1:10:40.161000	1:10:43.528000
 ?	-	-	-	1:10:40.161000	1:10:43.528000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:43.528000" end="1:10:51.981000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:43.528000" end="1:10:51.981000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	ich	PRON	-	1:10:43.528000	1:10:51.981000
 glaube	glauben	VERB	-	1:10:43.528000	1:10:51.981000
@@ -16126,10 +16126,10 @@ das	der	DET	-	1:10:43.528000	1:10:51.981000
 Wienerische	Wienerische	NOUN	-	1:10:43.528000	1:10:51.981000
 .	-	-	-	1:10:43.528000	1:10:51.981000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:51.981000" end="1:10:52.428000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:51.981000" end="1:10:52.428000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:51.981000	1:10:52.428000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:10:52.428000" end="1:10:58.821000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:10:52.428000" end="1:10:58.821000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	1:10:52.428000	1:10:58.821000
 gerade	-	-	-	1:10:52.428000	1:10:58.821000
 diese	-	-	-	1:10:52.428000	1:10:58.821000
@@ -16152,7 +16152,7 @@ oder	-	-	-	1:10:52.428000	1:10:58.821000
 so	-	-	-	1:10:52.428000	1:10:58.821000
 .	-	-	-	1:10:52.428000	1:10:58.821000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:10:58.821000" end="1:11:06.214000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:10:58.821000" end="1:11:06.214000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:10:58.821000	1:10:59.721000
 mhm	mhm	PROPN	-	1:10:58.821000	1:10:59.721000
 und	und	CCONJ	-	1:10:59.721000	1:11:04.894000
@@ -16172,7 +16172,7 @@ vielleicht	vielleicht	ADV	-	1:10:59.721000	1:11:04.894000
 ?	-	-	-	1:10:59.721000	1:11:04.894000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:04.894000" end="1:11:15.174000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:04.894000" end="1:11:15.174000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	1:11:04.894000	1:11:06.214000
 <pause duration="3,1s"/>
@@ -16203,10 +16203,10 @@ gegeben	geben	VERB	-	1:11:13.921000	1:11:15.174000
 hat	haben	AUX	-	1:11:13.921000	1:11:15.174000
 .	-	-	-	1:11:13.921000	1:11:15.174000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:11:15.174000" end="1:11:15.728000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:11:15.174000" end="1:11:15.728000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:11:15.174000	1:11:15.728000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:15.728000" end="1:11:19.354000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:15.728000" end="1:11:19.354000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 gerade	gerade	ADV	-	1:11:15.728000	1:11:19.354000
 in	in	ADP	-	1:11:15.728000	1:11:19.354000
 Kärnten	Kärnten	NOUN	-	1:11:15.728000	1:11:19.354000
@@ -16222,10 +16222,10 @@ durch	durch	ADP	-	1:11:15.728000	1:11:19.354000
 Slovenisch	Slovenisch	NOUN	-	1:11:15.728000	1:11:19.354000
 und	und	CCONJ	-	1:11:15.728000	1:11:19.354000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:11:19.354000" end="1:11:19.868000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:11:19.354000" end="1:11:19.868000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:11:19.354000	1:11:19.868000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:19.354000" end="1:11:24.008000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:19.354000" end="1:11:24.008000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 so	so	ADV	-	1:11:19.354000	1:11:19.868000
 weiter	weit	ADV	-	1:11:19.354000	1:11:19.868000
 .	-	-	-	1:11:19.354000	1:11:19.868000
@@ -16241,16 +16241,16 @@ nichts	nichts	PRON	-	1:11:19.868000	1:11:24.008000
 ein	einen	ADP	-	1:11:19.868000	1:11:24.008000
 .	-	-	-	1:11:19.868000	1:11:24.008000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:11:24.008000" end="1:11:25.081000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:11:24.008000" end="1:11:25.081000" persName="Informant EXP4" age_lower="" age_upper="999">
 macht	machen	VERB	-	1:11:24.008000	1:11:24.514000
 nichts	nichts	PRON	-	1:11:24.008000	1:11:24.514000
 .	-	-	-	1:11:24.008000	1:11:24.514000
 okay	okay	NOUN	-	1:11:24.514000	1:11:25.081000
 .	-	-	-	1:11:24.514000	1:11:25.081000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:24.514000" end="1:11:25.081000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:24.514000" end="1:11:25.081000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:11:25.081000" end="1:11:35.768000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:11:25.081000" end="1:11:35.768000" persName="Informant EXP4" age_lower="" age_upper="999">
 dann	dann	ADV	-	1:11:25.081000	1:11:28.208000
 kommen	kommen	VERB	-	1:11:25.081000	1:11:28.208000
 wir	ich	PRON	-	1:11:25.081000	1:11:28.208000
@@ -16289,7 +16289,7 @@ neuesten	neuesten	ADJ	-	1:11:33.768000	1:11:35.768000
 Nachrichten	Nachricht	NOUN	-	1:11:33.768000	1:11:35.768000
 ?	-	-	-	1:11:33.768000	1:11:35.768000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:35.768000" end="1:11:54.488000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:35.768000" end="1:11:54.488000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:11:35.768000	1:11:41.754000
 <pause duration="0,9s"/>
 ähm	ähm	PROPN	-	1:11:35.768000	1:11:41.754000
@@ -16339,10 +16339,10 @@ im	im	ADP	-	1:11:52.928000	1:11:54.488000
 Internet	Internet	NOUN	-	1:11:52.928000	1:11:54.488000
 konsumieren	konsumieren	VERB	-	1:11:52.928000	1:11:54.488000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:11:54.488000" end="1:11:54.994000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:11:54.488000" end="1:11:54.994000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:11:54.488000	1:11:54.994000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:11:54.488000" end="1:12:00.008000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:11:54.488000" end="1:12:00.008000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	1:11:54.488000	1:11:54.994000
 .	-	-	-	1:11:54.488000	1:11:54.994000
 ähm	-	-	-	1:11:54.994000	1:12:00.008000
@@ -16355,10 +16355,10 @@ manchmal	manchmal	ADV	-	1:11:54.994000	1:12:00.008000
 "Die	der	DET	-	1:11:54.994000	1:12:00.008000
 Presse"	Presse	NOUN	-	1:11:54.994000	1:12:00.008000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:00.008000" end="1:12:00.641000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:00.008000" end="1:12:00.641000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:00.008000	1:12:00.641000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:00.641000" end="1:12:06.694000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:00.641000" end="1:12:06.694000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	ADJ	-	1:12:00.641000	1:12:06.694000
 <pause duration="2,1s"/>
@@ -16371,10 +16371,10 @@ globalere	global	ADJ	-	1:12:00.641000	1:12:06.694000
 Medien	Medium	NOUN	-	1:12:00.641000	1:12:06.694000
 .	-	-	-	1:12:00.641000	1:12:06.694000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:06.694000" end="1:12:07.341000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:06.694000" end="1:12:07.341000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:06.694000	1:12:07.341000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:07.341000" end="1:12:10.174000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:07.341000" end="1:12:10.174000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	also	ADV	-	1:12:07.341000	1:12:09.068000
 weiß	weiß	VERB	-	1:12:07.341000	1:12:09.068000
@@ -16387,15 +16387,15 @@ die	-	-	-	1:12:09.068000	1:12:10.174000
 "Times"	-	-	-	1:12:09.068000	1:12:10.174000
 .	-	-	-	1:12:09.068000	1:12:10.174000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:10.174000" end="1:12:11.281000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:10.174000" end="1:12:11.281000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:12:10.174000	1:12:11.281000
 mhm	mhm	PROPN	-	1:12:10.174000	1:12:11.281000
 .	-	-	-	1:12:10.174000	1:12:11.281000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:11.281000" end="1:12:11.828000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:11.281000" end="1:12:11.828000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	1:12:11.281000	1:12:11.828000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:11.828000" end="1:12:15.321000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:11.828000" end="1:12:15.321000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 na	na	X	-	1:12:11.828000	1:12:14.394000
 ja	ja	PART	-	1:12:11.828000	1:12:14.394000
@@ -16412,13 +16412,13 @@ ja	ja	ADV	-	1:12:14.394000	1:12:15.321000
 dann	dann	ADV	-	1:12:14.394000	1:12:15.321000
 .	-	-	-	1:12:14.394000	1:12:15.321000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:14.394000" end="1:12:15.321000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:14.394000" end="1:12:15.321000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	1:12:14.394000	1:12:15.321000
 .	-	-	-	1:12:14.394000	1:12:15.321000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:15.321000" end="1:12:16.454000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:15.321000" end="1:12:16.454000" persName="Informant EXP4" age_lower="" age_upper="999">
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:15.321000" end="1:12:27.488000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:15.321000" end="1:12:27.488000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	1:12:15.321000	1:12:16.454000
 <pause duration="1,3s"/>
 ist	sein	AUX	-	1:12:16.454000	1:12:19.894000
@@ -16444,10 +16444,10 @@ alles	alle	PRON	-	1:12:19.894000	1:12:27.488000
 englischsprachig	englischsprachig	ADJ	-	1:12:19.894000	1:12:27.488000
 ,	-	-	-	1:12:19.894000	1:12:27.488000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:27.488000" end="1:12:27.874000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:27.488000" end="1:12:27.874000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:27.488000	1:12:27.874000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:27.488000" end="1:12:29.301000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:27.488000" end="1:12:29.301000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 was	was	PRON	-	1:12:27.488000	1:12:27.874000
 was	was	PRON	-	1:12:27.874000	1:12:29.301000
 was	was	PRON	-	1:12:27.874000	1:12:29.301000
@@ -16455,15 +16455,15 @@ ich	ich	PRON	-	1:12:27.874000	1:12:29.301000
 konsumiere	konsumieren	VERB	-	1:12:27.874000	1:12:29.301000
 .	-	-	-	1:12:27.874000	1:12:29.301000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:29.301000" end="1:12:29.741000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:29.301000" end="1:12:29.741000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:29.301000	1:12:29.741000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:29.741000" end="1:12:30.974000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:29.741000" end="1:12:30.974000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	1:12:29.741000	1:12:30.974000
 genau	genau	ADJ	-	1:12:29.741000	1:12:30.974000
 .	-	-	-	1:12:29.741000	1:12:30.974000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:30.974000" end="1:12:34.161000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:30.974000" end="1:12:34.161000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:12:30.974000	1:12:32.428000
 was	was	PRON	-	1:12:30.974000	1:12:32.428000
 haben	haben	AUX	-	1:12:30.974000	1:12:32.428000
@@ -16478,7 +16478,7 @@ Freizeitgestaltung	Freizeitgestaltung	NOUN	-	1:12:32.428000	1:12:34.161000
 aus	aus	ADP	-	1:12:32.428000	1:12:34.161000
 ?	-	-	-	1:12:32.428000	1:12:34.161000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:34.161000" end="1:12:43.268000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:34.161000" end="1:12:43.268000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	1:12:34.161000	1:12:40.481000
 <pause duration="1,1s"/>
@@ -16511,10 +16511,10 @@ am	am	ADP	-	1:12:41.448000	1:12:43.268000
 Computer	Computer	NOUN	-	1:12:41.448000	1:12:43.268000
 .	-	-	-	1:12:41.448000	1:12:43.268000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:43.268000" end="1:12:43.841000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:43.268000" end="1:12:43.841000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:43.268000	1:12:43.841000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:43.841000" end="1:12:51.534000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:43.841000" end="1:12:51.534000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	1:12:43.841000	1:12:46.668000
 also	-	-	-	1:12:43.841000	1:12:46.668000
 *weiß*	-	-	-	1:12:43.841000	1:12:46.668000
@@ -16535,10 +16535,10 @@ Computer	Computer	NOUN	-	1:12:48.274000	1:12:51.308000
 .	-	-	-	1:12:48.274000	1:12:51.308000
 das	der	PRON	-	1:12:51.308000	1:12:51.534000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:51.534000" end="1:12:51.801000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:51.534000" end="1:12:51.801000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:51.534000	1:12:51.801000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:51.801000" end="1:12:58.594000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:51.801000" end="1:12:58.594000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	VERB	-	1:12:51.801000	1:12:53.868000
 <pause duration="1,1s"/>
 ich	ich	PRON	-	1:12:51.801000	1:12:53.868000
@@ -16556,10 +16556,10 @@ Zeit	Zeit	NOUN	-	1:12:53.868000	1:12:58.594000
 bleibt	bleiben	VERB	-	1:12:53.868000	1:12:58.594000
 .	-	-	-	1:12:53.868000	1:12:58.594000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:12:58.594000" end="1:12:59.208000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:12:58.594000" end="1:12:59.208000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:12:58.594000	1:12:59.208000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:12:59.208000" end="1:13:14.207000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:12:59.208000" end="1:13:14.207000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:12:59.208000	1:13:04.528000
 <pause duration="1,3s"/>
 in	in	ADP	-	1:12:59.208000	1:13:04.528000
@@ -16605,21 +16605,21 @@ Heimwerken	Heimwerken	NOUN	-	1:13:11.767000	1:13:14.207000
 oder	oder	CCONJ	-	1:13:11.767000	1:13:14.207000
 so	so	ADV	-	1:13:11.767000	1:13:14.207000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:14.207000" end="1:13:15.281000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:14.207000" end="1:13:15.281000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	PROPN	-	1:13:14.207000	1:13:15.281000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:14.207000" end="1:13:15.281000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:14.207000" end="1:13:15.281000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nimmt	nehmen	VERB	-	1:13:14.207000	1:13:15.281000
 viel	viel	DET	-	1:13:14.207000	1:13:15.281000
 Zeit	Zeit	NOUN	-	1:13:14.207000	1:13:15.281000
 ein	einen	ADP	-	1:13:14.207000	1:13:15.281000
 ,	-	-	-	1:13:14.207000	1:13:15.281000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:15.281000" end="1:13:15.907000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:15.281000" end="1:13:15.907000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	ADV	-	1:13:15.281000	1:13:15.907000
 .	-	-	-	1:13:15.281000	1:13:15.907000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:15.907000" end="1:13:18.381000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:15.907000" end="1:13:18.381000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	1:13:15.907000	1:13:18.381000
 man	man	PRON	-	1:13:15.907000	1:13:18.381000
 halt	halt	ADV	-	1:13:15.907000	1:13:18.381000
@@ -16631,7 +16631,7 @@ solche	solche	DET	-	1:13:15.907000	1:13:18.381000
 Sachen	Sache	NOUN	-	1:13:15.907000	1:13:18.381000
 .	-	-	-	1:13:15.907000	1:13:18.381000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:18.381000" end="1:13:20.801000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:18.381000" end="1:13:20.801000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:13:18.381000	1:13:20.801000
 mit	mit	ADP	-	1:13:18.381000	1:13:20.801000
 der	der	DET	-	1:13:18.381000	1:13:20.801000
@@ -16642,7 +16642,7 @@ den	der	DET	-	1:13:18.381000	1:13:20.801000
 Freunden	Freund	NOUN	-	1:13:18.381000	1:13:20.801000
 ?	-	-	-	1:13:18.381000	1:13:20.801000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:20.801000" end="1:13:23.247000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:20.801000" end="1:13:23.247000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 der	der	DET	-	1:13:20.801000	1:13:23.247000
 Familie	Familie	NOUN	-	1:13:20.801000	1:13:23.247000
@@ -16650,13 +16650,13 @@ am	am	PART	-	1:13:20.801000	1:13:23.247000
 ehesten	ehesten	ADJ	-	1:13:20.801000	1:13:23.247000
 .	-	-	-	1:13:20.801000	1:13:23.247000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:23.247000" end="1:13:23.721000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:23.247000" end="1:13:23.721000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:13:23.247000	1:13:23.721000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:23.721000" end="1:13:24.154000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:23.721000" end="1:13:24.154000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:13:23.721000	1:13:24.154000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:24.154000" end="1:13:27.761000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:24.154000" end="1:13:27.761000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:13:24.154000	1:13:27.761000
 sind	sein	AUX	-	1:13:24.154000	1:13:27.761000
 sie	ich	PRON	-	1:13:24.154000	1:13:27.761000
@@ -16670,7 +16670,7 @@ ORT	ORT	PROPN	-	1:13:24.154000	1:13:27.761000
 oder	oder	CCONJ	-	1:13:24.154000	1:13:27.761000
 ?	-	-	-	1:13:24.154000	1:13:27.761000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:27.761000" end="1:13:37.867000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:27.761000" end="1:13:37.867000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	1:13:27.761000	1:13:29.614000
 ORT	ORT	PROPN	-	1:13:27.761000	1:13:29.614000
 gar	gar	ADV	-	1:13:27.761000	1:13:29.614000
@@ -16714,16 +16714,16 @@ der	-	-	-	1:13:34.187000	1:13:37.867000
 Musik	-	-	-	1:13:34.187000	1:13:37.867000
 .	-	-	-	1:13:34.187000	1:13:37.867000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:37.867000" end="1:13:38.887000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:37.867000" end="1:13:38.887000" persName="Informant EXP4" age_lower="" age_upper="999">
 ah	ah	X	-	1:13:37.867000	1:13:38.314000
 okay	okay	NOUN	-	1:13:38.314000	1:13:38.887000
 .	-	-	-	1:13:38.314000	1:13:38.887000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:38.314000" end="1:13:38.887000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:38.314000" end="1:13:38.887000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:38.887000" end="1:13:39.294000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:38.887000" end="1:13:39.294000" persName="Informant EXP4" age_lower="" age_upper="999">
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:39.294000" end="1:13:43.227000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:39.294000" end="1:13:43.227000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	1:13:39.294000	1:13:42.721000
 der	der	DET	-	1:13:39.294000	1:13:42.721000
 NAME	NAME	NOUN	-	1:13:39.294000	1:13:42.721000
@@ -16734,10 +16734,10 @@ ist	sein	AUX	-	1:13:39.294000	1:13:42.721000
 .	-	-	-	1:13:39.294000	1:13:42.721000
 aber	aber	CCONJ	-	1:13:42.721000	1:13:43.227000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:43.227000" end="1:13:43.827000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:43.227000" end="1:13:43.827000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:13:43.227000	1:13:43.827000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:43.827000" end="1:13:46.807000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:43.827000" end="1:13:46.807000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ansonsten	ansonsten	ADV	-	1:13:43.827000	1:13:46.807000
 <pause duration="0,7s"/>
 nicht	nicht	PART	-	1:13:43.827000	1:13:46.807000
@@ -16748,7 +16748,7 @@ in	in	ADP	-	1:13:43.827000	1:13:46.807000
 ORT	ORT	PROPN	-	1:13:43.827000	1:13:46.807000
 .	-	-	-	1:13:43.827000	1:13:46.807000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:46.807000" end="1:13:48.994000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:46.807000" end="1:13:48.994000" persName="Informant EXP4" age_lower="" age_upper="999">
 aber	aber	ADV	-	1:13:46.807000	1:13:48.994000
 es	ich	PRON	-	1:13:46.807000	1:13:48.994000
 gibt	geben	VERB	-	1:13:46.807000	1:13:48.994000
@@ -16759,19 +16759,19 @@ Vereinsleben	Vereinsleben	NOUN	-	1:13:46.807000	1:13:48.994000
 oder	oder	CCONJ	-	1:13:46.807000	1:13:48.994000
 ?	-	-	-	1:13:46.807000	1:13:48.994000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:48.994000" end="1:13:49.507000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:48.994000" end="1:13:49.507000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 sehr	sehr	ADV	-	1:13:48.994000	1:13:49.507000
 ja	ja	ADV	-	1:13:48.994000	1:13:49.507000
 .	-	-	-	1:13:48.994000	1:13:49.507000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:49.507000" end="1:13:49.847000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:49.507000" end="1:13:49.847000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:13:49.507000	1:13:49.847000
 .	-	-	-	1:13:49.507000	1:13:49.847000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:49.847000" end="1:13:50.161000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:49.847000" end="1:13:50.161000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 mhm	mhm	X	-	1:13:49.847000	1:13:50.161000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:50.161000" end="1:13:55.801000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:50.161000" end="1:13:55.801000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:13:50.161000	1:13:51.294000
 das	der	PRON	-	1:13:50.161000	1:13:51.294000
 heißt	heißen	VERB	-	1:13:50.161000	1:13:51.294000
@@ -16791,7 +16791,7 @@ im	im	ADP	-	1:13:51.981000	1:13:55.194000
 Ortsleben	Ortsleben	NOUN	-	1:13:55.194000	1:13:55.801000
 ?	-	-	-	1:13:55.194000	1:13:55.801000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:55.194000" end="1:13:56.494000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:55.194000" end="1:13:56.494000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	1:13:55.194000	1:13:55.801000
 auf	auf	ADP	-	1:13:55.194000	1:13:55.801000
 jeden	jed	DET	-	1:13:55.801000	1:13:56.494000
@@ -16800,7 +16800,7 @@ Fall	Fall	NOUN	-	1:13:55.801000	1:13:56.494000
 ja	ja	PART	-	1:13:55.801000	1:13:56.494000
 .	-	-	-	1:13:55.801000	1:13:56.494000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:13:56.494000" end="1:13:57.714000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:13:56.494000" end="1:13:57.714000" persName="Informant EXP4" age_lower="" age_upper="999">
 das	der	DET	-	1:13:56.494000	1:13:57.201000
 auf	auf	ADP	-	1:13:56.494000	1:13:57.201000
 jeden	jed	DET	-	1:13:56.494000	1:13:57.201000
@@ -16809,7 +16809,7 @@ Fall	Fall	NOUN	-	1:13:56.494000	1:13:57.201000
 okay	okay	NOUN	-	1:13:57.201000	1:13:57.714000
 .	-	-	-	1:13:57.201000	1:13:57.714000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:13:57.201000" end="1:14:02.474000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:13:57.201000" end="1:14:02.474000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:13:57.201000	1:13:57.714000
 (habe	habe	AUX	-	1:13:57.714000	1:14:02.474000
 ich	ich	PRON	-	1:13:57.714000	1:14:02.474000
@@ -16825,10 +16825,10 @@ SONSTIGE	SONSTIGE	ADJ	-	1:13:57.714000	1:14:02.474000
 Freunden	Freund	NOUN	-	1:13:57.714000	1:14:02.474000
 .	-	-	-	1:13:57.714000	1:14:02.474000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:02.474000" end="1:14:03.041000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:02.474000" end="1:14:03.041000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:02.474000	1:14:03.041000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:02.474000" end="1:14:14.941000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:02.474000" end="1:14:14.941000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:14:02.474000	1:14:03.041000
 das	der	PRON	KONJ	1:14:03.041000	1:14:06.754000
 wäre	sein	AUX	KONJ	1:14:03.041000	1:14:06.754000
@@ -16859,10 +16859,10 @@ viel	viel	ADV	-	1:14:10.927000	1:14:14.941000
 eigentlich	eigentlich	ADV	-	1:14:10.927000	1:14:14.941000
 gemeinsam	gemeinsam	ADJ	-	1:14:10.927000	1:14:14.941000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:14.941000" end="1:14:15.621000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:14.941000" end="1:14:15.621000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:14.941000	1:14:15.621000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:14.941000" end="1:14:17.201000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:14.941000" end="1:14:17.201000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:14:14.941000	1:14:15.621000
 das	der	PRON	-	1:14:15.621000	1:14:17.201000
 halt	halt	ADV	-	1:14:15.621000	1:14:17.201000
@@ -16871,10 +16871,10 @@ in	in	ADP	-	1:14:15.621000	1:14:17.201000
 ORT	ORT	PROPN	-	1:14:15.621000	1:14:17.201000
 .	-	-	-	1:14:15.621000	1:14:17.201000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:17.201000" end="1:14:17.747000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:17.201000" end="1:14:17.747000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:17.201000	1:14:17.747000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:17.201000" end="1:14:20.567000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:17.201000" end="1:14:20.567000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:14:17.201000	1:14:17.747000
 weiß	weiß	VERB	-	1:14:17.201000	1:14:17.747000
 ich	ich	PRON	-	1:14:17.747000	1:14:17.974000
@@ -16895,7 +16895,7 @@ scho	scho	PROPN	-	1:14:19.201000	1:14:20.567000
 hin	hin	ADP	-	1:14:19.201000	1:14:20.567000
 .	-	-	-	1:14:19.201000	1:14:20.567000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:20.567000" end="1:14:23.087000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:20.567000" end="1:14:23.087000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:20.567000	1:14:21.681000
 das	der	PRON	-	1:14:20.567000	1:14:21.681000
 heißt	heißen	VERB	-	1:14:20.567000	1:14:21.681000
@@ -16906,27 +16906,27 @@ auch	auch	ADV	-	1:14:21.681000	1:14:23.087000
 gelegentlich	gelegentlich	ADJ	-	1:14:21.681000	1:14:23.087000
 ?	-	-	-	1:14:21.681000	1:14:23.087000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:23.087000" end="1:14:24.747000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:23.087000" end="1:14:24.747000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 schon	schon	ADV	-	1:14:23.087000	1:14:24.747000
 ja	ja	PART	-	1:14:23.087000	1:14:24.747000
 .	-	-	-	1:14:23.087000	1:14:24.747000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:24.747000" end="1:14:25.141000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:24.747000" end="1:14:25.141000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:24.747000	1:14:25.141000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:24.747000" end="1:14:25.994000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:24.747000" end="1:14:25.994000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:14:24.747000	1:14:25.141000
 eigentlich	eigentlich	ADV	-	1:14:25.141000	1:14:25.994000
 jedes	jed	DET	-	1:14:25.141000	1:14:25.994000
 Jahr	Jahr	NOUN	-	1:14:25.141000	1:14:25.994000
 .	-	-	-	1:14:25.141000	1:14:25.994000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:25.994000" end="1:14:26.681000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:25.994000" end="1:14:26.681000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	mhm	PROPN	-	1:14:25.994000	1:14:26.681000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:25.994000" end="1:14:27.867000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:25.994000" end="1:14:27.867000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nach	nach	ADP	-	1:14:25.994000	1:14:26.681000
 Kroatien	Kroatien	PROPN	-	1:14:26.681000	1:14:27.867000
@@ -16934,10 +16934,10 @@ eigentlich	eigentlich	ADV	-	1:14:26.681000	1:14:27.867000
 immer	immer	ADV	-	1:14:26.681000	1:14:27.867000
 .	-	-	-	1:14:26.681000	1:14:27.867000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:27.867000" end="1:14:28.527000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:27.867000" end="1:14:28.527000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:27.867000	1:14:28.527000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:28.527000" end="1:14:31.527000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:28.527000" end="1:14:31.527000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:14:28.527000	1:14:30.474000
 sonst	sonst	ADV	-	1:14:28.527000	1:14:30.474000
 halt	halt	ADV	-	1:14:28.527000	1:14:30.474000
@@ -16949,7 +16949,7 @@ Situation	Situation	NOUN	-	1:14:28.527000	1:14:30.474000
 ja	ja	PART	-	1:14:30.474000	1:14:31.527000
 .	-	-	-	1:14:30.474000	1:14:31.527000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:31.527000" end="1:14:36.194000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:31.527000" end="1:14:36.194000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:31.527000	1:14:36.194000
 und	und	CCONJ	-	1:14:31.527000	1:14:36.194000
 <pause duration="0,9s"/>
@@ -16961,7 +16961,7 @@ in	in	ADP	-	1:14:31.527000	1:14:36.194000
 [Oberwölz]O	Oberwölz	NOUN	-	1:14:31.527000	1:14:36.194000
 ?	-	-	-	1:14:31.527000	1:14:36.194000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:36.194000" end="1:14:43.741000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:36.194000" end="1:14:43.741000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 schon	schon	ADV	-	1:14:36.194000	1:14:43.741000
 ja	ja	PART	-	1:14:36.194000	1:14:43.741000
@@ -16979,10 +16979,10 @@ die	der	DET	-	1:14:36.194000	1:14:43.741000
 Arbeitssituation	Arbeitssituation	NOUN	-	1:14:36.194000	1:14:43.741000
 .	-	-	-	1:14:36.194000	1:14:43.741000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:43.741000" end="1:14:44.307000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:43.741000" end="1:14:44.307000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:43.741000	1:14:44.307000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:43.741000" end="1:14:53.954000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:43.741000" end="1:14:53.954000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:14:43.741000	1:14:44.307000
 gerade	gerade	ADV	-	1:14:44.307000	1:14:51.067000
 für	für	ADP	-	1:14:44.307000	1:14:51.067000
@@ -17010,10 +17010,10 @@ weit	weit	ADJ	-	1:14:51.067000	1:14:53.954000
 pendeln	pendeln	VERB	-	1:14:51.067000	1:14:53.954000
 .	-	-	-	1:14:51.067000	1:14:53.954000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:53.954000" end="1:14:54.647000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:53.954000" end="1:14:54.647000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:53.954000	1:14:54.647000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:53.954000" end="1:14:59.174000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:53.954000" end="1:14:59.174000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	1:14:53.954000	1:14:54.647000
 ist	sein	AUX	-	1:14:53.954000	1:14:54.647000
 jetzt	jetzt	ADV	-	1:14:54.647000	1:14:56.927000
@@ -17038,10 +17038,10 @@ ein	einen	DET	-	1:14:56.927000	1:14:59.174000
 Thema	Thema	NOUN	-	1:14:56.927000	1:14:59.174000
 .	-	-	-	1:14:56.927000	1:14:59.174000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:14:59.174000" end="1:14:59.727000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:14:59.174000" end="1:14:59.727000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:14:59.174000	1:14:59.727000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:14:59.727000" end="1:15:28.821000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:14:59.727000" end="1:15:28.821000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:14:59.727000	1:15:02.341000
 ansonsten	ansonsten	ADV	-	1:14:59.727000	1:15:02.341000
 ,	-	-	-	1:14:59.727000	1:15:02.341000
@@ -17150,16 +17150,16 @@ werden	werden	AUX	-	1:15:27.587000	1:15:28.821000
 auch	auch	ADV	-	1:15:27.587000	1:15:28.821000
 .	-	-	-	1:15:27.587000	1:15:28.821000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:28.821000" end="1:15:29.287000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:28.821000" end="1:15:29.287000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	PROPN	-	1:15:28.821000	1:15:29.287000
 .	-	-	-	1:15:28.821000	1:15:29.287000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:29.287000" end="1:15:29.874000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:29.287000" end="1:15:29.874000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:15:29.287000	1:15:29.874000
 ja	ja	ADV	-	1:15:29.287000	1:15:29.874000
 .	-	-	-	1:15:29.287000	1:15:29.874000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:29.874000" end="1:15:32.541000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:29.874000" end="1:15:32.541000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:15:29.874000	1:15:30.334000
 .	-	-	-	1:15:29.874000	1:15:30.334000
 <pause duration="0,7s"/>
@@ -17171,22 +17171,22 @@ schön	schön	ADJ	-	1:15:30.334000	1:15:32.541000
 dort	dort	ADV	-	1:15:30.334000	1:15:32.541000
 .	-	-	-	1:15:30.334000	1:15:32.541000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:32.541000" end="1:15:33.661000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:32.541000" end="1:15:33.661000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	DET	-	1:15:32.541000	1:15:33.661000
 auf	auf	ADP	-	1:15:32.541000	1:15:33.661000
 jeden	jed	DET	-	1:15:32.541000	1:15:33.661000
 Fall	Fall	NOUN	-	1:15:32.541000	1:15:33.661000
 .	-	-	-	1:15:32.541000	1:15:33.661000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:33.661000" end="1:15:34.087000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:33.661000" end="1:15:34.087000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:15:33.661000	1:15:34.087000
 und	und	CCONJ	-	1:15:33.661000	1:15:34.087000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:34.087000" end="1:15:34.281000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:34.087000" end="1:15:34.281000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:15:34.087000	1:15:34.281000
 .	-	-	-	1:15:34.087000	1:15:34.281000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:34.281000" end="1:15:36.534000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:34.281000" end="1:15:36.534000" persName="Informant EXP4" age_lower="" age_upper="999">
 warum	warum	ADV	-	1:15:34.281000	1:15:35.574000
 ist	sein	AUX	-	1:15:34.281000	1:15:35.574000
 es	ich	PRON	-	1:15:34.281000	1:15:35.574000
@@ -17195,7 +17195,7 @@ schön	schön	ADJ	-	1:15:34.281000	1:15:35.574000
 dort	dort	ADV	-	1:15:34.281000	1:15:35.574000
 ?	-	-	-	1:15:34.281000	1:15:35.574000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:35.574000" end="1:15:44.134000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:35.574000" end="1:15:44.134000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 warum	warum	ADV	-	1:15:36.534000	1:15:39.947000
 ?	-	-	-	1:15:36.534000	1:15:39.947000
@@ -17224,15 +17224,15 @@ Normalfall	Normalfall	NOUN	-	1:15:41.187000	1:15:44.134000
 wieder	wieder	ADP	-	1:15:41.187000	1:15:44.134000
 .	-	-	-	1:15:41.187000	1:15:44.134000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:44.134000" end="1:15:45.161000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:44.134000" end="1:15:45.161000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 k/	-	-	-	1:15:44.134000	1:15:45.161000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:44.134000" end="1:15:45.161000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:44.134000" end="1:15:45.161000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	ähm	X	-	1:15:44.134000	1:15:45.161000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:45.161000" end="1:15:50.314000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:45.161000" end="1:15:50.314000" persName="Informant EXP4" age_lower="" age_upper="999">
 könnten	können	VERB	-	1:15:45.161000	1:15:46.494000
 sie	ich	PRON	-	1:15:45.161000	1:15:46.494000
 sich	sich	PRON	-	1:15:45.161000	1:15:46.494000
@@ -17253,7 +17253,7 @@ Studium	Studium	NOUN	-	1:15:48.781000	1:15:50.314000
 zurückzuziehen	zurückziehen	VERB	-	1:15:48.781000	1:15:50.314000
 ?	-	-	-	1:15:48.781000	1:15:50.314000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:50.314000" end="1:15:54.027000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:50.314000" end="1:15:54.027000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ich	ich	PRON	-	1:15:50.314000	1:15:52.074000
 plane	plane	VERB	-	1:15:50.314000	1:15:52.074000
@@ -17269,10 +17269,10 @@ mir	sich	PRON	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum
 schon	schon	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:15:52.074000	1:15:54.027000
 .	-	-	-	1:15:52.074000	1:15:54.027000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:15:54.027000" end="1:15:54.501000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:15:54.027000" end="1:15:54.501000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:15:54.027000	1:15:54.501000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:15:54.501000" end="1:16:07.567000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:15:54.501000" end="1:16:07.567000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 also	also	ADV	-	1:15:54.501000	1:15:55.267000
 weiß	weiß	VERB	-	1:15:54.501000	1:15:55.267000
 ich	ich	PRON	-	1:15:54.501000	1:15:55.267000
@@ -17320,10 +17320,10 @@ schon	schon	ADV	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circ
 passieren	passieren	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:16:05.941000	1:16:07.567000
 ,	-	-	-	1:16:05.941000	1:16:07.567000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:07.567000" end="1:16:07.981000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:07.567000" end="1:16:07.981000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:16:07.567000	1:16:07.981000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:07.567000" end="1:16:23.801000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:07.567000" end="1:16:23.801000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:16:07.567000	1:16:07.981000
 .	-	-	-	1:16:07.567000	1:16:07.981000
 <pause duration="1,1s"/>
@@ -17372,26 +17372,26 @@ taugen	taugen	VERB	-	1:16:22.001000	1:16:23.281000
 ja	ja	PART	-	1:16:23.281000	1:16:23.801000
 .	-	-	-	1:16:23.281000	1:16:23.801000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:23.801000" end="1:16:24.767000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:23.801000" end="1:16:24.767000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 in	in	ADP	-	1:16:23.801000	1:16:24.767000
 ?	-	-	-	1:16:23.801000	1:16:24.767000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:24.767000" end="1:16:25.341000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:24.767000" end="1:16:25.341000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 in	in	ADP	-	1:16:24.767000	1:16:25.341000
 [Oberwölz]O	Oberwölz	PROPN	-	1:16:24.767000	1:16:25.341000
 .	-	-	-	1:16:24.767000	1:16:25.341000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:25.341000" end="1:16:26.121000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:25.341000" end="1:16:26.121000" persName="Informant EXP4" age_lower="" age_upper="999">
 in	in	ADP	-	1:16:25.341000	1:16:26.121000
 [Oberwölz]O	Oberwölz	PROPN	-	1:16:25.341000	1:16:26.121000
 .	-	-	-	1:16:25.341000	1:16:26.121000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:25.341000" end="1:16:26.121000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:25.341000" end="1:16:26.121000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:16:25.341000	1:16:26.121000
 .	-	-	-	1:16:25.341000	1:16:26.121000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:26.121000" end="1:16:29.061000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:26.121000" end="1:16:29.061000" persName="Informant EXP4" age_lower="" age_upper="999">
 also	also	ADV	-	1:16:26.121000	1:16:28.294000
 das	der	DET	-	1:16:26.121000	1:16:28.294000
 abgeschiedene	abgeschieden	ADJ	-	1:16:26.121000	1:16:28.294000
@@ -17399,14 +17399,14 @@ Leben	Leben	NOUN	-	1:16:26.121000	1:16:28.294000
 taugt	taugen	VERB	-	1:16:26.121000	1:16:28.294000
 ihnen	ich	PRON	-	1:16:28.294000	1:16:29.061000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:28.294000" end="1:16:29.061000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:28.294000" end="1:16:29.061000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ähm	ähm	X	-	1:16:28.294000	1:16:29.061000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:29.061000" end="1:16:29.421000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:29.061000" end="1:16:29.421000" persName="Informant EXP4" age_lower="" age_upper="999">
 oder	oder	CCONJ	-	1:16:29.061000	1:16:29.421000
 ?	-	-	-	1:16:29.061000	1:16:29.421000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:29.421000" end="1:16:32.647000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:29.421000" end="1:16:32.647000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 man	man	PRON	-	1:16:29.421000	1:16:32.427000
 halt	halt	ADV	-	1:16:29.421000	1:16:32.427000
@@ -17419,10 +17419,10 @@ irgendwie	irgendwie	ADV	-	1:16:29.421000	1:16:32.427000
 .	-	-	-	1:16:29.421000	1:16:32.427000
 das	der	DET	-	1:16:32.427000	1:16:32.647000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:32.647000" end="1:16:33.207000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:32.647000" end="1:16:33.207000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:16:32.647000	1:16:33.207000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:32.647000" end="1:16:36.607000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:32.647000" end="1:16:36.607000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 Nachbarhaus	Nachbarhaus	NOUN	-	1:16:32.647000	1:16:33.207000
 ist	sein	AUX	-	1:16:33.207000	1:16:36.607000
 der	der	DET	-	1:16:33.207000	1:16:36.607000
@@ -17433,14 +17433,14 @@ und	und	CCONJ	-	1:16:33.207000	1:16:36.607000
 Tante	Tante	NOUN	-	1:16:33.207000	1:16:36.607000
 .	-	-	-	1:16:33.207000	1:16:36.607000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:36.607000" end="1:16:37.414000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:36.607000" end="1:16:37.414000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:16:36.607000	1:16:37.414000
 das	der	PRON	-	1:16:36.607000	1:16:37.414000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:36.607000" end="1:16:37.414000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:36.607000" end="1:16:37.414000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:16:36.607000	1:16:37.414000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:37.414000" end="1:16:40.014000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:37.414000" end="1:16:40.014000" persName="Informant EXP4" age_lower="" age_upper="999">
 das	der	PRON	-	1:16:37.414000	1:16:38.634000
 gefällt	gefallen	VERB	-	1:16:37.414000	1:16:38.634000
 ihnen	ich	PRON	-	1:16:37.414000	1:16:38.634000
@@ -17453,7 +17453,7 @@ nicht	nicht	PART	-	1:16:38.634000	1:16:40.014000
 okay	okay	NOUN	-	1:16:38.634000	1:16:40.014000
 .	-	-	-	1:16:38.634000	1:16:40.014000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:38.634000" end="1:16:41.361000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:38.634000" end="1:16:41.361000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	1:16:38.634000	1:16:40.014000
 doch	doch	ADV	-	1:16:38.634000	1:16:40.014000
 das	der	PRON	-	1:16:38.634000	1:16:40.014000
@@ -17463,7 +17463,7 @@ gefällt	gefallen	VERB	-	1:16:40.014000	1:16:41.361000
 mir	sich	PRON	-	1:16:40.014000	1:16:41.361000
 .	-	-	-	1:16:40.014000	1:16:41.361000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:41.361000" end="1:16:44.721000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:41.361000" end="1:16:44.721000" persName="Informant EXP4" age_lower="" age_upper="999">
 auch	auch	ADV	-	1:16:41.361000	1:16:42.814000
 in	in	ADP	-	1:16:41.361000	1:16:42.814000
 Kontrast	Kontrast	NOUN	-	1:16:41.361000	1:16:42.814000
@@ -17475,17 +17475,17 @@ in	in	ADP	-	1:16:42.814000	1:16:44.721000
 Wien	Wien	PROPN	-	1:16:42.814000	1:16:44.721000
 .	-	-	-	1:16:42.814000	1:16:44.721000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:42.814000" end="1:16:44.721000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:42.814000" end="1:16:44.721000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 auch	auch	ADV	-	1:16:42.814000	1:16:44.721000
 genau	genau	ADJ	-	1:16:42.814000	1:16:44.721000
 genau	genau	ADJ	-	1:16:42.814000	1:16:44.721000
 .	-	-	-	1:16:42.814000	1:16:44.721000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:44.721000" end="1:16:45.781000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:44.721000" end="1:16:45.781000" persName="Informant EXP4" age_lower="" age_upper="999">
 ja	ja	PART	-	1:16:44.721000	1:16:45.781000
 .	-	-	-	1:16:44.721000	1:16:45.781000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:44.721000" end="1:16:52.421000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:44.721000" end="1:16:52.421000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:16:44.721000	1:16:45.781000
 ,	-	-	-	1:16:44.721000	1:16:45.781000
 aber	aber	CCONJ	-	1:16:45.781000	1:16:46.734000
@@ -17522,10 +17522,10 @@ solche	solche	DET	-	1:16:50.194000	1:16:52.421000
 Sachen	Sache	NOUN	-	1:16:50.194000	1:16:52.421000
 .	-	-	-	1:16:50.194000	1:16:52.421000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:16:52.421000" end="1:16:53.054000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:16:52.421000" end="1:16:53.054000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:16:52.421000	1:16:53.054000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:16:53.054000" end="1:17:01.061000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:16:53.054000" end="1:17:01.061000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 das	der	PRON	-	1:16:53.054000	1:16:53.967000
 sind	sein	AUX	-	1:16:53.054000	1:16:53.967000
 so	so	ADV	-	1:16:53.054000	1:16:53.967000
@@ -17554,11 +17554,11 @@ abgehen	abgehen	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK
 könnte	können	VERB	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	1:16:58.647000	1:17:01.061000
 .	-	-	-	1:16:58.647000	1:17:01.061000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:01.061000" end="1:17:02.027000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:01.061000" end="1:17:02.027000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:17:01.061000	1:17:01.594000
 mhm	mhm	PROPN	-	1:17:01.594000	1:17:02.027000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:01.594000" end="1:17:03.787000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:01.594000" end="1:17:03.787000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:17:01.594000	1:17:02.027000
 jetzt	jetzt	ADV	-	1:17:02.027000	1:17:02.707000
 kann	können	VERB	-	1:17:02.027000	1:17:02.707000
@@ -17571,10 +17571,10 @@ mehr	mehr	PRON	-	1:17:02.894000	1:17:03.787000
 schätzen	schätzen	VERB	-	1:17:02.894000	1:17:03.787000
 .	-	-	-	1:17:02.894000	1:17:03.787000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:03.787000" end="1:17:04.461000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:03.787000" end="1:17:04.461000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:17:03.787000	1:17:04.461000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:04.461000" end="1:17:06.407000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:04.461000" end="1:17:06.407000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 oder	oder	CCONJ	-	1:17:04.461000	1:17:06.407000
 eben	eben	ADV	-	1:17:04.461000	1:17:06.407000
@@ -17585,10 +17585,10 @@ und	und	CCONJ	-	1:17:04.461000	1:17:06.407000
 das	der	PRON	-	1:17:04.461000	1:17:06.407000
 .	-	-	-	1:17:04.461000	1:17:06.407000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:06.407000" end="1:17:07.227000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:06.407000" end="1:17:07.227000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:17:06.407000	1:17:07.227000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:06.407000" end="1:17:12.134000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:06.407000" end="1:17:12.134000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:17:06.407000	1:17:07.227000
 .	-	-	-	1:17:06.407000	1:17:07.227000
 <pause duration="0,7s"/>
@@ -17612,16 +17612,16 @@ abgehen	abgehen	VERB	-	1:17:10.467000	1:17:12.134000
 kann	können	VERB	-	1:17:10.467000	1:17:12.134000
 .	-	-	-	1:17:10.467000	1:17:12.134000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:12.134000" end="1:17:12.941000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:12.134000" end="1:17:12.941000" persName="Informant EXP4" age_lower="" age_upper="999">
 mhm	mhm	PROPN	-	1:17:12.134000	1:17:12.941000
 ja	ja	PART	-	1:17:12.134000	1:17:12.941000
 ,	-	-	-	1:17:12.134000	1:17:12.941000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:12.941000" end="1:17:13.227000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:12.941000" end="1:17:13.227000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:17:12.941000	1:17:13.227000
 .	-	-	-	1:17:12.941000	1:17:13.227000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:13.227000" end="1:17:14.541000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:13.227000" end="1:17:14.541000" persName="Informant EXP4" age_lower="" age_upper="999">
 kann	können	VERB	-	1:17:13.227000	1:17:14.541000
 ich	ich	PRON	-	1:17:13.227000	1:17:14.541000
 mir	sich	PRON	-	1:17:13.227000	1:17:14.541000
@@ -17631,11 +17631,11 @@ denken	denken	VERB	-	1:17:13.227000	1:17:14.541000
 ja	ja	PART	-	1:17:13.227000	1:17:14.541000
 .	-	-	-	1:17:13.227000	1:17:14.541000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:14.541000" end="1:17:14.914000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:14.541000" end="1:17:14.914000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:17:14.541000	1:17:14.914000
 .	-	-	-	1:17:14.541000	1:17:14.914000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:14.914000" end="1:17:30.121000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:14.914000" end="1:17:30.121000" persName="Informant EXP4" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	1:17:14.914000	1:17:18.914000
 das	der	DET	-	1:17:14.914000	1:17:18.914000
@@ -17695,7 +17695,7 @@ kommentieren	kommentieren	VERB	-	1:17:27.374000	1:17:30.121000
 würden	werden	AUX	-	1:17:27.374000	1:17:30.121000
 ?	-	-	-	1:17:27.374000	1:17:30.121000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:30.121000" end="1:17:32.901000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:30.121000" end="1:17:32.901000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 im	im	ADP	-	1:17:30.121000	1:17:32.901000
 Moment	Moment	NOUN	-	1:17:30.121000	1:17:32.901000
@@ -17705,7 +17705,7 @@ nicht	nicht	PART	-	1:17:30.121000	1:17:32.901000
 nein	nein	PART	-	1:17:30.121000	1:17:32.901000
 .	-	-	-	1:17:30.121000	1:17:32.901000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:32.901000" end="1:17:35.867000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:32.901000" end="1:17:35.867000" persName="Informant EXP4" age_lower="" age_upper="999">
 okay	okay	NOUN	-	1:17:32.901000	1:17:34.727000
 gut	gut	ADJ	-	1:17:32.901000	1:17:34.727000
 ,	-	-	-	1:17:32.901000	1:17:34.727000
@@ -17720,11 +17720,11 @@ das	der	DET	-	1:17:34.727000	1:17:35.867000
 Interview	Interview	NOUN	-	1:17:34.727000	1:17:35.867000
 jetzt	jetzt	ADV	-	1:17:34.727000	1:17:35.867000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:35.867000" end="1:17:36.247000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:35.867000" end="1:17:36.247000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	1:17:35.867000	1:17:36.247000
 .	-	-	-	1:17:35.867000	1:17:36.247000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" start="1:17:36.247000" end="1:17:38.874000" persName="Informant EXP4">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:17:36.247000" end="1:17:38.874000" persName="Informant EXP4" age_lower="" age_upper="999">
 und	und	CCONJ	-	1:17:36.247000	1:17:37.674000
 gehen	gehen	VERB	-	1:17:36.247000	1:17:37.674000
 zum	zum	ADP	-	1:17:36.247000	1:17:37.674000
@@ -17738,7 +17738,7 @@ danke	danke	PROPN	-	1:17:38.194000	1:17:38.874000
 nochmal	nochmal	ADV	-	1:17:38.194000	1:17:38.874000
 .	-	-	-	1:17:38.194000	1:17:38.874000
 </u>
-<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" start="1:17:38.194000" end="1:17:38.874000" persName="Informant 0319">
+<u who="spk_362" sex="male" age="jung (18-35) +matura" name="Informant 0319" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="1:17:38.194000" end="1:17:38.874000" persName="Informant 0319" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
 super	super	PROPN	-	1:17:38.194000	1:17:38.874000
 </u>
 </file>

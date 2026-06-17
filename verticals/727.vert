@@ -1,9 +1,9 @@
 <doc id="transcript_727" name="0632_STEY_jungII_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="727.xml" title="Transcript: Transcript_727">
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:00" end="0:00:00.962000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:00" end="0:00:00.962000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:00" end="0:00:07.098000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:07.098000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 dann	-	-	-	0:00:00.962000	0:00:02.690000
 beginnen	-	-	-	0:00:00.962000	0:00:02.690000
@@ -25,13 +25,13 @@ Ihr	-	-	-	0:00:05.346000	0:00:07.098000
 Geburtsdatum	-	-	-	0:00:05.346000	0:00:07.098000
 ?	-	-	-	0:00:05.346000	0:00:07.098000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:07.098000" end="0:00:09.832000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:07.098000" end="0:00:09.832000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:00:07.098000	0:00:09.832000
 neunter	-	-	-	0:00:07.098000	0:00:09.832000
 ZAHL	ZAHL	-	-	0:00:07.098000	0:00:09.832000
 .	-	-	-	0:00:07.098000	0:00:09.832000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:09.832000" end="0:00:14.262000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:09.832000" end="0:00:14.262000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,9s"/>
 und	-	-	-	0:00:12.714000	0:00:14.262000
 wie	-	-	-	0:00:12.714000	0:00:14.262000
@@ -40,14 +40,14 @@ Ihr	-	-	-	0:00:12.714000	0:00:14.262000
 Geburtsort	-	-	-	0:00:12.714000	0:00:14.262000
 ?	-	-	-	0:00:12.714000	0:00:14.262000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:14.262000" end="0:00:15.421000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:14.262000" end="0:00:15.421000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:00:14.262000	0:00:15.421000
 an	-	-	-	0:00:14.262000	0:00:15.421000
 der	-	-	-	0:00:14.262000	0:00:15.421000
 ORT	ORT	-	-	0:00:14.262000	0:00:15.421000
 .	-	-	-	0:00:14.262000	0:00:15.421000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:15.421000" end="0:00:19.611000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:15.421000" end="0:00:19.611000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:00:15.421000	0:00:16.692000
 ,	-	-	-	0:00:15.421000	0:00:16.692000
 ja	-	-	-	0:00:15.421000	0:00:16.692000
@@ -62,7 +62,7 @@ Sie	-	-	-	0:00:16.692000	0:00:19.611000
 aufgewachsen	-	-	-	0:00:16.692000	0:00:19.611000
 ?	-	-	-	0:00:16.692000	0:00:19.611000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:19.611000" end="0:00:21.611000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:19.611000" end="0:00:21.611000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:00:19.611000	0:00:21.611000
 zuerst	-	-	-	0:00:19.611000	0:00:21.611000
@@ -70,11 +70,11 @@ in	-	-	-	0:00:19.611000	0:00:21.611000
 ORT	ORT	-	-	0:00:19.611000	0:00:21.611000
 ORT	ORT	-	-	0:00:19.611000	0:00:21.611000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:21.611000" end="0:00:22.155000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:21.611000" end="0:00:22.155000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:00:21.611000	0:00:22.155000
 .	-	-	-	0:00:21.611000	0:00:22.155000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:22.155000" end="0:00:24.837000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:22.155000" end="0:00:24.837000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:22.155000	0:00:23.288000
 /.	-	-	-	0:00:22.155000	0:00:23.288000
 soll	-	-	-	0:00:23.288000	0:00:24.837000
@@ -87,12 +87,12 @@ reden	-	-	-	0:00:23.288000	0:00:24.837000
 oder	-	-	-	0:00:23.288000	0:00:24.837000
 /?	-	-	-	0:00:23.288000	0:00:24.837000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:24.837000" end="0:00:26.205000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:24.837000" end="0:00:26.205000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 wie	-	-	-	0:00:24.837000	0:00:26.205000
 es	-	-	-	0:00:24.837000	0:00:26.205000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:26.205000" end="0:00:28.028000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:26.205000" end="0:00:28.028000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 also	-	-	-	0:00:26.205000	0:00:27.188000
 zählt	-	-	-	0:00:26.205000	0:00:27.188000
@@ -101,29 +101,29 @@ schon	-	-	-	0:00:27.188000	0:00:28.028000
 zu	-	-	-	0:00:27.188000	0:00:28.028000
 dem	-	-	-	0:00:27.188000	0:00:28.028000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:27.188000" end="0:00:28.028000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:27.188000" end="0:00:28.028000" persName="Informant EXP9" age_lower="" age_upper="999">
 in	-	-	-	0:00:27.188000	0:00:28.028000
 der	-	-	-	0:00:27.188000	0:00:28.028000
 /.	-	-	-	0:00:27.188000	0:00:28.028000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:28.028000" end="0:00:29.084000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:28.028000" end="0:00:29.084000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Ding	-	-	-	0:00:28.028000	0:00:28.718000
 dazu	-	-	-	0:00:28.028000	0:00:28.718000
 ?	-	-	-	0:00:28.028000	0:00:28.718000
 oder	-	-	-	0:00:28.718000	0:00:29.084000
 zu	-	-	-	0:00:28.718000	0:00:29.084000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:28.718000" end="0:00:29.084000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:28.718000" end="0:00:29.084000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:00:28.718000	0:00:29.084000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:29.084000" end="0:00:30.718000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:29.084000" end="0:00:30.718000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Ihrem	-	-	-	0:00:29.084000	0:00:29.901000
 Ding	-	-	-	0:00:29.084000	0:00:29.901000
 dazu	-	-	-	0:00:29.901000	0:00:30.718000
 oder	-	-	-	0:00:29.901000	0:00:30.718000
 /?	-	-	-	0:00:29.901000	0:00:30.718000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:29.901000" end="0:00:33.951000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:29.901000" end="0:00:33.951000" persName="Informant EXP9" age_lower="" age_upper="999">
 so	-	-	-	0:00:30.718000	0:00:31.784000
 reden	-	-	-	0:00:30.718000	0:00:31.784000
 ,	-	-	-	0:00:30.718000	0:00:31.784000
@@ -138,10 +138,10 @@ passend	-	-	-	0:00:31.784000	0:00:33.951000
 halten	-	-	-	0:00:31.784000	0:00:33.951000
 ,	-	-	-	0:00:31.784000	0:00:33.951000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:33.951000" end="0:00:35.980000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:33.951000" end="0:00:35.980000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:33.951000" end="0:00:38.551000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:33.951000" end="0:00:38.551000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 möchte	-	-	-	0:00:35.980000	0:00:37.477000
 ich	-	-	-	0:00:35.980000	0:00:37.477000
@@ -153,7 +153,7 @@ also	-	-	-	0:00:37.477000	0:00:38.551000
 einfach	-	-	-	0:00:37.477000	0:00:38.551000
 /.	-	-	-	0:00:37.477000	0:00:38.551000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:38.551000" end="0:00:41.729000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:38.551000" end="0:00:41.729000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:00:38.551000	0:00:39.340000
 .	-	-	-	0:00:38.551000	0:00:39.340000
 <pause duration="0,5s"/>
@@ -165,7 +165,7 @@ die	-	-	-	0:00:40.701000	0:00:41.729000
 Frage	-	-	-	0:00:40.701000	0:00:41.729000
 ?	-	-	-	0:00:40.701000	0:00:41.729000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:41.729000" end="0:00:44.263000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:41.729000" end="0:00:44.263000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:00:41.729000	0:00:44.263000
 an	-	-	-	0:00:41.729000	0:00:44.263000
@@ -176,7 +176,7 @@ aufgewachsen	-	-	-	0:00:41.729000	0:00:44.263000
 sind	-	-	-	0:00:41.729000	0:00:44.263000
 .	-	-	-	0:00:41.729000	0:00:44.263000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:44.263000" end="0:00:47.643000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:44.263000" end="0:00:47.643000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:00:44.263000	0:00:44.825000
 ja	-	-	-	0:00:44.263000	0:00:44.825000
 genau	-	-	-	0:00:44.263000	0:00:44.825000
@@ -191,11 +191,11 @@ ORT	ORT	-	-	0:00:44.825000	0:00:47.643000
 ORT	ORT	-	-	0:00:44.825000	0:00:47.643000
 aufgewachsen	-	-	-	0:00:44.825000	0:00:47.643000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:47.643000" end="0:00:48.090000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:47.643000" end="0:00:48.090000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:47.643000	0:00:48.090000
 .	-	-	-	0:00:47.643000	0:00:48.090000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:48.090000" end="0:00:51.085000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:48.090000" end="0:00:51.085000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:48.090000	0:00:50.210000
 dann	-	-	-	0:00:48.090000	0:00:50.210000
 sind	-	-	-	0:00:48.090000	0:00:50.210000
@@ -205,7 +205,7 @@ Steyrling	-	-	-	0:00:48.090000	0:00:50.210000
 gezogen	-	-	-	0:00:50.210000	0:00:51.085000
 .	-	-	-	0:00:50.210000	0:00:51.085000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:50.210000" end="0:00:52.940000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:50.210000" end="0:00:52.940000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:00:50.210000	0:00:51.085000
 ,	-	-	-	0:00:50.210000	0:00:51.085000
 mhm	-	-	-	0:00:51.085000	0:00:51.556000
@@ -215,15 +215,15 @@ immer	-	-	-	0:00:51.556000	0:00:52.940000
 in	-	-	-	0:00:51.556000	0:00:52.940000
 Steyrling	-	-	-	0:00:51.556000	0:00:52.940000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:52.940000" end="0:00:53.425000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:52.940000" end="0:00:53.425000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:00:52.940000	0:00:53.425000
 ,	-	-	-	0:00:52.940000	0:00:53.425000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:52.940000" end="0:00:53.425000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:52.940000" end="0:00:53.425000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:00:52.940000	0:00:53.425000
 /?	-	-	-	0:00:52.940000	0:00:53.425000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:53.425000" end="0:00:58.037000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:53.425000" end="0:00:58.037000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:00:53.425000	0:00:54.262000
 immer	-	-	-	0:00:53.425000	0:00:54.262000
 in	-	-	-	0:00:53.425000	0:00:54.262000
@@ -245,40 +245,40 @@ nach	-	-	-	0:00:55.172000	0:00:57.407000
 [Italien]x	-	-	-	0:00:55.172000	0:00:57.407000
 gegangen	-	-	-	0:00:57.407000	0:00:58.037000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:57.407000" end="0:00:58.037000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:57.407000" end="0:00:58.037000" persName="Informant EXP9" age_lower="" age_upper="999">
 ah	-	-	-	0:00:57.407000	0:00:58.037000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:57.407000" end="0:00:58.037000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:57.407000" end="0:00:58.037000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ,	-	-	-	0:00:57.407000	0:00:58.037000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:57.407000" end="0:00:58.037000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:57.407000" end="0:00:58.037000" persName="Informant EXP9" age_lower="" age_upper="999">
 ,	-	-	-	0:00:57.407000	0:00:58.037000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:57.407000" end="0:00:58.037000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:57.407000" end="0:00:58.037000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:58.037000" end="0:00:58.608000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:58.037000" end="0:00:58.608000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:00:58.037000	0:00:58.608000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:58.037000" end="0:00:58.608000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:58.037000" end="0:00:58.608000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:58.037000" end="0:00:58.608000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:58.037000" end="0:00:58.608000" persName="Informant EXP9" age_lower="" age_upper="999">
 ,	-	-	-	0:00:58.037000	0:00:58.608000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:58.037000" end="0:00:58.785000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:58.037000" end="0:00:58.785000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:00:58.037000	0:00:58.608000
 nach	-	-	-	0:00:58.608000	0:00:58.785000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:58.785000" end="0:00:59.393000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:58.785000" end="0:00:59.393000" persName="Informant EXP9" age_lower="" age_upper="999">
 spannend	-	-	-	0:00:58.785000	0:00:59.393000
 ,	-	-	-	0:00:58.785000	0:00:59.393000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:00:58.785000" end="0:00:59.393000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:00:58.785000" end="0:00:59.393000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:00:58.785000	0:00:59.393000
 ,	-	-	-	0:00:58.785000	0:00:59.393000
 genau	-	-	-	0:00:58.785000	0:00:59.393000
 .	-	-	-	0:00:58.785000	0:00:59.393000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:00:59.393000" end="0:01:07.515000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:00:59.393000" end="0:01:07.515000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:00:59.393000	0:00:59.809000
 .	-	-	-	0:00:59.393000	0:00:59.809000
 <pause duration="1,2s"/>
@@ -301,7 +301,7 @@ ORT	ORT	-	-	0:01:05.519000	0:01:07.515000
 sind	-	-	-	0:01:05.519000	0:01:07.515000
 .	-	-	-	0:01:05.519000	0:01:07.515000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:07.515000" end="0:01:10.961000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:07.515000" end="0:01:10.961000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:01:07.515000	0:01:08.857000
 ich	-	-	-	0:01:08.857000	0:01:09.345000
@@ -316,7 +316,7 @@ in	-	-	-	0:01:10.493000	0:01:10.961000
 ORT	ORT	-	-	0:01:10.493000	0:01:10.961000
 .	-	-	-	0:01:10.493000	0:01:10.961000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:10.493000" end="0:01:13.727000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:10.493000" end="0:01:13.727000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:10.493000	0:01:10.961000
 .	-	-	-	0:01:10.493000	0:01:10.961000
 <pause duration="1,3s"/>
@@ -325,54 +325,54 @@ immer	-	-	-	0:01:12.258000	0:01:13.727000
 schon	-	-	-	0:01:12.258000	0:01:13.727000
 da	-	-	-	0:01:12.258000	0:01:13.727000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:13.727000" end="0:01:14.780000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:13.727000" end="0:01:14.780000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:13.727000	0:01:14.780000
 nein	-	-	-	0:01:13.727000	0:01:14.780000
 ,	-	-	-	0:01:13.727000	0:01:14.780000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:13.727000" end="0:01:14.780000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:13.727000" end="0:01:14.780000" persName="Informant EXP9" age_lower="" age_upper="999">
 in	-	-	-	0:01:13.727000	0:01:14.780000
 der	-	-	-	0:01:13.727000	0:01:14.780000
 gleichen	-	-	-	0:01:13.727000	0:01:14.780000
 /?	-	-	-	0:01:13.727000	0:01:14.780000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:14.780000" end="0:01:15.288000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:14.780000" end="0:01:15.288000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:14.780000	0:01:15.288000
 nein	-	-	-	0:01:14.780000	0:01:15.288000
 ,	-	-	-	0:01:14.780000	0:01:15.288000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:14.780000" end="0:01:15.288000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:14.780000" end="0:01:15.288000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:14.780000	0:01:15.288000
 .	-	-	-	0:01:14.780000	0:01:15.288000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:15.288000" end="0:01:16.068000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:15.288000" end="0:01:16.068000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:01:15.288000	0:01:16.068000
 bin	-	-	-	0:01:15.288000	0:01:16.068000
 zuerst	-	-	-	0:01:15.288000	0:01:16.068000
 noch	-	-	-	0:01:15.288000	0:01:16.068000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:15.288000" end="0:01:16.068000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:15.288000" end="0:01:16.068000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:16.068000" end="0:01:17.280000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:16.068000" end="0:01:17.280000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nach	-	-	-	0:01:16.068000	0:01:17.280000
 ORT	ORT	-	-	0:01:16.068000	0:01:17.280000
 gekommen	-	-	-	0:01:16.068000	0:01:17.280000
 ,	-	-	-	0:01:16.068000	0:01:17.280000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:17.280000" end="0:01:17.914000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:17.280000" end="0:01:17.914000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:17.280000	0:01:17.914000
 .	-	-	-	0:01:17.280000	0:01:17.914000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:17.914000" end="0:01:19.559000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:17.914000" end="0:01:19.559000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:01:17.914000	0:01:19.559000
 in	-	-	-	0:01:17.914000	0:01:19.559000
 die	-	-	-	0:01:17.914000	0:01:19.559000
 ORT	ORT	-	-	0:01:17.914000	0:01:19.559000
 ,	-	-	-	0:01:17.914000	0:01:19.559000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:17.914000" end="0:01:19.559000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:17.914000" end="0:01:19.559000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:19.559000" end="0:01:21.118000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:19.559000" end="0:01:21.118000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:01:19.559000	0:01:20.389000
 nach	-	-	-	0:01:19.559000	0:01:20.389000
 ORT	ORT	-	-	0:01:19.559000	0:01:20.389000
@@ -380,19 +380,19 @@ und	-	-	-	0:01:20.389000	0:01:21.118000
 jetzt	-	-	-	0:01:20.389000	0:01:21.118000
 in	-	-	-	0:01:20.389000	0:01:21.118000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:21.118000" end="0:01:21.876000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:21.118000" end="0:01:21.876000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:21.118000	0:01:21.876000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:21.118000" end="0:01:21.876000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:21.118000" end="0:01:21.876000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:01:21.118000	0:01:21.876000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:21.118000" end="0:01:21.876000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:21.118000" end="0:01:21.876000" persName="Informant EXP9" age_lower="" age_upper="999">
 ,	-	-	-	0:01:21.118000	0:01:21.876000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:21.118000" end="0:01:21.876000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:21.118000" end="0:01:21.876000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 .	-	-	-	0:01:21.118000	0:01:21.876000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:21.118000" end="0:01:22.963000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:21.118000" end="0:01:22.963000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:01:21.118000	0:01:21.876000
 schon	-	-	-	0:01:21.876000	0:01:22.963000
 ein	-	-	-	0:01:21.876000	0:01:22.963000
@@ -400,12 +400,12 @@ paar	-	-	-	0:01:21.876000	0:01:22.963000
 w/	-	-	-	0:01:21.876000	0:01:22.963000
 Bezirke	-	-	-	0:01:21.876000	0:01:22.963000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:22.963000" end="0:01:24.585000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:22.963000" end="0:01:24.585000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:22.963000	0:01:24.585000
 genau	-	-	-	0:01:22.963000	0:01:24.585000
 .	-	-	-	0:01:22.963000	0:01:24.585000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:22.963000" end="0:01:28.477000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:22.963000" end="0:01:28.477000" persName="Informant EXP9" age_lower="" age_upper="999">
 kennengelernt	-	-	-	0:01:22.963000	0:01:24.585000
 .	-	-	-	0:01:22.963000	0:01:24.585000
 <pause duration="1,6s"/>
@@ -419,7 +419,7 @@ Ihre	-	-	-	0:01:26.191000	0:01:28.477000
 Eltern	-	-	-	0:01:26.191000	0:01:28.477000
 ?	-	-	-	0:01:26.191000	0:01:28.477000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:28.477000" end="0:01:31.686000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:28.477000" end="0:01:31.686000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:01:28.477000	0:01:30.292000
 meine	-	-	-	0:01:28.477000	0:01:30.292000
@@ -434,7 +434,7 @@ ORT	ORT	-	-	0:01:30.292000	0:01:31.686000
 ORT	ORT	-	-	0:01:30.292000	0:01:31.686000
 .	-	-	-	0:01:30.292000	0:01:31.686000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:31.686000" end="0:01:35.461000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:31.686000" end="0:01:35.461000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:01:31.686000	0:01:32.801000
 ,	-	-	-	0:01:31.686000	0:01:32.801000
 ja	-	-	-	0:01:31.686000	0:01:32.801000
@@ -449,7 +449,7 @@ Eltern	-	-	-	0:01:32.801000	0:01:35.461000
 beruflich	-	-	-	0:01:32.801000	0:01:35.461000
 ?	-	-	-	0:01:32.801000	0:01:35.461000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:35.461000" end="0:01:38.350000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:35.461000" end="0:01:38.350000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mein	-	-	-	0:01:35.461000	0:01:37.834000
 Papa	-	-	-	0:01:35.461000	0:01:37.834000
 ist	-	-	-	0:01:35.461000	0:01:37.834000
@@ -460,11 +460,11 @@ SONSTIGE	SONSTIGE	-	-	0:01:35.461000	0:01:37.834000
 (also	-	-	-	0:01:37.834000	0:01:38.350000
 ist)	-	-	-	0:01:37.834000	0:01:38.350000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:37.834000" end="0:01:38.350000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:37.834000" end="0:01:38.350000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:37.834000	0:01:38.350000
 .	-	-	-	0:01:37.834000	0:01:38.350000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:38.350000" end="0:01:48.091000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:38.350000" end="0:01:48.091000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:01:38.350000	0:01:39.089000
 ,	-	-	-	0:01:38.350000	0:01:39.089000
 SONSTIGE	SONSTIGE	-	-	0:01:39.089000	0:01:40.005000
@@ -485,7 +485,7 @@ beeinträchtigte	-	-	-	0:01:40.005000	0:01:48.091000
 SONSTIGE	SONSTIGE	-	-	0:01:40.005000	0:01:48.091000
 .	-	-	-	0:01:40.005000	0:01:48.091000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:48.091000" end="0:01:53.664000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:48.091000" end="0:01:53.664000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:48.091000	0:01:48.485000
 ,	-	-	-	0:01:48.091000	0:01:48.485000
 wow	-	-	-	0:01:48.485000	0:01:49.047000
@@ -504,7 +504,7 @@ einer	-	-	-	0:01:52.026000	0:01:53.664000
 Partnerschaft	-	-	-	0:01:52.026000	0:01:53.664000
 ?	-	-	-	0:01:52.026000	0:01:53.664000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:01:53.664000" end="0:01:55.098000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:01:53.664000" end="0:01:55.098000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:53.664000	0:01:55.098000
 ,	-	-	-	0:01:53.664000	0:01:55.098000
 ich	-	-	-	0:01:53.664000	0:01:55.098000
@@ -512,7 +512,7 @@ bin	-	-	-	0:01:53.664000	0:01:55.098000
 ledig	-	-	-	0:01:53.664000	0:01:55.098000
 .	-	-	-	0:01:53.664000	0:01:55.098000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:01:55.098000" end="0:02:01.635000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:01:55.098000" end="0:02:01.635000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:01:55.098000	0:01:56.281000
 .	-	-	-	0:01:55.098000	0:01:56.281000
 <pause duration="3,1s"/>
@@ -526,7 +526,7 @@ hinter	-	-	-	0:01:59.422000	0:02:01.635000
 sich	-	-	-	0:01:59.422000	0:02:01.635000
 ?	-	-	-	0:01:59.422000	0:02:01.635000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:01.635000" end="0:02:07.710000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:01.635000" end="0:02:07.710000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:02:01.635000	0:02:03.470000
 zuerst	-	-	-	0:02:03.470000	0:02:07.045000
@@ -540,11 +540,11 @@ ORT	ORT	-	-	0:02:03.470000	0:02:07.045000
 vier	-	-	-	0:02:07.045000	0:02:07.710000
 Jahre	-	-	-	0:02:07.045000	0:02:07.710000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:07.045000" end="0:02:07.710000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:07.045000" end="0:02:07.710000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:07.045000	0:02:07.710000
 .	-	-	-	0:02:07.045000	0:02:07.710000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:07.710000" end="0:02:12.390000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:07.710000" end="0:02:12.390000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 dann	-	-	-	0:02:07.710000	0:02:12.390000
 war	-	-	-	0:02:07.710000	0:02:12.390000
@@ -558,12 +558,12 @@ Abtei	-	-	-	0:02:07.710000	0:02:12.390000
 ORT	ORT	-	-	0:02:07.710000	0:02:12.390000
 ,	-	-	-	0:02:07.710000	0:02:12.390000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:12.390000" end="0:02:13.285000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:12.390000" end="0:02:13.285000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:02:12.390000	0:02:13.285000
 .	-	-	-	0:02:12.390000	0:02:13.285000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:13.285000" end="0:02:19.630000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:13.285000" end="0:02:19.630000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:02:13.285000	0:02:15.169000
 habe	-	-	-	0:02:13.285000	0:02:15.169000
 ich	-	-	-	0:02:13.285000	0:02:15.169000
@@ -582,11 +582,11 @@ ORT	ORT	-	-	0:02:16.308000	0:02:19.630000
 gegangen	-	-	-	0:02:16.308000	0:02:19.630000
 studieren	-	-	-	0:02:16.308000	0:02:19.630000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:19.630000" end="0:02:20.047000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:19.630000" end="0:02:20.047000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:19.630000	0:02:20.047000
 .	-	-	-	0:02:19.630000	0:02:20.047000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:20.047000" end="0:02:27.606000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:20.047000" end="0:02:27.606000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:02:20.047000	0:02:22.110000
 /.	-	-	-	0:02:20.047000	0:02:22.110000
 ja	-	-	-	0:02:22.110000	0:02:22.791000
@@ -615,19 +615,19 @@ fertig	-	-	-	0:02:24.791000	0:02:27.606000
 gemacht	-	-	-	0:02:24.791000	0:02:27.606000
 und	-	-	-	0:02:24.791000	0:02:27.606000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:27.606000" end="0:02:29.362000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:27.606000" end="0:02:29.362000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ah	-	-	-	0:02:27.606000	0:02:29.362000
 schon	-	-	-	0:02:27.606000	0:02:29.362000
 /.	-	-	-	0:02:27.606000	0:02:29.362000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:27.606000" end="0:02:29.362000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:27.606000" end="0:02:29.362000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 bin	-	-	-	0:02:27.606000	0:02:29.362000
 jetzt	-	-	-	0:02:27.606000	0:02:29.362000
 /.	-	-	-	0:02:27.606000	0:02:29.362000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:29.362000" end="0:02:33.395000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:29.362000" end="0:02:33.395000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 was	-	-	-	0:02:29.362000	0:02:31.362000
 ist	-	-	-	0:02:29.362000	0:02:31.362000
@@ -642,7 +642,7 @@ Sie	-	-	-	0:02:31.362000	0:02:33.395000
 studiert	-	-	-	0:02:31.362000	0:02:33.395000
 ?	-	-	-	0:02:31.362000	0:02:33.395000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:31.362000" end="0:02:34.420000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:31.362000" end="0:02:34.420000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:31.362000	0:02:33.395000
 ich	-	-	-	0:02:31.362000	0:02:33.395000
 habe	-	-	-	0:02:31.362000	0:02:33.395000
@@ -650,23 +650,23 @@ einen	-	-	-	0:02:31.362000	0:02:33.395000
 Bachelor	-	-	-	0:02:33.395000	0:02:34.420000
 Italienisch	-	-	-	0:02:33.395000	0:02:34.420000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:34.420000" end="0:02:35.916000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:34.420000" end="0:02:35.916000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:34.420000	0:02:34.999000
 ,	-	-	-	0:02:34.420000	0:02:34.999000
 aha	-	-	-	0:02:34.999000	0:02:35.548000
 ,	-	-	-	0:02:34.999000	0:02:35.548000
 daher	-	-	-	0:02:35.548000	0:02:35.916000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:35.548000" end="0:02:35.916000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:35.548000" end="0:02:35.916000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:02:35.548000	0:02:35.916000
 /.	-	-	-	0:02:35.548000	0:02:35.916000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:35.916000" end="0:02:37.783000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:35.916000" end="0:02:37.783000" persName="Informant EXP9" age_lower="" age_upper="999">
 also	-	-	-	0:02:35.916000	0:02:36.673000
 Italien	-	-	-	0:02:35.916000	0:02:36.673000
 .	-	-	-	0:02:35.916000	0:02:36.673000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:36.673000" end="0:02:42.924000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:36.673000" end="0:02:42.924000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:02:36.673000	0:02:37.783000
 .	-	-	-	0:02:36.673000	0:02:37.783000
 und	-	-	-	0:02:37.783000	0:02:42.924000
@@ -681,7 +681,7 @@ ich	-	-	-	0:02:37.783000	0:02:42.924000
 studiert	-	-	-	0:02:37.783000	0:02:42.924000
 .	-	-	-	0:02:37.783000	0:02:42.924000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:42.924000" end="0:02:49.029000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:42.924000" end="0:02:49.029000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:42.924000	0:02:43.374000
 ,	-	-	-	0:02:42.924000	0:02:43.374000
 toll	-	-	-	0:02:43.374000	0:02:44.106000
@@ -697,17 +697,17 @@ oder	-	-	-	0:02:44.106000	0:02:47.764000
 /?	-	-	-	0:02:44.106000	0:02:47.764000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:47.764000" end="0:02:49.029000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:47.764000" end="0:02:49.029000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:49.029000" end="0:02:50.237000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:49.029000" end="0:02:50.237000" persName="Informant EXP9" age_lower="" age_upper="999">
 was	-	-	-	0:02:49.029000	0:02:50.237000
 machen	-	-	-	0:02:49.029000	0:02:50.237000
 Sie	-	-	-	0:02:49.029000	0:02:50.237000
 aktuell	-	-	-	0:02:49.029000	0:02:50.237000
 ?	-	-	-	0:02:49.029000	0:02:50.237000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:49.029000" end="0:02:53.341000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:49.029000" end="0:02:53.341000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:49.029000	0:02:50.237000
 ja	-	-	-	0:02:50.237000	0:02:53.341000
 ich	-	-	-	0:02:50.237000	0:02:53.341000
@@ -717,7 +717,7 @@ einer	-	-	-	0:02:50.237000	0:02:53.341000
 Onlinemarketingagentur	-	-	-	0:02:50.237000	0:02:53.341000
 ,	-	-	-	0:02:50.237000	0:02:53.341000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:53.341000" end="0:02:54.311000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:53.341000" end="0:02:54.311000" persName="Informant EXP9" age_lower="" age_upper="999">
 ah	-	-	-	0:02:53.341000	0:02:54.311000
 ,	-	-	-	0:02:53.341000	0:02:54.311000
 okay	-	-	-	0:02:53.341000	0:02:54.311000
@@ -725,15 +725,15 @@ okay	-	-	-	0:02:53.341000	0:02:54.311000
 cool	-	-	-	0:02:53.341000	0:02:54.311000
 ,	-	-	-	0:02:53.341000	0:02:54.311000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:54.311000" end="0:02:54.684000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:54.311000" end="0:02:54.684000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:02:54.311000	0:02:54.684000
 ,	-	-	-	0:02:54.311000	0:02:54.684000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:54.684000" end="0:02:55.156000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:54.684000" end="0:02:55.156000" persName="Informant EXP9" age_lower="" age_upper="999">
 super	-	-	-	0:02:54.684000	0:02:55.156000
 .	-	-	-	0:02:54.684000	0:02:55.156000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:54.684000" end="0:02:57.346000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:54.684000" end="0:02:57.346000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:02:54.684000	0:02:55.156000
 ich	-	-	-	0:02:54.684000	0:02:55.156000
 habe	-	-	-	0:02:54.684000	0:02:55.156000
@@ -745,11 +745,11 @@ Publizistik	-	-	-	0:02:55.156000	0:02:57.346000
 Studieren	-	-	-	0:02:55.156000	0:02:57.346000
 angefangen	-	-	-	0:02:55.156000	0:02:57.346000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:02:57.346000" end="0:02:59.346000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:02:57.346000" end="0:02:59.346000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:02:57.346000	0:02:58.113000
 .	-	-	-	0:02:57.346000	0:02:58.113000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:02:58.113000" end="0:03:01.512000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:02:58.113000" end="0:03:01.512000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:02:58.113000	0:02:59.346000
 ja	-	-	-	0:02:59.346000	0:03:01.512000
 irgendwie	-	-	-	0:02:59.346000	0:03:01.512000
@@ -758,9 +758,9 @@ ein	-	-	-	0:02:59.346000	0:03:01.512000
 <pause duration="0,7s"/>
 diffuser	-	-	-	0:02:59.346000	0:03:01.512000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:01.512000" end="0:03:02.582000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:01.512000" end="0:03:02.582000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:01.512000" end="0:03:13.770000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:01.512000" end="0:03:13.770000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Werdegang	-	-	-	0:03:01.512000	0:03:02.582000
 ,	-	-	-	0:03:01.512000	0:03:02.582000
 ähm	-	-	-	0:03:02.582000	0:03:03.768000
@@ -816,7 +816,7 @@ dem	-	-	-	0:03:11.302000	0:03:13.770000
 Studieren	-	-	-	0:03:11.302000	0:03:13.770000
 .	-	-	-	0:03:11.302000	0:03:13.770000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:13.770000" end="0:03:17.902000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:13.770000" end="0:03:17.902000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 wow	-	-	-	0:03:13.770000	0:03:14.527000
 ,	-	-	-	0:03:13.770000	0:03:14.527000
@@ -831,11 +831,11 @@ mhm	-	-	-	0:03:16.968000	0:03:17.902000
 super	-	-	-	0:03:16.968000	0:03:17.902000
 .	-	-	-	0:03:16.968000	0:03:17.902000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:16.968000" end="0:03:17.902000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:16.968000" end="0:03:17.902000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:03:16.968000	0:03:17.902000
 .	-	-	-	0:03:16.968000	0:03:17.902000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:17.902000" end="0:03:25.603000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:17.902000" end="0:03:25.603000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,7s"/>
 (ah)	-	-	-	0:03:21.195000	0:03:21.680000
 das	-	-	-	0:03:21.195000	0:03:21.680000
@@ -856,17 +856,17 @@ dem	-	-	-	0:03:21.680000	0:03:25.603000
 Studieren	-	-	-	0:03:21.680000	0:03:25.603000
 ?	-	-	-	0:03:21.680000	0:03:25.603000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:25.603000" end="0:03:27.169000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:25.603000" end="0:03:27.169000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 in	-	-	-	0:03:25.603000	0:03:27.169000
 der	-	-	-	0:03:25.603000	0:03:27.169000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:27.169000" end="0:03:28.078000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:27.169000" end="0:03:28.078000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:03:27.169000	0:03:28.078000
 .	-	-	-	0:03:27.169000	0:03:28.078000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:27.169000" end="0:03:28.856000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:27.169000" end="0:03:28.856000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Marketingagentur	-	-	-	0:03:27.169000	0:03:28.078000
 ?	-	-	-	0:03:27.169000	0:03:28.078000
 ja	-	-	-	0:03:28.078000	0:03:28.856000
@@ -875,7 +875,7 @@ ja	-	-	-	0:03:28.078000	0:03:28.856000
 genau	-	-	-	0:03:28.078000	0:03:28.856000
 .	-	-	-	0:03:28.078000	0:03:28.856000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:28.856000" end="0:03:32.284000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:28.856000" end="0:03:32.284000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:03:28.856000	0:03:30.442000
 ,	-	-	-	0:03:28.856000	0:03:30.442000
 was	-	-	-	0:03:28.856000	0:03:30.442000
@@ -892,7 +892,7 @@ Arbeitsalltag	-	-	-	0:03:30.442000	0:03:32.284000
 aus	-	-	-	0:03:30.442000	0:03:32.284000
 ?	-	-	-	0:03:30.442000	0:03:32.284000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:32.284000" end="0:03:39.775000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:32.284000" end="0:03:39.775000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:03:32.284000	0:03:36.930000
 dort	-	-	-	0:03:32.284000	0:03:36.930000
@@ -911,21 +911,21 @@ Suchmaschinenmarketing	-	-	-	0:03:36.930000	0:03:39.775000
 machen	-	-	-	0:03:36.930000	0:03:39.775000
 ,	-	-	-	0:03:36.930000	0:03:39.775000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:39.775000" end="0:03:40.047000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:39.775000" end="0:03:40.047000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:39.775000	0:03:40.047000
 .	-	-	-	0:03:39.775000	0:03:40.047000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:40.047000" end="0:03:41.944000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:40.047000" end="0:03:41.944000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:03:40.047000	0:03:41.944000
 heißt	-	-	-	0:03:40.047000	0:03:41.944000
 Googlemarketing	-	-	-	0:03:40.047000	0:03:41.944000
 ,	-	-	-	0:03:40.047000	0:03:41.944000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:41.944000" end="0:03:42.773000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:41.944000" end="0:03:42.773000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:41.944000	0:03:42.773000
 .	-	-	-	0:03:41.944000	0:03:42.773000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:41.944000" end="0:03:44.016000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:41.944000" end="0:03:44.016000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:03:41.944000	0:03:42.773000
 Google	-	-	-	0:03:42.773000	0:03:44.016000
 kennt	-	-	-	0:03:42.773000	0:03:44.016000
@@ -934,18 +934,18 @@ die	-	-	-	0:03:42.773000	0:03:44.016000
 Anzeigen	-	-	-	0:03:42.773000	0:03:44.016000
 ,	-	-	-	0:03:42.773000	0:03:44.016000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:44.016000" end="0:03:44.846000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:44.016000" end="0:03:44.846000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:44.016000" end="0:03:44.846000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:44.016000" end="0:03:44.846000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:03:44.016000	0:03:44.846000
 dort	-	-	-	0:03:44.016000	0:03:44.846000
 geschaltet	-	-	-	0:03:44.016000	0:03:44.846000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:44.846000" end="0:03:45.305000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:44.846000" end="0:03:45.305000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:03:44.846000	0:03:45.305000
 .	-	-	-	0:03:44.846000	0:03:45.305000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:44.846000" end="0:03:56.055000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:44.846000" end="0:03:56.055000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 werden	-	-	-	0:03:44.846000	0:03:45.305000
 ,	-	-	-	0:03:44.846000	0:03:45.305000
 das	-	-	-	0:03:44.846000	0:03:45.305000
@@ -982,11 +982,11 @@ für	-	-	-	0:03:54.656000	0:03:56.055000
 die	-	-	-	0:03:54.656000	0:03:56.055000
 Zielgruppen	-	-	-	0:03:54.656000	0:03:56.055000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:56.055000" end="0:03:56.700000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:56.055000" end="0:03:56.700000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:56.055000	0:03:56.700000
 .	-	-	-	0:03:56.055000	0:03:56.700000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:56.055000" end="0:03:59.663000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:56.055000" end="0:03:59.663000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 vorrangig	-	-	-	0:03:56.055000	0:03:56.700000
 die	-	-	-	0:03:56.055000	0:03:56.700000
 die	-	-	-	0:03:56.700000	0:03:57.795000
@@ -1003,24 +1003,24 @@ auch	-	-	-	0:03:57.795000	0:03:59.663000
 klicken	-	-	-	0:03:57.795000	0:03:59.663000
 .	-	-	-	0:03:57.795000	0:03:59.663000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:03:59.663000" end="0:04:00.105000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:03:59.663000" end="0:04:00.105000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:03:59.663000	0:04:00.105000
 ,	-	-	-	0:03:59.663000	0:04:00.105000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:03:59.663000" end="0:04:00.105000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:03:59.663000" end="0:04:00.105000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:00.105000" end="0:04:01.426000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:00.105000" end="0:04:01.426000" persName="Informant EXP9" age_lower="" age_upper="999">
 spannend	-	-	-	0:04:00.105000	0:04:00.989000
 ist	-	-	-	0:04:00.105000	0:04:00.989000
 das	-	-	-	0:04:00.989000	0:04:01.426000
 .	-	-	-	0:04:00.989000	0:04:01.426000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:00.989000" end="0:04:01.426000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:00.989000" end="0:04:01.426000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:04:00.989000	0:04:01.426000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:01.426000" end="0:04:02.024000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:01.426000" end="0:04:02.024000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:01.426000" end="0:04:03.543000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:01.426000" end="0:04:03.543000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:01.426000	0:04:02.024000
 genau	-	-	-	0:04:01.426000	0:04:02.024000
 ,	-	-	-	0:04:01.426000	0:04:02.024000
@@ -1030,24 +1030,24 @@ wir	-	-	-	0:04:02.024000	0:04:03.543000
 auch	-	-	-	0:04:02.024000	0:04:03.543000
 ,	-	-	-	0:04:02.024000	0:04:03.543000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:03.543000" end="0:04:04.405000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:03.543000" end="0:04:04.405000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:03.543000	0:04:04.405000
 .	-	-	-	0:04:03.543000	0:04:04.405000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:03.543000" end="0:04:06.884000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:03.543000" end="0:04:06.884000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Facebookmarketing	-	-	-	0:04:03.543000	0:04:04.405000
 ,	-	-	-	0:04:03.543000	0:04:04.405000
 <pause duration="2,0s"/>
 genau	-	-	-	0:04:06.416000	0:04:06.884000
 .	-	-	-	0:04:06.416000	0:04:06.884000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:06.884000" end="0:04:09.212000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:06.884000" end="0:04:09.212000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:06.884000" end="0:04:09.212000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:06.884000" end="0:04:09.212000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:09.212000" end="0:04:15.063000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:09.212000" end="0:04:15.063000" persName="Informant EXP9" age_lower="" age_upper="999">
 sprechen	-	-	-	0:04:09.212000	0:04:13.498000
 Sie	-	-	-	0:04:09.212000	0:04:13.498000
 in	-	-	-	0:04:09.212000	0:04:13.498000
@@ -1065,7 +1065,7 @@ immer	-	-	-	0:04:13.498000	0:04:15.063000
 gleich	-	-	-	0:04:13.498000	0:04:15.063000
 ?	-	-	-	0:04:13.498000	0:04:15.063000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:15.063000" end="0:04:24.254000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:15.063000" end="0:04:24.254000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:15.063000	0:04:15.353000
 ,	-	-	-	0:04:15.063000	0:04:15.353000
 nein	-	-	-	0:04:15.353000	0:04:16.466000
@@ -1090,11 +1090,11 @@ Standardsprache	-	-	-	0:04:16.466000	0:04:24.075000
 ,	-	-	-	0:04:16.466000	0:04:24.075000
 (so)	-	-	-	0:04:24.075000	0:04:24.254000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:24.254000" end="0:04:24.696000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:24.254000" end="0:04:24.696000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:24.254000	0:04:24.696000
 .	-	-	-	0:04:24.254000	0:04:24.696000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:24.254000" end="0:04:34.514000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:24.254000" end="0:04:34.514000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (wie)	-	-	-	0:04:24.254000	0:04:24.696000
 so	-	-	-	0:04:24.696000	0:04:25.683000
 wie	-	-	-	0:04:24.696000	0:04:25.683000
@@ -1129,18 +1129,18 @@ sprechen	-	-	-	0:04:32.060000	0:04:34.056000
 (spreche	-	-	-	0:04:34.056000	0:04:34.514000
 auch)	-	-	-	0:04:34.056000	0:04:34.514000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:34.514000" end="0:04:34.890000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:34.514000" end="0:04:34.890000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:04:34.514000	0:04:34.890000
 .	-	-	-	0:04:34.514000	0:04:34.890000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:34.514000" end="0:04:35.812000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:34.514000" end="0:04:35.812000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:04:34.514000	0:04:34.890000
 Dialekt	-	-	-	0:04:34.890000	0:04:35.386000
 ,	-	-	-	0:04:34.890000	0:04:35.386000
 genau	-	-	-	0:04:35.386000	0:04:35.812000
 .	-	-	-	0:04:35.386000	0:04:35.812000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:35.812000" end="0:04:44.802000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:35.812000" end="0:04:44.802000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 wie	-	-	-	0:04:37.608000	0:04:38.344000
 nennen	-	-	-	0:04:37.608000	0:04:38.344000
@@ -1159,12 +1159,12 @@ sprechen	-	-	-	0:04:38.344000	0:04:42.802000
 ?	-	-	-	0:04:38.344000	0:04:42.802000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:42.802000" end="0:04:44.802000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:42.802000" end="0:04:44.802000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:44.802000" end="0:04:45.680000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:44.802000" end="0:04:45.680000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:44.802000" end="0:04:49.843000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:44.802000" end="0:04:49.843000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:44.802000	0:04:45.680000
 ich	-	-	-	0:04:46.624000	0:04:47.096000
 weiß	-	-	-	0:04:46.624000	0:04:47.096000
@@ -1181,11 +1181,11 @@ Steyrlingerisch	-	-	-	0:04:48.378000	0:04:49.634000
 ,	-	-	-	0:04:48.378000	0:04:49.634000
 ich	-	-	-	0:04:49.634000	0:04:49.843000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:49.843000" end="0:04:50.368000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:49.843000" end="0:04:50.368000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:49.843000	0:04:50.368000
 .	-	-	-	0:04:49.843000	0:04:50.368000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:49.843000" end="0:04:51.369000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:49.843000" end="0:04:51.369000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	-	-	-	0:04:49.843000	0:04:50.368000
 nicht	-	-	-	0:04:49.843000	0:04:50.368000
 ,	-	-	-	0:04:49.843000	0:04:50.368000
@@ -1194,7 +1194,7 @@ nicht	-	-	-	0:04:49.843000	0:04:50.368000
 ja	-	-	-	0:04:50.368000	0:04:51.369000
 .	-	-	-	0:04:50.368000	0:04:51.369000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:04:51.369000" end="0:04:59.493000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:04:51.369000" end="0:04:59.493000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:04:51.369000	0:04:51.690000
 .	-	-	-	0:04:51.369000	0:04:51.690000
 <pause duration="5,7s"/>
@@ -1206,12 +1206,12 @@ Steyrlingerisch	-	-	-	0:04:57.381000	0:04:59.493000
 sprechen	-	-	-	0:04:57.381000	0:04:59.493000
 ?	-	-	-	0:04:57.381000	0:04:59.493000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:04:59.493000" end="0:05:00.634000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:04:59.493000" end="0:05:00.634000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:04:59.493000	0:05:00.634000
 .	-	-	-	0:04:59.493000	0:05:00.634000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:00.634000" end="0:05:14.727000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:00.634000" end="0:05:14.727000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:05:00.634000	0:05:01.169000
 .	-	-	-	0:05:00.634000	0:05:01.169000
 <pause duration="0,5s"/>
@@ -1260,7 +1260,7 @@ sprechen	-	-	-	0:05:13.453000	0:05:14.727000
 können	-	-	-	0:05:13.453000	0:05:14.727000
 ?	-	-	-	0:05:13.453000	0:05:14.727000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:14.727000" end="0:05:21.753000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:14.727000" end="0:05:21.753000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:05:15.843000	0:05:17.696000
 <pause duration="0,8s"/>
@@ -1280,25 +1280,25 @@ Sie	-	-	-	0:05:19.364000	0:05:21.753000
 jetzt	-	-	-	0:05:19.364000	0:05:21.753000
 ?	-	-	-	0:05:19.364000	0:05:21.753000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:21.753000" end="0:05:23.201000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:21.753000" end="0:05:23.201000" persName="Informant EXP9" age_lower="" age_upper="999">
 zum	-	-	-	0:05:21.753000	0:05:23.201000
 Beispiel	-	-	-	0:05:21.753000	0:05:23.201000
 einfach	-	-	-	0:05:21.753000	0:05:23.201000
 mal	-	-	-	0:05:21.753000	0:05:23.201000
 ,	-	-	-	0:05:21.753000	0:05:23.201000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:23.201000" end="0:05:24.274000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:23.201000" end="0:05:24.274000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ah	-	-	-	0:05:23.201000	0:05:24.274000
 okay	-	-	-	0:05:23.201000	0:05:24.274000
 .	-	-	-	0:05:23.201000	0:05:24.274000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:24.274000" end="0:05:25.350000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:24.274000" end="0:05:25.350000" persName="Informant EXP9" age_lower="" age_upper="999">
 wenn	-	-	-	0:05:24.274000	0:05:25.350000
 also	-	-	-	0:05:24.274000	0:05:25.350000
 /.	-	-	-	0:05:24.274000	0:05:25.350000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:25.350000" end="0:05:28.723000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:25.350000" end="0:05:28.723000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:05:25.350000	0:05:27.471000
 <pause duration="0,8s"/>
 ich	-	-	-	0:05:27.471000	0:05:28.723000
@@ -1309,12 +1309,12 @@ spreche	-	-	-	0:05:27.471000	0:05:28.723000
 es	-	-	-	0:05:27.471000	0:05:28.723000
 ziemlich	-	-	-	0:05:27.471000	0:05:28.723000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:28.723000" end="0:05:30.199000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:28.723000" end="0:05:30.199000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:05:28.723000	0:05:30.199000
 .	-	-	-	0:05:28.723000	0:05:30.199000
 das	-	-	-	0:05:28.723000	0:05:30.199000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:28.723000" end="0:05:30.199000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:28.723000" end="0:05:30.199000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gut	-	-	-	0:05:28.723000	0:05:30.199000
 ,	-	-	-	0:05:28.723000	0:05:30.199000
 ich	-	-	-	0:05:28.723000	0:05:30.199000
@@ -1322,14 +1322,14 @@ spreche	-	-	-	0:05:28.723000	0:05:30.199000
 es	-	-	-	0:05:28.723000	0:05:30.199000
 /.	-	-	-	0:05:28.723000	0:05:30.199000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:30.199000" end="0:05:30.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:30.199000" end="0:05:30.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:30.721000" end="0:05:30.973000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:30.721000" end="0:05:30.973000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:05:30.721000	0:05:30.973000
 so	-	-	-	0:05:30.721000	0:05:30.973000
 .	-	-	-	0:05:30.721000	0:05:30.973000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:30.973000" end="0:05:35.537000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:30.973000" end="0:05:35.537000" persName="Informant EXP9" age_lower="" age_upper="999">
 ist	-	-	-	0:05:30.973000	0:05:32.063000
 ist	-	-	-	0:05:30.973000	0:05:32.063000
 schon	-	-	-	0:05:30.973000	0:05:32.063000
@@ -1345,11 +1345,11 @@ tatsächlich	-	-	-	0:05:32.063000	0:05:34.894000
 eben	-	-	-	0:05:34.894000	0:05:35.537000
 ,	-	-	-	0:05:34.894000	0:05:35.537000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:34.894000" end="0:05:35.537000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:34.894000" end="0:05:35.537000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:05:34.894000	0:05:35.537000
 .	-	-	-	0:05:34.894000	0:05:35.537000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:05:35.537000" end="0:05:44.419000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:05:35.537000" end="0:05:44.419000" persName="Informant EXP9" age_lower="" age_upper="999">
 wo	-	-	-	0:05:35.537000	0:05:36.739000
 Sie	-	-	-	0:05:35.537000	0:05:36.739000
 sich	-	-	-	0:05:35.537000	0:05:36.739000
@@ -1387,7 +1387,7 @@ Skala	-	-	-	0:05:42.646000	0:05:44.419000
 sehen	-	-	-	0:05:42.646000	0:05:44.419000
 .	-	-	-	0:05:42.646000	0:05:44.419000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:05:44.419000" end="0:06:00.434000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:05:44.419000" end="0:06:00.434000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:05:44.419000	0:05:46.241000
 <pause duration="6,6s"/>
@@ -1405,9 +1405,9 @@ nicht	-	-	-	0:05:59.314000	0:06:00.434000
 entscheiden	-	-	-	0:05:59.314000	0:06:00.434000
 .	-	-	-	0:05:59.314000	0:06:00.434000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:00.434000" end="0:06:01.542000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:00.434000" end="0:06:01.542000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:00.434000" end="0:06:06.767000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:00.434000" end="0:06:06.767000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ich	-	-	-	0:06:02.806000	0:06:04.165000
 glaube	-	-	-	0:06:02.806000	0:06:04.165000
@@ -1422,7 +1422,7 @@ nicht	-	-	-	0:06:05.783000	0:06:06.397000
 so	-	-	-	0:06:06.397000	0:06:06.767000
 .	-	-	-	0:06:06.397000	0:06:06.767000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:06.767000" end="0:06:10.600000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:06.767000" end="0:06:10.600000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:06.767000	0:06:07.191000
 .	-	-	-	0:06:06.767000	0:06:07.191000
 <pause duration="0,7s"/>
@@ -1438,7 +1438,7 @@ Steyrlingerisch	-	-	-	0:06:07.191000	0:06:10.600000
 aus	-	-	-	0:06:07.191000	0:06:10.600000
 ?	-	-	-	0:06:07.191000	0:06:10.600000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:10.600000" end="0:06:15.924000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:10.600000" end="0:06:15.924000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ähm	-	-	-	0:06:12.194000	0:06:13.639000
 ich	-	-	-	0:06:12.194000	0:06:13.639000
@@ -1455,13 +1455,13 @@ dort	-	-	-	0:06:14.029000	0:06:15.924000
 aufgewachsen	-	-	-	0:06:14.029000	0:06:15.924000
 .	-	-	-	0:06:14.029000	0:06:15.924000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:15.924000" end="0:06:17.350000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:15.924000" end="0:06:17.350000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:06:15.924000	0:06:16.130000
 .	-	-	-	0:06:15.924000	0:06:16.130000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:16.130000" end="0:06:17.350000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:16.130000" end="0:06:17.350000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:17.350000" end="0:06:21.046000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:17.350000" end="0:06:21.046000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:06:17.350000	0:06:19.103000
 gleich	-	-	-	0:06:17.350000	0:06:19.103000
 die	-	-	-	0:06:17.350000	0:06:19.103000
@@ -1474,11 +1474,11 @@ vom	-	-	-	0:06:19.103000	0:06:21.046000
 Steyr(?)	-	-	-	0:06:19.103000	0:06:21.046000
 .	-	-	-	0:06:19.103000	0:06:21.046000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:21.046000" end="0:06:21.479000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:21.046000" end="0:06:21.479000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:06:21.046000	0:06:21.479000
 .	-	-	-	0:06:21.046000	0:06:21.479000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:21.479000" end="0:06:39.543000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:21.479000" end="0:06:39.543000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:21.479000	0:06:21.965000
 .	-	-	-	0:06:21.479000	0:06:21.965000
 <pause duration="2,3s"/>
@@ -1525,7 +1525,7 @@ alteingesessenen	-	-	-	0:06:32.871000	0:06:39.543000
 Steyrlinger	-	-	-	0:06:32.871000	0:06:39.543000
 ?	-	-	-	0:06:32.871000	0:06:39.543000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:39.543000" end="0:06:46.847000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:39.543000" end="0:06:46.847000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 hm	-	-	-	0:06:40.536000	0:06:46.847000
 ja	-	-	-	0:06:40.536000	0:06:46.847000
@@ -1544,11 +1544,11 @@ für	-	-	-	0:06:40.536000	0:06:46.847000
 alle	-	-	-	0:06:40.536000	0:06:46.847000
 Wörter	-	-	-	0:06:40.536000	0:06:46.847000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:46.847000" end="0:06:47.383000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:46.847000" end="0:06:47.383000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:46.847000	0:06:47.383000
 .	-	-	-	0:06:46.847000	0:06:47.383000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:47.383000" end="0:06:58.558000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:47.383000" end="0:06:58.558000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:06:47.383000	0:06:49.447000
 durch	-	-	-	0:06:47.383000	0:06:49.447000
 das	-	-	-	0:06:47.383000	0:06:49.447000
@@ -1583,11 +1583,11 @@ halt	-	-	-	0:06:55.654000	0:06:58.558000
 eher	-	-	-	0:06:55.654000	0:06:58.558000
 schöner	-	-	-	0:06:55.654000	0:06:58.558000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:06:58.558000" end="0:06:59.308000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:06:58.558000" end="0:06:59.308000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:06:58.558000	0:06:59.308000
 .	-	-	-	0:06:58.558000	0:06:59.308000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:06:58.558000" end="0:07:05.713000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:06:58.558000" end="0:07:05.713000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aus	-	-	-	0:06:58.558000	0:06:59.308000
 und	-	-	-	0:06:58.558000	0:06:59.308000
 nicht	-	-	-	0:06:58.558000	0:06:59.308000
@@ -1617,9 +1617,9 @@ wie	-	-	-	0:07:04.622000	0:07:05.713000
 "Zahnarzt"	-	-	-	0:07:04.622000	0:07:05.713000
 oder	-	-	-	0:07:04.622000	0:07:05.713000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:05.713000" end="0:07:06.713000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:05.713000" end="0:07:06.713000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:05.713000" end="0:07:07.960000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:05.713000" end="0:07:07.960000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sowas	-	-	-	0:07:05.713000	0:07:06.713000
 und	-	-	-	0:07:05.713000	0:07:06.713000
 dann	-	-	-	0:07:05.713000	0:07:06.713000
@@ -1630,7 +1630,7 @@ halt	-	-	-	0:07:05.713000	0:07:06.713000
 stattdessen	-	-	-	0:07:06.713000	0:07:07.960000
 .	-	-	-	0:07:06.713000	0:07:07.960000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:07.960000" end="0:07:13.564000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:07.960000" end="0:07:13.564000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:07.960000	0:07:08.572000
 .	-	-	-	0:07:07.960000	0:07:08.572000
 <pause duration="2,2s"/>
@@ -1644,12 +1644,12 @@ Steyrlingerisch	-	-	-	0:07:10.782000	0:07:13.564000
 gerne	-	-	-	0:07:10.782000	0:07:13.564000
 ?	-	-	-	0:07:10.782000	0:07:13.564000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:13.564000" end="0:07:14.389000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:13.564000" end="0:07:14.389000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:07:13.564000	0:07:14.389000
 .	-	-	-	0:07:13.564000	0:07:14.389000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:14.389000" end="0:07:16.262000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:14.389000" end="0:07:16.262000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:14.389000	0:07:14.914000
 ,	-	-	-	0:07:14.389000	0:07:14.914000
 warum	-	-	-	0:07:14.914000	0:07:16.262000
@@ -1659,7 +1659,7 @@ das	-	-	-	0:07:14.914000	0:07:16.262000
 gerne	-	-	-	0:07:14.914000	0:07:16.262000
 ?	-	-	-	0:07:14.914000	0:07:16.262000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:16.262000" end="0:07:17.766000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:16.262000" end="0:07:17.766000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:16.262000	0:07:17.766000
 weil	-	-	-	0:07:16.262000	0:07:17.766000
 mich	-	-	-	0:07:16.262000	0:07:17.766000
@@ -1667,11 +1667,11 @@ das	-	-	-	0:07:16.262000	0:07:17.766000
 mit	-	-	-	0:07:16.262000	0:07:17.766000
 zuhause	-	-	-	0:07:16.262000	0:07:17.766000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:17.766000" end="0:07:18.312000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:17.766000" end="0:07:18.312000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:07:17.766000	0:07:18.312000
 .	-	-	-	0:07:17.766000	0:07:18.312000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:17.766000" end="0:07:18.953000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:17.766000" end="0:07:18.953000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 verbindet	-	-	-	0:07:17.766000	0:07:18.312000
 ,	-	-	-	0:07:17.766000	0:07:18.312000
 mit	-	-	-	0:07:18.312000	0:07:18.953000
@@ -1679,15 +1679,15 @@ den	-	-	-	0:07:18.312000	0:07:18.953000
 Leuten	-	-	-	0:07:18.312000	0:07:18.953000
 von	-	-	-	0:07:18.312000	0:07:18.953000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:18.953000" end="0:07:19.472000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:18.953000" end="0:07:19.472000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:18.953000	0:07:19.472000
 .	-	-	-	0:07:18.953000	0:07:19.472000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:18.953000" end="0:07:19.472000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:18.953000" end="0:07:19.472000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 daheim	-	-	-	0:07:18.953000	0:07:19.472000
 .	-	-	-	0:07:18.953000	0:07:19.472000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:19.472000" end="0:07:25.148000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:19.472000" end="0:07:25.148000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 in	-	-	-	0:07:21.056000	0:07:25.148000
 welchen	-	-	-	0:07:21.056000	0:07:25.148000
@@ -1702,7 +1702,7 @@ das	-	-	-	0:07:21.056000	0:07:25.148000
 Steyrlingerisch	-	-	-	0:07:21.056000	0:07:25.148000
 ?	-	-	-	0:07:21.056000	0:07:25.148000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:25.148000" end="0:07:34.855000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:25.148000" end="0:07:34.855000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 eigentlich	-	-	-	0:07:27.889000	0:07:31.061000
 <pause duration="0,6s"/>
@@ -1724,11 +1724,11 @@ Oberösterreich	-	-	-	0:07:31.061000	0:07:34.493000
 ,	-	-	-	0:07:31.061000	0:07:34.493000
 also	-	-	-	0:07:34.493000	0:07:34.855000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:34.855000" end="0:07:35.136000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:34.855000" end="0:07:35.136000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:34.855000	0:07:35.136000
 .	-	-	-	0:07:34.855000	0:07:35.136000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:35.136000" end="0:07:37.919000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:35.136000" end="0:07:37.919000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 immer	-	-	-	0:07:35.136000	0:07:36.267000
 wenn	-	-	-	0:07:35.136000	0:07:36.267000
 ich	-	-	-	0:07:35.136000	0:07:36.267000
@@ -1741,12 +1741,12 @@ Leuten	-	-	-	0:07:36.267000	0:07:37.919000
 telefoniere	-	-	-	0:07:36.267000	0:07:37.919000
 .	-	-	-	0:07:36.267000	0:07:37.919000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:37.919000" end="0:07:38.917000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:37.919000" end="0:07:38.917000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:07:37.919000	0:07:38.917000
 .	-	-	-	0:07:37.919000	0:07:38.917000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:38.917000" end="0:07:43.820000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:38.917000" end="0:07:43.820000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:07:38.917000	0:07:40.072000
 <pause duration="2,1s"/>
 ja	-	-	-	0:07:42.129000	0:07:43.820000
@@ -1759,7 +1759,7 @@ denen	-	-	-	0:07:42.129000	0:07:43.820000
 habe	-	-	-	0:07:42.129000	0:07:43.820000
 .	-	-	-	0:07:42.129000	0:07:43.820000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:43.820000" end="0:07:49.905000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:43.820000" end="0:07:49.905000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:07:43.820000	0:07:44.140000
 .	-	-	-	0:07:43.820000	0:07:44.140000
 <pause duration="1,2s"/>
@@ -1780,7 +1780,7 @@ das	-	-	-	0:07:46.124000	0:07:49.905000
 Steyrlingerisch	-	-	-	0:07:46.124000	0:07:49.905000
 ?	-	-	-	0:07:46.124000	0:07:49.905000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:49.905000" end="0:07:52.288000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:49.905000" end="0:07:52.288000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ((0,5s))	-	-	-	0:07:49.905000	0:07:52.288000
 wenn	-	-	-	0:07:49.905000	0:07:52.288000
 meine	-	-	-	0:07:49.905000	0:07:52.288000
@@ -1790,17 +1790,17 @@ zuhause	-	-	-	0:07:49.905000	0:07:52.288000
 mich	-	-	-	0:07:49.905000	0:07:52.288000
 besuchen	-	-	-	0:07:49.905000	0:07:52.288000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:52.288000" end="0:07:52.801000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:52.288000" end="0:07:52.801000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:07:52.288000	0:07:52.801000
 .	-	-	-	0:07:52.288000	0:07:52.801000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:52.288000" end="0:07:52.801000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:52.288000" end="0:07:52.801000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 kommen	-	-	-	0:07:52.288000	0:07:52.801000
 ,	-	-	-	0:07:52.288000	0:07:52.801000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:07:52.801000" end="0:07:53.594000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:07:52.801000" end="0:07:53.594000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:07:52.801000" end="0:08:02.712000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:07:52.801000" end="0:08:02.712000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:07:52.801000	0:07:53.594000
 wenn	-	-	-	0:07:53.594000	0:07:54.989000
 ich	-	-	-	0:07:53.594000	0:07:54.989000
@@ -1831,11 +1831,11 @@ halt	-	-	-	0:08:00.828000	0:08:02.712000
 irgendwelche	-	-	-	0:08:00.828000	0:08:02.712000
 Dialektunterschiede	-	-	-	0:08:00.828000	0:08:02.712000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:02.712000" end="0:08:03.540000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:02.712000" end="0:08:03.540000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:02.712000	0:08:03.540000
 .	-	-	-	0:08:02.712000	0:08:03.540000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:02.712000" end="0:08:05.085000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:02.712000" end="0:08:05.085000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 feststellen	-	-	-	0:08:02.712000	0:08:03.540000
 ,	-	-	-	0:08:02.712000	0:08:03.540000
 dann	-	-	-	0:08:03.540000	0:08:05.085000
@@ -1847,15 +1847,15 @@ meinem	-	-	-	0:08:03.540000	0:08:05.085000
 Dialekt	-	-	-	0:08:03.540000	0:08:05.085000
 .	-	-	-	0:08:03.540000	0:08:05.085000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:05.085000" end="0:08:05.623000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:05.085000" end="0:08:05.623000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:05.085000	0:08:05.623000
 .	-	-	-	0:08:05.085000	0:08:05.623000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:05.623000" end="0:08:06.340000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:05.623000" end="0:08:06.340000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:08:05.623000	0:08:06.340000
 .	-	-	-	0:08:05.623000	0:08:06.340000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:06.340000" end="0:08:13.034000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:06.340000" end="0:08:13.034000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 stellen	-	-	-	0:08:07.982000	0:08:10.312000
 Sie	-	-	-	0:08:07.982000	0:08:10.312000
@@ -1875,7 +1875,7 @@ Sie	-	-	-	0:08:10.312000	0:08:13.034000
 Steyrlingerisch	-	-	-	0:08:10.312000	0:08:13.034000
 ?	-	-	-	0:08:10.312000	0:08:13.034000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:13.034000" end="0:08:30.971000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:13.034000" end="0:08:30.971000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 hm	-	-	-	0:08:14.534000	0:08:15.546000
 <pause duration="9,1s"/>
@@ -1898,11 +1898,11 @@ am	-	-	-	0:08:25.391000	0:08:30.971000
 Tag	-	-	-	0:08:25.391000	0:08:30.971000
 .	-	-	-	0:08:25.391000	0:08:30.971000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:30.971000" end="0:08:31.503000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:30.971000" end="0:08:31.503000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:30.971000	0:08:31.503000
 .	-	-	-	0:08:30.971000	0:08:31.503000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:31.503000" end="0:08:35.580000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:31.503000" end="0:08:35.580000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:08:32.568000	0:08:34.361000
 wenn	-	-	-	0:08:32.568000	0:08:34.361000
@@ -1919,11 +1919,11 @@ Steyrling	-	-	-	0:08:34.361000	0:08:35.580000
 bin	-	-	-	0:08:34.361000	0:08:35.580000
 ,	-	-	-	0:08:34.361000	0:08:35.580000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:35.580000" end="0:08:35.957000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:35.580000" end="0:08:35.957000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:08:35.580000	0:08:35.957000
 .	-	-	-	0:08:35.580000	0:08:35.957000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:35.580000" end="0:08:44.616000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:35.580000" end="0:08:44.616000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 natürlich	-	-	-	0:08:35.580000	0:08:35.957000
 öfter	-	-	-	0:08:35.957000	0:08:36.503000
 ,	-	-	-	0:08:35.957000	0:08:36.503000
@@ -1942,10 +1942,10 @@ ich	-	-	-	0:08:43.852000	0:08:44.616000
 nicht	-	-	-	0:08:43.852000	0:08:44.616000
 ,	-	-	-	0:08:43.852000	0:08:44.616000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:44.616000" end="0:08:45.300000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:44.616000" end="0:08:45.300000" persName="Informant EXP9" age_lower="" age_upper="999">
 (hm)	-	-	-	0:08:44.616000	0:08:45.300000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:45.300000" end="0:08:47.851000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:45.300000" end="0:08:47.851000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:08:45.300000	0:08:47.353000
 mal	-	-	-	0:08:45.300000	0:08:47.353000
 fünf	-	-	-	0:08:45.300000	0:08:47.353000
@@ -1957,11 +1957,11 @@ Stunden	-	-	-	0:08:45.300000	0:08:47.353000
 je	-	-	-	0:08:47.353000	0:08:47.851000
 nachdem	-	-	-	0:08:47.353000	0:08:47.851000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:47.851000" end="0:08:48.301000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:47.851000" end="0:08:48.301000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:08:47.851000	0:08:48.301000
 .	-	-	-	0:08:47.851000	0:08:48.301000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:47.851000" end="0:08:50.918000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:47.851000" end="0:08:50.918000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (halt)	-	-	-	0:08:47.851000	0:08:48.301000
 ,	-	-	-	0:08:47.851000	0:08:48.301000
 <pause duration="0,9s"/>
@@ -1975,13 +1975,13 @@ herumhänge	-	-	-	0:08:48.301000	0:08:50.572000
 aber	-	-	-	0:08:50.572000	0:08:50.918000
 /.	-	-	-	0:08:50.572000	0:08:50.918000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:50.918000" end="0:08:52.547000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:50.918000" end="0:08:52.547000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:50.918000" end="0:08:52.547000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:50.918000" end="0:08:52.547000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:52.547000" end="0:08:55.942000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:52.547000" end="0:08:55.942000" persName="Informant EXP9" age_lower="" age_upper="999">
 auch	-	-	-	0:08:52.547000	0:08:55.013000
 da	-	-	-	0:08:52.547000	0:08:55.013000
 gibt	-	-	-	0:08:52.547000	0:08:55.013000
@@ -1993,11 +1993,11 @@ Skala	-	-	-	0:08:52.547000	0:08:55.013000
 dazu	-	-	-	0:08:52.547000	0:08:55.013000
 .	-	-	-	0:08:52.547000	0:08:55.013000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:08:55.013000" end="0:08:55.942000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:08:55.013000" end="0:08:55.942000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 super	-	-	-	0:08:55.013000	0:08:55.942000
 .	-	-	-	0:08:55.013000	0:08:55.942000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:08:55.942000" end="0:09:00.908000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:08:55.942000" end="0:09:00.908000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:08:55.942000	0:09:00.908000
 häufig	-	-	-	0:08:55.942000	0:09:00.908000
 in	-	-	-	0:08:55.942000	0:09:00.908000
@@ -2011,7 +2011,7 @@ gesprochen	-	-	-	0:08:55.942000	0:09:00.908000
 wird	-	-	-	0:08:55.942000	0:09:00.908000
 .	-	-	-	0:08:55.942000	0:09:00.908000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:00.908000" end="0:09:06.656000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:00.908000" end="0:09:06.656000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 boa	-	-	-	0:09:04.544000	0:09:05.561000
 ich	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:09:04.544000	0:09:05.561000
@@ -2021,7 +2021,7 @@ sagen	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+
 so	-	-	-	0:09:05.561000	0:09:06.656000
 .	-	-	-	0:09:05.561000	0:09:06.656000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:06.656000" end="0:09:13.816000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:06.656000" end="0:09:13.816000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:06.656000	0:09:07.160000
 .	-	-	-	0:09:06.656000	0:09:07.160000
 <pause duration="1,6s"/>
@@ -2042,7 +2042,7 @@ passend	-	-	-	0:09:09.859000	0:09:13.816000
 erscheint	-	-	-	0:09:09.859000	0:09:13.816000
 ?	-	-	-	0:09:09.859000	0:09:13.816000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:13.816000" end="0:09:17.788000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:13.816000" end="0:09:17.788000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 hm	-	-	-	0:09:15.276000	0:09:16.071000
 <pause duration="0,9s"/>
@@ -2050,11 +2050,11 @@ ja	-	-	-	0:09:16.071000	0:09:17.788000
 natürlich	-	-	-	0:09:16.071000	0:09:17.788000
 ,	-	-	-	0:09:16.071000	0:09:17.788000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:17.788000" end="0:09:18.527000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:17.788000" end="0:09:18.527000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:17.788000	0:09:18.527000
 .	-	-	-	0:09:17.788000	0:09:18.527000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:17.788000" end="0:09:20.735000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:17.788000" end="0:09:20.735000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:09:17.788000	0:09:18.527000
 <pause duration="1,2s"/>
 immer	-	-	-	0:09:19.727000	0:09:20.735000
@@ -2063,12 +2063,12 @@ ich	-	-	-	0:09:19.727000	0:09:20.735000
 in	-	-	-	0:09:19.727000	0:09:20.735000
 Steyrling	-	-	-	0:09:19.727000	0:09:20.735000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:20.735000" end="0:09:21.788000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:20.735000" end="0:09:21.788000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:09:20.735000	0:09:21.788000
 .	-	-	-	0:09:20.735000	0:09:21.788000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:20.735000" end="0:09:34.091000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:20.735000" end="0:09:34.091000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (bin)	-	-	-	0:09:20.735000	0:09:21.788000
 .	-	-	-	0:09:20.735000	0:09:21.788000
 ja	-	-	-	0:09:21.788000	0:09:24.386000
@@ -2108,11 +2108,11 @@ die	-	-	-	0:09:32.357000	0:09:34.091000
 Standardsprache	-	-	-	0:09:32.357000	0:09:34.091000
 wechselt	-	-	-	0:09:32.357000	0:09:34.091000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:34.091000" end="0:09:34.534000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:34.091000" end="0:09:34.534000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:34.091000	0:09:34.534000
 .	-	-	-	0:09:34.091000	0:09:34.534000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:34.091000" end="0:09:41.639000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:34.091000" end="0:09:41.639000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:09:34.091000	0:09:34.534000
 so	-	-	-	0:09:34.091000	0:09:34.534000
 ,	-	-	-	0:09:34.091000	0:09:34.534000
@@ -2146,11 +2146,11 @@ so	-	-	-	0:09:40.140000	0:09:41.639000
 reden	-	-	-	0:09:40.140000	0:09:41.639000
 .	-	-	-	0:09:40.140000	0:09:41.639000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:41.639000" end="0:09:42.050000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:41.639000" end="0:09:42.050000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:41.639000	0:09:42.050000
 .	-	-	-	0:09:41.639000	0:09:42.050000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:42.050000" end="0:09:49.168000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:42.050000" end="0:09:49.168000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:09:42.050000	0:09:44.115000
 <pause duration="2,9s"/>
@@ -2164,7 +2164,7 @@ war	-	-	-	0:09:48.753000	0:09:49.168000
 es	-	-	-	0:09:48.753000	0:09:49.168000
 .	-	-	-	0:09:48.753000	0:09:49.168000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:49.168000" end="0:09:55.528000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:49.168000" end="0:09:55.528000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:09:49.168000	0:09:49.519000
 .	-	-	-	0:09:49.168000	0:09:49.519000
 und	-	-	-	0:09:49.519000	0:09:51.519000
@@ -2185,7 +2185,7 @@ unpassend	-	-	-	0:09:51.519000	0:09:55.528000
 erscheint	-	-	-	0:09:51.519000	0:09:55.528000
 ?	-	-	-	0:09:51.519000	0:09:55.528000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:55.528000" end="0:09:57.664000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:55.528000" end="0:09:57.664000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:55.528000	0:09:57.664000
 ,	-	-	-	0:09:55.528000	0:09:57.664000
 wenn	-	-	-	0:09:55.528000	0:09:57.664000
@@ -2195,11 +2195,11 @@ Gegenüber	-	-	-	0:09:55.528000	0:09:57.664000
 absolut	-	-	-	0:09:55.528000	0:09:57.664000
 nicht	-	-	-	0:09:55.528000	0:09:57.664000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:09:57.664000" end="0:09:58.365000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:09:57.664000" end="0:09:58.365000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:09:57.664000	0:09:58.365000
 .	-	-	-	0:09:57.664000	0:09:58.365000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:09:57.664000" end="0:10:03.209000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:09:57.664000" end="0:10:03.209000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 versteht	-	-	-	0:09:57.664000	0:09:58.365000
 .	-	-	-	0:09:57.664000	0:09:58.365000
 <pause duration="0,9s"/>
@@ -2222,11 +2222,11 @@ Deutsch	-	-	-	0:10:02.544000	0:10:03.209000
 (?/)	-	-	-	0:10:02.544000	0:10:03.209000
 als	-	-	-	0:10:02.544000	0:10:03.209000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:03.209000" end="0:10:04.082000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:03.209000" end="0:10:04.082000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:10:03.209000	0:10:04.082000
 .	-	-	-	0:10:03.209000	0:10:04.082000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:03.209000" end="0:10:07.044000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:03.209000" end="0:10:07.044000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Fremdsprache	-	-	-	0:10:03.209000	0:10:04.082000
 hat	-	-	-	0:10:03.209000	0:10:04.082000
 oder	-	-	-	0:10:04.082000	0:10:07.044000
@@ -2237,11 +2237,11 @@ anderen	-	-	-	0:10:04.082000	0:10:07.044000
 Bundesland	-	-	-	0:10:04.082000	0:10:07.044000
 kommt	-	-	-	0:10:04.082000	0:10:07.044000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:07.044000" end="0:10:07.412000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:07.044000" end="0:10:07.412000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:07.044000	0:10:07.412000
 .	-	-	-	0:10:07.044000	0:10:07.412000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:07.412000" end="0:10:17.193000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:07.412000" end="0:10:17.193000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:10:07.412000	0:10:13.831000
 wenn	-	-	-	0:10:07.412000	0:10:13.831000
 ich	-	-	-	0:10:07.412000	0:10:13.831000
@@ -2262,11 +2262,11 @@ bin	-	-	-	0:10:15.961000	0:10:16.551000
 auf	-	-	-	0:10:16.551000	0:10:17.193000
 Ämtern	-	-	-	0:10:16.551000	0:10:17.193000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:17.193000" end="0:10:17.721000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:17.193000" end="0:10:17.721000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:10:17.193000	0:10:17.721000
 .	-	-	-	0:10:17.193000	0:10:17.721000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:17.193000" end="0:10:20.735000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:17.193000" end="0:10:20.735000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 bin	-	-	-	0:10:17.193000	0:10:17.721000
 ,	-	-	-	0:10:17.193000	0:10:17.721000
 ähm	-	-	-	0:10:17.721000	0:10:20.735000
@@ -2277,11 +2277,11 @@ wir	-	-	-	0:10:17.721000	0:10:20.735000
 es	-	-	-	0:10:17.721000	0:10:20.735000
 formale	-	-	-	0:10:17.721000	0:10:20.735000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:20.735000" end="0:10:21.402000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:20.735000" end="0:10:21.402000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:10:20.735000	0:10:21.402000
 .	-	-	-	0:10:20.735000	0:10:21.402000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:20.735000" end="0:10:26.801000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:20.735000" end="0:10:26.801000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Situationen	-	-	-	0:10:20.735000	0:10:21.402000
 ,	-	-	-	0:10:20.735000	0:10:21.402000
 wenn	-	-	-	0:10:21.402000	0:10:22.682000
@@ -2304,16 +2304,16 @@ ich	-	-	-	0:10:25.067000	0:10:26.801000
 Steyrlingerisch	-	-	-	0:10:25.067000	0:10:26.801000
 eher	-	-	-	0:10:25.067000	0:10:26.801000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:26.801000" end="0:10:27.783000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:26.801000" end="0:10:27.783000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:10:26.801000	0:10:27.783000
 .	-	-	-	0:10:26.801000	0:10:27.783000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:26.801000" end="0:10:27.783000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:26.801000" end="0:10:27.783000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 unpassend	-	-	-	0:10:26.801000	0:10:27.783000
 .	-	-	-	0:10:26.801000	0:10:27.783000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:27.783000" end="0:10:35.090000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:27.783000" end="0:10:35.090000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,8s"/>
 was	-	-	-	0:10:29.567000	0:10:30.261000
 glauben	-	-	-	0:10:29.567000	0:10:30.261000
@@ -2334,7 +2334,7 @@ nicht	-	-	-	0:10:33.506000	0:10:35.090000
 sprechen	-	-	-	0:10:33.506000	0:10:35.090000
 ?	-	-	-	0:10:33.506000	0:10:35.090000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:35.090000" end="0:10:41.624000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:35.090000" end="0:10:41.624000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ähm	-	-	-	0:10:37.024000	0:10:37.798000
 <pause duration="1,1s"/>
@@ -2347,7 +2347,7 @@ Frage	-	-	-	0:10:38.901000	0:10:41.624000
 jetzt	-	-	-	0:10:38.901000	0:10:41.624000
 /?	-	-	-	0:10:38.901000	0:10:41.624000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:41.624000" end="0:10:47.742000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:41.624000" end="0:10:47.742000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:10:41.624000	0:10:43.184000
 <pause duration="0,6s"/>
@@ -2367,7 +2367,7 @@ Steyrlingerisch	-	-	-	0:10:45.786000	0:10:47.742000
 mhm	-	-	-	0:10:45.786000	0:10:47.742000
 ,	-	-	-	0:10:45.786000	0:10:47.742000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:45.786000" end="0:10:47.742000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:45.786000" end="0:10:47.742000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:10:45.786000	0:10:47.742000
 so	-	-	-	0:10:45.786000	0:10:47.742000
 ,	-	-	-	0:10:45.786000	0:10:47.742000
@@ -2378,7 +2378,7 @@ ganz	-	-	-	0:10:45.786000	0:10:47.742000
 sympathisch	-	-	-	0:10:45.786000	0:10:47.742000
 .	-	-	-	0:10:45.786000	0:10:47.742000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:47.742000" end="0:10:51.100000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:47.742000" end="0:10:51.100000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:10:47.742000	0:10:48.264000
 ,	-	-	-	0:10:47.742000	0:10:48.264000
 d/	-	-	-	0:10:48.264000	0:10:50.246000
@@ -2389,16 +2389,16 @@ ich	-	-	-	0:10:48.264000	0:10:50.246000
 hinaus	-	-	-	0:10:50.246000	0:10:51.100000
 .	-	-	-	0:10:50.246000	0:10:51.100000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:50.246000" end="0:10:51.100000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:50.246000" end="0:10:51.100000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:10:50.246000	0:10:51.100000
 .	-	-	-	0:10:50.246000	0:10:51.100000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:51.100000" end="0:10:51.716000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:51.100000" end="0:10:51.716000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:10:51.100000	0:10:51.716000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:51.100000" end="0:10:51.716000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:51.100000" end="0:10:51.716000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:10:51.716000" end="0:10:57.404000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:10:51.716000" end="0:10:57.404000" persName="Informant EXP9" age_lower="" age_upper="999">
 eben	-	-	-	0:10:51.716000	0:10:52.165000
 ,	-	-	-	0:10:51.716000	0:10:52.165000
 wie	-	-	-	0:10:52.165000	0:10:53.063000
@@ -2418,7 +2418,7 @@ das	-	-	-	0:10:53.063000	0:10:57.404000
 Steyrlingerisch	-	-	-	0:10:53.063000	0:10:57.404000
 ?	-	-	-	0:10:53.063000	0:10:57.404000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:10:57.404000" end="0:11:05.925000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:10:57.404000" end="0:11:05.925000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,9s"/>
 ja	-	-	-	0:11:04.345000	0:11:05.178000
 eigentlich	-	-	-	0:11:04.345000	0:11:05.178000
@@ -2429,7 +2429,7 @@ dort	-	-	-	0:11:05.178000	0:11:05.925000
 wohnen	-	-	-	0:11:05.178000	0:11:05.925000
 ,	-	-	-	0:11:05.178000	0:11:05.925000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:05.925000" end="0:11:07.995000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:05.925000" end="0:11:07.995000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:05.925000	0:11:06.333000
 ,	-	-	-	0:11:05.925000	0:11:06.333000
 ohne	-	-	-	0:11:06.333000	0:11:07.995000
@@ -2438,16 +2438,16 @@ Ausnahm/	-	-	-	0:11:06.333000	0:11:07.995000
 okay	-	-	-	0:11:06.333000	0:11:07.995000
 .	-	-	-	0:11:06.333000	0:11:07.995000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:06.333000" end="0:11:07.995000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:06.333000" end="0:11:07.995000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 außer	-	-	-	0:11:06.333000	0:11:07.995000
 /.	-	-	-	0:11:06.333000	0:11:07.995000
 nein	-	-	-	0:11:06.333000	0:11:07.995000
 nein	-	-	-	0:11:06.333000	0:11:07.995000
 ,	-	-	-	0:11:06.333000	0:11:07.995000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:07.995000" end="0:11:09.493000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:07.995000" end="0:11:09.493000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:07.995000" end="0:11:12.169000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:07.995000" end="0:11:12.169000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:11:07.995000	0:11:09.493000
 es	-	-	-	0:11:07.995000	0:11:09.493000
 gibt	-	-	-	0:11:07.995000	0:11:09.493000
@@ -2462,11 +2462,11 @@ die	-	-	-	0:11:11.060000	0:11:12.169000
 halt	-	-	-	0:11:11.060000	0:11:12.169000
 zugezogen	-	-	-	0:11:11.060000	0:11:12.169000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:12.169000" end="0:11:13.031000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:12.169000" end="0:11:13.031000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:12.169000	0:11:13.031000
 .	-	-	-	0:11:12.169000	0:11:13.031000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:12.169000" end="0:11:22.932000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:12.169000" end="0:11:22.932000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sind	-	-	-	0:11:12.169000	0:11:13.031000
 ,	-	-	-	0:11:12.169000	0:11:13.031000
 oder	-	-	-	0:11:12.169000	0:11:13.031000
@@ -2497,11 +2497,11 @@ und	-	-	-	0:11:20.584000	0:11:22.932000
 waren	-	-	-	0:11:20.584000	0:11:22.932000
 ,	-	-	-	0:11:20.584000	0:11:22.932000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:22.932000" end="0:11:23.582000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:22.932000" end="0:11:23.582000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:22.932000	0:11:23.582000
 .	-	-	-	0:11:22.932000	0:11:23.582000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:23.582000" end="0:11:32.725000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:23.582000" end="0:11:32.725000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:11:23.582000	0:11:26.604000
 <pause duration="0,5s"/>
 sprechen	-	-	-	0:11:23.582000	0:11:26.604000
@@ -2526,17 +2526,17 @@ da	-	-	-	0:11:31.996000	0:11:32.725000
 spricht	-	-	-	0:11:31.996000	0:11:32.725000
 echt	-	-	-	0:11:31.996000	0:11:32.725000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:32.725000" end="0:11:33.773000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:32.725000" end="0:11:33.773000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:11:32.725000	0:11:33.773000
 .	-	-	-	0:11:32.725000	0:11:33.773000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:33.773000" end="0:11:35.131000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:33.773000" end="0:11:35.131000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 jeder	-	-	-	0:11:33.773000	0:11:35.131000
 Steyrlingerisch	-	-	-	0:11:33.773000	0:11:35.131000
 .	-	-	-	0:11:33.773000	0:11:35.131000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:35.131000" end="0:11:37.919000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:35.131000" end="0:11:37.919000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:11:35.131000	0:11:36.004000
 wie	-	-	-	0:11:35.131000	0:11:36.004000
 würden	-	-	-	0:11:35.131000	0:11:36.004000
@@ -2552,7 +2552,7 @@ zugezogen	-	-	-	0:11:36.769000	0:11:37.919000
 sind	-	-	-	0:11:36.769000	0:11:37.919000
 ?	-	-	-	0:11:36.769000	0:11:37.919000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:37.919000" end="0:11:42.734000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:37.919000" end="0:11:42.734000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 naja	-	-	-	0:11:39.577000	0:11:40.293000
 so	-	-	-	0:11:39.577000	0:11:40.293000
@@ -2566,13 +2566,13 @@ vorher	-	-	-	0:11:40.293000	0:11:42.554000
 hatten	-	-	-	0:11:40.293000	0:11:42.554000
 oder	-	-	-	0:11:42.554000	0:11:42.734000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:42.734000" end="0:11:43.843000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:42.734000" end="0:11:43.843000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:11:42.734000	0:11:43.843000
 ,	-	-	-	0:11:42.734000	0:11:43.843000
 mhm	-	-	-	0:11:42.734000	0:11:43.843000
 .	-	-	-	0:11:42.734000	0:11:43.843000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:42.734000" end="0:11:45.205000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:42.734000" end="0:11:45.205000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wenn	-	-	-	0:11:42.734000	0:11:43.843000
 sie	-	-	-	0:11:42.734000	0:11:43.843000
 keinen	-	-	-	0:11:42.734000	0:11:43.843000
@@ -2584,12 +2584,12 @@ halt	-	-	-	0:11:43.843000	0:11:45.205000
 in	-	-	-	0:11:43.843000	0:11:45.205000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:45.205000" end="0:11:46.107000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:45.205000" end="0:11:46.107000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:11:45.205000	0:11:46.107000
 .	-	-	-	0:11:45.205000	0:11:46.107000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:45.205000" end="0:11:47.205000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:45.205000" end="0:11:47.205000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Standardsprache	-	-	-	0:11:45.205000	0:11:46.107000
 oder	-	-	-	0:11:46.107000	0:11:46.545000
 /.	-	-	-	0:11:46.107000	0:11:46.545000
@@ -2597,7 +2597,7 @@ ja	-	-	-	0:11:46.545000	0:11:47.205000
 genau	-	-	-	0:11:46.545000	0:11:47.205000
 .	-	-	-	0:11:46.545000	0:11:47.205000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:47.205000" end="0:11:51.628000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:47.205000" end="0:11:51.628000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:11:47.205000	0:11:50.134000
 es	-	-	-	0:11:47.205000	0:11:50.134000
 gibt	-	-	-	0:11:47.205000	0:11:50.134000
@@ -2614,7 +2614,7 @@ Sie	-	-	-	0:11:50.134000	0:11:51.628000
 beobachten	-	-	-	0:11:50.134000	0:11:51.628000
 ?	-	-	-	0:11:50.134000	0:11:51.628000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:50.134000" end="0:11:54.407000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:50.134000" end="0:11:54.407000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 Annäherungen	-	-	-	0:11:50.134000	0:11:51.628000
 natürlich	-	-	-	0:11:51.628000	0:11:52.191000
@@ -2629,11 +2629,11 @@ so	-	-	-	0:11:52.191000	0:11:54.057000
 wie	-	-	-	0:11:54.057000	0:11:54.407000
 wir	-	-	-	0:11:54.057000	0:11:54.407000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:54.407000" end="0:11:55.110000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:54.407000" end="0:11:55.110000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:11:54.407000	0:11:55.110000
 .	-	-	-	0:11:54.407000	0:11:55.110000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:54.407000" end="0:11:55.540000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:54.407000" end="0:11:55.540000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:11:54.407000	0:11:55.110000
 halt	-	-	-	0:11:54.407000	0:11:55.110000
 sprechen	-	-	-	0:11:54.407000	0:11:55.110000
@@ -2642,7 +2642,7 @@ wie	-	-	-	0:11:55.110000	0:11:55.540000
 wir	-	-	-	0:11:55.110000	0:11:55.540000
 au/	-	-	-	0:11:55.110000	0:11:55.540000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:55.540000" end="0:11:56.354000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:55.540000" end="0:11:56.354000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:11:55.540000	0:11:55.763000
 heißt	-	-	-	0:11:55.540000	0:11:55.763000
 ,	-	-	-	0:11:55.540000	0:11:55.763000
@@ -2650,12 +2650,12 @@ Sie	-	-	-	0:11:55.763000	0:11:56.354000
 würden	-	-	-	0:11:55.763000	0:11:56.354000
 es	-	-	-	0:11:55.763000	0:11:56.354000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:55.763000" end="0:11:56.642000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:55.763000" end="0:11:56.642000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aufgewachsen	-	-	-	0:11:55.763000	0:11:56.354000
 sind	-	-	-	0:11:56.354000	0:11:56.642000
 .	-	-	-	0:11:56.354000	0:11:56.642000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:11:56.642000" end="0:11:59.932000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:11:56.642000" end="0:11:59.932000" persName="Informant EXP9" age_lower="" age_upper="999">
 auf	-	-	-	0:11:56.642000	0:11:59.081000
 jeden	-	-	-	0:11:56.642000	0:11:59.081000
 Fall	-	-	-	0:11:56.642000	0:11:59.081000
@@ -2669,19 +2669,19 @@ diese	-	-	-	0:11:59.081000	0:11:59.932000
 sprechen	-	-	-	0:11:59.081000	0:11:59.932000
 ?	-	-	-	0:11:59.081000	0:11:59.932000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:11:59.932000" end="0:12:01.348000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:11:59.932000" end="0:12:01.348000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 nicht	-	-	-	0:12:01.094000	0:12:01.348000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:01.348000" end="0:12:02.027000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:01.348000" end="0:12:02.027000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:01.348000	0:12:02.027000
 .	-	-	-	0:12:01.348000	0:12:02.027000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:01.348000" end="0:12:02.027000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:01.348000" end="0:12:02.027000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 unbedingt	-	-	-	0:12:01.348000	0:12:02.027000
 .	-	-	-	0:12:01.348000	0:12:02.027000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:02.027000" end="0:12:07.859000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:02.027000" end="0:12:07.859000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,9s"/>
 wie	-	-	-	0:12:04.901000	0:12:07.859000
 sehen	-	-	-	0:12:04.901000	0:12:07.859000
@@ -2694,7 +2694,7 @@ in	-	-	-	0:12:04.901000	0:12:07.859000
 Steyrling	-	-	-	0:12:04.901000	0:12:07.859000
 ?	-	-	-	0:12:04.901000	0:12:07.859000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:07.859000" end="0:12:15.192000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:07.859000" end="0:12:15.192000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 hm	-	-	-	0:12:10.813000	0:12:11.534000
 ich	-	-	-	0:12:10.813000	0:12:11.534000
@@ -2713,11 +2713,11 @@ und	-	-	-	0:12:14.516000	0:12:15.192000
 der	-	-	-	0:12:14.516000	0:12:15.192000
 bleibt	-	-	-	0:12:14.516000	0:12:15.192000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:15.192000" end="0:12:15.975000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:15.192000" end="0:12:15.975000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:15.192000	0:12:15.975000
 .	-	-	-	0:12:15.192000	0:12:15.975000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:15.192000" end="0:12:20.680000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:15.192000" end="0:12:20.680000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:12:15.192000	0:12:15.975000
 relativ	-	-	-	0:12:15.192000	0:12:15.975000
 stark	-	-	-	0:12:15.975000	0:12:16.516000
@@ -2735,23 +2735,23 @@ Lage	-	-	-	0:12:18.805000	0:12:20.459000
 weil	-	-	-	0:12:20.459000	0:12:20.680000
 wir	-	-	-	0:12:20.459000	0:12:20.680000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:20.680000" end="0:12:21.964000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:20.680000" end="0:12:21.964000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:12:20.680000	0:12:21.964000
 ,	-	-	-	0:12:20.680000	0:12:21.964000
 <pause duration="0,5s"/>
 mhm	-	-	-	0:12:20.680000	0:12:21.964000
 .	-	-	-	0:12:20.680000	0:12:21.964000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:20.680000" end="0:12:21.964000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:20.680000" end="0:12:21.964000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:12:20.680000	0:12:21.964000
 abgeschottet	-	-	-	0:12:20.680000	0:12:21.964000
 sind	-	-	-	0:12:20.680000	0:12:21.964000
 .	-	-	-	0:12:20.680000	0:12:21.964000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:21.964000" end="0:12:22.320000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:21.964000" end="0:12:22.320000" persName="Informant EXP9" age_lower="" age_upper="999">
 (?/)	-	-	-	0:12:21.964000	0:12:22.320000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:22.320000" end="0:12:38.397000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:22.320000" end="0:12:38.397000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:12:22.320000	0:12:24.746000
 <pause duration="1,3s"/>
@@ -2788,23 +2788,23 @@ eher	-	-	-	0:12:33.860000	0:12:38.397000
 an	-	-	-	0:12:33.860000	0:12:38.397000
 die	-	-	-	0:12:33.860000	0:12:38.397000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:38.397000" end="0:12:39.492000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:38.397000" end="0:12:39.492000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:12:38.397000	0:12:39.492000
 .	-	-	-	0:12:38.397000	0:12:39.492000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:38.397000" end="0:12:40.307000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:38.397000" end="0:12:40.307000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Standardsprache	-	-	-	0:12:38.397000	0:12:39.492000
 sich	-	-	-	0:12:38.397000	0:12:39.492000
 annähert	-	-	-	0:12:39.492000	0:12:40.307000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:40.307000" end="0:12:41.773000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:40.307000" end="0:12:41.773000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:12:40.307000	0:12:40.832000
 ,	-	-	-	0:12:40.307000	0:12:40.832000
 ja	-	-	-	0:12:40.832000	0:12:41.773000
 .	-	-	-	0:12:40.832000	0:12:41.773000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:40.832000" end="0:12:46.143000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:40.832000" end="0:12:46.143000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:12:40.832000	0:12:41.773000
 möglicherweise	-	-	-	0:12:41.773000	0:12:46.143000
 passiert	-	-	-	0:12:41.773000	0:12:46.143000
@@ -2818,11 +2818,11 @@ dem	-	-	-	0:12:41.773000	0:12:46.143000
 Steyrlingerischen	-	-	-	0:12:41.773000	0:12:46.143000
 ,	-	-	-	0:12:41.773000	0:12:46.143000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:46.143000" end="0:12:46.613000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:46.143000" end="0:12:46.613000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:46.143000	0:12:46.613000
 .	-	-	-	0:12:46.143000	0:12:46.613000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:46.143000" end="0:12:50.924000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:46.143000" end="0:12:50.924000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gerade	-	-	-	0:12:46.143000	0:12:46.613000
 so	-	-	-	0:12:46.143000	0:12:46.613000
 bei	-	-	-	0:12:46.613000	0:12:48.729000
@@ -2842,11 +2842,11 @@ so	-	-	-	0:12:50.138000	0:12:50.924000
 keiner	-	-	-	0:12:50.138000	0:12:50.924000
 versteht	-	-	-	0:12:50.138000	0:12:50.924000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:12:50.924000" end="0:12:51.426000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:12:50.924000" end="0:12:51.426000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:12:50.924000	0:12:51.426000
 .	-	-	-	0:12:50.924000	0:12:51.426000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:12:50.924000" end="0:13:00.195000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:12:50.924000" end="0:13:00.195000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:12:50.924000	0:12:51.426000
 was	-	-	-	0:12:50.924000	0:12:51.426000
 halt	-	-	-	0:12:50.924000	0:12:51.426000
@@ -2885,15 +2885,15 @@ der	-	-	-	0:12:56.431000	0:13:00.195000
 Dialekt	-	-	-	0:12:56.431000	0:13:00.195000
 sicher	-	-	-	0:12:56.431000	0:13:00.195000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:00.195000" end="0:13:00.942000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:00.195000" end="0:13:00.942000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:00.195000	0:13:00.942000
 ,	-	-	-	0:13:00.195000	0:13:00.942000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:00.195000" end="0:13:00.942000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:00.195000" end="0:13:00.942000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 beibehalten	-	-	-	0:13:00.195000	0:13:00.942000
 .	-	-	-	0:13:00.195000	0:13:00.942000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:00.942000" end="0:13:09.154000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:00.942000" end="0:13:09.154000" persName="Informant EXP9" age_lower="" age_upper="999">
 jetzt	-	-	-	0:13:00.942000	0:13:01.790000
 muss	-	-	-	0:13:00.942000	0:13:01.790000
 ich	-	-	-	0:13:00.942000	0:13:01.790000
@@ -2920,7 +2920,7 @@ weitergegeben	-	-	-	0:13:05.651000	0:13:09.154000
 wird	-	-	-	0:13:05.651000	0:13:09.154000
 ?	-	-	-	0:13:05.651000	0:13:09.154000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:09.154000" end="0:13:22.334000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:09.154000" end="0:13:22.334000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 hm	-	-	-	0:13:10.794000	0:13:11.683000
 <pause duration="6,5s"/>
@@ -2934,13 +2934,13 @@ oder	-	-	-	0:13:18.148000	0:13:22.334000
 sowas	-	-	-	0:13:18.148000	0:13:22.334000
 ,	-	-	-	0:13:18.148000	0:13:22.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:22.334000" end="0:13:23.505000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:22.334000" end="0:13:23.505000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:22.334000	0:13:23.505000
 ,	-	-	-	0:13:22.334000	0:13:23.505000
 für	-	-	-	0:13:22.334000	0:13:23.505000
 ?	-	-	-	0:13:22.334000	0:13:23.505000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:22.334000" end="0:13:27.552000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:22.334000" end="0:13:27.552000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:13:22.334000	0:13:23.505000
 das	-	-	-	0:13:22.334000	0:13:23.505000
 sind	-	-	-	0:13:22.334000	0:13:23.505000
@@ -2958,21 +2958,21 @@ wie	-	-	-	0:13:24.078000	0:13:27.552000
 oder	-	-	-	0:13:24.078000	0:13:27.552000
 "hinter"	-	-	-	0:13:24.078000	0:13:27.552000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:27.552000" end="0:13:28.233000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:27.552000" end="0:13:28.233000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:13:27.552000	0:13:28.233000
 ,	-	-	-	0:13:27.552000	0:13:28.233000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:27.552000" end="0:13:28.233000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:27.552000" end="0:13:28.233000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "hinter(e)"	-	-	-	0:13:27.552000	0:13:28.233000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:28.233000" end="0:13:31.405000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:28.233000" end="0:13:31.405000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:28.233000	0:13:28.837000
 ,	-	-	-	0:13:28.233000	0:13:28.837000
 <pause duration="1,3s"/>
 spannend	-	-	-	0:13:30.157000	0:13:30.835000
 .	-	-	-	0:13:30.157000	0:13:30.835000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:30.835000" end="0:13:37.347000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:30.835000" end="0:13:37.347000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:13:30.835000	0:13:31.405000
 und	-	-	-	0:13:31.405000	0:13:37.347000
 "_eanta_"	-	-	-	0:13:31.405000	0:13:37.347000
@@ -2986,11 +2986,11 @@ wie	-	-	-	0:13:31.405000	0:13:37.347000
 "eher"	-	-	-	0:13:31.405000	0:13:37.347000
 ,	-	-	-	0:13:31.405000	0:13:37.347000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:37.347000" end="0:13:37.985000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:37.347000" end="0:13:37.985000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:13:37.347000	0:13:37.985000
 .	-	-	-	0:13:37.347000	0:13:37.985000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:37.985000" end="0:13:43.012000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:37.985000" end="0:13:43.012000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:13:37.985000	0:13:39.374000
 <pause duration="1,3s"/>
@@ -3006,13 +3006,13 @@ e/	-	-	-	0:13:41.535000	0:13:43.012000
 ja	-	-	-	0:13:41.535000	0:13:43.012000
 "eher"	-	-	-	0:13:41.535000	0:13:43.012000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:43.012000" end="0:13:43.459000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:43.012000" end="0:13:43.459000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:43.012000" end="0:13:43.459000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:43.012000" end="0:13:43.459000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (halt)	-	-	-	0:13:43.012000	0:13:43.459000
 .	-	-	-	0:13:43.012000	0:13:43.459000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:13:43.459000" end="0:13:56.606000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:13:43.459000" end="0:13:56.606000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:13:43.459000	0:13:43.925000
 ,	-	-	-	0:13:43.459000	0:13:43.925000
 <pause duration="0,7s"/>
@@ -3061,7 +3061,7 @@ Orte	-	-	-	0:13:53.075000	0:13:56.606000
 genauso	-	-	-	0:13:53.075000	0:13:56.606000
 ?	-	-	-	0:13:53.075000	0:13:56.606000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:13:56.606000" end="0:14:00.607000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:13:56.606000" end="0:14:00.607000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ich	-	-	-	0:13:56.606000	0:13:57.769000
 glaube	-	-	-	0:13:56.606000	0:13:57.769000
@@ -3081,11 +3081,11 @@ bei	-	-	-	0:14:00.014000	0:14:00.607000
 uns	-	-	-	0:14:00.014000	0:14:00.607000
 ,	-	-	-	0:14:00.014000	0:14:00.607000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:00.607000" end="0:14:00.921000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:00.607000" end="0:14:00.921000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:14:00.607000	0:14:00.921000
 .	-	-	-	0:14:00.607000	0:14:00.921000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:00.607000" end="0:14:17.822000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:00.607000" end="0:14:17.822000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 zu	-	-	-	0:14:00.607000	0:14:00.921000
 tun	-	-	-	0:14:00.607000	0:14:00.921000
 hat	-	-	-	0:14:00.921000	0:14:01.216000
@@ -3131,21 +3131,21 @@ leben	-	-	-	0:14:13.572000	0:14:16.360000
 abseits	-	-	-	0:14:16.360000	0:14:17.822000
 von	-	-	-	0:14:16.360000	0:14:17.822000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:17.822000" end="0:14:18.467000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:17.822000" end="0:14:18.467000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:17.822000	0:14:18.467000
 ,	-	-	-	0:14:17.822000	0:14:18.467000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:17.822000" end="0:14:19.665000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:17.822000" end="0:14:19.665000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 einer	-	-	-	0:14:17.822000	0:14:18.467000
 größeren	-	-	-	0:14:18.467000	0:14:19.665000
 Stadt	-	-	-	0:14:18.467000	0:14:19.665000
 oder	-	-	-	0:14:18.467000	0:14:19.665000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:19.665000" end="0:14:20.352000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:19.665000" end="0:14:20.352000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:14:19.665000	0:14:20.352000
 .	-	-	-	0:14:19.665000	0:14:20.352000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:19.665000" end="0:14:43.426000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:19.665000" end="0:14:43.426000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 vom	-	-	-	0:14:19.665000	0:14:20.352000
 urbanen	-	-	-	0:14:19.665000	0:14:20.352000
 Raum	-	-	-	0:14:20.352000	0:14:20.737000
@@ -3212,11 +3212,11 @@ immer	-	-	-	0:14:41.925000	0:14:43.426000
 weniger	-	-	-	0:14:41.925000	0:14:43.426000
 ,	-	-	-	0:14:41.925000	0:14:43.426000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:43.426000" end="0:14:43.905000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:43.426000" end="0:14:43.905000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:14:43.426000	0:14:43.905000
 .	-	-	-	0:14:43.426000	0:14:43.905000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:43.426000" end="0:14:46.974000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:43.426000" end="0:14:46.974000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:14:43.426000	0:14:43.905000
 <pause duration="1,2s"/>
 ich	-	-	-	0:14:45.136000	0:14:45.512000
@@ -3228,7 +3228,7 @@ jetzt	-	-	-	0:14:45.512000	0:14:46.974000
 meine	-	-	-	0:14:45.512000	0:14:46.974000
 persönliche	-	-	-	0:14:45.512000	0:14:46.974000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:46.974000" end="0:14:48.756000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:46.974000" end="0:14:48.756000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:14:46.974000	0:14:48.756000
 ,	-	-	-	0:14:46.974000	0:14:48.756000
 aber	-	-	-	0:14:46.974000	0:14:48.756000
@@ -3236,7 +3236,7 @@ es	-	-	-	0:14:46.974000	0:14:48.756000
 es	-	-	-	0:14:46.974000	0:14:48.756000
 geht	-	-	-	0:14:46.974000	0:14:48.756000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:46.974000" end="0:14:48.756000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:46.974000" end="0:14:48.756000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:14:46.974000	0:14:48.756000
 ,	-	-	-	0:14:46.974000	0:14:48.756000
 was	-	-	-	0:14:46.974000	0:14:48.756000
@@ -3249,21 +3249,21 @@ halt	-	-	-	0:14:46.974000	0:14:48.756000
 denke	-	-	-	0:14:46.974000	0:14:48.756000
 .	-	-	-	0:14:46.974000	0:14:48.756000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:48.756000" end="0:14:50.437000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:48.756000" end="0:14:50.437000" persName="Informant EXP9" age_lower="" age_upper="999">
 auch	-	-	-	0:14:48.756000	0:14:49.217000
 um	-	-	-	0:14:48.756000	0:14:49.217000
 die	-	-	-	0:14:48.756000	0:14:49.217000
 persönliche	-	-	-	0:14:49.217000	0:14:50.437000
 Meinung	-	-	-	0:14:49.217000	0:14:50.437000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:49.217000" end="0:14:50.437000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:49.217000" end="0:14:50.437000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 okay	-	-	-	0:14:49.217000	0:14:50.437000
 ,	-	-	-	0:14:49.217000	0:14:50.437000
 passt	-	-	-	0:14:49.217000	0:14:50.437000
 .	-	-	-	0:14:49.217000	0:14:50.437000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:50.437000" end="0:14:53.976000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:50.437000" end="0:14:53.976000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:14:50.437000	0:14:52.615000
 <pause duration="0,9s"/>
 um	-	-	-	0:14:50.437000	0:14:52.615000
@@ -3276,11 +3276,11 @@ kann	-	-	-	0:14:52.615000	0:14:53.976000
 überhaupt	-	-	-	0:14:52.615000	0:14:53.976000
 nicht	-	-	-	0:14:52.615000	0:14:53.976000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:14:52.615000" end="0:14:53.976000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:14:52.615000" end="0:14:53.976000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 passt	-	-	-	0:14:52.615000	0:14:53.976000
 .	-	-	-	0:14:52.615000	0:14:53.976000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:14:53.976000" end="0:15:03.083000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:14:53.976000" end="0:15:03.083000" persName="Informant EXP9" age_lower="" age_upper="999">
 falsch	-	-	-	0:14:53.976000	0:14:55.342000
 sein	-	-	-	0:14:53.976000	0:14:55.342000
 .	-	-	-	0:14:53.976000	0:14:55.342000
@@ -3308,22 +3308,22 @@ diese	-	-	-	0:15:02.016000	0:15:03.083000
 sprechen	-	-	-	0:15:02.016000	0:15:03.083000
 ?	-	-	-	0:15:02.016000	0:15:03.083000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:03.083000" end="0:15:07.187000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:03.083000" end="0:15:07.187000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 eine	-	-	-	0:15:04.875000	0:15:07.187000
 Standardvariation	-	-	-	0:15:04.875000	0:15:07.187000
 vom	-	-	-	0:15:04.875000	0:15:07.187000
 vom	-	-	-	0:15:04.875000	0:15:07.187000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:07.187000" end="0:15:08.299000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:07.187000" end="0:15:08.299000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:07.187000	0:15:08.299000
 .	-	-	-	0:15:07.187000	0:15:08.299000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:07.187000" end="0:15:08.299000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:07.187000" end="0:15:08.299000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Österreichischen	-	-	-	0:15:07.187000	0:15:08.299000
 .	-	-	-	0:15:07.187000	0:15:08.299000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:08.299000" end="0:15:23.046000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:08.299000" end="0:15:23.046000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="12,0s"/>
 fallen	-	-	-	0:15:20.327000	0:15:22.061000
 Ihnen	-	-	-	0:15:20.327000	0:15:22.061000
@@ -3337,35 +3337,35 @@ so	-	-	-	0:15:22.061000	0:15:23.046000
 spricht	-	-	-	0:15:22.061000	0:15:23.046000
 ?	-	-	-	0:15:22.061000	0:15:23.046000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:23.046000" end="0:15:26.971000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:23.046000" end="0:15:26.971000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 ähm	-	-	-	0:15:25.644000	0:15:26.971000
 Unirektoren	-	-	-	0:15:25.644000	0:15:26.971000
 zum	-	-	-	0:15:25.644000	0:15:26.971000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:26.971000" end="0:15:27.944000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:26.971000" end="0:15:27.944000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:26.971000	0:15:27.944000
 .	-	-	-	0:15:26.971000	0:15:27.944000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:26.971000" end="0:15:28.729000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:26.971000" end="0:15:28.729000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:15:26.971000	0:15:27.944000
 ,	-	-	-	0:15:26.971000	0:15:27.944000
 ähm	-	-	-	0:15:27.944000	0:15:28.729000
 Unirektoren	-	-	-	0:15:27.944000	0:15:28.729000
 ,	-	-	-	0:15:27.944000	0:15:28.729000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:28.729000" end="0:15:29.671000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:28.729000" end="0:15:29.671000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	0:15:28.729000	0:15:29.671000
 .	-	-	-	0:15:28.729000	0:15:29.671000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:28.729000" end="0:15:29.671000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:28.729000" end="0:15:29.671000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Uniprofessoren	-	-	-	0:15:28.729000	0:15:29.671000
 ,	-	-	-	0:15:28.729000	0:15:29.671000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:29.671000" end="0:15:31.891000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:29.671000" end="0:15:31.891000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:29.671000" end="0:15:34.154000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:29.671000" end="0:15:34.154000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 der	-	-	-	0:15:29.671000	0:15:31.891000
 der	-	-	-	0:15:29.671000	0:15:31.891000
 Unirektor	-	-	-	0:15:29.671000	0:15:31.891000
@@ -3376,19 +3376,19 @@ auch	-	-	-	0:15:29.671000	0:15:31.891000
 Politiker	-	-	-	0:15:33.321000	0:15:34.154000
 ,	-	-	-	0:15:33.321000	0:15:34.154000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:34.154000" end="0:15:34.800000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:34.154000" end="0:15:34.800000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:15:34.154000	0:15:34.800000
 ,	-	-	-	0:15:34.154000	0:15:34.800000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:34.154000" end="0:15:35.078000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:34.154000" end="0:15:35.078000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:15:34.154000	0:15:34.800000
 alle	-	-	-	0:15:34.800000	0:15:35.078000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:35.078000" end="0:15:35.818000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:35.078000" end="0:15:35.818000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:35.078000	0:15:35.818000
 .	-	-	-	0:15:35.078000	0:15:35.818000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:35.078000" end="0:15:41.627000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:35.078000" end="0:15:41.627000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Politiker	-	-	-	0:15:35.078000	0:15:35.818000
 ,	-	-	-	0:15:35.078000	0:15:35.818000
 aber	-	-	-	0:15:35.818000	0:15:37.613000
@@ -3402,11 +3402,11 @@ allem	-	-	-	0:15:38.942000	0:15:41.627000
 Nationalpolitiker	-	-	-	0:15:38.942000	0:15:41.627000
 .	-	-	-	0:15:38.942000	0:15:41.627000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:41.627000" end="0:15:42.099000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:41.627000" end="0:15:42.099000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:41.627000	0:15:42.099000
 .	-	-	-	0:15:41.627000	0:15:42.099000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:42.099000" end="0:15:53.915000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:42.099000" end="0:15:53.915000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:15:42.099000	0:15:43.823000
 wer	-	-	-	0:15:43.823000	0:15:45.003000
@@ -3425,17 +3425,17 @@ erzogen	-	-	-	0:15:52.705000	0:15:53.915000
 wurde	-	-	-	0:15:52.705000	0:15:53.915000
 .	-	-	-	0:15:52.705000	0:15:53.915000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:53.915000" end="0:15:54.856000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:53.915000" end="0:15:54.856000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:53.915000" end="0:15:54.856000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:53.915000" end="0:15:54.856000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:54.856000" end="0:15:56.216000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:54.856000" end="0:15:56.216000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:15:54.856000	0:15:55.236000
 ,	-	-	-	0:15:54.856000	0:15:55.236000
 spannend	-	-	-	0:15:55.236000	0:15:56.216000
 .	-	-	-	0:15:55.236000	0:15:56.216000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:55.236000" end="0:15:57.285000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:55.236000" end="0:15:57.285000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (aber	-	-	-	0:15:55.236000	0:15:56.216000
 /.)	-	-	-	0:15:55.236000	0:15:56.216000
 ja	-	-	-	0:15:56.216000	0:15:57.285000
@@ -3446,15 +3446,15 @@ wohnt	-	-	-	0:15:56.216000	0:15:57.285000
 nicht	-	-	-	0:15:56.216000	0:15:57.285000
 in	-	-	-	0:15:56.216000	0:15:57.285000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:57.285000" end="0:15:58.580000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:57.285000" end="0:15:58.580000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:15:57.285000	0:15:58.580000
 .	-	-	-	0:15:57.285000	0:15:58.580000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:15:57.285000" end="0:15:58.580000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:15:57.285000" end="0:15:58.580000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Steyrling	-	-	-	0:15:57.285000	0:15:58.580000
 .	-	-	-	0:15:57.285000	0:15:58.580000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:15:58.580000" end="0:16:00.901000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:15:58.580000" end="0:16:00.901000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 aber	-	-	-	0:15:58.580000	0:16:00.901000
 auch	-	-	-	0:15:58.580000	0:16:00.901000
@@ -3463,25 +3463,25 @@ am	-	-	-	0:15:58.580000	0:16:00.901000
 Land	-	-	-	0:15:58.580000	0:16:00.901000
 ?	-	-	-	0:15:58.580000	0:16:00.901000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:00.901000" end="0:16:01.420000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:00.901000" end="0:16:01.420000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auch	-	-	-	0:16:00.901000	0:16:01.420000
 am	-	-	-	0:16:00.901000	0:16:01.420000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:01.420000" end="0:16:02.074000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:01.420000" end="0:16:02.074000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:16:01.420000	0:16:02.074000
 ,	-	-	-	0:16:01.420000	0:16:02.074000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:01.420000" end="0:16:02.074000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:01.420000" end="0:16:02.074000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Land	-	-	-	0:16:01.420000	0:16:02.074000
 ,	-	-	-	0:16:01.420000	0:16:02.074000
 ja	-	-	-	0:16:01.420000	0:16:02.074000
 .	-	-	-	0:16:01.420000	0:16:02.074000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:02.074000" end="0:16:03.667000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:02.074000" end="0:16:03.667000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:02.074000	0:16:02.466000
 .	-	-	-	0:16:02.074000	0:16:02.466000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:03.667000" end="0:16:07.501000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:03.667000" end="0:16:07.501000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:16:03.667000	0:16:04.872000
 ihre	-	-	-	0:16:03.667000	0:16:04.872000
 Mutter	-	-	-	0:16:03.667000	0:16:04.872000
@@ -3497,12 +3497,12 @@ das	-	-	-	0:16:06.462000	0:16:07.501000
 vielleicht	-	-	-	0:16:06.462000	0:16:07.501000
 .	-	-	-	0:16:06.462000	0:16:07.501000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:07.501000" end="0:16:08.540000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:07.501000" end="0:16:08.540000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:16:07.501000	0:16:08.540000
 .	-	-	-	0:16:07.501000	0:16:08.540000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:08.540000" end="0:16:15.775000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:08.540000" end="0:16:15.775000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:16:08.540000	0:16:09.122000
 wollte	-	-	-	0:16:08.540000	0:16:09.122000
 halt	-	-	-	0:16:08.540000	0:16:09.122000
@@ -3522,11 +3522,11 @@ Standard((0,8s))deutsch	-	-	-	0:16:11.317000	0:16:15.775000
 spricht	-	-	-	0:16:11.317000	0:16:15.775000
 .	-	-	-	0:16:11.317000	0:16:15.775000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:15.775000" end="0:16:16.291000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:15.775000" end="0:16:16.291000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:15.775000	0:16:16.291000
 .	-	-	-	0:16:15.775000	0:16:16.291000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:16.291000" end="0:16:21.105000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:16.291000" end="0:16:21.105000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ansonsten	-	-	-	0:16:16.291000	0:16:18.199000
 /.	-	-	-	0:16:16.291000	0:16:18.199000
@@ -3538,7 +3538,7 @@ es	-	-	-	0:16:20.032000	0:16:21.105000
 eigentlich	-	-	-	0:16:20.032000	0:16:21.105000
 .	-	-	-	0:16:20.032000	0:16:21.105000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:21.105000" end="0:16:35.111000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:21.105000" end="0:16:35.111000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:16:21.105000	0:16:21.918000
 .	-	-	-	0:16:21.105000	0:16:21.918000
 <pause duration="2,8s"/>
@@ -3575,17 +3575,17 @@ diese	-	-	-	0:16:33.956000	0:16:34.374000
 sprechen	-	-	-	0:16:34.374000	0:16:35.111000
 ?	-	-	-	0:16:34.374000	0:16:35.111000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:34.374000" end="0:16:35.111000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:34.374000" end="0:16:35.111000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:16:34.374000	0:16:35.111000
 .	-	-	-	0:16:34.374000	0:16:35.111000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:35.111000" end="0:16:38.336000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:35.111000" end="0:16:38.336000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:35.111000" end="0:16:38.336000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:35.111000" end="0:16:38.336000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:38.336000" end="0:16:41.282000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:38.336000" end="0:16:41.282000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sie	-	-	-	0:16:38.336000	0:16:39.390000
 haben	-	-	-	0:16:38.336000	0:16:39.390000
 ja	-	-	-	0:16:38.336000	0:16:39.390000
@@ -3605,11 +3605,11 @@ bin	-	-	-	0:16:40.818000	0:16:41.282000
 mir	-	-	-	0:16:40.818000	0:16:41.282000
 aber	-	-	-	0:16:40.818000	0:16:41.282000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:40.818000" end="0:16:41.282000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:40.818000" end="0:16:41.282000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:16:40.818000	0:16:41.282000
 .	-	-	-	0:16:40.818000	0:16:41.282000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:41.282000" end="0:16:43.778000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:41.282000" end="0:16:43.778000" persName="Informant EXP9" age_lower="" age_upper="999">
 unsicher	-	-	-	0:16:41.282000	0:16:41.751000
 ,	-	-	-	0:16:41.282000	0:16:41.751000
 ob	-	-	-	0:16:41.751000	0:16:43.117000
@@ -3620,7 +3620,7 @@ aufgeschrieben	-	-	-	0:16:41.751000	0:16:43.117000
 habe	-	-	-	0:16:41.751000	0:16:43.117000
 .	-	-	-	0:16:41.751000	0:16:43.117000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:43.117000" end="0:16:47.214000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:43.117000" end="0:16:47.214000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:16:43.117000	0:16:43.778000
 so	-	-	-	0:16:43.117000	0:16:43.778000
 ,	-	-	-	0:16:43.117000	0:16:43.778000
@@ -3635,7 +3635,7 @@ vom	-	-	-	0:16:43.778000	0:16:47.214000
 Österreichischen	-	-	-	0:16:43.778000	0:16:47.214000
 ?	-	-	-	0:16:43.778000	0:16:47.214000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:47.214000" end="0:16:50.171000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:47.214000" end="0:16:50.171000" persName="Informant EXP9" age_lower="" age_upper="999">
 gut	-	-	-	0:16:47.214000	0:16:47.655000
 ,	-	-	-	0:16:47.214000	0:16:47.655000
 danke	-	-	-	0:16:47.655000	0:16:48.551000
@@ -3643,7 +3643,7 @@ danke	-	-	-	0:16:47.655000	0:16:48.551000
 Entschuldigung	-	-	-	0:16:48.551000	0:16:50.171000
 .	-	-	-	0:16:48.551000	0:16:50.171000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:48.551000" end="0:16:50.954000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:48.551000" end="0:16:50.954000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:16:50.171000	0:16:50.954000
 nein	-	-	-	0:16:50.171000	0:16:50.954000
 ,	-	-	-	0:16:50.171000	0:16:50.954000
@@ -3652,26 +3652,26 @@ habe	-	-	-	0:16:50.171000	0:16:50.954000
 nur	-	-	-	0:16:50.171000	0:16:50.954000
 gedacht	-	-	-	0:16:50.171000	0:16:50.954000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:50.954000" end="0:16:52.386000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:50.954000" end="0:16:52.386000" persName="Informant EXP9" age_lower="" age_upper="999">
 nicht	-	-	-	0:16:50.954000	0:16:51.265000
 gut	-	-	-	0:16:50.954000	0:16:51.265000
 genug	-	-	-	0:16:51.265000	0:16:52.386000
 aufgepasst	-	-	-	0:16:51.265000	0:16:52.386000
 ,	-	-	-	0:16:51.265000	0:16:52.386000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:51.265000" end="0:16:52.386000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:51.265000" end="0:16:52.386000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (hm)	-	-	-	0:16:51.265000	0:16:52.386000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:52.386000" end="0:16:54.189000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:52.386000" end="0:16:54.189000" persName="Informant EXP9" age_lower="" age_upper="999">
 es	-	-	-	0:16:52.386000	0:16:53.158000
 war	-	-	-	0:16:52.386000	0:16:53.158000
 so	-	-	-	0:16:52.386000	0:16:53.158000
 lang	-	-	-	0:16:52.386000	0:16:53.158000
 .	-	-	-	0:16:52.386000	0:16:53.158000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:16:53.158000" end="0:16:54.189000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:16:53.158000" end="0:16:54.189000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:16:54.189000" end="0:17:01.346000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:16:54.189000" end="0:17:01.346000" persName="Informant EXP9" age_lower="" age_upper="999">
 halten	-	-	-	0:16:54.189000	0:16:58.446000
 Sie	-	-	-	0:16:54.189000	0:16:58.446000
 diese	-	-	-	0:16:54.189000	0:16:58.446000
@@ -3692,12 +3692,12 @@ den	-	-	-	0:16:59.638000	0:17:01.346000
 Nachrichten	-	-	-	0:16:59.638000	0:17:01.346000
 .	-	-	-	0:16:59.638000	0:17:01.346000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:01.346000" end="0:17:04.529000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:01.346000" end="0:17:04.529000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 durchaus	-	-	-	0:17:03.798000	0:17:04.529000
 .	-	-	-	0:17:03.798000	0:17:04.529000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:04.529000" end="0:17:07.201000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:04.529000" end="0:17:07.201000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:04.529000	0:17:04.944000
 ,	-	-	-	0:17:04.529000	0:17:04.944000
 was	-	-	-	0:17:04.944000	0:17:07.201000
@@ -3710,7 +3710,7 @@ eine	-	-	-	0:17:04.944000	0:17:07.201000
 Situation	-	-	-	0:17:04.944000	0:17:07.201000
 ?	-	-	-	0:17:04.944000	0:17:07.201000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:07.201000" end="0:17:15.815000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:07.201000" end="0:17:15.815000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ähm	-	-	-	0:17:08.391000	0:17:09.065000
 <pause duration="2,3s"/>
@@ -3732,11 +3732,11 @@ von	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK circum std s
 Menschen	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK circum std stdL+	0:17:12.444000	0:17:15.815000
 artikulieren	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK circum std stdL+	0:17:12.444000	0:17:15.815000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:15.815000" end="0:17:16.464000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:15.815000" end="0:17:16.464000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:15.815000	0:17:16.464000
 .	-	-	-	0:17:15.815000	0:17:16.464000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:15.815000" end="0:17:24.809000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:15.815000" end="0:17:24.809000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 möchte	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK circum std stdL+	0:17:15.815000	0:17:16.464000
 ,	-	-	-	0:17:15.815000	0:17:16.464000
 die	-	-	-	0:17:16.464000	0:17:19.271000
@@ -3761,11 +3761,11 @@ Uni	-	-	-	0:17:23.319000	0:17:24.809000
 auch	-	-	-	0:17:23.319000	0:17:24.809000
 .	-	-	-	0:17:23.319000	0:17:24.809000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:24.809000" end="0:17:25.605000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:24.809000" end="0:17:25.605000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:24.809000	0:17:25.605000
 .	-	-	-	0:17:24.809000	0:17:25.605000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:25.605000" end="0:17:32.951000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:25.605000" end="0:17:32.951000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 hm	-	-	-	0:17:27.001000	0:17:27.853000
 <pause duration="2,3s"/>
@@ -3782,11 +3782,11 @@ kennt	-	-	-	0:17:30.986000	0:17:32.579000
 mit	-	-	-	0:17:32.579000	0:17:32.951000
 denen	-	-	-	0:17:32.579000	0:17:32.951000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:32.951000" end="0:17:33.435000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:32.951000" end="0:17:33.435000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:17:32.951000	0:17:33.435000
 .	-	-	-	0:17:32.951000	0:17:33.435000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:32.951000" end="0:17:37.631000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:32.951000" end="0:17:37.631000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 man	-	-	-	0:17:32.951000	0:17:33.435000
 spricht	-	-	-	0:17:33.435000	0:17:33.870000
 ,	-	-	-	0:17:33.435000	0:17:33.870000
@@ -3809,11 +3809,11 @@ den	-	-	-	0:17:36.730000	0:17:37.631000
 Weg	-	-	-	0:17:36.730000	0:17:37.631000
 nicht	-	-	-	0:17:36.730000	0:17:37.631000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:37.631000" end="0:17:38.257000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:37.631000" end="0:17:38.257000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:37.631000	0:17:38.257000
 .	-	-	-	0:17:37.631000	0:17:38.257000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:37.631000" end="0:17:53.012000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:37.631000" end="0:17:53.012000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weiß	-	-	-	0:17:37.631000	0:17:38.257000
 oder	-	-	-	0:17:37.631000	0:17:38.257000
 weil	-	-	-	0:17:37.631000	0:17:38.257000
@@ -3856,11 +3856,11 @@ wie	-	-	-	0:17:52.246000	0:17:53.012000
 das	-	-	-	0:17:52.246000	0:17:53.012000
 Gegenüber	-	-	-	0:17:52.246000	0:17:53.012000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:53.012000" end="0:17:53.577000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:53.012000" end="0:17:53.577000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:53.012000	0:17:53.577000
 .	-	-	-	0:17:53.012000	0:17:53.577000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:53.012000" end="0:17:54.743000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:53.012000" end="0:17:54.743000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mich	-	-	-	0:17:53.012000	0:17:53.577000
 versteht	-	-	-	0:17:53.012000	0:17:53.577000
 und	-	-	-	0:17:53.577000	0:17:54.743000
@@ -3870,11 +3870,11 @@ man	-	-	-	0:17:53.577000	0:17:54.743000
 die	-	-	-	0:17:53.577000	0:17:54.743000
 höchste	-	-	-	0:17:53.577000	0:17:54.743000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:54.743000" end="0:17:55.345000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:54.743000" end="0:17:55.345000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:17:54.743000	0:17:55.345000
 .	-	-	-	0:17:54.743000	0:17:55.345000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:17:54.743000" end="0:17:56.828000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:17:54.743000" end="0:17:56.828000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Wahrscheinlichkeit	-	-	-	0:17:54.743000	0:17:55.345000
 ,	-	-	-	0:17:54.743000	0:17:55.345000
 dass	-	-	-	0:17:55.345000	0:17:56.828000
@@ -3884,7 +3884,7 @@ Gegenüber	-	-	-	0:17:55.345000	0:17:56.828000
 versteht	-	-	-	0:17:55.345000	0:17:56.828000
 .	-	-	-	0:17:55.345000	0:17:56.828000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:17:56.828000" end="0:18:03.760000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:17:56.828000" end="0:18:03.760000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:17:56.828000	0:17:57.132000
 .	-	-	-	0:17:56.828000	0:17:57.132000
 <pause duration="1,6s"/>
@@ -3902,7 +3902,7 @@ vom	-	-	-	0:17:58.714000	0:18:03.760000
 Österreichisch	-	-	-	0:17:58.714000	0:18:03.760000
 ?	-	-	-	0:17:58.714000	0:18:03.760000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:03.760000" end="0:18:07.185000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:03.760000" end="0:18:07.185000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 mit	-	-	-	0:18:06.238000	0:18:07.185000
 Skala	-	-	-	0:18:06.238000	0:18:07.185000
@@ -3910,12 +3910,12 @@ oder	-	-	-	0:18:06.238000	0:18:07.185000
 ohne	-	-	-	0:18:06.238000	0:18:07.185000
 ?	-	-	-	0:18:06.238000	0:18:07.185000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:07.185000" end="0:18:08.985000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:07.185000" end="0:18:08.985000" persName="Informant EXP9" age_lower="" age_upper="999">
 zuerst	-	-	-	0:18:07.185000	0:18:08.985000
 ohne	-	-	-	0:18:07.185000	0:18:08.985000
 .	-	-	-	0:18:07.185000	0:18:08.985000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:07.185000" end="0:18:15.172000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:07.185000" end="0:18:15.172000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 zuerst	-	-	-	0:18:07.185000	0:18:08.985000
 ohne	-	-	-	0:18:07.185000	0:18:08.985000
 .	-	-	-	0:18:07.185000	0:18:08.985000
@@ -3941,11 +3941,11 @@ die	-	-	-	0:18:13.883000	0:18:15.172000
 selbst	-	-	-	0:18:13.883000	0:18:15.172000
 Standardsprache	-	-	-	0:18:13.883000	0:18:15.172000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:15.172000" end="0:18:15.990000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:15.172000" end="0:18:15.990000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:18:15.172000	0:18:15.990000
 .	-	-	-	0:18:15.172000	0:18:15.990000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:15.172000" end="0:18:20.403000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:15.172000" end="0:18:20.403000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:18:15.172000	0:18:15.990000
 mir	-	-	-	0:18:15.172000	0:18:15.990000
 sprechen	-	-	-	0:18:15.172000	0:18:15.990000
@@ -3968,12 +3968,12 @@ die	-	-	-	0:18:19.426000	0:18:20.403000
 Dialekt	-	-	-	0:18:19.426000	0:18:20.403000
 mit	-	-	-	0:18:19.426000	0:18:20.403000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:20.403000" end="0:18:21.426000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:20.403000" end="0:18:21.426000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:20.403000	0:18:21.426000
 .	-	-	-	0:18:20.403000	0:18:21.426000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:20.403000" end="0:18:32.254000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:20.403000" end="0:18:32.254000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mir	-	-	-	0:18:20.403000	0:18:21.426000
 zurück	-	-	-	0:18:20.403000	0:18:21.426000
 sprechen	-	-	-	0:18:20.403000	0:18:21.426000
@@ -4006,7 +4006,7 @@ schönste	-	-	-	0:18:29.364000	0:18:32.254000
 Nachrichtensprecherdeutsch	-	-	-	0:18:29.364000	0:18:32.254000
 .	-	-	-	0:18:29.364000	0:18:32.254000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:32.254000" end="0:18:38.796000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:32.254000" end="0:18:38.796000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:18:32.254000	0:18:33.362000
 .	-	-	-	0:18:32.254000	0:18:33.362000
 genau	-	-	-	0:18:34.774000	0:18:35.161000
@@ -4024,7 +4024,7 @@ das	-	-	-	0:18:36.520000	0:18:38.796000
 beherrschen	-	-	-	0:18:36.520000	0:18:38.796000
 .	-	-	-	0:18:36.520000	0:18:38.796000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:38.796000" end="0:18:40.125000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:38.796000" end="0:18:40.125000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 na	-	-	-	0:18:38.796000	0:18:40.125000
 ich	-	-	-	0:18:38.796000	0:18:40.125000
 glaube	-	-	-	0:18:38.796000	0:18:40.125000
@@ -4032,7 +4032,7 @@ glaube	-	-	-	0:18:38.796000	0:18:40.125000
 so	-	-	-	0:18:38.796000	0:18:40.125000
 .	-	-	-	0:18:38.796000	0:18:40.125000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:18:40.125000" end="0:18:51.001000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:18:40.125000" end="0:18:51.001000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:18:40.125000	0:18:40.809000
 .	-	-	-	0:18:40.125000	0:18:40.809000
 <pause duration="0,8s"/>
@@ -4062,7 +4062,7 @@ der	-	-	-	0:18:45.369000	0:18:51.001000
 Nachrichtensprecher	-	-	-	0:18:45.369000	0:18:51.001000
 ?	-	-	-	0:18:45.369000	0:18:51.001000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:18:51.001000" end="0:19:08.480000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:18:51.001000" end="0:19:08.480000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:18:51.001000	0:19:04.362000
 die	-	-	-	0:18:51.001000	0:19:04.362000
@@ -4094,11 +4094,11 @@ Alltag	-	-	-	0:19:06.562000	0:19:08.480000
 häufiger	-	-	-	0:19:06.562000	0:19:08.480000
 Dialekt	-	-	-	0:19:06.562000	0:19:08.480000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:08.480000" end="0:19:09.199000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:08.480000" end="0:19:09.199000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:08.480000	0:19:09.199000
 .	-	-	-	0:19:08.480000	0:19:09.199000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:08.480000" end="0:19:18.077000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:08.480000" end="0:19:18.077000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 spreche	-	-	-	0:19:08.480000	0:19:09.199000
 ,	-	-	-	0:19:08.480000	0:19:09.199000
 ähm	-	-	-	0:19:09.199000	0:19:11.422000
@@ -4132,9 +4132,9 @@ ganz	-	-	-	0:19:16.624000	0:19:18.077000
 komisch	-	-	-	0:19:16.624000	0:19:18.077000
 an	-	-	-	0:19:16.624000	0:19:18.077000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:18.077000" end="0:19:18.986000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:18.077000" end="0:19:18.986000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:18.986000" end="0:19:27.041000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:18.986000" end="0:19:27.041000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:19:18.986000	0:19:20.163000
 /.	-	-	-	0:19:18.986000	0:19:20.163000
 ja	-	-	-	0:19:20.163000	0:19:20.789000
@@ -4163,9 +4163,9 @@ ihrer	-	-	-	0:19:22.925000	0:19:27.041000
 Ursprungsform	-	-	-	0:19:22.925000	0:19:27.041000
 raus	-	-	-	0:19:22.925000	0:19:27.041000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:27.041000" end="0:19:28.277000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:27.041000" end="0:19:28.277000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:27.041000" end="0:19:29.573000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:27.041000" end="0:19:29.573000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:19:27.041000	0:19:28.277000
 dann	-	-	-	0:19:27.041000	0:19:28.277000
 schaut	-	-	-	0:19:27.041000	0:19:28.277000
@@ -4181,20 +4181,20 @@ ich	-	-	-	0:19:28.277000	0:19:29.081000
 nein	-	-	-	0:19:29.081000	0:19:29.573000
 !"	-	-	-	0:19:29.081000	0:19:29.573000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:29.573000" end="0:19:30.586000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:29.573000" end="0:19:30.586000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:29.573000" end="0:19:31.509000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:29.573000" end="0:19:31.509000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:19:30.586000	0:19:31.509000
 ,	-	-	-	0:19:30.586000	0:19:31.509000
 das	-	-	-	0:19:30.586000	0:19:31.509000
 halt	-	-	-	0:19:30.586000	0:19:31.509000
 .	-	-	-	0:19:30.586000	0:19:31.509000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:31.509000" end="0:19:31.998000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:31.509000" end="0:19:31.998000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:19:31.509000	0:19:31.998000
 .	-	-	-	0:19:31.509000	0:19:31.998000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:31.509000" end="0:19:38.463000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:31.509000" end="0:19:38.463000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:19:31.509000	0:19:31.998000
 so	-	-	-	0:19:31.509000	0:19:31.998000
 so	-	-	-	0:19:31.998000	0:19:32.550000
@@ -4211,23 +4211,23 @@ wie	-	-	-	0:19:32.550000	0:19:38.463000
 "_zuwa_"	-	-	-	0:19:32.550000	0:19:38.463000
 ,	-	-	-	0:19:32.550000	0:19:38.463000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:38.463000" end="0:19:39.023000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:38.463000" end="0:19:39.023000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:19:38.463000	0:19:39.023000
 .	-	-	-	0:19:38.463000	0:19:39.023000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:38.463000" end="0:19:39.023000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:38.463000" end="0:19:39.023000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "_zuwi_"	-	-	-	0:19:38.463000	0:19:39.023000
 ,	-	-	-	0:19:38.463000	0:19:39.023000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:39.023000" end="0:19:40.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:39.023000" end="0:19:40.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:39.023000" end="0:19:40.752000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:39.023000" end="0:19:40.752000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:19:39.023000	0:19:40.752000
 .	-	-	-	0:19:39.023000	0:19:40.752000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:40.752000" end="0:19:48.048000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:40.752000" end="0:19:48.048000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 das	-	-	-	0:19:42.775000	0:19:43.435000
 sind	-	-	-	0:19:42.775000	0:19:43.435000
@@ -4252,14 +4252,14 @@ das	-	-	-	0:19:46.267000	0:19:48.048000
 so	-	-	-	0:19:46.267000	0:19:48.048000
 gut	-	-	-	0:19:46.267000	0:19:48.048000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:19:46.267000" end="0:19:48.048000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:19:46.267000" end="0:19:48.048000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:19:46.267000	0:19:48.048000
 ja	-	-	-	0:19:46.267000	0:19:48.048000
 ,	-	-	-	0:19:46.267000	0:19:48.048000
 wirklich	-	-	-	0:19:46.267000	0:19:48.048000
 .	-	-	-	0:19:46.267000	0:19:48.048000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:19:48.048000" end="0:20:00.108000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:19:48.048000" end="0:20:00.108000" persName="Informant EXP9" age_lower="" age_upper="999">
 nachvollziehen	-	-	-	0:19:48.048000	0:19:49.996000
 .	-	-	-	0:19:48.048000	0:19:49.996000
 <pause duration="2,0s"/>
@@ -4287,7 +4287,7 @@ vom	-	-	-	0:19:54.032000	0:20:00.108000
 Österreichisch	-	-	-	0:19:54.032000	0:20:00.108000
 ?	-	-	-	0:19:54.032000	0:20:00.108000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:00.108000" end="0:20:09.480000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:00.108000" end="0:20:09.480000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 hm	-	-	-	0:20:02.606000	0:20:03.430000
 <pause duration="2,3s"/>
@@ -4301,13 +4301,13 @@ mit	-	-	-	0:20:06.176000	0:20:09.480000
 <pause duration="0,5s"/>
 deutschen	-	-	-	0:20:06.176000	0:20:09.480000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:09.480000" end="0:20:10.618000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:09.480000" end="0:20:10.618000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:20:09.480000	0:20:10.618000
 ,	-	-	-	0:20:09.480000	0:20:10.618000
 mhm	-	-	-	0:20:09.480000	0:20:10.618000
 .	-	-	-	0:20:09.480000	0:20:10.618000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:09.480000" end="0:20:15.046000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:09.480000" end="0:20:15.046000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Urspr/	-	-	-	0:20:09.480000	0:20:10.618000
 /.	-	-	-	0:20:09.480000	0:20:10.618000
 also	-	-	-	0:20:09.480000	0:20:10.618000
@@ -4323,11 +4323,11 @@ Deutschland	-	-	-	0:20:10.619000	0:20:15.046000
 haben	-	-	-	0:20:10.619000	0:20:15.046000
 ,	-	-	-	0:20:10.619000	0:20:15.046000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:15.046000" end="0:20:15.558000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:15.046000" end="0:20:15.558000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:15.046000	0:20:15.558000
 .	-	-	-	0:20:15.046000	0:20:15.558000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:15.558000" end="0:20:18.429000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:15.558000" end="0:20:18.429000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 die	-	-	-	0:20:16.734000	0:20:18.429000
 sprechen	-	-	-	0:20:16.734000	0:20:18.429000
@@ -4337,11 +4337,11 @@ ganz	-	-	-	0:20:16.734000	0:20:18.429000
 schön	-	-	-	0:20:16.734000	0:20:18.429000
 .	-	-	-	0:20:16.734000	0:20:18.429000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:18.429000" end="0:20:19.289000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:18.429000" end="0:20:19.289000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:18.429000	0:20:19.289000
 .	-	-	-	0:20:18.429000	0:20:19.289000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:19.289000" end="0:20:29.663000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:19.289000" end="0:20:29.663000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	-	-	-	0:20:20.414000	0:20:21.141000
 ja	-	-	-	0:20:20.414000	0:20:21.141000
@@ -4377,11 +4377,11 @@ bisschen	-	-	-	0:20:27.908000	0:20:29.663000
 österreichisch	-	-	-	0:20:27.908000	0:20:29.663000
 eingefärbt	-	-	-	0:20:27.908000	0:20:29.663000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:29.663000" end="0:20:30.396000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:29.663000" end="0:20:30.396000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:29.663000	0:20:30.396000
 .	-	-	-	0:20:29.663000	0:20:30.396000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:29.663000" end="0:20:32.532000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:29.663000" end="0:20:32.532000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:20:29.663000	0:20:30.396000
 ,	-	-	-	0:20:29.663000	0:20:30.396000
 die	-	-	-	0:20:30.396000	0:20:31.792000
@@ -4393,9 +4393,9 @@ wunderschön	-	-	-	0:20:30.396000	0:20:31.792000
 "sehr	-	-	-	0:20:31.792000	0:20:32.532000
 wun/	-	-	-	0:20:31.792000	0:20:32.532000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:32.532000" end="0:20:34.065000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:32.532000" end="0:20:34.065000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:32.532000" end="0:20:41.513000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:32.532000" end="0:20:41.513000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wunderschön"	-	-	-	0:20:32.532000	0:20:34.065000
 .	-	-	-	0:20:32.532000	0:20:34.065000
 und	-	-	-	0:20:34.065000	0:20:36.065000
@@ -4417,17 +4417,17 @@ recht	-	-	-	0:20:39.900000	0:20:41.513000
 schön	-	-	-	0:20:39.900000	0:20:41.513000
 ,	-	-	-	0:20:39.900000	0:20:41.513000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:41.513000" end="0:20:41.993000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:41.513000" end="0:20:41.993000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:20:41.513000	0:20:41.993000
 .	-	-	-	0:20:41.513000	0:20:41.993000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:41.993000" end="0:20:42.824000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:41.993000" end="0:20:42.824000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	0:20:41.993000	0:20:42.824000
 die	-	-	-	0:20:41.993000	0:20:42.824000
 sprechen	-	-	-	0:20:41.993000	0:20:42.824000
 .	-	-	-	0:20:41.993000	0:20:42.824000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:42.824000" end="0:20:45.978000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:42.824000" end="0:20:45.978000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:20:42.824000	0:20:44.830000
 wenn	-	-	-	0:20:42.824000	0:20:44.830000
 sie	-	-	-	0:20:42.824000	0:20:44.830000
@@ -4443,19 +4443,19 @@ es	-	-	-	0:20:44.830000	0:20:45.978000
 nennen	-	-	-	0:20:44.830000	0:20:45.978000
 ?	-	-	-	0:20:44.830000	0:20:45.978000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:45.978000" end="0:20:47.526000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:45.978000" end="0:20:47.526000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 was	-	-	-	0:20:46.975000	0:20:47.526000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:47.526000" end="0:20:48.089000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:47.526000" end="0:20:48.089000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:20:47.526000	0:20:48.089000
 /.	-	-	-	0:20:47.526000	0:20:48.089000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:47.526000" end="0:20:48.089000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:47.526000" end="0:20:48.089000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:20:47.526000	0:20:48.089000
 ?	-	-	-	0:20:47.526000	0:20:48.089000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:48.089000" end="0:20:52.167000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:48.089000" end="0:20:52.167000" persName="Informant EXP9" age_lower="" age_upper="999">
 dieses	-	-	-	0:20:48.089000	0:20:50.599000
 dieses	-	-	-	0:20:48.089000	0:20:50.599000
 Deutsch	-	-	-	0:20:48.089000	0:20:50.599000
@@ -4469,14 +4469,14 @@ sprechen	-	-	-	0:20:51.215000	0:20:52.167000
 die	-	-	-	0:20:51.215000	0:20:52.167000
 /.	-	-	-	0:20:51.215000	0:20:52.167000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:20:51.215000" end="0:20:52.167000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:20:51.215000" end="0:20:52.167000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:20:51.215000	0:20:52.167000
 so	-	-	-	0:20:51.215000	0:20:52.167000
 ,	-	-	-	0:20:51.215000	0:20:52.167000
 Hochdeutsch	-	-	-	0:20:51.215000	0:20:52.167000
 .	-	-	-	0:20:51.215000	0:20:52.167000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:20:52.167000" end="0:21:01.918000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:20:52.167000" end="0:21:01.918000" persName="Informant EXP9" age_lower="" age_upper="999">
 Hochdeutsch	-	-	-	0:20:52.167000	0:20:53.104000
 ,	-	-	-	0:20:52.167000	0:20:53.104000
 mhm	-	-	-	0:20:53.104000	0:20:53.474000
@@ -4491,7 +4491,7 @@ das	-	-	-	0:20:58.977000	0:21:01.918000
 Hochdeutsch	-	-	-	0:20:58.977000	0:21:01.918000
 ?	-	-	-	0:20:58.977000	0:21:01.918000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:01.918000" end="0:21:08.911000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:01.918000" end="0:21:08.911000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,9s"/>
 ähm	-	-	-	0:21:06.795000	0:21:07.667000
 zuerst	-	-	-	0:21:07.667000	0:21:08.911000
@@ -4500,26 +4500,26 @@ ohne	-	-	-	0:21:07.667000	0:21:08.911000
 Skala	-	-	-	0:21:07.667000	0:21:08.911000
 ,	-	-	-	0:21:07.667000	0:21:08.911000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:08.911000" end="0:21:09.270000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:08.911000" end="0:21:09.270000" persName="Informant EXP9" age_lower="" age_upper="999">
 (bitte)	-	-	-	0:21:08.911000	0:21:09.270000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:08.911000" end="0:21:09.270000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:08.911000" end="0:21:09.270000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gell	-	-	-	0:21:08.911000	0:21:09.270000
 ?	-	-	-	0:21:08.911000	0:21:09.270000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:09.270000" end="0:21:09.638000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:09.270000" end="0:21:09.638000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:09.270000" end="0:21:09.638000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:09.270000" end="0:21:09.638000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:21:09.270000	0:21:09.638000
 .	-	-	-	0:21:09.270000	0:21:09.638000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:09.638000" end="0:21:12.222000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:09.638000" end="0:21:12.222000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:10.571000" end="0:21:12.222000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:10.571000" end="0:21:12.222000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:12.222000" end="0:21:14.021000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:12.222000" end="0:21:14.021000" persName="Informant EXP9" age_lower="" age_upper="999">
 außer	-	-	-	0:21:12.222000	0:21:14.021000
 es	-	-	-	0:21:12.222000	0:21:14.021000
 ist	-	-	-	0:21:12.222000	0:21:14.021000
@@ -4529,7 +4529,7 @@ schwierig	-	-	-	0:21:12.222000	0:21:14.021000
 dann	-	-	-	0:21:12.222000	0:21:14.021000
 .	-	-	-	0:21:12.222000	0:21:14.021000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:14.021000" end="0:21:15.531000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:14.021000" end="0:21:15.531000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:21:14.021000	0:21:15.531000
 ,	-	-	-	0:21:14.021000	0:21:15.531000
 ich	-	-	-	0:21:14.021000	0:21:15.531000
@@ -4539,10 +4539,10 @@ kurz	-	-	-	0:21:14.021000	0:21:15.531000
 überlegen	-	-	-	0:21:14.021000	0:21:15.531000
 .	-	-	-	0:21:14.021000	0:21:15.531000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:15.531000" end="0:21:19.172000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:15.531000" end="0:21:19.172000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:16.049000" end="0:21:21.709000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:16.049000" end="0:21:21.709000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 also	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:21:19.172000	0:21:19.932000
 ich	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:21:19.172000	0:21:19.932000
@@ -4555,11 +4555,11 @@ allzu	-	-	-	0:21:19.932000	0:21:21.709000
 gut	-	-	-	0:21:19.932000	0:21:21.709000
 ,	-	-	-	0:21:19.932000	0:21:21.709000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:21.709000" end="0:21:22.518000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:21.709000" end="0:21:22.518000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:21:21.709000	0:21:22.518000
 .	-	-	-	0:21:21.709000	0:21:22.518000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:21.709000" end="0:21:30.015000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:21.709000" end="0:21:30.015000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:21:21.709000	0:21:22.518000
 so	-	-	-	0:21:21.709000	0:21:22.518000
 richtiges	-	-	-	0:21:22.518000	0:21:28.513000
@@ -4577,11 +4577,11 @@ immer	-	-	-	0:21:28.513000	0:21:30.015000
 meinen	-	-	-	0:21:28.513000	0:21:30.015000
 Dialekt	-	-	-	0:21:28.513000	0:21:30.015000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:30.015000" end="0:21:30.764000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:30.015000" end="0:21:30.764000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:21:30.015000	0:21:30.764000
 ?	-	-	-	0:21:30.015000	0:21:30.764000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:30.015000" end="0:21:42.817000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:30.015000" end="0:21:42.817000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 an	-	-	-	0:21:30.015000	0:21:30.764000
 ,	-	-	-	0:21:30.015000	0:21:30.764000
 auch	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std stdL+ volitiv	0:21:30.015000	0:21:30.764000
@@ -4618,9 +4618,9 @@ Hochdeutsch	-	-	-	0:21:38.776000	0:21:42.817000
 spreche	-	-	-	0:21:38.776000	0:21:42.817000
 ,	-	-	-	0:21:38.776000	0:21:42.817000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:42.817000" end="0:21:43.958000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:42.817000" end="0:21:43.958000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:43.958000" end="0:21:55.858000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:43.958000" end="0:21:55.858000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:21:43.958000	0:21:45.331000
 sag/	-	-	-	0:21:43.958000	0:21:45.331000
 sagen	-	-	-	0:21:43.958000	0:21:45.331000
@@ -4666,23 +4666,23 @@ einschätzen	-	-	-	0:21:54.078000	0:21:55.858000
 oder	-	-	-	0:21:54.078000	0:21:55.858000
 /?	-	-	-	0:21:54.078000	0:21:55.858000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:55.858000" end="0:21:58.279000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:55.858000" end="0:21:58.279000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:21:55.858000	0:21:56.441000
 <pause duration="1,2s"/>
 ist	-	-	-	0:21:57.623000	0:21:58.279000
 absolut	-	-	-	0:21:57.623000	0:21:58.279000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:57.623000" end="0:21:58.279000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:57.623000" end="0:21:58.279000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:21:57.623000	0:21:58.279000
 .	-	-	-	0:21:57.623000	0:21:58.279000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:58.279000" end="0:21:59.708000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:58.279000" end="0:21:59.708000" persName="Informant EXP9" age_lower="" age_upper="999">
 ausreichend	-	-	-	0:21:58.279000	0:21:59.708000
 .	-	-	-	0:21:58.279000	0:21:59.708000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:21:58.279000" end="0:21:59.708000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:21:58.279000" end="0:21:59.708000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:21:59.708000" end="0:22:11.388000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:21:59.708000" end="0:22:11.388000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:21:59.708000	0:22:02.222000
 und	-	-	-	0:21:59.708000	0:22:02.222000
 jetzt	-	-	-	0:21:59.708000	0:22:02.222000
@@ -4716,7 +4716,7 @@ vom	-	-	-	0:22:03.694000	0:22:11.388000
 Österreichischen	-	-	-	0:22:03.694000	0:22:11.388000
 ?	-	-	-	0:22:03.694000	0:22:11.388000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:11.388000" end="0:22:17.527000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:11.388000" end="0:22:17.527000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 naja	-	-	-	0:22:13.819000	0:22:14.489000
 ,	-	-	-	0:22:13.819000	0:22:14.489000
@@ -4724,21 +4724,21 @@ naja	-	-	-	0:22:13.819000	0:22:14.489000
 die	-	-	-	0:22:15.472000	0:22:17.527000
 Dialektfärbung	-	-	-	0:22:15.472000	0:22:17.527000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:17.527000" end="0:22:18.229000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:17.527000" end="0:22:18.229000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:17.527000	0:22:18.229000
 ,	-	-	-	0:22:17.527000	0:22:18.229000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:18.229000" end="0:22:19.916000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:18.229000" end="0:22:19.916000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 fällt	-	-	-	0:22:18.229000	0:22:19.916000
 meistens	-	-	-	0:22:18.229000	0:22:19.916000
 weg	-	-	-	0:22:18.229000	0:22:19.916000
 .	-	-	-	0:22:18.229000	0:22:19.916000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:19.916000" end="0:22:20.667000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:19.916000" end="0:22:20.667000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:19.916000	0:22:20.667000
 .	-	-	-	0:22:19.916000	0:22:20.667000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:20.667000" end="0:22:34.562000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:20.667000" end="0:22:34.562000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:22:21.733000	0:22:24.422000
 die	-	-	-	0:22:21.733000	0:22:24.422000
@@ -4769,18 +4769,18 @@ einer	-	-	-	0:22:31.671000	0:22:34.562000
 Sprecherausbildung	-	-	-	0:22:31.671000	0:22:34.562000
 .	-	-	-	0:22:31.671000	0:22:34.562000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:34.562000" end="0:22:35.034000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:34.562000" end="0:22:35.034000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:22:34.562000	0:22:35.034000
 ,	-	-	-	0:22:34.562000	0:22:35.034000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:34.562000" end="0:22:35.034000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:34.562000" end="0:22:35.034000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:22:34.562000	0:22:35.034000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:35.034000" end="0:22:35.464000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:35.034000" end="0:22:35.464000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:35.034000	0:22:35.464000
 .	-	-	-	0:22:35.034000	0:22:35.464000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:35.464000" end="0:22:40.841000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:35.464000" end="0:22:40.841000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 jetzt	-	-	-	0:22:35.464000	0:22:36.778000
 nicht	-	-	-	0:22:35.464000	0:22:36.778000
@@ -4795,11 +4795,11 @@ die	-	-	-	0:22:38.709000	0:22:40.841000
 Artikulation	-	-	-	0:22:38.709000	0:22:40.841000
 und	-	-	-	0:22:38.709000	0:22:40.841000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:40.841000" end="0:22:41.273000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:40.841000" end="0:22:41.273000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:22:40.841000	0:22:41.273000
 .	-	-	-	0:22:40.841000	0:22:41.273000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:41.273000" end="0:22:52.864000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:41.273000" end="0:22:52.864000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wie	-	-	-	0:22:41.273000	0:22:41.914000
 /.	-	-	-	0:22:41.273000	0:22:41.914000
 ah	-	-	-	0:22:41.914000	0:22:42.629000
@@ -4839,28 +4839,28 @@ du	-	-	-	0:22:52.377000	0:22:52.864000
 dir	-	-	-	0:22:52.377000	0:22:52.864000
 ein	-	-	-	0:22:52.377000	0:22:52.864000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:52.864000" end="0:22:53.819000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:52.864000" end="0:22:53.819000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:22:52.864000	0:22:53.819000
 ,	-	-	-	0:22:52.864000	0:22:53.819000
 mhm	-	-	-	0:22:52.864000	0:22:53.819000
 ,	-	-	-	0:22:52.864000	0:22:53.819000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:52.864000" end="0:22:53.819000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:52.864000" end="0:22:53.819000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Hörbuch	-	-	-	0:22:52.864000	0:22:53.819000
 anhörst	-	-	-	0:22:52.864000	0:22:53.819000
 .	-	-	-	0:22:52.864000	0:22:53.819000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:53.819000" end="0:22:54.789000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:53.819000" end="0:22:54.789000" persName="Informant EXP9" age_lower="" age_upper="999">
 spannend	-	-	-	0:22:53.819000	0:22:54.369000
 ,	-	-	-	0:22:53.819000	0:22:54.369000
 ja	-	-	-	0:22:54.369000	0:22:54.789000
 .	-	-	-	0:22:54.369000	0:22:54.789000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:54.369000" end="0:22:54.789000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:54.369000" end="0:22:54.789000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:22:54.369000	0:22:54.789000
 .	-	-	-	0:22:54.369000	0:22:54.789000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:22:54.789000" end="0:22:59.778000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:22:54.789000" end="0:22:59.778000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,7s"/>
 wie	-	-	-	0:22:56.461000	0:22:59.778000
 bezeichnen	-	-	-	0:22:56.461000	0:22:59.778000
@@ -4873,7 +4873,7 @@ gesprochenen	-	-	-	0:22:56.461000	0:22:59.778000
 Deutsch	-	-	-	0:22:56.461000	0:22:59.778000
 ?	-	-	-	0:22:56.461000	0:22:59.778000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:22:59.778000" end="0:23:16.598000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:22:59.778000" end="0:23:16.598000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="9,8s"/>
 ähm	-	-	-	0:23:09.543000	0:23:10.383000
 <pause duration="3,4s"/>
@@ -4895,7 +4895,7 @@ bezeichnet	-	-	-	0:23:15.095000	0:23:16.598000
 habe	-	-	-	0:23:15.095000	0:23:16.598000
 ?	-	-	-	0:23:15.095000	0:23:16.598000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:16.598000" end="0:23:24.436000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:16.598000" end="0:23:24.436000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:23:16.598000	0:23:23.555000
 Hochdeutsch	-	-	-	0:23:16.598000	0:23:23.555000
 war	-	-	-	0:23:16.598000	0:23:23.555000
@@ -4915,7 +4915,7 @@ vom	-	-	-	0:23:16.598000	0:23:23.555000
 weggegangen	-	-	-	0:23:23.555000	0:23:24.436000
 .	-	-	-	0:23:23.555000	0:23:24.436000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:23.555000" end="0:23:27.415000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:23.555000" end="0:23:27.415000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oh	-	-	-	0:23:23.555000	0:23:24.436000
 ,	-	-	-	0:23:23.555000	0:23:24.436000
 <pause duration="0,8s"/>
@@ -4933,14 +4933,14 @@ mehr	-	-	-	0:23:26.155000	0:23:27.415000
 möglich	-	-	-	0:23:26.155000	0:23:27.415000
 ?	-	-	-	0:23:26.155000	0:23:27.415000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:27.415000" end="0:23:28.754000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:27.415000" end="0:23:28.754000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:23:27.415000	0:23:28.754000
 ist	-	-	-	0:23:27.415000	0:23:28.754000
 natürlich	-	-	-	0:23:27.415000	0:23:28.754000
 möglich	-	-	-	0:23:27.415000	0:23:28.754000
 .	-	-	-	0:23:27.415000	0:23:28.754000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:28.754000" end="0:23:31.164000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:28.754000" end="0:23:31.164000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 okay	-	-	-	0:23:28.754000	0:23:29.117000
 ,	-	-	-	0:23:28.754000	0:23:29.117000
 weil	-	-	-	0:23:29.117000	0:23:30.227000
@@ -4956,11 +4956,11 @@ ist	-	-	-	0:23:30.227000	0:23:31.164000
 die	-	-	-	0:23:30.227000	0:23:31.164000
 reinste	-	-	-	0:23:30.227000	0:23:31.164000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:31.164000" end="0:23:31.778000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:31.164000" end="0:23:31.778000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:31.164000	0:23:31.778000
 .	-	-	-	0:23:31.164000	0:23:31.778000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:31.164000" end="0:23:36.061000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:31.164000" end="0:23:36.061000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Form	-	-	-	0:23:31.164000	0:23:31.778000
 ,	-	-	-	0:23:31.164000	0:23:31.778000
 <pause duration="0,5s"/>
@@ -4979,18 +4979,18 @@ vom	-	-	-	0:23:33.293000	0:23:36.061000
 Hochdeutschen	-	-	-	0:23:33.293000	0:23:36.061000
 .	-	-	-	0:23:33.293000	0:23:36.061000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:36.061000" end="0:23:49.088000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:36.061000" end="0:23:49.088000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:23:36.061000	0:23:37.033000
 .	-	-	-	0:23:36.061000	0:23:37.033000
 <pause duration="11,5s"/>
 <pause duration="schreiben"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:49.088000" end="0:23:50.329000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:49.088000" end="0:23:50.329000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 sorry	-	-	-	0:23:49.088000	0:23:50.329000
 .	-	-	-	0:23:49.088000	0:23:50.329000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:50.329000" end="0:23:56.022000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:50.329000" end="0:23:56.022000" persName="Informant EXP9" age_lower="" age_upper="999">
 überhaupt	-	-	-	0:23:50.329000	0:23:52.223000
 kein	-	-	-	0:23:50.329000	0:23:52.223000
 Problem	-	-	-	0:23:50.329000	0:23:52.223000
@@ -5003,10 +5003,10 @@ dann	-	-	-	0:23:52.223000	0:23:54.412000
 ?	-	-	-	0:23:52.223000	0:23:54.412000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:54.412000" end="0:23:56.022000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:54.412000" end="0:23:56.022000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:23:56.022000" end="0:23:59.501000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:23:56.022000" end="0:23:59.501000" persName="Informant EXP9" age_lower="" age_upper="999">
 jetzt	-	-	-	0:23:56.022000	0:23:57.467000
 dieses	-	-	-	0:23:56.022000	0:23:57.467000
 Hochdeutsch	-	-	-	0:23:56.022000	0:23:57.467000
@@ -5019,7 +5019,7 @@ ist	-	-	-	0:23:57.931000	0:23:59.501000
 genau	-	-	-	0:23:57.931000	0:23:59.501000
 .	-	-	-	0:23:57.931000	0:23:59.501000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:23:57.931000" end="0:24:04.431000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:23:57.931000" end="0:24:04.431000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:23:57.931000	0:23:59.501000
 das	-	-	-	0:23:57.931000	0:23:59.501000
 perfekte	-	-	-	0:23:57.931000	0:23:59.501000
@@ -5036,11 +5036,11 @@ gar	-	-	-	0:24:03.931000	0:24:04.431000
 keiner	-	-	-	0:24:03.931000	0:24:04.431000
 so	-	-	-	0:24:03.931000	0:24:04.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:04.431000" end="0:24:05.371000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:04.431000" end="0:24:05.371000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:04.431000	0:24:05.371000
 .	-	-	-	0:24:04.431000	0:24:05.371000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:04.431000" end="0:24:12.387000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:04.431000" end="0:24:12.387000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 richtig	-	-	-	0:24:04.431000	0:24:05.371000
 .	-	-	-	0:24:04.431000	0:24:05.371000
 <pause duration="0,8s"/>
@@ -5061,11 +5061,11 @@ erreichen	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std st
 möchte	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std stdL+ volitiv	0:24:11.131000	0:24:12.387000
 ,	-	-	-	0:24:11.131000	0:24:12.387000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:12.387000" end="0:24:12.913000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:12.387000" end="0:24:12.913000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:12.387000	0:24:12.913000
 .	-	-	-	0:24:12.387000	0:24:12.913000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:12.387000" end="0:24:18.755000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:12.387000" end="0:24:18.755000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:24:12.387000	0:24:12.913000
 das	-	-	-	0:24:12.387000	0:24:12.913000
 halt	-	-	-	0:24:12.387000	0:24:12.913000
@@ -5092,11 +5092,11 @@ auch	-	-	-	0:24:17.715000	0:24:18.755000
 die	-	-	-	0:24:17.715000	0:24:18.755000
 Deutschen	-	-	-	0:24:17.715000	0:24:18.755000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:18.755000" end="0:24:19.546000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:18.755000" end="0:24:19.546000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:24:18.755000	0:24:19.546000
 .	-	-	-	0:24:18.755000	0:24:19.546000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:18.755000" end="0:24:28.244000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:18.755000" end="0:24:28.244000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:24:18.755000	0:24:19.546000
 und	-	-	-	0:24:18.755000	0:24:19.546000
 so	-	-	-	0:24:18.755000	0:24:19.546000
@@ -5118,11 +5118,11 @@ eine	-	-	-	0:24:20.621000	0:24:28.244000
 Norm	-	-	-	0:24:20.621000	0:24:28.244000
 ,	-	-	-	0:24:20.621000	0:24:28.244000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:28.244000" end="0:24:29.090000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:28.244000" end="0:24:29.090000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:28.244000	0:24:29.090000
 .	-	-	-	0:24:28.244000	0:24:29.090000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:28.244000" end="0:24:31.792000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:28.244000" end="0:24:31.792000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 an	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std stdL+ volitiv	0:24:28.244000	0:24:29.090000
 die	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std stdL+ volitiv	0:24:28.244000	0:24:29.090000
 sich	-	-	KForm KKon KKt KLaut KMark KONJ KVerb Kambig Ksynth MV ModK std stdL+ volitiv	0:24:28.244000	0:24:29.090000
@@ -5134,11 +5134,11 @@ die	-	-	-	0:24:30.998000	0:24:31.792000
 Hochdeutsch	-	-	-	0:24:30.998000	0:24:31.792000
 sprech/	-	-	-	0:24:30.998000	0:24:31.792000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:31.792000" end="0:24:32.203000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:31.792000" end="0:24:32.203000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:31.792000	0:24:32.203000
 .	-	-	-	0:24:31.792000	0:24:32.203000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:31.792000" end="0:24:35.913000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:31.792000" end="0:24:35.913000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:24:31.792000	0:24:32.203000
 sch/	-	-	-	0:24:31.792000	0:24:32.203000
 eine	-	-	-	0:24:31.792000	0:24:32.203000
@@ -5154,7 +5154,7 @@ dialektalisch	-	-	-	0:24:33.424000	0:24:35.913000
 gefärbt	-	-	-	0:24:33.424000	0:24:35.913000
 .	-	-	-	0:24:33.424000	0:24:35.913000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:35.913000" end="0:24:39.389000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:35.913000" end="0:24:39.389000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:35.913000	0:24:36.237000
 ,	-	-	-	0:24:35.913000	0:24:36.237000
 jetzt	-	-	-	0:24:36.237000	0:24:38.286000
@@ -5166,12 +5166,12 @@ wieder	-	-	-	0:24:36.237000	0:24:38.286000
 wie	-	-	-	0:24:38.286000	0:24:38.990000
 sehr	-	-	-	0:24:38.990000	0:24:39.389000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:38.990000" end="0:24:39.389000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:38.990000" end="0:24:39.389000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:24:38.990000	0:24:39.389000
 so	-	-	-	0:24:38.990000	0:24:39.389000
 .	-	-	-	0:24:38.990000	0:24:39.389000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:39.389000" end="0:24:41.973000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:39.389000" end="0:24:41.973000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sie	-	-	-	0:24:39.389000	0:24:41.973000
 sich	-	-	-	0:24:39.389000	0:24:41.973000
 da	-	-	-	0:24:39.389000	0:24:41.973000
@@ -5182,26 +5182,26 @@ dieses	-	-	-	0:24:39.389000	0:24:41.973000
 Hochdeutsch	-	-	-	0:24:39.389000	0:24:41.973000
 .	-	-	-	0:24:39.389000	0:24:41.973000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:41.973000" end="0:24:45.557000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:41.973000" end="0:24:45.557000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ähm	-	-	-	0:24:43.865000	0:24:45.557000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:45.557000" end="0:24:46.806000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:45.557000" end="0:24:46.806000" persName="Informant EXP9" age_lower="" age_upper="999">
 gern	-	-	-	0:24:45.557000	0:24:46.806000
 anhand	-	-	-	0:24:45.557000	0:24:46.806000
 der	-	-	-	0:24:45.557000	0:24:46.806000
 Skala	-	-	-	0:24:45.557000	0:24:46.806000
 .	-	-	-	0:24:45.557000	0:24:46.806000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:45.557000" end="0:24:46.806000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:45.557000" end="0:24:46.806000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nicht	-	-	-	0:24:45.557000	0:24:46.806000
 sehr	-	-	-	0:24:45.557000	0:24:46.806000
 .	-	-	-	0:24:45.557000	0:24:46.806000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:46.806000" end="0:24:47.557000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:46.806000" end="0:24:47.557000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:47.557000" end="0:24:50.359000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:47.557000" end="0:24:50.359000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ah	-	-	-	0:24:47.557000	0:24:48.379000
 so	-	-	-	0:24:47.557000	0:24:48.379000
@@ -5212,17 +5212,17 @@ okay	-	-	-	0:24:48.379000	0:24:48.901000
 <pause duration="0,9s"/>
 ähm	-	-	-	0:24:48.901000	0:24:50.359000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:50.359000" end="0:24:51.041000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:50.359000" end="0:24:51.041000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:24:50.359000	0:24:51.041000
 .	-	-	-	0:24:50.359000	0:24:51.041000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:24:51.041000" end="0:24:51.912000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:24:51.041000" end="0:24:51.912000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wirklich	-	-	-	0:24:51.041000	0:24:51.912000
 nicht	-	-	-	0:24:51.041000	0:24:51.912000
 sehr	-	-	-	0:24:51.041000	0:24:51.912000
 .	-	-	-	0:24:51.041000	0:24:51.912000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:24:51.912000" end="0:25:04.301000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:24:51.912000" end="0:25:04.301000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="4,2s"/>
 wie	-	-	-	0:24:56.078000	0:24:59.261000
 würden	-	-	-	0:24:56.078000	0:24:59.261000
@@ -5247,7 +5247,7 @@ nächsten	-	-	-	0:25:00.753000	0:25:04.301000
 kommt	-	-	-	0:25:00.753000	0:25:04.301000
 ?	-	-	-	0:25:00.753000	0:25:04.301000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:25:04.301000" end="0:25:13.344000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:25:04.301000" end="0:25:13.344000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,7s"/>
 hm	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:25:10.013000	0:25:13.344000
 ja	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:25:10.013000	0:25:13.344000
@@ -5261,7 +5261,7 @@ vom	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ s
 Österreichischen	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:25:10.013000	0:25:13.344000
 .	-	-	-	0:25:10.013000	0:25:13.344000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:13.344000" end="0:25:26.075000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:13.344000" end="0:25:26.075000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:25:13.344000	0:25:13.963000
 .	-	-	-	0:25:13.344000	0:25:13.963000
 <pause duration="9,2s"/>
@@ -5279,9 +5279,9 @@ ich	-	-	-	0:25:25.228000	0:25:26.075000
 aber	-	-	-	0:25:25.228000	0:25:26.075000
 noch	-	-	-	0:25:25.228000	0:25:26.075000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:25:25.228000" end="0:25:26.075000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:25:25.228000" end="0:25:26.075000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:25:26.075000" end="0:25:59.925000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:25:26.075000" end="0:25:59.925000" persName="Informant EXP9" age_lower="" age_upper="999">
 kurz	-	-	-	0:25:26.075000	0:25:27.950000
 was	-	-	-	0:25:26.075000	0:25:27.950000
 eintragen	-	-	-	0:25:26.075000	0:25:27.950000
@@ -5336,7 +5336,7 @@ das	-	-	-	0:25:57.423000	0:25:59.925000
 befindet	-	-	-	0:25:57.423000	0:25:59.925000
 .	-	-	-	0:25:57.423000	0:25:59.925000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:25:59.925000" end="0:26:07.994000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:25:59.925000" end="0:26:07.994000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,3s"/>
 okay	-	-	-	0:26:05.254000	0:26:05.806000
 ,	-	-	-	0:26:05.254000	0:26:05.806000
@@ -5351,11 +5351,11 @@ am	-	-	-	0:26:05.806000	0:26:07.994000
 Hochdeutschen	-	-	-	0:26:05.806000	0:26:07.994000
 ,	-	-	-	0:26:05.806000	0:26:07.994000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:07.994000" end="0:26:08.492000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:07.994000" end="0:26:08.492000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:26:07.994000	0:26:08.492000
 .	-	-	-	0:26:07.994000	0:26:08.492000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:08.492000" end="0:26:11.725000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:08.492000" end="0:26:11.725000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 aber	-	-	-	0:26:10.056000	0:26:11.725000
 es	-	-	-	0:26:10.056000	0:26:11.725000
@@ -5365,22 +5365,22 @@ nicht	-	-	-	0:26:10.056000	0:26:11.725000
 Hochdeutsch	-	-	-	0:26:10.056000	0:26:11.725000
 .	-	-	-	0:26:10.056000	0:26:11.725000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:11.725000" end="0:26:12.689000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:11.725000" end="0:26:12.689000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:12.689000" end="0:26:15.430000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:12.689000" end="0:26:15.430000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 also	-	-	-	0:26:13.787000	0:26:15.430000
 vielleicht	-	-	-	0:26:13.787000	0:26:15.430000
 hier	-	-	-	0:26:13.787000	0:26:15.430000
 .	-	-	-	0:26:13.787000	0:26:15.430000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:15.430000" end="0:26:16.784000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:15.430000" end="0:26:16.784000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:15.430000" end="0:26:16.784000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:15.430000" end="0:26:16.784000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:16.784000" end="0:26:27.238000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:16.784000" end="0:26:27.238000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:16.784000	0:26:17.231000
 .	-	-	-	0:26:16.784000	0:26:17.231000
 <pause duration="3,4s"/>
@@ -5404,17 +5404,17 @@ vom	-	-	-	0:26:23.063000	0:26:27.238000
 Österreichischen	-	-	-	0:26:23.063000	0:26:27.238000
 ?	-	-	-	0:26:23.063000	0:26:27.238000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:27.238000" end="0:26:30.731000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:27.238000" end="0:26:30.731000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 relativ	-	-	-	0:26:29.535000	0:26:30.731000
 häufig	-	-	-	0:26:29.535000	0:26:30.731000
 ,	-	-	-	0:26:29.535000	0:26:30.731000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:30.731000" end="0:26:31.450000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:30.731000" end="0:26:31.450000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:26:30.731000	0:26:31.450000
 .	-	-	-	0:26:30.731000	0:26:31.450000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:30.731000" end="0:26:32.484000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:30.731000" end="0:26:32.484000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:26:30.731000	0:26:31.450000
 ich	-	-	-	0:26:30.731000	0:26:31.450000
 das	-	-	-	0:26:30.731000	0:26:31.450000
@@ -5422,11 +5422,11 @@ in	-	-	-	0:26:31.450000	0:26:32.484000
 der	-	-	-	0:26:31.450000	0:26:32.484000
 Arbeit	-	-	-	0:26:31.450000	0:26:32.484000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:32.484000" end="0:26:33.325000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:32.484000" end="0:26:33.325000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:32.484000	0:26:33.325000
 .	-	-	-	0:26:32.484000	0:26:33.325000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:32.484000" end="0:26:37.547000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:32.484000" end="0:26:37.547000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 größtenteils	-	-	-	0:26:32.484000	0:26:33.325000
 spreche	-	-	-	0:26:33.325000	0:26:34.111000
 ,	-	-	-	0:26:33.325000	0:26:34.111000
@@ -5445,11 +5445,11 @@ Chefs	-	-	-	0:26:35.674000	0:26:36.908000
 mit	-	-	-	0:26:36.908000	0:26:37.547000
 meinen	-	-	-	0:26:36.908000	0:26:37.547000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:37.547000" end="0:26:38.760000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:37.547000" end="0:26:38.760000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:26:37.547000	0:26:38.760000
 .	-	-	-	0:26:37.547000	0:26:38.760000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:37.547000" end="0:26:45.829000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:37.547000" end="0:26:45.829000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Arbeitskollegen	-	-	-	0:26:37.547000	0:26:38.760000
 .	-	-	-	0:26:37.547000	0:26:38.760000
 auf	-	-	-	0:26:38.760000	0:26:40.120000
@@ -5476,11 +5476,11 @@ dass	-	-	-	0:26:45.182000	0:26:45.829000
 man	-	-	-	0:26:45.182000	0:26:45.829000
 halt	-	-	-	0:26:45.182000	0:26:45.829000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:45.829000" end="0:26:46.202000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:45.829000" end="0:26:46.202000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:45.829000	0:26:46.202000
 .	-	-	-	0:26:45.829000	0:26:46.202000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:46.202000" end="0:26:47.939000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:46.202000" end="0:26:47.939000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ein	-	-	-	0:26:46.202000	0:26:47.939000
 schönes	-	-	-	0:26:46.202000	0:26:47.939000
@@ -5488,13 +5488,13 @@ Deutsch	-	-	-	0:26:46.202000	0:26:47.939000
 spricht	-	-	-	0:26:46.202000	0:26:47.939000
 .	-	-	-	0:26:46.202000	0:26:47.939000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:47.939000" end="0:26:49.091000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:47.939000" end="0:26:49.091000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:47.939000" end="0:26:49.091000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:47.939000" end="0:26:49.091000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:49.091000" end="0:26:50.874000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:49.091000" end="0:26:50.874000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:26:49.091000	0:26:49.477000
 ,	-	-	-	0:26:49.091000	0:26:49.477000
 bitte	-	-	-	0:26:49.477000	0:26:50.874000
@@ -5502,12 +5502,12 @@ wieder	-	-	-	0:26:49.477000	0:26:50.874000
 eintragen	-	-	-	0:26:49.477000	0:26:50.874000
 .	-	-	-	0:26:49.477000	0:26:50.874000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:26:50.874000" end="0:26:58.102000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:26:50.874000" end="0:26:58.102000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 hm	-	-	-	0:26:53.082000	0:26:53.995000
 <pause duration="4,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:26:58.102000" end="0:27:18.323000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:26:58.102000" end="0:27:18.323000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:26:58.102000	0:26:58.512000
 .	-	-	-	0:26:58.102000	0:26:58.512000
 <pause duration="1,6s"/>
@@ -5567,7 +5567,7 @@ Personen	-	-	-	0:27:15.401000	0:27:18.323000
 gebunden	-	-	-	0:27:15.401000	0:27:18.323000
 ?	-	-	-	0:27:15.401000	0:27:18.323000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:27:18.323000" end="0:27:23.804000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:27:18.323000" end="0:27:23.804000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 das	-	-	-	0:27:21.201000	0:27:23.804000
 ist	-	-	-	0:27:21.201000	0:27:23.804000
@@ -5575,11 +5575,11 @@ ist	-	-	-	0:27:21.201000	0:27:23.804000
 an	-	-	-	0:27:21.201000	0:27:23.804000
 beides	-	-	-	0:27:21.201000	0:27:23.804000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:27:23.804000" end="0:27:25.740000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:27:23.804000" end="0:27:25.740000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:27:23.804000	0:27:25.740000
 .	-	-	-	0:27:23.804000	0:27:25.740000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:27:23.804000" end="0:28:00.352000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:27:23.804000" end="0:28:00.352000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gebunden	-	-	-	0:27:23.804000	0:27:25.740000
 ,	-	-	-	0:27:23.804000	0:27:25.740000
 an	-	-	-	0:27:23.804000	0:27:25.740000
@@ -5666,11 +5666,11 @@ mich	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV s
 alle	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:27:59.592000	0:28:00.352000
 nicht	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:27:59.592000	0:28:00.352000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:00.352000" end="0:28:01.020000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:00.352000" end="0:28:01.020000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:00.352000	0:28:01.020000
 .	-	-	-	0:28:00.352000	0:28:01.020000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:00.352000" end="0:28:16.414000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:00.352000" end="0:28:16.414000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 verstehen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi ModK VV circum stV std stdL+ würdeK	0:28:00.352000	0:28:01.020000
 ,	-	-	-	0:28:00.352000	0:28:01.020000
 <pause duration="0,6s"/>
@@ -5709,11 +5709,11 @@ professioneller	-	-	-	0:28:12.042000	0:28:15.832000
 wenn	-	-	-	0:28:15.832000	0:28:16.414000
 ich	-	-	-	0:28:15.832000	0:28:16.414000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:16.414000" end="0:28:16.880000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:16.414000" end="0:28:16.880000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:16.414000	0:28:16.880000
 .	-	-	-	0:28:16.414000	0:28:16.880000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:16.880000" end="0:28:25.842000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:16.880000" end="0:28:25.842000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:16.880000	0:28:19.970000
 sch/	-	-	-	0:28:16.880000	0:28:19.970000
 die	-	-	-	0:28:16.880000	0:28:19.970000
@@ -5747,11 +5747,11 @@ ich	-	-	-	0:28:25.249000	0:28:25.842000
 schon	-	-	-	0:28:25.249000	0:28:25.842000
 erwähnt	-	-	-	0:28:25.249000	0:28:25.842000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:25.842000" end="0:28:26.340000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:25.842000" end="0:28:26.340000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:25.842000	0:28:26.340000
 .	-	-	-	0:28:25.842000	0:28:26.340000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:25.842000" end="0:28:30.754000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:25.842000" end="0:28:30.754000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 habe	-	-	-	0:28:25.842000	0:28:26.340000
 ,	-	-	-	0:28:25.842000	0:28:26.340000
 aber	-	-	-	0:28:26.340000	0:28:29.512000
@@ -5766,11 +5766,11 @@ der	-	-	-	0:28:29.512000	0:28:30.754000
 Uni	-	-	-	0:28:29.512000	0:28:30.754000
 ,	-	-	-	0:28:29.512000	0:28:30.754000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:30.754000" end="0:28:32.241000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:30.754000" end="0:28:32.241000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 (mhm)	-	-	-	0:28:30.754000	0:28:32.241000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:30.754000" end="0:28:36.237000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:30.754000" end="0:28:36.237000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:28:30.754000	0:28:32.241000
 ortsbezogen	-	-	-	0:28:32.241000	0:28:33.166000
@@ -5785,11 +5785,11 @@ ja	-	-	-	0:28:35.678000	0:28:36.237000
 klar	-	-	-	0:28:35.678000	0:28:36.237000
 .	-	-	-	0:28:35.678000	0:28:36.237000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:36.237000" end="0:28:36.723000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:36.237000" end="0:28:36.723000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:28:36.237000	0:28:36.723000
 .	-	-	-	0:28:36.237000	0:28:36.723000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:36.723000" end="0:28:39.071000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:36.723000" end="0:28:39.071000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:36.723000	0:28:38.639000
 auch	-	-	-	0:28:36.723000	0:28:38.639000
 wenn	-	-	-	0:28:36.723000	0:28:38.639000
@@ -5802,11 +5802,11 @@ ja	-	-	-	0:28:38.639000	0:28:39.071000
 klar	-	-	-	0:28:38.639000	0:28:39.071000
 ,	-	-	-	0:28:38.639000	0:28:39.071000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:39.071000" end="0:28:39.535000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:39.071000" end="0:28:39.535000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:39.071000	0:28:39.535000
 .	-	-	-	0:28:39.071000	0:28:39.535000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:39.071000" end="0:28:41.783000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:39.071000" end="0:28:41.783000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:28:39.071000	0:28:39.535000
 spreche	-	-	-	0:28:39.071000	0:28:39.535000
 ich	-	-	-	0:28:39.071000	0:28:39.535000
@@ -5817,18 +5817,18 @@ scht/	-	-	-	0:28:39.535000	0:28:41.783000
 Standardsprache	-	-	-	0:28:39.535000	0:28:41.783000
 ,	-	-	-	0:28:39.535000	0:28:41.783000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:41.783000" end="0:28:42.650000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:41.783000" end="0:28:42.650000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:28:41.783000	0:28:42.650000
 wie	-	-	-	0:28:41.783000	0:28:42.650000
 schaut	-	-	-	0:28:41.783000	0:28:42.650000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:41.783000" end="0:28:42.650000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:41.783000" end="0:28:42.650000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 genau	-	-	-	0:28:41.783000	0:28:42.650000
 .	-	-	-	0:28:41.783000	0:28:42.650000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:42.650000" end="0:28:54.116000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:42.650000" end="0:28:54.116000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:28:42.650000	0:28:43.913000
 in	-	-	-	0:28:42.650000	0:28:43.913000
 Steyrling	-	-	-	0:28:42.650000	0:28:43.913000
@@ -5864,7 +5864,7 @@ von	-	-	-	0:28:51.988000	0:28:54.116000
 Österreichisch	-	-	-	0:28:51.988000	0:28:54.116000
 .	-	-	-	0:28:51.988000	0:28:54.116000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:51.988000" end="0:28:54.942000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:51.988000" end="0:28:54.942000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:51.988000	0:28:54.116000
 klar	-	-	-	0:28:51.988000	0:28:54.116000
 ,	-	-	-	0:28:51.988000	0:28:54.116000
@@ -5877,11 +5877,11 @@ es	-	-	-	0:28:51.988000	0:28:54.116000
 kommen	-	-	-	0:28:54.116000	0:28:54.942000
 oft	-	-	-	0:28:54.116000	0:28:54.942000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:28:54.942000" end="0:28:55.476000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:28:54.942000" end="0:28:55.476000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:28:54.942000	0:28:55.476000
 .	-	-	-	0:28:54.942000	0:28:55.476000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:28:54.942000" end="0:29:08.409000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:28:54.942000" end="0:29:08.409000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:54.942000	0:28:55.476000
 Leute	-	-	-	0:28:55.476000	0:28:56.050000
 ,	-	-	-	0:28:55.476000	0:28:56.050000
@@ -5914,11 +5914,11 @@ anschauen	-	-	-	0:29:02.611000	0:29:08.409000
 wollen	-	-	-	0:29:02.611000	0:29:08.409000
 ,	-	-	-	0:29:02.611000	0:29:08.409000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:08.409000" end="0:29:08.675000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:08.409000" end="0:29:08.675000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:08.409000	0:29:08.675000
 .	-	-	-	0:29:08.409000	0:29:08.675000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:08.675000" end="0:29:16.581000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:08.675000" end="0:29:16.581000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	-	-	-	0:29:08.675000	0:29:11.097000
 die	-	-	-	0:29:08.675000	0:29:11.097000
@@ -5955,11 +5955,11 @@ Gasthaus	-	-	-	0:29:15.942000	0:29:16.581000
 ?"	-	-	-	0:29:15.942000	0:29:16.581000
 ,	-	-	-	0:29:15.942000	0:29:16.581000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:16.581000" end="0:29:17.162000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:16.581000" end="0:29:17.162000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:29:16.581000	0:29:17.162000
 .	-	-	-	0:29:16.581000	0:29:17.162000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:16.581000" end="0:29:22.063000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:16.581000" end="0:29:22.063000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 irgend	-	-	-	0:29:16.581000	0:29:17.162000
 sowas	-	-	-	0:29:16.581000	0:29:17.162000
 <pause duration="0,7s"/>
@@ -5978,27 +5978,27 @@ denen	-	-	-	0:29:20.376000	0:29:22.063000
 natürlich	-	-	-	0:29:20.376000	0:29:22.063000
 auch	-	-	-	0:29:20.376000	0:29:22.063000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:22.063000" end="0:29:23.164000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:22.063000" end="0:29:23.164000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:22.063000	0:29:23.164000
 ,	-	-	-	0:29:22.063000	0:29:23.164000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:22.063000" end="0:29:23.164000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:22.063000" end="0:29:23.164000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 eher	-	-	-	0:29:22.063000	0:29:23.164000
 Standardsprache	-	-	-	0:29:22.063000	0:29:23.164000
 ,	-	-	-	0:29:22.063000	0:29:23.164000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:23.164000" end="0:29:23.525000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:23.164000" end="0:29:23.525000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:29:23.164000	0:29:23.525000
 .	-	-	-	0:29:23.164000	0:29:23.525000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:23.525000" end="0:29:24.485000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:23.525000" end="0:29:24.485000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:29:23.525000	0:29:24.485000
 ich	-	-	-	0:29:23.525000	0:29:24.485000
 zumindest	-	-	-	0:29:23.525000	0:29:24.485000
 .	-	-	-	0:29:23.525000	0:29:24.485000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:24.485000" end="0:29:34.121000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:24.485000" end="0:29:34.121000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:24.485000	0:29:24.855000
 .	-	-	-	0:29:24.485000	0:29:24.855000
 <pause duration="0,8s"/>
@@ -6028,7 +6028,7 @@ gefordert	-	-	-	0:29:32.437000	0:29:34.121000
 ist	-	-	-	0:29:32.437000	0:29:34.121000
 ?	-	-	-	0:29:32.437000	0:29:34.121000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:34.121000" end="0:29:36.277000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:34.121000" end="0:29:36.277000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	-	-	-	0:29:35.496000	0:29:36.277000
 ,	-	-	-	0:29:35.496000	0:29:36.277000
@@ -6037,15 +6037,15 @@ der	-	-	-	0:29:35.496000	0:29:36.277000
 Uni	-	-	-	0:29:35.496000	0:29:36.277000
 .	-	-	-	0:29:35.496000	0:29:36.277000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:36.277000" end="0:29:38.617000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:36.277000" end="0:29:38.617000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:36.277000	0:29:37.014000
 .	-	-	-	0:29:36.277000	0:29:37.014000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:37.014000" end="0:29:38.617000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:37.014000" end="0:29:38.617000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:38.617000" end="0:29:49.563000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:38.617000" end="0:29:49.563000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:29:38.617000	0:29:40.730000
 ähm	-	-	-	0:29:38.617000	0:29:40.730000
 wird	-	-	-	0:29:38.617000	0:29:40.730000
@@ -6082,7 +6082,7 @@ alle	-	-	-	0:29:48.200000	0:29:49.563000
 verstehen	-	-	-	0:29:48.200000	0:29:49.563000
 ?	-	-	-	0:29:48.200000	0:29:49.563000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:49.563000" end="0:29:55.013000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:49.563000" end="0:29:55.013000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 hm	-	-	-	0:29:50.925000	0:29:52.618000
 <pause duration="0,9s"/>
@@ -6097,11 +6097,11 @@ eine	-	-	-	0:29:52.618000	0:29:55.013000
 Entscheidung	-	-	-	0:29:52.618000	0:29:55.013000
 ,	-	-	-	0:29:52.618000	0:29:55.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:29:55.013000" end="0:29:55.365000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:29:55.013000" end="0:29:55.365000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:29:55.013000	0:29:55.365000
 .	-	-	-	0:29:55.013000	0:29:55.365000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:29:55.365000" end="0:30:06.877000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:29:55.365000" end="0:30:06.877000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:29:55.365000	0:30:04.440000
 <pause duration="0,9s"/>
 man	-	-	-	0:29:55.365000	0:30:04.440000
@@ -6128,11 +6128,11 @@ dazu	-	-	-	0:30:06.153000	0:30:06.877000
 animiert	-	-	-	0:30:06.153000	0:30:06.877000
 ,	-	-	-	0:30:06.153000	0:30:06.877000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:06.877000" end="0:30:07.503000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:06.877000" end="0:30:07.503000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:30:06.877000	0:30:07.503000
 .	-	-	-	0:30:06.877000	0:30:07.503000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:06.877000" end="0:30:17.016000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:06.877000" end="0:30:17.016000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:30:06.877000	0:30:07.503000
 hoch/	-	-	-	0:30:06.877000	0:30:07.503000
 ähm	-	-	-	0:30:07.503000	0:30:09.212000
@@ -6166,11 +6166,11 @@ voll	-	-	-	0:30:15.560000	0:30:17.016000
 argen	-	-	-	0:30:15.560000	0:30:17.016000
 Dialekt	-	-	-	0:30:15.560000	0:30:17.016000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:17.016000" end="0:30:18.296000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:17.016000" end="0:30:18.296000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:17.016000	0:30:18.296000
 .	-	-	-	0:30:17.016000	0:30:18.296000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:17.016000" end="0:30:18.969000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:17.016000" end="0:30:18.969000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auffahren	-	-	-	0:30:17.016000	0:30:18.296000
 ,	-	-	-	0:30:17.016000	0:30:18.296000
 dann	-	-	-	0:30:17.016000	0:30:18.296000
@@ -6180,11 +6180,11 @@ Professor	-	-	-	0:30:17.016000	0:30:18.296000
 natürlich	-	-	-	0:30:18.296000	0:30:18.969000
 ,	-	-	-	0:30:18.296000	0:30:18.969000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:18.969000" end="0:30:19.480000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:18.969000" end="0:30:19.480000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:30:18.969000	0:30:19.480000
 .	-	-	-	0:30:18.969000	0:30:19.480000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:18.969000" end="0:30:21.700000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:18.969000" end="0:30:21.700000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:30:18.969000	0:30:19.480000
 "bitte	-	-	-	0:30:18.969000	0:30:19.480000
 Standardsprache	-	-	-	0:30:19.480000	0:30:20.148000
@@ -6198,12 +6198,12 @@ Sie	-	-	-	0:30:20.148000	0:30:21.700000
 verstehen	-	-	-	0:30:20.148000	0:30:21.700000
 ."	-	-	-	0:30:20.148000	0:30:21.700000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:21.700000" end="0:30:22.631000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:21.700000" end="0:30:22.631000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:30:21.700000	0:30:22.631000
 .	-	-	-	0:30:21.700000	0:30:22.631000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:22.631000" end="0:30:25.802000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:22.631000" end="0:30:25.802000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	-	-	-	0:30:22.631000	0:30:23.935000
 /.	-	-	-	0:30:22.631000	0:30:23.935000
@@ -6218,7 +6218,7 @@ das	-	-	-	0:30:23.935000	0:30:25.802000
 an	-	-	-	0:30:23.935000	0:30:25.802000
 .	-	-	-	0:30:23.935000	0:30:25.802000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:25.802000" end="0:30:39.084000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:25.802000" end="0:30:39.084000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:30:25.802000	0:30:26.128000
 .	-	-	-	0:30:25.802000	0:30:26.128000
 <pause duration="2,4s"/>
@@ -6255,10 +6255,10 @@ Standardsprache	-	-	-	0:30:34.384000	0:30:39.084000
 sprechen	-	-	-	0:30:34.384000	0:30:39.084000
 ?	-	-	-	0:30:34.384000	0:30:39.084000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:39.084000" end="0:30:41.305000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:39.084000" end="0:30:41.305000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:41.305000" end="0:30:43.695000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:41.305000" end="0:30:43.695000" persName="Informant EXP9" age_lower="" age_upper="999">
 Sie	-	-	-	0:30:41.305000	0:30:42.638000
 beobachten	-	-	-	0:30:41.305000	0:30:42.638000
 die	-	-	-	0:30:41.305000	0:30:42.638000
@@ -6271,22 +6271,22 @@ auf	-	-	-	0:30:42.638000	0:30:43.695000
 Sie	-	-	-	0:30:42.638000	0:30:43.695000
 ?	-	-	-	0:30:42.638000	0:30:43.695000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:43.695000" end="0:30:46.946000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:43.695000" end="0:30:46.946000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 wie	-	-	-	0:30:46.550000	0:30:46.946000
 ?	-	-	-	0:30:46.550000	0:30:46.946000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:46.946000" end="0:30:47.765000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:46.946000" end="0:30:47.765000" persName="Informant EXP9" age_lower="" age_upper="999">
 ähm	-	-	-	0:30:46.946000	0:30:47.765000
 fällt	-	-	-	0:30:46.946000	0:30:47.765000
 Ihnen	-	-	-	0:30:46.946000	0:30:47.765000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:46.946000" end="0:30:47.765000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:46.946000" end="0:30:47.765000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:30:46.946000	0:30:47.765000
 einfach	-	-	-	0:30:46.946000	0:30:47.765000
 /?	-	-	-	0:30:46.946000	0:30:47.765000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:47.765000" end="0:30:52.544000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:47.765000" end="0:30:52.544000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:30:47.765000	0:30:48.456000
 auf	-	-	-	0:30:47.765000	0:30:48.456000
 oder	-	-	-	0:30:48.456000	0:30:48.952000
@@ -6304,7 +6304,7 @@ man	-	-	-	0:30:51.226000	0:30:52.544000
 das	-	-	-	0:30:51.226000	0:30:52.544000
 doch	-	-	-	0:30:51.226000	0:30:52.544000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:51.226000" end="0:30:52.544000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:51.226000" end="0:30:52.544000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ah	-	-	-	0:30:51.226000	0:30:52.544000
 so	-	-	-	0:30:51.226000	0:30:52.544000
 ja	-	-	-	0:30:51.226000	0:30:52.544000
@@ -6313,11 +6313,11 @@ das	-	-	-	0:30:51.226000	0:30:52.544000
 ist	-	-	-	0:30:51.226000	0:30:52.544000
 /.	-	-	-	0:30:51.226000	0:30:52.544000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:52.544000" end="0:30:53.257000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:52.544000" end="0:30:53.257000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:30:52.544000	0:30:53.257000
 /?	-	-	-	0:30:52.544000	0:30:53.257000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:52.544000" end="0:30:57.715000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:52.544000" end="0:30:57.715000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:30:52.544000	0:30:53.257000
 ist	-	-	-	0:30:52.544000	0:30:53.257000
 ortsabhängig	-	-	-	0:30:53.257000	0:30:55.291000
@@ -6333,14 +6333,14 @@ ist	-	-	-	0:30:55.291000	0:30:57.715000
 das	-	-	-	0:30:55.291000	0:30:57.715000
 ganz	-	-	-	0:30:55.291000	0:30:57.715000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:57.715000" end="0:30:58.417000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:57.715000" end="0:30:58.417000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:30:57.715000	0:30:58.417000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:30:57.715000" end="0:30:58.417000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:30:57.715000" end="0:30:58.417000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 normal	-	-	-	0:30:57.715000	0:30:58.417000
 .	-	-	-	0:30:57.715000	0:30:58.417000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:30:58.417000" end="0:31:09.499000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:30:58.417000" end="0:31:09.499000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:30:58.417000	0:31:00.813000
 wie	-	-	-	0:30:58.417000	0:31:00.813000
@@ -6378,7 +6378,7 @@ Mundart	-	-	-	0:31:05.684000	0:31:09.499000
 spricht	-	-	-	0:31:05.684000	0:31:09.499000
 ?	-	-	-	0:31:05.684000	0:31:09.499000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:09.499000" end="0:31:12.220000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:09.499000" end="0:31:12.220000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 auf	-	-	-	0:31:09.499000	0:31:12.220000
 mich	-	-	-	0:31:09.499000	0:31:12.220000
@@ -6392,11 +6392,11 @@ bissi	-	-	-	0:31:09.499000	0:31:12.220000
 komisch	-	-	-	0:31:09.499000	0:31:12.220000
 .	-	-	-	0:31:09.499000	0:31:12.220000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:12.220000" end="0:31:12.646000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:12.220000" end="0:31:12.646000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:12.220000	0:31:12.646000
 .	-	-	-	0:31:12.220000	0:31:12.646000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:12.646000" end="0:31:26.588000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:12.646000" end="0:31:26.588000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 viele	-	-	-	0:31:14.907000	0:31:16.363000
 haben	-	-	-	0:31:14.907000	0:31:16.363000
@@ -6450,11 +6450,11 @@ am	-	-	-	0:31:25.124000	0:31:26.588000
 Anfang	-	-	-	0:31:25.124000	0:31:26.588000
 ganz	-	-	-	0:31:25.124000	0:31:26.588000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:26.588000" end="0:31:27.165000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:26.588000" end="0:31:27.165000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:26.588000	0:31:27.165000
 .	-	-	-	0:31:26.588000	0:31:27.165000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:26.588000" end="0:31:36.725000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:26.588000" end="0:31:36.725000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 stark	-	-	-	0:31:26.588000	0:31:27.165000
 .	-	-	-	0:31:26.588000	0:31:27.165000
 <pause duration="1,4s"/>
@@ -6485,11 +6485,11 @@ wer	-	-	-	0:31:34.958000	0:31:36.725000
 Dialekt	-	-	-	0:31:34.958000	0:31:36.725000
 spricht	-	-	-	0:31:34.958000	0:31:36.725000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:36.725000" end="0:31:37.205000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:36.725000" end="0:31:37.205000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:36.725000	0:31:37.205000
 .	-	-	-	0:31:36.725000	0:31:37.205000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:36.725000" end="0:31:38.389000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:36.725000" end="0:31:38.389000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (und)	-	-	-	0:31:36.725000	0:31:37.205000
 also	-	-	-	0:31:37.205000	0:31:38.389000
 es	-	-	-	0:31:37.205000	0:31:38.389000
@@ -6498,11 +6498,11 @@ schon	-	-	-	0:31:37.205000	0:31:38.389000
 auf	-	-	-	0:31:37.205000	0:31:38.389000
 und	-	-	-	0:31:37.205000	0:31:38.389000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:38.389000" end="0:31:38.752000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:38.389000" end="0:31:38.752000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:31:38.389000	0:31:38.752000
 ,	-	-	-	0:31:38.389000	0:31:38.752000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:38.389000" end="0:31:39.688000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:38.389000" end="0:31:39.688000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:31:38.389000	0:31:38.752000
 ist	-	-	-	0:31:38.389000	0:31:38.752000
 dann	-	-	-	0:31:38.389000	0:31:38.752000
@@ -6512,7 +6512,7 @@ bissi	-	-	-	0:31:38.752000	0:31:39.688000
 komisch	-	-	-	0:31:38.752000	0:31:39.688000
 .	-	-	-	0:31:38.752000	0:31:39.688000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:31:39.688000" end="0:31:55.701000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:31:39.688000" end="0:31:55.701000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:31:39.688000	0:31:40.071000
 .	-	-	-	0:31:39.688000	0:31:40.071000
 <pause duration="1,9s"/>
@@ -6562,7 +6562,7 @@ vom	-	-	-	0:31:49.741000	0:31:55.701000
 sprechen	-	-	-	0:31:49.741000	0:31:55.701000
 ?	-	-	-	0:31:49.741000	0:31:55.701000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:31:55.701000" end="0:32:01.401000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:31:55.701000" end="0:32:01.401000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:31:55.701000	0:31:56.384000
 ich	-	-	-	0:31:55.701000	0:31:56.384000
 glaube	-	-	-	0:31:55.701000	0:31:56.384000
@@ -6594,12 +6594,12 @@ Steyrling	-	-	-	0:32:00.132000	0:32:01.401000
 komme	-	-	-	0:32:00.132000	0:32:01.401000
 .	-	-	-	0:32:00.132000	0:32:01.401000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:01.401000" end="0:32:03.792000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:01.401000" end="0:32:03.792000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:01.401000	0:32:02.033000
 .	-	-	-	0:32:01.401000	0:32:02.033000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:02.033000" end="0:32:07.230000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:02.033000" end="0:32:07.230000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 also	-	-	-	0:32:03.792000	0:32:05.045000
 <pause duration="0,7s"/>
@@ -6614,18 +6614,18 @@ Steyrlingerische	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK
 kennen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK circum std stdL+	0:32:05.045000	0:32:07.230000
 (und)	-	-	-	0:32:05.045000	0:32:07.230000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:07.230000" end="0:32:07.517000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:07.230000" end="0:32:07.517000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:32:07.230000	0:32:07.517000
 .	-	-	-	0:32:07.230000	0:32:07.517000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:07.517000" end="0:32:08.664000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:07.517000" end="0:32:08.664000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:32:07.517000	0:32:08.664000
 ,	-	-	-	0:32:07.517000	0:32:08.664000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:08.664000" end="0:32:10.756000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:08.664000" end="0:32:10.756000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:08.664000" end="0:32:10.756000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:08.664000" end="0:32:10.756000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 tun	-	-	-	0:32:08.664000	0:32:10.756000
 halt	-	-	-	0:32:08.664000	0:32:10.756000
 die	-	-	-	0:32:08.664000	0:32:10.756000
@@ -6634,7 +6634,7 @@ Leute	-	-	-	0:32:08.664000	0:32:10.756000
 nicht	-	-	-	0:32:08.664000	0:32:10.756000
 .	-	-	-	0:32:08.664000	0:32:10.756000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:10.756000" end="0:32:16.493000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:10.756000" end="0:32:16.493000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 haben	-	-	-	0:32:10.756000	0:32:14.419000
 Sie	-	-	-	0:32:10.756000	0:32:14.419000
@@ -6654,7 +6654,7 @@ Standardsprache	-	-	-	0:32:14.419000	0:32:16.493000
 sprechen	-	-	-	0:32:14.419000	0:32:16.493000
 ?	-	-	-	0:32:14.419000	0:32:16.493000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:16.493000" end="0:32:23.926000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:16.493000" end="0:32:23.926000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="6,0s"/>
 schwach	-	-	-	0:32:22.530000	0:32:23.686000
 regional	-	-	-	0:32:22.530000	0:32:23.686000
@@ -6662,21 +6662,21 @@ regional	-	-	-	0:32:22.530000	0:32:23.686000
 würde	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:32:23.686000	0:32:23.926000
 ich	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:32:23.686000	0:32:23.926000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:23.926000" end="0:32:24.472000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:23.926000" end="0:32:24.472000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:23.926000	0:32:24.472000
 .	-	-	-	0:32:23.926000	0:32:24.472000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:23.926000" end="0:32:24.472000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:23.926000" end="0:32:24.472000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sagen	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:32:23.926000	0:32:24.472000
 .	-	-	-	0:32:23.926000	0:32:24.472000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:24.472000" end="0:32:25.963000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:24.472000" end="0:32:25.963000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:24.472000" end="0:32:25.963000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:24.472000" end="0:32:25.963000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:25.963000" end="0:32:35.925000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:25.963000" end="0:32:35.925000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:32:25.963000	0:32:26.525000
 ,	-	-	-	0:32:25.963000	0:32:26.525000
 dann	-	-	-	0:32:26.525000	0:32:29.681000
@@ -6696,7 +6696,7 @@ sehen	-	-	-	0:32:29.681000	0:32:31.112000
 .	-	-	-	0:32:29.681000	0:32:31.112000
 <pause duration="4,8s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:31.112000" end="0:32:41.567000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:31.112000" end="0:32:41.567000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,8s"/>
 also	-	-	-	0:32:35.925000	0:32:40.037000
 mit	-	-	-	0:32:35.925000	0:32:40.037000
@@ -6714,13 +6714,13 @@ halt	-	-	-	0:32:40.037000	0:32:41.567000
 mein	-	-	-	0:32:40.037000	0:32:41.567000
 regionaler	-	-	-	0:32:40.037000	0:32:41.567000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:41.567000" end="0:32:42.991000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:41.567000" end="0:32:42.991000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:32:41.567000	0:32:42.991000
 ,	-	-	-	0:32:41.567000	0:32:42.991000
 mhm	-	-	-	0:32:41.567000	0:32:42.991000
 .	-	-	-	0:32:41.567000	0:32:42.991000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:41.567000" end="0:32:49.085000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:41.567000" end="0:32:49.085000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 von	-	-	-	0:32:41.567000	0:32:42.991000
 von	-	-	-	0:32:41.567000	0:32:42.991000
 zuhau/	-	-	-	0:32:41.567000	0:32:42.991000
@@ -6729,7 +6729,7 @@ okay	-	-	-	0:32:41.567000	0:32:42.991000
 .	-	-	-	0:32:41.567000	0:32:42.991000
 <pause duration="6,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:49.085000" end="0:32:54.739000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:49.085000" end="0:32:54.739000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:32:49.085000	0:32:49.506000
 ,	-	-	-	0:32:49.085000	0:32:49.506000
 <pause duration="1,2s"/>
@@ -6749,7 +6749,7 @@ zuordnen	-	-	-	0:32:51.672000	0:32:54.739000
 kann	-	-	-	0:32:51.672000	0:32:54.739000
 ?	-	-	-	0:32:51.672000	0:32:54.739000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:54.739000" end="0:32:58.594000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:54.739000" end="0:32:58.594000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 hm	-	-	-	0:32:56.038000	0:32:56.742000
 <pause duration="0,5s"/>
@@ -6762,9 +6762,9 @@ witzig	-	-	-	0:32:56.742000	0:32:58.594000
 dann	-	-	-	0:32:56.742000	0:32:58.594000
 ,	-	-	-	0:32:56.742000	0:32:58.594000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:32:58.594000" end="0:32:59.318000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:32:58.594000" end="0:32:59.318000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:32:58.594000" end="0:33:25.126000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:32:58.594000" end="0:33:25.126000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 weil	-	-	-	0:32:59.318000	0:33:02.057000
 die	-	-	-	0:32:59.318000	0:33:02.057000
@@ -6856,7 +6856,7 @@ wirklich	-	-	-	0:33:20.898000	0:33:25.126000
 komme	-	-	-	0:33:20.898000	0:33:25.126000
 .	-	-	-	0:33:20.898000	0:33:25.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:25.126000" end="0:33:31.436000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:25.126000" end="0:33:31.436000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:33:25.126000	0:33:25.480000
 ,	-	-	-	0:33:25.126000	0:33:25.480000
 (das	-	-	-	0:33:25.480000	0:33:26.206000
@@ -6877,14 +6877,14 @@ zum	-	-	-	0:33:27.494000	0:33:31.436000
 Beispiel	-	-	-	0:33:27.494000	0:33:31.436000
 ?	-	-	-	0:33:27.494000	0:33:31.436000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:31.436000" end="0:33:31.791000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:31.436000" end="0:33:31.791000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:33:31.436000	0:33:31.791000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:31.791000" end="0:33:32.356000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:31.791000" end="0:33:32.356000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:33:31.791000	0:33:32.356000
 .	-	-	-	0:33:31.791000	0:33:32.356000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:31.791000" end="0:33:33.469000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:31.791000" end="0:33:33.469000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:33:31.791000	0:33:32.356000
 ,	-	-	-	0:33:31.791000	0:33:32.356000
 manche	-	-	-	0:33:31.791000	0:33:32.356000
@@ -6894,7 +6894,7 @@ Steiermark	-	-	-	0:33:32.356000	0:33:32.837000
 Salzburg	-	-	-	0:33:32.837000	0:33:33.469000
 ,	-	-	-	0:33:32.837000	0:33:33.469000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:33.469000" end="0:33:35.018000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:33.469000" end="0:33:35.018000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:33:33.469000	0:33:35.018000
 ,	-	-	-	0:33:33.469000	0:33:35.018000
 mhm	-	-	-	0:33:33.469000	0:33:35.018000
@@ -6902,24 +6902,24 @@ mhm	-	-	-	0:33:33.469000	0:33:35.018000
 spannend	-	-	-	0:33:33.469000	0:33:35.018000
 ,	-	-	-	0:33:33.469000	0:33:35.018000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:33.469000" end="0:33:35.018000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:33.469000" end="0:33:35.018000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 irgend(?)	-	-	-	0:33:33.469000	0:33:35.018000
 Niederösterreich	-	-	-	0:33:33.469000	0:33:35.018000
 .	-	-	-	0:33:33.469000	0:33:35.018000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:35.018000" end="0:33:35.970000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:35.018000" end="0:33:35.970000" persName="Informant EXP9" age_lower="" age_upper="999">
 sehr	-	-	-	0:33:35.018000	0:33:35.244000
 spannend	-	-	-	0:33:35.244000	0:33:35.970000
 ,	-	-	-	0:33:35.244000	0:33:35.970000
 ja	-	-	-	0:33:35.244000	0:33:35.970000
 .	-	-	-	0:33:35.244000	0:33:35.970000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:35.244000" end="0:33:35.970000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:35.244000" end="0:33:35.970000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:35.970000" end="0:33:39.053000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:35.970000" end="0:33:39.053000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:37.065000" end="0:33:43.138000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:37.065000" end="0:33:43.138000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 aber	-	-	-	0:33:39.053000	0:33:41.253000
 die	-	-	-	0:33:39.053000	0:33:41.253000
@@ -6943,38 +6943,38 @@ Oberösterreicher	-	-	-	0:33:42.117000	0:33:43.138000
 ?"	-	-	-	0:33:42.117000	0:33:43.138000
 ,	-	-	-	0:33:42.117000	0:33:43.138000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:43.138000" end="0:33:43.636000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:43.138000" end="0:33:43.636000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:33:43.138000	0:33:43.636000
 ,	-	-	-	0:33:43.138000	0:33:43.636000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:43.138000" end="0:33:43.636000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:43.138000" end="0:33:43.636000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "ja	-	-	-	0:33:43.138000	0:33:43.636000
 genau	-	-	-	0:33:43.138000	0:33:43.636000
 ,	-	-	-	0:33:43.138000	0:33:43.636000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:43.636000" end="0:33:44.351000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:43.636000" end="0:33:44.351000" persName="Informant EXP9" age_lower="" age_upper="999">
 dann	-	-	-	0:33:43.636000	0:33:44.351000
 kennt	-	-	-	0:33:43.636000	0:33:44.351000
 man	-	-	-	0:33:43.636000	0:33:44.351000
 es	-	-	-	0:33:43.636000	0:33:44.351000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:43.636000" end="0:33:44.351000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:43.636000" end="0:33:44.351000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (Oberösterreich)	-	-	-	0:33:43.636000	0:33:44.351000
 ."	-	-	-	0:33:43.636000	0:33:44.351000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:44.351000" end="0:33:45.128000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:44.351000" end="0:33:45.128000" persName="Informant EXP9" age_lower="" age_upper="999">
 doch	-	-	-	0:33:44.351000	0:33:45.128000
 .	-	-	-	0:33:44.351000	0:33:45.128000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:44.351000" end="0:33:45.128000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:44.351000" end="0:33:45.128000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:45.128000" end="0:33:45.908000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:45.128000" end="0:33:45.908000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:45.128000" end="0:33:45.908000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:45.128000" end="0:33:45.908000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:33:45.128000	0:33:45.908000
 .	-	-	-	0:33:45.128000	0:33:45.908000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:33:45.908000" end="0:33:59.552000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:33:45.908000" end="0:33:59.552000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 mich	-	-	-	0:33:47.002000	0:33:47.846000
 interessiert	-	-	-	0:33:47.002000	0:33:47.846000
@@ -7010,7 +7010,7 @@ den	-	-	-	0:33:55.314000	0:33:59.552000
 Mundarten	-	-	-	0:33:55.314000	0:33:59.552000
 ?	-	-	-	0:33:55.314000	0:33:59.552000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:33:59.552000" end="0:34:04.166000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:33:59.552000" end="0:34:04.166000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 zu	-	-	-	0:34:02.665000	0:34:04.166000
 Klaus	-	-	-	0:34:02.665000	0:34:04.166000
@@ -7019,11 +7019,11 @@ so	-	-	-	0:34:02.665000	0:34:04.166000
 sehr	-	-	-	0:34:02.665000	0:34:04.166000
 ,	-	-	-	0:34:02.665000	0:34:04.166000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:04.166000" end="0:34:04.665000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:04.166000" end="0:34:04.665000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:04.166000	0:34:04.665000
 .	-	-	-	0:34:04.166000	0:34:04.665000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:04.666000" end="0:34:25.138000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:04.666000" end="0:34:25.138000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 zu	-	-	-	0:34:04.666000	0:34:09.721000
 <pause duration="1,7s"/>
@@ -7076,11 +7076,11 @@ noch	-	-	-	0:34:21.909000	0:34:25.138000
 wie	-	-	-	0:34:21.909000	0:34:25.138000
 der	-	-	-	0:34:21.909000	0:34:25.138000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:25.138000" end="0:34:26.094000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:25.138000" end="0:34:26.094000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:25.138000	0:34:26.094000
 .	-	-	-	0:34:25.138000	0:34:26.094000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:25.138000" end="0:34:30.257000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:25.138000" end="0:34:30.257000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 *unsrige*	-	-	-	0:34:25.138000	0:34:26.094000
 ,	-	-	-	0:34:25.138000	0:34:26.094000
 <pause duration="1,1s"/>
@@ -7096,11 +7096,11 @@ Richtung	-	-	-	0:34:28.710000	0:34:30.257000
 Almtal	-	-	-	0:34:28.710000	0:34:30.257000
 zum	-	-	-	0:34:28.710000	0:34:30.257000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:30.257000" end="0:34:30.952000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:30.257000" end="0:34:30.952000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:34:30.257000	0:34:30.952000
 ?	-	-	-	0:34:30.257000	0:34:30.952000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:30.257000" end="0:34:31.431000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:30.257000" end="0:34:31.431000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:34:30.257000	0:34:30.952000
 ,	-	-	-	0:34:30.257000	0:34:30.952000
 die	-	-	-	0:34:30.257000	0:34:30.952000
@@ -7109,11 +7109,11 @@ schon	-	-	-	0:34:30.257000	0:34:30.952000
 ganz	-	-	-	0:34:30.952000	0:34:31.431000
 einen	-	-	-	0:34:30.952000	0:34:31.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:31.431000" end="0:34:32.347000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:31.431000" end="0:34:32.347000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:31.431000	0:34:32.347000
 .	-	-	-	0:34:31.431000	0:34:32.347000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:31.431000" end="0:34:37.065000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:31.431000" end="0:34:37.065000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 anderen	-	-	-	0:34:31.431000	0:34:32.347000
 Dialekt	-	-	-	0:34:31.431000	0:34:32.347000
 .	-	-	-	0:34:31.431000	0:34:32.347000
@@ -7139,11 +7139,11 @@ ist	-	-	-	0:34:35.779000	0:34:37.065000
 Hinterstoder	-	-	-	0:34:35.779000	0:34:37.065000
 ,	-	-	-	0:34:35.779000	0:34:37.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:37.065000" end="0:34:37.360000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:37.065000" end="0:34:37.360000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:37.065000	0:34:37.360000
 .	-	-	-	0:34:37.065000	0:34:37.360000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:37.360000" end="0:34:40.926000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:37.360000" end="0:34:40.926000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 die	-	-	-	0:34:37.360000	0:34:39.531000
 haben	-	-	-	0:34:37.360000	0:34:39.531000
@@ -7161,11 +7161,11 @@ so	-	-	-	0:34:39.531000	0:34:40.926000
 ein	-	-	-	0:34:39.531000	0:34:40.926000
 Tal	-	-	-	0:34:39.531000	0:34:40.926000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:40.926000" end="0:34:41.531000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:40.926000" end="0:34:41.531000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:34:40.926000	0:34:41.531000
 .	-	-	-	0:34:40.926000	0:34:41.531000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:41.531000" end="0:34:47.239000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:41.531000" end="0:34:47.239000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:34:41.531000	0:34:43.775000
 ja	-	-	-	0:34:41.531000	0:34:43.775000
 da	-	-	-	0:34:41.531000	0:34:43.775000
@@ -7186,11 +7186,11 @@ anderen	-	-	-	0:34:45.529000	0:34:47.239000
 Dialekt	-	-	-	0:34:45.529000	0:34:47.239000
 .	-	-	-	0:34:45.529000	0:34:47.239000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:47.239000" end="0:34:47.808000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:47.239000" end="0:34:47.808000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:47.239000	0:34:47.808000
 .	-	-	-	0:34:47.239000	0:34:47.808000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:34:47.239000" end="0:34:53.272000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:34:47.239000" end="0:34:53.272000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:34:47.239000	0:34:47.808000
 "ganz	-	-	-	0:34:47.808000	0:34:48.277000
 anders"	-	-	-	0:34:47.808000	0:34:48.277000
@@ -7211,7 +7211,7 @@ anders	-	-	-	0:34:50.580000	0:34:53.272000
 aus	-	-	-	0:34:50.580000	0:34:53.272000
 .	-	-	-	0:34:50.580000	0:34:53.272000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:34:53.272000" end="0:35:03.385000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:34:53.272000" end="0:35:03.385000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:34:53.272000	0:34:53.710000
 .	-	-	-	0:34:53.272000	0:34:53.710000
 <pause duration="1,3s"/>
@@ -7248,19 +7248,19 @@ nicht	-	-	-	0:35:02.448000	0:35:03.385000
 weiß	-	-	-	0:35:02.448000	0:35:03.385000
 ?	-	-	-	0:35:02.448000	0:35:03.385000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:03.385000" end="0:35:03.634000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:03.385000" end="0:35:03.634000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:03.385000	0:35:03.634000
 ,	-	-	-	0:35:03.385000	0:35:03.634000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:03.634000" end="0:35:04.171000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:03.634000" end="0:35:04.171000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:03.634000	0:35:04.171000
 .	-	-	-	0:35:03.634000	0:35:04.171000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:04.171000" end="0:35:04.886000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:04.171000" end="0:35:04.886000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 definitiv	-	-	-	0:35:04.171000	0:35:04.886000
 .	-	-	-	0:35:04.171000	0:35:04.886000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:04.886000" end="0:35:20.283000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:04.886000" end="0:35:20.283000" persName="Informant EXP9" age_lower="" age_upper="999">
 gut	-	-	-	0:35:04.886000	0:35:05.595000
 .	-	-	-	0:35:04.886000	0:35:05.595000
 <pause duration="1,0s"/>
@@ -7301,7 +7301,7 @@ sich	-	-	-	0:35:19.168000	0:35:20.283000
 verändert	-	-	-	0:35:19.168000	0:35:20.283000
 ?	-	-	-	0:35:19.168000	0:35:20.283000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:20.283000" end="0:35:32.834000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:20.283000" end="0:35:32.834000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="5,1s"/>
 hm	-	-	-	0:35:25.349000	0:35:26.465000
 <pause duration="1,5s"/>
@@ -7320,64 +7320,64 @@ das	-	-	-	0:35:31.907000	0:35:32.834000
 spricht	-	-	-	0:35:31.907000	0:35:32.834000
 eh	-	-	-	0:35:31.907000	0:35:32.834000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:32.834000" end="0:35:33.451000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:32.834000" end="0:35:33.451000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:32.834000	0:35:33.451000
 ,	-	-	-	0:35:32.834000	0:35:33.451000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:32.834000" end="0:35:33.451000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:32.834000" end="0:35:33.451000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 keiner	-	-	-	0:35:32.834000	0:35:33.451000
 ,	-	-	-	0:35:32.834000	0:35:33.451000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:33.451000" end="0:35:34.066000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:33.451000" end="0:35:34.066000" persName="Informant EXP9" age_lower="" age_upper="999">
 weil	-	-	-	0:35:33.451000	0:35:34.066000
 es	-	-	-	0:35:33.451000	0:35:34.066000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:33.451000" end="0:35:34.066000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:33.451000" end="0:35:34.066000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:35:33.451000	0:35:34.066000
 /.	-	-	-	0:35:33.451000	0:35:34.066000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:34.066000" end="0:35:35.076000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:34.066000" end="0:35:35.076000" persName="Informant EXP9" age_lower="" age_upper="999">
 dieses	-	-	-	0:35:34.066000	0:35:34.321000
 Ideal	-	-	-	0:35:34.321000	0:35:35.076000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:34.321000" end="0:35:35.320000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:34.321000" end="0:35:35.320000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:34.321000	0:35:35.076000
 ja	-	-	-	0:35:35.076000	0:35:35.320000
 ,	-	-	-	0:35:35.076000	0:35:35.320000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:35.320000" end="0:35:35.881000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:35.320000" end="0:35:35.881000" persName="Informant EXP9" age_lower="" age_upper="999">
 ist	-	-	-	0:35:35.320000	0:35:35.881000
 ,	-	-	-	0:35:35.320000	0:35:35.881000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:35.320000" end="0:35:35.881000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:35.320000" end="0:35:35.881000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:35:35.320000	0:35:35.881000
 .	-	-	-	0:35:35.320000	0:35:35.881000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:35.881000" end="0:35:37.408000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:35.881000" end="0:35:37.408000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:35.881000	0:35:36.287000
 .	-	-	-	0:35:35.881000	0:35:36.287000
 und	-	-	-	0:35:36.287000	0:35:37.408000
 /?	-	-	-	0:35:36.287000	0:35:37.408000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:36.287000" end="0:35:37.408000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:36.287000" end="0:35:37.408000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:35:36.287000	0:35:37.408000
 die	-	-	-	0:35:36.287000	0:35:37.408000
 /.	-	-	-	0:35:36.287000	0:35:37.408000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:37.408000" end="0:35:38.588000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:37.408000" end="0:35:38.588000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:37.408000" end="0:35:39.024000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:37.408000" end="0:35:39.024000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 also	-	-	-	0:35:38.588000	0:35:39.024000
 ja	-	-	-	0:35:38.588000	0:35:39.024000
 ,	-	-	-	0:35:38.588000	0:35:39.024000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:39.024000" end="0:35:39.531000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:39.024000" end="0:35:39.531000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:35:39.024000	0:35:39.531000
 .	-	-	-	0:35:39.024000	0:35:39.531000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:39.024000" end="0:35:45.360000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:39.024000" end="0:35:45.360000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 was	-	-	-	0:35:39.024000	0:35:39.531000
 woll/	-	-	-	0:35:39.024000	0:35:39.531000
 /?	-	-	-	0:35:39.024000	0:35:39.531000
@@ -7394,11 +7394,11 @@ wir	-	-	-	0:35:42.137000	0:35:43.850000
 Standardsprache	-	-	-	0:35:43.850000	0:35:45.360000
 ,	-	-	-	0:35:43.850000	0:35:45.360000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:35:45.360000" end="0:35:45.850000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:35:45.360000" end="0:35:45.850000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:35:45.360000	0:35:45.850000
 .	-	-	-	0:35:45.360000	0:35:45.850000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:35:45.850000" end="0:36:06.080000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:35:45.850000" end="0:36:06.080000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ver/	-	-	-	0:35:47.371000	0:35:48.626000
 <pause duration="1,9s"/>
@@ -7440,11 +7440,11 @@ Richtung	-	-	-	0:36:01.581000	0:36:06.080000
 Hochdeutsch	-	-	-	0:36:01.581000	0:36:06.080000
 .	-	-	-	0:36:01.581000	0:36:06.080000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:06.080000" end="0:36:06.591000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:06.080000" end="0:36:06.591000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:06.080000	0:36:06.591000
 .	-	-	-	0:36:06.080000	0:36:06.591000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:06.591000" end="0:36:23.114000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:06.591000" end="0:36:23.114000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:36:06.591000	0:36:07.829000
 also	-	-	-	0:36:07.829000	0:36:08.587000
@@ -7484,11 +7484,11 @@ weiter	-	-	-	0:36:21.724000	0:36:23.114000
 verloren	-	-	-	0:36:21.724000	0:36:23.114000
 .	-	-	-	0:36:21.724000	0:36:23.114000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:23.114000" end="0:36:23.637000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:23.114000" end="0:36:23.637000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:23.114000	0:36:23.637000
 .	-	-	-	0:36:23.114000	0:36:23.637000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:23.637000" end="0:36:29.445000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:23.637000" end="0:36:29.445000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 hm	-	-	-	0:36:24.824000	0:36:25.292000
 ,	-	-	-	0:36:24.824000	0:36:25.292000
@@ -7503,11 +7503,11 @@ Wortgebrauch	-	-	-	0:36:26.964000	0:36:29.445000
 betrifft	-	-	-	0:36:26.964000	0:36:29.445000
 ,	-	-	-	0:36:26.964000	0:36:29.445000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:29.445000" end="0:36:30.009000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:29.445000" end="0:36:30.009000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:36:29.445000	0:36:30.009000
 .	-	-	-	0:36:29.445000	0:36:30.009000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:29.445000" end="0:36:39.214000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:29.445000" end="0:36:39.214000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:36:29.445000	0:36:30.009000
 es	-	-	-	0:36:29.445000	0:36:30.009000
 gibt	-	-	-	0:36:30.009000	0:36:31.541000
@@ -7538,11 +7538,11 @@ halt	-	-	-	0:36:37.613000	0:36:39.214000
 so	-	-	-	0:36:37.613000	0:36:39.214000
 eingedeutscht	-	-	-	0:36:37.613000	0:36:39.214000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:39.214000" end="0:36:39.773000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:39.214000" end="0:36:39.773000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:39.214000	0:36:39.773000
 .	-	-	-	0:36:39.214000	0:36:39.773000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:39.773000" end="0:36:42.371000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:39.773000" end="0:36:42.371000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:36:39.773000	0:36:42.371000
 auch	-	-	-	0:36:39.773000	0:36:42.371000
 die	-	-	-	0:36:39.773000	0:36:42.371000
@@ -7556,11 +7556,11 @@ immer	-	-	-	0:36:39.773000	0:36:42.371000
 mehr	-	-	-	0:36:39.773000	0:36:42.371000
 .	-	-	-	0:36:39.773000	0:36:42.371000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:42.371000" end="0:36:43.004000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:42.371000" end="0:36:43.004000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:36:42.371000	0:36:43.004000
 .	-	-	-	0:36:42.371000	0:36:43.004000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:43.004000" end="0:36:45.395000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:43.004000" end="0:36:45.395000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 außer	-	-	-	0:36:43.004000	0:36:44.383000
 bei	-	-	-	0:36:43.004000	0:36:44.383000
@@ -7571,7 +7571,7 @@ keine	-	-	-	0:36:44.383000	0:36:45.395000
 Ahnung	-	-	-	0:36:44.383000	0:36:45.395000
 .	-	-	-	0:36:44.383000	0:36:45.395000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:45.395000" end="0:36:47.354000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:45.395000" end="0:36:47.354000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:36:45.395000	0:36:47.354000
 wie	-	-	-	0:36:45.395000	0:36:47.354000
 beurteilen	-	-	-	0:36:45.395000	0:36:47.354000
@@ -7580,12 +7580,12 @@ die	-	-	-	0:36:45.395000	0:36:47.354000
 Tatsache	-	-	-	0:36:45.395000	0:36:47.354000
 ?	-	-	-	0:36:45.395000	0:36:47.354000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:47.354000" end="0:36:52.496000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:47.354000" end="0:36:52.496000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 hm	-	-	-	0:36:48.872000	0:36:49.890000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:36:52.496000" end="0:36:57.478000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:36:52.496000" end="0:36:57.478000" persName="Informant EXP9" age_lower="" age_upper="999">
 stehen	-	-	-	0:36:52.496000	0:36:55.168000
 Sie	-	-	-	0:36:52.496000	0:36:55.168000
 dem	-	-	-	0:36:52.496000	0:36:55.168000
@@ -7604,20 +7604,20 @@ Annäherungsprozess	-	-	-	0:36:55.168000	0:36:57.478000
 gibt	-	-	-	0:36:55.168000	0:36:57.478000
 ?	-	-	-	0:36:55.168000	0:36:57.478000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:36:57.478000" end="0:37:01.924000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:36:57.478000" end="0:37:01.924000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 eigentlich	-	-	-	0:36:59.533000	0:37:00.076000
 /.	-	-	-	0:36:59.533000	0:37:00.076000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:01.924000" end="0:37:04.099000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:01.924000" end="0:37:04.099000" persName="Informant EXP9" age_lower="" age_upper="999">
 oder	-	-	-	0:37:01.924000	0:37:03.092000
 neutral	-	-	-	0:37:01.924000	0:37:03.092000
 natürlich	-	-	-	0:37:01.924000	0:37:03.092000
 als	-	-	-	0:37:03.092000	0:37:04.099000
 /?	-	-	-	0:37:03.092000	0:37:04.099000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:03.092000" end="0:37:18.799000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:03.092000" end="0:37:18.799000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:03.092000	0:37:04.099000
 ja	-	-	-	0:37:03.092000	0:37:04.099000
 ,	-	-	-	0:37:03.092000	0:37:04.099000
@@ -7670,11 +7670,11 @@ verloren	-	-	-	0:37:17.732000	0:37:18.799000
 gehen	-	-	-	0:37:17.732000	0:37:18.799000
 ,	-	-	-	0:37:17.732000	0:37:18.799000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:18.799000" end="0:37:19.279000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:18.799000" end="0:37:19.279000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:18.799000	0:37:19.279000
 .	-	-	-	0:37:18.799000	0:37:19.279000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:18.799000" end="0:37:25.761000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:18.799000" end="0:37:25.761000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:37:18.799000	0:37:19.279000
 ich	-	-	-	0:37:18.799000	0:37:19.279000
 finde	-	-	-	0:37:18.799000	0:37:19.279000
@@ -7704,11 +7704,11 @@ so	-	-	-	0:37:23.984000	0:37:25.761000
 irgendein	-	-	-	0:37:23.984000	0:37:25.761000
 österreichischer	-	-	-	0:37:23.984000	0:37:25.761000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:25.761000" end="0:37:26.239000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:25.761000" end="0:37:26.239000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:37:25.761000	0:37:26.239000
 .	-	-	-	0:37:25.761000	0:37:26.239000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:25.761000" end="0:37:36.126000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:25.761000" end="0:37:36.126000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Ausdruck	-	-	-	0:37:25.761000	0:37:26.239000
 da	-	-	-	0:37:26.239000	0:37:26.810000
 rein	-	-	-	0:37:26.239000	0:37:26.810000
@@ -7754,11 +7754,11 @@ so	-	-	-	0:37:34.773000	0:37:36.126000
 unsere	-	-	-	0:37:34.773000	0:37:36.126000
 ,	-	-	-	0:37:34.773000	0:37:36.126000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:36.126000" end="0:37:36.665000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:36.126000" end="0:37:36.665000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:36.126000	0:37:36.665000
 .	-	-	-	0:37:36.126000	0:37:36.665000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:36.665000" end="0:37:42.266000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:36.665000" end="0:37:42.266000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 unser	-	-	-	0:37:36.665000	0:37:37.389000
 Dialekt	-	-	-	0:37:36.665000	0:37:37.389000
 ,	-	-	-	0:37:36.665000	0:37:37.389000
@@ -7781,11 +7781,11 @@ zum	-	-	-	0:37:40.318000	0:37:42.266000
 Deutschen	-	-	-	0:37:40.318000	0:37:42.266000
 .	-	-	-	0:37:40.318000	0:37:42.266000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:42.266000" end="0:37:43.023000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:42.266000" end="0:37:43.023000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:42.266000	0:37:43.023000
 .	-	-	-	0:37:42.266000	0:37:43.023000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:43.023000" end="0:37:55.221000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:43.023000" end="0:37:55.221000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 (deshalb)	-	-	-	0:37:43.984000	0:37:44.542000
 .	-	-	-	0:37:43.984000	0:37:44.542000
@@ -7822,11 +7822,11 @@ oder	-	-	-	0:37:49.884000	0:37:55.221000
 nicht	-	-	-	0:37:49.884000	0:37:55.221000
 ,	-	-	-	0:37:49.884000	0:37:55.221000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:55.221000" end="0:37:55.890000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:55.221000" end="0:37:55.890000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:37:55.221000	0:37:55.890000
 .	-	-	-	0:37:55.221000	0:37:55.890000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:37:55.221000" end="0:37:58.323000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:37:55.221000" end="0:37:58.323000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:37:55.221000	0:37:55.890000
 <pause duration="1,4s"/>
 so	-	-	-	0:37:57.341000	0:37:58.323000
@@ -7836,7 +7836,7 @@ es	-	-	-	0:37:57.341000	0:37:58.323000
 versteht	-	-	-	0:37:57.341000	0:37:58.323000
 .	-	-	-	0:37:57.341000	0:37:58.323000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:37:58.323000" end="0:38:20.686000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:37:58.323000" end="0:38:20.686000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 bitte	-	-	-	0:38:01.462000	0:38:02.536000
 überlegen	-	-	-	0:38:01.462000	0:38:02.536000
@@ -7893,7 +7893,7 @@ vom	-	-	-	0:38:15.557000	0:38:20.686000
 Österreichischen	-	-	-	0:38:15.557000	0:38:20.686000
 .	-	-	-	0:38:15.557000	0:38:20.686000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:38:20.686000" end="0:38:25.796000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:38:20.686000" end="0:38:25.796000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 ja	-	-	-	0:38:24.240000	0:38:25.796000
 es	-	-	-	0:38:24.240000	0:38:25.796000
@@ -7903,11 +7903,11 @@ so	-	-	-	0:38:24.240000	0:38:25.796000
 Abstufungen	-	-	-	0:38:24.240000	0:38:25.796000
 ,	-	-	-	0:38:24.240000	0:38:25.796000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:25.796000" end="0:38:26.239000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:25.796000" end="0:38:26.239000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:38:25.796000	0:38:26.239000
 .	-	-	-	0:38:25.796000	0:38:26.239000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:38:26.239000" end="0:38:40.658000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:38:26.239000" end="0:38:40.658000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:38:26.239000	0:38:27.922000
 <pause duration="0,9s"/>
@@ -7954,12 +7954,12 @@ ganz	-	-	-	0:38:38.304000	0:38:40.658000
 ganz	-	-	-	0:38:38.304000	0:38:40.658000
 viele	-	-	-	0:38:38.304000	0:38:40.658000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:38:40.658000" end="0:38:41.739000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:38:40.658000" end="0:38:41.739000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:38:40.658000	0:38:41.739000
 .	-	-	-	0:38:40.658000	0:38:41.739000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:38:40.658000" end="0:39:05.027000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:38:40.658000" end="0:39:05.027000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Abstufungen	-	-	-	0:38:40.658000	0:38:41.739000
 <pause duration="0,5s"/>
 und	-	-	-	0:38:41.739000	0:38:42.943000
@@ -8025,21 +8025,21 @@ irgendwie	-	-	-	0:38:59.557000	0:39:03.771000
 langsam	-	-	-	0:39:03.771000	0:39:05.027000
 und	-	-	-	0:39:03.771000	0:39:05.027000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:05.027000" end="0:39:06.908000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:05.027000" end="0:39:06.908000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:05.027000" end="0:39:07.500000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:05.027000" end="0:39:07.500000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 schön	-	-	-	0:39:05.027000	0:39:06.908000
 artikulierend	-	-	-	0:39:05.027000	0:39:06.908000
 Dialekt	-	-	-	0:39:06.908000	0:39:07.500000
 zu	-	-	-	0:39:06.908000	0:39:07.500000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:07.500000" end="0:39:08.993000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:07.500000" end="0:39:08.993000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:07.500000	0:39:08.993000
 ,	-	-	-	0:39:07.500000	0:39:08.993000
 okay	-	-	-	0:39:07.500000	0:39:08.993000
 .	-	-	-	0:39:07.500000	0:39:08.993000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:07.500000" end="0:39:09.878000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:07.500000" end="0:39:09.878000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sprechen	-	-	-	0:39:07.500000	0:39:08.993000
 und	-	-	-	0:39:07.500000	0:39:08.993000
 denken	-	-	-	0:39:07.500000	0:39:08.993000
@@ -8050,18 +8050,18 @@ das	-	-	-	0:39:08.993000	0:39:09.878000
 ist	-	-	-	0:39:08.993000	0:39:09.878000
 irgendwie	-	-	-	0:39:08.993000	0:39:09.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:09.878000" end="0:39:10.994000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:09.878000" end="0:39:10.994000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:09.878000" end="0:39:10.994000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:09.878000" end="0:39:10.994000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:39:09.878000	0:39:10.994000
 /.	-	-	-	0:39:09.878000	0:39:10.994000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:10.994000" end="0:39:11.905000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:10.994000" end="0:39:11.905000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:10.994000	0:39:11.905000
 .	-	-	-	0:39:10.994000	0:39:11.905000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:10.994000" end="0:39:15.211000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:10.994000" end="0:39:15.211000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:10.994000	0:39:11.905000
 ,	-	-	-	0:39:10.994000	0:39:11.905000
 das	-	-	-	0:39:11.905000	0:39:13.783000
@@ -8080,11 +8080,11 @@ nicht	-	-	-	0:39:13.783000	0:39:15.211000
 wirklich	-	-	-	0:39:13.783000	0:39:15.211000
 .	-	-	-	0:39:13.783000	0:39:15.211000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:15.211000" end="0:39:15.540000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:15.211000" end="0:39:15.540000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:15.211000	0:39:15.540000
 .	-	-	-	0:39:15.211000	0:39:15.540000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:15.540000" end="0:39:17.282000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:15.540000" end="0:39:17.282000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:39:15.540000	0:39:16.123000
 ganz	-	-	-	0:39:15.540000	0:39:16.123000
 witzig	-	-	-	0:39:15.540000	0:39:16.123000
@@ -8095,20 +8095,20 @@ ins	-	-	-	0:39:16.123000	0:39:17.282000
 Ausland	-	-	-	0:39:16.123000	0:39:17.282000
 fährt	-	-	-	0:39:16.123000	0:39:17.282000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:17.282000" end="0:39:20.360000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:17.282000" end="0:39:20.360000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:18.236000" end="0:39:20.360000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:18.236000" end="0:39:20.360000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mit	-	-	-	0:39:18.236000	0:39:20.360000
 (denen)	-	-	-	0:39:18.236000	0:39:20.360000
 .	-	-	-	0:39:18.236000	0:39:20.360000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:20.360000" end="0:39:23.903000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:20.360000" end="0:39:23.903000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,5s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:20.360000" end="0:39:23.903000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:20.360000" end="0:39:23.903000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:23.903000" end="0:39:34.437000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:23.903000" end="0:39:34.437000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:39:23.903000	0:39:27.098000
 ähm	-	-	-	0:39:23.903000	0:39:27.098000
 <pause duration="0,6s"/>
@@ -8141,7 +8141,7 @@ vom	-	-	-	0:39:33.003000	0:39:34.437000
 Hochdeutschen	-	-	-	0:39:33.003000	0:39:34.437000
 ?	-	-	-	0:39:33.003000	0:39:34.437000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:33.003000" end="0:39:34.437000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:33.003000" end="0:39:34.437000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 es	-	-	-	0:39:33.003000	0:39:34.437000
 kommt	-	-	-	0:39:33.003000	0:39:34.437000
 auf	-	-	-	0:39:33.003000	0:39:34.437000
@@ -8149,7 +8149,7 @@ den	-	-	-	0:39:33.003000	0:39:34.437000
 /.	-	-	-	0:39:33.003000	0:39:34.437000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:34.437000" end="0:39:35.897000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:34.437000" end="0:39:35.897000" persName="Informant EXP9" age_lower="" age_upper="999">
 wie	-	-	-	0:39:34.437000	0:39:35.897000
 würden	-	-	-	0:39:34.437000	0:39:35.897000
 Sie	-	-	-	0:39:34.437000	0:39:35.897000
@@ -8157,7 +8157,7 @@ das	-	-	-	0:39:34.437000	0:39:35.897000
 benutzen	-	-	-	0:39:34.437000	0:39:35.897000
 ?	-	-	-	0:39:34.437000	0:39:35.897000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:34.437000" end="0:39:38.568000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:34.437000" end="0:39:38.568000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:39:34.437000	0:39:35.897000
 kommt	-	-	-	0:39:34.437000	0:39:35.897000
 auf	-	-	-	0:39:34.437000	0:39:35.897000
@@ -8166,11 +8166,11 @@ den	-	-	-	0:39:34.437000	0:39:35.897000
 Bezugs((0,6s))ort	-	-	-	0:39:35.897000	0:39:38.568000
 darauf	-	-	-	0:39:35.897000	0:39:38.568000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:38.568000" end="0:39:39.123000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:38.568000" end="0:39:39.123000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:39:38.568000	0:39:39.123000
 .	-	-	-	0:39:38.568000	0:39:39.123000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:38.568000" end="0:39:43.481000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:38.568000" end="0:39:43.481000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 an	-	-	-	0:39:38.568000	0:39:39.123000
 ,	-	-	-	0:39:38.568000	0:39:39.123000
 aber	-	-	-	0:39:39.123000	0:39:43.481000
@@ -8184,11 +8184,11 @@ die	-	-	-	0:39:39.123000	0:39:43.481000
 Standardvariation	-	-	-	0:39:39.123000	0:39:43.481000
 vom	-	-	-	0:39:39.123000	0:39:43.481000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:43.481000" end="0:39:44.435000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:43.481000" end="0:39:44.435000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:43.481000	0:39:44.435000
 .	-	-	-	0:39:43.481000	0:39:44.435000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:43.481000" end="0:39:48.564000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:43.481000" end="0:39:48.564000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Österreichischen	-	-	-	0:39:43.481000	0:39:44.435000
 .	-	-	-	0:39:43.481000	0:39:44.435000
 für	-	-	-	0:39:44.435000	0:39:47.175000
@@ -8207,11 +8207,11 @@ ich	-	-	-	0:39:47.175000	0:39:48.564000
 nicht	-	-	-	0:39:47.175000	0:39:48.564000
 ,	-	-	-	0:39:47.175000	0:39:48.564000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:48.564000" end="0:39:49.310000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:48.564000" end="0:39:49.310000" persName="Informant EXP9" age_lower="" age_upper="999">
 (mhm)	-	-	-	0:39:48.564000	0:39:49.310000
 ,	-	-	-	0:39:48.564000	0:39:49.310000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:48.564000" end="0:39:50.251000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:48.564000" end="0:39:50.251000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 die	-	-	-	0:39:48.564000	0:39:49.310000
 Standardvariation	-	-	-	0:39:48.564000	0:39:49.310000
 vom	-	-	-	0:39:49.310000	0:39:50.251000
@@ -8219,11 +8219,11 @@ Hochdeutschen	-	-	-	0:39:49.310000	0:39:50.251000
 sein	-	-	-	0:39:49.310000	0:39:50.251000
 ,	-	-	-	0:39:49.310000	0:39:50.251000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:50.251000" end="0:39:50.633000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:50.251000" end="0:39:50.633000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:39:50.251000	0:39:50.633000
 .	-	-	-	0:39:50.251000	0:39:50.633000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:50.633000" end="0:39:52.676000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:50.633000" end="0:39:52.676000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:39:50.633000	0:39:52.676000
 das	-	-	-	0:39:50.633000	0:39:52.676000
 müssen	-	-	-	0:39:50.633000	0:39:52.676000
@@ -8232,15 +8232,15 @@ dann	-	-	-	0:39:50.633000	0:39:52.676000
 einen	-	-	-	0:39:50.633000	0:39:52.676000
 Deutschen	-	-	-	0:39:50.633000	0:39:52.676000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:52.676000" end="0:39:53.732000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:52.676000" end="0:39:53.732000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:39:52.676000	0:39:53.732000
 .	-	-	-	0:39:52.676000	0:39:53.732000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:39:52.676000" end="0:39:53.732000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:39:52.676000" end="0:39:53.732000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 fragen	-	-	-	0:39:52.676000	0:39:53.732000
 .	-	-	-	0:39:52.676000	0:39:53.732000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:39:53.732000" end="0:40:03.419000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:39:53.732000" end="0:40:03.419000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,1s"/>
 fällt	-	-	-	0:39:56.027000	0:39:59.111000
 es	-	-	-	0:39:56.027000	0:39:59.111000
@@ -8266,7 +8266,7 @@ zu	-	-	-	0:39:59.111000	0:40:03.419000
 wechseln	-	-	-	0:39:59.111000	0:40:03.419000
 ?	-	-	-	0:39:59.111000	0:40:03.419000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:03.419000" end="0:40:06.888000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:03.419000" end="0:40:06.888000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 eigentlich	-	-	-	0:40:05.755000	0:40:06.888000
 fällt	-	-	-	0:40:05.755000	0:40:06.888000
@@ -8275,11 +8275,11 @@ mir	-	-	-	0:40:05.755000	0:40:06.888000
 leicht	-	-	-	0:40:05.755000	0:40:06.888000
 ,	-	-	-	0:40:05.755000	0:40:06.888000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:06.888000" end="0:40:07.459000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:06.888000" end="0:40:07.459000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:06.888000	0:40:07.459000
 .	-	-	-	0:40:06.888000	0:40:07.459000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:07.459000" end="0:40:10.664000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:07.459000" end="0:40:10.664000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 manchmal	-	-	-	0:40:07.459000	0:40:08.926000
 wenn	-	-	-	0:40:07.459000	0:40:08.926000
 ich	-	-	-	0:40:07.459000	0:40:08.926000
@@ -8296,11 +8296,11 @@ die	-	-	-	0:40:09.351000	0:40:10.664000
 Situation	-	-	-	0:40:09.351000	0:40:10.664000
 ganz	-	-	-	0:40:09.351000	0:40:10.664000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:10.664000" end="0:40:11.721000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:10.664000" end="0:40:11.721000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:40:10.664000	0:40:11.721000
 .	-	-	-	0:40:10.664000	0:40:11.721000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:10.664000" end="0:40:26.332000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:10.664000" end="0:40:26.332000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 am	-	-	-	0:40:10.664000	0:40:11.721000
 Anfang	-	-	-	0:40:10.664000	0:40:11.721000
 .	-	-	-	0:40:10.664000	0:40:11.721000
@@ -8352,11 +8352,11 @@ gleich	-	-	-	0:40:24.778000	0:40:26.332000
 ein	-	-	-	0:40:24.778000	0:40:26.332000
 .	-	-	-	0:40:24.778000	0:40:26.332000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:26.332000" end="0:40:26.726000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:26.332000" end="0:40:26.726000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:26.332000	0:40:26.726000
 .	-	-	-	0:40:26.332000	0:40:26.726000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:26.726000" end="0:40:42.861000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:26.726000" end="0:40:42.861000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:40:26.726000	0:40:30.591000
 im	-	-	-	0:40:26.726000	0:40:30.591000
 Großen	-	-	-	0:40:26.726000	0:40:30.591000
@@ -8403,11 +8403,11 @@ oder	-	-	-	0:40:42.375000	0:40:42.861000
 mit	-	-	-	0:40:42.375000	0:40:42.861000
 welchen	-	-	-	0:40:42.375000	0:40:42.861000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:42.861000" end="0:40:43.775000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:42.861000" end="0:40:43.775000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:42.861000	0:40:43.775000
 .	-	-	-	0:40:42.861000	0:40:43.775000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:42.861000" end="0:40:45.702000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:42.861000" end="0:40:45.702000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Personen	-	-	-	0:40:42.861000	0:40:43.775000
 ich	-	-	-	0:40:42.861000	0:40:43.775000
 da	-	-	-	0:40:42.861000	0:40:43.775000
@@ -8425,11 +8425,11 @@ das	-	-	-	0:40:44.624000	0:40:45.702000
 denke	-	-	-	0:40:44.624000	0:40:45.702000
 ,	-	-	-	0:40:44.624000	0:40:45.702000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:45.702000" end="0:40:46.036000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:45.702000" end="0:40:46.036000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:40:45.702000	0:40:46.036000
 .	-	-	-	0:40:45.702000	0:40:46.036000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:45.702000" end="0:40:47.042000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:45.702000" end="0:40:47.042000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK std stdL+	0:40:45.702000	0:40:46.036000
 ich	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK std stdL+	0:40:45.702000	0:40:46.036000
 mit	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK std stdL+	0:40:45.702000	0:40:46.036000
@@ -8438,7 +8438,7 @@ sprechen	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK std std
 sollte	-	-	KForm KKon KKt KLaut KMark KONJ KPrät KVerb Ksynth MV ModK std stdL+	0:40:46.036000	0:40:47.042000
 .	-	-	-	0:40:46.036000	0:40:47.042000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:47.042000" end="0:40:53.508000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:47.042000" end="0:40:53.508000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:40:47.042000	0:40:49.028000
 passiert	-	-	-	0:40:47.042000	0:40:49.028000
 das	-	-	-	0:40:47.042000	0:40:49.028000
@@ -8466,7 +8466,7 @@ dass	-	-	-	0:40:51.560000	0:40:53.508000
 das	-	-	-	0:40:51.560000	0:40:53.508000
 automatisch	-	-	-	0:40:51.560000	0:40:53.508000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:51.560000" end="0:40:53.508000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:51.560000" end="0:40:53.508000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	-	-	-	0:40:51.560000	0:40:53.508000
 ,	-	-	-	0:40:51.560000	0:40:53.508000
@@ -8474,11 +8474,11 @@ das	-	-	-	0:40:51.560000	0:40:53.508000
 passier/	-	-	-	0:40:51.560000	0:40:53.508000
 /.	-	-	-	0:40:51.560000	0:40:53.508000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:53.508000" end="0:40:53.870000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:53.508000" end="0:40:53.870000" persName="Informant EXP9" age_lower="" age_upper="999">
 geht	-	-	-	0:40:53.508000	0:40:53.870000
 ?	-	-	-	0:40:53.508000	0:40:53.870000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:53.508000" end="0:40:56.113000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:53.508000" end="0:40:56.113000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ganz	-	-	-	0:40:53.508000	0:40:53.870000
 am	-	-	-	0:40:53.508000	0:40:53.870000
 Anfang	-	-	-	0:40:53.870000	0:40:54.714000
@@ -8492,11 +8492,11 @@ bewusst	-	-	-	0:40:54.714000	0:40:56.113000
 gemacht	-	-	-	0:40:54.714000	0:40:56.113000
 ,	-	-	-	0:40:54.714000	0:40:56.113000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:40:56.113000" end="0:40:56.529000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:40:56.113000" end="0:40:56.529000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:40:56.113000	0:40:56.529000
 .	-	-	-	0:40:56.113000	0:40:56.529000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:40:56.529000" end="0:41:00.243000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:40:56.529000" end="0:41:00.243000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:40:56.529000	0:40:58.198000
 mir	-	-	-	0:40:56.529000	0:40:58.198000
 das	-	-	-	0:40:56.529000	0:40:58.198000
@@ -8516,11 +8516,11 @@ aus	-	-	-	0:40:59.156000	0:41:00.243000
 Steyrling	-	-	-	0:40:59.156000	0:41:00.243000
 weggegangen	-	-	-	0:40:59.156000	0:41:00.243000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:00.244000" end="0:41:00.563000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:00.244000" end="0:41:00.563000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:41:00.244000	0:41:00.563000
 .	-	-	-	0:41:00.244000	0:41:00.563000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:00.244000" end="0:41:07.535000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:00.244000" end="0:41:07.535000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 (bin)	-	-	-	0:41:00.244000	0:41:00.563000
 ,	-	-	-	0:41:00.244000	0:41:00.563000
 <pause duration="0,8s"/>
@@ -8544,11 +8544,11 @@ also	-	-	-	0:41:05.365000	0:41:06.172000
 Standard/	-	-	-	0:41:06.172000	0:41:07.535000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:07.535000" end="0:41:08.553000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:07.535000" end="0:41:08.553000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:41:07.535000	0:41:08.553000
 .	-	-	-	0:41:07.535000	0:41:08.553000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:07.535000" end="0:41:20.852000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:07.535000" end="0:41:20.852000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Standardvariation	-	-	-	0:41:07.535000	0:41:08.553000
 halt	-	-	-	0:41:08.553000	0:41:10.503000
 <pause duration="0,7s"/>
@@ -8590,11 +8590,11 @@ Umgebung	-	-	-	0:41:16.229000	0:41:20.852000
 von	-	-	-	0:41:16.229000	0:41:20.852000
 ORT	ORT	-	-	0:41:16.229000	0:41:20.852000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:20.852000" end="0:41:21.832000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:20.852000" end="0:41:21.832000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:20.852000	0:41:21.832000
 .	-	-	-	0:41:20.852000	0:41:21.832000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:20.852000" end="0:41:25.048000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:20.852000" end="0:41:25.048000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 zusammen(())gewohnt	-	-	-	0:41:20.852000	0:41:21.832000
 und	-	-	-	0:41:21.832000	0:41:25.048000
 habe	-	-	-	0:41:21.832000	0:41:25.048000
@@ -8609,11 +8609,11 @@ nur	-	-	-	0:41:21.832000	0:41:25.048000
 ähm	-	-	-	0:41:21.832000	0:41:25.048000
 Dialekt	-	-	-	0:41:21.832000	0:41:25.048000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:25.048000" end="0:41:25.514000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:25.048000" end="0:41:25.514000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:41:25.048000	0:41:25.514000
 .	-	-	-	0:41:25.048000	0:41:25.514000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:25.048000" end="0:41:28.957000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:25.048000" end="0:41:28.957000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gesprochen	-	-	-	0:41:25.048000	0:41:25.514000
 und	-	-	-	0:41:25.514000	0:41:25.803000
 wenn	-	-	-	0:41:25.514000	0:41:25.803000
@@ -8635,16 +8635,16 @@ mich	-	-	-	0:41:27.502000	0:41:28.957000
 voll	-	-	-	0:41:27.502000	0:41:28.957000
 zusammengerissen	-	-	-	0:41:27.502000	0:41:28.957000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:28.957000" end="0:41:29.570000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:28.957000" end="0:41:29.570000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:28.957000" end="0:41:29.570000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:28.957000" end="0:41:29.570000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:41:28.957000	0:41:29.570000
 dann	-	-	-	0:41:28.957000	0:41:29.570000
 /.	-	-	-	0:41:28.957000	0:41:29.570000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:29.570000" end="0:41:30.049000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:29.570000" end="0:41:30.049000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:29.570000" end="0:41:45.254000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:29.570000" end="0:41:45.254000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:41:29.570000	0:41:30.049000
 weiß	-	-	-	0:41:29.570000	0:41:30.049000
 noch	-	-	-	0:41:29.570000	0:41:30.049000
@@ -8696,11 +8696,11 @@ mein	-	-	-	0:41:43.258000	0:41:45.254000
 Gegenüber	-	-	-	0:41:43.258000	0:41:45.254000
 mit	-	-	-	0:41:43.258000	0:41:45.254000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:45.254000" end="0:41:45.765000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:45.254000" end="0:41:45.765000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:41:45.254000	0:41:45.765000
 ,	-	-	-	0:41:45.254000	0:41:45.765000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:45.254000" end="0:41:46.149000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:45.254000" end="0:41:46.149000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mir	-	-	-	0:41:45.254000	0:41:45.765000
 spricht	-	-	-	0:41:45.254000	0:41:45.765000
 ,	-	-	-	0:41:45.254000	0:41:45.765000
@@ -8708,15 +8708,15 @@ so	-	-	-	0:41:45.765000	0:41:46.149000
 rede	-	-	-	0:41:45.765000	0:41:46.149000
 ich	-	-	-	0:41:45.765000	0:41:46.149000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:46.149000" end="0:41:46.538000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:46.149000" end="0:41:46.538000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:41:46.149000	0:41:46.538000
 .	-	-	-	0:41:46.149000	0:41:46.538000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:46.149000" end="0:41:46.538000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:46.149000" end="0:41:46.538000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 zurück	-	-	-	0:41:46.149000	0:41:46.538000
 .	-	-	-	0:41:46.149000	0:41:46.538000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:46.538000" end="0:41:55.333000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:46.538000" end="0:41:55.333000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,1s"/>
 sprechen	-	-	-	0:41:49.673000	0:41:54.190000
 Sie	-	-	-	0:41:49.673000	0:41:54.190000
@@ -8736,18 +8736,18 @@ die	-	-	-	0:41:54.190000	0:41:55.333000
 andere	-	-	-	0:41:54.190000	0:41:55.333000
 .	-	-	-	0:41:54.190000	0:41:55.333000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:41:55.333000" end="0:41:59.212000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:41:55.333000" end="0:41:59.212000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 hm	-	-	-	0:41:58.493000	0:41:59.212000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:41:59.212000" end="0:42:04.101000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:41:59.212000" end="0:42:04.101000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,3s"/>
 Steyrlingerisch	-	-	-	0:42:01.560000	0:42:03.520000
 oder	-	-	-	0:42:01.560000	0:42:03.520000
 das	-	-	-	0:42:03.520000	0:42:04.101000
 /?	-	-	-	0:42:03.520000	0:42:04.101000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:03.520000" end="0:42:08.690000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:03.520000" end="0:42:08.690000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ich	-	-	-	0:42:03.520000	0:42:04.101000
 spreche	-	-	-	0:42:03.520000	0:42:04.101000
 gern	-	-	-	0:42:04.101000	0:42:05.037000
@@ -8768,11 +8768,11 @@ mich	-	-	-	0:42:07.875000	0:42:08.690000
 verstehen	-	-	-	0:42:07.875000	0:42:08.690000
 ,	-	-	-	0:42:07.875000	0:42:08.690000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:08.690000" end="0:42:09.255000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:08.690000" end="0:42:09.255000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:42:08.690000	0:42:09.255000
 .	-	-	-	0:42:08.690000	0:42:09.255000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:09.255000" end="0:42:17.151000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:09.255000" end="0:42:17.151000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 weil	-	-	-	0:42:09.255000	0:42:11.307000
 ganz	-	-	-	0:42:09.255000	0:42:11.307000
@@ -8821,11 +8821,11 @@ Dialekt	-	-	-	0:42:15.482000	0:42:16.855000
 und	-	-	-	0:42:16.855000	0:42:17.151000
 dann	-	-	-	0:42:16.855000	0:42:17.151000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:17.151000" end="0:42:20.795000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:17.151000" end="0:42:20.795000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:42:18.357000	0:42:20.795000
 .	-	-	-	0:42:18.357000	0:42:20.795000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:18.357000" end="0:42:20.795000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:18.357000" end="0:42:20.795000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 verstehen	-	-	-	0:42:18.357000	0:42:20.795000
 die	-	-	-	0:42:18.357000	0:42:20.795000
 einfach	-	-	-	0:42:18.357000	0:42:20.795000
@@ -8833,17 +8833,17 @@ gar	-	-	-	0:42:18.357000	0:42:20.795000
 nichts	-	-	-	0:42:18.357000	0:42:20.795000
 .	-	-	-	0:42:18.357000	0:42:20.795000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:20.795000" end="0:42:21.704000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:20.795000" end="0:42:21.704000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:42:20.795000	0:42:21.704000
 .	-	-	-	0:42:20.795000	0:42:21.704000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:21.704000" end="0:42:23.561000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:21.704000" end="0:42:23.561000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 genau	-	-	-	0:42:23.181000	0:42:23.561000
 .	-	-	-	0:42:23.181000	0:42:23.561000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:23.561000" end="0:42:29.205000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:23.561000" end="0:42:29.205000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 kommen	-	-	-	0:42:23.561000	0:42:26.141000
 wir	-	-	-	0:42:23.561000	0:42:26.141000
@@ -8862,7 +8862,7 @@ Sie	-	-	-	0:42:26.141000	0:42:29.205000
 wie	-	-	-	0:42:26.141000	0:42:29.205000
 ?	-	-	-	0:42:26.141000	0:42:29.205000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:29.205000" end="0:42:32.975000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:29.205000" end="0:42:32.975000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 ich	-	-	-	0:42:31.205000	0:42:32.975000
 spreche	-	-	-	0:42:31.205000	0:42:32.975000
@@ -8872,7 +8872,7 @@ allen	-	-	-	0:42:31.205000	0:42:32.975000
 Steyrlingerisch	-	-	-	0:42:31.205000	0:42:32.975000
 .	-	-	-	0:42:31.205000	0:42:32.975000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:32.975000" end="0:42:35.538000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:32.975000" end="0:42:35.538000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:42:32.975000	0:42:33.349000
 ,	-	-	-	0:42:32.975000	0:42:33.349000
 also	-	-	-	0:42:33.349000	0:42:34.841000
@@ -8885,22 +8885,22 @@ Sie	-	-	-	0:42:34.841000	0:42:35.538000
 sagen	-	-	-	0:42:34.841000	0:42:35.538000
 ?	-	-	-	0:42:34.841000	0:42:35.538000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:35.538000" end="0:42:36.081000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:35.538000" end="0:42:36.081000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:35.538000	0:42:36.081000
 .	-	-	-	0:42:35.538000	0:42:36.081000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:36.081000" end="0:42:38.065000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:36.081000" end="0:42:38.065000" persName="Informant EXP9" age_lower="" age_upper="999">
 den	-	-	-	0:42:36.081000	0:42:37.690000
 Großeltern	-	-	-	0:42:36.081000	0:42:37.690000
 wie	-	-	-	0:42:37.690000	0:42:38.065000
 mit	-	-	-	0:42:37.690000	0:42:38.065000
 den	-	-	-	0:42:37.690000	0:42:38.065000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:37.690000" end="0:42:38.065000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:37.690000" end="0:42:38.065000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:37.690000	0:42:38.065000
 .	-	-	-	0:42:37.690000	0:42:38.065000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:38.065000" end="0:42:41.146000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:38.065000" end="0:42:41.146000" persName="Informant EXP9" age_lower="" age_upper="999">
 Eltern	-	-	-	0:42:38.065000	0:42:38.655000
 ?	-	-	-	0:42:38.065000	0:42:38.655000
 <pause duration="0,7s"/>
@@ -8912,37 +8912,37 @@ Sie	-	-	-	0:42:40.198000	0:42:40.451000
 Geschwister	-	-	-	0:42:40.451000	0:42:41.146000
 ?	-	-	-	0:42:40.451000	0:42:41.146000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:40.451000" end="0:42:41.146000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:40.451000" end="0:42:41.146000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:40.451000	0:42:41.146000
 .	-	-	-	0:42:40.451000	0:42:41.146000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:41.146000" end="0:42:42.285000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:41.146000" end="0:42:42.285000" persName="Informant EXP9" age_lower="" age_upper="999">
 mit	-	-	-	0:42:41.146000	0:42:41.810000
 denen	-	-	-	0:42:41.146000	0:42:41.810000
 auch	-	-	-	0:42:41.146000	0:42:41.810000
 gleich	-	-	-	0:42:41.810000	0:42:42.285000
 ?	-	-	-	0:42:41.810000	0:42:42.285000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:41.810000" end="0:42:42.285000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:41.810000" end="0:42:42.285000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:41.810000	0:42:42.285000
 .	-	-	-	0:42:41.810000	0:42:42.285000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:42.285000" end="0:42:43.631000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:42.285000" end="0:42:43.631000" persName="Informant EXP9" age_lower="" age_upper="999">
 keine	-	-	-	0:42:42.285000	0:42:42.770000
 Unterschiede	-	-	-	0:42:42.770000	0:42:43.631000
 ?	-	-	-	0:42:42.770000	0:42:43.631000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:42.770000" end="0:42:43.631000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:42.770000" end="0:42:43.631000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nein	-	-	-	0:42:42.770000	0:42:43.631000
 .	-	-	-	0:42:42.770000	0:42:43.631000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:43.631000" end="0:42:44.050000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:43.631000" end="0:42:44.050000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:42:43.631000	0:42:44.050000
 .	-	-	-	0:42:43.631000	0:42:44.050000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:43.631000" end="0:42:44.050000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:43.631000" end="0:42:44.050000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:44.050000" end="0:42:50.489000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:44.050000" end="0:42:50.489000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 denken	-	-	-	0:42:45	0:42:47.651000
 Sie	-	-	-	0:42:45	0:42:47.651000
@@ -8959,12 +8959,12 @@ miteinander	-	-	-	0:42:47.651000	0:42:50.489000
 gesprochen	-	-	-	0:42:47.651000	0:42:50.489000
 ?	-	-	-	0:42:47.651000	0:42:50.489000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:42:50.489000" end="0:42:56.068000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:42:50.489000" end="0:42:56.068000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 Steyrlingerisch	-	-	-	0:42:55.178000	0:42:56.068000
 .	-	-	-	0:42:55.178000	0:42:56.068000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:42:56.068000" end="0:43:01.688000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:42:56.068000" end="0:43:01.688000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:42:56.068000	0:42:56.557000
 .	-	-	-	0:42:56.068000	0:42:56.557000
 <pause duration="1,6s"/>
@@ -8981,19 +8981,19 @@ Kind	-	-	-	0:42:58.130000	0:43:01.688000
 gesprochen	-	-	-	0:42:58.130000	0:43:01.688000
 ?	-	-	-	0:42:58.130000	0:43:01.688000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:01.688000" end="0:43:03.333000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:01.688000" end="0:43:03.333000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:03.333000" end="0:43:04.586000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:03.333000" end="0:43:04.586000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:43:03.333000	0:43:04.586000
 ,	-	-	-	0:43:03.333000	0:43:04.586000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:03.333000" end="0:43:04.586000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:03.333000" end="0:43:04.586000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Steyrlingerisch	-	-	-	0:43:03.333000	0:43:04.586000
 .	-	-	-	0:43:03.333000	0:43:04.586000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:04.586000" end="0:43:07.144000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:04.586000" end="0:43:07.144000" persName="Informant EXP9" age_lower="" age_upper="999">
 warum	-	-	-	0:43:04.586000	0:43:07.144000
 ,	-	-	-	0:43:04.586000	0:43:07.144000
 glauben	-	-	-	0:43:04.586000	0:43:07.144000
@@ -9007,7 +9007,7 @@ Steyrlingerisch	-	-	-	0:43:04.586000	0:43:07.144000
 gesprochen	-	-	-	0:43:04.586000	0:43:07.144000
 ?	-	-	-	0:43:04.586000	0:43:07.144000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:07.144000" end="0:43:17.573000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:07.144000" end="0:43:17.573000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 ja	-	-	-	0:43:09.901000	0:43:10.454000
 ,	-	-	-	0:43:09.901000	0:43:10.454000
@@ -9025,24 +9025,24 @@ mehr	-	-	-	0:43:10.455000	0:43:17.573000
 oder	-	-	-	0:43:10.455000	0:43:17.573000
 weniger	-	-	-	0:43:10.455000	0:43:17.573000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:17.573000" end="0:43:18.001000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:17.573000" end="0:43:18.001000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:43:17.573000	0:43:18.001000
 ,	-	-	-	0:43:17.573000	0:43:18.001000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:17.573000" end="0:43:18.001000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:17.573000" end="0:43:18.001000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 war	-	-	-	0:43:17.573000	0:43:18.001000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:18.001000" end="0:43:18.980000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:18.001000" end="0:43:18.980000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:18.001000" end="0:43:18.980000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:18.001000" end="0:43:18.980000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:18.980000" end="0:43:19.150000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:18.980000" end="0:43:19.150000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:43:18.980000	0:43:19.150000
 .	-	-	-	0:43:18.980000	0:43:19.150000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:19.150000" end="0:43:23.464000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:19.150000" end="0:43:23.464000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:43:19.150000	0:43:19.825000
 /.	-	-	-	0:43:19.150000	0:43:19.825000
 ja	-	-	-	0:43:19.825000	0:43:21.283000
@@ -9058,10 +9058,10 @@ also	-	-	-	0:43:21.283000	0:43:23.464000
 es	-	-	-	0:43:21.283000	0:43:23.464000
 ist	-	-	-	0:43:21.283000	0:43:23.464000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:23.464000" end="0:43:23.767000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:23.464000" end="0:43:23.767000" persName="Informant EXP9" age_lower="" age_upper="999">
 (mhm)	-	-	-	0:43:23.464000	0:43:23.767000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:23.464000" end="0:43:25.705000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:23.464000" end="0:43:25.705000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:43:23.464000	0:43:23.767000
 /.	-	-	-	0:43:23.464000	0:43:23.767000
 weiß	-	-	-	0:43:23.767000	0:43:24.573000
@@ -9074,7 +9074,7 @@ irgendwie	-	-	-	0:43:24.573000	0:43:25.705000
 normal	-	-	-	0:43:24.573000	0:43:25.705000
 .	-	-	-	0:43:24.573000	0:43:25.705000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:25.705000" end="0:43:28.829000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:25.705000" end="0:43:28.829000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:43:25.705000	0:43:26.017000
 .	-	-	-	0:43:25.705000	0:43:26.017000
 <pause duration="1,5s"/>
@@ -9086,18 +9086,18 @@ Ihrem	-	-	-	0:43:27.508000	0:43:28.829000
 Vater	-	-	-	0:43:27.508000	0:43:28.829000
 ?	-	-	-	0:43:27.508000	0:43:28.829000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:28.829000" end="0:43:31.321000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:28.829000" end="0:43:31.321000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:31.321000" end="0:43:32.034000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:31.321000" end="0:43:32.034000" persName="Informant EXP9" age_lower="" age_upper="999">
 hat	-	-	-	0:43:31.321000	0:43:32.034000
 er	-	-	-	0:43:31.321000	0:43:32.034000
 genauso	-	-	-	0:43:31.321000	0:43:32.034000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:31.321000" end="0:43:32.034000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:31.321000" end="0:43:32.034000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 hm	-	-	-	0:43:31.321000	0:43:32.034000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:32.034000" end="0:43:34.188000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:32.034000" end="0:43:34.188000" persName="Informant EXP9" age_lower="" age_upper="999">
 mit	-	-	-	0:43:32.034000	0:43:32.903000
 Ihnen	-	-	-	0:43:32.034000	0:43:32.903000
 gesprochen	-	-	-	0:43:32.034000	0:43:32.903000
@@ -9108,7 +9108,7 @@ da	-	-	-	0:43:32.903000	0:43:34.188000
 Unterschiede	-	-	-	0:43:32.903000	0:43:34.188000
 ?	-	-	-	0:43:32.903000	0:43:34.188000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:34.188000" end="0:43:36.670000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:34.188000" end="0:43:36.670000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:34.188000	0:43:34.785000
 ,	-	-	-	0:43:34.188000	0:43:34.785000
 nein	-	-	-	0:43:34.785000	0:43:35.472000
@@ -9119,7 +9119,7 @@ es	-	-	-	0:43:35.472000	0:43:36.670000
 keine	-	-	-	0:43:35.472000	0:43:36.670000
 .	-	-	-	0:43:35.472000	0:43:36.670000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:36.670000" end="0:43:47.736000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:36.670000" end="0:43:47.736000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:43:36.670000	0:43:37.448000
 .	-	-	-	0:43:36.670000	0:43:37.448000
 <pause duration="1,1s"/>
@@ -9154,17 +9154,17 @@ gekommen	-	-	-	0:43:45.727000	0:43:47.736000
 sind	-	-	-	0:43:45.727000	0:43:47.736000
 ?	-	-	-	0:43:45.727000	0:43:47.736000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:47.736000" end="0:43:52.391000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:47.736000" end="0:43:52.391000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 Dialekt	-	-	-	0:43:50.840000	0:43:51.598000
 ,	-	-	-	0:43:50.840000	0:43:51.598000
 Steyrlingerisch	-	-	-	0:43:51.598000	0:43:52.391000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:52.391000" end="0:43:52.757000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:52.391000" end="0:43:52.757000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:43:52.391000	0:43:52.757000
 .	-	-	-	0:43:52.391000	0:43:52.757000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:52.391000" end="0:43:54.750000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:52.391000" end="0:43:54.750000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 von	-	-	-	0:43:52.391000	0:43:52.757000
 mir	-	-	-	0:43:52.391000	0:43:52.757000
 aus	-	-	-	0:43:52.757000	0:43:53.038000
@@ -9179,7 +9179,7 @@ jeden	-	-	-	0:43:53.038000	0:43:54.750000
 Fall	-	-	-	0:43:53.038000	0:43:54.750000
 .	-	-	-	0:43:53.038000	0:43:54.750000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:43:54.750000" end="0:43:59.912000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:43:54.750000" end="0:43:59.912000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:43:54.750000	0:43:55.531000
 .	-	-	-	0:43:54.750000	0:43:55.531000
 <pause duration="0,5s"/>
@@ -9203,7 +9203,7 @@ Ihrer	-	-	-	0:43:57.650000	0:43:59.912000
 Sprache	-	-	-	0:43:57.650000	0:43:59.912000
 ?	-	-	-	0:43:57.650000	0:43:59.912000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:43:59.912000" end="0:44:17.437000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:43:59.912000" end="0:44:17.437000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:59.912000	0:44:00.614000
 ,	-	-	-	0:43:59.912000	0:44:00.614000
 nein	-	-	-	0:44:00.614000	0:44:00.984000
@@ -9260,21 +9260,21 @@ dumm	-	-	-	0:44:15.690000	0:44:17.437000
 vorkam	-	-	-	0:44:15.690000	0:44:17.437000
 ,	-	-	-	0:44:15.690000	0:44:17.437000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:17.437000" end="0:44:17.831000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:17.437000" end="0:44:17.831000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:17.437000	0:44:17.831000
 .	-	-	-	0:44:17.437000	0:44:17.831000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:17.437000" end="0:44:19.363000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:17.437000" end="0:44:19.363000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 bei	-	-	-	0:44:17.437000	0:44:17.831000
 vor	-	-	-	0:44:17.437000	0:44:17.831000
 allem	-	-	-	0:44:17.831000	0:44:19.363000
 Dialektsprechern	-	-	-	0:44:17.831000	0:44:19.363000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:19.363000" end="0:44:19.623000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:19.363000" end="0:44:19.623000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:44:19.363000	0:44:19.623000
 .	-	-	-	0:44:19.363000	0:44:19.623000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:19.363000" end="0:44:25.878000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:19.363000" end="0:44:25.878000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 halt	-	-	-	0:44:19.363000	0:44:19.623000
 dann	-	-	-	0:44:19.623000	0:44:20.995000
 irgendwie	-	-	-	0:44:19.623000	0:44:20.995000
@@ -9304,11 +9304,11 @@ was	-	-	-	0:44:25.275000	0:44:25.878000
 dann	-	-	-	0:44:25.275000	0:44:25.878000
 wirklich	-	-	-	0:44:25.275000	0:44:25.878000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:25.878000" end="0:44:26.504000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:25.878000" end="0:44:26.504000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:25.878000	0:44:26.504000
 .	-	-	-	0:44:25.878000	0:44:26.504000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:25.878000" end="0:44:29.710000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:25.878000" end="0:44:29.710000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:44:25.878000	0:44:26.504000
 gesprochen	-	-	-	0:44:25.878000	0:44:26.504000
 haben	-	-	-	0:44:26.504000	0:44:26.756000
@@ -9327,11 +9327,11 @@ musste	-	-	-	0:44:28.391000	0:44:29.710000
 ich	-	-	-	0:44:28.391000	0:44:29.710000
 das	-	-	-	0:44:28.391000	0:44:29.710000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:29.710000" end="0:44:30.373000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:29.710000" end="0:44:30.373000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:29.710000	0:44:30.373000
 .	-	-	-	0:44:29.710000	0:44:30.373000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:29.710000" end="0:44:43.658000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:29.710000" end="0:44:43.658000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:44:29.710000	0:44:30.373000
 ,	-	-	-	0:44:29.710000	0:44:30.373000
 weil	-	-	-	0:44:30.373000	0:44:31.889000
@@ -9389,11 +9389,11 @@ Lippen	-	-	-	0:44:42.048000	0:44:43.658000
 gebracht	-	-	-	0:44:42.048000	0:44:43.658000
 ,	-	-	-	0:44:42.048000	0:44:43.658000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:43.658000" end="0:44:43.978000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:43.658000" end="0:44:43.978000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:43.658000	0:44:43.978000
 .	-	-	-	0:44:43.658000	0:44:43.978000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:43.658000" end="0:44:48.789000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:43.658000" end="0:44:48.789000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:44:43.658000	0:44:43.978000
 das	-	-	-	0:44:43.658000	0:44:43.978000
 (ja)	-	-	-	0:44:43.658000	0:44:43.978000
@@ -9417,7 +9417,7 @@ Dialekt	-	-	-	0:44:45.353000	0:44:48.789000
 gesprochen	-	-	-	0:44:45.353000	0:44:48.789000
 .	-	-	-	0:44:45.353000	0:44:48.789000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:48.789000" end="0:44:55.492000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:48.789000" end="0:44:55.492000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:48.789000	0:44:49.153000
 .	-	-	-	0:44:48.789000	0:44:49.153000
 <pause duration="1,3s"/>
@@ -9442,7 +9442,7 @@ den	-	-	-	0:44:54.559000	0:44:54.838000
 Schülern	-	-	-	0:44:54.838000	0:44:55.492000
 ?	-	-	-	0:44:54.838000	0:44:55.492000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:54.838000" end="0:44:57.078000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:54.838000" end="0:44:57.078000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:54.838000	0:44:55.492000
 .	-	-	-	0:44:54.838000	0:44:55.492000
 nein	-	-	-	0:44:55.492000	0:44:57.078000
@@ -9454,11 +9454,11 @@ nicht	-	-	-	0:44:55.492000	0:44:57.078000
 immer	-	-	-	0:44:55.492000	0:44:57.078000
 .	-	-	-	0:44:55.492000	0:44:57.078000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:44:57.078000" end="0:44:57.588000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:44:57.078000" end="0:44:57.588000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:44:57.078000	0:44:57.588000
 .	-	-	-	0:44:57.078000	0:44:57.588000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:44:57.588000" end="0:45:09.285000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:44:57.588000" end="0:45:09.285000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 manche	-	-	-	0:44:57.588000	0:44:58.651000
 Lehrer	-	-	-	0:44:57.588000	0:44:58.651000
 hatten	-	-	-	0:44:57.588000	0:44:58.651000
@@ -9495,11 +9495,11 @@ auch	-	-	-	0:45:07.519000	0:45:09.285000
 Dialekt	-	-	-	0:45:07.519000	0:45:09.285000
 verwendet	-	-	-	0:45:07.519000	0:45:09.285000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:09.285000" end="0:45:09.949000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:09.285000" end="0:45:09.949000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:09.285000	0:45:09.949000
 .	-	-	-	0:45:09.285000	0:45:09.949000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:09.949000" end="0:45:13.444000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:09.949000" end="0:45:13.444000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:45:09.949000	0:45:10.964000
 /.	-	-	-	0:45:09.949000	0:45:10.964000
 <pause duration="1,2s"/>
@@ -9512,12 +9512,12 @@ ganz	-	-	-	0:45:12.135000	0:45:13.444000
 normal	-	-	-	0:45:12.135000	0:45:13.444000
 .	-	-	-	0:45:12.135000	0:45:13.444000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:13.444000" end="0:45:14.272000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:13.444000" end="0:45:14.272000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:45:13.444000	0:45:14.272000
 .	-	-	-	0:45:13.444000	0:45:14.272000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:14.272000" end="0:45:17.124000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:14.272000" end="0:45:17.124000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mir	-	-	-	0:45:15.225000	0:45:17.124000
 ist	-	-	-	0:45:15.225000	0:45:17.124000
@@ -9529,11 +9529,11 @@ ORT	ORT	-	-	0:45:15.225000	0:45:17.124000
 dann	-	-	-	0:45:15.225000	0:45:17.124000
 bewusst	-	-	-	0:45:15.225000	0:45:17.124000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:17.124000" end="0:45:17.768000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:17.124000" end="0:45:17.768000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:45:17.124000	0:45:17.768000
 .	-	-	-	0:45:17.124000	0:45:17.768000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:17.124000" end="0:45:27.404000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:17.124000" end="0:45:27.404000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 geworden	-	-	-	0:45:17.124000	0:45:17.768000
 ,	-	-	-	0:45:17.124000	0:45:17.768000
 dass	-	-	-	0:45:17.124000	0:45:17.768000
@@ -9570,15 +9570,15 @@ nicht	-	-	-	0:45:25.899000	0:45:27.404000
 so	-	-	-	0:45:25.899000	0:45:27.404000
 passend	-	-	-	0:45:25.899000	0:45:27.404000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:27.404000" end="0:45:27.895000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:27.404000" end="0:45:27.895000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:27.404000	0:45:27.895000
 .	-	-	-	0:45:27.404000	0:45:27.895000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:27.404000" end="0:45:27.895000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:27.404000" end="0:45:27.895000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ist	-	-	-	0:45:27.404000	0:45:27.895000
 .	-	-	-	0:45:27.404000	0:45:27.895000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:27.895000" end="0:45:36.077000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:27.895000" end="0:45:36.077000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,0s"/>
 das	-	-	-	0:45:28.925000	0:45:30.785000
 lässt	-	-	-	0:45:28.925000	0:45:30.785000
@@ -9610,27 +9610,27 @@ der	-	-	-	0:45:35.141000	0:45:36.077000
 Uni	-	-	-	0:45:35.141000	0:45:36.077000
 ?	-	-	-	0:45:35.141000	0:45:36.077000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:35.141000" end="0:45:36.077000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:35.141000" end="0:45:36.077000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:35.141000	0:45:36.077000
 ja	-	-	-	0:45:35.141000	0:45:36.077000
 ja	-	-	-	0:45:35.141000	0:45:36.077000
 ,	-	-	-	0:45:35.141000	0:45:36.077000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:36.077000" end="0:45:36.649000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:36.077000" end="0:45:36.649000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:36.077000	0:45:36.649000
 .	-	-	-	0:45:36.077000	0:45:36.649000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:36.077000" end="0:45:36.649000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:36.077000" end="0:45:36.649000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 voll	-	-	-	0:45:36.077000	0:45:36.649000
 .	-	-	-	0:45:36.077000	0:45:36.649000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:36.649000" end="0:45:38.749000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:36.649000" end="0:45:38.749000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:36.649000" end="0:45:38.749000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:36.649000" end="0:45:38.749000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:38.749000" end="0:45:42.431000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:38.749000" end="0:45:42.431000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:45:38.749000	0:45:39.088000
 heißt	-	-	-	0:45:38.749000	0:45:39.088000
 ,	-	-	-	0:45:38.749000	0:45:39.088000
@@ -9643,16 +9643,16 @@ verändert	-	-	-	0:45:39.088000	0:45:40.873000
 ?	-	-	-	0:45:39.088000	0:45:40.873000
 <pause duration="1,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:40.873000" end="0:45:42.431000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:40.873000" end="0:45:42.431000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:42.431000" end="0:45:43.606000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:42.431000" end="0:45:43.606000" persName="Informant EXP9" age_lower="" age_upper="999">
 an	-	-	-	0:45:42.431000	0:45:43.606000
 Ihrem	-	-	-	0:45:42.431000	0:45:43.606000
 Sprachverhalten	-	-	-	0:45:42.431000	0:45:43.606000
 .	-	-	-	0:45:42.431000	0:45:43.606000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:42.431000" end="0:45:53.868000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:42.431000" end="0:45:53.868000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 naja	-	-	-	0:45:42.431000	0:45:43.606000
 ,	-	-	-	0:45:42.431000	0:45:43.606000
 ich	-	-	-	0:45:42.431000	0:45:43.606000
@@ -9677,12 +9677,12 @@ die	-	-	-	0:45:50.853000	0:45:53.868000
 Standardsprache	-	-	-	0:45:50.853000	0:45:53.868000
 übernommen	-	-	-	0:45:50.853000	0:45:53.868000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:45:53.868000" end="0:45:54.853000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:45:53.868000" end="0:45:54.853000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:45:53.868000	0:45:54.853000
 .	-	-	-	0:45:53.868000	0:45:54.853000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:45:53.868000" end="0:46:12.706000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:45:53.868000" end="0:46:12.706000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 beziehungsweise	-	-	-	0:45:53.868000	0:45:54.853000
 /.	-	-	-	0:45:53.868000	0:45:54.853000
 <pause duration="1,0s"/>
@@ -9750,15 +9750,15 @@ halt	-	-	-	0:46:11.014000	0:46:12.706000
 dann	-	-	-	0:46:11.014000	0:46:12.706000
 .	-	-	-	0:46:11.014000	0:46:12.706000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:12.706000" end="0:46:13.071000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:12.706000" end="0:46:13.071000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:12.706000	0:46:13.071000
 .	-	-	-	0:46:12.706000	0:46:13.071000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:13.071000" end="0:46:13.951000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:13.071000" end="0:46:13.951000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:46:13.071000	0:46:13.951000
 .	-	-	-	0:46:13.071000	0:46:13.951000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:13.951000" end="0:46:21.244000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:13.951000" end="0:46:21.244000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,9s"/>
 und	-	-	-	0:46:13.951000	0:46:15.621000
 würden	-	-	-	0:46:13.951000	0:46:15.621000
@@ -9783,7 +9783,7 @@ im	-	-	-	0:46:20.093000	0:46:21.244000
 Sprachverhalten	-	-	-	0:46:20.093000	0:46:21.244000
 ?	-	-	-	0:46:20.093000	0:46:21.244000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:21.244000" end="0:46:22.836000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:21.244000" end="0:46:22.836000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:46:21.244000	0:46:22.836000
 ,	-	-	-	0:46:21.244000	0:46:22.836000
@@ -9791,11 +9791,11 @@ nicht	-	-	-	0:46:21.244000	0:46:22.836000
 unbedingt	-	-	-	0:46:21.244000	0:46:22.836000
 .	-	-	-	0:46:21.244000	0:46:22.836000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:22.836000" end="0:46:23.231000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:22.836000" end="0:46:23.231000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:22.836000	0:46:23.231000
 .	-	-	-	0:46:22.836000	0:46:23.231000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:23.231000" end="0:46:30.452000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:23.231000" end="0:46:30.452000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:46:23.231000	0:46:23.728000
 ich	-	-	-	0:46:23.231000	0:46:23.728000
 glaube	-	-	-	0:46:23.231000	0:46:23.728000
@@ -9831,11 +9831,11 @@ oder	-	-	-	0:46:28.417000	0:46:30.452000
 so	-	-	-	0:46:28.417000	0:46:30.452000
 ,	-	-	-	0:46:28.417000	0:46:30.452000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:30.452000" end="0:46:31.030000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:30.452000" end="0:46:31.030000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:30.452000	0:46:31.030000
 .	-	-	-	0:46:30.452000	0:46:31.030000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:31.030000" end="0:46:33.030000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:31.030000" end="0:46:33.030000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wo	-	-	-	0:46:31.030000	0:46:33.030000
 ich	-	-	-	0:46:31.030000	0:46:33.030000
 für	-	-	-	0:46:31.030000	0:46:33.030000
@@ -9847,11 +9847,11 @@ entdeckt	-	-	-	0:46:31.030000	0:46:33.030000
 habe	-	-	-	0:46:31.030000	0:46:33.030000
 ,	-	-	-	0:46:31.030000	0:46:33.030000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:33.030000" end="0:46:33.319000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:33.030000" end="0:46:33.319000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:46:33.030000	0:46:33.319000
 .	-	-	-	0:46:33.030000	0:46:33.319000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:33.030000" end="0:46:40.419000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:33.030000" end="0:46:40.419000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 wann	-	-	-	0:46:33.030000	0:46:33.319000
 ich	-	-	-	0:46:33.319000	0:46:35.223000
 <pause duration="0,5s"/>
@@ -9879,11 +9879,11 @@ was	-	-	-	0:46:39.261000	0:46:40.419000
 spreche	-	-	-	0:46:39.261000	0:46:40.419000
 .	-	-	-	0:46:39.261000	0:46:40.419000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:40.419000" end="0:46:40.827000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:40.419000" end="0:46:40.827000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:40.419000	0:46:40.827000
 .	-	-	-	0:46:40.419000	0:46:40.827000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:40.827000" end="0:46:44.386000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:40.827000" end="0:46:44.386000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:46:40.827000	0:46:41.909000
 /.	-	-	-	0:46:40.827000	0:46:41.909000
 genau	-	-	-	0:46:41.909000	0:46:43.939000
@@ -9899,17 +9899,17 @@ wie	-	-	-	0:46:43.939000	0:46:44.386000
 ich	-	-	-	0:46:43.939000	0:46:44.386000
 ins	-	-	-	0:46:43.939000	0:46:44.386000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:44.386000" end="0:46:46.015000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:44.386000" end="0:46:46.015000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:46:44.386000	0:46:46.015000
 .	-	-	-	0:46:44.386000	0:46:46.015000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:44.386000" end="0:46:46.410000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:44.386000" end="0:46:46.410000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Berufsleben	-	-	-	0:46:44.386000	0:46:46.015000
 eingestiegen	-	-	-	0:46:44.386000	0:46:46.015000
 bin	-	-	-	0:46:44.386000	0:46:46.015000
 .	-	-	-	0:46:44.386000	0:46:46.015000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:46.410000" end="0:46:49.159000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:46.410000" end="0:46:49.159000" persName="Informant EXP9" age_lower="" age_upper="999">
 sprechen	-	-	-	0:46:46.410000	0:46:49.159000
 Sie	-	-	-	0:46:46.410000	0:46:49.159000
 aber	-	-	-	0:46:46.410000	0:46:49.159000
@@ -9919,7 +9919,7 @@ als	-	-	-	0:46:46.410000	0:46:49.159000
 privat	-	-	-	0:46:46.410000	0:46:49.159000
 ?	-	-	-	0:46:46.410000	0:46:49.159000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:49.159000" end="0:46:54.740000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:49.159000" end="0:46:54.740000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 hm	-	-	-	0:46:51.333000	0:46:52.168000
 ja	-	-	-	0:46:51.333000	0:46:52.168000
@@ -9932,15 +9932,15 @@ f/	-	-	-	0:46:52.168000	0:46:54.740000
 häufig	-	-	-	0:46:52.168000	0:46:54.740000
 Dialekt	-	-	-	0:46:52.168000	0:46:54.740000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:54.740000" end="0:46:55.182000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:54.740000" end="0:46:55.182000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:46:54.740000	0:46:55.182000
 .	-	-	-	0:46:54.740000	0:46:55.182000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:46:54.740000" end="0:46:55.182000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:46:54.740000" end="0:46:55.182000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 spreche	-	-	-	0:46:54.740000	0:46:55.182000
 .	-	-	-	0:46:54.740000	0:46:55.182000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:46:55.182000" end="0:47:14.033000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:46:55.182000" end="0:47:14.033000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="3,5s"/>
 in	-	-	-	0:46:58.655000	0:47:01.866000
 unserem	-	-	-	0:46:58.655000	0:47:01.866000
@@ -9986,11 +9986,11 @@ den	-	-	-	0:47:07.350000	0:47:13.392000
 Einfluss	-	-	-	0:47:13.392000	0:47:14.033000
 von	-	-	-	0:47:13.392000	0:47:14.033000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:13.392000" end="0:47:14.033000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:13.392000" end="0:47:14.033000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:13.392000	0:47:14.033000
 .	-	-	-	0:47:13.392000	0:47:14.033000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:14.033000" end="0:47:19.105000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:14.033000" end="0:47:19.105000" persName="Informant EXP9" age_lower="" age_upper="999">
 anderen	-	-	-	0:47:14.033000	0:47:15.226000
 Sprachen	-	-	-	0:47:14.033000	0:47:15.226000
 ?	-	-	-	0:47:14.033000	0:47:15.226000
@@ -10006,20 +10006,20 @@ da	-	-	-	0:47:15.742000	0:47:19.105000
 ein	-	-	-	0:47:15.742000	0:47:19.105000
 ?	-	-	-	0:47:15.742000	0:47:19.105000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:19.105000" end="0:47:21.536000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:19.105000" end="0:47:21.536000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ganz	-	-	-	0:47:19.105000	0:47:21.536000
 viel	-	-	-	0:47:19.105000	0:47:21.536000
 Englisch	-	-	-	0:47:19.105000	0:47:21.536000
 ,	-	-	-	0:47:19.105000	0:47:21.536000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:21.536000" end="0:47:23.506000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:21.536000" end="0:47:23.506000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:21.536000	0:47:23.506000
 ,	-	-	-	0:47:21.536000	0:47:23.506000
 ja	-	-	-	0:47:21.536000	0:47:23.506000
 .	-	-	-	0:47:21.536000	0:47:23.506000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:21.536000" end="0:47:24.490000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:21.536000" end="0:47:24.490000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 in	-	-	-	0:47:21.536000	0:47:23.506000
 der	-	-	-	0:47:21.536000	0:47:23.506000
 Jugendkultur	-	-	-	0:47:21.536000	0:47:23.506000
@@ -10030,11 +10030,11 @@ viel	-	-	-	0:47:23.506000	0:47:24.490000
 Italienisch	-	-	-	0:47:23.506000	0:47:24.490000
 ,	-	-	-	0:47:23.506000	0:47:24.490000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:24.490000" end="0:47:25.123000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:24.490000" end="0:47:25.123000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:24.490000	0:47:25.123000
 .	-	-	-	0:47:24.490000	0:47:25.123000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:24.490000" end="0:47:35.069000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:24.490000" end="0:47:35.069000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:47:24.490000	0:47:25.123000
 es	-	-	-	0:47:24.490000	0:47:25.123000
 gibt	-	-	-	0:47:25.123000	0:47:30.486000
@@ -10062,11 +10062,11 @@ Italienische	-	-	-	0:47:32.988000	0:47:35.069000
 für	-	-	-	0:47:32.988000	0:47:35.069000
 sich	-	-	-	0:47:32.988000	0:47:35.069000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:35.069000" end="0:47:35.851000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:35.069000" end="0:47:35.851000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:35.069000	0:47:35.851000
 .	-	-	-	0:47:35.069000	0:47:35.851000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:35.069000" end="0:47:44.323000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:35.069000" end="0:47:44.323000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 entdeckt	-	-	-	0:47:35.069000	0:47:35.851000
 haben	-	-	-	0:47:35.069000	0:47:35.851000
 ,	-	-	-	0:47:35.069000	0:47:35.851000
@@ -10098,11 +10098,11 @@ aus	-	-	-	0:47:39.192000	0:47:44.323000
 dem	-	-	-	0:47:39.192000	0:47:44.323000
 Italienischen	-	-	-	0:47:39.192000	0:47:44.323000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:44.323000" end="0:47:44.774000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:44.323000" end="0:47:44.774000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:47:44.323000	0:47:44.774000
 .	-	-	-	0:47:44.323000	0:47:44.774000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:44.323000" end="0:47:54.191000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:44.323000" end="0:47:54.191000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:47:44.323000	0:47:44.774000
 Phrasen	-	-	-	0:47:44.323000	0:47:44.774000
 aus	-	-	-	0:47:44.774000	0:47:45.662000
@@ -10129,20 +10129,20 @@ Bosnisch	-	-	-	0:47:51.658000	0:47:54.191000
 Serbisch	-	-	-	0:47:51.658000	0:47:54.191000
 ,	-	-	-	0:47:51.658000	0:47:54.191000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:54.191000" end="0:47:54.915000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:54.191000" end="0:47:54.915000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:47:54.191000	0:47:54.915000
 ,	-	-	-	0:47:54.191000	0:47:54.915000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:54.191000" end="0:47:54.915000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:54.191000" end="0:47:54.915000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Kroatisch	-	-	-	0:47:54.191000	0:47:54.915000
 ,	-	-	-	0:47:54.191000	0:47:54.915000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:47:54.915000" end="0:47:55.762000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:47:54.915000" end="0:47:55.762000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:47:54.915000	0:47:55.762000
 .	-	-	-	0:47:54.915000	0:47:55.762000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:47:55.762000" end="0:48:00.216000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:47:55.762000" end="0:48:00.216000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 da	-	-	-	0:47:55.762000	0:47:58.053000
 gibt	-	-	-	0:47:55.762000	0:47:58.053000
@@ -10161,30 +10161,30 @@ nicht	-	-	-	0:47:58.421000	0:47:59.241000
 "brate"	-	-	-	0:47:59.241000	0:48:00.216000
 oder	-	-	-	0:47:59.241000	0:48:00.216000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:00.216000" end="0:48:00.939000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:00.216000" end="0:48:00.939000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:00.216000	0:48:00.939000
 .	-	-	-	0:48:00.216000	0:48:00.939000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:00.216000" end="0:48:02.769000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:00.216000" end="0:48:02.769000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:48:00.216000	0:48:00.939000
 statt	-	-	-	0:48:00.216000	0:48:00.939000
 <pause duration="0,9s"/>
 halt	-	-	-	0:48:00.939000	0:48:02.769000
 "bro"	-	-	-	0:48:00.939000	0:48:02.769000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:02.769000" end="0:48:03.309000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:02.769000" end="0:48:03.309000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:02.769000	0:48:03.309000
 .	-	-	-	0:48:02.769000	0:48:03.309000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:02.769000" end="0:48:04.041000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:02.769000" end="0:48:04.041000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:48:02.769000	0:48:03.309000
 "Bruder"	-	-	-	0:48:03.309000	0:48:04.041000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:04.041000" end="0:48:04.639000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:04.041000" end="0:48:04.639000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:04.041000	0:48:04.639000
 .	-	-	-	0:48:04.041000	0:48:04.639000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:04.041000" end="0:48:16.834000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:04.041000" end="0:48:16.834000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:48:04.041000	0:48:04.639000
 /.	-	-	-	0:48:04.041000	0:48:04.639000
 <pause duration="0,8s"/>
@@ -10204,11 +10204,11 @@ türkische	-	-	-	0:48:07.719000	0:48:16.834000
 Sprache	-	-	-	0:48:07.719000	0:48:16.834000
 in	-	-	-	0:48:07.719000	0:48:16.834000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:16.834000" end="0:48:17.256000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:16.834000" end="0:48:17.256000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:16.834000	0:48:17.256000
 .	-	-	-	0:48:16.834000	0:48:17.256000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:16.834000" end="0:48:40.001000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:16.834000" end="0:48:40.001000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Wien	-	-	-	0:48:16.834000	0:48:17.256000
 ,	-	-	-	0:48:16.834000	0:48:17.256000
 <pause duration="1,7s"/>
@@ -10262,11 +10262,11 @@ jetzt	-	-	-	0:48:32.175000	0:48:40.001000
 fünfunddreißig	-	-	-	0:48:32.175000	0:48:40.001000
 oder	-	-	-	0:48:32.175000	0:48:40.001000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:40.001000" end="0:48:40.499000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:40.001000" end="0:48:40.499000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:40.001000	0:48:40.499000
 .	-	-	-	0:48:40.001000	0:48:40.499000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:40.001000" end="0:48:48.734000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:40.001000" end="0:48:48.734000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:48:40.001000	0:48:40.499000
 .	-	-	-	0:48:40.001000	0:48:40.499000
 <pause duration="1,1s"/>
@@ -10296,21 +10296,21 @@ die	-	-	-	0:48:46.785000	0:48:48.734000
 eher	-	-	-	0:48:46.785000	0:48:48.734000
 weniger	-	-	-	0:48:46.785000	0:48:48.734000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:48.734000" end="0:48:49.490000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:48.734000" end="0:48:49.490000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:48:48.734000	0:48:49.490000
 ,	-	-	-	0:48:48.734000	0:48:49.490000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:48.734000" end="0:48:49.646000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:48.734000" end="0:48:49.646000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 diese	-	-	-	0:48:48.734000	0:48:49.490000
 Begriffe	-	-	-	0:48:48.734000	0:48:49.490000
 (noch)	-	-	-	0:48:49.490000	0:48:49.646000
 .	-	-	-	0:48:49.490000	0:48:49.646000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:49.646000" end="0:48:50.019000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:49.646000" end="0:48:50.019000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:49.646000	0:48:50.019000
 .	-	-	-	0:48:49.646000	0:48:50.019000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:50.019000" end="0:48:53.116000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:50.019000" end="0:48:53.116000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	-	-	-	0:48:51.174000	0:48:53.116000
 ,	-	-	-	0:48:51.174000	0:48:53.116000
@@ -10322,11 +10322,11 @@ meine	-	-	-	0:48:51.174000	0:48:53.116000
 Einschätzung	-	-	-	0:48:51.174000	0:48:53.116000
 und	-	-	-	0:48:51.174000	0:48:53.116000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:53.116000" end="0:48:53.706000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:53.116000" end="0:48:53.706000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:48:53.116000	0:48:53.706000
 ,	-	-	-	0:48:53.116000	0:48:53.706000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:48:53.116000" end="0:48:54.215000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:48:53.116000" end="0:48:54.215000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:48:53.116000	0:48:53.706000
 ,	-	-	-	0:48:53.116000	0:48:53.706000
 was	-	-	-	0:48:53.116000	0:48:53.706000
@@ -10335,7 +10335,7 @@ halt	-	-	-	0:48:53.116000	0:48:53.706000
 sehe	-	-	-	0:48:53.706000	0:48:54.215000
 .	-	-	-	0:48:53.706000	0:48:54.215000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:48:54.215000" end="0:49:12.327000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:48:54.215000" end="0:49:12.327000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:48:54.215000	0:48:54.518000
 .	-	-	-	0:48:54.215000	0:48:54.518000
 <pause duration="0,7s"/>
@@ -10388,7 +10388,7 @@ allen	-	-	-	0:49:10.386000	0:49:12.327000
 Sprachformen	-	-	-	0:49:10.386000	0:49:12.327000
 ?	-	-	-	0:49:10.386000	0:49:12.327000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:10.386000" end="0:49:19.693000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:10.386000" end="0:49:19.693000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hm	-	-	-	0:49:10.386000	0:49:12.327000
 <pause duration="0,8s"/>
@@ -10417,11 +10417,11 @@ Sachen	-	-	-	0:49:18.180000	0:49:19.693000
 halt	-	-	-	0:49:18.180000	0:49:19.693000
 nicht	-	-	-	0:49:18.180000	0:49:19.693000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:19.693000" end="0:49:20.411000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:19.693000" end="0:49:20.411000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:49:19.693000	0:49:20.411000
 .	-	-	-	0:49:19.693000	0:49:20.411000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:19.693000" end="0:49:28.095000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:19.693000" end="0:49:28.095000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 übernehmen	-	-	-	0:49:19.693000	0:49:20.411000
 ,	-	-	-	0:49:19.693000	0:49:20.411000
 weil	-	-	-	0:49:20.411000	0:49:21.448000
@@ -10452,41 +10452,41 @@ brate	-	-	-	0:49:27.413000	0:49:28.095000
 ,	-	-	-	0:49:27.413000	0:49:28.095000
 der	-	-	-	0:49:27.413000	0:49:28.095000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:28.095000" end="0:49:29.919000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:28.095000" end="0:49:29.919000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:28.095000" end="0:49:29.919000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:28.095000" end="0:49:29.919000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Faymann"	-	-	-	0:49:28.095000	0:49:29.919000
 oder	-	-	-	0:49:28.095000	0:49:29.919000
 sowas	-	-	-	0:49:28.095000	0:49:29.919000
 ,	-	-	-	0:49:28.095000	0:49:29.919000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:29.919000" end="0:49:31.857000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:29.919000" end="0:49:31.857000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:29.919000" end="0:49:31.857000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:29.919000" end="0:49:31.857000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:49:29.919000	0:49:31.857000
 die	-	-	-	0:49:29.919000	0:49:31.857000
 drücken	-	-	-	0:49:29.919000	0:49:31.857000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:31.857000" end="0:49:32.736000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:31.857000" end="0:49:32.736000" persName="Informant EXP9" age_lower="" age_upper="999">
 verstehe	-	-	-	0:49:31.857000	0:49:32.736000
 .	-	-	-	0:49:31.857000	0:49:32.736000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:31.857000" end="0:49:32.736000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:31.857000" end="0:49:32.736000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sich	-	-	-	0:49:31.857000	0:49:32.736000
 schon	-	-	-	0:49:31.857000	0:49:32.736000
 anders	-	-	-	0:49:31.857000	0:49:32.736000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:32.736000" end="0:49:34.013000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:32.736000" end="0:49:34.013000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:32.736000" end="0:49:34.013000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:32.736000" end="0:49:34.013000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aus	-	-	-	0:49:32.736000	0:49:34.013000
 .	-	-	-	0:49:32.736000	0:49:34.013000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:34.013000" end="0:49:35.925000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:34.013000" end="0:49:35.925000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:49:34.013000	0:49:34.703000
 .	-	-	-	0:49:34.013000	0:49:34.703000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:34.703000" end="0:49:48.767000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:34.703000" end="0:49:48.767000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:49:34.703000	0:49:35.925000
 <pause duration="1,1s"/>
 ähm	-	-	-	0:49:37.013000	0:49:37.683000
@@ -10523,14 +10523,14 @@ privaten	-	-	-	0:49:47.134000	0:49:48.767000
 Sprachgebrauch	-	-	-	0:49:47.134000	0:49:48.767000
 ,	-	-	-	0:49:47.134000	0:49:48.767000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:48.767000" end="0:49:50.512000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:48.767000" end="0:49:50.512000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:49:48.767000	0:49:50.512000
 ,	-	-	-	0:49:48.767000	0:49:50.512000
 <pause duration="0,9s"/>
 mhm	-	-	-	0:49:48.767000	0:49:50.512000
 .	-	-	-	0:49:48.767000	0:49:50.512000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:48.767000" end="0:49:56.660000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:48.767000" end="0:49:56.660000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 im	-	-	-	0:49:48.767000	0:49:50.512000
 Freizeitsprachgebrauch	-	-	-	0:49:48.767000	0:49:50.512000
 ab	-	-	-	0:49:48.767000	0:49:50.512000
@@ -10558,35 +10558,35 @@ infiltriert	-	-	-	0:49:54.105000	0:49:56.660000
 ist	-	-	-	0:49:54.105000	0:49:56.660000
 ,	-	-	-	0:49:54.105000	0:49:56.660000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:56.660000" end="0:49:57.204000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:56.660000" end="0:49:57.204000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:56.660000" end="0:49:57.204000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:56.660000" end="0:49:57.204000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 dann	-	-	-	0:49:56.660000	0:49:57.204000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:49:57.204000" end="0:49:57.912000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:49:57.204000" end="0:49:57.912000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:49:57.912000" end="0:50:00.227000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:49:57.912000" end="0:50:00.227000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 infiltriert	-	-	-	0:49:57.912000	0:50:00.227000
 der	-	-	-	0:49:57.912000	0:50:00.227000
 Sprachgebrauch	-	-	-	0:49:57.912000	0:50:00.227000
 vielleicht	-	-	-	0:49:57.912000	0:50:00.227000
 auch	-	-	-	0:49:57.912000	0:50:00.227000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:00.227000" end="0:50:01.095000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:00.227000" end="0:50:01.095000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:00.227000	0:50:01.095000
 ,	-	-	-	0:50:00.227000	0:50:01.095000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:00.227000" end="0:50:01.095000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:00.227000" end="0:50:01.095000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 andere	-	-	-	0:50:00.227000	0:50:01.095000
 Register	-	-	-	0:50:00.227000	0:50:01.095000
 ,	-	-	-	0:50:00.227000	0:50:01.095000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:01.095000" end="0:50:02.133000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:01.095000" end="0:50:02.133000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:50:01.095000	0:50:02.133000
 .	-	-	-	0:50:01.095000	0:50:02.133000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:01.095000" end="0:50:03.304000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:01.095000" end="0:50:03.304000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	-	-	-	0:50:01.095000	0:50:02.133000
 wir	-	-	-	0:50:02.133000	0:50:03.304000
@@ -10598,7 +10598,7 @@ der	-	-	-	0:50:02.133000	0:50:03.304000
 Zukunft	-	-	-	0:50:02.133000	0:50:03.304000
 .	-	-	-	0:50:02.133000	0:50:03.304000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:03.304000" end="0:50:14.535000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:03.304000" end="0:50:14.535000" persName="Informant EXP9" age_lower="" age_upper="999">
 genau	-	-	-	0:50:03.304000	0:50:04.440000
 .	-	-	-	0:50:03.304000	0:50:04.440000
 <pause duration="1,4s"/>
@@ -10628,17 +10628,17 @@ entscheidend	-	-	-	0:50:11.117000	0:50:13.485000
 ?	-	-	-	0:50:11.117000	0:50:13.485000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:13.485000" end="0:50:14.535000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:13.485000" end="0:50:14.535000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:14.535000" end="0:50:16.046000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:14.535000" end="0:50:16.046000" persName="Informant EXP9" age_lower="" age_upper="999">
 jetzt	-	-	-	0:50:14.535000	0:50:14.941000
 <pause duration="0,6s"/>
 nicht	-	-	-	0:50:14.941000	0:50:16.046000
 aufs	-	-	-	0:50:14.941000	0:50:16.046000
 /.	-	-	-	0:50:14.941000	0:50:16.046000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:14.941000" end="0:50:17.797000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:14.941000" end="0:50:17.797000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:50:14.941000	0:50:16.046000
 ,	-	-	-	0:50:14.941000	0:50:16.046000
@@ -10650,11 +10650,11 @@ auf	-	-	-	0:50:16.639000	0:50:17.797000
 jeden	-	-	-	0:50:16.639000	0:50:17.797000
 Fall	-	-	-	0:50:16.639000	0:50:17.797000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:17.797000" end="0:50:18.703000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:17.797000" end="0:50:18.703000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:17.797000	0:50:18.703000
 .	-	-	-	0:50:17.797000	0:50:18.703000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:17.797000" end="0:50:21.756000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:17.797000" end="0:50:21.756000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Ungarisch	-	-	-	0:50:17.797000	0:50:18.703000
 ,	-	-	-	0:50:17.797000	0:50:18.703000
 <pause duration="1,5s"/>
@@ -10665,11 +10665,11 @@ mit	-	-	-	0:50:21.020000	0:50:21.756000
 dem	-	-	-	0:50:21.020000	0:50:21.756000
 Handel	-	-	-	0:50:21.020000	0:50:21.756000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:21.756000" end="0:50:22.287000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:21.756000" end="0:50:22.287000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:50:21.756000	0:50:22.287000
 .	-	-	-	0:50:21.756000	0:50:22.287000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:21.756000" end="0:50:29.365000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:21.756000" end="0:50:29.365000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 gibt	-	-	-	0:50:21.756000	0:50:22.287000
 es	-	-	-	0:50:21.756000	0:50:22.287000
 ganz	-	-	-	0:50:21.756000	0:50:22.287000
@@ -10694,11 +10694,11 @@ nicht	-	-	-	0:50:27.411000	0:50:28.638000
 ,	-	-	-	0:50:27.411000	0:50:28.638000
 Kaiserzeit	-	-	-	0:50:28.638000	0:50:29.365000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:29.365000" end="0:50:30.063000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:29.365000" end="0:50:30.063000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:29.365000	0:50:30.063000
 .	-	-	-	0:50:29.365000	0:50:30.063000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:29.365000" end="0:50:50.071000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:29.365000" end="0:50:50.071000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 irgendwann	-	-	-	0:50:29.365000	0:50:30.063000
 .	-	-	-	0:50:29.365000	0:50:30.063000
 <pause duration="1,8s"/>
@@ -10734,20 +10734,20 @@ bisschen	-	-	-	0:50:47.320000	0:50:50.071000
 <pause duration="0,5s"/>
 ähm	-	-	-	0:50:47.320000	0:50:50.071000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:50.071000" end="0:50:51.262000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:50.071000" end="0:50:51.262000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:50:50.071000	0:50:51.262000
 ,	-	-	-	0:50:50.071000	0:50:51.262000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:50.071000" end="0:50:51.262000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:50.071000" end="0:50:51.262000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Slowenisch	-	-	-	0:50:50.071000	0:50:51.262000
 und	-	-	-	0:50:50.071000	0:50:51.262000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:51.262000" end="0:50:52.068000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:51.262000" end="0:50:52.068000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:50:51.262000	0:50:52.068000
 .	-	-	-	0:50:51.262000	0:50:52.068000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:51.262000" end="0:50:57.114000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:51.262000" end="0:50:57.114000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Kroatisch	-	-	-	0:50:51.262000	0:50:52.068000
 ,	-	-	-	0:50:51.262000	0:50:52.068000
 aber	-	-	-	0:50:52.068000	0:50:53.456000
@@ -10760,11 +10760,11 @@ eher	-	-	-	0:50:55.586000	0:50:57.114000
 Slowenisch	-	-	-	0:50:55.586000	0:50:57.114000
 wie	-	-	-	0:50:55.586000	0:50:57.114000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:57.114000" end="0:50:57.796000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:57.114000" end="0:50:57.796000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:50:57.114000	0:50:57.796000
 .	-	-	-	0:50:57.114000	0:50:57.796000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:50:57.114000" end="0:50:58.769000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:50:57.114000" end="0:50:58.769000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Kroatisch	-	-	-	0:50:57.114000	0:50:57.796000
 ,	-	-	-	0:50:57.114000	0:50:57.796000
 aber	-	-	-	0:50:57.114000	0:50:57.796000
@@ -10772,7 +10772,7 @@ aber	-	-	-	0:50:57.114000	0:50:57.796000
 ja	-	-	-	0:50:57.796000	0:50:58.769000
 .	-	-	-	0:50:57.796000	0:50:58.769000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:50:58.769000" end="0:51:04.283000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:50:58.769000" end="0:51:04.283000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 und	-	-	-	0:50:58.769000	0:51:04.283000
 hatten	-	-	-	0:50:58.769000	0:51:04.283000
@@ -10791,13 +10791,13 @@ in	-	-	-	0:50:58.769000	0:51:04.283000
 Österreich	-	-	-	0:50:58.769000	0:51:04.283000
 ?	-	-	-	0:50:58.769000	0:51:04.283000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:04.283000" end="0:51:05.700000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:04.283000" end="0:51:05.700000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:51:04.283000	0:51:05.700000
 ja	-	-	-	0:51:04.283000	0:51:05.700000
 .	-	-	-	0:51:04.283000	0:51:05.700000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:05.700000" end="0:51:10.391000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:05.700000" end="0:51:10.391000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:51:05.700000	0:51:07.900000
 können	-	-	-	0:51:05.700000	0:51:07.900000
@@ -10820,7 +10820,7 @@ etwas	-	-	-	0:51:08.686000	0:51:10.391000
 ein	-	-	-	0:51:08.686000	0:51:10.391000
 ?	-	-	-	0:51:08.686000	0:51:10.391000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:10.391000" end="0:51:15.356000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:10.391000" end="0:51:15.356000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:10.391000	0:51:15.356000
 ,	-	-	-	0:51:10.391000	0:51:15.356000
 zum	-	-	-	0:51:10.391000	0:51:15.356000
@@ -10833,30 +10833,30 @@ für	-	-	-	0:51:10.391000	0:51:15.356000
 Italienisch	-	-	-	0:51:10.391000	0:51:15.356000
 "Melanzani"	-	-	-	0:51:10.391000	0:51:15.356000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:15.356000" end="0:51:16.333000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:15.356000" end="0:51:16.333000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:15.356000	0:51:15.862000
 ,	-	-	-	0:51:15.356000	0:51:15.862000
 ja	-	-	-	0:51:15.862000	0:51:16.333000
 ,	-	-	-	0:51:15.862000	0:51:16.333000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:15.862000" end="0:51:16.333000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:15.862000" end="0:51:16.333000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:51:15.862000	0:51:16.333000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:16.333000" end="0:51:17.044000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:16.333000" end="0:51:17.044000" persName="Informant EXP9" age_lower="" age_upper="999">
 spannend	-	-	-	0:51:16.333000	0:51:17.044000
 ,	-	-	-	0:51:16.333000	0:51:17.044000
 (super)	-	-	-	0:51:16.333000	0:51:17.044000
 ,	-	-	-	0:51:16.333000	0:51:17.044000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:16.333000" end="0:51:17.044000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:16.333000" end="0:51:17.044000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "Zucchini"	-	-	-	0:51:16.333000	0:51:17.044000
 .	-	-	-	0:51:16.333000	0:51:17.044000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:17.044000" end="0:51:17.975000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:17.044000" end="0:51:17.975000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:51:17.044000	0:51:17.975000
 .	-	-	-	0:51:17.044000	0:51:17.975000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:17.975000" end="0:51:21.292000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:17.975000" end="0:51:21.292000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:51:17.975000	0:51:19.690000
 <pause duration="0,6s"/>
 auch	-	-	-	0:51:19.690000	0:51:21.292000
@@ -10866,13 +10866,13 @@ kommt	-	-	-	0:51:19.690000	0:51:21.292000
 davon	-	-	-	0:51:19.690000	0:51:21.292000
 .	-	-	-	0:51:19.690000	0:51:21.292000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:21.292000" end="0:51:23.439000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:21.292000" end="0:51:23.439000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:51:21.292000	0:51:23.439000
 .	-	-	-	0:51:21.292000	0:51:23.439000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:21.292000" end="0:51:29.334000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:21.292000" end="0:51:29.334000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:51:21.292000	0:51:23.439000
 <pause duration="2,7s"/>
@@ -10886,11 +10886,11 @@ dem	-	-	-	0:51:26.186000	0:51:29.334000
 Bankwesen	-	-	-	0:51:26.186000	0:51:29.334000
 ,	-	-	-	0:51:26.186000	0:51:29.334000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:29.334000" end="0:51:29.744000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:29.334000" end="0:51:29.744000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:29.334000	0:51:29.744000
 .	-	-	-	0:51:29.334000	0:51:29.744000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:29.334000" end="0:51:31.483000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:29.334000" end="0:51:31.483000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 weil	-	-	-	0:51:29.334000	0:51:29.744000
 die	-	-	-	0:51:29.334000	0:51:29.744000
 Italiener	-	-	-	0:51:29.744000	0:51:30.167000
@@ -10901,11 +10901,11 @@ wurde	-	-	-	0:51:30.167000	0:51:31.483000
 Handel	-	-	-	0:51:30.167000	0:51:31.483000
 betrieben	-	-	-	0:51:30.167000	0:51:31.483000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:31.483000" end="0:51:32.118000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:31.483000" end="0:51:32.118000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:31.483000	0:51:32.118000
 .	-	-	-	0:51:31.483000	0:51:32.118000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:31.483000" end="0:51:42.351000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:31.483000" end="0:51:42.351000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:51:31.483000	0:51:32.118000
 <pause duration="1,4s"/>
 ähm	-	-	-	0:51:33.514000	0:51:34.509000
@@ -10925,11 +10925,11 @@ wie	-	-	-	0:51:41.285000	0:51:42.351000
 Gulasch	-	-	-	0:51:41.285000	0:51:42.351000
 ,	-	-	-	0:51:41.285000	0:51:42.351000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:42.351000" end="0:51:42.904000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:42.351000" end="0:51:42.904000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:51:42.351000	0:51:42.904000
 .	-	-	-	0:51:42.351000	0:51:42.904000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:42.351000" end="0:51:50.481000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:42.351000" end="0:51:50.481000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:51:42.351000	0:51:42.904000
 ähm	-	-	-	0:51:42.904000	0:51:43.574000
 was	-	-	-	0:51:43.574000	0:51:44.727000
@@ -10946,9 +10946,9 @@ ich	-	-	-	0:51:49.306000	0:51:50.481000
 kommt	-	-	-	0:51:49.306000	0:51:50.481000
 auch	-	-	-	0:51:49.306000	0:51:50.481000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:50.481000" end="0:51:51.550000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:50.481000" end="0:51:51.550000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:50.481000" end="0:51:53.684000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:50.481000" end="0:51:53.684000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aus	-	-	-	0:51:50.481000	0:51:51.550000
 dem	-	-	-	0:51:50.481000	0:51:51.550000
 Ungarischen	-	-	-	0:51:50.481000	0:51:51.550000
@@ -10967,11 +10967,11 @@ mehr	-	-	-	0:51:52.618000	0:51:53.684000
 sicher	-	-	-	0:51:52.618000	0:51:53.684000
 .	-	-	-	0:51:52.618000	0:51:53.684000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:51:53.684000" end="0:51:54.040000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:51:53.684000" end="0:51:54.040000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:51:53.684000	0:51:54.040000
 .	-	-	-	0:51:53.684000	0:51:54.040000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:51:54.040000" end="0:52:00.811000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:51:54.040000" end="0:52:00.811000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 hm	-	-	-	0:51:55.063000	0:51:58.115000
 von	-	-	-	0:51:55.063000	0:51:58.115000
@@ -10996,25 +10996,25 @@ ich	-	-	-	0:51:59.491000	0:52:00.110000
 ich	-	-	-	0:52:00.110000	0:52:00.811000
 es)	-	-	-	0:52:00.110000	0:52:00.811000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:00.811000" end="0:52:01.651000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:00.811000" end="0:52:01.651000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:00.811000" end="0:52:01.651000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:00.811000" end="0:52:01.651000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 so	-	-	-	0:52:00.811000	0:52:01.651000
 /.	-	-	-	0:52:00.811000	0:52:01.651000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:01.651000" end="0:52:03.065000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:01.651000" end="0:52:03.065000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 spannend	-	-	-	0:52:01.651000	0:52:03.065000
 ,	-	-	-	0:52:01.651000	0:52:03.065000
 mhm	-	-	-	0:52:01.651000	0:52:03.065000
 .	-	-	-	0:52:01.651000	0:52:03.065000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:01.651000" end="0:52:03.065000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:01.651000" end="0:52:03.065000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:03.065000" end="0:52:05.335000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:03.065000" end="0:52:05.335000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:03.065000" end="0:52:05.335000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:03.065000" end="0:52:05.335000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 nageln	-	-	-	0:52:03.065000	0:52:05.335000
 Sie	-	-	-	0:52:03.065000	0:52:05.335000
 mich	-	-	-	0:52:03.065000	0:52:05.335000
@@ -11023,13 +11023,13 @@ darauf	-	-	-	0:52:03.065000	0:52:05.335000
 fest	-	-	-	0:52:03.065000	0:52:05.335000
 .	-	-	-	0:52:03.065000	0:52:05.335000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:05.335000" end="0:52:06.658000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:05.335000" end="0:52:06.658000" persName="Informant EXP9" age_lower="" age_upper="999">
 auf	-	-	-	0:52:05.335000	0:52:06.658000
 keinen	-	-	-	0:52:05.335000	0:52:06.658000
 Fall	-	-	-	0:52:05.335000	0:52:06.658000
 .	-	-	-	0:52:05.335000	0:52:06.658000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:06.658000" end="0:52:13.291000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:06.658000" end="0:52:13.291000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:52:06.658000	0:52:08.978000
 was	-	-	-	0:52:06.658000	0:52:08.978000
 gibt	-	-	-	0:52:06.658000	0:52:08.978000
@@ -11048,17 +11048,17 @@ ich	-	-	-	0:52:08.978000	0:52:13.291000
 jetzt	-	-	-	0:52:08.978000	0:52:13.291000
 kein	-	-	-	0:52:08.978000	0:52:13.291000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:13.291000" end="0:52:13.735000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:13.291000" end="0:52:13.735000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:13.291000	0:52:13.735000
 .	-	-	-	0:52:13.291000	0:52:13.735000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:13.291000" end="0:52:14.022000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:13.291000" end="0:52:14.022000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:52:13.291000	0:52:13.735000
 ,	-	-	-	0:52:13.291000	0:52:13.735000
 aber	-	-	-	0:52:13.291000	0:52:13.735000
 ich	-	-	-	0:52:13.735000	0:52:14.022000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:14.022000" end="0:52:15.498000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:14.022000" end="0:52:15.498000" persName="Informant EXP9" age_lower="" age_upper="999">
 aber	-	-	-	0:52:14.022000	0:52:15.498000
 Sie	-	-	-	0:52:14.022000	0:52:15.498000
 haben	-	-	-	0:52:14.022000	0:52:15.498000
@@ -11066,7 +11066,7 @@ so	-	-	-	0:52:14.022000	0:52:15.498000
 viele	-	-	-	0:52:14.022000	0:52:15.498000
 Beispiele	-	-	-	0:52:14.022000	0:52:15.498000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:14.022000" end="0:52:15.498000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:14.022000" end="0:52:15.498000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 habe	-	-	-	0:52:14.022000	0:52:15.498000
 mir	-	-	-	0:52:14.022000	0:52:15.498000
 halt	-	-	-	0:52:14.022000	0:52:15.498000
@@ -11077,24 +11077,24 @@ war	-	-	-	0:52:14.022000	0:52:15.498000
 (halt	-	-	-	0:52:14.022000	0:52:15.498000
 das)	-	-	-	0:52:14.022000	0:52:15.498000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:15.498000" end="0:52:16.703000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:15.498000" end="0:52:16.703000" persName="Informant EXP9" age_lower="" age_upper="999">
 parat	-	-	-	0:52:15.498000	0:52:16.231000
 ,	-	-	-	0:52:15.498000	0:52:16.231000
 wow	-	-	-	0:52:15.498000	0:52:16.231000
 .	-	-	-	0:52:15.498000	0:52:16.231000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:16.231000" end="0:52:18.087000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:16.231000" end="0:52:18.087000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:52:16.231000	0:52:16.703000
 Habsburgerreich	-	-	-	0:52:16.703000	0:52:18.087000
 ging	-	-	-	0:52:16.703000	0:52:18.087000
 ja	-	-	-	0:52:16.703000	0:52:18.087000
 mal	-	-	-	0:52:16.703000	0:52:18.087000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:18.087000" end="0:52:18.599000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:18.087000" end="0:52:18.599000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:52:18.087000	0:52:18.599000
 ,	-	-	-	0:52:18.087000	0:52:18.599000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:18.087000" end="0:52:20.001000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:18.087000" end="0:52:20.001000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 da	-	-	-	0:52:18.087000	0:52:18.599000
 runter	-	-	-	0:52:18.087000	0:52:18.599000
 und	-	-	-	0:52:18.599000	0:52:20.001000
@@ -11103,11 +11103,11 @@ s/	-	-	-	0:52:18.599000	0:52:20.001000
 vielleicht	-	-	-	0:52:18.599000	0:52:20.001000
 haben	-	-	-	0:52:18.599000	0:52:20.001000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:20.001000" end="0:52:20.341000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:20.001000" end="0:52:20.341000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:20.001000	0:52:20.341000
 .	-	-	-	0:52:20.001000	0:52:20.341000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:20.341000" end="0:52:21.731000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:20.341000" end="0:52:21.731000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 hat	-	-	-	0:52:20.341000	0:52:21.731000
 es	-	-	-	0:52:20.341000	0:52:21.731000
 da	-	-	-	0:52:20.341000	0:52:21.731000
@@ -11117,15 +11117,15 @@ Einflüsse	-	-	-	0:52:20.341000	0:52:21.731000
 gegeben	-	-	-	0:52:20.341000	0:52:21.731000
 ,	-	-	-	0:52:20.341000	0:52:21.731000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:21.731000" end="0:52:22.431000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:21.731000" end="0:52:22.431000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:52:21.731000	0:52:22.431000
 .	-	-	-	0:52:21.731000	0:52:22.431000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:21.731000" end="0:52:22.431000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:21.731000" end="0:52:22.431000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 genau	-	-	-	0:52:21.731000	0:52:22.431000
 .	-	-	-	0:52:21.731000	0:52:22.431000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:22.431000" end="0:52:27.775000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:22.431000" end="0:52:27.775000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,5s"/>
 wir	-	-	-	0:52:23.890000	0:52:25.665000
 kommen	-	-	-	0:52:23.890000	0:52:25.665000
@@ -11141,7 +11141,7 @@ eine	-	-	-	0:52:25.665000	0:52:27.775000
 Lieblingszeitung	-	-	-	0:52:25.665000	0:52:27.775000
 ?	-	-	-	0:52:25.665000	0:52:27.775000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:27.775000" end="0:52:34.003000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:27.775000" end="0:52:34.003000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 hm	-	-	-	0:52:29.378000	0:52:30.836000
 <pause duration="1,1s"/>
@@ -11157,9 +11157,9 @@ allen	-	-	-	0:52:32.761000	0:52:34.003000
 Zeitungen	-	-	-	0:52:32.761000	0:52:34.003000
 was	-	-	-	0:52:32.761000	0:52:34.003000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:34.003000" end="0:52:36.240000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:34.003000" end="0:52:36.240000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:34.003000" end="0:52:37.753000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:34.003000" end="0:52:37.753000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auszu((lachen))setzen	-	-	-	0:52:34.003000	0:52:36.240000
 .	-	-	-	0:52:34.003000	0:52:36.240000
 ich	-	-	-	0:52:36.240000	0:52:36.678000
@@ -11172,15 +11172,15 @@ ehesten	-	-	-	0:52:36.678000	0:52:37.753000
 noch	-	-	-	0:52:36.678000	0:52:37.753000
 den	-	-	-	0:52:36.678000	0:52:37.753000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:37.753000" end="0:52:38.557000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:37.753000" end="0:52:38.557000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:37.753000	0:52:38.557000
 .	-	-	-	0:52:37.753000	0:52:38.557000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:37.753000" end="0:52:38.557000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:37.753000" end="0:52:38.557000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "Standard"	-	-	-	0:52:37.753000	0:52:38.557000
 .	-	-	-	0:52:37.753000	0:52:38.557000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:38.557000" end="0:52:40.994000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:38.557000" end="0:52:40.994000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:52:38.557000	0:52:40.994000
 gibt	-	-	-	0:52:38.557000	0:52:40.994000
 es	-	-	-	0:52:38.557000	0:52:40.994000
@@ -11190,7 +11190,7 @@ im	-	-	-	0:52:38.557000	0:52:40.994000
 Fernsehen	-	-	-	0:52:38.557000	0:52:40.994000
 ?	-	-	-	0:52:38.557000	0:52:40.994000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:40.994000" end="0:52:45.832000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:40.994000" end="0:52:45.832000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 eine	-	-	-	0:52:40.994000	0:52:43.109000
 Lieblingssendung	-	-	-	0:52:40.994000	0:52:43.109000
@@ -11204,13 +11204,13 @@ keinen	-	-	-	0:52:44.354000	0:52:45.832000
 Fernseher	-	-	-	0:52:44.354000	0:52:45.832000
 .	-	-	-	0:52:44.354000	0:52:45.832000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:45.832000" end="0:52:47.604000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:45.832000" end="0:52:47.604000" persName="Informant EXP9" age_lower="" age_upper="999">
 okay	-	-	-	0:52:45.832000	0:52:46.248000
 .	-	-	-	0:52:45.832000	0:52:46.248000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:46.248000" end="0:52:47.604000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:46.248000" end="0:52:47.604000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:47.604000" end="0:52:50.937000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:47.604000" end="0:52:50.937000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,8s"/>
 wie	-	-	-	0:52:47.604000	0:52:50.937000
 kommen	-	-	-	0:52:47.604000	0:52:50.937000
@@ -11222,7 +11222,7 @@ neuesten	-	-	-	0:52:47.604000	0:52:50.937000
 Nachrichten	-	-	-	0:52:47.604000	0:52:50.937000
 ?	-	-	-	0:52:47.604000	0:52:50.937000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:50.937000" end="0:52:59.029000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:50.937000" end="0:52:59.029000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 meistens	-	-	-	0:52:51.966000	0:52:55.026000
 <pause duration="0,5s"/>
@@ -11237,20 +11237,20 @@ meinen	-	-	-	0:52:56.286000	0:52:59.029000
 Newsfeed	-	-	-	0:52:56.286000	0:52:59.029000
 für	-	-	-	0:52:56.286000	0:52:59.029000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:59.029000" end="0:52:59.622000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:59.029000" end="0:52:59.622000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:52:59.029000	0:52:59.622000
 ,	-	-	-	0:52:59.029000	0:52:59.622000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:59.029000" end="0:52:59.730000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:59.029000" end="0:52:59.730000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 mich	-	-	-	0:52:59.029000	0:52:59.622000
 vor	-	-	-	0:52:59.029000	0:52:59.622000
 und	-	-	-	0:52:59.622000	0:52:59.730000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:52:59.730000" end="0:53:00.126000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:52:59.730000" end="0:53:00.126000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:52:59.730000	0:53:00.126000
 .	-	-	-	0:52:59.730000	0:53:00.126000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:52:59.730000" end="0:53:10.620000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:52:59.730000" end="0:53:10.620000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 sortiert	-	-	-	0:52:59.730000	0:53:00.126000
 das	-	-	-	0:53:00.126000	0:53:00.659000
 vor	-	-	-	0:53:00.126000	0:53:00.659000
@@ -11291,11 +11291,11 @@ auf	-	-	-	0:53:07.084000	0:53:10.620000
 den	-	-	-	0:53:07.084000	0:53:10.620000
 ORF	-	-	-	0:53:07.084000	0:53:10.620000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:10.620000" end="0:53:11.813000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:10.620000" end="0:53:11.813000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:10.620000	0:53:11.813000
 .	-	-	-	0:53:10.620000	0:53:11.813000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:10.620000" end="0:53:17.076000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:10.620000" end="0:53:17.076000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Newsfeed	-	-	-	0:53:10.620000	0:53:11.813000
 oder	-	-	-	0:53:10.620000	0:53:11.813000
 sowas	-	-	-	0:53:10.620000	0:53:11.813000
@@ -11313,16 +11313,16 @@ die	-	-	-	0:53:15.796000	0:53:17.076000
 Seite	-	-	-	0:53:15.796000	0:53:17.076000
 vom	-	-	-	0:53:15.796000	0:53:17.076000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:17.076000" end="0:53:17.751000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:17.076000" end="0:53:17.751000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:53:17.076000	0:53:17.751000
 .	-	-	-	0:53:17.076000	0:53:17.751000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:17.076000" end="0:53:17.751000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:17.076000" end="0:53:17.751000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 "Standard"	-	-	-	0:53:17.076000	0:53:17.751000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:17.751000" end="0:53:18.625000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:17.751000" end="0:53:18.625000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:18.625000" end="0:53:34.584000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:18.625000" end="0:53:34.584000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:53:18.625000	0:53:19.581000
 schaue	-	-	-	0:53:18.625000	0:53:19.581000
 ,	-	-	-	0:53:18.625000	0:53:19.581000
@@ -11387,11 +11387,11 @@ ein	-	-	-	0:53:32.690000	0:53:34.584000
 Attentat	-	-	-	0:53:32.690000	0:53:34.584000
 ,	-	-	-	0:53:32.690000	0:53:34.584000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:34.584000" end="0:53:34.827000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:34.584000" end="0:53:34.827000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:53:34.584000	0:53:34.827000
 .	-	-	-	0:53:34.584000	0:53:34.827000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:34.827000" end="0:53:38.847000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:34.827000" end="0:53:38.847000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	-	-	-	0:53:34.827000	0:53:36.991000
 ereignet	-	-	-	0:53:34.827000	0:53:36.991000
@@ -11403,21 +11403,21 @@ später	-	-	-	0:53:36.991000	0:53:38.847000
 posten	-	-	-	0:53:36.991000	0:53:38.847000
 das	-	-	-	0:53:36.991000	0:53:38.847000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:38.847000" end="0:53:39.505000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:38.847000" end="0:53:39.505000" persName="Informant EXP9" age_lower="" age_upper="999">
 das	-	-	-	0:53:38.847000	0:53:39.505000
 stimmt	-	-	-	0:53:38.847000	0:53:39.505000
 ,	-	-	-	0:53:38.847000	0:53:39.505000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:38.847000" end="0:53:39.645000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:38.847000" end="0:53:39.645000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 irgendwelche	-	-	-	0:53:38.847000	0:53:39.505000
 Leute	-	-	-	0:53:38.847000	0:53:39.505000
 auf	-	-	-	0:53:39.505000	0:53:39.645000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:39.645000" end="0:53:40.025000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:39.645000" end="0:53:40.025000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:39.645000	0:53:40.025000
 .	-	-	-	0:53:39.645000	0:53:40.025000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:39.645000" end="0:53:46.771000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:39.645000" end="0:53:46.771000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Twitter	-	-	-	0:53:39.645000	0:53:40.025000
 und	-	-	-	0:53:40.025000	0:53:42.067000
 sechs	-	-	-	0:53:40.025000	0:53:42.067000
@@ -11448,12 +11448,12 @@ Meldungen	-	-	-	0:53:45.100000	0:53:46.771000
 in	-	-	-	0:53:45.100000	0:53:46.771000
 meinem	-	-	-	0:53:45.100000	0:53:46.771000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:46.771000" end="0:53:47.766000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:46.771000" end="0:53:47.766000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:53:46.771000	0:53:47.766000
 .	-	-	-	0:53:46.771000	0:53:47.766000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:46.771000" end="0:53:49.499000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:46.771000" end="0:53:49.499000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Facebookfeed	-	-	-	0:53:46.771000	0:53:47.766000
 und	-	-	-	0:53:46.771000	0:53:47.766000
 denke	-	-	-	0:53:46.771000	0:53:47.766000
@@ -11471,21 +11471,21 @@ ich	-	-	-	0:53:48.452000	0:53:49.499000
 halt	-	-	-	0:53:48.452000	0:53:49.499000
 selbst	-	-	-	0:53:48.452000	0:53:49.499000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:49.499000" end="0:53:50.086000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:49.499000" end="0:53:50.086000" persName="Informant EXP9" age_lower="" age_upper="999">
 s/	-	-	-	0:53:49.499000	0:53:50.086000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:49.499000" end="0:53:50.619000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:49.499000" end="0:53:50.619000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 irgendwo	-	-	-	0:53:49.499000	0:53:50.086000
 nach	-	-	-	0:53:49.499000	0:53:50.086000
 ,	-	-	-	0:53:49.499000	0:53:50.086000
 auf	-	-	-	0:53:50.086000	0:53:50.619000
 irgendwelchen	-	-	-	0:53:50.086000	0:53:50.619000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:50.619000" end="0:53:51.356000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:50.619000" end="0:53:51.356000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:50.619000	0:53:51.356000
 .	-	-	-	0:53:50.619000	0:53:51.356000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:50.619000" end="0:53:55.022000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:50.619000" end="0:53:55.022000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Seiten	-	-	-	0:53:50.619000	0:53:51.356000
 ,	-	-	-	0:53:50.619000	0:53:51.356000
 <pause duration="0,5s"/>
@@ -11508,17 +11508,17 @@ am	-	-	-	0:53:53.604000	0:53:55.022000
 ehesten	-	-	-	0:53:53.604000	0:53:55.022000
 die	-	-	-	0:53:53.604000	0:53:55.022000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:55.022000" end="0:53:55.653000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:55.022000" end="0:53:55.653000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:53:55.022000	0:53:55.653000
 ,	-	-	-	0:53:55.022000	0:53:55.653000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:53:55.022000" end="0:53:56.247000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:53:55.022000" end="0:53:56.247000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 neutrale	-	-	-	0:53:55.022000	0:53:55.653000
 Infos	-	-	-	0:53:55.653000	0:53:56.247000
 her	-	-	-	0:53:55.653000	0:53:56.247000
 .	-	-	-	0:53:55.653000	0:53:56.247000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:53:56.247000" end="0:54:01.901000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:53:56.247000" end="0:54:01.901000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:53:56.247000	0:53:56.824000
 .	-	-	-	0:53:56.247000	0:53:56.824000
 <pause duration="1,7s"/>
@@ -11535,7 +11535,7 @@ Freizeitgestaltung	-	-	-	0:53:59.732000	0:54:01.901000
 aus	-	-	-	0:53:59.732000	0:54:01.901000
 ?	-	-	-	0:53:59.732000	0:54:01.901000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:01.901000" end="0:54:05.962000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:01.901000" end="0:54:05.962000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:54:01.901000	0:54:03.901000
 ich	-	-	-	0:54:03.901000	0:54:05.962000
@@ -11544,11 +11544,11 @@ recht	-	-	-	0:54:03.901000	0:54:05.962000
 viel	-	-	-	0:54:03.901000	0:54:05.962000
 ,	-	-	-	0:54:03.901000	0:54:05.962000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:05.962000" end="0:54:06.613000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:05.962000" end="0:54:06.613000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:54:05.962000	0:54:06.613000
 .	-	-	-	0:54:05.962000	0:54:06.613000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:06.613000" end="0:54:14.668000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:06.613000" end="0:54:14.668000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 beschäftige	-	-	-	0:54:06.613000	0:54:09.259000
 mich	-	-	-	0:54:06.613000	0:54:09.259000
 viel	-	-	-	0:54:06.613000	0:54:09.259000
@@ -11565,9 +11565,9 @@ sammle	-	-	-	0:54:12.132000	0:54:14.668000
 Turnschuhe	-	-	-	0:54:12.132000	0:54:14.668000
 und	-	-	-	0:54:12.132000	0:54:14.668000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:14.668000" end="0:54:16.482000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:14.668000" end="0:54:16.482000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:14.668000" end="0:54:16.879000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:14.668000" end="0:54:16.879000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 bin	-	-	-	0:54:14.668000	0:54:16.482000
 da	-	-	-	0:54:14.668000	0:54:16.482000
 recht	-	-	-	0:54:14.668000	0:54:16.482000
@@ -11575,26 +11575,26 @@ aktiv	-	-	-	0:54:14.668000	0:54:16.482000
 in	-	-	-	0:54:16.482000	0:54:16.879000
 der	-	-	-	0:54:16.482000	0:54:16.879000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:16.879000" end="0:54:17.767000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:16.879000" end="0:54:17.767000" persName="Informant EXP9" age_lower="" age_upper="999">
 *ist*	-	-	-	0:54:16.879000	0:54:17.767000
 ein	-	-	-	0:54:16.879000	0:54:17.767000
 spannendes	-	-	-	0:54:16.879000	0:54:17.767000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:16.879000" end="0:54:17.767000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:16.879000" end="0:54:17.767000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Szene	-	-	-	0:54:16.879000	0:54:17.767000
 .	-	-	-	0:54:16.879000	0:54:17.767000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:17.767000" end="0:54:19.327000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:17.767000" end="0:54:19.327000" persName="Informant EXP9" age_lower="" age_upper="999">
 Hobby	-	-	-	0:54:17.767000	0:54:18.164000
 .	-	-	-	0:54:17.767000	0:54:18.164000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:18.164000" end="0:54:19.327000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:18.164000" end="0:54:19.327000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:18.164000	0:54:19.327000
 ,	-	-	-	0:54:18.164000	0:54:19.327000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:19.327000" end="0:54:22.106000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:19.327000" end="0:54:22.106000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:19.327000" end="0:54:28.263000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:19.327000" end="0:54:28.263000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 das	-	-	-	0:54:19.327000	0:54:22.106000
 findet	-	-	-	0:54:19.327000	0:54:22.106000
 jeder	-	-	-	0:54:19.327000	0:54:22.106000
@@ -11621,24 +11621,24 @@ ins	-	-	-	0:54:25.550000	0:54:28.263000
 Fitnessstudio	-	-	-	0:54:25.550000	0:54:28.263000
 .	-	-	-	0:54:25.550000	0:54:28.263000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:28.263000" end="0:54:28.780000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:28.263000" end="0:54:28.780000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:54:28.263000	0:54:28.780000
 .	-	-	-	0:54:28.263000	0:54:28.780000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:28.780000" end="0:54:30.531000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:28.780000" end="0:54:30.531000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 hm	-	-	-	0:54:28.780000	0:54:30.531000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:30.531000" end="0:54:31.763000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:30.531000" end="0:54:31.763000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:30.531000" end="0:54:31.763000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:30.531000" end="0:54:31.763000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:31.763000" end="0:54:32.207000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:31.763000" end="0:54:32.207000" persName="Informant EXP9" age_lower="" age_upper="999">
 und	-	-	-	0:54:31.763000	0:54:32.207000
 /.	-	-	-	0:54:31.763000	0:54:32.207000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:31.763000" end="0:54:32.915000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:31.763000" end="0:54:32.915000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:54:31.763000	0:54:32.207000
 ich	-	-	-	0:54:32.207000	0:54:32.915000
 treffe	-	-	-	0:54:32.207000	0:54:32.915000
@@ -11646,11 +11646,11 @@ mich	-	-	-	0:54:32.207000	0:54:32.915000
 gern	-	-	-	0:54:32.207000	0:54:32.915000
 mit	-	-	-	0:54:32.207000	0:54:32.915000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:32.915000" end="0:54:33.906000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:32.915000" end="0:54:33.906000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:54:32.915000	0:54:33.906000
 .	-	-	-	0:54:32.915000	0:54:33.906000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:32.915000" end="0:54:39.393000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:32.915000" end="0:54:39.393000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Freund(innen)	-	-	-	0:54:32.915000	0:54:33.906000
 .	-	-	-	0:54:32.915000	0:54:33.906000
 <pause duration="0,9s"/>
@@ -11677,15 +11677,15 @@ ein	-	-	-	0:54:38.465000	0:54:39.393000
 Bier	-	-	-	0:54:38.465000	0:54:39.393000
 oder	-	-	-	0:54:38.465000	0:54:39.393000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:39.393000" end="0:54:40.300000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:39.393000" end="0:54:40.300000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:39.393000" end="0:54:40.300000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:39.393000" end="0:54:40.300000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 auf	-	-	-	0:54:39.393000	0:54:40.300000
 einen	-	-	-	0:54:39.393000	0:54:40.300000
 Spritzer	-	-	-	0:54:39.393000	0:54:40.300000
 .	-	-	-	0:54:39.393000	0:54:40.300000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:40.300000" end="0:54:49.097000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:40.300000" end="0:54:49.097000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:54:40.300000	0:54:40.589000
 .	-	-	-	0:54:40.300000	0:54:40.589000
 und	-	-	-	0:54:40.589000	0:54:42.528000
@@ -11715,7 +11715,7 @@ dann	-	-	-	0:54:46.949000	0:54:49.097000
 doch	-	-	-	0:54:46.949000	0:54:49.097000
 auch	-	-	-	0:54:46.949000	0:54:49.097000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:46.949000" end="0:54:49.097000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:46.949000" end="0:54:49.097000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 nein	-	-	-	0:54:46.949000	0:54:49.097000
 ,	-	-	-	0:54:46.949000	0:54:49.097000
@@ -11723,7 +11723,7 @@ ganz	-	-	-	0:54:46.949000	0:54:49.097000
 unterschiedlich	-	-	-	0:54:46.949000	0:54:49.097000
 .	-	-	-	0:54:46.949000	0:54:49.097000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:49.097000" end="0:54:53.801000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:49.097000" end="0:54:53.801000" persName="Informant EXP9" age_lower="" age_upper="999">
 Personen	-	-	-	0:54:49.097000	0:54:50.689000
 aus	-	-	-	0:54:49.097000	0:54:50.689000
 Steyrling	-	-	-	0:54:49.097000	0:54:50.689000
@@ -11735,7 +11735,7 @@ Umkreis	-	-	-	0:54:50.689000	0:54:53.036000
 Steyrling	-	-	-	0:54:53.036000	0:54:53.801000
 ?	-	-	-	0:54:53.036000	0:54:53.801000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:53.036000" end="0:54:56.280000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:53.036000" end="0:54:56.280000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 am	-	-	-	0:54:53.036000	0:54:53.801000
 Wochenende	-	-	-	0:54:53.036000	0:54:53.801000
 oft	-	-	-	0:54:53.801000	0:54:54.995000
@@ -11749,11 +11749,11 @@ oft	-	-	-	0:54:54.995000	0:54:56.280000
 Leute	-	-	-	0:54:54.995000	0:54:56.280000
 besuchen	-	-	-	0:54:54.995000	0:54:56.280000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:54:56.280000" end="0:54:56.889000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:54:56.280000" end="0:54:56.889000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:54:56.280000	0:54:56.889000
 .	-	-	-	0:54:56.280000	0:54:56.889000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:54:56.280000" end="0:55:12.938000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:54:56.280000" end="0:55:12.938000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 kommen	-	-	-	0:54:56.280000	0:54:56.889000
 ,	-	-	-	0:54:56.280000	0:54:56.889000
 mit	-	-	-	0:54:56.280000	0:54:56.889000
@@ -11810,11 +11810,11 @@ ORT	ORT	-	-	0:55:11.151000	0:55:12.938000
 sind	-	-	-	0:55:11.151000	0:55:12.938000
 ,	-	-	-	0:55:11.151000	0:55:12.938000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:12.938000" end="0:55:13.278000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:12.938000" end="0:55:13.278000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:12.938000	0:55:13.278000
 .	-	-	-	0:55:12.938000	0:55:13.278000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:13.278000" end="0:55:14.874000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:13.278000" end="0:55:14.874000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	-	0:55:13.278000	0:55:14.874000
 halt	-	-	-	0:55:13.278000	0:55:14.874000
 aus	-	-	-	0:55:13.278000	0:55:14.874000
@@ -11823,11 +11823,11 @@ näheren	-	-	-	0:55:13.278000	0:55:14.874000
 Umgebung	-	-	-	0:55:13.278000	0:55:14.874000
 ,	-	-	-	0:55:13.278000	0:55:14.874000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:14.874000" end="0:55:15.637000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:14.874000" end="0:55:15.637000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:55:14.874000	0:55:15.637000
 .	-	-	-	0:55:14.874000	0:55:15.637000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:14.874000" end="0:55:17.937000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:14.874000" end="0:55:17.937000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 also	-	-	-	0:55:14.874000	0:55:15.637000
 halt	-	-	-	0:55:14.874000	0:55:15.637000
 aus	-	-	-	0:55:15.637000	0:55:16.946000
@@ -11839,11 +11839,11 @@ aus	-	-	-	0:55:17.232000	0:55:17.937000
 dem	-	-	-	0:55:17.232000	0:55:17.937000
 ORT	ORT	-	-	0:55:17.232000	0:55:17.937000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:17.937000" end="0:55:18.635000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:17.937000" end="0:55:18.635000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:17.937000	0:55:18.635000
 .	-	-	-	0:55:17.937000	0:55:18.635000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:17.937000" end="0:55:30.824000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:17.937000" end="0:55:30.824000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Gebiet	-	-	-	0:55:17.937000	0:55:18.635000
 .	-	-	-	0:55:17.937000	0:55:18.635000
 <pause duration="0,7s"/>
@@ -11886,11 +11886,11 @@ aus	-	-	-	0:55:28.310000	0:55:30.824000
 den	-	-	-	0:55:28.310000	0:55:30.824000
 ganzen	-	-	-	0:55:28.310000	0:55:30.824000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:30.824000" end="0:55:31.748000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:30.824000" end="0:55:31.748000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:55:30.824000	0:55:31.748000
 .	-	-	-	0:55:30.824000	0:55:31.748000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:30.824000" end="0:55:35.314000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:30.824000" end="0:55:35.314000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 Bundesländern	-	-	-	0:55:30.824000	0:55:31.748000
 <pause duration="0,7s"/>
 und	-	-	-	0:55:31.748000	0:55:34.227000
@@ -11909,11 +11909,11 @@ gerade	-	-	-	0:55:34.227000	0:55:35.314000
 treffe	-	-	-	0:55:34.227000	0:55:35.314000
 .	-	-	-	0:55:34.227000	0:55:35.314000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:35.314000" end="0:55:35.661000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:35.314000" end="0:55:35.661000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:35.314000	0:55:35.661000
 .	-	-	-	0:55:35.314000	0:55:35.661000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:35.661000" end="0:55:38.297000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:35.661000" end="0:55:38.297000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 aber	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:55:35.661000	0:55:36.639000
 ich	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:55:35.661000	0:55:36.639000
 würde	-	-	HöflK KForm KKon KKt KLaut KMark KONJ KPrät KVerb Kperi VV std stdL+ swV würdeK	0:55:35.661000	0:55:36.639000
@@ -11928,18 +11928,18 @@ nur	-	-	-	0:55:36.639000	0:55:38.297000
 mit	-	-	-	0:55:36.639000	0:55:38.297000
 Steyrlingern	-	-	-	0:55:36.639000	0:55:38.297000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:38.297000" end="0:55:38.725000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:38.297000" end="0:55:38.725000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:55:38.297000	0:55:38.725000
 .	-	-	-	0:55:38.297000	0:55:38.725000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:38.297000" end="0:55:39.175000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:38.297000" end="0:55:39.175000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 oder	-	-	-	0:55:38.297000	0:55:38.725000
 nur	-	-	-	0:55:38.297000	0:55:38.725000
 /.	-	-	-	0:55:38.297000	0:55:38.725000
 ja	-	-	-	0:55:38.725000	0:55:39.175000
 .	-	-	-	0:55:38.725000	0:55:39.175000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:39.175000" end="0:55:42.759000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:39.175000" end="0:55:42.759000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:55:39.175000	0:55:40.141000
 .	-	-	-	0:55:39.175000	0:55:40.141000
@@ -11949,11 +11949,11 @@ Sie	-	-	-	0:55:41.306000	0:55:42.759000
 gelegentlich	-	-	-	0:55:41.306000	0:55:42.759000
 ?	-	-	-	0:55:41.306000	0:55:42.759000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:42.759000" end="0:55:43.050000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:42.759000" end="0:55:43.050000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ja	-	-	-	0:55:42.759000	0:55:43.050000
 .	-	-	-	0:55:42.759000	0:55:43.050000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:43.050000" end="0:55:46.336000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:43.050000" end="0:55:46.336000" persName="Informant EXP9" age_lower="" age_upper="999">
 <pause duration="0,6s"/>
 mhm	-	-	-	0:55:43.050000	0:55:43.971000
 ,	-	-	-	0:55:43.050000	0:55:43.971000
@@ -11970,7 +11970,7 @@ Reisen	-	-	-	0:55:44.831000	0:55:46.336000
 so	-	-	-	0:55:44.831000	0:55:46.336000
 ?	-	-	-	0:55:44.831000	0:55:46.336000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:46.336000" end="0:55:50.591000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:46.336000" end="0:55:50.591000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ähm	-	-	-	0:55:46.336000	0:55:47.920000
 meistens	-	-	-	0:55:47.920000	0:55:50.591000
 nach	-	-	-	0:55:47.920000	0:55:50.591000
@@ -11980,11 +11980,11 @@ nach	-	-	-	0:55:47.920000	0:55:50.591000
 Deutschland	-	-	-	0:55:47.920000	0:55:50.591000
 ,	-	-	-	0:55:47.920000	0:55:50.591000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:55:50.591000" end="0:55:51.066000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:55:50.591000" end="0:55:51.066000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:55:50.591000	0:55:51.066000
 .	-	-	-	0:55:50.591000	0:55:51.066000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:55:51.066000" end="0:56:00.413000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:55:51.066000" end="0:56:00.413000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:55:51.066000	0:55:53.066000
 im	-	-	-	0:55:53.066000	0:55:54.932000
@@ -12009,11 +12009,11 @@ das	-	-	-	0:55:59.181000	0:56:00.413000
 häufigste	-	-	-	0:55:59.181000	0:56:00.413000
 ,	-	-	-	0:55:59.181000	0:56:00.413000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:56:00.413000" end="0:56:00.746000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:56:00.413000" end="0:56:00.746000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:56:00.413000	0:56:00.746000
 .	-	-	-	0:56:00.413000	0:56:00.746000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:56:00.746000" end="0:56:06.940000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:56:00.746000" end="0:56:06.940000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 ansonsten	-	-	-	0:56:00.746000	0:56:04.213000
 halt	-	-	-	0:56:00.746000	0:56:04.213000
 <pause duration="0,5s"/>
@@ -12038,9 +12038,9 @@ ja	-	-	-	0:56:06.135000	0:56:06.758000
 /.	-	-	-	0:56:06.135000	0:56:06.758000
 in	-	-	-	0:56:06.758000	0:56:06.940000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:56:06.940000" end="0:56:07.784000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:56:06.940000" end="0:56:07.784000" persName="Informant EXP9" age_lower="" age_upper="999">
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:56:06.940000" end="0:56:09.854000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:56:06.940000" end="0:56:09.854000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 den	-	-	-	0:56:06.940000	0:56:07.784000
 <pause duration="0,6s"/>
 in	-	-	-	0:56:08.469000	0:56:09.854000
@@ -12048,13 +12048,13 @@ den	-	-	-	0:56:08.469000	0:56:09.854000
 Ostblock	-	-	-	0:56:08.469000	0:56:09.854000
 .	-	-	-	0:56:08.469000	0:56:09.854000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:56:09.854000" end="0:56:10.427000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:56:09.854000" end="0:56:10.427000" persName="Informant EXP9" age_lower="" age_upper="999">
 mhm	-	-	-	0:56:09.854000	0:56:10.427000
 ,	-	-	-	0:56:09.854000	0:56:10.427000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:56:09.854000" end="0:56:10.427000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:56:09.854000" end="0:56:10.427000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:56:10.427000" end="0:56:23.093000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:56:10.427000" end="0:56:23.093000" persName="Informant EXP9" age_lower="" age_upper="999">
 ja	-	-	-	0:56:10.427000	0:56:11.243000
 .	-	-	-	0:56:10.427000	0:56:11.243000
 <pause duration="0,9s"/>
@@ -12104,14 +12104,14 @@ ergänzen	-	-	-	0:56:21.440000	0:56:23.093000
 möchten	-	-	-	0:56:21.440000	0:56:23.093000
 ?	-	-	-	0:56:21.440000	0:56:23.093000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:56:23.093000" end="0:56:24.916000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:56:23.093000" end="0:56:24.916000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ich	-	-	-	0:56:24.278000	0:56:24.916000
 glaube	-	-	-	0:56:24.278000	0:56:24.916000
 nicht	-	-	-	0:56:24.278000	0:56:24.916000
 .	-	-	-	0:56:24.278000	0:56:24.916000
 </u>
-<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" start="0:56:24.916000" end="0:56:30.018000" persName="Informant EXP9">
+<u who="spk_624" sex="female" age="UNK" name="Informant EXP9" location="UNK" lat="None" lon="None" start="0:56:24.916000" end="0:56:30.018000" persName="Informant EXP9" age_lower="" age_upper="999">
 gut	-	-	-	0:56:24.916000	0:56:25.652000
 ,	-	-	-	0:56:24.916000	0:56:25.652000
 dann	-	-	-	0:56:25.652000	0:56:28.018000
@@ -12124,7 +12124,7 @@ das	-	-	-	0:56:25.652000	0:56:28.018000
 spannende	-	-	-	0:56:25.652000	0:56:28.018000
 Gespräch	-	-	-	0:56:25.652000	0:56:28.018000
 </u>
-<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" start="0:56:28.018000" end="0:56:30.018000" persName="Informant 0632">
+<u who="spk_245" sex="female" age="jung (18-35) +matura" name="Informant 0632" location="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" lat="47.8061192" lon="14.1296505" start="0:56:28.018000" end="0:56:30.018000" persName="Informant 0632" residence="Steyrling, Kirchdorf an der Krems, Oberösterreich, Österreich" age_lower="18" age_upper="35">
 danke	-	-	-	0:56:28.018000	0:56:30.018000
 auch	-	-	-	0:56:28.018000	0:56:30.018000
 .	-	-	-	0:56:28.018000	0:56:30.018000

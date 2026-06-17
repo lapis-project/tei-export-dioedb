@@ -1,12 +1,12 @@
 <doc id="transcript_317" name="0292_TUXT_jungI_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="317.xml" title="Transcript: Transcript_317">
-<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" start="0:00:36.100000" end="0:00:38.280000" persName="Informant 0292">
+<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:36.100000" end="0:00:38.280000" persName="Informant 0292" residence="Tux, Schwaz, Tirol, 6293, Österreich" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:36.100000	0:00:38.280000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:00:36.100000" end="0:00:38.280000" persName="Informant EXP3">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:36.100000" end="0:00:38.280000" persName="Informant EXP3" age_lower="" age_upper="999">
 XXX	-	-	-	0:00:36.100000	0:00:38.280000
 </u>
-<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" start="0:00:36.100000" end="0:01:24.273000" persName="Informant 0292">
+<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:36.100000" end="0:01:24.273000" persName="Informant 0292" residence="Tux, Schwaz, Tirol, 6293, Österreich" age_lower="18" age_upper="35">
 und	-	-	-	0:00:36.100000	0:00:38.280000
 Sonne	-	-	-	0:00:36.100000	0:00:38.280000
 .	-	-	-	0:00:36.100000	0:00:38.280000
@@ -139,10 +139,10 @@ der	-	-	-	0:01:19.466000	0:01:24.273000
 Stärkere	-	-	k kReal kVar L LautNach LautVor Ons Ons- Vpal	0:01:19.466000	0:01:24.273000
 war	-	-	-	0:01:19.466000	0:01:24.273000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" start="0:01:24.273000" end="0:01:26.626000" persName="Informant EXP3">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:01:24.273000" end="0:01:26.626000" persName="Informant EXP3" age_lower="" age_upper="999">
 XXX	-	-	-	0:01:24.273000	0:01:26.626000
 </u>
-<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" start="0:01:24.273000" end="0:01:26.626000" persName="Informant 0292">
+<u who="spk_369" sex="male" age="jung (18-35) -matura" name="Informant 0292" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:01:24.273000" end="0:01:26.626000" persName="Informant 0292" residence="Tux, Schwaz, Tirol, 6293, Österreich" age_lower="18" age_upper="35">
 XXX	-	-	-	0:01:24.273000	0:01:26.626000
 </u>
 </file>
