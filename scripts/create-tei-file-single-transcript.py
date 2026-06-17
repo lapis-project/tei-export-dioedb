@@ -298,7 +298,7 @@ def generate_standoff_informants_file(
 ):
     """
     Generates the standoff personography file from a list of informant dictionaries.
-    Checks if the file already exists; if so, appends new informants.
+    Checks if the file already exists; if so, appends new informants and locations.
     """
     if not informants_data:
         print("Warning: No informant data to process for standoff file.")
@@ -308,31 +308,73 @@ def generate_standoff_informants_file(
     if os.path.exists(output_filename):
         print(f"ℹ️  Checking existing standoff file: {output_filename}")
         try:
-            # Use a parser that removes blank text to avoid indentation mess on append
             parser = etree.XMLParser(remove_blank_text=True)
             tree = etree.parse(output_filename, parser)
             root = tree.getroot()
 
             ns = {"tei": TEI_NS}
-            # Find listPerson with namespace
-            list_person = root.find(".//tei:listPerson", namespaces=ns)
 
-            # Fallback if not found with namespace
+            # --- FIND OR CREATE CORE LISTS ---
+            standoff = root.find(".//tei:standOff", namespaces=ns)
+            if standoff is None:
+                standoff = root.find(".//standOff")
+
+            list_person = root.find(".//tei:listPerson", namespaces=ns)
             if list_person is None:
                 list_person = root.find(".//listPerson")
 
-            if list_person is not None:
-                existing_ids = set()
-                # Check existing person IDs
+            list_place = root.find(".//tei:listPlace", namespaces=ns)
+            if list_place is None:
+                list_place = root.find(".//listPlace")
+                # If list_place doesn't exist but standoff does, create it
+                if list_place is None and standoff is not None:
+                    list_place = etree.SubElement(standoff, "listPlace")
+                    list_place.set(f"{{{XML_NS}}}id", "project_locations")
+
+            if list_person is not None and list_place is not None:
+                # --- TRACK EXISTING IDs TO AVOID DUPLICATES ---
+                existing_person_ids = set()
                 for person in list_person.findall(".//tei:person", namespaces=ns):
                     pid = person.get(f"{{{XML_NS}}}id")
                     if pid:
-                        existing_ids.add(pid)
+                        existing_person_ids.add(pid)
 
-                added_count = 0
+                existing_loc_ids = set()
+                for place in list_place.findall(".//tei:place", namespaces=ns):
+                    loc_id = place.get(f"{{{XML_NS}}}id")
+                    if loc_id:
+                        existing_loc_ids.add(loc_id)
+
+                added_person_count = 0
+                added_loc_count = 0
+
+                # --- APPEND NEW DATA ---
                 for informant in informants_data:
                     pid = f'spk_{informant["id"]}'
-                    if pid not in existing_ids:
+                    loc_id = f'loc_{informant["osm_id"]}'
+
+                    # 1. Append Location (if new)
+                    if loc_id not in existing_loc_ids:
+                        place = etree.SubElement(list_place, "place")
+                        place.set(f"{{{XML_NS}}}id", loc_id)
+
+                        etree.SubElement(place, "placeName", type="full").text = (
+                            informant["ort_namelang"]
+                        )
+                        etree.SubElement(place, "placeName", type="short").text = (
+                            informant["ort_namekurz"]
+                        )
+
+                        location_elem = etree.SubElement(place, "location")
+                        etree.SubElement(location_elem, "geo").text = (
+                            f"{informant['lat']} {informant['lon']}"
+                        )
+
+                        existing_loc_ids.add(loc_id)
+                        added_loc_count += 1
+
+                    # 2. Append Person (if new)
+                    if pid not in existing_person_ids:
                         person = etree.SubElement(list_person, "person")
                         person.set(f"{{{XML_NS}}}id", pid)
                         etree.SubElement(person, "persName").text = (
@@ -341,6 +383,13 @@ def generate_standoff_informants_file(
                         etree.SubElement(person, "sex").set(
                             "value", str(informant.get("gender", "unknown"))
                         )
+
+                        # Dynamic reference to the location ID
+                        residence = etree.Element("residence", ref=f"#{loc_id}")
+                        place_name = etree.SubElement(residence, "placeName")
+                        place_name.text = informant["ort_namelang"]
+                        person.append(residence)
+
                         if informant.get("age_group"):
                             etree.SubElement(person, "age").text = informant.get(
                                 "age_group"
@@ -349,9 +398,10 @@ def generate_standoff_informants_file(
                             etree.SubElement(
                                 etree.SubElement(person, "note"), "p"
                             ).text = informant.get("comment")
-                        added_count += 1
 
-                if added_count > 0:
+                        added_person_count += 1
+
+                if added_person_count > 0 or added_loc_count > 0:
                     tree.write(
                         output_filename,
                         pretty_print=True,
@@ -359,14 +409,16 @@ def generate_standoff_informants_file(
                         encoding="UTF-8",
                     )
                     print(
-                        f"✅ Appended {added_count} new informants to {output_filename}"
+                        f"✅ Appended {added_person_count} persons and {added_loc_count} locations to {output_filename}"
                     )
                 else:
-                    print(f"ℹ️  No new informants to add to {output_filename}")
-                return  # Done appending
+                    print(
+                        f"ℹ️  No new informants or locations to add to {output_filename}"
+                    )
+                return
             else:
                 print(
-                    "⚠️  Existing file found but <listPerson> missing. creating new file."
+                    "⚠️  Existing file found but core lists missing. Creating new file."
                 )
 
         except Exception as e:
@@ -374,40 +426,81 @@ def generate_standoff_informants_file(
                 f"❌ Error parsing existing file {output_filename}: {e}. Overwriting/Creating new."
             )
 
-    # Create new file (Original Logic)
+    # --- CREATE NEW FILE (Original Logic + Locations) ---
     personography_root = etree.Element("TEI", nsmap=NS_MAP)
     tei_header = etree.SubElement(personography_root, "teiHeader")
     file_desc = etree.SubElement(tei_header, "fileDesc")
     title_stmt = etree.SubElement(file_desc, "titleStmt")
     etree.SubElement(title_stmt, "title").text = "Standoff Personography for Project"
+
     pub_stmt = etree.SubElement(file_desc, "publicationStmt")
     etree.SubElement(pub_stmt, "p").text = "Not for publication."
+
     source_desc = etree.SubElement(file_desc, "sourceDesc")
     etree.SubElement(source_desc, "p").text = (
         "Data derived from project's informant database."
     )
+
     standoff = etree.SubElement(personography_root, "standOff")
+
     list_person = etree.SubElement(standoff, "listPerson")
     list_person.set(f"{{{XML_NS}}}id", "project_informants")
 
+    list_place = etree.SubElement(standoff, "listPlace")
+    list_place.set(f"{{{XML_NS}}}id", "project_locations")
+
+    existing_loc_ids = set()
+
     for informant in informants_data:
+        pid = f'spk_{informant["id"]}'
+        loc_id = f'loc_{informant["osm_id"]}'
+
+        # 1. Create Location (if not already created for another informant)
+        if loc_id not in existing_loc_ids:
+            place = etree.SubElement(list_place, "place")
+            place.set(f"{{{XML_NS}}}id", loc_id)
+
+            etree.SubElement(place, "placeName", type="full").text = informant[
+                "ort_namelang"
+            ]
+            etree.SubElement(place, "placeName", type="short").text = informant[
+                "ort_namekurz"
+            ]
+
+            location_elem = etree.SubElement(place, "location")
+            etree.SubElement(location_elem, "geo").text = (
+                f"{informant['lat']} {informant['lon']}"
+            )
+
+            existing_loc_ids.add(loc_id)
+
+        # 2. Create Person
         person = etree.SubElement(list_person, "person")
-        person.set(f"{{{XML_NS}}}id", f'spk_{informant["id"]}')
+        person.set(f"{{{XML_NS}}}id", pid)
         etree.SubElement(person, "persName").text = f"Informant {informant['sigle']}"
         etree.SubElement(person, "sex").set(
             "value", str(informant.get("gender", "unknown"))
         )
+
+        residence = etree.Element("residence", ref=f"#{loc_id}")
+        place_name = etree.SubElement(residence, "placeName")
+        place_name.text = informant["ort_namelang"]
+        person.append(residence)
+
         if informant.get("age_group"):
             etree.SubElement(person, "age").text = informant.get("age_group")
         if informant.get("comment"):
             etree.SubElement(etree.SubElement(person, "note"), "p").text = (
                 informant.get("comment")
             )
+
     tree = etree.ElementTree(personography_root)
     tree.write(
         output_filename, pretty_print=True, xml_declaration=True, encoding="UTF-8"
     )
-    print(f"✅ Generated standoff file: {output_filename}")
+    print(
+        f"✅ Generated standoff file with {len(informants_data)} persons and {len(existing_loc_ids)} locations: {output_filename}"
+    )
 
 
 def load_dioe_tags(filepath):

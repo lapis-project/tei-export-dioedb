@@ -21,6 +21,23 @@ def load_speaker_data(standoff_path):
 
     try:
         tree = etree.parse(standoff_path)
+
+        locations_lookup = {}
+
+        # Iterate through the places
+        for place in tree.xpath("//tei:place", namespaces=NS):
+            loc_id = place.get(f"{{{NS['xml']}}}id")
+            if not loc_id:
+                continue
+
+            # Extract the <geo> text (e.g., "48.2082 16.3738")
+            geo_node = place.xpath("tei:location/tei:geo/text()", namespaces=NS)
+            if geo_node:
+                # Split the string by the space to separate lat and lon
+                coords = geo_node[0].strip().split()
+                if len(coords) >= 2:
+                    locations_lookup[loc_id] = {"lat": coords[0], "lon": coords[1]}
+
         # Iterate over all person entries
         for person in tree.xpath("//tei:person", namespaces=NS):
             pid = person.get(f"{{{NS['xml']}}}id")
@@ -32,10 +49,32 @@ def load_speaker_data(standoff_path):
             age_node = person.xpath("tei:age/text()", namespaces=NS)
             name_node = person.xpath("tei:persName/text()", namespaces=NS)
 
+            residence_name_node = person.xpath(
+                "tei:residence/tei:placeName/text()", namespaces=NS
+            )
+            residence_ref_node = person.xpath("tei:residence/@ref", namespaces=NS)
+
+            # Clean the ID (remove the '#')
+            loc_id = (
+                residence_ref_node[0].replace("#", "") if residence_ref_node else "UNK"
+            )
+
+            lat = "UNK"
+            lon = "UNK"
+            if loc_id in locations_lookup:
+                lat = locations_lookup[loc_id]["lat"]
+                lon = locations_lookup[loc_id]["lon"]
+
             data[pid] = {
                 "sex": sex_node[0] if sex_node else "UNK",
                 "age": age_node[0].strip() if age_node else "UNK",
                 "name": name_node[0].strip() if name_node else "UNK",
+                "residence": (
+                    residence_name_node[0].strip() if residence_name_node else "UNK"
+                ),
+                "loc_id": loc_id,
+                "lat": lat,
+                "lon": lon,
             }
     except Exception as e:
         print(f"Error reading standoff file: {e}")
@@ -148,10 +187,13 @@ def convert_to_vertical(tei_dir, standoff_file, output_dir):
                     s_sex = spk_info["sex"].replace("\t", " ")
                     s_age = spk_info["age"].replace("\t", " ")
                     s_name = spk_info["name"].replace("\t", " ")
+                    s_loc_name = spk_info["residence"]
+                    s_loc_lat = spk_info["lat"]
+                    s_loc_lon = spk_info["lon"]
 
                     # Write enriched structural tag
                     f_out.write(
-                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" start="{u_start}" end="{u_end}">\n'
+                        f'<u who="{who_ref}" sex="{s_sex}" age="{s_age}" name="{s_name}" location="{s_loc_name}" lat="{s_loc_lat}" lon="{s_loc_lon}" start="{u_start}" end="{u_end}">\n'
                     )
 
                     # Process Tokens (w, pc, pause)

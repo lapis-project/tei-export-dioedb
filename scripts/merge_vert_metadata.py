@@ -3,7 +3,7 @@ Merge standoff metadata into .vert files for NoSketch Engine.
 
 Assumes every .vert file already contains a <doc> tag at the top.
 The script merges transcript metadata into the existing <doc> tag and
-injects speaker metadata into every <u> tag.
+injects speaker metadata into every <u> tag, including parsed age boundaries.
 
 Usage:
     python merge_vert_metadata.py \
@@ -47,6 +47,7 @@ def load_csv_as_dict(csv_path, key_column):
 
 _U_TAG_RE = re.compile(r"<u\b([^>]*)>")
 _DOC_TAG_RE = re.compile(r"<doc\b([^>]*)>")
+_AGE_RE = re.compile(r"(\((\d+\+)\)|(\d+\-\d+))")
 
 
 def parse_attrs(attr_str: str) -> dict:
@@ -67,6 +68,29 @@ def escape_xml_attr(value: str) -> str:
         .replace("<", "&lt;")
         .replace(">", "&gt;")
     )
+
+
+def parse_age_bounds(age_str: str):
+    """
+    Extract age_lower and age_upper bounds from a raw age string using
+    the regex: (\((\d+\+)\)|(\d+\-\d+)).
+    """
+    age_lower, age_upper = "", ""
+    if not age_str:
+        return age_lower, age_upper
+
+    m = _AGE_RE.search(age_str)
+    if m:
+        if m.group(2):  # Matches "60+"
+            age_lower = m.group(2).replace("+", "")
+        elif m.group(3):  # Matches  "45-59"
+            parts = m.group(3).split("-")
+            if len(parts) == 2:
+                age_lower = parts[0]
+                age_upper = parts[1]
+    print(age_lower)
+    print(age_upper)
+    return age_lower, age_upper
 
 
 # ---------------------------------------------------------------------------
@@ -190,6 +214,16 @@ def main():
     # --- Load metadata ---
     print(f"📄 Loading speaker metadata from {args.informants_csv}...")
     speakers = load_csv_as_dict(args.informants_csv, key_column="id")
+
+    # Process age boundaries for all loaded speakers
+    for spk_data in speakers.values():
+        age_str = spk_data.get("age", "")
+        age_lower, age_upper = parse_age_bounds(age_str)
+        # Empty string will be cast into 0 by the NoSke
+        spk_data["age_lower"] = age_lower
+        # If empty string => take 999
+        spk_data["age_upper"] = age_upper if age_upper else "999"
+
     print(f"   Loaded {len(speakers)} speakers.")
 
     print(f"📄 Loading transcript metadata from {args.transcripts_csv}...")
