@@ -30,10 +30,7 @@ STRUCTURE doc {
     ATTRIBUTE title
     ATTRIBUTE erhebung
     ATTRIBUTE erhebungsart
-    ATTRIBUTE ort_namekurz
-    ATTRIBUTE ort_namelang
-    ATTRIBUTE lat
-    ATTRIBUTE lon
+    ATTRIBUTE name
 }
 STRUCTURE file {
     ATTRIBUTE id
@@ -47,6 +44,17 @@ STRUCTURE u {
     ATTRIBUTE name
     ATTRIBUTE start
     ATTRIBUTE end
+    ATTRIBUTE location
+    ATTRIBUTE lat
+    ATTRIBUTE lon
+    ATTRIBUTE age_lower {
+        TYPE "INT"
+        NUMERIC "1"
+    }
+    ATTRIBUTE age_upper {
+        TYPE "INT"
+        NUMERIC "1"
+    }
 }
 STRUCTURE pause {
     ATTRIBUTE duration
